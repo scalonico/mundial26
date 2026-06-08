@@ -1,5 +1,7 @@
 # Mundial 26 — World Cup 2026 bracket & guide
 
+### 🔗 Live: **[mundial26-wc.streamlit.app](https://mundial26-wc.streamlit.app)**
+
 **Mundial 26** is an interactive companion for the **2026 World Cup** — the first 48-team edition (Canada · Mexico · USA, June 11 – July 19, 2026).
 
 - **Groups** — all 12 groups with live-ready standings
