@@ -755,7 +755,26 @@ WCH_CSS = """<style>
 .wch-mt .tm.r { justify-content:flex-end; text-align:right; }
 .wch-mt .tm img { width:21px; height:14px; object-fit:cover; border-radius:2px; flex:0 0 auto; }
 .wch-mt .tm span { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-.wch-mt .st { color:#7e8ba5; font-size:.72rem; white-space:nowrap; text-align:right; }
+.wch-mt .st { color:#7e8ba5; font-size:.72rem; white-space:nowrap; text-align:right; overflow:hidden; text-overflow:ellipsis; }
+.wch-edhead { display:flex; align-items:center; flex-wrap:wrap; gap:12px; margin:.2rem 0 .6rem; padding:11px 16px;
+    border-radius:13px; background:linear-gradient(150deg,rgba(58,47,0,.30),rgba(22,34,59,.93)); border:1px solid rgba(255,215,0,.26); }
+.wch-edttl { font-size:1.3rem; font-weight:800; color:#fff; letter-spacing:-.5px; }
+.wch-edttl span { color:#9fb2cc; font-weight:600; font-size:.92rem; }
+.wch-edmeta { display:flex; gap:15px; margin-left:auto; align-items:center; color:#cfe0f5; font-size:.85rem; white-space:nowrap; }
+.wch-edmeta b { color:#FFD700; } .wch-edmeta img { height:13px; border-radius:2px; vertical-align:-2px; margin:0 4px 0 2px; }
+.wch-stagehd { color:#6CACE4; font-weight:800; font-size:.98rem; margin:.75rem 0 .35rem; }
+.wch-grpwrap { display:grid; grid-template-columns:repeat(auto-fill,minmax(256px,1fr)); gap:10px; margin:.2rem 0 .5rem; }
+.wch-grp { background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.14); border-radius:11px; padding:8px 11px 9px; }
+.wch-grphd { color:#6CACE4; font-weight:800; font-size:.8rem; margin-bottom:4px; }
+.wch-gt { width:100%; border-collapse:collapse; font-size:.77rem; }
+.wch-gt th { color:#7e8ba5; font-weight:700; font-size:.62rem; text-transform:uppercase; text-align:center; padding:1px 2px; }
+.wch-gt th:first-child { text-align:left; }
+.wch-gt td { padding:2px 2px; text-align:center; color:#cfe0f5; }
+.wch-gt td.tm { text-align:left; color:#eaf1fb; font-weight:600; white-space:nowrap; overflow:hidden; max-width:130px; }
+.wch-gt td.tm img { width:18px; height:12px; object-fit:cover; border-radius:2px; margin-right:6px; vertical-align:-1px; }
+.wch-gt td.pts { color:#fff; font-weight:800; }
+.wch-gt tr.lead td { background:rgba(108,172,228,.10); }
+.wch-koround { color:#8aa0bd; font-weight:700; font-size:.78rem; text-transform:uppercase; letter-spacing:.4px; margin:.55rem 0 .25rem; }
 </style>"""
 _STAGE = {"group": "Group", "group-2": "2nd group", "final-round": "Final round", "round-of-16": "Round of 16",
           "quarter-final": "Quarter-final", "semi-final": "Semi-final", "third-place": "3rd place", "final": "Final"}
@@ -783,6 +802,75 @@ with t_history:
                   f"<div class='wch-csc'>def. {c['runner_up']}<br>{c['score']}</div>"
                   f"<div class='wch-chost'>{host}</div></div>")
     st.markdown(f"<div class='wch-champs'>{cards}</div>", unsafe_allow_html=True)
+
+    # ── edition browser — open any past World Cup: groups, knockouts, every match
+    ui.section("🔭 Explore an edition", "open any past World Cup — group tables, knockout results, every match")
+    _hosts = {c["year"]: c["host"] for c in wch.champions()}
+    yrs = list(wch.years())[::-1]
+    ysel = int(st.selectbox("World Cup", yrs, index=0, key="wch_year",
+                            format_func=lambda y: f"{y}  ·  {_hosts.get(int(y), '')}"))
+    ov = wch.edition_overview(ysel)
+
+    def _s(v):                                              # NaN-safe string cell
+        return v if isinstance(v, str) else ""
+
+    def _mt_row(x):
+        pen = (f" <span style='color:#9fb2cc;font-size:.72rem'>({int(x.pens_home)}-{int(x.pens_away)}p)</span>"
+               if pd.notna(x.pens_home) else "")
+        dt = f"{x.date[8:10]}.{x.date[5:7]}" if (isinstance(x.date, str) and len(x.date) == 10) else ""
+        place = _s(x.city) or _s(x.venue)
+        return (f"<div class='wch-mt'><span class='y'>{dt}</span>"
+                f"<div class='tm r'><span>{x.home}</span><img src='{wch.flag_url(x.home)}'></div>"
+                f"<span class='sc'>{x.home_score}–{x.away_score}{pen}</span>"
+                f"<div class='tm'><img src='{wch.flag_url(x.away)}'><span>{x.away}</span></div>"
+                f"<span class='st'>{place}</span></div>")
+
+    def _std_table(stage, g, tbl):
+        head = f"Group {g}" if g else ("Final pool" if stage == "final-round" else "Group")
+        body = ""
+        for i, r in enumerate(tbl.itertuples()):
+            lead = " class='lead'" if i < 2 else ""
+            body += (f"<tr{lead}><td class='tm'><img src='{wch.flag_url(r.team)}'>{r.team}</td>"
+                     f"<td>{r.P}</td><td>{r.W}</td><td>{r.D}</td><td>{r.L}</td>"
+                     f"<td>{r.GF}</td><td>{r.GA}</td><td class='pts'>{r.Pts}</td></tr>")
+        return (f"<div class='wch-grp'><div class='wch-grphd'>{head}</div><table class='wch-gt'>"
+                f"<tr><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th><th>Pts</th></tr>"
+                f"{body}</table></div>")
+
+    cfl = wch.flag_url(ov["champion"], 40) if ov["champion"] else ""
+    champ = f"🏆 <img src='{cfl}'><b>{ov['champion']}</b>" if ov["champion"] else ""
+    st.markdown(f"<div class='wch-edhead'><div class='wch-edttl'>{ysel} <span>· {ov['host']}</span></div>"
+                f"<div class='wch-edmeta'><span>{champ}</span><span>{ov['matches']} matches</span>"
+                f"<span>{ov['goals']} goals</span></div></div>", unsafe_allow_html=True)
+
+    gts = wch.edition_group_tables(ysel)
+    _STG = {"group": "⚽ Group stage", "group-2": "⚽ Second group stage", "final-round": "🏆 Final round"}
+    by_stage = {}
+    for stage, g, tbl, gm in gts:
+        by_stage.setdefault(stage, []).append((g, tbl))
+    for stage in ("group", "group-2", "final-round"):
+        if stage in by_stage:
+            st.markdown(f"<div class='wch-stagehd'>{_STG[stage]}</div>", unsafe_allow_html=True)
+            st.markdown("<div class='wch-grpwrap'>"
+                        + "".join(_std_table(stage, g, tbl) for g, tbl in by_stage[stage])
+                        + "</div>", unsafe_allow_html=True)
+
+    kos = wch.edition_knockouts(ysel)
+    if kos:
+        _KO = {"round-of-16": "Round of 16", "quarter-final": "Quarter-finals", "semi-final": "Semi-finals",
+               "third-place": "Third-place play-off", "final": "Final"}
+        st.markdown("<div class='wch-stagehd'>🏆 Knockout stage</div>", unsafe_allow_html=True)
+        for stage, mm in kos:
+            st.markdown(f"<div class='wch-koround'>{_KO.get(stage, stage)}</div>", unsafe_allow_html=True)
+            st.markdown("".join(_mt_row(x) for x in mm.itertuples()), unsafe_allow_html=True)
+
+    if gts:
+        ngm = sum(len(gm) for *_, gm in gts)
+        with st.expander(f"🔎 All {ngm} group-stage matches"):
+            for stage, g, tbl, gm in gts:
+                lbl = f"Group {g}" if g else _STG.get(stage, stage)
+                st.markdown(f"<div class='wch-koround'>{lbl}</div>", unsafe_allow_html=True)
+                st.markdown("".join(_mt_row(x) for x in gm.itertuples()), unsafe_allow_html=True)
 
     ui.section("🏛️ All-time table", "by titles · penalties = draws · West Germany folds into Germany")
     at = wch.all_time_table().copy()

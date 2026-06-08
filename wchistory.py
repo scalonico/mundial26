@@ -64,6 +64,66 @@ def edition_matches(year):
     return matches()[matches()["year"] == year].copy()
 
 
+_PTS_3_FROM = 1994                                   # 3 points for a win since USA 1994 (2 before)
+
+
+def _standings(gm, year):
+    """Group standings from a slice of matches — era-correct points, sorted Pts → GD → GF."""
+    win = 3 if year >= _PTS_3_FROM else 2
+    agg = {}
+    for r in gm.itertuples():
+        for tm, gf, ga in ((r.home, r.home_score, r.away_score), (r.away, r.away_score, r.home_score)):
+            a = agg.setdefault(tm, dict(P=0, W=0, D=0, L=0, GF=0, GA=0, Pts=0))
+            a["P"] += 1
+            a["GF"] += gf
+            a["GA"] += ga
+            if gf > ga:
+                a["W"] += 1
+                a["Pts"] += win
+            elif gf < ga:
+                a["L"] += 1
+            else:
+                a["D"] += 1
+                a["Pts"] += 1
+    rows = [{"team": t, **v, "GD": v["GF"] - v["GA"]} for t, v in agg.items()]
+    return pd.DataFrame(rows).sort_values(["Pts", "GD", "GF"], ascending=False).reset_index(drop=True)
+
+
+def edition_group_tables(year):
+    """[(stage, group, standings_df, matches_df)] for every group-type stage, in order."""
+    df = edition_matches(year)
+    out = []
+    for stage in ("group", "group-2", "final-round"):
+        sub = df[df["stage"] == stage]
+        if sub.empty:
+            continue
+        sub = sub.assign(group=sub["group"].fillna(""))
+        for g in sorted(sub["group"].unique(), key=lambda s: (len(str(s)), str(s))):
+            gm = sub[sub["group"] == g]
+            out.append((stage, str(g), _standings(gm, year), gm.sort_values("date")))
+    return out
+
+
+_KO_ORDER = ("round-of-16", "quarter-final", "semi-final", "third-place", "final")
+
+
+def edition_knockouts(year):
+    """[(stage, matches_df)] for the knockout rounds present, in bracket order."""
+    df = edition_matches(year)
+    return [(s, df[df["stage"] == s].sort_values("date")) for s in _KO_ORDER if (df["stage"] == s).any()]
+
+
+def edition_overview(year):
+    """Headline facts for one edition (champion/host/match & goal totals)."""
+    em = edition_matches(year)
+    c = next((c for c in champions() if c["year"] == int(year)), None)
+    return {"year": int(year), "host": em["host"].iloc[0] if len(em) else "",
+            "matches": len(em),
+            "goals": int(em.home_score.clip(lower=0).sum() + em.away_score.clip(lower=0).sum()),
+            "champion": c["champion"] if c else None, "runner_up": c["runner_up"] if c else None,
+            "score": c["score"] if c else ""}
+
+
 def _match_winner(r):
     """Winner of a match (knockout-decisive): goals, else the shootout. None for a true draw."""
     if r.home_score > r.away_score:
