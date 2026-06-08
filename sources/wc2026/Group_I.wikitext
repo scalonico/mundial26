@@ -1,0 +1,408 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group I''' of the [[2026 FIFA World Cup]] will take place from June 16 to 26, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[France national football team|France]], [[Senegal national football team|Senegal]], [[Iraq national football team|Iraq]], and [[Norway national football team|Norway]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| I1 || style=white-space:nowrap | {{#invoke:flag|fb|FRA}} || 1 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group D|UEFA Group D]] winner || November 13, 2025 || 17th || [[2022 FIFA World Cup|2022]] || data-sort-value="8.2" | '''Winner''' ([[1998 FIFA World Cup|1998]], [[2018 FIFA World Cup|2018]]) || 3 ||
+|-
+| I2 || style=white-space:nowrap | {{#invoke:flag|fb|SEN}} || 2 || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification – CAF Group B|CAF Group B]] winner || October 14, 2025 || 4th || [[2022 FIFA World Cup|2022]] || data-sort-value="4.1" | Quarterfinals ([[2002 FIFA World Cup|2002]]) || 19 ||
+|-
+| I3 || style=white-space:nowrap | {{#invoke:flag|fb|IRQ}} || 4{{refn|group=nb|name=Placeholder|As the identity of the [[2026 FIFA World Cup qualification (inter-confederation play-offs)#Pathway 2|inter-confederation playoff Path 2]] winner was not known at the time of the final draw, positions in the FIFA Rankings were not taken into account, and the placeholder in the draw was automatically seeded into pot 4.<ref name="draw procedure"/>}} || [[Asian Football Confederation|AFC]] || [[2026 FIFA World Cup qualification (inter-confederation play-offs)#Pathway 2|Inter-confederation playoff Path 2]] winner || March 31, 2026 || 2nd || [[1986 FIFA World Cup|1986]] || data-sort-value="2.1" | Group stage ([[1986 FIFA World Cup|1986]]) || 58{{refn|group=nb|name=Placeholder}} ||
+|-
+| I4 || style=white-space:nowrap | {{#invoke:flag|fb|NOR}} || 3 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group I|UEFA Group I]] winner || November 16, 2025 || 4th || [[1998 FIFA World Cup|1998]] || data-sort-value="3.1" | Round of 16 ([[1998 FIFA World Cup|1998]]) || 29 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group I}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group I will advance to play the third-placed team of [[2026 FIFA World Cup Group C|Group C]], [[2026 FIFA World Cup Group D|Group D]], [[2026 FIFA World Cup Group F|Group F]], [[2026 FIFA World Cup Group G|Group G]], or [[2026 FIFA World Cup Group H|Group H]].
+* The runner-up of Group I will advance to play the runner-up of [[2026 FIFA World Cup Group E|Group E]].
+* The third-placed team of Group I might advance to play the winner of [[2026 FIFA World Cup Group A|Group A]], [[2026 FIFA World Cup Group B|Group B]], [[2026 FIFA World Cup Group D|Group D]], [[2026 FIFA World Cup Group G|Group G]], [[2026 FIFA World Cup Group K|Group K]], or [[2026 FIFA World Cup Group L|Group L]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local, [[UTC−04:00|UTC−4]] ([[Eastern Time Zone|EDT]]).<ref name="match schedule"/>
+
+===France vs Senegal===
+The teams have only met once prior, when Senegal defeated defending champions France 1–0 in a major upset at [[2002 FIFA World Cup Group A#France vs Senegal|the opening match]] of the [[2002 FIFA World Cup]].<ref>{{cite web|title=France national football team: record v Senegal|url=https://www.11v11.com/teams/france/tab/opposingTeams/opposition/Senegal|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=I1 />{{#invoke:football box|main
+|date={{Start date|2026|6|16}}
+|time=3:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|FRA}}
+|score={{score link|2026 FIFA World Cup Group I#France vs Senegal|Match 17}}
+|team2={{#invoke:flag|fb|SEN}}
+|goals1=
+|goals2=
+|stadium=[[MetLife Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490 "France vs Senegal {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=I1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fra26H
+ |pattern_b  = _fra26H
+ |pattern_ra = _fra26H
+ |pattern_sh = _fra26h
+ |pattern_so = _liverpool0405h
+ |leftarm    = 1F14DE
+ |body       = 1F14DE
+ |rightarm   = 1F14DE
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = France
+}}
+|{{Football kit
+ |pattern_la = _sen26h
+ |pattern_b  = _sen26h
+ |pattern_ra = _sen26h
+ |pattern_sh = _sen26A
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 00924f
+ |socks      = FFFFFF
+ |title      = Senegal
+}}
+|}
+
+===Iraq vs Norway===
+The two teams have never met before.
+<section begin=I2 />{{#invoke:football box|main
+|date={{Start date|2026|6|16}}
+|time=6:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|IRQ}}
+|score={{score link|2026 FIFA World Cup Group I#Iraq vs Norway|Match 18}}
+|team2={{#invoke:flag|fb|NOR}}
+|goals1=
+|goals2=
+|stadium=[[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021488 "Iraq vs Norway {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=I2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _iraq26h
+ |pattern_b  = _iraq26h
+ |pattern_ra = _iraq26h
+ |pattern_sh = _jakoteam1819wb
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iraq
+}}
+|{{Football kit
+ |pattern_la = _nor26h
+ |pattern_b  = _nor26h
+ |pattern_ra = _nor26h
+ |pattern_sh = _nor26h3
+ |pattern_so = 
+ |leftarm    = BA0003
+ |body       = BA0003
+ |rightarm   = BA0003
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Norway
+}}
+|}
+
+===France vs Iraq===
+The two teams have never met before.
+<section begin=I3 />{{#invoke:football box|main
+|date={{Start date|2026|6|22}}
+|time=5:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|FRA}}
+|score={{score link|2026 FIFA World Cup Group I#France vs Iraq|Match 42}}
+|team2={{#invoke:flag|fb|IRQ}}
+|goals1=
+|goals2=
+|stadium=[[Lincoln Financial Field]], [[Philadelphia]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021492 "France vs Iraq {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=I3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fra26H
+ |pattern_b  = _fra26H
+ |pattern_ra = _fra26H
+ |pattern_sh = _fra26H
+ |pattern_so = 
+ |leftarm    = 1148A0
+ |body       = 1148A0
+ |rightarm   = 1148A0
+ |shorts     = 1148A0
+ |socks      = 1148A0
+ |title      = France
+}}
+|{{Football kit
+ |pattern_la = _iraq26h
+ |pattern_b  = _iraq26h
+ |pattern_ra = _iraq26h
+ |pattern_sh = _jakoteam1819wb
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iraq
+}}
+|}
+
+===Norway vs Senegal===
+The teams previously faced each other once in 2006, a friendly won 2–1 by Senegal.<ref>{{cite web|title=Norway national football team: record v Senegal|url=https://www.11v11.com/teams/norway/tab/opposingTeams/opposition/Senegal|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=I4 />{{#invoke:football box|main
+|date={{Start date|2026|6|22}}
+|time=8:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|NOR}}
+|score={{score link|2026 FIFA World Cup Group I#Norway vs Senegal|Match 41}}
+|team2={{#invoke:flag|fb|SEN}}
+|goals1=
+|goals2=
+|stadium=[[MetLife Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491 "Norway vs Senegal {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=I4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _nor26a
+ |pattern_b  = _nor26a
+ |pattern_ra = _nor26a
+ |pattern_sh = _nor26a
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = Norway
+}}
+|{{Football kit
+ |pattern_la = _sen26h
+ |pattern_b  = _sen26h
+ |pattern_ra = _sen26h
+ |pattern_sh = _sen26h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Senegal
+}}
+|}
+
+===Norway vs France===
+The teams have previously faced each other 16 times, most recently in 2014, a 4–0 win for France in a friendly match.<ref>{{cite web|title=France national football team: record v Norway|url=https://en.fifaranking.net/nations/fra/results/head-to-head/index.php?team=nor|website=en.fifaranking.net|access-date=December 6, 2025}}</ref>
+
+<section begin=I5 />{{#invoke:football box|main
+|date={{Start date|2026|6|26}}
+|time=3:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|NOR}}
+|score={{score link|2026 FIFA World Cup Group I#Norway vs France|Match 61}}
+|team2={{#invoke:flag|fb|FRA}}
+|goals1=
+|goals2=
+|stadium=[[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021489 "Norway vs France {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=I5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _nor26h
+ |pattern_b  = _nor26h
+ |pattern_ra = _nor26h
+ |pattern_sh = _nor26h3
+ |pattern_so = 
+ |leftarm    = BA0003
+ |body       = BA0003
+ |rightarm   = BA0003
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Norway
+}}
+|{{Football kit
+ |pattern_la = _fra26a
+ |pattern_b  = _fra26a
+ |pattern_ra = _fra26a
+ |pattern_sh = _fra26a
+ |pattern_so = _fra26al
+ |leftarm    = bde4d7
+ |body       = bde4d7
+ |rightarm   = bde4d7
+ |shorts     = bde4d7
+ |socks      = bde4d7
+ |title      = France
+}}
+|}
+
+===Senegal vs Iraq===
+The two teams have never met before.
+<section begin=I6 />{{#invoke:football box|main
+|date={{Start date|2026|6|26}}
+|time=3:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|SEN}}
+|score={{score link|2026 FIFA World Cup Group I#Senegal vs Iraq|Match 62}}
+|team2={{#invoke:flag|fb|IRQ}}
+|goals1=
+|goals2=
+|stadium=[[BMO Field]], [[Toronto]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021493 "Senegal vs Iraq {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=I6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sen26h
+ |pattern_b  = _sen26h
+ |pattern_ra = _sen26h
+ |pattern_sh = _sen26h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Senegal
+}}
+|{{Football kit
+ |pattern_la = _iraq26a
+ |pattern_b  = _iraq26a
+ |pattern_ra = _iraq26a
+ |pattern_sh = _iraq26a
+ |pattern_so = 
+ |leftarm    = 009269
+ |body       = 009269
+ |rightarm   = 009269
+ |shorts     = 009269
+ |socks      = 009269
+ |title      = Iraq
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|FRA}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|SEN}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|IRQ}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|NOR}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group I}}
+[[Category:2026 FIFA World Cup group stage|I]]
+[[Category:France at the 2026 FIFA World Cup]]
+[[Category:Senegal at the 2026 FIFA World Cup]]
+[[Category:Norway at the 2026 FIFA World Cup]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:2026 in sports in New Jersey]]
+[[Category:Sports competitions in Foxborough, Massachusetts]]
+[[Category:Soccer competitions in Massachusetts]]
+[[Category:2026 in sports in Massachusetts]]
+[[Category:Soccer in Philadelphia]]
+[[Category:Sports competitions in Philadelphia]]
+[[Category:Soccer competitions in Pennsylvania]]
+[[Category:2026 in sports in Pennsylvania]]
+[[Category:2026 in Philadelphia]]
+[[Category:Soccer competitions in Toronto]]
+[[Category:2026 in sports in Ontario]]
+[[Category:2026 in Toronto]]

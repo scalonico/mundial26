@@ -1,0 +1,412 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group B''' of the [[2026 FIFA World Cup]] will take place from June 12 to 24, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[Canada men's national soccer team|Canada]] (co-host), [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]], [[Qatar national football team|Qatar]], and [[Switzerland national football team|Switzerland]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| B1 || style=white-space:nowrap | {{#invoke:flag|fb|CAN}} || 1 || [[CONCACAF]] || data-sort-value="*" | Co-host || February 14, 2023{{refn|group=nb|Although the [[United 2026 FIFA World Cup bid|United bid]] was selected on June 13, 2018, the automatic berths allocated to the hosts were not confirmed until a decision by the [[FIFA Council]] on February 14, 2023.<ref>{{cite news |url=https://inside.fifa.com/organisation/fifa-council/media-releases/fifa-council-highlights-record-breaking-revenue-in-football |title=FIFA Council highlights record breaking revenue in football |publisher=[[FIFA]] |date=February 14, 2023 |access-date=February 14, 2023 |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214163245/https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-highlights-record-breaking-revenue-in-football |url-status=live}}</ref>}} || 3rd || [[2022 FIFA World Cup|2022]] || data-sort-value="2.2" | Group stage ([[1986 FIFA World Cup|1986]], [[2022 FIFA World Cup|2022]]) || 27 ||
+|-
+| B2 || style=white-space:nowrap | {{#invoke:flag|fb|BIH}} || 4{{refn|group=nb|name=Placeholder|As the identity of the [[2026 FIFA World Cup qualification – UEFA second round#Path A|UEFA second round Path A]] winner was not known at the time of the final draw, positions in the FIFA Rankings were not taken into account, and the placeholder in the draw was automatically seeded into pot 4.<ref name="draw procedure"/>}} || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA second round#Path A|UEFA second round Path A]] winner || March 31, 2026 || 2nd || [[2014 FIFA World Cup|2014]] || data-sort-value="2.1" | Group stage ([[2014 FIFA World Cup|2014]]) || 71{{refn|group=nb|name=Placeholder}} ||
+|-
+| B3 || style=white-space:nowrap | {{#invoke:flag|fb|QAT}} || 3 || [[Asian Football Confederation|AFC]] || [[2026 FIFA World Cup qualification – AFC fourth round#Group A|AFC fourth round Group A]] winner || October 14, 2025 || 2nd || [[2022 FIFA World Cup|2022]] || data-sort-value="1.1" | Group stage ([[2022 FIFA World Cup|2022]]) || 51 ||
+|-
+| B4 || style=white-space:nowrap | {{#invoke:flag|fb|SUI}} || 2 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group B|UEFA Group B]] winner || November 18, 2025 || 13th || [[2022 FIFA World Cup|2022]] || data-sort-value="4.3" | Quarterfinals ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]]) || 17 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group B}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group B will advance to play the third-placed team of [[2026 FIFA World Cup Group E|Group E]], [[2026 FIFA World Cup Group F|Group F]], [[2026 FIFA World Cup Group G|Group G]], [[2026 FIFA World Cup Group I|Group I]], or [[2026 FIFA World Cup Group J|Group J]].
+* The runner-up of Group B will advance to play the runner-up of [[2026 FIFA World Cup Group A|Group A]].
+* The third-placed team of Group B might advance to play the winner of [[2026 FIFA World Cup Group D|Group D]] or [[2026 FIFA World Cup Group E|Group E]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local.<ref name="match schedule"/>
+
+===Canada vs Bosnia and Herzegovina=== 
+The two teams have never met before.
+<section begin=B1 />{{#invoke:football box|main
+|date={{Start date|2026|6|12}}
+|time=3:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|CAN}}
+|score={{score link|2026 FIFA World Cup Group B#Canada vs Bosnia and Herzegovina|Match 3}}
+|team2={{#invoke:flag|fb|BIH}}
+|goals1=
+|goals2=
+|stadium=[[BMO Field]], [[Toronto]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021449 "Canada vs Bosnia and Herzegovina {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=B1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _can26h
+ |pattern_b  = _can26h
+ |pattern_ra = _can26h
+ |pattern_sh = _can26h
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Canada
+}}
+|{{Football kit
+ |pattern_la = _bih26
+ |pattern_b  = _bih26a
+ |pattern_ra = _bih26
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Bosnia and Herzegovina}}
+}}
+|}
+
+===Qatar vs Switzerland===
+Qatar has faced Switzerland previously only once, a 1–0 friendly win in 2018.<ref>{{cite web|title=Qatar national football team: record v Switzerland|url=https://www.11v11.com/teams/qatar/tab/opposingTeams/opposition/Switzerland|website=11v11.com|access-date=December 5, 2025}}</ref>
+
+<section begin=B2 />{{#invoke:football box|main
+|date={{Start date|2026|6|13}}
+|time=12:00&nbsp;p.m. [[UTC−07:00|UTC−7]]
+|team1={{#invoke:flag|fb-rt|QAT}}
+|score={{score link|2026 FIFA World Cup Group B#Qatar vs Switzerland|Match 8}}
+|team2={{#invoke:flag|fb|SUI}}
+|goals1=
+|goals2=
+|stadium=[[Levi's Stadium]], [[Santa Clara, California|Santa Clara]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021447 "Qatar vs Switzerland {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=B2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _qat26h
+ |pattern_b  = _qat26hA
+ |pattern_ra = _qat26h
+ |pattern_sh = _qat26h
+ |pattern_so = _qat26hl
+ |leftarm    = 7c202b
+ |body       = 7c202b
+ |rightarm   = 7c202b
+ |shorts     = 7c202b
+ |socks      = 7c202b
+ |title      = Qatar
+}}
+|{{Football kit
+ |pattern_la = _sui26a
+ |pattern_b  = _sui26a
+ |pattern_ra = _sui26a
+ |pattern_sh = _sui26a
+ |pattern_so = _sui26al
+ |leftarm    = d6e6e5
+ |body       = d6e6e5
+ |rightarm   = d6e6e5
+ |shorts     = d6e6e5
+ |socks      = d6e6e5
+ |title      = Switzerland
+}}
+|}
+
+===Switzerland vs Bosnia and Herzegovina===
+The teams only met in a 2016 friendly, which ended in a 2–0 win for Bosnia.<ref>{{Cite web|url=https://www.11v11.com/teams/bosnia-and-herzegovina/tab/opposingTeams/opposition/Switzerland/|title=Bosnia And Herzegovina national football team: record v Switzerland|website=www.11v11.com}}</ref>
+<section begin=B3 />{{#invoke:football box|main
+|date={{Start date|2026|6|18}}
+|time=12:00&nbsp;p.m. [[UTC−07:00|UTC−7]]
+|team1={{#invoke:flag|fb-rt|SUI}}
+|score={{score link|2026 FIFA World Cup Group B#Switzerland vs Bosnia and Herzegovina|Match 26}}
+|team2={{#invoke:flag|fb|BIH}}
+|goals1=
+|goals2=
+|stadium=[[SoFi Stadium]], [[Inglewood, California|Inglewood]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021446 "Switzerland vs Bosnia and Herzegovina {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=B3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sui26h
+ |pattern_b  = _sui26h
+ |pattern_ra = _sui26h
+ |pattern_sh = _sui26h
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland
+}}
+|{{Football kit
+ |pattern_la = _bih26
+ |pattern_b  = _bih26a
+ |pattern_ra = _bih26
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Bosnia and Herzegovina}}
+}}
+|}
+
+===Canada vs Qatar===
+The teams previously faced each other once in 2022, a friendly won 2–0 by Canada.<ref>{{cite web|title=Canada national football team: record v Qatar|url=https://www.11v11.com/teams/canada/tab/opposingTeams/opposition/Qatar|website=11v11.com|access-date=December 5, 2025}}</ref>
+
+<section begin=B4 />{{#invoke:football box|main
+|date={{Start date|2026|6|18}}
+|time=3:00&nbsp;p.m. [[UTC−07:00|UTC−7]]
+|team1={{#invoke:flag|fb-rt|CAN}}
+|score={{score link|2026 FIFA World Cup Group B#Canada vs Qatar|Match 27}}
+|team2={{#invoke:flag|fb|QAT}}
+|goals1=
+|goals2=
+|stadium=[[BC Place]], [[Vancouver]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021450 "Canada vs Qatar {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=B4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _can26t
+ |pattern_b  = _can26t
+ |pattern_ra = _can26t
+ |pattern_sh = _can26t
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Canada
+}}
+|{{Football kit
+ |pattern_la = _qat26a
+ |pattern_b  = _qat26aA
+ |pattern_ra = _qat26a
+ |pattern_sh = _qat26a
+ |pattern_so = _adidasonwhitel
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 7c202b
+ |title      = Qatar
+}}
+|}
+
+===Switzerland vs Canada===
+The teams' only meeting took place in 2002, a friendly won 3–1 by Canada.<ref>{{cite web|title=Switzerland national football team: record v Canada|url=https://www.11v11.com/teams/switzerland/tab/opposingTeams/opposition/Canada|website=11v11.com|access-date=December 5, 2025}}</ref>
+
+<section begin=B5 />{{#invoke:football box|main
+|date={{Start date|2026|6|24}}
+|time=12:00&nbsp;p.m. [[UTC−07:00|UTC−7]]
+|team1={{#invoke:flag|fb-rt|SUI}}
+|score={{score link|2026 FIFA World Cup Group B#Switzerland vs Canada|Match 51}}
+|team2={{#invoke:flag|fb|CAN}}
+|goals1=
+|goals2=
+|stadium=[[BC Place]], [[Vancouver]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451 "Switzerland vs Canada {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=B5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sui26h
+ |pattern_b  = _sui26h
+ |pattern_ra = _sui26h
+ |pattern_sh = _sui26h
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland
+}}
+|{{Football kit
+ |pattern_la = _can26a
+ |pattern_b  = _can26a
+ |pattern_ra = _can26a
+ |pattern_sh = _can26a
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Canada
+}}
+|}
+
+===Bosnia and Herzegovina vs Qatar===
+The teams have met twice: Qatar won 2–0 in 2000, and their most recent meeting was a 1–1 draw in 2010.<ref>{{cite web |title=Bosnia & Herzegovina vs Qatar H2H Results |url=https://eu-football.info/_matches.php?id=26&oppo=162 |website=eu-football.info |access-date=3 April 2026 |language=en}}</ref>
+<section begin=B6 />{{#invoke:football box|main
+|date={{Start date|2026|6|24}}
+|time=12:00&nbsp;p.m. [[UTC−07:00|UTC−7]]
+|team1={{#invoke:flag|fb-rt|BIH}}
+|score={{score link|2026 FIFA World Cup Group B#Bosnia and Herzegovina vs Qatar|Match 52}}
+|team2={{#invoke:flag|fb|QAT}}
+|goals1=
+|goals2=
+|stadium=[[Lumen Field]], [[Seattle]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448 "Bosnia and Herzegovina vs Qatar {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=B6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bih26
+ |pattern_b  = _bih26h
+ |pattern_ra = _bih26
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 003FBF
+ |body       = 003FBF
+ |rightarm   = 003FBF
+ |shorts     = 001b76
+ |socks      = 001b76
+ |title      = {{nowrap|Bosnia and Herzegovina}}
+}}
+|{{Football kit
+ |pattern_la = _qat26a
+ |pattern_b  = _qat26aA
+ |pattern_ra = _qat26a
+ |pattern_sh = _qat26a
+ |pattern_so = _adidasonwhitel
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 7c202b
+ |title      = Qatar
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|CAN}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|BIH}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|QAT}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|SUI}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+{{2026 in Canadian soccer}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:2026 FIFA World Cup group stage|B]]
+[[Category:Canada at the 2026 FIFA World Cup]]
+[[Category:Bosnia and Herzegovina at the 2026 FIFA World Cup|Group B]]
+[[Category:Qatar at the 2026 FIFA World Cup]]
+[[Category:Switzerland at the 2026 FIFA World Cup]]
+[[Category:Sports competitions in Santa Clara, California]]
+[[Category:Soccer competitions in California]]
+[[Category:2026 in sports in Los Angeles County, California]]
+[[Category:Sports competitions in Inglewood, California]]
+[[Category:Soccer competitions in Los Angeles County, California]]
+[[Category:Soccer in Seattle]]
+[[Category:Sports competitions in Seattle]]
+[[Category:Soccer competitions in Washington (state)]]
+[[Category:2026 in Seattle]]
+[[Category:2026 in sports in Washington (state)]]
+[[Category:Soccer competitions in Toronto]]
+[[Category:2026 in sports in Ontario]]
+[[Category:2026 in sports in British Columbia]]
+[[Category:Soccer competitions in Vancouver]]
+[[Category:2026 in Toronto]]
+[[Category:2026 in Vancouver]]

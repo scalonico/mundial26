@@ -1,0 +1,49 @@
+code,name,group,pos,confederation,iso2,flag
+MEX,Mexico,A,1,CONCACAF,MX,🇲🇽
+RSA,South Africa,A,2,CAF,ZA,🇿🇦
+KOR,South Korea,A,3,AFC,KR,🇰🇷
+CZE,Czechia,A,4,UEFA,CZ,🇨🇿
+CAN,Canada,B,1,CONCACAF,CA,🇨🇦
+BIH,Bosnia and Herzegovina,B,2,UEFA,BA,🇧🇦
+QAT,Qatar,B,3,AFC,QA,🇶🇦
+SUI,Switzerland,B,4,UEFA,CH,🇨🇭
+BRA,Brazil,C,1,CONMEBOL,BR,🇧🇷
+MAR,Morocco,C,2,CAF,MA,🇲🇦
+HAI,Haiti,C,3,CONCACAF,HT,🇭🇹
+SCO,Scotland,C,4,UEFA,GB-SCT,🏴󠁧󠁢󠁳󠁣󠁴󠁿
+USA,United States,D,1,CONCACAF,US,🇺🇸
+PAR,Paraguay,D,2,CONMEBOL,PY,🇵🇾
+AUS,Australia,D,3,AFC,AU,🇦🇺
+TUR,Turkey,D,4,UEFA,TR,🇹🇷
+GER,Germany,E,1,UEFA,DE,🇩🇪
+CUW,Curaçao,E,2,CONCACAF,CW,🇨🇼
+CIV,Ivory Coast,E,3,CAF,CI,🇨🇮
+ECU,Ecuador,E,4,CONMEBOL,EC,🇪🇨
+NED,Netherlands,F,1,UEFA,NL,🇳🇱
+JPN,Japan,F,2,AFC,JP,🇯🇵
+SWE,Sweden,F,3,UEFA,SE,🇸🇪
+TUN,Tunisia,F,4,CAF,TN,🇹🇳
+BEL,Belgium,G,1,UEFA,BE,🇧🇪
+EGY,Egypt,G,2,CAF,EG,🇪🇬
+IRN,Iran,G,3,AFC,IR,🇮🇷
+NZL,New Zealand,G,4,OFC,NZ,🇳🇿
+ESP,Spain,H,1,UEFA,ES,🇪🇸
+CPV,Cape Verde,H,2,CAF,CV,🇨🇻
+KSA,Saudi Arabia,H,3,AFC,SA,🇸🇦
+URU,Uruguay,H,4,CONMEBOL,UY,🇺🇾
+FRA,France,I,1,UEFA,FR,🇫🇷
+SEN,Senegal,I,2,CAF,SN,🇸🇳
+IRQ,Iraq,I,3,AFC,IQ,🇮🇶
+NOR,Norway,I,4,UEFA,NO,🇳🇴
+ARG,Argentina,J,1,CONMEBOL,AR,🇦🇷
+ALG,Algeria,J,2,CAF,DZ,🇩🇿
+AUT,Austria,J,3,UEFA,AT,🇦🇹
+JOR,Jordan,J,4,AFC,JO,🇯🇴
+POR,Portugal,K,1,UEFA,PT,🇵🇹
+COD,DR Congo,K,2,CAF,CD,🇨🇩
+UZB,Uzbekistan,K,3,AFC,UZ,🇺🇿
+COL,Colombia,K,4,CONMEBOL,CO,🇨🇴
+ENG,England,L,1,UEFA,GB-ENG,🏴󠁧󠁢󠁥󠁮󠁧󠁿
+CRO,Croatia,L,2,UEFA,HR,🇭🇷
+GHA,Ghana,L,3,CAF,GH,🇬🇭
+PAN,Panama,L,4,CONCACAF,PA,🇵🇦

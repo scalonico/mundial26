@@ -1,0 +1,416 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group L''' of the [[2026 FIFA World Cup]] will take place from June 17 to 27, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[England national football team|England]], [[Croatia national football team|Croatia]], [[Ghana national football team|Ghana]], and [[Panama national football team|Panama]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| L1 || style=white-space:nowrap | {{#invoke:flag|fb|ENG}} || 1 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group K|UEFA Group K]] winner || October 14, 2025 || 17th || [[2022 FIFA World Cup|2022]] || data-sort-value="8.1" | '''Winner''' ([[1966 FIFA World Cup|1966]]) || 4 ||
+|-
+| L2 || style=white-space:nowrap | {{#invoke:flag|fb|CRO}} || 2 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group L|UEFA Group L]] winner || November 14, 2025 || 7th || [[2022 FIFA World Cup|2022]] || data-sort-value="7.1" | Runner-up ([[2018 FIFA World Cup|2018]]) || 10 ||
+|-
+| L3 || style=white-space:nowrap | {{#invoke:flag|fb|GHA}} || 4 || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification – CAF Group I|CAF Group I]] winner || October 12, 2025 || 5th || [[2022 FIFA World Cup|2022]] || data-sort-value="4.1" | Quarterfinals ([[2010 FIFA World Cup|2010]]) || 72 ||
+|-
+| L4 || style=white-space:nowrap | {{#invoke:flag|fb|PAN}} || 3 || [[CONCACAF]] || [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|CONCACAF Group A]] winner || November 18, 2025 || 2nd || [[2018 FIFA World Cup|2018]] || data-sort-value="1.1" | Group stage ([[2018 FIFA World Cup|2018]]) || 30 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group L}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group L will advance to play the third-placed team of [[2026 FIFA World Cup Group E|Group E]], [[2026 FIFA World Cup Group H|Group H]], [[2026 FIFA World Cup Group I|Group I]], [[2026 FIFA World Cup Group J|Group J]], or [[2026 FIFA World Cup Group K|Group K]].
+* The runner-up of Group L will advance to play the runner-up of [[2026 FIFA World Cup Group K|Group K]].
+* The third-placed team of Group L might advance to play the winner of [[2026 FIFA World Cup Group K|Group K]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local.<ref name="match schedule"/>
+
+===England vs Croatia===
+The teams have previously met in eleven previous matches, including a [[2018 FIFA World Cup knockout stage#Croatia vs England|2–1 semi-final win]] in [[2018 FIFA World Cup|2018]] for Croatia to advance to their first final.<ref>{{cite web|title=England vs. Croatia Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/england_vs_croatia.php|website=thesoccerworldcups.com|access-date=6 December 2025}}</ref> Their most recent meeting was in the [[UEFA Euro 2020]] group stage, with England winning [[UEFA Euro 2020 Group D#England vs Croatia|1–0]].<ref>{{cite web|title=England national football team: record v Croatia|url=https://www.11v11.com/teams/england/tab/opposingTeams/opposition/Croatia|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=L1 />{{#invoke:football box|main
+|date={{Start date|2026|6|17}}
+|time=3:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|ENG}}
+|score={{score link|2026 FIFA World Cup Group L#England vs Croatia|Match 22}}
+|team2={{#invoke:flag|fb|CRO}}
+|goals1=
+|goals2=
+|stadium=[[AT&T Stadium]], [[Arlington, Texas|Arlington]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021507 "England vs Croatia {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=L1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _eng26H
+ |pattern_b  = _eng26H
+ |pattern_ra = _eng26H
+ |pattern_sh = _eng26H
+ |pattern_so = _eng26Hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = England
+}}
+|{{Football kit
+ |pattern_la = _cro26a
+ |pattern_b  = _cro26a
+ |pattern_ra = _cro26a
+ |pattern_sh = _cro26a
+ |pattern_so = 
+ |leftarm    = 000081
+ |body       = 000081
+ |rightarm   = 000081
+ |shorts     = 000081
+ |socks      = 0033F5
+ |title      = Croatia
+}}
+|}
+
+===Ghana vs Panama===
+The two teams have never met before.
+
+<section begin=L2 />{{#invoke:football box|main
+|date={{Start date|2026|6|17}}
+|time=7:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|GHA}}
+|score={{score link|2026 FIFA World Cup Group L#Ghana vs Panama|Match 21}}
+|team2={{#invoke:flag|fb|PAN}}
+|goals1=
+|goals2=
+|stadium=[[BMO Field|Toronto Stadium]], [[Toronto]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021510 "Ghana vs Panama {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=L2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _gha26a
+ |pattern_b  = _gha26a
+ |pattern_ra = _gha26a
+ |pattern_sh = _gha26a
+ |pattern_so = _gha26al
+ |leftarm    = f8cd5c
+ |body       = f8cd5c
+ |rightarm   = f8cd5c
+ |shorts     = f8cd5c
+ |socks      = f8cd5c
+ |title      = Ghana
+}}
+|{{Football kit
+ |pattern_la = _pan26h
+ |pattern_b  = _pan26h
+ |pattern_ra = _pan26h
+ |pattern_sh = _pan26h
+ |pattern_so = _pan26hl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Panama
+}}
+|}
+
+===England vs Ghana===
+England has faced Ghana previously only once, a 1–1 friendly draw in 2011.<ref>{{cite web|title=England national football team: record v Ghana|url=https://www.11v11.com/teams/england/tab/opposingTeams/opposition/Ghana|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=L3 />{{#invoke:football box|main
+|date={{Start date|2026|6|23}}
+|time=4:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|ENG}}
+|score={{score link|2026 FIFA World Cup Group L#England vs Ghana|Match 45}}
+|team2={{#invoke:flag|fb|GHA}}
+|goals1=
+|goals2=
+|stadium=[[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021506 "England vs Ghana {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=L3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _eng26H
+ |pattern_b  = _eng26H
+ |pattern_ra = _eng26H
+ |pattern_sh = _eng26H
+ |pattern_so = _eng26Hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = England
+}}
+|{{Football kit
+ |pattern_la = _gha26a
+ |pattern_b  = _gha26a
+ |pattern_ra = _gha26a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = f8cd5c
+ |body       = f8cd5c
+ |rightarm   = f8cd5c
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Ghana
+}}
+|}
+
+===Panama vs Croatia===
+The two teams have never met before.
+
+<section begin=L4 />{{#invoke:football box|main
+|date={{Start date|2026|6|23}}
+|time=7:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|PAN}}
+|score={{score link|2026 FIFA World Cup Group L#Panama vs Croatia|Match 46}}
+|team2={{#invoke:flag|fb|CRO}}
+|goals1=
+|goals2=
+|stadium=[[BMO Field|Toronto Stadium]], [[Toronto]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021511 "Panama vs Croatia {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=L4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _pan26t
+ |pattern_b  = _pan26t
+ |pattern_ra = _pan26t
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Panama
+}}
+|{{Football kit
+ |pattern_la = _cro26h
+ |pattern_b  = _cro26h
+ |pattern_ra = _cro26h
+ |pattern_sh = _cro26h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Croatia
+}}
+|}
+
+===Panama vs England===
+The teams have only met once before, when England defeated debutant Panama [[2018 FIFA World Cup Group G#England vs Panama|6–1]] in a group stage match of the [[2018 FIFA World Cup]].<ref>{{cite web|title=Panama national football team: record v England|url=https://www.11v11.com/teams/panama/tab/opposingTeams/opposition/England|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=L5 />{{#invoke:football box|main
+|date={{Start date|2026|6|27}}
+|time=5:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|PAN}}
+|score={{score link|2026 FIFA World Cup Group L#Panama vs England|Match 67}}
+|team2={{#invoke:flag|fb|ENG}}
+|goals1=
+|goals2=
+|stadium=[[MetLife Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508 "Panama vs England {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=L5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _pan26a
+ |pattern_b  = _pan26a
+ |pattern_ra = _pan26a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Panama
+}}
+|{{Football kit
+ |pattern_la = _eng26A
+ |pattern_b  = _eng26A
+ |pattern_ra = _eng26A
+ |pattern_sh = _eng26A
+ |pattern_so = _eng26Al
+ |leftarm    = fe080a
+ |body       = fe080a
+ |rightarm   = fe080a
+ |shorts     = 000040
+ |socks      = fe080a
+ |title      = England
+}}
+|}
+
+===Croatia vs Ghana===
+The two teams have never met before.
+
+<section begin=L6 />{{#invoke:football box|main
+|date={{Start date|2026|6|27}}
+|time=5:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|CRO}}
+|score={{score link|2026 FIFA World Cup Group L#Croatia vs Ghana|Match 68}}
+|team2={{#invoke:flag|fb|GHA}}
+|goals1=
+|goals2=
+|stadium=[[Lincoln Financial Field]], [[Philadelphia]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021509 "Croatia vs Ghana {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=L6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cro26h
+ |pattern_b  = _cro26h
+ |pattern_ra = _cro26h
+ |pattern_sh = _cro26h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Croatia
+}}
+|{{Football kit
+ |pattern_la = _gha26a
+ |pattern_b  = _gha26a
+ |pattern_ra = _gha26a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = f8cd5c
+ |body       = f8cd5c
+ |rightarm   = f8cd5c
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Ghana
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|ENG}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|CRO}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|GHA}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|PAN}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group L}}
+[[Category:2026 FIFA World Cup group stage|L]]
+[[Category:England at the 2026 FIFA World Cup]]
+[[Category:Croatia at the 2026 FIFA World Cup]]
+[[Category:Ghana at the 2026 FIFA World Cup]]
+[[Category:Panama at the 2026 FIFA World Cup]]
+[[Category:Soccer competitions in Toronto]]
+[[Category:2026 in sports in Ontario]]
+[[Category:2026 in Toronto]]
+[[Category:Sports competitions in Arlington, Texas]]
+[[Category:Soccer competitions in Texas]]
+[[Category:2026 in sports in Texas]]
+[[Category:21st century in Arlington, Texas]]
+[[Category:Sports competitions in Foxborough, Massachusetts]]
+[[Category:Soccer competitions in Massachusetts]]
+[[Category:2026 in sports in Massachusetts]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:2026 in sports in New Jersey]]
+[[Category:Soccer in Philadelphia]]
+[[Category:Sports competitions in Philadelphia]]
+[[Category:Soccer competitions in Pennsylvania]]
+[[Category:2026 in sports in Pennsylvania]]
+[[Category:2026 in Philadelphia]]

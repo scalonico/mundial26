@@ -1,0 +1,414 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group E''' of the [[2026 FIFA World Cup]] will take place from June 14 to 25, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[Germany national football team|Germany]], [[Curaçao national football team|Curaçao]], [[Ivory Coast national football team|Ivory Coast]], and [[Ecuador national football team|Ecuador]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| E1 || style=white-space:nowrap | {{#invoke:flag|fb|GER}} || 1 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group A|UEFA Group A]] winner || November 17, 2025 || 21st{{refn|group=nb|Germany competed between 1951 and 1990 as West Germany.}} || [[2022 FIFA World Cup|2022]] || data-sort-value="8.4" | '''Winner''' ([[1954 FIFA World Cup|1954]], [[1974 FIFA World Cup|1974]], [[1990 FIFA World Cup|1990]], [[2014 FIFA World Cup|2014]]) || 9 ||
+|-
+| E2 || style=white-space:nowrap | {{#invoke:flag|fb|CUW}} || 4 || [[CONCACAF]] || [[2026 FIFA World Cup qualification – CONCACAF third round#Group B|CONCACAF Group B]] winner || November 18, 2025 || 1st || — || data-sort-value="1" | — || 82 ||
+|-
+| E3 || style=white-space:nowrap | {{#invoke:flag|fb|CIV}} || 3 || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification – CAF Group F|CAF Group F]] winner || October 14, 2025 || 4th || [[2014 FIFA World Cup|2014]] || data-sort-value="1.3" | Group stage ([[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]]) || 42 ||
+|-
+| E4 || style=white-space:nowrap | {{#invoke:flag|fb|ECU}} || 2 || [[CONMEBOL]] || [[2026 FIFA World Cup qualification (CONMEBOL)|CONMEBOL round robin]] runner-up || June 10, 2025 || 5th || [[2022 FIFA World Cup|2022]] || data-sort-value="3.1" | Round of 16 ([[2006 FIFA World Cup|2006]]) || 23 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group E}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group E will advance to play the third-placed team of [[2026 FIFA World Cup Group A|Group A]], [[2026 FIFA World Cup Group B|Group B]], [[2026 FIFA World Cup Group C|Group C]], [[2026 FIFA World Cup Group D|Group D]], or [[2026 FIFA World Cup Group F|Group F]].
+* The runner-up of Group E will advance to play the runner-up of [[2026 FIFA World Cup Group I|Group I]].
+* The third-placed team of Group E might advance to play the winner of [[2026 FIFA World Cup Group A|Group A]], [[2026 FIFA World Cup Group B|Group B]], [[2026 FIFA World Cup Group D|Group D]], [[2026 FIFA World Cup Group G|Group G]], [[2026 FIFA World Cup Group K|Group K]], or [[2026 FIFA World Cup Group L|Group L]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local.<ref name="match schedule"/>
+
+===Germany vs Curaçao===
+The two sides have never met before.
+
+<section begin=E1 />{{#invoke:football box|main
+|date={{Start date|2026|6|14}}
+|time=12:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|GER}}
+|score={{score link|2026 FIFA World Cup Group E#Germany vs Curaçao|Match 10}}
+|team2={{#invoke:flag|fb|CUW}}
+|goals1=
+|goals2=
+|stadium=[[NRG Stadium]], [[Houston]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021464 "Germany vs Curaçao {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=E1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger26h
+ |pattern_b  = _ger26hA
+ |pattern_ra = _ger26h
+ |pattern_sh = _ger26h
+ |pattern_so = _ger26hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany
+}}
+|{{Football kit
+ |pattern_la = _cur26h
+ |pattern_b  = _cur26hA
+ |pattern_ra = _cur26h
+ |pattern_sh = _cur26h2
+ |pattern_so = _cur26hl
+ |leftarm    = 344fc0
+ |body       = 344fc0
+ |rightarm   = 344fc0
+ |shorts     = FFFF00
+ |socks      = 344fc0
+ |title      = Curaçao
+}}
+|}
+
+===Ivory Coast vs Ecuador===
+The two teams have never met before.
+
+<section begin=E2 />{{#invoke:football box|main
+|date={{Start date|2026|6|14}}
+|time=7:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|CIV}}
+|score={{score link|2026 FIFA World Cup Group E#Ivory Coast vs Ecuador|Match 9}}
+|team2={{#invoke:flag|fb|ECU}}
+|goals1=
+|goals2=
+|stadium=[[Lincoln Financial Field]], [[Philadelphia]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021467 "Côte d'Ivoire vs Ecuador {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=E2 />
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _civ26h
+ |pattern_b  = _civ26h
+ |pattern_ra = _civ26h
+ |pattern_sh = _civ26h
+ |pattern_so = 
+ |leftarm    = ff7d1d
+ |body       = ff7d1d
+ |rightarm   = ff7d1d
+ |shorts     = ff7d1d
+ |socks      = ff7d1d
+ |title      = {{nowrap|Ivory Coast}}
+}}
+|{{Football kit
+ |pattern_la = _ecu26a
+ |pattern_b  = _ecu26a
+ |pattern_ra = _ecu26a
+ |pattern_sh = _ecu25a
+ |pattern_so = 
+ |leftarm    = 0D183B
+ |body       = 0D183B
+ |rightarm   = 0D183B
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Ecuador
+}}
+|}
+
+===Germany vs Ivory Coast===
+The teams have previously faced each other once, in a 2009 friendly match that ended in a 2–2 draw.<ref>{{cite web|title=Germany national football team: record v Ivory Coast|url=https://www.11v11.com/teams/germany/tab/opposingTeams/opposition/Ivory%20Coast|website=11v11.com|access-date=5 December 2025}}</ref>
+
+<section begin=E3 />{{#invoke:football box|main
+|date={{Start date|2026|6|20}}
+|time=4:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|GER}}
+|score={{score link|2026 FIFA World Cup Group E#Germany vs Ivory Coast|Match 33}}
+|team2={{#invoke:flag|fb|CIV}}
+|goals1=
+|goals2=
+|stadium=[[BMO Field]], [[Toronto]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021469 "Germany vs Côte d'Ivoire {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=E3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger26h
+ |pattern_b  = _ger26hA
+ |pattern_ra = _ger26h
+ |pattern_sh = _ger26h
+ |pattern_so = _ger26hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany
+}}
+|{{Football kit
+ |pattern_la = _civ26h
+ |pattern_b  = _civ26h
+ |pattern_ra = _civ26h
+ |pattern_sh = _civ26h
+ |pattern_so = 
+ |leftarm    = ff7d1d
+ |body       = ff7d1d
+ |rightarm   = ff7d1d
+ |shorts     = ff7d1d
+ |socks      = ff7d1d
+ |title      = {{nowrap|Ivory Coast}}
+}}
+|}
+
+===Ecuador vs Curaçao===
+The two teams have never met before.
+
+<section begin=E4 />{{#invoke:football box|main
+|date={{Start date|2026|6|20}}
+|time=7:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|ECU}}
+|score={{score link|2026 FIFA World Cup Group E#Ecuador vs Curaçao|Match 34}}
+|team2={{#invoke:flag|fb|CUW}}
+|goals1=
+|goals2=
+|stadium=[[Arrowhead Stadium]], [[Kansas City, Missouri|Kansas City]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021465 "Ecuador vs Curaçao {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=E4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ecu26h
+ |pattern_b  = _ecu26h
+ |pattern_ra = _ecu26h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFE80B
+ |body       = FFE80B
+ |rightarm   = FFE80B
+ |shorts     = ffd700
+ |socks      = ffd700
+ |title      = Ecuador
+}}
+|{{Football kit
+ |pattern_la = _cur26h
+ |pattern_b  = _cur26hA
+ |pattern_ra = _cur26h
+ |pattern_sh = _cur26h
+ |pattern_so = _cur26hl
+ |leftarm    = 344fc0
+ |body       = 344fc0
+ |rightarm   = 344fc0
+ |shorts     = 344fc0
+ |socks      = 344fc0
+ |title      = Curaçao
+}}
+|}
+
+===Curaçao vs Ivory Coast===
+The two teams have never met before.
+
+<section begin=E5 />{{#invoke:football box|main
+|date={{Start date|2026|6|25}}
+|time=4:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|CUW}}
+|score={{score link|2026 FIFA World Cup Group E#Curaçao vs Ivory Coast|Match 55}}
+|team2={{#invoke:flag|fb|CIV}}
+|goals1=
+|goals2=
+|stadium=[[Lincoln Financial Field]], [[Philadelphia]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021468 "Curaçao vs Côte d'Ivoire {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=E5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cur26h
+ |pattern_b  = _cur26hA
+ |pattern_ra = _cur26h
+ |pattern_sh = _cur26h
+ |pattern_so = _cur26hl
+ |leftarm    = 344fc0
+ |body       = 344fc0
+ |rightarm   = 344fc0
+ |shorts     = 344fc0
+ |socks      = 344fc0
+ |title      = Curaçao
+}}
+|{{Football kit
+ |pattern_la = _civ26h
+ |pattern_b  = _civ26h
+ |pattern_ra = _civ26h
+ |pattern_sh = _civ26h
+ |pattern_so = 
+ |leftarm    = ff7d1d
+ |body       = ff7d1d
+ |rightarm   = ff7d1d
+ |shorts     = ff7d1d
+ |socks      = ff7d1d
+ |title      = {{nowrap|Ivory Coast}}
+}}
+|}
+
+===Ecuador vs Germany===
+Germany has won the teams' two previous meetings: a [[2006 FIFA World Cup Group A#Ecuador vs Germany|3–0 group stage victory]] at the [[2006 FIFA World Cup]] (which they hosted) and a 4–2 friendly in 2013.<ref>{{cite web|title=Ecuador national football team: record v Germany|url=https://www.11v11.com/teams/ecuador/tab/opposingTeams/opposition/Germany|website=11v11.com|access-date=5 December 2025}}</ref>
+
+<section begin=E6 />{{#invoke:football box|main
+|date={{Start date|2026|6|25}}
+|time=4:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|ECU}}
+|score={{score link|2026 FIFA World Cup Group E#Ecuador vs Germany|Match 56}}
+|team2={{#invoke:flag|fb|GER}}
+|goals1=
+|goals2=
+|stadium=[[MetLife Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021466 "Ecuador vs Germany {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=E6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ecu26h
+ |pattern_b  = _ecu26h
+ |pattern_ra = _ecu26h
+ |pattern_sh = _ecu25h
+ |pattern_so = 
+ |leftarm    = FFE80B
+ |body       = FFE80B
+ |rightarm   = FFE80B
+ |shorts     = 253167
+ |socks      = 0D183B
+ |title      = Ecuador
+}}
+|{{Football kit
+ |pattern_la = _ger26a
+ |pattern_b  = _ger26a
+ |pattern_ra = _ger26a
+ |pattern_sh = _ger26a
+ |pattern_so = _ger26al
+ |leftarm    = DD42AA
+ |body       = DD42AA
+ |rightarm   = DD42AA
+ |shorts     = 241E76
+ |socks      = 241E76
+ |title      = Germany
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|GER}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|CUW}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|CIV}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|ECU}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:2026 FIFA World Cup group stage|E]]
+[[Category:Germany at the 2026 FIFA World Cup]]
+[[Category:Curaçao at the 2026 FIFA World Cup]]
+[[Category:Ivory Coast at the 2026 FIFA World Cup]]
+[[Category:Ecuador at the 2026 FIFA World Cup]]
+[[Category:Soccer competitions in Houston]]
+[[Category:2026 in sports in Texas]]
+[[Category:2026 in Houston]]
+[[Category:Soccer competitions in Kansas City, Missouri]]
+[[Category:2026 in sports in Missouri]]
+[[Category:2020s in Kansas City, Missouri]]
+[[Category:Soccer in Philadelphia]]
+[[Category:Soccer competitions in Pennsylvania]]
+[[Category:2026 in sports in Pennsylvania]]
+[[Category:2026 in Philadelphia]]
+[[Category:Sports competitions in Philadelphia]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:2026 in sports in New Jersey]]
+[[Category:Soccer competitions in Toronto]]
+[[Category:2026 in sports in Ontario]]
+[[Category:2026 in Toronto]]

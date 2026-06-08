@@ -1,0 +1,414 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group F''' of the [[2026 FIFA World Cup]] will take place from June 14 to 25, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of the [[Netherlands national football team|Netherlands]], [[Japan national football team|Japan]], [[Sweden men's national football team|Sweden]], and [[Tunisia national football team|Tunisia]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| F1 || style=white-space:nowrap | {{#invoke:flag|fb|NED}} || 1 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group G|UEFA Group G]] winner || November 17, 2025 || 12th || [[2022 FIFA World Cup|2022]] || data-sort-value="7.3" | Runner-up ([[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[2010 FIFA World Cup|2010]]) || 7 ||
+|-
+| F2 || style=white-space:nowrap | {{#invoke:flag|fb|JPN}} || 2 || [[Asian Football Confederation|AFC]] || [[2026 FIFA World Cup qualification – AFC third round#Group C|AFC third round Group C]] winner || March 20, 2025 || 8th || [[2022 FIFA World Cup|2022]] || data-sort-value="3.4" | Round of 16 ([[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]]) || 18 ||
+|-
+| F3 || style=white-space:nowrap | {{#invoke:flag|fb|SWE}} || 4{{refn|group=nb|name=Placeholder|As the identity of the [[2026 FIFA World Cup qualification – UEFA second round#Path B|UEFA second round Path B]] winner was not known at the time of the final draw, positions in the FIFA Rankings were not taken into account, and the placeholder in the draw was automatically seeded into pot 4.<ref name="draw procedure"/>}} || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA second round#Path B|UEFA second round Path B]] winner || March 31, 2026 || 13th || [[2018 FIFA World Cup|2018]] || data-sort-value="7.1" | Runner-up ([[1958 FIFA World Cup|1958]]) || 43{{refn|group=nb|name=Placeholder}} ||
+|-
+| F4 || style=white-space:nowrap | {{#invoke:flag|fb|TUN}} || 3 || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification – CAF Group H|CAF Group H]] winner || September 8, 2025 || 7th || [[2022 FIFA World Cup|2022]] || data-sort-value="1.6" | Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]]) || 40 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group F}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group F will advance to play the runner-up of [[2026 FIFA World Cup Group C|Group C]].
+* The runner-up of Group F will advance to play the winner of [[2026 FIFA World Cup Group C|Group C]].
+* The third-placed team of Group F might advance to play the winner of [[2026 FIFA World Cup Group A|Group A]], [[2026 FIFA World Cup Group B|Group B]], [[2026 FIFA World Cup Group D|Group D]], [[2026 FIFA World Cup Group E|Group E]], or [[2026 FIFA World Cup Group I|Group I]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local.<ref name="match schedule"/>
+
+===Netherlands vs Japan===
+The teams have met three times prior, including the Netherlands' [[2010 FIFA World Cup Group E#Netherlands vs Japan|1–0 group stage victory]] at the [[2010 FIFA World Cup]].<ref>{{cite web|title=Netherlands vs. Japan Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/holland_vs_japan.php|website=thesoccerworldcups.com|access-date=5 December 2025}}</ref> Their most recent meeting took place in 2013, a 2–2 friendly draw.<ref>{{cite web|title=Netherlands national football team: record v Japan|url=https://www.11v11.com/teams/netherlands/tab/opposingTeams/opposition/Japan|website=11v11.com|access-date=5 December 2025}}</ref>
+
+<section begin=F1 />{{#invoke:football box|main
+|date={{Start date|2026|6|14}}
+|time=3:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|NED}}
+|score={{score link|2026 FIFA World Cup Group F#Netherlands vs Japan|Match 11}}
+|team2={{#invoke:flag|fb|JPN}}
+|goals1=
+|goals2=
+|stadium=[[AT&T Stadium]], [[Arlington, Texas|Arlington]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021470 "Netherlands vs Japan {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=F1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ned26h
+ |pattern_b  = _ned26h
+ |pattern_ra = _ned26h
+ |pattern_sh = _ned26a
+ |pattern_so = 
+ |leftarm    = FF6600
+ |body       = FF6600
+ |rightarm   = FF6600
+ |shorts     = FF6600
+ |socks      = FF6600
+ |title      = Netherlands
+}}
+|{{Football kit
+ |pattern_la = _jap26h
+ |pattern_b  = _jap26hA
+ |pattern_ra = _jap26h
+ |pattern_sh = _jap26h
+ |pattern_so = _jap26hl
+ |leftarm    = 001040
+ |body       = 001040
+ |rightarm   = 001040
+ |shorts     = 001040
+ |socks      = 001040
+ |title      = Japan
+}}
+|}
+
+===Sweden vs Tunisia===
+The teams have met on four previous occasions, always in friendlies. Tunisia won the most recent meeting in 2003, by 1–0.<ref>{{cite web|title=Tunisia national football team: record v Sweden|url=https://www.11v11.com/teams/tunisia/tab/opposingTeams/opposition/Sweden/|website=11v11.com|access-date=31 March 2026}}</ref>
+
+<section begin=F2 />{{#invoke:football box|main
+|date={{Start date|2026|6|14}}
+|time=8:00&nbsp;p.m. [[UTC−06:00|UTC−6]]
+|team1={{#invoke:flag|fb-rt|SWE}}
+|score={{score link|2026 FIFA World Cup Group F#Sweden vs Tunisia|Match 12}}
+|team2={{#invoke:flag|fb|TUN}}
+|goals1=
+|goals2=
+|stadium=[[Estadio BBVA]], [[Guadalupe, Nuevo León|Guadalupe]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474 "Sweden vs Tunisia {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=F2 />
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _swe26h
+ |pattern_b  = _swe26hA
+ |pattern_ra = _swe26h
+ |pattern_sh = _swe26h
+ |pattern_so = _swe26hl
+ |leftarm    = FFF200
+ |body       = FFF200
+ |rightarm   = FFF200
+ |shorts     = 000040
+ |socks      = FFF200
+ |title      = Sweden
+}}
+|{{Football kit
+ |pattern_la = _tun26a
+ |pattern_b  = _tun26a
+ |pattern_ra = _tun26a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Tunisia
+}}
+|}
+
+===Netherlands vs Sweden===
+The teams have met on twenty previous occasions, including a scoreless draw during the [[1974 FIFA World Cup Group 3|group stage]] at the [[1974 FIFA World Cup]], and most recently in a 2–0 win for the Netherlands in a [[2018 FIFA World Cup qualification – UEFA Group A|World Cup Qualifier]] match in 2017.<ref>{{cite web|title=Netherlands national football team: record v Sweden|url=https://www.11v11.com/teams/netherlands/tab/opposingTeams/opposition/Sweden/|website=11v11.com|access-date=31 March 2026}}</ref>
+
+<section begin=F3 />{{#invoke:football box|main
+|date={{Start date|2026|6|20}}
+|time=12:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|NED}}
+|score={{score link|2026 FIFA World Cup Group F#Netherlands vs Sweden|Match 35}}
+|team2={{#invoke:flag|fb|SWE}}
+|goals1=
+|goals2=
+|stadium=[[NRG Stadium]], [[Houston]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021472 "Netherlands vs Sweden {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=F3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ned26h
+ |pattern_b  = _ned26h
+ |pattern_ra = _ned26h
+ |pattern_sh = _ned26h
+ |pattern_so = 
+ |leftarm    = FF6600
+ |body       = FF6600
+ |rightarm   = FF6600
+ |shorts     = 000000
+ |socks      = FF6600
+ |title      = Netherlands
+}}
+|{{Football kit
+ |pattern_la = _swe26a
+ |pattern_b  = _swe26a
+ |pattern_ra = _swe26a
+ |pattern_sh = _swe26a
+ |pattern_so = _swe26al
+ |leftarm    = 000040
+ |body       = 000040
+ |rightarm   = 000040
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = Sweden
+}}
+|}
+
+===Tunisia vs Japan===
+The teams have previously met six times, including Japan's [[2002 FIFA World Cup Group H#Tunisia vs Japan|2–0 group stage victory]] at the [[2002 FIFA World Cup]] (which they co-hosted with South Korea). Their latest meeting took place in the 2023 Kirin Challenge Cup, which Japan also won by 2–0.<ref>{{cite web|title=Tunisia national football team: record v Japan|url=https://www.11v11.com/teams/tunisia/tab/opposingTeams/opposition/Japan|website=11v11.com|access-date=5 December 2025}}</ref> This will be the 1000th World Cup match.<ref>{{cite web|url=https://www.espn.com/soccer/story/_/id/47224100/fifa-2026-world-cup-match-schedule-final-kickoff-usa|title=2026 World Cup schedule: FIFA reveals match times, locations|work=ESPN|access-date=7 December 2025}}</ref>
+
+<section begin=F4 />{{#invoke:football box|main
+|date={{Start date|2026|6|20}}
+|time=10:00&nbsp;p.m. [[UTC−06:00|UTC−6]]
+|team1={{#invoke:flag|fb-rt|TUN}}
+|score={{score link|2026 FIFA World Cup Group F#Tunisia vs Japan|Match 36}}
+|team2={{#invoke:flag|fb|JPN}}
+|goals1=
+|goals2=
+|stadium=[[Estadio BBVA]], [[Guadalupe, Nuevo León|Guadalupe]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021475 "Tunisia vs Japan {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=F4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _tun26h
+ |pattern_b  = _tun26h
+ |pattern_ra = _tun26h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Tunisia
+}}
+|{{Football kit
+ |pattern_la = _jap26h
+ |pattern_b  = _jap26h
+ |pattern_ra = _jap26h
+ |pattern_sh = _jap26h2
+ |pattern_so = _jap26hl
+ |leftarm    = 001040
+ |body       = 001040
+ |rightarm   = 001040
+ |shorts     = 001040
+ |socks      = 001040
+ |title      = Japan
+}}
+|}
+
+===Japan vs Sweden===
+The teams have met seven times, with Japan’s only win from the notorious match in the [[Football at the 1936 Summer Olympics|1936 Olympics]] in the first round. Their most recent meeting, a friendly in 2002, ended in a 1–1 draw.<ref>{{cite web|title=Japan national football team: record v Sweden|url=https://www.11v11.com/teams/japan/tab/opposingTeams/opposition/Sweden/|website=11v11.com|access-date=31 March 2026}}</ref>
+
+<section begin=F5 />{{#invoke:football box|main
+|date={{Start date|2026|6|25}}
+|time=6:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|JPN}}
+|score={{score link|2026 FIFA World Cup Group F#Japan vs Sweden|Match 57}}
+|team2={{#invoke:flag|fb|SWE}}
+|goals1=
+|goals2=
+|stadium=[[AT&T Stadium]], [[Arlington, Texas|Arlington]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021471 "Japan vs Sweden {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=F5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jap26h
+ |pattern_b  = _jap26hA
+ |pattern_ra = _jap26h
+ |pattern_sh = _jap26h
+ |pattern_so = _jap26hl
+ |leftarm    = 001040
+ |body       = 001040
+ |rightarm   = 001040
+ |shorts     = 001040
+ |socks      = 001040
+ |title      = Japan
+}}
+|{{Football kit
+ |pattern_la = _swe26h
+ |pattern_b  = _swe26hA
+ |pattern_ra = _swe26h
+ |pattern_sh = _swe26h
+ |pattern_so = _swe26hl
+ |leftarm    = FFF200
+ |body       = FFF200
+ |rightarm   = FFF200
+ |shorts     = 000040
+ |socks      = FFF200
+ |title      = Sweden
+}}
+|}
+
+===Tunisia vs Netherlands===
+The teams have previously faced each other thrice, most recently in a 2009 friendly match that ended in a 1–1 draw.<ref>{{cite web|title=Tunisia national football team: record v Netherlands|url=https://www.11v11.com/teams/tunisia/tab/opposingTeams/opposition/Netherlands|website=11v11.com|access-date=5 December 2025}}</ref>
+
+<section begin=F6 />{{#invoke:football box|main
+|date={{Start date|2026|6|25}}
+|time=6:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|TUN}}
+|score={{score link|2026 FIFA World Cup Group F#Tunisia vs Netherlands|Match 58}}
+|team2={{#invoke:flag|fb|NED}}
+|goals1=
+|goals2=
+|stadium=[[Arrowhead Stadium]], [[Kansas City, Missouri|Kansas City]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021473 "Tunisia vs Netherlands {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=F6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _tun26h
+ |pattern_b  = _tun26h
+ |pattern_ra = _tun26h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Tunisia
+}}
+|{{Football kit
+ |pattern_la = _ned26h
+ |pattern_b  = _ned26h
+ |pattern_ra = _ned26h
+ |pattern_sh = _ned26h
+ |pattern_so = 
+ |leftarm    = FF6600
+ |body       = FF6600
+ |rightarm   = FF6600
+ |shorts     = 000000
+ |socks      = FF6600
+ |title      = Netherlands
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|NED}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|JPN}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|SWE}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|TUN}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group F}}
+[[Category:2026 FIFA World Cup group stage|F]]
+[[Category:Japan at the 2026 FIFA World Cup]]
+[[Category:Netherlands at the 2026 FIFA World Cup]]
+[[Category:Sweden at the 2026 FIFA World Cup|Group]]
+[[Category:Tunisia at the 2026 FIFA World Cup]]
+[[Category:Japan–Netherlands sports relations|2026-06-14]]
+[[Category:Japan–Sweden sports relations|2026-06-14]]
+[[Category:Japan–Tunisia relations|2026-06-14]]
+[[Category:Netherlands–Tunisia relations|2026-06-14]]
+[[Category:Sweden–Tunisia relations|2026-06-14]]
+[[Category:Sports competitions in Arlington, Texas]]
+[[Category:Soccer competitions in Texas]]
+[[Category:2026 in sports in Texas]]
+[[Category:21st century in Arlington, Texas]]
+[[Category:Soccer competitions in Kansas City, Missouri]]
+[[Category:2020s in Kansas City, Missouri]]
+[[Category:2026 in sports in Missouri]]
+[[Category:Soccer competitions in Houston]]
+[[Category:2026 in Houston]]
+[[Category:Guadalupe, Nuevo León]]
+[[Category:Football in Nuevo León]]
+[[Category:21st century in Nuevo León]]

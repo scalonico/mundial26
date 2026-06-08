@@ -1,0 +1,411 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group K''' of the [[2026 FIFA World Cup]] will take place from June 17 to 27, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[Portugal national football team|Portugal]], [[DR Congo national football team|DR Congo]], [[Uzbekistan national football team|Uzbekistan]], and [[Colombia national football team|Colombia]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref> None of these matchups have happened previously, therefore each match will be a first meeting between the teams.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| K1 || style=white-space:nowrap | {{#invoke:flag|fb|POR}} || 1 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group F|UEFA Group F]] winner || November 16, 2025 || 9th || [[2022 FIFA World Cup|2022]] || data-sort-value="6.1" | Third place ([[1966 FIFA World Cup|1966]]) || 6 ||
+|-
+| K2 || style=white-space:nowrap | {{#invoke:flag|fb|COD}} || 4{{refn|group=nb|name=Placeholder|As the identity of the [[2026 FIFA World Cup qualification (inter-confederation play-offs)#Pathway 1|inter-confederation playoff Path 1]] winner was not known at the time of the final draw, positions in the FIFA Rankings were not taken into account, and the placeholder in the draw was automatically seeded into pot 4.<ref name="draw procedure"/>}} || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification (inter-confederation play-offs)#Pathway 1|Inter-confederation playoff Path 1]] winner || March 31, 2026 || 2nd || [[1974 FIFA World Cup|1974]] || data-sort-value="2.1" | Group stage ([[1974 FIFA World Cup|1974]]) || 56{{refn|group=nb|name=Placeholder}} ||
+|-
+| K3 || style=white-space:nowrap | {{#invoke:flag|fb|UZB}} || 3 || [[Asian Football Confederation|AFC]] || [[2026 FIFA World Cup qualification – AFC third round#Group A|AFC third round Group A]] runner-up || June 5, 2025 || 1st || — || data-sort-value="1" | — || 50 ||
+|-
+| K4 || style=white-space:nowrap | {{#invoke:flag|fb|COL}} || 2 || [[CONMEBOL]] || [[2026 FIFA World Cup qualification (CONMEBOL)|CONMEBOL round robin]] third place || September 4, 2025 || 7th || [[2018 FIFA World Cup|2018]] || data-sort-value="4.1" | Quarterfinals ([[2014 FIFA World Cup|2014]]) || 13 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group K}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group K will advance to play the third-placed team of [[2026 FIFA World Cup Group D|Group D]], [[2026 FIFA World Cup Group E|Group E]], [[2026 FIFA World Cup Group I|Group I]], [[2026 FIFA World Cup Group J|Group J]], or [[2026 FIFA World Cup Group L|Group L]].
+* The runner-up of Group K will advance to play the runner-up of [[2026 FIFA World Cup Group L|Group L]].
+* The third-placed team of Group K might advance to play the winner of [[2026 FIFA World Cup Group L|Group L]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local.<ref name="match schedule"/>
+
+===Portugal vs DR Congo===
+The two teams have never met before.
+<section begin=K1 />{{#invoke:football box|main
+|date={{Start date|2026|6|17}}
+|time=12:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|POR}}
+|score={{score link|2026 FIFA World Cup Group K#Portugal vs DR Congo|Match 23}}
+|team2={{#invoke:flag|fb|COD}}
+|goals1=
+|goals2=
+|stadium=[[NRG Stadium]], [[Houston]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021502 "Portugal vs Congo DR {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=K1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _por26h
+ |pattern_b  = _por26h
+ |pattern_ra = _por26h
+ |pattern_sh = _por26h
+ |pattern_so = _por26h2l
+ |leftarm    = a73737
+ |body       = a73737
+ |rightarm   = a73737
+ |shorts     = a73737
+ |socks      = a73737
+ |title      = Portugal
+}}
+|{{Football kit
+ |pattern_la = _cod2526h
+ |pattern_b  = _cod2526h
+ |pattern_ra = _cod2526h
+ |pattern_sh = _cod2526h
+ |pattern_so = 
+ |leftarm    = 00b7ef
+ |body       = 00b7ef
+ |rightarm   = 00b7ef
+ |shorts     = 00b7ef
+ |socks      = 00b7ef
+ |title      = {{nowrap|DR Congo}}
+}}
+|}
+
+===Uzbekistan vs Colombia===
+The two teams have never met before.
+
+<section begin=K2 />{{#invoke:football box|main
+|date={{Start date|2026|6|17}}
+|time=8:00&nbsp;p.m. [[UTC−06:00|UTC−6]]
+|team1={{#invoke:flag|fb-rt|UZB}}
+|score={{score link|2026 FIFA World Cup Group K#Uzbekistan vs Colombia|Match 24}}
+|team2={{#invoke:flag|fb|COL}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504 "Uzbekistan vs Colombia {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=K2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _uzb26a
+ |pattern_ra = 
+ |pattern_sh = _uzb26a
+ |pattern_so = _uzb26al
+ |leftarm    = FFFFFF
+ |body       = 
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Uzbekistan
+}}
+|{{Football kit
+ |pattern_la = _col26a
+ |pattern_b  = _col26aA
+ |pattern_ra = _col26a
+ |pattern_sh = _col26a
+ |pattern_so = _col26a2l
+ |leftarm    = 243561
+ |body       = 243561
+ |rightarm   = 243561
+ |shorts     = 243561
+ |socks      = FFFF00
+ |title      = Colombia
+}}
+|}
+
+===Portugal vs Uzbekistan===
+The two teams have never met before.
+
+<section begin=K3 />{{#invoke:football box|main
+|date={{Start date|2026|6|23}}
+|time=12:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|POR}}
+|score={{score link|2026 FIFA World Cup Group K#Portugal vs Uzbekistan|Match 47}}
+|team2={{#invoke:flag|fb|UZB}}
+|goals1=
+|goals2=
+|stadium=[[NRG Stadium]], [[Houston]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503 "Portugal vs Uzbekistan {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=K3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _por26h
+ |pattern_b  = _por26h
+ |pattern_ra = _por26h
+ |pattern_sh = _por26h
+ |pattern_so = _por26h2l
+ |leftarm    = a73737
+ |body       = a73737
+ |rightarm   = a73737
+ |shorts     = a73737
+ |socks      = a73737
+ |title      = Portugal
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _uzb26a
+ |pattern_ra = 
+ |pattern_sh = _uzb26a
+ |pattern_so = _uzb26al
+ |leftarm    = FFFFFF
+ |body       = 
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Uzbekistan
+}}
+|}
+
+===Colombia vs DR Congo===
+The two teams have never met before.
+<section begin=K4 />{{#invoke:football box|main
+|date={{Start date|2026|6|23}}
+|time=8:00&nbsp;p.m. [[UTC−06:00|UTC−6]]
+|team1={{#invoke:flag|fb-rt|COL}}
+|score={{score link|2026 FIFA World Cup Group K#Colombia vs DR Congo|Match 48}}
+|team2={{#invoke:flag|fb|COD}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Akron]], [[Zapopan]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021501 "Colombia vs Congo DR {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=K4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _col26h
+ |pattern_b  = _col26h
+ |pattern_ra = _col26h
+ |pattern_sh = _col26h2
+ |pattern_so = 
+ |leftarm    = F4E201
+ |body       = F4E201
+ |rightarm   = F4E201
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Colombia
+}}
+|{{Football kit
+ |pattern_la = _cod2526h
+ |pattern_b  = _cod2526h
+ |pattern_ra = _cod2526h
+ |pattern_sh = _cod2526h
+ |pattern_so = 
+ |leftarm    = 00b7ef
+ |body       = 00b7ef
+ |rightarm   = 00b7ef
+ |shorts     = 00b7ef
+ |socks      = 00b7ef
+ |title      = {{nowrap|DR Congo}}
+}}
+|}
+
+===Colombia vs Portugal===
+The two teams have never met before.
+
+<section begin=K5 />{{#invoke:football box|main
+|date={{Start date|2026|6|27}}
+|time=7:30&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|COL}}
+|score={{score link|2026 FIFA World Cup Group K#Colombia vs Portugal|Match 71}}
+|team2={{#invoke:flag|fb|POR}}
+|goals1=
+|goals2=
+|stadium=[[Hard Rock Stadium]], [[Miami Gardens, Florida|Miami Gardens]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505 "Colombia vs Portugal {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=K5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _col26h
+ |pattern_b  = _col26h
+ |pattern_ra = _col26h
+ |pattern_sh = _col26h
+ |pattern_so = _col26h2l
+ |leftarm    = F4E201
+ |body       = F4E201
+ |rightarm   = F4E201
+ |shorts     = 005DA4
+ |socks      = FFFFFF
+ |title      = Colombia
+}}
+|{{Football kit
+ |pattern_la = _por26h
+ |pattern_b  = _por26h
+ |pattern_ra = _por26h
+ |pattern_sh = _por26h
+ |pattern_so = _por26h2l
+ |leftarm    = a73737
+ |body       = a73737
+ |rightarm   = a73737
+ |shorts     = a73737
+ |socks      = a73737
+ |title      = Portugal
+}}
+|}
+
+===DR Congo vs Uzbekistan===
+The two teams have never met before.
+<section begin=K6 />{{#invoke:football box|main
+|date={{Start date|2026|6|27}}
+|time=7:30&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|COD}}
+|score={{score link|2026 FIFA World Cup Group K#DR Congo vs Uzbekistan|Match 72}}
+|team2={{#invoke:flag|fb|UZB}}
+|goals1=
+|goals2=
+|stadium=[[Mercedes-Benz Stadium]], [[Atlanta]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021500 "Congo DR vs Uzbekistan {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=K6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cod2526t
+ |pattern_b  = _cod2526t
+ |pattern_ra = _cod2526t
+ |pattern_sh = _cod2526t
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = {{nowrap|DR Congo}}
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _uzb26a
+ |pattern_ra = 
+ |pattern_sh = _uzb26a
+ |pattern_so = _uzb26al
+ |leftarm    = FFFFFF
+ |body       = 
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Uzbekistan
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|POR}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|COD}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|UZB}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|COL}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group K}}
+[[Category:2026 FIFA World Cup group stage|K]]
+[[Category:Portugal at the 2026 FIFA World Cup]]
+[[Category:Uzbekistan at the 2026 FIFA World Cup]]
+[[Category:Colombia at the 2026 FIFA World Cup]]
+[[Category:Soccer competitions in Houston]]
+[[Category:2026 in sports in Texas]]
+[[Category:2026 in Houston]]
+[[Category:Football competitions in Mexico City]]
+[[Category:2020s in Mexico City]]
+[[Category:Sport in Zapopan]]
+[[Category:2020s in Jalisco]]
+[[Category:Football in Jalisco]]
+[[Category:Sports competitions in Miami Gardens, Florida]]
+[[Category:Soccer competitions in Florida]]
+[[Category:2026 in sports in Florida]]
+[[Category:2026 in Miami-Dade County, Florida]]
+[[Category:Soccer in Atlanta]]
+[[Category:Sports competitions in Atlanta]]
+[[Category:Soccer competitions in Georgia (U.S. state)]]
+[[Category:2026 in sports in Georgia (U.S. state)]]
+[[Category:2026 in Atlanta]]

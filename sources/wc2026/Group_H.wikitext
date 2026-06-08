@@ -1,0 +1,413 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group H''' of the [[2026 FIFA World Cup]] will take place from June 15 to 26, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[Spain national football team|Spain]], [[Cape Verde national football team|Cape Verde]], [[Saudi Arabia national football team|Saudi Arabia]], and [[Uruguay national football team|Uruguay]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| H1 || style=white-space:nowrap | {{#invoke:flag|fb|ESP}} || 1 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group E|UEFA Group E]] winner || November 18, 2025 || 17th || [[2022 FIFA World Cup|2022]] || data-sort-value="8.1" | '''Winner''' ([[2010 FIFA World Cup|2010]]) || 1 ||
+|-
+| H2 || style=white-space:nowrap | {{#invoke:flag|fb|CPV}} || 4 || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification – CAF Group D|CAF Group D]] winner || October 13, 2025 || 1st || — || data-sort-value="1" | — || 68 ||
+|-
+| H3 || style=white-space:nowrap | {{#invoke:flag|fb|KSA}} || 3 || [[Asian Football Confederation|AFC]] || [[2026 FIFA World Cup qualification – AFC fourth round#Group B|AFC fourth round Group B]] winner || October 14, 2025 || 7th || [[2022 FIFA World Cup|2022]] || data-sort-value="3.1" | Round of 16 ([[1994 FIFA World Cup|1994]]) || 60 ||
+|-
+| H4 || style=white-space:nowrap | {{#invoke:flag|fb|URU}} || 2 || [[CONMEBOL]] || [[2026 FIFA World Cup qualification (CONMEBOL)|CONMEBOL round robin]] fourth place || September 4, 2025 || 15th || [[2022 FIFA World Cup|2022]] || data-sort-value="8.2" | '''Winner''' ([[1930 FIFA World Cup|1930]], [[1950 FIFA World Cup|1950]]) || 16 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group H}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group H will advance to play the runner-up of [[2026 FIFA World Cup Group J|Group J]].
+* The runner-up of Group H will advance to play the winner of [[2026 FIFA World Cup Group J|Group J]].
+* The third-placed team of Group H might advance to play the winner of [[2026 FIFA World Cup Group A|Group A]], [[2026 FIFA World Cup Group G|Group G]], [[2026 FIFA World Cup Group I|Group I]], or [[2026 FIFA World Cup Group L|Group L]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local.<ref name="match schedule"/>
+
+===Spain vs Cape Verde===
+The two teams have never met before.
+
+<section begin=H1 />{{#invoke:football box|main
+|date={{Start date|2026|6|15}}
+|time=12:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|ESP}}
+|score={{score link|2026 FIFA World Cup Group H#Spain vs Cape Verde|Match 14}}
+|team2={{#invoke:flag|fb|CPV}}
+|goals1=
+|goals2=
+|stadium=[[Mercedes-Benz Stadium]], [[Atlanta]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482 "Spain vs Cabo Verde {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=H1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp26h
+ |pattern_b  = _esp26hA
+ |pattern_ra = _esp26h
+ |pattern_sh = _esp26h
+ |pattern_so = _esp26hl
+ |leftarm    = D71726
+ |body       = D71726
+ |rightarm   = D71726
+ |shorts     = 000066
+ |socks      = D71726
+ |title      = Spain
+}}
+|{{Football kit
+ |pattern_la = _cpv26a
+ |pattern_b  = _cpv26a
+ |pattern_ra = _cpv26a
+ |pattern_sh = _cpv26a
+ |pattern_so = _cpv26al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Cape Verde}}
+}}
+|}
+
+===Saudi Arabia vs Uruguay===
+The teams have previously faced each other thrice, most recently in [[2018 FIFA World Cup Group A#Uruguay v Saudi Arabia|Uruguay's 1–0 win]] at the [[2018 FIFA World Cup]].<ref>{{cite web|title=Saudi Arabia national football team: record v Uruguay|url=https://www.11v11.com/teams/saudi-arabia/tab/opposingTeams/opposition/Uruguay|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=H2 />{{#invoke:football box|main
+|date={{Start date|2026|6|15}}
+|time=6:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|KSA}}
+|score={{score link|2026 FIFA World Cup Group H#Saudi Arabia vs Uruguay|Match 13}}
+|team2={{#invoke:flag|fb|URU}}
+|goals1=
+|goals2=
+|stadium=[[Hard Rock Stadium]], [[Miami Gardens, Florida|Miami Gardens]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486 "Saudi Arabia vs Uruguay {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=H2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ksa26h
+ |pattern_b  = _ksa26hA
+ |pattern_ra = _ksa26h
+ |pattern_sh = _ksa26h
+ |pattern_so = _ksa26hl
+ |leftarm    = 43b88b
+ |body       = 43b88b
+ |rightarm   = 43b88b
+ |shorts     = 43b88b
+ |socks      = 004B49
+ |title      = {{nowrap|Saudi Arabia}}
+}}
+|{{Football kit
+ |pattern_la = _uru26h
+ |pattern_b  = _uru26h
+ |pattern_ra = _uru26h
+ |pattern_sh = _uru26h
+ |pattern_so = _uru26h3l
+ |leftarm    = 80BBFF
+ |body       = 80BBFF
+ |rightarm   = 80BBFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Uruguay
+}}
+|}
+
+===Spain vs Saudi Arabia===
+Both teams have met three times, including their first encounter in [[2006 FIFA World Cup Group H#Saudi Arabia vs Spain|Spain's 1–0 group stage victory]] at the [[2006 FIFA World Cup]].<ref>{{cite web|title=Spain vs. Saudi Arabia Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/spain_vs_saudi_arabia.php|website=thesoccerworldcups.com|access-date=6 December 2025}}</ref> Spain won all matches, most recently a 5–0 friendly in 2012.<ref>{{cite web|title=Spain national football team: record v Saudi Arabia|url=https://www.11v11.com/teams/spain/tab/opposingTeams/opposition/Saudi%20Arabia|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=H3 />{{#invoke:football box|main
+|date={{Start date|2026|6|21}}
+|time=12:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|ESP}}
+|score={{score link|2026 FIFA World Cup Group H#Spain vs Saudi Arabia|Match 38}}
+|team2={{#invoke:flag|fb|KSA}}
+|goals1=
+|goals2=
+|stadium=[[Mercedes-Benz Stadium]], [[Atlanta]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021483 "Spain vs Saudi Arabia {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=H3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp26h
+ |pattern_b  = _esp26hA
+ |pattern_ra = _esp26h
+ |pattern_sh = _esp26h
+ |pattern_so = _esp26hl
+ |leftarm    = D71726
+ |body       = D71726
+ |rightarm   = D71726
+ |shorts     = 000066
+ |socks      = D71726
+ |title      = Spain
+}}
+|{{Football kit
+ |pattern_la = _ksa26a
+ |pattern_b  = _ksa26a
+ |pattern_ra = _ksa26a
+ |pattern_sh = _ksa26A
+ |pattern_so = _ksa26al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Saudi Arabia}}
+}}
+|}
+
+===Uruguay vs Cape Verde===
+The two teams have never met before.
+
+<section begin=H4 />{{#invoke:football box|main
+|date={{Start date|2026|6|21}}
+|time=6:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
+|team1={{#invoke:flag|fb-rt|URU}}
+|score={{score link|2026 FIFA World Cup Group H#Uruguay vs Cape Verde|Match 37}}
+|team2={{#invoke:flag|fb|CPV}}
+|goals1=
+|goals2=
+|stadium=[[Hard Rock Stadium]], [[Miami Gardens, Florida|Miami Gardens]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021487 "Uruguay vs Cabo Verde {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=H4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _uru26h
+ |pattern_b  = _uru26h
+ |pattern_ra = _uru26h
+ |pattern_sh = _uru26a
+ |pattern_so = _uru26hl
+ |leftarm    = 80BBFF
+ |body       = 80BBFF
+ |rightarm   = 80BBFF
+ |shorts     = 0A0216
+ |socks      = 0A0216
+ |title      = Uruguay
+}}
+|{{Football kit
+ |pattern_la = _cpv26t
+ |pattern_b  = _cpv26t
+ |pattern_ra = _cpv26t
+ |pattern_sh = _cpv26t
+ |pattern_so = _cpv26tl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = {{nowrap|Cape Verde}}
+}}
+|}
+
+===Cape Verde vs Saudi Arabia===
+The two teams have never met before.
+
+<section begin=H5 />{{#invoke:football box|main
+|date={{Start date|2026|6|26}}
+|time=7:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|CPV}}
+|score={{score link|2026 FIFA World Cup Group H#Cape Verde vs Saudi Arabia|Match 65}}
+|team2={{#invoke:flag|fb|KSA}}
+|goals1=
+|goals2=
+|stadium=[[NRG Stadium]], [[Houston]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021485 "Cabo Verde vs Saudi Arabia {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=H5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cpv26h
+ |pattern_b  = _cpv26h
+ |pattern_ra = _cpv26h
+ |pattern_sh = _cpv26h
+ |pattern_so = _cpv26hl
+ |leftarm    = 1A3CB0
+ |body       = 1A3CB0
+ |rightarm   = 1A3CB0
+ |shorts     = 1A3CB0
+ |socks      = 1A3CB0
+ |title      = {{nowrap|Cape Verde}}
+}}
+|{{Football kit
+ |pattern_la = _ksa26a
+ |pattern_b  = _ksa26a
+ |pattern_ra = _ksa26a
+ |pattern_sh = _ksa26A
+ |pattern_so = _ksa26al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Saudi Arabia}}
+}}
+|}
+
+===Uruguay vs Spain===
+The teams have previously met ten times, including twice in the World Cup: a [[1950 FIFA World Cup final round#Uruguay vs Spain|2–2 final round draw]] in [[1950 FIFA World Cup|1950]] and a [[1990 FIFA World Cup Group E#Uruguay vs Spain|0–0 group stage draw]] in [[1990 FIFA World Cup|1990]].<ref>{{cite web|title=Uruguay vs. Spain Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/uruguay_vs_spain.php|website=thesoccerworldcups.com|access-date=6 December 2025}}</ref> Their latest encounter was [[2013 FIFA Confederations Cup Group B#Spain vs Uruguay|Spain's 2–1 group stage victory]] at the [[2013 FIFA Confederations Cup]] to keep their unbeaten head to head record.<ref>{{cite web|title=Uruguay national football team: record v Spain|url=https://www.11v11.com/teams/uruguay/tab/opposingTeams/opposition/Spain|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=H6 />{{#invoke:football box|main
+|date={{Start date|2026|6|26}}
+|time=6:00&nbsp;p.m. [[UTC−06:00|UTC−6]]
+|team1={{#invoke:flag|fb-rt|URU}}
+|score={{score link|2026 FIFA World Cup Group H#Uruguay vs Spain|Match 66}}
+|team2={{#invoke:flag|fb|ESP}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Akron]], [[Zapopan]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021484 "Uruguay vs Spain {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=H6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _uru26a
+ |pattern_b  = _uru26a
+ |pattern_ra = _uru26a
+ |pattern_sh = _uru26a
+ |pattern_so = _uru26al
+ |leftarm    = 0A0216
+ |body       = 0A0216
+ |rightarm   = 0A0216
+ |shorts     = 0A0216
+ |socks      = 0A0216
+ |title      = Uruguay
+}}
+|{{Football kit
+ |pattern_la = _esp26a
+ |pattern_b  = _esp26a
+ |pattern_ra = _esp26a
+ |pattern_sh = _esp26a2
+ |pattern_so = _esp26a2l
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Spain
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|ESP}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|CPV}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|KSA}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|URU}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group H}}
+[[Category:2026 FIFA World Cup group stage|H]]
+[[Category:Spain at the 2026 FIFA World Cup]]
+[[Category:Cape Verde at the 2026 FIFA World Cup]]
+[[Category:Saudi Arabia at the 2026 FIFA World Cup]]
+[[Category:Uruguay at the 2026 FIFA World Cup]]
+[[Category:Soccer in Atlanta]]
+[[Category:Sports competitions in Atlanta]]
+[[Category:Soccer competitions in Georgia (U.S. state)]]
+[[Category:2026 in sports in Georgia (U.S. state)]]
+[[Category:2026 in Atlanta]]
+[[Category:Sports competitions in Miami Gardens, Florida]]
+[[Category:Soccer competitions in Florida]]
+[[Category:2026 in sports in Florida]]
+[[Category:2026 in Miami-Dade County, Florida]]
+[[Category:Sport in Zapopan]]
+[[Category:2020s in Jalisco]]
+[[Category:Football in Jalisco]]
+[[Category:Soccer competitions in Houston]]
+[[Category:2026 in sports in Texas]]
+[[Category:2026 in Houston]]

@@ -1,0 +1,408 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group J''' of the [[2026 FIFA World Cup]] will take place from June 16 to 27, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[Argentina national football team|Argentina]] (title holders), [[Algeria national football team|Algeria]], [[Austria national football team|Austria]], and [[Jordan national football team|Jordan]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| J1 || style=white-space:nowrap | {{#invoke:flag|fb|ARG}} || 1 || [[CONMEBOL]] || [[2026 FIFA World Cup qualification (CONMEBOL)|CONMEBOL round robin]] winner || March 25, 2025 || 19th || [[2022 FIFA World Cup|2022]] || data-sort-value="8.3" | '''Winner''' ([[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]], [[2022 FIFA World Cup|2022]]) || 2 ||
+|-
+| J2 || style=white-space:nowrap | {{#invoke:flag|fb|ALG}} || 3 || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification – CAF Group G|CAF Group G]] winner || October 9, 2025 || 5th || [[2014 FIFA World Cup|2014]] || data-sort-value="3.1" | Round of 16 ([[2014 FIFA World Cup|2014]]) || 35 ||
+|-
+| J3 || style=white-space:nowrap | {{#invoke:flag|fb|AUT}} || 2 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group H|UEFA Group H]] winner || November 18, 2025 || 8th || [[1998 FIFA World Cup|1998]] || data-sort-value="6.1" | Third place ([[1954 FIFA World Cup|1954]]) || 24 ||
+|-
+| J4 || style=white-space:nowrap | {{#invoke:flag|fb|JOR}} || 4 || [[Asian Football Confederation|AFC]] || [[2026 FIFA World Cup qualification – AFC third round#Group B|AFC third round Group B]] runner-up || June 5, 2025 || 1st || — || data-sort-value="1" | — || 66 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group J}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group J will advance to play the runner-up of [[2026 FIFA World Cup Group H|Group H]].
+* The runner-up of Group J will advance to play the winner of [[2026 FIFA World Cup Group H|Group H]].
+* The third-placed team of Group J might advance to play the winner of [[2026 FIFA World Cup Group B|Group B]], [[2026 FIFA World Cup Group D|Group D]], [[2026 FIFA World Cup Group G|Group G]], [[2026 FIFA World Cup Group K|Group K]], or [[2026 FIFA World Cup Group L|Group L]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local.<ref name="match schedule"/>
+
+===Argentina vs Algeria===
+Argentina has faced Algeria previously only once, a 4–3 friendly win in 2007.<ref>{{cite web|title=Argentina national football team: record v Algeria|url=https://www.11v11.com/teams/argentina/tab/opposingTeams/opposition/Algeria|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=J1 />{{#invoke:football box|main
+|date={{Start date|2026|6|16}}
+|time=8:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|ARG}}
+|score={{score link|2026 FIFA World Cup Group J#Argentina vs Algeria|Match 19}}
+|team2={{#invoke:flag|fb|ALG}}
+|goals1=
+|goals2=
+|stadium=[[Arrowhead Stadium]], [[Kansas City, Missouri|Kansas City]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021496 "Argentina vs Algeria {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=J1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg26h
+ |pattern_b  = _arg26hA_wc
+ |pattern_ra = _arg26h
+ |pattern_sh = _arg26h
+ |pattern_so = _arg26hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _alg26a
+ |pattern_b  = _alg26aA
+ |pattern_ra = _alg26a
+ |pattern_sh = _adidasblack
+ |pattern_so = _adidasblackl
+ |leftarm    = 1b4531
+ |body       = 1b4531
+ |rightarm   = 1b4531
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Algeria
+}}
+|}
+
+===Austria vs Jordan===
+The two teams have never met before.
+
+<section begin=J2 />{{#invoke:football box|main
+|date={{Start date|2026|6|16}}
+|time=9:00&nbsp;p.m. [[UTC−07:00|UTC−7]]
+|team1={{#invoke:flag|fb-rt|AUT}}
+|score={{score link|2026 FIFA World Cup Group J#Austria vs Jordan|Match 20}}
+|team2={{#invoke:flag|fb|JOR}}
+|goals1=
+|goals2=
+|stadium=[[Levi's Stadium]], [[Santa Clara, California|Santa Clara]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498 "Austria vs Jordan {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=J2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _aut26h
+ |pattern_b  = _aut26h
+ |pattern_ra = _aut26h
+ |pattern_sh = _aut26h
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = FF0000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Austria
+}}
+|{{Football kit
+ |pattern_la = _jor26h
+ |pattern_b  = _jor26h
+ |pattern_ra = _jor26h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Jordan
+}}
+|}
+
+===Argentina vs Austria===
+The teams have met on three occasions, all of them friendlies, with the most recent being a 1–1 draw in 1990.<ref>{{cite web|title=Argentina national football team: record v Austria|url=https://www.11v11.com/teams/argentina/tab/opposingTeams/opposition/Austria|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=J3 />{{#invoke:football box|main
+|date={{Start date|2026|6|22}}
+|time=12:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|ARG}}
+|score={{score link|2026 FIFA World Cup Group J#Argentina vs Austria|Match 43}}
+|team2={{#invoke:flag|fb|AUT}}
+|goals1=
+|goals2=
+|stadium=[[AT&T Stadium]], [[Arlington, Texas|Arlington]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021494 "Argentina vs Austria {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=J3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg26h
+ |pattern_b  = _arg26hA_wc
+ |pattern_ra = _arg26h
+ |pattern_sh = _arg26h
+ |pattern_so = _arg26hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _aut26h
+ |pattern_b  = _aut26h
+ |pattern_ra = _aut26h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = FF0000
+ |rightarm   = 000000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Austria
+}}
+|}
+
+===Jordan vs Algeria===
+The teams have previously faced each other three times, most recently in 2004, a 1–1 draw in a friendly.<ref>{{cite web|title=Jordan national football team: record v Algeria|url=https://www.11v11.com/teams/jordan/tab/opposingTeams/opposition/Algeria|website=11v11.com|access-date=December 6, 2025}}</ref>
+
+<section begin=J4 />{{#invoke:football box|main
+|date={{Start date|2026|6|22}}
+|time=8:00&nbsp;p.m. [[UTC−07:00|UTC−7]]
+|team1={{#invoke:flag|fb-rt|JOR}}
+|score={{score link|2026 FIFA World Cup Group J#Jordan vs Algeria|Match 44}}
+|team2={{#invoke:flag|fb|ALG}}
+|goals1=
+|goals2=
+|stadium=[[Levi's Stadium]], [[Santa Clara, California|Santa Clara]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021499 "Jordan vs Algeria {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=J4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jor26a
+ |pattern_b  = _jor26a
+ |pattern_ra = _jor26a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Jordan
+}}
+|{{Football kit
+ |pattern_la = _alg26h
+ |pattern_b  = _alg26hA
+ |pattern_ra = _alg26h
+ |pattern_sh = _alg26h
+ |pattern_so = _alg26hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = F3F3F3
+ |title      = Algeria
+}}
+|}
+
+===Algeria vs Austria===
+The teams have met once before, in Austria's [[1982 FIFA World Cup Group 2#Algeria vs Austria|2–0 group stage victory]] at the [[1982 FIFA World Cup]].<ref>{{cite web|title=Algeria vs. Austria Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/algeria_vs_austria.php|website=thesoccerworldcups.com|access-date=6 December 2025}}</ref>
+
+<section begin=J5 />{{#invoke:football box|main
+|date={{Start date|2026|6|27}}
+|time=9:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|ALG}}
+|score={{score link|2026 FIFA World Cup Group J#Algeria vs Austria|Match 69}}
+|team2={{#invoke:flag|fb|AUT}}
+|goals1=
+|goals2=
+|stadium=[[Arrowhead Stadium]], [[Kansas City, Missouri|Kansas City]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497 "Algeria vs Austria {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=J5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _alg26h
+ |pattern_b  = _alg26hA
+ |pattern_ra = _alg26h
+ |pattern_sh = _alg26h
+ |pattern_so = _alg26hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = F3F3F3
+ |title      = Algeria
+}}
+|{{Football kit
+ |pattern_la = _aut26h
+ |pattern_b  = _aut26h
+ |pattern_ra = _aut26h
+ |pattern_sh = _aut26h
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = FF0000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Austria
+}}
+|}
+
+===Jordan vs Argentina===
+The two teams have never met before.
+
+<section begin=J6 />{{#invoke:football box|main
+|date={{Start date|2026|6|27}}
+|time=9:00&nbsp;p.m. [[UTC−05:00|UTC−5]]
+|team1={{#invoke:flag|fb-rt|JOR}}
+|score={{score link|2026 FIFA World Cup Group J#Jordan vs Argentina|Match 70}}
+|team2={{#invoke:flag|fb|ARG}}
+|goals1=
+|goals2=
+|stadium=[[AT&T Stadium]], [[Arlington, Texas|Arlington]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021495 "Jordan vs Argentina {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=J6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jor26h
+ |pattern_b  = _jor26h
+ |pattern_ra = _jor26h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Jordan
+}}
+|{{Football kit
+ |pattern_la = _arg26A
+ |pattern_b  = _arg26aA_wc
+ |pattern_ra = _arg26A
+ |pattern_sh = _arg26A
+ |pattern_so = _adidaswhitel
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Argentina
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|ARG}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|ALG}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|AUT}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|JOR}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group J}}
+[[Category:2026 FIFA World Cup group stage|J]]
+[[Category:Argentina at the 2026 FIFA World Cup]]
+[[Category:Algeria at the 2026 FIFA World Cup]]
+[[Category:Austria at the 2026 FIFA World Cup]]
+[[Category:Jordan at the 2026 FIFA World Cup]]
+[[Category:Soccer competitions in Kansas City, Missouri]]
+[[Category:2020s in Kansas City, Missouri]]
+[[Category:2026 in sports in Missouri]]
+[[Category:Sports competitions in Arlington, Texas]]
+[[Category:Soccer competitions in Texas]]
+[[Category:2026 in sports in Texas]]
+[[Category:21st century in Arlington, Texas]]
+[[Category:Sports competitions in Santa Clara, California]]
+[[Category:Soccer competitions in California]]
+[[Category:2026 in sports in California]]

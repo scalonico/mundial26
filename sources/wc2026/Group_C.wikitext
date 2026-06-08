@@ -1,0 +1,419 @@
+{{Short description|FIFA World Cup group}}
+{{Use mdy dates|date=December 2025}}
+{{Use American English|date=November 2025}}
+'''Group C''' of the [[2026 FIFA World Cup]] will take place from June 13 to 24, 2026.<ref name="match schedule">{{cite web |url=https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf |title=FIFA World Cup 26 – Match Schedule |publisher=[[FIFA]] |date=February 4, 2024 |access-date=February 4, 2024}}</ref> The group consists of [[Brazil national football team|Brazil]], [[Morocco national football team|Morocco]], [[Haiti national football team|Haiti]], and [[Scotland national football team|Scotland]]. The top two teams, possibly along with the third-placed team, will advance to the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |title=FIFA World Cup 2026 Regulations |publisher=FIFA |date=May 2025 |access-date=June 7, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623212158/https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf |url-status=live}}</ref>
+
+Brazil, Morocco and Scotland were also drawn together in [[1998 FIFA World Cup Group A|Group A]] in the [[1998 FIFA World Cup|1998 edition]] of the competition, which was also Scotland's latest appearance prior to this tournament.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA Men's World Ranking|FIFA Rankings]]<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14933 |title=FIFA/Coca-Cola Men's World Ranking |publisher=[[FIFA]] |date=November 19, 2025 |access-date=November 22, 2025}}</ref>
+|-
+! November 2025{{refn|group=nb|The rankings of November 2025 were used for [[2026 FIFA World Cup seeding|seeding for the final draw]].<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/2d1a1ac7bab78995/original/Draw-Procedures-for-the-FIFA-World-Cup-2026.pdf |title=Draw Procedures for the FIFA World Cup 2026 |publisher=[[FIFA]] |date=November 25, 2025 |access-date=November 25, 2025}}</ref>}}
+! June 2026
+|-
+| C1 || style=white-space:nowrap | {{#invoke:flag|fb|BRA}} || 1 || [[CONMEBOL]] || [[2026 FIFA World Cup qualification (CONMEBOL)|CONMEBOL round robin]] fifth place || {{dts|June 10, 2025}} || 23rd || [[2022 FIFA World Cup|2022]] || data-sort-value="8.5" | '''Winner''' ([[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]]) || 5 ||
+|-
+| C2 || style=white-space:nowrap | {{#invoke:flag|fb|MAR}} || 2 || [[Confederation of African Football|CAF]] || [[2026 FIFA World Cup qualification – CAF Group E|CAF Group E]] winner || {{dts|September 5, 2025}} || 7th || [[2022 FIFA World Cup|2022]] || data-sort-value="5.1" | Fourth place ([[2022 FIFA World Cup|2022]]) || 11 ||
+|-
+| C3 || style=white-space:nowrap | {{#invoke:flag|fb|HAI}} || 4 || [[CONCACAF]] || [[2026 FIFA World Cup qualification – CONCACAF third round#Group C|CONCACAF Group C]] winner || {{dts|November 18, 2025|addkey=2}} || 2nd || [[1974 FIFA World Cup|1974]] || data-sort-value="1.1" | Group stage ([[1974 FIFA World Cup|1974]]) || 84 ||
+|-
+| C4 || style=white-space:nowrap | {{#invoke:flag|fb|SCO}} || 3 || [[UEFA]] || [[2026 FIFA World Cup qualification – UEFA Group C|UEFA Group C]] winner || {{dts|November 18, 2025|addkey=1}} || 9th || [[1998 FIFA World Cup|1998]] || data-sort-value="1.8" | Group stage ([[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]]) || 36 ||
+|}
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+{{2026 FIFA World Cup group tables|Group C}}
+
+In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name="regulations"/>
+* The winner of Group C will advance to play the runner-up of [[2026 FIFA World Cup Group F|Group F]].
+* The runner-up of Group C will advance to play the winner of [[2026 FIFA World Cup Group F|Group F]].
+* The third-placed team of Group C might advance to play the winner of [[2026 FIFA World Cup Group A|Group A]], [[2026 FIFA World Cup Group E|Group E]], or [[2026 FIFA World Cup Group I|Group I]] (if one of the [[2026 FIFA World Cup#Ranking of third-placed teams|eight best third-placed teams]] from the group stage).
+
+==Matches==
+All times listed are local, [[UTC−04:00|UTC−4]] ([[Eastern Time Zone|EDT]]).<ref name="match schedule"/>
+
+===Brazil vs Morocco===
+The teams have met three times previously, including once in the World Cup, a [[1998 FIFA World Cup Group A#Brazil vs Morocco|3–0 first group stage victory]] for Brazil in [[1998 FIFA World Cup|1998]], and most recently in 2023, a 2–1 win for Morocco (their first) in a friendly.<ref>{{cite web|title=Brazil national football team: record v Morocco|url=https://www.11v11.com/teams/brazil/tab/opposingTeams/opposition/Morocco|website=11v11.com|access-date=December 5, 2025}}</ref><ref>{{cite web|title=Brazil vs. Morocco Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/brazil_vs_morocco.php|website=thesoccerworldcups.com|access-date=December 5, 2025}}</ref>
+
+<section begin=C1 />{{#invoke:football box|main
+|date={{Start date|2026|6|13}}
+|time=6:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|BRA}}
+|score={{score link|2026 FIFA World Cup Group C#Brazil vs Morocco|Match 7}}
+|team2={{#invoke:flag|fb|MAR}}
+|goals1=
+|goals2=
+|stadium=[[MetLife Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021456 "Brazil vs Morocco {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=C1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra26h
+ |pattern_b  = _bra26h
+ |pattern_ra = _bra26h
+ |pattern_sh = _bra26h
+ |pattern_so = _bra26hl
+ |leftarm    = FFE540
+ |body       = FFE540
+ |rightarm   = FFE540
+ |shorts     = 4080FF
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = _mrc26h
+ |pattern_b  = _mrc26h
+ |pattern_ra = _mrc26h
+ |pattern_sh = _mrc26h2
+ |pattern_so = _mrc26hl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Morocco
+}}
+|}
+
+===Haiti vs Scotland===
+The two teams have never met before.
+
+<section begin=C2 />{{#invoke:football box|main
+|date={{Start date|2026|6|13}}
+|time=9:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|HAI}}
+|score={{score link|2026 FIFA World Cup Group C#Haiti vs Scotland|Match 5}}
+|team2={{#invoke:flag|fb|SCO}}
+|goals1=
+|goals2=
+|stadium=[[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021453 "Haiti vs Scotland {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=C2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _hai26A
+ |pattern_b  = _hai26A
+ |pattern_ra = _hai26A
+ |pattern_sh = _hai26A
+ |pattern_so = _hai26Al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Haiti
+}}
+|{{Football kit
+ |pattern_la = _sco26a
+ |pattern_b  = _sco26aA
+ |pattern_ra = _sco26a
+ |pattern_sh = _sco26a2
+ |pattern_so = _adidaswhitel
+ |leftarm    = fa4d4f
+ |body       = fa4d4f
+ |rightarm   = fa4d4f
+ |shorts     = 4C2882
+ |socks      = fa4d4f
+ |title      = Scotland
+}}
+|}
+
+===Scotland vs Morocco===
+The teams' only meeting took place in their final group stage match at the [[1998 FIFA World Cup]], as Morocco won [[1998 FIFA World Cup Group A#Scotland vs Morocco|3–0]].<ref>{{cite web|title=Scotland national football team: record v Morocco|url=https://www.11v11.com/teams/scotland/tab/opposingTeams/opposition/Morocco|website=11v11.com|access-date=5 December 2025}}</ref><ref>{{cite web|title=Morocco vs. Scotland Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/morocco_vs_scotland.php|website=thesoccerworldcups.com|access-date=5 December 2025}}</ref>
+
+<section begin=C3 />{{#invoke:football box|main
+|date={{Start date|2026|6|19}}
+|time=6:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|SCO}}
+|score={{score link|2026 FIFA World Cup Group C#Scotland vs Morocco|Match 30}}
+|team2={{#invoke:flag|fb|MAR}}
+|goals1=
+|goals2=
+|stadium=[[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021454 "Scotland vs Morocco {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=C3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sco26h
+ |pattern_b  = _sco26hA
+ |pattern_ra = _sco26h
+ |pattern_sh = _sco26h
+ |pattern_so = _sco26hl
+ |leftarm    = 000040
+ |body       = 000040
+ |rightarm   = 000040
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = Scotland
+}}
+|{{Football kit
+ |pattern_la = _mrc26a
+ |pattern_b  = _mrc26a
+ |pattern_ra = _mrc26a
+ |pattern_sh = _mrc26a
+ |pattern_so = _mrc26al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Morocco
+}}
+|}
+
+===Brazil vs Haiti===
+The teams have met thrice previously, most recently in 2016, a [[Copa América Centenario Group B#Brazil vs Haiti|7–1]] win for Brazil in the group stage of [[Copa América Centenario]].<ref>{{cite web|title=Brazil national football team: record v Haiti|url=https://www.11v11.com/teams/brazil/tab/opposingTeams/opposition/Haiti|website=11v11.com|access-date=December 5, 2025}}</ref>
+
+<section begin=C4 />{{#invoke:football box|main
+|date={{Start date|2026|6|19}}
+|time=8:30&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|BRA}}
+|score={{score link|2026 FIFA World Cup Group C#Brazil vs Haiti|Match 29}}
+|team2={{#invoke:flag|fb|HAI}}
+|goals1=
+|goals2=
+|stadium=[[Lincoln Financial Field]], [[Philadelphia]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021457 "Brazil vs Haiti {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=C4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra26a
+ |pattern_b  = _bra26a
+ |pattern_ra = _bra26a
+ |pattern_sh = _bra26a1
+ |pattern_so = 
+ |leftarm    = 2A4A9F
+ |body       = 2A4A9F
+ |rightarm   = 2A4A9F
+ |shorts     = 2A4A9F
+ |socks      = 0F0F0F
+ |title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = _hai26A
+ |pattern_b  = _hai26A
+ |pattern_ra = _hai26A
+ |pattern_sh = _hai26A
+ |pattern_so = _hai26Al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Haiti
+}}
+|}
+
+===Scotland vs Brazil===
+The teams have faced each other in ten previous matches including at the FIFA World Cup on four previous occasions, all of them in the first round. Their first meeting was a [[1974 FIFA World Cup Group 2#Scotland vs Brazil|0–0]] draw at the [[1974 FIFA World Cup]] and then Brazil won the next three group stage encounters: [[1982 FIFA World Cup Group 6#Brazil vs Scotland|4–1]] in [[1982 FIFA World Cup|1982]], [[1990 FIFA World Cup Group C#Brazil vs Scotland|1–0]] in [[1990 FIFA World Cup|1990]], and a [[1998 FIFA World Cup Group A#Brazil vs Scotland|2–1]] victory in the [[1998 FIFA World Cup]] opening match.<ref>{{cite web|title=Scotland vs. Brazil Head-to-Head in the World Cups|url=https://www.thesoccerworldcups.com/head_to_head/scotland_vs_brazil.php|website=thesoccerworldcups.com|access-date=5 December 2025}}</ref> Their latest match took place in 2011, as Brazil won a 2–0 friendly to keep their unbeaten head-to-head record.<ref>{{cite web|title=Scotland national football team: record v Brazil|url=https://www.11v11.com/teams/scotland/tab/opposingTeams/opposition/Brazil|website=11v11.com|access-date=5 December 2025}}</ref>
+
+<section begin=C5 />{{#invoke:football box|main
+|date={{Start date|2026|6|24}}
+|time=6:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|SCO}}
+|score={{score link|2026 FIFA World Cup Group C#Scotland vs Brazil|Match 49}}
+|team2={{#invoke:flag|fb|BRA}}
+|goals1=
+|goals2=
+|stadium=[[Hard Rock Stadium]], [[Miami Gardens, Florida|Miami Gardens]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455 "Scotland vs Brazil {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=C5 />
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sco26h
+ |pattern_b  = _sco26hA
+ |pattern_ra = _sco26h
+ |pattern_sh = _sco26h
+ |pattern_so = _sco26hl
+ |leftarm    = 000040
+ |body       = 000040
+ |rightarm   = 000040
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = Scotland
+}}
+|{{Football kit
+ |pattern_la = _bra26h
+ |pattern_b  = _bra26h
+ |pattern_ra = _bra26h
+ |pattern_sh = _bra26h1
+ |pattern_so = _bra26hl
+ |leftarm    = FFE540
+ |body       = FFE540
+ |rightarm   = FFE540
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|}
+
+===Morocco vs Haiti===
+The two teams have never met before.
+
+<section begin=C6 />{{#invoke:football box|main
+|date={{Start date|2026|6|24}}
+|time=6:00&nbsp;p.m. <includeonly>[[UTC−04:00|UTC−4]]</includeonly>
+|team1={{#invoke:flag|fb-rt|MAR}}
+|score={{score link|2026 FIFA World Cup Group C#Morocco vs Haiti|Match 50}}
+|team2={{#invoke:flag|fb|HAI}}
+|goals1=
+|goals2=
+|stadium=[[Mercedes-Benz Stadium]], [[Atlanta]]
+|attendance=
+|referee=
+|report=<ref group="Report">[https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452 "Morocco vs Haiti {{!}} First Stage {{!}} FIFA World Cup 2026"]. FIFA. Retrieved May 1, 2026.</ref>
+}}<section end=C6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mrc26h
+ |pattern_b  = _mrc26h
+ |pattern_ra = _mrc26h
+ |pattern_sh = _mrc26h2
+ |pattern_so = _mrc26hl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Morocco
+}}
+|{{Football kit
+ |pattern_la = _hai26H
+ |pattern_b  = _hai26H
+ |pattern_ra = _hai26H
+ |pattern_sh = _hai26H
+ |pattern_so = _hai26Hl
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Haiti
+}}
+|}
+
+==Discipline==
+The team conduct ("fair play") score will be used as a tiebreaker if the head-to-head and overall records of teams are tied. It will also be used as a tiebreaker for the [[2026 FIFA World Cup#Ranking of third-placed teams|third-place ranking]] between groups if the overall records of teams are tied. The score will be calculated based on yellow and red cards received by players and team officials in all group matches as follows:<ref name="regulations"/>
+*yellow card: −1 point;
+*indirect red card (second yellow card): −3 points;
+*direct red card: −4 points;
+*yellow card and direct red card: −5 points;
+
+Only one of the above deductions can be applied to a player or team official in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Score
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{#invoke:flag|fb|BRA}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|MAR}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|HAI}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|-
+|align=left|{{#invoke:flag|fb|SCO}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+!style="border-left:3px solid gray"| 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026}}
+
+{{2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Group C}}
+[[Category:2026 FIFA World Cup group stage|C]]
+[[Category:Brazil at the 2026 FIFA World Cup]]
+[[Category:Morocco at the 2026 FIFA World Cup]]
+[[Category:Haiti at the 2026 FIFA World Cup]]
+[[Category:Scotland at the 2026 FIFA World Cup]]
+[[Category:Sports competitions in Foxborough, Massachusetts]]
+[[Category:Soccer competitions in Massachusetts]]
+[[Category:2026 in sports in Massachusetts]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:2026 in sports in New Jersey]]
+[[Category:Soccer in Philadelphia]]
+[[Category:Soccer competitions in Pennsylvania]]
+[[Category:2026 in sports in Pennsylvania]]
+[[Category:2026 in Philadelphia]]
+[[Category:Sports competitions in Miami Gardens, Florida]]
+[[Category:Soccer competitions in Florida]]
+[[Category:2026 in sports in Florida]]
+[[Category:2026 in Miami-Dade County, Florida]]
+[[Category:Sports competitions in Atlanta]]
+[[Category:Soccer competitions in Georgia (U.S. state)]]
+[[Category:2026 in sports in Georgia (U.S. state)]]
+[[Category:2026 in Atlanta]]
+[[Category:Sports competitions in Philadelphia]]
+[[Category:Soccer in Atlanta]]
