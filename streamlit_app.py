@@ -1,4 +1,4 @@
-"""World Cup 2026 — interactive guide, bracket & predictor game (standalone).
+"""Mundial 26 — World Cup 2026 guide, bracket & predictor game (standalone).
 
 Groups · full 104-match schedule (with time-zone conversion) · a visual knockout bracket · an
 interactive "build your own bracket" predictor (share a code, score live against real results) ·
@@ -15,7 +15,7 @@ import streamlit as st
 import ui
 import wc2026 as wc
 
-st.set_page_config(page_title="World Cup 2026 · Bracket & Guide", page_icon="🏆", layout="wide")
+st.set_page_config(page_title="Mundial 26 · World Cup bracket & guide", page_icon="🏆", layout="wide")
 
 SKY = "#6CACE4"
 GOLD = "#FFD700"
@@ -388,7 +388,7 @@ else:
     cnt = ""
 st.markdown(
     f"<div class='wchero'><div class='wch-emblem'>🏆</div>"
-    f"<div class='wch-body'><div class='wch-kick'>FIFA World Cup</div><h1>2026</h1>"
+    f"<div class='wch-body'><div class='wch-kick'>Bracket · Schedule · Predictor</div><h1>Mundial 26</h1>"
     f"<div class='wch-sub'>The first <b>48-team</b> World Cup &nbsp;·&nbsp; hosted by {hosts}</div>"
     f"<div class='wch-dates'>📅 June 11 – July 19, 2026 &nbsp;·&nbsp; 🏆 Final at MetLife Stadium, New York</div>"
     f"</div>{cnt}</div>", unsafe_allow_html=True)
@@ -622,8 +622,8 @@ with t_play:
                     f"🥉 Third-place play-off (#103): {wc.box_slot(res[103]['t1'])} vs "
                     f"{wc.box_slot(res[103]['t2'])} → 🏅 <b>{wc.team_name(third3)}</b></div>",
                     unsafe_allow_html=True)
-    st.caption("**³** marks a 3rd-placed qualifier (auto-slotted by seeding — a stand-in for FIFA's "
-               "official table). Picks live only in your browser session.")
+    st.caption("**³** marks a 3rd-placed qualifier (auto-slotted by seeding — a stand-in for the "
+               "official best-thirds table). Picks live only in your browser session.")
 
     # ── Bracket pool: share your bracket as a code, paste friends' codes, and see a leaderboard
     # scored against real results (live as the tournament plays out). No backend — codes carry the
