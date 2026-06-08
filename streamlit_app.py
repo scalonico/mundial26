@@ -14,6 +14,7 @@ import streamlit as st
 
 import ui
 import wc2026 as wc
+import wchistory as wch
 
 st.set_page_config(page_title="Mundial 26 · World Cup bracket & guide", page_icon="🏆", layout="wide")
 
@@ -401,8 +402,8 @@ ui.stats([
 ])
 
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
-t_groups, t_sched, t_bracket, t_play, t_venues, t_teams = st.tabs(
-    ["🗓️ Groups", "📋 Schedule", "🏆 Bracket", "🎮 Bracket challenge", "🏟️ Venues", "🌍 Teams"], key="wc_tab")
+t_groups, t_sched, t_bracket, t_play, t_venues, t_teams, t_history = st.tabs(
+    ["🗓️ Groups", "📋 Schedule", "🏆 Bracket", "🎮 Challenge", "🏟️ Venues", "🌍 Teams", "📜 History"], key="wc_tab")
 
 def _koteam(x):
     return wc.team_label(x) if x in codes else wc.short_slot(x)
@@ -729,3 +730,113 @@ with t_teams:
                          f"<div><div class='nm' title='{r.name}'>{wc.short_name(r.name)}</div>"
                          f"<div class='mt'>{meta}</div></div></div>")
         st.markdown(f"<div class='wtgrid'>{''.join(cards)}</div>", unsafe_allow_html=True)
+
+# ── 📜 History — the complete 1930–2022 archive (data + queries in wchistory.py)
+WCH_CSS = """<style>
+.wch-champs { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:11px; margin:.4rem 0 .7rem; }
+.wch-champ { text-align:center; padding:13px 10px 11px; border-radius:13px; position:relative;
+    background:linear-gradient(165deg,rgba(58,47,0,.42),rgba(22,34,59,.92)); border:1px solid rgba(255,215,0,.34);
+    box-shadow:0 3px 14px rgba(0,0,0,.28); transition:transform .12s ease, box-shadow .12s ease; }
+.wch-champ:hover { transform:translateY(-3px); box-shadow:0 8px 22px rgba(255,215,0,.18); }
+.wch-yr { color:#FFD700; font-weight:800; font-size:1.06rem; letter-spacing:-.4px; }
+.wch-cfl { width:48px; height:32px; object-fit:cover; border-radius:4px; margin:7px 0 6px; box-shadow:0 2px 8px rgba(0,0,0,.45); }
+.wch-cnm { color:#fff; font-weight:800; font-size:.95rem; line-height:1.08; }
+.wch-csc { color:#9fb2cc; font-size:.71rem; margin-top:4px; line-height:1.28; }
+.wch-chost { color:#7e8ba5; font-size:.68rem; margin-top:6px; }
+.wch-chost img { height:9px; border-radius:1px; margin-right:3px; vertical-align:0; }
+.wch-h2h { text-align:center; font-size:1.45rem; font-weight:800; color:#eaf1fb; margin:.55rem 0 .55rem; }
+.wch-h2h b { color:#6CACE4; } .wch-h2h .d { color:#9aa3b2; font-size:1rem; font-weight:700; }
+.wch-mt { display:grid; grid-template-columns:48px 1fr 96px 1fr 1.05fr; align-items:center; gap:9px;
+    padding:6px 12px; margin-bottom:4px; border-radius:8px; background:linear-gradient(160deg,#1b2a47,#16223b);
+    border:1px solid rgba(108,172,228,.13); }
+.wch-mt .y { color:#8aa0bd; font-weight:700; font-size:.76rem; }
+.wch-mt .sc { font-weight:800; color:#fff; background:rgba(108,172,228,.14); border-radius:6px; padding:3px 0; text-align:center; font-size:.84rem; }
+.wch-mt .tm { display:flex; align-items:center; gap:7px; color:#eaf1fb; font-weight:600; font-size:.88rem; min-width:0; }
+.wch-mt .tm.r { justify-content:flex-end; text-align:right; }
+.wch-mt .tm img { width:21px; height:14px; object-fit:cover; border-radius:2px; flex:0 0 auto; }
+.wch-mt .tm span { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.wch-mt .st { color:#7e8ba5; font-size:.72rem; white-space:nowrap; text-align:right; }
+</style>"""
+_STAGE = {"group": "Group", "group-2": "2nd group", "final-round": "Final round", "round-of-16": "Round of 16",
+          "quarter-final": "Quarter-final", "semi-final": "Semi-final", "third-place": "3rd place", "final": "Final"}
+
+with t_history:
+    st.markdown(WCH_CSS, unsafe_allow_html=True)
+    rec = wch.records()
+    ui.stats([
+        ("Editions", "22", "1930 – 2022"),
+        ("Matches", f"{rec['matches']:,}", "all-time"),
+        ("Nations", str(rec["nations"]), "have competed"),
+        ("*Most titles", rec["most_titles"], f"{rec['most_titles_n']} World Cups"),
+    ])
+    st.caption("The complete men's World Cup, archived from 1930 — champions, all-time records and any "
+               "nation's head-to-head. West Germany counts with Germany; shootout knockouts count as draws.")
+
+    ui.section("🏆 Champions", "every World Cup winner, newest first")
+    cards = ""
+    for c in reversed(wch.champions()):
+        hf = wch.flag_url(c["host"], 20)
+        host = f"<img src='{hf}'>{c['host']}" if hf else c["host"]
+        cards += (f"<div class='wch-champ'><div class='wch-yr'>{c['year']}</div>"
+                  f"<img class='wch-cfl' src='{wch.flag_url(c['champion'], 80)}'>"
+                  f"<div class='wch-cnm'>{c['champion']}</div>"
+                  f"<div class='wch-csc'>def. {c['runner_up']}<br>{c['score']}</div>"
+                  f"<div class='wch-chost'>{host}</div></div>")
+    st.markdown(f"<div class='wch-champs'>{cards}</div>", unsafe_allow_html=True)
+
+    ui.section("🏛️ All-time table", "by titles · penalties = draws · West Germany folds into Germany")
+    at = wch.all_time_table().copy()
+    at.insert(0, " ", [wch.flag_url(n) for n in at["nation"]])
+    at = at.rename(columns={"nation": "Nation", "titles": "🏆", "finals": "Finals", "editions": "Eds"})
+    st.dataframe(at[[" ", "Nation", "🏆", "Finals", "Eds", "P", "W", "D", "L", "GF", "GA", "GD"]],
+                 hide_index=True, width="stretch", height=430,
+                 column_config={" ": st.column_config.ImageColumn(" ", width="small")})
+
+    ui.section("⚔️ Head-to-head", "every World Cup meeting between two nations")
+    noms = wch.nations()
+    hc = st.columns(2)
+    a = hc[0].selectbox("Nation A", noms, index=noms.index("Argentina"), key="wch_a")
+    b = hc[1].selectbox("Nation B", noms, index=noms.index("Brazil"), key="wch_b")
+    if a == b:
+        st.info("Pick two different nations.")
+    else:
+        hh = wch.head_to_head(a, b)
+        if hh.empty:
+            st.info(f"{a} and {b} have never met at a World Cup.")
+        else:
+            wa = wb = dr = 0
+            for x in hh.itertuples():
+                if x.home_score > x.away_score:
+                    w = x.home
+                elif x.away_score > x.home_score:
+                    w = x.away
+                elif pd.notna(x.pens_home) and x.pens_home != x.pens_away:
+                    w = x.home if x.pens_home > x.pens_away else x.away
+                else:
+                    w = None
+                fw = wch.fold(w) if w else None
+                wa += fw == a
+                wb += fw == b
+                dr += fw is None
+            st.markdown(f"<div class='wch-h2h'><b>{a}</b> {wa} <span class='d'>– {dr} –</span> {wb} <b>{b}</b>"
+                        f"<span style='display:block;font-size:.78rem;color:#8aa0bd;font-weight:600'>"
+                        f"{len(hh)} World Cup meeting{'s' if len(hh) != 1 else ''}</span></div>", unsafe_allow_html=True)
+            rows = ""
+            for x in hh.itertuples():
+                pen = (f" <span style='color:#9fb2cc;font-size:.72rem'>({int(x.pens_home)}-{int(x.pens_away)}p)</span>"
+                       if pd.notna(x.pens_home) else "")
+                rows += (f"<div class='wch-mt'><span class='y'>{int(x.year)}</span>"
+                         f"<div class='tm r'><span>{x.home}</span><img src='{wch.flag_url(x.home)}'></div>"
+                         f"<span class='sc'>{x.home_score}–{x.away_score}{pen}</span>"
+                         f"<div class='tm'><img src='{wch.flag_url(x.away)}'><span>{x.away}</span></div>"
+                         f"<span class='st'>{_STAGE.get(x.stage, x.stage)}</span></div>")
+            st.markdown(rows, unsafe_allow_html=True)
+
+    ui.section("📊 Records", "")
+    bw, hg = rec["biggest"], rec["highest"]
+    ui.features([
+        {"icon": "💥", "title": "Biggest win", "body": f"<b>{bw[0]} {bw[1]}–{bw[2]} {bw[3]}</b> · {bw[4]}"},
+        {"icon": "⚽", "title": "Highest-scoring", "body": f"<b>{hg[0]} {hg[1]}–{hg[2]} {hg[3]}</b> · {hg[4]}"},
+        {"icon": "🌍", "title": "Ever-present", "body": f"<b>{rec['most_apps']}</b> — all {rec['most_apps_n']} editions"},
+        {"icon": "🥅", "title": "Goals", "body": f"<b>{rec['goals']:,}</b> in {rec['matches']} matches", "gold": True},
+    ])
