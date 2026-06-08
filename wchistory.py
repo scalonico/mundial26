@@ -57,7 +57,7 @@ def matches():
 
 
 def years():
-    return sorted(matches()["year"].unique())
+    return [int(y) for y in sorted(matches()["year"].unique())]   # plain ints (numpy scalars trip widgets)
 
 
 def edition_matches(year):

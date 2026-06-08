@@ -805,11 +805,6 @@ with t_history:
 
     # ── edition browser — open any past World Cup: groups, knockouts, every match
     ui.section("🔭 Explore an edition", "open any past World Cup — group tables, knockout results, every match")
-    _hosts = {c["year"]: c["host"] for c in wch.champions()}
-    yrs = list(wch.years())[::-1]
-    ysel = int(st.selectbox("World Cup", yrs, index=0, key="wch_year",
-                            format_func=lambda y: f"{y}  ·  {_hosts.get(int(y), '')}"))
-    ov = wch.edition_overview(ysel)
 
     def _s(v):                                              # NaN-safe string cell
         return v if isinstance(v, str) else ""
@@ -837,40 +832,50 @@ with t_history:
                 f"<tr><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th><th>Pts</th></tr>"
                 f"{body}</table></div>")
 
-    cfl = wch.flag_url(ov["champion"], 40) if ov["champion"] else ""
-    champ = f"🏆 <img src='{cfl}'><b>{ov['champion']}</b>" if ov["champion"] else ""
-    st.markdown(f"<div class='wch-edhead'><div class='wch-edttl'>{ysel} <span>· {ov['host']}</span></div>"
-                f"<div class='wch-edmeta'><span>{champ}</span><span>{ov['matches']} matches</span>"
-                f"<span>{ov['goals']} goals</span></div></div>", unsafe_allow_html=True)
+    try:                                                    # never let the explorer crash the page (Cloud-safe)
+        _hosts = {int(c["year"]): c["host"] for c in wch.champions()}
+        yrs = [int(y) for y in wch.years()][::-1]
+        ysel = int(st.selectbox("World Cup", yrs, index=0, key="wch_year",
+                                format_func=lambda y: f"{int(y)}  ·  {_hosts.get(int(y), '')}"))
+        ov = wch.edition_overview(ysel)
+        cfl = wch.flag_url(ov["champion"], 40) if ov["champion"] else ""
+        champ = f"🏆 <img src='{cfl}'><b>{ov['champion']}</b>" if ov["champion"] else ""
+        st.markdown(f"<div class='wch-edhead'><div class='wch-edttl'>{ysel} <span>· {ov['host']}</span></div>"
+                    f"<div class='wch-edmeta'><span>{champ}</span><span>{ov['matches']} matches</span>"
+                    f"<span>{ov['goals']} goals</span></div></div>", unsafe_allow_html=True)
 
-    gts = wch.edition_group_tables(ysel)
-    _STG = {"group": "⚽ Group stage", "group-2": "⚽ Second group stage", "final-round": "🏆 Final round"}
-    by_stage = {}
-    for stage, g, tbl, gm in gts:
-        by_stage.setdefault(stage, []).append((g, tbl))
-    for stage in ("group", "group-2", "final-round"):
-        if stage in by_stage:
-            st.markdown(f"<div class='wch-stagehd'>{_STG[stage]}</div>", unsafe_allow_html=True)
-            st.markdown("<div class='wch-grpwrap'>"
-                        + "".join(_std_table(stage, g, tbl) for g, tbl in by_stage[stage])
-                        + "</div>", unsafe_allow_html=True)
+        gts = wch.edition_group_tables(ysel)
+        _STG = {"group": "⚽ Group stage", "group-2": "⚽ Second group stage", "final-round": "🏆 Final round"}
+        by_stage = {}
+        for stage, g, tbl, gm in gts:
+            by_stage.setdefault(stage, []).append((g, tbl))
+        for stage in ("group", "group-2", "final-round"):
+            if stage in by_stage:
+                st.markdown(f"<div class='wch-stagehd'>{_STG[stage]}</div>", unsafe_allow_html=True)
+                st.markdown("<div class='wch-grpwrap'>"
+                            + "".join(_std_table(stage, g, tbl) for g, tbl in by_stage[stage])
+                            + "</div>", unsafe_allow_html=True)
 
-    kos = wch.edition_knockouts(ysel)
-    if kos:
-        _KO = {"round-of-16": "Round of 16", "quarter-final": "Quarter-finals", "semi-final": "Semi-finals",
-               "third-place": "Third-place play-off", "final": "Final"}
-        st.markdown("<div class='wch-stagehd'>🏆 Knockout stage</div>", unsafe_allow_html=True)
-        for stage, mm in kos:
-            st.markdown(f"<div class='wch-koround'>{_KO.get(stage, stage)}</div>", unsafe_allow_html=True)
-            st.markdown("".join(_mt_row(x) for x in mm.itertuples()), unsafe_allow_html=True)
+        kos = wch.edition_knockouts(ysel)
+        if kos:
+            _KO = {"round-of-16": "Round of 16", "quarter-final": "Quarter-finals", "semi-final": "Semi-finals",
+                   "third-place": "Third-place play-off", "final": "Final"}
+            st.markdown("<div class='wch-stagehd'>🏆 Knockout stage</div>", unsafe_allow_html=True)
+            for stage, mm in kos:
+                st.markdown(f"<div class='wch-koround'>{_KO.get(stage, stage)}</div>", unsafe_allow_html=True)
+                st.markdown("".join(_mt_row(x) for x in mm.itertuples()), unsafe_allow_html=True)
 
-    if gts:
-        ngm = sum(len(gm) for *_, gm in gts)
-        with st.expander(f"🔎 All {ngm} group-stage matches"):
-            for stage, g, tbl, gm in gts:
-                lbl = f"Group {g}" if g else _STG.get(stage, stage)
-                st.markdown(f"<div class='wch-koround'>{lbl}</div>", unsafe_allow_html=True)
-                st.markdown("".join(_mt_row(x) for x in gm.itertuples()), unsafe_allow_html=True)
+        if gts:
+            ngm = sum(len(gm) for *_, gm in gts)
+            with st.expander(f"🔎 All {ngm} group-stage matches"):
+                for stage, g, tbl, gm in gts:
+                    lbl = f"Group {g}" if g else _STG.get(stage, stage)
+                    st.markdown(f"<div class='wch-koround'>{lbl}</div>", unsafe_allow_html=True)
+                    st.markdown("".join(_mt_row(x) for x in gm.itertuples()), unsafe_allow_html=True)
+    except Exception as _ed_err:                            # degrade gracefully; surface the trace for diagnosis
+        st.warning("⚠️ The edition explorer is temporarily unavailable — the rest of this page works normally.")
+        with st.expander("technical details"):
+            st.exception(_ed_err)
 
     ui.section("🏛️ All-time table", "by titles · penalties = draws · West Germany folds into Germany")
     at = wch.all_time_table().copy()
