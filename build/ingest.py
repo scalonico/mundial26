@@ -87,9 +87,10 @@ def flag_emoji(iso2):
 
 
 def wikitext(page):
-    """Cached wikitext for a Wikipedia page (fetch once, then reuse offline)."""
+    """Cached wikitext for a Wikipedia page (fetch once, then reuse offline). Set WC2026_REFRESH=1 to
+    bypass the cache and re-fetch live from Wikipedia (used by the tournament cron to pull fresh scores)."""
     fn = CACHE / (page.replace("2026 FIFA World Cup ", "").replace(" ", "_") + ".wikitext")
-    if fn.exists():
+    if fn.exists() and not __import__("os").environ.get("WC2026_REFRESH"):
         return fn.read_text(encoding="utf-8")
     url = "https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(
         {"action": "parse", "page": page, "prop": "wikitext", "format": "json", "redirects": 1})

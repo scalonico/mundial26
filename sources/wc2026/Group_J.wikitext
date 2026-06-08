@@ -78,7 +78,7 @@ Argentina has faced Algeria previously only once, a 4–3 friendly win in 2007.<
  |pattern_la = _alg26a
  |pattern_b  = _alg26aA
  |pattern_ra = _alg26a
- |pattern_sh = _adidasblack
+ |pattern_sh = _bel26a
  |pattern_so = _adidasblackl
  |leftarm    = 1b4531
  |body       = 1b4531
@@ -125,7 +125,7 @@ The two teams have never met before.
  |pattern_la = _jor26h
  |pattern_b  = _jor26h
  |pattern_ra = _jor26h
- |pattern_sh = 
+ |pattern_sh = _jor26h
  |pattern_so = 
  |leftarm    = FFFFFF
  |body       = FFFFFF
@@ -300,7 +300,7 @@ The two teams have never met before.
  |pattern_la = _jor26h
  |pattern_b  = _jor26h
  |pattern_ra = _jor26h
- |pattern_sh = 
+ |pattern_sh = _jor26h
  |pattern_so = 
  |leftarm    = FFFFFF
  |body       = FFFFFF

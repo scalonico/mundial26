@@ -31,7 +31,7 @@ It parses the public Wikipedia tournament articles (cached under `sources/` for 
 
 1. Push this folder to a GitHub repo.
 2. On [share.streamlit.io](https://share.streamlit.io), create an app pointing at `streamlit_app.py`.
-3. *(Optional, for live results)* add a GitHub Action on a cron that runs `python build/ingest.py` and commits the updated CSVs — the deployed app redeploys and shows the latest scores.
+3. **Live results are automatic.** The included GitHub Action (`.github/workflows/update-data.yml`) re-fetches scores from Wikipedia hourly and commits the updated CSVs; Streamlit Cloud redeploys on each push, so standings and the bracket fill in as matches are played. It only commits when the data actually changes (no churn), and you can disable it in the repo's **Actions** tab after the final.
 
 ## Data & attribution
 

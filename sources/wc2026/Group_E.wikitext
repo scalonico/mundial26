@@ -112,7 +112,7 @@ The two teams have never met before.
  |pattern_b  = _civ26h
  |pattern_ra = _civ26h
  |pattern_sh = _civ26h
- |pattern_so = 
+ |pattern_so = _civ26hl
  |leftarm    = ff7d1d
  |body       = ff7d1d
  |rightarm   = ff7d1d
@@ -172,7 +172,7 @@ The teams have previously faced each other once, in a 2009 friendly match that e
  |pattern_b  = _civ26h
  |pattern_ra = _civ26h
  |pattern_sh = _civ26h
- |pattern_so = 
+ |pattern_so = _civ26hl
  |leftarm    = ff7d1d
  |body       = ff7d1d
  |rightarm   = ff7d1d
@@ -266,7 +266,7 @@ The two teams have never met before.
  |pattern_b  = _civ26h
  |pattern_ra = _civ26h
  |pattern_sh = _civ26h
- |pattern_so = 
+ |pattern_so = _civ26hl
  |leftarm    = ff7d1d
  |body       = ff7d1d
  |rightarm   = ff7d1d
@@ -299,7 +299,7 @@ Germany has won the teams' two previous meetings: a [[2006 FIFA World Cup Group 
  |pattern_la = _ecu26h
  |pattern_b  = _ecu26h
  |pattern_ra = _ecu26h
- |pattern_sh = _ecu25h
+ |pattern_sh = _ecu26h
  |pattern_so = 
  |leftarm    = FFE80B
  |body       = FFE80B

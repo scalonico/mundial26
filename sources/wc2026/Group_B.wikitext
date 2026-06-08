@@ -43,7 +43,7 @@ In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name=
 All times listed are local.<ref name="match schedule"/>
 
 ===Canada vs Bosnia and Herzegovina=== 
-The two teams have never met before.
+The two teams have never met before. This will be Canada's home opener match, being that they are one of the three World Cup hosts.
 <section begin=B1 />{{#invoke:football box|main
 |date={{Start date|2026|6|12}}
 |time=3:00&nbsp;p.m. [[UTC−04:00|UTC−4]]
@@ -89,7 +89,7 @@ The two teams have never met before.
 |}
 
 ===Qatar vs Switzerland===
-Qatar has faced Switzerland previously only once, a 1–0 friendly win in 2018.<ref>{{cite web|title=Qatar national football team: record v Switzerland|url=https://www.11v11.com/teams/qatar/tab/opposingTeams/opposition/Switzerland|website=11v11.com|access-date=December 5, 2025}}</ref>
+The teams previously met in a 2018 friendly, which ended in a 1–0 win for Qatar.<ref>{{cite web|title=Qatar national football team: record v Switzerland|url=https://www.11v11.com/teams/qatar/tab/opposingTeams/opposition/Switzerland|website=11v11.com|access-date=December 5, 2025}}</ref>
 
 <section begin=B2 />{{#invoke:football box|main
 |date={{Start date|2026|6|13}}
@@ -298,12 +298,12 @@ The teams have met twice: Qatar won 2–0 in 2000, and their most recent meeting
  |pattern_b  = _bih26h
  |pattern_ra = _bih26
  |pattern_sh = 
- |pattern_so = 
- |leftarm    = 003FBF
- |body       = 003FBF
- |rightarm   = 003FBF
- |shorts     = 001b76
- |socks      = 001b76
+ |pattern_so = _bih26h
+ |leftarm    = 001970
+ |body       = 001970
+ |rightarm   = 001970
+ |shorts     = 001970
+ |socks      = 001970
  |title      = {{nowrap|Bosnia and Herzegovina}}
 }}
 |{{Football kit

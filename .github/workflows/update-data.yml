@@ -1,0 +1,46 @@
+# Live World Cup 2026 data refresh.
+# Re-fetches the latest scores/standings from Wikipedia and commits the updated CSVs — Streamlit
+# Community Cloud redeploys on each push, so the live app fills in results as matches are played.
+# Commits ONLY the data CSVs (not the wikitext cache), so off-match cosmetic edits don't churn the repo,
+# and post-tournament runs become harmless no-ops. Tune the cron, or disable this workflow in the GitHub
+# Actions tab once the final is played (Jul 19, 2026).
+
+name: Refresh live data
+
+on:
+  schedule:
+    - cron: "0 * * * *"        # hourly (UTC). Bump to "*/30 * * * *" for fresher; only pushes when data changes.
+  workflow_dispatch: {}         # also runnable on demand from the Actions tab
+
+permissions:
+  contents: write               # the run commits refreshed CSVs back to the repo
+
+concurrency:
+  group: refresh-live-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # The ingest is pure stdlib — no pip install needed.
+      - name: Re-ingest live data from Wikipedia
+        env:
+          WC2026_REFRESH: "1"   # bypass the cache → fetch fresh scores
+        run: python build/ingest.py
+      - name: Commit & push if the data changed
+        run: |
+          git config user.name  "wc2026-data-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/wc2026_matches.csv data/wc2026_teams.csv data/wc2026_venues.csv
+          if git diff --staged --quiet; then
+            echo "No data changes — nothing to commit."
+          else
+            git commit -m "Live data refresh — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "Pushed updated data."
+          fi

@@ -63,7 +63,7 @@ The teams have previously faced each other four times, most recently in 2022, a 
 |-
 |{{Football kit
  |pattern_la = _bel26h
- |pattern_b  = _bel26hA
+ |pattern_b  = _bel26h
  |pattern_ra = _bel26h
  |pattern_sh = _bel26h
  |pattern_so = _bel26hl
@@ -79,7 +79,7 @@ The teams have previously faced each other four times, most recently in 2022, a 
  |pattern_b  = _egy26a
  |pattern_ra = _mrc26a
  |pattern_sh = _gha26h
- |pattern_so = 
+ |pattern_so = _egy26al
  |leftarm    = FFFFFF
  |body       = FFFFFF
  |rightarm   = FFFFFF
@@ -109,9 +109,9 @@ The two teams have faced each other twice, most recently in the [[2003 AFC–OFC
 {| width=92%
 |-
 |{{Football kit
- |pattern_la = _irn22h
- |pattern_b  = _irn22h
- |pattern_ra = _irn22h
+ |pattern_la = _irn26h
+ |pattern_b  = _irn26h
+ |pattern_ra = _irn26h
  |pattern_sh = 
  |pattern_so = 
  |leftarm    = FFFFFF
@@ -169,9 +169,9 @@ The two teams have never met before.
  |title      = Belgium
 }}
 |{{Football kit
- |pattern_la = _irn22h
- |pattern_b  = _irn22h
- |pattern_ra = _irn22h
+ |pattern_la = _irn26h
+ |pattern_b  = _irn26h
+ |pattern_ra = _irn26h
  |pattern_sh = 
  |pattern_so = 
  |leftarm    = FFFFFF
@@ -207,7 +207,7 @@ The two teams have faced each other three times, most recently in the [[2024 FIF
  |pattern_b  = _nzl26h
  |pattern_ra = _nzl26h
  |pattern_sh = _nzl26h
- |pattern_so = 
+ |pattern_so = _nzl26hl
  |leftarm    = FFFFFF
  |body       = FFFFFF
  |rightarm   = FFFFFF
@@ -265,9 +265,9 @@ A "[[Pride (LGBTQ culture)|Pride]] Match" was planned in advance to take place i
  |title      = Egypt
 }}
 |{{Football kit
- |pattern_la = _irn22h
- |pattern_b  = _irn22h
- |pattern_ra = _irn22h
+ |pattern_la = _irn26h
+ |pattern_b  = _irn26h
+ |pattern_ra = _irn26h
  |pattern_sh = 
  |pattern_so = 
  |leftarm    = FFFFFF
@@ -303,7 +303,7 @@ The two teams have never met before.
  |pattern_b  = _nzl26h
  |pattern_ra = _nzl26h
  |pattern_sh = _nzl26h
- |pattern_so = 
+ |pattern_so = _nzl26hl
  |leftarm    = FFFFFF
  |body       = FFFFFF
  |rightarm   = FFFFFF
@@ -313,7 +313,7 @@ The two teams have never met before.
 }}
 |{{Football kit
  |pattern_la = _bel26h
- |pattern_b  = _bel26hA
+ |pattern_b  = _bel26h
  |pattern_ra = _bel26h
  |pattern_sh = _bel26h
  |pattern_so = _bel26hl

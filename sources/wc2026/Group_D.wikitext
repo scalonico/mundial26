@@ -43,7 +43,7 @@ In the [[2026 FIFA World Cup knockout stage#Round of 32|round of 32]]:<ref name=
 All times listed are local, [[UTC−07:00|UTC−7]] ([[Pacific Time Zone|PDT]]).<ref name="match schedule"/>
 
 ===United States vs Paraguay===
-The teams have met nine times previously, including once in the World Cup, a 3–0 victory in the [[1930 FIFA World Cup Group 4#United States vs Paraguay|group stage]] for the United States in [[1930 FIFA World Cup|1930]], and most recently in 2025, a 2–1 win for the host nation in a friendly.<ref>{{cite web|title=United States national football team: record v Paraguay|url=https://www.11v11.com/teams/usa/tab/opposingTeams/opposition/Paraguay|website=11v11.com|access-date=5 December 2025}}</ref>
+The teams have met nine times previously, including once in the World Cup, a 3–0 victory in the [[1930 FIFA World Cup Group 4#United States vs Paraguay|group stage]] for the United States in [[1930 FIFA World Cup|1930]], and most recently in 2025, a 2–1 win for the United States in a friendly.<ref>{{cite web|title=United States national football team: record v Paraguay|url=https://www.11v11.com/teams/usa/tab/opposingTeams/opposition/Paraguay|website=11v11.com|access-date=5 December 2025}}</ref> This game will be the USA's home opener, being that they are one of three World Cup hosts.
 
 <section begin=D1 />{{#invoke:football box|main
 |date={{Start date|2026|6|12}}
@@ -90,7 +90,7 @@ The teams have met nine times previously, including once in the World Cup, a 3�
 |}
 
 ===Australia vs Turkey===
-The teams played two times against each other, with Turkey winning both friendly matches played in May 2004.<ref>{{cite web|title=Australia national football team: record v Turkey|url=https://www.11v11.com/teams/australia/tab/opposingTeams/opposition/Turkey/|website=11v11.com|access-date=31 March 2026}}</ref>
+The teams have played against each other twice, with Turkey winning both friendly matches played in May 2004.<ref>{{cite web|title=Australia national football team: record v Turkey|url=https://www.11v11.com/teams/australia/tab/opposingTeams/opposition/Turkey/|website=11v11.com|access-date=31 March 2026}}</ref>
 <section begin=D2 />{{#invoke:football box|main
 |date={{Start date|2026|6|13}}
 |time=9:00&nbsp;p.m. <includeonly>[[UTC−07:00|UTC−7]]</includeonly>
@@ -298,7 +298,7 @@ The teams have previously faced each other five times, most recently in 2010, a 
  |pattern_la = _par26h
  |pattern_b  = _par26h
  |pattern_ra = _par26h
- |pattern_sh = 
+ |pattern_sh = _par26h2
  |pattern_so = 
  |leftarm    = FF0000
  |body       = FF0000
