@@ -60,7 +60,7 @@ html, body, [data-testid="stAppViewContainer"], [class*="css"] { font-family:'In
 header[data-testid="stHeader"] { background:transparent; }
 .stApp {
     background:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36'%3E%3Ccircle cx='18' cy='18' r='1.1' fill='%23ffffff' fill-opacity='.03'/%3E%3C/svg%3E"),
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49'%3E%3Cg fill='%236CACE4' fill-opacity='.05'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/svg%3E"),
         radial-gradient(760px 420px at 50% -10%, rgba(124,186,238,.34), transparent 62%),     /* sky spotlight behind the hero */
         radial-gradient(960px 560px at 0% 2%, rgba(46,201,138,.30), transparent 56%),           /* emerald — pitch */
         radial-gradient(920px 540px at 100% 6%, rgba(245,176,65,.24), transparent 54%),          /* amber — warmth */
@@ -244,9 +244,13 @@ WC_TABS_CSS = """<style>
 # shading, and a matchday-grouped schedule list. Plain string (CSS braces are literal). Injected once
 # at the top of the WC page branch.
 WC_POLISH_CSS = """<style>
-.wchero { display:flex; align-items:center; gap:22px; padding:18px 26px; margin:.1rem 0 1rem;
-    background:linear-gradient(115deg,#13233f 0%,#1d3b66 46%,#15294a 100%);
-    border:1px solid rgba(108,172,228,.30); border-radius:16px; box-shadow:0 10px 34px rgba(0,0,0,.42); }
+.wchero { position:relative; overflow:hidden; display:flex; align-items:center; gap:22px; padding:18px 26px; margin:.1rem 0 1rem;
+    background:
+        radial-gradient(440px 200px at 13% 38%, rgba(255,215,0,.13), transparent 70%),
+        radial-gradient(680px 280px at 90% 18%, rgba(90,201,160,.13), transparent 66%),
+        linear-gradient(118deg,#0f2c57 0%, #1e4f88 36%, #173a68 64%, #122a4e 100%);
+    border:1px solid rgba(124,186,238,.36); border-radius:16px;
+    box-shadow:0 10px 34px rgba(0,0,0,.42), inset 0 1px 0 rgba(255,255,255,.07); }
 .wch-emblem { width:90px; height:90px; flex:0 0 auto; display:flex; align-items:center; justify-content:center;
     font-size:58px; line-height:1; filter:drop-shadow(0 3px 9px rgba(0,0,0,.55)); }
 .wch-body { flex:1 1 auto; min-width:0; }
