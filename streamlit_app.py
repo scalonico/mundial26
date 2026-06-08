@@ -58,7 +58,16 @@ st.markdown("""<style>
 html, body, [data-testid="stAppViewContainer"], [class*="css"] { font-family:'Inter',system-ui,sans-serif; }
 #MainMenu, footer {visibility:hidden;}
 header[data-testid="stHeader"] { background:transparent; }
-.stApp { background: radial-gradient(1100px 560px at 50% -8%, #18294a 0%, #0e1726 58%); }
+.stApp {
+    background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36'%3E%3Ccircle cx='18' cy='18' r='1.1' fill='%23ffffff' fill-opacity='.03'/%3E%3C/svg%3E"),
+        radial-gradient(760px 420px at 50% -10%, rgba(124,186,238,.34), transparent 62%),     /* sky spotlight behind the hero */
+        radial-gradient(960px 560px at 0% 2%, rgba(46,201,138,.30), transparent 56%),           /* emerald — pitch */
+        radial-gradient(920px 540px at 100% 6%, rgba(245,176,65,.24), transparent 54%),          /* amber — warmth */
+        radial-gradient(880px 620px at 62% 112%, rgba(46,201,138,.16), transparent 60%),         /* emerald lift, bottom */
+        linear-gradient(168deg, #16345f 0%, #112744 40%, #0c1c34 72%, #0a1424 100%);             /* deep navy base */
+    background-attachment: fixed;
+}
 .block-container { padding-top: 2.0rem; max-width: 1180px; }
 [data-testid="stMetric"] { position:relative; overflow:hidden;
     background:linear-gradient(150deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16);
