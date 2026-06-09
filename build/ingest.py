@@ -235,6 +235,26 @@ def main():
     matches += ko
     matches.sort(key=lambda r: (r["match_no"] or 999))
 
+    # ── Fail-safe for the unattended tournament cron. WC-2026 has a FIXED shape: 12 groups × 4 teams,
+    # 104 matches (72 group + 32 knockout), all played at the 16 known venues. If a Wikipedia structure
+    # change ever makes the parse fall short, ABORT before writing anything — the cron then commits no
+    # change, the live site keeps its last-good data, and the run shows red in the Actions tab as a
+    # heads-up. (Scores filling in during play do NOT change these counts, so this never false-trips.)
+    ng = len(matches) - len(ko)
+    bad_venue = sorted({r["stadium"] for r in matches} - {v[0] for v in VENUES})
+    problems = []
+    if len(matches) != 104:
+        problems.append(f"{len(matches)} matches (expected 104)")
+    if ng != 72 or len(ko) != 32:
+        problems.append(f"{ng} group + {len(ko)} knockout (expected 72 + 32)")
+    if sum(len(v) for v in groups.values()) != 48 or any(len(v) != 4 for v in groups.values()):
+        problems.append("groups are not 12 × 4 teams")
+    if bad_venue:
+        problems.append(f"unknown venue(s): {bad_venue}")
+    if problems:
+        raise SystemExit("ABORT — the WC-2026 Wikipedia parse looks broken (" + "; ".join(problems)
+                         + "). Nothing written; last-good data kept. Check the source articles.")
+
     # teams.csv (group order = draw position within the group)
     DATA.mkdir(parents=True, exist_ok=True)
     with (DATA / "wc2026_teams.csv").open("w", newline="", encoding="utf-8") as f:
