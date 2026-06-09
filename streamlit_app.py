@@ -842,10 +842,10 @@ WCH_CSS = """<style>
 .wch-edmeta b { color:#FFD700; } .wch-edmeta img { height:13px; border-radius:2px; vertical-align:-2px; margin:0 4px 0 2px; }
 .wch-mascot { display:inline-flex; align-items:center; gap:10px; margin:0 0 .5rem; padding:7px 14px 7px 11px; border-radius:10px;
     background:linear-gradient(160deg,#1f2d4a,#16223b); border:1px solid rgba(108,172,228,.2); }
-.wch-mascot .em { font-size:1.55rem; line-height:1; }
+.wch-mascot .mpic { height:48px; width:auto; max-width:68px; object-fit:contain; border-radius:5px; box-shadow:0 2px 7px rgba(0,0,0,.4); }
 .wch-mascot .lbl { color:#6CACE4; font-weight:700; font-size:.66rem; text-transform:uppercase; letter-spacing:.4px; }
-.wch-mascot .nm { color:#fff; font-weight:800; font-size:.93rem; }
-.wch-mascot .ds { color:#9fb2cc; font-size:.79rem; }
+.wch-mascot .nm { color:#fff; font-weight:800; font-size:.95rem; }
+.wch-mascot .cr { color:#6f7e98; font-size:.63rem; display:block; margin-top:1px; }
 .wch-stagehd { color:#6CACE4; font-weight:800; font-size:.98rem; margin:.75rem 0 .35rem; }
 .wch-grpwrap { display:grid; grid-template-columns:repeat(auto-fill,minmax(256px,1fr)); gap:10px; margin:.2rem 0 .5rem; }
 .wch-grp { background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.14); border-radius:11px; padding:8px 11px 9px; }
@@ -904,6 +904,14 @@ WC_MASCOTS = {
     2014: ("🦔", "Fuleco", "a three-banded armadillo, an endangered Brazilian species"),
     2018: ("🐺", "Zabivaka", "a wolf — 'the one who scores' in Russian"),
     2022: ("🧞", "La'eeb", "a floating keffiyeh — 'super-skilled player' in Arabic"),
+}
+# Real costumed-mascot photos that are FREELY licensed (CC BY-SA, Wikimedia Commons) — {year: (url, credit)}.
+# The classic mascots exist only as copyrighted logos (no free image), so they show name-only.
+WC_MASCOT_IMG = {
+    2006: ("https://upload.wikimedia.org/wikipedia/commons/d/da/Goleo_VI.jpg", "LLs"),
+    2010: ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%E5%8D%97%E9%9D%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9_%284415844526%29.jpg/250px-%E5%8D%97%E9%9D%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9_%284415844526%29.jpg", "shizhao"),
+    2014: ("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fuleco_-_Brasil_2014.jpg/250px-Fuleco_-_Brasil_2014.jpg", "Darthvader2"),
+    2018: ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zabivaka_2017.jpg/250px-Zabivaka_2017.jpg", "Кирилл Венедиктов"),
 }
 
 with t_history:
@@ -1010,11 +1018,17 @@ with t_history:
 
         _ms = WC_MASCOTS.get(int(sel))
         if _ms:
-            st.markdown(f"<div class='wch-mascot'><span class='em'>{_ms[0]}</span><span>"
-                        f"<span class='lbl'>Mascot</span> &nbsp;<span class='nm'>{_ms[1]}</span>"
-                        f" <span class='ds'>· {_ms[2]}</span></span></div>", unsafe_allow_html=True)
+            _img = WC_MASCOT_IMG.get(int(sel))
+            if _img:
+                st.markdown(f"<div class='wch-mascot'><img class='mpic' src='{_img[0]}' "
+                            f"title='Photo: {_img[1]} · CC BY-SA · Wikimedia Commons'>"
+                            f"<span><span class='lbl'>Mascot</span> <span class='nm'>{_ms[1]}</span>"
+                            f"<span class='cr'>photo by {_img[1]} · CC BY-SA</span></span></div>", unsafe_allow_html=True)
+            else:
+                st.markdown(f"<div class='wch-mascot'><span class='lbl'>Mascot</span> "
+                            f"<span class='nm'>{_ms[1]}</span></div>", unsafe_allow_html=True)
         elif int(sel) < 1966:
-            st.caption("🎭 No official mascot this year — World Cup mascots began with World Cup Willie in 1966.")
+            st.caption("No official mascot this year — World Cup mascots began with World Cup Willie in 1966.")
 
         gts = wch.edition_group_tables(sel)
         _STG = {"group": "⚽ Group stage", "group-2": "⚽ Second group stage", "final-round": "🏆 Final round"}
