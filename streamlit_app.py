@@ -908,6 +908,9 @@ WC_MASCOTS = {
 # Real costumed-mascot photos that are FREELY licensed (CC BY-SA, Wikimedia Commons) — {year: (url, credit)}.
 # The classic mascots exist only as copyrighted logos (no free image), so they show name-only.
 WC_MASCOT_IMG = {
+    1970: ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Juanito_mexico70.jpg/250px-Juanito_mexico70.jpg", "Pino alpino"),
+    1990: ("https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mascotte_di_italia_90.JPG/250px-Mascotte_di_italia_90.JPG", "Sailko"),
+    1994: ("https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Striker_USA_94.JPG/250px-Striker_USA_94.JPG", "Ricohin"),
     2006: ("https://upload.wikimedia.org/wikipedia/commons/d/da/Goleo_VI.jpg", "LLs"),
     2010: ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%E5%8D%97%E9%9D%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9_%284415844526%29.jpg/250px-%E5%8D%97%E9%9D%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9_%284415844526%29.jpg", "shizhao"),
     2014: ("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fuleco_-_Brasil_2014.jpg/250px-Fuleco_-_Brasil_2014.jpg", "Darthvader2"),
