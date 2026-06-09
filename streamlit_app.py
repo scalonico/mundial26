@@ -885,6 +885,26 @@ WCH_CSS = """<style>
 </style>"""
 _STAGE = {"group": "Group", "group-2": "2nd group", "final-round": "Final round", "round-of-16": "Round of 16",
           "quarter-final": "Quarter-final", "semi-final": "Semi-final", "third-place": "3rd place", "final": "Final"}
+# Official World Cup mascots (emoji · name · what it is). Mascots began in 1966; 1930–62 had none.
+# Kept HERE in the main script (not wchistory) so a Streamlit Cloud module-cache miss can't break it,
+# and emoji-only (the real mascot artwork is trademarked — consistent with avoiding FIFA marks).
+WC_MASCOTS = {
+    1966: ("🦁", "World Cup Willie", "a lion in a Union-Jack shirt — the first-ever World Cup mascot"),
+    1970: ("🧒", "Juanito", "a boy in Mexico's kit and a sombrero"),
+    1974: ("👦", "Tip & Tap", "two boys in West Germany shirts reading WM and 74"),
+    1978: ("🧒", "Gauchito", "a boy in Argentina's kit with a gaucho hat and whip"),
+    1982: ("🍊", "Naranjito", "a smiling orange in Spain's kit"),
+    1986: ("🌶️", "Pique", "a jalapeño pepper with a sombrero and moustache"),
+    1990: ("⚽", "Ciao", "a stick figure with a football head in Italy's colours"),
+    1994: ("🐶", "Striker", "a dog in a USA kit — 'the World Cup Pup'"),
+    1998: ("🐓", "Footix", "a blue cockerel, the emblem of France"),
+    2002: ("🛸", "The Spheriks", "Ato, Kaz & Nik — futuristic computer-generated creatures"),
+    2006: ("🦁", "Goleo VI", "a lion, alongside a talking football named Pille"),
+    2010: ("🐆", "Zakumi", "a leopard with green hair"),
+    2014: ("🦔", "Fuleco", "a three-banded armadillo, an endangered Brazilian species"),
+    2018: ("🐺", "Zabivaka", "a wolf — 'the one who scores' in Russian"),
+    2022: ("🧞", "La'eeb", "a floating keffiyeh — 'super-skilled player' in Arabic"),
+}
 
 with t_history:
     st.markdown(WCH_CSS, unsafe_allow_html=True)
@@ -988,7 +1008,7 @@ with t_history:
                     f"<div class='wch-edmeta'><span>{champ}</span><span>{ov['matches']} matches</span>"
                     f"<span>{ov['goals']} goals</span></div></div>", unsafe_allow_html=True)
 
-        _ms = wch.mascot(sel)
+        _ms = WC_MASCOTS.get(int(sel))
         if _ms:
             st.markdown(f"<div class='wch-mascot'><span class='em'>{_ms[0]}</span><span>"
                         f"<span class='lbl'>Mascot</span> &nbsp;<span class='nm'>{_ms[1]}</span>"
