@@ -132,6 +132,32 @@ def advanced_from(year, stage):
     return out
 
 
+# Official World Cup mascots (emoji · name · what it is). Mascots began in 1966 (World Cup Willie);
+# 1930–1962 had none. Emoji is a stand-in — the actual mascot artwork is trademarked, so kept descriptive.
+MASCOTS = {
+    1966: ("🦁", "World Cup Willie", "a lion in a Union-Jack shirt — the first-ever World Cup mascot"),
+    1970: ("🧒", "Juanito", "a boy in Mexico's kit and a sombrero"),
+    1974: ("👦", "Tip & Tap", "two boys in West Germany shirts reading WM and 74"),
+    1978: ("🧒", "Gauchito", "a boy in Argentina's kit with a gaucho hat and whip"),
+    1982: ("🍊", "Naranjito", "a smiling orange in Spain's kit"),
+    1986: ("🌶️", "Pique", "a jalapeño pepper with a sombrero and moustache"),
+    1990: ("⚽", "Ciao", "a stick figure with a football head in Italy's colours"),
+    1994: ("🐶", "Striker", "a dog in a USA kit — 'the World Cup Pup'"),
+    1998: ("🐓", "Footix", "a blue cockerel, the emblem of France"),
+    2002: ("🛸", "The Spheriks", "Ato, Kaz & Nik — futuristic computer-generated creatures"),
+    2006: ("🦁", "Goleo VI", "a lion, alongside a talking football named Pille"),
+    2010: ("🐆", "Zakumi", "a leopard with green hair"),
+    2014: ("🦔", "Fuleco", "a three-banded armadillo, an endangered Brazilian species"),
+    2018: ("🐺", "Zabivaka", "a wolf — 'the one who scores' in Russian"),
+    2022: ("🧞", "La'eeb", "a floating keffiyeh — 'super-skilled player' in Arabic"),
+}
+
+
+def mascot(year):
+    """(emoji, name, description) for an edition's official mascot, or None (pre-1966)."""
+    return MASCOTS.get(int(year))
+
+
 def edition_overview(year):
     """Headline facts for one edition (champion/host/match & goal totals)."""
     em = edition_matches(year)

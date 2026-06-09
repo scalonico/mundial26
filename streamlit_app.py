@@ -840,6 +840,12 @@ WCH_CSS = """<style>
 .wch-edttl span { color:#9fb2cc; font-weight:600; font-size:.92rem; }
 .wch-edmeta { display:flex; gap:15px; margin-left:auto; align-items:center; color:#cfe0f5; font-size:.85rem; white-space:nowrap; }
 .wch-edmeta b { color:#FFD700; } .wch-edmeta img { height:13px; border-radius:2px; vertical-align:-2px; margin:0 4px 0 2px; }
+.wch-mascot { display:inline-flex; align-items:center; gap:10px; margin:0 0 .5rem; padding:7px 14px 7px 11px; border-radius:10px;
+    background:linear-gradient(160deg,#1f2d4a,#16223b); border:1px solid rgba(108,172,228,.2); }
+.wch-mascot .em { font-size:1.55rem; line-height:1; }
+.wch-mascot .lbl { color:#6CACE4; font-weight:700; font-size:.66rem; text-transform:uppercase; letter-spacing:.4px; }
+.wch-mascot .nm { color:#fff; font-weight:800; font-size:.93rem; }
+.wch-mascot .ds { color:#9fb2cc; font-size:.79rem; }
 .wch-stagehd { color:#6CACE4; font-weight:800; font-size:.98rem; margin:.75rem 0 .35rem; }
 .wch-grpwrap { display:grid; grid-template-columns:repeat(auto-fill,minmax(256px,1fr)); gap:10px; margin:.2rem 0 .5rem; }
 .wch-grp { background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.14); border-radius:11px; padding:8px 11px 9px; }
@@ -981,6 +987,14 @@ with t_history:
         st.markdown(f"<div class='wch-edhead'><div class='wch-edttl'>{sel} <span>· {ov['host']}</span></div>"
                     f"<div class='wch-edmeta'><span>{champ}</span><span>{ov['matches']} matches</span>"
                     f"<span>{ov['goals']} goals</span></div></div>", unsafe_allow_html=True)
+
+        _ms = wch.mascot(sel)
+        if _ms:
+            st.markdown(f"<div class='wch-mascot'><span class='em'>{_ms[0]}</span><span>"
+                        f"<span class='lbl'>Mascot</span> &nbsp;<span class='nm'>{_ms[1]}</span>"
+                        f" <span class='ds'>· {_ms[2]}</span></span></div>", unsafe_allow_html=True)
+        elif int(sel) < 1966:
+            st.caption("🎭 No official mascot this year — World Cup mascots began with World Cup Willie in 1966.")
 
         gts = wch.edition_group_tables(sel)
         _STG = {"group": "⚽ Group stage", "group-2": "⚽ Second group stage", "final-round": "🏆 Final round"}
