@@ -680,25 +680,103 @@ with t_play:
         st.caption("Scoring — group qualifier 1 · reach R16 1 · QF 2 · SF 4 · Final 8 · champion 16. "
                    "Updates live as results come in.")
 
+VENUE_CSS = """<style>
+.st-key-venuegrid [data-testid="stColumn"] { padding:0 5px; }
+.st-key-venuegrid .stButton button, .st-key-venuegrid button {
+    width:100%; min-height:108px; border-radius:12px; padding:10px 12px; border:1px solid rgba(108,172,228,.22);
+    color:#fff !important; font-weight:800; font-size:.9rem; line-height:1.12; text-align:left; white-space:normal;
+    display:flex; align-items:flex-end; justify-content:flex-start; background-color:#16223b;
+    background-size:cover !important; background-position:center !important;
+    box-shadow:0 3px 12px rgba(0,0,0,.32); transition:transform .12s ease, box-shadow .12s ease; }
+.st-key-venuegrid button p { margin:0; text-shadow:0 1px 4px rgba(0,0,0,.8); }
+.st-key-venuegrid button:hover { transform:translateY(-2px); box-shadow:0 8px 20px rgba(0,0,0,.42); border-color:#6CACE4; }
+.ven-head { display:flex; align-items:center; flex-wrap:wrap; gap:12px; margin:.7rem 0 .5rem; padding:12px 16px;
+    border-radius:13px; background:linear-gradient(150deg,rgba(20,42,74,.72),rgba(22,34,59,.94)); border:1px solid rgba(108,172,228,.26); }
+.ven-head .nm { font-size:1.3rem; font-weight:800; color:#fff; letter-spacing:-.4px; }
+.ven-head .loc { color:#9fb2cc; font-size:.84rem; margin-top:1px; }
+.ven-head .meta { color:#cfe0f5; font-size:.86rem; margin-left:auto; white-space:nowrap; }
+.ven-head .meta b { color:#6CACE4; }
+.ven-sub { color:#6CACE4; font-weight:800; font-size:.95rem; margin:.7rem 0 .35rem; }
+.ven-mt { display:grid; grid-template-columns:60px 1fr 46px 1fr 104px; align-items:center; gap:8px;
+    padding:6px 12px; margin-bottom:4px; border-radius:8px; background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.13); }
+.ven-mt .dt { color:#8aa0bd; font-weight:700; font-size:.74rem; white-space:nowrap; }
+.ven-mt .vs { text-align:center; color:#9fb2cc; font-weight:800; font-size:.8rem; }
+.ven-mt .tmc { display:flex; align-items:center; gap:7px; color:#eaf1fb; font-weight:600; font-size:.86rem; min-width:0; }
+.ven-mt .tmc.r { justify-content:flex-end; text-align:right; }
+.ven-mt .tmc img { width:21px; height:14px; object-fit:cover; border-radius:2px; flex:0 0 auto; }
+.ven-mt .tmc span { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.ven-mt .tmc .slot { color:#9fb2cc; font-weight:600; font-size:.8rem; }
+.ven-mt .tag { color:#7e8ba5; font-size:.72rem; text-align:right; white-space:nowrap; }
+</style>"""
+
 with t_venues:
+    st.markdown(VENUE_CSS, unsafe_allow_html=True)
     ui.stats([
         ("Venues", "16", "stadiums"),
         ("Host countries", "3", "Canada · Mexico · USA"),
         ("Biggest", "Estadio Azteca", "Mexico City · 83,264"),
         ("*Total seats", f"{int(ven['capacity'].sum()):,}", "across all 16"),
     ])
-    st.caption("16 stadiums across Canada, Mexico and the USA. The **Final** is at MetLife Stadium; "
-               "the **opening match** at the iconic Estadio Azteca — a record third World Cup.")
-    # grouped by host country (most venues first); cards by capacity within each
-    for country in ven.groupby("country")["capacity"].count().sort_values(ascending=False).index:
-        cv = ven[ven.country == country].sort_values("capacity", ascending=False)
-        flag = f"<img src='{host_flag(country, 40)}' height='15' " \
-               "style='vertical-align:-2px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.3)'>"
-        ui.section(f"{flag} &nbsp;{country}", f"{len(cv)} venue{'s' if len(cv) != 1 else ''}")
-        ui.photo_cards([
-            {"photo": wc.venue_photo(r.stadium), "title": r.stadium,
-             "sub": r.city, "badge": f"{int(r.capacity):,} seats"}
-            for r in cv.itertuples()])
+    st.caption("16 stadiums across Canada, Mexico and the USA — the **Final** at MetLife, the **opening "
+               "match** at the iconic Estadio Azteca. **Tap any stadium** to see its full fixture list — "
+               "group games and knockouts.")
+
+    def _slug(s):
+        return "".join(ch if ch.isalnum() else "_" for ch in str(s).lower())
+
+    st.markdown("<style>" + "".join(
+        f".st-key-ven_{_slug(r.stadium)} button{{background-image:"
+        f"linear-gradient(180deg,rgba(11,18,32,.05) 24%,rgba(11,18,32,.93)),url('{wc.venue_photo(r.stadium)}') !important;}}"
+        for r in ven.itertuples()) + "</style>", unsafe_allow_html=True)
+    if st.session_state.get("sel_venue") not in set(ven["stadium"]):
+        st.session_state["sel_venue"] = "MetLife Stadium"          # hosts the Final
+
+    with st.container(key="venuegrid"):
+        for country in ven.groupby("country")["capacity"].count().sort_values(ascending=False).index:
+            cv = list(ven[ven.country == country].sort_values("capacity", ascending=False).itertuples())
+            flag = f"<img src='{host_flag(country, 40)}' height='15' " \
+                   "style='vertical-align:-2px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.3)'>"
+            ui.section(f"{flag} &nbsp;{country}", f"{len(cv)} venue{'s' if len(cv) != 1 else ''}")
+            for k in range(0, len(cv), 4):
+                cols = st.columns(4)
+                for j, r in enumerate(cv[k:k + 4]):
+                    with cols[j]:
+                        n = int((ms.stadium == r.stadium).sum())
+                        if st.button(r.stadium, key=f"ven_{_slug(r.stadium)}",
+                                     help=f"{int(r.capacity):,} seats · {n} matches"):
+                            st.session_state["sel_venue"] = r.stadium
+
+    sel = st.session_state["sel_venue"]
+    st.markdown(f"<style>.st-key-ven_{_slug(sel)} button{{outline:2px solid #FFD700;outline-offset:-2px;"
+                f"border-color:#FFD700 !important;}}</style>", unsafe_allow_html=True)
+
+    vr = ven[ven.stadium == sel].iloc[0]
+    vm = ms[ms.stadium == sel].sort_values("match_no")
+    st.markdown(f"<div class='ven-head'><div><div class='nm'>🏟️ {sel}</div>"
+                f"<div class='loc'>{vr.city}, {vr.country}</div></div>"
+                f"<div class='meta'><b>{int(vr.capacity):,}</b> seats &nbsp;·&nbsp; <b>{len(vm)}</b> matches</div></div>",
+                unsafe_allow_html=True)
+
+    def _vmrow(x):
+        def cell(val, right):
+            fl = wc.code_flag(val)
+            inner = (f"<img src='{fl}'><span>{wc.team_name(val)}</span>" if fl
+                     else f"<span class='slot'>{val}</span>")
+            return f"<div class='tmc{' r' if right else ''}'>{inner}</div>"
+        dt = f"{x.date.day} {x.date.strftime('%b')}" if pd.notna(x.date) else ""
+        mid = f"{int(x.score1)}–{int(x.score2)}" if x.played else "v"
+        tag = f"Group {x.group}" if x.stage == "group" else x.stage_name
+        return (f"<div class='ven-mt'><span class='dt'>{dt}</span>{cell(x.team1, True)}"
+                f"<span class='vs'>{mid}</span>{cell(x.team2, False)}<span class='tag'>{tag}</span></div>")
+
+    gm = vm[vm.stage == "group"]
+    ko = vm[vm.stage != "group"]
+    if len(gm):
+        st.markdown("<div class='ven-sub'>⚽ Group stage</div>", unsafe_allow_html=True)
+        st.markdown("".join(_vmrow(x) for x in gm.itertuples()), unsafe_allow_html=True)
+    if len(ko):
+        st.markdown("<div class='ven-sub'>🏆 Knockout stage</div>", unsafe_allow_html=True)
+        st.markdown("".join(_vmrow(x) for x in ko.itertuples()), unsafe_allow_html=True)
 
 with t_teams:
     conf = wc.confederation_counts()
