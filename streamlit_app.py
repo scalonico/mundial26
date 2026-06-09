@@ -785,8 +785,9 @@ WCH_CSS = """<style>
 .st-key-champsgrid .stButton button:hover, .st-key-champsgrid button:hover { border-color:#FFD700; color:#fff; }
 /* knockout bracket (funnel) */
 .wch-bracket { display:flex; gap:13px; align-items:stretch; overflow-x:auto; padding:6px 2px 2px; }
-.wch-bcol { display:flex; flex-direction:column; justify-content:space-around; gap:9px; min-width:160px; flex:1 0 148px; }
-.wch-bct { color:#8aa0bd; font-weight:700; font-size:.7rem; text-transform:uppercase; letter-spacing:.4px; text-align:center; margin-bottom:2px; }
+.wch-bcol { display:flex; flex-direction:column; min-width:158px; flex:1 1 0; }
+.wch-bct { color:#8aa0bd; font-weight:700; font-size:.7rem; text-transform:uppercase; letter-spacing:.4px; text-align:center; margin-bottom:6px; flex:0 0 auto; }
+.wch-bcards { flex:1 1 auto; display:flex; flex-direction:column; justify-content:space-around; }
 .wch-bm { background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); border-radius:8px; padding:5px 8px; }
 .wch-bm.gold { border-color:rgba(255,215,0,.55); background:linear-gradient(160deg,#2c2a12,#1a2238); box-shadow:0 2px 16px rgba(255,215,0,.16); }
 .wch-bt { display:grid; grid-template-columns:18px 1fr auto; align-items:center; gap:6px; padding:2px 0; color:#9fb2cc; font-size:.79rem; }
@@ -846,11 +847,12 @@ with t_history:
                 f"<div class='tm'><img src='{wch.flag_url(x.away)}'><span>{x.away}</span></div>"
                 f"<span class='st'>{place}</span></div>")
 
-    def _std_table(stage, g, tbl):
+    def _std_table(stage, g, tbl, qual):
         head = f"Group {g}" if g else ("Final pool" if stage == "final-round" else "Group")
         body = ""
         for i, r in enumerate(tbl.itertuples()):
-            lead = " class='lead'" if i < 2 else ""
+            advanced = (r.team in qual) if qual else (i == 0)   # final pool (nothing downstream) → mark winner
+            lead = " class='lead'" if advanced else ""
             body += (f"<tr{lead}><td class='tm'><img src='{wch.flag_url(r.team)}'>{r.team}</td>"
                      f"<td>{r.P}</td><td>{r.W}</td><td>{r.D}</td><td>{r.L}</td>"
                      f"<td>{r.GF}</td><td>{r.GA}</td><td class='pts'>{r.Pts}</td></tr>")
@@ -883,7 +885,7 @@ with t_history:
         for s in ("round-of-16", "quarter-final", "semi-final", "final"):
             if s in by and len(by[s]):
                 cards = "".join(_bmatch(x, gold=(s == "final")) for x in by[s].itertuples())
-                cols += f"<div class='wch-bcol'><div class='wch-bct'>{lbl[s]}</div>{cards}</div>"
+                cols += f"<div class='wch-bcol'><div class='wch-bct'>{lbl[s]}</div><div class='wch-bcards'>{cards}</div></div>"
         html = f"<div class='wch-bracket'>{cols}</div>"
         if "third-place" in by and len(by["third-place"]):
             x = next(by["third-place"].itertuples())
@@ -909,9 +911,10 @@ with t_history:
             by_stage.setdefault(stage, []).append((g, tbl))
         for stage in ("group", "group-2", "final-round"):
             if stage in by_stage:
+                qual = wch.advanced_from(sel, stage)
                 st.markdown(f"<div class='wch-stagehd'>{_STG[stage]}</div>", unsafe_allow_html=True)
                 st.markdown("<div class='wch-grpwrap'>"
-                            + "".join(_std_table(stage, g, tbl) for g, tbl in by_stage[stage])
+                            + "".join(_std_table(stage, g, tbl, qual) for g, tbl in by_stage[stage])
                             + "</div>", unsafe_allow_html=True)
 
         kos = wch.edition_knockouts(sel)

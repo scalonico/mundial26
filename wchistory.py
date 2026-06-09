@@ -113,6 +113,25 @@ def edition_knockouts(year):
     return [(s, df[df["stage"] == s].sort_values("date")) for s in _KO_ORDER if (df["stage"] == s).any()]
 
 
+# how far each stage is into the tournament (higher = later); groups feed everything above them.
+_SRANK = {"group": 0, "group-2": 1, "final-round": 1, "round-of-16": 2,
+          "quarter-final": 3, "semi-final": 4, "third-place": 5, "final": 5}
+
+
+def advanced_from(year, stage):
+    """Teams that PROGRESSED past a group `stage` — i.e. show up in any later-ranked stage.
+    Data-driven, so it's correct for every era: 1 per group (1930/1950, only winners advanced),
+    2 per group (most), or 2 + best-thirds (1986/1994, where some groups send 3)."""
+    df = edition_matches(year)
+    r = _SRANK.get(stage, -1)
+    out = set()
+    for x in df.itertuples():
+        if _SRANK.get(x.stage, -1) > r:
+            out.add(x.home)
+            out.add(x.away)
+    return out
+
+
 def edition_overview(year):
     """Headline facts for one edition (champion/host/match & goal totals)."""
     em = edition_matches(year)
