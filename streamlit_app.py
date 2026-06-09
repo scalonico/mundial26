@@ -775,6 +775,28 @@ WCH_CSS = """<style>
 .wch-gt td.pts { color:#fff; font-weight:800; }
 .wch-gt tr.lead td { background:rgba(108,172,228,.10); }
 .wch-koround { color:#8aa0bd; font-weight:700; font-size:.78rem; text-transform:uppercase; letter-spacing:.4px; margin:.55rem 0 .25rem; }
+/* clickable champions grid (the year opens that edition) */
+.wch-cv { text-align:center; padding:1px 1px 0; }
+.wch-cv img { width:44px; height:29px; object-fit:cover; border-radius:3px; box-shadow:0 2px 7px rgba(0,0,0,.45); }
+.wch-cv .nm { color:#cfe0f5; font-size:.71rem; font-weight:600; margin-top:3px; line-height:1.04; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.st-key-champsgrid [data-testid="stColumn"] { padding:0 3px; }
+.st-key-champsgrid .stButton button, .st-key-champsgrid button { width:100%; padding:1px 0 2px; min-height:0; border-radius:8px;
+    font-weight:800; font-size:.94rem; color:#FFD700; background:linear-gradient(165deg,rgba(58,47,0,.34),rgba(22,34,59,.82)); border:1px solid rgba(255,215,0,.30); }
+.st-key-champsgrid .stButton button:hover, .st-key-champsgrid button:hover { border-color:#FFD700; color:#fff; }
+/* knockout bracket (funnel) */
+.wch-bracket { display:flex; gap:13px; align-items:stretch; overflow-x:auto; padding:6px 2px 2px; }
+.wch-bcol { display:flex; flex-direction:column; justify-content:space-around; gap:9px; min-width:160px; flex:1 0 148px; }
+.wch-bct { color:#8aa0bd; font-weight:700; font-size:.7rem; text-transform:uppercase; letter-spacing:.4px; text-align:center; margin-bottom:2px; }
+.wch-bm { background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); border-radius:8px; padding:5px 8px; }
+.wch-bm.gold { border-color:rgba(255,215,0,.55); background:linear-gradient(160deg,#2c2a12,#1a2238); box-shadow:0 2px 16px rgba(255,215,0,.16); }
+.wch-bt { display:grid; grid-template-columns:18px 1fr auto; align-items:center; gap:6px; padding:2px 0; color:#9fb2cc; font-size:.79rem; }
+.wch-bt.win { color:#fff; font-weight:800; }
+.wch-bt img { width:18px; height:12px; object-fit:cover; border-radius:2px; }
+.wch-bt .nm { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.wch-bt .sc { font-weight:700; } .wch-bt .pk { color:#9fb2cc; font-size:.66rem; margin-left:1px; font-weight:600; }
+.wch-third { display:inline-flex; align-items:center; gap:9px; margin:9px 0 2px; padding:5px 13px; border-radius:9px; font-size:.82rem;
+    background:linear-gradient(160deg,#241c10,#16223b); border:1px solid rgba(205,127,50,.32); }
+.wch-third .lbl { color:#cd9b5a; font-weight:700; font-size:.72rem; text-transform:uppercase; letter-spacing:.3px; }
 </style>"""
 _STAGE = {"group": "Group", "group-2": "2nd group", "final-round": "Final round", "round-of-16": "Round of 16",
           "quarter-final": "Quarter-final", "semi-final": "Semi-final", "third-place": "3rd place", "final": "Final"}
@@ -791,20 +813,24 @@ with t_history:
     st.caption("The complete men's World Cup, archived from 1930 — champions, all-time records and any "
                "nation's head-to-head. West Germany counts with Germany; shootout knockouts count as draws.")
 
-    ui.section("🏆 Champions", "every World Cup winner, newest first")
-    cards = ""
-    for c in reversed(wch.champions()):
-        hf = wch.flag_url(c["host"], 20)
-        host = f"<img src='{hf}'>{c['host']}" if hf else c["host"]
-        cards += (f"<div class='wch-champ'><div class='wch-yr'>{c['year']}</div>"
-                  f"<img class='wch-cfl' src='{wch.flag_url(c['champion'], 80)}'>"
-                  f"<div class='wch-cnm'>{c['champion']}</div>"
-                  f"<div class='wch-csc'>def. {c['runner_up']}<br>{c['score']}</div>"
-                  f"<div class='wch-chost'>{host}</div></div>")
-    st.markdown(f"<div class='wch-champs'>{cards}</div>", unsafe_allow_html=True)
-
-    # ── edition browser — open any past World Cup: groups, knockouts, every match
-    ui.section("🔭 Explore an edition", "open any past World Cup — group tables, knockout results, every match")
+    ui.section("🏆 Champions", "tap a year to open that World Cup below — group tables + knockout bracket")
+    champs_desc = list(reversed(wch.champions()))           # newest first
+    _yset = {c["year"] for c in champs_desc}
+    if st.session_state.get("hist_year") not in _yset:
+        st.session_state["hist_year"] = champs_desc[0]["year"]   # default: most recent
+    with st.container(key="champsgrid"):
+        for _r in range(0, len(champs_desc), 6):
+            _cols = st.columns(6)
+            for _j, c in enumerate(champs_desc[_r:_r + 6]):
+                with _cols[_j]:
+                    st.markdown(f"<div class='wch-cv'><img src='{wch.flag_url(c['champion'], 80)}'>"
+                                f"<div class='nm'>{c['champion']}</div></div>", unsafe_allow_html=True)
+                    if st.button(str(c["year"]), key=f"hy_{c['year']}"):
+                        st.session_state["hist_year"] = c["year"]
+    sel = st.session_state["hist_year"]
+    st.markdown(f"<style>.st-key-hy_{sel} button{{background:linear-gradient(165deg,rgba(255,215,0,.24),#16223b)!important;"
+                f"border-color:#FFD700!important;color:#fff!important;box-shadow:0 0 0 1px #FFD700 inset;}}</style>",
+                unsafe_allow_html=True)
 
     def _s(v):                                              # NaN-safe string cell
         return v if isinstance(v, str) else ""
@@ -832,19 +858,51 @@ with t_history:
                 f"<tr><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th><th>Pts</th></tr>"
                 f"{body}</table></div>")
 
+    def _bwin(x):                                           # (home_won, away_won, has_shootout)
+        haspk = pd.notna(x.pens_home)
+        hw = (x.home_score > x.away_score) or (haspk and x.pens_home > x.pens_away)
+        aw = (x.away_score > x.home_score) or (haspk and x.pens_away > x.pens_home)
+        return hw, aw, haspk
+
+    def _bmatch(x, gold=False):
+        hw, aw, haspk = _bwin(x)
+
+        def _row(team, gf, pk, win):
+            pkt = f"<span class='pk'>({int(pk)})</span>" if (pk is not None and pd.notna(pk)) else ""
+            return (f"<div class='wch-bt{' win' if win else ''}'><img src='{wch.flag_url(team)}'>"
+                    f"<span class='nm'>{team}</span><span class='sc'>{gf}{pkt}</span></div>")
+        return (f"<div class='wch-bm{' gold' if gold else ''}'>"
+                + _row(x.home, x.home_score, x.pens_home if haspk else None, hw)
+                + _row(x.away, x.away_score, x.pens_away if haspk else None, aw) + "</div>")
+
+    def _bracket_html(kos):
+        by = {s: m for s, m in kos}
+        lbl = {"round-of-16": "Round of 16", "quarter-final": "Quarter-finals",
+               "semi-final": "Semi-finals", "final": "Final"}
+        cols = ""
+        for s in ("round-of-16", "quarter-final", "semi-final", "final"):
+            if s in by and len(by[s]):
+                cards = "".join(_bmatch(x, gold=(s == "final")) for x in by[s].itertuples())
+                cols += f"<div class='wch-bcol'><div class='wch-bct'>{lbl[s]}</div>{cards}</div>"
+        html = f"<div class='wch-bracket'>{cols}</div>"
+        if "third-place" in by and len(by["third-place"]):
+            x = next(by["third-place"].itertuples())
+            hw, aw, _ = _bwin(x)
+            html += (f"<div class='wch-third'><span class='lbl'>🥉 Third place</span>"
+                     f"<span style='color:{'#fff' if hw else '#9fb2cc'}'>{x.home} {x.home_score}</span>"
+                     f"<span style='color:#7e8ba5'>–</span>"
+                     f"<span style='color:{'#fff' if aw else '#9fb2cc'}'>{x.away_score} {x.away}</span></div>")
+        return html
+
     try:                                                    # never let the explorer crash the page (Cloud-safe)
-        _hosts = {int(c["year"]): c["host"] for c in wch.champions()}
-        yrs = [int(y) for y in wch.years()][::-1]
-        ysel = int(st.selectbox("World Cup", yrs, index=0, key="wch_year",
-                                format_func=lambda y: f"{int(y)}  ·  {_hosts.get(int(y), '')}"))
-        ov = wch.edition_overview(ysel)
+        ov = wch.edition_overview(sel)
         cfl = wch.flag_url(ov["champion"], 40) if ov["champion"] else ""
         champ = f"🏆 <img src='{cfl}'><b>{ov['champion']}</b>" if ov["champion"] else ""
-        st.markdown(f"<div class='wch-edhead'><div class='wch-edttl'>{ysel} <span>· {ov['host']}</span></div>"
+        st.markdown(f"<div class='wch-edhead'><div class='wch-edttl'>{sel} <span>· {ov['host']}</span></div>"
                     f"<div class='wch-edmeta'><span>{champ}</span><span>{ov['matches']} matches</span>"
                     f"<span>{ov['goals']} goals</span></div></div>", unsafe_allow_html=True)
 
-        gts = wch.edition_group_tables(ysel)
+        gts = wch.edition_group_tables(sel)
         _STG = {"group": "⚽ Group stage", "group-2": "⚽ Second group stage", "final-round": "🏆 Final round"}
         by_stage = {}
         for stage, g, tbl, gm in gts:
@@ -856,14 +914,10 @@ with t_history:
                             + "".join(_std_table(stage, g, tbl) for g, tbl in by_stage[stage])
                             + "</div>", unsafe_allow_html=True)
 
-        kos = wch.edition_knockouts(ysel)
+        kos = wch.edition_knockouts(sel)
         if kos:
-            _KO = {"round-of-16": "Round of 16", "quarter-final": "Quarter-finals", "semi-final": "Semi-finals",
-                   "third-place": "Third-place play-off", "final": "Final"}
-            st.markdown("<div class='wch-stagehd'>🏆 Knockout stage</div>", unsafe_allow_html=True)
-            for stage, mm in kos:
-                st.markdown(f"<div class='wch-koround'>{_KO.get(stage, stage)}</div>", unsafe_allow_html=True)
-                st.markdown("".join(_mt_row(x) for x in mm.itertuples()), unsafe_allow_html=True)
+            st.markdown("<div class='wch-stagehd'>🏆 Knockout bracket</div>", unsafe_allow_html=True)
+            st.markdown(_bracket_html(kos), unsafe_allow_html=True)
 
         if gts:
             ngm = sum(len(gm) for *_, gm in gts)
