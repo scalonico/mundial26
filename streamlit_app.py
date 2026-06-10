@@ -905,13 +905,10 @@ WC_MASCOTS = {
     2018: ("🐺", "Zabivaka", "a wolf — 'the one who scores' in Russian"),
     2022: ("🧞", "La'eeb", "a floating keffiyeh — 'super-skilled player' in Arabic"),
 }
-# Only use a free Commons photo when it's a CLEAN, recognizable close-up of the mascot. The other free
-# photos are amateur figurine/museum/distant shots that look poor → those mascots show name-only (as do
-# the copyright-only-logo classics). Only Fuleco '14 & Zabivaka '18 had a genuinely good free image.
-WC_MASCOT_IMG = {
-    2014: ("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fuleco_-_Brasil_2014.jpg/250px-Fuleco_-_Brasil_2014.jpg", "Darthvader2"),
-    2018: ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zabivaka_2017.jpg/250px-Zabivaka_2017.jpg", "Кирилл Венедиктов"),
-}
+# Mascot photos intentionally OFF — every edition shows a clean name-only chip. (Polished mascot images
+# are copyrighted logos we don't use; the free Commons photos looked amateurish.) To re-enable one,
+# add  year: ("<image-url>", "<credit>")  here and it renders automatically.
+WC_MASCOT_IMG = {}
 
 with t_history:
     st.markdown(WCH_CSS, unsafe_allow_html=True)
