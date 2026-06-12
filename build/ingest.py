@@ -143,9 +143,16 @@ def _venue(block):
 
 
 def _score(block):
-    """(score1, score2) if the match has been played, else ('', '')."""
+    """(score1, score2) if the match has been played, else ('', '').
+    Pre-match the score field is {{score link|<anchor>|Match N}} (no digits). Once played, Wikipedia
+    swaps the link LABEL for the actual score, {{score link|<anchor>|2–0}} — so read the score from the
+    link label, not the field start (a leading-digits fallback covers a bare numeric score field).
+    A first number–dash–number captures the regulation/extra-time score; any '(x–y p)' penalty tail is
+    ignored (the schema stores the on-the-pitch score)."""
     sc = _field(block, "score")
-    m = re.match(r"\s*(\d+)\s*[–-]\s*(\d+)", sc)
+    m = re.search(r"\{\{\s*score link\s*\|[^|}]*\|([^}]*)\}\}", sc)
+    label = m.group(1) if m else sc
+    m = re.search(r"(\d+)\s*[–-]\s*(\d+)", label)
     if m:
         return m.group(1), m.group(2)
     return "", ""
@@ -154,7 +161,9 @@ def _score(block):
 def _match_no(block):
     """The fixture number = the score-link LABEL, e.g. {{score link|<anchor>|Match 89}}. Use the LAST
     'Match N' in the score field: a knockout anchor embeds its source matches ('#Winner Match 73 vs
-    Winner Match 75'), so the first 'Match N' is wrong — the real number is the trailing label."""
+    Winner Match 75'), so the first 'Match N' is wrong — the real number is the trailing label.
+    Returns 0 once the match is PLAYED (the label becomes the score and the number disappears) — main()
+    then recovers it from the prior extract by (date, stadium)."""
     nums = re.findall(r"Match (\d+)", _field(block, "score"))
     return int(nums[-1]) if nums else 0
 
@@ -225,6 +234,33 @@ def parse_knockout():
     return rows
 
 
+# A played match loses its 'Match N' label (it becomes the score), so a mid-tournament ingest can't read
+# the number off the box. (date, stadium) is a schedule-fixed key — stable even as knockout placeholders
+# resolve to real teams — so the number is recovered from the previous extract. The two tournament openers
+# are played from Day 1, so a from-scratch ingest never sees their label either; they are structurally
+# fixed (Match 1 = the host nation's opener), so seed them as the bootstrap.
+OPENERS = {("2026-06-11", "Estadio Azteca"): 1, ("2026-06-11", "Estadio Akron"): 2}
+
+
+def backfill_match_nos(matches):
+    """Fill match_no for played matches whose 'Match N' label is gone, from the prior CSV's (date, stadium)
+    map (self-healing once written) with the OPENERS seed as the from-scratch fallback."""
+    prior = DATA / "wc2026_matches.csv"
+    sched = {}
+    if prior.exists():
+        with prior.open(encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                if r.get("match_no") and r["match_no"] not in ("0", ""):
+                    sched[(r["date"], r["stadium"])] = int(r["match_no"])
+    for r in matches:
+        if not r["match_no"]:
+            key = (r["date"], r["stadium"])
+            r["match_no"] = sched.get(key) or OPENERS.get(key) or 0
+            tag = "prior" if key in sched else ("opener" if key in OPENERS else "UNRESOLVED")
+            print(f"  recovered match_no {r['match_no']} ({tag}) for played "
+                  f"{r['team1']}-{r['team2']} @ {r['stadium']} {r['date']}")
+
+
 def main():
     groups, matches = {}, []
     for letter in "ABCDEFGHIJKL":
@@ -233,6 +269,7 @@ def main():
         matches += rows
     ko = parse_knockout()
     matches += ko
+    backfill_match_nos(matches)
     matches.sort(key=lambda r: (r["match_no"] or 999))
 
     # ── Fail-safe for the unattended tournament cron. WC-2026 has a FIXED shape: 12 groups × 4 teams,
