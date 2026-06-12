@@ -301,6 +301,16 @@ table.wcg-pre td.pts { color:#8493ad; }
 .wtcard > div { min-width:0; }
 .wtcard .nm { color:#eaf1fb; font-weight:700; font-size:.9rem; line-height:1.12; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 .wtcard .mt { color:#8aa0bd; font-size:.72rem; font-weight:600; margin-top:1px; }
+.wcres-wrap { margin:.1rem 0 1.1rem; }
+.wcres-h { color:#9fc4ec; font-weight:800; font-size:.8rem; text-transform:uppercase; letter-spacing:.07em; margin:0 0 8px 1px; }
+.wcres { display:flex; flex-wrap:wrap; gap:9px; }
+.wcres-chip { display:flex; align-items:center; gap:7px; padding:7px 12px; border-radius:10px;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); box-shadow:0 2px 9px rgba(0,0,0,.2); }
+.wcres-chip img { width:22px; height:14px; object-fit:cover; border-radius:2px; box-shadow:0 0 0 1px rgba(0,0,0,.3); flex:0 0 auto; }
+.wcres-chip .t { color:#a9bbd4; font-weight:700; font-size:.82rem; }
+.wcres-chip .t.w { color:#fff; }                         /* winner stands out */
+.wcres-chip .sc { color:#FFD700; font-weight:800; font-size:.84rem; padding:0 3px; }
+.wcres-chip .dt { color:#7e90ad; font-size:.7rem; font-weight:700; margin-left:3px; }
 </style>"""
 
 
@@ -400,6 +410,25 @@ ui.stats([
     ("Matches", str(len(ms)), "incl. knockouts"),
     ("Venues", "16", "3 host nations"),
 ])
+
+# Latest results — surfaces the live scores at a glance once play begins (hidden pre-kickoff and when
+# nothing has been played yet). Newest first; the winning side is brightened, gold scoreline.
+done = ms[ms["played"]].sort_values(["date", "match_no"], ascending=[False, False])
+if len(done):
+    chips = []
+    for r in done.head(8).itertuples():
+        s1, s2 = int(r.score1), int(r.score2)
+        w1 = " w" if s1 > s2 else ""
+        w2 = " w" if s2 > s1 else ""
+        day = (r.date.strftime("%b ") + str(r.date.day)) if pd.notna(r.date) else ""
+        chips.append(
+            f"<div class='wcres-chip'>"
+            f"<img src='{wc.code_flag(r.team1)}'><span class='t{w1}'>{r.team1}</span>"
+            f"<span class='sc'>{s1}–{s2}</span>"
+            f"<span class='t{w2}'>{r.team2}</span><img src='{wc.code_flag(r.team2)}'>"
+            f"<span class='dt'>{day}</span></div>")
+    st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>⚽ Latest results</div>"
+                f"<div class='wcres'>{''.join(chips)}</div></div>", unsafe_allow_html=True)
 
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
 t_groups, t_sched, t_bracket, t_play, t_venues, t_teams, t_history = st.tabs(
