@@ -81,7 +81,7 @@ header[data-testid="stHeader"] { background:transparent; }
 table.wcg { width:100%; border-collapse:collapse; table-layout:fixed; font-size:.72rem; margin:.1rem 0 .35rem; }
 table.wcg th { color:#8aa0bd; font-weight:700; text-align:center; padding:2px 0; font-size:.66rem; white-space:nowrap;
     border-bottom:1px solid rgba(108,172,228,.22); }
-table.wcg td { text-align:center; padding:3px 0; color:#cdd9ea; border-bottom:1px solid rgba(108,172,228,.07); }
+table.wcg td { text-align:center; padding:3px 0; color:#cdd9ea; border-bottom:1px solid rgba(108,172,228,.07); white-space:nowrap; }
 table.wcg th.tm, table.wcg td.tm { width:44%; text-align:left; white-space:nowrap; overflow:hidden;
     text-overflow:ellipsis; padding-left:3px; }
 table.wcg img.gf { height:11px; width:16px; object-fit:cover; border-radius:2px;
@@ -444,15 +444,15 @@ with t_groups:
         "<b class='k-q'>green</b>/<b class='k-3'>amber</b> qualification shading appear once matches "
         "kick off (June 11).</div>", unsafe_allow_html=True)
     letters = list("ABCDEFGHIJKL")
-    for r0 in range(0, 12, 4):
-        for col, letter in zip(st.columns(4), letters[r0:r0 + 4]):
+    for r0 in range(0, 12, 3):
+        for col, letter in zip(st.columns(3), letters[r0:r0 + 3]):
             with col:
                 tbl = wc.group_standings(letter)
                 # Full FIFA-style standings as a tight custom HTML card (st.dataframe can't fit this
                 # many columns at 4-wide; flag IMAGE leads the Team cell — emoji flags fail on Windows).
                 # The rank column + qualification shading appear ONLY once the group has played a match —
                 # before kickoff every team is 0-0-0, so an ordering would be meaningless.
-                gdf = lambda v: f"+{v}" if v > 0 else str(v)
+                gdf = lambda v: str(v)                # signless GD (negatives keep "-"); + cluttered the tight cell
                 live = int(tbl["P"].sum()) > 0
                 zc = {0: "q1", 1: "q1", 2: "q3"}
                 rows = []
