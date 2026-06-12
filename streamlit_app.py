@@ -311,6 +311,11 @@ table.wcg-pre td.pts { color:#8493ad; }
 .wcres-chip .t.w { color:#fff; }                         /* winner stands out */
 .wcres-chip .sc { color:#FFD700; font-weight:800; font-size:.84rem; padding:0 3px; }
 .wcres-chip .dt { color:#7e90ad; font-size:.7rem; font-weight:700; margin-left:3px; }
+.wclive { display:flex; flex-wrap:wrap; gap:8px; margin:.2rem 0 1rem; }
+.wclive .s { display:flex; align-items:baseline; gap:6px; padding:5px 12px; border-radius:9px;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); }
+.wclive .s .v { color:#fff; font-weight:800; font-size:1rem; line-height:1.1; }
+.wclive .s .l { color:#9fb2cc; font-size:.72rem; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
 </style>"""
 
 
@@ -404,12 +409,19 @@ st.markdown(
     f"<div class='wch-dates'>📅 June 11 – July 19, 2026 &nbsp;·&nbsp; 🏆 Final at MetLife Stadium, New York</div>"
     f"</div>{cnt}</div>", unsafe_allow_html=True)
 
-ui.stats([
-    ("Teams", "48", "6 confederations"),
-    ("Groups", "12", "of 4 teams each"),
-    ("Matches", str(len(ms)), "incl. knockouts"),
-    ("Venues", "16", "3 host nations"),
-])
+# Compact LIVE tournament pulse (replaces the static 48/12/104/16 facts, which never change).
+# Degrades cleanly pre-kickoff: 0 played, 0 goals, "Group stage", days-to-final still counts down.
+_pl = ms[ms["played"]]
+_goals = int((_pl["score1"] + _pl["score2"]).sum()) if len(_pl) else 0
+_stage = "group"
+for _s in wc.STAGE_ORDER:
+    if ((ms["stage"] == _s) & ms["played"]).any():
+        _stage = _s
+_pulse = [(f"{len(_pl)}/{len(ms)}", "played"), (str(_goals), "goals"),
+          (wc.STAGE_NAMES[_stage], "now"), (str(max(wc.days_to_final(), 0)), "days to final")]
+st.markdown("<div class='wclive'>" + "".join(
+    f"<div class='s'><span class='v'>{v}</span><span class='l'>{l}</span></div>" for v, l in _pulse)
+    + "</div>", unsafe_allow_html=True)
 
 # Latest results — surfaces the live scores at a glance once play begins (hidden pre-kickoff and when
 # nothing has been played yet). Newest first; the winning side is brightened, gold scoreline.

@@ -155,6 +155,10 @@ def days_to_kickoff(today: date | None = None) -> int:
     return (KICKOFF - (today or date.today())).days
 
 
+def days_to_final(today: date | None = None) -> int:
+    return (FINAL_DAY - (today or date.today())).days
+
+
 def short_slot(s: str) -> str:
     """Compact a knockout placeholder for bracket display: 'Runner-up Group B' -> '2B',
     'Winner Group A' -> '1A', '3rd Group A/B/C/D/F' -> '3rd A/B/C/D/F', 'Winner Match 73' -> 'W73'."""
