@@ -1,5 +1,4 @@
 match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
-2,group,A,2026-06-11,8:00 p.m. UTC−6,KOR,CZE,,,Estadio Akron,Zapopan
 3,group,B,2026-06-12,3:00 p.m. UTC−4,CAN,BIH,,,BMO Field,Toronto
 4,group,D,2026-06-12,6:00 p.m. UTC−7,USA,PAR,,,SoFi Stadium,Inglewood
 5,group,C,2026-06-13,9:00 p.m. UTC−4,HAI,SCO,,,Gillette Stadium,Foxborough
@@ -103,3 +102,4 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 103,3rd,,2026-07-18,5:00 p.m. UTC−4,Loser Match 101,Loser Match 102,,,Hard Rock Stadium,Miami Gardens
 104,F,,2026-07-19,3:00 p.m. UTC−4,Winner Match 101,Winner Match 102,,,MetLife Stadium,East Rutherford
 0,group,A,2026-06-11,1:00 p.m. UTC−6,MEX,RSA,,,Estadio Azteca,Mexico City
+0,group,A,2026-06-11,8:00 p.m. UTC−6,KOR,CZE,,,Estadio Akron,Zapopan
