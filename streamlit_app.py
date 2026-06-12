@@ -417,8 +417,11 @@ _stage = "group"
 for _s in wc.STAGE_ORDER:
     if ((ms["stage"] == _s) & ms["played"]).any():
         _stage = _s
+# to-final via constants that predate this deploy (KICKOFF/FINAL_DAY/days_to_kickoff) — NOT a freshly
+# added wc2026 symbol, which a stale cached module on Streamlit Cloud wouldn't have yet after a hot reload.
+_d2f = wc.days_to_kickoff() + (wc.FINAL_DAY - wc.KICKOFF).days
 _pulse = [(f"{len(_pl)}/{len(ms)}", "played"), (str(_goals), "goals"),
-          (wc.STAGE_NAMES[_stage], "now"), (str(max(wc.days_to_final(), 0)), "days to final")]
+          (wc.STAGE_NAMES[_stage], "now"), (str(max(_d2f, 0)), "days to final")]
 st.markdown("<div class='wclive'>" + "".join(
     f"<div class='s'><span class='v'>{v}</span><span class='l'>{l}</span></div>" for v, l in _pulse)
     + "</div>", unsafe_allow_html=True)
