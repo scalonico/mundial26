@@ -10,6 +10,7 @@ import base64
 import json
 import random
 import re
+import time
 import zlib
 from datetime import date, datetime, timedelta, timezone
 from functools import lru_cache
@@ -18,6 +19,15 @@ from pathlib import Path
 import pandas as pd
 
 _DIR = Path(__file__).resolve().parent / "data"
+
+# Live scores come from the GitHub Action's data-refresh commits. Streamlit Community Cloud does NOT
+# re-pull the repo into a WARM (never-rebooted) process, so reading the on-disk CSV would freeze at the
+# last reboot — which is exactly why the live site looked stale during the tournament. So `matches()`
+# fetches the CSV straight from the repo's raw URL with a short TTL (+ a cache-buster to defeat raw
+# GitHub's own ~5-min CDN cache), and falls back to the committed file if the network is unavailable.
+_RAW_MATCHES_URL = "https://raw.githubusercontent.com/scalonico/mundial26/main/data/wc2026_matches.csv"
+_MATCHES_TTL = 120  # seconds — at most one fetch per 2 min per process
+_MATCHES_CACHE: dict = {}
 
 KICKOFF = date(2026, 6, 11)
 FINAL_DAY = date(2026, 7, 19)
@@ -135,9 +145,20 @@ def localize(kickoff_utc, tzname: str):
     return t.strftime("%a %b ") + str(t.day), f"{h}:{t.minute:02d} {'AM' if t.hour < 12 else 'PM'}"
 
 
-@lru_cache(maxsize=1)
+def _read_matches_csv() -> pd.DataFrame:
+    """Prefer the live raw-URL copy (always current); fall back to the committed file offline."""
+    try:
+        url = f"{_RAW_MATCHES_URL}?nocache={int(time.time())}"
+        return pd.read_csv(url, dtype=str).fillna("")
+    except Exception:
+        return pd.read_csv(_DIR / "wc2026_matches.csv", dtype=str).fillna("")
+
+
 def matches() -> pd.DataFrame:
-    df = pd.read_csv(_DIR / "wc2026_matches.csv", dtype=str).fillna("")
+    now = time.time()
+    if _MATCHES_CACHE and now - _MATCHES_CACHE["t"] < _MATCHES_TTL:
+        return _MATCHES_CACHE["df"]
+    df = _read_matches_csv()
     df["match_no"] = pd.to_numeric(df["match_no"])
     for c in ("score1", "score2"):
         df[c] = pd.to_numeric(df[c], errors="coerce")
@@ -148,6 +169,7 @@ def matches() -> pd.DataFrame:
     df["team2_label"] = df["team2"].map(lambda c: lab.get(c, c))
     df["stage_name"] = df["stage"].map(STAGE_NAMES)
     df["played"] = df["score1"].notna() & df["score2"].notna()
+    _MATCHES_CACHE["t"], _MATCHES_CACHE["df"] = now, df
     return df
 
 
