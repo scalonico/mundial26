@@ -1,46 +1,84 @@
-# Live World Cup 2026 data refresh.
-# Re-fetches the latest scores/standings from Wikipedia and commits the updated CSVs — Streamlit
-# Community Cloud redeploys on each push, so the live app fills in results as matches are played.
-# Commits ONLY the data CSVs (not the wikitext cache), so off-match cosmetic edits don't churn the repo,
-# and post-tournament runs become harmless no-ops. Tune the cron, or disable this workflow in the GitHub
-# Actions tab once the final is played (Jul 19, 2026).
+# Live World Cup 2026 data refresh — self-covering polling loop.
+#
+# Why a loop and not a plain every-30-min cron: GitHub heavily THROTTLES scheduled workflows on
+# free/public repos — a `*/30` cron in practice fires only every ~2-4 hours, so finished matches sat
+# unscored on the live site for hours. Instead, each run POLLS every few minutes for up to ~5.5 h,
+# committing only when the data actually changes. `cancel-in-progress: true` means that whenever the
+# (throttled) scheduler does fire, it cancels the old loop and starts a fresh one that again covers the
+# next several hours. Because the loop duration (5.5 h) comfortably exceeds the worst observed throttle
+# gap (~4 h), coverage is effectively continuous — with NO external pinger and NO secrets/PAT.
+#
+# Streamlit Community Cloud redeploys on each push, so the live app fills in results as matches are
+# played. We commit ONLY the data CSVs (not the wikitext cache), so cosmetic edits don't churn the repo
+# and off-match polls are harmless no-ops. The loop also auto-stops looping after the tournament window
+# (does a single pass after 2026-07-20), so leaving it enabled forever is cheap. To shut it off entirely,
+# disable this workflow in the Actions tab once the final is played (Jul 19, 2026).
 
 name: Refresh live data
 
 on:
   schedule:
-    - cron: "7,37 * * * *"     # every 30 min, off-peak minutes — GitHub throttles on-the-hour crons to ~2-5h; only pushes when data changes.
-  workflow_dispatch: {}         # also runnable on demand from the Actions tab
+    # Heartbeat that RESTARTS the covering loop. Throttling means these fire far less often than written;
+    # that's fine — each fire just kicks off a fresh ~5.5 h loop. More listed minutes = more restart chances.
+    - cron: "3,33 * * * *"
+  workflow_dispatch: {}          # also runnable on demand from the Actions tab
 
 permissions:
-  contents: write               # the run commits refreshed CSVs back to the repo
+  contents: write                # the run commits refreshed CSVs back to the repo
 
 concurrency:
   group: refresh-live-data
-  cancel-in-progress: false
+  cancel-in-progress: true        # a new (scheduled/manual) trigger replaces the running loop with a fresh one
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 350          # under the 6 h hard ceiling; loop self-exits a touch earlier
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       # The ingest is pure stdlib — no pip install needed.
-      - name: Re-ingest live data from Wikipedia
+      - name: Poll Wikipedia and push score changes (covering loop)
         env:
-          WC2026_REFRESH: "1"   # bypass the cache → fetch fresh scores
-        run: python build/ingest.py
-      - name: Commit & push if the data changed
+          WC2026_REFRESH: "1"     # bypass the cache → always fetch fresh scores
+          POLL_SECONDS: "240"     # re-check every 4 minutes
+          MAX_MINUTES: "330"      # loop ~5.5 h, then let the heartbeat restart a fresh run
+          STOP_AFTER: "2026-07-20" # after the tournament, do a single pass instead of looping
         run: |
+          set -uo pipefail
           git config user.name  "wc2026-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/wc2026_matches.csv data/wc2026_teams.csv data/wc2026_venues.csv
-          if git diff --staged --quiet; then
-            echo "No data changes — nothing to commit."
-          else
-            git commit -m "Live data refresh — $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-            echo "Pushed updated data."
-          fi
+
+          deadline=$(( $(date +%s) + MAX_MINUTES * 60 ))
+          iter=0
+          while : ; do
+            iter=$(( iter + 1 ))
+            echo "::group::poll #$iter ($(date -u '+%Y-%m-%d %H:%M:%S UTC'))"
+
+            python build/ingest.py || echo "ingest failed this pass — will retry next poll"
+
+            git add data/wc2026_matches.csv data/wc2026_teams.csv data/wc2026_venues.csv
+            if git diff --staged --quiet; then
+              echo "No data changes."
+            else
+              git commit -m "Live data refresh — $(date -u '+%Y-%m-%d %H:%M UTC')"
+              # Rebase on any bot/manual push that slipped in, then push.
+              git pull --rebase --autostash origin main || true
+              git push && echo "Pushed updated data." || echo "Push failed — will retry next poll"
+            fi
+            echo "::endgroup::"
+
+            # After the tournament window, don't loop — one pass per (rare) trigger is plenty.
+            if [ "$(date -u '+%Y-%m-%d')" \> "$STOP_AFTER" ]; then
+              echo "Past $STOP_AFTER — single-pass mode, exiting."
+              break
+            fi
+            # Stop a bit before MAX_MINUTES so the heartbeat (or this run) restarts cleanly.
+            if [ "$(date +%s)" -ge "$deadline" ]; then
+              echo "Reached MAX_MINUTES — exiting so a fresh loop can take over."
+              break
+            fi
+            sleep "$POLL_SECONDS"
+          done
