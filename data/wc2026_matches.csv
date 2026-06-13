@@ -6,7 +6,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 5,group,C,2026-06-13,9:00 p.m. UTC−4,HAI,SCO,,,Gillette Stadium,Foxborough
 6,group,D,2026-06-13,9:00 p.m. UTC−7,AUS,TUR,,,BC Place,Vancouver
 7,group,C,2026-06-13,6:00 p.m. UTC−4,BRA,MAR,,,MetLife Stadium,East Rutherford
-8,group,B,2026-06-13,12:00 p.m. UTC−7,QAT,SUI,,,Levi's Stadium,Santa Clara
+8,group,B,2026-06-13,12:00 p.m. UTC−7,QAT,SUI,1,1,Levi's Stadium,Santa Clara
 9,group,E,2026-06-14,7:00 p.m. UTC−4,CIV,ECU,,,Lincoln Financial Field,Philadelphia
 10,group,E,2026-06-14,12:00 p.m. UTC−5,GER,CUW,,,NRG Stadium,Houston
 11,group,F,2026-06-14,3:00 p.m. UTC−5,NED,JPN,,,AT&T Stadium,Arlington
