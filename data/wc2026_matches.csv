@@ -4,7 +4,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 3,group,B,2026-06-12,3:00 p.m. UTC−4,CAN,BIH,1,1,BMO Field,Toronto
 4,group,D,2026-06-12,6:00 p.m. UTC−7,USA,PAR,4,1,SoFi Stadium,Inglewood
 5,group,C,2026-06-13,9:00 p.m. UTC−4,HAI,SCO,0,1,Gillette Stadium,Foxborough
-6,group,D,2026-06-13,9:00 p.m. UTC−7,AUS,TUR,,,BC Place,Vancouver
+6,group,D,2026-06-13,9:00 p.m. UTC−7,AUS,TUR,2,0,BC Place,Vancouver
 7,group,C,2026-06-13,6:00 p.m. UTC−4,BRA,MAR,1,1,MetLife Stadium,East Rutherford
 8,group,B,2026-06-13,12:00 p.m. UTC−7,QAT,SUI,1,1,Levi's Stadium,Santa Clara
 9,group,E,2026-06-14,7:00 p.m. UTC−4,CIV,ECU,,,Lincoln Financial Field,Philadelphia
