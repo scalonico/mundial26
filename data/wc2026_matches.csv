@@ -13,7 +13,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 12,group,F,2026-06-14,8:00 p.m. UTC−6,SWE,TUN,5,1,Estadio BBVA,Guadalupe
 13,group,H,2026-06-15,6:00 p.m. UTC−4,KSA,URU,1,1,Hard Rock Stadium,Miami Gardens
 14,group,H,2026-06-15,12:00 p.m. UTC−4,ESP,CPV,0,0,Mercedes-Benz Stadium,Atlanta
-15,group,G,2026-06-15,6:00 p.m. UTC−7,IRN,NZL,,,SoFi Stadium,Inglewood
+15,group,G,2026-06-15,6:00 p.m. UTC−7,IRN,NZL,2,2,SoFi Stadium,Inglewood
 16,group,G,2026-06-15,12:00 p.m. UTC−7,BEL,EGY,1,1,Lumen Field,Seattle
 17,group,I,2026-06-16,3:00 p.m. UTC−4,FRA,SEN,,,MetLife Stadium,East Rutherford
 18,group,I,2026-06-16,6:00 p.m. UTC−4,IRQ,NOR,,,Gillette Stadium,Foxborough
