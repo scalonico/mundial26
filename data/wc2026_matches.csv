@@ -11,7 +11,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 10,group,E,2026-06-14,12:00 p.m. UTC−5,GER,CUW,7,1,NRG Stadium,Houston
 11,group,F,2026-06-14,3:00 p.m. UTC−5,NED,JPN,2,2,AT&T Stadium,Arlington
 12,group,F,2026-06-14,8:00 p.m. UTC−6,SWE,TUN,5,1,Estadio BBVA,Guadalupe
-13,group,H,2026-06-15,6:00 p.m. UTC−4,KSA,URU,,,Hard Rock Stadium,Miami Gardens
+13,group,H,2026-06-15,6:00 p.m. UTC−4,KSA,URU,1,1,Hard Rock Stadium,Miami Gardens
 14,group,H,2026-06-15,12:00 p.m. UTC−4,ESP,CPV,0,0,Mercedes-Benz Stadium,Atlanta
 15,group,G,2026-06-15,6:00 p.m. UTC−7,IRN,NZL,,,SoFi Stadium,Inglewood
 16,group,G,2026-06-15,12:00 p.m. UTC−7,BEL,EGY,1,1,Lumen Field,Seattle
