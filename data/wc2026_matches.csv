@@ -21,7 +21,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 20,group,J,2026-06-16,9:00 p.m. UTC−7,AUT,JOR,3,1,Levi's Stadium,Santa Clara
 21,group,L,2026-06-17,7:00 p.m. UTC−4,GHA,PAN,,,BMO Field,Toronto
 22,group,L,2026-06-17,3:00 p.m. UTC−5,ENG,CRO,,,AT&T Stadium,Arlington
-23,group,K,2026-06-17,12:00 p.m. UTC−5,POR,COD,,,NRG Stadium,Houston
+23,group,K,2026-06-17,12:00 p.m. UTC−5,POR,COD,1,1,NRG Stadium,Houston
 24,group,K,2026-06-17,8:00 p.m. UTC−6,UZB,COL,,,Estadio Azteca,Mexico City
 25,group,A,2026-06-18,12:00 p.m. UTC−4,CZE,RSA,,,Mercedes-Benz Stadium,Atlanta
 26,group,B,2026-06-18,12:00 p.m. UTC−7,SUI,BIH,,,SoFi Stadium,Inglewood
