@@ -14,7 +14,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 13,group,H,2026-06-15,6:00 p.m. UTC−4,KSA,URU,1,1,Hard Rock Stadium,Miami Gardens
 14,group,H,2026-06-15,12:00 p.m. UTC−4,ESP,CPV,0,0,Mercedes-Benz Stadium,Atlanta
 15,group,G,2026-06-15,6:00 p.m. UTC−7,IRN,NZL,2,2,SoFi Stadium,Inglewood
-16,group,G,2026-06-15,12:00 p.m. UTC−7,BEL,EGY,1,1,Lumen Field,
+16,group,G,2026-06-15,12:00 p.m. UTC−7,BEL,EGY,1,1,Lumen Field,Seattle
 17,group,I,2026-06-16,3:00 p.m. UTC−4,FRA,SEN,3,1,MetLife Stadium,East Rutherford
 18,group,I,2026-06-16,6:00 p.m. UTC−4,IRQ,NOR,1,4,Gillette Stadium,Foxborough
 19,group,J,2026-06-16,8:00 p.m. UTC−5,ARG,ALG,3,0,Arrowhead Stadium,Kansas City
@@ -61,7 +61,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 60,group,D,2026-06-25,7:00 p.m. UTC−7,PAR,AUS,,,Levi's Stadium,Santa Clara
 61,group,I,2026-06-26,3:00 p.m. UTC−4,NOR,FRA,,,Gillette Stadium,Foxborough
 62,group,I,2026-06-26,3:00 p.m. UTC−4,SEN,IRQ,,,BMO Field,Toronto
-63,group,G,2026-06-26,8:00 p.m. UTC−7,EGY,IRN,,,Lumen Field,
+63,group,G,2026-06-26,8:00 p.m. UTC−7,EGY,IRN,,,Lumen Field,Seattle
 64,group,G,2026-06-26,8:00 p.m. UTC−7,NZL,BEL,,,BC Place,Vancouver
 65,group,H,2026-06-26,7:00 p.m. UTC−5,CPV,KSA,,,NRG Stadium,Houston
 66,group,H,2026-06-26,6:00 p.m. UTC−6,URU,ESP,,,Estadio Akron,Zapopan
