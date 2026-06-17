@@ -17,7 +17,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 16,group,G,2026-06-15,12:00 p.m. UTC−7,BEL,EGY,1,1,Lumen Field,Seattle
 17,group,I,2026-06-16,3:00 p.m. UTC−4,FRA,SEN,3,1,MetLife Stadium,East Rutherford
 18,group,I,2026-06-16,6:00 p.m. UTC−4,IRQ,NOR,1,4,Gillette Stadium,Foxborough
-19,group,J,2026-06-16,8:00 p.m. UTC−5,ARG,ALG,,,Arrowhead Stadium,Kansas City
+19,group,J,2026-06-16,8:00 p.m. UTC−5,ARG,ALG,3,0,Arrowhead Stadium,Kansas City
 20,group,J,2026-06-16,9:00 p.m. UTC−7,AUT,JOR,,,Levi's Stadium,Santa Clara
 21,group,L,2026-06-17,7:00 p.m. UTC−4,GHA,PAN,,,BMO Field,Toronto
 22,group,L,2026-06-17,3:00 p.m. UTC−5,ENG,CRO,,,AT&T Stadium,Arlington
