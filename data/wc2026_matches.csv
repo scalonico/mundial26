@@ -23,7 +23,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 22,group,L,2026-06-17,3:00 p.m. UTC−5,ENG,CRO,4,2,AT&T Stadium,Arlington
 23,group,K,2026-06-17,12:00 p.m. UTC−5,POR,COD,1,1,NRG Stadium,Houston
 24,group,K,2026-06-17,8:00 p.m. UTC−6,UZB,COL,1,3,Estadio Azteca,Mexico City
-25,group,A,2026-06-18,12:00 p.m. UTC−4,CZE,RSA,,,Mercedes-Benz Stadium,Atlanta
+25,group,A,2026-06-18,12:00 p.m. UTC−4,CZE,RSA,1,1,Mercedes-Benz Stadium,Atlanta
 26,group,B,2026-06-18,12:00 p.m. UTC−7,SUI,BIH,,,SoFi Stadium,Inglewood
 27,group,B,2026-06-18,3:00 p.m. UTC−7,CAN,QAT,,,BC Place,Vancouver
 28,group,A,2026-06-18,7:00 p.m. UTC−6,MEX,KOR,,,Estadio Akron,Zapopan
