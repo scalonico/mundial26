@@ -293,7 +293,7 @@ def bracket_layout(resolved=None):
         t1, p1 = disp(r.team1, n, "t1")
         t2, p2 = disp(r.team2, n, "t2")
         return dict(x=x, y=y, stage=r.stage, t1=t1, t2=t2, prov1=p1, prov2=p2,
-                    date=r.date, city=r.city, s1=r.score1, s2=r.score2)
+                    date=r.date, city=r.city, stadium=r.stadium, s1=r.score1, s2=r.score2)
 
     def place(n, side, depth):
         x = (4 - depth) if side == "L" else (4 + depth)
@@ -379,13 +379,16 @@ def _third_slots() -> dict:
     return out
 
 
-def third_allocation(order: dict) -> dict:
-    """Assign predicted third-placed teams to the eight eligible R32 slots → {match_no: code}.
-    The eight 'best' thirds (by seeded strength) advance; each is matched to a slot that lists its group
-    as eligible. The 2026 bracket is built so a valid assignment exists for any 8-of-12 set of advancing
-    groups, so we solve it exactly with bipartite matching (a transparent stand-in for FIFA's lookup table)."""
+def third_allocation(order: dict, rank=None) -> dict:
+    """Assign third-placed teams to the eight eligible R32 slots → {match_no: code}.
+    The eight 'best' thirds advance; each is matched to a slot that lists its group as eligible. The 2026
+    bracket is built so a valid assignment exists for any 8-of-12 set of advancing groups, so we solve it
+    exactly with bipartite matching (a transparent stand-in for FIFA's lookup table). `rank(code)` orders
+    which thirds advance (lower = better); it defaults to the pot seed, but the live bracket passes a
+    current-standings ranker so the best thirds reflect today's results, not the draw."""
     thirds = [(L, order[L][2]) for L in GROUP_LETTERS if len(order.get(L, [])) > 2]
-    ranked = sorted(thirds, key=lambda lc: (seed_pos(lc[1]), lc[0]))
+    rank = rank or (lambda code: seed_pos(code))
+    ranked = sorted(thirds, key=lambda lc: (rank(lc[1]), lc[0]))
     by_letter = {L: code for L, code in ranked[:8]}      # the eight advancing thirds
     slots = _third_slots()
     slot_of = {}                                         # slot match_no -> assigned group letter
@@ -425,27 +428,50 @@ def order_from_quals(quals: dict) -> dict:
 
 def order_from_standings() -> dict:
     """Current per-group finishing order from the LIVE standings table (1st→4th as things stand today).
-    Feeds the provisional bracket: if every group ended exactly as it stands now, this is the order
-    third_allocation / resolve_bracket use to fill the knockout slots. A group that has not kicked off
-    falls back to the seeded order (group_standings sorts on the pot seed `pos` when teams are level)."""
+    Feeds the Round-of-32 fill: as the groups stand right now, this is who finishes where, which is all
+    resolve_bracket needs to place the 1st/2nd/3rd slots. A group that has not kicked off falls back to
+    the seeded order (group_standings sorts on the pot seed `pos` when teams are level)."""
     return {L: list(group_standings(L)["code"]) for L in GROUP_LETTERS}
 
 
 def groups_played() -> int:
-    """How many of the 72 group matches have been played — drives whether a projection is meaningful."""
+    """How many of the 72 group matches have been played — drives whether the R32 fill is meaningful."""
     g = matches()
     return int(((g.stage == "group") & g.played).sum())
 
 
-def projected_bracket() -> dict:
-    """resolve_bracket fed by the live standings, favourites advancing through every undecided tie →
-    a full provisional knockout (matches 73–104) reflecting the latest group positions. The Round of 32
-    is pure standings (who finishes where today); deeper rounds assume the stronger seed advances, so the
-    whole thing is a 'if it ended now' snapshot, not a prediction of results."""
-    return resolve_bracket(order_from_standings(), {}, fill_defaults=True)
+def _standings_record() -> dict:
+    """code -> (Pts, GD, GF) from the current live standings, for ranking teams ACROSS groups."""
+    out = {}
+    for L in GROUP_LETTERS:
+        for r in group_standings(L).itertuples():
+            out[r.code] = (r.Pts, r.GD, r.GF)
+    return out
 
 
-def resolve_bracket(order: dict, wins: dict, fill_defaults: bool = True, chooser=None) -> dict:
+def standings_third_rank():
+    """Ranker (lower = better) for the eight best third-placed teams, by the live record
+    (points, then goal difference, then goals for; seed breaks an exact tie) — NOT by pot seed."""
+    rec = _standings_record()
+
+    def rank(code):
+        p, gd, gf = rec.get(code, (0, 0, 0))
+        return (-p, -gd, -gf, seed_pos(code))
+    return rank
+
+
+def standings_bracket() -> dict:
+    """Fill ONLY the Round of 32 from the current standings — no predicted knockout results.
+    1X/2X = the current group winner / runner-up; the eight '3rd Group …' slots = the best current
+    third-placed teams (by points, goal difference, goals for). Because fill_defaults=False, every
+    undecided tie has winner=None, so the Round of 16 and beyond stay as their fixtures (date + venue)
+    with no team filled in until real results put a team through."""
+    return resolve_bracket(order_from_standings(), {}, fill_defaults=False,
+                           third_rank=standings_third_rank())
+
+
+def resolve_bracket(order: dict, wins: dict, fill_defaults: bool = True, chooser=None,
+                    third_rank=None) -> dict:
     """Play the whole knockout from a group finishing `order` and explicit `wins` (match_no → code).
     Returns {match_no: dict(stage, t1, t2, winner, loser, date, city, slot1, slot2)} for matches 73–104.
     With fill_defaults=True every undecided tie defaults to the stronger side (always-complete bracket);
@@ -453,7 +479,7 @@ def resolve_bracket(order: dict, wins: dict, fill_defaults: bool = True, chooser
     that fills in as you choose). `chooser(t1, t2)` overrides how an undecided tie is filled (e.g. weaker
     side, coin flip) — defaults to the stronger seed. An explicit pick that no longer matches its matchup
     is ignored, not blocking."""
-    alloc = third_allocation(order)
+    alloc = third_allocation(order, rank=third_rank)
     ko = matches()[lambda d: d["stage"] != "group"].sort_values("match_no")
     res: dict = {}
 

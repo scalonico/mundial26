@@ -95,8 +95,8 @@ ui.inject()
 
 # ─────────────────────────────────────────────────────── WC bracket CSS + helpers
 WC_BRACKET_CSS = f"""<style>
-.wcbr {{ display:flex; gap:7px; height:780px; overflow-x:auto; padding:4px 2px 18px; }}
-.wccol {{ display:flex; flex-direction:column; min-width:126px; }}
+.wcbr {{ display:flex; gap:7px; height:900px; overflow-x:auto; padding:4px 2px 18px; }}
+.wccol {{ display:flex; flex-direction:column; min-width:150px; }}
 .wcch {{ font-size:.62rem; letter-spacing:.08em; text-transform:uppercase; color:#9fc4ec;
          font-weight:800; text-align:center; margin-bottom:8px; }}
 .wccards {{ flex:1; display:flex; flex-direction:column; justify-content:space-around; gap:6px; }}
@@ -113,7 +113,14 @@ WC_BRACKET_CSS = f"""<style>
 .wctm.wcprov span {{ font-style:italic; color:#aebfd6; }}
 .wctm.wcprov img.wcf {{ opacity:.72; }}
 .wcsc {{ font-weight:800; color:#fff; margin-left:6px; flex:0 0 auto; }}
-.wcmeta {{ font-size:.66rem; color:#9fb2cc; font-weight:600; margin-top:4px; text-align:center; }}
+/* Date + location are the key info — make them the prominent, highlighted part of every card. */
+.wcmeta {{ margin-top:6px; display:flex; flex-direction:column; gap:3px; }}
+.wcwhen, .wcwhere {{ display:flex; align-items:center; gap:5px; font-size:.72rem; font-weight:800;
+                     padding:2px 6px; border-radius:6px; white-space:nowrap; overflow:hidden;
+                     text-overflow:ellipsis; }}
+.wcwhen {{ color:#ffd84d; background:rgba(255,216,77,.12); border:1px solid rgba(255,216,77,.28); }}
+.wcwhere {{ color:#8fd2ff; background:rgba(108,172,228,.12); border:1px solid rgba(108,172,228,.30); }}
+.wcmno {{ font-size:.6rem; font-weight:700; color:#7d8ea6; margin-left:auto; }}
 .wcfin {{ background:linear-gradient(160deg,rgba(255,215,0,.15),#16223b); border:1px solid {GOLD};
           box-shadow:0 0 0 1px rgba(255,215,0,.4), 0 6px 20px rgba(255,215,0,.18); }}
 .wcfin .wctr {{ color:{GOLD}; font-weight:700; }}
@@ -143,10 +150,15 @@ def wc_bracket_html(resolved=None):
         sc2 = "" if pd.isna(d["s2"]) else f"<span class='wcsc'>{int(d['s2'])}</span>"
         dt = pd.Timestamp(d["date"])
         cls = "wcmt wcfin" if d["stage"] == "F" else "wcmt"
+        when = f"{dt.strftime('%a')} {dt.strftime('%b')} {dt.day}"          # e.g. "Sun Jun 28"
+        venue = d.get("stadium") or ""
+        where = f"{d['city']}" + (f" · {venue}" if venue else "")
         return (f"<div class='{cls}'>"
                 f"<div class='wctr'>{slot(d['t1'], d.get('prov1'))}{sc1}</div>"
                 f"<div class='wctr'>{slot(d['t2'], d.get('prov2'))}{sc2}</div>"
-                f"<div class='wcmeta'>#{n} · {dt.strftime('%b')} {dt.day} · {d['city']}</div></div>")
+                f"<div class='wcmeta'>"
+                f"<span class='wcwhen'>📅 {when}<span class='wcmno'>#{n}</span></span>"
+                f"<span class='wcwhere' title='{where}'>📍 {where}</span></div></div>")
 
     cols = []
     for x in range(9):
@@ -557,19 +569,19 @@ with t_bracket:
                "Scroll sideways if the bracket runs wider than your screen.")
     _gp = wc.groups_played()
     project = st.toggle(
-        "🔮 Project the latest group standings into the bracket",
+        "🔮 Fill the Round of 32 from the current group standings",
         value=_gp > 0, key="wc_proj_bracket",
-        help="Fill every empty knockout slot with the team that would be there if all 12 groups "
-             "ended exactly as they stand right now — so you can trace where and when each team "
-             "would play next. The Round of 32 is pure current standings; deeper rounds assume the "
-             "stronger seed advances. Turn off to show the official empty bracket.")
-    resolved = wc.projected_bracket() if project else None
+        help="Place each Round-of-32 team as the groups stand right now: 1st & 2nd of every group, "
+             "plus the eight best third-placed teams. No results are predicted — the Round of 16 and "
+             "beyond stay as their fixtures (date + venue) until real teams advance. Turn off to show "
+             "the official empty bracket.")
+    resolved = wc.standings_bracket() if project else None
     if project:
         st.markdown(
             f"<div style='font-size:.8rem;color:#aebfd6;margin:-2px 0 8px'>"
-            f"<i>Provisional</i> — teams shown <i>in italics with a faded flag</i> are projected from the "
-            f"standings after <b>{_gp} of 72</b> group matches (favourites advance in later rounds). "
-            f"They are <b>not</b> confirmed and shift with every result.</div>",
+            f"<i>Round of 32 only</i> — teams (<i>italic, faded flag</i>) reflect the standings after "
+            f"<b>{_gp} of 72</b> group matches and shift with every result. Later rounds show only the "
+            f"<b>📅 date</b> and <b>📍 venue</b> until teams qualify.</div>",
             unsafe_allow_html=True)
     st.markdown("👉 Want to call it yourself? The **🎮 Bracket challenge** tab turns this into a "
                 "fill-in-your-own bracket — pick every winner through to the title.")
@@ -577,13 +589,10 @@ with t_bracket:
     st.markdown(WC_BRACKET_CSS + bracket_html, unsafe_allow_html=True)
     if third is not None:
         td = pd.Timestamp(third.date)
-        if resolved and resolved.get(103):
-            t1d, t2d = resolved[103].get("t1") or third.team1, resolved[103].get("t2") or third.team2
-        else:
-            t1d, t2d = third.team1, third.team2
-        st.markdown(f"🥉 **Third-place play-off** — match #{int(third.match_no)} · "
-                    f"{td.strftime('%b')} {td.day} · {third.city}: "
-                    f"{wc.box_slot(t1d)} vs {wc.box_slot(t2d)}")
+        t1d, t2d = third.team1, third.team2                 # losers of the semis — no team until then
+        st.markdown(f"🥉 **Third-place play-off** (#{int(third.match_no)}) · "
+                    f"**📅 {td.strftime('%a')} {td.strftime('%b')} {td.day}** · "
+                    f"**📍 {third.city} · {third.stadium}** — {wc.box_slot(t1d)} vs {wc.box_slot(t2d)}")
 
 with t_play:
     wcp_q = st.session_state.wcp_q
