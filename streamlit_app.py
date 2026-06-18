@@ -95,8 +95,11 @@ ui.inject()
 
 # ─────────────────────────────────────────────────────── WC bracket CSS + helpers
 WC_BRACKET_CSS = f"""<style>
-.wcbr {{ display:flex; gap:7px; height:900px; overflow-x:auto; padding:4px 2px 18px; }}
-.wccol {{ display:flex; flex-direction:column; min-width:150px; }}
+/* Two-sided bracket sized to fit the 1180px content column WITHOUT sideways scrolling:
+   9 columns × ~118px + gaps ≈ 1110px. overflow-x stays as a safety net on very narrow windows. */
+.wcbr {{ display:flex; gap:6px; height:900px; overflow-x:auto; padding:4px 2px 18px;
+         justify-content:space-between; }}
+.wccol {{ display:flex; flex-direction:column; flex:1 1 0; min-width:0; }}
 .wcch {{ font-size:.62rem; letter-spacing:.08em; text-transform:uppercase; color:#9fc4ec;
          font-weight:800; text-align:center; margin-bottom:8px; }}
 .wccards {{ flex:1; display:flex; flex-direction:column; justify-content:space-around; gap:6px; }}
@@ -115,8 +118,8 @@ WC_BRACKET_CSS = f"""<style>
 .wcsc {{ font-weight:800; color:#fff; margin-left:6px; flex:0 0 auto; }}
 /* Date + location are the key info — make them the prominent, highlighted part of every card. */
 .wcmeta {{ margin-top:6px; display:flex; flex-direction:column; gap:3px; }}
-.wcwhen, .wcwhere {{ display:flex; align-items:center; gap:5px; font-size:.72rem; font-weight:800;
-                     padding:2px 6px; border-radius:6px; white-space:nowrap; overflow:hidden;
+.wcwhen, .wcwhere {{ display:flex; align-items:center; gap:4px; font-size:.68rem; font-weight:800;
+                     padding:2px 5px; border-radius:6px; white-space:nowrap; overflow:hidden;
                      text-overflow:ellipsis; }}
 .wcwhen {{ color:#ffd84d; background:rgba(255,216,77,.12); border:1px solid rgba(255,216,77,.28); }}
 .wcwhere {{ color:#8fd2ff; background:rgba(108,172,228,.12); border:1px solid rgba(108,172,228,.30); }}
@@ -152,13 +155,13 @@ def wc_bracket_html(resolved=None):
         cls = "wcmt wcfin" if d["stage"] == "F" else "wcmt"
         when = f"{dt.strftime('%a')} {dt.strftime('%b')} {dt.day}"          # e.g. "Sun Jun 28"
         venue = d.get("stadium") or ""
-        where = f"{d['city']}" + (f" · {venue}" if venue else "")
+        full = d['city'] + (f" · {venue}" if venue else "")                 # city · stadium → tooltip
         return (f"<div class='{cls}'>"
                 f"<div class='wctr'>{slot(d['t1'], d.get('prov1'))}{sc1}</div>"
                 f"<div class='wctr'>{slot(d['t2'], d.get('prov2'))}{sc2}</div>"
                 f"<div class='wcmeta'>"
                 f"<span class='wcwhen'>📅 {when}<span class='wcmno'>#{n}</span></span>"
-                f"<span class='wcwhere' title='{where}'>📍 {where}</span></div></div>")
+                f"<span class='wcwhere' title='{full}'>📍 {d['city']}</span></div></div>")
 
     cols = []
     for x in range(9):
