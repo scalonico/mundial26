@@ -255,12 +255,29 @@ def _feeder(slot: str):
     return int(m.group(1)) if m else None
 
 
-def bracket_layout():
+def bracket_layout(resolved=None):
     """Geometry for a two-sided knockout bracket. Returns (nodes, edges, third):
-      nodes[match_no] = {x, y, stage, t1, t2, date, city}; edges = [(parent, child), …].
+      nodes[match_no] = {x, y, stage, t1, t2, prov1, prov2, date, city}; edges = [(parent, child), …].
     The Final sits at x=4; the left half fans out to x=0 (R32) and the right half to x=8, both
     spanning y=0..7. Each internal node sits at the mean y of its two feeders, so the connectors
-    never cross. `third` is the separate third-place match row (not part of the tree)."""
+    never cross. `third` is the separate third-place match row (not part of the tree).
+
+    If `resolved` (a resolve_bracket result, e.g. from projected_bracket()) is supplied, every slot
+    the official data still carries as a placeholder ("Winner Group A", "3rd Group …", "Winner Match
+    73") is filled with the PROJECTED team and flagged provisional (prov1/prov2=True). Slots the data
+    already names with a real team (once Wikipedia resolves them) stay actual (prov=False)."""
+    real = set(_seed_maps()[1])
+
+    def disp(raw, mno, which):
+        """(display_slot, is_provisional) for one side of a knockout match."""
+        if str(raw) in real:                       # official data already names a real team
+            return raw, False
+        if resolved:
+            code = resolved.get(mno, {}).get(which)
+            if code:                               # fill the placeholder with the projection
+                return code, True
+        return raw, False                          # unresolved placeholder ("1A", "W73")
+
     ko = matches()[lambda d: d["stage"] != "group"]
     byno = {int(r.match_no): r for r in ko.itertuples()}
     feed = {}
@@ -271,6 +288,13 @@ def bracket_layout():
     final = int(ko[ko["stage"] == "F"]["match_no"].iloc[0])
     nodes, edges, cnt = {}, [], [0.0]
 
+    def node_for(n, x, y):
+        r = byno[n]
+        t1, p1 = disp(r.team1, n, "t1")
+        t2, p2 = disp(r.team2, n, "t2")
+        return dict(x=x, y=y, stage=r.stage, t1=t1, t2=t2, prov1=p1, prov2=p2,
+                    date=r.date, city=r.city, s1=r.score1, s2=r.score2)
+
     def place(n, side, depth):
         x = (4 - depth) if side == "L" else (4 + depth)
         if n in feed:
@@ -280,17 +304,13 @@ def bracket_layout():
             y = (nodes[c1]["y"] + nodes[c2]["y"]) / 2
         else:
             y = cnt[0]; cnt[0] += 1
-        r = byno[n]
-        nodes[n] = dict(x=x, y=y, stage=r.stage, t1=r.team1, t2=r.team2, date=r.date, city=r.city,
-                        s1=r.score1, s2=r.score2)
+        nodes[n] = node_for(n, x, y)
 
     c1, c2 = feed[final]
     cnt[0] = 0.0; place(c1, "L", 1)
     cnt[0] = 0.0; place(c2, "R", 1)
     edges.append((final, c1)); edges.append((final, c2))
-    rf = byno[final]
-    nodes[final] = dict(x=4, y=3.5, stage="F", t1=rf.team1, t2=rf.team2, date=rf.date, city=rf.city,
-                        s1=rf.score1, s2=rf.score2)
+    nodes[final] = node_for(final, 4, 3.5)
     third = byno.get(103)
     return nodes, edges, third
 
@@ -401,6 +421,28 @@ def order_from_quals(quals: dict) -> dict:
         q = [c for c in quals.get(letter, []) if c in base[letter]][:2]
         order[letter] = q + [c for c in base[letter] if c not in q]
     return order
+
+
+def order_from_standings() -> dict:
+    """Current per-group finishing order from the LIVE standings table (1st→4th as things stand today).
+    Feeds the provisional bracket: if every group ended exactly as it stands now, this is the order
+    third_allocation / resolve_bracket use to fill the knockout slots. A group that has not kicked off
+    falls back to the seeded order (group_standings sorts on the pot seed `pos` when teams are level)."""
+    return {L: list(group_standings(L)["code"]) for L in GROUP_LETTERS}
+
+
+def groups_played() -> int:
+    """How many of the 72 group matches have been played — drives whether a projection is meaningful."""
+    g = matches()
+    return int(((g.stage == "group") & g.played).sum())
+
+
+def projected_bracket() -> dict:
+    """resolve_bracket fed by the live standings, favourites advancing through every undecided tie →
+    a full provisional knockout (matches 73–104) reflecting the latest group positions. The Round of 32
+    is pure standings (who finishes where today); deeper rounds assume the stronger seed advances, so the
+    whole thing is a 'if it ended now' snapshot, not a prediction of results."""
+    return resolve_bracket(order_from_standings(), {}, fill_defaults=True)
 
 
 def resolve_bracket(order: dict, wins: dict, fill_defaults: bool = True, chooser=None) -> dict:

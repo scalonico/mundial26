@@ -110,6 +110,8 @@ WC_BRACKET_CSS = f"""<style>
                  box-shadow:0 0 0 1px rgba(0,0,0,.3); flex:0 0 auto; }}
 .wctm span {{ white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }}
 .wctm.wcp {{ color:#8aa0bd; font-weight:600; }}
+.wctm.wcprov span {{ font-style:italic; color:#aebfd6; }}
+.wctm.wcprov img.wcf {{ opacity:.72; }}
 .wcsc {{ font-weight:800; color:#fff; margin-left:6px; flex:0 0 auto; }}
 .wcmeta {{ font-size:.66rem; color:#9fb2cc; font-weight:600; margin-top:4px; text-align:center; }}
 .wcfin {{ background:linear-gradient(160deg,rgba(255,215,0,.15),#16223b); border:1px solid {GOLD};
@@ -119,18 +121,21 @@ WC_BRACKET_CSS = f"""<style>
 </style>"""
 
 
-def wc_bracket_html():
+def wc_bracket_html(resolved=None):
     """Two-sided knockout bracket as flexbox columns (R32→SF · Final · SF→R32). Each column is ordered
     top-to-bottom by the layout y, and `justify-content:space-around` fans each round in so every match
-    sits between its two feeders. Returns (html, third_place_match_row)."""
-    nodes, edges, third = wc.bracket_layout()
+    sits between its two feeders. Returns (html, third_place_match_row).
+    `resolved` (a resolve_bracket result) fills placeholder slots with the provisional projection,
+    shown in italics with a dimmed flag."""
+    nodes, edges, third = wc.bracket_layout(resolved=resolved)
     lbl = {"R32": "Round of 32", "R16": "Round of 16", "QF": "Quarter-finals",
            "SF": "Semi-finals", "F": "Final"}
 
-    def slot(x):                                          # flag image for a resolved team, else placeholder
+    def slot(x, prov=False):                              # flag image for a resolved team, else placeholder
         f = wc.code_flag(x)
         if f:
-            return f"<span class='wctm'><img class='wcf' src='{f}'><span>{x}</span></span>"
+            cls = "wctm wcprov" if prov else "wctm"
+            return f"<span class='{cls}'><img class='wcf' src='{f}'><span>{x}</span></span>"
         return f"<span class='wctm wcp'><span>{wc.short_slot(x)}</span></span>"
 
     def card(n, d):
@@ -139,8 +144,8 @@ def wc_bracket_html():
         dt = pd.Timestamp(d["date"])
         cls = "wcmt wcfin" if d["stage"] == "F" else "wcmt"
         return (f"<div class='{cls}'>"
-                f"<div class='wctr'>{slot(d['t1'])}{sc1}</div>"
-                f"<div class='wctr'>{slot(d['t2'])}{sc2}</div>"
+                f"<div class='wctr'>{slot(d['t1'], d.get('prov1'))}{sc1}</div>"
+                f"<div class='wctr'>{slot(d['t2'], d.get('prov2'))}{sc2}</div>"
                 f"<div class='wcmeta'>#{n} · {dt.strftime('%b')} {dt.day} · {d['city']}</div></div>")
 
     cols = []
@@ -550,15 +555,35 @@ with t_bracket:
                "(Jul 19). Slots fill as the groups finish: **1A** = Group A winner · **2B** = runner-up "
                "· **3rd …** = one of the eight best third-placed teams · **W73** = winner of match 73. "
                "Scroll sideways if the bracket runs wider than your screen.")
+    _gp = wc.groups_played()
+    project = st.toggle(
+        "🔮 Project the latest group standings into the bracket",
+        value=_gp > 0, key="wc_proj_bracket",
+        help="Fill every empty knockout slot with the team that would be there if all 12 groups "
+             "ended exactly as they stand right now — so you can trace where and when each team "
+             "would play next. The Round of 32 is pure current standings; deeper rounds assume the "
+             "stronger seed advances. Turn off to show the official empty bracket.")
+    resolved = wc.projected_bracket() if project else None
+    if project:
+        st.markdown(
+            f"<div style='font-size:.8rem;color:#aebfd6;margin:-2px 0 8px'>"
+            f"<i>Provisional</i> — teams shown <i>in italics with a faded flag</i> are projected from the "
+            f"standings after <b>{_gp} of 72</b> group matches (favourites advance in later rounds). "
+            f"They are <b>not</b> confirmed and shift with every result.</div>",
+            unsafe_allow_html=True)
     st.markdown("👉 Want to call it yourself? The **🎮 Bracket challenge** tab turns this into a "
                 "fill-in-your-own bracket — pick every winner through to the title.")
-    bracket_html, third = wc_bracket_html()
+    bracket_html, third = wc_bracket_html(resolved=resolved)
     st.markdown(WC_BRACKET_CSS + bracket_html, unsafe_allow_html=True)
     if third is not None:
         td = pd.Timestamp(third.date)
+        if resolved and resolved.get(103):
+            t1d, t2d = resolved[103].get("t1") or third.team1, resolved[103].get("t2") or third.team2
+        else:
+            t1d, t2d = third.team1, third.team2
         st.markdown(f"🥉 **Third-place play-off** — match #{int(third.match_no)} · "
                     f"{td.strftime('%b')} {td.day} · {third.city}: "
-                    f"{wc.box_slot(third.team1)} vs {wc.box_slot(third.team2)}")
+                    f"{wc.box_slot(t1d)} vs {wc.box_slot(t2d)}")
 
 with t_play:
     wcp_q = st.session_state.wcp_q
