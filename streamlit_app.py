@@ -89,6 +89,12 @@ table.wcg img.gf { height:11px; width:16px; object-fit:cover; border-radius:2px;
 table.wcg td.pts, table.wcg th.pts { font-weight:700; color:#fff; }
 h3, h4 { color:#dbe7f7; font-weight:700; letter-spacing:-.2px; }
 hr { border-color:rgba(108,172,228,.15); }
+/* The page paints a dark background but Streamlit's default text colour is the light-theme dark
+   ink, which disappears on navy. Force readable light text for ordinary markdown + captions
+   (inline-styled custom HTML keeps its own colour and is unaffected). */
+[data-testid="stMarkdownContainer"] p, [data-testid="stMarkdownContainer"] li { color:#d4dfef; }
+[data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] p,
+[data-testid="stCaptionContainer"] span { color:#aebfd6 !important; }
 </style>""", unsafe_allow_html=True)
 ui.inject()
 
@@ -118,12 +124,14 @@ WC_BRACKET_CSS = f"""<style>
 .wcsc {{ font-weight:800; color:#fff; margin-left:6px; flex:0 0 auto; }}
 /* Date + location are the key info — make them the prominent, highlighted part of every card. */
 .wcmeta {{ margin-top:6px; display:flex; flex-direction:column; gap:3px; }}
-.wcwhen, .wcwhere {{ display:flex; align-items:center; gap:4px; font-size:.68rem; font-weight:800;
-                     padding:2px 5px; border-radius:6px; white-space:nowrap; overflow:hidden;
-                     text-overflow:ellipsis; }}
-.wcwhen {{ color:#ffd84d; background:rgba(255,216,77,.12); border:1px solid rgba(255,216,77,.28); }}
-.wcwhere {{ color:#8fd2ff; background:rgba(108,172,228,.12); border:1px solid rgba(108,172,228,.30); }}
-.wcmno {{ font-size:.6rem; font-weight:700; color:#7d8ea6; margin-left:auto; }}
+/* Dark, near-opaque pill backing so the bright date/venue text always reads clearly,
+   whatever the card gradient behind it. */
+.wcwhen, .wcwhere {{ display:flex; align-items:center; gap:4px; font-size:.69rem; font-weight:800;
+                     padding:2px 6px; border-radius:6px; white-space:nowrap; overflow:hidden;
+                     text-overflow:ellipsis; background:rgba(6,11,22,.66); }}
+.wcwhen {{ color:#ffd64a; border:1px solid rgba(255,214,74,.45); }}
+.wcwhere {{ color:#8ccdff; border:1px solid rgba(140,205,255,.42); }}
+.wcmno {{ font-size:.6rem; font-weight:700; color:rgba(255,255,255,.5); margin-left:auto; }}
 .wcfin {{ background:linear-gradient(160deg,rgba(255,215,0,.15),#16223b); border:1px solid {GOLD};
           box-shadow:0 0 0 1px rgba(255,215,0,.4), 0 6px 20px rgba(255,215,0,.18); }}
 .wcfin .wctr {{ color:{GOLD}; font-weight:700; }}
@@ -566,10 +574,10 @@ with t_sched:
         st.markdown("".join(parts), unsafe_allow_html=True)
 
 with t_bracket:
-    st.caption("The 32-team knockout — two halves converging on the **Final** at MetLife Stadium "
-               "(Jul 19). Slots fill as the groups finish: **1A** = Group A winner · **2B** = runner-up "
-               "· **3rd …** = one of the eight best third-placed teams · **W73** = winner of match 73. "
-               "Scroll sideways if the bracket runs wider than your screen.")
+    st.caption("The 32-team knockout, both halves converging on the **Final** at MetLife Stadium "
+               "(Jul 19). The **Round of 32** fills from the live standings — group winners, "
+               "runners-up and the eight best third-placed teams. Later rounds stay as fixtures, "
+               "showing only the **📅 date** and **📍 venue** until teams advance.")
     _gp = wc.groups_played()
     project = st.toggle(
         "🔮 Fill the Round of 32 from the current group standings",
