@@ -26,7 +26,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 25,group,A,2026-06-18,12:00 p.m. UTC−4,CZE,RSA,1,1,Mercedes-Benz Stadium,Atlanta
 26,group,B,2026-06-18,12:00 p.m. UTC−7,SUI,BIH,4,1,SoFi Stadium,Inglewood
 27,group,B,2026-06-18,3:00 p.m. UTC−7,CAN,QAT,6,0,BC Place,Vancouver
-28,group,A,2026-06-18,7:00 p.m. UTC−6,MEX,KOR,,,Estadio Akron,Zapopan
+28,group,A,2026-06-18,7:00 p.m. UTC−6,MEX,KOR,1,0,Estadio Akron,Zapopan
 29,group,C,2026-06-19,8:30 p.m. UTC−4,BRA,HAI,,,Lincoln Financial Field,Philadelphia
 30,group,C,2026-06-19,6:00 p.m. UTC−4,SCO,MAR,,,Gillette Stadium,Foxborough
 31,group,D,2026-06-19,8:00 p.m. UTC−7,TUR,PAR,,,Levi's Stadium,Santa Clara
@@ -77,7 +77,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 76,R32,,2026-06-29,12:00 p.m. UTC−5,Winner Group C,Runner-up Group F,,,NRG Stadium,Houston
 77,R32,,2026-06-30,5:00 p.m. UTC−4,Winner Group I,3rd Group C/D/F/G/H,,,MetLife Stadium,East Rutherford
 78,R32,,2026-06-30,12:00 p.m. UTC−5,Runner-up Group E,Runner-up Group I,,,AT&T Stadium,Arlington
-79,R32,,2026-06-30,7:00 p.m. UTC−6,Winner Group A,3rd Group C/E/F/H/I,,,Estadio Azteca,Mexico City
+79,R32,,2026-06-30,7:00 p.m. UTC−6,MEX,3rd Group C/E/F/H/I,,,Estadio Azteca,Mexico City
 80,R32,,2026-07-01,12:00 p.m. UTC−4,Winner Group L,3rd Group E/H/I/J/K,,,Mercedes-Benz Stadium,Atlanta
 81,R32,,2026-07-01,5:00 p.m. UTC−7,Winner Group D,3rd Group B/E/F/I/J,,,Levi's Stadium,Santa Clara
 82,R32,,2026-07-01,1:00 p.m. UTC−7,Winner Group G,3rd Group A/E/H/I/J,,,Lumen Field,Seattle
