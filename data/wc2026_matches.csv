@@ -28,7 +28,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 27,group,B,2026-06-18,3:00 p.m. UTC−7,CAN,QAT,6,0,BC Place,Vancouver
 28,group,A,2026-06-18,7:00 p.m. UTC−6,MEX,KOR,1,0,Estadio Akron,Zapopan
 29,group,C,2026-06-19,8:30 p.m. UTC−4,BRA,HAI,,,Lincoln Financial Field,Philadelphia
-30,group,C,2026-06-19,6:00 p.m. UTC−4,SCO,MAR,,,Gillette Stadium,Foxborough
+30,group,C,2026-06-19,6:00 p.m. UTC−4,SCO,MAR,0,1,Gillette Stadium,Foxborough
 31,group,D,2026-06-19,8:00 p.m. UTC−7,TUR,PAR,,,Levi's Stadium,Santa Clara
 32,group,D,2026-06-19,12:00 p.m. UTC−7,USA,AUS,2,0,Lumen Field,Seattle
 33,group,E,2026-06-20,4:00 p.m. UTC−4,GER,CIV,,,BMO Field,Toronto
