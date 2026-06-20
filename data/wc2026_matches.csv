@@ -33,7 +33,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 32,group,D,2026-06-19,12:00 p.m. UTC−7,USA,AUS,2,0,Lumen Field,Seattle
 33,group,E,2026-06-20,4:00 p.m. UTC−4,GER,CIV,,,BMO Field,Toronto
 34,group,E,2026-06-20,7:00 p.m. UTC−5,ECU,CUW,,,Arrowhead Stadium,Kansas City
-35,group,F,2026-06-20,12:00 p.m. UTC−5,NED,SWE,,,NRG Stadium,Houston
+35,group,F,2026-06-20,12:00 p.m. UTC−5,NED,SWE,5,1,NRG Stadium,Houston
 36,group,F,2026-06-20,10:00 p.m. UTC−6,TUN,JPN,,,Estadio BBVA,Guadalupe
 37,group,H,2026-06-21,6:00 p.m. UTC−4,URU,CPV,,,Hard Rock Stadium,Miami Gardens
 38,group,H,2026-06-21,12:00 p.m. UTC−4,ESP,KSA,,,Mercedes-Benz Stadium,Atlanta
