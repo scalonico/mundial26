@@ -7,6 +7,8 @@ scores → standings + bracket fill in automatically.
 
 Run:  streamlit run streamlit_app.py
 """
+from datetime import date
+
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.io as pio
@@ -105,6 +107,9 @@ WC_BRACKET_CSS = f"""<style>
    9 columns × ~118px + gaps ≈ 1110px. overflow-x stays as a safety net on very narrow windows. */
 .wcbr {{ display:flex; gap:6px; height:900px; overflow-x:auto; padding:4px 2px 18px;
          justify-content:space-between; }}
+/* Zoom wrapper: on a phone the fitted bracket is tiny — `zoom` magnifies the whole thing and this
+   container scrolls sideways so you can read each card, then pan across the bracket. */
+.wcbr-scroll {{ overflow-x:auto; -webkit-overflow-scrolling:touch; }}
 .wccol {{ display:flex; flex-direction:column; flex:1 1 0; min-width:0; }}
 .wcch {{ font-size:.62rem; letter-spacing:.08em; text-transform:uppercase; color:#9fc4ec;
          font-weight:800; text-align:center; margin-bottom:8px; }}
@@ -331,14 +336,18 @@ table.wcg-pre td.pts { color:#8493ad; }
 .wtcard .mt { color:#8aa0bd; font-size:.72rem; font-weight:600; margin-top:1px; }
 .wcres-wrap { margin:.1rem 0 1.1rem; }
 .wcres-h { color:#9fc4ec; font-weight:800; font-size:.8rem; text-transform:uppercase; letter-spacing:.07em; margin:0 0 8px 1px; }
-.wcres { display:flex; flex-wrap:wrap; gap:9px; }
-.wcres-chip { display:flex; align-items:center; gap:7px; padding:7px 12px; border-radius:10px;
+/* ONE row, never wrapping — chips scroll sideways on a phone instead of stacking into many rows. */
+.wcres, .wctoday { display:flex; flex-wrap:nowrap; gap:9px; overflow-x:auto; padding-bottom:5px;
+    -webkit-overflow-scrolling:touch; scrollbar-width:thin; }
+.wcres-chip { display:flex; align-items:center; gap:7px; padding:7px 12px; border-radius:10px; flex:0 0 auto;
     background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); box-shadow:0 2px 9px rgba(0,0,0,.2); }
 .wcres-chip img { width:22px; height:14px; object-fit:cover; border-radius:2px; box-shadow:0 0 0 1px rgba(0,0,0,.3); flex:0 0 auto; }
-.wcres-chip .t { color:#a9bbd4; font-weight:700; font-size:.82rem; }
+.wcres-chip .t { color:#a9bbd4; font-weight:700; font-size:.82rem; white-space:nowrap; }
 .wcres-chip .t.w { color:#fff; }                         /* winner stands out */
 .wcres-chip .sc { color:#FFD700; font-weight:800; font-size:.84rem; padding:0 3px; }
 .wcres-chip .dt { color:#7e90ad; font-size:.7rem; font-weight:700; margin-left:3px; }
+.wcres-chip .clk { color:#ffd64a; font-weight:800; font-size:.74rem; margin-right:1px; white-space:nowrap; }
+.wcres-chip .vs { color:#7e90ad; font-weight:700; font-size:.78rem; padding:0 3px; }
 .wclive { display:flex; flex-wrap:wrap; gap:8px; margin:.2rem 0 1rem; }
 .wclive .s { display:flex; align-items:baseline; gap:6px; padding:5px 12px; border-radius:9px;
     background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); }
@@ -473,6 +482,42 @@ if len(done):
     st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>⚽ Latest results</div>"
                 f"<div class='wcres'>{''.join(chips)}</div></div>", unsafe_allow_html=True)
 
+# Today's schedule — the day's fixtures at a glance (kickoff time, or live/final score). When nothing
+# is on today it rolls forward to the next match day so the row is never empty mid-tournament.
+today = date.today()
+todays = ms[ms["date"].dt.date == today].sort_values("kickoff_utc")
+sched_h = "📅 Today's schedule"
+if not len(todays):
+    future = ms[ms["date"].dt.date > today]
+    if len(future):
+        nxt = future["date"].dt.date.min()
+        todays = ms[ms["date"].dt.date == nxt].sort_values("kickoff_utc")
+        sched_h = f"📅 Next matches · {pd.Timestamp(nxt).strftime('%a %b ')}{pd.Timestamp(nxt).day}"
+if len(todays):
+    tchips = []
+    for r in todays.itertuples():
+        clock = r.time_local.split("UTC")[0].strip() if isinstance(r.time_local, str) else ""
+        n1 = r.team1 if r.team1 in codes else wc.short_slot(r.team1)
+        n2 = r.team2 if r.team2 in codes else wc.short_slot(r.team2)
+        f1, f2 = wc.code_flag(r.team1), wc.code_flag(r.team2)
+        img1 = f"<img src='{f1}'>" if f1 else ""
+        img2 = f"<img src='{f2}'>" if f2 else ""
+        if r.played:
+            s1, s2 = int(r.score1), int(r.score2)
+            w1 = " w" if s1 > s2 else ""
+            w2 = " w" if s2 > s1 else ""
+            mid = f"<span class='sc'>{s1}–{s2}</span>"
+        else:
+            w1 = w2 = ""
+            mid = "<span class='vs'>vs</span>"
+        tchips.append(
+            f"<div class='wcres-chip'>"
+            f"<span class='clk'>{clock}</span>"
+            f"{img1}<span class='t{w1}'>{n1}</span>{mid}"
+            f"<span class='t{w2}'>{n2}</span>{img2}</div>")
+    st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>{sched_h}</div>"
+                f"<div class='wctoday'>{''.join(tchips)}</div></div>", unsafe_allow_html=True)
+
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
 t_groups, t_sched, t_bracket, t_play, t_venues, t_teams, t_history = st.tabs(
     ["🗓️ Groups", "📋 Schedule", "🏆 Bracket", "🎮 Challenge", "🏟️ Venues", "🌍 Teams", "📜 History"], key="wc_tab")
@@ -596,8 +641,14 @@ with t_bracket:
             unsafe_allow_html=True)
     st.markdown("👉 Want to call it yourself? The **🎮 Bracket challenge** tab turns this into a "
                 "fill-in-your-own bracket — pick every winner through to the title.")
+    zoom_opts = {"Fit": 1.0, "1.25×": 1.25, "1.5×": 1.5, "2×": 2.0, "2.5×": 2.5}
+    zsel = st.select_slider(
+        "🔍 Zoom (handy on a phone — magnify, then scroll sideways to pan across the bracket)",
+        options=list(zoom_opts), value="Fit", key="wc_bracket_zoom")
+    zf = zoom_opts[zsel]
     bracket_html, third = wc_bracket_html(resolved=resolved)
-    st.markdown(WC_BRACKET_CSS + bracket_html, unsafe_allow_html=True)
+    inner = f"<div style='zoom:{zf}'>{bracket_html}</div>" if zf != 1.0 else bracket_html
+    st.markdown(WC_BRACKET_CSS + f"<div class='wcbr-scroll'>{inner}</div>", unsafe_allow_html=True)
     if third is not None:
         td = pd.Timestamp(third.date)
         t1d, t2d = third.team1, third.team2                 # losers of the semis — no team until then
