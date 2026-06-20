@@ -353,6 +353,18 @@ table.wcg-pre td.pts { color:#8493ad; }
     background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); }
 .wclive .s .v { color:#fff; font-weight:800; font-size:1rem; line-height:1.1; }
 .wclive .s .l { color:#9fb2cc; font-size:.72rem; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
+/* Venue-local UTC offset on each Today chip, so a 12:00 sitting after a 19:00 (different zones) reads clearly. */
+.wcres-chip .tz { color:#7e90ad; font-size:.6rem; font-weight:700; margin-left:1px; }
+/* Phone: the three side-by-side group tables are unreadable at ~120px wide — stack them one-per-row
+   (`:has(.wgcard)` scopes this to the Groups block only) and bump the now-roomier table's type. */
+@media (max-width: 640px) {
+  [data-testid="stHorizontalBlock"]:has(.wgcard) { flex-wrap:wrap; }
+  [data-testid="stHorizontalBlock"]:has(.wgcard) [data-testid="stColumn"] {
+      flex:1 1 100% !important; width:100% !important; min-width:100% !important; }
+  table.wcg { font-size:.86rem; }
+  table.wcg th { font-size:.76rem; }
+  table.wcg img.gf { height:13px; width:19px; }
+}
 </style>"""
 
 
@@ -496,7 +508,9 @@ if not len(todays):
 if len(todays):
     tchips = []
     for r in todays.itertuples():
-        clock = r.time_local.split("UTC")[0].strip() if isinstance(r.time_local, str) else ""
+        _tl = r.time_local.split("UTC") if isinstance(r.time_local, str) else [""]
+        clock = _tl[0].strip()
+        tz = f"<span class='tz'>UTC{_tl[1].strip()}</span>" if len(_tl) > 1 else ""
         n1 = r.team1 if r.team1 in codes else wc.short_slot(r.team1)
         n2 = r.team2 if r.team2 in codes else wc.short_slot(r.team2)
         f1, f2 = wc.code_flag(r.team1), wc.code_flag(r.team2)
@@ -512,7 +526,7 @@ if len(todays):
             mid = "<span class='vs'>vs</span>"
         tchips.append(
             f"<div class='wcres-chip'>"
-            f"<span class='clk'>{clock}</span>"
+            f"<span class='clk'>{clock}</span>{tz}"
             f"{img1}<span class='t{w1}'>{n1}</span>{mid}"
             f"<span class='t{w2}'>{n2}</span>{img2}</div>")
     st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>{sched_h}</div>"
