@@ -851,6 +851,8 @@ VENUE_CSS = """<style>
 .ven-head .meta { color:#cfe0f5; font-size:.86rem; margin-left:auto; white-space:nowrap; }
 .ven-head .meta b { color:#6CACE4; }
 .ven-sub { color:#6CACE4; font-weight:800; font-size:.95rem; margin:.7rem 0 .35rem; }
+.ven-pick { color:#9fc4ec; font-weight:800; font-size:.86rem; text-transform:uppercase; letter-spacing:.06em;
+    margin:1.1rem 0 .2rem; padding-top:.7rem; border-top:1px solid rgba(108,172,228,.16); }
 .ven-mt { display:grid; grid-template-columns:60px 1fr 46px 1fr 104px; align-items:center; gap:8px;
     padding:6px 12px; margin-bottom:4px; border-radius:8px; background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.13); }
 .ven-mt .dt { color:#8aa0bd; font-weight:700; font-size:.74rem; white-space:nowrap; }
@@ -872,41 +874,25 @@ with t_venues:
         ("*Total seats", f"{int(ven['capacity'].sum()):,}", "across all 16"),
     ])
     st.caption("16 stadiums across Canada, Mexico and the USA — the **Final** at MetLife, the **opening "
-               "match** at the iconic Estadio Azteca. **Tap any stadium** to see its full fixture list — "
-               "group games and knockouts.")
+               "match** at the iconic Estadio Azteca. **Tap any stadium below** — its full fixture list "
+               "loads in the panel right here.")
 
     def _slug(s):
         return "".join(ch if ch.isalnum() else "_" for ch in str(s).lower())
 
-    st.markdown("<style>" + "".join(
-        f".st-key-ven_{_slug(r.stadium)} button{{background-image:"
-        f"linear-gradient(180deg,rgba(11,18,32,.05) 24%,rgba(11,18,32,.93)),url('{wc.venue_photo(r.stadium)}') !important;}}"
-        for r in ven.itertuples()) + "</style>", unsafe_allow_html=True)
     if st.session_state.get("sel_venue") not in set(ven["stadium"]):
         st.session_state["sel_venue"] = "MetLife Stadium"          # hosts the Final
 
-    with st.container(key="venuegrid"):
-        for country in ven.groupby("country")["capacity"].count().sort_values(ascending=False).index:
-            cv = list(ven[ven.country == country].sort_values("capacity", ascending=False).itertuples())
-            flag = f"<img src='{host_flag(country, 40)}' height='15' " \
-                   "style='vertical-align:-2px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.3)'>"
-            ui.section(f"{flag} &nbsp;{country}", f"{len(cv)} venue{'s' if len(cv) != 1 else ''}")
-            for k in range(0, len(cv), 4):
-                cols = st.columns(4)
-                for j, r in enumerate(cv[k:k + 4]):
-                    with cols[j]:
-                        n = int((ms.stadium == r.stadium).sum())
-                        if st.button(r.stadium, key=f"ven_{_slug(r.stadium)}",
-                                     help=f"{int(r.capacity):,} seats · {n} matches"):
-                            st.session_state["sel_venue"] = r.stadium
+    def _pick_venue(name):                                          # on_click → set before the rerun re-renders,
+        st.session_state["sel_venue"] = name                       # so the detail panel above shows it with no lag
 
     sel = st.session_state["sel_venue"]
-    st.markdown(f"<style>.st-key-ven_{_slug(sel)} button{{outline:2px solid #FFD700;outline-offset:-2px;"
-                f"border-color:#FFD700 !important;}}</style>", unsafe_allow_html=True)
 
+    # ── Detail panel FIRST (top of the tab) so a pick's fixtures always render in view, not 1800px below
+    # a tall photo grid (which read as "nothing happened", worst on a phone). The grid is the picker below.
     vr = ven[ven.stadium == sel].iloc[0]
     vm = ms[ms.stadium == sel].sort_values("match_no")
-    st.markdown(f"<div class='ven-head'><div><div class='nm'>🏟️ {sel}</div>"
+    st.markdown(f"<div id='venue-detail' class='ven-head'><div><div class='nm'>🏟️ {sel}</div>"
                 f"<div class='loc'>{vr.city}, {vr.country}</div></div>"
                 f"<div class='meta'><b>{int(vr.capacity):,}</b> seats &nbsp;·&nbsp; <b>{len(vm)}</b> matches</div></div>",
                 unsafe_allow_html=True)
@@ -931,6 +917,30 @@ with t_venues:
     if len(ko):
         st.markdown("<div class='ven-sub'>🏆 Knockout stage</div>", unsafe_allow_html=True)
         st.markdown("".join(_vmrow(x) for x in ko.itertuples()), unsafe_allow_html=True)
+
+    # ── Stadium picker grid (below the detail). Per-venue photo backgrounds + a gold outline on the
+    # selected one. Buttons set the selection via on_click so the panel above updates without a lag.
+    st.markdown("<div class='ven-pick'>📍 Pick a stadium</div>", unsafe_allow_html=True)
+    st.markdown("<style>" + "".join(
+        f".st-key-ven_{_slug(r.stadium)} button{{background-image:"
+        f"linear-gradient(180deg,rgba(11,18,32,.05) 24%,rgba(11,18,32,.93)),url('{wc.venue_photo(r.stadium)}') !important;}}"
+        for r in ven.itertuples())
+        + f".st-key-ven_{_slug(sel)} button{{outline:2px solid #FFD700;outline-offset:-2px;"
+        f"border-color:#FFD700 !important;}}</style>", unsafe_allow_html=True)
+    with st.container(key="venuegrid"):
+        for country in ven.groupby("country")["capacity"].count().sort_values(ascending=False).index:
+            cv = list(ven[ven.country == country].sort_values("capacity", ascending=False).itertuples())
+            flag = f"<img src='{host_flag(country, 40)}' height='15' " \
+                   "style='vertical-align:-2px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.3)'>"
+            ui.section(f"{flag} &nbsp;{country}", f"{len(cv)} venue{'s' if len(cv) != 1 else ''}")
+            for k in range(0, len(cv), 4):
+                cols = st.columns(4)
+                for j, r in enumerate(cv[k:k + 4]):
+                    with cols[j]:
+                        n = int((ms.stadium == r.stadium).sum())
+                        st.button(r.stadium, key=f"ven_{_slug(r.stadium)}",
+                                  on_click=_pick_venue, args=(r.stadium,),
+                                  help=f"{int(r.capacity):,} seats · {n} matches")
 
 with t_teams:
     conf = wc.confederation_counts()
