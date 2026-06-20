@@ -31,7 +31,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 30,group,C,2026-06-19,6:00 p.m. UTC−4,SCO,MAR,0,1,Gillette Stadium,Foxborough
 31,group,D,2026-06-19,8:00 p.m. UTC−7,TUR,PAR,0,1,Levi's Stadium,Santa Clara
 32,group,D,2026-06-19,12:00 p.m. UTC−7,USA,AUS,2,0,Lumen Field,Seattle
-33,group,E,2026-06-20,4:00 p.m. UTC−4,GER,CIV,1,1,BMO Field,Toronto
+33,group,E,2026-06-20,4:00 p.m. UTC−4,GER,CIV,2,1,BMO Field,Toronto
 34,group,E,2026-06-20,7:00 p.m. UTC−5,ECU,CUW,,,Arrowhead Stadium,Kansas City
 35,group,F,2026-06-20,12:00 p.m. UTC−5,NED,SWE,5,1,NRG Stadium,Houston
 36,group,F,2026-06-20,10:00 p.m. UTC−6,TUN,JPN,,,Estadio BBVA,Guadalupe
