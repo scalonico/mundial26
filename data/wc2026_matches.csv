@@ -53,7 +53,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 52,group,B,2026-06-24,12:00 p.m. UTC−7,BIH,QAT,3,1,Lumen Field,Seattle
 53,group,A,2026-06-24,7:00 p.m. UTC−6,CZE,MEX,0,3,Estadio Azteca,Mexico City
 54,group,A,2026-06-24,7:00 p.m. UTC−6,RSA,KOR,1,0,Estadio BBVA,Guadalupe
-55,group,E,2026-06-25,4:00 p.m. UTC−4,CUW,CIV,,,Lincoln Financial Field,Philadelphia
+55,group,E,2026-06-25,4:00 p.m. UTC−4,CUW,CIV,0,2,Lincoln Financial Field,Philadelphia
 56,group,E,2026-06-25,4:00 p.m. UTC−4,ECU,GER,,,MetLife Stadium,East Rutherford
 57,group,F,2026-06-25,6:00 p.m. UTC−5,JPN,SWE,,,AT&T Stadium,Arlington
 58,group,F,2026-06-25,6:00 p.m. UTC−5,TUN,NED,,,Arrowhead Stadium,Kansas City
