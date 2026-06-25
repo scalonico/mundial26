@@ -208,14 +208,20 @@ WC_PLAY_CSS = """<style>
 .wpstep { font-size:.86rem; color:#cdd9ea; background:rgba(108,172,228,.07); border-left:3px solid #6CACE4;
           border-radius:0 8px 8px 0; padding:7px 11px; margin:12px 0 9px; }
 .wpstep b { color:#eaf1fb; }
-/* ── Bracket fan-in: each round-column fills the tallest column's height (align-items:stretch) and
-   space-arounds its match cards. The cards (keyed .st-key-wcm<match#>) are forced to flex:0 0 auto so
-   they keep their NATURAL, compact, uniform height — only their POSITIONS converge toward the centre
-   Final (no more giant stretched boxes in the sparse later rounds). */
+/* ── Bracket fan-in: each match card is positioned absolutely at the vertical centre of its two
+   feeders (the same (y+0.5)/span geometry as the 🏆 Bracket tab), so every R16 sits between its two
+   R32, every QF between its two R16, etc. The per-match top:% rules are generated at render time
+   (WC_PLAY_POS) from wc.bracket_layout(). space-around can't do this — the dense R32 column packs out
+   of step with the sparse later rounds — which left the inner rounds visibly off-centre. */
 .st-key-wcbr [data-testid="stHorizontalBlock"] { align-items: stretch; }
-.st-key-wcbr [data-testid="stColumn"] > [data-testid="stVerticalBlock"] { height: 100%; }
-.st-key-wcbr [data-testid="stVerticalBlock"]:has(> [data-testid="stLayoutWrapper"] > [class*="st-key-wcm"]) {
-    justify-content: space-around; }
+/* Fixed-height positioning context — ONLY the 9 round columns (their vertical block directly holds the
+   match-card wrappers). The :has() guard is essential: a plain stColumn>stVerticalBlock selector also
+   matches the flag/button sub-columns INSIDE every card, which would stretch each tie to the full
+   column height (the Final's gold card then paints as a full-height bar). */
+.st-key-wcbr [data-testid="stColumn"] > [data-testid="stVerticalBlock"]:has(
+    > [data-testid="stLayoutWrapper"] > [class*="st-key-wcm"]) { position: relative; height: 1040px; }
+.st-key-wcbr [data-testid="stLayoutWrapper"]:has(> [class*="st-key-wcm"]) {
+    position: absolute; left: 0; right: 0; transform: translateY(-50%); }
 .st-key-wcbr [data-testid="stLayoutWrapper"]:has(> [class*="st-key-wcm"]),
 .st-key-wcbr [class*="st-key-wcm"] { flex: 0 0 auto !important; }
 /* compact bracket cards + buttons */
@@ -768,11 +774,17 @@ with t_play:
 
     # ── The bracket: native buttons in a TWO-SIDED shape (R32→SF · Final · SF→R32), mirroring the
     # 🏆 Bracket tab. Geometry from wc.bracket_layout() (x = 0..8 columns, y = vertical order); each
-    # round-column spreads its cards (CSS space-around in .st-key-wcbr) so every match sits between
-    # its two feeders and the two halves converge on the centre Final.
+    # card is absolutely positioned at the vertical centre of its two feeders so the halves converge
+    # cleanly on the centre Final (CSS in .st-key-wcbr; per-match top:% generated just below).
     nodes = wc.bracket_layout()[0]
     col_matches = {x: [n for _, n in sorted((nodes[n]["y"], n) for n in nodes if nodes[n]["x"] == x)]
                    for x in range(9)}
+    # Per-match vertical placement: centre = (y+0.5)/span of the column (matches the 🏆 Bracket tab).
+    span = max(nodes[n]["y"] for n in nodes) + 1
+    pos_css = "".join(
+        f".st-key-wcbr [data-testid='stLayoutWrapper']:has(> .st-key-wcm{n})"
+        f"{{top:{(nodes[n]['y'] + 0.5) / span * 100:.4f}%;}}" for n in nodes)
+    st.markdown(f"<style>{pos_css}</style>", unsafe_allow_html=True)
     hdr = ["R32", "R16", "QF", "SF", "Final", "SF", "QF", "R16", "R32"]
     for i, (label, hc) in enumerate(zip(hdr, st.columns(9, gap="small"))):
         hc.markdown(f"<div class='wpch{' wpch-final' if i == 4 else ''}'>{label}</div>",
