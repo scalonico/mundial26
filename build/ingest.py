@@ -261,6 +261,48 @@ def backfill_match_nos(matches):
                   f"{r['team1']}-{r['team2']} @ {r['stadium']} {r['date']}")
 
 
+FIELDS = ["match_no", "stage", "group", "date", "time_local",
+          "team1", "team2", "score1", "score2", "stadium", "city"]
+CODE = re.compile(r"^[A-Z]{3}$")
+
+
+def load_prior_matches():
+    """The last-good matches.csv as a list of dict rows, or None if it doesn't exist yet (bootstrap)."""
+    prior = DATA / "wc2026_matches.csv"
+    if not prior.exists():
+        return None
+    with prior.open(encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
+def merge_onto_prior(parsed, prior_rows):
+    """Overlay this run's fresh parse onto the fixed 104-row schedule from the last-good CSV.
+
+    WHY MERGE instead of writing the parse outright: the WC schedule is fixed (104 matches), but the
+    Wikipedia source is NOT a stable 104-box snapshot during the tournament. Editors restructure the
+    knockout article (the Round-of-32 football boxes vanished once R16 sub-sections appeared), and a
+    single group fixture can briefly drop out mid-edit. A from-scratch parse therefore routinely returns
+    <104 boxes — which would make the old strict fail-safe abort and freeze the live site for days. So we
+    keep the prior CSV as the authoritative skeleton and only OVERLAY what this parse can see:
+      • scores — updated only when BOTH are present, so a transient blank never wipes a stored result;
+      • teams  — a placeholder ("Winner Match 73") is upgraded to a real 3-letter code once it resolves.
+    Returns (rows, n_score_updates)."""
+    by_no = {int(r["match_no"]): r for r in prior_rows if r.get("match_no", "").isdigit()}
+    n = 0
+    for p in parsed:
+        base = by_no.get(p["match_no"]) if p["match_no"] else None
+        if not base:
+            continue
+        if p["score1"] != "" and p["score2"] != "" and \
+                (p["score1"], p["score2"]) != (base["score1"], base["score2"]):
+            base["score1"], base["score2"] = p["score1"], p["score2"]
+            n += 1
+        for k in ("team1", "team2"):
+            if CODE.match(p[k] or "") and not CODE.match(base[k] or ""):
+                base[k] = p[k]
+    return prior_rows, n
+
+
 def main():
     groups, matches = {}, []
     for letter in "ABCDEFGHIJKL":
@@ -272,41 +314,57 @@ def main():
     backfill_match_nos(matches)
     matches.sort(key=lambda r: (r["match_no"] or 999))
 
-    # ── Fail-safe for the unattended tournament cron. WC-2026 has a FIXED shape: 12 groups × 4 teams,
-    # 104 matches (72 group + 32 knockout), all played at the 16 known venues. If a Wikipedia structure
-    # change ever makes the parse fall short, ABORT before writing anything — the cron then commits no
-    # change, the live site keeps its last-good data, and the run shows red in the Actions tab as a
-    # heads-up. (Scores filling in during play do NOT change these counts, so this never false-trips.)
     ng = len(matches) - len(ko)
-    bad_venue = sorted({r["stadium"] for r in matches} - {v[0] for v in VENUES})
-    problems = []
-    if len(matches) != 104:
-        problems.append(f"{len(matches)} matches (expected 104)")
-    if ng != 72 or len(ko) != 32:
-        problems.append(f"{ng} group + {len(ko)} knockout (expected 72 + 32)")
-    if sum(len(v) for v in groups.values()) != 48 or any(len(v) != 4 for v in groups.values()):
-        problems.append("groups are not 12 × 4 teams")
-    if bad_venue:
-        problems.append(f"unknown venue(s): {bad_venue}")
-    if problems:
-        raise SystemExit("ABORT — the WC-2026 Wikipedia parse looks broken (" + "; ".join(problems)
-                         + "). Nothing written; last-good data kept. Check the source articles.")
+    groups_ok = sum(len(v) for v in groups.values()) == 48 and all(len(v) == 4 for v in groups.values())
+    prior = load_prior_matches()
 
-    # teams.csv (group order = draw position within the group)
+    # ── Two modes:
+    #   BOOTSTRAP (no prior CSV): demand the full fixed shape — 12×4 teams, 104 matches (72 group + 32
+    #     knockout) at the 16 known venues — and ABORT before writing if the parse falls short, so the
+    #     repo never gets seeded with a broken first extract.
+    #   MERGE (prior CSV exists): the prior CSV already holds the full 104-row schedule, so a short parse
+    #     is normal (Wikipedia restructures the bracket mid-tournament). Overlay fresh scores/teams onto
+    #     it and never abort — the worst case is a no-op that keeps last-good data. A short parse is just
+    #     LOGGED as a heads-up (not failed), so genuine new scores still reach the live site.
+    if prior is None:
+        bad_venue = sorted({r["stadium"] for r in matches} - {v[0] for v in VENUES})
+        problems = []
+        if len(matches) != 104:
+            problems.append(f"{len(matches)} matches (expected 104)")
+        if ng != 72 or len(ko) != 32:
+            problems.append(f"{ng} group + {len(ko)} knockout (expected 72 + 32)")
+        if not groups_ok:
+            problems.append("groups are not 12 × 4 teams")
+        if bad_venue:
+            problems.append(f"unknown venue(s): {bad_venue}")
+        if problems:
+            raise SystemExit("ABORT — the WC-2026 Wikipedia bootstrap parse looks broken ("
+                             + "; ".join(problems) + "). Nothing written. Check the source articles.")
+        out = matches
+    else:
+        out, n_upd = merge_onto_prior(matches, prior)
+        if len(matches) != 104:
+            print(f"NOTE: parse saw {len(matches)} of 104 boxes ({ng} group + {len(ko)} knockout) — "
+                  f"normal mid-tournament; merged onto last-good schedule, {n_upd} score(s) updated.")
+        else:
+            print(f"Full 104-box parse; merged onto last-good schedule, {n_upd} score(s) updated.")
+
+    # teams.csv (group order = draw position within the group). Only regenerated when the group parse is
+    # complete (12×4); on a partial parse the existing teams.csv — which is correct — is left untouched.
     DATA.mkdir(parents=True, exist_ok=True)
-    with (DATA / "wc2026_teams.csv").open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(["code", "name", "group", "pos", "confederation", "iso2", "flag"])
-        for letter in "ABCDEFGHIJKL":
-            for i, code in enumerate(groups[letter], 1):
-                name, iso2, conf = TEAMS.get(code, (code, "", "?"))
-                w.writerow([code, name, letter, i, conf, iso2, flag_emoji(iso2) if iso2 else ""])
+    if groups_ok:
+        with (DATA / "wc2026_teams.csv").open("w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f)
+            w.writerow(["code", "name", "group", "pos", "confederation", "iso2", "flag"])
+            for letter in "ABCDEFGHIJKL":
+                for i, code in enumerate(groups[letter], 1):
+                    name, iso2, conf = TEAMS.get(code, (code, "", "?"))
+                    w.writerow([code, name, letter, i, conf, iso2, flag_emoji(iso2) if iso2 else ""])
 
     with (DATA / "wc2026_matches.csv").open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["match_no", "stage", "group", "date", "time_local",
-                                          "team1", "team2", "score1", "score2", "stadium", "city"])
+        w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()
-        w.writerows(matches)
+        w.writerows(out)
 
     with (DATA / "wc2026_venues.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
@@ -314,14 +372,15 @@ def main():
         w.writerows(VENUES)
 
     nteams = sum(len(v) for v in groups.values())
-    print(f"groups: {len(groups)} | teams: {nteams} | matches: {len(matches)} "
-          f"(group {len(matches) - len(ko)}, knockout {len(ko)}) | venues: {len(VENUES)}")
+    played = sum(1 for r in out if r["score1"] != "" and r["score2"] != "")
+    print(f"groups: {len(groups)} | teams: {nteams} | matches written: {len(out)} "
+          f"({played} with scores) | venues: {len(VENUES)}")
     missing = {c for v in groups.values() for c in v if c not in TEAMS}
     if missing:
         print("WARNING unmapped team codes:", missing)
     for letter in "ABCDEFGHIJKL":
         print(f"  Group {letter}: " + ", ".join(
-            f"{flag_emoji(TEAMS[c][1])} {TEAMS[c][0]}" for c in groups[letter]))
+            f"{flag_emoji(TEAMS[c][1])} {TEAMS[c][0]}" for c in groups.get(letter, [])))
 
 
 if __name__ == "__main__":
