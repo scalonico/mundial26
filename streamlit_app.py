@@ -104,8 +104,9 @@ ui.inject()
 # ─────────────────────────────────────────────────────── WC bracket CSS + helpers
 WC_BRACKET_CSS = f"""<style>
 /* Two-sided bracket sized to fit the 1180px content column WITHOUT sideways scrolling:
-   9 columns × ~118px + gaps ≈ 1110px. overflow-x stays as a safety net on very narrow windows. */
-.wcbr {{ display:flex; gap:6px; height:900px; overflow-x:auto; padding:4px 2px 18px;
+   9 columns × ~118px + gaps ≈ 1110px. overflow-x stays as a safety net on very narrow windows.
+   Tall enough (8 R32 cards × ~118px slot) that the by-y absolute placement below never overlaps. */
+.wcbr {{ display:flex; gap:6px; height:960px; overflow-x:auto; padding:4px 2px 18px;
          justify-content:space-between; }}
 /* Zoom wrapper: on a phone the fitted bracket is tiny — `zoom` magnifies the whole thing and this
    container scrolls sideways so you can read each card, then pan across the bracket. */
@@ -113,8 +114,12 @@ WC_BRACKET_CSS = f"""<style>
 .wccol {{ display:flex; flex-direction:column; flex:1 1 0; min-width:0; }}
 .wcch {{ font-size:.62rem; letter-spacing:.08em; text-transform:uppercase; color:#9fc4ec;
          font-weight:800; text-align:center; margin-bottom:8px; }}
-.wccards {{ flex:1; display:flex; flex-direction:column; justify-content:space-around; gap:6px; }}
-.wcmt {{ background:linear-gradient(160deg,#1d2d4c,#16223b); border:1px solid rgba(108,172,228,.20);
+/* Cards are positioned absolutely by their layout `y` (the mean of a match's two feeders), so every
+   later-round match sits vertically centred between the two it feeds from — alignment holds whatever
+   each column's card count is, unlike `space-around` which packs the dense R32 column out of step. */
+.wccards {{ position:relative; flex:1; }}
+.wcmt {{ position:absolute; left:0; right:0; transform:translateY(-50%);
+         background:linear-gradient(160deg,#1d2d4c,#16223b); border:1px solid rgba(108,172,228,.20);
          border-radius:10px; padding:6px 9px; box-shadow:0 2px 9px rgba(0,0,0,.26); }}
 .wctr {{ display:flex; justify-content:space-between; align-items:center; font-size:.80rem;
          color:#dce6f4; padding:2px 0; white-space:nowrap; }}
@@ -153,6 +158,10 @@ def wc_bracket_html(resolved=None):
     nodes, edges, third = wc.bracket_layout(resolved=resolved)
     lbl = {"R32": "Round of 32", "R16": "Round of 16", "QF": "Quarter-finals",
            "SF": "Semi-finals", "F": "Final"}
+    # Vertical scale: every card's centre sits at (y+0.5)/span of its column, where `span` is the number
+    # of leaf rows (8 R32 per side). The Final (y=3.5) lands at 50%; each R16 lands at the midpoint of
+    # its two R32 feeders, each QF at the midpoint of its two R16, etc. — a true bracket, no crossing.
+    span = max(d["y"] for d in nodes.values()) + 1
 
     def slot(x, prov=False):                              # flag image for a resolved team, else placeholder
         f = wc.code_flag(x)
@@ -166,10 +175,11 @@ def wc_bracket_html(resolved=None):
         sc2 = "" if pd.isna(d["s2"]) else f"<span class='wcsc'>{int(d['s2'])}</span>"
         dt = pd.Timestamp(d["date"])
         cls = "wcmt wcfin" if d["stage"] == "F" else "wcmt"
+        top = (d["y"] + 0.5) / span * 100                                  # vertical centre, % of column
         when = f"{dt.strftime('%a')} {dt.strftime('%b')} {dt.day}"          # e.g. "Sun Jun 28"
         venue = d.get("stadium") or ""
         full = d['city'] + (f" · {venue}" if venue else "")                 # city · stadium → tooltip
-        return (f"<div class='{cls}'>"
+        return (f"<div class='{cls}' style='top:{top:.4f}%'>"
                 f"<div class='wctr'>{slot(d['t1'], d.get('prov1'))}{sc1}</div>"
                 f"<div class='wctr'>{slot(d['t2'], d.get('prov2'))}{sc2}</div>"
                 f"<div class='wcmeta'>"
