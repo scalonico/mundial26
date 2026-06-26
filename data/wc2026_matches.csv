@@ -59,7 +59,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 58,group,F,2026-06-25,6:00 p.m. UTC−5,TUN,NED,1,3,Arrowhead Stadium,Kansas City
 59,group,D,2026-06-25,7:00 p.m. UTC−7,TUR,USA,3,2,SoFi Stadium,Inglewood
 60,group,D,2026-06-25,7:00 p.m. UTC−7,PAR,AUS,0,0,Levi's Stadium,Santa Clara
-61,group,I,2026-06-26,3:00 p.m. UTC−4,NOR,FRA,,,Gillette Stadium,Foxborough
+61,group,I,2026-06-26,3:00 p.m. UTC−4,NOR,FRA,1,4,Gillette Stadium,Foxborough
 62,group,I,2026-06-26,3:00 p.m. UTC−4,SEN,IRQ,,,BMO Field,Toronto
 63,group,G,2026-06-26,8:00 p.m. UTC−7,EGY,IRN,,,Lumen Field,Seattle
 64,group,G,2026-06-26,8:00 p.m. UTC−7,NZL,BEL,,,BC Place,Vancouver
