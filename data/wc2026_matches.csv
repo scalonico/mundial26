@@ -63,8 +63,8 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 62,group,I,2026-06-26,3:00 p.m. UTC−4,SEN,IRQ,5,0,BMO Field,Toronto
 63,group,G,2026-06-26,8:00 p.m. UTC−7,EGY,IRN,,,Lumen Field,Seattle
 64,group,G,2026-06-26,8:00 p.m. UTC−7,NZL,BEL,,,BC Place,Vancouver
-65,group,H,2026-06-26,7:00 p.m. UTC−5,CPV,KSA,,,NRG Stadium,Houston
-66,group,H,2026-06-26,6:00 p.m. UTC−6,URU,ESP,,,Estadio Akron,Zapopan
+65,group,H,2026-06-26,7:00 p.m. UTC−5,CPV,KSA,0,0,NRG Stadium,Houston
+66,group,H,2026-06-26,6:00 p.m. UTC−6,URU,ESP,0,1,Estadio Akron,Zapopan
 67,group,L,2026-06-27,5:00 p.m. UTC−4,PAN,ENG,,,MetLife Stadium,East Rutherford
 68,group,L,2026-06-27,5:00 p.m. UTC−4,CRO,GHA,,,Lincoln Financial Field,Philadelphia
 69,group,J,2026-06-27,9:00 p.m. UTC−5,ALG,AUT,,,Arrowhead Stadium,Kansas City
