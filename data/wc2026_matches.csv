@@ -67,8 +67,8 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 66,group,H,2026-06-26,6:00 p.m. UTC−6,URU,ESP,0,1,Estadio Akron,Zapopan
 67,group,L,2026-06-27,5:00 p.m. UTC−4,PAN,ENG,0,2,MetLife Stadium,East Rutherford
 68,group,L,2026-06-27,5:00 p.m. UTC−4,CRO,GHA,2,1,Lincoln Financial Field,Philadelphia
-69,group,J,2026-06-27,9:00 p.m. UTC−5,ALG,AUT,,,Arrowhead Stadium,Kansas City
-70,group,J,2026-06-27,9:00 p.m. UTC−5,JOR,ARG,,,AT&T Stadium,Arlington
+69,group,J,2026-06-27,9:00 p.m. UTC−5,ALG,AUT,3,3,Arrowhead Stadium,Kansas City
+70,group,J,2026-06-27,9:00 p.m. UTC−5,JOR,ARG,1,3,AT&T Stadium,Arlington
 71,group,K,2026-06-27,7:30 p.m. UTC−4,COL,POR,0,0,Hard Rock Stadium,Miami Gardens
 72,group,K,2026-06-27,7:30 p.m. UTC−4,COD,UZB,3,1,Mercedes-Benz Stadium,Atlanta
 73,R32,,2026-06-28,12:00 p.m. UTC−7,Runner-up Group A,Runner-up Group B,,,SoFi Stadium,Inglewood
