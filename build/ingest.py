@@ -234,6 +234,33 @@ def parse_knockout():
     return rows
 
 
+MONTHS = {m: i for i, m in enumerate(
+    ["January", "February", "March", "April", "May", "June", "July",
+     "August", "September", "October", "November", "December"], 1)}
+
+# The knockout BRACKET template ({{#invoke:RoundN|N32 …}}) is where Wikipedia publishes the actual
+# resolved matchups — crucially the eight third-placed teams, which the individual {{football box}}
+# entries keep as "3rd Group A/B/C/D/F" placeholders right up to kickoff. Each bracket match line reads
+#   |<Month> <D> – [[City…|City]]|{{#invoke:flag|fb|T1}}|<s1>|{{#invoke:flag|fb|T2}}|<s2>
+# (the dash is an en-dash). We read both real 3-letter codes keyed by (date, city) so the schedule can
+# fill those slots from the source of truth instead of a projection.
+BRACKET_LINE = re.compile(
+    r"\|([A-Z][a-z]+)\s+(\d{1,2})\s*[–-]\s*\[\[(?:[^\]|]*\|)?([^\]|]+)\]\]"
+    r"\|\{\{#invoke:flag\|fb\|([A-Z]{3})\}\}\|[^|]*\|\{\{#invoke:flag\|fb\|([A-Z]{3})\}\}")
+
+
+def parse_bracket_teams():
+    """{(date_iso, city): (team1, team2)} for every knockout bracket match whose BOTH sides have
+    resolved to a real 3-letter code. The football boxes lag on third-place slots, so this bracket is
+    the authoritative source for who actually plays whom once a round's draw is set."""
+    wt = wikitext("2026 FIFA World Cup knockout stage")
+    out = {}
+    for mon, day, city, t1, t2 in BRACKET_LINE.findall(wt):
+        if mon in MONTHS:
+            out[("2026-%02d-%02d" % (MONTHS[mon], int(day)), city.strip())] = (t1.upper(), t2.upper())
+    return out
+
+
 # A played match loses its 'Match N' label (it becomes the score), so a mid-tournament ingest can't read
 # the number off the box. (date, stadium) is a schedule-fixed key — stable even as knockout placeholders
 # resolve to real teams — so the number is recovered from the previous extract. The two tournament openers
@@ -360,6 +387,22 @@ def main():
                 for i, code in enumerate(groups[letter], 1):
                     name, iso2, conf = TEAMS.get(code, (code, "", "?"))
                     w.writerow([code, name, letter, i, conf, iso2, flag_emoji(iso2) if iso2 else ""])
+
+    # Resolve knockout slot placeholders from the authoritative bracket template — the football boxes
+    # keep "3rd Group …" until kickoff, so without this the third-placed R32 opponents fall back to a
+    # projection (which can mis-assign which third plays whom). Upgrade a placeholder side to the real
+    # code; never overwrite a code already present, mirroring the conservative merge.
+    bracket = parse_bracket_teams()
+    n_ko = 0
+    for r in out:
+        resolved = bracket.get((r["date"], r["city"]))
+        if resolved:
+            for k, code in zip(("team1", "team2"), resolved):
+                if not CODE.match(r[k] or ""):
+                    r[k] = code
+                    n_ko += 1
+    if n_ko:
+        print(f"Bracket overlay: resolved {n_ko} knockout slot(s) to real teams from the bracket.")
 
     with (DATA / "wc2026_matches.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
