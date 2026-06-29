@@ -255,6 +255,20 @@ def _feeder(slot: str):
     return int(m.group(1)) if m else None
 
 
+# Canonical knockout bracket structure (match_no -> the two feeder matches), fixed by the FIFA draw.
+# The schedule encodes the same thing as "Winner Match N" slot text, BUT live ingest overwrites a slot
+# with the real team the moment that feeder is played (e.g. R16 #90 reads "CAN" instead of "Winner
+# Match 73"), which erased the reference and dropped #90 — and its R32 feeders 73 & 75 — out of the
+# tree. Match numbers never change, so we keep the structure here and fall back to it when the live
+# text no longer parses. (Third place #103 feeds the two SF losers; the Final #104 the two winners.)
+_KO_FEEDERS = {
+    89: (74, 77), 90: (73, 75), 91: (76, 78), 92: (79, 80),
+    93: (83, 84), 94: (81, 82), 95: (86, 88), 96: (85, 87),
+    97: (89, 90), 98: (93, 94), 99: (91, 92), 100: (95, 96),
+    101: (97, 98), 102: (99, 100), 103: (101, 102), 104: (101, 102),
+}
+
+
 def bracket_layout(resolved=None):
     """Geometry for a two-sided knockout bracket. Returns (nodes, edges, third):
       nodes[match_no] = {x, y, stage, t1, t2, prov1, prov2, date, city}; edges = [(parent, child), …].
@@ -282,9 +296,12 @@ def bracket_layout(resolved=None):
     byno = {int(r.match_no): r for r in ko.itertuples()}
     feed = {}
     for r in ko.itertuples():
+        n = int(r.match_no)
         f1, f2 = _feeder(r.team1), _feeder(r.team2)
-        if f1 and f2:
-            feed[int(r.match_no)] = (f1, f2)
+        if f1 and f2:                              # both sides still name a feeder match
+            feed[n] = (f1, f2)
+        elif n in _KO_FEEDERS:                      # a side was resolved to a team — recover from the
+            feed[n] = _KO_FEEDERS[n]                # fixed structure so no match drops out of the tree
     final = int(ko[ko["stage"] == "F"]["match_no"].iloc[0])
     nodes, edges, cnt = {}, [], [0.0]
 

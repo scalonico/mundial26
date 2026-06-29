@@ -149,12 +149,13 @@ WC_BRACKET_CSS = f"""<style>
 </style>"""
 
 
-def wc_bracket_html(resolved=None):
+def wc_bracket_html(resolved=None, provisional=True):
     """Two-sided knockout bracket as flexbox columns (R32→SF · Final · SF→R32). Each column is ordered
     top-to-bottom by the layout y, and `justify-content:space-around` fans each round in so every match
     sits between its two feeders. Returns (html, third_place_match_row).
-    `resolved` (a resolve_bracket result) fills placeholder slots with the provisional projection,
-    shown in italics with a dimmed flag."""
+    `resolved` (a resolve_bracket result) fills placeholder slots with the projection. With
+    `provisional=True` those filled teams are shown in italics with a dimmed flag (standings can still
+    change); once the group stage is settled, pass `provisional=False` to render them as solid."""
     nodes, edges, third = wc.bracket_layout(resolved=resolved)
     lbl = {"R32": "Round of 32", "R16": "Round of 16", "QF": "Quarter-finals",
            "SF": "Semi-finals", "F": "Final"}
@@ -180,8 +181,8 @@ def wc_bracket_html(resolved=None):
         venue = d.get("stadium") or ""
         full = d['city'] + (f" · {venue}" if venue else "")                 # city · stadium → tooltip
         return (f"<div class='{cls}' style='top:{top:.4f}%'>"
-                f"<div class='wctr'>{slot(d['t1'], d.get('prov1'))}{sc1}</div>"
-                f"<div class='wctr'>{slot(d['t2'], d.get('prov2'))}{sc2}</div>"
+                f"<div class='wctr'>{slot(d['t1'], d.get('prov1') and provisional)}{sc1}</div>"
+                f"<div class='wctr'>{slot(d['t2'], d.get('prov2') and provisional)}{sc2}</div>"
                 f"<div class='wcmeta'>"
                 f"<span class='wcwhen'>📅 {when}<span class='wcmno'>#{n}</span></span>"
                 f"<span class='wcwhere' title='{full}'>📍 {d['city']}</span></div></div>")
@@ -702,21 +703,21 @@ with t_bracket:
                "runners-up and the eight best third-placed teams. Later rounds stay as fixtures, "
                "showing only the **📅 date** and **📍 venue** until teams advance.")
     _gp = wc.groups_played()
-    project = st.toggle(
-        "🔮 Fill the Round of 32 from the current group standings",
-        value=_gp > 0, key="wc_proj_bracket",
-        help="Place each Round-of-32 team as the groups stand right now: 1st & 2nd of every group, "
-             "plus the eight best third-placed teams. No results are predicted — the Round of 16 and "
-             "beyond stay as their fixtures (date + venue) until real teams advance. Turn off to show "
-             "the official empty bracket.")
-    resolved = wc.standings_bracket() if project else None
-    if project:
-        st.markdown(
-            f"<div style='font-size:.8rem;color:#aebfd6;margin:-2px 0 8px'>"
+    # Fill the Round of 32 from the standings automatically once any group game has been played — there
+    # is no reason to hide the qualified teams, so the old toggle is gone. Before kickoff (no games yet)
+    # the official empty bracket shows. Once the group stage is settled the R32 teams are final, so they
+    # render solid; while groups are still in progress they stay italic/faded (the draw can still shift).
+    resolved = wc.standings_bracket() if _gp > 0 else None
+    if resolved:
+        _bnote = (
+            "<i>Round of 32</i> — the group stage is complete; these are the qualified teams. Later "
+            "rounds show only the <b>📅 date</b> and <b>📍 venue</b> until teams advance."
+            if _group_complete else
             f"<i>Round of 32 only</i> — teams (<i>italic, faded flag</i>) reflect the standings after "
             f"<b>{_gp} of 72</b> group matches and shift with every result. Later rounds show only the "
-            f"<b>📅 date</b> and <b>📍 venue</b> until teams qualify.</div>",
-            unsafe_allow_html=True)
+            f"<b>📅 date</b> and <b>📍 venue</b> until teams qualify.")
+        st.markdown(f"<div style='font-size:.8rem;color:#aebfd6;margin:-2px 0 8px'>{_bnote}</div>",
+                    unsafe_allow_html=True)
     st.markdown("👉 Want to call it yourself? The **🎮 Bracket challenge** tab turns this into a "
                 "fill-in-your-own bracket — pick every winner through to the title.")
     zoom_opts = {"Fit": 1.0, "1.25×": 1.25, "1.5×": 1.5, "2×": 2.0, "2.5×": 2.5}
@@ -724,7 +725,7 @@ with t_bracket:
         "🔍 Zoom (handy on a phone — magnify, then scroll sideways to pan across the bracket)",
         options=list(zoom_opts), value="Fit", key="wc_bracket_zoom")
     zf = zoom_opts[zsel]
-    bracket_html, third = wc_bracket_html(resolved=resolved)
+    bracket_html, third = wc_bracket_html(resolved=resolved, provisional=not _group_complete)
     inner = f"<div style='zoom:{zf}'>{bracket_html}</div>" if zf != 1.0 else bracket_html
     st.markdown(WC_BRACKET_CSS + f"<div class='wcbr-scroll'>{inner}</div>", unsafe_allow_html=True)
     if third is not None:
