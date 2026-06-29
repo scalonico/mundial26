@@ -340,6 +340,8 @@ table.wcg-pre td.pts { color:#8493ad; }
 .wsm .tm img { width:23px; height:15px; object-fit:cover; border-radius:2px; box-shadow:0 0 0 1px rgba(0,0,0,.3); flex:0 0 auto; }
 .wsm .tm span { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 .wsm .tm.ph span { color:#8aa0bd; font-weight:600; font-size:.82rem; }
+.wsm .tm.prov span { font-style:italic; color:#cdd9ea; }      /* projected from standings, not yet official */
+.wsm .tm.prov img { opacity:.5; }
 .wsm .wsm-sc { text-align:center; font-weight:800; color:#fff; font-size:.86rem;
     background:rgba(108,172,228,.13); border-radius:6px; padding:3px 0; }
 .wsm .wsm-ven { color:#8aa0bd; font-size:.76rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
@@ -371,6 +373,8 @@ table.wcg-pre td.pts { color:#8493ad; }
 .wclive .s .l { color:#9fb2cc; font-size:.72rem; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
 /* Venue-local UTC offset on each Today chip, so a 12:00 sitting after a 19:00 (different zones) reads clearly. */
 .wcres-chip .tz { color:#7e90ad; font-size:.6rem; font-weight:700; margin-left:1px; }
+.wcres-chip .t.prov { font-style:italic; }               /* projected team in the next-matches row */
+.wcres-chip img.prov { opacity:.5; }
 /* Phone: the three side-by-side group tables are unreadable at ~120px wide — stack them one-per-row
    (`:has(.wgcard)` scopes this to the Groups block only) and bump the now-roomier table's type. */
 @media (max-width: 640px) {
@@ -380,6 +384,13 @@ table.wcg-pre td.pts { color:#8493ad; }
   table.wcg { font-size:.86rem; }
   table.wcg th { font-size:.76rem; }
   table.wcg img.gf { height:13px; width:19px; }
+  /* Bracket is now the landing tab — tighten the matter above it so a matchup is in view sooner. */
+  .block-container { padding-top:1.1rem; }
+  .wchero { padding:13px 16px; gap:13px; margin:.1rem 0 .7rem; }
+  .wch-emblem { width:58px; height:58px; }
+  .wch-body h1 { font-size:1.9rem; }
+  .wclive { margin:.15rem 0 .6rem; }
+  .wcres-wrap { margin:.1rem 0 .7rem; }
 }
 </style>"""
 
@@ -433,6 +444,25 @@ def wc_play_match(mno, d, is_final):
 # ══════════════════════════════════════════════════════════════ THE PAGE
 teams_df, ms, ven = wc.teams(), wc.matches(), wc.venues()
 codes = set(teams_df["code"])
+
+# Once a group stage match has been played the knockout fixtures in the data still read as slot
+# placeholders ("Runner-up Group A", "3rd Group C/D/F/G/H"). Project them to the teams the standings
+# currently imply — the SAME fill the 🏆 Bracket tab shows — so the schedule and front-page rows can
+# name real teams instead of slots. ko_team() returns (code_or_raw, provisional?): provisional teams
+# (projected, not yet officially advanced) are rendered faded/italic so they read as not-yet-final.
+_ko_proj = wc.standings_bracket() if wc.groups_played() > 0 else {}
+# No unplayed group match left → the group stage is over, so the Schedule tab opens on the knockouts.
+_group_complete = not ((ms["stage"] == "group") & ~ms["played"]).any()
+
+def ko_team(raw, match_no, side):
+    """Resolve one side ('team1'/'team2') of a match to a real team code where possible."""
+    if raw in codes:                                  # official data already names a real team
+        return raw, False
+    code = _ko_proj.get(int(match_no), {}).get("t1" if side == "team1" else "t2")
+    if code:                                          # fill the placeholder with the standings projection
+        return code, True
+    return raw, False                                 # still an unresolved slot ("1A", "W73")
+
 d2k = wc.days_to_kickoff()
 
 # ── Bracket game: persisted prediction state (picks are made with native buttons → normal rerun,
@@ -478,10 +508,15 @@ st.markdown(
 # Degrades cleanly pre-kickoff: 0 played, 0 goals, "Group stage", days-to-final still counts down.
 _pl = ms[ms["played"]]
 _goals = int((_pl["score1"] + _pl["score2"]).sum()) if len(_pl) else 0
-_stage = "group"
+# The "now" phase is the earliest stage that still has an unplayed match — so when a whole
+# stage finishes (e.g. all 72 group games done) the chip rolls forward to the next stage about
+# to be contested, instead of sticking on the last stage that merely *had* a kickoff. Falls back
+# to the final once every match is played (tournament complete).
+_stage = wc.STAGE_ORDER[-1]
 for _s in wc.STAGE_ORDER:
-    if ((ms["stage"] == _s) & ms["played"]).any():
+    if ((ms["stage"] == _s) & ~ms["played"]).any():
         _stage = _s
+        break
 # to-final via constants that predate this deploy (KICKOFF/FINAL_DAY/days_to_kickoff) — NOT a freshly
 # added wc2026 symbol, which a stale cached module on Streamlit Cloud wouldn't have yet after a hot reload.
 _d2f = wc.days_to_kickoff() + (wc.FINAL_DAY - wc.KICKOFF).days
@@ -527,11 +562,15 @@ if len(todays):
         _tl = r.time_local.split("UTC") if isinstance(r.time_local, str) else [""]
         clock = _tl[0].strip()
         tz = f"<span class='tz'>UTC{_tl[1].strip()}</span>" if len(_tl) > 1 else ""
-        n1 = r.team1 if r.team1 in codes else wc.short_slot(r.team1)
-        n2 = r.team2 if r.team2 in codes else wc.short_slot(r.team2)
-        f1, f2 = wc.code_flag(r.team1), wc.code_flag(r.team2)
-        img1 = f"<img src='{f1}'>" if f1 else ""
-        img2 = f"<img src='{f2}'>" if f2 else ""
+        c1, p1v = ko_team(r.team1, r.match_no, "team1")  # resolve KO slots → projected team (faded)
+        c2, p2v = ko_team(r.team2, r.match_no, "team2")
+        n1 = wc.team_name(c1) if c1 in codes else wc.short_slot(c1)
+        n2 = wc.team_name(c2) if c2 in codes else wc.short_slot(c2)
+        pc1 = " prov" if p1v else ""
+        pc2 = " prov" if p2v else ""
+        f1, f2 = wc.code_flag(c1), wc.code_flag(c2)
+        img1 = f"<img class='{pc1.strip()}' src='{f1}'>" if f1 else ""
+        img2 = f"<img class='{pc2.strip()}' src='{f2}'>" if f2 else ""
         if r.played:
             s1, s2 = int(r.score1), int(r.score2)
             w1 = " w" if s1 > s2 else ""
@@ -543,24 +582,28 @@ if len(todays):
         tchips.append(
             f"<div class='wcres-chip'>"
             f"<span class='clk'>{clock}</span>{tz}"
-            f"{img1}<span class='t{w1}'>{n1}</span>{mid}"
-            f"<span class='t{w2}'>{n2}</span>{img2}</div>")
+            f"{img1}<span class='t{w1}{pc1}'>{n1}</span>{mid}"
+            f"<span class='t{w2}{pc2}'>{n2}</span>{img2}</div>")
     st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>{sched_h}</div>"
                 f"<div class='wctoday'>{''.join(tchips)}</div></div>", unsafe_allow_html=True)
 
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
-t_groups, t_sched, t_bracket, t_play, t_venues, t_teams, t_history = st.tabs(
-    ["🗓️ Groups", "📋 Schedule", "🏆 Bracket", "🎮 Challenge", "🏟️ Venues", "🌍 Teams", "📜 History"], key="wc_tab")
+t_bracket, t_play, t_groups, t_sched, t_venues, t_teams, t_history = st.tabs(
+    ["🏆 Bracket", "🎮 Challenge", "🗓️ Groups", "📋 Schedule", "🏟️ Venues", "🌍 Teams", "📜 History"], key="wc_tab")
 
 def _koteam(x):
     return wc.team_label(x) if x in codes else wc.short_slot(x)
 
 with t_groups:
-    st.markdown(
+    _gkey = (
+        "<div class='wgkey'><b>Final group standings.</b> The <b class='k-q'>top two</b> of each group, "
+        "plus the <b class='k-3'>eight best third-placed</b> teams, have qualified for the 32-team "
+        "knockout — see the 🏆 Bracket tab for the draw.</div>" if _group_complete else
         "<div class='wgkey'>Twelve groups of four — the <b>top two</b> of each, plus the <b>eight best "
         "third-placed</b> teams, advance to a 32-team knockout. Ranks and "
         "<b class='k-q'>green</b>/<b class='k-3'>amber</b> qualification shading appear once matches "
-        "kick off (June 11).</div>", unsafe_allow_html=True)
+        "kick off (June 11).</div>")
+    st.markdown(_gkey, unsafe_allow_html=True)
     letters = list("ABCDEFGHIJKL")
     for r0 in range(0, 12, 3):
         for col, letter in zip(st.columns(3), letters[r0:r0 + 3]):
@@ -597,7 +640,10 @@ with t_sched:
     gsel = fc[0].selectbox("Group", ["All groups"] + [f"Group {l}" for l in "ABCDEFGHIJKL"], key="wc_grp")
     tsel = fc[1].selectbox("Team", ["All teams"] + sorted(teams_df["flag"] + " " + teams_df["name"]),
                            key="wc_team")
-    ssel = fc[2].selectbox("Stage", ["All stages", "Group stage", "Knockout"], key="wc_stage")
+    # Once the groups are decided, open on the knockouts — the 72 played group games would otherwise
+    # bury the 16 imminent Round-of-32 ties at the bottom of an "All stages" list.
+    ssel = fc[2].selectbox("Stage", ["All stages", "Group stage", "Knockout"], key="wc_stage",
+                           index=2 if _group_complete else 0)
     tzsel = fc[3].selectbox("Time zone", list(wc.TIMEZONES), key="wc_tz")
     tzname = wc.TIMEZONES[tzsel]
     d = ms
@@ -624,13 +670,15 @@ with t_sched:
             tzcap = "local to each venue"
         nm = lambda x: wc.team_name(x) if x in codes else wc.short_slot(x)
 
-        def tcell(x, side):                              # flag image + name; placeholder for unresolved KO slots
-            f = wc.code_flag(x)
-            name = f"<span>{nm(x)}</span>"
-            if not f:
+        def tcell(x, side, match_no):                    # flag image + name; KO slots resolve to projected teams
+            code, prov = ko_team(x, match_no, "team1" if side == "home" else "team2")
+            name = f"<span>{nm(code)}</span>"
+            f = wc.code_flag(code)
+            if not f:                                    # still an unresolved slot — show the placeholder label
                 return f"<div class='tm {side} ph'>{name}</div>"
+            pv = " prov" if prov else ""                 # projected (not yet officially advanced) → faded/italic
             img = f"<img src='{f}'>"
-            return f"<div class='tm {side}'>{name + img if side == 'home' else img + name}</div>"
+            return f"<div class='tm {side}{pv}'>{name + img if side == 'home' else img + name}</div>"
 
         st.caption(f"{len(d)} matches · kickoff times {tzcap}.")
         dates, times = list(date_col), list(time_col)
@@ -642,8 +690,8 @@ with t_sched:
             sc = "vs" if pd.isna(r.score1) else f"{int(r.score1)}–{int(r.score2)}"
             parts.append(
                 f"<div class='wsm'><span class='wsm-t'>{times[i]}</span>"
-                f"<span class='wsm-rnd'>{rnd}</span>{tcell(r.team1, 'home')}"
-                f"<span class='wsm-sc'>{sc}</span>{tcell(r.team2, 'away')}"
+                f"<span class='wsm-rnd'>{rnd}</span>{tcell(r.team1, 'home', r.match_no)}"
+                f"<span class='wsm-sc'>{sc}</span>{tcell(r.team2, 'away', r.match_no)}"
                 f"<span class='wsm-ven'>{r.stadium}, {r.city}</span></div>")
         parts.append("</div>")
         st.markdown("".join(parts), unsafe_allow_html=True)
