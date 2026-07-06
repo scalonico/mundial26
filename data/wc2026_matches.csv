@@ -91,7 +91,7 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 90,R16,,2026-07-04,12:00 p.m. UTC−5,CAN,MAR,0,3,NRG Stadium,Houston
 91,R16,,2026-07-05,4:00 p.m. UTC−4,BRA,NOR,1,2,MetLife Stadium,East Rutherford
 92,R16,,2026-07-05,6:00 p.m. UTC−6,MEX,ENG,2,3,Estadio Azteca,Mexico City
-93,R16,,2026-07-06,2:00 p.m. UTC−5,POR,ESP,,,AT&T Stadium,Arlington
+93,R16,,2026-07-06,2:00 p.m. UTC−5,POR,ESP,0,1,AT&T Stadium,Arlington
 94,R16,,2026-07-06,5:00 p.m. UTC−7,USA,BEL,,,Lumen Field,Seattle
 95,R16,,2026-07-07,12:00 p.m. UTC−4,ARG,EGY,,,Mercedes-Benz Stadium,Atlanta
 96,R16,,2026-07-07,1:00 p.m. UTC−7,SUI,COL,,,BC Place,Vancouver
