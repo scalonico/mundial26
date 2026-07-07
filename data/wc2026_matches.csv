@@ -92,11 +92,11 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 91,R16,,2026-07-05,4:00 p.m. UTC−4,BRA,NOR,1,2,MetLife Stadium,East Rutherford
 92,R16,,2026-07-05,6:00 p.m. UTC−6,MEX,ENG,2,3,Estadio Azteca,Mexico City
 93,R16,,2026-07-06,2:00 p.m. UTC−5,POR,ESP,0,1,AT&T Stadium,Arlington
-94,R16,,2026-07-06,5:00 p.m. UTC−7,USA,BEL,,,Lumen Field,Seattle
+94,R16,,2026-07-06,5:00 p.m. UTC−7,USA,BEL,1,4,Lumen Field,Seattle
 95,R16,,2026-07-07,12:00 p.m. UTC−4,ARG,EGY,,,Mercedes-Benz Stadium,Atlanta
 96,R16,,2026-07-07,1:00 p.m. UTC−7,SUI,COL,,,BC Place,Vancouver
 97,QF,,2026-07-09,4:00 p.m. UTC−4,FRA,MAR,,,Gillette Stadium,Foxborough
-98,QF,,2026-07-10,12:00 p.m. UTC−7,ESP,Winner Match 94,,,SoFi Stadium,Inglewood
+98,QF,,2026-07-10,12:00 p.m. UTC−7,ESP,BEL,,,SoFi Stadium,Inglewood
 99,QF,,2026-07-11,5:00 p.m. UTC−4,NOR,ENG,,,Hard Rock Stadium,Miami Gardens
 100,QF,,2026-07-11,8:00 p.m. UTC−5,Winner Match 95,Winner Match 96,,,Arrowhead Stadium,Kansas City
 101,SF,,2026-07-14,2:00 p.m. UTC−5,Winner Match 97,Winner Match 98,,,AT&T Stadium,Arlington
