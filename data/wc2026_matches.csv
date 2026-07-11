@@ -97,9 +97,9 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 96,R16,,2026-07-07,1:00 p.m. UTC−7,SUI,COL,0,0,BC Place,Vancouver
 97,QF,,2026-07-09,4:00 p.m. UTC−4,FRA,MAR,2,0,Gillette Stadium,Foxborough
 98,QF,,2026-07-10,12:00 p.m. UTC−7,ESP,BEL,2,1,SoFi Stadium,Inglewood
-99,QF,,2026-07-11,5:00 p.m. UTC−4,NOR,ENG,,,Hard Rock Stadium,Miami Gardens
+99,QF,,2026-07-11,5:00 p.m. UTC−4,NOR,ENG,1,2,Hard Rock Stadium,Miami Gardens
 100,QF,,2026-07-11,8:00 p.m. UTC−5,ARG,SUI,,,Arrowhead Stadium,Kansas City
 101,SF,,2026-07-14,2:00 p.m. UTC−5,FRA,ESP,,,AT&T Stadium,Arlington
-102,SF,,2026-07-15,3:00 p.m. UTC−4,Winner Match 99,Winner Match 100,,,Mercedes-Benz Stadium,Atlanta
+102,SF,,2026-07-15,3:00 p.m. UTC−4,ENG,Winner Match 100,,,Mercedes-Benz Stadium,Atlanta
 103,3rd,,2026-07-18,5:00 p.m. UTC−4,Loser Match 101,Loser Match 102,,,Hard Rock Stadium,Miami Gardens
 104,F,,2026-07-19,3:00 p.m. UTC−4,Winner Match 101,Winner Match 102,,,MetLife Stadium,East Rutherford
