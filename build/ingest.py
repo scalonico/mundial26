@@ -158,6 +158,16 @@ def _score(block):
     return "", ""
 
 
+def _pens_et(block):
+    """(pens1, pens2, et) for a played knockout box. The shootout score lives in |penaltyscore=4–2;
+    et='Y' whenever the score carries {{aet}} — or whenever there was a shootout, since a World Cup
+    shootout always follows extra time (matches the historical file's convention)."""
+    m = re.search(r"(\d+)\s*[–-]\s*(\d+)", _field(block, "penaltyscore"))
+    if m:
+        return m.group(1), m.group(2), "Y"
+    return "", "", ("Y" if "aet" in _field(block, "score") else "")
+
+
 def _match_no(block):
     """The fixture number = the score-link LABEL, e.g. {{score link|<anchor>|Match 89}}. Use the LAST
     'Match N' in the score field: a knockout anchor embeds its source matches ('#Winner Match 73 vs
@@ -187,7 +197,8 @@ def parse_group(letter):
             "match_no": _match_no(blk), "stage": "group", "group": letter,
             "date": "%s-%02d-%02d" % (int(d.group(1)), int(d.group(2)), int(d.group(3))) if d else "",
             "time_local": _clean(_field(blk, "time")), "team1": c1, "team2": c2,
-            "score1": s1, "score2": s2, "stadium": stadium, "city": city})
+            "score1": s1, "score2": s2, "stadium": stadium, "city": city,
+            "pens1": "", "pens2": "", "et": ""})
     return rows, teams
 
 
@@ -203,13 +214,15 @@ def _parse_ko_box(blk, stage):
     c2 = re.search(r"\|team2=(?:<!--.*?-->)?\{\{#invoke:flag\|fb[^|]*\|([A-Za-z]{3})\}\}", blk)
     stadium, city = _venue(blk)
     s1, s2 = _score(blk)
+    p1, p2, et = _pens_et(blk)
     return {
         "match_no": _match_no(blk), "stage": stage, "group": "",
         "date": "%s-%02d-%02d" % (int(d.group(1)), int(d.group(2)), int(d.group(3))) if d else "",
         "time_local": _clean(_field(blk, "time")),
         "team1": c1.group(1).upper() if c1 else (_clean(_field(blk, "team1")) or "TBD"),
         "team2": c2.group(1).upper() if c2 else (_clean(_field(blk, "team2")) or "TBD"),
-        "score1": s1, "score2": s2, "stadium": stadium, "city": city}
+        "score1": s1, "score2": s2, "stadium": stadium, "city": city,
+        "pens1": p1, "pens2": p2, "et": et}
 
 
 def parse_knockout():
@@ -246,18 +259,30 @@ MONTHS = {m: i for i, m in enumerate(
 # fill those slots from the source of truth instead of a projection.
 BRACKET_LINE = re.compile(
     r"\|([A-Z][a-z]+)\s+(\d{1,2})\s*[–-]\s*\[\[(?:[^\]|]*\|)?([^\]|]+)\]\]"
-    r"\|\{\{#invoke:flag\|fb\|([A-Z]{3})\}\}\|[^|]*\|\{\{#invoke:flag\|fb\|([A-Z]{3})\}\}")
+    r"\|\{\{#invoke:flag\|fb\|([A-Z]{3})\}\}([^|\n]*)\|([^|\n]*)"
+    r"\|\{\{#invoke:flag\|fb\|([A-Z]{3})\}\}([^|\n]*)\|([^|\n]*)")
+
+# a bracket score cell: '2', or '1 (4)' = 1 on the pitch, 4 in the shootout
+_BRACKET_SCORE = re.compile(r"\s*(\d+)(?:\s*\((\d+)\))?\s*$")
 
 
 def parse_bracket_teams():
-    """{(date_iso, city): (team1, team2)} for every knockout bracket match whose BOTH sides have
-    resolved to a real 3-letter code. The football boxes lag on third-place slots, so this bracket is
-    the authoritative source for who actually plays whom once a round's draw is set."""
+    """{(date_iso, city): (t1, t2, s1, s2, p1, p2, et)} for every knockout bracket match whose BOTH
+    sides have resolved to a real 3-letter code; score fields are '' until played. The football boxes
+    lag on third-place slots AND get deleted as editors restructure the article (the whole Round-of-32
+    section vanished once the R16 went up — which is how those 16 scores went missing in July 2026),
+    so the bracket is both the authoritative matchup source and the score/shootout fallback."""
     wt = wikitext("2026 FIFA World Cup knockout stage")
     out = {}
-    for mon, day, city, t1, t2 in BRACKET_LINE.findall(wt):
-        if mon in MONTHS:
-            out[("2026-%02d-%02d" % (MONTHS[mon], int(day)), city.strip())] = (t1.upper(), t2.upper())
+    for mon, day, city, t1, tail1, sc1, t2, tail2, sc2 in BRACKET_LINE.findall(wt):
+        if mon not in MONTHS:
+            continue
+        g1, g2 = _BRACKET_SCORE.match(sc1), _BRACKET_SCORE.match(sc2)
+        s1, p1 = (g1.group(1), g1.group(2) or "") if g1 else ("", "")
+        s2, p2 = (g2.group(1), g2.group(2) or "") if g2 else ("", "")
+        et = "Y" if (p1 or p2 or "aet" in tail1 or "aet" in tail2) else ""
+        out[("2026-%02d-%02d" % (MONTHS[mon], int(day)), city.strip())] = (
+            t1.upper(), t2.upper(), s1, s2, p1, p2, et)
     return out
 
 
@@ -289,7 +314,7 @@ def backfill_match_nos(matches):
 
 
 FIELDS = ["match_no", "stage", "group", "date", "time_local",
-          "team1", "team2", "score1", "score2", "stadium", "city"]
+          "team1", "team2", "score1", "score2", "stadium", "city", "pens1", "pens2", "et"]
 CODE = re.compile(r"^[A-Z]{3}$")
 
 
@@ -324,6 +349,11 @@ def merge_onto_prior(parsed, prior_rows):
                 (p["score1"], p["score2"]) != (base["score1"], base["score2"]):
             base["score1"], base["score2"] = p["score1"], p["score2"]
             n += 1
+        if p.get("pens1") and p.get("pens2") and \
+                (p["pens1"], p["pens2"]) != (base.get("pens1", ""), base.get("pens2", "")):
+            base["pens1"], base["pens2"] = p["pens1"], p["pens2"]
+        if p.get("et") and p["et"] != base.get("et", ""):
+            base["et"] = p["et"]
         for k in ("team1", "team2"):
             if CODE.match(p[k] or "") and not CODE.match(base[k] or ""):
                 base[k] = p[k]
@@ -393,16 +423,30 @@ def main():
     # projection (which can mis-assign which third plays whom). Upgrade a placeholder side to the real
     # code; never overwrite a code already present, mirroring the conservative merge.
     bracket = parse_bracket_teams()
-    n_ko = 0
+    n_ko = n_bsc = 0
     for r in out:
         resolved = bracket.get((r["date"], r["city"]))
-        if resolved:
-            for k, code in zip(("team1", "team2"), resolved):
-                if not CODE.match(r[k] or ""):
-                    r[k] = code
-                    n_ko += 1
-    if n_ko:
-        print(f"Bracket overlay: resolved {n_ko} knockout slot(s) to real teams from the bracket.")
+        if not resolved:
+            continue
+        t1, t2, s1, s2, p1, p2, et = resolved
+        for k, code in zip(("team1", "team2"), (t1, t2)):
+            if not CODE.match(r[k] or ""):
+                r[k] = code
+                n_ko += 1
+        if (r["team1"], r["team2"]) != (t1, t2):
+            continue                      # key collision safety: never score the wrong fixture
+        # score fallback: fill from the bracket ONLY when the box-sourced score is absent (a deleted
+        # box can no longer supply it); never overwrite a score the football boxes already gave us.
+        if r["score1"] == "" and s1 != "" and s2 != "":
+            r["score1"], r["score2"] = s1, s2
+            n_bsc += 1
+        if p1 and p2 and not r.get("pens1"):
+            r["pens1"], r["pens2"] = p1, p2
+        if et and not r.get("et"):
+            r["et"] = et
+    if n_ko or n_bsc:
+        print(f"Bracket overlay: resolved {n_ko} knockout slot(s), "
+              f"backfilled {n_bsc} score(s) from the bracket.")
 
     with (DATA / "wc2026_matches.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)

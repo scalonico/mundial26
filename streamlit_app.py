@@ -172,8 +172,12 @@ def wc_bracket_html(resolved=None, provisional=True):
         return f"<span class='wctm wcp'><span>{wc.short_slot(x)}</span></span>"
 
     def card(n, d):
-        sc1 = "" if pd.isna(d["s1"]) else f"<span class='wcsc'>{int(d['s1'])}</span>"
-        sc2 = "" if pd.isna(d["s2"]) else f"<span class='wcsc'>{int(d['s2'])}</span>"
+        def _sc(s, p):                    # score cell; a shootout adds a small '(4)' after the score
+            if pd.isna(s):
+                return ""
+            pen = "" if pd.isna(p) else f"<span style='font-size:.68em;opacity:.75'> ({int(p)})</span>"
+            return f"<span class='wcsc'>{int(s)}{pen}</span>"
+        sc1, sc2 = _sc(d["s1"], d.get("pen1")), _sc(d["s2"], d.get("pen2"))
         dt = pd.Timestamp(d["date"])
         cls = "wcmt wcfin" if d["stage"] == "F" else "wcmt"
         top = (d["y"] + 0.5) / span * 100                                  # vertical centre, % of column
@@ -529,18 +533,27 @@ st.markdown("<div class='wclive'>" + "".join(
 
 # Latest results — surfaces the live scores at a glance once play begins (hidden pre-kickoff and when
 # nothing has been played yet). Newest first; the winning side is brightened, gold scoreline.
+def _ko_result(r):
+    """(w1, w2, score_html) for a played match — a drawn knockout tie is decided by the shootout,
+    shown as a small '(4–2 p)' tail after the on-the-pitch score."""
+    s1, s2 = int(r.score1), int(r.score2)
+    pk = pd.notna(r.pens1)
+    w1 = " w" if s1 > s2 or (pk and s1 == s2 and r.pens1 > r.pens2) else ""
+    w2 = " w" if s2 > s1 or (pk and s1 == s2 and r.pens2 > r.pens1) else ""
+    pen = (f" <span style='font-size:.72em;color:#9fb2cc'>({int(r.pens1)}–{int(r.pens2)} p)</span>"
+           if pk else "")
+    return w1, w2, f"{s1}–{s2}{pen}"
+
 done = ms[ms["played"]].sort_values(["date", "match_no"], ascending=[False, False])
 if len(done):
     chips = []
     for r in done.head(8).itertuples():
-        s1, s2 = int(r.score1), int(r.score2)
-        w1 = " w" if s1 > s2 else ""
-        w2 = " w" if s2 > s1 else ""
+        w1, w2, sc_html = _ko_result(r)
         day = (r.date.strftime("%b ") + str(r.date.day)) if pd.notna(r.date) else ""
         chips.append(
             f"<div class='wcres-chip'>"
             f"<img src='{wc.code_flag(r.team1)}'><span class='t{w1}'>{r.team1}</span>"
-            f"<span class='sc'>{s1}–{s2}</span>"
+            f"<span class='sc'>{sc_html}</span>"
             f"<span class='t{w2}'>{r.team2}</span><img src='{wc.code_flag(r.team2)}'>"
             f"<span class='dt'>{day}</span></div>")
     st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>⚽ Latest results</div>"
@@ -573,10 +586,8 @@ if len(todays):
         img1 = f"<img class='{pc1.strip()}' src='{f1}'>" if f1 else ""
         img2 = f"<img class='{pc2.strip()}' src='{f2}'>" if f2 else ""
         if r.played:
-            s1, s2 = int(r.score1), int(r.score2)
-            w1 = " w" if s1 > s2 else ""
-            w2 = " w" if s2 > s1 else ""
-            mid = f"<span class='sc'>{s1}–{s2}</span>"
+            w1, w2, sc_html = _ko_result(r)
+            mid = f"<span class='sc'>{sc_html}</span>"
         else:
             w1 = w2 = ""
             mid = "<span class='vs'>vs</span>"
@@ -689,6 +700,8 @@ with t_sched:
                 parts.append(f"<div class='wsd-day'>{dates[i]}</div>"); last = dates[i]
             rnd = f"Group {r.group}" if r.stage == "group" else r.stage_name
             sc = "vs" if pd.isna(r.score1) else f"{int(r.score1)}–{int(r.score2)}"
+            if pd.notna(r.score1) and pd.notna(r.pens1):
+                sc += f" <span style='font-size:.72em;color:#9fb2cc'>({int(r.pens1)}–{int(r.pens2)} p)</span>"
             parts.append(
                 f"<div class='wsm'><span class='wsm-t'>{times[i]}</span>"
                 f"<span class='wsm-rnd'>{rnd}</span>{tcell(r.team1, 'home', r.match_no)}"
@@ -976,6 +989,8 @@ with t_venues:
             return f"<div class='tmc{' r' if right else ''}'>{inner}</div>"
         dt = f"{x.date.day} {x.date.strftime('%b')}" if pd.notna(x.date) else ""
         mid = f"{int(x.score1)}–{int(x.score2)}" if x.played else "v"
+        if x.played and pd.notna(x.pens1):
+            mid += f" <span style='font-size:.72em;color:#9fb2cc'>({int(x.pens1)}–{int(x.pens2)} p)</span>"
         tag = f"Group {x.group}" if x.stage == "group" else x.stage_name
         return (f"<div class='ven-mt'><span class='dt'>{dt}</span>{cell(x.team1, True)}"
                 f"<span class='vs'>{mid}</span>{cell(x.team2, False)}<span class='tag'>{tag}</span></div>")

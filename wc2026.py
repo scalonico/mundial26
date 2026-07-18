@@ -160,7 +160,10 @@ def matches() -> pd.DataFrame:
         return _MATCHES_CACHE["df"]
     df = _read_matches_csv()
     df["match_no"] = pd.to_numeric(df["match_no"])
-    for c in ("score1", "score2"):
+    for c in ("pens1", "pens2", "et"):     # absent while the raw URL still serves the pre-pens CSV
+        if c not in df.columns:
+            df[c] = ""
+    for c in ("score1", "score2", "pens1", "pens2"):
         df[c] = pd.to_numeric(df[c], errors="coerce")
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
     df["kickoff_utc"] = [_utc_kickoff(dv, tl) for dv, tl in zip(df["date"], df["time_local"])]
@@ -310,7 +313,8 @@ def bracket_layout(resolved=None):
         t1, p1 = disp(r.team1, n, "t1")
         t2, p2 = disp(r.team2, n, "t2")
         return dict(x=x, y=y, stage=r.stage, t1=t1, t2=t2, prov1=p1, prov2=p2,
-                    date=r.date, city=r.city, stadium=r.stadium, s1=r.score1, s2=r.score2)
+                    date=r.date, city=r.city, stadium=r.stadium, s1=r.score1, s2=r.score2,
+                    pen1=r.pens1, pen2=r.pens2)
 
     def place(n, side, depth):
         x = (4 - depth) if side == "L" else (4 + depth)

@@ -1,105 +1,105 @@
-match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
-1,group,A,2026-06-11,1:00 p.m. UTC−6,MEX,RSA,2,0,Estadio Azteca,Mexico City
-2,group,A,2026-06-11,8:00 p.m. UTC−6,KOR,CZE,2,1,Estadio Akron,Zapopan
-3,group,B,2026-06-12,3:00 p.m. UTC−4,CAN,BIH,1,1,BMO Field,Toronto
-4,group,D,2026-06-12,6:00 p.m. UTC−7,USA,PAR,4,1,SoFi Stadium,Inglewood
-5,group,C,2026-06-13,9:00 p.m. UTC−4,HAI,SCO,0,1,Gillette Stadium,Foxborough
-6,group,D,2026-06-13,9:00 p.m. UTC−7,AUS,TUR,2,0,BC Place,Vancouver
-7,group,C,2026-06-13,6:00 p.m. UTC−4,BRA,MAR,1,1,MetLife Stadium,East Rutherford
-8,group,B,2026-06-13,12:00 p.m. UTC−7,QAT,SUI,1,1,Levi's Stadium,Santa Clara
-9,group,E,2026-06-14,7:00 p.m. UTC−4,CIV,ECU,1,0,Lincoln Financial Field,Philadelphia
-10,group,E,2026-06-14,12:00 p.m. UTC−5,GER,CUW,7,1,NRG Stadium,Houston
-11,group,F,2026-06-14,3:00 p.m. UTC−5,NED,JPN,2,2,AT&T Stadium,Arlington
-12,group,F,2026-06-14,8:00 p.m. UTC−6,SWE,TUN,5,1,Estadio BBVA,Guadalupe
-13,group,H,2026-06-15,6:00 p.m. UTC−4,KSA,URU,1,1,Hard Rock Stadium,Miami Gardens
-14,group,H,2026-06-15,12:00 p.m. UTC−4,ESP,CPV,0,0,Mercedes-Benz Stadium,Atlanta
-15,group,G,2026-06-15,6:00 p.m. UTC−7,IRN,NZL,2,2,SoFi Stadium,Inglewood
-16,group,G,2026-06-15,12:00 p.m. UTC−7,BEL,EGY,1,1,Lumen Field,Seattle
-17,group,I,2026-06-16,3:00 p.m. UTC−4,FRA,SEN,3,1,MetLife Stadium,East Rutherford
-18,group,I,2026-06-16,6:00 p.m. UTC−4,IRQ,NOR,1,4,Gillette Stadium,Foxborough
-19,group,J,2026-06-16,8:00 p.m. UTC−5,ARG,ALG,3,0,Arrowhead Stadium,Kansas City
-20,group,J,2026-06-16,9:00 p.m. UTC−7,AUT,JOR,3,1,Levi's Stadium,Santa Clara
-21,group,L,2026-06-17,7:00 p.m. UTC−4,GHA,PAN,1,0,BMO Field,Toronto
-22,group,L,2026-06-17,3:00 p.m. UTC−5,ENG,CRO,4,2,AT&T Stadium,Arlington
-23,group,K,2026-06-17,12:00 p.m. UTC−5,POR,COD,1,1,NRG Stadium,Houston
-24,group,K,2026-06-17,8:00 p.m. UTC−6,UZB,COL,1,3,Estadio Azteca,Mexico City
-25,group,A,2026-06-18,12:00 p.m. UTC−4,CZE,RSA,1,1,Mercedes-Benz Stadium,Atlanta
-26,group,B,2026-06-18,12:00 p.m. UTC−7,SUI,BIH,4,1,SoFi Stadium,Inglewood
-27,group,B,2026-06-18,3:00 p.m. UTC−7,CAN,QAT,6,0,BC Place,Vancouver
-28,group,A,2026-06-18,7:00 p.m. UTC−6,MEX,KOR,1,0,Estadio Akron,Zapopan
-29,group,C,2026-06-19,8:30 p.m. UTC−4,BRA,HAI,3,0,Lincoln Financial Field,Philadelphia
-30,group,C,2026-06-19,6:00 p.m. UTC−4,SCO,MAR,0,1,Gillette Stadium,Foxborough
-31,group,D,2026-06-19,8:00 p.m. UTC−7,TUR,PAR,0,1,Levi's Stadium,Santa Clara
-32,group,D,2026-06-19,12:00 p.m. UTC−7,USA,AUS,2,0,Lumen Field,Seattle
-33,group,E,2026-06-20,4:00 p.m. UTC−4,GER,CIV,2,1,BMO Field,Toronto
-34,group,E,2026-06-20,7:00 p.m. UTC−5,ECU,CUW,0,0,Arrowhead Stadium,Kansas City
-35,group,F,2026-06-20,12:00 p.m. UTC−5,NED,SWE,5,1,NRG Stadium,Houston
-36,group,F,2026-06-20,10:00 p.m. UTC−6,TUN,JPN,0,4,Estadio BBVA,Guadalupe
-37,group,H,2026-06-21,6:00 p.m. UTC−4,URU,CPV,2,2,Hard Rock Stadium,Miami Gardens
-38,group,H,2026-06-21,12:00 p.m. UTC−4,ESP,KSA,4,0,Mercedes-Benz Stadium,Atlanta
-39,group,G,2026-06-21,12:00 p.m. UTC−7,BEL,IRN,0,0,SoFi Stadium,Inglewood
-40,group,G,2026-06-21,6:00 p.m. UTC−7,NZL,EGY,1,3,BC Place,Vancouver
-41,group,I,2026-06-22,8:00 p.m. UTC−4,NOR,SEN,3,2,MetLife Stadium,East Rutherford
-42,group,I,2026-06-22,5:00 p.m. UTC−4,FRA,IRQ,3,0,Lincoln Financial Field,Philadelphia
-43,group,J,2026-06-22,12:00 p.m. UTC−5,ARG,AUT,2,0,AT&T Stadium,Arlington
-44,group,J,2026-06-22,8:00 p.m. UTC−7,JOR,ALG,1,2,Levi's Stadium,Santa Clara
-45,group,L,2026-06-23,4:00 p.m. UTC−4,ENG,GHA,0,0,Gillette Stadium,Foxborough
-46,group,L,2026-06-23,7:00 p.m. UTC−4,PAN,CRO,0,1,BMO Field,Toronto
-47,group,K,2026-06-23,12:00 p.m. UTC−5,POR,UZB,5,0,NRG Stadium,Houston
-48,group,K,2026-06-23,8:00 p.m. UTC−6,COL,COD,1,0,Estadio Akron,Zapopan
-49,group,C,2026-06-24,6:00 p.m. UTC−4,SCO,BRA,0,3,Hard Rock Stadium,Miami Gardens
-50,group,C,2026-06-24,6:00 p.m. UTC−4,MAR,HAI,4,2,Mercedes-Benz Stadium,Atlanta
-51,group,B,2026-06-24,12:00 p.m. UTC−7,SUI,CAN,2,1,BC Place,Vancouver
-52,group,B,2026-06-24,12:00 p.m. UTC−7,BIH,QAT,3,1,Lumen Field,Seattle
-53,group,A,2026-06-24,7:00 p.m. UTC−6,CZE,MEX,0,3,Estadio Azteca,Mexico City
-54,group,A,2026-06-24,7:00 p.m. UTC−6,RSA,KOR,1,0,Estadio BBVA,Guadalupe
-55,group,E,2026-06-25,4:00 p.m. UTC−4,CUW,CIV,0,2,Lincoln Financial Field,Philadelphia
-56,group,E,2026-06-25,4:00 p.m. UTC−4,ECU,GER,2,1,MetLife Stadium,East Rutherford
-57,group,F,2026-06-25,6:00 p.m. UTC−5,JPN,SWE,1,1,AT&T Stadium,Arlington
-58,group,F,2026-06-25,6:00 p.m. UTC−5,TUN,NED,1,3,Arrowhead Stadium,Kansas City
-59,group,D,2026-06-25,7:00 p.m. UTC−7,TUR,USA,3,2,SoFi Stadium,Inglewood
-60,group,D,2026-06-25,7:00 p.m. UTC−7,PAR,AUS,0,0,Levi's Stadium,Santa Clara
-61,group,I,2026-06-26,3:00 p.m. UTC−4,NOR,FRA,1,4,Gillette Stadium,Foxborough
-62,group,I,2026-06-26,3:00 p.m. UTC−4,SEN,IRQ,5,0,BMO Field,Toronto
-63,group,G,2026-06-26,8:00 p.m. UTC−7,EGY,IRN,1,1,Lumen Field,Seattle
-64,group,G,2026-06-26,8:00 p.m. UTC−7,NZL,BEL,1,5,BC Place,Vancouver
-65,group,H,2026-06-26,7:00 p.m. UTC−5,CPV,KSA,0,0,NRG Stadium,Houston
-66,group,H,2026-06-26,6:00 p.m. UTC−6,URU,ESP,0,1,Estadio Akron,Zapopan
-67,group,L,2026-06-27,5:00 p.m. UTC−4,PAN,ENG,0,2,MetLife Stadium,East Rutherford
-68,group,L,2026-06-27,5:00 p.m. UTC−4,CRO,GHA,2,1,Lincoln Financial Field,Philadelphia
-69,group,J,2026-06-27,9:00 p.m. UTC−5,ALG,AUT,3,3,Arrowhead Stadium,Kansas City
-70,group,J,2026-06-27,9:00 p.m. UTC−5,JOR,ARG,1,3,AT&T Stadium,Arlington
-71,group,K,2026-06-27,7:30 p.m. UTC−4,COL,POR,0,0,Hard Rock Stadium,Miami Gardens
-72,group,K,2026-06-27,7:30 p.m. UTC−4,COD,UZB,3,1,Mercedes-Benz Stadium,Atlanta
-73,R32,,2026-06-28,12:00 p.m. UTC−7,RSA,CAN,0,1,SoFi Stadium,Inglewood
-74,R32,,2026-06-29,4:30 p.m. UTC−4,GER,PAR,1,1,Gillette Stadium,Foxborough
-75,R32,,2026-06-29,7:00 p.m. UTC−6,NED,MAR,1,1,Estadio BBVA,Guadalupe
-76,R32,,2026-06-29,12:00 p.m. UTC−5,BRA,JPN,2,1,NRG Stadium,Houston
-77,R32,,2026-06-30,5:00 p.m. UTC−4,FRA,SWE,3,0,MetLife Stadium,East Rutherford
-78,R32,,2026-06-30,12:00 p.m. UTC−5,CIV,NOR,1,2,AT&T Stadium,Arlington
-79,R32,,2026-06-30,7:00 p.m. UTC−6,MEX,ECU,2,0,Estadio Azteca,Mexico City
-80,R32,,2026-07-01,12:00 p.m. UTC−4,ENG,COD,2,1,Mercedes-Benz Stadium,Atlanta
-81,R32,,2026-07-01,5:00 p.m. UTC−7,USA,BIH,2,0,Levi's Stadium,Santa Clara
-82,R32,,2026-07-01,1:00 p.m. UTC−7,BEL,SEN,3,2,Lumen Field,Seattle
-83,R32,,2026-07-02,7:00 p.m. UTC−4,POR,CRO,2,1,BMO Field,Toronto
-84,R32,,2026-07-02,12:00 p.m. UTC−7,ESP,AUT,3,0,SoFi Stadium,Inglewood
-85,R32,,2026-07-02,8:00 p.m. UTC−7,SUI,ALG,2,0,BC Place,Vancouver
-86,R32,,2026-07-03,6:00 p.m. UTC−4,ARG,CPV,3,2,Hard Rock Stadium,Miami Gardens
-87,R32,,2026-07-03,8:30 p.m. UTC−5,COL,GHA,1,0,Arrowhead Stadium,Kansas City
-88,R32,,2026-07-03,1:00 p.m. UTC−5,AUS,EGY,1,1,AT&T Stadium,Arlington
-89,R16,,2026-07-04,5:00 p.m. UTC−4,PAR,FRA,0,1,Lincoln Financial Field,Philadelphia
-90,R16,,2026-07-04,12:00 p.m. UTC−5,CAN,MAR,0,3,NRG Stadium,Houston
-91,R16,,2026-07-05,4:00 p.m. UTC−4,BRA,NOR,1,2,MetLife Stadium,East Rutherford
-92,R16,,2026-07-05,6:00 p.m. UTC−6,MEX,ENG,2,3,Estadio Azteca,Mexico City
-93,R16,,2026-07-06,2:00 p.m. UTC−5,POR,ESP,0,1,AT&T Stadium,Arlington
-94,R16,,2026-07-06,5:00 p.m. UTC−7,USA,BEL,1,4,Lumen Field,Seattle
-95,R16,,2026-07-07,12:00 p.m. UTC−4,ARG,EGY,3,2,Mercedes-Benz Stadium,Atlanta
-96,R16,,2026-07-07,1:00 p.m. UTC−7,SUI,COL,0,0,BC Place,Vancouver
-97,QF,,2026-07-09,4:00 p.m. UTC−4,FRA,MAR,2,0,Gillette Stadium,Foxborough
-98,QF,,2026-07-10,12:00 p.m. UTC−7,ESP,BEL,2,1,SoFi Stadium,Inglewood
-99,QF,,2026-07-11,5:00 p.m. UTC−4,NOR,ENG,1,2,Hard Rock Stadium,Miami Gardens
-100,QF,,2026-07-11,8:00 p.m. UTC−5,ARG,SUI,3,1,Arrowhead Stadium,Kansas City
-101,SF,,2026-07-14,2:00 p.m. UTC−5,FRA,ESP,0,2,AT&T Stadium,Arlington
-102,SF,,2026-07-15,3:00 p.m. UTC−4,ENG,ARG,1,2,Mercedes-Benz Stadium,Atlanta
-103,3rd,,2026-07-18,5:00 p.m. UTC−4,FRA,ENG,,,Hard Rock Stadium,Miami Gardens
-104,F,,2026-07-19,3:00 p.m. UTC−4,ESP,ARG,,,MetLife Stadium,East Rutherford
+match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city,pens1,pens2,et
+1,group,A,2026-06-11,1:00 p.m. UTC−6,MEX,RSA,2,0,Estadio Azteca,Mexico City,,,
+2,group,A,2026-06-11,8:00 p.m. UTC−6,KOR,CZE,2,1,Estadio Akron,Zapopan,,,
+3,group,B,2026-06-12,3:00 p.m. UTC−4,CAN,BIH,1,1,BMO Field,Toronto,,,
+4,group,D,2026-06-12,6:00 p.m. UTC−7,USA,PAR,4,1,SoFi Stadium,Inglewood,,,
+5,group,C,2026-06-13,9:00 p.m. UTC−4,HAI,SCO,0,1,Gillette Stadium,Foxborough,,,
+6,group,D,2026-06-13,9:00 p.m. UTC−7,AUS,TUR,2,0,BC Place,Vancouver,,,
+7,group,C,2026-06-13,6:00 p.m. UTC−4,BRA,MAR,1,1,MetLife Stadium,East Rutherford,,,
+8,group,B,2026-06-13,12:00 p.m. UTC−7,QAT,SUI,1,1,Levi's Stadium,Santa Clara,,,
+9,group,E,2026-06-14,7:00 p.m. UTC−4,CIV,ECU,1,0,Lincoln Financial Field,Philadelphia,,,
+10,group,E,2026-06-14,12:00 p.m. UTC−5,GER,CUW,7,1,NRG Stadium,Houston,,,
+11,group,F,2026-06-14,3:00 p.m. UTC−5,NED,JPN,2,2,AT&T Stadium,Arlington,,,
+12,group,F,2026-06-14,8:00 p.m. UTC−6,SWE,TUN,5,1,Estadio BBVA,Guadalupe,,,
+13,group,H,2026-06-15,6:00 p.m. UTC−4,KSA,URU,1,1,Hard Rock Stadium,Miami Gardens,,,
+14,group,H,2026-06-15,12:00 p.m. UTC−4,ESP,CPV,0,0,Mercedes-Benz Stadium,Atlanta,,,
+15,group,G,2026-06-15,6:00 p.m. UTC−7,IRN,NZL,2,2,SoFi Stadium,Inglewood,,,
+16,group,G,2026-06-15,12:00 p.m. UTC−7,BEL,EGY,1,1,Lumen Field,Seattle,,,
+17,group,I,2026-06-16,3:00 p.m. UTC−4,FRA,SEN,3,1,MetLife Stadium,East Rutherford,,,
+18,group,I,2026-06-16,6:00 p.m. UTC−4,IRQ,NOR,1,4,Gillette Stadium,Foxborough,,,
+19,group,J,2026-06-16,8:00 p.m. UTC−5,ARG,ALG,3,0,Arrowhead Stadium,Kansas City,,,
+20,group,J,2026-06-16,9:00 p.m. UTC−7,AUT,JOR,3,1,Levi's Stadium,Santa Clara,,,
+21,group,L,2026-06-17,7:00 p.m. UTC−4,GHA,PAN,1,0,BMO Field,Toronto,,,
+22,group,L,2026-06-17,3:00 p.m. UTC−5,ENG,CRO,4,2,AT&T Stadium,Arlington,,,
+23,group,K,2026-06-17,12:00 p.m. UTC−5,POR,COD,1,1,NRG Stadium,Houston,,,
+24,group,K,2026-06-17,8:00 p.m. UTC−6,UZB,COL,1,3,Estadio Azteca,Mexico City,,,
+25,group,A,2026-06-18,12:00 p.m. UTC−4,CZE,RSA,1,1,Mercedes-Benz Stadium,Atlanta,,,
+26,group,B,2026-06-18,12:00 p.m. UTC−7,SUI,BIH,4,1,SoFi Stadium,Inglewood,,,
+27,group,B,2026-06-18,3:00 p.m. UTC−7,CAN,QAT,6,0,BC Place,Vancouver,,,
+28,group,A,2026-06-18,7:00 p.m. UTC−6,MEX,KOR,1,0,Estadio Akron,Zapopan,,,
+29,group,C,2026-06-19,8:30 p.m. UTC−4,BRA,HAI,3,0,Lincoln Financial Field,Philadelphia,,,
+30,group,C,2026-06-19,6:00 p.m. UTC−4,SCO,MAR,0,1,Gillette Stadium,Foxborough,,,
+31,group,D,2026-06-19,8:00 p.m. UTC−7,TUR,PAR,0,1,Levi's Stadium,Santa Clara,,,
+32,group,D,2026-06-19,12:00 p.m. UTC−7,USA,AUS,2,0,Lumen Field,Seattle,,,
+33,group,E,2026-06-20,4:00 p.m. UTC−4,GER,CIV,2,1,BMO Field,Toronto,,,
+34,group,E,2026-06-20,7:00 p.m. UTC−5,ECU,CUW,0,0,Arrowhead Stadium,Kansas City,,,
+35,group,F,2026-06-20,12:00 p.m. UTC−5,NED,SWE,5,1,NRG Stadium,Houston,,,
+36,group,F,2026-06-20,10:00 p.m. UTC−6,TUN,JPN,0,4,Estadio BBVA,Guadalupe,,,
+37,group,H,2026-06-21,6:00 p.m. UTC−4,URU,CPV,2,2,Hard Rock Stadium,Miami Gardens,,,
+38,group,H,2026-06-21,12:00 p.m. UTC−4,ESP,KSA,4,0,Mercedes-Benz Stadium,Atlanta,,,
+39,group,G,2026-06-21,12:00 p.m. UTC−7,BEL,IRN,0,0,SoFi Stadium,Inglewood,,,
+40,group,G,2026-06-21,6:00 p.m. UTC−7,NZL,EGY,1,3,BC Place,Vancouver,,,
+41,group,I,2026-06-22,8:00 p.m. UTC−4,NOR,SEN,3,2,MetLife Stadium,East Rutherford,,,
+42,group,I,2026-06-22,5:00 p.m. UTC−4,FRA,IRQ,3,0,Lincoln Financial Field,Philadelphia,,,
+43,group,J,2026-06-22,12:00 p.m. UTC−5,ARG,AUT,2,0,AT&T Stadium,Arlington,,,
+44,group,J,2026-06-22,8:00 p.m. UTC−7,JOR,ALG,1,2,Levi's Stadium,Santa Clara,,,
+45,group,L,2026-06-23,4:00 p.m. UTC−4,ENG,GHA,0,0,Gillette Stadium,Foxborough,,,
+46,group,L,2026-06-23,7:00 p.m. UTC−4,PAN,CRO,0,1,BMO Field,Toronto,,,
+47,group,K,2026-06-23,12:00 p.m. UTC−5,POR,UZB,5,0,NRG Stadium,Houston,,,
+48,group,K,2026-06-23,8:00 p.m. UTC−6,COL,COD,1,0,Estadio Akron,Zapopan,,,
+49,group,C,2026-06-24,6:00 p.m. UTC−4,SCO,BRA,0,3,Hard Rock Stadium,Miami Gardens,,,
+50,group,C,2026-06-24,6:00 p.m. UTC−4,MAR,HAI,4,2,Mercedes-Benz Stadium,Atlanta,,,
+51,group,B,2026-06-24,12:00 p.m. UTC−7,SUI,CAN,2,1,BC Place,Vancouver,,,
+52,group,B,2026-06-24,12:00 p.m. UTC−7,BIH,QAT,3,1,Lumen Field,Seattle,,,
+53,group,A,2026-06-24,7:00 p.m. UTC−6,CZE,MEX,0,3,Estadio Azteca,Mexico City,,,
+54,group,A,2026-06-24,7:00 p.m. UTC−6,RSA,KOR,1,0,Estadio BBVA,Guadalupe,,,
+55,group,E,2026-06-25,4:00 p.m. UTC−4,CUW,CIV,0,2,Lincoln Financial Field,Philadelphia,,,
+56,group,E,2026-06-25,4:00 p.m. UTC−4,ECU,GER,2,1,MetLife Stadium,East Rutherford,,,
+57,group,F,2026-06-25,6:00 p.m. UTC−5,JPN,SWE,1,1,AT&T Stadium,Arlington,,,
+58,group,F,2026-06-25,6:00 p.m. UTC−5,TUN,NED,1,3,Arrowhead Stadium,Kansas City,,,
+59,group,D,2026-06-25,7:00 p.m. UTC−7,TUR,USA,3,2,SoFi Stadium,Inglewood,,,
+60,group,D,2026-06-25,7:00 p.m. UTC−7,PAR,AUS,0,0,Levi's Stadium,Santa Clara,,,
+61,group,I,2026-06-26,3:00 p.m. UTC−4,NOR,FRA,1,4,Gillette Stadium,Foxborough,,,
+62,group,I,2026-06-26,3:00 p.m. UTC−4,SEN,IRQ,5,0,BMO Field,Toronto,,,
+63,group,G,2026-06-26,8:00 p.m. UTC−7,EGY,IRN,1,1,Lumen Field,Seattle,,,
+64,group,G,2026-06-26,8:00 p.m. UTC−7,NZL,BEL,1,5,BC Place,Vancouver,,,
+65,group,H,2026-06-26,7:00 p.m. UTC−5,CPV,KSA,0,0,NRG Stadium,Houston,,,
+66,group,H,2026-06-26,6:00 p.m. UTC−6,URU,ESP,0,1,Estadio Akron,Zapopan,,,
+67,group,L,2026-06-27,5:00 p.m. UTC−4,PAN,ENG,0,2,MetLife Stadium,East Rutherford,,,
+68,group,L,2026-06-27,5:00 p.m. UTC−4,CRO,GHA,2,1,Lincoln Financial Field,Philadelphia,,,
+69,group,J,2026-06-27,9:00 p.m. UTC−5,ALG,AUT,3,3,Arrowhead Stadium,Kansas City,,,
+70,group,J,2026-06-27,9:00 p.m. UTC−5,JOR,ARG,1,3,AT&T Stadium,Arlington,,,
+71,group,K,2026-06-27,7:30 p.m. UTC−4,COL,POR,0,0,Hard Rock Stadium,Miami Gardens,,,
+72,group,K,2026-06-27,7:30 p.m. UTC−4,COD,UZB,3,1,Mercedes-Benz Stadium,Atlanta,,,
+73,R32,,2026-06-28,12:00 p.m. UTC−7,RSA,CAN,0,1,SoFi Stadium,Inglewood,,,
+74,R32,,2026-06-29,4:30 p.m. UTC−4,GER,PAR,1,1,Gillette Stadium,Foxborough,3,4,Y
+75,R32,,2026-06-29,7:00 p.m. UTC−6,NED,MAR,1,1,Estadio BBVA,Guadalupe,2,3,Y
+76,R32,,2026-06-29,12:00 p.m. UTC−5,BRA,JPN,2,1,NRG Stadium,Houston,,,
+77,R32,,2026-06-30,5:00 p.m. UTC−4,FRA,SWE,3,0,MetLife Stadium,East Rutherford,,,
+78,R32,,2026-06-30,12:00 p.m. UTC−5,CIV,NOR,1,2,AT&T Stadium,Arlington,,,
+79,R32,,2026-06-30,7:00 p.m. UTC−6,MEX,ECU,2,0,Estadio Azteca,Mexico City,,,
+80,R32,,2026-07-01,12:00 p.m. UTC−4,ENG,COD,2,1,Mercedes-Benz Stadium,Atlanta,,,
+81,R32,,2026-07-01,5:00 p.m. UTC−7,USA,BIH,2,0,Levi's Stadium,Santa Clara,,,
+82,R32,,2026-07-01,1:00 p.m. UTC−7,BEL,SEN,3,2,Lumen Field,Seattle,,,Y
+83,R32,,2026-07-02,7:00 p.m. UTC−4,POR,CRO,2,1,BMO Field,Toronto,,,
+84,R32,,2026-07-02,12:00 p.m. UTC−7,ESP,AUT,3,0,SoFi Stadium,Inglewood,,,
+85,R32,,2026-07-02,8:00 p.m. UTC−7,SUI,ALG,2,0,BC Place,Vancouver,,,
+86,R32,,2026-07-03,6:00 p.m. UTC−4,ARG,CPV,3,2,Hard Rock Stadium,Miami Gardens,,,Y
+87,R32,,2026-07-03,8:30 p.m. UTC−5,COL,GHA,1,0,Arrowhead Stadium,Kansas City,,,
+88,R32,,2026-07-03,1:00 p.m. UTC−5,AUS,EGY,1,1,AT&T Stadium,Arlington,2,4,Y
+89,R16,,2026-07-04,5:00 p.m. UTC−4,PAR,FRA,0,1,Lincoln Financial Field,Philadelphia,,,
+90,R16,,2026-07-04,12:00 p.m. UTC−5,CAN,MAR,0,3,NRG Stadium,Houston,,,
+91,R16,,2026-07-05,4:00 p.m. UTC−4,BRA,NOR,1,2,MetLife Stadium,East Rutherford,,,
+92,R16,,2026-07-05,6:00 p.m. UTC−6,MEX,ENG,2,3,Estadio Azteca,Mexico City,,,
+93,R16,,2026-07-06,2:00 p.m. UTC−5,POR,ESP,0,1,AT&T Stadium,Arlington,,,
+94,R16,,2026-07-06,5:00 p.m. UTC−7,USA,BEL,1,4,Lumen Field,Seattle,,,
+95,R16,,2026-07-07,12:00 p.m. UTC−4,ARG,EGY,3,2,Mercedes-Benz Stadium,Atlanta,,,
+96,R16,,2026-07-07,1:00 p.m. UTC−7,SUI,COL,0,0,BC Place,Vancouver,4,3,Y
+97,QF,,2026-07-09,4:00 p.m. UTC−4,FRA,MAR,2,0,Gillette Stadium,Foxborough,,,
+98,QF,,2026-07-10,12:00 p.m. UTC−7,ESP,BEL,2,1,SoFi Stadium,Inglewood,,,
+99,QF,,2026-07-11,5:00 p.m. UTC−4,NOR,ENG,1,2,Hard Rock Stadium,Miami Gardens,,,Y
+100,QF,,2026-07-11,8:00 p.m. UTC−5,ARG,SUI,3,1,Arrowhead Stadium,Kansas City,,,Y
+101,SF,,2026-07-14,2:00 p.m. UTC−5,FRA,ESP,0,2,AT&T Stadium,Arlington,,,
+102,SF,,2026-07-15,3:00 p.m. UTC−4,ENG,ARG,1,2,Mercedes-Benz Stadium,Atlanta,,,
+103,3rd,,2026-07-18,5:00 p.m. UTC−4,FRA,ENG,,,Hard Rock Stadium,Miami Gardens,,,
+104,F,,2026-07-19,3:00 p.m. UTC−4,ESP,ARG,,,MetLife Stadium,East Rutherford,,,
