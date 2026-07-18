@@ -71,22 +71,22 @@ match_no,stage,group,date,time_local,team1,team2,score1,score2,stadium,city
 70,group,J,2026-06-27,9:00 p.m. UTC−5,JOR,ARG,1,3,AT&T Stadium,Arlington
 71,group,K,2026-06-27,7:30 p.m. UTC−4,COL,POR,0,0,Hard Rock Stadium,Miami Gardens
 72,group,K,2026-06-27,7:30 p.m. UTC−4,COD,UZB,3,1,Mercedes-Benz Stadium,Atlanta
-73,R32,,2026-06-28,12:00 p.m. UTC−7,RSA,CAN,,,SoFi Stadium,Inglewood
-74,R32,,2026-06-29,4:30 p.m. UTC−4,GER,PAR,,,Gillette Stadium,Foxborough
-75,R32,,2026-06-29,7:00 p.m. UTC−6,NED,MAR,,,Estadio BBVA,Guadalupe
-76,R32,,2026-06-29,12:00 p.m. UTC−5,BRA,JPN,,,NRG Stadium,Houston
-77,R32,,2026-06-30,5:00 p.m. UTC−4,FRA,SWE,,,MetLife Stadium,East Rutherford
-78,R32,,2026-06-30,12:00 p.m. UTC−5,CIV,NOR,,,AT&T Stadium,Arlington
-79,R32,,2026-06-30,7:00 p.m. UTC−6,MEX,ECU,,,Estadio Azteca,Mexico City
-80,R32,,2026-07-01,12:00 p.m. UTC−4,ENG,COD,,,Mercedes-Benz Stadium,Atlanta
-81,R32,,2026-07-01,5:00 p.m. UTC−7,USA,BIH,,,Levi's Stadium,Santa Clara
-82,R32,,2026-07-01,1:00 p.m. UTC−7,BEL,SEN,,,Lumen Field,Seattle
-83,R32,,2026-07-02,7:00 p.m. UTC−4,POR,CRO,,,BMO Field,Toronto
-84,R32,,2026-07-02,12:00 p.m. UTC−7,ESP,AUT,,,SoFi Stadium,Inglewood
-85,R32,,2026-07-02,8:00 p.m. UTC−7,SUI,ALG,,,BC Place,Vancouver
-86,R32,,2026-07-03,6:00 p.m. UTC−4,ARG,CPV,,,Hard Rock Stadium,Miami Gardens
-87,R32,,2026-07-03,8:30 p.m. UTC−5,COL,GHA,,,Arrowhead Stadium,Kansas City
-88,R32,,2026-07-03,1:00 p.m. UTC−5,AUS,EGY,,,AT&T Stadium,Arlington
+73,R32,,2026-06-28,12:00 p.m. UTC−7,RSA,CAN,0,1,SoFi Stadium,Inglewood
+74,R32,,2026-06-29,4:30 p.m. UTC−4,GER,PAR,1,1,Gillette Stadium,Foxborough
+75,R32,,2026-06-29,7:00 p.m. UTC−6,NED,MAR,1,1,Estadio BBVA,Guadalupe
+76,R32,,2026-06-29,12:00 p.m. UTC−5,BRA,JPN,2,1,NRG Stadium,Houston
+77,R32,,2026-06-30,5:00 p.m. UTC−4,FRA,SWE,3,0,MetLife Stadium,East Rutherford
+78,R32,,2026-06-30,12:00 p.m. UTC−5,CIV,NOR,1,2,AT&T Stadium,Arlington
+79,R32,,2026-06-30,7:00 p.m. UTC−6,MEX,ECU,2,0,Estadio Azteca,Mexico City
+80,R32,,2026-07-01,12:00 p.m. UTC−4,ENG,COD,2,1,Mercedes-Benz Stadium,Atlanta
+81,R32,,2026-07-01,5:00 p.m. UTC−7,USA,BIH,2,0,Levi's Stadium,Santa Clara
+82,R32,,2026-07-01,1:00 p.m. UTC−7,BEL,SEN,3,2,Lumen Field,Seattle
+83,R32,,2026-07-02,7:00 p.m. UTC−4,POR,CRO,2,1,BMO Field,Toronto
+84,R32,,2026-07-02,12:00 p.m. UTC−7,ESP,AUT,3,0,SoFi Stadium,Inglewood
+85,R32,,2026-07-02,8:00 p.m. UTC−7,SUI,ALG,2,0,BC Place,Vancouver
+86,R32,,2026-07-03,6:00 p.m. UTC−4,ARG,CPV,3,2,Hard Rock Stadium,Miami Gardens
+87,R32,,2026-07-03,8:30 p.m. UTC−5,COL,GHA,1,0,Arrowhead Stadium,Kansas City
+88,R32,,2026-07-03,1:00 p.m. UTC−5,AUS,EGY,1,1,AT&T Stadium,Arlington
 89,R16,,2026-07-04,5:00 p.m. UTC−4,PAR,FRA,0,1,Lincoln Financial Field,Philadelphia
 90,R16,,2026-07-04,12:00 p.m. UTC−5,CAN,MAR,0,3,NRG Stadium,Houston
 91,R16,,2026-07-05,4:00 p.m. UTC−4,BRA,NOR,1,2,MetLife Stadium,East Rutherford

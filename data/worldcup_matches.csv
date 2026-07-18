@@ -34,15 +34,15 @@ year,host,stage,group,date,home,away,home_score,away_score,extra_time,pens_home,
 1934,Italy,semi-final,,1934-06-03,Czechoslovakia,Germany,3,1,,,,Stadio Nazionale PNF,Rome,openfootball
 1934,Italy,third-place,,1934-06-07,Germany,Austria,3,2,,,,Stadio Giorgio Ascarelli,Naples,openfootball
 1934,Italy,final,,1934-06-10,Italy,Czechoslovakia,2,1,Y,,,Stadio Nazionale PNF,Rome,openfootball
-1938,France,group,,1938-06-04,Switzerland,Germany,1,1,Y,,,Parc des Princes,Paris,openfootball
-1938,France,group,,1938-06-05,Hungary,Dutch East Indies,6,0,,,,Vélodrome Municipal,Reims,openfootball
-1938,France,group,,1938-06-05,France,Belgium,3,1,,,,Stade Olympique de Colombes,Paris,openfootball
-1938,France,group,,1938-06-05,Cuba,Romania,3,3,Y,,,Stade Chapou,Toulouse,openfootball
-1938,France,group,,1938-06-05,Italy,Norway,2,1,Y,,,Stade Vélodrome,Marseille,openfootball
-1938,France,group,,1938-06-05,Brazil,Poland,6,5,Y,,,Stade de la Meinau,Strasbourg,openfootball
-1938,France,group,,1938-06-05,Czechoslovakia,Netherlands,3,0,Y,,,Stade municipal,Le Havre,openfootball
-1938,France,group,,1938-06-09,Cuba,Romania,2,1,,,,Stade Chapou,Toulouse,openfootball
-1938,France,group,,1938-06-09,Germany,Switzerland,2,4,,,,Parc des Princes,Paris,openfootball
+1938,France,round-of-16,,1938-06-04,Switzerland,Germany,1,1,Y,,,Parc des Princes,Paris,openfootball
+1938,France,round-of-16,,1938-06-05,Hungary,Dutch East Indies,6,0,,,,Vélodrome Municipal,Reims,openfootball
+1938,France,round-of-16,,1938-06-05,France,Belgium,3,1,,,,Stade Olympique de Colombes,Paris,openfootball
+1938,France,round-of-16,,1938-06-05,Cuba,Romania,3,3,Y,,,Stade Chapou,Toulouse,openfootball
+1938,France,round-of-16,,1938-06-05,Italy,Norway,2,1,Y,,,Stade Vélodrome,Marseille,openfootball
+1938,France,round-of-16,,1938-06-05,Brazil,Poland,6,5,Y,,,Stade de la Meinau,Strasbourg,openfootball
+1938,France,round-of-16,,1938-06-05,Czechoslovakia,Netherlands,3,0,Y,,,Stade municipal,Le Havre,openfootball
+1938,France,round-of-16,,1938-06-09,Cuba,Romania,2,1,,,,Stade Chapou,Toulouse,openfootball
+1938,France,round-of-16,,1938-06-09,Germany,Switzerland,2,4,,,,Parc des Princes,Paris,openfootball
 1938,France,quarter-final,,1938-06-12,Brazil,Czechoslovakia,1,1,Y,,,Parc Lescure,Bordeaux,openfootball
 1938,France,quarter-final,,1938-06-12,Switzerland,Hungary,0,2,,,,Stade Victor Boucquey,Lille,openfootball
 1938,France,quarter-final,,1938-06-12,Sweden,Cuba,8,0,,,,Stade du Fort Carré,Antibes,openfootball
