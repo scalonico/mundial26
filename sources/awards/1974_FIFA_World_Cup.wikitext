@@ -1,0 +1,581 @@
+{{Short description|Association football tournament in West Germany}}
+{{redirect|1974 World Cup|the golf tournament|1974 World Cup (men's golf)}}
+{{Use British English|date=June 2018}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox international football competition
+| tourney_name = FIFA World Cup
+| year = 1974
+| other_titles = {{native name|de|Fußball-Weltmeisterschaft 1974}}
+| image = FIFA World Cup 1974 - emblem.svg
+| country = West Germany
+| dates = 13 June – 7 July
+| confederations = 5
+| num_teams = 16
+| venues = 9
+| cities = 9
+| champion = West Germany
+| count = 2
+| second = Netherlands
+| third = Poland
+| third-flagvar = 1928
+| fourth = Brazil
+| fourth-flagvar = 1968
+| matches = 38
+| goals = 97
+| attendance = {{#invoke:Football attendance summation|main|groups=1-4|groups2=A-B}}
+| top_scorer = {{fbicon|POL|1928}} [[Grzegorz Lato]] (7 goals)
+| young_player = {{fbicon|POL|1928}} [[Władysław Żmuda (born 1954)|Władysław Żmuda]]<ref name="awards">{{cite web |title=1974 FIFA World Cup Germany - Awards |url=https://www.fifa.com/worldcup/archive/germany1974/awards/index.html |archive-url=https://web.archive.org/web/20150407142556/http://www.fifa.com/worldcup/archive/germany1974/awards/index.html |url-status=dead |archive-date=7 April 2015 |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=3 February 2019 }}</ref>
+| fair_play = {{fb|FRG}}<ref name="awards"/>
+| prevseason = [[1970 FIFA World Cup|1970]]
+| nextseason = [[1978 FIFA World Cup|1978]]
+}}
+The '''1974 FIFA World Cup''' was the tenth edition of the [[FIFA World Cup]], the quadrennial [[Association football|football]] tournament for men's senior national teams, and was played in [[West Germany]] (and [[West Berlin]]) between 13 June and 7 July. The tournament marked the first time that the current trophy, the [[FIFA World Cup Trophy]], created by the Italian sculptor [[Silvio Gazzaniga]], was awarded. The previous trophy, the [[Jules Rimet Trophy]], had been won for the third time by [[Brazil national football team|Brazil]] in [[1970 FIFA World Cup|1970]] and awarded permanently to the Brazilians.
+
+West Germany won the title, beating the [[Netherlands national football team|Netherlands]] 2–1 in the [[1974 FIFA World Cup final|final]] at the [[Olympiastadion (Munich)|Olympiastadion]] in [[Munich]]. This was the second title for West Germany, who had also won in [[1954 FIFA World Cup|1954]]. The teams of [[Australia men's national soccer team|Australia]], [[East Germany national football team|East Germany]], [[Haiti national football team|Haiti]] and [[DR Congo national football team|Zaire]] made their first appearances at the final stage, and East Germany making their only appearance before Germany was [[German reunification|reunified]] in 1990. [[Brazil national football team|Brazil]], the defending champions, were eliminated in the second round by the Netherlands, and lost the match for third place to [[Poland national football team|Poland]].
+
+Poland's [[Grzegorz Lato]] led the tournament in scoring seven goals. [[Gerd Müller]]'s goal in the final was the 14th in his career of two World Cups, beating [[Just Fontaine]]'s record of 13, in his single World Cup in [[1958 FIFA World Cup|1958]]. Müller's record was surpassed in 2006 by [[Ronaldo (Brazilian footballer)|Ronaldo]]'s 15 from three World Cups.
+ 
+[[Günter Netzer]], who came on as a substitute for West Germany during the defeat by the East Germans, was playing for [[Real Madrid CF|Real Madrid]] at the time; this was the first time that a World Cup winner had played for a club outside his home country. This is the most recent of four World Cup tournaments to date with no matches needing [[Overtime (sports)#Association football|extra time]]. The others are the [[1930 FIFA World Cup|1930]], [[1950 FIFA World Cup|1950]], and [[1962 FIFA World Cup|1962]] tournaments.
+
+==Host selection==
+{{main|FIFA World Cup hosts}}
+West Germany was chosen as the host nation by FIFA in London, England on 6 July 1966. Hosting rights for the [[1978 FIFA World Cup|1978]] and [[1982 FIFA World Cup|1982]] tournaments were awarded at the same time. West Germany agreed to a deal with Spain by which Spain would support West Germany for the 1974 tournament, and in return West Germany would allow Spain to bid for the 1982 World Cup unopposed.
+
+===Havelange on "planned" host winner===
+Speaking in 2008, Brazilian former FIFA president [[João Havelange]] said to ''[[Folha de Sao Paulo]]'' that this competition, along with the [[1966 FIFA World Cup]] in England, was fixed so that the host country would win; "In the three matches that the [[Brazil national football team|Brazilian national team]] played in 1966, of the three referees and six linesmen, seven were British and two were Germans. Brazil went out, [[Pelé]] 'exited' through injury [following some rough defensive play], and England and Germany entered into the final, just as the Englishman [[Stanley Rous|Sir Stanley Rous]], who was the President of FIFA at the time, had wanted. In Germany in 1974 the same thing happened. During the [[1974 FIFA World Cup Group A#Netherlands vs Brazil|Brazil-Netherlands match]], the referee was German, we lost 2–0 and Germany won the title. We were the best in the world, and had the same team that had won the World Cup in [[1962 FIFA World Cup|1962 in Chile]] and [[1970 FIFA World Cup|1970 in Mexico]], but it was planned for the host countries to win".<ref>{{cite web |url=https://www.goal.com/en-us/news/1966-1974-world-cups-were-fixed-former-fifa-president/blt6e01f417661567f1 |title=1966 & 1974 World Cups Were Fixed – Former FIFA President |work=Goal.com |date=26 June 2008 |access-date=28 October 2011 |archive-date=18 November 2022 |archive-url=https://web.archive.org/web/20221118233649/https://www.goal.com/en-us/news/1966-1974-world-cups-were-fixed-former-fifa-president/blt6e01f417661567f1 |url-status=live }}</ref>
+
+==Qualification==
+{{main|1974 FIFA World Cup qualification}}
+[[File:1974 world cup qualification.png|thumb|{{legend|#000cff|Countries qualified for World Cup}} {{legend|#ffb400|Country failed to qualify}} {{legend|black|Countries that did not enter World Cup}} {{legend|#ababab|Country not a FIFA member in 1974}}]]
+
+Ninety-eight countries took part in the qualifying tournament.
+
+The USSR was controversially disqualified after refusing to travel for the second leg of their playoff against Chile as a result of the [[1973 Chilean coup d'état]]. The Netherlands and Poland qualified for the first time since 1938. Scotland were back in the finals after a 16-year absence. Argentina and Chile were also back after having missed the 1970 tournament and Yugoslavia returned after missing both the 1966 and 1970 tournaments.
+
+First-time qualifiers were:
+* East Germany (who made their sole appearance in a [[FIFA]] senior tournament as a separate team)
+* Australia, which were the first team from Oceania to qualify
+* Haiti, the first team from the Caribbean to qualify since [[Cuba national football team|Cuba]] in 1938
+* Zaire, the first team from sub-Saharan Africa to reach the finals, and the third African team overall.
+
+This was the first of eight tournaments in which the defending champions (in this case [[Brazil national football team|Brazil]]) played in the opening game rather than the hosts. This change was reverted for the [[2006 FIFA World Cup|2006]] tournament, as the defending champions no longer had a secured spot in the tournament.
+
+===List of qualified teams===
+The following 16 teams qualified for the final tournament.
+{{col-begin}}
+{{col-4}}
+'''[[1974 FIFA World Cup qualification (AFC and OFC)|AFC/OFC]] (1)'''
+* {{fb|AUS}} (debut)<ref>Australia was not a member of the OFC between 1972 and 1978</ref>
+'''[[1974 FIFA World Cup qualification (CAF)|CAF]] (1)'''
+* {{fb|ZAI}} (debut)
+'''[[1974 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (1)'''
+* {{fb|HAI|1964}} (debut)
+{{col-4}}
+'''[[1974 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (4)'''
+* {{fb|ARG|1861}}
+* {{fb|BRA|1968}} (reigning champions)
+* {{fb|CHI}}
+* {{fb|URU}}
+{{col-4}}
+'''[[1974 FIFA World Cup qualification (UEFA)|UEFA]] (9)'''
+* {{fb|PRB}}
+* {{fb|GDR}} (debut)
+* {{fb|ITA|1946}}
+* {{fb|NED}}
+* {{fb|POL|1928}}
+* {{fb|SCO}}
+* {{fb|SWE}}
+* {{fb|FRG}} (hosts)
+* {{fb|YUG}}
+{{col-4}}
+{{col-end}}
+==Format==
+The tournament featured a new format; the sixteen (16) teams were divided into four groups of four teams, but the eight teams which advanced did not enter a knockout stage as in the previous five World Cups, but played in a second group stage, in two groups of four. In the second stage, the two group winners advanced to the final, with the respective runners-up meeting for third place. This was the first of two times for this format (also [[1978 FIFA World Cup|1978]]). For 1974, FIFA introduced the [[penalty shoot-out (association football)|penalty shoot-out]] as a means of determining the winner in knockout stages should the match end on a draw after 120 minutes.<ref>{{cite news |title=Nur das Endspiel wird wiederholt |date=May–June 1974|work=[[Kicker Sportmagazin]] - Sonderheft WM 74 (World Cup '74 special issue)|page=131|language=de}}</ref> The method was not needed until [[1982 FIFA World Cup|1982]], and was first employed in the [[1982 FIFA World Cup#Semi-finals|semi-final match]] between [[West Germany v France (1982 FIFA World Cup)|France and West Germany]].
+
+It was decided in advance that if the host nation (West Germany) progressed to the second round, their matches would not start simultaneous to the others, but in an alternate timeslot (either 16:00 or 19:30 local time).<ref>{{cite news |title=Das ist der Fahrplan|date=May–June 1974|work=[[Kicker Sportmagazin]] – Sonderheft WM '74 |page=5|language=de}}</ref>
+
+==Summary==
+[[File:1974 world cup.png|thumb|350px|Results of finalists]]
+[[File:Fifaworldcup1974.JPG|thumb|upright|One of two official match footballs of the FIFA World Cup 1974 – the [[Adidas Telstar]] durlast. The other, was the all-white Adidas Chile durlast]]
+
+===First round===
+The tournament was held mostly in bad weather, and the stadia had few protected places. Only five western European nations had qualified, of which only the [[Netherlands national football team|Netherlands]], [[Germany national football team|West Germany]] and [[Sweden men's national football team|Sweden]] made it past the group stage. Fans from the Eastern Communist neighbour states East Germany, Bulgaria and Poland were hindered by [[Iron Curtain|political circumstances]].
+
+[[Carlos Caszely]] of [[Chile national football team|Chile]] became the first player to be sent off with a [[misconduct (football)|red card]] in a World Cup match, during their match against West Germany. Red cards were formally introduced in World Cup play in [[1970 FIFA World Cup|1970]], but no players were sent off in that tournament.
+
+Two teams made a particularly powerful impact on the first round. The Netherlands demonstrated the "[[Total Football]]" techniques pioneered by the top Dutch club [[AFC Ajax|Ajax]], in which specialised positions were virtually abolished for the outfield players, and individual players became defenders, midfielders or strikers as the situation required. The Dutch marked their first World Cup finals since 1938 by topping their first-round group, with wins over [[Uruguay national football team|Uruguay]] and [[Bulgaria national football team|Bulgaria]] and a draw with Sweden. Sweden joined the Dutch in the second group round after beating Uruguay 3–0.
+
+[[Poland national football team|Poland]], meanwhile, appearing for the first time since 1938, took maximum points from a group containing two of the favourites for the tournament. They beat [[Argentina national football team|Argentina]] 3–2, trounced [[Haiti national football team|Haiti]] 7–0, then beat [[Italy national football team|Italy]] 2–1 – a result that allowed Argentina to qualify for the second group round ahead of Italy on goal difference. Argentina would not fail to win either of their opening two games of a World Cup again until 2018.<ref>{{Cite web|url=https://www.theguardian.com/football/2018/jun/21/argentina-croatia-world-cup-2018-group-d-match-report|title=Argentina on brink as Ante Rebic sparks rout to put Croatia through|website=[[TheGuardian.com]] |date=21 June 2018}}</ref> While Haiti lost all three games and finished second-to-last in the tournament, they did have one moment of glory; in their opening game against Italy, they managed to take the lead with a goal from [[Emmanuel Sanon]], before eventually losing 3–1. That goal proved to be significant as it ended [[Dino Zoff]]'s run of 1,142 minutes without conceding a goal – Italy had not conceded in their last 12 international matches.
+
+Group 2 was a particularly close group. With [[Brazil national football team|Brazil]], [[Yugoslavia national football team|Yugoslavia]] and [[Scotland national football team|Scotland]] drawing all their games against each other, it was decided by the number of goals these three teams scored when defeating [[Congo DR national football team|Zaire]]. Yugoslavia hammered the African nation 9–0, equalling a finals record for the largest margin of victory, although the game was only played after tournament officials paid the Zaire players, after their own officials had stolen the teams wages and allowances. Brazil beat them 3–0, which Zaire played under the threat of exile if they lost by four or more goals.<ref>{{cite web |last1=Charnock |first1=Steve |title=The dark story of Zaire's 9-0 defeat in the 1974 World Cup |url=https://www.history.co.uk/article/the-dark-story-of-zaires-9-nil-defeat-in-the-1974-world-cup |website=Sky History |access-date=30 June 2026 |archive-date=30 April 2025 |archive-url=https://web.archive.org/web/20250430004828/https://www.history.co.uk/article/the-dark-story-of-zaires-9-nil-defeat-in-the-1974-world-cup |url-status=live }}</ref> Scotland only managed a 2–0 margin, and so were edged out of the tournament on goal difference. They were the only team that did not lose a game in the tournament and the first ever country to be eliminated from a World Cup Finals without having lost a match.
+
+Group 1 contained both [[East Germany national football team|East Germany]] and the host [[Germany national football team|West Germany]], and they both progressed at the expense of [[Chile national football team|Chile]] and newcomers [[Australia men's national soccer team|Australia]]. The last game played in Group 1 was much anticipated, a first ever clash between the two German teams. West Germany was already assured of progression to the second round whatever the result. In one of the most politically charged matches of all time, the East won, thanks to a late [[Jürgen Sparwasser]] goal. This result forced a realignment of the West German team that would later help them win the tournament.
+
+===Second round===
+Coincidentally, the two second-round groups both produced matches that were, in effect, semi-finals. In Group A, the Netherlands and Brazil met after each had taken maximum points from their previous two matches. In Group B, the same happened with West Germany and Poland – so the winners of these two games would contest the final.
+
+In Group A, two goals from the inspirational [[Johan Cruyff]] helped the Dutch side thrash Argentina 4–0. At the same time, Brazil defeated East Germany 1–0. The Dutch triumphed over East Germany 2–0 while in the "Battle of the South Americans", Brazil managed to defeat Argentina 2–1 in a scrappy match. Argentina and East Germany drew 1–1 and were on their way home while the crucial match between the Netherlands and Brazil turned into another triumph for Total Football, as second-half goals from [[Johan Neeskens]] and Cruyff put the Netherlands in the final. However the match would also be remembered for harsh defending on both sides.
+
+Meanwhile, in Group B, West Germany and Poland both managed to beat Yugoslavia and Sweden. The crucial game between the Germans and the Poles was goalless until the 76th minute, when Gerd Muller scored to send the hosts through 1–0. The Poles took third place after defeating Brazil 1–0.
+
+===Final===
+{{main|1974 FIFA World Cup final}}
+
+The final was held on 7 July 1974 at Olympiastadion, Munich. West Germany was led by [[Franz Beckenbauer]], while the Dutch had their star [[Johan Cruyff]], and their Total Football system which had dazzled the competition. With just a minute gone on the clock, following a solo run, Cruyff was brought down by [[Uli Hoeneß]] inside the German penalty area, and the Dutch took the lead from the ensuing penalty by [[Johan Neeskens]] before any German player had even touched the ball. West Germany struggled to recover, and in the 26th minute were awarded a penalty, after [[Bernd Hölzenbein]] fell within the Dutch area, causing [[English people|English]] referee [[Jack Taylor (referee)|Jack Taylor]] to award another controversial penalty. [[Paul Breitner]] spontaneously decided to kick, and scored. These two penalties were the first in a World Cup final. West Germany now pushed, and in the 43rd minute, in his typical style, [[Gerd Müller]] scored what turned out to be the winning goal, and the last of his international career as he retired from the national team. The second half saw chances for both sides, with Müller putting the ball in the net for a goal that was disallowed as offside. In the 85th minute, Hölzenbein was fouled again, but no penalty this time. Eventually, West Germany, the [[UEFA Euro 1972 final|1972 European champions]], also won the 1974 World Cup.
+
+This was the only case of the reigning European champions winning the World Cup, until Spain (winners of the [[UEFA Euro 2008]]) defeated the Netherlands in the [[2010 FIFA World Cup final]]. France have also held both trophies at the same time, albeit in a different order, by winning the [[1998 FIFA World Cup]] followed by the [[UEFA Euro 2000]].
+
+This was only the second time that a team had won the World Cup after losing a match in the finals (West Germany losing to East Germany during the group stage). The previous occasion was West Germany's earlier win in 1954.
+
+==Mascots==
+The [[FIFA World Cup mascot|official mascots]] of this World Cup were ''Tip'' and ''Tap'', two boys wearing an [[Germany national football team|outfit similar to West Germany]]'s, with the letters WM (''Weltmeisterschaft'', World Cup) and number 74.
+
+==Venues==
+{| class="wikitable" style="text-align:center"
+|-
+![[West Berlin]]
+![[Munich]]
+![[Stuttgart]]
+|-
+|[[Olympiastadion (Berlin)|Olympiastadion]]
+|[[Olympiastadion (Munich)|Olympiastadion]]
+|[[MHPArena|Neckarstadion]]
+|-
+| Capacity: '''86,000'''
+| Capacity: '''77,573'''
+| Capacity: '''72,200'''
+|-
+|[[File:Berliner Olympiastadion innen.jpg|200px]]
+|[[File:Munich - Frei Otto Tensed structures - 5302.jpg|200px]]
+|[[File:Gottlieb-Daimler-Stadion Stuttgart innen.JPG|alt=|200x200px]]
+|-
+![[Gelsenkirchen]]
+! colspan="2" rowspan="12" | {{Location map+|FRG and West Berlin|float=center|width=450|caption=|places=
+{{Location map~|FRG and West Berlin|lat=48.1731|long=11.5467|label=[[Munich]]|position=bottom}}
+{{Location map~|FRG and West Berlin|lat=52.5147|long=13.2395|label=[[West Berlin]]|position=right}}
+{{Location map~|FRG and West Berlin|lat=48.7923|long= 9.2320|label=[[Stuttgart]]|position=bottom}}
+{{Location map~|FRG and West Berlin|lat=51.5592|long= 7.0667|label=[[Gelsenkirchen]]|position=top}}
+{{Location map~|FRG and West Berlin|lat=51.2603|long= 6.7342|label=[[Düsseldorf]]|position=right}}
+{{Location map~|FRG and West Berlin|lat=50.0686|long= 8.6453|label=[[Frankfurt]]|position=top}}
+{{Location map~|FRG and West Berlin|lat=53.5872|long= 9.8986|label=[[Hamburg]]|position=top}}
+{{Location map~|FRG and West Berlin|lat=52.3601|long= 9.7312|label=[[Hanover]]|position=top}}
+{{Location map~|FRG and West Berlin|lat=51.5159|long= 7.4653|label=[[Dortmund]]|position=right}}}}
+|-
+| [[Parkstadion]]
+|-
+| Capacity: '''72,000'''
+|-
+| [[File:Parkstadion gelsenkirchen 2.jpg|200px]]
+|-
+! [[Düsseldorf]]
+|-
+| [[Rheinstadion]]
+|-
+| Capacity: '''70,100'''
+|-
+| [[File:Altes_Rheinstadion.jpg|200px]]
+|-
+![[Frankfurt]]
+|-
+|[[Waldstadion (Frankfurt)|Waldstadion]]
+|-
+|Capacity: '''62,200'''
+|-
+|[[File:Waldstadionold1.jpg|200px]]
+|-
+! [[Hamburg]]
+! [[Hanover]]
+! [[Dortmund]]
+|-
+|[[Volksparkstadion]]
+| [[Niedersachsenstadion]]
+| [[Westfalenstadion]]
+|-
+|Capacity: '''61,300'''
+| Capacity: '''60,400'''
+| Capacity: '''53,600'''
+|-
+|[[File:Das_Volksparkstadion_1983.jpg|alt=|frameless|200x200px]]
+|[[File:1998-05-24 Niedersachsenstadion Relegation Hannover 96 Tennis Borussia Berlin 0.jpg|alt=|200x200px]]
+|[[File:Dortmund Westfalenstadion, 18 Mai 1985, RVR Arcchiv (1304-85).jpg|link=https://it.wikipedia.org/wiki/File:Dortmund%20Westfalenstadion,%2018%20Mai%201985,%20RVR%20Arcchiv%20(1304-85).jpg|200x200px]]
+|}
+
+==Match officials==
+'''AFC'''
+*{{fbaicon|IRN|1964}} [[Jafar Namdar]]
+*{{fbaicon|SIN}} [[Govindasamy Suppiah]]
+'''CAF'''
+*{{fbaicon|EGY|1972}} [[Mahmoud Mustafa Kamel]]
+*{{fbaicon|SEN}} [[Youssou N'Diaye]]
+'''CONCACAF'''
+{{colbegin|colwidth=18em}}
+*{{fbaicon|MEX}} [[Alfonso González Archundía]]
+*{{fbaicon|CAN}} [[Werner Winsemann]]
+{{colend}}
+'''CONMEBOL'''
+{{colbegin|colwidth=18em}}
+*{{fbaicon|URU}} [[Ramón Barreto]]
+*{{fbaicon|COL}} [[Omar Delgado Gómez]]
+*{{fbaicon|VEN|1954}} [[Vicente Llobregat]]
+*{{fbaicon|BRA|1968}} [[Armando Marques (referee)|Armando Marques]]
+*{{fbaicon|ARG|1861}} [[Luis Pestarino]]
+*{{fbaicon|PER}} [[Edison Peréz Núñez]]
+{{colend}}
+'''UEFA'''
+{{colbegin|colwidth=18em}}
+*{{fbaicon|FRG}} [[Heinz Aldinger]]
+*{{fbaicon|ITA|1946}} [[Aurelio Angonese]]
+*{{fbaicon|TUR}} [[Doğan Babacan]]
+*{{fbaicon|SCO}} [[Bob Davidson (referee)|Bob Davidson]]
+*{{fbaicon|GDR}} [[Rudi Glöckner]]
+*{{fbaicon|URS|1955}} [[Pavel Kasakov]]
+*{{fbaicon|AUT}} [[Erich Linemayr]]
+*{{fbaicon|BEL}} [[Vital Loraux]]
+*{{fbaicon|HUN}} [[Károly Palotai]]
+*{{fbaicon|ROU|1965}} [[Nicolae Rainea]]
+*{{fbaicon|ESP|1945}} [[Pablo Sánchez Ibáñez]]
+*{{fbaicon|SUI}} [[Rudolf Scheurer]]
+*{{fbaicon|FRG}} [[Gerhard Schulenburg]]
+*{{fbaicon|ENG}} [[Jack Taylor (referee)|Jack Taylor]]
+*{{fbaicon|WAL}} [[Clive Thomas (football)|Clive Thomas]]
+*{{fbaicon|FRG}} [[Kurt Tschenscher]]
+*{{fbaicon|NED}} [[Arie van Gemert]]
+*{{fbaicon|FRG}} [[Hans-Joachim Weyland]]
+{{colend}}
+'''OFC'''
+*{{fbaicon|AUS}} [[Tony Boskovic]]
+
+==Squads==
+For a list of all squads that appeared in the final tournament, see ''[[1974 FIFA World Cup squads]]''.
+
+==Seeding==
+The [[FIFA World Cup Organisers|FIFA Organising Committee]] agreed by vote to seed the hosts, holders and the other two [[1970 FIFA World Cup#Semi-finals 2|1970 semi-finalists]] into the first position of the four groups:<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_12d_fwc-seedings_57416.pdf|archive-url=https://web.archive.org/web/20130717232914/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_12d_fwc-seedings_57416.pdf|url-status=dead|archive-date=17 July 2013|work=FIFA World Cup seeded teams 1930–2006|title=FIFA World Cup seeded teams}}</ref> 
+*{{fb|BRA|1968}} (1970 semi-finalists and [[1970 FIFA World Cup Final|holders]])
+*{{fb|ITA|1946}} (1970 semi-finalists)
+*{{fb|URU}} (1970 semi-finalists)
+*{{fb|FRG}} (1970 semi-finalists and hosts)
+
+Then the remaining spots in the groups were determined by dividing the participants into pots based on geographical sections. When the final draw was held, the 16th and final qualifier was not yet known; it would be either [[Yugoslavia national football team|Yugoslavia]] or [[Spain men's national football team|Spain]] subject to the result of a final playoff match in February 1974. The two teams had finished with an identical record in their [[1974 FIFA World Cup qualification – UEFA Group 7|qualification group]], and following this situation the rules were changed, so that tied teams had to compete in a playoff match on neutral ground.
+
+{| class="wikitable" style="width:98%"
+|-
+!Seeded teams<br><small>(hosts, holders and [[1970 FIFA World Cup#Semi-finals 2|1970 semi-finalists]])</small>
+!Pot 1: Western Europe<br><small>(unseeded teams)</small>
+!Pot 2: Eastern Europe<br><small>(unseeded teams)</small>
+!Pot 3: South America<br><small>(unseeded teams)</small>
+!Pot 4: Rest of the World<br><small>(unseeded teams)</small>
+|-
+| valign="top"|
+*{{fb|FRG}} <small>(hosts, Group 1)</small>
+*{{fb|BRA|1968}} <small>(holders, Group 2)</small>
+----
+*{{fb|ITA|1946}} <small>(Group 3 or 4, decided by draw)</small>
+*{{fb|URU}} <small>(Group 3 or 4, decided by draw)</small>
+| valign="top"|
+*{{fb|NED}}
+*{{fb|SCO}}
+| valign="top"|
+*{{fb|BUL|1971}}
+*{{fb|GDR}}
+*{{fb|POL|1928}}
+*{{fb|YUG}} or {{fb|ESP|1945}}
+| valign="top"|
+*{{fb|ARG|1861}}
+*{{fb|CHI}}
+| valign="top"|
+*{{fb|AUS}}
+*{{fb|HAI|1964|}}
+*{{fb|SWE}}
+*{{fb|ZAI}}
+|}
+
+===Final draw===
+The final draw took place at 21:30 local time on 5 January 1974 in [[HR Sendesaal]] in [[Frankfurt]],<ref name="Draw">{{cite web|title=Ein Elfjähriger schreibt Fußball-Geschichte|language=German|url=http://www.zdf.de/ZDFde/inhalt/4/0,1872,3022116,00.html|archive-url=https://web.archive.org/web/20051210052048/http://www.zdf.de:80/ZDFde/inhalt/4/0,1872,3022116,00.html|url-status=dead|archive-date=10 December 2005}}</ref> and was televised on [[Eurovision (network)|Eurovision]]. 80 commentators were gathered at the Eurovision headquarters, and TV stations from 32 countries had requested pictures of the ceremony at the time.<ref name="Draw"/> The TV broadcast of this show was followed by an estimated 800&nbsp;million people.{{Citation needed|date=May 2018}}
+
+Ahead of the draw, the FIFA Organising Committee decided that the host nation ([[West Germany national football team|West Germany]]) and trophy holder ([[Brazil national football team|Brazil]]) would be seeded, and placed respectively into the first position of Groups 1 and 2 prior to the draw. The remaining two top-seeded teams ([[Uruguay national football team|Uruguay]] and [[Italy national football team|Italy]]) would be drawn into the first position of Group 3 and Group 4.{{efn|name=draw|First position of the four groups were for unknown reasons, displayed at the televised draw as the second line of each drawn group.<ref name="Draw of Groups (muted)"/> The top-seeded team at this "first position" in Group 1 had the benefit of playing the first opening match and closing match of their group, after knowing the results from competing matches. In groups 2–4, all matches were played at the exact same local time, meaning there was no benefit for the top-seeded team, other than having avoided to meet other top-seeded teams already in the first group stage.}} It was also decided that South American nations could not play in the same group during the first group stage. In other words, [[Argentina national football team|Argentina]] and [[Chile national football team|Chile]] drawn from pot 3, could not be drawn into the two groups seeded by Brazil and Uruguay.
+
+Uruguay was drawn before Italy, taking the seeded first position of Group 3, and Italy were drawn into the seeded first position of Group 4.{{efn|name=draw}} Next, the remaining two South American teams from pot 3 were drawn into the two top-seeded European groups (Group 1 and Group 4), as per the draw regulations. This was followed by a draw of the remaining two European teams from pot 1 into Groups 2 and 3. Finally other nations were drawn on an unseeded basis, one by one into Group 1–4 in numerical order, first from pot 2 and then from pot 4.<ref name="Draw of Groups">{{cite AV media|url=https://www.youtube.com/watch?v=pmyczPNOfAA|title=SYND 06/01/74 drawing of positions for the 1974 Football World Cup|date=5 January 1974|access-date=23 July 2015|via=YouTube|medium=video|archive-date=1 April 2022|archive-url=https://web.archive.org/web/20220401103428/https://www.youtube.com/watch?v=pmyczPNOfAA|url-status=live}}</ref><ref name="Draw of Groups (muted)">{{cite AV media|url=https://www.youtube.com/watch?v=SK_pvQr9eMg|title=FIFA World Cup draw 1974 - mute|date=5 January 1974|access-date=21 July 2015|via=YouTube|medium=video|archive-date=13 June 2022|archive-url=https://web.archive.org/web/20220613113618/https://www.youtube.com/watch?v=SK_pvQr9eMg&gl=US&hl=en|url-status=live}}</ref>
+
+The "innocent hand" who made the draws was an 11-year-old boy, Detlef Lange, a member of the [[Schöneberger Sängerknaben]], a children's choir.<ref name="Draw"/>
+
+The great sensation of the draw was the meeting of the two German teams in Group 1. When FIFA President Sir [[Stanley Rous]] had announced the lot, the room was quiet for a few moments, followed by long-lasting applause. In the days following the event, a rumour began circulating that [[East Germany national football team|East Germany]] would consider withdrawing from the World Cup following a meeting with the West Germany delegation; however, this was quickly and officially denied by the East German government.<ref>(de) Karl Adolf Scherer: Die Deutschen in einer Gruppe: Die Auslosung am 5. Januar 1974 aus Fußballweltmeisterschaft 1974, page 114</ref>
+
+==First group stage==
+The first round, or first group stage, saw the 16 teams divided evenly into four groups. Each group was a [[Round-robin tournament|round-robin]] of six games, where each team played each of the other teams in the same group once. Teams were awarded two points for a win, one point for a draw and none for a defeat. The teams finishing first and second in each group qualified for the second round, while the bottom two teams in each group were eliminated from the tournament.
+
+'''Tie-breaking criteria'''
+
+Teams were ranked on the following criteria:{{citation needed|date=December 2020}}
+: 1. Greater number of points in all group matches
+: 2. Goal difference in all group matches 
+: 3. Goals scored in all group matches 
+: 4. Drawing of lots by the FIFA Organising Committee
+
+===Group 1===
+{{main|1974 FIFA World Cup Group 1}}
+[[File:Bundesarchiv Bild 183-N0615-0011, X. Fußball-WM, DDR-Nationalmannschaft.jpg|thumb|East German line-up v. Australia]]
+{{:1974 FIFA World Cup Group 1|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1974 FIFA World Cup Group 1|transcludesection=1-1}}
+{{:1974 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1974 FIFA World Cup Group 1|transcludesection=1-3}}
+{{:1974 FIFA World Cup Group 1|transcludesection=1-4}}
+----
+{{:1974 FIFA World Cup Group 1|transcludesection=1-5}}
+{{main|East Germany v West Germany (1974 FIFA World Cup)}}
+{{:1974 FIFA World Cup Group 1|transcludesection=1-6}}
+
+===Group 2===
+{{main|1974 FIFA World Cup Group 2}}
+[[File:Bundesarchiv Bild 183-N0622-0031, Fußball-WM, Zaire - Brasilien 0-3.jpg|thumb|Jairzinho's goal against Zaire]]
+{{:1974 FIFA World Cup Group 2|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1974 FIFA World Cup Group 2|transcludesection=2-1}}
+{{:1974 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1974 FIFA World Cup Group 2|transcludesection=2-3}}
+{{:1974 FIFA World Cup Group 2|transcludesection=2-4}}
+----
+{{:1974 FIFA World Cup Group 2|transcludesection=2-5}}
+{{:1974 FIFA World Cup Group 2|transcludesection=2-6}}
+
+===Group 3===
+{{main|1974 FIFA World Cup Group 3}}
+{{:1974 FIFA World Cup Group 3|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1974 FIFA World Cup Group 3|transcludesection=3-1}}
+{{:1974 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1974 FIFA World Cup Group 3|transcludesection=3-3}}
+{{:1974 FIFA World Cup Group 3|transcludesection=3-4}}
+----
+{{:1974 FIFA World Cup Group 3|transcludesection=3-5}}
+{{:1974 FIFA World Cup Group 3|transcludesection=3-6}}
+
+===Group 4===
+{{main|1974 FIFA World Cup Group 4}}
+[[File:Bundesarchiv Bild 183-N0615-0032, Fußball-WM, Italien - Haiti 3-1.jpg|thumb|Capello (No.8) is brought down v. Haiti]]
+{{:1974 FIFA World Cup Group 4|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1974 FIFA World Cup Group 4|transcludesection=4-1}}
+{{:1974 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1974 FIFA World Cup Group 4|transcludesection=4-3}}
+{{:1974 FIFA World Cup Group 4|transcludesection=4-4}}
+----
+{{:1974 FIFA World Cup Group 4|transcludesection=4-5}}
+{{:1974 FIFA World Cup Group 4|transcludesection=4-6}}
+
+==Second group stage==
+The second round, or second group stage, saw the eight teams progressing from the first round divided into two groups of four teams on the basis of the tournament regulations. Group A would consist of the winners of Groups 1 and 3, plus the runners-up from Groups 2 and 4. Group B would consist of the other four teams, namely the winners of Groups 2 and 4, plus the runners-up from Group 1 and 3. Like the first group stage, each group in the second round was a [[Round-robin tournament|round-robin]] of six games, where each team played one match against each of the other teams in the same group. Teams were awarded two points for a win, one point for a draw and none for a defeat. The two teams finishing first in each group advanced to the final, while the two runners-up would advance to the match for third place.
+
+'''Tie-breaking criteria'''
+
+Teams were ranked on the following criteria:
+
+: 1. Greater number of points in all second round group matches
+: 2. Goal difference in all second round group matches 
+: 3. Goals scored in all second round group matches 
+: 4. Higher finishing position in the table in the first round
+: 5. Drawing of lots by the FIFA Organising Committee
+
+''All times listed below are at local time ([[UTC+01:00|UTC+1]])''
+
+===Group A===
+{{main|1974 FIFA World Cup Group A}}
+[[File:Bundesarchiv Bild 183-N0704-308, Fußball-WM, DDR - Argentinien 1-1.jpg|thumb|Streich heads East Germany into the lead against Argentina]]
+{{:1974 FIFA World Cup Group A|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1974 FIFA World Cup Group A|transcludesection=A1}}
+{{:1974 FIFA World Cup Group A|transcludesection=A2}}
+----
+{{:1974 FIFA World Cup Group A|transcludesection=A3}}
+{{:1974 FIFA World Cup Group A|transcludesection=A4}}
+----
+{{:1974 FIFA World Cup Group A|transcludesection=A5}}
+{{:1974 FIFA World Cup Group A|transcludesection=A6}}
+
+===Group B===
+{{main|1974 FIFA World Cup Group B}}
+{{:1974 FIFA World Cup Group B|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1974 FIFA World Cup Group B|transcludesection=B1}}
+{{:1974 FIFA World Cup Group B|transcludesection=B2}}
+----
+{{:1974 FIFA World Cup Group B|transcludesection=B3}}
+{{:1974 FIFA World Cup Group B|transcludesection=B4}}
+----
+{{:1974 FIFA World Cup Group B|transcludesection=B5}}
+{{:1974 FIFA World Cup Group B|transcludesection=B6}}
+
+==Knockout stage==
+{{main|1974 FIFA World Cup knockout stage}}
+The match for third place was the first match in FIFA World Cup history in which a [[Penalty shoot-out (association football)|penalty shoot-out]] could potentially be held (in the event of the score being level after the regular 90 minutes and 30 minutes' extra time). If the teams remained tied in the final after extra time, a replay would be held. Only if the scores remained level during the replay after the regular 90 minutes and 30 minutes' extra time would penalties be used to determine the champion. At all previous World Cup tournaments, the drawing of lots had been foreseen in this situation to split the teams, but it was never used.
+
+''All times listed below are at local time ([[UTC+01:00|UTC+1]])''
+
+===Match for third place===
+{{#lst:1974 FIFA World Cup knockout stage|TPP}}
+
+===Final===
+{{main|1974 FIFA World Cup final}}
+{{#lst:1974 FIFA World Cup final|Final}}
+
+==Goalscorers==
+With seven goals, Grzegorz Lato of Poland was the top scorer in the tournament. In total, 97 goals were scored by 52 players, with two of them credited as own goals and one player scored for and against.
+
+'''7 goals'''
+*{{flagicon|POL|1928}} [[Grzegorz Lato]]
+
+'''5 goals'''
+*{{flagicon|NED}} [[Johan Neeskens]]
+*{{flagicon|POL|1928}} [[Andrzej Szarmach]]
+
+'''4 goals'''
+*{{flagicon|NED}} [[Johnny Rep]]
+*{{flagicon|SWE}} [[Ralf Edström]]
+*{{flagicon|FRG}} [[Gerd Müller]]
+
+'''3 goals'''
+{{colbegin|colwidth=18em}}
+*{{flagicon|ARG|1861}} [[René Houseman]]
+*{{flagicon|BRA|1968}} [[Rivellino]]
+*{{flagicon|NED}} [[Johan Cruyff]]
+*{{flagicon|POL|1928}} [[Kazimierz Deyna]]
+*{{flagicon|FRG}} [[Paul Breitner]]
+*{{flagicon|YUG}} [[Dušan Bajević]]
+{{colend}}
+
+'''2 goals'''
+{{colbegin|colwidth=18em}}
+*{{flagicon|ARG|1861}} [[Héctor Yazalde]]
+*{{flagicon|BRA|1968}} [[Jairzinho]]
+*{{flagicon|GDR}} [[Joachim Streich]]
+*{{flagicon|HAI|1964}} [[Emmanuel Sanon]]
+*{{flagicon|SCO}} [[Joe Jordan (footballer)|Joe Jordan]]
+*{{flagicon|SWE}} [[Roland Sandberg]]
+*{{flagicon|FRG}} [[Wolfgang Overath]]
+*{{flagicon|YUG}} [[Stanislav Karasi]]
+*{{flagicon|YUG}} [[Ivica Šurjak]]
+{{colend}}
+
+'''1 goal'''
+{{colbegin|colwidth=18em}}
+*{{flagicon|ARG|1861}} [[Rubén Ayala]]
+*{{flagicon|ARG|1861}} [[Carlos Babington]]
+*{{flagicon|ARG|1861}} [[Miguel Ángel Brindisi]]
+*{{flagicon|ARG|1861}} [[Ramón Heredia]]
+*{{flagicon|BRA|1965}} [[Valdomiro Vaz Franco|Valdomiro]]
+*{{flagicon|BUL|1971}} [[Hristo Bonev]]
+*{{flagicon|CHI}} [[Sergio Ahumada]]
+*{{flagicon|GDR}} [[Martin Hoffmann (footballer)|Martin Hoffmann]]
+*{{flagicon|GDR}} [[Jürgen Sparwasser]]
+*{{flagicon|ITA|1946}} [[Pietro Anastasi]]
+*{{flagicon|ITA|1946}} [[Romeo Benetti]]
+*{{flagicon|ITA|1946}} [[Fabio Capello]]
+*{{flagicon|ITA|1946}} [[Gianni Rivera]]
+*{{flagicon|NED}} [[Theo de Jong]]
+*{{flagicon|NED}} [[Ruud Krol]]
+*{{flagicon|NED}} [[Rob Rensenbrink]]
+*{{flagicon|POL|1928}} [[Jerzy Gorgoń]]
+*{{flagicon|SCO}} [[Peter Lorimer]]
+*{{flagicon|SWE}} [[Conny Torstensson]]
+*{{flagicon|URU}} [[Ricardo Pavoni]]
+*{{flagicon|FRG}} [[Rainer Bonhof]]
+*{{flagicon|FRG}} [[Bernhard Cullmann]]
+*{{flagicon|FRG}} [[Jürgen Grabowski]]
+*{{flagicon|FRG}} [[Uli Hoeneß]]
+*{{flagicon|YUG}} [[Vladislav Bogićević]]
+*{{flagicon|YUG}} [[Dragan Džajić]]
+*{{flagicon|YUG}} [[Josip Katalinski]]
+*{{flagicon|YUG}} [[Branko Oblak]]
+*{{flagicon|YUG}} [[Ilija Petković]]
+{{colend}}
+
+'''Own goals'''
+*{{flagicon|ARG|1861}} [[Roberto Perfumo]] (for Italy)
+*{{flagicon|AUS}} [[Colin Curran]] (for East Germany)
+*{{flagicon|NED}} [[Ruud Krol]] (for Bulgaria)
+
+==FIFA retrospective ranking==
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref>{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc_mexico_1986_en_part4_279.pdf |archive-url=https://web.archive.org/web/20100614213621/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |url-status=dead |archive-date=14 June 2010 |title=page 45 |access-date=28 October 2011}}</ref><ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]] |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |url-status=dead |date=26 March 2013}}</ref> The rankings for the 1974 tournament were as follows:
+
+{| class="wikitable" style="font-size:95%;text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals For}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal Difference}}
+!width=25| {{abbr|Pts.|Points}}
+|- style="background:gold"
+| 1 || style="text-align:left"|{{fb|FRG}} || [[#Group 1|1]]/[[#Group B|B]] || 7 || 6 || 0 || 1 || 13 || 4 || +9 || '''12'''
+|- style="background:silver"
+| 2 || style="text-align:left"|{{fb|NED}} || [[#Group 3|3]]/[[#Group A|A]] || 7 || 5 || 1 || 1 || 15 || 3 || +12 || '''11'''
+|- style="background:#c96"
+| 3 || style="text-align:left"|{{fb|POL|1928}} || [[#Group 4|4]]/[[#Group B|B]] || 7 || 6 || 0 || 1 || 16 || 5 || +11 || '''12'''
+|- style="background:gray"
+| 4 || style="text-align:left"|{{fb|BRA|1968}} || [[#Group 2|2]]/[[#Group A|A]] || 7 || 3 || 2 || 2 || 6 || 4 || +2 || '''8'''
+|-
+| colspan="11"| '''Eliminated in the second group stage'''
+|-
+| 5 || style="text-align:left"|{{fb|SWE}} || [[#Group 3|3]]/[[#Group B|B]] || 6 || 2 || 2 || 2 || 7 || 6 || +1 || '''6'''
+|-
+| 6 || style="text-align:left"|{{fb|GDR}} || [[#Group 1|1]]/[[#Group A|A]] || 6 || 2 || 2 || 2 || 5 || 5 || 0 || '''6'''
+|-
+| 7 || style="text-align:left"|{{fb|YUG}} || [[#Group 2|2]]/[[#Group B|B]] || 6 || 1 || 2 || 3 || 12 || 7 || +5 || '''4'''
+|-
+| 8 || style="text-align:left"|{{fb|ARG|1861}} || [[#Group 4|4]]/[[#Group A|A]] || 6 || 1 || 2 || 3 || 9 || 12 || −3 || '''4'''
+|-
+| colspan="11"| '''Eliminated in the first group stage'''
+|-
+| 9 || style="text-align:left"|{{fb|SCO}} || [[#Group 2|2]] || 3 || 1 || 2 || 0 || 3 || 1 || +2 || '''4'''
+|-
+| 10 || style="text-align:left"|{{fb|ITA|1946}} || [[#Group 4|4]] || 3 || 1 || 1 || 1 || 5 || 4 || +1 || '''3'''
+|-
+| 11 || style="text-align:left"|{{fb|CHI}} || [[#Group 1|1]] || 3 || 0 || 2 || 1 || 1 || 2 || −1 || '''2'''
+|-
+| 12 || style="text-align:left"|{{fb|BUL|1971}} || [[#Group 3|3]] || 3 || 0 || 2 || 1 || 2 || 5 || −3 || '''2'''
+|-
+| 13 || style="text-align:left"|{{fb|URU}} || [[#Group 3|3]] || 3 || 0 || 1 || 2 || 1 || 6 || −5 || '''1'''
+|-
+| 14 || style="text-align:left"|{{fb|AUS}} || [[#Group 1|1]] || 3 || 0 || 1 || 2 || 0 || 5 || −5 || '''1'''
+|-
+| 15 || style="text-align:left"|{{fb|HAI|1964}} || [[#Group 4|4]] || 3 || 0 || 0 || 3 || 2 || 14 || −12 || '''0'''
+|-
+| 16 || style="text-align:left"|{{fb|ZAI}} || [[#Group 2|2]] || 3 || 0 || 0 || 3 || 0 || 14 || −14 || '''0'''
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1974|1974 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/1974germany 1974 FIFA World Cup Germany], FIFA.com
+*[https://web.archive.org/web/20111220060217/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/65/wc%5f74%5ftr%5f312.pdf FIFA Technical Report]
+*[https://www.rsssf.org/tables/74full.html Details at RSSSF]
+
+{{Portal bar|1970s|Association football|Germany}}
+{{1974 FIFA World Cup}}
+{{1974 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1974 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1974]]
+[[Category:1974 in men's international association football|World Cup]]
+[[Category:1973–74 in West German football]]
+<!--[[Category:1974–75 in West German football]]-->
+[[Category:Men's international association football competitions hosted by West Germany|1974]]
+[[Category:International sports competitions hosted in West Berlin|1974]]
+[[Category:June 1974 sports events in Europe]]
+[[Category:July 1974 sports events in Europe]]

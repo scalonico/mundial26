@@ -1,0 +1,599 @@
+{{Short description|Association football tournament in Argentina}}
+{{redirect|1978 World Cup|the golf competition|1978 World Cup (men's golf)}}
+{{More citations needed|date=October 2025}}
+{{Use British English|date=December 2025}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox international football competition
+| tourney_name = FIFA World Cup
+| year = 1978
+| other_titles = {{native name|es|Copa Mundial de Fútbol<br/>Argentina '78}}
+| image = Logo Mundial 78.svg
+| size = 200px
+| country = Argentina
+| dates = 1–25 June
+| confederations = 5
+| num_teams = 16
+| venues = 6
+| cities = 5
+| champion = Argentina
+| champion-flagvar=1861
+| count = 1
+| second = Netherlands
+| third = Brazil
+| third-flagvar = 1968
+| fourth = Italy
+| fourth-flagvar = 1946
+| matches = 38
+| goals = 102
+| attendance = {{#invoke:Football attendance summation|main|groups=1-4|groups2=A-B}}
+| top_scorer = {{fbicon|ARG|1861}} [[Mario Kempes]] (6 goals)
+| player     = {{fbicon|ARG|1861}} Mario Kempes<ref>{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/13/fwc_spain_1982_en_part3_285.pdf|title=1982 FIFA World Cup Technical Report|publisher=FIFA Technical Group|year=1982|ref=82tech|archive-url=https://web.archive.org/web/20100106062858/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/13/fwc%5fspain%5f1982%5fen%5fpart3%5f285.pdf|archive-date=6 January 2010}}</ref>
+| young_player = {{fbicon|ITA|1946}} [[Antonio Cabrini]]<ref name="awards">{{cite web |title=1978 FIFA World Cup Argentina – Awards |url=https://www.fifa.com/worldcup/archive/argentina1978/awards/index.html |archive-url=https://web.archive.org/web/20150307173827/http://www.fifa.com/worldcup/archive/argentina1978/awards/index.html |url-status=dead |archive-date=7 March 2015 |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=3 February 2019 }}</ref>
+| fair_play = {{fb|ARG|1861}}<ref name="awards"/>
+| prevseason = [[1974 FIFA World Cup|1974]]
+| nextseason = [[1982 FIFA World Cup|1982]]
+}}
+
+The '''1978 FIFA World Cup''' was the 11th edition of the [[FIFA World Cup]], the [[Anniversary#Latin-derived numerical names|quadrennial]] international [[Association football|football]] world championship tournament among the men's senior national teams. It was held in Argentina between 1 and 25 June.
+
+The tournament was won by the host nation, [[Argentina national football team|Argentina]], who defeated the [[Netherlands national football team|Netherlands]] 3–1 in the final, after [[Overtime (sports)#Association football|extra time]]. The final was held at [[Club Atlético River Plate|River Plate]]'s home stadium, [[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], in the Argentine capital of [[Buenos Aires]]. This win was the first World Cup title for Argentina, who became the fifth team (after [[Uruguay national football team|Uruguay]], [[Italy national football team|Italy]], [[England national football team|England]], and [[Germany national football team|West Germany]]) to be both hosts and world champions and the third South American team to win the World Cup. Argentina, the Netherlands, and Brazil were the gold, silver, and bronze medalists, respectively.
+
+[[Iran national football team|Iran]] and [[Tunisia national football team|Tunisia]] made their first appearances in the tournament. The defending champions, [[Germany national football team|West Germany]], were eliminated in the second round (finishing third in their group). This was also the last World Cup tournament to use the original inclusion of 16 teams. Since the first World Cup in [[1930 FIFA World Cup|1930]], only 15 teams (plus the host, who automatically qualified) had been allowed to qualify (the reigning title holders also received automatic qualification from 1934 through 2002); but for the next World Cup, [[1982 FIFA World Cup|in Spain]], FIFA expanded that tournament to 24 teams.
+
+This tournament was marred by flagrant controversy, domestic politics, and alleged interference and match-fixing by the [[National Reorganization Process|Argentine authoritarian military junta government]] that was [[Sportswashing|using this tournament as an opportunity]] for nationalistic propaganda and for seeking legitimacy on the world stage.<ref>{{cite web |url=https://www.theguardian.com/football/in-bed-with-maradona/2017/jul/05/1978-world-cup-argentina-political-protest-goalposts |title=The political message hidden on the goalposts at the 1978 World Cup |work=The Guardian |last=Forrest |first=David |date=5 July 2017 |access-date=30 June 2021 |archive-date=20 April 2021 |archive-url=https://web.archive.org/web/20210420172310/https://www.theguardian.com/football/in-bed-with-maradona/2017/jul/05/1978-world-cup-argentina-political-protest-goalposts |url-status=live }}</ref> During the months before the start of the World Cup, the junta was intending to dismantle those who were against them and mitigate criticism from the public on their policies.<ref name=":02">{{Cite journal |last=Smith |first=B.L. |date=March 2002 |title=The Argentinian Junta and the Press in the Run-up to the 1978 World Cup |url=http://www.tandfonline.com/doi/full/10.1080/714004869 |journal=Soccer & Society |language=en |volume=3 |issue=1 |pages=69–78 |doi=10.1080/714004869 |issn=1466-0970|url-access=subscription }}</ref> The official match ball was the [[Adidas Tango|Adidas Tango Durlast]].
+
+==Host selection==
+{{main|FIFA World Cup hosts}}
+Argentina was chosen as the host nation by FIFA on 6 July 1966 in London, England, when the hosts for [[1974 FIFA World Cup|1974]], 1978 and [[1982 FIFA World Cup|1982]] editions were chosen. Mexico withdrew from the bidding process after having been awarded the [[1970 FIFA World Cup|1970 event]] two years earlier.
+
+[[File:Palco de Perón (a color!).jpg|thumbnail|upright|The gesture by [[Juan Domingo Perón]] which inspired the tournament logo.]]
+The logo is based on [[President of Argentina|President]] [[Juan Perón]]'s signature gesture: a salute to the crowd with both arms extended above his head. This was one of the most famous, populist images of Perón. The design was created in 1974, two years prior to the [[1976 Argentine coup d'état|military coup in 1976]]. The military leadership were aware that the World Cup's logo symbolised Perón's gesture, and they tried to change the competition's logo. At this point, the design was already broadly commercialised and the merchandise had already been made: a forced modification "would trigger a sea of lawsuits against the country", so the military had no option but to give up their attempts and leave it.<ref>Pablo Llonto, ''"I Mondiali della vergogna. I campionati di Argentina '78 e la dittatura"''(''"The World Cup of the Shame. Argentina '78 and the dictatorship"''), Edizioni Alegre, Rome 2010, p. 38.</ref>
+
+The monetary cost of preparing to host the World Cup was put at $700 million, including building three new stadia and redeveloping three others; building five press centres; a new communications system costing $100 million; and improvements to transport systems.<ref name=Col/>
+
+==Qualification==
+{{main|1978 FIFA World Cup qualification}}
+[[File:1978 world cup qualification.png|thumb|300px|{{legend|#000cff|Countries that qualified for World Cup}} {{legend|#ffb400|Countries that failed to qualify}} {{legend|black|Countries that did not enter}} {{legend|#ababab|Non-FIFA members}}]]
+
+Newcomers to the finals were Iran and Tunisia; Austria qualified for the first time since 1958, while France, Spain and Hungary were back for the first time since 1966. Peru and Mexico returned after missing the 1974 tournament. For the first time, more than 100 nations entered the competition.<ref>{{cite web |title=1978 FIFA World Cup Argentina Preliminaries |url=https://www.fifa.com/tournaments/archive/worldcup/argentina1978/preliminaries/index.html |archive-url=https://web.archive.org/web/20131220191723/http://www.fifa.com/tournaments/archive/worldcup/argentina1978/preliminaries/index.html |url-status=dead |archive-date=20 December 2013 |publisher=FIFA}}</ref>
+
+===List of teams qualifying===
+The following 16 teams qualified for the final tournament:
+{{col-begin}}
+{{col-4}}
+;[[1978 FIFA World Cup qualification (AFC and OFC)|AFC]] (1)
+* {{fb|IRN|1964}} (debut)
+;[[1978 FIFA World Cup qualification (CAF)|CAF]] (1)
+* {{fb|TUN|1959}} (debut)
+;[[1978 FIFA World Cup qualification (AFC and OFC)|OFC]] (0)
+: ''None qualified''
+{{col-4}}
+;[[1978 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (1)
+* {{fb|MEX}}
+;[[1978 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (3)
+* {{fb|ARG|1861}}&nbsp;(hosts)
+* {{fb|BRA|1968}}
+* {{fb|PER}}
+{{col-4}}
+;[[1978 FIFA World Cup qualification (UEFA)|UEFA]] (10)
+* {{fb|AUT}}
+* {{fb|FRA|1974}}
+* {{fb|HUN|1957}}
+* {{fb|ITA|1946}}
+* {{fb|NED}}
+* {{fb|POL|1928}}
+* {{fb|SCO}}
+* {{fb|ESP|1977}}
+* {{fb|SWE}}
+* {{fb|FRG}} (holders)
+
+{{col-4}}
+{{col-end}}
+
+==Format==
+The format of the competition stayed the same as in [[1974 FIFA World Cup|1974]]: Sixteen (16) teams qualified, divided into four groups of four. Each group played a [[Round-robin tournament|round-robin]] with two points for a win and one for a draw, and goal difference used to separate teams level on points. The top two teams in each group advanced to the second round, where they were split into two groups of four. The winners of each group played each other in the final, and the second-place finishers in the match for third place.
+
+==Summary==
+[[File:1978 world cup.png|thumb|300px|{{legend|#2b42a3|Champion}} {{legend|#34c0be|Runner-up}} {{legend|#269c5a|Third place}} {{legend|#81c846|Fourth place}} {{legend|#f4d4ac|Second round}} {{legend|#b94954|First round}}]]
+
+===First round===
+The first round produced several surprises. [[Poland national football team|Poland]] won Group 2 ahead of world champions [[Germany national football team|West Germany]], after holding the Germans to a goalless draw and then beating [[Tunisia national football team|Tunisia]] and [[Mexico national football team|Mexico]]. The Germans then beat Mexico 6–0, and finally played out a second goalless draw against Tunisia. Although they failed to qualify for the second round, Tunisia made history by beating Mexico 3–1 while trailing 0–1 at half time. It was the first time that any African team had won a match at the World Cup finals.
+
+[[Peru national football team|Peru]] pushed the [[Netherlands national football team|Netherlands]] into second place in Group 4, where [[Scotland national football team|Scotland]] missed out on goal difference for the second successive tournament. [[Teófilo Cubillas]] was outstanding for Peru, scoring twice against Scotland in Peru's 3–1 win and hitting a hat-trick in their 4–1 victory over newcomers [[Iran national football team|Iran]]. [[Rob Rensenbrink]] of the Netherlands also scored three times against Iran, scoring all the goals as the Dutch won 3–0. Scotland drew with Iran 1–1 and the only highlight of their campaign was a 3–2 victory over the Netherlands in their final group game which was not enough to prevent elimination. Iran, the reigning [[1976 AFC Asian Cup|Asian champions]], went out of the tournament winless. Rensenbrink's goal against [[Scotland national football team|Scotland]] was the 1000th goal of World Cup history. Scotland's [[Willie Johnston]] was expelled from the World Cup after he was found to have taken a banned stimulant during the opening game against [[Peru national football team|Peru]].
+
+The biggest surprise of all came in Group 3, where [[Austria national football team|Austria]] finished ahead of [[Brazil national football team|Brazil]]. The Austrians beat [[Spain men's national football team|Spain]] and [[Sweden men's national football team|Sweden]], while Brazil were held to draws by the same two teams. The draw between Brazil and Sweden was especially controversial; Welsh referee [[Clive Thomas (football)|Clive Thomas]] awarded Brazil a very late corner kick, and [[Zico (footballer)|Zico]] directly headed the kick into the net; but Thomas blew for time before Zico made contact with the ball, and the goal was disallowed. The Brazilian players were not happy with the decision, but the final result remained a 1–1 draw. Heading into their final group game, Brazil needed to beat Austria to be certain of advancing to the second round and managed a 1–0 win thanks to a goal from [[Roberto Dinamite]]. Brazil and Austria thus finished with the same number of points and the same goal difference, but Austria won the group by virtue of having scored more goals.
+
+Group 1 had the strongest line-up of teams in the first round, featuring [[Italy national football team|Italy]], the host [[Argentina national football team|Argentina]], [[France national football team|France]] and [[Hungary national football team|Hungary]]. The two places in the second round were claimed before the final round of games, with Italy and Argentina both beating France and Hungary. The match between Italy and Argentina decided who topped the group, and a goal from [[Roberto Bettega]] midway through the second half was enough to give that honour to Italy. It also forced Argentina to move out of Buenos Aires and play in [[Rosario]].
+
+The 1978 World Cup marked the fourth and last occasion during which a national team did not wear its own kit to play a match (the first being in the [[1934 World Cup]] match for third place between Germany and Austria; the second in the [[1950 World Cup]] first round match between Switzerland and Mexico and the third in the [[1958 World Cup]] first round match between West Germany and Argentina). The incident happened during the game between France and Hungary. Both teams arrived at the venue with only their white change kits, resulting in a delayed kickoff while officials went in search of the jerseys of a local team from Mar del Plata, [[Club Atlético Kimberley]]; the jerseys had vertical green and white stripes and were worn by France.
+
+===Second round===
+In the all-European Group A, the Netherlands got off to a flying start by thrashing Austria 5–1, Johnny Rep scoring two of their goals. In a rematch of the 1974 final, the Dutch then drew 2–2 with West Germany, who had previously shared a goalless game with Italy. The Italians beat Austria 1–0, and so the Netherlands faced Italy in their last group game knowing that the winners would reach the final. Ernie Brandts scored an 18th-minute own goal to put Italy ahead at half-time, but he made up for his mistake by scoring at the right end in the fifth minute of the second half. Arie Haan got the winner for the Dutch with 15 minutes remaining, and the Netherlands had reached their second successive World Cup Final. In the game known as the [[miracle of Cordoba]], West Germany were surprisingly beaten by Austria 2–3 which marked their end as World Champions.
+
+Group B was essentially a battle between Argentina and Brazil, and it was resolved in controversial circumstances. In the first round of group games, Brazil beat Peru 3–0 while Argentina saw Poland off by a score of 2–0. Brazil and Argentina then played out a tense and violent goalless draw, so both teams went into the last round of matches with three points. Argentina delayed the kick-off of its last match to await the result of the Brazil-Poland encounter. Brazil won by a 3–1 score, meaning Argentina had to beat Peru by four clear goals to reach the final but they managed to do it. Trailing 2–0 at half-time, Peru simply collapsed in the second half, and Argentina eventually won 6–0. As previously noted, rumours suggested that Peru might have been bribed or threatened into allowing Argentina to win the match by such a large margin. However, nothing could be proved, and Argentina met the Netherlands in the final. Brazil took third place from an enterprising Italian side with [[Nelinho]] scoring a memorable goal, and were dubbed "moral champions" by coach [[Cláudio Coutinho]], because they did not win the tournament, but did not lose a single match.
+
+===Final===
+The [[1978 FIFA World Cup Final|final]], Argentina vs Netherlands, was also controversial, as the Dutch accused the Argentines of using stalling tactics to delay the match. The host team came out late and questioned the legality of a plaster cast on [[René van de Kerkhof]]'s wrist, which the Dutch said allowed tension to build in front of a hostile [[Buenos Aires]] crowd. [[Mario Kempes]] opened the scoring for the hosts before [[Dick Nanninga]] equalised a few minutes from the end. [[Rob Rensenbrink]] had a glorious stoppage-time opportunity to win it for the Netherlands but his effort came back off the goal post. Argentina won the final 3–1 [[extra time|after extra time]], after [[Daniel Bertoni]] scored and Kempes, who finished as the tournament's top scorer with six goals, added his second of the day. The Netherlands, because of the controversial game events, refused to attend the post-match ceremonies after the match ended.<ref>{{cite news| url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/04/philjones_04/ | archive-url=https://web.archive.org/web/20020210064841/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/04/philjones_04/ | url-status=dead | archive-date=10 February 2002 |title=The Netherlands pay back controversial loss to Argentina | work=CNN | access-date=20 April 2010 | date=4 July 1998}}</ref> They had lost their second consecutive World Cup final, both times to the host nation, after losing to West Germany in 1974. Argentina won 5 games but became the first team to win the World Cup after failing to win two matches, where they had lost to Italy in the first round and drawn with Brazil in the second round. Four years later, Italy would win the next World Cup despite failing to win three games.
+
+==Mascot==
+The [[FIFA World Cup mascots|official mascot]] of this World Cup was ''Gauchito'', a boy wearing an Argentina kit. His hat (with the words ARGENTINA '78), [[neckerchief]], and [[whip]] are typical of [[gaucho]]s.<ref>{{Cite web |date=2025-09-25 |title=The history of World Cup mascots |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mascots-history |access-date=2026-07-16 |website=FIFA |archive-date=20 July 2026 |archive-url=https://web.archive.org/web/20260720115148/https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mascots-history |url-status=live }}</ref>
+
+==Venues==
+
+In 1972, eight venues were preselected; six that were used for the finals, plus [[La Plata]] and [[Tucuman]]. La Plata, the city of the diagonals, promised a "one-of-a-kind stadium" but by 1974 it was scrapped by internal bids. The [[Estadio Ciudad de La Plata|La Plata Stadium]] was finally completed in 2003. In the case of Tucuman, an ambitious stadium of 70,000 spectators had been promised in Horco Molle, similar to the current [[El Cilindro|Racing Club Stadium]], along with the roof. The Tucuman venue was temporarily suspended in 1974 and was decommissioned the following year, given the intensity of the actions of the guerrillas and the Armed Forces in the province.<ref>{{cite web|url=https://www.lagaceta.com.ar/nota/256085/Deportes/Al_sue%F1o_Tucuman_lo_invadio_frustracion.html|title=Al sueño de Tucumán lo invadió la frustración|author=Jon|date=4 February 2008|access-date=5 February 2020|archive-date=5 February 2020|archive-url=https://web.archive.org/web/20200205124023/https://www.lagaceta.com.ar/nota/256085/Deportes/Al_sue%25F1o_Tucuman_lo_invadio_frustracion.html|url-status=live}}</ref> Three new stadiums were built ([[Estadio Mario Alberto Kempes|Olympic Stadium]] in [[Córdoba, Argentina|Córdoba]]; [[Estadio José María Minella|World Cup Stadium]] in [[Mar del Plata]]; and [[Estadio Malvinas Argentinas|Mendoza City Stadium]] in [[Mendoza, Argentina|Mendoza]]) and the other three were remodelled.<ref name=Col>{{cite magazine|magazine=[[World Soccer (magazine)|World Soccer]]|title=1986 – World Cup without a home?|last=Maier|first=Hanns J|pages=24–25|date=June 1979}}</ref>
+
+Of the six venues used, the River Plate Stadium in Buenos Aires was the largest and most used venue, hosting nine total matches, including the final. The Olympic Stadium in Cordoba hosted eight matches, the stadiums in Mendoza, Rosario and Mar del Plata each hosted six matches and José Amalfitani Stadium in Buenos Aires hosted three matches — bringing the Argentine capital and largest city's total to 12 — nearly a third of all the matches played. The World Cup Stadium in Mar del Plata was heavily criticised due to its terrible pitch, which was deemed "nearly unplayable"; whereas the Amalfitani stadium in Buenos Aires, which was refurbished with the completion of press boxes and another section of upper stands but was the least used stadium for the tournament, was praised for its very good pitch.<ref>{{cite web|url=http://www.stadiumguide.com/joseamalfitani/|title=Estadio José Amalfitani|date=22 March 2019|publisher=The Stadium Guide|access-date=26 July 2020|archive-date=2 November 2019|archive-url=https://web.archive.org/web/20191102233801/http://www.stadiumguide.com/joseamalfitani/|url-status=live}}</ref><ref>{{Cite web |url=https://www.youtube.com/watch?v=EtRTScx8qJ4 |title=YouTube |website=[[YouTube]] |access-date=12 June 2015 |archive-url=https://web.archive.org/web/20160102053518/https://www.youtube.com/watch?v=EtRTScx8qJ4 |archive-date=2 January 2016 |url-status=dead |df=dmy-all }}</ref> Brazil was forced by tournament organisers to play all three of its first group matches in Mar del Plata; there had been rumours and allegations of the organisers deliberately sabotaging the Minella stadium's pitch to weaken Brazil's chances of success.
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=2| [[Buenos Aires]]
+! [[Córdoba, Argentina|Córdoba]]
+|-
+| [[Estadio Monumental (Buenos Aires)|River Plate Stadium]]
+| [[José Amalfitani Stadium]]
+| [[Estadio Mario Alberto Kempes|Olympic Stadium]]
+|-
+| Capacity: '''74,624'''
+| Capacity: '''49,318'''
+| Capacity: '''46,986'''
+|-
+| [[File:Estadio Monumental Mundial 78.jpg|250x250px]]
+| [[File:EstadioVelez1985.png|250x250px]]
+| [[File:Estadio Olímpico de Córdoba 1978.jpg|250x250px]]
+|-
+! [[Mar del Plata]]
+! rowspan="8", colspan="2"|{{location map+ |Argentina |width=270 |float=center|caption= |places=
+{{location map~|Argentina|lat=-34.6039|long=-58.3814 |label=[[Buenos Aires]] |mark=Blue pog.svg|marksize=10|position=bottom}}
+{{location map~|Argentina|lat=-31.4167|long=-64.1833 |label=[[Córdoba, Argentina|Córdoba]] |position=top}}
+{{location map~|Argentina|lat=-38.0179|long=-57.5823 |label=[[Mar del Plata]] |position=bottom}}
+{{location map~|Argentina|lat=-32.9575|long=-60.6394 |label=[[Rosario, Argentina|Rosario]] |position=left}}
+{{location map~|Argentina|lat=-32.8897|long=-68.8444|label=[[Mendoza, Argentina|Mendoza]] |position=left| }}
+}}
+|-
+| [[Estadio José María Minella|World Cup Stadium]]
+|-
+| Capacity: '''43,542'''
+|-
+| [[File:Estadio mundialista minella 1978.jpg|250x250px]]
+|-
+! [[Rosario, Santa Fe|Rosario]]
+|-
+| [[Estadio Gigante de Arroyito|Rosario Central Stadium]]
+|-
+| Capacity: '''45,645'''
+|-
+| [[File:Postal 1978-2.JPG|250x250px]]
+|-
+! [[Mendoza, Argentina|Mendoza]]
+! rowspan="4", colspan="2"|Stadiums in Buenos Aires{{location map+ |Argentina Buenos Aires |width=240 |float=center|caption= |places=
+{{location map~|Argentina Buenos Aires |lat=-34.5453|long=-58.4498 |label=[[Estadio Monumental (Buenos Aires)|River Plate]] |position=right}}
+{{location map~|Argentina Buenos Aires |lat=-34.6354|long=-58.5207 |label=[[José Amalfitani Stadium|Amalfitani]] |position=right}}
+}}
+|-
+| [[Estadio Malvinas Argentinas|Mendoza City Stadium]]
+|-
+| Capacity: '''34,954'''
+|-
+| [[File:Estadio Malvinas Argentinas en 1978.jpg|250x250px]]
+|}
+
+==Match officials==
+;AFC
+{{colbegin|colwidth=18em}}
+*{{fbaicon|SYR|1972}} [[Farouk Bouzo]]
+*{{fbaicon|IRN|1964}} [[Jafar Namdar]]
+*{{fbaicon|ISR}} [[Abraham Klein (referee)|Abraham Klein]]
+{{colend}}
+;CAF
+*{{fbaicon|SEN}} [[Youssou N'Diaye]]
+;CONCACAF
+*{{fbaicon|MEX}} [[Alfonso González Archundia]]
+;CONMEBOL
+{{colbegin|colwidth=18em}}
+*{{fbaicon|URU}} [[Ramón Barreto]]
+*{{fbaicon|BRA|1968}} [[Arnaldo Cézar Coelho]]
+*{{fbaicon|ARG|1861}} [[Ángel Norberto Coerezza]]
+*{{fbaicon|PER}} [[César Orosco]]
+*{{fbaicon|CHI}} [[Juan Silvagno]]
+{{colend}}
+;UEFA
+{{colbegin|colwidth=18em}}
+*{{fbaicon|FRG}} [[Ferdinand Biwersi]]
+*{{fbaicon|NED}} [[Charles Corver]]
+*{{fbaicon|SUI}} [[Jean Dubach]]
+*{{fbaicon|SWE}} [[Ulf Eriksson (referee)|Ulf Eriksson]]
+*{{fbaicon|POR}} [[António Garrido (referee)|António Garrido]]
+*{{fbaicon|SCO}} [[John Gordon (referee)|John Gordon]]
+*{{fbaicon|ITA|1946}} [[Sergio Gonella]]
+*{{fbaicon|POL|1928}} [[Alojzy Jarguz]]
+*{{fbaicon|AUT}} [[Erich Linemayr]]
+*{{fbaicon|YUG}} [[Dušan Maksimović]]
+*{{fbaicon|ESP|1977}} [[Ángel Franco Martínez]]
+*{{fbaicon|HUN}} [[Károly Palotai]]
+*{{fbaicon|ENG}} [[Pat Partridge]]
+*{{fbaicon|GDR}} [[Adolf Prokop]]
+*{{fbaicon|ROU|1965}} [[Nicolae Rainea]]
+*{{fbaicon|BEL}} [[Francis Rion]]
+*{{fbaicon|WAL}} [[Clive Thomas (football)|Clive Thomas]]
+*{{fbaicon|FRA|1974}} [[Robert Wurtz (referee)|Robert Wurtz]]
+{{colend}}
+
+==Squads==
+For a list of all squads that appeared in the final tournament, see ''[[1978 FIFA World Cup squads]]''.
+
+==Seeding==
+
+{| class="wikitable" style="width:98%;"
+|-
+!width=20%| Pot 1
+!width=25%| Pot 2
+!width=25%| Pot 3
+!width=25%| Pot 4
+|- 
+| valign="top"|
+*{{fb|ARG|1861}} (hosts)
+*{{fb|FRG}} {{nowrap|(defending champions)}}
+*{{fb|NED}} {{nowrap|(1974 runners-up)}}
+*{{fb|BRA|1968}}
+| valign="top"|
+*{{fb|ITA|1946}}
+*{{fb|SWE}}
+*{{fb|MEX}}
+*{{fb|PER}}
+| valign="top"|
+*{{fb|HUN}}
+*{{fb|POL|1928}}
+*{{fb|SCO}}
+*{{fb|ESP|1977}}
+| valign="top"|
+*{{fb|AUT}}
+*{{fb|FRA|1974}}
+*{{fb|IRN|1964}}
+*{{fb|TUN|1959}}
+|}
+
+==First group stage==
+
+===Group 1===
+{{Main|1978 FIFA World Cup Group 1}}
+[[file:France kimberley shirt v hungary 1978.jpg|thumb|230px|France (wearing local Club Kimberley shirt) v Hungary]]
+{{:1978 FIFA World Cup Group 1|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1978 FIFA World Cup Group 1|transcludesection=1-1}}
+{{:1978 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1978 FIFA World Cup Group 1|transcludesection=1-3}}
+{{:1978 FIFA World Cup Group 1|transcludesection=1-4}}
+----
+{{:1978 FIFA World Cup Group 1|transcludesection=1-5}}
+{{:1978 FIFA World Cup Group 1|transcludesection=1-6}}
+
+===Group 2===
+{{Main|1978 FIFA World Cup Group 2}}
+[[File:Tunisia_football_team_1978.jpg|alt=|thumb|200x200px|Tunisia at the 1978 FIFA World Cup qualification in [[Cairo]].]]
+{{:1978 FIFA World Cup Group 2|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1978 FIFA World Cup Group 2|transcludesection=2-1}}
+{{:1978 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1978 FIFA World Cup Group 2|transcludesection=2-3}}
+{{:1978 FIFA World Cup Group 2|transcludesection=2-4}}
+----
+{{:1978 FIFA World Cup Group 2|transcludesection=2-5}}
+{{:1978 FIFA World Cup Group 2|transcludesection=2-6}}
+
+===Group 3===
+{{Main|1978 FIFA World Cup Group 3}}
+{{:1978 FIFA World Cup Group 3|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1978 FIFA World Cup Group 3|transcludesection=3-1}}
+{{:1978 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1978 FIFA World Cup Group 3|transcludesection=3-3}}
+{{:1978 FIFA World Cup Group 3|transcludesection=3-4}}
+----
+{{:1978 FIFA World Cup Group 3|transcludesection=3-5}}
+{{:1978 FIFA World Cup Group 3|transcludesection=3-6}}
+
+===Group 4===
+{{Main|1978 FIFA World Cup Group 4}}
+[[File:WC78 PER-SCO 2.jpg|thumb|right|200px|[[Teófilo Cubillas]]'s free kick for a Peru goal v Scotland]]
+{{:1978 FIFA World Cup Group 4|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1978 FIFA World Cup Group 4|transcludesection=4-1}}
+{{:1978 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1978 FIFA World Cup Group 4|transcludesection=4-3}}
+{{:1978 FIFA World Cup Group 4|transcludesection=4-4}}
+----
+{{:1978 FIFA World Cup Group 4|transcludesection=4-5}}
+{{:1978 FIFA World Cup Group 4|transcludesection=4-6}}
+
+==Second group stage==
+
+===Group A===
+{{Main|1978 FIFA World Cup Group A}}
+{{:1978 FIFA World Cup Group A|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1978 FIFA World Cup Group A|transcludesection=A1}}
+{{:1978 FIFA World Cup Group A|transcludesection=A2}}
+----
+{{:1978 FIFA World Cup Group A|transcludesection=A3}}
+{{:1978 FIFA World Cup Group A|transcludesection=A4}}
+----
+{{main|Austria v West Germany (1978 FIFA World Cup)}}
+{{:1978 FIFA World Cup Group A|transcludesection=A5}}
+{{:1978 FIFA World Cup Group A|transcludesection=A6}}
+
+===Group B===
+{{Main|1978 FIFA World Cup Group B}}
+[[File:Kempes mano vs polonia.jpg|thumb|right|170px|[[Mario Kempes]] saving Argentina goal with his hand so the referee awarded a penalty kick to Poland]]
+{{:1978 FIFA World Cup Group B|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1978 FIFA World Cup Group B|transcludesection=B1}}
+{{:1978 FIFA World Cup Group B|transcludesection=B2}}
+----
+{{:1978 FIFA World Cup Group B|transcludesection=B3}}
+{{:1978 FIFA World Cup Group B|transcludesection=B4}}
+----
+{{:1978 FIFA World Cup Group B|transcludesection=B5}}
+{{main|Argentina v Peru (1978 FIFA World Cup)}}
+{{:1978 FIFA World Cup Group B|transcludesection=B6}}
+
+==Knockout stage==
+{{main|1978 FIFA World Cup knockout stage}}
+
+===Match for third place===
+{{#lst:1978 FIFA World Cup knockout stage|TPP}}
+
+===Final===
+{{main|1978 FIFA World Cup final}}
+
+{{#lst:1978 FIFA World Cup final|Final}}
+
+==Statistics==
+===Goalscorers===
+With six goals, Mario Kempes was the top scorer in the tournament. In total, 102 goals were scored by 62 players, with three of them credited as own goals.
+;6 goals
+*{{flagicon|ARG|1861}} [[Mario Kempes]]
+;5 goals
+{{colbegin|colwidth=18em}}
+*{{flagicon|NED}} [[Rob Rensenbrink]]
+*{{flagicon|PER|state}} [[Teófilo Cubillas]]
+{{colend}}
+;4 goals
+{{colbegin|colwidth=18em}}
+*{{flagicon|ARG|1861}} [[Leopoldo Luque]]
+*{{flagicon|AUT}} [[Hans Krankl]]
+{{colend}}
+;3 goals
+{{colbegin|colwidth=18em}}
+*{{flagicon|BRA|1968}} [[Dirceu]]
+*{{flagicon|BRA|1968}} [[Roberto Dinamite]]
+*{{flagicon|ITA|1946}} [[Paolo Rossi]]
+*{{flagicon|NED}} [[Johnny Rep]]
+*{{flagicon|FRG}} [[Karl-Heinz Rummenigge]]
+{{colend}}
+;2 goals
+{{colbegin|colwidth=18em}}
+*{{flagicon|ARG|1861}} [[Daniel Bertoni]]
+*{{flagicon|BRA|1968}} [[Nelinho]]
+*{{flagicon|ITA|1946}} [[Roberto Bettega]]
+*{{flagicon|NED}} [[Ernie Brandts]]
+*{{flagicon|NED}} [[Arie Haan]]
+*{{flagicon|POL|1928}} [[Zbigniew Boniek]]
+*{{flagicon|POL|1928}} [[Grzegorz Lato]]
+*{{flagicon|SCO}} [[Archie Gemmill]]
+*{{flagicon|FRG}} [[Heinz Flohe]]
+*{{flagicon|FRG}} [[Dieter Müller]]
+{{colend}}
+;1 goal
+{{colbegin|colwidth=18em}}
+*{{flagicon|ARG|1861}} [[René Houseman]]
+*{{flagicon|ARG|1861}} [[Daniel Passarella]]
+*{{flagicon|ARG|1861}} [[Alberto Tarantini]]
+*{{flagicon|AUT}} [[Erich Obermayer]]
+*{{flagicon|AUT}} [[Walter Schachner]]
+*{{flagicon|BRA|1968}} [[José Reinaldo de Lima|Reinaldo]]
+*{{flagicon|BRA|1968}} [[Zico (footballer)|Zico]]
+*{{flagicon|FRA|1974}} [[Marc Berdoll]]
+*{{flagicon|FRA|1974}} [[Bernard Lacombe]]
+*{{flagicon|FRA|1974}} [[Christian Lopez (footballer)|Christian Lopez]]
+*{{flagicon|FRA|1974}} [[Michel Platini]]
+*{{flagicon|FRA|1974}} [[Dominique Rocheteau]]
+*{{flagicon|HUN}} [[Károly Csapó]]
+*{{flagicon|HUN}} [[András Tóth (footballer born 1949)|András Tóth]]
+*{{flagicon|HUN}} [[Sándor Zombori]]
+*{{flagicon|IRN|1964}} [[Iraj Danaeifard]]
+*{{flagicon|IRN|1964}} [[Hassan Rowshan]]
+*{{flagicon|ITA|1946}} [[Romeo Benetti]]
+*{{flagicon|ITA|1946}} [[Franco Causio]]
+*{{flagicon|ITA|1946}} [[Renato Zaccarelli]]
+*{{flagicon|MEX}} [[Víctor Rangel (Mexican footballer)|Víctor Rangel]]
+*{{flagicon|MEX}} [[Arturo Vázquez Ayala]]
+*{{flagicon|NED}} [[Dick Nanninga]]
+*{{flagicon|NED}} [[René van de Kerkhof]]
+*{{flagicon|NED}} [[Willy van de Kerkhof]]
+*{{flagicon|PER|state}} [[César Cueto]]
+*{{flagicon|PER|state}} [[José Velásquez (footballer, born 1952)|José Velásquez]]
+*{{flagicon|POL|1928}} [[Kazimierz Deyna]]
+*{{flagicon|POL|1928}} [[Andrzej Szarmach]]
+*{{flagicon|SCO}} [[Kenny Dalglish]]
+*{{flagicon|SCO}} [[Joe Jordan (footballer)|Joe Jordan]]
+*{{flagicon|ESP|1977}} [[Juan Manuel Asensi]]
+*{{flagicon|ESP|1977}} [[Daniel Ruiz|Dani]]
+*{{flagicon|SWE}} [[Thomas Sjöberg]]
+*{{flagicon|TUN|1959}} [[Mokhtar Dhouieb]]
+*{{flagicon|TUN|1959}} [[Néjib Ghommidh]]
+*{{flagicon|TUN|1959}} [[Ali Kaabi]]
+*{{flagicon|FRG}} [[Rüdiger Abramczik]]
+*{{flagicon|FRG}} [[Bernd Hölzenbein]]
+*{{flagicon|FRG}} [[Hansi Müller]]
+{{colend}}
+
+;Own goals
+*{{flagicon|IRN|1964}} [[Andranik Eskandarian]] (against Scotland)
+*{{flagicon|NED}} [[Ernie Brandts]] (against Italy)
+*{{flagicon|FRG}} [[Berti Vogts]] (against Austria)
+
+===Awards (Unofficial winner)===
+A group of journalists and experts selected the best player of the 1978 tournament,<ref name="Mundo Deportivo-1978"/> and their selection is recognised by the [[FIFA]] website. FIFA recognises only this selection besides the [[FIFA World Cup Golden Ball|Golden Ball]] award. [[Hans Krankl]] received the same number of votes as [[Dirceu]] at the time,<ref name="Mundo Deportivo-1978"/> and was not chosen as the third best player by FIFA later.
+
+{| class="wikitable"
+|+Best player<ref name="Mundo Deportivo-1978">{{cite web |url=http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1978/07/17/MD19780717-009.pdf |title=Kempes, el mejor del mundial de forma unánime |publisher=Mundo Deportivo |language=es |date=17 July 1978 |access-date=16 January 2021 |archive-url=https://web.archive.org/web/20210122023552/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1978/07/17/MD19780717-009.pdf |archive-date=22 January 2021 |url-status=live }}</ref>
+!scope=col style="background-color: gold" | Winner
+!scope=col style="background-color: silver" | Runner-up
+!scope=col style="background-color: #cc9966" | Third place
+|-
+|{{fbicon|ARG}} [[Mario Kempes]]<ref name="FIFA-2018">{{cite web |url=https://www.fifa.com/worldcup/news/kempes-the-moustache-had-to-go |title=Kempes: The moustache had to go |publisher=FIFA |date=8 October 2018 |access-date=29 December 2020 |archive-url=https://web.archive.org/web/20200625120940/https://www.fifa.com/worldcup/news/kempes-the-moustache-had-to-go |archive-date=25 June 2020 |url-status=dead }}</ref>
+|{{fbicon|ITA}} [[Paolo Rossi]]<ref name="78WC">{{cite web |url=https://www.fifa.com/tournaments/mens/worldcup/1978argentina |archive-url=https://web.archive.org/web/20220930113242/https://www.fifa.com/tournaments/mens/worldcup/1978argentina |title=1978 FIFA World Cup Argentina™ |access-date=2023-01-02 |archive-date=2022-09-30 |publisher=FIFA}}</ref>
+|{{fbicon|BRA|1889}} [[Dirceu]]<ref name="78WC"/>
+|}
+
+==FIFA retrospective ranking==
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref name="fifa1"/><ref name="fifa2"/> The rankings for the 1978 tournament were as follows:
+
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Result
+|winpoints=2
+|show_groups=y
+|postitle={{abbr|R|Ranking}}
+
+|team1=ARG|name_ARG={{fb|ARG|1861}}|group_ARG=[[#Group 1|1]]/[[#Group B|B]]
+|team2=NED|name_NED={{fb|NED}}|group_NED=[[#Group 4|4]]/[[#Group A|A]]
+|team3=BRA|name_BRA={{fb|BRA|1968}}|group_BRA=[[#Group 3|3]]/[[#Group B|B]]
+|team4=ITA|name_ITA={{fb|ITA|1946}}|group_ITA=[[#Group 1|1]]/[[#Group A|A]]
+|team5=POL|name_POL={{fb|POL|1928}}|group_POL=[[#Group 2|2]]/[[#Group B|B]]
+|team6=FRG|name_FRG={{fb|FRG}}|group_FRG=[[#Group 2|2]]/[[#Group A|A]]
+|team7=AUT|name_AUT={{fb|AUT}}|group_AUT=[[#Group 3|3]]/[[#Group A|A]]
+|team8=PER|name_PER={{fb|PER}}|group_PER=[[#Group 4|4]]/[[#Group B|B]]
+|team9=TUN|name_TUN={{fb|TUN|1959}}|group_TUN=[[#Group 2|2]]
+|team10=ESP|name_ESP={{fb|ESP|1977}}|group_ESP=[[#Group 3|3]]
+|team11=SCO|name_SCO={{fb|SCO}}|group_SCO=[[#Group 4|4]]
+|team12=FRA|name_FRA={{fb|FRA|1974}}|group_FRA=[[#Group 1|1]]
+|team13=SWE|name_SWE={{fb|SWE}}|group_SWE=[[#Group 3|3]]
+|team14=IRN|name_IRN={{fb|IRN|1964}}|group_IRN=[[#Group 4|4]]
+|team15=HUN|name_HUN={{fb|HUN}}|group_HUN=[[#Group 1|1]]
+|team16=MEX|name_MEX={{fb|MEX}}|group_MEX=[[#Group 2|2]]
+|win_ARG=5|draw_ARG=1|loss_ARG=1|gf_ARG=15|ga_ARG=4
+|win_NED=3|draw_NED=2|loss_NED=2|gf_NED=15|ga_NED=10
+|win_BRA=4|draw_BRA=3|loss_BRA=0|gf_BRA=10|ga_BRA=3
+|win_ITA=4|draw_ITA=1|loss_ITA=2|gf_ITA=9|ga_ITA=6
+|win_POL=3|draw_POL=1|loss_POL=2|gf_POL=6|ga_POL=6
+|win_FRG=1|draw_FRG=4|loss_FRG=1|gf_FRG=10|ga_FRG=5
+|win_AUT=3|draw_AUT=0|loss_AUT=3|gf_AUT=7|ga_AUT=10
+|win_PER=2|draw_PER=1|loss_PER=3|gf_PER=7|ga_PER=12
+|win_TUN=1|draw_TUN=1|loss_TUN=1|gf_TUN=3|ga_TUN=2
+|win_ESP=1|draw_ESP=1|loss_ESP=1|gf_ESP=2|ga_ESP=2
+|win_SCO=1|draw_SCO=1|loss_SCO=1|gf_SCO=5|ga_SCO=6
+|win_FRA=1|draw_FRA=0|loss_FRA=2|gf_FRA=5|ga_FRA=5
+|win_SWE=0|draw_SWE=1|loss_SWE=2|gf_SWE=1|ga_SWE=3
+|win_IRN=0|draw_IRN=1|loss_IRN=2|gf_IRN=2|ga_IRN=8
+|win_HUN=0|draw_HUN=0|loss_HUN=3|gf_HUN=3|ga_HUN=8
+|win_MEX=0|draw_MEX=0|loss_MEX=3|gf_MEX=2|ga_MEX=12
+
+|col_1ST=gold|text_1ST=Champion
+|result1=1ST
+|col_2ND=silver|text_2ND=Runners-up
+|result2=2ND
+|col_3RD=#c96|text_3RD=Third place
+|result3=3RD
+|col_4TH=gray|text_4TH=Fourth place
+|result4=4TH
+|col_GS2=inherit|text_GS2=Eliminated<br>in the<br>second group stage
+|result5=GS2|result6=GS2|result7=GS2|result8=GS2
+|col_GS1=inherit|text_GS1=Eliminated<br>in the<br>first group stage
+|result9=GS1|result10=GS1|result11=GS1|result12=GS1
+|result13=GS1|result14=GS1|result15=GS1|result16=GS1
+|update=complete|source=<ref name="fifa1">{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc_mexico_1986_en_part4_279.pdf |archive-url=https://web.archive.org/web/20100614213621/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |url-status=dead |archive-date=14 June 2010 |title=page 45 |access-date=2 March 2012}}</ref><ref name="fifa2">{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]] |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |url-status=dead |date=26 March 2013}}</ref>
+}}
+
+==Controversies==
+===Political turmoil and human rights===
+A controversy surrounding the 1978 World Cup was that only two years prior to the competition the Argentine [[Isabel Perón#Presidency (1974–1976)|government of Isabel Perón]] had been replaced in a [[1976 Argentine coup d'état|coup d'état]] by a military dictatorship known as the [[National Reorganization Process]]. Between the time that the military junta took over government and the time the World Cup started, foreign journalists were concerned about how Argentine newspaper reporters and editors were being treated by the regime, in attempting to get leftist members out of the picture. The new government targeted any parts of society that they saw were trying to undermine them.<ref name=":02"/> Less than a year before the World Cup, in September 1977, Interior Minister General [[Albano Harguindeguy]], stated that [[Disappeared detainees of the Dirty War|5,618 people had recently disappeared]]. The infamous [[Higher School of Mechanics of the Navy]] (known by its acronym ESMA) held concentration camp prisoners of the [[Dirty War]] and those held captive reportedly could hear the roars of the crowd during matches held at River Plate's [[Estadio Monumental (Buenos Aires)|Monumental Stadium]], located only a mile away;<ref>{{cite news |url=https://www.ft.com/content/e6347c16-3f2a-11dd-8fd9-0000779fd2ac|archive-url=https://web.archive.org/web/20100611233444/http://www.ft.com/cms/s/0/e6347c16-3f2a-11dd-8fd9-0000779fd2ac.html|archive-date=11 June 2010|title=But Was This The Beautiful Game's Ugliest Moment?|first=David|last=Winner|newspaper=Financial Times|date=21 June 2008|access-date=15 June 2014}}</ref> prompting comparisons to [[Adolf Hitler]]'s and [[Benito Mussolini]]'s alleged political manipulation of sports during the [[1936 Berlin Olympics]] and [[1934 FIFA World Cup]] respectively.<ref>{{cite news |url=https://www.latimes.com/archives/la-xpm-2008-jun-28-fg-mundial28-story.html |title=Argentina's bittersweet win |newspaper=LA Times |access-date=7 April 2010 |first=Patrick J. |last=McDonnell |date=28 June 2008 |archive-date=25 July 2020 |archive-url=https://web.archive.org/web/20200725015512/https://www.latimes.com/archives/la-xpm-2008-jun-28-fg-mundial28-story.html |url-status=live }}</ref> The junta also practised censorship since it was established, which encouraged less reports on the real situation in Argentina. This was done as an attempt to change the character of the Argentine people.<ref name=":02"/>
+
+During the buildup to the tournament, the military dictatorship viewed the World Cup as a strategic opportunity to legitimise its rule and promote an image of stability amid widespread repression. Scholars argue that the junta spent enormously on stadiums, infrastructure, and propaganda campaigns, not for economic development but to stage an international [[spectacle]] capable of masking state terror.<ref>{{cite book |last=Koller |first=Christian |title=Goal! |publisher=Catholic University of America Press |year=2015 |pages=205 |chapter=Football and Dictatorship |doi=10.2307/j.ctt15zc524.11}}</ref> Government-controlled media portrayed Argentina as peaceful and orderly, while international correspondents later reported censorship, surveillance, and restrictions on movement while covering the event.<ref>{{cite journal |last=Jordan |first=David C. |year=1979 |title=Argentina's Military Commonwealth |journal=Current History |volume=76 |issue=444 |pages=78 |jstor=45314647}}</ref>
+
+Just months before the World Cup, the Argentine regime launched a campaign to silence any disapproval of the government from the people. However, over the course of the tournament, the regime ceased the operation to avoid displaying their authoritarianism and receiving criticism from all over the world, but international newspapers and human rights organisations had already criticised Argentina as host for the next World Cup.<ref>{{Cite journal |last1=Scharpf |first1=Adam |last2=Gläßel |first2=Christian |last3=Edwards |first3=Pearce |date=August 2023 |title=International Sports Events and Repression in Autocracies: Evidence from the 1978 FIFA World Cup |url=https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-sports-events-and-repression-in-autocracies-evidence-from-the-1978-fifa-world-cup/19FA0D5B0DD55259AA6A3E4FEBB7978A |journal=American Political Science Review |language=en |volume=117 |issue=3 |pages=909–926 |doi=10.1017/S0003055422000958 |issn=0003-0554 |url-access=subscription |archive-date=21 April 2024 |access-date=26 April 2024 |archive-url=https://web.archive.org/web/20240421133357/https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-sports-events-and-repression-in-autocracies-evidence-from-the-1978-fifa-world-cup/19FA0D5B0DD55259AA6A3E4FEBB7978A |url-status=live }}</ref>
+
+The presence of ESMA so close to the Monumental Stadium became a powerful symbol of the contradictions of the tournament. Testimonies collected after the dictatorship describe prisoners hearing match-day cheers while torture and interrogations occurred inside the facility.<ref>{{cite journal |last=Robben |first=Antonius C. G. M. |year=2005 |title=How Traumatized Societies Remember: The Aftermath of Argentina's Dirty War |journal=Cultural Critique |issue=59 |pages=130 |jstor=4489199}}</ref> Historians note that these overlapping soundscapes underscore how national celebration and clandestine state violence coexisted during the event, shaping later memory of the World Cup as both a moment of sporting triumph and a period of profound human rights abuse.
+
+The military forces that had control over Argentina at the time wanted to hold that power for as long as they could, but with a different perspective. The use of repression, torture, kidnapping, and assassination was becoming an everyday reality, with 30,000 people murdered between 1976 and 1983, the end of the dictatorship.<ref name=":1">{{Cite book |title=National identity and global sports events: culture, politics, and spectacle in the Olympics and the football World Cup |date=2006 |publisher=State University of New York Press |isbn=978-0-7914-6615-5 |editor-last=Tomlinson |editor-first=Alan |series=SUNY series on sport, culture, and social relations |location=Albany, NY |editor-last2=Young |editor-first2=Christopher}}</ref> People wondered why FIFA would allow the World Cup to go on under these circumstances and that 15 other countries, most of which are old democracies, would participate in the tournament. However, it is simply because of the dominant notion that football or soccer, or any sport for that matter, belong to civil society, giving the assumption that state policies wouldn't interfere with the passion and enthusiasm of fans.<ref name=":1" />
+
+Civil society groups, most notably the Mothers of the Plaza de Mayo, used the World Cup’s global visibility to denounce the disappearance of their children. They held weekly marches during the tournament, attracting foreign journalists and making the dictatorship’s human rights record visible to international audiences for the first time.<ref>{{cite journal |last1=Femenía |first1=Nora Amalia |last2=Gil |first2=Carlos Ariel |year=1987 |title=Argentina's Mothers of Plaza de Mayo: The Mourning Process from Junta to Democracy |journal=Feminist Studies |volume=13 |issue=1 |pages=9–18 |doi=10.2307/3177832 |jstor=3177832}}</ref> Their activism challenged the junta’s effort to project unity and control during the games and became foundational to human rights mobilisation in Argentina.
+
+International observers widely noted that the dictatorship attempted to use the World Cup to normalise Argentina’s global image. According to historians, military leaders believed that a successful tournament would showcase Argentina as a modern, orderly nation while drawing attention away from the forced disappearances, torture centers, and mass repression taking place at the same time.<ref>{{cite journal |last=Jordan |first=David C. |year=1979 |title=Argentina's Military Commonwealth |journal=Current History |volume=76 |issue=444 |pages=82 |jstor=45314647}}</ref> This strategy mirrored efforts by earlier authoritarian regimes, such as those in Nazi Germany and Fascist Italy, which relied on major sporting events to project legitimacy and political strength.
+
+Despite the regime’s censorship apparatus, foreign journalists in Argentina continued reporting on the growing number of ''desaparecidos'' and the repressive climate. Many correspondents described a palpable military presence in the streets, with frequent ID checks, unmarked cars, and armed patrols near stadiums and transportation hubs. These accounts helped counter the junta’s attempt to use the World Cup as a distraction and contributed to broader international condemnation of state violence.<ref>Koller, Christian (2015). "Football and Dictatorship". ''Goal!''. Catholic University of America Press. p.&nbsp;212. [[Doi (identifier)|doi]]:10.2307/j.ctt15zc524.11.</ref>
+
+The government invested more than ten times the original projected budget for the tournament, a financial decision scholars consider politically motivated rather than economically rational. The overspending contributed to rising inflation and public debt that later intensified Argentina’s economic crisis in the early 1980s.<ref>Koller, Christian (2015). "Football and Dictatorship". ''Goal!''. Catholic University of America Press. p.&nbsp;218. [[Doi (identifier)|doi]]:10.2307/j.ctt15zc524.11.</ref> In this sense, the World Cup not only intersected with the dictatorship’s political agenda but also deepened the long-term financial instability that emerged as a defining feature of the regime’s final years.
+
+From Will Hersey's article "Remembering Argentina 1978: The Dirtiest World Cup of All Time":<blockquote>The other teams in Argentina and Hungary's group were the much-fancied France and Italy, establishing the tournament's toughest qualifying section. After the victory against Hungary, one junta official remarked to [[Leopoldo Luque]] that "this could turn out to be the group of death as far as you are concerned." It was delivered with a smile.
+
+"Uppermost in my mind was that earlier that day, the brother of a close friend of mine had disappeared", recalled Luque. "His body was later found by villagers on the banks of the River Plate with concrete attached to his legs. At that time, opponents of the regime were sometimes thrown out of aeroplanes into the sea."<ref name=":0" /></blockquote>
+
+====Protests====
+Because of the political turmoil, some countries, most notably the [[Netherlands national football team|Netherlands]] and [[Swedish national football team|Sweden]],<ref>{{cite web|url=http://sverigesradio.se/sida/gruppsida.aspx?programid=1602&grupp=3137&artikel=865141|title=Hett debatt om VM i Argentina 1978|language=sv|publisher=[[Sveriges Radio]]|access-date=1 October 2024}}</ref> considered publicly whether they should participate in the event. Despite this, all teams eventually took part without restrictions. However, most notably, Dutch star [[Johan Cruyff]], who was considered the best player in the previous [[1974 FIFA World Cup]], refused to take part in the 1978 World Cup, even though he earlier participated in the [[1978 FIFA World Cup qualification – UEFA Group 4|1978 FIFA World Cup qualification]]. Allegations that Cruyff refused to participate because of political convictions were denied by him 30 years later—he and his family had been the victims of a kidnapping attempt a few months before the tournament. Several criminals entered his house in Barcelona at night and tied him and his family up at gunpoint.<ref>{{cite news |url=https://www.theguardian.com/football/2008/apr/16/newsstory.sport15 |title=Kidnappers made Cruyff miss World Cup |work=The Guardian |location=London |date=16 April 2008 |access-date=20 June 2008 |first=Paul |last=Doyle |archive-date=21 May 2008 |archive-url=https://web.archive.org/web/20080521125308/http://www.guardian.co.uk/football/2008/apr/16/newsstory.sport15 |url-status=live }}</ref> One player, [[Ralf Edström]], was arrested for speaking to someone in [[Buenos Aires]]; however, the Argentine military released him upon recognising that he was a Swedish footballer, not an ordinary person.
+
+Amnesty International announced their strategy for Argentina in 1978. After their awareness that urging people away from the World Cup could produce counter-sympathy for the junta, they launched a campaign that would teach journalists to write about the tournament but based on the regime, along with the slogan "Football yes, torture no." They hoped that the journalists would turn their eyes away from the matches and look at what's going on in their society to educate their readers on the reality of Argentina.<ref name=":02"/>
+
+French activists also organised some of the largest international protests against the tournament. In Paris, human-rights groups and left-wing political movements formed COBA (Comité pour le Boycott de l’Argentine), which produced posters, newsletters, and public demonstrations calling attention to the dictatorship.<ref>Armus, Diego (2024). Armus, Diego; Ubelaker Andrade, Lisa (eds.). ''Soccer, Politics, and Protest''. Duke University Press. pp.&nbsp;200–201. doi:10.2307/jj.19724096.65.</ref> By 1978, over 200 local COBA committees existed across France, illustrating the extent to which the World Cup had become a focal point for transnational activism.
+
+Paris was a center of unanimity for the victims of the Argentine dictatorship, which launched a campaign to boycott the 1978 World Cup. In the city, they made posters, publications or any kind of information that expressed opposition to the World Cup under a dictatorship. The first calls to boycott were published in the daily ''Le Monde'' in October 1977. Later, a boycott committee was organised, which brought together human-rights militants and left-wing activists. This organisation came to be known as COBA, a French acronym for, "Committee for the Boycott of the World Cup in Argentina." It wasn't long before the COBA had established a strong base of unity and protest throughout France, with more than 200 local COBA committees created in major cities and provinces.<ref>{{Cite book |last=Rein |first=Raanan |title=Argentine Jews or Jewish Argentines ? essays on ethnicity, identity, and diaspora |date=2010 |publisher=Brill |isbn=978-90-04-17913-4 |series=Jewish identities in a changing world |location=Leiden}}</ref>
+
+[[Enriqueta Maroni]], member of the [[Mothers of Plaza de Mayo]], became internationally known after being interviewed by Dutch television where she told openly about the crimes of the dictatorship.<ref>{{Cite web |last=Página{{!}}12 |date=2025-08-05 |title=Murió Enriqueta Maroni, expresidenta de Madres de Plaza de Mayo Línea Fundadora {{!}} Su figura trascendió tras ser entrevistada por la televisión holandesa durante el Mundial 78 |url=https://www.pagina12.com.ar/847356-murio-enriqueta-maroni-expresidenta-de-madres-de-plaza-de-ma |access-date=2025-08-07 |website=PAGINA12 |language=es |archive-date=9 August 2025 |archive-url=https://web.archive.org/web/20250809235953/https://www.pagina12.com.ar/847356-murio-enriqueta-maroni-expresidenta-de-madres-de-plaza-de-ma |url-status=live }}</ref>
+
+Outside Latin America and Europe, human rights organisations in the United States, Canada, and Australia also launched independent campaigns to draw attention to the dictatorship’s crimes. Amnesty International chapters across North America published fact sheets about forced disappearances and organised letter-writing drives to pressure FIFA and national governments to condemn Argentina’s repression.<ref>{{cite web |last=Moretti |first=John |date=2 June 2023 |title=Another Controversial World Cup to Remember: 45 Years Later |url=https://revista.drclas.harvard.edu/another-controversial-world-cup-to-remember-45-years-later/ |access-date=2 December 2025 |website=ReVista: Harvard Review of Latin America |archive-date=3 November 2025 |archive-url=https://web.archive.org/web/20251103204926/https://revista.drclas.harvard.edu/another-controversial-world-cup-to-remember-45-years-later/ |url-status=live }}</ref> Although these efforts did not lead to a boycott, they helped internationalise the human rights movement that grew dramatically in the late 1970s.
+
+Sports magazines and newspapers in several countries ran dual coverage of both the athletic tournament and the political situation. Some outlets published investigative reports on secret detention centers and testimonies from exiled Argentines. These stories challenged the junta’s narrative that Argentina was safe, unified, and politically stable.<ref>Armus, Diego (2024). Armus, Diego; Ubelaker Andrade, Lisa (eds.). ''Soccer, Politics, and Protest''. Duke University Press. pp.&nbsp;204–206. doi:10.2307/jj.19724096.65.</ref> The visibility of these reports demonstrated the limits of the regime’s propaganda efforts and revealed how global media attention complicated the dictatorship’s attempt to control information.
+
+Scholars note that the political debate surrounding the 1978 World Cup marked one of the earliest moments when international sporting events were openly criticised as potential instruments of authoritarian image-making. This contributed to broader discussions about the ethics of hosting major competitions in non-democratic states, foreshadowing contemporary debates about “sportswashing” in global politics.<ref>{{cite journal |last=Ciria |first=Alberto |year=1986 |title=Argentina in 1983: Reflections on the Language of the Military and George Orwell |journal=Canadian Journal of Latin American and Caribbean Studies |volume=11 |issue=21 |pages=57–63 |jstor=41799589}}</ref>
+
+===Match fixing===
+Argentina's controversial and favourable decisions in their matches have caused many to view their eventual win as illegitimate; many cite the political climate and worldwide pressure on the Argentine government as the reason for these decisions. Desperate to prove their stability and prominence to the world after their coup two years earlier, the government used whatever means necessary to ensure that the team would progress far in the tournament.
+
+Academic research has emphasised that while no conclusive proof of government-orchestrated match fixing exists, circumstantial evidence—including diplomatic pressure, economic negotiations, and testimonies from Peruvian officials—has sustained debate for decades.<ref>Koller, Christian (2015). "Football and Dictatorship". ''Goal!''. Catholic University of America Press. p.&nbsp;229. [[Doi (identifier)|doi]]:10.2307/j.ctt15zc524.11.</ref> The high political stakes for the junta, which relied on World Cup success to bolster its legitimacy, intensified suspicions surrounding Argentina’s 6–0 victory over Peru.
+
+Suspicions of match fixing arose even before the tournament began; [[Lajos Baróti]], the head coach of Argentina's first opponents, [[Hungary national football team|Hungary]], said that "everything, even the air, is in favor of Argentina".<ref name=":0">{{Cite web|url=https://www.esquire.com/uk/culture/a21454856/argentina-1978-world-cup/|title=Remembering Argentina 1978: The Dirtiest World Cup of All Time|last=Hersey|first=Will|date=16 June 2018|website=Esquire|access-date=10 December 2018|archive-date=28 August 2020|archive-url=https://web.archive.org/web/20200828071101/https://www.esquire.com/uk/culture/a21454856/argentina-1978-world-cup/|url-status=live}}</ref> He also talked about the financial imperative to have Argentina win the World Cup: "The success of Argentina is financially so important to the tournament".<ref name=":0" />
+
+More controversy surrounded the host, Argentina, as all of their games in the first round kicked off at night, giving the Argentines the advantage of knowing where they stood in the group. This issue would arise again in Spain 1982, which prompted FIFA to change the rules so that the final two group games in subsequent World Cups (as well as in every other international tournament, starting with the [[UEFA Euro 1984]]) would be played simultaneously. In their second group stage game against [[France national football team|France]], Argentina were the beneficiaries of multiple favourable calls. After France were denied what looked to be a clear penalty in the first half, an anonymous French player said he had heard the referee tell [[Daniel Passarella]] (the player who committed the foul), "Don't do that again please, or I might have to actually give it next time."<ref>{{cite web |last=Spurling |first=Jon |title=Argentina's 1978 World Cup Run: The Ugly Truth |url=https://sabotagetimes.com/football/argentinas-1978-world-cup-the-ugly-truth |url-status=usurped |date=11 March 2016 |access-date=29 October 2018 |archive-url=https://web.archive.org/web/20181029112324/https://sabotagetimes.com/football/argentinas-1978-world-cup-the-ugly-truth |archive-date=29 October 2018}}</ref>
+
+====Argentina v Peru====
+{{main|Argentina v Peru (1978 FIFA World Cup)}}
+
+Further accusations have surrounded the game Argentina and Peru played in the second round of the tournament. Following Brazil's 3–1 win over Poland, Argentina needed to win by a margin of four goals to proceed to the final and did so by defeating Peru by 6–0. There were allegations that the authoritarian Argentine military government interfered to ensure Argentina would defeat Peru through intimidation, though these were denied by Peruvian captain [[Héctor Chumpitaz]] and several Peruvian players.<ref name="WPCleanerAuto1">{{cite news|title=El capitán de Perú en el 78: 'Pongo la mano en el fuego por mis compañeros'|url=http://www.elmundo.es/elmundodeporte/2007/12/05/futbol/1196888260.html|newspaper=El Mundo|language=es|archive-date=17 July 2018|access-date=20 November 2013|archive-url=https://web.archive.org/web/20180717170112/http://www.elmundo.es/elmundodeporte/2007/12/05/futbol/1196888260.html|url-status=live}}</ref> Some accusations originated in the Brazilian media and pointed to the fact that the Peruvian goalkeeper, [[Ramón Quiroga]], had been born in Argentina.<ref>{{cite news |title=Keeping the Dark Side of Soccer Away From the City of Light |url=https://www.nytimes.com/1998/06/07/sports/soccer-fixed-matches-are-darkening-soccer-s-image.html |newspaper=[[The New York Times]] |date=7 June 1998 |access-date=22 June 2021 |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615191735/https://www.nytimes.com/1998/06/07/sports/soccer-fixed-matches-are-darkening-soccer-s-image.html |url-status=live }}</ref><ref>{{cite web |title=Niega Videla arreglo de partidos en Argentina 1978 |date=26 April 2012 |url=http://www.excelsior.com.mx/2012/04/26/adrenalina/829712 |publisher=Excelsior |language=es |access-date=20 November 2013 |archive-date=17 August 2016 |archive-url=https://web.archive.org/web/20160817091739/http://www.excelsior.com.mx/2012/04/26/adrenalina/829712 |url-status=dead }}</ref> There was also an alleged deal, reported by the British media as an anonymous rumour, that involved the delivery of a large [[grain trade|grain shipment]] to Peru by Argentina and the unfreezing of a Peruvian bank account that was held by the Argentine Central Bank.<ref>{{cite news |title=Bungs and bribes football can't kick this habit |url=https://www.independent.co.uk/news/uk/bungs-and-bribes-football-cant-kick-this-habit-1611274.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/news/uk/bungs-and-bribes-football-cant-kick-this-habit-1611274.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |work=[[The Independent]] |location=London |date=15 March 1995 |access-date=22 June 2021}}{{cbignore}}</ref> Another alleged deal, recounted by the son of a [[Gilberto Rodríguez Orejuela|Colombian drug lord]] in a controversial book, involved the Peruvian team being bribed without any political implications.<ref name="WPCleanerAuto1" /> A third alleged deal, described by the Peruvian leftist ex-senator {{ill|Genaro Ledesma|es}}, encompassed sending 13 Peruvian dissidents exiled in Argentina back to Peru.<ref>{{cite news |title=Argentina's 1978 World Cup win against Peru was fixed in a brutal political deal, former senator says |url=https://sports.yahoo.com/news/argentinas-1978-world-cup-win-052800565--sow.html |publisher=[[Yahoo Sports]] |date=9 February 2012 |archive-date=24 July 2020 |access-date=24 July 2020 |archive-url=https://web.archive.org/web/20200724070737/https://sports.yahoo.com/news/argentinas-1978-world-cup-win-052800565--sow.html |url-status=live }}</ref>
+
+Three months before the World Cup, Argentina had beaten Peru 3–1 in Lima, their head-to-head record was 15–3 in favour of the host nation, and Peru had never beaten Argentina away from home. However, Peru had conceded only six goals in their previous five games in the World Cup. During the first half, Peru hit the post twice after two counters when the game was 0–0. Argentina managed to get 2–0 ahead before the end of the first 45 minutes. During the second half, Argentina was 4–0 ahead when Peru had another clear chance. Argentina kept attacking and scored twice more, making it 6–0 and surpassing the required margin.
+
+The match has since become one of the most studied games in World Cup history, not because of its tactical content but because of its entanglement with Cold War politics, inter-American relations, and the symbolic weight of Argentina’s authoritarian context. Whether or not any explicit arrangement occurred, the game remains a key example of how international football can become deeply intertwined with political strategies and national narratives.<ref>Koller, Christian (2015). "Football and Dictatorship". ''Goal!''. Catholic University of America Press. p.&nbsp;235. [[Doi (identifier)|doi]]:10.2307/j.ctt15zc524.11.</ref>
+
+===Absence of Diego Maradona===
+There was also some domestic controversy as well, as Argentine manager [[César Luis Menotti]] did not call up the then-17-year-old [[Argentinos Juniors]] local star [[Diego Maradona]], for Menotti felt Maradona was too young to handle the pressures of such an important tournament on home soil and that the expectations of the team's performance would probably revolve around the Buenos Aires-born youngster.<ref>{{cite web |title=Summary of Maradona's life |url=http://www.vivadiego.com/biogr.html |archive-url=https://web.archive.org/web/20001102073501/http://vivadiego.com/biogr.html |url-status=dead |archive-date=2 November 2000 |website=www.vivadiego.com}}</ref> In addition, Maradona's usual position of number 10 (play-making attacking midfielder) was taken by [[Mario Kempes]], who ended up as the Best Player and Top Goal Scorer.
+
+The debate over Maradona’s omission remains a reminder of how individual players were affected by the tournament’s political stakes. While some argue that Menotti’s decision was strictly athletic, others point to the broader pressures and uncertainties surrounding public life under the junta as contextual factors that shaped coaching choices.<ref>Ciria 1986</ref>
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1978|1978 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/1978argentina 1978 FIFA World Cup Argentina], FIFA.com
+*[https://www.rsssf.org/tables/78full.html Details at RSSSF]
+*[https://web.archive.org/web/20111220055758/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/53/fwc%5fargentina%5f1978%5fa%5fpart1%5f306.pdf FIFA Technical Report (Part 1)], [https://web.archive.org/web/20111220061402/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/51/fwc%5fargentina%5f1978%5fa%5fpart2%5f305.pdf (Part 2)], [https://web.archive.org/web/20111220062922/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/47/fwc%5fargentina%5f1978%5fa%5fpart3%5f304.pdf (Part 3)], [https://web.archive.org/web/20111220053429/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/41/fwc%5fargentina%5f1978%5fa%5fpart4%5f303.pdf (Part 4)], [https://web.archive.org/web/20111220063251/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/36/fwc%5fargentina%5f1978%5fa%5fpart5%5f302.pdf (Part 5)], [https://web.archive.org/web/20111220063806/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/33/fwc%5fargentina%5f1978%5fa%5fpart6%5f299.pdf (Part 6)] and [https://web.archive.org/web/20111220070052/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/30/fwc%5fargentina%5f1978%5fa%5fpart7%5f298.pdf (Part 7)]
+
+{{1978 FIFA World Cup}}
+{{1978 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+{{Portal bar|1970s|Association football|Argentina}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1978 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1978]]
+[[Category:1978 in men's international association football|World Cup]]
+[[Category:1978 in Argentine football]]
+[[Category:Men's international association football competitions hosted by Argentina|1978]]
+[[Category:June 1978 sports events in South America]]
+[[Category:1978 controversies]]

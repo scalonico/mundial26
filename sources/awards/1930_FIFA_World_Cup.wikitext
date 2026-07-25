@@ -1,0 +1,443 @@
+{{short description|Association football tournament in Uruguay}}
+{{protection padlock|small=yes}}
+{{Use British English|date=September 2012}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox international football competition
+| tourney_name   = FIFA World Cup
+| year           = 1930
+| other_titles   = {{native name|es|1er Campeonato Mundial de Fútbol}}
+| image          = Uruguay 1930 World Cup.jpg
+| alt            = 
+| caption        = Official poster, designed <br>by [[Guillermo Laborde]]
+| country        = Uruguay
+| city           = [[Montevideo]]
+| dates          = 13–30 July
+| num_teams      = 13
+| confederations = 3
+| venues         = 3
+| cities         = 1
+| champion       = URU
+| count          = 1
+| second         = ARG
+| second-flagvar = 1861
+<!-- RANKINGS ARE BASED ON FIFA PUBLICATIONS. Before any changes, please discuss the matter on the talk page. -->
+| third          = USA<!-- DISCUSS ON TALK PAGE BEFORE CHANGING -->
+| third-flagvar  = 1912
+| third-note     = {{efn|name=third|Though a [[match for third place]] was not played at the World Cup until [[1934 FIFA World Cup|1934]], accounts differ as to whether a match for third place was originally scheduled. Some sources state that Yugoslavia refused to play a match for third place because they were upset with the refereeing in their semi-final against Uruguay.<ref name="four weeks"/> A FIFA technical committee report on the [[1986 FIFA World Cup|1986 World Cup]] included full retrospective rankings of all teams at all previous World Cup finals; this report ranked the United States third and Yugoslavia fourth, based on the U.S.'s better goal difference on otherwise identical records,<ref name="F279"/> a practice since continued by FIFA.<ref name="awards"/><ref>{{cite web |url=https://resources.fifa.com/image/upload/all-time-fifa-world-cup-ranking-1930-2014-1180321.pdf?cloudid=nynltbogj47gfjtfszqr |title=Fact Sheet: FIFA World Cup All-time Ranking 1930–2014 |work=FIFA |format=PDF |access-date=8 April 2020 |url-status=live |archive-url=https://web.archive.org/web/20200408044843/https://resources.fifa.com/image/upload/all-time-fifa-world-cup-ranking-1930-2014-1180321.pdf?cloudid=nynltbogj47gfjtfszqr |archive-date=8 April 2020}}</ref>}}
+| fourth         = Kingdom of Yugoslavia<!-- DISCUSS ON TALK PAGE BEFORE CHANGING -->
+| fourth-note    = {{efn|name=third}}
+| matches        = 18
+| goals          = 70
+| attendance     = {{#invoke:Football attendance summation|main|groups=1-4}}
+| top_scorer     = {{fbicon|ARG|1861}} [[Guillermo Stábile]]<br />(8 goals)
+| nextseason     = [[1934 FIFA World Cup|1934]]
+}}
+The '''1930 FIFA World Cup''' was the first [[FIFA World Cup]], the world championship for [[List of men's national association football teams|men's national]] [[Association football|football]] teams. It took place in Uruguay from 13 to 30 July 1930. [[FIFA]], football's international [[sports governing body|governing body]], selected Uruguay as the host nation, as the country would be celebrating the centenary of its [[Constitution of Uruguay|first constitution]] and the [[Uruguay national football team]] had retained their football title at the [[Football at the 1928 Summer Olympics|1928 Summer Olympics]]. All matches were played in the Uruguayan capital, [[Montevideo]], the majority at the purpose-built [[Estadio Centenario]].
+
+Thirteen teams (seven from South America, four from Europe, and two from North America) entered the tournament. Only a handful of European teams chose to participate because of the difficulty of traveling to South America during the [[Great Depression]]. The teams were divided into four groups, with the winner of each group progressing to the semi-finals. The first two World Cup matches took place simultaneously and were won by [[France national football team|France]] and the [[United States men's national soccer team|United States]], who defeated [[Mexico national football team|Mexico]] 4–1 and [[Belgium national football team|Belgium]] 3–0, respectively. [[Lucien Laurent]] of France scored the first goal in World Cup history, while United States goalkeeper [[Jimmy Douglas (American soccer)|Jimmy Douglas]] posted the first [[clean sheet]] in the tournament the same day.
+
+[[Argentina national football team|Argentina]], Uruguay, the United States, and [[Yugoslavia national football team|Yugoslavia]] won their respective groups to qualify for the semi-finals. In [[1930 FIFA World Cup final|the final]], hosts and pre-tournament favourites Uruguay defeated Argentina 4–2 in front of 68,346&nbsp;people to become the first nation to win the World Cup. [[Francisco Varallo]] from [[Argentina national football team|Argentina]] was the last surviving player from this World Cup. He died in 2010 at the age of 100. The [[2030 FIFA World Cup]] opening match to be played at [[Estadio Centenario]] will honor the centennial anniversary of the World Cup.
+
+The 1930 FIFA World Cup final was the first to be contested by two nations sharing the same primary language, as both sides were Spanish-speaking, and remained the only such final for 96 years, until the [[2026 FIFA World Cup final|2026 final]] between Argentina and [[Spain national football team|Spain]]. As of 2026, it is also the only final contested between two South American nations (the [[Uruguay v Brazil (1950 FIFA World Cup)|1950 match between Brazil and Uruguay]] was the deciding match of the final group stage, not an actual cup final).
+
+==Participants==
+[[FIFA]], the governing body of world [[association football|football]], had been discussing the creation of a competition for national teams for several years prior to 1930. The organisation had managed the football segment of the [[Summer Olympics]] on behalf of the [[International Olympic Committee]] since the early 20th century and the success of the competition at the [[Football at the 1924 Summer Olympics|1924]] and [[Football at the 1928 Summer Olympics|1928 Olympic Games]] led to the formation of the [[FIFA World Cup]]. At the 17th FIFA congress, held in [[Amsterdam]] in May 1928, the competition was proposed by president [[Jules Rimet]] and accepted by the organisation's board, with vice-president [[Henri Delaunay]] proclaiming "international football can no longer be held within the confines of the Olympics".<ref name="Glanville15">Glanville, p. 15</ref><ref>{{cite web |url=https://www.history.co.uk/article/jules-rimet-and-the-birth-of-the-world-cup |title=Jules Rimet and the Birth of the World Cup |work=Sky History |accessdate=13 January 2023 |archive-date=10 February 2023 |archive-url=https://web.archive.org/web/20230210013512/https://www.history.co.uk/article/jules-rimet-and-the-birth-of-the-world-cup |url-status=live }}</ref>
+
+[[File:1930 FIFA World Cup.png|thumb|Participating countries, tinted by order of finish|400px|alt=World map highlighting competing nations, colour-coded by finishing position with the top four marked separately (Uruguay 1, Argentina 2, United States 3, Yugoslavia 4). Most of the Americas are shaded, with small representation in Europe. Other continents are entirely unshaded.]]
+The first World Cup was the only one without [[FIFA World Cup qualification|qualification]]. Every country affiliated with FIFA was invited to compete and given a deadline of 28 February 1930 to accept. The competition was originally planned as a 16-team knockout tournament with a potential second division if enough teams entered;<ref>FIFA, p. 13</ref> however, the number of teams failed to reach 16, so there were no qualifications. Plenty of interest was shown by nations in the Americas; [[Argentina national football team|Argentina]], [[Brazil national football team|Brazil]], [[Bolivia national football team|Bolivia]], [[Chile national football team|Chile]], [[Mexico national football team|Mexico]], [[Paraguay national football team|Paraguay]], [[Peru national football team|Peru]] and the [[United States men's national soccer team|United States]] all entered. A total of seven South American teams participated, more than in any subsequent World Cup Finals. However, because of the long, costly trip by ship across the [[Atlantic Ocean]] and the length of absence required for players,<ref name="FIFAhistory"/> very few European teams were inclined to take part as the effects of the [[Great Depression]] set in across the continent.<ref name="WC origin">{{Cite web |url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |title=FIFA World Cup Origin |website=FIFA |archive-url=https://web.archive.org/web/20100615195236/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |archive-date=15 June 2010 |url-status=dead |access-date=1 October 2020}}</ref> Some refused to countenance travel to South America in any circumstances,<ref>{{cite book |last=Hunt |first=Chris |title=World Cup Stories: The history of the FIFA World Cup |publisher=Interact |page=10 |year=2006 |location=Ware |isbn=0-9549819-2-8 |url-access=registration |url=https://archive.org/details/historyoffifawor0000hunt }}</ref> and no European entries were received before the February deadline. In an attempt to gain some European participation, the [[Uruguayan Football Association]] sent a letter of invitation to [[The Football Association]], even though the British [[Home Nations]] ([[England national football team|England]], [[Ireland national football team (1882–1950)|Northern Ireland]], [[Scotland national football team|Scotland]] and [[Wales national football team|Wales]]) had resigned from FIFA at the time. This was rejected by the FA Committee on 18 November 1929.<ref>{{cite web|url=http://www.fourfourtwo.premiumtv.co.uk/page/BigRead/0,,11442~1034860,00.html |title=Uruguay 1930 |work=FourFourTwo magazine |accessdate=20 June 2009 |archiveurl=https://web.archive.org/web/20070819173027/http://www.fourfourtwo.premiumtv.co.uk/page/BigRead/0%2C%2C11442~1034860%2C00.html |archivedate=19 August 2007 |url-status=dead }}</ref> Out of the two Asian countries affiliated to FIFA at the time, [[Japan national football team|Japan]] and [[Thailand national football team|Siam]] (modern-day [[Thailand]]), neither elected to enter the competition,<ref>{{cite web |url=https://thesefootballtimes.co/2014/09/04/the-story-of-the-1930-world-cup/ |title=The Story of the 1930 World Cup |last=Benjamin |first=Brian |date=4 September 2014 |accessdate=16 January 2023 |archive-date=2 August 2021 |archive-url=https://web.archive.org/web/20210802143918/https://thesefootballtimes.co/2014/09/04/the-story-of-the-1930-world-cup/ |url-status=live }}</ref> while [[Egypt national football team|Egypt]], the lone African team to enter, was delayed by a storm in the [[Mediterranean Sea|Mediterranean]], and the ship intended to take them to Uruguay departed without them.<ref>{{cite web |first=James |last=Langton |title='Dead' player gatecrashing own wake capped off the first and weirdest World Cup |url=https://www.thenationalnews.com/fifa-world-cup-2022/2022/12/02/dead-player-gatecrashing-own-wake-capped-off-the-first-and-weirdest-world-cup |work=The National News |date=2 December 2022 |access-date=2 December 2022 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202045648/https://www.thenationalnews.com/fifa-world-cup-2022/2022/12/02/dead-player-gatecrashing-own-wake-capped-off-the-first-and-weirdest-world-cup/ |url-status=live }}</ref>
+
+Two months before the start of the tournament, no team from Europe had officially entered.<ref name="FIFA1930">{{cite web |url=http://fifaworldcup.yahoo.com/06/en/p/pwc/1930.html |archiveurl=https://web.archive.org/web/20060426212450/http://fifaworldcup.yahoo.com/06/en/p/pwc/1930.html |archivedate=26 April 2006 |title=FIFA World Cup&nbsp;– Classic Moments from FIFA World Cup History |work=FIFA |accessdate=14 June 2009 }}</ref> FIFA president Rimet und Uruguayan diplomat [[Enrique Buero]]<ref>{{Cite journal |last=Jalabert D’Amado |first=Lorenzo |date=2020-11-16 |title=Montevideo 1930: reassessing the selection of the first World Cup host |url=https://doi.org/10.1080/14660970.2020.1793621 |journal=Soccer & Society |volume=21 |issue=8 |pages=848–860 |doi=10.1080/14660970.2020.1793621 |issn=1466-0970}}</ref> intervened and four European teams eventually made the trip by sea: [[Belgium national football team|Belgium]], [[France national football team|France]], [[Romania national football team|Romania]] and [[Yugoslavia national football team|Yugoslavia]]. The Romanians, managed by [[Constantin Rădulescu (footballer, born 1896)|Constantin Rădulescu]] and coached by their captain [[Rudolf Wetzer]] and Octav Luchide, entered the competition following the intervention of the newly crowned [[Carol II of Romania|King Carol&nbsp;II]]. He selected the squad personally and negotiated with employers to ensure that the players would still have jobs upon their return.<ref>Seddon (2005), pp. 8–9</ref> The French entered at the personal intervention of Rimet, but neither France's star defender [[Manuel Anatol]] nor the team's regular coach [[Gaston Barreau]] could be persuaded to make the trip.<ref name="goldblatt_248">Goldblatt (2008), p. 248</ref> The Belgians participated at the instigation of German-Belgian FIFA vice-president [[Rodolphe Seeldrayers]].<ref name="g249">Goldblatt (2008), p. 249</ref>
+
+{{Quote box
+| width = 30%
+| align = right
+| quote = We were 15 days on the ship ''Conte Verde'' getting out there. We embarked from Villefranche-sur-Mer in the company of the Belgians and the Yugoslavs. We did our basic exercises down below and our training on deck. The coach never spoke about tactics at all&nbsp;...
+| source = [[Lucien Laurent]]<ref name="fifa-franchecomte">{{cite web|url=https://www.fifa.com/aboutfifa/developing/refereeing/news/newsid=71490.html |title=A historical link with the Franche-Comté |work=FIFA |date=17 June 1998 |accessdate=14 June 2009 |last=Vautrot |first=Michel |archiveurl=https://web.archive.org/web/20080608134846/http://www.fifa.com/aboutfifa/developing/refereeing/news/newsid%3D71490.html |archivedate=8 June 2008 |url-status=dead }}</ref>
+}}
+
+The Romanians boarded the [[SS Conte Verde|SS ''Conte Verde'']] at [[Genoa]], Italy; the French and Yugoslavs were picked up at [[Villefranche-sur-Mer]], France, on 21 June 1930;<ref name="fifa1930">{{cite web|url=https://www.fifa.com/worldcup/archive/edition=1/overview.html |archiveurl=https://web.archive.org/web/20090202113439/http://www.fifa.com/worldcup/archive/edition%3D1/overview.html |archivedate=2 February 2009 |title=1930 FIFA World Cup Uruguay |work=FIFA |accessdate=15 June 2009 |url-status=dead }}</ref> and the Belgians embarked at [[Barcelona]], Spain.<ref name="Marca">{{cite news |url=http://archivo.marca.com/mundial2006/historia/1930.html |title=Uruguay, allí nació la historia |work=Marca.com Archive |publisher=Marca.com |language=Spanish |accessdate=14 June 2009 |last=Lara |first=Miguel A |archiveurl=https://web.archive.org/web/20090527140940/http://archivo.marca.com/mundial2006/historia/1930.html |archivedate=27 May 2009 |url-status=dead }}</ref> The ''Conte Verde'' carried Rimet, the trophy and the three designated European referees: Belgians [[John Langenus]] and [[Henri Christophe (referee)|Henri Christophe]], along with [[Thomas Balvay]], a Parisian who may have been English. The [[Brazil national football team|Brazilian]] team were picked up when the boat docked in [[Rio de Janeiro]] on 29 June before arriving in Uruguay on 4 July.<ref name=FIFA1930/> The official ball used for the tournament was the T-Model.<ref name="f17">FIFA, p. 17</ref>
+
+===List of invited teams===
+{{Further|1930 FIFA World Cup squads}}
+The following 16 teams planned to compete at the final tournament. However, only 13 teams participated because [[Egypt national football team|Egypt]], [[Japan national football team|Japan]], and [[Thailand national football team|Siam]] withdrew.
+
+{{col-begin}}
+{{col-4}}
+'''[[Asia]] (0)'''
+* <s>{{fb|JPN|1870}}</s> (withdrew)
+* <s>{{fb|THA|name=Siam}}</s> (withdrew)
+'''[[Africa]] (0)'''
+* <s>{{fb|EGY|1922}}</s> (missed ship)
+{{col-4}}
+'''[[North America]] (2)'''
+*{{fb|MEX|1916}}
+*{{fb|USA|1912}}
+'''[[South America]] (7)'''
+*{{fb|ARG|1861}}
+*{{fb|BOL|civil}}
+*{{fb|BRA|1889}}
+*{{fb|CHI}}
+*{{fb|PAR|1842}}
+*{{fb|PER}}
+*{{fb|URU}} (hosts)
+{{col-4}}
+'''[[Europe]] (4)'''
+*{{fb|BEL}}
+*{{fb|FRA}}
+*{{fb|ROU}}
+*{{fb|Kingdom of Yugoslavia|}}
+{{col-4}}
+{{col-end}}
+
+==Venues==
+{{main|FIFA World Cup hosts}}
+Italy, Sweden, the Netherlands, Spain, Hungary, and Uruguay all lodged applications to host the event. Uruguay's bid became the clear selection after all the other countries withdrew their bids.<ref name="FIFAhistory">{{cite web |url=https://www.fifa.com/classicfootball/history/fifa/first-fifa-world-cup.html |title=History of FIFA&nbsp;– The first FIFA World Cup |work=FIFA |accessdate=14 June 2014 |archive-date=29 April 2015 |archive-url=https://web.archive.org/web/20150429164718/http://www.fifa.com/classicfootball/history/fifa/first-fifa-world-cup.html |url-status=dead }}</ref><ref name="BBC1930">{{cite news |url=http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1632000/1632201.stm |title=World Cup History&nbsp;– Uruguay 1930 |work=BBC Sport |publisher=BBC |date=11 April 2002 |accessdate=14 June 2009 |archive-date=22 November 2003 |archive-url=https://web.archive.org/web/20031122125127/http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1632000/1632201.stm |url-status=live }}</ref>
+
+All matches took place in [[Montevideo]]. Three stadiums were used: [[Estadio Centenario]], [[Estadio Pocitos]], and [[Estadio Gran Parque Central]]. The Estadio Centenario was built both for the tournament and as a celebration of the centenary of Uruguayan independence. Designed by Juan Scasso,<ref name="goldblatt_248"/> it was the primary stadium for the tournament, referred to by Rimet as a "temple of football".<ref>{{cite book |last1=Dunning |first1=Eric |last2=Malcolm |first2=Dominic |title=Sport |publisher=Routledge |page=46 |year=2003 |isbn=978-0-415-26292-7 }}</ref> With a capacity of 90,000, it was the largest football stadium outside the [[British Isles]].<ref name=g249/> The stadium hosted 10 of the 18&nbsp;matches, including both semi-finals and the final. However, the construction schedule was rushed and delayed by a rainy winter, therefore the Centenario was not ready for use until five days into the tournament.<ref name="G16">Glanville (2005), p. 16</ref> Early matches were played at smaller stadiums usually used by Montevideo football clubs [[Club Nacional de Football|Nacional]] and [[Peñarol]], the 20,000 capacity Gran Parque Central and the Pocitos.<ref name="g17">Glanville (2005), p. 17</ref>
+
+{| class="wikitable" style="text-align:center"
+!colspan=3|[[Montevideo]]
+|-
+|[[Estadio Centenario]]
+|[[Estadio Gran Parque Central]]
+|[[Estadio Pocitos]]
+|-
+|<small>{{Coord|34|53|40|S|56|9|10|W|region:IT_type:landmark|display=inline|name=Estadio Centenario}}</small>
+|<small>{{Coord|34|54|4|S|56|9|32|W|region:IT_type:landmark|display=inline|name=Estadio Gran Parque Central}}</small>
+|<small>{{Coord|34|54|18|S|56|9|22|W|region:IT_type:landmark|display=inline|name=Estadio Pocitos}}</small>
+|-
+|Capacity: '''90,000'''
+|Capacity: '''20,000'''
+|Capacity: '''10,000'''
+|-
+|[[File:Estadio Centenario 1930.jpg|250px]]
+|[[File:Gran Parque Central 1900.jpg|226px]]
+|[[File:Estadio Pocitos 1930.jpg|226px]]
+|-
+!
+{{location map+|Uruguay|float=center|width=200|places=
+{{location map~|Uruguay|lat=-34.90|long=-56.15|label='''{{nowrap|[[Montevideo]]}}'''|position=top}}
+|caption=}}
+!colspan="2"|
+{{location map+|Uruguay Montevideo|width=340|float=center|places=
+{{location map~|Uruguay Montevideo|lat=-34.9011|long=-56.1645|label='''[[Estadio Centenario|Centenario]]'''|position=left}}
+{{location map~|Uruguay Montevideo|lat=-34.9075|long=-56.1516|label='''[[Estadio Pocitos|Pocitos]]'''|position=right}}
+{{location map~|Uruguay Montevideo|lat=-34.8844|long=-56.1587|label='''[[Estadio Gran Parque Central|Gran&nbsp;Parque]]'''|position=right}}}}
+|}
+
+==Match officials==
+Fifteen referees participated in the tournament: four Europeans – two Belgians (Henri Christophe and John Langenus), a Frenchman (Thomas Balvay) and a Romanian (Constantin Rădulescu, also the Romanian team coach),<ref name="FIFA-coaches-refs">{{cite web |url=http://es.fifa.com/mm/document/fifafacts/mencompwc/01/17/75/48/s25factsyouneedtoknowaboutthefifaworldcup_10-00556_104_en_es.pdf |title=25 datos sobre la Copa Mundial de la FIFA |accessdate=20 August 2011 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304111140/http://es.fifa.com/mm/document/fifafacts/mencompwc/01/17/75/48/s25factsyouneedtoknowaboutthefifaworldcup_10-00556_104_en_es.pdf |url-status=dead }}</ref> and eleven from the Americas – among them six Uruguayans. To eliminate differences in the application of the Laws of the Game, the referees were invited to one short meeting to iron out the most conflicting issues that could arise.<ref>{{cite web|url=http://www.elfutbolmundial.com.ar/uruguay30.html |title=I Campeonato "Uruguay 1930" |accessdate=20 August 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20071123060848/http://www.elfutbolmundial.com.ar/uruguay30.html |archivedate=23 November 2007 }}</ref>
+
+Of all the refereeing appointments, the two that attracted the most attention were that of [[Gilberto de Almeida Rêgo]] in the match between Argentina and France, in which the Brazilian referee blew for full-time six minutes early, and that of the Bolivian [[Ulises Saucedo]]'s Argentina and Mexico encounter, which Argentina won 6–3. During the game, Saucedo, who was also the coach of Bolivia,<ref name="FIFA-coaches-refs"/> awarded three penalties.
+
+The following is the list of officials to serve as referees and linesmen. Officials in italics were only employed as linesmen during the tournament.
+{{col-begin}}
+{{col-3}}
+;Europe
+*{{fbaicon|FRA|1830}} [[Thomas Balvay]]
+*{{fbaicon|BEL}} [[Henri Christophe (referee)|Henri Christophe]]
+*{{fbaicon|BEL}} [[John Langenus]]
+*{{fbaicon|ROU}} ''[[Constantin Rădulescu (footballer, born 1896)|Constantin Rădulescu]]''
+
+;North America
+*{{fbaicon|MEX|1916}} ''[[Gaspar Vallejo]]''
+{{col-3}}
+;South America
+*{{fbaicon|URU}} ''[[Gualberto Alonso]]''
+*{{fbaicon|URU}} ''[[Martin Aphesteguy]]''
+*{{fbaicon|URU}} [[Domingo Lombardi]]
+*{{fbaicon|ARG|1861}} [[José Macías (football referee)|José Macías]]
+*{{fbaicon|URU}} [[Francisco Mateucci]]
+*{{fbaicon|BRA|1889}} [[Gilberto de Almeida Rêgo|Almeida Rêgo]]
+{{col-3}}
+
+*{{fbaicon|BOL|civil}} [[Ulises Saucedo]]
+*{{fbaicon|URU}} [[Anibal Tejada]]
+*{{fbaicon|URU}} [[Ricardó Vallarino]]
+*{{fbaicon|CHI}} [[Álberto Warnken]]
+{{col-end}}
+
+==Format and draw==
+The thirteen teams were drawn into four groups, with Group 1 containing four teams and the others containing three. Each group played a [[Round-robin tournament|round-robin]] format, with the four group winners progressing to the knockout semi-final stage. There was no match for third place.
+
+Uruguay, Argentina, Brazil, and the United States were [[single-elimination tournament#Seeding|seeded]] and kept apart in the draw,<ref name="g17"/> which took place in Montevideo once all the teams arrived.<ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf |title=History of the World Cup draw |work=FIFA |accessdate=14 June 2009 |archive-date=23 July 2013 |archive-url=https://web.archive.org/web/20130723113048/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf |url-status=dead }}</ref>
+
+Since there were no qualifying games, the opening two matches of the tournament were the first World Cup games ever played, taking place simultaneously on 13 July 1930; France beat Mexico 4–1 at the Estadio Pocitos, while the United States defeated Belgium 3–0 at the same time at the Estadio Gran Parque Central. France's [[Lucien Laurent]] was the scorer of the first World Cup goal.<ref>{{cite news |title=Lucien Laurent: The World Cup's First Goal Scorer |work=CBC Sports |publisher=[[Canadian Broadcasting Corporation]] |url=https://www.cbc.ca/sports/soccer/the-world-cup-s-1st-goal-scorer-1.825335 |accessdate=14 June 2014 |last=Molinaro |first=John F |archive-date=6 October 2023 |archive-url=https://web.archive.org/web/20231006164251/https://www.cbc.ca/sports/soccer/the-world-cup-s-1st-goal-scorer-1.825335 |url-status=live }}</ref>
+
+==Tournament summary==
+
+===Group 1===
+{{Quote box
+| width = 26%
+| align = right
+| quote = We were playing Mexico and it was snowing, since it was winter in the southern hemisphere. One of my teammates centred the ball and I followed its path carefully, taking it on the volley with my right foot. Everyone was pleased but we didn't all roll around on the ground&nbsp;– nobody realised that history was being made. A quick handshake and we got on with the game. And no bonus either; we were all amateurs in those days, right to the end.
+| source = <small>'''[[Lucien Laurent]]'''</small><ref name="fifa-franchecomte"/>
+}}
+
+The first group was the only one to contain four teams: Argentina, Chile, France, and Mexico. Two days after France's victory over Mexico, they faced group favourites Argentina. Injuries hindered France; goalkeeper [[Alex Thépot]] had to leave the field after 20&nbsp;minutes and Laurent, after a fierce tackle by [[Luis Monti]], spent most of the match limping. However, they held out for most of the match, only succumbing to an 81st-minute goal scored from a Monti [[free kick (association football)|free kick]].<ref>{{cite book |last=Freddi |first=Cris |title=Complete Book of the World Cup 2006 |publisher=HarperCollins |location=London |year=2006 |isbn=0-00-722916-X |page=3 }}</ref> The game featured an officiating controversy when referee [[Gilberto de Almeida Rêgo|Almeida Rêgo]] erroneously blew the final whistle six minutes early, with Frenchman [[Marcel Langiller]] clear on goal; play resumed only after protests from the French players.<ref name="Glanville18">Glanville (2005), p. 18</ref> Although France had played twice in 48 hours, Chile had yet to play their first match. They faced Mexico the following day, gaining a comfortable 3–0 win.<ref name="Crouch6">Crouch (2002), p. 6</ref>
+
+France's final match, against Chile, featured the first [[Penalty kick (association football)|penalty kick]] of the World Cup. The first goalkeeper to save a penalty was Thépot of France on 19 July 1930, saving from Chile's [[Carlos Vidal]] in the 30th minute of the match.<ref name="virginmedia1">{{cite web |url=http://www.fifaworldcup.webspace.virginmedia.com/1930_fifaworldcup.htm |title=History of World Cup |publisher=Millingstein's |archiveurl=https://web.archive.org/web/20140222012747/http://www.fifaworldcup.webspace.virginmedia.com/1930_fifaworldcup.htm |archivedate=22 February 2014 |accessdate=15 January 2023}}</ref> In Argentina's second match, against Mexico, three penalty kicks were awarded. During the same match on 19 July 1930, Mexico's [[Óscar Bonfiglio]] saved another penalty in the 23rd minute of the match against Argentina's [[Fernando Paternoster]].<ref name="virginmedia1"/> [[Guillermo Stábile]] scored a [[hat-trick]] in his international debut<ref>{{cite web |title=1930 Golden Boot&nbsp;– Guillermo Stabile |work=Sky Sports |url=http://home.skysports.com/worldcup/historyarticle.aspx?hlid=373666 |accessdate=20 June 2009 |archiveurl=https://web.archive.org/web/20060829040743/http://home.skysports.com/worldcup/historyarticle.aspx?hlid=373666 |archivedate=29 August 2006 }} (archive.org mirror)</ref> as Argentina won 6–3, despite the absence of their captain [[Manuel Ferreira (footballer)|Manuel Ferreira]], who had returned to Buenos Aires to take a law exam.<ref>Seddon (2005), p. 5</ref> Qualification was decided by the group's final match, contested by Argentina and Chile, who had beaten France and Mexico, respectively. The game was marred by a brawl sparked by a foul on [[Arturo Torres Carrasco|Arturo Torres]] by Monti.<ref name="Glanville18"/> Argentina won 3–1 against their neighbours and advanced to the semi-finals.<ref name="MC">{{cite web |url=https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center |title=Match Centre 1930 FIFA World Cup |publisher=FIFA |accessdate=13 January 2023 |archive-date=28 November 2022 |archive-url=https://web.archive.org/web/20221128221002/https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center |url-status=live }}</ref>
+
+===Group 2===
+The second group contained Brazil, Bolivia, and Yugoslavia. Brazil, the group seeds, were expected to progress, but in the group's opening match, unexpectedly lost 2–1 to Yugoslavia.<ref name="Glanville19">Glanville (2005), p. 19</ref> Going into the tournament Bolivia had never previously won an international match. For their opener they paid tribute to the hosts by wearing shirts each emblazoned with a single letter, spelling "Viva Uruguay" as the team lined up.<ref name="f5"/> Both of Bolivia's matches followed a similar pattern, a promising start gradually transformed into heavy defeat. Against Yugoslavia, they held out for an hour before conceding but were four goals down by the final whistle.<ref name="Crouch6"/> Misfortune played its part; several Bolivian goals were disallowed.<ref name="f5">Freddi (2006), p. 5</ref> Against Brazil, when both teams had only pride to play for, the score was 1–0 to Brazil at half-time. Brazil added three more in the second half, two of them scored by the multi-sportsman [[Preguinho]].<ref>Freddi (2006), p. 6</ref><!--There was considerable confusion during the match when, for 45&nbsp;minutes, the teams were attired in the same colours. [[Ulises Saucedo]]'s Bolivia side finally changed into an alternate [[kit (association football)|kit]] at half-time. --> Yugoslavia qualified for the semi-finals.<ref name="MC"/>
+
+===Group 3===
+Hosts Uruguay were in a group with Peru and Romania. The opening match in this group saw the first player expulsion from the competition when [[Plácido Galindo]] of Peru was sent off against Romania. The Romanians made their man advantage pay; their 3–1 win included two late goals and the fastest goal of the tournament; [[Adalbert Deșu]] opened the scoring after just 50 seconds.<ref name="f17"/><ref name="freddi7"/> This match had the smallest crowd of any in World Cup history. The official attendance was 2,459, but the actual figure is generally accepted to be around 300.<ref name="freddi7">Freddi (2006), p. 7</ref>
+
+Construction delays at Estadio Centenario postponed Uruguay's first match to 18 July, the sixth match day of the tournament. The first to be held at the Centenario, it was preceded by a ceremony in honour of the Uruguayan centenary celebrations. The Uruguayan team spent the four weeks preceding the match in a training camp, at which strict discipline was exercised. Goalkeeper [[Andrés Mazali]] was dropped from the squad for breaking a curfew to visit his wife.<ref name="Freddi, p. 8">Freddi (2006), p. 8</ref> One hundred years from the day of the creation of Uruguay's first constitution, the hosts won a tight match against Peru.<ref>{{cite web |url=https://www.historicalkits.co.uk/international/tournaments/fifa-world-cup/1930/1930-group-c.html |title=FIFA World Cup 1930 Group 3 |website=historical kits.co.uk |last=Moor |first=Dave |accessdate=17 January 2023 |archive-date=17 January 2023 |archive-url=https://web.archive.org/web/20230117131650/http://www.historicalkits.co.uk/international/tournaments/fifa-world-cup/1930/1930-group-c.html |url-status=live }}</ref> The result was viewed as a poor performance by the Uruguayan press.<ref>{{cite web |url=https://thesefootballtimes.co/2017/11/24/how-uruguay-lifted-the-1930-world-cup/ |title=How Uruguay Lifted the 1930 World Cup |work=These Football Times |last=Davison |first=Dan |date=24 November 2017 |accessdate=17 January 2023 |archive-date=22 September 2020 |archive-url=https://web.archive.org/web/20200922014432/https://thesefootballtimes.co/2017/11/24/how-uruguay-lifted-the-1930-world-cup/ |url-status=live }}</ref> Performance of the Peruvian goalkeeper [[Jorge Pardon]] drew particular praise from neutral observers.<ref name="Freddi, p. 8"/> Uruguay subsequently defeated Romania with ease, scoring four first-half goals to win 4–0.<ref name="MC"/>
+
+===Group 4===
+The fourth group comprised Belgium, Paraguay, and the United States. The American team, which contained a significant number of new [[cap (sport)|caps]], were reputedly nicknamed "the shot-putters" by an unnamed source in the French contingent.<ref name="BBC1930"/> They beat their first opponent, Belgium, 3–0. Both sides struggled early on in heavy rain and snowfall before the U.S. took control. Belgian reports bemoaned the state of the [[football pitch|pitch]] and refereeing decisions, claiming that the second goal was [[Offside (association football)|offside]].<ref>{{cite magazine |url=https://newrepublic.com/article/118499/usa-belgium-reliving-usmnts-wild-run-1930-world-cup |title=USA 3, Belgium 0! Or, Looking for Hope in the 1930 World Cup |magazine=The New Republic |last=Helms |first=Andrew |date=1 July 2014 |accessdate=17 January 2023 |archive-date=25 May 2019 |archive-url=https://web.archive.org/web/20190525192551/https://newrepublic.com/article/118499/usa-belgium-reliving-usmnts-wild-run-1930-world-cup |url-status=live }}</ref> The group's second match, played in windy conditions,<ref>Freddi (2006), p. 9</ref> witnessed the first tournament [[hat-trick]], scored by [[Bert Patenaude]] of the United States against [[Paraguay national football team|Paraguay]]. Until 10 November 2006, the first hat-trick that FIFA acknowledged had been scored by Stábile of Argentina, two days after Patenaude; however, in 2006 FIFA announced that Patenaude's claim to being the first hat-trick scorer was valid, as a goal previously assigned to teammate [[Tom Florie]] was reattributed to Patenaude.<ref>{{cite web |url=https://www.fifa.com/world-match-centre/news/newsid/107/499/ |title=American Bert Patenaude credited with first hat trick in FIFA World Cup history |work=FIFA |accessdate=14 June 2014 |archive-date=15 April 2014 |archive-url=https://web.archive.org/web/20140415092621/http://www.fifa.com/world-match-centre/news/newsid/107/499/ |url-status=dead }}</ref><ref>{{cite web |url=https://www.rsssf.org/tables/30f-hattrick.html |title=The first World Cup hat trick |work=[[RSSSF|Rec.Sport.Soccer Statistics Foundation]] (RSSSF) |last=Jose |first=Colin |accessdate=3 December 2009 |archiveurl=https://web.archive.org/web/20091104223953/http://www.rsssf.com/tables/30f-hattrick.html |archivedate=4 November 2009 |url-status=live }}</ref> With the United States having secured qualification, the final match in the group was a [[dead rubber]]. Paraguay beat Belgium by a 1–0 margin.<ref name="Crouch6"/>
+
+===Semi-finals===
+The four group winners, Argentina, Yugoslavia, Uruguay and the United States, moved to the semi-finals. The two semi-final matches saw identical scores. The first semi-final was played between the United States and Argentina on a rain-drenched pitch. The United States team, which featured six British-born players, lost midfielder [[Raphael Tracey]] after 10 minutes to a broken leg as the match became violent.<ref>{{cite book |title=A history of the World Cup: 1930–2006 |first=Clemente Angelo |last=Lisi |location=Lanham, Maryland |publisher=Scarecrow Press |year=2007 |isbn=978-0-8108-5905-0 |url=https://archive.org/details/historyofworldcu0000lisi |url-access=registration |pages=[https://archive.org/details/historyofworldcu0000lisi/page/16 16]–17 |accessdate=26 April 2011 }}</ref> A Monti goal halfway through the first half gave Argentina a 1–0 half-time lead. In the second half, the strength of the United States team was overwhelmed by the pace of the Argentinian attacks, the match finishing 6–1 to Argentina.<ref name="Crouch11"/>
+
+In the second semi-final, there were shades of the [[1924 Summer Olympics]] match between Yugoslavia and Uruguay. Here, though, Yugoslavia took a surprise lead through [[Đorđe Vujadinović]]. Uruguay then took a 2–1 lead. Then shortly before half-time, Yugoslavia had a goal disallowed by a controversial offside decision.<ref name="Glanville19"/> The hosts scored three more in the second half to win 6–1, [[Pedro Cea]] completing a hat-trick.<ref name="Crouch11"/>
+
+===Third and fourth place===
+The now-traditional [[match for third place]] was not established until [[1934 FIFA World Cup|1934]], so the format of the 1930 World Cup is unique in not distinguishing between the third and fourth-placed teams. Occasional sources, notably a FIFA Bulletin from 1984, incorrectly imply that a match for third place occurred and was won 3–1 by Yugoslavia.<ref>{{cite web |url=https://www.rsssf.org/tables/30full.html |title=World Cup 1930 finals |work=[[RSSSF|Rec.Sport.Soccer Statistics Foundation]] (RSSSF) |accessdate=14 June 2009 |archiveurl=https://web.archive.org/web/20090602224814/http://www.rsssf.com/tables/30full.html |archivedate=2 June 2009 |url-status=live }}</ref> Accounts differ as to whether a match for third place was originally scheduled. According to a 2009 book by Hyder Jawad, Yugoslavia refused to play a match for third place because they were upset with the refereeing in their semi-final against Uruguay.<ref name="four weeks">{{cite book|last=Jawad |first=Hyder |year=2009 |title=Four Weeks In Montevideo: The Story of World Cup 1930 |publisher=Seventeen Media & Publishing |page=105 |location=West Sussex |isbn=978-0956377401}}</ref>
+
+At the end of the championship, the captains of the United States team ([[Tom Florie]])<ref>{{cite web |url=https://www.christies.com/presscenter/pdf/05162006/122311.pdf |title=George Cohen's 1966 World Cup Final Shirt Leads Christie's Summer Sale of Sports Memorabilia |work=[[Christie's]] |date=16 May 2006 |accessdate=17 January 2023 |archive-date=17 January 2023 |archive-url=https://web.archive.org/web/20230117132720/https://www.christies.com/presscenter/pdf/05162006/122311.pdf |url-status=live }}</ref> and Yugoslavia ([[Milutin Ivković]])<ref name="Moša medal">{{cite web |url=http://www.politika.rs/rubrike/Magazin/Sacuvana-medalja-Mose-Marjanovica.lt.html |title=Sačuvana medalja Moše Marjanovića |publisher=[[Politika]] |date=15 January 2011|accessdate=16 January 2023|archiveurl=https://web.archive.org/web/20131017013954/http://www.politika.rs/rubrike/Magazin/Sacuvana-medalja-Mose-Marjanovica.lt.html |archivedate=17 October 2013 }}</ref> both received bronze medals. Yet a FIFA technical committee report on the [[1986 FIFA World Cup|1986 World Cup]] included full retrospective rankings of all teams at all previous World Cup finals; this report ranked the United States third and Yugoslavia fourth, based on goal difference,<ref name="F279">{{cite book |chapter=Permanent Table |chapter-url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf#page=45 |title=FIFA World Cup México '86&nbsp;– Technical Report |year=1986 |page=230 |accessdate=11 July 2010 |archive-date=15 June 2010 |archive-url=https://web.archive.org/web/20100615200139/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf#page=45 |url-status=dead }}</ref> a practice since continued by FIFA.<ref name="awards">{{cite web |url=https://www.fifa.com/worldcup/archive/uruguay1930/awards/ |title=Final Tournament Standings |publisher=FIFA |work=1930 FIFA World Cup Uruguay |accessdate=14 June 2014 |archive-date=17 June 2020 |archive-url=https://web.archive.org/web/20200617185902/https://www.fifa.com/worldcup/archive/uruguay1930/awards/ |url-status=dead }}</ref> In 2010, the son of Kosta Hadži, the chief of the Yugoslav delegation at the 1930 World Cup and the vice-president of the [[Football Association of Yugoslavia]] at the time, claimed that Yugoslavia, as a team, has been awarded one bronze medal, which has been kept by Hadži himself and his family for the following 80 years. According to this source, Yugoslavia was placed third because of the semi-final loss to the eventual champions, Uruguay.<ref name="Bronze medal">{{cite web|url=http://www.politika.rs/rubrike/Sport/sportske-price/Medalja-iz-doma-Hadzijevih-svedochi-da-smo-bili-treci-na-Mundijalu.sr.html |script-title=sr:Медаља из дома Хаџијевих сведочи да смо били трећи на Мундијалу |publisher=[[Politika]] |accessdate=1 May 2010 |archiveurl=https://web.archive.org/web/20100503051629/http://www.politika.rs/rubrike/Sport/sportske-price/Medalja-iz-doma-Hadzijevih-svedochi-da-smo-bili-treci-na-Mundijalu.sr.html |archivedate=3 May 2010 |url-status=dead |language=Serbian }}</ref><ref name="Bronze medal2">{{cite web|url=http://www.blic.rs/Vesti/Reportaza/194796/Jos-uvek-sjaji-bronza-iz-Montevidea |language=Serbian |title=Još uvek sjaji bronza iz Montevidea |publisher=[[Blic]] |accessdate=25 May 2010 |archiveurl=https://web.archive.org/web/20100623154744/http://www.blic.rs/Vesti/Reportaza/194796/Jos-uvek-sjaji-bronza-iz-Montevidea |archivedate=23 June 2010 |url-status=dead }}</ref> The official recording however shows the United States team claiming third place.<ref name="awards"/>
+
+===Final===
+{{main|1930 FIFA World Cup final}}
+{{multiple image
+|align=right
+|direction=vertical
+|footer=Because of a dispute, a different ball was used in each half, one chosen by each team. Argentina's ball (top) was used for the first half and Uruguay's ball (bottom) was used for the second half.
+|width=150
+|image1=1930 World Cup Final ball Argentina.jpg
+|alt1=A worn, old brown football. One panel has space for stitches, but none are present.
+|image2=1930 World Cup Final Ball Uruguay.jpg
+|alt2=Another aged ball, slightly lighter in colour and more worn. Near the top are five vertical stitches
+}}
+The resounding wins for Uruguay and Argentina in the semi-finals meant the final was a repeat of the matchup in the [[Football at the 1928 Summer Olympics#Gold medal match|1928 Olympic final]], which Uruguay had won 2–1 after a replay.<ref>{{cite web |url=https://olympics.com/en/news/in-amsterdam-in-1928-the-football-masters-were-uruguayan |title=In Amsterdam in 1928, the football masters were Uruguayan |work=International Olympic Committee |date=30 March 2021 |accessdate=18 January 2023 |archive-date=3 July 2021 |archive-url=https://web.archive.org/web/20210703113842/https://olympics.com/en/news/in-amsterdam-in-1928-the-football-masters-were-uruguayan |url-status=live }}</ref>
+
+The final was played at the [[Estadio Centenario]] on 30 July. Feelings ran high around the [[Río de la Plata Basin|La Plata Basin]] as the Argentine supporters crossed the river with the war cry ''Victoria o muerte'' ("victory or death"), dispelling any uncertainty as to whether the tournament had captured the imagination of the public. The ten boats earmarked to carry Argentine fans from Buenos Aires to Montevideo proved inadequate,<ref name="Glanville19"/> and any number of assorted craft attempted the crossing. An estimated 10–15,000 Argentinians made the trip, but the port at Montevideo was so overwhelmed that many did not even make landfall before [[kick-off (association football)|kick-off]], let alone reach the stadium.<ref>Goldblatt (2008), p. 250</ref> At the stadium, supporters were searched for weapons.<ref>Freddi (2006), p. 11</ref> The gates were opened at eight o'clock, six hours before kick-off, and by noon the ground was full,<ref name="Glanville19"/> with an official attendance of 93,000.<ref name="origin">{{Cite web |url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |title=FIFA World Cup Origin |website=FIFA |archive-url=https://web.archive.org/web/20100615195236/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |archive-date=15 June 2010 |url-status=dead |access-date=17 November 2009 }}</ref> A disagreement overshadowed the build-up to the match as the teams failed to agree on who should provide the match ball, forcing FIFA to intervene and decree that the Argentine team would provide the ball for the first half and the Uruguayans would provide their own for the second.<ref name="BBC1930"/> Uruguay made one change from their semi-final line-up. Castro replaced Anselmo, who was ill.<ref name="Crouch11">Crouch (2006), p. 11.</ref> Monti played for Argentina despite receiving death threats on the eve of the match. The referee was Belgian John Langenus.
+
+The hosts scored the opening goal through [[Pablo Dorado]], a low shot from a position on the right.<ref name="Freddi12">Freddi (2006), p. 12.</ref> Argentina, displaying superior passing ability, responded strongly. Within eight minutes they were back on level terms; [[Carlos Peucelle]] received a Ferreira through-ball, beat his [[marking (association football)|marker]] and equalised.<ref name="Freddi12"/> Shortly before half-time leading tournament goalscorer Guillermo Stábile gave Argentina a 2–1 lead. Uruguay captain Nasazzi protested, maintaining that Stábile was offside but to no avail.<ref name="Glanville20">Glanville (2005), p. 20</ref> In the second half Uruguay gradually became ascendant. Shortly after Stábile missed a chance to score again, Uruguay attacked in numbers and [[Pedro Cea]] scored an equaliser.<ref name="Freddi12"/> Ten minutes later, a goal by [[Santos Iriarte]] gave Uruguay the lead, and just before full-time Castro made it 4–2 to seal the win.<ref name="Glanville20"/> Langenus ended the match a minute later and Uruguay added the title of World Cup winner to their mantle of Olympic champions. Jules Rimet presented the [[FIFA World Cup Trophy#Jules Rimet Trophy|World Cup Trophy]], which was later named for him, to the head of the Uruguayan Football Association, [[Raúl Jude]].<ref name="Freddi13">Freddi (2006), p. 13.</ref> The following day was declared a national holiday in Uruguay;<ref name="origin"/> in the Argentinian capital, [[Buenos Aires]], a mob threw stones at the Uruguayan consulate.<ref>Glanville (2005), p. 21</ref> [[Francisco Varallo]] (who played as a forward for Argentina) was the last player in the final to die, on 30 August 2010.<ref>{{cite news |url=http://www.ole.com.ar/boca-juniors/gol-luto_0_326367514.html |title=El gol está de luto |newspaper=[[Olé (sports newspaper)|Olé]] |language=Spanish |date=30 August 2010 |accessdate=30 August 2010 |archive-date=7 September 2017 |archive-url=https://web.archive.org/web/20170907212810/http://www.ole.com.ar/boca-juniors/gol-luto_0_326367514.html |url-status=dead }}</ref>
+
+France, Yugoslavia and the United States all played [[exhibition game|friendlies]] in South America following the competition. Brazil played France on 1 August, Yugoslavia on 10 August and the United States on 17 August,<ref>{{cite web |url=http://paginas.terra.com.br/esporte/rsssfbrasil/sel/brazil192332.htm |title=Seleção Brasileira (Brazilian National Team) 1923–1932 |work=RSSSF Brazil |archiveurl=https://web.archive.org/web/20070814114450/http://paginas.terra.com.br/esporte/rsssfbrasil/sel/brazil192332.htm |archivedate=14 August 2007 |accessdate=20 June 2009 }}</ref> while Argentina hosted Yugoslavia on 3 August.<ref>{{cite web |url=https://www.rsssf.org/tablesa/arg-intres.html |title=Argentina national Team archive |work=[[RSSSF]] |last=Pelayes |first=Héctor Darío |accessdate=14 June 2009 |archiveurl=https://web.archive.org/web/20090603163633/http://www.rsssf.com/tablesa/arg-intres.html |archivedate=3 June 2009 |url-status=live }}</ref>
+
+Uruguay's aggregate goal difference of +12 over four games, at an average of +3 per match, remains the highest average goal difference per match of any World Cup champion and the second-highest of any World Cup finals participant, after Hungary in [[1954 FIFA World Cup|1954]].<ref>{{cite web |url=https://www.thescore.com/seri/news/490835 |title=What Happened at the 1930 World Cup? |work=The Score |publisher=Penn Entertainment |last=Parkes |first=Dustin |date=28 April 2014 |accessdate=18 January 2023}}</ref>
+
+==Group stage==
+
+===Group 1===
+{{main|1930 FIFA World Cup Group 1}}
+{{:1930 FIFA World Cup Group 1|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1930 FIFA World Cup Group 1|transcludesection=1-1}}
+----
+{{:1930 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1930 FIFA World Cup Group 1|transcludesection=1-3}}
+----
+{{:1930 FIFA World Cup Group 1|transcludesection=1-4}}
+----
+{{:1930 FIFA World Cup Group 1|transcludesection=1-5}}
+----
+{{:1930 FIFA World Cup Group 1|transcludesection=1-6}}
+
+===Group 2===
+{{main|1930 FIFA World Cup Group 2}}
+{{:1930 FIFA World Cup Group 2|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1930 FIFA World Cup Group 2|transcludesection=2-1}}
+----
+{{:1930 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1930 FIFA World Cup Group 2|transcludesection=2-3}}
+
+===Group 3===
+{{main|1930 FIFA World Cup Group 3}}
+{{:1930 FIFA World Cup Group 3|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1930 FIFA World Cup Group 3|transcludesection=3-1}}
+----
+{{:1930 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1930 FIFA World Cup Group 3|transcludesection=3-3}}
+
+===Group 4===
+{{main|1930 FIFA World Cup Group 4}}
+{{:1930 FIFA World Cup Group 4|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1930 FIFA World Cup Group 4|transcludesection=4-1}}
+----
+{{:1930 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1930 FIFA World Cup Group 4|transcludesection=4-3}}
+
+==Knockout stage==
+{{main|1930 FIFA World Cup knockout stage}}
+
+===Bracket===
+{{:1930 FIFA World Cup knockout stage|transcludesection=Bracket}}
+
+===Semi-finals===
+{{:1930 FIFA World Cup knockout stage|transcludesection=4-1}}
+----
+{{:1930 FIFA World Cup knockout stage|transcludesection=4-2}}
+
+===Final===
+{{main|1930 FIFA World Cup final}}
+
+{{#lst:1930 FIFA World Cup final|Final}}
+
+==Goalscorers==
+{{Goalscorers
+|goals=70 |matches=18
+
+|8 goals=
+* {{flagicon|ARG|1861}} [[Guillermo Stábile]]
+
+|5 goals=
+* {{flagicon|URU}} [[Pedro Cea]]
+
+|4 goals=
+* {{flagicon|USA|1912}} [[Bert Patenaude]]
+
+|3 goals=
+* {{flagicon|ARG|1861}} [[Carlos Peucelle]]
+* {{flagicon|BRA|1889}} [[Preguinho]]
+* {{flagicon|URU}} [[Peregrino Anselmo]]
+* {{flagicon|Kingdom of Yugoslavia}} [[Ivan Bek]]
+
+|2 goals=
+* {{flagicon|ARG|1861}} [[Luis Monti]]
+* {{flagicon|ARG|1861}} [[Adolfo Zumelzú]]
+* {{flagicon|BRA|1889}} [[Moderato (footballer)|Moderato]]
+* {{flagicon|CHI}} [[Guillermo Subiabre]]
+* {{flagicon|CHI}} [[Carlos Vidal]]
+* {{flagicon|FRA|1830}} [[André Maschinot]]
+* {{flagicon|MEX|1916}} [[Manuel Rosas (footballer, born 1912)|Manuel Rosas]]
+* {{flagicon|URU}} [[Héctor Castro]]
+* {{flagicon|URU}} [[Pablo Dorado]]
+* {{flagicon|URU}} [[Santos Iriarte]]
+* {{flagicon|Kingdom of Yugoslavia}} [[Đorđe Vujadinović]]
+
+|1 goal=
+* {{flagicon|ARG|1861}} [[Mario Evaristo]]
+* {{flagicon|ARG|1861}} [[Alejandro Scopelli]]
+* {{flagicon|ARG|1861}} [[Francisco Varallo]]
+* {{flagicon|FRA|1830}} [[Marcel Langiller]]
+* {{flagicon|FRA|1830}} [[Lucien Laurent]]
+* {{flagicon|MEX|1916}} [[Juan Carreño]]
+* {{flagicon|MEX|1916}} [[Roberto Gayón]]
+* {{flagicon|PAR|1842}} [[Luis Vargas Peña]]
+* {{flagicon|PER}} [[Luis de Souza]]
+* {{flagicon|Kingdom of Romania}} [[Adalbert Deșu]]
+* {{flagicon|Kingdom of Romania}} [[Nicolae Kovács]]
+* {{flagicon|Kingdom of Romania}} [[Constantin Stanciu]]
+* {{flagicon|USA|1912}} [[Jim Brown (soccer, born 1908)|Jim Brown]]
+* {{flagicon|USA|1912}} [[Tom Florie]]
+* {{flagicon|USA|1912}} [[Bart McGhee]]
+* {{flagicon|URU}} [[Héctor Scarone]]
+* {{flagicon|Kingdom of Yugoslavia}} [[Blagoje Marjanović]]
+* {{flagicon|Kingdom of Yugoslavia}} [[Aleksandar Tirnanić]]
+
+|1 own goal=
+* {{flagicon|MEX|1916}} [[Manuel Rosas (footballer, born 1912)|Manuel Rosas]] (against [[Chile national football team|Chile]])
+}}
+
+There are several goals for which the statistical details are disputed. The goalscorers and timings used here are those of FIFA, the official record. Some other sources, such as RSSSF, state a different scorer, timing, or both.<ref name="MC"/><ref>{{cite web |title=World Cup 1930 finals |publisher=[[RSSSF|Rec.Sport.Soccer Statistics Foundation]] |url=https://www.rsssf.org/tables/30full.html |accessdate=15 August 2010 |archive-date=2 June 2009 |archive-url=https://web.archive.org/web/20090602224814/http://www.rsssf.com/tables/30full.html |url-status=live }}</ref>
+
+==FIFA retrospective ranking==
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref name="F279" /> The rankings for the 1930 tournament were as follows:
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=25|{{abbr|R|Final ranking}}
+!width=165|Team
+!width=25|{{abbr|G|Group}}
+!width=25|{{abbr|P|Played}}
+!width=25|{{abbr|W|Win}}
+!width=25|{{abbr|D|Draw}}
+!width=25|{{abbr|L|Lose}}
+!width=25|{{abbr|GF|Goals for}}
+!width=25|{{abbr|GA|Goals against}}
+!width=25|{{abbr|GD|Goal difference}}
+!width=25|{{abbr|Pts|Points}}
+|- style="background:gold"
+| 1 ||style="text-align:left"| {{fb|URU}} || [[1930 FIFA World Cup Group 3|3]]
+| 4 || 4 || 0 || 0 || 15 || 3 || +12 || '''8'''
+|- style="background:silver"
+| 2 ||style="text-align:left"| {{fb|ARG|1861}} || [[1930 FIFA World Cup Group 1|1]]
+| 5 || 4 || 0 || 1 || 18 || 9 || +9 || '''8'''
+|- style="background:#c96"
+| 3 ||style="text-align:left"| {{fb|USA|1912}} || [[1930 FIFA World Cup Group 4|4]]
+| 3 || 2|| 0 || 1 || 7 || 6 || +1 || '''4'''
+|- style="background:#9acdff"
+| 4 ||style="text-align:left"| {{fb|Kingdom of Yugoslavia}} || [[1930 FIFA World Cup Group 2|2]]
+| 3 || 2 || 0|| 1 || 7 || 7 || 0 || '''4'''
+|-
+|colspan="11"| '''Eliminated in the group stage'''
+|-
+| 5 ||style="text-align:left"| {{fb|CHI}} || [[1930 FIFA World Cup Group 1|1]]
+| 3 || 2 || 0 || 1 || 5 || 3 || +2 || '''4'''
+|-
+| 6 ||style="text-align:left"| {{fb|BRA|1889}} || [[1930 FIFA World Cup Group 2|2]]
+| 2 || 1 || 0 || 1 || 5 || 2 || +3 || '''2'''
+|-
+| 7 ||style="text-align:left"| {{fb|FRA|1830}} || [[1930 FIFA World Cup Group 1|1]]
+| 3 || 1 || 0 || 2 || 4 || 3 || +1 || '''2'''
+|-
+| 8 ||style="text-align:left"| {{fb|ROU}} || [[1930 FIFA World Cup Group 3|3]]
+| 2 || 1 || 0 || 1 || 3 || 5 || −2 || '''2'''
+|-
+| 9 ||style="text-align:left"| {{fb|PAR|1842}} || [[1930 FIFA World Cup Group 4|4]]
+| 2 || 1 || 0 || 1 || 1 || 3 || −2 || '''2'''
+|-
+| 10 ||style="text-align:left"| {{fb|PER}} || [[1930 FIFA World Cup Group 3|3]]
+| 2 || 0 || 0 || 2 || 1 || 4 || −3 || '''0'''
+|-
+| 11 ||style="text-align:left"| {{fb|BEL}} || [[1930 FIFA World Cup Group 4|4]]
+| 2 || 0 || 0 || 2 || 0 || 4 || −4 || '''0'''
+|-
+| 12 ||style="text-align:left"| {{fb|BOL}} || [[1930 FIFA World Cup Group 2|2]]
+| 2 || 0 || 0 || 2 || 0 || 8 || −8 || '''0'''
+|-
+| 13 ||style="text-align:left"| {{fb|MEX|1916}} || [[1930 FIFA World Cup Group 1|1]]
+| 3 || 0 || 0 || 3 || 4 || 13 || −9 || '''0'''
+|}
+
+==See also==
+{{Portal|Association football|Uruguay}}
+*''[[See You in Montevideo]]'': 2014 Serbian film recreating the tournament from the point of view of the Yugoslav team
+{{clear}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==Bibliography==
+*{{Cite book |last=Crouch |first=Terry |url=https://archive.org/details/worldcupcomplete0000crou_f0z0 |title=The World Cup: The Complete History |date=2002 |publisher=Aurum |isbn=1-85410-843-3 |location=London |oclc=48930580 |url-access=registration }}
+*{{cite book |last=Freddi |first=Cris |title=Complete Book of the World Cup 2006 |publisher=HarperCollins |location=London |year=2006 |isbn=0-00-722916-X }}
+*{{cite book |last=Glanville |first=Brian |title=The Story of the World Cup |publisher=Faber and Faber |location=London |year=2005 |isbn=0-571-22944-1 }}
+*{{cite book |last=Goldblatt |first=David |title=The Ball Is Round: A Global History of Soccer |publisher=Penguin |year=2008 |isbn=978-1-59448-296-0 |url=https://books.google.com/books?id=i1158WHUTvwC |accessdate=30 August 2010 }}
+*{{cite book |last=Seddon |first=Peter |title=The World Cup's Strangest Moments |publisher=Robson |location=London |year=2005 |isbn=1-86105-869-1 |url-access=registration |url=https://archive.org/details/worldcupsstrange0000sedd }}
+*{{cite book |title=The Official History of the FIFA World Cup |author=FIFA World Football Museum |publisher=Carlton Books |year=2017 |location=London |isbn=978-1787390188}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1930|1930 FIFA World Cup}}
+*[https://www.fifa.com/worldcup/archive/uruguay1930/index.html 1930 FIFA World Cup Uruguay] {{Webarchive|url=https://web.archive.org/web/20181224193157/https://www.fifa.com/worldcup/archive/uruguay1930/index.html |date=24 December 2018 }}, FIFA.com
+*[https://www.rsssf.org/tables/30full.html 1930 FIFA World Cup] at RSSSF.com
+
+{{1930 FIFA World Cup}}
+{{1930 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1930 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1930]]
+[[Category:1930 in men's international association football|World Cup]]
+[[Category:1930 in Uruguayan football]]
+[[Category:Men's international association football competitions hosted by Uruguay|1930]]
+[[Category:July 1930 in sports]]
+[[Category:1930s in Montevideo]]
+[[Category:Football competitions in Montevideo|1930]]

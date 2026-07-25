@@ -1549,6 +1549,20 @@ WPL_CSS = """<style>
 .pl-gline .o { color:#cfe0f5; flex:1 1 auto; }
 .pl-gline .t { color:#7e8ba5; font-size:.72rem; }
 .pl-note { color:#8aa0bd; font-size:.78rem; margin:.1rem 0 .5rem 1px; }
+/* award rolls and the badges on a player profile */
+.aw-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:9px; }
+.aw-card { padding:9px 12px; border-radius:10px; background:linear-gradient(160deg,#1b2a47,#16223b);
+    border:1px solid rgba(108,172,228,.15); }
+.aw-card .yr { color:#6CACE4; font-weight:800; font-size:.78rem; margin-bottom:3px; }
+.aw-line { display:flex; align-items:center; gap:7px; font-size:.83rem; padding:1px 0; }
+.aw-line .ic { width:17px; flex:0 0 auto; }
+.aw-line .who { color:#eaf1fb; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.aw-line .nat { color:#8aa0bd; font-size:.74rem; margin-left:auto; flex:0 0 auto; }
+.aw-badge { display:inline-flex; align-items:center; gap:5px; padding:3px 10px; border-radius:8px; margin:0 5px 5px 0;
+    font-size:.78rem; font-weight:700; color:#FFD700;
+    background:linear-gradient(160deg,#2c2a12,#1a2238); border:1px solid rgba(255,215,0,.4); }
+.aw-badge.r2 { color:#dfe6f0; border-color:rgba(192,192,200,.35); background:linear-gradient(160deg,#20242c,#16223b); }
+.aw-badge.r3 { color:#e0a86a; border-color:rgba(205,127,50,.35); background:linear-gradient(160deg,#241c10,#16223b); }
 </style>"""
 
 with t_players:
@@ -1631,6 +1645,15 @@ with t_players:
         if _bits:
             st.markdown(" &nbsp;·&nbsp; ".join(_bits))
 
+        _paw = wpl.player_awards(_pick)
+        if _paw:
+            _bd = "".join(
+                f"<span class='aw-badge{'' if a['rank'] == 1 else ' r' + str(min(a['rank'], 3))}'>"
+                f"{wpl.AWARD_ICON.get(a['award'], '🏅')} {a['award']} {a['year']}"
+                + ("" if a["rank"] == 1 else f" · {a['rank']}{'nd' if a['rank'] == 2 else 'rd' if a['rank'] == 3 else 'th'}")
+                + "</span>" for a in _paw)
+            st.markdown(_bd, unsafe_allow_html=True)
+
         if _p["goals"]:
             _gl = ""
             for _g in _p["goal_rows"].itertuples():
@@ -1646,6 +1669,29 @@ with t_players:
         elif _p["editions_squad"]:
             st.caption("Named in a squad but never scored. Whether he took the field at all isn't "
                        "recorded in this data.")
+
+    ui.section("🏅 Awards, every edition", "the official individual awards, as recorded")
+    st.markdown("<div class='pl-note'>Distinct from the leading-scorer roll above, which is computed "
+                "from the goals. The <b>Golden Ball</b> dates from 1982, the <b>Golden Glove</b> from "
+                "1994, and the <b>Golden Boot</b> only became an award in 1982 — earlier top scorers "
+                "were recognised retroactively, so the pre-1982 tournaments carry few awards or none."
+                "</div>", unsafe_allow_html=True)
+    _acards = ""
+    for _y in reversed(wpl.award_years()):
+        _lines = ""
+        for _a in wpl.edition_awards(_y).itertuples():
+            _who = _a.nation_name if _a.is_team else _a.player_display
+            _nat = "" if _a.is_team else f"<span class='nat'>{_a.nation_name}</span>"
+            _lines += (f"<div class='aw-line'><span class='ic'>"
+                       f"{wpl.AWARD_ICON.get(_a.award, '🏅')}</span>"
+                       f"<span class='who'>{_who}</span>{_nat}</div>")
+        _acards += f"<div class='aw-card'><div class='yr'>{_y}</div>{_lines}</div>"
+    st.markdown(f"<div class='aw-grid'>{_acards}</div>", unsafe_allow_html=True)
+    _gbl = wpl.award_leaders("Golden Ball", 3)
+    if not _gbl.empty and int(_gbl.iloc[0]["wins"]) > 1:
+        _r = _gbl.iloc[0]
+        st.caption(f"Only **{_r['player']}** has won the Golden Ball more than once "
+                   f"({', '.join(str(y) for y in _r['years'])}).")
 
     ui.section("📊 Records", "computed from the archive, not hardcoded")
     _y, _o = _prec["youngest_scorer"], _prec["oldest_scorer"]

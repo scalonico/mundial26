@@ -1,0 +1,584 @@
+{{Short description|Association football tournament in Sweden}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox international football competition
+| tourney_name = FIFA World Cup
+| year = 1958
+| other_titles = {{native name|sv|Världsmästerskapet i Fotboll<br>Sverige 1958}}
+| image = 1958 FIFA World Cup.jpg
+| size = 200px
+| country = [[Sweden]]
+| dates = 8–29 June
+| confederations = 3
+| num_teams = 16
+| venues = 12
+| cities = 12
+| champion = Brazil
+| champion-flagvar = 1889
+| count = 1
+| second = Sweden
+|second-flagvar=1906
+| third = France
+| fourth = West Germany
+| matches = 35
+| goals = 126
+| attendance = {{#invoke:Football attendance summation|main|groups=1-4}}
+| top_scorer = {{fbicon|FRA|1830}} [[Just Fontaine]] (13 goals) 
+| player = {{fbicon|BRA|1889}} [[Didi (footballer, born 1928)|Didi]]
+| young_player = {{fbicon|BRA|1889}} [[Pelé]]
+| goalkeeper = {{fbicon|NIR}} [[Harry Gregg]]
+| prevseason = [[1954 FIFA World Cup|1954]]
+| nextseason = [[1962 FIFA World Cup|1962]]
+}}
+The '''1958 FIFA World Cup''' was the sixth [[FIFA World Cup]], the quadrennial [[Association football|football]] tournament for senior national teams. It was played in [[Sweden]] from 8 to 29 June 1958. It is the only [[Nordic countries|Nordic country]] to have hosted a FIFA World Cup.
+
+[[Brazil national football team|Brazil]] beat [[Sweden men's national football team|Sweden]] 5–2 in the [[1958 FIFA World Cup final|final]] in [[Solna]], [[Stockholm]], to claim their first title, having beaten [[France national football team|France]] in the semi-final and [[Wales national football team|Wales]] in the quarter-final. The tournament also marked the arrival of a 17 year old [[Pelé]] on the world stage. He scored in all three of Brazil's knockout games. French striker [[Just Fontaine]] scored 13 goals, the record for most goals ever scored in a single tournament.
+
+This was the first appearance of [[Wales national football team|Wales]] at the FIFA World Cup. They did not qualify for another until [[2022 FIFA World Cup|2022]]. This tournament also marked the debuts of [[Northern Ireland national football team|Northern Ireland]], as well as the [[Soviet Union national football team|Soviet Union]]. Defending champions [[Germany national football team|West Germany]] were eliminated by runners-up and host Sweden and lost to [[France national football team|France]] in the match for third place.
+
+== Host selection ==
+{{main|FIFA World Cup hosts}}
+Argentina, Chile, Mexico, and Sweden expressed interest in hosting the tournament.<ref name="Norlin">{{cite book |last=Norlin |first=Arne |title=1958: När Folkhemmet Fick Fotbolls-VM |year=2008 |publisher=Ross & Tegner |location=Malmö |language=sv |isbn=978-91-976144-8-1 }}</ref>{{rp|pp=24–25}} Swedish delegates lobbied other countries at the FIFA Congress held in [[Rio de Janeiro]] around the opening of the [[1950 FIFA World Cup|1950 World Cup finals]].<ref name="Norlin"/>{{rp|pp=24–25}} Sweden was awarded the 1958 tournament unopposed on 23 June 1950.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/ip-201_13a_fwc-host.pdf|archive-url=https://web.archive.org/web/20120117104450/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/ip-201_13a_fwc-host.pdf|url-status=dead|archive-date=17 January 2012|title=FIFA World Cup: host announcement decision|date=12 March 2009|publisher=FIFA|access-date=2 October 2011}}</ref>
+
+== Qualification ==
+{{main|1958 FIFA World Cup qualification}}
+
+The hosts ([[Sweden men's national football team|Sweden]]) and the defending champions ([[Germany national football team|West Germany]]) qualified automatically. Of the remaining 14 places, nine were allocated to Europe, three to South America, one to North/Central America, and one to Asia/Africa.
+ 
+Aside from the main European zone matches, [[Wales national football team|Wales]], which finished second in its group behind [[Czechoslovakia national football team|Czechoslovakia]], was drawn into a play-off with [[Israel national football team|Israel]] after Israel won its group by default because its three opponents, [[Turkey national football team|Turkey]], [[Indonesia national football team|Indonesia]] and [[Sudan national football team|Sudan]], refused to play. FIFA had imposed a rule that no team would qualify without playing at least one match, something that had happened in several previous World Cups. Wales won the play-off and qualified for the first time (something they did not do again until [[2022 FIFA World Cup|2022]]). With [[Northern Ireland national football team|Northern Ireland]] making its debut, and [[England national football team|England]] and [[Scotland national football team|Scotland]] also qualifying, this World Cup was the only one to date to feature all four of the United Kingdom’s Home Nations.
+ 
+This World Cup also featured the entry and qualification of the [[Soviet Union national football team|Soviet Union]] for the first time, while Argentina appeared for the first time since [[1934 FIFA World Cup|1934]]. It was also the first one for which [[Italy national football team|Italy]] failed to qualify (Italy did not take part in the [[1930 FIFA World Cup|1930 tournament]] but there was no qualification for that competition). Other teams that failed to qualify included two-time champions and [[1954 FIFA World Cup|1954]] semi-finalists [[Uruguay national football team|Uruguay]], as well as [[Spain men's national football team|Spain]] and [[Belgium national football team|Belgium]].
+
+On 8 February 1958, in [[Solna Municipality|Solna]], [[Lennart Hyland]] and [[Sven Jerring]] presented the results of the draw in which the qualified teams were divided into four groups.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf |archive-url=https://web.archive.org/web/20080226235749/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf |url-status=dead |archive-date=26 February 2008 |title=History of the World Cup Final Draw|access-date=2 March 2012}}</ref> Seeding was geographical rather than by team strength, with each group containing one western European team, one eastern European team, one of the four British teams that had qualified, and one from the Americas.
+
+===List of qualified teams===
+
+The following 16 teams qualified for the final tournament.
+{{col-begin}}
+{{col-4}}
+'''[[1958 FIFA World Cup qualification (AFC)|AFC]] (0)'''
+* None qualified
+'''[[1958 FIFA World Cup qualification (CAF)|CAF]] (0)'''
+* None qualified
+{{col-4}}
+'''[[1958 FIFA World Cup qualification#North, Central America and Caribbean|NAFC]] (1)'''
+* {{fb|MEX|1934}}
+'''[[1958 FIFA World Cup qualification#North, Central America and Caribbean|CCCF]] (0)'''
+* None qualified
+'''[[1958 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (3)'''
+* {{fb|ARG|1861}}
+* {{fb|BRA|1889}}
+* {{fb|PAR|1954}}
+{{col-4}}
+'''[[1958 FIFA World Cup qualification (UEFA)|UEFA]] (12)'''
+* {{fb|AUT}}
+* {{fb|TCH}}
+* {{fb|ENG}}
+* {{fb|FRA|1830}}
+* {{fb|HUN}}
+* {{fb|NIR}} (debut)
+* {{fb|SCO}}
+* {{fb|URS|1955}} (debut)
+* {{fb|SWE}} (hosts)
+* {{fb|WAL|1953}} (debut)
+* {{fb|FRG}} (holders)
+* {{fb|YUG}}
+{{col-4}}
+{{col-end}}
+
+== Format ==
+[[File:USSR 1958 2071-2072 1697 0.jpg|thumb|USSR stamps marking the tournament; the [[Soviet Union national football team|Soviet Union]] qualified for the first time]]
+The format of the competition changed from [[1954 FIFA World Cup|1954]]: 16 teams still competed in four groups of four, but this time each team played each of the other teams in its group at least once, without extra time in the event of a draw. Two points were awarded for a win and one point for a draw. If the first two teams finished on equal points, then [[goal average]] (or goal ratio) decided their placements with the top two teams from each group going through to the quarter finals. As in 1954, if the second- and third-placed teams finished on the same points, then there would be a play-off with the winner going through. If a play-off resulted in a draw, goal average from the group games would be used to determine who went through to the next round. If the goal averages were equal, then lots would have been drawn. By the time the competition began, these arrangements were still in discussion. Some teams complained that a play-off match, meaning three games in five days, was too much, and before the second round of group matches, FIFA informed the teams that goal average would be used before resorting to a play-off.<ref name="Norlin"/>{{rp|p=117}} This was overturned when the [[Swedish Football Association]] complained, stating that it was wrong to change the rules mid-tournament, but also because it wanted the extra revenue from playoff matches.<ref name="Norlin"/>{{rp|p=117}}
+
+This was the first time that goal average was available to separate teams in a World Cup. It was used to separate the teams finishing first and second in one of the groups. However, all three playoffs finished with decisive results and so it was not needed to separate the teams involved in a tied playoff.
+
+Almost all the matches kicked off simultaneously in each of the three rounds of the group phase, as did the quarter-finals and semi-finals. The exceptions were Sweden's three group matches, all of which were televised by [[Sveriges Radio]]; these started at other times so Swedes could attend other matches without missing their own team's. Apart from these, one match per round was televised, and relayed across Europe by the [[European Broadcasting Union]] (EBU). Many Swedes bought their first television for the World Cup.
+
+The official ball was the "Top-Star VM-bollen 1958" model made by Sydsvenska Läder & Remfabriks AB (aka "Remmen" or "Sydläder") in [[Ängelholm]]. Four FIFA officials conducted a blind test to choose it from 102 candidates.<ref name="Norlin"/>{{rp|pp=130–136}}<ref>{{cite web|url=http://www.balones-oficiales.com/mundial1958.htm|title=Top Star 1958|publisher=balones-oficiales.com|access-date=17 September 2011|archive-url=https://web.archive.org/web/20120402132522/http://www.balones-oficiales.com/mundial1958.htm|archive-date=2 April 2012|url-status = dead}}</ref>
+
+== Summary ==
+
+[[File:1958 world cup.png|thumb|upright=1.8|Qualifying countries and their results]]
+
+In Group 4, [[Pelé]] and [[Garrincha]] did not play until the last of [[Brazil national football team|Brazil]]'s group games, against the [[Soviet Union national football team|Soviet Union]].<ref>{{Cite news |date=30 December 2022 |title=How 17-year-old Pele conquered the world with dazzling goals as Brazil won its first World Cup in 1958 |work=The Economic Times |url=https://economictimes.indiatimes.com/magazines/panache/how-17-year-old-pele-conquered-the-world-with-dazzling-goals-as-brazil-won-its-first-world-cup-in-1958/articleshow/96611469.cms |access-date=15 March 2023 |issn=0013-0389 |archive-date=15 March 2023 |archive-url=https://web.archive.org/web/20230315124632/https://economictimes.indiatimes.com/magazines/panache/how-17-year-old-pele-conquered-the-world-with-dazzling-goals-as-brazil-won-its-first-world-cup-in-1958/articleshow/96611469.cms |url-status=live }}</ref> Pelé failed to score, but provided the assist to [[Vavá]]'s second goal.<ref>{{Cite web |date=2022 |title=Pelé: Most Wins of the FIFA World Cup by a player |url=https://www.guinnessworldrecords.com/records/hall-of-fame/pele-most-wins-of-the-fifa-world-cup-by-a-player |access-date=27 December 2022 |website=Guinness World Records |language=en-gb |archive-date=23 October 2017 |archive-url=https://web.archive.org/web/20171023230005/https://www.guinnessworldrecords.com/records/hall-of-fame/pele-most-wins-of-the-fifa-world-cup-by-a-player |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2022 |title=Pelé leads Brazil to first World Cup title |url=https://www.history.com/this-day-in-history/pele-helps-brazil-to-world-cup-title |access-date=27 December 2022 |website=HISTORY |language=en |archive-date=8 November 2022 |archive-url=https://web.archive.org/web/20221108080904/https://www.history.com/this-day-in-history/pele-helps-brazil-to-world-cup-title |url-status=live }}</ref> Brazil won the game 2–0 (also thanks to an impressive exhibition of dribbling prowess by Garrincha) and the group by two points. Previously, they had drawn 0–0 with England in what was the first ever goalless game in World Cup history. Eventually, the Soviet Union and England went to a playoff game, in which [[Anatoli Ilyin]] scored in the 67th minute to knock England out, while [[Austria national football team|Austria]] had already been eliminated. The English side had been weakened by the [[Munich air disaster]] earlier in the year, which killed three internationals on the books of [[Manchester United F.C.|Manchester United]], including England's young star [[Duncan Edwards]].
+
+Playoffs were also needed in Group 1 ([[Northern Ireland national football team|Northern Ireland]] beat [[Czechoslovakia national football team|Czechoslovakia]] to join the defending champions [[Germany national football team|West Germany]] in the quarter-finals) and Group 3 ([[Wales national football team|Wales]] topped [[Hungary national football team|Hungary]] to advance with hosts [[Sweden men's national football team|Sweden]]). Hungary had become a spent force after their appearance in the final of the previous tournament. They had lost their best players two years before, when they fled in the wake of [[1956 Hungarian Revolution|the failed uprising]] against the communist regime. In a rather restrictive sense, from the 1954 team, only goalkeeper [[Gyula Grosics]], defender [[Jozsef Bozsik]] and forward [[Nándor Hidegkuti]] remained.
+
+In Group 2, [[Scotland national football team|Scotland]] faced [[Yugoslavia national football team|Yugoslavia]], [[Paraguay national football team|Paraguay]], and [[France national football team|France]]. France topped the group, with [[Just Fontaine]] netting six goals. Yugoslavia finished second, while Scotland came in last.
+
+In the quarter-finals, France's Just Fontaine continued his group stage form, managing another two goals as France triumphed over Northern Ireland. West Germany's [[Helmut Rahn]] put them into the semi-finals with a single goal against Yugoslavia, while Sweden went through at the expense of the Soviet Union. In the other quarter-final, Pelé scored the only goal for Brazil against Wales.
+
+In the semi-finals, Sweden continued their strong run as they defeated West Germany 3–1 in a vicious game in which the German player [[Erich Juskowiak]] was sent off (the first ever German player to be sent off in an international game) and German veteran forward [[Fritz Walter]] was injured, further weakening the German team (substitutes were first allowed in the [[1970 FIFA World Cup]]).
+
+In the other semi-final, Brazil and France were tied 1–1 for much of the first half. However, 36 minutes into the game, French captain and most experienced defender [[Robert Jonquet]] suffered a broken leg in a clash with Vavá, and France was down to ten men for the rest of the game. Brazil dominated the rest of the match, as a Pelé hat-trick gave them a 5–2 victory. Fontaine of France added one goal to his impressive tally.
+
+In the match for third place, Fontaine scored four more goals as France defeated West Germany 6–3. This brought his total to 13 goals in one competition, a record that still stands.
+
+=== Final ===
+[[File:1958 Football World Cup poster.jpg|thumb|upright|Official 1958 FIFA World Cup poster.]]
+The [[1958 FIFA World Cup Final|final]] was played in [[Solna Municipality|Solna]], in the [[Råsunda Stadium]]; 50,000 people watched as the Brazilians went a goal down after four minutes. However, [[Vavá]] equalised shortly afterwards and then put them a goal ahead before half time. In the second half, Pelé outshone everyone, notching two goals. For the first one, he lobbed the ball over [[Bengt Gustavsson]] then followed it with a precise volley shot. [[Mário Zagallo|Zagallo]] added a goal in between, and Sweden managed a consolation goal.
+
+In the final, many World Cup records were set that still stand {{as of|2018|lc=y}}. At age 17, Pelé simultaneously became the youngest player to participate in, score, and win a World Cup final. Conversely, [[Nils Liedholm]] became the oldest player to score in a World Cup Final at 35 years 263 days. This final had the highest number of goals scored by a winning team (5), the highest number of total goals scored (7), and together with the [[1970 FIFA World Cup Final|1970]] and [[1998 FIFA World Cup Final|1998]] finals shares the highest goal margin of difference (3); Brazil played in all those three finals.
+
+The game is also notable for many firsts in FIFA World Cup. With the exception of the [[1950 FIFA World Cup]] final group stage, this marked the first time that a World Cup host reached the final without winning it. Additionally, the match marked the first time two nations from different continents (Europe and South America) met in a World Cup final. It also marks the first and only World Cup hosted in Europe not won by a European team, a feat mirrored in [[2014 FIFA World Cup|2014]], when a World Cup hosted in the [[Americas]] was not won by a team from the Americas for the first time, when [[2014 FIFA World Cup Final|Germany beat Argentina 1–0 in the final]]. It is also presently the only FIFA World Cup when all teams earned at least one point in the group stage.
+
+== Venues ==
+A total of twelve cities throughout the central and southern parts of Sweden hosted the tournament. FIFA regulations required at least six stadiums to have a capacity of at least 20,000.<ref name="Norlin"/>{{rp|p=23}} If [[Denmark national football team|Denmark]] had qualified, the organisers had planned to use the [[Idrætsparken]] in [[Copenhagen]] for Denmark's group matches.<ref name="Norlin"/>{{rp|p=23}} The Idrætsparken was renovated in 1956 with this in mind, but Denmark lost out to England in qualification.<ref name="Norlin"/>{{rp|p=23}} When doubts arose about whether funding would be forthcoming for rebuilding the [[Ullevi]] and [[Malmö Stadion]], the organisers considered stadiums in Copenhagen and [[Oslo]] as contingency measures.<ref name="Norlin"/>{{rp|p=32}}
+
+The Råsunda Stadium was expanded from 38,000 for the World Cup by building end stands.<ref name="Norlin"/>{{rp|p=27}} Organising committee chairman Holger Bergérus mortgaged his house to pay for this.<ref name="Norlin"/>{{rp|p=27}} The new Malmö Stadion was built for the World Cup, replacing the 1896 Malmö Stadion at a new site.<ref name="Norlin"/>{{rp|p=30}} The Idrottsparken had 4,709 seats added for the World Cup. The [[Swedish Social Democratic Workers' Party|Social Democratic]] municipal government refused to pay for this until the organisers threatened to select [[Folkung]]avallen in [[Linköping]] instead.<ref name="Norlin"/>{{rp|p=28}} At the Rimnersvallen, a stand from the smaller Oddevallen stadium was moved to Rimnersvallen for the World Cup. The crowd at Brazil v. Austria was estimated at 21,000, with more looking in from the adjoining hillside.<ref name="Norlin"/>{{rp|p=27}} The most used stadium was the Råsunda Stadium in Stockholm, which hosted 8 matches, including the final, followed by the Ullevi Stadium in Gothenburg (the biggest stadium used during the tournament), which hosted 7 matches. The Malmö Stadium hosted 4 matches, Norrköping hosted 3 matches; Borås, Halmstad, Helsingborg, Västerås, and Sandviken hosted 2 matches each, and Örebro, Eskilstuna, and Uddevalla each hosted 1 match.
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Gothenburg]]
+![[Solna Municipality|Solna]]<br>{{small|([[Stockholm]] area)}}
+![[Malmö]]
+![[Helsingborg]]
+|-
+|[[Ullevi|Ullevi Stadium]]
+|[[Råsunda Stadium]]
+|[[Malmö Stadion]]
+|[[Olympia (Helsingborg)|Olympia]]
+|-
+| Capacity: '''53,500'''
+| Capacity: '''52,400'''
+| Capacity: '''30,000'''
+| Capacity: '''27,000'''
+|-
+|[[File:Ullevi 1959-06-03.jpg|200px]]
+|[[File:Råsunda February 2013 01.jpg|200px]]
+|[[File:South Stand, Malmö Stadion.jpg|200px]]
+|[[File:Olympia Helsingborg.jpg|200px]]
+|-
+![[Eskilstuna]] 
+| colspan="2" rowspan="8" |{{Location map+|Sweden South|width=400|float=center|caption=|places=
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=57.7167|lon_deg=12.9333|position=top|label=[[Borås]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=59.3667|lon_deg=16.5167|position=bottom|label=[[Eskilstuna]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=57.7|lon_deg=11.9667|position=bottom|label=[[Gothenburg]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=56.6667|lon_deg=12.85|position=top|label=[[Halmstad]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=56.05|lon_deg=12.7167|position=right|label=[[Helsingborg]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=55.5833|lon_deg=13.0333|position=bottom|label=[[Malmö]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=58.6|lon_deg=16.2|position=bottom|label=[[Norrköping]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=59.2667|lon_deg=15.2167|position=left|label=[[Örebro]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=60.6167|lon_deg=16.7833|position=left|label=[[Sandviken]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=59.35|lon_deg=18|position=right|label=[[Solna Municipality|Solna]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=58.35|lon_deg=11.9167|position=to|label=[[Uddevalla]]}}
+{{Location map~|Sweden South|mark=red pog.svg|lat_deg=59.6167|lon_deg=16.5333|position=top|label=[[Västerås]]}}
+}}
+![[Norrköping]]
+|-
+|[[Tunavallen]]
+|[[Nya Parken|Idrottsparken]]
+|-
+|Capacity: '''22,000'''
+|Capacity: '''20,000'''
+|-
+|[[File:Tunavallen 2011.jpg|200px]]
+|[[File:Nyaparken.jpg|200px]]
+|-
+![[Sandviken]]
+![[Uddevalla]]
+|-
+|[[Jernvallen]]
+|[[Rimnersvallen]]
+|-
+|Capacity: '''20,000'''
+|Capacity: '''17,778'''
+|-
+|[[File:Jernvallen.jpg|200px]]
+|[[File:Rimnersvallen.jpg|200px]]
+|-
+![[Borås]]
+![[Halmstad]]
+![[Örebro]]
+![[Västerås]]
+|-
+|[[Ryavallen]]
+|[[Örjans Vall]]
+|[[Behrn Arena|Eyravallen]]
+|[[Arosvallen]]
+|-
+|Capacity: '''15,000'''
+|Capacity: '''15,000'''
+|Capacity: '''13,000'''
+|Capacity: '''10,000'''
+|-
+|[[File:Ryavallen, main stand, january 2008.JPG|200px]]
+|[[File:Northern Ireland vs Czechoslovakia FIFA World Cup 1958.jpg|200px]]
+|[[File:Behrn Arena 2008.JPG|200px]]
+|[[File:Arosvallen Gåsmyrevreten Västerås.jpg|200px]]
+|}
+
+== Match officials ==
+
+22 match officials were assigned to the tournament to serve as referees and assistant referees.
+
+{{div col|colwidth=25em}}
+'''Europe'''
+* {{fbaicon|AUT}} Fritz Seipelt
+* {{fbaicon|BEL}} Lucien van Nuffel
+* {{fbaicon|TCH}} Martin Macko
+* {{fbaicon|DEN}} Carl Jørgensen
+* {{fbaicon|ENG}} [[Arthur Edward Ellis|Arthur Ellis]]
+* {{fbaicon|ENG}} [[Reginald Leafe]]
+* {{fbaicon|FIN}} [[Arne Eriksson]]
+* {{fbaicon|FRA|1830}} [[Maurice Guigue]]
+* {{fbaicon|HUN}} [[István Zsolt]]
+* {{fbaicon|ITA|1946}} [[Vincenzo Orlandini]]
+* {{fbaicon|NED}} Jan Bronkhorst
+* {{fbaicon|POR}} Joaquim Campos
+* {{fbaicon|SCO}} [[Jack Mowat]]
+* {{fbaicon|ESP|1945}} [[Juan Gardeazábal Garay]]
+* {{fbaicon|SWE}} Sten Ahlner
+* {{fbaicon|SUI|civil}} Raymond Wyssling
+* {{fbaicon|URS|1955}} [[Nikolai Latyshev]]
+* {{fbaicon|WAL|1953}} [[Mervyn Griffiths]]
+* {{fbaicon|FRG}} [[Albert Dusch]]
+* {{fbaicon|YUG}} [[Leo Lemešić]]
+
+'''South America'''
+* {{fbaicon|ARG|1861}} Juan Brozzi
+* {{fbaicon|URU}} José María Codesal
+
+{{div col end}}
+
+== Seeding ==
+There was no seeding for this World Cup; the teams were instead allocated geographically into four pots chosen by the FIFA World Cup Organisers.<ref name="FIFA seeding">{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/82/40/89/fs-201_12a_fwc-seeding.pdf|archive-url=https://web.archive.org/web/20120722050449/http://www.fifa.com/mm/document/fifafacts/mencompwc/82/40/89/fs-201%5f12a%5ffwc-seeding.pdf|url-status=dead|archive-date=22 July 2012|publisher=FIFA |title=FIFA World Cup: Seeded teams 1930–2010 |date=November 2009}}</ref> Teams were drawn from each pot into Groups 1–4 in numerical order.
+
+Preventing the defending champions from meeting the hosts in the group stage, either by seeding or predetermined group positions, was a practiced tradition throughout the history of the FIFA World Cup, with [[1934 FIFA World Cup|1934]] and [[1954 FIFA World Cup|1954]] being the only two exceptions.<ref name="FIFA seeding"/> This tradition continued in 1958, with West Germany as defending champion and host nation Sweden both being allocated into the same ''Western European Pot'', which kept them from meeting in the group stage.
+
+{| class="wikitable" style="width:98%"
+|-
+!width=20%| Western European Pot
+!width=25%| Eastern European Pot
+!width=25%| British Pot
+!width=25%| Americas Pot
+|-
+| valign="top"|
+
+* {{fb|SWE}} <small>(hosts)</small>
+* {{fb|FRG}} <small>([[FIFA World Cup Trophy#Winners|holders]])</small>
+* {{fb|AUT}}
+* {{fb|FRA|1830}}
+| valign="top"|
+
+* {{fb|TCH}}
+* {{fb|HUN}}
+* {{fb|URS|1955}}
+* {{fb|YUG}}
+| valign="top"|
+
+* {{fb|ENG}}
+* {{fb|NIR}}
+* {{fb|SCO}}
+* {{fb|WAL|1953}}
+| valign="top"|
+
+* {{fb|ARG|1861}}
+* {{fb|BRA|1889}}
+* {{fb|MEX|1934}}
+* {{fb|PAR|1954}}
+|}
+
+The geographical basis of the seeding attracted criticism, especially from Austria, who were drawn against the teams considered strongest in each of the other three pots.<ref name="Norlin"/>{{rp|p=8}}
+
+== Squads ==
+For a list of all squads that appeared in the final tournament, see ''[[1958 FIFA World Cup squads]]''.
+
+==Group stage==
+
+===Group 1===
+{{Main|1958 FIFA World Cup Group 1}}
+
+{{:1958 FIFA World Cup Group 1|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+The West Germans, surprise world champions four years before, were still very strong, and fielded a young forward with lots of potential in [[Uwe Seeler]]. The Germans had to contend with a tournament favorites in Argentina's team, competing for the first time since 1934. Argentina had been given a chance of reaching the semi-finals or even winning the World Cup this time. Czechoslovakia was a fairly strong team with a rich football tradition, and was considered to be no walkover for the West Germans or the Argentinians.
+
+Northern Ireland had qualified for the tournament after defeating two-time world champions Italy during World Cup qualifying despite being considered underdogs. They ultimately advanced to the quarter-finals of the World Cup Finals by defeating Czechoslovakia in a play-off match, cited as one of the major upsets in early World Cup history.<ref>{{Cite web |last=Soccer |first=World |date=2014-11-15 |title=Northern Ireland's greatest moment |url=https://www.worldsoccer.com/world-soccer-latest/northern-irelands-greatest-moment-357746 |access-date=2026-06-03 |website=World Soccer |language=en}}</ref><ref>{{Cite web |last=Millar |first=Colin |date=2017-06-07 |title=Northern Ireland's love affair with international tournaments |url=https://thesefootballtimes.co/2017/06/07/northern-irelands-love-affair-with-international-tournaments/ |access-date=2026-06-03 |website=These Football Times |language=en-GB |archive-date=5 March 2026 |archive-url=https://web.archive.org/web/20260305063323/https://thesefootballtimes.co/2017/06/07/northern-irelands-love-affair-with-international-tournaments/ |url-status=live }}</ref>
+
+Argentina experienced a [[Disaster of Sweden|horrible blow]] finishing last in the group with a −5 goal differential. Arriving home, the Argentinian team met the wrath of several thousand angry football fans at [[Ezeiza International Airport|Ezeiza Airport]] in [[Buenos Aires]].<ref>''Mundo Deportivo'', 23 June 1958; ''El Grafico'', 27 June 1958.</ref>
+
+{{:1958 FIFA World Cup Group 1|transcludesection=1-1}}
+{{:1958 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1958 FIFA World Cup Group 1|transcludesection=1-3}}
+{{:1958 FIFA World Cup Group 1|transcludesection=1-4}}
+----
+{{:1958 FIFA World Cup Group 1|transcludesection=1-5}}
+{{main|Disaster of Sweden}}
+{{:1958 FIFA World Cup Group 1|transcludesection=1-6}}
+
+====Play-off====
+{{:1958 FIFA World Cup Group 1|transcludesection=1-PO}}
+
+===Group 2===
+{{Main|1958 FIFA World Cup Group 2}}
+
+{{:1958 FIFA World Cup Group 2|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+The second group had the largest number of goals scored in a single group in the 1958 World Cup, with 31 goals in total (~5.16 goals per game). Just Fontaine of France scored 6 of his 13 goals in the tournament, making him the tournament's top scorer going into the quarter-finals.
+
+The teams in this group had not achieved significant success in past World Cups. France, even as hosts in [[1938 FIFA World Cup|1938]], did not secure notable achievements; Yugoslavia failed to match their 1930 semi-final run; and both Paraguay and Scotland entered the tournament as underdogs.
+
+France won the group ahead of Yugoslavia and went on to finish third.
+
+{{:1958 FIFA World Cup Group 2|transcludesection=2-1}}
+{{:1958 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1958 FIFA World Cup Group 2|transcludesection=2-3}}
+{{:1958 FIFA World Cup Group 2|transcludesection=2-4}}
+----
+{{:1958 FIFA World Cup Group 2|transcludesection=2-5}}
+{{:1958 FIFA World Cup Group 2|transcludesection=2-6}}
+
+===Group 3===
+{{Main|1958 FIFA World Cup Group 3}}
+
+{{:1958 FIFA World Cup Group 3|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+The Swedish hosts could count themselves lucky in ending up in a rather weak group, which they proceeded to win fairly easily with their powerful, workmanlike football. The group included [[Hungary national football team|Hungary]] which had been considered by far the best team in the world some years ago, although the Hungarians could not beat [[Germany national football team|West Germany]] in the final of the [[1954 FIFA World Cup|World Cup in 1954]]. But the Hungarian team had been dealt a blow by the [[Hungarian Revolution of 1956]] after which star players like [[Sándor Kocsis]] and [[Ferenc Puskás]] left their homeland. Striker [[Nándor Hidegkuti]] was still playing, but he was 36 years old and nowhere near his peak form.
+
+In spite of Hungary's recent travails, they were still considered a strong side and were expected to advance from their group. The success of [[Wales national football team|Wales]] was a surprise but they drew all their group games and beat the Hungarians in a play-off match to follow Sweden into the knockout stage. Wales played Brazil in the quarter-finals and became the recipient of young [[Pelé]]'s first World Cup goal.<ref>{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/league_of_wales/8957288.stm|title=BBC Sport archive: 1958 - Wales 0-1 Brazil|date=1 September 2010|via=news.bbc.co.uk|archive-date=12 October 2023|access-date=15 September 2025|archive-url=https://web.archive.org/web/20231012050202/http://news.bbc.co.uk/sport2/hi/football/league_of_wales/8957288.stm|url-status=live}}</ref>
+
+The 1–1 draw between Wales and Mexico was the first point scored by Mexico in a World Cup, having lost all eight matches in their previous three appearances in the World Cup, as well as their first match in this group against Sweden. To date, no other team has ever lost nine consecutive games in the World Cup.
+
+The match between Hungary and Wales in [[Sandviken]] became the northernmost World Cup match in history.
+
+{{:1958 FIFA World Cup Group 3|transcludesection=3-1}}
+{{:1958 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1958 FIFA World Cup Group 3|transcludesection=3-3}}
+{{:1958 FIFA World Cup Group 3|transcludesection=3-4}}
+----
+{{:1958 FIFA World Cup Group 3|transcludesection=3-5}}
+{{:1958 FIFA World Cup Group 3|transcludesection=3-6}}
+
+====Play-off====
+{{:1958 FIFA World Cup Group 3|transcludesection=3-PO}}
+
+===Group 4===
+{{Main|1958 FIFA World Cup Group 4}}
+
+{{:1958 FIFA World Cup Group 4|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+Despite setbacks in earlier tournaments, Brazil was still regarded as a formidable force, a reputation that they justified. The Soviet Union, having clinched the [[Association football at the 1956 Summer Olympics – Men's qualification|Olympic gold]] in 1956, and Austria, securing the bronze medal at the 1954 World Cup in Switzerland, were also strong contenders. England, despite being weakened by the tragic [[Munich air disaster]] that claimed several players, remained a team of considerable strength.
+
+In the end, this group had the highest average attendance (31,320 per game), even higher than Group 3 with the host nation, Sweden.
+
+The quality of the football in this group did not quite live up to expectations, however. Only 15 goals were scored in the whole group, only one more than Group 3. And when England and Brazil drew 0–0, it was the first time in World Cup history that a game ended goalless. It was also the first time Brazil had failed to score in a World Cup finals match.
+
+Brazil won the group without conceding a single goal. The teenage Pelé played Brazil's last game against the Soviet Union. He did not score but drew wild reviews for his play. The Soviet Union, in their first World Cup, took second place.
+
+{{:1958 FIFA World Cup Group 4|transcludesection=4-1}}
+{{:1958 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1958 FIFA World Cup Group 4|transcludesection=4-3}}
+{{:1958 FIFA World Cup Group 4|transcludesection=4-4}}
+----
+{{:1958 FIFA World Cup Group 4|transcludesection=4-5}}
+{{:1958 FIFA World Cup Group 4|transcludesection=4-6}}
+
+====Play-off====
+{{:1958 FIFA World Cup Group 4|transcludesection=4-PO}}
+
+==Knockout stage==
+{{Main|1958 FIFA World Cup knockout stage}}
+
+===Bracket===
+{{#lst:1958 FIFA World Cup knockout stage|Bracket}}
+
+===Quarter-finals===
+{{#lst:1958 FIFA World Cup knockout stage|QF1}}
+----
+{{#lst:1958 FIFA World Cup knockout stage|QF2}}
+----
+{{#lst:1958 FIFA World Cup knockout stage|QF3}}
+----
+{{#lst:1958 FIFA World Cup knockout stage|QF4}}
+
+===Semi-finals===
+{{#lst:1958 FIFA World Cup knockout stage|SF1}}
+----
+{{#lst:1958 FIFA World Cup knockout stage|SF2}}
+
+===Match for third place===
+{{#lst:1958 FIFA World Cup knockout stage|TPP}}
+
+===Final===
+{{Main|1958 FIFA World Cup final}}
+
+{{#lst:1958 FIFA World Cup Final|Final}}
+
+==Goalscorers==
+With 13 goals, Just Fontaine was the top scorer in the tournament. {{as of|2026}}, no player has ever scored more goals in a single FIFA World Cup Final stage. In total, 126 goals were scored by 60 players, with none of them credited as an own goal.<ref>{{cite web|title=Players - Top goals|url=https://www.fifa.com/worldcup/archive/sweden1958/statistics/players/goal-scored.html|archive-url=https://web.archive.org/web/20170718140440/http://www.fifa.com/worldcup/archive/sweden1958/statistics/players/goal-scored.html|url-status=dead|archive-date=18 July 2017|publisher=FIFA}}</ref>
+
+'''13 goals'''
+* {{flagicon|FRA|1830}} [[Just Fontaine]]
+
+'''6 goals'''
+* {{flagicon|BRA|1889}} [[Pelé]]
+* {{flagicon|FRG}} [[Helmut Rahn]]
+
+'''5 goals'''
+* {{flagicon|BRA|1889}} [[Vavá]]
+* {{flagicon|NIR}} [[Peter McParland]]
+
+'''4 goals'''
+* {{flagicon|TCH}} [[Zdeněk Zikán]]
+* {{flagicon|HUN}} [[Lajos Tichy]]
+* {{flagicon|SWE}} [[Kurt Hamrin]]
+* {{flagicon|SWE}} [[Agne Simonsson]]
+
+'''3 goals'''
+* {{flagicon|ARG|1861}} [[Oreste Corbatta]]
+* {{flagicon|FRA|1830}} [[Raymond Kopa]]
+* {{flagicon|FRA|1830}} [[Roger Piantoni]]
+* {{flagicon|FRG}} [[Hans Schäfer]]
+* {{flagicon|YUG}} [[Todor Veselinović]]
+
+'''2 goals'''
+{{div col|colwidth=35em}}
+* {{flagicon|BRA|1889}} [[José Altafini]]
+* {{flagicon|TCH}} [[Milan Dvořák]]
+* {{flagicon|TCH}} [[Václav Hovorka]]
+* {{flagicon|ENG}} [[Derek Kevan]]
+* {{flagicon|FRA|1830}} [[Maryan Wisniewski]]
+* {{flagicon|PAR|1954}} [[Juan Bautista Agüero]]
+* {{flagicon|PAR|1954}} [[Florencio Amarilla]]
+* {{flagicon|PAR|1954}} [[José Parodi]]
+* {{flagicon|PAR|1954}} [[Jorge Lino Romero]]
+* {{flagicon|URS|1955}} [[Anatoli Ilyin]]
+* {{flagicon|SWE}} [[Nils Liedholm]]
+* {{flagicon|WAL|1953}} [[Ivor Allchurch]]
+* {{flagicon|FRG}} [[Uwe Seeler]]
+* {{flagicon|YUG}} [[Aleksandar Petaković]]
+{{div col end}}
+
+'''1 goal'''
+{{div col|colwidth=35em}}
+* {{flagicon|ARG|1861}} [[Ludovico Avio]]
+* {{flagicon|ARG|1861}} [[Norberto Menéndez]]
+* {{flagicon|AUT}} [[Karl Koller (footballer)|Karl Koller]]
+* {{flagicon|AUT}} [[Alfred Körner]]
+* {{flagicon|BRA|1889}} [[Didi (footballer, born 1928)|Didi]]
+* {{flagicon|BRA|1889}} [[Nílton Santos]]
+* {{flagicon|BRA|1889}} [[Mário Zagallo]]
+* {{flagicon|TCH}} [[Jiří Feureisl]]
+* {{flagicon|ENG}} [[Tom Finney]]
+* {{flagicon|ENG}} [[Johnny Haynes]]
+* {{flagicon|FRA|1830}} [[Yvon Douis]]
+* {{flagicon|FRA|1830}} [[Jean Vincent]]
+* {{flagicon|HUN}} [[József Bencsics]]
+* {{flagicon|HUN}} [[József Bozsik]]
+* {{flagicon|HUN}} [[Károly Sándor]]
+* {{flagicon|MEX|1934}} [[Jaime Belmonte]]
+* {{flagicon|NIR}} [[Wilbur Cush]]
+* {{flagicon|PAR|1954}} [[Cayetano Ré]]
+* {{flagicon|SCO}} [[Sammy Baird]]
+* {{flagicon|SCO}} [[Bobby Collins (footballer)|Bobby Collins]]
+* {{flagicon|SCO}} [[Jackie Mudie]]
+* {{flagicon|SCO}} [[Jimmy Murray (footballer, born 1933)|Jimmy Murray]]
+* {{flagicon|URS|1955}} [[Aleksandr Ivanov (footballer, born 1928)|Aleksandr Ivanov]]
+* {{flagicon|URS|1955}} [[Valentin Kozmich Ivanov|Valentin Ivanov]]
+* {{flagicon|URS|1955}} [[Nikita Simonyan]]
+* {{flagicon|SWE}} [[Gunnar Gren]]
+* {{flagicon|SWE}} [[Lennart Skoglund]]
+* {{flagicon|WAL|1953}} [[John Charles]]
+* {{flagicon|WAL|1953}} [[Terry Medwin]]
+* {{flagicon|FRG}} [[Hans Cieslarczyk]]
+* {{flagicon|YUG}} [[Radivoje Ognjanović]]
+* {{flagicon|YUG}} [[Zdravko Rajkov]]
+{{div col end}}
+
+== All-Star Team ==
+The team of the tournament voted by journalists was as follows:<ref name="Norlin"/>{{rp|p=273}}<ref>{{cite web |url=http://hemeroteca.mundodeportivo.com/preview/1959/01/22/pagina-1/647541/pdf.html |title=KOPA considerado el delantero centro del major equipo del mundo (1) |publisher=Mundo Deportivo |language=es |date=1959-01-22 |access-date=2020-12-29 |archive-date=1 March 2021 |archive-url=https://web.archive.org/web/20210301130238/http://hemeroteca.mundodeportivo.com/preview/1959/01/22/pagina-1/647541/pdf.html |url-status=live }}</ref><ref>{{cite web |url=http://hemeroteca.mundodeportivo.com/preview/1959/01/22/pagina-3/647543/pdf.html |title=KOPA considerado el delantero centro del major equipo del mundo (2) |publisher=Mundo Deportivo |language=es |date=1959-01-22 |access-date=2020-12-29 |archive-date=1 March 2021 |archive-url=https://web.archive.org/web/20210301141212/http://hemeroteca.mundodeportivo.com/preview/1959/01/22/pagina-3/647543/pdf.html |url-status=live }}</ref>
+
+* Goalkeeper: [[Harry Gregg]]
+* Defenders: [[Orvar Bergmark]], [[Hilderaldo Bellini]], [[Nílton Santos]]
+* Midfielders: [[Yuriy Voynov]], [[Horst Szymaniak]]
+* Forwards: [[Garrincha]], [[Didi (footballer, born 1928)|Didi]], [[Raymond Kopa]], [[Pelé]], [[Lennart Skoglund]]
+
+Although [[Just Fontaine]] got more votes than any other forward, they were split between the left and right [[inside forward]] positions.<ref name="Norlin"/>{{rp|p=273}} The All-Star Team scored 12 goals in total. Fontaine scored 13.
+
+== FIFA retrospective ranking ==
+
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref>{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc_mexico_1986_en_part4_279.pdf |archive-url=https://web.archive.org/web/20100614213621/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |url-status=dead |archive-date=14 June 2010 |title=page 45|access-date=2 March 2012}}</ref><ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]] |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |url-status=dead |date=26 March 2013}}</ref> The rankings for the 1958 tournament were as follows:
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals for}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal difference}}
+!width=25| {{abbr|Pts.|Points}}
+|- style="background:gold"
+| 1 || style="text-align:left"|{{fb|BRA|1889}} || [[#Group 4|4]] || 6 || 5 || 1 || 0 || 16 || 4 || +12 || 11
+|- style="background:silver"
+| 2 || style="text-align:left"|{{fb|SWE}} || [[#Group 3|3]] || 6 || 4 || 1 || 1 || 12 || 7 || +5 || 9
+|- style="background:#c96"
+| 3 || style="text-align:left"|{{fb|FRA|1830}} || [[#Group 2|2]] || 6 || 4 || 0 || 2 || 23 || 15 || +8 || 8
+|-
+| 4 || style="text-align:left"|{{fb|FRG}} || [[#Group 1|1]] || 6 || 2 || 2 || 2 || 12 || 14 || −2 || 6
+|-
+| colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 || style="text-align:left" |{{fb|YUG}}|| [[#Group 2|2]]|| 4 || 1 || 2 || 1 || 7 || 7 || 0 || 4
+|-
+| 6 || style="text-align:left" |{{fb|WAL|1953}}|| [[#Group 3|3]]|| 5 || 1 || 3 || 1 || 4 || 4 || 0 || 3
+|-
+| 7 || style="text-align:left" |{{fb|URS|1955}}|| [[#Group 4|4]]|| 5 || 2 || 1 || 2 || 5 || 6 || −1 || 3
+|-
+| 8 || style="text-align:left" |{{fb|NIR}}|| [[#Group 1|1]]|| 5 || 2 || 1 || 2 || 6 || 10 || −4 || 3
+|-
+| colspan="11"| '''Eliminated in the group stage'''
+|-
+| 9 || style="text-align:left"|{{fb|TCH}} || [[#Group 1|1]] || 4 || 1 || 1 || 2 || 9 || 6 || +3 || 3
+|-
+| 10 || style="text-align:left"|{{fb|HUN}} || [[#Group 3|3]] || 4 || 1 || 1 || 2 || 7 || 5 || +2 || 3
+|-
+| 11 || style="text-align:left"|{{fb|ENG}} || [[#Group 4|4]] || 4 || 0 || 3 || 1 || 4 || 5 || −1 || 3
+|-
+| 12 || style="text-align:left"|{{fb|PAR|1954}} || [[#Group 2|2]] || 3 || 1 || 1 || 1 || 9 || 12 || −3 || 3
+|-
+| 13 || style="text-align:left"|{{fb|ARG|1861}} || [[#Group 1|1]] || 3 || 1 || 0 || 2 || 5 || 10 || −5 || 2
+|-
+| 14 || style="text-align:left"|{{fb|SCO}} || [[#Group 2|2]] || 3 || 0 || 1 || 2 || 4 || 6 || −2 || 1
+|-
+| 15 || style="text-align:left"|{{fb|AUT}} || [[#Group 4|4]] || 3 || 0 || 1 || 2 || 2 || 7 || −5 || 1
+|-
+| 16 || style="text-align:left"|{{fb|MEX|1934}} || [[#Group 3|3]] || 3 || 0 || 1 || 2 || 1 || 8 || −7 || 1
+|}
+
+== In popular culture ==
+The 1958 FIFA World Cup is depicted in the 2016 American film ''[[Pelé: Birth of a Legend]]'' which is centered around Pelé and the Brazilian team's journey to winning the tournament.<ref>{{Cite web|url=http://www.rottentomatoes.com/m/pele_birth_of_a_legend_2016/|title=Pelé: Birth of a Legend (2016)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media]]|access-date=17 November 2022|archive-date=27 November 2022|archive-url=https://web.archive.org/web/20221127032412/https://www.rottentomatoes.com/m/pele_birth_of_a_legend_2016|url-status=live}}</ref>
+
+== References ==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1958|1958 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/1958sweden 1958 FIFA World Cup Sweden ], FIFA.com
+*[https://www.rsssf.org/tables/58full.html Details at RSSSF]
+
+{{Portal bar|1950s|Association football|Sweden}}
+{{1958 FIFA World Cup}}
+{{1958 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1958 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1958]]
+[[Category:1958 in men's international association football|World Cup]]
+[[Category:1957–58 in Swedish football]]
+[[Category:Men's international association football competitions hosted by Sweden|1958]]
+[[Category:June 1958 sports events in Europe]]

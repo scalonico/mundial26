@@ -1,0 +1,1284 @@
+{{Short description|Association football tournament in Brazil}}
+{{Redirect|2014 FIFA World Cup Brazil|the video game|2014 FIFA World Cup Brazil (video game){{!}}''2014 FIFA World Cup Brazil'' (video game)}}{{Redirect|FIFA 2014|the video game|FIFA 14{{!}}''FIFA 14''|5=FIFA Online 3{{!}}''FIFA Online 3''}}
+{{Use British English|date=July 2014}}{{Use dmy dates|date=January 2019}}
+{{Infobox international football competition
+| tourney_name   = FIFA World Cup
+| year           = 2014
+| other_titles   = {{native name|pt|Copa do Mundo da FIFA Brasil 2014}}
+| image          = 2014 FIFA World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Brazil
+| dates          = 12 June – 13 July
+| confederations = 5
+| num_teams      = 32
+| venues         = 12
+| cities         = 12
+| champion       = Germany 
+| count          = 4
+| second         = Argentina
+| third          = Netherlands
+| fourth         = Brazil
+| matches        = 64
+| goals          = 171
+| attendance     = {{#invoke:Football attendance summation|main|groups=A-H}}
+| player         = {{fbicon|ARG}} [[Lionel Messi]]<ref>{{cite web|first=Peter|last=Mason|url=https://www.theguardian.com/football/2014/jul/13/lionel-messi-golden-ball-award-world-cup|title=Lionel Messi wins Golden Ball award for best player of World Cup|work=The Guardian|date=13 July 2014|access-date=10 December 2016|archive-url=https://web.archive.org/web/20161110172949/https://www.theguardian.com/football/2014/jul/13/lionel-messi-golden-ball-award-world-cup|archive-date=10 November 2016|url-status=live}}</ref>
+| top_scorer     = {{fbicon|COL}} [[James Rodríguez]]<br/>(6 goals)<ref>{{cite web|url=https://www.fifa.com/worldcup/statistics/players/goal-scored.html|title=Players – Top goals|work=FIFA.com|access-date=13 December 2017|archive-url=https://web.archive.org/web/20150115121019/http://www.fifa.com/worldcup/statistics/players/goal-scored.html|archive-date=15 January 2015|url-status=dead}}</ref>
+| young_player   = {{fbicon|FRA|1974}} [[Paul Pogba]]<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=pogba-wins-hyundai-young-player-award-2405061.html|title=Pogba wins Hyundai Young Player Award|work=FIFA.com|access-date=13 December 2017|archive-url=https://web.archive.org/web/20140714130631/http://www.fifa.com/worldcup/news/y=2014/m=7/news=pogba-wins-hyundai-young-player-award-2405061.html|archive-date=14 July 2014|url-status=dead}}</ref>
+| goalkeeper     = {{fbicon|GER}} [[Manuel Neuer]]<ref>{{cite news|url=http://sports.ndtv.com/fifa-world-cup-2014/news/226873-world-cup-2014-german-goalkeeper-manuel-neuer-wins-golden-glove|title=Manuel Neuer wins golden glove award|agency=Agence France-Presse|work=NDTV Sports|date=14 July 2014|access-date=6 January 2019|archive-url=https://web.archive.org/web/20140716081757/http://sports.ndtv.com/fifa-world-cup-2014/news/226873-world-cup-2014-german-goalkeeper-manuel-neuer-wins-golden-glove|archive-date=16 July 2014}}</ref>
+| fair_play      = {{fb|COL}}<ref>{{cite web|url=http://colombiareports.co/colombia-national-team-wins-fifas-fair-play-award-2014-world-cup/|title=Colombia national team wins FIFA's Fair Play award at 2014 World Cup|work=Colombia News &#124; Colombia Reports |date=14 July 2014 |publisher=Colombia Reports|access-date=4 September 2014|archive-url=https://web.archive.org/web/20141027222322/http://colombiareports.co/colombia-national-team-wins-fifas-fair-play-award-2014-world-cup/|archive-date=27 October 2014|url-status=live}}</ref>
+| prevseason     = [[2010 FIFA World Cup|2010]]
+| nextseason     = [[2018 FIFA World Cup|2018]]
+}}
+
+The '''2014 FIFA World Cup''' ([[Portuguese language|Portuguese]]: ''Copa do Mundo da FIFA Brasil 2014'') was the 20th [[FIFA World Cup]], the quadrennial world championship for [[list of men's national association football teams|men's national]] [[Association football|football]] teams organised by [[FIFA]]. It took place in Brazil from 12 June to 13 July 2014, after the country was awarded the hosting rights in 2007. It was the second time that Brazil staged the competition, the first being in [[1950 FIFA World Cup|1950]], and the fifth time that it was held in South America.
+
+Thirty-one national teams advanced through [[2014 FIFA World Cup qualification|qualification competitions]] to join the host nation in the final tournament (with [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] as the only debutant). A total of 64 matches were played in 12 venues located in as many host cities across Brazil. For the first time at a World Cup finals, match officials used [[goal-line technology]], as well as [[vanishing spray]] for [[Free kick (association football)|free kicks]].<ref name="GLT">{{cite web |title=FIFA launch GLT tender for Brazil 2013/14 |url=https://www.fifa.com/aboutfifa/organisation/marketing/qualityprogramme/news/newsid=2014983/index.html |work=FIFA.com |date=19 February 2013 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20150203081321/http://www.fifa.com/aboutfifa/organisation/marketing/qualityprogramme/news/newsid=2014983/index.html |archive-date=3 February 2015 |url-status=dead }}</ref> [[FIFA Fan Festival|FIFA Fan Fests]] in each host city gathered a total of 5&nbsp;million people, and the country received 1&nbsp;million visitors from 202 countries.<ref>{{cite web|url=http://g1.globo.com/politica/noticia/2014/07/em-balanco-da-copa-dilma-afirma-que-brasil-derrotou-pessimistas.html|first1=Nathalia|last1=Passarinho|first2=Filipe|last2=Matoso|title=Em balanço da Copa, Dilma diz que Brasil derrotou prognósticos 'terríveis'|date=14 July 2014|language=pt|work=G1|publisher=[[Grupo Globo]]|access-date=15 July 2014|archive-url=https://web.archive.org/web/20170622085349/http://g1.globo.com/politica/noticia/2014/07/em-balanco-da-copa-dilma-afirma-que-brasil-derrotou-pessimistas.html|archive-date=22 June 2017|url-status=live}}</ref> [[Spain national football team|Spain]], the defending champions, were eliminated at the group stage. Host nation Brazil, who had won the [[2013 FIFA Confederations Cup]], [[Brazil v Germany (2014 FIFA World Cup)|lost to Germany]] 7–1 in the semi-finals and eventually finished in fourth place.<ref>{{Cite web |title=2014 FIFA World Cup Brazil |url=https://www.fifa.com/tournaments/mens/worldcup/origin1904-p.cxm.fifa.com/tournaments/mens/worldcup/2014brazil |access-date=2022-12-28 |website=www.fifa.com |language=en |archive-date=19 December 2025 |archive-url=https://web.archive.org/web/20251219043756/https://www.fifa.com/tournaments/mens/worldcup/origin1904-p.cxm.fifa.com/tournaments/mens/worldcup/2014brazil |url-status=dead }}</ref>
+
+In [[2014 FIFA World Cup final|the final]], Germany defeated Argentina 1–0 after extra time following a half-volley goal by [[Mario Götze]] in the 113th minute of the final<ref>{{cite web |last1=Taylor |first1=Daniel |title=Germany beat Argentina to win World Cup final with late Mario Götze goal |url=https://www.theguardian.com/football/2014/jul/13/germany-argentina-world-cup-final-2014-match-report |work=The Guardian |access-date=1 September 2024 |date=13 July 2014 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103010859/https://www.theguardian.com/football/2014/jul/13/germany-argentina-world-cup-final-2014-match-report |url-status=live }}</ref> to win the tournament and secure the country's fourth world title, the first after [[German reunification]] in 1990, when as West Germany they also beat Argentina by the same score in 90 minutes in the [[1990 FIFA World Cup final|World Cup final]]. It was Germany's first major tournament win since [[UEFA Euro 1996]]. Germany became the first European team to win the World Cup in the [[Americas]],<ref>{{cite web|url=http://espnfc.com/blog/_/name/worldcupcentral/id/53?cc=5739|title=If the World Cup started tomorrow|work=ESPN FC|date=12 June 2013|access-date=4 December 2013|archive-url=https://web.archive.org/web/20131231220010/http://espnfc.com/blog/_/name/worldcupcentral/id/53?cc=5739|archive-date=31 December 2013|url-status=live}}</ref> and this result marked the third consecutive title won by a European team, after Italy in [[2006 FIFA World Cup|2006]] and Spain in [[2010 FIFA World Cup|2010]], a record-breaking streak by the teams from the same continent continued by France [[2018 FIFA World Cup|four years later]].<ref>{{cite web|last1=Owen|first1=David|title=Battle of the Brands: Adidas lifts the World Cup, but Nike scores most goals|url=http://www.insideworldfootball.com/world-cup/brazil-2014/15059-battle-of-the-brands-adidas-lifts-the-world-cup-but-nike-scores-the-most-goals|website=Inside World Football|date=14 July 2014|access-date=14 July 2014|archive-url=https://web.archive.org/web/20160304100855/http://www.insideworldfootball.com/world-cup/brazil-2014/15059-battle-of-the-brands-adidas-lifts-the-world-cup-but-nike-scores-the-most-goals|archive-date=4 March 2016|url-status=live}}</ref><ref name=Trivia>{{cite web|title=Numbers Game: All the stats from Germany's fourth World Cup triumph|url=http://www.firstpost.com/sports/numbers-game-stats-germanys-fourth-world-cup-triumph-1617441.html|website=[[Firstpost]]|date=14 July 2014|access-date=14 July 2014|archive-url=https://web.archive.org/web/20181002101405/https://www.firstpost.com/sports/numbers-game-stats-germanys-fourth-world-cup-triumph-1617441.html|archive-date=2 October 2018|url-status=live}}</ref>{{refn|group=nb|Alternatively, if one accepts the claim that the football tournaments at the [[Football at the 1924 Summer Olympics|1924]] and [[Football at the 1928 Summer Olympics|1928 Summer Olympics]] should be counted as the first association football world championships, then in 2014 European teams repeated the three wins in a row streak achieved by South Americans earlier, as the two Olympic football tournaments and [[1930 FIFA World Cup|the first edition of the FIFA World Cup in 1930]] [[Four stars above Uruguay's football crest|were won by Uruguay]].}}
+
+As of the 2026 tournament, this is the most recent World Cup to feature all previous winners ([[Uruguay national football team|Uruguay]], [[Italy national football team|Italy]], [[Germany national football team|Germany]], [[Brazil national football team|Brazil]], [[England national football team|England]], [[Argentina national football team|Argentina]], [[France national football team|France]] and [[Spain national football team|Spain]]).
+
+{{TOC limit}}
+
+==Host selection==
+{{Main|2014 FIFA World Cup bids}}
+[[File:Joseph Blatter - World Cup 2014.jpg|thumb|FIFA president [[Sepp Blatter]] announces Brazil as hosts, 30 October 2007]]
+In March 2003, FIFA announced that the tournament would be held in South America for the first time since [[1978 FIFA World Cup|1978]], in line with its policy at the time of rotating the right to host the World Cup among different confederations.<ref>{{cite web|url=https://www.fifa.com/newscentre/news/newsid=85909/index.html|title=2014 FIFA World Cup to be held in South America|work=FIFA.com|date=7 March 2003|access-date=13 December 2017|archive-url=https://web.archive.org/web/20150418192806/http://www.fifa.com/newscentre/news/newsid=85909/index.html|archive-date=18 April 2015|url-status=dead}}</ref><ref>{{cite web |title=Rotation ends in 2018 |url=https://www.fifa.com/worldcup/russia2018/organisation/media/newsid=625122/ |work=FIFA.com |date=29 October 2007 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20141228061355/http://www.fifa.com/worldcup/russia2018/organisation/media/newsid=625122/ |archive-date=28 December 2014 |url-status=dead }}</ref> With the [[2010 FIFA World Cup]] hosted in South Africa, it would be the second consecutive World Cup outside Europe, which was a first for the tournament. It was also sixth time (second consecutive) in the Southern Hemisphere.<ref>{{cite web|title=Brazil may lose the right to hold World Cup 2014|url=http://english.pravda.ru/news/sports/15-05-2013/124564-brazil_world_cup_2014-0/|website=Pravda.Ru|date=15 May 2013|access-date=25 June 2014|archive-url=https://web.archive.org/web/20141129054042/http://english.pravda.ru/news/sports/15-05-2013/124564-brazil_world_cup_2014-0/|archive-date=29 November 2014|url-status=live}}</ref> Only Brazil and Colombia formally declared their candidacy but, after the withdrawal of the latter from the process,<ref>{{cite web |title=Brazil confirms bid – Colombia withdraws |url=https://www.fifa.com/world-match-centre/news/newsid/123/706/index.html |work=FIFA.com |date=13 April 2007 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20160305084333/http://www.fifa.com/world-match-centre/news/newsid/123/706/index.html |archive-date=5 March 2016 |url-status=dead }}</ref> Brazil was officially elected as host nation unopposed on 30 October 2007.<ref>{{cite web |title=Brazil confirmed as 2014 hosts |url=https://www.fifa.com/worldcup/news/y=2007/m=10/news=brazil-confirmed-2014-hosts-625695.html |work=FIFA.com |date=30 October 2007 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20170928042139/http://www.fifa.com/worldcup/news/y=2007/m=10/news=brazil-confirmed-2014-hosts-625695.html |archive-date=28 September 2017 |url-status=dead }}</ref>
+
+==Participating teams and officials==
+===Qualification===
+{{Main|2014 FIFA World Cup qualification}}
+{{See also|FIFA World Cup qualification}}
+Qualification was held between June 2011 and November 2013. Twenty-four of the 32 qualifiers were returning participants from the [[2010 FIFA World Cup|2010 World Cup]].
+* [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] were the only team with no previous appearance at the World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=1-day-to-go-2363325.html|title=1 day to go|work=FIFA.com|date=11 June 2014|access-date=13 December 2017|archive-url=https://web.archive.org/web/20180120070102/https://www.fifa.com/worldcup/news/y=2014/m=6/news=1-day-to-go-2363325.html|archive-date=20 January 2018|url-status=dead}}</ref>{{refn|group=nb|Bosnia and Herzegovina was until 1992 part of Yugoslavia, which competed at eight World Cup tournaments.}}
+* [[Colombia national football team|Colombia]] qualified for the World Cup after [[1998 FIFA World Cup|16 years of absence]].
+* [[Belgium national football team|Belgium]] and [[Russia national football team|Russia]] both returned after [[2002 FIFA World Cup|12 years]].
+*This was also the first World Cup for [[1982 FIFA World Cup|32]] years that did not feature a representative from the [[Nordic countries]]. 
+*[[Iran national football team|Iran]], [[Costa Rica national football team|Costa Rica]], [[Ecuador national football team|Ecuador]], and [[Croatia national football team|Croatia]] returned after missing the previous tournament in 2010.
+* The highest ranked team not to qualify was [[Ukraine national football team|Ukraine]] (ranked 16th), while the lowest ranked team that did qualify was [[Australia men's national soccer team|Australia]] (ranked 62nd).<ref name="Rankings"/>
+* As of 2026, This was the last time [[Italy national football team|Italy]], [[Chile national football team|Chile]], [[Greece national football team|Greece]],   [[Honduras national football team|Honduras]] appears in FIFA world cup. 
+
+The following 32 teams – shown with their last pre-tournament [[FIFA Men's World Ranking|FIFA world ranking]]<ref name="Rankings">{{cite web |url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=239/index.html |title=FIFA/Coca-Cola Rankings |work=FIFA.com |date=5 June 2014 |access-date=11 June 2014 |archive-url=https://web.archive.org/web/20141107005059/http://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=239/index.html |archive-date=7 November 2014 |url-status=dead }}</ref> – qualified for the final tournament.
+
+{{col-begin}}
+{{col-4}}
+;[[2014 FIFA World Cup qualification (AFC)|AFC]] (4)
+* {{fb|AUS}} (62)
+* {{fb|IRN}} (43)
+* {{fb|JPN}} (46)
+* {{fb|KOR}} (57)
+
+;[[2014 FIFA World Cup qualification (CAF)|CAF]] (5)
+* {{fb|ALG}} (22)
+* {{fb|CMR}} (56)
+* {{fb|GHA}} (37)
+* {{fb|CIV}} (23)
+* {{fb|NGA}} (44)
+
+;[[2014 FIFA World Cup qualification (OFC)|OFC]] (0)
+* ''None qualified''
+{{col-4}}
+;[[2014 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (4)
+* {{fb|CRC}} (28)
+* {{fb|HON|1949}} (33)
+* {{fb|MEX}} (20)
+* {{fb|USA}} (13)
+
+;[[2014 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (6)
+* {{fb|ARG}} (5)
+* {{fb|BRA}} (3) (hosts)
+* {{fb|CHI}} (14)
+* {{fb|COL}} (8)
+* {{fb|ECU}} (26)
+* {{fb|URU}} (7)
+{{col-4}}
+;[[2014 FIFA World Cup qualification (UEFA)|UEFA]] (13)
+* {{fb|BEL}} (11)
+* {{fb|BIH}} (21) (debut)
+* {{fb|CRO}} (18)
+* {{fb|ENG}} (10)
+* {{fb|FRA|1974}} (17)
+* {{fb|GER}} (2)
+* {{fb|GRE}} (12)
+* {{fb|ITA}} (9)
+* {{fb|NED}} (15)
+* {{fb|POR}} (4)
+* {{fb|RUS}} (19)
+* {{fb|ESP}} (1)
+* {{fb|SUI}} (6)
+{{col-4}}
+[[File:2014 world cup qualification.svg|thumb|upright=1.8|{{col-begin}}
+{{col-2}}{{legend|#0000ff|Qualified}} {{legend|#ffcc00|Did not qualify}}{{col-2}}{{legend|black|Did not enter}} {{legend|#e0e0e0|Not a FIFA member}}{{col-end}}]]
+{{col-end}}
+
+===Final draw===
+{{Main|2014 FIFA World Cup seeding}}
+
+The draw took place on 6 December 2013 at the [[Sauipe|Costa do Sauípe]] resort in [[Bahia]], during which the teams were drawn by various past World Cup-winning players.<ref>{{cite news |title=Final Draw reveals intriguing groups |url=https://www.fifa.com/worldcup/news/y=2013/m=12/news=final-draw-reveals-intriguing-groups-2240026.html |work=FIFA.com |date=6 December 2013 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20180319004231/https://www.fifa.com/worldcup/news/y=2013/m=12/news=final-draw-reveals-intriguing-groups-2240026.html |archive-date=19 March 2018 |url-status=dead }}</ref><ref>{{cite news |title=A team of stars for the draw |url=https://www.fifa.com/worldcup/news/y=2013/m=12/news=team-stars-for-the-draw-2239896.html |work=FIFA.com |date=5 December 2013 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20180305095540/http://www.fifa.com/worldcup/news/y=2013/m=12/news=team-stars-for-the-draw-2239896.html |archive-date=5 March 2018 |url-status=dead }}</ref> Hosted by TV presentators [[Fernanda Lima]] and [[Rodrigo Hilbert]] and conducted by the FIFA general secretary [[Jérôme Valcke]], the draw featured football celebrities from all FIFA World Cup champion countries such as [[Cafu]] (Brazil), [[Fabio Cannavaro]] (Italy), [[Lothar Matthäus]] (Germany), [[Zinedine Zidane]] (France), [[Mario Kempes]] (Argentina), [[Fernando Hierro]] (Spain), [[Geoff Hurst]] (England) and [[Alcides Ghiggia]] (Uruguay).<ref>{{cite web |url=https://copadomundo.uol.com.br/noticias/redacao/2013/12/06/grupo-da-morte-copa-do-mundo-2014.htm |title="Grupo da morte" da Copa do Mundo 2014 tem Itália, Uruguai e Inglaterra |publisher=UOL |language=pt-br |date=6 December 2013 |access-date=26 June 2026 |archive-date=7 February 2026 |archive-url=https://web.archive.org/web/20260207042017/https://copadomundo.uol.com.br/noticias/redacao/2013/12/06/grupo-da-morte-copa-do-mundo-2014.htm |url-status=live }}</ref>
+
+The 32 participating teams were drawn into eight groups. In preparation for this, the teams were organised into four pots with the seven highest-ranked teams joining host nation [[Brazil national football team|Brazil]] in the seeded pot.<ref>{{Cite web|title=Welcome to FIFA.com News - Pot 1 seeds set for Brazil 2014 draws |url=https://www.fifa.com/news/ranking-determines-seeds-for-brazil-2014-draws-2197884|access-date=2021-06-17|website=www.fifa.com|language=en-GB}}{{dead link|date=October 2021|bot=medic}}{{cbignore|bot=medic}}</ref> As with the previous tournaments, FIFA aimed to create groups which maximised geographic separation and therefore the unseeded teams were arranged into pots based on geographic considerations.<ref>{{Cite web|title=2014 FIFA World Cup - News - Draw procedures approved |url=https://www.fifa.com/worldcup/news/draw-procedures-approved-2238498|archive-url=https://web.archive.org/web/20201203012752/https://www.fifa.com/worldcup/news/draw-procedures-approved-2238498|url-status=dead|archive-date=3 December 2020|access-date=2021-06-17|website=www.fifa.com|language=en-GB}}</ref><ref>{{cite web |title=Final draw procedures |url=https://www.fifa.com/mm/document/tournament/finaldraw/02/23/84/73/131203_finaldrawprocedures_neutral.pdf |work=FIFA.com |date=3 December 2013 |access-date=3 December 2013 |archive-url=https://web.archive.org/web/20190318204234/https://www.fifa.com/mm/document/tournament/finaldraw/02/23/84/73/131203_finaldrawprocedures_neutral.pdf |archive-date=18 March 2019 |url-status=dead }}</ref> Under the draw procedure, one randomly drawn team – Italy – was firstly relocated from Pot 4 to Pot 2 to create four equal pots of eight teams.<ref name="Draw procedures">{{cite news|date=3 December 2013|title=Draw procedures approved|work=FIFA.com|url=https://www.fifa.com/worldcup/final-draw/news/newsid=2238498/index.html|url-status=dead|access-date=3 December 2013|archive-url=https://web.archive.org/web/20131203214145/http://www.fifa.com//worldcup/final-draw/news/newsid=2238498/index.html|archive-date=3 December 2013}}</ref>
+
+{|class="wikitable" 
+|-
+!width=25%|[[2014 FIFA World Cup Group A|Group A]]
+!width=25%|[[2014 FIFA World Cup Group B|Group B]]
+!width=25%|[[2014 FIFA World Cup Group C|Group C]]
+!width=25%|[[2014 FIFA World Cup Group D|Group D]]
+|-
+|''{{fb|BRA}}''
+|{{fb|ESP}}
+|{{fb|COL}}
+|{{fb|URU}}
+|-
+|{{fb|CRO}}
+|{{fb|NED}}
+|{{fb|GRE}}
+|{{fb|Costa Rica}}
+|-
+|{{fb|MEX}}
+|{{fb|CHI}}
+|{{fb|CIV}}
+|{{fb|ENG}}
+|-
+|{{fb|CMR}}
+|{{fb|AUS}}
+|{{fb|JPN}}
+|{{fb|ITA}}
+|-
+!width=25%|[[2014 FIFA World Cup Group E|Group E]]
+!width=25%|[[2014 FIFA World Cup Group F|Group F]]
+!width=25%|[[2014 FIFA World Cup Group G|Group G]]
+!width=25%|[[2014 FIFA World Cup Group H|Group H]]
+|-
+|{{fb|SUI}}
+|{{fb|ARG}}
+|{{fb|GER}}
+|{{fb|BEL}}
+|-
+|{{fb|ECU}}
+|{{fb|BIH}}
+|{{fb|POR}}
+|{{fb|ALG}}
+|-
+|{{fb|FRA|1974}}
+|{{fb|IRN}}
+|{{fb|GHA}}
+|{{fb|RUS}}
+|-
+|{{fb|HON|1949}}
+|{{fb|NGA}}
+|{{fb|USA}}
+|{{fb|KOR}}
+|}
+
+===Officials===
+{{Main|2014 FIFA World Cup officials}}
+In March 2013, FIFA published a list of 52 prospective referees, each paired, on the basis of nationality, with two [[Assistant referee (association football)|linesmen]], from all six football confederations for the tournament. On 14 January 2014, the FIFA Referees Committee appointed 25 referee trios and eight support duos representing 43 countries for the tournament.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=1/news=referee-trios-and-eight-support-duos-representing-different-countries-ap-2261111.html|title=Referee trios and support duos appointed for 2014 FIFA World Cup|work=FIFA.com|date=15 January 2014|access-date=13 December 2017|archive-url=https://web.archive.org/web/20171022232130/http://www.fifa.com/worldcup/news/y=2014/m=1/news=referee-trios-and-eight-support-duos-representing-different-countries-ap-2261111.html|archive-date=22 October 2017|url-status=dead}}</ref><ref>{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/26/13/55/2014fwcrefereesselected_neutral.pdf|title=Referees & assistant referees for the 2014 FIFA World Cup|work=FIFA.com|access-date=2 June 2014|archive-url=https://web.archive.org/web/20140528064654/http://resources.fifa.com/mm/document/tournament/competition/02/26/13/55/2014fwcrefereesselected_neutral.pdf|archive-date=28 May 2014|url-status=dead}}</ref>
+[[Yuichi Nishimura]] from [[Japan Football Association|Japan]] acted as referee in the opening match whereas [[Nicola Rizzoli]] from [[Italian Football Federation|Italy]] acted as referee in the final.<ref name="Matches 1-4">{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/36/68/33/140610_1-4_neutral.pdf|title=Referee designations for matches 1–4|date=10 June 2014|work=fifa.com|access-date=19 July 2014|archive-url=https://web.archive.org/web/20140630021209/http://resources.fifa.com/mm/document/tournament/competition/02/36/68/33/140610_1-4_neutral.pdf|archive-date=30 June 2014|url-status=dead}}</ref><ref>{{cite web|url=https://www.fifa.com/worldcup/matches/round=255959/match=300186501/report.html|title=2014 FIFA World Cup - Matches |work=FIFA.com|access-date=13 December 2017|archive-url=https://web.archive.org/web/20171212234249/http://www.fifa.com/worldcup/matches/round=255959/match=300186501/report.html|archive-date=12 December 2017|url-status=dead}}</ref>
+
+{| class="wikitable collapsible collapsed"
+|-
+!colspan="5"|List of officials
+|-
+!Confederation
+!Referee
+!colspan=2|Assistants
+!Support (referee/assist)
+|-
+|rowspan="4"|[[Asian Football Confederation|AFC]]
+|[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|style="border-right:1px solid #f9f9f9;"|[[Abdukhamidullo Rasulov]] ([[Uzbekistan Football Federation|Uzbekistan]])||Bakhadyr Kochkarov ([[Football Federation of Kyrgyz Republic|Kyrgyzstan]])
+|rowspan=4|[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]]) / Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|-
+|[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+|style="border-right:1px solid #f9f9f9;"|Toru Sagara ([[Japan Football Association|Japan]])||Toshiyuki Nagi ([[Japan Football Association|Japan]])
+|-
+|[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|style="border-right:1px solid #f9f9f9;"|Yaser Tulefat ([[Bahrain Football Association|Bahrain]])||Ebrahim Saleh ([[Bahrain Football Association|Bahrain]])
+|-
+|[[Ben Williams (referee)|Ben Williams]] ([[Football Federation Australia|Australia]])
+|style="border-right:1px solid #f9f9f9;"|[[Matthew Cream]] ([[Football Federation Australia|Australia]])||Hakan Anaz ([[Football Federation Australia|Australia]])
+|-
+|rowspan="3"|[[Confederation of African Football|CAF]]
+|[[Noumandiez Doué]] ([[Ivorian Football Federation|Ivory Coast]])
+|style="border-right:1px solid #f9f9f9;"|Songuifolo Yeo ([[Ivorian Football Federation|Ivory Coast]])||Jean-Claude Birumushahu ([[Football Federation of Burundi|Burundi]])
+|rowspan=3|[[Néant Alioum]] ([[Cameroonian Football Federation|Cameroon]]) / Djibril Camara ([[Senegalese Football Federation|Senegal]])<br />
+|-
+|[[Bakary Gassama]] ([[Gambia Football Association|Gambia]])
+|style="border-right:1px solid #f9f9f9;"|Evarist Menkouande ([[Cameroonian Football Federation|Cameroon]])||Félicien Kabanda ([[Rwandese Association Football Federation|Rwanda]])
+|-
+|[[Djamel Haimoudi]] ([[Algerian Football Federation|Algeria]])
+|style="border-right:1px solid #f9f9f9;"|Redouane Achik ([[Royal Moroccan Football Federation|Morocco]])||Abdelhak Etchiali ([[Algerian Football Federation|Algeria]])
+|-
+|rowspan="3"|[[CONCACAF]]
+|[[Joel Aguilar]] ([[Salvadoran Football Association|El Salvador]])
+|style="border-right:1px solid #f9f9f9;"|William Torres ([[Salvadoran Football Association|El Salvador]])||Juan Zumba ([[Salvadoran Football Association|El Salvador]])
+|rowspan=3|[[Roberto Moreno (referee)|Roberto Moreno]] ([[Panamanian Football Federation|Panama]]) / Eric Boria ([[United States Soccer Federation|United States]])<br />[[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]]) / Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+|-
+|[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|style="border-right:1px solid #f9f9f9;"|Mark Hurd ([[United States Soccer Federation|United States]])||[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+|-
+|[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|style="border-right:1px solid #f9f9f9;"|Marvin Torrentera ([[Mexican Football Federation|Mexico]])||Marcos Quintero ([[Mexican Football Federation|Mexico]])
+|-
+|rowspan="5"|[[CONMEBOL]]
+|[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|style="border-right:1px solid #f9f9f9;"|Hernán Maidana ([[Argentine Football Association|Argentina]])||[[Juan Pablo Belatti]] ([[Argentine Football Association|Argentina]])
+|rowspan=5|[[Víctor Hugo Carrillo]] ([[Peruvian Football Federation|Peru]]) / Rodney Aquino ([[Paraguayan Football Association|Paraguay]])
+|-
+|[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|style="border-right:1px solid #f9f9f9;"|Emerson De Carvalho ([[Brazilian Football Confederation|Brazil]])||Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+|-
+|[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+|style="border-right:1px solid #f9f9f9;"|Carlos Astroza ([[Football Federation of Chile|Chile]])||Sergio Román ([[Football Federation of Chile|Chile]])
+|-
+|[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|style="border-right:1px solid #f9f9f9;"|Humberto Clavijo ([[Colombian Football Federation|Colombia]])||Eduardo Díaz ([[Colombian Football Federation|Colombia]])
+|-
+|[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|style="border-right:1px solid #f9f9f9;"|Christian Lescano ([[Ecuadorian Football Federation|Ecuador]])||Byron Romero ([[Ecuadorian Football Federation|Ecuador]])
+|-
+||[[Oceania Football Confederation|OFC]]
+|[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+|style="border-right:1px solid #f9f9f9;"|Jan Hendrik Hintz ([[New Zealand Football|New Zealand]])||Mark Rule ([[New Zealand Football|New Zealand]])
+|[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]]) / Aden Marwa ([[Football Kenya Federation|Kenya]])
+|-
+|rowspan="9"|[[UEFA]]
+|[[Felix Brych]] ([[German Football Association|Germany]])
+|style="border-right:1px solid #f9f9f9;"|Mark Borsch ([[German Football Association|Germany]])||Stefan Lupp ([[German Football Association|Germany]])
+|rowspan=9|[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]]) / Kim Haglund ([[Football Association of Norway|Norway]])
+|-
+|[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|style="border-right:1px solid #f9f9f9;"|Bahattin Duran ([[Turkish Football Federation|Turkey]])||Tarık Ongun ([[Turkish Football Federation|Turkey]])
+|-
+|[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|style="border-right:1px solid #f9f9f9;"|Mathias Klasenius ([[Swedish Football Association|Sweden]])||Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+|-
+|[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|style="border-right:1px solid #f9f9f9;"|Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])||Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+|-
+|[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|style="border-right:1px solid #f9f9f9;"|Milovan Ristić ([[Football Association of Serbia|Serbia]])||Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+|-
+|[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|style="border-right:1px solid #f9f9f9;"|Bertino Miranda ([[Portuguese Football Federation|Portugal]])||Tiago Trigo ([[Portuguese Football Federation|Portugal]])
+|-
+|[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|style="border-right:1px solid #f9f9f9;"|Renato Faverani ([[Italian Football Federation|Italy]])||Andrea Stefani ([[Italian Football Federation|Italy]])
+|-
+|[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|style="border-right:1px solid #f9f9f9;"|Roberto Alonso Fernández ([[Royal Spanish Football Federation|Spain]])||Juan Carlos Yuste Jiménez ([[Royal Spanish Football Federation|Spain]])
+|-
+|[[Howard Webb]] ([[The Football Association|England]])
+|style="border-right:1px solid #f9f9f9;"|Michael Mullarkey ([[The Football Association|England]])||Darren Cann ([[The Football Association|England]])
+|}
+
+==Squads==
+{{Main|2014 FIFA World Cup squads}}
+
+As with the [[2010 FIFA World Cup squads|2010 tournament]], each team's squad consisted of 23 players (three of whom must be goalkeepers). Each participating national association had to confirm their final 23-player squad no later than 10 days before the start of the tournament.<ref name="regulations">{{cite web |title=Regulations&nbsp;– FIFA World Cup Brazil 2014 |url=https://www.fifa.com/mm/document/tournament/competition/01/47/38/17/regulationsfwcbrazil2014_update_e_neutral.pdf |work=FIFA.com |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20190208232240/https://www.fifa.com/mm/document/tournament/competition/01/47/38/17/regulationsfwcbrazil2014_update_e_neutral.pdf |archive-date=8 February 2019 |url-status=dead }}</ref> Teams were permitted to make late replacements in the event of serious injury, at any time up to 24 hours before their first game.<ref name="regulations"/> During a match, all remaining squad members not named in the starting team were available to be one of the three permitted substitutions (provided the player was not serving a suspension).<ref name="regulations"/>
+
+==Venues==
+{{Main|2014 FIFA World Cup venues}}
+{{OSM Location map
+|nolabels=1 |coord={{Coord|-17|-46}} |zoom=4 |width=350 |height=400 |shapeD=circle |mark-sizeD=8 |label-sizeD=12,background,outline |caption=Location of the host cities of the 2014 FIFA World Cup in Brazil
+
+|label1='''[[Rio de Janeiro]]''' |mark-coord1={{Coord|-22.548118|-43.1348}}
+|mark-title1=[[Rio de Janeiro]] |mark-image1=Maracana 2022.jpg |mark-description1=[[Maracanã Stadium|Estádio do Maracanã]]
+
+|label2='''[[Brasília]]''' |mark-coord2={{Coord|-16.00|-47.60}}
+|mark-title2=[[Brasília]] |mark-image2=Brasilia aerea estadio nacional.jpg |mark-description2=[[Estádio Nacional Mané Garrincha|Estádio Nacional]]
+
+|label3='''[[São Paulo]]''' |mark-coord3={{Coord|-23.600112|-46.720227}}|label-pos3=west
+|mark-title3=[[São Paulo]] |mark-image3=ARENA CORINTHIANS.jpg |mark-description3=[[Arena Corinthians]]
+
+|label4='''[[Fortaleza]]''' |mark-coord4={{Coord|-3.807267|-38.522481}}
+|mark-title4=[[Fortaleza]] |mark-image4=Fortaleza Arena on March 2014..jpg |mark-description4=[[Castelão (Fortaleza)|Estádio Castelão]]
+
+|label5='''[[Belo Horizonte]]''' |mark-coord5={{Coord|-19.5157|-43.5815}}
+|mark-title5=[[Belo Horizonte]] |mark-image5=Mineirão (Top View).jpg |mark-description5=[[Mineirão|Estádio Mineirão]]
+
+|label6='''[[Salvador, Bahia|Salvador]]''' |mark-coord6={{Coord|-12.919164|-38.427078}}
+|mark-title6=[[Salvador, Bahia|Salvador]] |mark-image6=Aerea Fontenova.jpg |mark-description6=[[Arena Fonte Nova]]
+
+|label7='''[[Porto Alegre]]''' |mark-coord7={{Coord|-30.060420|-51.213338}}
+|mark-title7=[[Porto Alegre]] |mark-image7=Vista Aérea Beira-Rio.jpg |mark-description7=[[Estádio Beira-Rio]]
+
+|label8='''[[Recife]]''' |mark-coord8={{Coord|-8.03|-35.00}}
+|mark-title8=[[Recife]] |mark-image8=Arena Pernambuco Recife.jpg |mark-description8=[[Arena Pernambuco]]
+
+|label9='''[[Cuiabá]]''' |mark-coord9={{Coord|-15.35|-56.05}}
+|mark-title9=[[Cuiabá]] |mark-image9=Cuiaba Arena.jpg |mark-description9=[[Arena Pantanal]]
+
+|label10='''[[Manaus]]''' |mark-coord10={{Coord|-3.06|-60.01}}
+|mark-title10=[[Manaus]] |mark-image10=Arena da Amazônia (Aerial View).jpg |mark-description10=[[Arena da Amazônia]]
+
+|label11='''[[Natal, Rio Grande do Norte|Natal]]''' |mark-coord11={{Coord|-5.826805479769213|-35.21234619883257}}
+|mark-title11=[[Natal, Rio Grande do Norte|Natal]] |mark-image11=Natal, Brazil - Arena das Dunas.jpg |mark-description11=[[Arena das Dunas]]
+
+|label12='''[[Curitiba]]''' |mark-coord12={{Coord|-25.25|-49.15}}
+|mark-title12=[[Curitiba]] |mark-image12=Arena Baixada.jpg |mark-description12=[[Arena da Baixada]]
+}}
+12 venues (seven new and five renovated) in twelve cities were selected for the tournament. The venues covered all the main [[regions of Brazil]] and created more evenly distributed hosting than the [[1950 FIFA World Cup|1950 finals]] in Brazil.<ref>{{cite web |url=http://globoesporte.globo.com/platb/memoriaec/2009/05/31/sedes-da-copa-de-1950-voltam-no-mundial-de-2014/ |title=Host cities in 1950 FIFA World Cup |publisher=Colunas.globoesporte.com |access-date=9 October 2011 |archive-url=https://web.archive.org/web/20110820130504/http://globoesporte.globo.com/platb/memoriaec/2009/05/31/sedes-da-copa-de-1950-voltam-no-mundial-de-2014/ |archive-date=20 August 2011 |url-status=live }}</ref> Consequently, the tournament required long-distance travel for teams.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/25187878 |title=2014 FIFA World Cup: Luck of the draw 'an essential component' |date=2 December 2013 |work=BBC Sport |publisher=British Broadcasting Corporation |access-date=13 February 2018 |archive-url=https://web.archive.org/web/20160114195101/http://www.bbc.co.uk/sport/0/football/25187878 |archive-date=14 January 2016 |url-status=live }}</ref> While all six host cities from the 1950 tournament were among the 12 chosen, the Maracanã was the only stadium common to both tournaments. During the World Cup, Brazilian cities were also home to the participating teams at [[2014 FIFA World Cup venues#Team base camps|32 separate base camps]],<ref name=autogenerated2>{{cite web |url=https://www.fifa.com/worldcup/news/newsid=2267880/ |title=Team Base Camps for Brazil 2014 announced |work=FIFA.com |date=21 January 2014 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20140708194254/http://www.fifa.com/worldcup/news/newsid=2267880/ |archive-date=8 July 2014 |url-status=dead }}</ref> as well as staging [[FIFA Fan Fest#2014|official fan fests]] where supporters could view the games.<ref>{{cite web |url=https://www.fifa.com/worldcup/news/newsid=1614471/ |title=FIFA Fan Fest locations confirmed |work=FIFA.com |date=20 January 2014 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20150226035725/http://www.fifa.com/worldcup/news/newsid=1614471/ |archive-date=26 February 2015 |url-status=dead }}</ref>
+
+The [[Maracanã Stadium]] in [[Rio de Janeiro]] was the only stadium to previously have hosted the [[1950 FIFA World Cup]]. The most used stadiums were the Maracanã and the new Estádio Nacional in [[Brasília]], which hosted seven matches each. The least-used venues were in [[Cuiabá]], [[Manaus]], [[Natal, Rio Grande do Norte|Natal]], and [[Curitiba]], which hosted four matches each; as the four smallest stadiums in use at the tournament, they did not host any knockout round matches.<ref name="fifa_venues"/>
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Rio de Janeiro]]
+![[Brasília]]
+![[São Paulo]]
+|-
+|[[Maracanã Stadium|Estádio do Maracanã]]
+|[[Estádio Nacional Mané Garrincha|Estádio Nacional]]
+|[[Arena Corinthians]] <br />'''{{small|(Arena de São Paulo)}}'''
+|-
+|[[Seating capacity|Capacity]]: '''74,738'''<ref name="fifa_venues">{{cite web |url=https://www.fifa.com/worldcup/destination/stadiums/stadium=214/index.html |title=2014 FIFA World Cup Brazil Venues |work=FIFA.com |date=18 January 2012 |access-date=12 June 2014 |archive-url=https://web.archive.org/web/20190516061226/https://www.fifa.com/worldcup/destination/stadiums/stadium=214/index.html |archive-date=16 May 2019 |url-status=dead }}</ref>
+|Capacity: '''69,432'''<ref name="fifa_venues"/>
+|Capacity: '''63,321'''<ref name="fifa_venues"/>
+|-
+|[[File:Maracana 2022.jpg|200x200px]]
+|[[File:Brasilia aerea estadio nacional.jpg|200x200px]]
+|[[File:ARENA CORINTHIANS.jpg|200x200px]]
+|-
+![[Fortaleza]]
+![[Belo Horizonte]] 
+![[Salvador, Bahia|Salvador]]
+|-
+|[[Castelão (Fortaleza)|Estádio Castelão]]
+|[[Mineirão|Estádio Mineirão]]
+|[[Arena Fonte Nova]]
+|-
+|Capacity: '''60,348'''<ref name="fifa_venues"/>
+|Capacity: '''58,259'''<ref name="fifa_venues"/>
+|Capacity: '''51,708'''<ref name="fifa_venues"/>
+|-
+|[[File:Fortaleza Arena on March 2014..jpg|200x200px]]
+|[[File:Mineirão_(Top_View).jpg|200px]]
+|[[File:Aerea Fontenova.jpg|200px]]
+|-
+![[Porto Alegre]]
+![[Recife]]{{refn|group=nb|The [[Arena Pernambuco]] is located in [[São Lourenço da Mata]], [[Pernambuco]].}}
+![[Cuiabá]]
+|-
+|[[Estádio Beira-Rio]]
+|[[Arena Pernambuco]]
+|[[Arena Pantanal]]
+|-
+|Capacity: '''43,394'''<ref name="fifa_venues"/>
+|Capacity: '''42,583'''<ref name="fifa_venues"/>
+|Capacity: '''41,112'''<ref name="fifa_venues"/>
+|-
+|[[File:Vista_Aérea_Beira-Rio.jpg|200px]]
+|[[File:Arena Pernambuco Recife.jpg|200x200px]]
+|[[File:Cuiaba Arena.jpg|200px]]
+|-
+![[Manaus]]
+![[Natal, Rio Grande do Norte|Natal]]
+![[Curitiba]]
+|-
+|[[Arena da Amazônia]]
+|[[Arena das Dunas]]
+|[[Arena da Baixada]]
+|-
+|Capacity: '''40,549'''<ref name="fifa_venues"/>
+|Capacity: '''39,971'''<ref name="fifa_venues"/>
+|Capacity: '''39,631'''<ref name="fifa_venues"/>
+|-
+|[[File:Arena da Amazônia (Aerial View).jpg|200px]]
+|[[File:Natal, Brazil - Arena das Dunas.jpg|200x200px]]
+|[[File:Arena Baixada.jpg|200x200px]]
+|}
+
+===Team base camps===
+Base camps were used by the 32 national squads to stay and train before and during the World Cup tournament. On 31 January 2014, FIFA announced the base camps for each participating team,<ref name=autogenerated2 /> having earlier circulated a brochure of 84 prospective locations.<ref>{{cite web |title=Team Base Camps Brochure |url=http://resources.fifa.com/mm/document/tournament/loc/01/67/33/67/tbc_web_finalversion071113_neutral.pdf |work=FIFA.com |date=7 November 2013 |access-date=5 June 2014 |archive-url=https://web.archive.org/web/20140606230332/http://resources.fifa.com/mm/document/tournament/loc/01/67/33/67/tbc_web_finalversion071113_neutral.pdf |archive-date=6 June 2014 |url-status=dead }}</ref> Most teams opted to stay in the [[Southeast Region, Brazil|Southeast Region]] of Brazil, with only eight teams choosing other regions; five teams (Croatia, Germany, Ghana, Greece and Switzerland) opted to stay in the [[Northeast Region, Brazil|Northeast Region]] and three teams (Ecuador, South Korea and Spain) opted to stay in the [[South Region, Brazil|South Region]]. None opted to stay in the [[North Region, Brazil|North Region]] or the [[Central-West Region, Brazil|Central-West Region]].<ref>{{cite web |title=Most teams pick bases in south east Brazil |url=https://www.bbc.co.uk/sport/football/25998576 |work=BBC Sport |publisher=British Broadcasting Corporation |date=1 February 2014 |access-date=13 February 2018 |archive-url=https://web.archive.org/web/20160114200708/http://www.bbc.co.uk/sport/0/football/25998576 |archive-date=14 January 2016 |url-status=live }}</ref> [[Campo Bahia]], the base camp of the eventual champion Germany, attracted much interest.<ref name=BBCNews>{{cite web|title=2014 Fifa World Cup: Germany to build training complex in Brazil|url=https://www.bbc.co.uk/sport/football/25370272|website=BBC News|publisher=British Broadcasting Corporation|access-date=1 June 2014|date=13 December 2013|archive-date=18 May 2014|archive-url=https://web.archive.org/web/20140518161835/http://www.bbc.co.uk/sport/0/football/25370272|url-status=live}}</ref>
+
+{| class="wikitable collapsible collapsed"
+|-
+!colspan="2"| National squads' base camps
+|-
+<td>
+{| class="wikitable"
+! Team
+! City
+|-
+| {{Fb|Algeria}}
+| [[Sorocaba]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Argentina}}
+| [[Vespasiano]], [[Minas Gerais|MG]]
+|-
+| {{Fb|Australia}}
+| [[Vitória, Espírito Santo|Vitória]], [[Espírito Santo|ES]]
+|-
+| {{Fb|Belgium}}
+| [[Mogi das Cruzes]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Bosnia and Herzegovina}}
+| [[Guarujá]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Brazil}}
+| [[Teresópolis]], [[Rio de Janeiro (state)|RJ]]
+|-
+| {{Fb|Cameroon}}
+| [[Vitória, Espírito Santo|Vitória]], [[Espírito Santo|ES]]
+|-
+| {{Fb|Chile}}
+| [[Belo Horizonte]], [[Minas Gerais|MG]]
+|-
+| {{Fb|Colombia}}
+| [[Cotia]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Costa Rica}}
+| [[Santos, São Paulo|Santos]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Croatia}}
+| [[Mata de São João]], [[Bahia|BA]]
+|-
+| {{Fb|Ecuador}}
+| [[Viamão]], [[Rio Grande do Sul|RS]]
+|-
+| {{Fb|England}}
+| [[Rio de Janeiro]], [[Rio de Janeiro (state)|RJ]]
+|-
+| {{Fb|France}}
+| [[Ribeirão Preto]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Germany}}
+| [[Campo Bahia]], BA
+|-
+| {{Fb|Ghana}}
+| [[Maceió]], [[Alagoas|AL]]
+|}
+<td>
+{| class="wikitable"
+! Team
+! City
+|-
+| {{Fb|Greece}}
+| [[Aracaju]], [[Sergipe|SE]]
+|-
+| {{Fb|Honduras}}
+| [[Porto Feliz]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Iran}}
+| [[Guarulhos]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Italy}}
+| [[Mangaratiba]], [[Rio de Janeiro (state)|RJ]]
+|-
+| {{Fb|Ivory Coast}}
+| [[Águas de Lindoia]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Japan}}
+| [[Itu (Brazil)|Itu]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|South Korea}}
+| [[Foz do Iguaçu]], [[Paraná (state)|PR]]
+|-
+| {{Fb|Mexico}}
+| [[Santos, São Paulo|Santos]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Netherlands}}
+| [[Rio de Janeiro]], [[Rio de Janeiro (state)|RJ]]
+|-
+| {{Fb|Nigeria}}
+| [[Campinas]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Portugal}}
+| [[Campinas]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Russia}}
+| [[Itu (Brazil)|Itu]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Spain}}
+| [[Curitiba]], [[Paraná (state)|PR]]
+|-
+| {{Fb|Switzerland}}
+| [[Porto Seguro]], [[Bahia|BA]]
+|-
+| {{Fb|United States}}
+| [[São Paulo]], [[São Paulo (state)|SP]]
+|-
+| {{Fb|Uruguay}}
+| [[Sete Lagoas]], [[Minas Gerais|MG]]
+|}
+|}
+
+===FIFA Fan Fests===
+[[File:Fan fest Brasília.jpg|thumb|Brazilian fans at the FIFA Fan Fest in Brasília]]
+For a third consecutive World Cup tournament, FIFA staged [[FIFA Fan Fest]]s in each of the 12 host cities throughout the competition. Prominent examples were the [[Copacabana, Rio de Janeiro|Copacabana Beach]] in Rio de Janeiro, which already held a Fan Fest in 2010, and [[São Paulo]]'s Vale do Anhangabaú.<ref>{{cite web |url=http://worldcupfancamp.com/viewtopic.php?f=118&t=10273 |archive-url=https://web.archive.org/web/20140203025331/http://worldcupfancamp.com/viewtopic.php?f=118&t=10273 |url-status=dead |archive-date=3 February 2014 |title=World Cup 2014 FanCamps and FanFests |access-date=8 August 2012 }}</ref><ref>{{cite web |url=https://www.fifa.com/worldcup/news/newsid=1614471/ |title=FIFA Fan Fest locations confirmed |access-date=20 January 2014 |archive-url=https://web.archive.org/web/20140201164228/http://www.fifa.com/worldcup/news/newsid=1614471/ |archive-date=1 February 2014 |url-status=dead }}</ref> The first official event took place on [[Praia de Iracema|Iracema Beach]], in [[Fortaleza]], on 8 June 2014.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=ronaldo-kicks-off-fifa-fan-fest-2360141.html|title=Ronaldo kicks off FIFA Fan Fest|date=9 June 2014|access-date=13 December 2017|archive-url=https://web.archive.org/web/20170625151457/http://www.fifa.com/worldcup/news/y=2014/m=6/news=ronaldo-kicks-off-fifa-fan-fest-2360141.html|archive-date=25 June 2017|url-status=dead}}</ref>
+
+==Innovations==
+===Technologies===
+[[File:Brazil and Colombia match at the FIFA World Cup 2014-07-04 (15) (cropped).jpg|thumb|Adidas Brazuca the official ball used during most of the matches.]]
+In order to avoid [[ghost goal]]s, the 2014 World Cup introduced [[goal-line technology]] following successful trials at, among other competitions, the [[2013 FIFA Confederations Cup|2013 Confederations Cup]]. The chosen [[Vieww|Goal Control system]] featured 14 high speed cameras, 7 directed to each of the goals. Data were sent to the central image-processing centre, where a virtual representation of the ball was output on a widescreen to confirm the goal. The referee was equipped with a watch which vibrated and displayed a signal upon a goal.<ref name=DW>{{cite web|title=Behind the Scenes with GoalControl |url=http://www.dw.de/behind-the-scenes-with-goalcontrol/av-17711403 |website=[[Deutsche Welle]] |access-date=14 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140714183652/http://www.dw.de/behind-the-scenes-with-goalcontrol/av-17711403 |archive-date=14 July 2014 }}</ref><ref name=Yah>{{cite web|title=World Cup 2014: Goal Control goal-line technology to be used in Brazil|url=https://news.yahoo.com/video/world-cup-2014-goal-control-051750367.html|website=Yahoo! News|date=12 June 2014 |access-date=14 July 2014|archive-url=https://web.archive.org/web/20140714231256/https://news.yahoo.com/video/world-cup-2014-goal-control-051750367.html|archive-date=14 July 2014|url-status=live}}</ref><ref name=TR>{{cite news|last1=WOLDE|first1=HARRO TEN|title=German firm behind goal-line technology looks beyond World Cup|url=https://www.reuters.com/article/us-worldcup-technology-idUSKBN0E82EG20140529|website=[[Reuters]]|publisher=[[Thomson Reuters]]|access-date=14 July 2014|date=29 May 2014|archive-url=https://web.archive.org/web/20140711185451/http://www.reuters.com/article/2014/05/29/us-worldcup-technology-idUSKBN0E82EG20140529|archive-date=11 July 2014|url-status=live}}</ref> France's second goal in their [[2014 FIFA World Cup Group E#France vs Honduras|group game]] against Honduras was the first time goal-line technology was needed to confirm that a goal should be given.<ref>{{cite web|last1=Gibbs|first1=Samuel|title=World Cup goalline technology: how does it work?|url=https://www.theguardian.com/technology/2014/jun/16/world-cup-goalline-technology-football-brazil-2014|work=The Guardian|date=16 June 2014|access-date=18 June 2014|archive-url=https://web.archive.org/web/20140617134201/http://www.theguardian.com/technology/2014/jun/16/world-cup-goalline-technology-football-brazil-2014|archive-date=17 June 2014|url-status=live}}</ref>
+
+Following successful trials,{{refn|group=nb|The spray was trialled at the [[2013 FIFA U-20 World Cup]], [[2013 FIFA U-17 World Cup]] and [[2013 FIFA Club World Cup]]}} FIFA approved the use of [[vanishing spray]] by the referees for the first time at a World Cup Finals. The water-based spray, which disappears within minutes of application, can be used to mark a ten-yard line for the defending team during a [[Free kick (association football)|free kick]] and also to draw where the ball is to be placed for a free kick.<ref>{{cite web|url=http://au.eurosport.com/football/world-cup/2014/vanishing-spray-set-for-world-cup_sto4056067/story.shtml|title=Vanishing spray set for World Cup|work=eurosport.com|date=21 November 2013|access-date=21 December 2013|archive-url=https://web.archive.org/web/20131224101932/http://au.eurosport.com/football/world-cup/2014/vanishing-spray-set-for-world-cup_sto4056067/story.shtml|archive-date=24 December 2013|url-status=live}}</ref>
+
+The [[Adidas Brazuca]] was the official [[Football (association football)|match ball]] of the 2014 FIFA World Cup<ref name=forbes>{{cite news|last1=Howells|first1=Richard|title=World Cup 2014: Adidas "Brazuca" Ball Scores With Fans|url=https://www.forbes.com/sites/sap/2014/06/11/world-cup-2014-adidas-brazuca-ball-scores-with-fans/|website=Forbes|access-date=14 June 2014|date=11 June 2014|archive-url=https://web.archive.org/web/20140615062616/http://www.forbes.com/sites/sap/2014/06/11/world-cup-2014-adidas-brazuca-ball-scores-with-fans/|archive-date=15 June 2014|url-status=live}}</ref><ref name=brazucafifanews>{{cite web|title=adidas Brazuca&nbsp;– Name of Official Match Ball decided by Brazilian fans|url=https://www.fifa.com/worldcup/news/newsid=1693277/|website=FIFA.com|access-date=3 September 2012|archive-url=https://web.archive.org/web/20120905012233/http://www.fifa.com/worldcup/news/newsid=1693277/|archive-date=5 September 2012|url-status=dead}}</ref><ref name=brazucaadidasgroup>{{cite web|title=Brazuca – an icon is born |url=http://www.adidas-group.com/en/group/stories/brazuca-icon-born/ |website=Adidas |publisher=Adidas Group |access-date=14 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140702020600/http://www.adidas-group.com/en/group/stories/brazuca-icon-born/ |archive-date=2 July 2014 }}</ref><ref name=brazucafifamatchball>{{cite web|url=https://www.fifa.com/worldcup/organisation/match-ball.html|title=adidas brings brazuca into the world|date=3 December 2013|website=FIFA.com|access-date=4 December 2013|archive-url=https://web.archive.org/web/20131205172100/http://www.fifa.com/worldcup/organisation/match-ball.html|archive-date=5 December 2013|url-status=dead}}</ref> and was supplied by [[Forward Sports]] of [[Sialkot]], [[Pakistan]].<ref name="forbes"/> Adidas created a new design of ball after criticisms of the [[Adidas Jabulani]] used in the [[2010 FIFA World Cup|previous World Cup]]. The number of panels was reduced to six, with the panels being thermally bonded. This created a ball with increased consistency and aerodynamics compared to its predecessor. Furthermore, Adidas underwent an extensive testing process lasting more than two years to produce a ball that would meet the approval of football professionals.
+
+===Cooling breaks===
+Due to the relatively high ambient temperatures in Brazil, particularly at the northern venues, cooling breaks for the players were introduced.<ref>{{cite web |url=http://www.insideworldfootball.com/fifa/13379-fifa-approves-extra-breaks-to-help-players-keep-their-cool |title=FIFA approves extra breaks to help players keep their cool |publisher=Inside World Football |date=7 October 2013 |access-date=18 June 2014 |archive-url=https://web.archive.org/web/20140708072148/http://www.insideworldfootball.com/fifa/13379-fifa-approves-extra-breaks-to-help-players-keep-their-cool |archive-date=8 July 2014 |url-status=live }}</ref> Breaks could take place at the referee's discretion after the 30th minute of each half if the [[Wet Bulb Globe Temperature]] exceeded {{convert|32|C}}; the breaks would last 3 minutes, with this time made up by an extended period of stoppage time at the end of the half.
+
+The first cooling break in a World Cup play took place during the 32nd minute of the [[2014 FIFA World Cup knockout stage#Netherlands vs Mexico|match between the Netherlands and Mexico in the round of 16]].<ref>{{cite news|title=Heat forces first cooling breaks in Brazil|work=BBC Sport|url=https://www.bbc.com/sport/0/football/28075216|publisher=British Broadcasting Corporation|access-date=2 July 2014|archive-url=https://web.archive.org/web/20140702070243/http://www.bbc.com/sport/0/football/28075216|archive-date=2 July 2014|url-status=live}}</ref><ref>{{cite web|title=A cool first and a historic triumph|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=a-cool-first-and-a-historic-triumph-2390305.html|website=FIFA.com|access-date=1 July 2014|archive-url=https://web.archive.org/web/20140701194754/http://www.fifa.com/worldcup/news/y=2014/m=6/news=a-cool-first-and-a-historic-triumph-2390305.html|archive-date=1 July 2014|url-status=dead}}</ref><ref>{{cite news|last1=Hicks|first1=Brandon|title=FIFA World Cup: Netherlands 2, Mexico 1|url=http://www.cbc.ca/sports/soccer/brazil2014/post-game/fifa-world-cup-netherlands-2-mexico-1-1.2691278|website=CBC Sports|access-date=1 July 2014|date=29 June 2014|archive-url=https://web.archive.org/web/20140701093054/http://www.cbc.ca/sports/soccer/brazil2014/post-game/fifa-world-cup-netherlands-2-mexico-1-1.2691278|archive-date=1 July 2014|url-status=live}}</ref><ref>{{cite tweet|user=FIFAWorldCup|author=FIFA World Cup 🏆|number=483287726973014017|date=29 June 2014|title=LIVE: #MEX & #NED players take 1st cooling break at a #worldcup #NEDMEX -}}</ref> At the start of the match, FIFA listed the temperature at {{convert|32|C}} with 68% humidity.<ref>{{cite web|title=Match Report|url=https://www.fifa.com/worldcup/matches/round=255951/match=300186508/index.html#matchfacts|website=FIFA|access-date=1 July 2014|archive-url=https://web.archive.org/web/20140702130527/http://www.fifa.com/worldcup/matches/round=255951/match=300186508/index.html#matchfacts|archive-date=2 July 2014|url-status=dead}}</ref>
+
+===Anti-doping===
+The [[biological passport]] was introduced in the FIFA World Cup starting in 2014. [[Blood]] and [[urine]] samples collected from all players before the competition, and from two players per team per match, were analysed by the [[Swiss Laboratory for Doping Analyses]].<ref>{{in lang|fr}} [http://fr.m.fifa.com/worldcup/news/y=2014/m=6/news=dvorak-le-profil-biologique-une-approche-completement-nouvelle-2354963.html Anti-dopage. Dvorak : "Le profil biologique, une approche complètement nouvelle"] {{Webarchive|url=https://web.archive.org/web/20170312122242/http://fr.m.fifa.com/worldcup/news/y=2014/m=6/news=dvorak-le-profil-biologique-une-approche-completement-nouvelle-2354963.html |date=12 March 2017 }}, fifa.com (page visited on 11 June 2014).</ref> FIFA reported that 91.5% of the players taking part in the tournament were tested before the start of the competition and none tested positive.<ref>{{cite web |url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=all-pre-fifa-world-cup-doping-controls-test-negative-2374232.html |title=All pre-FIFA World Cup doping controls test negative |work=FIFA.com |date=14 June 2014 |access-date=24 June 2014 |archive-url=https://web.archive.org/web/20140622044151/http://www.fifa.com/worldcup/news/y=2014/m=6/news=all-pre-fifa-world-cup-doping-controls-test-negative-2374232.html |archive-date=22 June 2014 |url-status=dead }}</ref> However, FIFA was criticised for how it conducted doping tests.<ref>{{cite news |url=http://www.irishtimes.com/sport/other-sports/doping-controls-at-the-world-cup-in-brazil-leave-a-lot-to-be-desired-1.1823913 |title=Doping controls at the World Cup in Brazil leave a lot to be desired – Sports News &#124; Latest Sports Results & Fixtures &#124; The Irish Times – Sat, Jun 07, 2014 |newspaper=The Irish Times |date=7 June 2014 |access-date=24 June 2014 |archive-url=https://web.archive.org/web/20140623231115/http://www.irishtimes.com/sport/other-sports/doping-controls-at-the-world-cup-in-brazil-leave-a-lot-to-be-desired-1.1823913 |archive-date=23 June 2014 |url-status=live }}</ref><ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/world-cup/10917219/World-Cup-2014-Diego-Maradona-accuses-Fifa-of-drug-testing-conspiracy-against-Costa-Rica.html |title=World Cup 2014: Diego Maradona accuses Fifa of drug testing conspiracy against Costa Rica |work=The Telegraph |location=London |date=21 June 2014 |access-date=24 June 2014 |first=Ben |last=Rumsby |archive-url=https://web.archive.org/web/20140624040030/http://www.telegraph.co.uk/sport/football/world-cup/10917219/World-Cup-2014-Diego-Maradona-accuses-Fifa-of-drug-testing-conspiracy-against-Costa-Rica.html |archive-date=24 June 2014 |url-status=live }}</ref>
+
+==Format==
+{{anchor|Tie-breaking_criteria}}
+The first round, or group stage, was a competition between the 32 teams divided among eight groups of four, where each group engaged in a [[round-robin tournament]] within itself. The two highest ranked teams in each group advanced to the knockout stage.<ref name="regulations"/> Teams were awarded [[three points for a win]] and one for a draw. When comparing teams in a group over-all result came before head-to-head.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Tie-breaking criteria for group play
+|-
+|The ranking of teams in each group was based on the following criteria:
+# Number of points
+# [[Goal difference]]
+# Number of goals scored
+# Number of points obtained in matches between tied teams
+# Goal difference in matches between tied teams
+# Number of goals scored in matches between tied teams
+# Drawing of lots
+|}
+In the [[single-elimination tournament|knockout stage]] there were four rounds (round of 16, quarter-finals, semi-finals, and the final), with each eliminating the losers. The two semi-final losers competed in a match for third place. For any match in the knockout stage, a draw after 90 minutes of regulation time was followed by two 15 minute periods of [[Overtime (association football)|extra time]] to determine a winner. If the teams were still tied, a [[Penalty shoot-out (association football)|penalty shoot-out]] was held to determine a winner.<ref name="regulations"/>
+
+The match schedule was announced on 20 October 2011<ref>{{cite web |title=Match schedule for 2014 FIFA World Cup unveiled |url=https://www.fifa.com/worldcup/news/newsid=1529755/index.html |work=FIFA.com |date=20 October 2011 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20140708194326/http://www.fifa.com/worldcup/news/newsid=1529755/index.html |archive-date=8 July 2014 |url-status=dead }}</ref> with the kick-off times being confirmed on 27 September 2012;<ref>{{cite web |title=FIFA Executive Committee approves kick-off times for Brazil 2014 |url=https://www.fifa.com/worldcup/news/newsid=1709606/index.html |work=FIFA.com |date=27 September 2012 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20140708194330/http://www.fifa.com/worldcup/news/newsid=1709606/index.html |archive-date=8 July 2014 |url-status=dead }}</ref> after the final draw, the kick-off times of seven matches were adjusted by FIFA.<ref>{{cite web |title=Match schedule for Brazil 2014 confirmed |url=https://www.fifa.com/worldcup/news/newsid=2240950/index.html |work=FIFA.com |date=7 December 2013 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20150205211058/http://www.fifa.com/worldcup/news/newsid=2240950/index.html |archive-date=5 February 2015 |url-status=dead }}</ref> The competition was organised so that teams that played each other in the group stage could not meet again during the knockout phase until the final (or the match for third place).<ref name="regulations"/>
+The group stage began on 12 June, with the host nation competing in the opening game as has been the format since the 2006 tournament. The opening game was preceded by an [[2014 FIFA World Cup opening ceremony|opening ceremony]] that began at 15:15 local time.<ref>{{cite web |title=Brazil 2014: Opening ceremony |url=https://www.fifa.com/worldcup/photos/galleries/y=2014/m=6/gallery=brazil-2014-opening-ceremony-2368744.html |work=FIFA.com |date=12 June 2014 |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20171212020806/http://www.fifa.com/worldcup/photos/galleries/y=2014/m=6/gallery=brazil-2014-opening-ceremony-2368744.html |archive-date=12 December 2017 |url-status=dead }}</ref>
+
+==Opening ceremony==
+[[File:The opening ceremony of the FIFA World Cup 2014 10.jpg|thumb|From left to right: [[Claudia Leitte]], [[Pitbull (rapper)|Pitbull]], and [[Jennifer Lopez]] performing at the opening ceremony at the [[Arena Corinthians|Arena de São Paulo]], [[São Paulo]].]]
+{{main|2014 FIFA World Cup opening ceremony}}
+On 12 June 2014, the 20th edition of the [[FIFA World Cup]] began with the opening ceremony at [[Arena Corinthians|Arena de São Paulo]], [[São Paulo]], Brazil. The event saw 660 dancers take to the stadium and perform in a ceremony which celebrated the nature of the country and its love of football. Following the dancers native singer [[Claudia Leitte]] emerged on centre stage to perform for the crowd. She was later joined by Cuban-American rapper [[Pitbull (rapper)|Pitbull]], and American singer [[Jennifer Lopez]] to perform the tournament's official song "[[We Are One (Ole Ola)]]" which had been released as an official single on 8 April 2014. Following the ceremony, the opening match was played, which saw the hosts come from behind to beat Croatia 3–1.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/27779059|title=World Cup 2014 kicks off with colourful ceremony|work=BBC Sport|date=12 June 2014|access-date=7 April 2020|archive-url=https://web.archive.org/web/20190722154744/https://www.bbc.co.uk/sport/football/27779059|archive-date=22 July 2019|url-status=live}}</ref><ref>{{Cite web|url=https://www.telegraph.co.uk/sport/football/world-cup/10894619/World-Cup-2014-opening-ceremony-live.html|title=World Cup 2014 opening ceremony: live|first=Alan|last=Tyers|date=12 June 2014|access-date=7 April 2020|via=www.telegraph.co.uk|archive-url=https://web.archive.org/web/20181127234425/https://www.telegraph.co.uk/sport/football/world-cup/10894619/World-Cup-2014-opening-ceremony-live.html|archive-date=27 November 2018|url-status=live}}</ref><ref>{{Cite news|url=https://www.theguardian.com/football/2014/jun/12/world-cup-2014-live-brazil|title=World Cup 2014 opening ceremony – as it happened|first1=Tom Lutz (very|last1=early)|first2=Tom|last2=Bryant (early)|first3=Paul Doyle Gregg Bakowski(for a bit) Daniel|last3=Harris (then)|first4=Jacob|last4=Steinberg(later)|newspaper=The Guardian|date=12 June 2014|access-date=7 April 2020|via=www.theguardian.com|archive-url=https://web.archive.org/web/20140612233740/http://www.theguardian.com/football/2014/jun/12/world-cup-2014-live-brazil|archive-date=12 June 2014|url-status=live}}</ref>
+
+==Group stage==
+The group stage of the cup took place in [[Brazil]] from 12 June 2014 to 26 June 2014: each team played three games. The group stage was notable for a scarcity of draws and a large number of goals. The first drawn (and goalless) match did not occur until the 13th match of the tournament, between Iran and Nigeria: a drought longer than any World Cup since 1930.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/25285113|title=Iran 0-0 Nigeria|work=BBC Sport|access-date=20 July 2020|archive-date=20 July 2020|archive-url=https://web.archive.org/web/20200720141059/https://www.bbc.co.uk/sport/football/25285113|url-status=live}}</ref> The group stage produced a total of 136 goals (an average of 2.83 goals per match), nine fewer than were scored during the entire 2010 tournament.<ref>{{cite web|title=Group stage goal glut brightens World Cup|url=http://www.dw.de/group-stage-goal-glut-brightens-world-cup/a-17740469|date=26 June 2014|publisher=Deutsche Welle|access-date=27 June 2014|archive-url=https://web.archive.org/web/20140627050633/http://www.dw.de/group-stage-goal-glut-brightens-world-cup/a-17740469|archive-date=27 June 2014|url-status=live}}</ref> This is the largest number of goals in the group stage since the 32-team system was implemented in 1998<ref>{{cite news |url=https://www.bbc.com/sport/0/football/28043070 |title=World Cup 2014: Statistical XI versus your tournament XI |work=BBC Sport |publisher=British Broadcasting Corporation |date=27 June 2014 |access-date=13 February 2018 |archive-url=https://web.archive.org/web/20160125232505/http://www.bbc.com/sport/0/football/28043070 |archive-date=25 January 2016 |url-status=live }}</ref> and the largest average in a group stage since 1958.<ref>{{cite web|title=Statistically the greatest World Cup?|url=https://www.bbc.com/news/blogs-magazine-monitor-28054653|date=27 June 2014|work=BBC News|publisher=British Broadcasting Corporation|access-date=22 June 2018|archive-url=https://web.archive.org/web/20180619192628/https://www.bbc.com/news/blogs-magazine-monitor-28054653|archive-date=19 June 2018|url-status=live}}</ref> World Cup holders Spain were eliminated after only two games, the quickest exit for the defending champions since Italy's from the [[1950 FIFA World Cup|1950 tournament]].<ref>{{cite news |url=https://www.usatoday.com/story/sports/soccer/2014/06/21/spain-aims-to-avoid-worst-ever-world-cup-defense/11207503/ |work=USA Today |title=Spain aims to avoid worst ever World Cup defense |date=21 June 2014 |access-date=23 August 2017 |archive-url=https://web.archive.org/web/20170710075319/https://www.usatoday.com/story/sports/soccer/2014/06/21/spain-aims-to-avoid-worst-ever-world-cup-defense/11207503/ |archive-date=10 July 2017 |url-status=live }}</ref> Spain also became the fourth nation to be eliminated in the first round while holding the World Cup crown, the first one being Italy in 1950 (and again in 2010), Brazil in 1966, and France in 2002.<ref>{{cite news |url=https://www.independent.co.uk/sport/football/worldcup/world-cup-2014-spain-and-the-world-cup-holders-who-crashed-out-at-the-group-stage-9547351.html |access-date=18 April 2015 |newspaper=The Independent |date=18 June 2014 |last=Krishnan |first=Joe |title=World Cup 2014: Spain and the World Cup holders who crashed out at the group stage |location=London |archive-url=https://web.archive.org/web/20140624060542/http://www.independent.co.uk/sport/football/worldcup/world-cup-2014-spain-and-the-world-cup-holders-who-crashed-out-at-the-group-stage-9547351.html |archive-date=24 June 2014 |url-status=live }}</ref> For the first time, two teams from Africa advanced to the second round, a feat that would be repeated in the [[2022 FIFA World Cup|2022 tournament]].
+
+===Group A===
+{{main|2014 FIFA World Cup Group A}}
+{{:2014 FIFA World Cup Group A|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group A}}
+
+===Group B===
+{{main|2014 FIFA World Cup Group B}}
+{{:2014 FIFA World Cup Group B|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group B}}
+
+===Group C===
+{{main|2014 FIFA World Cup Group C}}
+{{:2014 FIFA World Cup Group C|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group C}}
+
+===Group D===
+{{main|2014 FIFA World Cup Group D}}
+{{:2014 FIFA World Cup Group D|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group D}}
+
+===Group E===
+{{main|2014 FIFA World Cup Group E}}
+{{:2014 FIFA World Cup Group E|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group E}}
+
+===Group F===
+{{main|2014 FIFA World Cup Group F}}
+{{:2014 FIFA World Cup Group F|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group F}}
+
+===Group G===
+{{main|2014 FIFA World Cup Group G}}
+{{:2014 FIFA World Cup Group G|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group G}}
+
+===Group H===
+{{main|2014 FIFA World Cup Group H}}
+{{:2014 FIFA World Cup Group H|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2014 FIFA World Cup Group H}}
+
+==Knockout stage==
+{{main|2014 FIFA World Cup knockout stage}}
+
+===Bracket===
+{{trim|{{#section-h:2014 FIFA World Cup knockout stage|Bracket}}}}
+
+Results decided after extra time are indicated by (a.e.t.), and results decided via a penalty shoot-out are indicated by (p).
+
+===Round of 16===
+All the group winners advanced into the quarter-finals. They included four teams from UEFA, three from CONMEBOL, and one from CONCACAF. Of the eight matches, five required extra-time, and two of these [[List of FIFA World Cup penalty shoot-outs|required penalty shoot-outs]]; this was the first time penalty shoot-outs occurred in more than one game in a round of 16.{{refn|group=nb|In [[1938 FIFA World Cup#First round|1938's round of 16]], two games were also tied after extra-time, but those were [[Replay (sports)|replay]]ed instead.}} The goal average per game in the round of 16 was 2.25, a drop of 0.58 goals per game from the group stage.<ref>{{cite news |url=http://www.cbc.ca/sports/soccer/brazil2014/world-cup-round-of-16-by-the-numbers-1.2693626 |work=CBC News |first=Brandon |last=Hicks |title=World Cup Round of 16: By the numbers |date=1 July 2014 |access-date=2 July 2014 |archive-url=https://web.archive.org/web/20140702133355/http://www.cbc.ca/sports/soccer/brazil2014/world-cup-round-of-16-by-the-numbers-1.2693626 |archive-date=2 July 2014 |url-status=live }}</ref> The eight teams to win in the round of 16 included four former champions (Brazil, Germany, Argentina and France), a three-time runner-up (Netherlands), and two first-time quarter-finalists (Colombia and Costa Rica).<ref>{{cite web|url=http://www.soccerbyives.net/2014/06/colombia-uruguay-quarterfinals.html|title=Colombia topples Uruguay to reach first World Cup quarterfinals|access-date=20 September 2015|date=28 June 2014|first1=Carl|last1=Setterlund|archive-url=https://web.archive.org/web/20150924103237/http://www.soccerbyives.net/2014/06/colombia-uruguay-quarterfinals.html|archive-date=24 September 2015|url-status=live}}</ref><ref>{{cite magazine|url=http://time.com/2938804/costa-rica-beats-greece-5-3-for-quarterfinal-clash-with-dutch/ |title=Costa Rica Beats Greece 5-3 to Advance to Their First Ever World Cup Quarterfinal |date=29 June 2014 |first=John |last=Pye |magazine=Time |url-status=dead |archive-url=https://web.archive.org/web/20140708061130/http://time.com/2938804/costa-rica-beats-greece-5-3-for-quarterfinal-clash-with-dutch/ |archive-date=8 July 2014 }}</ref> Belgium reached the quarter-finals for the first time since 1986.<ref>{{cite web|url=http://sports.ndtv.com/fifa-world-cup-2014/news/226325-world-cup-2014-belgium-vs-usa|title=World Cup 2014: Belgium Beat USA to Set Up Quarterfinal Clash vs Argentina|author=Agence France-Presse|date=1 July 2014|work=NDTVSports.com|access-date=3 July 2014|archive-url=https://web.archive.org/web/20160304080653/http://sports.ndtv.com/fifa-world-cup-2014/news/226325-world-cup-2014-belgium-vs-usa|archive-date=4 March 2016|url-status=dead|df=dmy-all}}</ref>
+
+''All times listed below are at local time ([[UTC−03:00|UTC−3]])''
+
+{{#lst:2014 FIFA World Cup knockout stage|i1}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|i2}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|i3}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|i4}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|i5}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|i6}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|i7}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|i8}}
+
+===Quarter-finals===
+With a 1–0 victory over France, Germany set a World Cup record with four consecutive semi-final appearances. Brazil beat Colombia 2–1, but Brazil's [[Neymar]] was injured and missed the rest of the competition. Argentina reached the final four for the first time since 1990 after a 1–0 win over Belgium. The Netherlands reached the semi-finals for the second consecutive tournament, after overcoming Costa Rica in a [[Penalty shoot-out (association football)|penalty shoot-out]] following a 0–0 draw at the end of extra time, with goalkeeper [[Tim Krul]] having been substituted on for the shoot-out and saving two penalties.<ref>{{Cite web |date=2014 |title=2014 FIFA World Cup Brazil: Technical Report and Statistics |url=https://wheecorea.com/wp-content/uploads/2014/08/2014report.pdf |access-date=4 July 2026 |archive-date=4 July 2026 |archive-url=https://web.archive.org/web/20260704025743/https://wheecorea.com/wp-content/uploads/2014/08/2014report.pdf |url-status=live }}</ref>
+
+{{#lst:2014 FIFA World Cup knockout stage|j1}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|j2}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|j3}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|j4}}
+
+===Semi-finals===
+Germany qualified for the final for the eighth time with a historic 7–1 win over Brazil – the biggest defeat in Brazilian football since 1920. [[Miroslav Klose]]'s goal in this match was his 16th throughout all World Cups, breaking the [[FIFA World Cup top goalscorers|record]] he had previously shared with [[Ronaldo (Brazilian footballer)|Ronaldo]].<ref>{{cite web|url=https://abcnews.go.com/Sports/wireStory/klose-scores-brazil-set-world-cup-record-24474582|title=Klose Sets Record That Compounds Brazil's Defeat|first=Nesha|last=Starcevic|agency=Associated Press|work=ABC News|publisher=American Broadcasting Company|archive-url=https://web.archive.org/web/20140709143927/https://abcnews.go.com/Sports/wireStory/klose-scores-brazil-set-world-cup-record-24474582|archive-date=9 July 2014}}</ref> Klose set another record by becoming the first player to appear in four World Cup semi-finals.<ref>{{cite web|url=https://leaderpost.com/sports/Klose+travels+anomalous+path+become+time+World+scorer/10017042/story.html |archive-url=https://web.archive.org/web/20141015014509/http://www.leaderpost.com/sports/Klose%2Btravels%2Banomalous%2Bpath%2Bbecome%2Btime%2BWorld%2Bscorer/10017042/story.html |title=Klose travels anomalous path to become all-time top World Cup scorer |archive-date=15 October 2014 |work=www.leaderpost.com |url-status=dead }}</ref> Argentina reached their first final since 1990, and their fifth overall, after overcoming the Netherlands in a [[Penalty shoot-out (association football)|penalty shoot-out]] following a 0–0 draw at the end of extra time.
+
+{{main|Brazil v Germany (2014 FIFA World Cup)}}
+{{#lst:2014 FIFA World Cup knockout stage|k1}}
+----
+{{#lst:2014 FIFA World Cup knockout stage|k2}}
+
+===Match for third place===
+The Netherlands defeated Brazil 3–0 to secure third place, the first for the Dutch team in their history. Overall, Brazil conceded 14 goals in the tournament; this was the most by a team at any single World Cup since 1986, and the most by a host nation in history, although their fourth-place finish still represented Brazil's best result in a World Cup since their last win in 2002.<ref>{{cite news |url=http://www.smh.com.au/fifa-world-cup-2014/world-cup-match-report/world-cup-2014-netherlands-pile-more-misery-on-brazil-in-third-place-playoff-20140713-zt5so.html |work=The Sydney Morning Herald |agency=Agence France-Presse |date=13 July 2014 |title=World Cup 2014: Netherlands pile more misery on Brazil in third place play-off |access-date=13 July 2014 |archive-url=https://web.archive.org/web/20140715042216/http://www.smh.com.au/fifa-world-cup-2014/world-cup-match-report/world-cup-2014-netherlands-pile-more-misery-on-brazil-in-third-place-playoff-20140713-zt5so.html |archive-date=15 July 2014 |url-status=live }}</ref>
+
+{{#lst:2014 FIFA World Cup knockout stage|l1}}
+
+===Final===
+{{main|2014 FIFA World Cup final}}
+The final featured Germany against Argentina for a record third time after [[1986 FIFA World Cup final|1986]] and [[1990 FIFA World Cup final|1990]].
+
+{{#lst:2014 FIFA World Cup final|Final}}
+
+This marked the first time that teams from the same continent had won three consecutive World Cups (following Italy in [[2006 FIFA World Cup|2006]] and Spain in [[2010 FIFA World Cup|2010]]). It was also the first time that a European nation had won the World Cup in the Americas. On aggregate Europe then had eleven victories, to South America's nine.
+
+==Statistics==
+{{See also|List of FIFA World Cup records}}
+<!--Statistics on the main page are only to cover goalscorers, current suspensions and awards.-->
+
+===Goalscorers===
+In total, 171 goals were scored by a record 121 players, with five credited as [[own goal#Association football|own goal]]s. Goals scored from [[Penalty shoot-out (association football)|penalty shoot-outs]] are not counted.
+{{trim|
+[[James Rodríguez]] was awarded the [[FIFA World Cup awards#Golden Boot|Golden Boot]] for scoring six goals, the first time that a Colombian player received the award.<ref>{{Cite news|url=https://www.bbc.com/sport/football/28279730|title=World Cup 2014: James Rodriguez wins Golden Boot|date=13 July 2014|access-date=29 March 2019|archive-date=29 March 2019|archive-url=https://web.archive.org/web/20190329155224/https://www.bbc.com/sport/football/28279730|url-status=live}}</ref><ref name="whoscored.com">{{Cite web |title=FIFA World Cup 2014 Player Statistics |url=https://www.whoscored.com/Regions/247/Tournaments/36/Seasons/3768/Stages/10274/PlayerStatistics/International-FIFA-World-Cup-2014 |access-date=22 March 2022 |website=www.whoscored.com |archive-date=22 March 2022 |archive-url=https://web.archive.org/web/20220322071918/https://www.whoscored.com/Regions/247/Tournaments/36/Seasons/3768/Stages/10274/PlayerStatistics/International-FIFA-World-Cup-2014 |url-status=live }}</ref>
+
+;6 goals
+* {{fbicon|COL}} [[James Rodríguez]]
+;5 goals
+* {{fbicon|GER}} [[Thomas Müller]]
+;4 goals
+{{Div col|colwidth=22em}}
+* {{fbicon|ARG}} [[Lionel Messi]]
+* {{fbicon|BRA}} [[Neymar]]
+* {{fbicon|NED}} [[Robin van Persie]]
+{{Div col end}}
+
+;3 goals
+{{Div col|colwidth=22em}}
+* {{fbicon|ECU}} [[Enner Valencia]]
+* {{fbicon|FRA|1974}} [[Karim Benzema]]
+* {{fbicon|GER}} [[André Schürrle]]
+* {{fbicon|NED}} [[Arjen Robben]]
+* {{fbicon|SUI}} [[Xherdan Shaqiri]]
+{{Div col end}}
+
+;2 goals
+{{Div col|colwidth=22em}}
+* {{fbicon|ALG}} [[Abdelmoumene Djabou]]
+* {{fbicon|ALG}} [[Islam Slimani]]
+* {{fbicon|AUS}} [[Tim Cahill]]
+* {{fbicon|BRA}} [[David Luiz]]
+* {{fbicon|BRA}} [[Oscar (footballer, born 1991)|Oscar]]
+* {{fbicon|CHI}} [[Alexis Sánchez]]
+* {{fbicon|COL}} [[Jackson Martínez]]
+* {{fbicon|CRC}} [[Bryan Ruiz]]
+* {{fbicon|CRO}} [[Mario Mandžukić]]
+* {{fbicon|CRO}} [[Ivan Perišić]]
+* {{fbicon|GER}} [[Mario Götze]]
+* {{fbicon|GER}} [[Mats Hummels]]
+* {{fbicon|GER}} [[Miroslav Klose]]
+* {{fbicon|GER}} [[Toni Kroos]]
+* {{fbicon|GHA}} [[André Ayew]]
+* {{fbicon|GHA}} [[Asamoah Gyan]]
+* {{fbicon|CIV}} [[Wilfried Bony]]
+* {{fbicon|CIV}} [[Gervinho]]
+* {{fbicon|NED}} [[Memphis Depay]]
+* {{fbicon|NGA}} [[Ahmed Musa]]
+* {{fbicon|USA}} [[Clint Dempsey]]
+* {{fbicon|URU}} [[Luis Suárez]]
+{{Div col end}}
+
+;1 goal
+{{Div col|colwidth=22em}}
+* {{fbicon|ALG}} [[Yacine Brahimi]]
+* {{fbicon|ALG}} [[Sofiane Feghouli]]
+* {{fbicon|ALG}} [[Rafik Halliche]]
+* {{fbicon|ARG}} [[Ángel Di María]]
+* {{fbicon|ARG}} [[Gonzalo Higuaín]]
+* {{fbicon|ARG}} [[Marcos Rojo]]
+* {{fbicon|AUS}} [[Mile Jedinak]]
+* {{fbicon|BEL}} [[Kevin De Bruyne]]
+* {{fbicon|BEL}} [[Marouane Fellaini]]
+* {{fbicon|BEL}} [[Romelu Lukaku]]
+* {{fbicon|BEL}} [[Dries Mertens]]
+* {{fbicon|BEL}} [[Divock Origi]]
+* {{fbicon|BEL}} [[Jan Vertonghen]]
+* {{fbicon|BIH}} [[Edin Džeko]]
+* {{fbicon|BIH}} [[Vedad Ibišević]]
+* {{fbicon|BIH}} [[Miralem Pjanić]]
+* {{fbicon|BIH}} [[Avdija Vršajević]]
+* {{fbicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]]
+* {{fbicon|BRA}} [[Fred (footballer, born 1983)|Fred]]
+* {{fbicon|BRA}} [[Thiago Silva]]
+* {{fbicon|CMR}} [[Joël Matip]]
+* {{fbicon|CHI}} [[Charles Aránguiz]]
+* {{fbicon|CHI}} [[Jean Beausejour]]
+* {{fbicon|CHI}} [[Jorge Valdivia]]
+* {{fbicon|CHI}} [[Eduardo Vargas]]
+* {{fbicon|COL}} [[Pablo Armero]]
+* {{fbicon|COL}} [[Juan Cuadrado]]
+* {{fbicon|COL}} [[Teófilo Gutiérrez]]
+* {{fbicon|COL}} [[Juan Fernando Quintero|Juan Quintero]]
+* {{fbicon|CRC}} [[Joel Campbell]]
+* {{fbicon|CRC}} [[Óscar Duarte (Costa Rican footballer)|Óscar Duarte]]
+* {{fbicon|CRC}} [[Marco Ureña]]
+* {{fbicon|CRO}} [[Ivica Olić]]
+* {{fbicon|ENG}} [[Wayne Rooney]]
+* {{fbicon|ENG}} [[Daniel Sturridge]]
+* {{fbicon|FRA|1974}} [[Olivier Giroud]]
+* {{fbicon|FRA|1974}} [[Blaise Matuidi]]
+* {{fbicon|FRA|1974}} [[Paul Pogba]]
+* {{fbicon|FRA|1974}} [[Moussa Sissoko]]
+* {{fbicon|FRA|1974}} [[Mathieu Valbuena]]
+* {{fbicon|GER}} [[Sami Khedira]]
+* {{fbicon|GER}} [[Mesut Özil]]
+* {{fbicon|GRE}} [[Sokratis Papastathopoulos]]
+* {{fbicon|GRE}} [[Georgios Samaras]]
+* {{fbicon|GRE}} [[Andreas Samaris]]
+* {{fbicon|HON|1949}} [[Carlo Costly]]
+* {{fbicon|IRN}} [[Reza Ghoochannejhad]]
+* {{fbicon|ITA}} [[Mario Balotelli]]
+* {{fbicon|ITA}} [[Claudio Marchisio]]
+* {{fbicon|JPN}} [[Keisuke Honda]]
+* {{fbicon|JPN}} [[Shinji Okazaki]]
+* {{fbicon|MEX}} [[Giovani dos Santos]]
+* {{fbicon|MEX}} [[Andrés Guardado]]
+* {{fbicon|MEX}} [[Javier Hernández]]
+* {{fbicon|MEX}} [[Rafael Márquez]] 
+* {{fbicon|MEX}} [[Oribe Peralta]]
+* {{fbicon|NED}} [[Daley Blind]]
+* {{fbicon|NED}} [[Stefan de Vrij]]
+* {{fbicon|NED}} [[Leroy Fer]]
+* {{fbicon|NED}} [[Klaas-Jan Huntelaar]]
+* {{fbicon|NED}} [[Wesley Sneijder]]
+* {{fbicon|NED}} [[Georginio Wijnaldum]]
+* {{fbicon|NGA}} [[Peter Odemwingie]]
+* {{fbicon|POR}} [[Cristiano Ronaldo]]
+* {{fbicon|POR}} [[Nani (footballer)|Nani]]
+* {{fbicon|POR}} [[Silvestre Varela]]
+* {{fbicon|RUS}} [[Aleksandr Kerzhakov]]
+* {{fbicon|RUS}} [[Aleksandr Kokorin]]
+* {{fbicon|KOR}} [[Koo Ja-cheol]]
+* {{fbicon|KOR}} [[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]]
+* {{fbicon|KOR}} [[Son Heung-min]]
+* {{fbicon|ESP}} [[Xabi Alonso]]
+* {{fbicon|ESP}} [[Juan Mata]]
+* {{fbicon|ESP}} [[Fernando Torres]]
+* {{fbicon|ESP}} [[David Villa]]
+* {{fbicon|SUI}} [[Blerim Džemaili]]
+* {{fbicon|SUI}} [[Admir Mehmedi]]
+* {{fbicon|SUI}} [[Haris Seferovic]]
+* {{fbicon|SUI}} [[Granit Xhaka]]
+* {{fbicon|USA}} [[John Brooks (soccer, born 1993)|John Brooks]]
+* {{fbicon|USA}} [[Julian Green]]
+* {{fbicon|USA}} [[Jermaine Jones]]
+* {{fbicon|URU}} [[Edinson Cavani]]
+* {{fbicon|URU}} [[Diego Godín]]
+{{Div col end}}
+
+;Own goals
+{{Div col|colwidth=22em}}
+* {{fbicon|BIH}} [[Sead Kolašinac]] (against Argentina)
+* {{fbicon|BRA}} [[Marcelo Vieira|Marcelo]] (against Croatia)
+* {{fbicon|GHA}} [[John Boye]] (against Portugal)
+* {{fbicon|HON|1949}} [[Noel Valladares]] (against France)
+* {{fbicon|NGA}} [[Joseph Yobo]] (against France)
+{{Div col end}}
+
+Source: FIFA<ref>{{cite web |url=https://www.fifa.com/worldcup/awards/golden-boot/index.html |archive-url=https://web.archive.org/web/20140603181223/http://www.fifa.com/worldcup/awards/golden-boot/index.html |url-status=dead |archive-date=3 June 2014 |title=adidas Golden Boot|publisher=FIFA.com (Fédération Internationale de Football Association) |access-date=18 June 2014}}</ref>
+}}
+
+===Discipline===
+The most notable disciplinary case was that of Uruguayan striker [[Luis Suárez]], who was suspended for nine international matches and banned from taking part in any football-related activity (including entering any stadium) for four months, following a [[List of 2014 FIFA World Cup controversies#Uruguay vs Italy|biting incident]] on Italian defender [[Giorgio Chiellini]]. He was also fined [[Swiss franc|CHF]]100,000.<ref name="Suarez suspension">{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=luis-suarez-suspended-for-nine-matches-and-banned-for-four-months-from-2386354.html |title=Luis Suárez suspended for nine matches and banned for four months from any football-related activity |work=FIFA.com |date=26 June 2014 |access-date=30 June 2014 |archive-url=https://web.archive.org/web/20140703172739/http://www.fifa.com/worldcup/news/y%3D2014/m%3D6/news%3Dluis-suarez-suspended-for-nine-matches-and-banned-for-four-months-from-2386354.html |archive-date=3 July 2014 |url-status=dead }}</ref><ref name="Ban2014">{{cite news |last=De Menezes |first=Jack |url=https://www.independent.co.uk/sport/football/worldcup/luis-suarez-banned-fifa-hand-striker-record-ninegame-ban-and-a-four-month-football-ban-for-biting-giorgio-chiellini-in-biggest-ever-world-cup-suspension-9565686.html |title=Luis Suarez banned: Fifa hand striker record nine-game ban AND a four month football ban for biting Giorgio Chiellini in biggest ever World Cup suspension |date=26 June 2014 |access-date=26 June 2014 |work=The Independent |location=London |archive-url=https://web.archive.org/web/20140712230123/http://www.independent.co.uk/sport/football/worldcup/luis-suarez-banned-fifa-hand-striker-record-ninegame-ban-and-a-four-month-football-ban-for-biting-giorgio-chiellini-in-biggest-ever-world-cup-suspension-9565686.html |archive-date=12 July 2014 |url-status=live }}</ref><ref name="Luis Suarez suspended">{{cite news|title=Luis Suárez banned for four months for biting in World Cup game|url=https://www.theguardian.com/football/2014/jun/26/world-cup-luis-suarez-ban-biting-uruguay|access-date=26 June 2014|work=The Guardian|date=26 June 2014|archive-url=https://web.archive.org/web/20140706152415/http://www.theguardian.com/football/2014/jun/26/world-cup-luis-suarez-ban-biting-uruguay|archive-date=6 July 2014}}</ref> After an appeal to the [[Court of Arbitration for Sport]], Suárez was later allowed to participate in training and friendly matches with his new club [[FC Barcelona|Barcelona]].<ref>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/luis-suarez-appeal-failed-cas-uphold-the-strikers-fourmonth-ban-but-allow-him-to-train-with-new-barcelona-teammates-9669049.html|title=Luis Suarez biting appeal: CAS uphold ban, but striker can make Barcelona debut on Monday and train with new team-mates|work=The Independent|date=14 August 2014|location=London|first=James|last=Orr|access-date=23 August 2017|archive-url=https://web.archive.org/web/20150925214350/http://www.independent.co.uk/sport/football/news-and-comment/luis-suarez-appeal-failed-cas-uphold-the-strikers-fourmonth-ban-but-allow-him-to-train-with-new-barcelona-teammates-9669049.html|archive-date=25 September 2015|url-status=live}}</ref>
+
+A player is automatically suspended for the next match for the following offences:
+* Receiving a red card (red card suspensions may be extended for serious offences)
+* Receiving two yellow cards in two matches; yellow cards expire after the completion of the quarter-finals (yellow card suspensions are not carried forward to any other future international matches)
+
+The following suspensions were served during the tournament:
+
+{| class="wikitable sortable plainrowheaders"
+|-
+! Player
+! Offence(s)
+! Suspension(s)
+|-
+| {{fbicon|URU}} [[Maxi Pereira]]
+| {{sent off|0}} in [[2014 FIFA World Cup Group D#Uruguay vs Costa Rica|Group D]] vs [[Costa Rica national football team|Costa Rica]] (matchday 1; 14 June)
+| [[2014 FIFA World Cup Group D#Uruguay vs England|Group D]] vs [[England national football team|England]] (matchday 2; 19 June)
+|-
+| {{fbicon|HON}} [[Wilson Palacios]]
+| {{Sent off|2}} in [[2014 FIFA World Cup Group E#France vs Honduras|Group E]] vs [[France national football team|France]] (matchday 1; 15 June)
+| [[2014 FIFA World Cup Group E#Honduras vs Ecuador|Group E]] vs [[Ecuador national football team|Ecuador]] (matchday 2; 20 June)
+|-
+| {{fbicon|POR}} [[Pepe (footballer, born 1983)|Pepe]]
+| {{sent off|0}} in [[2014 FIFA World Cup Group G#Portugal vs Germany|Group G]] vs [[Germany national football team|Germany]] (matchday 1; 16 June)
+| [[2014 FIFA World Cup Group G#Portugal vs United States|Group G]] vs [[United States men's national soccer team|United States]] (matchday 2; 22 June)
+|-
+| {{fbicon|AUS}} [[Tim Cahill]]
+| {{yel}} in [[2014 FIFA World Cup Group B#Australia vs Chile|Group B]] vs [[Chile national football team|Chile]] (matchday 1; 13 June)<br />{{yel}} in [[2014 FIFA World Cup Group B#Australia vs Netherlands|Group B]] vs [[Netherlands national football team|Netherlands]] (matchday 2; 18 June)
+| [[2014 FIFA World Cup Group B#Australia vs Spain|Group B]] vs [[Spain national football team|Spain]] (matchday 3; 23 June)
+|-
+| {{fbicon|NED}} [[Robin van Persie]]
+| {{yel}} in [[2014 FIFA World Cup Group B#Netherlands vs Spain|Group B]] vs [[Spain national football team|Spain]] (matchday 1; 13 June)<br />{{yel}} in [[2014 FIFA World Cup Group B#Netherlands vs Australia|Group B]] vs [[Australia men's national soccer team|Australia]] (matchday 2; 18 June)
+| [[2014 FIFA World Cup Group B#Netherlands vs Chile|Group B]] vs [[Chile national football team|Chile]] (matchday 3; 23 June)
+|-
+| {{fbicon|CMR}} [[Alex Song]]
+| {{sent off|0}} in [[2014 FIFA World Cup Group A#Cameroon vs Croatia|Group A]] vs [[Croatia national football team|Croatia]] (matchday 2; 18 June)
+| [[2014 FIFA World Cup Group A#Cameroon vs Brazil|Group A]] vs [[Brazil national football team|Brazil]] (matchday 3; 23 June)
+|-
+| {{fbicon|CIV}} [[Didier Zokora]]
+| {{yel}} in [[2014 FIFA World Cup Group C#Ivory Coast vs Japan|Group C]] vs [[Japan national football team|Japan]] (matchday 1; 14 June)<br />{{yel}} in [[2014 FIFA World Cup Group C#Ivory Coast vs Colombia|Group C]] vs [[Colombia national football team|Colombia]] (matchday 2; 19 June)
+| [[2014 FIFA World Cup Group C#Ivory Coast vs Greece|Group C]] vs [[Greece national football team|Greece]] (matchday 3; 24 June)
+|-
+| {{fbicon|GRE}} [[Kostas Katsouranis]]
+| {{Sent off|2}} in [[2014 FIFA World Cup Group C#Greece vs Japan|Group C]] vs [[Japan national football team|Japan]] (matchday 2; 19 June)
+| [[2014 FIFA World Cup Group C#Greece vs Ivory Coast|Group C]] vs [[Ivory Coast national football team|Ivory Coast]] (matchday 3; 24 June)
+|-
+| {{fbicon|FRA|1974}} [[Yohan Cabaye]]
+| {{yel}} in [[2014 FIFA World Cup Group E#France vs Honduras|Group E]] vs [[Honduras national football team|Honduras]] (matchday 1; 15 June)<br />{{yel}} in [[2014 FIFA World Cup Group E#France vs Switzerland|Group E]] vs [[Switzerland national football team|Switzerland]] (matchday 2; 20 June)
+| [[2014 FIFA World Cup Group E#France vs Ecuador|Group E]] vs [[Ecuador national football team|Ecuador]] (matchday 3; 25 June)
+|-
+| {{fbicon|GHA}} [[Sulley Muntari]]
+| {{yel}} in [[2014 FIFA World Cup Group G#Ghana vs United States|Group G]] vs [[United States men's national soccer team|United States]] (matchday 1; 16 June)<br />{{yel}} in [[2014 FIFA World Cup Group G#Ghana vs Germany|Group G]] vs [[Germany national football team|Germany]] (matchday 2; 21 June)
+| [[2014 FIFA World Cup Group G#Ghana vs Portugal|Group G]] vs [[Portugal national football team|Portugal]] (matchday 3; 26 June)
+|-
+| {{fbicon|MEX}} [[José Juan Vázquez]]
+| {{yel}} in [[2014 FIFA World Cup Group A#Mexico vs Brazil|Group A]] vs [[Brazil national football team|Brazil]] (matchday 2; 17 June)<br />{{yel}} in [[2014 FIFA World Cup Group A#Mexico vs Croatia|Group A]] vs [[Croatia national football team|Croatia]] (matchday 3; 23 June)
+| [[2014 FIFA World Cup knockout stage#Mexico vs Netherlands|Round of 16]] vs [[Netherlands national football team|Netherlands]] (29 June)
+|-
+| {{fbicon|CRO}} [[Ante Rebić]]
+| {{sent off|0}} in [[2014 FIFA World Cup Group A#Croatia vs Mexico|Group A]] vs [[Mexico national football team|Mexico]] (matchday 3; 23 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|ITA}} [[Claudio Marchisio]]
+| {{sent off|0}} in [[2014 FIFA World Cup Group D#Italy vs Uruguay|Group D]] vs [[Uruguay national football team|Uruguay]] (matchday 3; 24 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|URU}} [[Luis Suárez]]
+| Bite on [[Giorgio Chiellini]] in [[2014 FIFA World Cup Group D#Italy vs Uruguay|Group D]] vs [[Italy national football team|Italy]] (matchday 3; 24 June)
+| [[2014 FIFA World Cup knockout stage#Colombia vs Uruguay|Round of 16]] vs [[Colombia national football team|Colombia]] (28 June)
+|-
+| {{fbicon|ECU}} [[Antonio Valencia]]
+| {{sent off|0}} in [[2014 FIFA World Cup Group E#Ecuador vs France|Group E]] vs [[France national football team|France]] (matchday 3; 25 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|BEL}} [[Steven Defour]]
+| {{sent off|0}} in [[2014 FIFA World Cup Group H#Belgium vs South Korea|Group H]] vs [[South Korea national football team|South Korea]] (matchday 3; 26 June)
+| [[2014 FIFA World Cup knockout stage#Belgium vs United States|Round of 16]] vs [[United States men's national soccer team|United States]] (1 July)
+|-
+| {{fbicon|BRA}} [[Luiz Gustavo]]
+| {{yel}} in [[2014 FIFA World Cup Group A#Brazil vs Croatia|Group A]] vs [[Croatia national football team|Croatia]] (matchday 1; 12 June)<br />{{yel}} in [[2014 FIFA World Cup knockout stage#Brazil vs Chile|Round of 16]] vs [[Chile national football team|Chile]] (28 June)
+| [[2014 FIFA World Cup knockout stage#Brazil vs Colombia|Quarter-finals]] vs [[Colombia national football team|Colombia]] (4 July)
+|-
+| {{fbicon|CRI}} [[Óscar Duarte (footballer, born 1989)|Óscar Duarte]]
+| {{Sent off|2}} in [[2014 FIFA World Cup knockout stage#Costa Rica vs Greece|Round of 16]] vs [[Greece national football team|Greece]] (29 June)
+| [[2014 FIFA World Cup knockout stage#Costa Rica vs Netherlands|Quarter-finals]] vs [[Netherlands national football team|Netherlands]] (5 July)
+|-
+| {{fbicon|ARG}} [[Marcos Rojo]]
+| {{yel}} in [[2014 FIFA World Cup Group F#Argentina vs Bosnia and Herzegovina|Group F]] vs [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] (matchday 1; 15 June)<br />{{yel}} in [[2014 FIFA World Cup knockout stage#Argentina vs Switzerland|Round of 16]] vs [[Switzerland national football team|Switzerland]] (1 July)
+| [[2014 FIFA World Cup knockout stage#Argentina vs Belgium|Quarter-finals]] vs [[Belgium national football team|Belgium]] (5 July)
+|-
+| {{fbicon|BRA}} [[Thiago Silva]]
+| {{yel}} in [[2014 FIFA World Cup Group A#Brazil vs Mexico|Group A]] vs [[Mexico national football team|Mexico]] (matchday 2; 17 June)<br />{{yel}} in [[2014 FIFA World Cup knockout stage#Brazil vs Colombia|Quarter-finals]] vs [[Colombia national football team|Colombia]] (4 July)
+| [[2014 FIFA World Cup knockout stage#Brazil vs Germany|Semi-finals]] vs [[Germany national football team|Germany]] (8 July)
+|-
+|}
+
+===Awards===
+The following awards were given at the conclusion of the tournament:<ref>{{cite web|url=https://www.fifa.com/worldcup/awards/index.html|title=2014 FIFA World Cup – Awards|work=FIFA.com|access-date=13 December 2017|archive-url=https://web.archive.org/web/20150126161345/http://www.fifa.com/worldcup/awards/index.html|archive-date=26 January 2015|url-status=dead}}</ref><ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=messi-heralded-as-brazil-2014-s-best-2404615.html|title=Messi heralded as Brazil 2014's best|work=FIFA.com|date=13 July 2014|access-date=13 December 2017|archive-url=https://web.archive.org/web/20150906084742/http://www.fifa.com/worldcup/news/y=2014/m=7/news=messi-heralded-as-brazil-2014-s-best-2404615.html|archive-date=6 September 2015|url-status=dead}}</ref>
+
+{| class="wikitable"
+|-
+!Award
+!Winner
+!Other nominees
+|-
+|[[Golden Ball (FIFA)|Golden Ball]]
+|valign="top"|
+{{gold1}} {{fbicon|ARG}} [[Lionel Messi]]
+<br>{{silver2}} {{fbicon|GER}} [[Thomas Müller]]
+<br>{{bronze3}} {{fbicon|NED}} [[Arjen Robben]]
+|
+{{fbicon|ARG}} [[Ángel Di María]]
+<br>{{fbicon|COL}} [[James Rodríguez]]
+<br>{{fbicon|ARG}} [[Javier Mascherano]]
+<br>{{fbicon|GER}} [[Mats Hummels]]
+<br>{{fbicon|BRA}} [[Neymar]]
+<br>{{fbicon|GER}} [[Philipp Lahm]]
+<br>{{fbicon|GER}} [[Toni Kroos]]<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=adidas-golden-ball-candidates-announced-2403393.html|title=adidas Golden Ball candidates announced|work=FIFA.com|date=11 July 2014|access-date=13 December 2017|archive-url=https://web.archive.org/web/20170625164413/http://www.fifa.com/worldcup/news/y=2014/m=7/news=adidas-golden-ball-candidates-announced-2403393.html|archive-date=25 June 2017|url-status=dead}}</ref>
+|-
+|[[World Cup Golden Boot|Golden Boot]]
+|valign="top"|
+{{gold1}} {{fbicon|COL}} [[James Rodríguez]] (6 goals, 2 assists)
+<br>{{silver2}} {{fbicon|GER}} [[Thomas Müller]] (5 goals, 3 assists)
+<br>{{bronze3}} {{fbicon|BRA}} [[Neymar]] (4 goals, 1 assist)<ref>{{cite web|title=Messi, Neuer heralded as Brazil 2014's best|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=messi-heralded-as-brazil-2014-s-best-2404615.html|work=FIFA.com|access-date=14 July 2014|date=13 July 2014|archive-url=https://web.archive.org/web/20150906084742/http://www.fifa.com/worldcup/news/y=2014/m=7/news=messi-heralded-as-brazil-2014-s-best-2404615.html|archive-date=6 September 2015|url-status=dead}}</ref>
+|
+|-
+|[[FIFA World Cup awards#Golden Glove|Golden Glove]]
+|valign="top"|
+{{fbicon|GER}} [[Manuel Neuer]]
+|
+{{fbicon|CRC}} [[Keylor Navas]]
+<br>{{fbicon|ARG}} [[Sergio Romero]]<ref>{{cite web|title=Finalists in contention for Golden Glove|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=finalists-in-contention-for-golden-glove-2403278.html|work=FIFA.com|access-date=14 July 2014|date=11 July 2014|archive-url=https://web.archive.org/web/20140714011621/http://www.fifa.com/worldcup/news/y=2014/m=7/news=finalists-in-contention-for-golden-glove-2403278.html|archive-date=14 July 2014|url-status=dead}}</ref>
+|-
+|[[FIFA World Cup awards#FIFA Young Player Award|Young Player Award]]
+|valign="top"|
+{{fbicon|FRA|1974}} [[Paul Pogba]]
+|
+{{fbicon|NED}} [[Memphis Depay]]
+<br>{{fbicon|FRA|1974}} [[Raphaël Varane]]<ref>{{cite web|title=Depay, Pogba and Varane make up Hyundai Young Player Award shortlist|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=depay-pogba-and-varane-make-up-best-young-player-shortlist-2403365.html|work=FIFA.com|access-date=14 July 2014|date=11 July 2014|archive-url=https://web.archive.org/web/20140714002110/http://www.fifa.com/worldcup/news/y=2014/m=7/news=depay-pogba-and-varane-make-up-best-young-player-shortlist-2403365.html|archive-date=14 July 2014|url-status=dead}}</ref>
+|-
+|[[FIFA World Cup Fair Play Trophy|FIFA Fair Play Trophy]]
+|valign="top"|
+{{fb|COL}}
+|
+|}
+
+;Technical Study Group
+The members of the Technical Study Group, the committee that decided which players won the awards, were led by FIFA's head of the Technical Division [[Jean-Paul Brigger]] and featured:<ref>{{cite web|title=Technical Study Group|url=https://www.fifa.com/worldcup/organisation/technical-study-group/index.html|work=FIFA.com|access-date=14 July 2014|date=9 June 2014|archive-url=https://web.archive.org/web/20140713090205/http://www.fifa.com/worldcup/organisation/technical-study-group/index.html|archive-date=13 July 2014|url-status=dead}}</ref>
+
+{{div col|colwidth=22em}}
+*{{flagicon|France|1974}} [[Gérard Houllier]]
+*{{flagicon|Mexico}} [[Raul Arias]]
+*{{flagicon|Argentina}} [[Gabriel Calderón]]
+*{{flagicon|New Zealand}} [[Ricki Herbert]]
+*{{flagicon|Sudan}} [[Abdel Moneim Hussein]]
+*{{flagicon|Hong Kong}} [[Kwok Ka Ming]]
+*{{flagicon|Romania}} [[Ioan Lupescu]]
+*{{flagicon|Spain}} [[Ginés Meléndez]]
+*{{flagicon|Japan}} [[Tsuneyasu Miyamoto]]
+*{{flagicon|Nigeria}} [[Sunday Oliseh]]
+*{{flagicon|Finland}} [[Mixu Paatelainen]]
+*{{flagicon|El Salvador}} [[Jaime Rodríguez]]
+*{{flagicon|Jamaica}} [[Theodore Whitmore]]
+{{div col end}}
+
+There were changes to the voting procedure for awards for the 2014 edition: while in 2010 accredited media were allowed to vote for the Golden Ball award,<ref>{{cite web|title=Latest News|url=https://www.fifa.com/tournaments/archive/worldcup/southafrica2010/news/newsid=1270753/index.html|work=FIFA.com|access-date=14 July 2014|date=9 July 2010|archive-url=https://web.archive.org/web/20140714021721/http://www.fifa.com/tournaments/archive/worldcup/southafrica2010/news/newsid=1270753/index.html|archive-date=14 July 2014|url-status=dead}}</ref> in 2014 only the Technical Study Group could select the outcome.<ref>{{cite web|url=https://www.fifa.com/worldcup/awards/golden-ball/intro.html|title=adidas Golden Ball|work=FIFA.com|date=30 May 2014|access-date=14 July 2014|archive-url=https://web.archive.org/web/20140714151347/http://www.fifa.com/worldcup/awards/golden-ball/intro.html|archive-date=14 July 2014|url-status=dead}}</ref>
+
+===All-Star Team===
+As was the case during the 2010 edition, FIFA released an [[FIFA World Cup awards#All-Star Team|All-Star Team]] based on the [[Castrol performance index]] in its official website.<ref name=castrol>{{cite web|title=Castrol Index Top 11 |url=https://www.fifa.com/worldcup/statistics/castrol-index/top11.html |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141219115801/http://www.fifa.com/worldcup/statistics/castrol-index/top11.html |archive-date=19 December 2014 |df=dmy }}</ref>
+
+{| class="wikitable"
+|-
+!style="width:25%"|Goalkeeper
+!style="width:25%"|Defenders
+!style="width:25%"|Midfielders
+!style="width:25%"|Forwards
+|-
+|valign=top|
+{{fbicon|GER}} [[Manuel Neuer]]
+|valign=top|
+{{fbicon|ARG}} [[Marcos Rojo]]<br>{{fbicon|GER}} [[Mats Hummels]]<br>{{fbicon|BRA}} [[Thiago Silva]]<br>{{fbicon|NED}} [[Stefan de Vrij]]
+|valign=top|
+{{fbicon|BRA}} [[Oscar (footballer, born 1991)|Oscar]]<br>{{fbicon|GER}} [[Toni Kroos]]<br>{{fbicon|GER}} [[Philipp Lahm]]<br>{{fbicon|COL}} [[James Rodríguez]]
+|valign=top|
+{{fbicon|NED}} [[Arjen Robben]]<br>{{fbicon|GER}} [[Thomas Müller]]
+|}
+
+===Dream Team===
+FIFA also invited users of FIFA.com to elect their Dream Team.<ref>{{cite web|title=2014 FIFA World Cup Dream Team|url=https://www.fifa.com/worldcup/games/dream-team/|website=FIFA.com|access-date=13 December 2017|archive-url=https://web.archive.org/web/20141031005243/http://www.fifa.com/worldcup/games/dream-team/|archive-date=31 October 2014|url-status=dead}}</ref><ref>{{cite web|url=https://bleacherreport.com/articles/2138602-fifa-announce-2014-world-cup-dream-team-as-voted-on-by-fans|work=Bleacher Report|title=FIFA Announces 2014 World Cup 'Dream Team' as Voted On by Fans|date=23 July 2014|access-date=20 July 2018|archive-url=https://web.archive.org/web/20180711225033/https://bleacherreport.com/articles/2138602-fifa-announce-2014-world-cup-dream-team-as-voted-on-by-fans|archive-date=11 July 2018|url-status=dead}}</ref>
+
+{| class="wikitable"
+|-
+!style="width:20%"|Goalkeeper
+!style="width:20%"|Defenders
+!style="width:20%"|Midfielders
+!style="width:20%"|Forwards
+!style="width:20%"|Manager
+|-
+|valign=top|
+{{fbicon|GER}} [[Manuel Neuer]]
+|valign=top|
+{{fbicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]<br>
+{{fbicon|GER}} [[Mats Hummels]]<br>
+{{fbicon|BRA}} [[Thiago Silva]]<br>
+{{fbicon|BRA}} [[David Luiz]]
+|valign=top|
+{{fbicon|ARG}} [[Ángel Di María]]<br>
+{{fbicon|GER}} [[Toni Kroos]]<br>
+{{fbicon|COL}} [[James Rodríguez]]
+|valign=top|
+{{fbicon|BRA}} [[Neymar]]<br>
+{{fbicon|ARG}} [[Lionel Messi]]<br>
+{{fbicon|GER}} [[Thomas Müller]]
+|valign=top|
+{{flagicon|GER}} [[Joachim Löw]]
+|}
+
+===Prize money===
+The total prize money on offer for the tournament was confirmed by FIFA as [[United States dollar|US]]$576&nbsp;million (including payments of $70&nbsp;million to domestic clubs and $100&nbsp;million as player insurances), a 37 percent increase from the amount [[2010 FIFA World Cup#Prize money|allocated in the 2010 tournament]]. Before the tournament, each of the 32 entrants received $1.5&nbsp;million for preparation costs. At the tournament, the prize money was distributed as follows:<ref name=autogenerated1>{{cite news|title=World Cup money pot increased to $576m|url=https://www.reuters.com/article/us-soccer-world-prizemoney-idUSBRE9B40QG20131205|publisher=reuters.com|access-date=25 April 2014|date=5 December 2013|archive-url=https://web.archive.org/web/20140427010500/http://www.reuters.com/article/2013/12/05/us-soccer-world-prizemoney-idUSBRE9B40QG20131205|archive-date=27 April 2014|url-status=live}}</ref>
+
+* $8&nbsp;million – To each team eliminated at the [[#Group stage|group stage]] (16 teams)
+* $9&nbsp;million – To each team eliminated in the [[#Round of 16|round of 16]] (8 teams)
+* $14&nbsp;million – To each team eliminated in the [[#Quarter-finals|quarter-finals]] (4 teams)
+* $20&nbsp;million – [[#Match for third place|Fourth placed team]]
+* $22&nbsp;million – [[#Match for third place|Third placed team]]
+* $25&nbsp;million – [[#Final|Runner-up]]
+* $35&nbsp;million – [[#Final|Winner]]
+
+==Final standings==
+[[File:2014_Men%27s_Soccer_World_Cup.png|upright=1.5|thumb|Result of countries participating in the 2014 FIFA World Cup{{col-begin}}{{col-4}}{{legend|#2b42a3|Champion}}{{legend|#34c0be|Runner-up}}
+{{col-4}}{{legend|#269c5a|Third place}}{{legend|#81c846|Fourth place}}
+{{col-4}}{{legend|#e4e454|Quarter-finals}}{{legend|#ff9f40|Round of 16}}
+{{col-4}}{{legend|#b94954|Group stage}} {{col-end}}]]
+{{small|Per statistical convention in football, matches decided in [[Overtime (sports)#Association football|extra time]] are counted as wins and losses, while matches decided by [[Penalty shoot-out (association football)|penalty shoot-outs]] are counted as draws.}}
+
+{| class="wikitable" style="font-size:95%;text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals For}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal Difference}}
+!width=25| {{abbr|Pts.|Points}}
+|- style="background:#FFD700"
+| 1 || style="text-align:left"|{{fb|GER}} || [[2014 FIFA World Cup Group G|G]] || 7 || 6 || 1 || 0 || 18 || 4 || +14 || 19
+|- style="background:#C0C0C0"
+| 2 || style="text-align:left"|{{fb|ARG}} || [[2014 FIFA World Cup Group F|F]] || 7 || 5 || 1 || 1 || 8 || 4 || +4 || 16
+|- style="background:#CD7F32"
+| 3 || style="text-align:left"|{{fb|NED}} || [[2014 FIFA World Cup Group B|B]] || 7 || 5 || 2 || 0 || 15 || 4 || +11 || 17
+|-
+| 4 || style="text-align:left"|{{fb|BRA}} '''(H)''' || [[2014 FIFA World Cup Group A|A]] || 7 || 3 || 2 || 2 || 11 || 14 || −3 || 11
+|-
+| colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 || style="text-align:left"|{{fb|COL}} || [[2014 FIFA World Cup Group C|C]] || 5 || 4 || 0 || 1 || 12 || 4 || +8 || 12
+|-
+| 6 || style="text-align:left"|{{fb|BEL}} || [[2014 FIFA World Cup Group H|H]] || 5 || 4 || 0 || 1 || 6 || 3 || +3 || 12
+|-
+| 7 || style="text-align:left"|{{fb|FRA|1974}} || [[2014 FIFA World Cup Group E|E]] || 5 || 3 || 1 || 1 || 10 || 3 || +7 || 10
+|-
+| 8 || style="text-align:left"|{{fb|CRC}} || [[2014 FIFA World Cup Group D|D]] || 5 || 2 || 3 || 0 || 5 || 2 || +3 || 9
+|-
+| colspan="11"| '''Eliminated in the round of 16'''
+|-
+| 9 || style="text-align:left"|{{fb|CHI}} || [[2014 FIFA World Cup Group B|B]] || 4 || 2 || 1 || 1 || 6 || 4 || +2 || 7
+|-
+| 10 || style="text-align:left"|{{fb|MEX}} || [[2014 FIFA World Cup Group A|A]] || 4 || 2 || 1 || 1 || 5 || 3 || +2 || 7
+|-
+| 11 || style="text-align:left"|{{fb|SUI}} || [[2014 FIFA World Cup Group E|E]] || 4 || 2 || 0 || 2 || 7 || 7 || 0 || 6
+|-
+| 12 || style="text-align:left"|{{fb|URU}} || [[2014 FIFA World Cup Group D|D]] || 4 || 2 || 0 || 2 || 4 || 6 || −2 || 6
+|-
+| 13 || style="text-align:left"|{{fb|GRE}} || [[2014 FIFA World Cup Group C|C]] || 4 || 1 || 2 || 1 || 3 || 5 || −2 || 5
+|-
+| 14 || style="text-align:left"|{{fb|ALG}} || [[2014 FIFA World Cup Group H|H]] || 4 || 1 || 1 || 2 || 7 || 7 || 0 || 4
+|-
+| 15 || style="text-align:left"|{{fb|USA}} || [[2014 FIFA World Cup Group G|G]] || 4 || 1 || 1 || 2 || 5 || 6 || −1 || 4
+|-
+| 16 || style="text-align:left"|{{fb|NGA}} || [[2014 FIFA World Cup Group F|F]] || 4 || 1 || 1 || 2 || 3 || 5 || −2 || 4
+|-
+| colspan="11"| '''Eliminated in the group stage'''
+|-
+| 17 || style="text-align:left"|{{fb|ECU}} || [[2014 FIFA World Cup Group E|E]] || 3 || 1 || 1 || 1 || 3 || 3 || 0 || 4
+|-
+| 18 || style="text-align:left"|{{fb|POR}} || [[2014 FIFA World Cup Group G|G]] || 3 || 1 || 1 || 1 || 4 || 7 || −3 || 4
+|-
+| 19 || style="text-align:left"|{{fb|CRO}} || [[2014 FIFA World Cup Group A|A]] || 3 || 1 || 0 || 2 || 6 || 6 || 0 || 3
+|-
+| 20 || style="text-align:left"|{{fb|BIH}} || [[2014 FIFA World Cup Group F|F]] || 3 || 1 || 0 || 2 || 4 || 4 || 0 || 3
+|-
+| 21 || style="text-align:left"|{{fb|CIV}} || [[2014 FIFA World Cup Group C|C]] || 3 || 1 || 0 || 2 || 4 || 5 || −1 || 3
+|-
+| 22 || style="text-align:left"|{{fb|ITA}} || [[2014 FIFA World Cup Group D|D]] || 3 || 1 || 0 || 2 || 2 || 3 || −1 || 3
+|-
+| 23 || style="text-align:left"|{{fb|ESP}} || [[2014 FIFA World Cup Group B|B]] || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 3
+|-
+| 24 || style="text-align:left"|{{fb|RUS}} || [[2014 FIFA World Cup Group H|H]] || 3 || 0 || 2 || 1 || 2 || 3 || −1 || 2
+|-
+| 25 || style="text-align:left"|{{fb|GHA}} || [[2014 FIFA World Cup Group G|G]] || 3 || 0 || 1 || 2 || 4 || 6 || −2 || 1
+|-
+| 26 || style="text-align:left"|{{fb|ENG}} || [[2014 FIFA World Cup Group D|D]] || 3 || 0 || 1 || 2 || 2 || 4 || −2 || 1
+|-
+| 27 || style="text-align:left"|{{fb|KOR}} || [[2014 FIFA World Cup Group H|H]] || 3 || 0 || 1 || 2 || 3 || 6 || −3 || 1
+|-
+| 28 || style="text-align:left"|{{fb|IRN}} || [[2014 FIFA World Cup Group F|F]] || 3 || 0 || 1 || 2 || 1 || 4 || −3 || 1
+|-
+| 29 || style="text-align:left"|{{fb|JPN}} || [[2014 FIFA World Cup Group C|C]] || 3 || 0 || 1 || 2 || 2 || 6 || −4 || 1
+|-
+| 30 || style="text-align:left"|{{fb|AUS}} || [[2014 FIFA World Cup Group B|B]] || 3 || 0 || 0 || 3 || 3 || 9 || −6 || 0
+|-
+| 31 || style="text-align:left"|{{fb|HON|1949}} || [[2014 FIFA World Cup Group E|E]] || 3 || 0 || 0 || 3 || 1 || 8 || −7 || 0
+|-
+| 32 || style="text-align:left"|{{fb|CMR}} || [[2014 FIFA World Cup Group A|A]] || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 0
+|}
+<small>Source: FIFA<ref name=technicalreport>{{cite web |url=https://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/42/15/40/2014fwc_tsg_report_15082014_neutral.pdf |title=2014 FIFA World Cup Brazil Technical Report and Statistics |page=151 |work=FIFA.com |access-date=13 December 2017 |archive-url=https://web.archive.org/web/20180915095404/https://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/42/15/40/2014fwc_tsg_report_15082014_neutral.pdf |archive-date=15 September 2018 |url-status=dead }}</ref></small>
+
+'''(H)''' – Host
+
+==Preparations and costs==
+{{Main|2014 FIFA World Cup preparations}}
+[[File:Fotos produzidas pelo Senado (36735767331).jpg|thumb|left|The Estádio Nacional in [[Brasília]] during its rebuild. The project was completed at a cost of US$900&nbsp;million, against an original budget of US$300&nbsp;million, making the stadium the second-most expensive football stadium in the world after England's [[Wembley Stadium]].]]
+Costs of the tournament totalled $11.6&nbsp;billion,<ref name="rbc.ru">[https://www.rbc.ru/society/08/06/2018/5b02f8039a7947289e44a869?from=center_2 Непредвиденные расходы: как менялась смета ЧМ-2018] {{Webarchive|url=https://web.archive.org/web/20180616055512/https://www.rbc.ru/society/08/06/2018/5b02f8039a7947289e44a869?from=center_2 |date=16 June 2018 }} 08 ИЮН, 07:01, RBC</ref> making it the most expensive World Cup<ref>{{cite web|url=http://www.espnfc.com/news/story/_/id/1830732/2014-world-cup-set-most-lucrative-ever?cc=5739|title=World Cup set to be most lucrative ever|date=23 May 2014|work=ESPN FC|access-date=31 May 2014|archive-url=https://web.archive.org/web/20140531182956/http://www.espnfc.com/news/story/_/id/1830732/2014-world-cup-set-most-lucrative-ever?cc=5739|archive-date=31 May 2014|url-status=live}}</ref> until it was surpassed by [[2018 FIFA World Cup]] which cost an estimated $14.2&nbsp;billion.<ref name="rbc.ru"/> FIFA was expected to spend US$2&nbsp;billion on staging the finals,<ref>{{cite news|title=Record World Cup numbers game for FIFA, Brazil|url=https://www.usatoday.com/story/money/business/2014/05/22/record-world-cup-numbers-game-for-fifa-and-brazil/9458457/|work=USA Today|date=22 May 2014|first=Graham|last=Dunbar|access-date=23 August 2017|archive-url=https://web.archive.org/web/20170709172114/https://www.usatoday.com/story/money/business/2014/05/22/record-world-cup-numbers-game-for-fifa-and-brazil/9458457/|archive-date=9 July 2017|url-status=live}}</ref> with its greatest single expense being the [[#Prize money|US$576&nbsp;million prize money pot]].<ref name=autogenerated1 />
+
+Although organisers originally estimated costs of US$1.1&nbsp;billion,<ref name="Inspection report">{{cite web |title=FIFA's Inspection Report |url=https://www.fifa.com/mm/document/affederation/mission/fwc2014%5fbrazil%5fbid%5finspection%5freport%5fen%5f24491.pdf |access-date=9 October 2011 |archive-url=https://web.archive.org/web/20111220082049/http://www.fifa.com/mm/document/affederation/mission/fwc2014%5fbrazil%5fbid%5finspection%5freport%5fen%5f24491.pdf |archive-date=20 December 2011 |url-status=dead }}</ref> a reported US$3.6&nbsp;billion was ultimately spent on stadium works.<ref>{{cite web |title=Corruption to blame for some Brazil World Cup cost rises |url=http://www.businessweek.com/news/2014-05-22/corruption-to-blame-for-some-brazil-world-cup-cost-rises |work=Bloomberg |date=23 May 2014 |access-date=2 June 2014 |archive-url=https://web.archive.org/web/20140618204454/http://www.businessweek.com/news/2014-05-22/corruption-to-blame-for-some-brazil-world-cup-cost-rises |archive-date=18 June 2014 |url-status=dead }}</ref><ref>{{cite news |url=https://www.reuters.com/article/soccer-world-brazil-idUSL2E8F2GG820120403 |title=Brazil World Cup stadiums on track, but costs soar |publisher=Reuters |date=3 April 2012 |access-date=30 June 2017 |archive-url=https://web.archive.org/web/20150924163232/http://www.reuters.com/article/2012/04/03/soccer-world-brazil-idUSL2E8F2GG820120403 |archive-date=24 September 2015 |url-status=live }}</ref> Five of the chosen host cities had brand new venues built specifically for the World Cup, while the [[Estádio Nacional Mané Garrincha]] in the capital [[Brasília]] was demolished and rebuilt, with the remaining six being extensively renovated.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/24897388 |title=2014 Fifa World Cup: Where are the 12 host stadiums in Brazil? |work=BBC Sport |publisher=British Broadcasting Corporation |date=3 December 2013 |access-date=13 February 2018 |archive-url=https://web.archive.org/web/20160117054733/http://www.bbc.co.uk/sport/0/football/24897388 |archive-date=17 January 2016 |url-status=live }}</ref>
+
+An additional R$3&nbsp;billion (US$1.3&nbsp;billion, €960&nbsp;million, £780&nbsp;million at June 2014 rates) was earmarked by the Brazilian government for investment in infrastructure works and projects for use during the 2014 World Cup and beyond.<ref>{{cite web|url=http://www2.anba.com.br/noticia_esportes.kmf?cod=8705153|title=FIFA World Cup 2014 host cities to receive US$ 1.5 billion|date=22 July 2009|publisher=Brazil-Arab News Agency|access-date=18 November 2009|archive-url=https://web.archive.org/web/20140701222758/http://www2.anba.com.br/noticia_esportes.kmf?cod=8705153|archive-date=1 July 2014|url-status=dead}}</ref> However, the failed completion of many of the proposed works provoked discontent among some Brazilians.<ref>{{cite news|url=https://www.reuters.com/article/us-worldcup-brazil-idUSBREA3715H20140408|title=Less than half of Brazilians favor hosting World Cup, poll shows|publisher=Reuters|date=8 April 2014|access-date=30 June 2017|archive-url=https://web.archive.org/web/20151019202029/http://www.reuters.com/article/2014/04/08/us-worldcup-brazil-idUSBREA3715H20140408|archive-date=19 October 2015|url-status=live}}</ref><ref>{{cite web|url=https://bleacherreport.com/articles/1663701-the-social-cost-of-brazil-hosting-world-cup-2014|title=The social cost of Brazil hosting World Cup 2014|publisher=Bleacher Report|date=6 June 2013|access-date=5 December 2013|archive-url=https://web.archive.org/web/20140111150740/http://bleacherreport.com/articles/1663701-the-social-cost-of-brazil-hosting-world-cup-2014|archive-date=11 January 2014|url-status=live}}</ref><ref>{{cite web |title=Fifa concern about three Brazil stadiums |url=https://www.bbc.co.uk/sport/football/27632572 |work=BBC Sport |publisher=British Broadcasting Corporation |date=30 May 2014 |access-date=13 February 2018 |archive-url=https://web.archive.org/web/20160114061702/http://www.bbc.co.uk/sport/0/football/27632572 |archive-date=14 January 2016 |url-status=live }}</ref>
+
+The Brazilian government pledged US$900&nbsp;million to be invested into security forces and that the tournament would be "one of the most protected sports events in history."<ref name="CNN">{{cite news|url=https://edition.cnn.com/2012/12/05/sport/football/brazil-world-cup-security-football/|title=Brazil boosts World Cup security budget as crime rises|publisher=CNN|date=5 December 2013|access-date=5 December 2013|archive-url=https://web.archive.org/web/20131211203311/http://edition.cnn.com/2012/12/05/sport/football/brazil-world-cup-security-football/|archive-date=11 December 2013|url-status=live}}</ref>
+
+==Marketing==
+{{Main|2014 FIFA World Cup marketing}}
+The marketing of the 2014 FIFA World Cup included sale of tickets, support from sponsors and promotion through events that utilise the symbols and [[FIFA World Cup songs and anthems|songs]] of the tournament. Popular merchandise included items featuring the [[Fuleco|official mascot]] as well as an [[2014 FIFA World Cup Brazil (video game)|official video game]] that has been developed by [[EA Sports]].<ref name="videogame1">{{cite web |url=http://www.ign.com/articles/2014/02/06/ea-announces-ea-sports-2014-fifa-world-cup-brazil |title=EA Announces EA SPORTS 2014 FIFA World Cup Brazil |date=6 February 2014 |access-date=24 February 2014 |archive-url=https://web.archive.org/web/20140301190838/http://www.ign.com/articles/2014/02/06/ea-announces-ea-sports-2014-fifa-world-cup-brazil |archive-date=1 March 2014 |url-status=live }}</ref> As a partner of the [[German Football Association]], part of German major airline [[Lufthansa]]'s fleet was branded "Fanhansa" for the time being. Branded planes flew the Germany national team, media representatives and football fans to Brazil.<ref>{{cite web|last1=Drum|first1=Bruce|title=Lufthansa to rename 8 aircraft "Fanhansa" for the 2014 FIFA World Cup|date=13 May 2014|url=http://worldairlinenews.com/2014/05/13/lufthansa-to-renamed-8-aircraft-fanhansa-for-the-2014-fifa-world-cup/|access-date=15 July 2014|archive-url=https://web.archive.org/web/20140720014339/http://worldairlinenews.com/2014/05/13/lufthansa-to-renamed-8-aircraft-fanhansa-for-the-2014-fifa-world-cup/|archive-date=20 July 2014|url-status=live}}</ref>
+
+The [[Sony Xperia Z2]] was dubbed the "official [[smartphone]] of the 2014 FIFA World Cup".<ref>{{cite web |first=Edwin |last=Kee |url=http://www.ubergizmo.com/2014/06/sony-xperia-z2-is-official-2014-fifa-world-cup-phone/ |title=Sony Xperia Z2 Is Official 2014 FIFA World Cup Phone |work=Ubergizmo |date=June 10, 2014 |access-date=July 4, 2014 |archive-date=14 July 2014 |archive-url=https://web.archive.org/web/20140714150251/http://www.ubergizmo.com/2014/06/sony-xperia-z2-is-official-2014-fifa-world-cup-phone/ |url-status=live }}</ref>
+
+===Sponsorship===
+[[File:PS4 ver.FIFA World Cup 2014.JPG|thumb|[[Sony]] was one of the [[sponsor (commercial)|sponsors]] of FIFA World Cup 2014.]]
+The sponsors of the 2014 World Cup are divided into three categories: FIFA Partners, FIFA World Cup Sponsors and National Supporters.<ref>{{cite web |title=2014 FIFA World Cup Brazil official partners |url=https://www.fifa.com/worldcup/organisation/partners/index.html |work=FIFA.com |access-date=12 January 2014 |archive-url=https://web.archive.org/web/20140112011211/http://www.fifa.com/worldcup/organisation/partners/index.html |archive-date=12 January 2014 |url-status=dead }}</ref>
+
+{| class="wikitable"
+|-
+! FIFA partners !! FIFA World Cup sponsors !! National supporters
+|-
+|
+*[[Adidas]]
+*[[The Coca-Cola Company|Coca-Cola]]
+*[[Emirates (airline)|Emirates]]
+*[[Hyundai Motor Company|Hyundai]]–[[Kia Motors|Kia]]
+*[[Sony]]
+*[[Visa Inc.|Visa]]
+|
+{{col-begin}}
+{{col-2}}
+*[[Anheuser-Busch InBev]]
+*[[Castrol]]
+*[[Continental AG|Continental]]
+*[[McDonald's]]
+*[[Johnson & Johnson]]
+{{col-2}}
+*[[Marfrig]]
+*[[Yingli Solar]]
+*[[Oi (telecommunications)|Oi]]
+{{col-end}}
+|
+*Apex-Brasil
+*[[Garoto]]
+*Centauro
+*[[Banco Itaú]]
+*[[Liberty Seguros]]
+*Wiseup
+|}
+
+==Symbols==
+===Mascot===
+{{Main|Fuleco}}
+
+The [[List of FIFA World Cup official mascots|official mascot]] of this World Cup was "[[Fuleco]]"<ref>[https://web.archive.org/web/20200731052422/https://www.fifa.com/who-we-are/news/the-fifa-world-cuptm-mascots-517089 The FIFA World Cup Mascots]</ref>
+
+===Match ball===
+{{Main|Adidas Brazuca}}
+[[File:Brazil and Colombia match at the FIFA World Cup 2014-07-04 (15) (cropped).jpg|thumb|Adidas Brazuca]]
+The [[List of FIFA World Cup official match balls|official match ball]] was "[[Adidas Brazuca|Brazuca]]", manufactured by [[Adidas]].<ref>[https://web.archive.org/web/20151003074950/http://www.fifa.com/worldcup/photos/galleries/y=2009/m=12/gallery=official-match-balls-the-fifa-world-cuptm-1143505.html Official match balls of the FIFA World Cup]</ref>
+
+===Music===
+{{Main|One Love, One Rhythm – The 2014 FIFA World Cup Official Album}}
+The official song of the tournament was "[[We Are One (Ole Ola)]]" with vocals from [[Pitbull (rapper)|Pitbull]], [[Jennifer Lopez]] and [[Claudia Leitte]].<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=1/news=brazilian-star-claudia-leitte-perform-with-pitbull-and-jennifer-lopez-th-2264459.html|title=Brazilian star Claudia Leitte to perform with Pitbull and Jennifer Lopez on the official song for the 2014 FIFA World Cup|date=23 January 2014|work=FIFA.com|access-date=13 December 2017|archive-url=https://web.archive.org/web/20180321045334/http://www.fifa.com/worldcup/news/y=2014/m=1/news=brazilian-star-claudia-leitte-perform-with-pitbull-and-jennifer-lopez-th-2264459.html|archive-date=21 March 2018|url-status=dead}}</ref>
+
+The official mascot song was "Tatu Bom de Bola".
+
+The official anthem was "[[Dar um Jeito (We Will Find a Way)]]".
+
+==Media==
+{{See also|2014 FIFA World Cup broadcasting rights}}
+For a fourth consecutive FIFA World Cup Finals, the coverage was provided by HBS (Host Broadcast Services), a subsidiary of [[Infront Sports & Media]].<ref>{{cite web|url=https://www.fifa.com/aboutfifa/organisation/tv/hostbroadcasting.html|title=Host Broadcasting|work=FIFA.com|access-date=4 December 2013|archive-url=https://web.archive.org/web/20131127021239/http://www.fifa.com/aboutfifa/organisation/tv/hostbroadcasting.html|archive-date=27 November 2013|url-status=dead}}</ref> [[Sony]] was selected as the official equipment provider and built 12 bespoke [[High-definition video|high definition]] production 40-foot-long containers, one for each tournament venue, to house the extensive amount of equipment required.<ref>{{cite web |url=http://www.live-production.tv/news/sports/sony-professional-awarded-2014-fifa-world-cup%E2%84%A2-broadcast-production-contract.html |title=Sony Professional awarded 2014 FIFA World Cup Broadcast Production Contract |work=Live-production.tv |date=13 September 2012 |access-date=2 April 2013 |archive-url=https://web.archive.org/web/20130406073637/http://www.live-production.tv/news/sports/sony-professional-awarded-2014-fifa-world-cup%E2%84%A2-broadcast-production-contract.html |archive-date=6 April 2013 |url-status=live }}</ref><ref name="redsharknews1">{{cite web |url=http://www.redsharknews.com/business/item/1701-sony-s-astonishing-world-cup-statistics?page=1 |title=Sony's astonishing World Cup statistics |work=RedShark News |date=22 May 2014 |access-date=25 May 2014 |archive-url=https://web.archive.org/web/20140526022548/http://www.redsharknews.com/business/item/1701-sony-s-astonishing-world-cup-statistics?page=1 |archive-date=26 May 2014 |url-status=live }}</ref> Each match utilised 37 standard camera plans, including Aerial and Cablecam, two Ultramotion cameras and dedicated cameras for interviews.<ref name="redsharknews1"/> [[List of official FIFA World Cup films|The official tournament film]], as well as three matches,{{refn|group=nb|Those matches scheduled to be filmed in ultra high definition were one match from the round of 16 (on 28 June), one quarter-final (on 4 July) and the final}} will be filmed with [[Ultra high definition television|ultra high definition]] technology ([[4K resolution]]), following a successful trial at the [[2013 FIFA Confederations Cup]].<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=4/news=sony-and-fifa-announce-further-coverage-the-2014-fifa-world-cuptm-2313778.html|title=Sony and FIFA announce further 4K coverage of the 2014 FIFA World Cup|work=FIFA.com|date=3 April 2014|access-date=13 December 2017|archive-url=https://web.archive.org/web/20171211234248/http://www.fifa.com/worldcup/news/y=2014/m=4/news=sony-and-fifa-announce-further-coverage-the-2014-fifa-world-cuptm-2313778.html|archive-date=11 December 2017|url-status=dead}}</ref>
+
+The broadcasting rights&nbsp;– covering television, radio, internet and mobile coverage&nbsp;– for the tournament were sold to media companies in each individual territory either directly by FIFA, or through licensed companies or organisations such as the [[European Broadcasting Union]], [[Organización de Televisión Iberoamericana]], International Media Content, [[Dentsu]] and RS International Broadcasting & Sports Management.<ref>{{cite news|title=2014 FIFA World Cup Brazil Media Rights Licensees|url=https://www.fifa.com/mm/document/affederation/tv/01/47/76/00/2014fifaworldcupbrazil%28tm%29mediarightslicenseelist110414_neutral.pdf|work=FIFA.com|date=7 November 2013|access-date=13 December 2017|archive-url=https://web.archive.org/web/20150924175617/http://www.fifa.com/mm/document/affederation/tv/01/47/76/00/2014fifaworldcupbrazil%28tm%29mediarightslicenseelist110414_neutral.pdf|archive-date=24 September 2015|url-status=dead}}</ref> The sale of these rights accounted for an estimated 60% of FIFA's income from staging a World Cup.<ref>{{cite web|url=http://www.conmebol.com/en/content/fifa-revenue-estimated-be-4-billion-dollars-close-2014-world-cup|title=FIFA revenue estimated to be 4 billion dollars at the close of the 2014 World Cup|work=CONMEBOL.com|date=17 May 2013|access-date=4 December 2013|archive-url=https://web.archive.org/web/20131210174117/http://www.conmebol.com/en/content/fifa-revenue-estimated-be-4-billion-dollars-close-2014-world-cup|archive-date=10 December 2013|url-status=live}}</ref> The International Broadcast Centre was situated at the [[Riocentro]] in the [[Barra da Tijuca, Rio de Janeiro|Barra da Tijuca]] neighbourhood of Rio de Janeiro.<ref>{{cite news|title=International Broadcast Centre to be hosted in Rio de Janeiro|url=https://www.fifa.com/worldcup/media/newsid=1442394/|work=FIFA.com|date=27 May 2011|access-date=13 December 2017|archive-url=https://web.archive.org/web/20180915095434/https://www.fifa.com/worldcup/media/newsid=1442394/|archive-date=15 September 2018|url-status=dead}}</ref><ref>{{cite news|title=Nerve centre for World Cup TV production opens in Rio|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=nerve-centre-for-world-cup-tv-production-opens-in-rio-2353342.html|work=FIFA.com|date=2 June 2014|access-date=13 December 2017|archive-url=https://web.archive.org/web/20170625145958/http://www.fifa.com/worldcup/news/y=2014/m=6/news=nerve-centre-for-world-cup-tv-production-opens-in-rio-2353342.html|archive-date=25 June 2017|url-status=dead}}</ref>
+
+Worldwide, several games qualified as the most-watched sporting events in their country in 2014, including 42.9&nbsp;million people in Brazil for the opening game between Brazil and Croatia, the 34.1&nbsp;million in Japan who saw their team play Ivory Coast, and 34.7&nbsp;million in Germany who saw their national team win the World Cup against Argentina,<ref>{{cite web |url=http://www.focus.de/sport/fussball/wm-2014/wm-die-top-10-quoten-aller-zeiten-im-deutschen-fernsehen_id_3989104.html |title=WM: Die Top-10-Quoten aller Zeiten im deutschen Fernsehen |language=de |work=Focus Online |date=14 July 2014 |access-date=14 July 2014 |archive-url=https://web.archive.org/web/20140715192039/http://www.focus.de/sport/fussball/wm-2014/wm-die-top-10-quoten-aller-zeiten-im-deutschen-fernsehen_id_3989104.html |archive-date=15 July 2014 |url-status=live }}</ref> while the 24.7&nbsp;million viewers during the game between the US and Portugal is joint with the [[2010 FIFA World Cup Final|2010 final]] as the most-watched football game in the United States.<ref>{{cite news |url=http://latino.foxnews.com/latino/money/2014/06/24/usa-vs-portugal-world-cup-match-most-watched-soccer-game-in-us-history/ |title=USA vs. Portugal World Cup Match Most Watched Soccer Game In U.S. History |work=Fox News |date=24 June 2014 |access-date=27 June 2014 |archive-url=https://web.archive.org/web/20140627130622/http://latino.foxnews.com/latino/money/2014/06/24/usa-vs-portugal-world-cup-match-most-watched-soccer-game-in-us-history/ |archive-date=27 June 2014 |url-status=dead |df=dmy-all }}</ref> According to FIFA, over 1&nbsp;billion people tuned in worldwide to watch the [[2014 FIFA World Cup Final|final]] between Germany and Argentina.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2015/m=12/news=2014-fifa-world-cuptm-reached-3-2-billion-viewers-one-billion-watched--2745519.html|title=2014 FIFA World Cup reached 3.2 billion viewers, one billion watched final|date=16 December 2015|work=FIFA.com|access-date=13 December 2017|archive-url=https://web.archive.org/web/20171222014250/http://www.fifa.com/worldcup/news/y=2015/m=12/news=2014-fifa-world-cuptm-reached-3-2-billion-viewers-one-billion-watched--2745519.html|archive-date=22 December 2017|url-status=dead}}</ref>
+
+==Controversies==
+{{Main list|List of 2014 FIFA World Cup controversies}}
+The 2014 FIFA World Cup generated various controversies, including demonstrations, some of which took place even before the tournament started. Furthermore, there were various issues with safety, including the death of eight workers and a fire during construction, breaches into stadiums, an unstable makeshift staircase at the [[Maracanã Stadium]], a [[monorail]] collapse, and the [[Belo Horizonte overpass collapse|collapse of an unfinished overpass]] in [[Belo Horizonte]].<ref>{{cite news |title=Factbox: Timeline of deaths, accidents at Brazil's World Cup stadiums |url=https://www.reuters.com/article/us-brazil-worldcup-stadiums-factbox-idUSBREA1E11S20140215 |work=Reuters |access-date=29 June 2014 |date=15 February 2014 |archive-url=https://web.archive.org/web/20140707051919/http://www.reuters.com/article/2014/02/15/us-brazil-worldcup-stadiums-factbox-idUSBREA1E11S20140215 |archive-date=7 July 2014 |url-status=live }}</ref><ref>{{cite web |title=Brazil World Cup: seventh worker dies on stadium construction |url=https://www.theguardian.com/football/2014/mar/30/brazil-world-cup-worker-dies |work=Guardian (UK) |agency=Associated Press |date=29 March 2014 |access-date=29 June 2014 |archive-url=https://web.archive.org/web/20140704222230/http://www.theguardian.com/football/2014/mar/30/brazil-world-cup-worker-dies |archive-date=4 July 2014 |url-status=live }}</ref><ref>{{cite news |title=Brazil World Cup 2014: Eighth death at football stadiums |url=https://www.bbc.co.uk/news/av/world-latin-america-27337339 |first=Wyre |last=Davies |work=BBC News |publisher=British Broadcasting Corporation |date=9 May 2014 |access-date=29 June 2014 |archive-url=https://web.archive.org/web/20140630215014/http://www.bbc.co.uk/news/world-latin-america-27337339 |archive-date=30 June 2014 |url-status=live }}</ref><ref>{{cite web |last1=Downie |first1=Andrew |title=Soccer-Cuiaba fire adds to Brazil's World Cup woes |url=https://sports.yahoo.com/news/soccer-cuiaba-fire-adds-brazils-world-cup-woes-205257620--sow.html |work=Yahoo Sports |agency=Reuters |date=25 October 2013 |access-date=29 June 2014 |archive-url=https://web.archive.org/web/20140714150307/http://sports.yahoo.com/news/soccer-cuiaba-fire-adds-brazils-world-cup-woes-205257620--sow.html |archive-date=14 July 2014 |url-status=live }}</ref><ref name="Monorail collapses BBC">{{cite news|title=Fatal accident on flagship Sao Paulo monorail|url=https://www.bbc.co.uk/news/world-latin-america-27774337|work=[[BBC News]]|date=9 June 2014|access-date=5 July 2014|archive-url=https://web.archive.org/web/20140704090344/http://www.bbc.com/news/world-latin-america-27774337|archive-date=4 July 2014}}</ref> The houses of thousands of families living in [[Rio de Janeiro]]’s [[Favela|slums]] were cleared for redevelopments for the World Cup in spite of protests and resistance. Favela do Metrô, near the Maracanã Stadium, was completely destroyed as a result, having previously housed 700 families in 2010.<ref>Gibson, Owen & Watts, Jonathan (5 December 2013). [https://www.theguardian.com/world/2013/dec/05/world-cup-favelas-socially-cleansed-olympics World Cup: Rio favelas being 'socially cleansed' in runup to sporting events] {{Webarchive|url=https://web.archive.org/web/20161203220030/https://www.theguardian.com/world/2013/dec/05/world-cup-favelas-socially-cleansed-olympics |date=3 December 2016 }}. ''Guardian''. Retrieved on 3 March 2015.</ref><ref>Phillips, Tom (26 April 2011). [https://www.theguardian.com/world/2011/apr/26/favela-ghost-town-rio-world-cup Rio World Cup demolitions leave favela families trapped in ghost town] {{Webarchive|url=https://web.archive.org/web/20161029064906/https://www.theguardian.com/world/2011/apr/26/favela-ghost-town-rio-world-cup |date=29 October 2016 }}. ''The Guardian''. Retrieved on 3 March 2015.</ref><ref>Hodges, Elena (21 June 2014). [http://www.rioonwatch.org/?p=16094 The World Cup Is Underway. What Has Become of Favela do Metrô?] {{Webarchive|url=https://web.archive.org/web/20150402121913/http://www.rioonwatch.org/?p=16094 |date=2 April 2015 }}. Rio On Watch. Retrieved on 3 March 2015.</ref>
+
+===Protests===
+[[File:Protest against the World Cup in Copacabana (2014-06-12) 12.jpg|thumb|Anti-World Cup demonstration on the opening day; "Não vai ter Copa" ("There will be no [World] Cup") was a common slogan from protesters]]
+{{Further|List of 2014 FIFA World Cup controversies#Protests}}
+{{See also|2013 protests in Brazil|2014 protests in Brazil}}
+Prior to the opening ceremony of the [[2013 FIFA Confederations Cup]] staged in Brazil, demonstrations took place outside [[Estádio Nacional Mané Garrincha|the venue]], organised by people unhappy with the amount of public money spent to enable the hosting of the FIFA World Cup.<ref name="Confederations Cup opening protests">{{cite web|title=Brazil Beats Japan, Protests Spoil Confederations Cup Opening Day|url=https://www.voanews.com/a/brazil-japan-confederations-cup/1682679.html|work=[[Voice of America]]|publisher=[[Federal government of the United States]]|access-date=16 June 2013|location=[[Brasília]]|date=15 June 2013|archive-url=https://web.archive.org/web/20150518101052/http://www.voanews.com/content/brazil-japan-confederations-cup/1682679.html|archive-date=18 May 2015|url-status=live}}</ref> Both the [[President of Brazil|Brazilian president]] [[Dilma Rousseff]] and FIFA president [[Sepp Blatter]] were heavily booed as they were announced to give their speeches at the 2013 tournament's opening,<ref>{{cite web |last=Peck |first=Brooks |url=https://sports.yahoo.com/blogs/soccer-dirty-tackle/sepp-blatter-brazil-president-dilma-booed-confederations-cup-201019866.html |title=Sepp Blatter, Brazil president Dilma booed at Confederations Cup opening ceremony |work=Sports.yahoo.com |date=29 May 2013 |access-date=16 June 2013 |archive-url=https://web.archive.org/web/20130619044725/http://sports.yahoo.com/blogs/soccer-dirty-tackle/sepp-blatter-brazil-president-dilma-booed-confederations-cup-201019866.html |archive-date=19 June 2013 |url-status=live }}</ref> which resulted in FIFA announcing that the [[2014 FIFA World Cup opening ceremony]] would not feature any speeches.<ref>{{cite news |title=Fifa scraps speeches to avoid protest |url=https://www.bbc.co.uk/news/world-latin-america-26539972 |work=BBC Sport |publisher=British Broadcasting Corporation |date=12 March 2014 |access-date=22 June 2018 |archive-url=https://web.archive.org/web/20180914224011/https://www.bbc.co.uk/news/world-latin-america-26539972 |archive-date=14 September 2018 |url-status=live }}</ref> Further protests took place during the Confederations Cup as well as prior to and during the World Cup.<ref name="Confederations Cup protests1">{{cite web|url=http://espnfc.com/news/story/_/id/1477993/confederations-cup-protests-continue-brazil?cc=5739|title=Confed Cup protests continue|date=17 June 2013|work=ESPN|access-date=29 June 2014|archive-url=https://web.archive.org/web/20131231220002/http://espnfc.com/news/story/_/id/1477993/confederations-cup-protests-continue-brazil?cc=5739|archive-date=31 December 2013|url-status=live}}</ref><ref name="Confederations Cup protests2">{{cite news |title=Police clashes at start of Brazil Confederations Cup final |url=https://www.bbc.co.uk/news/world-latin-america-23121532 |work=BBC Sport |publisher=British Broadcasting Corporation |date=1 July 2013 |access-date=22 June 2018 |archive-url=https://web.archive.org/web/20180915095335/https://www.bbc.co.uk/news/world-latin-america-23121532 |archive-date=15 September 2018 |url-status=live }}</ref><ref name="World Cup protests1">{{cite news|url=https://edition.cnn.com/2014/05/16/world/americas/brazil-world-cup-protests/|title=Strikes, violent protests hit Brazil ahead of World Cup|publisher=CNN|date=16 May 2014|access-date=29 June 2014|archive-url=https://web.archive.org/web/20140623134638/http://edition.cnn.com/2014/05/16/world/americas/brazil-world-cup-protests/|archive-date=23 June 2014|url-status=live}}</ref><ref name="World Cup protests2">{{cite web|url=http://www.huffingtonpost.co.uk/2014/06/16/world-cup-2014-17-pictures-of-shocking-violence-police-open-live-fire-anti-fifa-protesters_n_5498351.html|title=17 Pictures Of Shocking Violence As Police 'Open Live Fire' On Anti-Fifa Protesters|work=Huffington Post|date=16 June 2014|access-date=29 June 2014|archive-url=https://web.archive.org/web/20140618220310/http://www.huffingtonpost.co.uk/2014/06/16/world-cup-2014-17-pictures-of-shocking-violence-police-open-live-fire-anti-fifa-protesters_n_5498351.html|archive-date=18 June 2014|url-status=live}}</ref><ref name="World Cup protests3">{{cite news|title=Brazilian police fire tear gas at World Cup protesters; CNN employees injured by anti-riot weapons|url=https://edition.cnn.com/2014/06/12/world/americas/brazil-world-cup-protests/|work=CNN|date=12 June 2014|access-date=29 June 2014|archive-url=https://web.archive.org/web/20140704210719/http://edition.cnn.com/2014/06/12/world/americas/brazil-world-cup-protests/|archive-date=4 July 2014|url-status=live}}</ref>
+
+===Breaches into stadiums===
+{{Further|List of 2014 FIFA World Cup controversies#Breaches into stadiums}}
+At the [[2014 FIFA World Cup Group B#Spain vs Chile|Group B match]] between [[Spain men's national football team|Spain]] and [[Chile national football team|Chile]], around 100 Chilean supporters who had gathered outside [[Maracanã Stadium]] forced their way into the stadium and caused damage to the media centre. Military police reported that 85 Chileans were detained during the events, while others reached the stands. Earlier, about 20 Argentinians made a similar breach during Argentina's [[2014 FIFA World Cup Group F#Argentina vs Bosnia and Herzegovina|Group F game]] against Bosnia and Herzegovina at the same stadium.<ref>{{Cite news |url=https://www.theguardian.com/football/2014/jun/18/world-cup-2014-chile-fans-maracana-spain |last=Wilson |first=Jonathan |title=World Cup 2014: Chile fans invade Maracanã before Spain game |newspaper=The Guardian |date=18 June 2014 |access-date=10 December 2016 |archive-url=https://web.archive.org/web/20170510234943/https://www.theguardian.com/football/2014/jun/18/world-cup-2014-chile-fans-maracana-spain |archive-date=10 May 2017 |url-status=live }}</ref><ref>{{cite news|url=https://www.bloomberg.com/news/2014-06-18/world-cup-chile-fans-storm-rio-stadium-ahead-of-spain-game.html|title=World Cup Chile Fans Storm Rio Stadium And 85 Detained|work=Bloomberg|date=19 June 2014|access-date=4 March 2017|archive-url=https://web.archive.org/web/20140712085842/http://www.bloomberg.com/news/2014-06-18/world-cup-chile-fans-storm-rio-stadium-ahead-of-spain-game.html|archive-date=12 July 2014|url-status=live}}</ref>
+
+===Bridge collapse===
+{{main|Belo Horizonte overpass collapse}}
+On 3 July 2014, an [[overpass]] under construction in [[Belo Horizonte]] as part of the World Cup [[infrastructure]] projects collapsed onto a busy [[carriageway]] below, leaving two people dead and 22 others injured.<ref name="Overpass collapses BBC">{{cite news |url=https://www.bbc.com/news/world-latin-america-28155216 |title=Flyover collapses in Brazil World Cup host city |work=[[BBC News]] |date=4 July 2014 |access-date=4 July 2014 |archive-url=https://web.archive.org/web/20140705021338/http://www.bbc.com/news/world-latin-america-28155216 |archive-date=5 July 2014}}</ref><ref name="Overpass collapses Reuters">{{cite news |title=Overpass collapses in World Cup city, crushes vehicles |work=[[Reuters]] |date=3 July 2014 |url=https://www.reuters.com/article/us-brazil-worldcup-accident-idUSKBN0F82A220140703 |last=Cawthorne |first=Andrew |access-date=4 July 2014 |archive-url=https://web.archive.org/web/20140705040415/https://www.reuters.com/article/2014/07/03/us-brazil-worldcup-accident-idUSKBN0F82A220140703 |archive-date=5 July 2014}}</ref>
+
+===Head injuries===
+During the tournament, FIFA received significant criticism for the way head injuries are handled during matches. Two incidents in particular attracted the most attention. First, in a group stage match, after Uruguayan defender [[Álvaro Pereira]] received a blow to the head, he lay unconscious.<ref>{{cite web|url=http://www.smh.com.au/fifa-world-cup-2014/world-cup-news-2014/alvaro-pereira-knocked-out-then-raring-to-go-20140620-zsfqt.html|title=Alvaro Pereira, knocked out then raring to go|date=20 June 2014|first=Tom|last=Decent|work=The Sydney Morning Herald|access-date=1 August 2014|archive-url=https://web.archive.org/web/20140809121053/http://www.smh.com.au/fifa-world-cup-2014/world-cup-news-2014/alvaro-pereira-knocked-out-then-raring-to-go-20140620-zsfqt.html|archive-date=9 August 2014|url-status=live}}</ref> The Uruguayan doctor signalled for the player to be substituted, but he returned to the match. The incident drew criticism from the professional players' union FIFPro, and from Michel D'Hooghe, a member of the FIFA executive board and chairman of its medical committee.<ref>{{Cite magazine |url=https://www.si.com/soccer/2014/07/13/ap-soc-wcup-final-concussion |title=Kramer head injury revives concussion concern |date=13 July 2014 |magazine=Sports Illustrated |access-date=6 January 2019 |language=en |archive-url=https://web.archive.org/web/20180919115452/https://www.si.com/soccer/2014/07/13/ap-soc-wcup-final-concussion |archive-date=19 September 2018 |url-status=live }}</ref>
+
+Second, in the Final, German midfielder [[Christoph Kramer]] received a blow to the head from a collision in the 14th minute, but returned to the match before collapsing in the 31st minute. During that time, Kramer was disoriented and confused, and asked the referee [[Nicola Rizzoli]] whether the match he was playing was in the World Cup Final.<ref>{{Cite magazine |url=https://www.si.com/planet-futbol/2014/07/17/christoph-kramer-germany-didnt-know-world-cup-final-referee |title=Referee: Christoph Kramer didn't know it was World Cup final after head blow |date=17 July 2014 |magazine=Sports Illustrated |access-date=6 January 2019 |language=en |archive-url=https://web.archive.org/web/20180919114454/https://www.si.com/planet-futbol/2014/07/17/christoph-kramer-germany-didnt-know-world-cup-final-referee |archive-date=19 September 2018 |url-status=live }}</ref>
+
+==See also==
+* [[FIFA World Cup]]
+* [[List of FIFA World Cup hosts]]
+* [[2015 FIFA Women's World Cup]]
+
+==Notes==
+{{Reflist|group=nb}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Sister project links |wikt=no |c=Category:2014 FIFA World Cup |commonscat= |n=yes |q=yes|s=no |author=no |b=no |v=no |d=yes |voy=yes}}
+*[https://www.fifa.com/tournaments/mens/worldcup/2014brazil 2014 FIFA World Cup Brazil] at FIFA.com
+*[https://web.archive.org/web/20171213234531/http://www.uefa.com/worldcup/season=2014/matches/all/index.html 2014 FIFA World Cup] at [[UEFA]].com
+*[https://web.archive.org/web/20111020154546/http://www.copa2014.gov.br/ Official Brazil government website]
+*[https://web.archive.org/web/20131212051624/http://www.fifa.com/mm/document/tournament/competition/01/47/38/17/regulationsfwcbrazil2014_update_e_neutral.pdf Regulations&nbsp;– 2014 FIFA World Cup Brazil]
+*[https://web.archive.org/web/20140819085815/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/42/15/40/2014fwc_tsg_report_15082014_neutral.pdf FIFA Technical Report]
+*[https://www.rsssf.org/tables/2014full.html Archive of finals] at [[RSSSF]]
+
+{{2014 FIFA World Cup}}
+{{FIFA World Cup}}
+{{navboxes top}}
+{{2014 FIFA World Cup stadiums}}
+{{2014 FIFA World Cup referees}}
+{{Football in Brazil}}
+{{World championships in 2014}}
+{{navboxes bottom}}
+{{Authority control}}
+{{Portal bar|2010s|Sport|Association football|Brazil|Latin America}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:2014 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|2014]]
+[[Category:2014 in men's international association football|World Cup]]
+[[Category:2014 in Brazilian football]]
+[[Category:Men's international association football competitions hosted by Brazil|2014]]
+[[Category:June 2014 sports events in South America]]
+[[Category:July 2014 sports events in South America]]

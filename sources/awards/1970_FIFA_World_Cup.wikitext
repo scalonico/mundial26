@@ -1,0 +1,541 @@
+{{short description|Association football tournament in Mexico}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox international football competition
+| tourney_name     = FIFA World Cup
+| year             = 1970
+| other_titles     = {{native name|es|Copa Mundial de Fútbol<br/>México '70}}
+| image            = 1970 FIFA World Cup.svg
+| size             = 150px
+| country          = Mexico
+| dates            = 31 May – 21 June
+| confederations   = 5
+| num_teams        = 16
+| venues           = 5
+| cities           = 5
+| champion         = Brazil
+| champion-flagvar = 1968
+| count            = 3
+| second           = Italy
+| second-flagvar   = 1946
+| third            = West Germany
+| fourth           = Uruguay
+| matches          = 32
+| goals            = 95
+| attendance       = {{#invoke:Football attendance summation|main|groups=1-4}}
+| top_scorer       = {{fbicon|FRG}} [[Gerd Müller]] (10 goals)
+| young_player     = {{fbicon|PER}} [[Teófilo Cubillas]]
+| fair_play        = {{fb|PER}}
+| prevseason       = [[1966 FIFA World Cup|1966]]
+| nextseason       = [[1974 FIFA World Cup|1974]]
+}}
+
+The '''1970 FIFA World Cup''' was the ninth edition of the [[FIFA World Cup]], the quadrennial international [[Association football|football]] championship for [[List of men's national association football teams|men's senior national teams]]. Held from 31 May to 21 June in Mexico, it was the first World Cup tournament held outside Europe and South America, and also the first hosted in North America. Teams representing 75 nations from all six populated continents entered the competition, and its [[1970 FIFA World Cup qualification|qualification rounds]] began in May 1968. Fourteen teams qualified from this process to join host nation [[Mexico national football team|Mexico]] and defending champions [[England national football team|England]] in the 16-team final tournament. [[El Salvador national football team|El Salvador]], [[Israel national football team|Israel]] and [[Morocco national football team|Morocco]] made their debut appearances at the final stage. 
+
+In the [[1970 FIFA World Cup Final|tournament final]], [[Brazil national football team|Brazil]] won 4–1 against [[Italy national football team|Italy]], another FIFA two-time champion (and [[UEFA Euro 1968]] winner). Brazil also overcame another two-time champion and [[1967 South American Championship|South American champions]] [[Uruguay national football team|Uruguay]], by 3–1 in the semi-final, and [[1966 FIFA World Cup|defending champions]] [[England national football team|England]] 1–0 in the group stage as they were also eliminated by [[Germany national football team|West Germany]] in the quarter-finals. This is currently the only time that the winning team defeated the European and South American champions alongside the tournament's defending champions.
+
+The win gave Brazil their third World Cup title, which allowed them to permanently keep the [[FIFA World Cup Trophy#Jules Rimet Trophy|Jules Rimet Trophy]], and a [[FIFA World Cup Trophy|new trophy]] was introduced in [[1974 FIFA World Cup|1974]]. The victorious team, led by [[Carlos Alberto Torres|Carlos Alberto]] and featuring players such as [[Pelé]], [[Gérson]], [[Jairzinho]], [[Rivellino]] and [[Tostão]], is often cited as the greatest football team of all time.<ref name="BBC review">{{cite web |title=The Story of the 1970 World Cup |url=https://www.bbc.co.uk/blogs/jonathanstevenson/2010/05/the_story_of_the_1970_world_cu.html |publisher=[[BBC]] |date=12 May 2010 |access-date=19 December 2019 |archive-date=17 October 2018 |archive-url=https://web.archive.org/web/20181017155256/http://www.bbc.co.uk/blogs/jonathanstevenson/2010/05/the_story_of_the_1970_world_cu.html |url-status=live }}</ref><ref name="Brazil poll">{{cite news |url=https://www.reuters.com/article/us-soccer-world-best-idUSL0988846220070709 |publisher=[[Reuters]] |title=Brazil's 1970 winning team voted best of all time |date=9 July 2007 |archive-date=24 September 2015 |access-date=5 July 2021 |archive-url=https://web.archive.org/web/20150924121245/http://www.reuters.com/article/2007/07/09/us-soccer-world-best-idUSL0988846220070709 |url-status=live }}</ref><ref name="Independent">{{cite news |url=https://www.independent.co.uk/sport/football/international/the-boys-from-brazil-on-the-trail-of-footballs-dream-team-806939.html |newspaper=[[The Independent]] |title=The Boys from Brazil: On the trail of football's dream team |date=10 April 2010 |access-date=19 September 2017 |archive-date=2 April 2019 |archive-url=https://web.archive.org/web/20190402182149/https://www.independent.co.uk/sport/football/international/the-boys-from-brazil-on-the-trail-of-footballs-dream-team-806939.html |url-status=dead}}</ref> They achieved a perfect record of wins in all six games in the finals, as well as winning all [[1970 FIFA World Cup qualification#Group 2 3|their qualifying fixtures]].<ref name="Perfect record">{{cite web |url=http://www.goal.com/en-us/news/67/world-cup/2010/07/07/2013961/world-cup-2010-netherlands-perfect-winning-streak-can-match |publisher=Goal.com |title=Netherlands' perfect winning streak can match historic feat of Brazil 1970 |date=7 July 2010 |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20140309024534/http://www.goal.com/en-us/news/67/world-cup/2010/07/07/2013961/world-cup-2010-netherlands-perfect-winning-streak-can-match |archive-date=9 March 2014 |url-status=live}}</ref>
+
+Despite the issues of altitude and high temperature,<ref>{{cite news |url=https://news.google.com/newspapers?id=0qBWAAAAIBAJ&pg=4552%2C3687609 |newspaper=Free-Lance Star |location=Fredericksburg, VA |agency=Associated Press |title=Soccer play in Mexico stirs altitude controversy |date=2 June 1970 |page=6 |archive-date=1 May 2021 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20210501112214/https://news.google.com/newspapers?id=0qBWAAAAIBAJ&pg=4552,3687609 |url-status=live }}</ref> the finals largely produced attacking football which created an average goals per game record not since bettered by any subsequent World Cup Finals.<ref name="Castrol">{{cite web |title=Castrol index tournament legends |url=http://www.castrolfootball.com/legends/tournament/index.php?year=1970 |publisher=[[Castrol Performance Index]] |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20130617010759/http://www.castrolfootball.com/legends/tournament/index.php?year=1970 |archive-date=17 June 2013 |url-status=live}}</ref><ref name="Brasil 2014">{{cite web |title=Perfect farewell to Pelé's last appearance in a World Cup |url=http://www.copa2014.gov.br/en/torcedor/historia-das-copas/1970 |publisher=Brasil 2014: World Cup Portal |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20131114193817/http://www.copa2014.gov.br/en/torcedor/historia-das-copas/1970 |archive-date=14 November 2013 |url-status=dead}}</ref><ref name="Technical Report">{{cite web |title=World Championship – Jules Rimet 1970 Cup Technical study |url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/67/wc_70_tr_313.pdf |url-status=dead |publisher=FIFA |archive-url=https://web.archive.org/web/20100106062034/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/67/wc%5f70%5ftr%5f313.pdf |archive-date=6 January 2010}}</ref> With the advancements in satellite communications, the 1970 Finals attracted a new record television audience for the FIFA World Cup as games were broadcast live around the world<ref>{{cite book |last=Dunmore |first=Tom |title=Historical Dictionary of Soccer |publisher=Scarecrow Press |year=2011 |page=13}}</ref> and, in a few cases, in colour—the first time that that was the case.<ref name="FIFA overview">{{cite web |title=1970 FIFA World Cup Mexico |url=https://www.fifa.com/worldcup/archive/edition=32/overview.html |url-status=dead |publisher=FIFA |archive-url=https://web.archive.org/web/20080913232659/http://www.fifa.com/worldcup/archive/edition%3D32/overview.html |archive-date=13 September 2008}}</ref><ref>{{cite web|url=http://www.tvlicensing.co.uk/about/media-centre/news/40-years-since-first-world-cup-in-colour-NEWS27/|publisher=TVlicensing.co.uk|title=40 years since first World Cup in colour|access-date=8 July 2013|archive-date=13 January 2014|archive-url=https://web.archive.org/web/20140113085013/http://www.tvlicensing.co.uk/about/media-centre/news/40-years-since-first-world-cup-in-colour-NEWS27/|url-status=live}}</ref>
+
+==Host selection==
+{{further|FIFA World Cup hosts}}
+Mexico was chosen as the host nation on 8 October 1964 vote at the [[FIFA]] congress in [[Tokyo]], where the only other bid submitted was by Argentina, which would go on to host the [[1978 FIFA World Cup|1978 World Cup]].<ref name="Hosting">{{cite web |title=Host Announcement Decision |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/fs-201_13a_fwc-bidding.pdf |archive-url=https://web.archive.org/web/20120722021820/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/fs-201%5f13a%5ffwc-bidding.pdf |url-status=dead |archive-date=22 July 2012 |publisher=FIFA |date=2 December 2010}}</ref> 
+
+The 1970 selection of Mexico as host would mark several distinctions. It was the first World Cup that was staged in North America and the first to be staged outside of South America and Europe. Further distinction would come to Mexico at the [[1986 FIFA World Cup|1986 World Cup]] when it became the first country to host the FIFA World Cup twice after stepping in as a substitute for Colombia, which was struggling financially.<ref name="Hosting" />
+
+==Qualification==
+{{main|1970 FIFA World Cup qualification}}
+[[Image:1970 world cup qualification.png|thumb|300px|{{legend|#000cff|Nation qualified for World Cup}} {{legend|#ffb400|Nation failed to qualify}} {{legend|black|Nation did not enter World Cup}} {{legend|#ababab|Nation not a FIFA member in 1970}}]]
+A total of 75 teams entered the 1970 FIFA World Cup, and 73 were required to qualify. Due to rejected entries and withdrawals, 68 teams eventually participated in the qualifying stages, including eight for the first time.<ref name="Qualifying">{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/75/fs-201_19a_fwc-prel-history.pdf|archive-url=https://web.archive.org/web/20100602004441/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/75/fs-201_19a_fwc-prel-history.pdf#page=29|archive-date=2 June 2010|publisher=FIFA |title=Preliminary Competition: History by year |url-status=dead|date=November 2009}}</ref><ref name="Qualifying stats">{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/78/prelkit2014-1(stats).pdf|archive-url=https://web.archive.org/web/20120720075804/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/78/prelkit2014-1(stats).pdf|url-status=dead|archive-date=20 July 2012|publisher=FIFA |title=Preliminary Draw Statistical kit |date=2 August 2011}}</ref> [[Mexico national football team|Mexico]] as the host nation and [[England national football team|England]] as reigning World Cup champions were granted automatic qualification, with the remaining 14 finals places divided among the continental confederations.<ref name="Qualifying"/>
+
+Eight places were available to teams from [[UEFA]] (Europe), three for [[CONMEBOL]] (South America), one for [[Confederation of African Football|CAF]] (Africa), one for a team from either the [[Asian Football Confederation|AFC]] or the [[Oceania Football Confederation|OFC]] (Asia/Oceania), and one for [[CONCACAF]] (North and Central America and Caribbean).<ref name="Qualifying"/>
+
+A place in the finals for an African team was guaranteed for the first time: this came in response to the events of [[1966 FIFA World Cup qualification (CAF, AFC and OFC)|1966]], where all 15 entered African nations boycotted the qualifying in protest after FIFA – which had combined the qualifying for Africa, Asia and Oceania into one group for only one place at the finals – declined CAF's requests to change the qualifying format and the allocation of places, citing competitive and logistical issues.<ref name="African history">{{cite news |title=Africa's missing World Cup years |url=http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1941000/1941223.stm |publisher=[[BBC Sport]] |date=26 April 2002 |archive-date=23 November 2013 |access-date=22 June 2013 |archive-url=https://web.archive.org/web/20131123223626/http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1941000/1941223.stm |url-status=live }}</ref><ref name="Qualifying draw">{{cite news |title=Tough tasks for British |newspaper=The Times |location=London |page=13 |date=2 February 1968}}</ref><ref>{{cite web |title=Boycott! When Africa & Asia said "Enough" |url=http://twohundredpercent.net/?p=6797 |publisher=Twohundredpercent.net |date=31 May 2010 |access-date=23 June 2013 |archive-url=https://web.archive.org/web/20130924041154/http://twohundredpercent.net/?p=6797 |archive-date=24 September 2013 |url-status=live}}</ref> Thus, while [[Morocco national football team|Morocco]] was the first African team to qualify for the World Cup since [[Egypt national football team|Egypt]] in [[1934 FIFA World Cup|1934]], they were the first to be assured qualification via their own continental zone, since Egypt had to play against [[Mandatory Palestine national football team|the British-occupied Palestine]] to qualify for the 1934 tournament.
+
+The draw for the qualifying stages was conducted on 1 February 1968,<ref name="Qualifying stats"/> with matches beginning in May 1968 and the final fixtures being concluded in December 1969. [[North Korea national football team|North Korea]], quarter-finalists at the [[1966 FIFA World Cup|previous tournament]], were disqualified during the process after refusing to play in Israel for political reasons.<ref>{{cite news |title=North Korea out |newspaper=The Times |location=London |date=5 July 1969}}</ref><ref name="Glanville">{{cite book |last=Glanville |first=Brian |author-link=Brian Glanville |title=The Story of the World Cup |publisher=Faber and Faber |year=2010 |page=167}}</ref> [[El Salvador national football team|El Salvador]] qualified for the finals after beating [[Honduras national football team|Honduras]] in a [[1970 FIFA World Cup qualification#Group 2 4|play-off match]], which was the catalyst for a four-day conflict in July 1969 known as the [[Football War]].<ref>{{cite book |last=Anderson |first=Thomas P. |title=The War of the Dispossessed: Honduras and El Salvador 1969 |publisher=University of Nebraska Press |location=Lincoln, NE |year=1981}}</ref>
+
+Half of the eventual qualifying teams had also been present at the previous World Cup, but three teams qualified for the first time: [[El Salvador national football team|El Salvador]], [[Israel national football team|Israel]] and [[Morocco national football team|Morocco]], while [[Peru national football team|Peru]], [[Romania national football team|Romania]], [[Belgium national football team|Belgium]] and [[Sweden men's national football team|Sweden]] made their first World Cup appearances since [[1930 FIFA World Cup|1930]], [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]] and [[1958 FIFA World Cup|1958]] respectively. Czechoslovakia returned to the World Cup stage after missing out in [[1966 FIFA World Cup|1966]].<ref name="Stat Kit">{{cite web |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |url-status=dead |publisher=FIFA |date=26 March 2013 |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013}}</ref><ref>[https://web.archive.org/web/20170714110540/http://www.fifa.com/worldcup/archive/mexico1970/matches/preliminaries/europe/index.html 1970 FIFA World Cup Mexico - Qualifiers - Europe - FIFA.com<!-- Bot generated title -->]</ref>
+
+===List of qualified teams===
+The following 16 teams qualified for the final tournament.
+{{col-begin}}
+{{col-4}}
+;[[1970 FIFA World Cup qualification (AFC and OFC)|AFC]] (1)
+* {{fb|ISR}}&nbsp;(debut)
+;[[1970 FIFA World Cup qualification (CAF)|CAF]] (1)
+* {{fb|MAR}}&nbsp;(debut)
+;[[1970 FIFA World Cup qualification (AFC and OFC)|OFC]] (0)
+* ''None qualified''
+{{col-4}}
+;[[1970 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (2)
+* {{fb|SLV}}&nbsp;(debut)
+* {{fb|MEX}}&nbsp;(hosts) 
+;[[1970 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (3)
+* {{fb|BRA|1968}}&nbsp;
+* {{fb|PER}}&nbsp;
+* {{fb|URU}}&nbsp;
+{{col-4}}
+;[[1970 FIFA World Cup qualification (UEFA)|UEFA]] (9)
+* {{fb|BEL}}&nbsp;
+* {{fb|BUL|1968}}&nbsp;
+* {{fb|TCH}}&nbsp;
+* {{fb|ENG}}&nbsp;(holders)
+* {{fb|ITA|1946}}&nbsp;
+* {{fb|ROM|1965}}&nbsp;
+* {{fb|URS|1955}}&nbsp;
+* {{fb|SWE}}&nbsp;
+* {{fb|FRG}}&nbsp;
+
+{{col-4}}
+{{col-end}}
+
+{{as of|2026}}, this was the only time Israel qualified for a FIFA World Cup finals, and also the only time [[Argentina national football team|Argentina]] failed to qualify (they declined to participate in 1938, [[1950 FIFA World Cup|1950]] and 1954).
+
+==Venues==
+Five stadiums in five cities were selected to host the World Cup matches. Alternative venues in [[Hidalgo (state)|Hidalgo state]] and the port city of [[Veracruz, Veracruz|Veracruz]] were also considered.<ref>{{cite news|url=https://news.google.com/newspapers?id=FskqAAAAIBAJ&dq=guillermo%20ca%C3%B1edo%201970&pg=6406%2C14687084|newspaper=[[La Nación]]|title=Del 31 de mayo al 21 de junio de 1970|language=es|date=30 June 1967|archive-date=22 January 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210122214412/https://news.google.com/newspapers?id=FskqAAAAIBAJ&dq=guillermo%20ca%C3%B1edo%201970&pg=6406,14687084|url-status=live}}</ref> Each group was based solely in one city with exception of Group 2, which was staged in both [[Puebla, Puebla|Puebla]] and [[Toluca]]. Aside from the [[Nemesio Diez Stadium|Estadio Luis Dosal]], all the stadia had only been constructed during the 1960s, as Mexico prepared to host both the World Cup and the [[1968 Summer Olympics]].<ref>{{cite news|url=https://pqasb.pqarchiver.com/csmonitor_historic/access/219741762.html?dids=219741762:219741762&FMT=ABS&FMTS=ABS:AI&date=Oct+19%2C+1967&author=By+Cliff+Gewecke+Sports+correspondent+of+The+Christian+Science+Monitor&pub=Christian+Science+Monitor&desc=Building+for+the+future&pqatl=google|archive-url=https://archive.today/20130624223150/http://pqasb.pqarchiver.com/csmonitor_historic/access/219741762.html?dids=219741762:219741762&FMT=ABS&FMTS=ABS:AI&date=Oct+19,+1967&author=By+Cliff+Gewecke+Sports+correspondent+of+The+Christian+Science+Monitor&pub=Christian+Science+Monitor&desc=Building+for+the+future&pqatl=google|url-status=dead|archive-date=24 June 2013|newspaper=[[The Christian Science Monitor]]|title=Building for the future|date=19 October 1967}}</ref> The stadium construction cost for the four smaller venues were around US$11 million, while the final stadium in Mexico City cost US$20 million.<ref>{{Cite journal|last=Fett|first=Matthias|date=2020-07-02|title=The game has changed – a systematic approach to classify FIFA World Cups|url=https://www.tandfonline.com/doi/full/10.1080/19406940.2020.1784978|journal=International Journal of Sport Policy and Politics|language=en|volume=12|issue=3|pages=455–470|doi=10.1080/19406940.2020.1784978|s2cid=221714908|issn=1940-6940|url-access=subscription|archive-date=17 August 2021|access-date=18 August 2021|archive-url=https://web.archive.org/web/20210817120530/https://www.tandfonline.com/doi/full/10.1080/19406940.2020.1784978|url-status=live}}</ref>
+
+All sites were in Central Mexico, on the [[Mexican Plateau]]; none were below {{convert|1500|m|ft}} above sea level. The altitude of the venues varied and [[Effects of high altitude on humans|the importance of acclimatisation]] was strongly considered by all the participating teams. As a result, in contrast to the previous tournament staged in England, most teams arrived in the region well in advance of their opening fixtures [[Altitude training|to prepare for this factor]].<ref>{{cite news|url=https://news.google.com/newspapers?id=krtJAAAAIBAJ&dq=altitude%20world%20cup&pg=1122%2C3742307|work=[[Meriden Journal]]|title=Altitude bugs soccer players|date=2 June 1970|archive-date=8 July 2022|access-date=7 November 2020|archive-url=https://web.archive.org/web/20220708140026/https://news.google.com/newspapers?id=krtJAAAAIBAJ&dq=altitude%20world%20cup&pg=1122%2C3742307|url-status=live}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?id=acgyAAAAIBAJ&dq=altitude%20world%20cup&pg=4025%2C296813|newspaper=[[Ottawa Citizen]]|title=Problem of altitude|date=2 June 1970|archive-date=21 January 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210121043540/https://news.google.com/newspapers?id=acgyAAAAIBAJ&dq=altitude%20world%20cup&pg=4025,296813|url-status=live}}</ref> Some teams had already experienced the local conditions when competing in the [[Football at the 1968 Summer Olympics|football competition at 1968 Summer Olympics]].<ref name="Technical Report"/> At an elevation in excess of {{convert|2660|m|-1}} [[Height above mean sea level|above sea level]], [[Toluca]] was the highest of the venues; [[Guadalajara]] was the lowest at {{convert|1500|m|-1|abbr=on}}. In addition to the altitude, all five locations had hot and rainy weather where temperatures would regularly go past 32&nbsp;°C (90&nbsp;°F).
+
+Of the five stadia used for the 32 matches played, the largest and most utilised venue was the [[Estadio Azteca|Azteca Stadium]] in Mexico City, which hosted 10 total matches including the final and match for third place, and all of Group 1's matches (which included all of host Mexico's matches). The Jalisco Stadium in Guadalajara hosted eight matches including all of Group 3's matches and a semi-final. The Nou Camp Stadium in Leon hosted seven matches, which consisted of all of Group 4's matches and a quarter-final match. The Luis Dosal stadium in Toluca hosted four matches, and Cuauhtémoc stadium in Puebla hosted three matches and was the only stadium of the five used for this tournament not to host any knockout rounds.
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Mexico City]], [[Federal District (Mexico)|Federal District]]
+![[Guadalajara]], [[Jalisco]]
+![[Puebla City]], [[Puebla]]
+![[Toluca]], [[State of Mexico]]
+![[León, Guanajuato|León]], [[Guanajuato]]
+|-
+|[[Estadio Azteca]]
+|[[Estadio Jalisco]]
+|[[Estadio Cuauhtémoc]]
+|[[Nemesio Diez Stadium|Estadio Luis Dosal]]
+|[[Estadio León|Estadio Nou Camp]]
+|-
+|Capacity: '''107,247'''
+|Capacity: '''71,100'''
+|Capacity: '''35,563'''
+|Capacity: '''26,900'''
+|Capacity: '''23,609'''
+|-
+|[[File:Estadio Azteca 07a.jpg|alt=|200x200px]]
+|[[File:Estadio jalisco.jpg|200px]]
+|[[File:Puebla FC vs León FC.jpg|200px]]
+|[[File:Nemesio diez.JPG|200px]]
+|[[File:EstadioLeon.jpg|200px]]
+|-
+! colspan="5"|{{Location map+|Mexico|width=600|float=center|places=
+{{Location map~|Mexico|mark=red pog.svg|lat_deg=20.6667|lon_deg=-103.3503|position=left|label=[[Guadalajara]]}}
+{{Location map~|Mexico|mark=red pog.svg|lat_deg=21.1167|lon_deg=-101.6833|position=top|label=[[León, Guanajuato|León]]}}
+{{Location map~|Mexico|mark=red pog.svg|lat_deg=19.4333|lon_deg=-99.1333|position=top|label=[[Mexico City]]}}
+{{Location map~|Mexico|mark=red pog.svg|lat_deg=19.0514|lon_deg=-98.2178|position=right|label=[[Puebla City|Puebla]]}}
+{{Location map~|Mexico|mark=red pog.svg|lat_deg=19.2925|lon_deg=-99.6569|position=bottom|label=[[Toluca]]}}
+|caption=}}
+|}
+
+==Format==
+[[File:Exposición “¿De qué color pinta el verde? - El Colegio Nacional - 02.jpg|thumb|An [[Adidas Telstar]] football used at the 1970 World Cup matches.]]
+The 16 qualified teams were divided into four groups of four. Each group was played as a [[Round-robin tournament|single round-robin]] in which each team would play each of the others in their group once. Teams were ranked by the number of points earned from their matches (two points were awarded for a win and one for a draw), and goal difference was used as the primary tie-breaker; if two teams finished level on both points and goal difference, lots were drawn to separate them. This method was used to separate the top two teams in Group 1 (Soviet Union and Mexico),<ref>{{cite journal |title=Soviet Union wins toss in World Cup |journal=Miami News |date=1970-06-13 |page=2-B}}</ref> but it was not used to separate Bulgaria and Morocco in Group 4, despite them finishing level on points and goal difference, as they were both eliminated anyways.
+
+The top two teams from each group progressed to the knockout stage. In all knockout matches, extra time was played if the teams were drawn after 90 minutes. If teams were still tied after extra-time, drawing of lots would have been used in all matches other than the final. FIFA did not announce in advance what would happen if the final itself were to be drawn after extra time.<ref>{{cite journal |title=Drawing of lots -- that's how teams will be parted |journal=Evening Standard |location=London |date=1970-05-26 |page=43}}</ref> In the event, all knockout matches were decided in either regular time or extra time.
+
+==Final draw==
+Although it was reported in the build-up to the final draw that seedings would be used, as had been the case at the previous two World Cup Finals,<ref>{{cite news |title=Ability and politics govern the draw |page=11 |newspaper=The Times |location=London |date=19 December 1969}}</ref><ref>{{cite news |title=Top teams to be seeded |page=11 |newspaper=The Times |location=London |date=8 January 1970}}</ref><ref name="Seeding criteria negotiaions"/> the FIFA Organising Committee ultimately announced on the same day of the draw, that there would be no seeding of teams due to failed attempts to reach a compromise for the seeding criteria.<ref name="FIFA seeding">{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/82/40/89/fs-201_12a_fwc-seeding.pdf|archive-url=https://web.archive.org/web/20120722050449/http://www.fifa.com/mm/document/fifafacts/mencompwc/82/40/89/fs-201%5f12a%5ffwc-seeding.pdf|url-status=dead|archive-date=22 July 2012|publisher=FIFA |title=FIFA World Cup: Seeded teams 1930–2010 |date=November 2009}}</ref> Instead, the 16 qualified teams were divided into four pots comprising 'geographical groupings' decided by a vote of the FIFA Organising Committee, which for the composition of pot 1, 3 and 4 also took into account the teams' strengths and even political considerations.<ref name="Seeding criteria negotiaions">{{cite news|url=https://news.google.com/newspapers?id=9coVAAAAIBAJ&dq=stanley%20rous&pg=7074%2C2437127|work=[[Jornal do Brasil]]|language=pt|title=Brasil, Alemanha e Italia querem o Grupo Dois|date=10 January 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501112544/https://news.google.com/newspapers?id=9coVAAAAIBAJ&dq=stanley+rous&pg=7074,2437127|url-status=live}}</ref> The tournament structure ensured that teams grouped within the same pot would not meet each other before the quarter-finals at the earliest. The system of politically decided pots hereby ensured that Israel and Morocco would not be drawn to face each other after Morocco had earlier threatened to withdraw from the tournament, as they had done from the Olympic football tournament two years earlier,<ref>{{cite web|url=https://www.sports-reference.com/olympics/summer/1968/FTB/mens-football.html|archive-url=https://web.archive.org/web/20200418130309/https://www.sports-reference.com/olympics/summer/1968/FTB/mens-football.html|url-status=dead|archive-date=18 April 2020|publisher=Sports-reference.com|title=Football at the 1968 Ciudad de México Summer Games: Men's Football}}</ref> if that were the case.<ref>{{cite web|url=http://www.currybet.net/cbet_blog/2009/12/africa-in-the-fifa-world-cup-p-2.php |publisher=Currybet.net |title=Africa in the FIFA World Cup: Part 3 – The Seventies |date=2 December 2009 |access-date=23 June 2013 |archive-url=https://web.archive.org/web/20121124045531/http://www.currybet.net/cbet_blog/2009/12/africa-in-the-fifa-world-cup-p-2.php |archive-date=24 November 2012 |url-status=live}}</ref>
+
+{| class="wikitable"
+|-
+!Pot 1: European I
+!Pot 2: Americas
+!Pot 3: European II
+!Pot 4: Rest of the World
+|-
+|style="vertical-align:top;"|
+* {{fb|ENG}} <small>([[FIFA World Cup Trophy#Winners|holders]], group 3)</small>
+----
+* {{fb|ITA|1946}}
+* {{fb|URS|1955}}
+* {{fb|FRG}}
+|style="vertical-align:top;"|
+* {{fb|MEX}} <small>(hosts, group 1)</small>
+----
+* {{fb|BRA|1968}}
+* {{fb|PER}}
+* {{fb|URU}}
+|style="vertical-align:top;"|
+* {{fb|BEL}}
+* {{fb|BUL|1968}}
+* {{fb|TCH}}
+* {{fb|SWE}}
+|style="vertical-align:top;"|
+* {{fb|SLV}}
+* {{fb|ISR}}
+* {{fb|MAR}}
+* {{fb|ROU|1965}}
+|}
+
+The draw was staged in [[Mexico City]], Mexico on 10 January 1970 in the [[Sheraton Mexico City Maria Isabel Hotel|Maria Isabel Hotel]], which served as FIFA's headquarters during the competition.<ref name="Seeding criteria negotiaions"/><ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-final-draw-history.pdf|archive-url=https://web.archive.org/web/20140709165355/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-final-draw-history.pdf|url-status=dead|archive-date=9 July 2014|publisher=FIFA |title=The FIFA World Cup Final Draw history |date=November 2009}}</ref> The teams were drawn into the four groups, which had their locations defined in advance: Group 1 being staged in Mexico City, Group 2 in [[Puebla, Puebla|Puebla]] and [[Toluca]], Group 3 in [[Guadalajara]] and Group 4 in [[León, Guanajuato|León]]. Ahead of the draw, the FIFA regulations had predetermined that the hosts [[Mexico national football team|Mexico]] would be in Group 1 and so based in the capital city, and that [[England national football team|England]] as holders would be based together with Group 3 in Guadalajara,<ref name="Seeding criteria negotiaions"/><ref name="Draw of Groups">{{cite AV media|url=https://www.youtube.com/watch?v=ZLUHZEKn5go|title=SYND 12/1/70 draw for the World Cup in Mexico City|publisher=AP|date=10 January 1970|access-date=21 July 2015|via=YouTube|medium=video|archive-date=13 June 2022|archive-url=https://web.archive.org/web/20220613124453/https://www.youtube.com/watch?v=ZLUHZEKn5go|url-status=live}}</ref> the tournament's second largest stadium.<ref name="Dawson">{{cite book|last=Dawson|first=Jeff|title=Back Home: England and the 1970 World Cup|publisher=Orion|year=2001}}</ref> Keeping the defending champion ([[FIFA World Cup Trophy#Winners|holders]]) apart from meeting the hosts in the group stage either by seeding or predetermined group positions, was a practiced tradition throughout the history of the FIFA World Cup, with [[1934 FIFA World Cup|1934]] and [[1954 FIFA World Cup|1954]] being the only two exceptions.<ref name="FIFA seeding"/>
+
+The 10-year-old daughter of [[Guillermo Cañedo de la Bárcena|Guillermo Cañedo]], president of the [[Mexican Football Federation]] and chief of the [[FIFA World Cup Organisers|FIFA Organising Committee]], drew out the teams from four silver cups, so that each of the four groups featured one drawn team respectively from pot 1, pot 2, pot 3 and pot 4.<ref name="Draw">{{Cite news|title=Draw for finals of World Cup |page=12 |newspaper=The Times |location=London |date=12 January 1970}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?id=NClPAAAAIBAJ&dq=mexico&pg=5333%2C3816703|newspaper=[[Toledo Blade]]|title=Mexico duels Russians in World Cup|date=11 January 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501112631/https://news.google.com/newspapers?id=NClPAAAAIBAJ&dq=mexico&pg=5333%2C3816703|url-status=live}}</ref><ref name="Draw of Groups"/>
+
+==Match officials==
+{{col-begin-small}}
+
+{{col-3}}
+'''AFC'''
+* {{fbaicon|ISR}} [[Abraham Klein (referee)|Abraham Klein]]
+
+'''CAF'''
+* {{fbaicon|ETH|1897}} [[Seyoum Tarekegn]]
+* {{fbaicon|UAR}} [[Ali Kandil]]
+
+'''CONCACAF'''
+* {{fbaicon|CAN}} [[Werner Winsemann]]
+* {{fbaicon|MEX}} [[Abel Aguilar Elizalde]]
+* {{fbaicon|MEX}} [[Diego De Leo (referee)|Diego De Leo]]
+* {{fbaicon|MEX}} [[Arturo Yamasaki]]
+* {{fbaicon|USA}} [[Henry Landauer]]
+{{col-3}}
+'''CONMEBOL'''
+* {{fbaicon|ARG|1861}} [[Ángel Norberto Coerezza]]
+* {{fbaicon|BRA|1968}} [[Antônio de Moraês]]
+* {{fbaicon|CHI}} [[Rafael Hormázabal]]
+* {{fbaicon|URU}} [[Ramón Barreto]]
+
+'''UEFA'''
+* {{fbaicon|AUT}} [[Ferdinand Marschall]]
+* {{fbaicon|BEL}} [[Vital Loraux]]
+* {{fbaicon|GDR}} [[Rudi Glöckner]]
+* {{fbaicon|ENG}} [[Jack Taylor (referee)|Jack Taylor]]
+{{col-3}}
+* {{fbaicon|FRA|1794}} [[Roger Machin]]
+* {{fbaicon|ITA|1946}} [[Antonio Sbardella]]
+* {{fbaicon|NED}} [[Laurens van Ravens]]
+* {{fbaicon|POR}} [[António Ribeiro Saldanha]]
+* {{fbaicon|ROU|1965}} [[Andrei Rădulescu (footballer)|Andrei Rădulescu]]
+* {{fbaicon|SCO|1542}} [[Bob Davidson (referee)|Bob Davidson]]
+* {{fbaicon|ESP|1945}} [[José María Ortiz de Mendíbil|Ortiz de Mendíbil]]
+* {{fbaicon|URS|1955}} [[Tofik Bakhramov]]
+* {{fbaicon|SUI}} [[Rudolf Scheurer]]
+* {{fbaicon|FRG}} [[Kurt Tschenscher]]
+{{col-end}}
+
+==Squads==
+{{Main|1970 FIFA World Cup squads}}
+A tournament squad was limited to no more than 22 players; Morocco named only 19 players in their squad.<ref>{{Cite web |title=Planet World Cup - 1970 - Squads - Morocco |url=https://www.planetworldcup.com/CUPS/1970/squad_mor70.html |access-date=2025-04-14 |website=www.planetworldcup.com |archive-date=14 April 2025 |archive-url=https://web.archive.org/web/20250414185539/https://www.planetworldcup.com/CUPS/1970/squad_mor70.html |url-status=live }}</ref>
+
+==Tournament review==
+[[Image:1970 FIFA World Cup mascot.png|thumb|upright|Juanito was the official tournament mascot.]]
+
+===Group stage===
+Following the opening ceremony host nation [[Mexico national football team|Mexico]] faced the [[Soviet Union national football team|Soviet Union]]; this was the last time until the [[2006 FIFA World Cup|2006 World Cup]] that the host nation's first match rather than the World Cup holders' began the tournament.<ref>{{cite web |url=http://voices.yahoo.com/the-fifa-world-cup-opening-day-match-history-facts-6198096.html |publisher=[[Yahoo]] |title=The FIFA World Cup Opening Day Match History, Facts and Winners |date=11 June 2010 |access-date=7 July 2013 |archive-url=https://archive.today/20130707010841/http://voices.yahoo.com/the-fifa-world-cup-opening-day-match-history-facts-6198096.html |archive-date=7 July 2013 |url-status=dead}}</ref> Both this opening match of Group 1 and many others during the competition kicked off at noon for the benefit of European television schedules, meaning play under the midday sun.<ref name="FIFA overview"/> The match produced a goalless draw, prompting some media to predict the entire tournament would be played at the slow tempo that featured in this game given the conditions involved.<ref>{{cite news|url=https://news.google.com/newspapers?id=dgkyAAAAIBAJ&dq=world%20cup&pg=5472%2C306381|newspaper=[[The Age]]|title=Big yawn as World Cup rivals draw|date=2 June 1970|archive-date=15 April 2023|access-date=7 November 2020|archive-url=https://web.archive.org/web/20230415162459/https://news.google.com/newspapers?id=dgkyAAAAIBAJ&dq=world%20cup&pg=5472,306381|url-status=live}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?id=dgkyAAAAIBAJ&dq=world%20cup&pg=5472%2C306381|newspaper=[[The Pittsburgh Press]]|title=World Cup slowdown bores fans|date=1 June 1970|archive-date=15 April 2023|access-date=7 November 2020|archive-url=https://web.archive.org/web/20230415162459/https://news.google.com/newspapers?id=dgkyAAAAIBAJ&dq=world%20cup&pg=5472,306381|url-status=live}}</ref> Following the half-time interval [[Anatoliy Puzach]] became the first substitute to be used in FIFA World Cup history as the Soviets made use of the new competition rule.<ref name="Stat Kit"/> Both teams won their remaining two games to progress from the group at the expense of [[Belgium national football team|Belgium]] and World Cup debutants [[El Salvador national football team|El Salvador]].
+
+Group 2 was the lowest-scoring of the groups with only six goals in its six matches as [[Uruguay national football team|Uruguay]], [[1967 South American Championship|reigning South America champions]], and [[Italy national football team|Italy]], the [[UEFA Euro 1968|reigning European champions]], edged past [[Sweden men's national football team|Sweden]] and [[Israel national football team|Israel]]. Sweden would have progressed if they had produced a two-goal victory against Uruguay in their final game, but it was not until the final minute that they scored the only goal of the game.<ref>{{cite news|url=https://news.google.com/newspapers?id=7pplAAAAIBAJ&dq=grahn&pg=1156%2C4016343|newspaper=[[The Vancouver Sun]]|title=Pele keeps Brazilians on right track|date=11 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501112352/https://news.google.com/newspapers?id=7pplAAAAIBAJ&dq=grahn&pg=1156%2C4016343|url-status=live}}</ref> Hours before the game FIFA elected to replace the scheduled referee after bribery rumours – later dismissed by FIFA<ref name="Lots draw">{{cite news |title=Mexico draws tiny stadium |url=https://news.google.com/newspapers?id=af1XAAAAIBAJ&pg=1800%2C1004892 |work=[[The Bulletin (Bend)|The Bulletin]] |date=13 June 1970 |archive-date=1 May 2021 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20210501113119/https://news.google.com/newspapers?id=af1XAAAAIBAJ&pg=1800%2C1004892 |url-status=live }}</ref> – arose in Mexico.<ref>{{cite news |title=Bribe rumours stir soccer |url=https://news.google.com/newspapers?id=PKgkAAAAIBAJ&dq=stanley%20rous&pg=2578%2C388872 |newspaper=[[Reading Eagle]] |date=11 June 1970 |archive-date=15 April 2023 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20230415164011/https://news.google.com/newspapers?id=PKgkAAAAIBAJ&dq=stanley%20rous&pg=2578,388872 |url-status=live }}</ref> The 1–0 result meant that Uruguay advanced, to be joined by Italy after they avoided defeat in the group finale against Israel.<ref>{{cite news |title=Mexico, England, Italy in quarter-finals |url=https://news.google.com/newspapers?id=1YsyAAAAIBAJ&dq=italy%20israel&pg=4602%2C3046102 |newspaper=[[The Gazette (Montreal)]] |date=12 June 1970 |archive-date=15 April 2023 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20230415162455/https://news.google.com/newspapers?id=1YsyAAAAIBAJ&dq=italy%20israel&pg=4602,3046102 |url-status=live }}</ref>
+
+Owing to the lack of a seeding system, Group 3 allowed the reigning World Cup holders [[England national football team|England]] to be paired together with the two-time former champion [[Brazil national football team|Brazil]], considered by many the pre-tournament favourites for the trophy.<ref name="FIFA seeding"/> England's preparations were hampered by the arrest of their captain [[Bobby Moore]] in Colombia for [[Bogotá Bracelet|allegedly stealing a bracelet from a jeweller's shop]];<ref>{{cite news|url=https://news.google.com/newspapers?id=oIJlAAAAIBAJ&dq=england&pg=1915%2C178046|newspaper=[[The Indian Express]]|title=England soccer captain held for shop-lifting|date=27 May 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501113431/https://news.google.com/newspapers?id=oIJlAAAAIBAJ&dq=england&pg=1915%2C178046|url-status=live}}</ref> the charges were later dropped.<ref>{{cite news |url=http://news.bbc.co.uk/onthisday/hi/dates/stories/august/20/newsid_4537000/4537235.stm |publisher=[[BBC]] |title=1970: Bobby Moore cleared of stealing |date=20 August 1970 |archive-date=8 February 2008 |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20080208192539/http://news.bbc.co.uk/onthisday/hi/dates/stories/august/20/newsid_4537000/4537235.stm |url-status=live }}</ref> The attitude of their manager [[Alf Ramsey]] and the English media in general was perceived by many locals as unfriendly and xenophobic toward Mexico's hosting of the competition, which meant the English team received a largely hostile response during the competition.<ref name="Dawson"/><ref>{{cite news|url=https://news.google.com/newspapers?id=WpJAAAAAIBAJ&dq=england&pg=5171%2C2908927|newspaper=[[The Herald (Glasgow)|Glasgow Herald]]|title=England lose popularity contest|date=13 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501113009/https://news.google.com/newspapers?id=WpJAAAAAIBAJ&dq=england&pg=5171%2C2908927|url-status=live}}</ref><ref name="English win first World Cup match">{{cite news|url=https://news.google.com/newspapers?id=0-5LAAAAIBAJ&dq=england%20boos&pg=6955%2C497354|newspaper=[[The Spokesman-Review]]|title=English win first World Cup match|date=2 June 1970|archive-date=15 April 2023|access-date=7 November 2020|archive-url=https://web.archive.org/web/20230415162450/https://news.google.com/newspapers?id=0-5LAAAAIBAJ&dq=england%20boos&pg=6955,497354|url-status=live}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?id=QkkqAAAAIBAJ&dq=bulgaria&pg=3667%2C489028|newspaper=[[Pittsburgh Press]] |title=British take villain role in World Cup|date=2 June 1970}}</ref><ref>{{Cite news |title=Young Mexicans jeer England |page=14 |newspaper=The Times |location=London |date=14 May 1970}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?id=0-5LAAAAIBAJ&dq=england%20boos&pg=6955%2C497354|newspaper=[[The Herald (Glasgow)|Glasgow Herald]]|title=Pele and other top Brazilians may miss Romanian game|date=9 June 1970|archive-date=15 April 2023|access-date=7 November 2020|archive-url=https://web.archive.org/web/20230415162450/https://news.google.com/newspapers?id=0-5LAAAAIBAJ&dq=england%20boos&pg=6955,497354|url-status=live}}</ref><ref name="Times review">{{cite news |title=World Cup Review: Firm authority respected |page=15 |newspaper=The Times |location=London |date=23 June 1970}}</ref>
+
+With both having won their opening games – against [[Czechoslovakia national football team|Czechoslovakia]] and [[Romania national football team|Romania]], respectively<ref name="4 June">{{cite news|url=https://news.google.com/newspapers?id=UpJAAAAAIBAJ&dq=morocco&pg=3092%2C854609|newspaper=[[The Herald (Glasgow)|Glasgow Herald]]|title=Brazil hit back against Czechs|date=4 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501112948/https://news.google.com/newspapers?id=UpJAAAAAIBAJ&dq=morocco&pg=3092%2C854609|url-status=live}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?id=asgyAAAAIBAJ&dq=peru&pg=944%2C576325|newspaper=[[Ottawa Citizen]]|title=Fans whistles and boos as England wins, 1–0|date=3 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501113135/https://news.google.com/newspapers?id=asgyAAAAIBAJ&dq=peru&pg=944%2C576325|url-status=live}}</ref> – Brazil met England in the group's most famed match.<ref>{{cite web|url=https://www.fifa.com/classicfootball/matches/world-cup/match=1764/index.html|archive-url=https://web.archive.org/web/20130328221346/http://www.fifa.com/classicfootball/matches/world-cup/match=1764/index.html|url-status=dead|archive-date=28 March 2013|publisher=FIFA |title=The Final that never was}}</ref> Although [[Gordon Banks]] in the English goal denied [[Pelé]] from close range with a reflex save that Pelé himself cited as the greatest of his career,<ref>{{cite web |url=https://www.fifa.com/classicfootball/players/player=174372/index.html|archive-url=https://web.archive.org/web/20110122063954/http://www.fifa.com/classicfootball/players/player=174372/index.html|url-status=dead|archive-date=22 January 2011 |publisher=FIFA |title=Gordon Banks: The keeper who stunned the King}}</ref><ref>{{cite web |title=Brazil mix enough method to their magic |url=http://www.espn.co.uk/football/sport/story/191816.html |publisher=[[ESPN]] |date=7 February 2013 |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20140222034941/http://www.espn.co.uk/football/sport/story/191816.html |archive-date=22 February 2014 |url-status=live}}</ref> a second-half goal from [[Jairzinho]] won the match for Brazil, after which England squandered several excellent opportunities to equalise.<ref>{{cite news |title=Fireworks erupt after Brazilian goal beats England |url=https://news.google.com/newspapers?id=bcgyAAAAIBAJ&dq=england%20brazil%20astle&pg=6044%2C2260014 |newspaper=[[Ottawa Citizen]] |date=8 June 1970 |archive-date=16 November 2022 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20221116235733/https://news.google.com/newspapers?id=bcgyAAAAIBAJ&dq=england%20brazil%20astle&pg=6044%2C2260014 |url-status=live }}</ref><ref>{{cite news |title=Back to school for England after World Cup Soccer loss |url=https://news.google.com/newspapers?id=7GsyAAAAIBAJ&dq=england%20brazil%20astle&pg=5988%2C2109089 |newspaper=[[Beaver County Times]] |date=8 June 1970 |archive-date=15 April 2023 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20230415162502/https://news.google.com/newspapers?id=7GsyAAAAIBAJ&dq=england%20brazil%20astle&pg=5988,2109089 |url-status=live }}</ref> Both teams then won their final group games to progress to the knockout stage.<ref>{{cite news |title=England rides boot of Clarke to eights |url=https://news.google.com/newspapers?id=3uRUAAAAIBAJ&dq=peru&pg=3059%2C2126529 |newspaper=[[The Leader-Post]] |date=11 June 1970 |archive-date=1 May 2021 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20210501112251/https://news.google.com/newspapers?id=3uRUAAAAIBAJ&dq=peru&pg=3059%2C2126529 |url-status=live }}</ref>
+
+Play in Group 4 began with [[Bulgaria national football team|Bulgaria]] taking a two-goal lead against [[Peru national football team|Peru]], but a second half comeback gave the South Americans a 3–2 victory.<ref>{{cite news|url=https://news.google.com/newspapers?id=asgyAAAAIBAJ&dq=peru&pg=1783%2C575623|newspaper=[[Ottawa Citizen]]|title=Peru's comeback|date=3 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501113156/https://news.google.com/newspapers?id=asgyAAAAIBAJ&dq=peru&pg=1783%2C575623|url-status=live}}</ref> [[Morocco national football team|Morocco]], the first [[African nations at the FIFA World Cup|African World Cup representatives]] since 1934,<ref name="African history"/> also began strongly by taking the lead against the 1966 runners-up [[Germany national football team|West Germany]], but the Germans came back to win 2–1.<ref name="4 June"/> West Germany also went behind against Bulgaria in their second match, but a [[Gerd Müller]] hat-trick helped them recover and win 5–2; the eventual [[FIFA World Cup awards#Golden Boot|Golden Boot winner]] Müller hit another [[FIFA World Cup hat-tricks|hat-trick]] – the only hat-tricks of the entire tournament.<ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_02a_fwc_goals_22689.pdf|archive-url=https://web.archive.org/web/20081203015017/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_02a_fwc_goals_22689.pdf|url-status=dead|archive-date=3 December 2008|publisher=FIFA |title=FIFA World Cup goals}}</ref> – to win the group against Peru.<ref>{{cite news|url=https://news.google.com/newspapers?id=EU5SAAAAIBAJ&pg=6128,411061&dq=peru&hl=en|newspaper=[[The St. Petersburg Times (Russia)|The St. Petersburg Times]]|title=Germany, Brazil lead World Cup|date=11 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501112608/https://news.google.com/newspapers?id=EU5SAAAAIBAJ&pg=6128%2C411061&dq=peru&hl=en|url-status=live}}</ref>
+
+===Knockout stage===
+====Quarter-finals====
+Mexico and the Soviet Union had finished tied at the top of Group 1 on both points and goal difference, meaning that the drawing of lots was required to rank them. On 12 June, the draw allocated the Soviet Union the group winners' berth, meaning that they would face Uruguay at the [[Estadio Azteca]], while the host nation were paired against Italy in the smaller [[Nemesio Diez Stadium|Toluca venue]].<ref name="Lots draw"/><ref>{{cite news |url=https://news.google.com/newspapers?id=WpJAAAAAIBAJ&dq=england&pg=5625%2C2911830 |newspaper=[[The Herald (Glasgow)|Glasgow Herald]] |title=Mexico travel to play Italy |date=13 June 1970 |archive-date=1 May 2021 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20210501113030/https://news.google.com/newspapers?id=WpJAAAAAIBAJ&dq=england&pg=5625%2C2911830 |url-status=live }}</ref> Mexican officials unsuccessfully appealed to FIFA to stage their game in the capital to avoid traffic problems.<ref name="Lots draw"/> The hosts took the lead against Italy with a [[José Luis González Dávila|José Luis González]] goal, but his teammate [[Javier Guzmán]] equalised with an [[Own goal#Association football|own goal]] before half-time. Italy then dominated the second half to progress to the semi-finals with a 4–1 win.<ref>{{cite news |title=Italy crush Mexico |page=13 |newspaper=The Times |location=London |date=15 June 1970}}</ref> The Soviet Union were also eliminated in their quarter-final when a [[Víctor Espárrago]] header three minutes from the end of extra-time sent Uruguay through.<ref>{{cite news |title=Well-timed winner |page=13 |newspaper=The Times |location=London |date=15 June 1970}}</ref> The Soviets had stopped play during Uruguay's attack leading to the goal, believing that the ball had crossed the touchline.
+
+[[File:WorldCup1970lposter.jpg|thumb|upright|Official poster]]
+The all-South America tie in [[Guadalajara]] was the highest-scoring of the four quarter-finals as Brazil recorded a 4–2 triumph over Peru. The match is considered to be one of the most entertaining matches in World Cup history: Brazil shot 27 times; Peru, 22. Next came a rematch of [[1966 FIFA World Cup Final|the previous World Cup final]] between England and West Germany that took place in [[León, Guanajuato|León]]. The reigning champions took a two-goal lead, but [[Franz Beckenbauer]] halved the deficit when his low shot beat England's second-choice goalkeeper [[Peter Bonetti]], who was playing after [[Gordon Banks]] suffered food poisoning the day before.<ref>{{cite news|url=https://news.google.com/newspapers?id=8ZplAAAAIBAJ&dq=gordon%20banks&pg=1436%2C5653168|newspaper=[[The Vancouver Sun]]|title=Defending champs knocked out|date=15 June 1970|archive-date=16 November 2022|access-date=7 November 2020|archive-url=https://web.archive.org/web/20221116235733/https://news.google.com/newspapers?id=8ZplAAAAIBAJ&dq=gordon%20banks&pg=1436%2C5653168|url-status=live}}</ref><ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/england/7824156/World-Cup-2010-Robert-Green-I-know-how-you-feel-says-ex-England-keeper-Peter-Bonetti.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/england/7824156/World-Cup-2010-Robert-Green-I-know-how-you-feel-says-ex-England-keeper-Peter-Bonetti.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|newspaper=[[The Daily Telegraph]] |title=Robert Green, I know how you feel, says ex-England keeper Peter Bonetti|date=13 June 2010}}{{cbignore}}</ref> Eight minutes from time, an [[Uwe Seeler]] header levelled the score. England's [[Geoff Hurst]] then had an apparently legitimate goal ruled out for offside.<ref>{{cite news |title=Germans turn tide against England |url=http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1753000/1753266.stm |access-date=10 June 2019 |publisher=BBC Sport |date=4 April 2002 |archive-date=7 September 2015 |archive-url=https://web.archive.org/web/20150907215439/http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1753000/1753266.stm |url-status=live }}</ref><ref>England: The Official F.A History, Niall Edworthy, Virgin Publishers, 1997, {{ISBN|1-85227-699-1}}.</ref> An extra-time goal from [[Gerd Müller]] brought (West) Germany's first-ever competitive victory over England.<ref>{{cite web|url=http://footballrepublik.com/bundesliga-50-the-birth-of-the-professional-game/ |publisher=Football Republik |title=Bundesliga 50 – The birth of Germany's Professional Game |date=9 June 2013 |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20130618015533/http://footballrepublik.com/bundesliga-50-the-birth-of-the-professional-game/ |archive-date=18 June 2013 |url-status=live}}</ref><ref>{{cite book|last=Downing|first=David|title=The Best of Enemies: England v Germany|publisher=Bloomsbury Publishing|year=2001}}</ref>
+
+====Semi-finals====
+[[File:Game of the Century Plaque.jpg|thumb|right|Plaque commemorating the "[[Italy v West_Germany (1970 FIFA World Cup)|Game of the Century]]"]]
+All four of the semi-finalists were former world champions, with the line-up guaranteeing a final between Europe and South America. In the all-South American tie, controversially switched from the capital to the lower altitude of Guadalajara,<ref>{{cite news|url=https://news.google.com/newspapers?id=4ORUAAAAIBAJ&dq=stadium&pg=2613%2C2679561|newspaper=[[The Leader-Post]]|title=Italy favored to win cup|date=16 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501112312/https://news.google.com/newspapers?id=4ORUAAAAIBAJ&dq=stadium&pg=2613%2C2679561|url-status=live}}</ref> Brazil came from behind to defeat Uruguay 3–1 and earn the right to contest their fourth World Cup Final. Two Brazilian goals in the final 15 minutes decided a match that had been evenly-matched until that point.<ref>{{cite news|url=https://news.google.com/newspapers?id=zN0RAAAAIBAJ&dq=clodoaldo&pg=7147%2C1445296|newspaper=[[The Spokesman-Review]]|title=Italy meets Brazilians on Sunday|date=19 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501113526/https://news.google.com/newspapers?id=zN0RAAAAIBAJ&dq=clodoaldo&pg=7147%2C1445296|url-status=live}}</ref> The all-European meeting between Italy and West Germany produced a match regarded by many as one of the greatest World Cup games of all time. Having led from the eighth minute through [[Roberto Boninsegna]]'s strike, Italy were pegged back in injury time when sweeper [[Karl-Heinz Schnellinger]] scored his only international goal.<ref>{{cite web|url=https://www.dfb.de/index.php?action=search&liga=Nationalmannschaft&id=500397&lang=E&no_cache=1&name=%3BSchnellinger&gegner=|publisher=[[German Football Association]]|title=Players Info: Schnellinger|access-date=17 July 2017|archive-date=26 July 2014|archive-url=https://web.archive.org/web/20140726172548/http://www.dfb.de/index.php?action=search&liga=Nationalmannschaft&id=500397&lang=E&no_cache=1&name=%3BSchnellinger&gegner=|url-status=live}}</ref> Extra-time brought five more goals as the lead swung between the two sides until [[Gianni Rivera]] gave the ''Azzurri'' a decisive 4–3 lead.<ref>{{cite news|url=https://news.google.com/newspapers?id=zN0RAAAAIBAJ&dq=clodoaldo&pg=7147%2C1445296|newspaper=[[Reading Eagle]]|title=World Cup Soccer Finalists|date=18 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501113526/https://news.google.com/newspapers?id=zN0RAAAAIBAJ&dq=clodoaldo&pg=7147%2C1445296|url-status=live}}</ref> The match subsequently became known as the "[[Italy v West Germany (1970 FIFA World Cup)|Game of the Century]]",<ref name="Game of the Century">{{cite web |url=https://www.fifa.com/classicfootball/matches/world-cup/match=1838/index.html|archive-url=https://web.archive.org/web/20130327164350/http://www.fifa.com/classicfootball/matches/world-cup/match=1838/index.html|url-status=dead|archive-date=27 March 2013|publisher=FIFA |title=A test of endurance and will}}</ref> and today has a plaque outside the Estadio Azteca to commemorate it. West Germany went on to defeat Uruguay 1–0 in the match for third place.<ref>{{cite news|url=https://www.nytimes.com/1970/06/21/archives/west-germany-conquers-uruguay-10-for-third-place-in-world-cup.html|agency=[[Associated Press]]|title=West Germany conquers Uruguay, 1–0, for Third Place in World Cup Soccer|work=The New York Times|date=20 June 1970|archive-date=23 July 2018|access-date=22 July 2018|archive-url=https://web.archive.org/web/20180723003639/https://www.nytimes.com/1970/06/21/archives/west-germany-conquers-uruguay-10-for-third-place-in-world-cup.html|url-status=live}}</ref>
+
+====Final====
+In [[1970 FIFA World Cup final|the final]], Brazil opened the scoring when [[Pelé]] headed in a cross from [[Rivellino]] in the 18th minute, but [[Roberto Boninsegna]] equalised for Italy after a series of blunders in the Brazilian defence.<ref name="Final">{{cite web|url=https://www.fifa.com/classicfootball/matches/world-cup/match=1765/index.html|archive-url=https://web.archive.org/web/20130427091042/http://www.fifa.com/classicfootball/matches/world-cup/match=1765/index.html|url-status=dead|archive-date=27 April 2013|publisher=FIFA |title=Sizzling Brazil stun the Azteca}}</ref> The match remained level until the 65th minute when a powerful shot from [[Gérson]] restored the Brazilians' lead. Further goals from [[Jairzinho]] and [[Carlos Alberto Torres|Carlos Alberto]] rewarded Brazil's attacking play and secured a 4–1 victory and a record third World Cup triumph, which earned them the right to permanently keep the [[FIFA World Cup Trophy#Jules Rimet Trophy|Jules Rimet Trophy]].<ref name="Final"/><ref>{{cite book|last=Lisi|first=Clemente Angelo|title=A History of the World Cup: 1930–2010|url=https://archive.org/details/historyofworldcu0000lisi|url-access=registration|page=[https://archive.org/details/historyofworldcu0000lisi/page/167 167]|publisher=Scarecrow Press|year=2007|isbn=9780810859050}}</ref>
+
+===Legacy===
+Both the [[Brazil at the 1970 FIFA World Cup|Brazilian team]] that were crowned champions of the 1970 World Cup and the tournament itself have become regarded as among the very finest in the history of the FIFA World Cup.<ref name="BBC review"/><ref name="Brazil poll"/><ref name="Herald">{{cite news |url=http://www.heraldscotland.com/sport/opinion/the-1970-world-cup-is-recalled-fondly-and-in-glorious-technicolour.19412390 |newspaper=[[The Herald (Glasgow)|The Herald]] |title=The 1970 World Cup is recalled fondly, and in glorious technicolour |date=17 November 2012 |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20140112223946/http://www.heraldscotland.com/sport/opinion/the-1970-world-cup-is-recalled-fondly-and-in-glorious-technicolour.19412390 |archive-date=12 January 2014 |url-status=live}}</ref><ref>{{cite web |url=http://fourfourtwo.com/blogs/championsleague/archive/2009/03/14/1970-and-all-that.aspx |publisher=[[Four Four Two]] |title=1970: The definitive World Cup... |date=14 March 2009 |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20120629083835/http://fourfourtwo.com/blogs/championsleague/archive/2009/03/14/1970-and-all-that.aspx |archive-date=29 June 2012 |url-status=dead}}</ref> In contrast to the more physical style of play that had dominated the previous two tournaments, the 1970 Finals are noted for the attacking play adopted by most teams.<ref name="Castrol"/><ref name="Brasil 2014"/><ref name="Technical Report"/>
+
+[[Image:Adidas Telstar.jpg|thumb|150px|[[Adidas Telstar]] of [[1974 FIFA World Cup|1974]]]]
+
+For the first time at a World Cup Finals, referees could issue [[Fouls and misconduct (association football)|yellow and red cards]] (a system that is now commonplace at every level of football worldwide),<ref>{{cite web|url=https://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/news/newsid=80623/index.html|archive-url=https://web.archive.org/web/20111023004530/http://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/news/newsid=80623/index.html|url-status=dead|archive-date=23 October 2011|publisher=FIFA |title=Ken Aston – the inventor of yellow and red cards|date=15 January 2002}}</ref> yet, in contrast to the previous tournaments (besides the 1950 edition) and all subsequent tournaments to date, no player was expelled from play.<ref>{{cite web |url=http://espnfc.com/world-cup/columns/story?id=696767&cc=5739&ver=global |publisher=[[ESPN]] |title=World Cup History 1970 |date=10 November 2009 |access-date=7 July 2013 |archive-url=https://web.archive.org/web/20140118123901/http://espnfc.com/world-cup/columns/story?id=696767&cc=5739&ver=global |archive-date=18 January 2014 |url-status=dead}}</ref> The officiating of the opening match, commentated by some media as overly strict,<ref>{{cite news |url=https://news.google.com/newspapers?id=zIsyAAAAIBAJ&dq=referee&pg=2723%2C294839 |newspaper=[[The Gazette (Montreal)]] |title=England begins soccer defence today |date=2 June 1970 |archive-date=1 May 2021 |access-date=7 November 2020 |archive-url=https://web.archive.org/web/20210501113508/https://news.google.com/newspapers?id=zIsyAAAAIBAJ&dq=referee&pg=2723%2C294839 |url-status=live }}</ref><ref>{{cite news|url=https://www.nytimes.com/1970/06/21/archives/west-germany-conquers-uruguay-10-for-third-place-in-world-cup.html |work=[[The New York Times]] |title=Mexican standoff?|date=7 June 1970}}</ref><ref>{{cite news |title=Strict control needed in combustible situation |page=5 |newspaper=The Times |location=London |date=26 September 1970}}</ref> set a standard of discipline that instead helped protect skillful players in accordance with FIFA's stated wish.<ref name="Times review"/><ref>{{cite news|url=https://news.google.com/newspapers?id=aMgyAAAAIBAJ&dq=referee&pg=930%2C77278|newspaper=[[Ottawa Citizen]]|title=Clean, dull soccer start|date=1 June 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501113058/https://news.google.com/newspapers?id=aMgyAAAAIBAJ&dq=referee&pg=930%2C77278|url-status=live}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?id=QNozAAAAIBAJ&dq=fifa&pg=6630%2C7865175|newspaper=[[Eugene Register-Guard]]|title=Officials determined to police World Soccer Championships|date=30 May 1970|archive-date=1 May 2021|access-date=7 November 2020|archive-url=https://web.archive.org/web/20210501112743/https://news.google.com/newspapers?id=QNozAAAAIBAJ&dq=fifa&pg=6630%2C7865175|url-status=live}}</ref>
+
+The eventual champions Brazil, led by [[Carlos Alberto Torres|Carlos Alberto]], and featuring [[Pelé]], [[Clodoaldo]], [[Gérson]], [[Jairzinho]], [[Rivellino]], and [[Tostão]], is often cited as the greatest-ever World Cup team.<ref name="BBC review"/><ref name="Brazil poll"/><ref name="Independent"/> They won all of their six games on the way to the title, and had also won every one of [[1970 FIFA World Cup qualification#Group 2 2|their qualifying fixtures]].<ref name="Perfect record"/> [[Jairzinho]]'s feat of not only scoring in every finals match, but also winning each finals match likewise has yet to be equalled.<ref>{{cite web |url=https://www.fifa.com/classicfootball/players/player=63879/index.html|archive-url=https://web.archive.org/web/20120514024048/http://www.fifa.com/classicfootball/players/player=63879/index.html|url-status=dead|archive-date=14 May 2012|publisher=FIFA |title=Jairzinho: The Hurricane that never blew out}}</ref> Coach [[Mário Zagallo]] became the first man to win the World Cup as both a player ([[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]]) and coach.<ref>{{cite web |url=https://www.fifa.com/classicfootball/coaches/coach=61571/index.html|archive-url=https://web.archive.org/web/20080302013400/http://www.fifa.com/classicfootball/coaches/coach=61571/index.html|url-status=dead|archive-date=2 March 2008|publisher=FIFA |title=Mario Zagallo: None hungrier than Brazil's lone wolf}}</ref>
+
+This was the first World Cup to use the [[Adidas Telstar|Telstar]] ball from [[Adidas]] (who have supplied every World Cup match ball to date), introduced as the "Telstar Erlast" for the [[1968 European Football Championship]]. The Telstar was the first World Cup ball to use the now-familiar [[truncated icosahedron]] for its design, consisting of 12 black [[pentagon]]al and 20 white [[hexagon]]al panels.<ref name="fifalist">{{cite web|url=http://footballs.fifa.com/Football-Facts/FIFA-World-Cup-Footballs#eztoc717_0_1_11 |title=1970 Mexico |work=The Footballs during the FIFA World Cup |publisher=FIFA |access-date=17 September 2011 |archive-url=https://web.archive.org/web/20131128080230/http://footballs.fifa.com/Football-Facts/FIFA-World-Cup-Footballs#eztoc717_0_1_11 |archive-date=28 November 2013 |url-status=dead}}</ref><ref name="soccerballworld">{{cite web |url=http://www.soccerballworld.com/HistoryWCBalls.htm |title=The History of the Official World Cup Match Balls |work=SoccerBallWorld |publisher=Rig-Tech Inc |access-date=17 September 2011 |archive-date=19 September 2018 |archive-url=https://web.archive.org/web/20180919081334/http://www.soccerballworld.com/HistoryWCBalls.htm |url-status=live }}</ref> The 32-panel configuration had been introduced in 1962 by [[Select Sport]],<ref>{{cite web |url=http://www.select-sport.com/script/site/page.asp?artid=124&cat_id=84 |title=The Story of Select |publisher=Select Sport |access-date=17 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111003032057/http://www.select-sport.com/script/site/page.asp?artid=124&cat_id=84 |archive-date=3 October 2011}}</ref><ref name="Bernsen">{{cite journal|last=Bernsen|first=Jens|year=1992|title=Vi er røde, vi er hvide|journal=Design DK|publisher=Dansk Design Centre|issn=0906-9194|language=da}}</ref> and was also used in the official logo for the 1970 World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=32/index.html|archive-url=https://web.archive.org/web/20070603185337/http://fifa.com/worldcup/archive/edition=32/index.html|url-status=dead|archive-date=3 June 2007|title=1970 FIFA World Cup Mexico|work=Previous FIFA World Cups|publisher=FIFA|access-date=17 September 2011}}</ref> The black-and-white pattern, to aid visibility on [[black and white television]] broadcasts (which was still commonplace then, as colour television was rare in many parts of the world), was also well established before the Telstar.<ref name="Bernsen" /><ref>See [[Getty Images]] photos:
+* [http://www.gettyimages.co.uk/detail/53324431/Hulton-Archive #53324431] [[1965 European Cup Final]]
+* [http://www.gettyimages.co.uk/detail/3376509/Hulton-Archive #3376509] Terry Venables in 1965
+* [http://www.gettyimages.co.uk/detail/81398917/Sports-Illustrated #81398917] New York Champions Cup 1966
+* [http://www.gettyimages.co.uk/detail/2887049/Hulton-Archive #2887049] [[1967 European Cup Winners' Cup Final]]
+</ref> The name came from the [[Telstar|Telstar communications satellite]], which was roughly spherical and dotted with solar panels, somewhat similar in appearance to the football.<ref name="fifalist"/>
+
+===Merchandise===
+Forming a partnership with [[FIFA]] in 1970, [[Panini Group|Panini]] published its first FIFA World Cup [[sticker album]] for the 1970 World Cup, initiating a global craze for collecting and trading stickers.<ref>{{cite news |title=Brand collaborations |url=https://www.fifa.com/about-fifa/marketing/licensing/brand-collaborations.html |archive-url=https://web.archive.org/web/20150508222147/http://www.fifa.com/about-fifa/marketing/licensing/brand-collaborations.html |url-status=dead |archive-date=8 May 2015 |access-date=8 September 2018 |publisher=FIFA}}</ref><ref>{{cite news |title=Panini World Cup sticker book |url=https://www.theguardian.com/football/2018/mar/29/cost-to-fill-panini-world-cup-sticker-book-is-734-says-maths-prof |access-date=3 September 2018 |work=The Guardian |archive-date=30 March 2018 |archive-url=https://web.archive.org/web/20180330002756/https://www.theguardian.com/football/2018/mar/29/cost-to-fill-panini-world-cup-sticker-book-is-734-says-maths-prof |url-status=live }}</ref><ref>[https://www.si.com/soccer/2018/06/06/panini-world-cup-sticker-album-history-tradition "The Magic, Global Craze and Tradition of Panini's World Cup Sticker Albums"] {{Webarchive|url=https://web.archive.org/web/20180812052729/https://www.si.com/soccer/2018/06/06/panini-world-cup-sticker-album-history-tradition |date=12 August 2018 }}. ''Sports Illustrated''. Retrieved 2 September 2018</ref> In 2017, a complete 1970 World Cup Panini sticker album signed by [[Pelé]] sold for a record £10,450.<ref>{{cite news |title=Panini 1970 World Cup album signed by Pele auctions for £10,450 |url=http://www.espn.co.uk/football/brazil/story/3090645/panini-1970-world-cup-album-signed-by-pele-auctions-for-10,450 |access-date=3 September 2018 |publisher=ESPN |archive-date=4 September 2018 |archive-url=https://web.archive.org/web/20180904011313/http://www.espn.co.uk/football/brazil/story/3090645/panini-1970-world-cup-album-signed-by-pele-auctions-for-10,450 |url-status=live }}</ref><ref>{{cite news |title=The world's most expensive Panini album, signed by Brazilian legend Pele, has been auctioned off for £10,450 |url=https://www.irishmirror.ie/sport/soccer/soccer-news/worlds-most-expensive-panini-album-10110089 |access-date=3 September 2018 |work=Irish Mirror}}</ref>
+
+==Group stage==
+[[File:1970 world cup.png|thumb|upright=2.2|{{Col-begin}} {{col-4}} {{legend|#2b42a3|Champion}} {{legend|#34c0be|Runner-up}} {{col-4}} {{legend|#269c5a|Third place}} {{legend|#81c846|Fourth place}} {{col-4}} {{legend|#f4EA4c|Quarter-finals}} {{legend|#b94954|Group stage}} {{col-end}}]]
+The first round, or group stage, saw the 16 teams divided into four groups of four teams. Each group was a [[Round-robin tournament|round-robin]] of six games, where each team played one match against each of the other teams in the same group. Teams were awarded two points for a win, one point for a draw and none for a defeat. The teams finishing first and second in each group qualified for the quarter-finals, while the bottom two teams in each group were eliminated from the tournament.
+
+'''Tie-breaking criteria'''
+# Greater number of points in all group matches
+# Goal difference in all group matches (replacing the previous usage of [[Goal difference|goal average]])
+# Drawing of lots by the FIFA Organising Committee
+
+===Group 1===
+{{main|1970 FIFA World Cup Group 1}}
+[[File:El Salvador vs. Mexico 1970.jpg|thumb|right|Salvadoran captain [[Salvador Mariona]] (in white) and Mexican captain [[Gustavo Peña]] (in green) before their match.]]
+{{:1970 FIFA World Cup Group 1|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1970 FIFA World Cup Group 1|transcludesection=1-1}}
+{{:1970 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1970 FIFA World Cup Group 1|transcludesection=1-3}}
+{{:1970 FIFA World Cup Group 1|transcludesection=1-4}}
+----
+{{:1970 FIFA World Cup Group 1|transcludesection=1-5}}
+{{:1970 FIFA World Cup Group 1|transcludesection=1-6}}
+
+===Group 2===
+{{main|1970 FIFA World Cup Group 2}}
+{{:1970 FIFA World Cup Group 2|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1970 FIFA World Cup Group 2|transcludesection=2-1}}
+{{:1970 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1970 FIFA World Cup Group 2|transcludesection=2-3}}
+{{:1970 FIFA World Cup Group 2|transcludesection=2-4}}
+----
+{{:1970 FIFA World Cup Group 2|transcludesection=2-5}}
+{{:1970 FIFA World Cup Group 2|transcludesection=2-6}}
+
+===Group 3===
+{{main|1970 FIFA World Cup Group 3}}
+[[File:Brasil vs Rumania 1970.jpg|thumb|right|[[Fontana (footballer)|Fontana]] (yellow 15) and [[Everaldo (footballer, born 1944)|Everaldo]] (yellow 16) of Brazil playing against [[Nicolae Lupescu]] (white 3) and [[Alexandru Neagu]] (white 16) of Romania.]]
+{{:1970 FIFA World Cup Group 3|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1970 FIFA World Cup Group 3|transcludesection=3-1}}
+{{:1970 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1970 FIFA World Cup Group 3|transcludesection=3-3}}
+{{:1970 FIFA World Cup Group 3|transcludesection=3-4}}
+----
+{{:1970 FIFA World Cup Group 3|transcludesection=3-5}}
+{{:1970 FIFA World Cup Group 3|transcludesection=3-6}}
+
+===Group 4===
+{{main|1970 FIFA World Cup Group 4}}
+{{:1970 FIFA World Cup Group 4|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1970 FIFA World Cup Group 4|transcludesection=4-1}}
+{{:1970 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1970 FIFA World Cup Group 4|transcludesection=4-3}}
+{{:1970 FIFA World Cup Group 4|transcludesection=4-4}}
+----
+{{:1970 FIFA World Cup Group 4|transcludesection=4-5}}
+{{:1970 FIFA World Cup Group 4|transcludesection=4-6}}
+
+==Knockout stage==
+{{main|1970 FIFA World Cup knockout stage}}
+The eight teams that had advanced from the group stage entered a [[Single-elimination tournament|single-elimination]] style tournament, which also featured a match for third place contested between the two losing semi-finalists. In this knockout stage (including the final), if a match was level at the end of 90 minutes, [[Extra time#Association football|extra time]] of two periods (15 minutes each) would be played. In matches prior to the final, if the score was still level after extra time then a coin toss by the referee would determine the winner. If the final was still level after 120 minutes' play then the match would instead be [[Replay (sports)|replayed]] at a later date.
+
+===Bracket===
+{{#lst:1970 FIFA World Cup knockout stage|Bracket}}
+
+''All times listed local ([[Central Time Zone|UTC−6]])''
+
+===Quarter-finals===
+{{#lst:1970 FIFA World Cup knockout stage|QF1}}
+----
+{{#lst:1970 FIFA World Cup knockout stage|QF2}}
+----
+{{#lst:1970 FIFA World Cup knockout stage|QF3}}
+----
+{{#lst:1970 FIFA World Cup knockout stage|QF4}}
+
+===Semi-finals===
+{{#lst:1970 FIFA World Cup knockout stage|SF1}}
+----
+{{main|Italy v West Germany (1970 FIFA World Cup)}}
+{{#lst:1970 FIFA World Cup knockout stage|SF2}}
+
+===Match for third place===
+{{#lst:1970 FIFA World Cup knockout stage|3rd}}
+
+===Final===
+{{main|1970 FIFA World Cup final}}
+{{#lst:1970 FIFA World Cup final|Final}}
+
+==Statistics==
+
+===Goalscorers===
+With 10 goals, [[Gerd Müller]] was the top scorer in the tournament. In total, 95 goals were scored by 55 players, with only one of them credited as own goal.
+
+'''10 goals'''
+* {{flagicon|FRG}} [[Gerd Müller]]
+
+'''7 goals'''
+* {{flagicon|BRA|1968}} [[Jairzinho]]
+
+'''5 goals'''
+* {{flagicon|PER|state}} [[Teófilo Cubillas]]
+
+'''4 goals'''
+* {{flagicon|BRA|1968}} [[Pelé]]
+* {{flagicon|URS|1955}} [[Anatoliy Byshovets]]
+
+'''3 goals'''
+* {{flagicon|BRA|1968}} [[Rivellino]]
+* {{flagicon|ITA|1946}} [[Gigi Riva]]
+* {{flagicon|FRG}} [[Uwe Seeler]]
+
+'''2 goals'''
+{{div col|colwidth=20em}}
+* {{flagicon|BEL}} [[Raoul Lambert]]
+* {{flagicon|BEL}} [[Wilfried Van Moer]]
+* {{flagicon|BRA|1968}} [[Tostão]]
+* {{flagicon|TCH}} [[Ladislav Petráš]]
+* {{flagicon|ITA|1946}} [[Roberto Boninsegna]]
+* {{flagicon|ITA|1946}} [[Gianni Rivera]]
+* {{flagicon|MEX}} [[Javier Valdivia]]
+* {{flagicon|PER|state}} [[Alberto Gallardo]]
+* {{flagicon|ROU|1965}} [[Florea Dumitrache]]
+{{div col end}}
+
+'''1 goal'''
+{{div col|colwidth=20em}}
+* {{flagicon|BRA|1968}} [[Carlos Alberto Torres|Carlos Alberto]]
+* {{flagicon|BRA|1968}} [[Clodoaldo]]
+* {{flagicon|BRA|1968}} [[Gérson]]
+* {{flagicon|BUL|1968}} [[Hristo Bonev]]
+* {{flagicon|BUL|1968}} [[Dinko Dermendzhiev]]
+* {{flagicon|BUL|1968}} [[Todor Kolev (footballer, born 1942)|Todor Kolev]]
+* {{flagicon|BUL|1968}} [[Asparuh Nikodimov]]
+* {{flagicon|BUL|1968}} [[Dobromir Zhechev]]
+* {{flagicon|ENG}} [[Allan Clarke (footballer)|Allan Clarke]]
+* {{flagicon|ENG}} [[Geoff Hurst]]
+* {{flagicon|ENG}} [[Alan Mullery]]
+* {{flagicon|ENG}} [[Martin Peters]]
+* {{flagicon|ISR}} [[Mordechai Spiegler]]
+* {{flagicon|ITA|1946}} [[Tarcisio Burgnich]]
+* {{flagicon|ITA|1946}} [[Angelo Domenghini]]
+* {{flagicon|MAR}} [[Maouhoub Ghazouani]]
+* {{flagicon|MAR}} [[Houmane Jarir]]
+* {{flagicon|MEX}} [[Juan Ignacio Basaguren]]
+* {{flagicon|MEX}} [[Javier Fragoso]]
+* {{flagicon|MEX}} [[José Luis González Dávila|José Luis González]]
+* {{flagicon|MEX}} [[Gustavo Peña]]
+* {{flagicon|PER|state}} [[Roberto Challe]]
+* {{flagicon|PER|state}} [[Héctor Chumpitaz]]
+* {{flagicon|ROU|1965}} [[Emerich Dembrovschi]]
+* {{flagicon|ROU|1965}} [[Alexandru Neagu]]
+* {{flagicon|URS|1955}} [[Kakhi Asatiani]]
+* {{flagicon|URS|1955}} [[Vitaliy Khmelnytskyi]]
+* {{flagicon|SWE}} [[Ove Grahn]]
+* {{flagicon|SWE}} [[Tom Turesson]]
+* {{flagicon|URU}} [[Luis Cubilla]]
+* {{flagicon|URU}} [[Víctor Espárrago]]
+* {{flagicon|URU}} [[Ildo Maneiro]]
+* {{flagicon|URU}} [[Juan Mujica]]
+* {{flagicon|FRG}} [[Franz Beckenbauer]]
+* {{flagicon|FRG}} [[Reinhard Libuda]]
+* {{flagicon|FRG}} [[Wolfgang Overath]]
+* {{flagicon|FRG}} [[Karl-Heinz Schnellinger]]
+{{div col end}}
+
+'''1 own goal'''
+* {{flagicon|MEX}} [[Javier Guzmán]] (playing against [[Italy national football team|Italy]])
+
+===Awards===
+* [[FIFA World Cup awards#Golden Boot|Golden Boot]]: {{flagicon|GER}} [[Gerd Müller]] ([[Germany national football team|West Germany]])<ref name="Stat Kit"/>
+* [[FIFA World Cup awards#FIFA Young Player Award|Best Young Player]] (awarded retrospectively): {{flagicon|PER|state}} [[Teófilo Cubillas]] ([[Peru national football team|Peru]])<ref>{{cite web|title=1970 FIFA World Cup Mexico |url=https://www.fifa.com/worldcup/archive/edition=32/awards/index.html |archive-url=https://web.archive.org/web/20131210140638/http://www.fifa.com/worldcup/archive/edition%3D32/awards/index.html |archive-date=10 December 2013 |publisher=FIFA |url-status=dead}}</ref>
+* [[FIFA World Cup awards#FIFA Fair Play Trophy|FIFA Fair Play Trophy]]: {{flagicon|PER|state}} [[Peru national football team|Peru]]<ref name="Stat Kit"/>
+
+==FIFA retrospective ranking==
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref name="Stat Kit" /><ref name=fifa1986>{{cite web |url=https://digitalhub.fifa.com/m/2bb4308f4d418319/original/pfnhnhmqhdwqvp62pm27-pdf.pdf |title=Permanent Table |page=230 |access-date=25 December 2020 |archive-url=https://web.archive.org/web/20210806171540/https://digitalhub.fifa.com/m/2bb4308f4d418319/original/pfnhnhmqhdwqvp62pm27-pdf.pdf |archive-date=6 August 2021 |url-status=live}}</ref> The rankings for the 1970 tournament were as follows:
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals for}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal difference}}
+!width=25| {{abbr|Pts.|Points}}
+|- style="background:gold"
+| 1 ||style="text-align:left"| {{fb|BRA|1968}} || [[1970 FIFA World Cup Group 3|3]] || 6 || 6 || 0 || 0 || 19 || 7 || +12 || 12
+|- style="background:silver"
+| 2 ||style="text-align:left"| {{fb|ITA|1946}} || [[1970 FIFA World Cup Group 2|2]] || 6 || 3 || 2 || 1 || 10 || 8 || +2 || 8
+|- style="background:#c96"
+| 3 ||style="text-align:left"| {{fb|FRG}} || [[1970 FIFA World Cup Group 4|4]] || 6 || 5 || 0 || 1 || 17 || 10 || +7 || 10
+|-
+| 4 ||style="text-align:left"| {{fb|URU}} || [[1970 FIFA World Cup Group 2|2]] || 6 || 2 || 1 || 3 || 4 || 5 || −1 || 5
+|-
+! colspan="11"| Eliminated in the quarter-finals
+|-
+| 5 ||style="text-align:left"| {{fb|URS|1955}} || [[1970 FIFA World Cup Group 1|1]] || 4 || 2 || 1 || 1 || 6 || 2 || +4 || 5
+|-
+| 6 ||style="text-align:left"| {{fb|MEX}} || [[1970 FIFA World Cup Group 1|1]] || 4 || 2 || 1 || 1 || 6 || 4 || +2 || 5
+|-
+| 7 ||style="text-align:left"| {{fb|PER|state}} || [[1970 FIFA World Cup Group 4|4]] || 4 || 2 || 0 || 2 || 9 || 9 || 0 || 4
+|-
+| 8 ||style="text-align:left"| {{fb|ENG}} || [[1970 FIFA World Cup Group 3|3]] || 4 || 2 || 0 || 2 || 4 || 4 || 0 || 4
+|-
+! colspan="11"| Eliminated in the group stage
+|-
+| 9 ||style="text-align:left"| {{fb|SWE}} || [[1970 FIFA World Cup Group 2|2]] || 3 || 1 || 1 || 1 || 2 || 2 || 0 || 3
+|-
+| rowspan="2" | 10 ||style="text-align:left"| {{fb|BEL}} || [[1970 FIFA World Cup Group 1|1]] || 3 || 1 || 0 || 2 || 4 || 5 || −1 || 2
+|-
+|style="text-align:left"| {{fb|ROU|1965}} || [[1970 FIFA World Cup Group 3|3]] || 3 || 1 || 0 || 2 || 4 || 5 || −1 || 2
+|-
+| 12 ||style="text-align:left"| {{fb|ISR}}* || [[1970 FIFA World Cup Group 2|2]] || 3 || 0 || 2 || 1 || 1 || 3 || −2 || 2
+|-
+| 13 ||style="text-align:left"| {{fb|BUL|1968}}** || [[1970 FIFA World Cup Group 4|4]] || 3 || 0 || 1 || 2 || 5 || 9 || −4 || 1
+|-
+| 14 ||style="text-align:left"| {{fb|MAR}} || [[1970 FIFA World Cup Group 4|4]] || 3 || 0 || 1 || 2 || 2 || 6 || −4 || 1
+|-
+| 15 ||style="text-align:left"| {{fb|TCH}} || [[1970 FIFA World Cup Group 3|3]] || 3 || 0 || 0 || 3 || 2 || 7 || −5 || 0
+|-
+| 16 ||style="text-align:left"| {{fb|SLV}} || [[1970 FIFA World Cup Group 1|1]] || 3 || 0 || 0 || 3 || 0 || 9 || −9 || 0
+|}
+
+<nowiki>*</nowiki> Listed as #13 in one of the sources<ref name=fifa1986 /><br />
+<nowiki>**</nowiki> Listed as #12 in one of the sources<ref name=fifa1986 />
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1970|1970 FIFA World Cup}}
+*[https://web.archive.org/web/20150208110505/http://www.fifa.com/worldcup/archive/mexico1970/index.html 1970 FIFA World Cup Mexico], FIFA.com
+*[https://web.archive.org/web/20160701154217/http://www.rsssf.com/tables/70full.html Details at RSSSF]
+*[https://digitalhub.fifa.com/m/f92cb161c61b1d7/original/awx4libq9t7u5lxuhlqy-pdf.pdf FIFA Technical Report]
+
+{{Portal bar|1970s|Association football|Mexico}}
+{{1970 FIFA World Cup}}
+{{1970 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1970 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1970]]
+[[Category:1970 in men's international association football|World Cup]]
+[[Category:1969–70 in Mexican football]]
+[[Category:Men's international association football competitions hosted by Mexico|1970]]
+[[Category:May 1970 sports events in North America]]
+[[Category:June 1970 sports events in North America]]
+[[Category:May 1970 in Mexico]]
+[[Category:June 1970 in Mexico]]

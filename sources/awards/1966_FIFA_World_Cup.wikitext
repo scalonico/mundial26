@@ -1,0 +1,562 @@
+{{short description|Association football tournament in England}}
+{{Use British English|date=March 2022}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox international football competition
+| tourney_name = FIFA World Cup
+| other_titles = World Championship Jules Rimet Cup England 1966
+| year = 1966
+| image = 1966 FIFA World Cup.png
+| size = 
+| country = [[England]]
+| dates = 11–30 July
+| confederations = 4
+| num_teams = 16
+| venues = 8
+| cities = 7
+| champion = England
+| count = 1
+| second = West Germany
+| third = Portugal
+| fourth = Soviet Union
+| fourth-flagvar = 1955
+| matches = 32
+| goals = 89
+| attendance = {{#invoke:Football attendance summation|main|groups=1-4}}
+| top_scorer = {{fbicon|POR}} [[Eusébio]] (9 goals)
+| prevseason = [[1962 FIFA World Cup|1962]]
+| nextseason = [[1970 FIFA World Cup|1970]]
+}}
+
+The '''1966 FIFA World Cup''' was the eighth [[FIFA World Cup]], the quadrennial [[Association football|football]] tournament for senior national teams. It was played in [[England]] from 11 to 30 July 1966. England defeated West Germany 4–2 in the [[1966 FIFA World Cup final|final]] to win their first, and so far only, World Cup title. The final was level at 2–2 after 90 minutes and went into [[Overtime (sports)#Association football|extra time]], during which [[Geoff Hurst]] scored two goals to complete his [[hat-trick]], the first to be scored in a World Cup final. Portuguese striker [[Eusébio]] was the tournament's top scorer with nine goals, earning him the [[FIFA World Cup Golden Boot|golden boot]] award with three goals more than second placed [[Helmut Haller]]. It was the first World Cup held in the [[English-speaking world]].
+
+England were the fifth nation to win the event, and the third host nation to win after [[Uruguay national football team|Uruguay]] in [[1930 FIFA World Cup|1930]] and [[Italy national football team|Italy]] in [[1934 FIFA World Cup|1934]]. Reigning world champions [[Brazil national football team|Brazil]] failed to get past the group stages as they were defeated by Hungary and Portugal. It was the second time that defending champions were eliminated in the group stages after Italy in [[1950 FIFA World Cup|1950]]. This would not occur again until [[2002 FIFA World Cup#Group A|36 years later]]. The two debut teams performed well at the competition – [[North Korea national football team|North Korea]] beat Italy 1–0 on the way to reaching the quarter-finals, where they lost to [[Portugal national football team|Portugal]] 5–3 after leading 3–0. Portugal themselves finished third, beating the Soviet Union 2–1 in the bronze-match.
+
+During the qualifying games, FIFA, citing logistic and competitive reasons, announced that there would be no direct qualifying place for an African team: all 15 African nations who had entered immediately [[boycott]]ed the competition in protest.
+
+Matches were played at eight stadiums across England, foremost [[Wembley Stadium (1923)|Wembley Stadium]], which had a capacity of 98,600. It was at Wembley that England played all its matches; that the tournament was opened by [[Monarchy of the United Kingdom|Queen]] [[Elizabeth II]];<ref>{{Cite web|url=https://www.fifa.com/about-fifa/president/news/football-mourns-the-loss-of-her-majesty-queen-elizabeth-ii|title=Football mourns the loss of Her Majesty Queen Elizabeth II|website=FIFA|date=8 September 2022|access-date=14 March 2024|archive-date=14 March 2024|archive-url=https://web.archive.org/web/20240314213039/https://www.fifa.com/about-fifa/president/news/football-mourns-the-loss-of-her-majesty-queen-elizabeth-ii|url-status=live}}</ref> and where the final was played.
+
+Prior to the tournament, the [[FIFA World Cup Trophy#Jules Rimet Trophy|Jules Rimet trophy]] was [[1966 theft of the Jules Rimet Trophy|stolen]], but was recovered by a dog named [[Pickles (dog)|Pickles]] four months before the tournament began. It was the first World Cup to have selected matches broadcast via [[Communications satellite|satellite]] to countries on other continents.<ref>{{cite web |title=World Cup 1966 |url=http://carousel.royalwebhosting.net/itv/ITVints.html?19660700 |website=ITV Football 1955-1968 |access-date=30 July 2024 |archive-date=30 July 2024 |archive-url=https://web.archive.org/web/20240730084132/http://carousel.royalwebhosting.net/itv/ITVints.html?19660700 |url-status=dead }}</ref> The final, which was broadcast locally by the [[BBC]], was the last to be shown entirely in [[black and white]]. This was also the only World Cup in history that did not have matches on Sundays, owing to [[Anglicanism|religious laws]] at the time, which were repealed ten years later in 1976.
+
+==Background==
+{{main|FIFA World Cup hosts}}
+In Rome, Italy on 22 August 1960, England was chosen as host nation for the 1966 World Cup over rival bids from West Germany and Spain. It was the first tournament to be held in a country that was affected directly by World War II, as the four previous tournaments were held either in countries out of war theatres or in neutral countries.<ref name="mirr_9sur">{{Cite web |title=9 surprising facts about the 1966 World Cup in England |last=Belam |first=Martin |work=The Mirror |date=28 July 2016 |access-date=25 September 2019 |url=https://www.mirror.co.uk/sport/row-zed/9-surprising-facts-1966-world-3639077 |archive-date=25 September 2019 |archive-url=https://web.archive.org/web/20190925071730/https://www.mirror.co.uk/sport/row-zed/9-surprising-facts-1966-world-3639077 |url-status=live }}</ref><ref name="curr_196">{{Cite web |title="1966 and all that..." - Contrasting England's 1966 and 2018 World Cup bids |work=currybetdotnet |access-date=25 September 2019 |url=http://www.currybet.net/cbet_blog/2009/11/1966-and-all-that---contrastin.php |archive-date=27 November 2019 |archive-url=https://web.archive.org/web/20191127200733/http://www.currybet.net/cbet_blog/2009/11/1966-and-all-that---contrastin.php |url-status=live }}</ref>{{better source needed|date=July 2024}}
+
+===Qualification===
+{{Main|1966 FIFA World Cup qualification}}
+
+Despite the Africans' absence, there was another new record number of entries for the qualifying tournament, with 70 nations taking part. FIFA determined that ten teams from Europe would qualify, along with four from South America, one from Asia and one from North and Central America.<ref name=":1">{{Cite web|url=http://es.fifa.com/mm/document/fifafacts/mcwc/fifaworldcuppreliminaryhistory_byyear__13876.pdf|archive-url=https://web.archive.org/web/20110717045303/http://es.fifa.com/mm/document/fifafacts/mcwc/fifaworldcuppreliminaryhistory_byyear__13876.pdf|url-status=dead|archive-date=17 July 2011|title=History of the FIFA World Cup Preliminary Competition (by year)|date=27 July 2007|website=FIFA.com|access-date=9 October 2017}}</ref>
+
+Portugal and North Korea qualified for the first time.<ref name=":1"/><ref>{{Cite web|url=https://scoreshelf.com/dvcb/en/World_Cup/1966/UEFA|title=UEFA Qualifiers for the World Cup 1966|website=Score Shelf|archive-url=https://web.archive.org/web/20160818164407/https://scoreshelf.com/dvcb/en/World_Cup/1966/UEFA|archive-date=18 August 2016|access-date=9 October 2017}}</ref>
+
+===Qualified teams===
+The following 16 teams qualified for the final tournament.<ref name=":1"/>
+{{col-begin}}
+{{col-4}}
+'''[[1966 FIFA World Cup qualification (Africa, Asia and Oceania)|AFC]] (1)'''
+*{{fb|PRK|1948}} (debut)
+'''[[1966 FIFA World Cup qualification (Africa, Asia and Oceania)|CAF]] (0)'''
+*''None participated''
+'''[[1966 FIFA World Cup qualification (Africa, Asia and Oceania)|OFC]] (0)'''
+*''None qualified''
+{{col-4}}
+'''[[1966 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (1)'''
+*{{fb|MEX|1934}}
+'''[[1966 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (4)'''
+* {{fb|ARG|1861}}
+* {{fb|BRA|1960}} (holders)
+* {{fb|CHI}}
+* {{fb|URU}}
+{{col-4}}
+'''[[1966 FIFA World Cup qualification (UEFA)|UEFA]] (10)'''
+* {{fb|BUL|1948}}
+* {{fb|ENG}}&nbsp;(hosts)
+* {{fb|FRA|1830}}
+* {{fb|HUN|1957}}
+* {{fb|ITA|1946}}
+* {{fb|POR}} (debut)
+* {{fb|URS|1955}}
+* {{fb|ESP|1945}}
+* {{fb|SUI}}
+* {{fb|FRG}}
+{{col-4}}
+{{multiple image
+| align = right
+| direction = 
+| width = 
+| header = Qualification for 1966 FIFA World Cup
+| image1 = 1966 world cup qualification.png
+| width1 = 400
+| alt1 = World map with result of qualifications for the 1966 FIFA World Cup
+| caption1 = {{legend|#000cff|FIFA members qualified for World Cup (including colonies)}} {{legend|#ffb400|FIFA members that failed to qualify}} {{legend|black|FIFA members that did not enter World Cup}}
+{{legend|#ababab|Countries not members of FIFA in 1966}}
+| image2 = 
+| caption2 = 
+}}
+{{col-end}}
+
+===Mascot and match ball===
+[[File:Challenge 4-star-1966.jpg|thumb|upright|Official match ball for the 1966 FIFA World Cup produced by [[Slazenger]]]]
+The [[mascot]] for the 1966 competition was "[[World Cup Willie]]", a cartoon lion wearing a [[Union Jack]] jersey emblazoned with the words "WORLD CUP". This was the first World Cup mascot, and one of the first mascots to be associated with a major sporting competition. Willie was designed by freelance children's book illustrator Reg Hoye.<ref>{{cite web |last=Kasprzak |first=Emma |url=https://www.bbc.co.uk/news/uk-england-18430665 |title=World Cup Willie's sporting mascot legacy |website=BBC News |date=15 June 2012 |access-date=17 June 2014 |archive-date=9 November 2018 |archive-url=https://web.archive.org/web/20181109150119/https://www.bbc.co.uk/news/uk-england-18430665 |url-status=live }}</ref><ref>{{cite web |url=http://www.footballandmusic.co.uk/world-cup-willie/ |title=World Cup Willie |publisher=footballandmusic.co.uk |date=2007–2014 |access-date=17 June 2014 |archive-date=11 June 2014 |archive-url=https://web.archive.org/web/20140611063446/http://www.footballandmusic.co.uk/world-cup-willie/ |url-status=live }}</ref> The [[List of FIFA World Cup official match balls|official match ball]] was produced by [[Slazenger]] for the tournament.<ref>{{cite web|url=http://footballs.fifa.com/Football-Facts/FIFA-World-Cup-Footballs|title=The Footballs during the FIFA World Cup|work=Football Facts|publisher=[[FIFA]]|access-date=6 July 2018|archive-url=https://web.archive.org/web/20131128080230/http://footballs.fifa.com/Football-Facts/FIFA-World-Cup-Footballs|archive-date=28 November 2013|url-status=dead|df=dmy-all}}</ref>
+
+===Controversies===
+====African boycott====
+All fifteen entered African nations boycotted the tournament to protest against a 1964 FIFA ruling that required the three second-round winners from the African zone to enter a play-off round against the winners of the Asian zone in order to qualify for the World Cup: they considered winning their zone was enough in itself to merit qualification.
+
+The [[Confederation of African Football]] (CAF) considered that the lack of direct representation of African nations in the World Cup was unfair, and demanded that FIFA guarantee at least one African nation a place in the finals of the following tournament. They also protested against the readmission of [[South Africa national football team|South Africa]] to FIFA in 1963, despite their expulsion from CAF because of the country's [[apartheid]] regime in 1958.<ref name=BBCBoycott/><ref name="pund_This">{{Cite web |title=This Time for Africa: The 1966 World Cup Boycott |work=Pundit Arena |date=10 June 2014 |access-date=25 September 2019 |url=https://punditarena.com/uncategorized/thepateam/time-africa-1966-world-cup-boycott/ }}</ref>
+
+As a result of this boycott, FIFA fined CAF 5,000 Swiss francs. Yidnekatchew Tessema, then president of the CAF, responded to this punishment by saying, "FIFA has adopted a relentless attitude against the African Associations and its decisions resemble methods of intimidation and repression designed to discourage any further impulses of a similar nature. In our opinion, the African National Associations&nbsp;... really deserved a gesture of respect rather than a fine."<ref>{{cite book |chapter=Chapter Four: Nationhood, Pan-Africanism, and Football after Independence; African Football Arrives on the World Stage |title=African Soccerscapes: How a Continent Changed the World's Game |first=Peter |last=Alegi |publisher=Ohio University Press |year=2010 |page=75 }}</ref>
+
+South Africa was subsequently assigned to the Asia and Oceania qualifying group, before being disqualified after being suspended again due to pressure from other African nations in October 1964.<ref name="twoh_Worl"/> Despite this, FIFA refused to change the qualifying format, citing competitive and logistical issues, and the African teams withdrew in protest.
+
+CAF subsequently informed FIFA that they would refuse to participate in World Cup qualifying for the [[1970 FIFA World Cup|1970]] tournament unless at least one African team had an automatic place assured in the World Cup: this was put in place for the 1970 FIFA World Cup, and all subsequent World Cup finals.<ref name=BBCBoycott>{{cite news |url=https://www.bbc.co.uk/news/world-africa-36763036 |title=Why Africa boycotted the 1966 World Cup |website=BBC News |date=12 July 2016 |archive-date=15 September 2019 |access-date=11 September 2019 |archive-url=https://web.archive.org/web/20190915183647/https://www.bbc.co.uk/news/world-africa-36763036 |url-status=live }}</ref> Players from the [[Portuguese Empire|Portuguese African]] colonies of [[Portuguese Angola|Angola]] and [[Portuguese Mozambique|Mozambique]] participated for Portugal.<ref name=BBCBoycott/><ref name="twoh_Worl">{{Cite web |title=World Cup Tales: Boycott! When Africa & Asia Said 'Enough', 1966 |work=twohundredpercent.net |access-date=25 September 2019 |url=http://twohundredpercent.net/world-cup-tales-boycott-when-africa-asia-said-enough-1966/ |archive-date=25 July 2020 |archive-url=https://web.archive.org/web/20200725010619/https://twohundredpercent.net/world-cup-tales-boycott-when-africa-asia-said-enough-1966/ |url-status=dead }}</ref>{{better source needed|date=July 2024}}
+
+====North Korea–United Kingdom relations====
+The United Kingdom, which had fought for South Korea in the [[Korean War]], was concerned over the entry of North Korea in the tournament. The [[North Korea–United Kingdom relations|UK did not recognise North Korea]] and feared that its presence would strain relations with South Korea and the United States. FIFA told England's Football Association that the tournament would be moved if any qualified team were to be refused entry.<ref name=nk1>{{cite news |title=World Cup fears over North Korea in 1966 |url=https://www.bbc.co.uk/news/10305374 |access-date=27 July 2023 |work=BBC News |date=13 June 2010 |archive-date=29 August 2019 |archive-url=https://web.archive.org/web/20190829140041/https://www.bbc.co.uk/news/10305374 |url-status=live }}</ref><ref name=nk2>{{cite news |last1=Southern |first1=James |title=They Think it's all Diplomacy: North Korea, the Foreign Office and the 1966 World Cup |url=https://history.blog.gov.uk/2016/07/29/they-think-its-all-diplomacy-north-korea-the-foreign-office-and-the-1966-world-cup/ |access-date=27 July 2023 |work=gov.uk |date=29 July 2016 |archive-date=27 July 2023 |archive-url=https://web.archive.org/web/20230727110204/https://history.blog.gov.uk/2016/07/29/they-think-its-all-diplomacy-north-korea-the-foreign-office-and-the-1966-world-cup/ |url-status=live }}</ref>
+
+On the suggestion of the British [[Foreign Office]], the playing of national anthems, and meetings between players and state figures such as Queen [[Elizabeth II]], would take place in only two games: the opening game and the final. North Korea was not scheduled for the former, and was considered unlikely to reach the latter. A Foreign Office suggestion for flags outside stadiums to be removed after each team's elimination, in the expectation of an early North Korean exit, was vetoed by the [[Department for Education|Department of Education and Science]].<ref name=nk1/><ref name=nk2/>
+
+====Trophy incident ====
+The 1966 World Cup had a rather unusual hero off the field, a dog called [[Pickles (dog)|Pickles]].<ref>{{cite news |url=https://news.bbc.co.uk/onthisday/hi/dates/stories/march/20/newsid_2861000/2861545.stm |title=1966: Football's World Cup stolen |date=20 March 1966 |publisher=BBC |access-date=14 July 2021 |archive-date=17 June 2021 |archive-url=https://web.archive.org/web/20210617004721/http://news.bbc.co.uk/onthisday/hi/dates/stories/march/20/newsid_2861000/2861545.stm |url-status=live }}</ref> In the build-up to the tournament, the [[1966 theft of the Jules Rimet Trophy|Jules Rimet trophy was stolen]] from an exhibition display. A nationwide hunt for the icon ensued. It was discovered wrapped in newspaper as the dog sniffed under bushes in a London garden.<ref>[[The Sunday Times]] ''Illustrated History of Football'' Reed International Books Limited. 1996. p.133 {{ISBN|1-85613-341-9}}</ref> The FA commissioned a replica cup in case the original cup was not found in time. This replica, as well as Pickles' collar, is held at the [[National Football Museum]] in Manchester, where it is on display.<ref>{{cite book |last=Atherton |first=Martin |year=2008 |title=The Theft of the Jules Rimet Trophy: The Hidden History of the 1966 World Cup |publisher=Meyer & Meyer Verlag |page=93 |isbn=9781841262277 |access-date=15 September 2010 |url=https://books.google.com/books?id=m7SbwNM4Y0sC&q=National+Football+Museum+1966+fifa+world+cup+replica&pg=PA93 |via=Google Books }}</ref>
+
+====Doping====
+[[West Germany]] encouraged and covered up a culture of doping across many sports for decades.<ref>{{cite news |title=Report exposes decades of West German doping |url=https://www.france24.com/en/20130805-doping-rife-among-west-german-athletes-decades-says-report |work=France 24 |date=5 August 2013 |archive-date=5 December 2020 |access-date=20 June 2025 |archive-url=https://web.archive.org/web/20201205174311/https://www.france24.com/en/20130805-doping-rife-among-west-german-athletes-decades-says-report |url-status=live }}</ref> A 2013 report by researchers at Berlin's Humboldt University on behalf of the German Olympic Sports Confederation, titled "Doping in Germany from 1950 to today", linked the West Germany national team of 1966, which reached the World Cup final, with doping.<ref>{{cite news |title=Report: West Germany systematically doped athletes |url=https://eu.usatoday.com/story/sports/olympics/2013/08/03/report-west-germany-systematically-doped-athletes-olympics/2615323/ |work=USA Today |date=3 August 2013 |archive-date=11 July 2021 |access-date=20 June 2025 |archive-url=https://web.archive.org/web/20210711082819/https://eu.usatoday.com/story/sports/olympics/2013/08/03/report-west-germany-systematically-doped-athletes-olympics/2615323/ |url-status=live }}</ref>
+
+====Officiating issues and subsequent reforms====
+While refereeing controversies are common in World Cup history, the 1966 tournament stands out because of the structural reforms it provoked. A series of violent matches and contentious dismissals led FIFA to introduce major changes to the Laws of the Game in the following tournament.<ref name=CardsInspiration>{{Cite web |title=1966 World Cup: Gripping tales and inspirational traffic lights |work=FIFA |date=25 July 2016 |access-date=18 July 2025 |url=https://inside.fifa.com/tournaments/mens/worldcup/1966england/news/1966-world-cup-gripping-tales-and-inspirational-traffic-lights-2812820 |archive-date=16 August 2025 |archive-url=https://web.archive.org/web/20250816225039/https://inside.fifa.com/tournaments/mens/worldcup/1966england/news/1966-world-cup-gripping-tales-and-inspirational-traffic-lights-2812820 |url-status=live }}</ref>
+
+The tournament was marked by persistently rough play and inconsistent officiating. In their opening match, Brazilian star [[Pelé]] was repeatedly fouled and left the pitch injured after a strong tackle to the knee, forcing him to miss the subsequent match against Hungary.<ref name=PeleInjury1>{{Cite web |title=Why not everyone remembers the 1966 World Cup as fondly as England |work=The Guardian |date=24 July 2016 |access-date=18 July 2025 |url=https://www.theguardian.com/football/blog/2016/jul/24/1966-world-cup-final-conspiracy-refereeing-50-years |archive-date=8 November 2022 |archive-url=https://web.archive.org/web/20221108081642/https://www.theguardian.com/football/blog/2016/jul/24/1966-world-cup-final-conspiracy-refereeing-50-years |url-status=live }}</ref> Upon returning for the final group stage clash with Portugal, Pelé suffered two heavy challenges from Portuguese defenders, most notably [[João Morais]], that ended his tournament. Pelé departed on a stretcher, and Brazil exited the competition 3–1.<ref name=PeleInjury1/><ref name=PeleInjury3>{{Cite web |title=Pele and 1970: How the greatest player of all time cemented his legend |work=BBC |date=31 October 2022 |access-date=18 July 2025 |url=https://www.bbc.com/sport/football/62712350 |archive-date=1 November 2022 |archive-url=https://web.archive.org/web/20221101030822/https://www.bbc.com/sport/football/62712350 |url-status=live }}</ref> Morais was allowed to remain on the pitch. No players were sent off in any of those games.<ref name="WorldCupsCards">{{Cite web |title=Cards by Player in the 1966 Soccer World Cup |work=thesoccerworldcups.com |access-date=18 July 2025 |url=https://www.thesoccerworldcups.com/world_cups/1966_cards.php |archive-date=23 June 2025 |archive-url=https://web.archive.org/web/20250623003758/https://www.thesoccerworldcups.com/world_cups/1966_cards.php |url-status=live }}</ref>
+
+Further tension unfolded in the quarter-final between England and Argentina, when captain [[Antonio Rattín]] was controversially sent off by referee [[Rudolf Kreitlein]] for alleged "violence of the tongue." Rattín's refusal to immediately exit the field prompted a delay and police intervention, fuelling accusations of arbitrary officiating.<ref name=GuardianRattin>{{Cite web |title=The Joy of Six: World Cup refereeing controversies |work=The Guardian |date=2 July 2010 |access-date=18 July 2025 |url=https://www.theguardian.com/sport/blog/2010/jul/02/joy-six-world-cup-refereeing-controversies }}</ref> In another quarter-final between West Germany and Uruguay, shortly after halftime, Uruguayan players [[Horacio Troche]] and [[Héctor Silva (Uruguayan footballer)|Héctor Silva]] were both dismissed by English referee [[Jim Finney]]. Uruguay conceded 3 goals when reduced to nine men<ref name="GermanyUruguay">{{Cite web |title=West Germany vs Uruguay |work=planetworldcup.com |access-date=18 July 2025 |url=https://www.planetworldcup.com/CUPS/1966/qf_ger_v_uru.html |archive-date=15 August 2025 |archive-url=https://web.archive.org/web/20250815114408/https://www.planetworldcup.com/CUPS/1966/qf_ger_v_uru.html |url-status=live }}</ref> and South American media decried a pattern of European referee bias.<ref name=Newyorker>{{Cite magazine |title=The World Cup |magazine=The New Yorker |date=2 September 1966 |access-date=18 July 2025 |url=https://www.newyorker.com/magazine/1966/09/10/the-world-cup |archive-date=9 July 2025 |archive-url=https://web.archive.org/web/20250709084413/https://www.newyorker.com/magazine/1966/09/10/the-world-cup |url-status=live }}</ref>
+
+In light of these high-profile incidents, FIFA recognised the need for clearer disciplinary procedures and greater consistency in officiating. Ahead of the 1970 World Cup, the yellow and red card system was introduced, alongside the allowance of two substitutions per team and new efforts to standardise referee training and interpretations of the Laws of the Game.<ref name=Alkass>{{Cite web |title=Events Changed the Rules of Football |work=alkassenglish.net |date=15 November 2022 |access-date=18 July 2025 |url=https://www.alkassenglish.net/NewsDetails-11784-Events-Changed-the-Rules-of-Football |archive-date=19 November 2025 |archive-url=https://web.archive.org/web/20251119150215/https://www.alkassenglish.net/NewsDetails-11784-Events-Changed-the-Rules-of-Football |url-status=live }}</ref><ref name=PremierFootballUK>{{Cite web |title=3 Ways the 1970 World Cup changed football |work=premierfootballuk.com |date=15 November 2022 |access-date=18 July 2025 |url=https://premierfootballuk.com/3-ways-the-1970-world-cup-changed-football/ |archive-date=19 July 2025 |archive-url=https://web.archive.org/web/20250719085649/https://premierfootballuk.com/3-ways-the-1970-world-cup-changed-football/ |url-status=live }}</ref>
+
+====Later accusations of matchfixing====
+In 2008, Brazilian FIFA president from 1974 until 1998, [[João Havelange]], accused this competition, along with the [[1974 FIFA World Cup]] in West Germany for being fixed to benefit the host country. According to him Brazil deserved to win in both cases.<ref>{{cite web |url=https://www.goal.com/en-us/news/1966-1974-world-cups-were-fixed-former-fifa-president/blt6e01f417661567f1 |title=1966 & 1974 World Cups Were Fixed – Former FIFA President |work=Goal.com |date=26 June 2008 |access-date=28 October 2011 |archive-date=18 November 2022 |archive-url=https://web.archive.org/web/20221118233649/https://www.goal.com/en-us/news/1966-1974-world-cups-were-fixed-former-fifa-president/blt6e01f417661567f1 |url-status=live }}</ref>
+
+==Format==
+The format of the 1966 competition remained the same as in [[1962 FIFA World Cup|1962]]: 16 qualified teams were divided into four groups of four. Each group played a [[Round-robin tournament|round-robin]] format.<ref name="draw">{{Cite web |title=1966 FIFA World Cup England - Groups |work=FIFA.com |access-date=26 September 2019 |url=https://www.fifa.com/worldcup/archive/england1966/groups/index.html |archive-url=https://web.archive.org/web/20150406162655/http://www.fifa.com/worldcup/archive/england1966/groups/index.html |url-status=dead |archive-date=6 April 2015 }}</ref> Two points were awarded for a win and one point for a draw, with [[goal average]] and eventually drawing lots used to separate teams equal on points.<ref name="draw"/> The top two teams in each group advanced to the knockout stage.<ref name="draw"/>
+
+In the knockout games, if the teams were tied after 90 minutes, 30 minutes of extra time were played. For any match other than the final, if the teams were still tied after extra time, lots would be drawn to determine the winner. The final would have been replayed if tied after extra time; but if still tied after the replay, the champion would have been decided by drawing lots. In the event, no replays or drawing of lots were necessary.
+
+The draw for the final tournament took place on 6 January 1966 at the [[Royal Garden Hotel]] in London, and was the first to be televised. The seeded teams for the draw were England, West Germany, Brazil, and Italy.<ref>{{cite web |title=History of the World Cup Final Draw |url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf|access-date=3 June 2010 |archive-url=https://web.archive.org/web/20100614213618/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf |archive-date=14 June 2010 |url-status=dead }}</ref>
+
+==Venues==
+Eight venues were used for this World Cup. The newest and biggest venue used was [[Wembley Stadium (1923)|Wembley Stadium]] in north west London, which was 43 years old in 1966. As was often the case in the World Cup, group matches were played in two venues close to each other. Group 1 matches (which included the hosts) were all played in London: five at Wembley, which was England's national stadium and was considered to be the most important football venue in the world; and one at [[White City Stadium]] in west London, which was used as a temporary replacement for nearby Wembley. The group stage match between Uruguay and France played at White City Stadium (originally built for the [[1908 Summer Olympics]]) was scheduled for a Friday, the same day as regularly scheduled [[greyhound racing]] at Wembley. Because Wembley's owner refused to cancel this, the game had to be moved to the alternative venue in London. Group 2's matches were played at [[Hillsborough Stadium]] in Sheffield and [[Villa Park]] in [[Birmingham]]; Group 3's matches were played at [[Old Trafford]] in [[Manchester]] and [[Goodison Park]] in [[Liverpool]]; and Group 4's matches were played at [[Ayresome Park]] in Middlesbrough and [[Roker Park]] in [[Sunderland]].<ref>{{cite web |title=FIFA World Cup stadiums that no longer exist |url=https://tfcstadiums.com/fifa-world-cup-stadiums-that-no-longer-exist/ |website=TFC Stadiums}}</ref> The stadium construction cost are estimated to be today's equivalent of £9.2 million, additional to £36.22 million for tournament organisation.<ref>{{Cite journal|last=Fett|first=Matthias|date=2020-07-02|title=The game has changed – a systematic approach to classify FIFA World Cups|url=https://www.tandfonline.com/doi/full/10.1080/19406940.2020.1784978|journal=International Journal of Sport Policy and Politics|language=en|volume=12|issue=3|pages=455–470|doi=10.1080/19406940.2020.1784978|s2cid=221714908|issn=1940-6940|url-access=subscription|archive-date=17 August 2021|access-date=17 August 2021|archive-url=https://web.archive.org/web/20210817120530/https://www.tandfonline.com/doi/full/10.1080/19406940.2020.1784978|url-status=live}}</ref>
+
+The most used venue was Wembley, which was used for nine matches, including all six featuring England, the final and the match for third place. Goodison Park was used for five matches, Roker Park and Hillsborough both hosted four, while Old Trafford, Villa Park and Ayresome Park each hosted three matches and did not host any knockout round matches.<ref>{{cite web |url=https://fbref.com/en/comps/1/1966/schedule/1966-World-Cup-Scores-and-Fixtures |title=1966 World Cup Scores & Fixtures |author=<!--Not stated--> |website=FBref.com |publisher=Sports Reference |access-date=23 January 2024 |archive-date=23 January 2024 |archive-url=https://web.archive.org/web/20240123204246/https://fbref.com/en/comps/1/1966/schedule/1966-World-Cup-Scores-and-Fixtures |url-status=live }}</ref>
+{| class="wikitable" style="text-align:center"
+![[London]]
+! colspan="1" rowspan="6" |{{Location map+ |Greater London|width=350|caption=|places=
+{{Location map~ |Greater London|lat=51.5560|long=-0.2795|label=[[Wembley Stadium (1923)|Wembley]]|position=top}}
+{{Location map~ |Greater London|lat=51.5136|long=-0.2274|label=[[White City Stadium|White City]]|position=bottom}}
+|float=center}}
+![[London]]
+|-
+|[[Wembley Stadium (1923)|Wembley Stadium]]
+|[[White City Stadium]]
+|-
+|Capacity: '''98,600'''
+|Capacity: '''76,567'''
+|-
+|[[File:The old Wembley Stadium (cropped).jpg|220px]]
+|[[File:Le White City Stadium de Londres, pour les JO de 1908.jpg|alt=|frameless|220x220px]]
+|-
+![[Manchester]]
+![[Birmingham]]
+|-
+|[[Old Trafford]]
+|[[Villa Park]]
+|-
+|Capacity: '''58,000'''
+! colspan="1" rowspan="10" |{{Location map+ |England|width=350|caption=|places=
+{{Location map~ |England|lat=51.5009|long=-0.1244|label=[[London]]|mark=Blue pog.svg|marksize=10|position=top}}
+{{Location map~ |England|lat=53.4630|long=-2.2913|label=[[Manchester]]|position=top}}
+{{Location map~ |England|lat=53.4389|long=-2.9664|label=[[Liverpool]]|position=left}}
+{{Location map~ |England|lat=54.9145|long=-1.3884|label=[[Sunderland, Tyne and Wear|Sunderland]]|position=right}}
+{{Location map~ |England|lat=54.5642|long=-1.2469|label=[[Middlesbrough]]|position=right}}
+{{Location map~ |England|lat=52.5091|long=-1.8848|label=[[Birmingham]]|position=bottom}}
+{{Location map~ |England|lat=53.4114|long=-1.5008|label=[[Sheffield]]|position=right}}
+|float=center}}
+|Capacity: '''52,000'''
+|-
+|[[File:Stretford end 1992.JPG|220px]]
+|[[File:Holt End in 1983.jpg|220px]]
+|-
+![[Liverpool]]
+![[Sheffield]]
+|-
+|[[Goodison Park]]
+|[[Hillsborough Stadium]]
+|-
+|Capacity: '''50,151'''
+|Capacity: '''42,730'''
+|-
+|[[File:Goodisonview1.JPG|220px]]
+|[[File:Hillsborough Stadium in 1991 - geograph.org.uk - 2807213.jpg|220px]]
+|-
+![[Sunderland]]
+![[Middlesbrough]]
+|-
+|[[Roker Park]]
+|[[Ayresome Park]]
+|-
+|Capacity: '''40,310'''
+|Capacity: '''40,000'''
+|-
+|[[File:Roker Park August 1976.jpg|220px]]
+|[[File:Ayresome Park in 1991 - geograph.org.uk - 2796728.jpg|220px]]
+|}
+
+==Tournament summary==
+The opening match took place on Monday, 11 July, which made it the second World Cup after [[1930 FIFA World Cup|1930]] not to begin in May or June. Before the tournament began, eventual winners England were 9/2 second favourites with bookmakers behind Brazil (9/4), while beaten finalists West Germany were 25/1 outsiders.<ref>{{cite web|url=https://www.instagram.com/p/CIVPY1iqD4f/ |archive-url=https://ghostarchive.org/iarchive/instagram/gamblingdotcom/2455936849255349791 |archive-date=2021-12-23 |url-access=subscription|title= WORLD CUP 1966 Odds |publisher=Instagram |date=3 December 2020 |access-date=3 December 2020}}{{cbignore}}</ref> The final took place on Saturday, 30 July 1966, the 36th anniversary of the first final. Until 2022, this was the latest date that any tournament had concluded. The reason for the unusually late scheduling of the tournament appears to{{citation needed|date=May 2023}} lie with the outside broadcast commitments of the BBC, which also had to cover the Wimbledon tennis tournament (which ran between 20 June and 2 July) and the Open Golf Championship (6 to 9 July).
+
+===Group stage===
+[[File:Weber x artime.JPG|thumb|right|[[Wolfgang Weber]] (left) and [[Luis Artime]] during the match between West Germany and Argentina in [[Villa Park|Birmingham]]]]
+1966 was a World Cup with few goals as the teams began to play much more tactically and defensively. This was exemplified by Alf Ramsey's [[England national football team|England]] as they finished top of Group 1 with only four goals, but having none scored against them. They also became the first World Cup winning team not to win its first game in the tournament. [[Uruguay national football team|Uruguay]] were the other team to qualify from that group at the expense of both [[Mexico national football team|Mexico]] and [[France national football team|France]]. All the group's matches were played at [[Wembley Stadium (1923)|Wembley Stadium]] apart from the match between Uruguay and France which took place at [[White City Stadium]].
+
+In Group 2, [[Germany national football team|West Germany]] and [[Argentina national football team|Argentina]] qualified with ease as they each finished the group with 5 points, [[Spain men's national football team|Spain]] managed 2, while [[Switzerland national football team|Switzerland]] left the competition after losing all three group matches. FIFA cautioned Argentina for its violent style in the group games, particularly in the scoreless draw with West Germany, which saw Argentinean [[Rafael Albrecht]] get sent off and suspended for the next match.<ref>{{cite web |url=http://www.fifaworldcup.webspace.virginmedia.com/1966_fifaworldcup.htm |title=History of the World Cup |publisher=fifaworldcup.webspace.virginmedia.com |access-date=15 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140224214340/http://www.fifaworldcup.webspace.virginmedia.com/1966_fifaworldcup.htm |archive-date=24 February 2014 }}</ref><ref>{{cite web|first=Jan |last=Alsos |url=http://www.planetworldcup.com/CUPS/1966/wc66story.html |title=1966 – Story of England '66 |publisher=Planet World Cup |access-date=3 June 2010 |archive-url=https://web.archive.org/web/20100612080333/http://www.planetworldcup.com/CUPS/1966/wc66story.html |archive-date=12 June 2010 |url-status=live }}</ref>
+
+In the northwest of England, [[Old Trafford]] and [[Goodison Park]] played host to Group 3 which saw the two-time defending champions [[Brazil national football team|Brazil]] finish in third place behind [[Portugal national football team|Portugal]] and [[Hungary national football team|Hungary]], and be eliminated along with [[Bulgaria national football team|Bulgaria]]. Brazil were defeated 3–1 by Hungary in a classic encounter before falling by the same scoreline to Portugal in a controversial game. Portugal appeared in the finals for the first time, and made quite an impact. They won all three of their games in the group stage, with a lot of help from their outstanding striker [[Eusébio]], whose nine goals made him the tournament's top scorer.
+
+Group 4, however, provided the biggest upset when [[North Korea national football team|North Korea]] beat [[Italy national football team|Italy]] 1–0 at [[Ayresome Park]], [[Middlesbrough]] and finished above them, thus earning qualification to the next round along with the [[Soviet Union national football team|Soviet Union]]. This was the first time that a nation from outside Europe or the Americas had progressed from the first stage of a World Cup: the next would be Morocco in 1986.
+
+===Knock-out stages===
+The quarter-finals provided a controversial victory for West Germany as they cruised past Uruguay 4–0; the South Americans claimed that this occurred only after the referee (who was [[Jim Finney]] from England) had not recognised a handball by Schnellinger on the goal line and then had sent off two players from Uruguay: [[Horacio Troche]] and [[Héctor Silva (Uruguayan footballer)|Héctor Silva]].<ref>{{cite web |url=http://www.todoslosmundiales.com.ar/index.php/copas-del-mundo-mundial-de-futbol/mundiales-de-futbol-copa-del-mundo/mundial-de-futbol-de-inglaterra-1966-copa-del-mundo-inglaterra66-england66/425-siguen-los-choreos-a-sudamerica |title=Mundial de Inglaterra 1966 – Siguen Los Choreos a Sudamérica|website=Todoslosmundiales.com.ar |access-date=3 June 2010|language=es|archive-url=https://web.archive.org/web/20140703191218/http://www.todoslosmundiales.com.ar/index.php/copas-del-mundo-mundial-de-futbol/mundiales-de-futbol-copa-del-mundo/mundial-de-futbol-de-inglaterra-1966-copa-del-mundo-inglaterra66-england66/425-siguen-los-choreos-a-sudamerica |archive-date=3 July 2014 |url-status=dead }}</ref> It appeared as if the surprise package North Korea would claim another major upset in their match against Portugal at Goodison Park: they led 3–0 after 22 minutes. It fell to one of the greatest stars of the tournament, [[Eusébio]], to change that. He scored four goals in the game and [[José Augusto (footballer)|José Augusto]] added a fifth goal in the 78th minute to earn Portugal a 5–3 victory.
+
+Meanwhile, in the other two games, [[Ferenc Bene]]'s late goal for Hungary against the Soviet Union, who were led by [[Lev Yashin]]'s stellar goalkeeping, proved little more than a consolation as they crashed out 2–1, and the only goal between Argentina and England came courtesy of England's [[Geoff Hurst]]. During that controversial game (for more details see [[Argentina and England football rivalry]]), Argentina's [[Antonio Rattín]] became the first player to be sent off in a senior international football match at Wembley.<ref>{{cite web|url=http://espnfc.com/columns/story/_/id/903450/first-xi:-blue-is-the-colour?src=mobile&cc=3436 |archive-url=https://web.archive.org/web/20120204022833/http://espnfc.com/columns/story/_/id/903450/first-xi%3A-blue-is-the-colour?src=mobile&cc=3436 |archive-date=4 February 2012|first=Robin|last=Hackett|title=Blue is the colour|website=ESPN FC|publisher=ESPN|date=7 April 2011 |access-date=20 November 2013|url-status=dead }}</ref> Rattín at first refused to leave the field and eventually had to be escorted by several policemen. Scoreless when Rattin was dismissed, the game was decided by Hurst's headed goal twelve minutes from the end of normal time. This game is called ''el robo del siglo'' ({{Lit|the robbery of the century}}) in Argentina.<ref>{{cite web|url=http://www.todoslosmundiales.com.ar/mundiales/1966inglaterra/historias/0022robo_siglo.htm |title=Mundial de Inglaterra 1966 – El Robo de Siglo|website=Todoslosmundiales.com.ar |access-date=3 June 2010|language=es|archive-url=https://web.archive.org/web/20100605084526/http://www.todoslosmundiales.com.ar/mundiales/1966inglaterra/historias/0022robo_siglo.htm |archive-date=5 June 2010 |url-status=dead }}</ref>
+
+All semi-finalists were from Europe. [[Bobby Charlton]] scored both goals in England's win, with Portugal's goal coming from a penalty in the 82nd minute after a handball by Jack Charlton on the goal line.<ref>{{cite web|url=https://news.google.com/newspapers?id=EZ8tAAAAIBAJ&pg=6611,4612088&dq=bobby+charlton&hl=en|title=England's 2–1 win brings first final|date=27 July 1966|work=Montreal Gazette|access-date=11 October 2013|archive-date=15 July 2023|archive-url=https://web.archive.org/web/20230715201729/https://news.google.com/newspapers?id=EZ8tAAAAIBAJ&pg=6611,4612088&dq=bobby+charlton&hl=en|url-status=live}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=RpjN9FvT_I8 | archive-url=https://web.archive.org/web/20130313203913/http://www.youtube.com/watch?v=RpjN9FvT_I8&gl=US&hl=en| archive-date=2013-03-13 | url-status=dead|title=England Portugal 1/2 Final World Cup 1966|website=YouTube|publisher=Google, Inc.|date=27 December 2007 |access-date=15 June 2014}}</ref>{{User-generated source|date=April 2025}} The other semi-final also finished 2–1: [[Franz Beckenbauer]] scoring the winning goal with a left foot shot from the edge of the area for West Germany as they beat the Soviet Union.<ref>{{cite web|url=https://news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=19660726&printsec=frontpage&hl=en|title=West Germany Nips 10 Russians 2–1|date=26 July 1966|work=Montreal Gazette|access-date=11 October 2013|archive-date=28 September 2015|archive-url=https://web.archive.org/web/20150928083926/https://news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=19660726&printsec=frontpage&hl=en|url-status=live}}</ref>
+
+Portugal went on to beat the Soviet Union 2–1 to take third place. Portugal's third place was the best finish by a team making its World Cup debut since 1934. It was equalled by Croatia in 1998.
+
+===Final===
+{{Main|1966 FIFA World Cup final}}
+London's Wembley Stadium was the venue for the final, and 98,000 people attended. After 12 minutes 32 seconds [[Helmut Haller]] put West Germany ahead, but the score was levelled by [[Geoff Hurst]] four minutes later. [[Martin Peters]] put England in the lead in the 78th minute; England looked set to claim the title when the referee awarded a free kick to West Germany with one minute left. The ball was launched goalward and [[Wolfgang Weber]] scored, with England appealing in vain for handball as the ball came through the crowded penalty area.<ref name=mcilvanney/>
+
+With the score level at 2–2 at the end of 90 minutes, the game went to [[Overtime (association football)|extra time]]. In the 98th minute, Hurst found himself on the scoresheet again; his shot hit the crossbar, bounced down onto the goal line, and was awarded as a goal. Debate has long raged over whether the ball crossed the line, with the goal becoming part of World Cup history.<ref>{{cite web |first1=Ian |last1=Reid |first2=Andrew |last2=Zisserman |url=http://www.robots.ox.ac.uk/~vgg/publications/papers/reid96.pdf |title=Goal-directed Video Metrology |publisher=University of Oxford |access-date=10 February 2012 |archive-url=https://web.archive.org/web/20120302225512/http://www.robots.ox.ac.uk/~vgg/publications/papers/reid96.pdf |archive-date=2 March 2012 |url-status=dead }}</ref> England's final goal was scored by Hurst again, as a celebratory pitch invasion began. This made Geoff Hurst the first player to have scored three times in a single World Cup final.<ref name=mcilvanney/> [[BBC]] commentator [[Kenneth Wolstenholme]]'s description of the match's closing moments has gone down in history: "Some people are on the pitch. [[They think it's all over]] ... ''[Hurst scores]'' It is now!"<ref>{{cite news |url=https://www.telegraph.co.uk/news/obituaries/1388921/Kenneth-Wolstenholme.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/news/obituaries/1388921/Kenneth-Wolstenholme.html |archive-date=11 January 2022 |url-access=subscription |url-status=live |title=Kenneth Wolstenholme |work=The Daily Telegraph |date=27 March 2002 |access-date=22 June 2010 |quote=Kenneth Wolstenholme, who has died aged 81, was the voice of football on the BBC for almost a quarter of a century and the author of arguably the most celebrated words in British sports broadcasting, his commentary on England's last goal in the World Cup Final of 1966: "Some people are on the pitch. They think it's all over – it is now!"}}{{cbignore}}</ref>
+
+England's total of eleven goals scored in six games set a new record low for average goals per game scored by a World Cup winning team. The record stood until 1982, when it was surpassed by Italy's 12 goals in seven games; in 2010 this record was lowered again by Spain, winning the Cup with eight goals in seven games. England's total of three goals conceded also constituted a record low for average goals per game conceded by a World Cup winning team. That record stood until 1994, when it was surpassed by Brazil's three goals in seven games. France again lowered the record to two goals in seven during the [[1998 FIFA World Cup|1998 tournament]], a record that has since been equalled by Italy at the 2006 tournament and by Spain's two goals conceded during the [[2010 FIFA World Cup|2010 tournament]].
+
+England received the recovered Jules Rimet trophy from [[Queen Elizabeth II]] and were crowned World Cup winners for the first time.<ref name=mcilvanney>{{cite news |url=https://www.theguardian.com/sport/2008/jul/30/englandfootballteam |title=From the Vault: Hurst's hat-trick wins the World Cup |last=McIlvanney |first=Hugh |work=The Guardian|date=30 July 2008 |access-date=22 June 2010 |archive-url=https://web.archive.org/web/20100606002132/http://www.guardian.co.uk/sport/2008/jul/30/englandfootballteam |archive-date=6 June 2010 |url-status=live }}</ref>
+
+In this World Cup, the national anthems were played only in the final. They were not played in the earlier matches because the organisers (FIFA and the FA) feared that North Korea's presence – a socialist country that was not recognised by the United Kingdom – in the World Cup would cause problems with South Korea. A memo from the Foreign Office months before the finals began stated that the solution would be "denying the visas to North Korean players".<ref name=nk1/> The final, held at [[Wembley Stadium (1923)|Wembley Stadium]], was the last whose television broadcast was in black and white.<ref>[https://web.archive.org/web/20150905071210/http://www.fifa.com/worldcup/matches/round=3478/match=1633/classic-match/index.html "1966 FIFA World Cup England – Final"]. FIFA.com.</ref>
+
+==Match officials==
+A total of 26 match referees and other officials featured at the event. Despite the event being a worldwide tournament, the majority of the officials were from Europe. [[Gottfried Dienst]] refereed the final between England and West Germany.<ref name="fifa_1966">{{Cite web |title=1966 FIFA World Cup England - Matches - England-Germany FR |work=FIFA.com |access-date=12 September 2019 |url=https://www.fifa.com/worldcup/matches/round=3478/match=1633/index.html#nosticky |archive-url=https://web.archive.org/web/20150402154222/http://www.fifa.com/worldcup/matches/round=3478/match=1633/index.html#nosticky |url-status=dead |archive-date=2 April 2015 }}</ref>
+
+'''Africa'''
+*{{fbaicon|EGY|1958}} [[Ali Kandil]]
+'''Asia'''
+*{{fbaicon|ISR}} [[Menachem Ashkenazi]]
+'''South America'''
+{{div col|colwidth=15em}}
+*{{fbaicon|URU}} [[José María Codesal]]
+*{{fbaicon|ARG|1861}} [[Roberto Goicoechea]]
+*{{fbaicon|BRA|1960}} [[Armando Marques (referee)|Armando Marques]]
+*{{fbaicon|PER}} [[Arturo Yamasaki]]
+{{div col end}}
+'''Europe'''
+{{div col|colwidth=15em}}
+*{{fbaicon|NIR}} [[John Adair (referee)|John Adair]]
+*{{fbaicon|URS|1955}} [[Tofiq Bahramov]]
+*{{fbaicon|WAL}} [[Leo Callaghan]]
+*{{fbaicon|POR}} [[Joaquim Campos]]
+*{{fbaicon|ENG}} [[Ken Dagnall]]
+*{{fbaicon|SUI}} [[Gottfried Dienst]]
+*{{fbaicon|ENG}} [[Jim Finney]]
+*{{fbaicon|TCH}} [[Karol Galba]]
+*{{fbaicon|ESP|1945}} [[Juan Gardeazábal Garay]]
+*{{fbaicon|FRG}} [[Rudolf Kreitlein]]
+*{{fbaicon|ITA|1946}} [[Concetto Lo Bello]]
+*{{fbaicon|SWE}} [[Bertil Lööw]]
+*{{fbaicon|ENG}} [[George McCabe]]
+*{{fbaicon|SCO}} [[Hugh Phillips (referee)|Hugh Phillips]]
+*{{fbaicon|BUL|1948}} [[Dimitar Rumentchev]]
+*{{fbaicon|FRA|1830}} [[Pierre Schwinte]]
+*{{fbaicon|FRG}} [[Kurt Tschenscher]]
+*{{fbaicon|YUG}} [[Konstantin Zečević]]
+*{{fbaicon|HPR}} [[István Zsolt]]
+{{div col end}}
+
+==Draw==
+{| class="wikitable" style="width:98%"
+|-
+!width=26%|Pot 1: South American
+!width=26%|Pot 2: European
+!width=24%|Pot 3: Latin European
+!width=24%|Pot 4: Rest of the World
+|-
+|valign="top"|
+*{{fb|BRA|1960}} <small>(1962 champions, seeded, Group 3)</small>
+*{{fb|ARG|1861}}
+*{{fb|CHI}}
+*{{fb|URU}}
+|valign="top"|
+*{{fb|ENG}} <small>(hosts, seeded, Group 1)</small>
+*{{fb|HUN}}
+*{{fb|URS|1955}}
+*{{fb|FRG}} <small>(seeded)</small>
+|valign="top"|
+*{{fb|FRA|1830}}
+*{{fb|POR}}
+*{{fb|ESP|1945}}
+*{{fb|ITA|1946}} <small>(seeded)</small>
+|valign="top"|
+*{{fb|BUL|1948}}
+*{{fb|PRK|1948}}
+*{{fb|MEX|1934}}
+*{{fb|SUI}}
+|}
+
+==Squads==
+{{main|1966 FIFA World Cup squads}}
+
+==Group stage==
+===Group 1===
+{{Main|1966 FIFA World Cup Group 1}}
+{{:1966 FIFA World Cup Group 1|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1966 FIFA World Cup Group 1|transcludesection=1-1}}
+{{:1966 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1966 FIFA World Cup Group 1|transcludesection=1-3}}
+{{:1966 FIFA World Cup Group 1|transcludesection=1-4}}
+----
+{{:1966 FIFA World Cup Group 1|transcludesection=1-5}}
+{{:1966 FIFA World Cup Group 1|transcludesection=1-6}}
+
+===Group 2===
+{{Main|1966 FIFA World Cup Group 2}}
+{{:1966 FIFA World Cup Group 2|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1966 FIFA World Cup Group 2|transcludesection=2-1}}
+{{:1966 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1966 FIFA World Cup Group 2|transcludesection=2-3}}
+{{:1966 FIFA World Cup Group 2|transcludesection=2-4}}
+----
+{{:1966 FIFA World Cup Group 2|transcludesection=2-5}}
+{{:1966 FIFA World Cup Group 2|transcludesection=2-6}}
+
+===Group 3===
+{{Main|1966 FIFA World Cup Group 3}}
+{{:1966 FIFA World Cup Group 3|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1966 FIFA World Cup Group 3|transcludesection=3-1}}
+{{:1966 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1966 FIFA World Cup Group 3|transcludesection=3-3}}
+{{:1966 FIFA World Cup Group 3|transcludesection=3-4}}
+----
+{{:1966 FIFA World Cup Group 3|transcludesection=3-5}}
+{{:1966 FIFA World Cup Group 3|transcludesection=3-6}}
+
+===Group 4===
+{{Main|1966 FIFA World Cup Group 4}}
+{{:1966 FIFA World Cup Group 4|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+
+{{:1966 FIFA World Cup Group 4|transcludesection=4-1}}
+{{:1966 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1966 FIFA World Cup Group 4|transcludesection=4-3}}
+{{:1966 FIFA World Cup Group 4|transcludesection=4-4}}
+----
+{{:1966 FIFA World Cup Group 4|transcludesection=4-5}}
+{{:1966 FIFA World Cup Group 4|transcludesection=4-6}}
+
+==Knockout stage==
+{{Main|1966 FIFA World Cup knockout stage}}
+
+===Bracket===
+{{#lst:1966 FIFA World Cup knockout stage|Bracket}}
+
+===Quarter-finals===
+{{#lst:1966 FIFA World Cup knockout stage|QF1}}
+----
+{{#lst:1966 FIFA World Cup knockout stage|QF2}}
+----
+{{#lst:1966 FIFA World Cup knockout stage|QF3}}
+----
+{{#lst:1966 FIFA World Cup knockout stage|QF4}}
+
+===Semi-finals===
+{{#lst:1966 FIFA World Cup knockout stage|SF1}}
+----
+{{#lst:1966 FIFA World Cup knockout stage|SF2}}
+
+===Match for third place===
+{{#lst:1966 FIFA World Cup knockout stage|TPP}}
+
+===Final===
+{{Main|1966 FIFA World Cup final}}
+
+{{#lst:1966 FIFA World Cup final|Final}}
+
+==Goalscorers==
+With nine goals, Eusébio was the top scorer in the tournament. In total, 89 goals were scored by 47 players, with two of them credited as own goals.<ref name="worl_Worl">{{Cite web |title=World Cup 1966 England – Top Scorer |work=worldfootball.net |access-date=25 September 2019 |url=https://www.worldfootball.net/competition/co139/se2413/statistics-goals/ |archive-date=17 December 2025 |archive-url=https://web.archive.org/web/20251217015817/https://www.worldfootball.net/competition/co139/se2413/statistics-goals/ |url-status=live }}</ref>
+
+'''9 goals'''
+*{{fbicon|POR}} [[Eusébio]]
+
+'''6 goals'''
+*{{fbicon|FRG}} [[Helmut Haller]]
+
+'''4 goals'''
+*{{fbicon|ENG}} [[Geoff Hurst]]
+*{{fbicon|HPR}} [[Ferenc Bene]]
+*{{fbicon|URS|1955}} [[Valeriy Porkujan]]
+*{{fbicon|FRG}} [[Franz Beckenbauer]]
+
+'''3 goals'''
+{{div col|colwidth=35em|small=yes}}
+*{{fbicon|ARG|1861}} [[Luis Artime]]
+*{{fbicon|ENG}} [[Bobby Charlton]]
+*{{fbicon|ENG}} [[Roger Hunt]]
+*{{fbicon|POR}} [[José Augusto (footballer)|José Augusto]]
+*{{fbicon|POR}} [[José Torres (footballer, born 1938)|José Torres]]
+{{div col end}}
+
+'''2 goals'''
+{{div col|colwidth=35em|small=yes}}
+*{{fbicon|CHI}} [[Rubén Marcos]]
+*{{fbicon|HPR}} [[Kálmán Mészöly]]
+*{{fbicon|PRK|1948}} [[Pak Seung-zin]]
+*{{fbicon|URS|1955}} [[Igor Chislenko]]
+*{{fbicon|FRG}} [[Uwe Seeler]]
+*{{fbicon|URS|1955}} [[Anatoliy Banishevskiy]]
+*{{fbicon|URS|1955}} [[Eduard Malofeyev]]
+{{div col end}}
+
+'''1 goal'''
+{{div col|colwidth=35em|small=yes}}
+*{{fbicon|ARG|1861}} [[Ermindo Onega]]
+*{{fbicon|BRA|1960}} [[Garrincha]]
+*{{fbicon|BRA|1960}} [[Pelé]]
+*{{fbicon|BRA|1960}} [[Rildo (footballer, born 1942)|Rildo]]
+*{{fbicon|BRA|1960}} [[Tostão]]
+*{{fbicon|BUL|1948}} [[Georgi Asparuhov]]
+*{{fbicon|ENG}} [[Martin Peters]]
+*{{fbicon|FRA|1830}} [[Héctor De Bourgoing]]
+*{{fbicon|FRA|1830}} [[Gérard Hausser]]
+*{{fbicon|HPR}} [[János Farkas]]
+*{{fbicon|ITA|1946}} [[Paolo Barison]]
+*{{fbicon|ITA|1946}} [[Sandro Mazzola]]
+*{{fbicon|MEX|1934}} [[Enrique Borja]]
+*{{fbicon|PRK|1948}} [[Li Dong-woon]]
+*{{fbicon|PRK|1948}} [[Pak Doo-ik]]
+*{{fbicon|PRK|1948}} [[Yang Seung-kook]]
+*{{fbicon|POR}} [[António Simões]]
+*{{fbicon|ESP|1945}} [[Amancio (footballer)|Amancio]]
+*{{fbicon|ESP|1945}} [[Josep Maria Fusté]]
+*{{fbicon|ESP|1945}} [[Pirri]]
+*{{fbicon|ESP|1945}} [[Manuel Sanchís]]
+*{{fbicon|SUI}} [[René-Pierre Quentin]]
+*{{fbicon|URU}} [[Julio César Cortés]]
+*{{fbicon|URU}} [[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+*{{fbicon|FRG}} [[Lothar Emmerich]]
+*{{fbicon|FRG}} [[Sigfried Held]]
+*{{fbicon|FRG}} [[Wolfgang Weber]]
+{{div col end}}
+
+'''1 own goal'''
+*{{fbicon|BUL|1948}} [[Ivan Davidov]] (against Hungary)
+*{{fbicon|BUL|1948}} [[Ivan Vutsov]] (against Portugal)
+
+==FIFA retrospective ranking==
+{{multiple image
+| align = right
+| direction = 
+| header = Results of 1966 FIFA World Cup
+| image1 = 1966 world cup.png
+| width1 = 500
+| alt1 = World map showing results of participants of the 1966 soccer world cup
+| caption1 = {{legend inline|#2b42a3|Champions}} {{legend inline|#34c0be|Runners-up}} {{legend inline|#269c5a|Third place}} {{legend inline|#81c846|Fourth place}} {{legend inline|#e4e454|Quarter-finals}}{{legend inline|#b94954|Group stage}}
+<br><br>Angola and Mozambique represented Portugal.}}
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref>{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc_mexico_1986_en_part4_279.pdf |archive-url=https://web.archive.org/web/20100614213621/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |url-status=dead |archive-date=14 June 2010 |title=Permanent Table|page =230|access-date=28 June 2014}}</ref><ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]] |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |date=26 March 2013}}</ref> The rankings for the 1966 tournament were as follows:
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals for}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal difference}}
+!width=25| {{abbr|Pts.|Points}}
+|- style="background:gold"
+| 1 ||style="text-align:left"| {{fb|ENG}} || [[#Group 1|1]] || 6 || 5 || 1 || 0 || 11 || 3 || +8 || 11
+|- style="background:silver"
+| 2 ||style="text-align:left"| {{fb|FRG}} || [[#Group 2|2]] || 6 || 4 || 1 || 1 || 15 || 6 || +9 || 9
+|- style="background:#c96"
+| 3 ||style="text-align:left"| {{fb|POR}} || [[#Group 3|3]] || 6 || 5 || 0 || 1 || 17 || 8 || +9 || 10
+|- style=""
+| 4 ||style="text-align:left"| {{fb|URS|1955}} || [[#Group 4|4]] || 6 || 4 || 0 || 2 || 10 || 6 || +4 || 8
+|-
+| colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 ||style="text-align:left"| {{fb|ARG|1861}} || [[#Group 2|2]] || 4 || 2 || 1 || 1 || 4 || 2 || +2 || 5
+|-
+| 6 ||style="text-align:left"| {{fb|HUN}} || [[#Group 3|3]] || 4 || 2 || 0 || 2 || 8 || 7 || +1 || 4
+|-
+| 7 ||style="text-align:left"| {{fb|URU}} || [[#Group 1|1]] || 4 || 1 || 2 || 1 || 2 || 5 || −3 || 4
+|-
+| 8 ||style="text-align:left"| {{fb|PRK|1948}} || [[#Group 4|4]] || 4 || 1 || 1 || 2 || 5 || 9 || −4 || 3
+|-
+|colspan="11"| '''Eliminated in the group stage'''
+|-
+| 9 ||style="text-align:left"| {{fb|ITA|1946}} || [[#Group 4|4]] || 3 || 1 || 0 || 2 || 2 || 2 || 0 || 2
+|-
+| 10 ||style="text-align:left"| {{fb|ESP|1945}} || [[#Group 2|2]] || 3 || 1 || 0 || 2 || 4 || 5 || −1 || 2
+|-
+| 11 ||style="text-align:left"| {{fb|BRA|1960}} || [[#Group 3|3]] || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 2
+|-
+| 12 ||style="text-align:left"| {{fb|MEX|1934}} || [[#Group 1|1]] || 3 || 0 || 2 || 1 || 1 || 3 || −2 || 2
+|-
+|rowspan="2"| 13 ||style="text-align:left"| {{fb|CHI}} || [[#Group 4|4]] || 3 || 0 || 1 || 2 || 2 || 5 || −3 || 1
+|-
+|style="text-align:left"| {{fb|FRA|1830}} || [[#Group 1|1]] || 3 || 0 || 1 || 2 || 2 || 5 || −3 || 1
+|-
+| 15 ||style="text-align:left"| {{fb|BUL|1948}} || [[#Group 3|3]] || 3 || 0 || 0 || 3 || 1 || 8 || −7 || 0
+|-
+| 16 ||style="text-align:left"| {{fb|SUI}} || [[#Group 2|2]] || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 0
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==Bibliography==
+* {{cite book |last1=Hamilton |first1=Duncan |title=Answered Prayers: England and the 1966 World Cup |year=2023 |publisher=Quercus Publishing |location=United Kingdom| isbn=9781529419986}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1966|1966 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/1966england 1966 FIFA World Cup England], FIFA.com
+*[https://www.rsssf.org/tables/66full.html Details at RSSSF]
+*[https://web.archive.org/web/20090306155121/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/71/wc_66_tr_314.pdf FIFA Technical Report]
+
+{{portal bar|1960s|Association football|English football|England}}
+{{1966 FIFA World Cup}}
+{{1966 FIFA World Cup stadiums}}
+{{1966 FIFA World Cup referees}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1966 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1966]]
+[[Category:1966 in men's international association football|World Cup]]
+[[Category:1966–67 in English men's football]]
+[[Category:Men's international association football competitions hosted by England|1966]]
+[[Category:July 1966 sports events in the United Kingdom]]
+[[Category:International sports boycotts]]

@@ -32,6 +32,7 @@ import pandas as pd
 import wchistory as wch
 
 _DATA = Path(__file__).resolve().parent / "data"
+_AWARDS = _DATA / "wc_awards.csv"
 _GOALS = _DATA / "wc_goals.csv"
 _SQUADS = _DATA / "wc_squads.csv"
 
@@ -103,6 +104,9 @@ _KEY_ALIAS = {
     "Ademir de Menezes": "Ademir Marques de Menezes",
     "Alfredo dos Santos": "Alfredo Ramos dos Santos",
     "Reinaldo (footballer, born 1957)": "José Reinaldo de Lima",
+    # From the AWARDS pages: Harald "Toni" Schumacher is filed under his nickname there and his given
+    # name in West Germany's 1982/86 squads.
+    "Toni Schumacher": "Harald Schumacher",
 }
 # Deliberately NOT aliased — no squad row in that edition shares any name token, so linking them
 # would rest on outside knowledge rather than on evidence in the data. They stay unmatched and are
@@ -442,3 +446,60 @@ def nation_squad_players(nation, limit=None):
     rows["player"] = rows["player_key"].map(_display())
     rows = rows.sort_values(["squads", "first"], ascending=[False, True]).reset_index(drop=True)
     return rows if limit is None else rows.head(limit)
+
+
+# ── Awards ────────────────────────────────────────────────────────────────────────────────────────
+# The OFFICIAL per-edition awards, scraped by build/awards.py from each edition's Awards section. Kept
+# separate from the "who scored most" roll computed off wc_goals.csv, because they are different facts:
+# the Golden Boot only became an award in 1982 (earlier top scorers were recognised retroactively), and
+# in some years its tie-breaks used assists and minutes that this repo has no data for.
+AWARD_ORDER = ["Golden Ball", "Golden Boot", "Golden Glove", "Best Young Player",
+               "Fair Play Trophy", "Most Entertaining Team"]
+AWARD_ICON = {"Golden Ball": "🏅", "Golden Boot": "👟", "Golden Glove": "🧤",
+              "Best Young Player": "🐣", "Fair Play Trophy": "🤝", "Most Entertaining Team": "🎉"}
+
+
+@lru_cache(maxsize=1)
+def awards():
+    df = pd.read_csv(_AWARDS, dtype=str).fillna("")
+    df["player_key"] = df["player_key"].replace(_KEY_ALIAS)     # same canonicalisation as goals()
+    df["year"] = df["year"].astype(int)
+    df["rank"] = pd.to_numeric(df["rank"], errors="coerce").fillna(1).astype(int)
+    df["is_team"] = _bool(df["is_team"])
+    df["nation_name"] = df["nation"].map(lambda c: nations().get(c, c))
+    return df
+
+
+def award_years():
+    """Editions that have any award recorded — the pre-1982 tournaments mostly have none."""
+    return sorted(int(y) for y in awards()["year"].unique())
+
+
+def edition_awards(year, winners_only=True):
+    """One edition's awards in canonical order; winners_only drops the ranked runners-up."""
+    a = awards()
+    a = a[a["year"] == int(year)]
+    if winners_only:
+        a = a[a["rank"] == 1]
+    a = a.copy()
+    a["ord"] = a["award"].map(lambda x: AWARD_ORDER.index(x) if x in AWARD_ORDER else 99)
+    return a.sort_values(["ord", "rank"])
+
+
+def player_awards(key):
+    """Every award a player won or placed in → [{year, award, rank}], best first."""
+    a = awards()
+    mine = a[(a["player_key"] == key) & (~a["is_team"])].sort_values(["rank", "year"])
+    return [{"year": int(r.year), "award": r.award, "rank": int(r.rank)} for r in mine.itertuples()]
+
+
+def award_leaders(award, limit=10):
+    """Who has won a given award most often (rank 1 only)."""
+    a = awards()
+    w = a[(a["award"] == award) & (a["rank"] == 1) & (~a["is_team"])]
+    if w.empty:
+        return pd.DataFrame(columns=["player", "wins", "years"])
+    rows = w.groupby("player_key").agg(wins=("year", "nunique"),
+                                       years=("year", lambda x: sorted(int(v) for v in x))).reset_index()
+    rows["player"] = rows["player_key"].map(_display())
+    return rows.sort_values("wins", ascending=False).head(limit).reset_index(drop=True)

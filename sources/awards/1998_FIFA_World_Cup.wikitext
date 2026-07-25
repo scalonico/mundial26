@@ -1,0 +1,1552 @@
+{{Short description|Association football tournament in France}}
+{{redirect|World Cup 98|the video game|World Cup 98 (video game)}}
+{{redirect|FIFA 98|the video game|FIFA: Road to World Cup 98}}
+{{redirect|France 98|the charity association|France 98 (charity association)|events from the year|1998 in France}}
+{{redirect|1998 World Cup}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox international football competition
+| tourney_name   = FIFA World Cup
+| year           = 1998
+| other_titles   = {{native name|fr|Coupe du Monde – France 98}}
+| image          = 1998 FIFA World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = France
+| dates          = 10 June – 12 July
+| confederations = 5
+| num_teams      = 32
+| venues         = 10
+| cities         = 10
+| champion       = France|champion-flagvar=1974
+| count          = 1
+| second         = Brazil
+| third          = Croatia
+| fourth         = Netherlands
+| matches        = 64
+| goals          = 171
+| attendance     = {{#invoke:Football attendance summation|main|groups=A-H}}
+| top_scorer     = {{fbicon|CRO}} [[Davor Šuker]] (6 goals)
+| player         = {{fbicon|BRA|1998}} [[Ronaldo (Brazilian footballer)|Ronaldo]]
+| goalkeeper     = {{fbicon|FRA|1974}} [[Fabien Barthez]]
+| young_player   = {{fbicon|ENG}} [[Michael Owen]]
+| fair_play      = {{fb|ENG}}<br />{{fb|FRA|1974}}
+| prevseason     = [[1994 FIFA World Cup|1994]]
+| nextseason     = [[2002 FIFA World Cup|2002]]
+}}
+The '''1998 FIFA World Cup''' was the 16th [[FIFA World Cup]], the [[Association football|football]] world championship for [[List of men's national association football teams|men's national]] teams. The finals tournament was held in France from 10 June to 12 July 1998. The country was chosen as the [[FIFA World Cup hosts#1998 FIFA World Cup|host nation]] by [[FIFA]] for the second time in the history of the tournament (the first was in [[1938 FIFA World Cup|1938]]), defeating Morocco in the bidding process. It was the ninth time that it was held in Europe. Spanning 32 days, it was the longest World Cup tournament ever held and with the most teams (32 teams in the competition finals) until [[2026 FIFA World Cup|2026]], when the World Cup was expanded to 48 teams.
+
+[[1998 FIFA World Cup qualification|Qualification for the finals]] began in March 1996 and concluded in November 1997. For the first time in the competition, the group stage was expanded from 24 teams to 32, with eight groups of four. 64 matches were played in 10 stadiums in 10 host cities, with the opening match and final staged at the newly built [[Stade de France]] in the Parisian suburb of [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]].
+
+The tournament was won by host country [[France national football team|France]], who beat defending champions [[Brazil national football team|Brazil]] 3–0 in [[1998 FIFA World Cup final|the final]] to win their first title. In doing so France became the seventh nation to win the World Cup, and the sixth (after [[Uruguay national football team|Uruguay]], [[Italy national football team|Italy]], [[England national football team|England]], [[Germany national football team|West Germany]] and [[Argentina national football team|Argentina]]) to win the World Cup [[FIFA World Cup records and statistics#List of tournaments|on home soil]]. Through 2026, France remains the most recent team to win the tournament on home soil. [[Croatia national football team|Croatia]], [[Jamaica national football team|Jamaica]], [[Japan national football team|Japan]] and [[South Africa national football team|South Africa]] made their first appearances in the tournament.
+
+== Host selection ==
+{{main|FIFA World Cup hosts}}
+France was awarded the 1998 World Cup on 2 July 1992 by the executive committee of FIFA during a general meeting in [[Zürich]], Switzerland. They defeated Morocco by 12 votes to 7.<ref>{{cite news |title=France Gets 1998 World Cup |url=https://www.nytimes.com/1992/07/03/sports/france-gets-1998-world-cup.html |work=The New York Times |date=3 July 1992 |access-date=15 July 2012 |archive-date=13 June 2018 |archive-url=https://web.archive.org/web/20180613005711/https://www.nytimes.com/1992/07/03/sports/france-gets-1998-world-cup.html |url-status=live }}</ref><ref>{{cite news |title=France awarded 1998 World Cup |url=https://news.google.com/newspapers?nid=1980&dat=19920701&id=nJIiAAAAIBAJ&pg=2969,452686 |work=The Item |date=2 July 1992 |access-date=15 July 2012 |page=3 |archive-date=29 July 2021 |archive-url=https://web.archive.org/web/20210729125023/https://news.google.com/newspapers?nid=1980&dat=19920701&id=nJIiAAAAIBAJ&pg=2969,452686 |url-status=live }}</ref> Switzerland withdrew, due to being unable to meet FIFA's requirements. This made France the third country to host two World Cups, after Mexico and Italy in [[1986 FIFA World Cup|1986]] and [[1990 FIFA World Cup|1990]] respectively. France previously hosted the third edition of the World Cup in [[1938 FIFA World Cup|1938]]. England, who hosted the competition in [[1966 FIFA World Cup|1966]], were among the original applicants, but later withdrew their application in favour of an ultimately successful bid to host [[UEFA Euro 1996]].
+
+{| class="wikitable" style="margin:0.5em"
+|-
+! colspan="4" style="text-align:center"| Voting results<ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/fs-201_13a_fwc-bidding.pdf |archive-url=https://web.archive.org/web/20120722021820/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/fs-201%5f13a%5ffwc-bidding.pdf |url-status=dead |archive-date=22 July 2012 |title=FIFA World Cup host announcement decision |publisher=FIFA |access-date=15 July 2012 }}</ref>
+|-
+!Country
+!Round 1
+|-
+| France || '''12'''
+|-
+| Morocco || 7
+|}
+
+=== Bribery and corruption investigations ===
+
+On 4 June 2015, while co-operating with the [[FBI]] and the Swiss authorities, [[Chuck Blazer]] confirmed that he and other members of FIFA's executive committee were bribed during the 1998 and [[2010 World Cup]]s host selection process. Blazer stated that "we facilitated bribes in conjunction with the selection of the host nation for the 1998 World Cup". Since France won the selection process it was initially thought the bribery came from its bid committee. It eventually transpired that the bribe payment was from the failed Moroccan bid.<ref>[https://www.telegraph.co.uk/sport/football/sepp-blatter/11647665/Sepp-Blatter-FBI-investigation-live.html Vicki Hodges, Giles Mole, JJ Bull, Luke Brown and Rob Crilly, "Fifa whistleblower Chuck Blazer – bribes accepted for 1998 and 2010 World Cups: as it happened", ''The Telegraph'', 3 June 2015] {{Webarchive|url=https://ghostarchive.org/archive/20220110/https://www.telegraph.co.uk/sport/football/sepp-blatter/11647665/Sepp-Blatter-FBI-investigation-live.html |date=10 January 2022 }}. Retrieved 4 June 2015</ref><ref>[https://www.theguardian.com/football/2015/jun/03/fifa-chuck-blazer-bribes-world-cup Owen Gibson, Paul Lewis, "Fifa informant Chuck Blazer: I took bribes over 1998 and 2010 World Cups", ''The Guardian'', 3 June 2015] {{Webarchive|url=https://web.archive.org/web/20160411205843/http://www.theguardian.com/football/2015/jun/03/fifa-chuck-blazer-bribes-world-cup |date=11 April 2016 }}. Retrieved 4 June 2015</ref><ref>[https://www.moroccoworldnews.com/2015/05/159558/u-s-judge-claims-that-morocco-bribed-fifa-to-host-1998-world-cup/ Tarik El Barakah, "U.S. judge claims that Morocco bribed FIFA to host 1998 World Cup", ''Moroccow World News'', 28 May 2015] {{Webarchive|url=https://web.archive.org/web/20171015203547/https://www.moroccoworldnews.com/2015/05/159558/u-s-judge-claims-that-morocco-bribed-fifa-to-host-1998-world-cup/ |date=15 October 2017 }}. Retrieved 31 January 2017</ref>
+
+== Qualification ==
+{{Main|1998 FIFA World Cup qualification}}
+The qualification draw for the 1998 World Cup finals took place in the Musée du [[Louvre]], Paris on 12 December 1995.<ref>{{cite news |url=https://www.nytimes.com/1995/06/01/sports/new-overtime-rule-for-1998-world-cup.html |newspaper=The New York Times |agency=Associated Press |date=1 June 1995 |access-date=27 January 2012 |title=New Overtime Rule For 1998 World Cup |archive-date=11 July 2018 |archive-url=https://web.archive.org/web/20180711185625/https://www.nytimes.com/1995/06/01/sports/new-overtime-rule-for-1998-world-cup.html |url-status=live }}</ref> As tournament hosts, France was exempt from the draw as was defending champion Brazil, but it was also France's first World Cup since 1986. 174 teams from six confederations participated, 24 more than in the [[1994 FIFA World Cup qualification|previous round]]. Fourteen countries qualified from the European zone (in addition to hosts France). Ten were determined after group play – nine group winners and the best second-placed team; the other eight group runners-up were drawn into pairs of four play-off matches with the winners qualifying for the finals as well.<ref>{{cite news |url=https://www.independent.co.uk/sport/italy-and-poland-bar-englands-road-to-france-1525596.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/italy-and-poland-bar-englands-road-to-france-1525596.html |archive-date=1 May 2022 |url-access=subscription|work=The Independent |date=13 December 1995 |access-date=27 January 2012 |last=Shaw |first=Phil |title=Italy and Poland bar England's road to France}}{{cbignore}}</ref> [[CONMEBOL]] (South America) and [[Confederation of African Football|CAF]] (Africa) were each given five spots in the final tournament, while three spots were contested between 30 [[CONCACAF]] members in the North and Central America and the Caribbean zone. The winner of the Oceanian zone advanced to an intercontinental play-off against the runner-up of the Asian play-off, determined by the two best second-placed teams.
+
+Four nations qualified for the first time: [[Croatia national football team|Croatia]], [[Jamaica national football team|Jamaica]], [[Japan national football team|Japan]] and [[South Africa national football team|South Africa]]. The last team to qualify was [[Iran national football team|Iran]] by virtue of beating [[Australia men's national soccer team|Australia]] in a [[1998 FIFA World Cup qualification (AFC–OFC play-off)|two-legged tie]] on 29 November 1997.<ref>{{cite web |url=https://www.fifa.com/classicfootball/matches/qualifiers/match=8705/index.html |archive-url=https://web.archive.org/web/20130425053310/http://www.fifa.com/classicfootball/matches/qualifiers/match=8705/index.html |url-status=dead |archive-date=25 April 2013 |publisher=FIFA |date=29 November 1997 |access-date=27 January 2012 |title=Celebration and heartbreak}}</ref> It marked their first appearance in the finals since [[1978 FIFA World Cup|1978]], [[Chile national football team|Chile]] qualified for the first time since 1982, after serving a ban that saw them miss out on the two previous tournaments. Paraguay and Denmark returned for the first time since 1986. Austria, England, Scotland, and [[Democratic Federal Yugoslavia|DF Yugoslavia]] returned after missing out on the [[1994 FIFA World Cup|1994 tournament]], with the Balkan team now appearing under the name of [[Serbia and Montenegro|FR Yugoslavia]].
+
+The highest-ranked team that failed to qualify was the [[Czech Republic national football team|Czech Republic]] (ranked 3rd, mainly thanks to their runner-up campaign on [[UEFA Euro 1996]]), while the lowest-ranked team that did qualify was Nigeria (ranked 74th).
+
+{{as of|2026}}, this was the last time Romania and Bulgaria qualified for the World Cup finals, the only time Jamaica have qualified and the last time [[Portugal national football team|Portugal]] failed to qualify.
+
+=== List of qualified teams ===
+{{See also|1998 FIFA World Cup seeding}}
+The following 32 teams, shown with final pre-tournament rankings,<ref name="FIFA">{{cite web|title=FIFA/Coca Cola World Ranking (20 May 1998)|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=50/index.html|archive-url=https://web.archive.org/web/20160222025820/httpz://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=50/index.html|url-status=dead|archive-date=22 February 2016|publisher=FIFA |date=27 January 2012}}</ref> qualified for the final tournament.
+{{col-begin}}
+{{col-4}}
+;[[1998 FIFA World Cup qualification (AFC)|AFC]] (4)
+* {{fb|IRN}}&nbsp;(42)
+* {{fb|JPN|1870}}&nbsp;(debut) (12)
+* {{fb|SAU}}&nbsp;(34)
+* {{fb|KOR|1997}}&nbsp;(20)
+;[[1998 FIFA World Cup qualification (CAF)|CAF]] (5)
+* {{fb|CMR}}&nbsp;(49)
+* {{fb|MAR}}&nbsp;(13)
+* {{fb|NGA}}&nbsp;(74)
+* {{fb|RSA}}&nbsp;(debut) (24)&nbsp;
+* {{fb|TUN|1959}}&nbsp;(21)
+;[[1998 FIFA World Cup qualification (OFC)|OFC]] (0)
+* ''None qualified''
+{{col-4}}
+;[[1998 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (3)
+* {{fb|JAM}}&nbsp;(debut) (30)
+* {{fb|MEX}}&nbsp;(4)
+* {{fb|USA}}&nbsp;(11)
+;[[1998 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (5)
+* {{fb|ARG|1861}}&nbsp;(6)
+* {{fb|BRA}}&nbsp;(holders) (1)
+* {{fb|CHI}}&nbsp;(9)
+* {{fb|COL}}&nbsp;(10)
+* {{fb|PAR|1990}}&nbsp;(29)
+{{col-4}}
+;[[1998 FIFA World Cup qualification (UEFA)|UEFA]] (15)
+* {{fb|AUT}}&nbsp;(31)
+* {{fb|BEL}}&nbsp;(36)
+* {{fb|BUL}}&nbsp;(35)
+* {{fb|CRO}}&nbsp;(debut) (19)
+* {{fb|DEN}}&nbsp;(27)
+* {{fb|ENG}}&nbsp;(5)
+* {{fb|FRA|1974}}&nbsp;(18) (hosts)
+* {{fb|GER}}&nbsp;(2)
+* {{fb|ITA|1946}}&nbsp;(14)
+* {{fb|NED}}&nbsp;(25)
+* {{fb|NOR}}&nbsp;(7)
+* {{fb|ROU}}&nbsp;(22)
+* {{fb|SCO}}&nbsp;(41)
+* {{fb|ESP}}&nbsp;(15)
+* {{flagdeco|FRY}} [[FR Yugoslavia national football team|Yugoslavia]]&nbsp;(8)
+{{col-4}}
+[[File:1998 world cup qualification.png|thumb|upright=1.4|{{legend|#000cff|Countries qualified for World Cup}} {{legend|#ffb400|Country did not qualify}} {{legend|black|Countries that did not enter World Cup}} {{legend|#ababab|Country not a FIFA member}}]]
+{{col-end}}
+
+{| class="wikitable collapsible collapsed"
+|-
+! colspan="4"| Teams listed by FIFA ranking as of May 1998<ref name="FIFA"/>
+|-
+! !! Country !! Confederation !! Rank
+|-
+| 1 || {{fb|BRA}} (1994 winner)|| CONMEBOL || align=center | 1
+|-
+| 2 || {{fb|GER}} || UEFA || align=center | 2
+|-
+| 3 || {{fb|MEX}}|| CONCACAF || align=center | 4
+|-
+| 4 || {{fb|ENG}} || UEFA || align=center | 5
+|-
+| 5 || {{fb|ARG|1861}} || CONMEBOL || align=center | 6
+|-
+| 6 || {{fb|NOR}} || UEFA || align=center | 7
+|-
+| 7 || {{fb|FR Yugoslavia}} || UEFA || align=center | 8
+|-
+| 8 || {{fb|CHI}} || CONMEBOL || align=center | 9
+|-
+| 9 || {{fb|COL}} || CONMEBOL || align=center | 10
+|-
+| 10 || {{fb|USA}} || CONCACAF|| align=center | 11
+|-
+| 11 || {{fb|JPN|1870}} || AFC || align=center | 12
+|-
+| 12 || {{fb|MAR}} || CAF || align=center | 13
+|-
+| 13 || {{fb|ITA|1946}} || UEFA || align=center | 14
+|-
+| 14 || {{fb|ESP}} || UEFA || align=center | 15
+|-
+| 15 || {{fb|FRA|1974}} (host)|| UEFA || align=center | 18
+|-
+| 16 || {{fb|CRO}} || UEFA || align=center | 19
+|-
+| 17 || {{fb|KOR|1997}} || AFC || align=center | 20
+|-
+| 18 || {{fb|TUN|1959}} || CAF || align=center | 21
+|-
+| 19 || {{fb|ROM}} || UEFA || align=center | 22
+|-
+| 20 || {{fb|RSA}} || CAF || align=center | 24
+|-
+| 21 || {{fb|NED}} || UEFA || align=center | 25
+|-
+| 22 || {{fb|DEN}} || UEFA || align=center | 27
+|-
+| 23 || {{fb|PAR}} || CONMEBOL || align=center | 29
+|-
+| 24 || {{fb|JAM}} || CONCACAF || align=center | 30
+|-
+| 25 || {{fb|AUT}} || UEFA || align=center | 31
+|-
+| 26 || {{fb|KSA}} || AFC || align=center | 34
+|-
+| 27 || {{fb|BUL}} || UEFA || align=center | 35
+|-
+| 28 || {{fb|BEL}} || UEFA || align=center | 36
+|-
+| 29 || {{fb|SCO}} || UEFA || align=center | 41
+|-
+| 30 || {{fb|IRN}} || AFC || align=center | 42
+|-
+| 31 || {{fb|CMR}} || CAF || align=center | 49
+|-
+| 32 || {{fb|NGA}} || CAF || align=center | 74
+|}
+
+== Venues ==
+France's bid to host the World Cup centered on the construction of a new national stadium with 80,000 seats and nine other stadiums located across the country.{{sfn|Dauncey|Hare|1999|p=98}} When the finals were originally awarded in July 1992, none of the regional club grounds were of a capacity meeting FIFA's requirements – namely being able to safely seat 40,000.{{sfn|Dauncey|Hare|1999|p=98}} The proposed national stadium, colloquially referred to as the 'Grand stade', met with controversy at every stage of planning; the stadium's location was determined by politics, finance and national symbolism,{{sfn|Dauncey|Hare|1999|p=99}} as [[Mayor of Paris]] [[Jacques Chirac]] successfully negotiated a deal with Prime Minister [[Édouard Balladur]] to bring the Stade de France, as it was now called, to the commune of Saint-Denis just north of the [[Paris|capital city]].{{sfn|Dauncey|Hare|1999|p=99}} Construction on the stadium started in December 1995 and was completed after 26 months of work in November 1997 at a cost of ₣2.67&nbsp;billion.{{sfn|Dauncey|Hare|1999|p=107}}
+
+The choice of stadium locations was drafted from an original list of 14 cities.{{sfn|Dauncey|Hare|1999|p=101}} FIFA and CFO monitored the progress and quality of preparations, culminating in the former providing final checks of the grounds weeks before the tournament commenced. [[Montpellier]] was the surprise inclusion from the final list of cities because of its low urban hierarchy in comparison to [[Strasbourg]], who boasted a better hierarchy and success from its local football team, having been taken over by a consortium. Montpellier however was considered ambitious by the selecting panel to host World Cup matches. The local city and regional authorities in particular had invested heavily into football the previous two decades and were able to measure economic effects, in terms of jobs as early as in 1997.{{sfn|Dauncey|Hare|1999|p=104}} Some of the venues used for this tournament were also used for the previous World Cup in France in [[1938 FIFA World Cup|1938]]. The Stade Vélodrome in Marseille, the Stade Municipal in Toulouse, the Parc Lescure in Bordeaux and the Parc des Princes in Paris received the honour of hosting World Cup matches once again in 1998 as they had all done in 1938; on the other hand, in addition to Strasbourg, four other cities which hosted games in 1938 were not selected: [[Le Havre]], [[Lille]], [[Reims]] and [[Antibes]].
+
+Ten stadiums were used for the tournament. In addition to nine matches being played at the Stade de France (the most used stadium in the tournament), a further six matches took place in [[Paris Saint-Germain F.C.|Paris Saint-Germain]]'s [[Parc des Princes]], bringing the total number of matches in the Paris region to 15. France played four of their seven matches in the national stadium; they also played in the country's second and third largest cities, Marseille (hosting seven total matches) and Lyon (hosting six total matches), as well as a Round of 16 knockout match in the northern city of Lens (also hosting six total matches). Nantes, Toulouse, Bordeaux, Montpellier and Saint-Etienne also hosted six matches in total; all of the stadiums used also hosted knockout round matches.
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Paris]] {{small|([[Saint-Denis, Seine-Saint-Denis|Saint-Denis]])}}
+! [[Marseille]]
+! [[Paris]]
+! [[Lyon]]
+|-
+| [[Stade de France]]
+| [[Stade Vélodrome]]
+| [[Parc des Princes]]
+| [[Stade de Gerland]]
+|-
+| {{small|{{Coord|48|55|28|N|2|21|36|E|region:FR_type:landmark|display=inline|name=Stade de France}}}}
+| {{small|{{Coord|43|16|11|N|5|23|45|E|region:FR_type:landmark|display=inline|name=Stade Vélodrome}}}}
+| {{small|{{Coord|48|50|29|N|2|15|11|E|region:FR_type:landmark|display=inline|name=Parc des Princes}}}}
+| {{small|{{Coord|45|43|26|N|4|49|56|E|region:FR_type:landmark|display=inline|name=Stade de Gerland}}}}
+|-
+| Capacity: '''80,000'''
+| Capacity: '''60,000'''
+| Capacity: '''48,875'''
+| Capacity: '''44,000'''
+|-
+| [[File:Finale Coupe de France 2010-2011 (Lille LOSC vs Paris SG PSG).jpg|180px]]
+| [[File:Vue du virage Depé.jpg|180px]]
+| [[File:Paris-Parc-des-Princes.jpg|180px]]
+| [[File:Avant match - vue de Gerland depuis le virage sud.jpg|180px]]
+|-
+! [[Lens, Pas-de-Calais|Lens]]
+| colspan="3" rowspan="10"|<div style="text-align: center;">
+{{location map+|France|float=none|width=475|caption=|places=
+{{Location map~|France|lat=48.9244|long=2.36     |label='''[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]'''}}
+{{Location map~|France|lat=43.2697|long=5.3958 |label='''[[Marseille]]'''|position=bottom}}
+{{Location map~|France|lat=48.8414|long=2.2531|label='''[[Paris]]'''|position=bottom}}
+{{Location map~|France|lat=50.4329 |long=2.8149 |label='''[[Lens, Pas-de-Calais|Lens]]'''}}
+{{Location map~|France|lat=45.7239|long=4.8322 |label='''[[Lyon]]'''}}
+{{Location map~|France|lat=47.2556|long=-1.5254|label='''[[Nantes]]'''}}
+{{Location map~|France|lat=43.5833|long=1.43405 |label='''[[Toulouse]]'''|position=left}}
+{{Location map~|France|lat=45.4608|long=4.3901 |label='''[[Saint-Étienne]]'''|position=bottom}}
+{{Location map~|France|lat=44.8292|long=-0.5978|label='''[[Bordeaux]]'''}}
+{{Location map~|France|lat=43.6222|long=3.8120 |label='''[[Montpellier]]'''|position=top}}
+}}</div>
+|-
+| [[Stade Bollaert-Delelis|Stade Félix-Bollaert]]
+|-
+| {{small|{{Coord|50|25|58|N|2|48|53|E|region:FR_type:landmark|display=inline|name=Stade Félix-Bollaert}}}}
+|-
+| Capacity: '''41,300'''
+|-
+| [[File:Stade Felix-Bollaert.jpg|170px]]
+|-
+! [[Nantes]]
+|-
+| [[Stade de la Beaujoire]]
+|-
+| {{small|{{Coord|47|15|20|N|1|31|31|W|region:FR_type:landmark|display=inline|name=Stade de la Beaujoire}}}}
+|-
+| Capacity: '''39,500'''
+|-
+| [[File:Stade de la Beaujoire.jpg|180px]]
+|-
+! [[Toulouse]]
+! [[Saint-Étienne]]
+! [[Bordeaux]]
+! [[Montpellier]]
+|-
+| [[Stadium Municipal|Stadium de Toulouse]]
+| [[Stade Geoffroy-Guichard]]
+| [[Stade Chaban-Delmas|Parc Lescure]]
+| [[Stade de la Mosson]]
+|-
+| {{small|{{Coord|43|35|0|N|1|26|3|E|region:FR_type:landmark|display=inline|name=Stadium de Toulouse}}}}
+| {{small|{{Coord|45|27|39|N|4|23|24|E|region:FR_type:landmark|display=inline|name=Stade Geoffroy-Guichard}}}}
+| {{small|{{Coord|44|49|45|N|0|35|52|W|region:FR_type:landmark|display=inline|name=Parc Lescure}}}}
+| {{small|{{Coord|43|37|20|N|3|48|43|E|region:FR_type:landmark|display=inline|name=Stade de la Mosson}}}}
+|-
+| Capacity: '''37,000'''
+| Capacity: '''36,000'''
+| Capacity: '''35,200'''
+| Capacity: '''34,000'''
+|-
+| [[File:Stadium TFC LOSC mai2013 2.JPG|180px]]
+| [[File:AS Saint-Étienne v Olympique Lyonnais, 10 November 2013.jpg|180px]]
+| [[File:Stade Chaban-Delmas.jpg|180px]]
+| [[File:Australie-Fidji.4.JPG|180px]]
+|}
+
+== Innovations ==
+=== Technologies ===
+This was the first FIFA World Cup where fourth officials used electronic boards, instead of cardboard.<ref name=sport24ZA/>
+
+=== Rule changes ===
+This was the first World Cup since the introduction of [[golden goal]]s,<ref name=sport24ZA>[http://www.sport24.co.za/soccer/worldcup/history/france-1998-20100505 France 1998.] {{Webarchive|url=https://web.archive.org/web/20151019071241/http://www.sport24.co.za/soccer/worldcup/history/france-1998-20100505 |date=19 October 2015 }} Sport24, 5 May 2010 12:12.</ref> banning of tackles from behind that endanger the safety of an opponent<ref>{{cite web|url=https://www.fifa.com/development/news/y=1998/m=3/news=fifa-crack-down-tackle-from-behind-70380.html|archive-url=https://web.archive.org/web/20160315055529/http://www.fifa.com/development/news/y=1998/m=3/news=fifa-crack-down-tackle-from-behind-70380.html|url-status=dead|archive-date=15 March 2016|title=FIFA to crack down on tackle from behind|publisher=FIFA|date=6 March 1998|access-date=12 July 2018}}</ref> and allowance of three substitutions per game.<ref>[https://web.archive.org/web/20071106130606/http://blogs.reuters.com/soccer/2007/11/05/substitute-the-subs-rule/ Substitute the subs rule?] By Mitch Phillips, 5 November 2007 Reuters Soccer Blog.</ref>
+
+== Match officials ==
+34 referees and 33 assistants officiated in the 1998 World Cup.<ref name="Refs">{{cite web |url=https://www.fifa.com/newscentre/news/newsid=70367.html |archive-url=https://web.archive.org/web/20080107083335/http://www.fifa.com/newscentre/news/newsid=70367.html |url-status=dead |archive-date=7 January 2008 |publisher=FIFA |date=2 February 1998 |access-date=28 January 2012 |title=Referees and assistants for France 98 chosen}}</ref> As a result of the extension to 32 teams in the finals, there was an increase of 10 referees and 11 officials from the 1994 World Cup.<ref name="Refs"/>
+{{col-float-begin}}
+;[[Confederation of African Football|CAF]] (5)
+* {{fbaicon|MAR}} [[Said Belqola]]
+* {{fbaicon|EGY}} [[Gamal Al-Ghandour]]
+* {{fbaicon|NER}} [[Lucien Bouchardeau]]
+* {{fbaicon|MRI}} [[Lim Kee Chong]]
+* {{fbaicon|RSA}} [[Ian McLeod (referee)|Ian McLeod]]
+
+;[[Asian Football Confederation|AFC]] (4)
+* {{fbaicon|KSA}} [[Abdul Rahman Al-Zaid]]
+* {{fbaicon|UAE}} [[Ali Bujsaim]]
+* {{fbaicon|JPN|1870}} [[Masayoshi Okada]]
+* {{fbaicon|THA}} [[Pirom Un-Prasert]]
+{{col-float-break}}
+;[[UEFA]] (15)
+* {{fbaicon|FRA|1974}} [[Marc Batta]]
+* {{fbaicon|AUT}} [[Günter Benkö]]
+* {{fbaicon|ITA|1946}} [[Pierluigi Collina]]
+* {{fbaicon|SCO}} [[Hugh Dallas]]
+* {{fbaicon|ENG}} [[Paul Durkin]]
+* {{fbaicon|ESP}} [[José María García-Aranda]]
+* {{fbaicon|GER}} [[Bernd Heynemann]]
+* {{fbaicon|RUS}} [[Nikolai Levnikov]]
+* {{fbaicon|SUI}} [[Urs Meier]]
+* {{fbaicon|POR}} [[Vítor Melo Pereira]]
+* {{fbaicon|DEN}} [[Kim Milton Nielsen]]
+* {{fbaicon|NOR}} [[Rune Pedersen (referee)|Rune Pedersen]]
+* {{fbaicon|HUN}} [[László Vágner]]
+* {{fbaicon|NED}} [[Mario van der Ende]]
+* {{fbaicon|POL}} [[Ryszard Wójcik]]
+{{col-float-break}}
+;[[CONCACAF]] (3)
+* {{fbaicon|USA}} [[Esfandiar Baharmast]]
+* {{fbaicon|MEX}} [[Arturo Brizio Carter]]
+* {{fbaicon|TRI}} [[Ramesh Ramdhan]]
+
+;[[Oceania Football Confederation|OFC]] (1)
+* {{fbaicon|AUS}} [[Eddie Lennie]]
+
+;[[CONMEBOL]] (6)
+* {{fbaicon|ARG|1861}} [[Javier Castrilli]]
+* {{fbaicon|PAR|1990}} [[Epifanio González]]
+* {{fbaicon|BRA}} [[Márcio Rezende de Freitas]]
+* {{fbaicon|CHI}} [[Mario Sánchez Yanten]]
+* {{fbaicon|PER}} [[Alberto Tejada Noriega]]
+* {{fbaicon|COL}} [[John Toro Rendón]]
+{{col-float-end}}
+
+== Draw ==
+{{Anchor|Format}}
+{{further|1998 FIFA World Cup seeding}}
+
+The  FIFA Organising Committee  announced the eight seeded teams on 3 December 1997 at Marseille's [[Orange Vélodrome|Stade Vélodrome]]. The draw was conducted by at the time FIFA general secretary [[Joseph Blatter]]. Many players, both current and former, helped with the draw, such as [[Franz Beckenbauer]], [[Carlos Alberto Parreira]], [[George Weah]], [[Julie Foudy]], [[Raymond Kopa]], [[Jean-Pierre Papin]], [[Georges Carnus]], and [[Marius Trésor]].<ref>{{cite web |last=Bailey |first=Ryan |url=https://bleacherreport.com/articles/1861721-charlize-theron-heidi-klum-and-celebrity-stars-of-world-cup-draws-past |title=Charlize Theron, Heidi Klum and Celebrity Stars of World Cup Draws Past |publisher=Bleacher Report |date=25 November 2013 |access-date=26 June 2026 |archive-date=26 June 2026 |archive-url=https://web.archive.org/web/20260626102342/https://bleacherreport.com/articles/1861721-charlize-theron-heidi-klum-and-celebrity-stars-of-world-cup-draws-past |url-status=live }}</ref>
+
+The historic tradition to seed the hosts (France) and [[FIFA World Cup Trophy#Winners|holders]] (Brazil) was upheld; while the remaining six seeds were granted for the other [[1998 FIFA World Cup seeding|top 7-ranked teams]], based on their results obtained in the last three FIFA World Cups (ratio 3:2:1, counting in total 60%) and their [[FIFA Men's World Rankings|FIFA World Ranking]] position in the last month of the past three years (equal ratio, counting in total 40%).<ref name="Seeding">{{cite web|url=https://digitalhub.fifa.com/m/79d9ab359eab12f3/original/g6sxbyxsmoqdxz3firrz-pdf.pdf|archive-url=https://web.archive.org/web/20220322012822/https://digitalhub.fifa.com/m/79d9ab359eab12f3/original/g6sxbyxsmoqdxz3firrz-pdf.pdf|url-status=live|archive-date=22 March 2022|work=FIFA fact sheet|title=FIFA World Cup: seeded teams in 1930–2014}}</ref><ref name="DrawProcedure">{{cite news|url=https://news.bbc.co.uk/2/hi/sport/36285.stm|title=England miss out on World Cup seedings|publisher=BBC News|date=3 December 1997|access-date=28 June 2022|url-status=live|archive-url=https://web.archive.org/web/20211105112417/http://news.bbc.co.uk/2/hi/sport/36285.stm|archive-date=5 November 2021}}</ref>
+
+For the draw, the 32 teams were allocated into four pots. The eight top-seeded teams were allocated in pot A and would be drawn/selected into the first position of the eight groups playing in the group stage. The remaining 24 unseeded teams were allocated into three pots based on geographical sections, with the nine European teams in pot B; four Asian teams and three South American teams in pot C; five African teams and three North American teams in pot D.<ref name="Draw of Groups"/>
+
+The general principle was to draw one team from each pot into the eight groups, although with special combined procedures for pot B and pot C, due to comprising more/less than eight teams – but sixteen teams in total. At the same time, the draw also needed to respect the geographical limitation, that each group could not feature more than one team from each confederation, except for the European teams where the limitation was maximum two per group.<ref name="Draw of Groups"/>
+
+{| class="wikitable"
+|-
+! style="width:25%" | Pot A<br />Top-seeded teams<br /><small>({{Tooltip|DC|Defending Champion (1994 winner)}} + Host + [[1998 FIFA World Cup seeding|Top7 seeds]])</small>
+! style="width:25%" | Pot B<br />Europe<br /><small>([[1998 FIFA World Cup qualification (UEFA)|UEFA]])</small>
+! style="width:25%" | Pot C<br />Asia & South America<br /><small>([[1998 FIFA World Cup qualification (AFC)|AFC]] & [[1998 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]])</small>
+! style="width:25%" | Pot D<br />Africa & North America<br /><small>([[1998 FIFA World Cup qualification (CAF)|CAF]] & [[1998 FIFA World Cup qualification (CONCACAF)|CONCACAF]])</small>
+|- style="vertical-align:top"
+|{{plainlist|
+* {{fb|BRA}} <small>(1994 winner, group A1)</small>
+* {{fb|FRA|1974}} <small>(host, group C1)</small>
+----
+* {{fb|GER}} (1)
+* {{fb|ITA|1946}} (3)
+* {{fb|ESP}} (4)
+* {{fb|ARG}} (5)
+* {{fb|ROU}} (6)
+* {{fb|NED}} (7)
+}}
+|{{plainlist|
+* {{fb|AUT}}
+* {{fb|BEL}}
+* {{fb|BUL}}
+* {{fb|CRO}}
+* {{fb|DEN}}
+* {{fb|ENG}}
+* {{fb|SCO}}
+* {{fb|FRY}}
+* {{fb|NOR}}
+}}
+|{{plainlist|
+* {{fb|CHI}}
+* {{fb|COL}}
+* {{fb|IRN}}
+* {{fb|JPN|1947}}
+* {{fb|PAR|1990}}
+* {{fb|KSA}}
+* {{fb|KOR|1997}}
+}}
+|{{plainlist|
+* {{fb|CMR}}
+* {{fb|JAM}}
+* {{fb|MEX}}
+* {{fb|MAR}}
+* {{fb|NGA}}
+* {{fb|RSA|1994}}
+* {{fb|TUN|1959}}
+* {{fb|USA|1960}}
+}}
+|}
+
+* The draw took place at [[Stade Vélodrome]] in [[Marseille]], and was televised live on 4 December 1997: [https://www.youtube.com/watch?v=KAeH5Xn-6t0 FIFA World Cup Draw] on [[BBC Sport]].
+For the first time in history, the draw event took place in a football stadium, with 38,000 spectators and an estimated 1&nbsp;billion TV viewers. The draw was officiated by FIFA secretary general [[Sepp Blatter]]. Teams were drawn by football legends [[Franz Beckenbauer]], [[Carlos Alberto Parreira]], [[George Weah]] and [[Raymond Kopa]].<ref>{{cite web |title=The FIFA World Cup Final Draw history |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-draw-history.pdf |archive-url=https://web.archive.org/web/20100601111831/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-draw-history.pdf |url-status=dead |archive-date=1 June 2010 |publisher=FIFA |access-date=11 August 2010 }}</ref>
+
+Organiser [[Michel Platini]], who later became president of UEFA, admitted in 2018 that the draw for the group stage of the competition had been fixed so that France and Brazil were kept apart until the final, telling [[France Bleu|France Bleu Sport]]: "We did a bit of trickery. When we were organising the schedule. We did not spend six years organising the World Cup to not do some little shenanigans".<ref>{{cite web|url=https://news.sky.com/story/platini-admits-draw-for-1998-world-cup-was-fixed-so-france-faced-brazil-in-final-11377566|title=Platini admits draw for 1998 World Cup was fixed so France faced Brazil in final|publisher=Sky Sports|first=James |last=Pepper|date=18 May 2018|url-status=live|archive-url=https://web.archive.org/web/20220606230913/https://news.sky.com/story/platini-admits-draw-for-1998-world-cup-was-fixed-so-france-faced-brazil-in-final-11377566|archive-date=6 June 2022}}</ref>
+
+The statement from Platini referred to the fact that, shortly before the World Cup finals draw took place, the [[FIFA World Cup Organisers|FIFA Organising Committee]] had met to finalise the draw process. At this meeting, the committee had approved the proposal to assign host nation France to group position C1 and defending champions Brazil to group position A1 ahead of the draw. As the [[1998 FIFA World Cup knockout stage|tournament structure]] was also predetermined so that the winners of Groups A, D, E and H, and the runners-up of Groups B, C, F and G would be kept apart from the group winners of B, C, F and G, and the runners-up of Group A, D, E and H until the final; thus, France and Brazil could avoid meeting each other until the final if both teams finished in the same position in the top two of their respective groups.<ref>{{cite news |first=Dale |last=Johnson |title=Was the 1998 World Cup in France fixed? Michel Platini's comments explained |url=https://www.espn.co.uk/football/blog/world-cup-central/59/post/3502365/was-the-1998-world-cup-in-france-fixed |publisher=ESPN |date=18 May 2018|url-status=live|archive-url=https://web.archive.org/web/20200604175626/https://www.espn.co.uk/football/blog/world-cup-central/59/post/3502365/was-the-1998-world-cup-in-france-fixed|archive-date=4 June 2020}}</ref>
+
+Procedure for the draw:<ref name="Draw of Groups">{{cite AV media |url=https://www.youtube.com/watch?v=KAeH5Xn-6t0 |title=FRANCE '98 – FIFA World Cup Draw – BBC Sport|date=4 December 1997|via=YouTube|medium=video|url-status=live|archive-url=https://web.archive.org/web/20220608173123/https://www.youtube.com/watch?v=KAeH5Xn-6t0|archive-date=8 June 2022}}</ref>
+# Pot A was used to draw the remaining six top-seeded teams for the first position of groups B, D, E, F, G and H.
+# Pot D was used to draw one team to each of the eight groups (drawing in the alphabetic order from A to H).
+# Pot B was used to draw one team to each of the eight groups (drawing in the alphabetic order from A to H).
+# As per the FIFA rule of only allowing a maximum of two UEFA teams in each group, the remaining ninth team from Pot B, was subject to a second draw, to be put in either of the groups containing a top-seeded [[1998 FIFA World Cup qualification (CONMEBOL)|South American (CONMEBOL)]] team.
+# Pot C was used to draw one team to each of the seven groups with an empty spot (drawing in alphabetical order from A to H). However, as each group could only contain one South American (CONMEBOL) team, the first [[1998 FIFA World Cup qualification (AFC)|Asian (AFC)]] team drawn would not be drawn into a group in alphabetical order, but instead be drawn into the remaining open group with a top-seeded South American (CONMEBOL) team.
+# To decide the match schedules, the exact group position number for the un-seeded teams in each group (2, 3 or 4), were also drawn immediately from eight special group bowls, after each respective team had been drawn from pot D, B and C.
+
+===Draw results and group fixtures===
+The draw resulted in the following eight groups:<ref name="Draw of Groups"/>
+{{col-begin|width=auto}}
+{{col-break|gap=4em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group A|Group A]]
+|-
+!{{Tooltip|Pos|Position}} || width=120|Team
+|-
+|align=center|A1 || {{fb|BRA}}
+|-
+|align=center|A2 || {{fb|SCO}}
+|-
+|align=center|A3 || {{fb|MAR}}
+|-
+|align=center|A4 || {{fb|NOR}}
+|}
+{{col-break|gap=2em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group B|Group B]]
+|-
+!{{Tooltip|Pos|Position}} || width=120|Team
+|-
+|align=center|B1 || {{fb|ITA|1946}}
+|-
+|align=center|B2 || {{fb|CHI}}
+|-
+|align=center|B3 || {{fb|CMR}}
+|-
+|align=center|B4 || {{fb|AUT}}
+|}
+{{col-break|gap=2em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group C|Group C]]
+|-
+!{{Tooltip|Pos|Position}} || width=120|Team
+|-
+|align=center|C1 || {{fb|FRA|1974}}
+|-
+|align=center|C2 || {{fb|RSA|1994}}
+|-
+|align=center|C3 || {{fb|KSA}}
+|-
+|align=center|C4 || {{fb|DEN}}
+|}
+{{col-break|gap=2em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group D|Group D]]
+|-
+!{{Tooltip|Pos|Position}} || width=120|Team
+|-
+|align=center|D1 || {{fb|ESP}}
+|-
+|align=center|D2 || {{fb|NGA}}
+|-
+|align=center|D3 || {{fb|PAR|1990}}
+|-
+|align=center|D4 || {{fb|BUL}}
+|}
+{{col-end}}
+
+{{col-begin|width=auto}}
+{{col-break|gap=4em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group E|Group E]]
+|-
+!{{Tooltip|Pos|Position}} || width=120|Team
+|-
+|align=center|E1 || {{fb|NED}}
+|-
+|align=center|E2 || {{fb|BEL}}
+|-
+|align=center|E3 || {{fb|KOR|1997}}
+|-
+|align=center|E4 || {{fb|MEX}}
+|}
+{{col-break|gap=2em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group F|Group F]]
+|-
+!{{Tooltip|Pos|Position}} ||width=120|Team
+|-
+|align=center|F1 || {{fb|GER}}
+|-
+|align=center|F2 || {{fb|USA|1960}}
+|-
+|align=center|F3 || {{fb|FRY}}
+|-
+|align=center|F4 || {{fb|IRN}}
+|}
+{{col-break|gap=2em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group G|Group G]]
+|-
+!{{Tooltip|Pos|Position}} ||width=120|Team
+|-
+|align=center|G1 || {{fb|ROU}}
+|-
+|align=center|G2 || {{fb|COL}}
+|-
+|align=center|G3 || {{fb|ENG}}
+|-
+|align=center|G4 || {{fb|TUN|1959}}
+|}
+{{col-break|gap=2em}}
+{|class="wikitable" style="display:inline-table;"
+|+ [[#Group H|Group H]]
+|-
+!{{Tooltip|Pos|Position}} ||width=120|Team
+|-
+|align=center|H1 || {{fb|ARG}}
+|-
+|align=center|H2 || {{fb|JPN|1947}}
+|-
+|align=center|H3 || {{fb|JAM}}
+|-
+|align=center|H4 || {{fb|CRO}}
+|}
+{{col-end}}
+In each group, the teams played three matches, one against each of the other teams. Three points were awarded for each win, while a draw was worth one point. After completion of the group stage, the two teams with the most points in each group would advance to the [[#Knockout stage|knockout stage]], with each group winner facing the runner-up from one of the other groups in the round of 16. This was a new format for the World Cup, following the expansion from 24 teams in 1994. A total of 64 games were played, including the [[#Final|final]] and a [[#Match for third place|match for third place]] between the losers of the two semi-finals.
+
+The fixtures for the group stage were decided based on the draw results, as follows:
+
+{|class="wikitable" style="text-align:center"
+|+ Group stage schedule
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|10–15 June 1998
+|1 v 2, 3 v 4
+|-
+|Matchday 2
+|16–22 June 1998
+|1 v 3, 2 v 4
+|-
+|Matchday 3
+|23–26 June 1998
+|4 v 1, 2 v 3
+|}
+
+== Squads ==
+{{further|1998 FIFA World Cup squads}}
+As with the [[1994 FIFA World Cup squads|preceding tournament]], each team's squad for the 1998 World Cup finals consisted of 22 players. Each participating national association had to confirm their final 22-player squad by 1 June 1998.
+
+Out of the 704 players participating in the 1998 World Cup, 447 were signed up with a European club; 90 in Asia, 67 in South America, 61 in Northern and Central America and 37 in Africa.<ref name="Squad">{{cite web |url=https://www.fifa.com/newscentre/news/newsid=71653.html |archive-url=https://web.archive.org/web/20100605235744/http://www.fifa.com/newscentre/news/newsid=71653.html |url-status=dead |archive-date=5 June 2010 |publisher=FIFA |date=8 June 1998 |access-date=29 January 2012 |title=Players Facts & Figures: Eto's the youngest, Leighton the oldest}}</ref> 75 played their club football in England – five more than Italy and Spain. [[FC Barcelona|Barcelona]] of Spain was the club contributing to the most players in the tournament with 13 players on their side.<ref name="Squad"/>
+
+The average age of all teams was 27 years, 8 months – five months older than the previous tournament.{{sfn|FIFA|p=15}} [[Samuel Eto'o]] of [[Cameroon national football team|Cameroon]] was the youngest player selected in the competition at 17 years, 3 months, while the oldest was [[Jim Leighton]] of [[Scotland national football team|Scotland]] at 39 years, 11 months.{{sfn|FIFA|p=15}}
+
+== Group stage ==
+[[File:1998 world cup.png|right|thumb|upright=1.9|{{col-begin}} {{col-4}} {{legend|#2b42a3|Champion}} {{legend|#34c0be|Runner-up}} {{col-4}} {{legend|#269c5a|Third place}} {{legend|#81c846|Fourth place}} {{col-4}} {{legend|#e4e454|Quarter-finals}} {{legend|#f4d4ac|Round of 16}} {{col-4}} {{legend|#b94954|Group stage}} {{col-end}}]] <!-- Note: background colour style shown here for later use, when colour codes used in map determined: <span style="background-color:yellow">text here</span>--->
+
+''All times are [[Central European Summer Time]] ([[UTC+02:00|UTC+2]])''
+
+{| class="wikitable collapsible collapsed" width="30%"
+|-
+! Key for tables
+|-
+|
+*'''Pld''' = total games played
+*'''W''' = total games won
+*'''D''' = total games drawn (tied)
+*'''L''' = total games lost
+*'''GF''' = total goals scored (goals for)
+*'''GA''' = total goals conceded (goals against)
+*'''GD''' = goal difference (GF−GA)
+*'''Pts''' = total points accumulated
+|}
+
+===Group A===
+{{Main|1998 FIFA World Cup Group A}}
+Defending champions Brazil won Group A after only two matches as the nation achieved victories over Scotland (2–1) and Morocco (3–0). Heading into the third game, Brazil had nothing to play for but still started its regulars against Norway, who was looking to upset Brazil once again. Needing a victory, Norway overturned a 1–0 deficit with 7 minutes remaining to defeat Brazil 2–1, with [[Kjetil Rekdal]] scoring<ref>{{cite web|url=http://www.dagsavisen.no/bilder/album2298.zrm|title=Her er de ti beste sportsøyeblikkene|website=Dagsavisen.no|access-date=16 September 2014|archive-url=https://web.archive.org/web/20140912031205/http://www.dagsavisen.no/bilder/album2298.zrm|archive-date=12 September 2014|url-status = dead}}</ref> the winning penalty to send Norway into the knockout stage for the first time.<ref>{{cite web|url=https://footballcoal.com/fifa-world-cup-2022-schedule-pdf-groups-download/|title=FIFA World Cup Schedule Group|publisher=footballcoal.com|date=10 May 1998|accessdate=20 November 2022|archive-date=9 October 2022|archive-url=https://web.archive.org/web/20221009100806/https://footballcoal.com/fifa-world-cup-2022-schedule-pdf-groups-download/|url-status=usurped}}</ref>
+
+Norway's victory denied Morocco a chance at the Round of 16, despite winning 3–0 against Scotland. It was only Morocco's second ever victory at a World Cup, having recorded its first previous win 12 years earlier on 11 June 1986.
+
+Scotland managed only one point, coming in a 1–1 draw against Norway, and failed to get out of the first round for an eighth time in the FIFA World Cup, a record that stands to this date.
+{{:1998 FIFA World Cup Group A|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group A}}
+
+===Group B===
+{{Main|1998 FIFA World Cup Group B}}
+Italy and Chile progressed to the second round, while Austria failed to win for the first time since [[1958 FIFA World Cup|1958]] and Cameroon failed to get out of the group stage for the second time in a row. Italy were the only team in the group to win a match, defeating both Austria and Cameroon, who drew with each other: Chile drew all three of their matches, and thus finished ahead of the other two by virtue of having been the only team to take a point off Italy.
+{{:1998 FIFA World Cup Group B|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group B}}
+
+===Group C===
+{{Main|1998 FIFA World Cup Group C}}
+France, the host nation, swept Group C when the start of their path to their first FIFA World Cup trophy culminated with their 2–1 win over Denmark, who despite their loss, progressed to the second round. Saudi Arabia, after a good performance four years earlier, finished bottom with only one point. Debutant South Africa grabbed two points and also exited at the group stage.
+{{:1998 FIFA World Cup Group C|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group C}}
+
+===Group D===
+{{Main|1998 FIFA World Cup Group D}}
+Nigeria and Paraguay advanced to the Round of 16. Nigeria scored a surprise victory over top seed Spain, while Paraguay drew with them, and Bulgaria failed to repeat their surprise performance from the previous tournament. With Nigeria already guaranteed qualification with 6 points, Paraguay defeated them to secure their second-place in the group ahead of Spain.
+{{:1998 FIFA World Cup Group D|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group D}}
+
+===Group E===
+{{Main|1998 FIFA World Cup Group E}}
+The Netherlands and Mexico advanced with the same record, with the former placing first on goal difference. Belgium and eventual [[2002 FIFA World Cup]] co-hosts South Korea failed to advance, although Belgium were undefeated with three draws. 
+{{:1998 FIFA World Cup Group E|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group E}}
+
+===Group F===
+{{Main|1998 FIFA World Cup Group F}}
+Germany and the Federal Republic of Yugoslavia advanced, each with 7 points (Germany took 1st on goal difference). Iran and [[1994 FIFA World Cup|1994 host]] United States failed to advance.
+{{:1998 FIFA World Cup Group F|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group F}}
+
+===Group G===
+{{Main|1998 FIFA World Cup Group G}}
+Romania topped the group over England, while Colombia and Tunisia were unable to reach the last 16, despite Colombia having one win.
+{{:1998 FIFA World Cup Group G|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group G}}
+
+===Group H===
+{{Main|1998 FIFA World Cup Group H}}
+Argentina finished at the top of Group H against three debutants. Croatia took the runners-up spot while Jamaica and Japan failed to advance.
+{{:1998 FIFA World Cup Group H|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=1998 FIFA World Cup Group H}}
+
+== Knockout stage ==
+{{Main|1998 FIFA World Cup knockout stage}}
+The [[single-elimination tournament|knockout stage]] comprised the 16 teams that advanced from the group stage of the tournament. For each game in the knockout stage, any draw at 90 minutes was followed by 30 minutes of [[extra time]]; if scores were still level, there was a [[Penalty shoot-out (association football)|penalty shoot-out]] to determine who progressed to the next round. The [[golden goal]] rule was also used, whereby if a team scored during extra time, they would immediately win the game.
+
+=== Bracket ===
+{{trim|{{#section-h:1998 FIFA World Cup knockout stage|Bracket}}}}
+
+=== Round of 16 ===
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 1}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 2}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 3}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 4}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 5}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 6}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 7}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|R of 16 8}}
+
+=== Quarter-finals ===
+{{#lst:1998 FIFA World Cup knockout stage|QF1}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|QF2}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|QF3}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|QF4}}
+
+=== Semi-finals ===
+{{#lst:1998 FIFA World Cup knockout stage|SF1}}
+----
+{{#lst:1998 FIFA World Cup knockout stage|SF2}}
+
+=== Match for third place ===
+Croatia beat the Netherlands to earn third place in the competition. [[Davor Šuker]] scored the winner in the 36th minute to secure the golden boot.<ref>{{cite news |url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/11/croatia_optional/ |publisher=CNNSI |agency=Associated Press |date=11 July 1998 |access-date=28 January 2012 |title=Debutant takes third place with win over the Netherlands |archive-date=11 January 2008 |archive-url=https://web.archive.org/web/20080111223343/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/11/croatia_optional/ |url-status=dead }}</ref>
+{{#lst:1998 FIFA World Cup knockout stage|Third}}
+
+=== Final ===
+{{Main|1998 FIFA World Cup final}}
+The final was held on 12 July 1998 at the Stade de France, Saint-Denis. France defeated holders Brazil 3–0, with two goals from Zinedine Zidane and a stoppage time strike from Emmanuel Petit. The win gave France their first World Cup title, becoming the sixth national team after [[Uruguay national football team|Uruguay]], [[Italy national football team|Italy]], [[England national football team|England]], [[Germany national football team|West Germany]] and [[Argentina national football team|Argentina]] to win the tournament on their home soil. They also inflicted the second-heaviest World Cup defeat on Brazil,<ref>{{cite web |url=http://www.soccertimes.com/worldcup/1998/games/jul12.htm |work=[[Gannett News Service]] |publisher=SoccerTimes |date=12 July 1998 |access-date=27 January 2012 |first=Oberjuerge |location=Paris |last=Paul |title=France plays perfect host; hoists World Cup in Paris. |archive-url=https://web.archive.org/web/20111128230026/http://www.soccertimes.com/worldcup/1998/games/jul12.htm |archive-date=28 November 2011 |url-status = dead }}</ref> later to be topped by Brazil's [[Brazil v Germany (2014 FIFA World Cup)|7–1 defeat by Germany]] in the semi-finals of the [[2014 FIFA World Cup]].<ref>{{cite web |title=Match report |url=https://www.fifa.com/worldcup/matches/round=255955/match=300186474/report.html|archive-url=https://web.archive.org/web/20140708203811/http://www.fifa.com/worldcup/matches/round=255955/match=300186474/report.html|url-status=dead|archive-date=8 July 2014|publisher= Fédération Internationale de Football Association}}</ref>
+
+The pre-match build up was dominated by the omission of Brazilian striker [[Ronaldo (Brazilian footballer)|Ronaldo]] from the starting lineup only to be reinstated 45 minutes before kick-off.<ref>{{cite news |archive-url=https://web.archive.org/web/20060509064955/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/12/ronaldo_criticize/ |archive-date=9 May 2006 |url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/12/ronaldo_criticize/ |publisher=[[CNN/SI]] |agency=Associated Press |date=12 July 1998 |access-date=27 January 2012 |title=World commentators decry Brazil, Ronaldo |url-status=dead }}</ref> He managed to create the first open chance for Brazil in the 22nd minute, dribbling past defender Thuram before sending a cross out on the left side that goalkeeper [[Fabien Barthez]] struggled to hold onto. France however took the lead after Brazilian defender [[Roberto Carlos]] conceded a corner from which Zidane scored via a header. Three minutes before half-time, Zidane scored his second goal of the match, similarly another header from a corner. The tournament hosts went down to ten men in the 68th minute as [[Marcel Desailly]] was sent off for a second bookable offence. Brazil reacted to this by making an attacking substitution and although they applied pressure France sealed the win with a third goal: substitute [[Patrick Vieira]] set up his club teammate Petit in a counterattack to shoot low past goalkeeper [[Cláudio Taffarel]].<ref>{{cite web|url= https://news.google.com/newspapers?id=3_xOAAAAIBAJ&pg=4764,3287240&dq=france+win+world+cup&hl=en|title= ZZ Top of the World|date= 13 July 1998|work= New Straits Times|access-date= 19 June 2013|archive-date= 21 November 2022|archive-url= https://web.archive.org/web/20221121134251/https://news.google.com/newspapers?id=3_xOAAAAIBAJ&pg=4764,3287240&dq=france+win+world+cup&hl=en|url-status= live}}</ref>
+
+French president Jacques Chirac was in attendance to congratulate the winners and commiserate the runners-up after the match.<ref>{{cite news |url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/12/zidane_side/ |publisher=CNNSI |agency=Associated Press |date=12 July 1998 |access-date=27 January 2012 |title=Zidane leads France to pinnacle of soccer glory |archive-date=15 April 2014 |archive-url=https://web.archive.org/web/20140415233742/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/12/zidane_side/ |url-status=dead }}</ref> Several days after the victory, winning manager [[Aimé Jacquet]] announced his resignation from the French team with immediate effect.<ref>{{cite web |url=http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=154131 |work=[[Le Monde]] |date=18 July 1998 |access-date=27 January 2012 |first=Elie |last=Barth |title=Il devrait succéder à Gérard Houllier comme directeur technique national |language=fr |archive-date=4 September 2015 |archive-url=https://web.archive.org/web/20150904114310/http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=154131 |url-status=live }}</ref><ref>{{cite web |url=https://news.google.com/newspapers?nid=1309&dat=19980718&id=4_xOAAAAIBAJ&pg=3126,4864113 |work=[[New Straits Times]] |date=18 July 1998 |access-date=27 January 2012 |title=Jacquet steps down to move up |archive-date=20 May 2022 |archive-url=https://web.archive.org/web/20220520214644/https://news.google.com/newspapers?nid=1309&dat=19980718&id=4_xOAAAAIBAJ&pg=3126,4864113 |url-status=live }}</ref>
+
+{{#lst:1998 FIFA World Cup final|Final}}
+
+== Statistics ==
+
+=== Goalscorers ===
+Davor Šuker received the [[FIFA World Cup awards#Golden Boot|Golden Boot]] for scoring six goals. In total, 171 goals were scored by 112 players:
+
+;6 goals
+* {{flagicon|CRO}} [[Davor Šuker]]
+
+;5 goals
+* {{flagicon|ARG|1861}} [[Gabriel Batistuta]]
+* {{flagicon|ITA|1946}} [[Christian Vieri]]
+
+;4 goals
+* {{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]]
+* {{flagicon|CHI}} [[Marcelo Salas]]
+* {{flagicon|MEX}} [[Luis Hernández (footballer, born 1968)|Luis Hernández]]
+
+;3 goals
+{{Div col|colwidth=30em}}
+* {{flagicon|BRA}} [[Bebeto]]
+* {{flagicon|BRA}} [[César Sampaio]]
+* {{flagicon|BRA}} [[Rivaldo]]
+* {{flagicon|FRA|1974}} [[Thierry Henry]]
+* {{flagicon|GER}} [[Oliver Bierhoff]]
+* {{flagicon|GER}} [[Jürgen Klinsmann]]
+* {{flagicon|NED}} [[Dennis Bergkamp]]
+{{Div col end}}
+
+;2 goals
+{{Div col|colwidth=30em}}
+* {{flagicon|ARG|1861}} [[Ariel Ortega]]
+* {{flagicon|BEL}} [[Marc Wilmots]]
+* {{flagicon|CRO}} [[Robert Prosinečki]]
+* {{flagicon|DEN}} [[Brian Laudrup]]
+* {{flagicon|ENG}} [[Michael Owen]]
+* {{flagicon|ENG}} [[Alan Shearer]]
+* {{flagicon|FRA|1974}} [[Emmanuel Petit]]
+* {{flagicon|FRA|1974}} [[Lilian Thuram]]
+* {{flagicon|FRA|1974}} [[Zinedine Zidane]]
+* {{flagicon|ITA|1946}} [[Roberto Baggio]]
+* {{flagicon|JAM}} [[Theodore Whitmore]]
+* {{flagicon|MEX}} [[Ricardo Peláez]]
+* {{flagicon|MAR}} [[Salaheddine Bassir]]
+* {{flagicon|MAR}} [[Abdeljalil Hadda]]
+* {{flagicon|NED}} [[Phillip Cocu]]
+* {{flagicon|NED}} [[Ronald de Boer]]
+* {{flagicon|NED}} [[Patrick Kluivert]]
+* {{flagicon|ROU}} [[Viorel Moldovan]]
+* {{flagicon|RSA}} [[Shaun Bartlett]]
+* {{flagicon|ESP}} [[Fernando Hierro]]
+* {{flagicon|ESP}} [[Fernando Morientes]]
+* {{flagicon|FRY}} [[Slobodan Komljenović]]
+{{Div col end}}
+
+;1 goal
+{{Div col|colwidth=30em}}
+* {{flagicon|ARG|1861}} [[Claudio López (footballer)|Claudio López]]
+* {{flagicon|ARG|1861}} [[Mauricio Pineda (footballer, born 1975)|Mauricio Pineda]]
+* {{flagicon|ARG|1861}} [[Javier Zanetti]]
+* {{flagicon|AUT}} [[Andreas Herzog]]
+* {{flagicon|AUT}} [[Toni Polster]]
+* {{flagicon|AUT}} [[Ivica Vastić]]
+* {{flagicon|BEL}} [[Luc Nilis]]
+* {{flagicon|BUL}} [[Emil Kostadinov]]
+* {{flagicon|CMR}} [[Patrick M'Boma]]
+* {{flagicon|CMR}} [[Pierre Njanka]]
+* {{flagicon|CHI}} [[José Luis Sierra (footballer, born 1968)|José Luis Sierra]]
+* {{flagicon|COL}} [[Léider Preciado]]
+* {{flagicon|CRO}} [[Robert Jarni]]
+* {{flagicon|CRO}} [[Mario Stanić]]
+* {{flagicon|CRO}} [[Goran Vlaović]]
+* {{flagicon|DEN}} [[Thomas Helveg]]
+* {{flagicon|DEN}} [[Martin Jørgensen]]
+* {{flagicon|DEN}} [[Michael Laudrup]]
+* {{flagicon|DEN}} [[Peter Møller]]
+* {{flagicon|DEN}} [[Allan Nielsen]]
+* {{flagicon|DEN}} [[Marc Rieper]]
+* {{flagicon|DEN}} [[Ebbe Sand]]
+* {{flagicon|ENG}} [[Darren Anderton]]
+* {{flagicon|ENG}} [[David Beckham]]
+* {{flagicon|ENG}} [[Paul Scholes]]
+* {{flagicon|FRA|1974}} [[Laurent Blanc]]
+* {{flagicon|FRA|1974}} [[Youri Djorkaeff]]
+* {{flagicon|FRA|1974}} [[Christophe Dugarry]]
+* {{flagicon|FRA|1974}} [[Bixente Lizarazu]]
+* {{flagicon|FRA|1974}} [[David Trezeguet]]
+* {{flagicon|GER}} [[Andreas Möller]]
+* {{flagicon|IRN}} [[Mehdi Mahdavikia]]
+* {{flagicon|IRN}} [[Hamid Estili]]
+* {{flagicon|ITA|1946}} [[Luigi Di Biagio]]
+* {{flagicon|JAM}} [[Robbie Earle]]
+* {{flagicon|JPN|1870}} [[Masashi Nakayama]]
+* {{flagicon|MEX}} [[Cuauhtémoc Blanco]]
+* {{flagicon|MEX}} [[Alberto García Aspe]]
+* {{flagicon|MAR}} [[Mustapha Hadji]]
+* {{flagicon|NED}} [[Edgar Davids]]
+* {{flagicon|NED}} [[Marc Overmars]]
+* {{flagicon|NED}} [[Pierre van Hooijdonk]]
+* {{flagicon|NED}} [[Boudewijn Zenden]]
+* {{flagicon|NGA}} [[Mutiu Adepoju]]
+* {{flagicon|NGA}} [[Tijani Babangida]]
+* {{flagicon|NGA}} [[Victor Ikpeba]]
+* {{flagicon|NGA}} [[Sunday Oliseh]]
+* {{flagicon|NGA}} [[Wilson Oruma]]
+* {{flagicon|NOR}} [[Dan Eggen]]
+* {{flagicon|NOR}} [[Håvard Flo]]
+* {{flagicon|NOR}} [[Tore André Flo]]
+* {{flagicon|NOR}} [[Kjetil Rekdal]]
+* {{flagicon|PAR|1990}} [[Celso Ayala]]
+* {{flagicon|PAR|1990}} [[Miguel Ángel Benítez Pavón|Miguel Ángel Benítez]]
+* {{flagicon|PAR|1990}} [[José Cardozo]]
+* {{flagicon|ROU}} [[Adrian Ilie]]
+* {{flagicon|ROU}} [[Dan Petrescu]]
+* {{flagicon|KSA}} [[Sami Al-Jaber]]
+* {{flagicon|KSA}} [[Yousuf Al-Thunayan]]
+* {{flagicon|SCO}} [[Craig Burley]]
+* {{flagicon|SCO}} [[John Collins (footballer, born 1968)|John Collins]]
+* {{flagicon|RSA}} [[Benni McCarthy]]
+* {{flagicon|KOR|1997}} [[Ha Seok-ju]]
+* {{flagicon|KOR|1997}} [[Yoo Sang-chul]]
+* {{flagicon|ESP}} [[Kiko (footballer, born 1972)|Kiko]]
+* {{flagicon|ESP}} [[Luis Enrique (footballer)|Luis Enrique]]
+* {{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+* {{flagicon|TUN|1959}} [[Skander Souayah]]
+* {{flagicon|USA}} [[Brian McBride]]
+* {{flagicon|FRY}} [[Siniša Mihajlović]]
+* {{flagicon|FRY}} [[Predrag Mijatović]]
+* {{flagicon|FRY}} [[Dragan Stojković]]
+{{Div col end}}
+
+;Own goals
+{{Div col|colwidth=30em}}
+* {{flagicon|BUL}} [[Georgi Bachev]] (against Spain)
+* {{flagicon|MAR}} [[Youssef Chippo]] (against Norway)
+* {{flagicon|SCO}} [[Tom Boyd (Scottish footballer)|Tom Boyd]] (against Brazil)
+* {{flagicon|RSA}} [[Pierre Issa]] (against France)
+* {{flagicon|ESP}} [[Andoni Zubizarreta]] (against Nigeria)
+* {{flagicon|FRY}} [[Siniša Mihajlović]] (against Germany)
+{{Div col end}}
+
+===Discipline===
+{| class="wikitable sortable plainrowheaders"
+|-
+! Player
+! Offence(s)
+! Suspension(s)
+|-
+| {{fbicon|BUL}} [[Anatoli Nankov]]
+| {{Sent off|2}} in [[1998 FIFA World Cup Group D#Paraguay vs Bulgaria|Group D]] vs [[Paraguay national football team|Paraguay]] (matchday 1; 12 June)
+| [[1998 FIFA World Cup Group D#Nigeria vs Bulgaria|Group D]] vs [[Nigeria national football team|Nigeria]] (matchday 2; 19 June)
+|-
+| {{fbicon|KOR}} [[Ha Seok-ju]]
+| {{sent off}} in [[1998 FIFA World Cup Group E#South Korea vs Mexico|Group E]] vs [[Mexico national football team|Mexico]] (matchday 1; 13 June)
+| [[1998 FIFA World Cup Group E#Netherlands vs South Korea|Group E]] vs [[Netherlands national football team|Netherlands]] (matchday 2; 20 June)
+|-
+| {{fbicon|NED}} [[Patrick Kluivert]]
+| {{sent off}} in [[1998 FIFA World Cup Group E#Netherlands vs Belgium|Group E]] vs [[Belgium national football team|Belgium]] (matchday 1; 13 June)
+| [[1998 FIFA World Cup Group E#Netherlands vs South Korea|Group E]] vs [[South Korea national football team|South Korea]] (matchday 2; 20 June)<br>[[1998 FIFA World Cup Group E#Netherlands vs Mexico|Group E]] vs [[Mexico national football team|Mexico]] (matchday 3; 25 June)
+|-
+| {{fbicon|SCO}} [[Darren Jackson (Scottish footballer)|Darren Jackson]]
+| {{yel}} in [[1998 FIFA World Cup Group A#Brazil vs Scotland|Group A]] vs [[Brazil national football team|Brazil]] (matchday 1; 10 June)<br>{{yel}} in [[1998 FIFA World Cup Group A#Scotland vs Norway|Group A]] vs [[Norway national football team|Norway]] (matchday 2; 16 June)
+| [[1998 FIFA World Cup Group A#Scotland vs Morocco|Group A]] vs [[Morocco national football team|Morocco]] (matchday 3; 23 June)
+|-
+| {{fbicon|BRA}} [[César Sampaio]]
+| {{yel}} in [[1998 FIFA World Cup Group A#Brazil vs Scotland|Group A]] vs [[Scotland national football team|Scotland]] (matchday 1; 10 June)<br>{{yel}} in [[1998 FIFA World Cup Group A#Brazil vs Morocco|Group A]] vs [[Morocco national football team|Morocco]] (matchday 2; 16 June)
+| [[1998 FIFA World Cup Group A#Brazil vs Norway|Group A]] vs [[Norway national football team|Norway]] (matchday 3; 23 June)
+|-
+| {{fbicon|MAR}} [[Saïd Chiba]]
+| {{yel}} in [[1998 FIFA World Cup Group A#Morocco vs Norway|Group A]] vs [[Norway national football team|Norway]] (matchday 1; 10 June)<br>{{yel}} in [[1998 FIFA World Cup Group A#Brazil vs Morocco|Group A]] vs [[Morocco national football team|Morocco]] (matchday 2; 16 June)
+| [[1998 FIFA World Cup Group A#Scotland vs Morocco|Group A]] vs [[Scotland national football team|Scotland]] (matchday 3; 23 June)
+|-
+| {{fbicon|CMR}} [[Raymond Kalla]]
+| {{sent off}} in [[1998 FIFA World Cup Group B#Italy vs Cameroon|Group B]] vs [[Italy national football team|Italy]] (matchday 2; 17 June)
+| [[1998 FIFA World Cup Group B#Chile vs Cameroon|Group B]] vs [[Chile national football team|Chile]] (matchday 3; 23 June)
+|-
+| {{fbicon|DEN}} [[Miklos Molnar]]
+| {{sent off}} in [[1998 FIFA World Cup Group C#South Africa vs Denmark|Group C]] vs [[South Africa national football team|South Africa]] (matchday 2; 18 June)
+| [[1998 FIFA World Cup Group C#France vs Denmark|Group C]] vs [[France national football team|France]] (matchday 3; 24 June)<br>[[1998 FIFA World Cup knockout stage#Nigeria vs Denmark|Round of 16]] vs [[Nigeria national football team|Nigeria]] (28 June)
+|-
+| {{fbicon|RSA}} [[Alfred Phiri]]
+| {{sent off}} in [[1998 FIFA World Cup Group C#South Africa vs Denmark|Group C]] vs [[Denmark national football team|Denmark]] (matchday 2; 18 June)
+| [[1998 FIFA World Cup Group C#South Africa vs Saudi Arabia|Group C]] vs [[Saudi Arabia national football team|Saudi Arabia]] (matchday 3; 24 June)
+|-
+| {{fbicon|DEN}} [[Morten Wieghorst]]
+| {{sent off}} in [[1998 FIFA World Cup Group C#South Africa vs Denmark|Group C]] vs [[South Africa national football team|South Africa]] (matchday 2; 18 June)
+| [[1998 FIFA World Cup Group C#France vs Denmark|Group C]] vs [[France national football team|France]] (matchday 3; 24 June)
+|-
+| {{fbicon|SAU}} [[Mohammed Al-Khilaiwi]]
+| {{sent off}} in [[1998 FIFA World Cup Group C#France vs Saudi Arabia|Group C]] vs [[France national football team|France]] (matchday 2; 18 June)
+| [[1998 FIFA World Cup Group C#South Africa vs Saudi Arabia|Group C]] vs [[South Africa national football team|South Africa]] (matchday 3; 24 June)
+|-
+| {{fbicon|FRA}} [[Zinedine Zidane]]
+| {{sent off}} in [[1998 FIFA World Cup Group C#France vs Saudi Arabia|Group C]] vs [[Saudi Arabia national football team|Saudi Arabia]] (matchday 2; 18 June)
+| [[1998 FIFA World Cup Group C#France vs Denmark|Group C]] vs [[Denmark national football team|Denmark]] (matchday 3; 24 June)<br>[[1998 FIFA World Cup knockout stage#France vs Paraguay|Round of 16]] vs [[Paraguay national football team|Paraguay]] (28 June)
+|-
+| {{fbicon|NGA}} [[Uche Okechukwu]]
+| {{yel}} in [[1998 FIFA World Cup Group D#Spain vs Nigeria|Group D]] vs [[Spain national football team|Spain]] (matchday 1; 13 June)<br>{{yel}} in [[1998 FIFA World Cup Group D#Nigeria vs Bulgaria|Group D]] vs [[Bulgaria national football team|Bulgaria]] (matchday 2; 19 June)
+| [[1998 FIFA World Cup Group D#Nigeria vs Paraguay|Group D]] vs [[Paraguay national football team|Paraguay]] (matchday 3; 24 June)
+|-
+| {{fbicon|JAP}} [[Eisuke Nakanishi]]
+| {{yel}} in [[1998 FIFA World Cup Group H#Argentina vs Japan|Group H]] vs [[Argentina national football team|Argentina]] (matchday 1; 14 June)<br>{{yel}} in [[1998 FIFA World Cup Group H#Japan vs Croatia|Group H]] vs [[Croatia national football team|Croatia]] (matchday 2; 20 June)
+| [[1998 FIFA World Cup Group H#Japan vs Jamaica|Group H]] vs [[Jamaica national football team|Jamaica]] (matchday 3; 26 June)
+|-
+| {{fbicon|MEX}} [[Pável Pardo]]
+| {{sent off}} in [[1998 FIFA World Cup Group E#Belgium vs Mexico|Group E]] vs [[Belgium national football team|Belgium]] (matchday 2; 20 June)
+| [[1998 FIFA World Cup Group E#Netherlands vs Mexico|Group E]] vs [[Netherlands national football team|Netherlands]] (matchday 3; 25 June)
+|-
+| {{fbicon|BEL}} [[Gert Verheyen]]
+| {{sent off}} in [[1998 FIFA World Cup Group E#Belgium vs Mexico|Group E]] vs [[Mexico national football team|Mexico]] (matchday 2; 20 June)
+| [[1998 FIFA World Cup Group E#Belgium vs South Korea|Group E]] vs [[South Korea national football team|South Korea]] (matchday 3; 25 June)
+|-
+| {{fbicon|JAM}} [[Darryl Powell]]
+| {{Sent off|2}} in [[1998 FIFA World Cup Group H#Argentina vs Jamaica|Group H]] vs [[Argentina national football team|Argentina]] (matchday 2; 21 June)
+| [[1998 FIFA World Cup Group H#Japan vs Jamaica|Group H]] vs [[Japan national football team|Japan]] (matchday 3; 26 June)
+|-
+| {{fbicon|COL}} [[José Santa]]
+| {{yel}} in [[1998 FIFA World Cup Group G#Romania vs Colombia|Group G]] vs [[Romania national football team|Romania]] (matchday 1; 15 June)<br>{{yel}} in [[1998 FIFA World Cup Group G#Colombia vs Tunisia|Group G]] vs [[Tunisia national football team|Tunisia]] (matchday 2; 22 June)
+| [[1998 FIFA World Cup Group G#Colombia vs England|Group G]] vs [[England national football team|England]] (matchday 3; 26 June)
+|-
+| {{fbicon|TUN}} [[José Clayton]]
+| {{yel}} in [[1998 FIFA World Cup Group G#England vs Tunisia|Group G]] vs [[England national football team|England]] (matchday 1; 15 June)<br>{{yel}} in [[1998 FIFA World Cup Group G#Colombia vs Tunisia|Group G]] vs [[Colombia national football team|Colombia]] (matchday 2; 22 June)
+| [[1998 FIFA World Cup Group G#Romania vs Tunisia|Group G]] vs [[Romania national football team|Romania]] (matchday 3; 26 June)
+|-
+| {{fbicon|ROM}} [[Iulian Filipescu]]
+| {{yel}} in [[1998 FIFA World Cup Group G#Romania vs Colombia|Group G]] vs [[Colombia national football team|Colombia]] (matchday 1; 15 June)<br>{{yel}} in [[1998 FIFA World Cup Group G#Romania vs England|Group G]] vs [[England national football team|England]] (matchday 2; 22 June)
+| [[1998 FIFA World Cup Group G#Romania vs Tunisia|Group G]] vs [[Tunisia national football team|Tunisia]] (matchday 3; 26 June)
+|-
+| {{fbicon|CHI}} [[Nelson Parraguez]]
+| {{yel}} in [[1998 FIFA World Cup Group B#Italy vs Chile|Group B]] vs [[Italy national football team|Italy]] (matchday 1; 11 June)<br>{{yel}} in [[1998 FIFA World Cup Group B#Chile vs Cameroon|Group B]] vs [[Cameroon national football team|Cameroon]] (matchday 3; 23 June)
+| [[1998 FIFA World Cup knockout stage#Brazil vs Chile|Round of 16]] vs [[Brazil national football team|Brazil]] (27 June)
+|-
+| {{fbicon|CMR}} [[Rigobert Song]]
+| {{sent off}} in [[1998 FIFA World Cup Group B#Chile vs Cameroon|Group B]] vs [[Chile national football team|Chile]] (matchday 3; 23 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|CHI}} [[Francisco Rojas (footballer, born 1974)|Francisco Rojas]]
+| {{yel}} in [[1998 FIFA World Cup Group B#Italy vs Chile|Group B]] vs [[Italy national football team|Italy]] (matchday 1; 11 June)<br>{{yel}} in [[1998 FIFA World Cup Group B#Chile vs Cameroon|Group B]] vs [[Cameroon national football team|Cameroon]] (matchday 3; 23 June)
+| [[1998 FIFA World Cup knockout stage#Brazil vs Chile|Round of 16]] vs [[Brazil national football team|Brazil]] (27 June)
+|-
+| {{fbicon|CHI}} [[Moisés Villarroel (Chilean footballer)|Moisés Villarroel]]
+| {{yel}} in [[1998 FIFA World Cup Group B#Chile vs Austria|Group B]] vs [[Austria national football team|Austria]] (matchday 2; 17 June)<br>{{yel}} in [[1998 FIFA World Cup Group B#Chile vs Cameroon|Group B]] vs [[Cameroon national football team|Cameroon]] (matchday 3; 23 June)
+| [[1998 FIFA World Cup knockout stage#Brazil vs Chile|Round of 16]] vs [[Brazil national football team|Brazil]] (27 June)
+|-
+| {{fbicon|CMR}} [[Lauren (Cameroonian footballer)|Lauren]]
+| {{sent off}} in [[1998 FIFA World Cup Group B#Chile vs Cameroon|Group B]] vs [[Chile national football team|Chile]] (matchday 3; 23 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|SCO}} [[Craig Burley]]
+| {{sent off}} in [[1998 FIFA World Cup Group A#Scotland vs Morocco|Group A]] vs [[Morocco national football team|Morocco]] (matchday 3; 23 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|MEX}} [[Ramón Ramírez (footballer)|Ramón Ramírez]]
+| {{sent off}} in [[1998 FIFA World Cup Group E#Netherlands vs Mexico|Group E]] vs [[Netherlands national football team|Netherlands]] (matchday 3; 25 June)
+| [[1998 FIFA World Cup knockout stage#Germany vs Mexico|Round of 16]] vs [[Germany national football team|Germany]] (29 June)
+|-
+| {{fbicon|CRO}} [[Zvonimir Soldo]]
+| {{yel}} in [[1998 FIFA World Cup Group H#Jamaica vs Croatia|Group H]] vs [[Jamaica national football team|Jamaica]] (matchday 1; 14 June)<br>{{yel}} in [[1998 FIFA World Cup Group H#Argentina vs Croatia|Group H]] vs [[Argentina national football team|Argentina]] (matchday 3; 26 June)
+| [[1998 FIFA World Cup knockout stage#Romania vs Croatia|Round of 16]] vs [[Romania national football team|Romania]] (30 June)
+|-
+| {{fbicon|ENG}} [[David Beckham]]
+| {{sent off}} in [[1998 FIFA World Cup knockout stage#Argentina vs England|Round of 16]] vs [[Argentina national football team|Argentina]] (30 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|BRA}} [[Cafu]]
+| {{yel}} in [[1998 FIFA World Cup knockout stage#Brazil vs Chile|Round of 16]] vs [[Chile national football team|Chile]] (27 June)<br>{{yel}} in [[1998 FIFA World Cup knockout stage#Brazil vs Denmark|Quarter-finals]] vs [[Denmark national football team|Denmark]] (3 July)
+| [[1998 FIFA World Cup knockout stage#Brazil vs Netherlands|Semi-finals]] vs [[Netherlands national football team|Netherlands]] (7 July)
+|-
+| {{fbicon|NED}} [[Arthur Numan]]
+| {{Sent off|2}} in [[1998 FIFA World Cup knockout stage#Netherlands vs Argentina|Quarter-finals]] vs [[Argentina national football team|Argentina]] (4 July)
+| [[1998 FIFA World Cup knockout stage#Brazil vs Netherlands|Semi-finals]] vs [[Brazil national football team|Brazil]] (7 July)
+|-
+| {{fbicon|ARG}} [[Ariel Ortega]]
+| {{sent off}} in [[1998 FIFA World Cup knockout stage#Netherlands vs Argentina|Quarter-finals]] vs [[Netherlands national football team|Netherlands]] (4 July)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|GER}} [[Christian Wörns]]
+| {{sent off}} in [[1998 FIFA World Cup knockout stage#Germany vs Croatia|Quarter-finals]] vs [[Croatia national football team|Croatia]] (4 July)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|FRA}} [[Laurent Blanc]]
+| {{sent off}} in [[1998 FIFA World Cup knockout stage#France vs Croatia|Semi-finals]] vs [[Croatia national football team|Croatia]] (8 July)
+| [[1998 FIFA World Cup knockout stage#Brazil vs France|Final]] vs [[Brazil national football team|Brazil]] (12 July)
+|-
+| {{fbicon|CRO}} [[Dario Šimić]]
+| {{yel}} in [[1998 FIFA World Cup knockout stage#Germany vs Croatia|Quarter-finals]] vs [[Germany national football team|Germany]] (4 July)<br>{{yel}} in [[1998 FIFA World Cup knockout stage#France vs Croatia|Semi-finals]] vs [[France national football team|France]] (8 July)
+| [[1998 FIFA World Cup knockout stage#Netherlands vs Croatia|Match for third place]] vs [[Netherlands national football team|Netherlands]] (11 July)
+|-
+| {{fbicon|FRA}} [[Marcel Desailly]]
+| {{Sent off|2}} in [[1998 FIFA World Cup knockout stage#Brazil vs France|Final]] vs [[Brazil national football team|Brazil]] (12 July)
+| ''Suspension served outside tournament''
+|-
+|}
+
+
+=== Awards ===
+{| class="wikitable" style="margin:0 auto"
+|-
+![[Golden Ball (FIFA)|Golden Ball Award]]
+![[Adidas Golden Shoe|Golden Shoe Award]]
+![[Yashin Award]]
+![[FIFA World Cup Fair Play Trophy|FIFA Fair Play Trophy]]
+![[FIFA World Cup awards#Most Entertaining Team|Most Entertaining Team]]
+|-
+|align=center|{{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]]
+|align=center|{{flagicon|CRO}} [[Davor Šuker]]
+|align=center|{{flagicon|FRA|1974}} [[Fabien Barthez]]
+|align=center|{{fb|ENG}}<br />{{fb|FRA|1974}}
+|align=center|{{fb|FRA|1974}}
+|}
+
+=== Players who were red-carded during the tournament ===
+{{Div col|colwidth=30em}}
+* {{flagicon|ARG|1861}} [[Ariel Ortega]]
+* {{flagicon|BEL}} [[Gert Verheyen]]
+* {{flagicon|BUL}} [[Anatoli Nankov]]
+* {{flagicon|CMR}} [[Raymond Kalla]]
+* {{flagicon|CMR}} [[Lauren (Cameroonian footballer)|Lauren]]
+* {{flagicon|CMR}} [[Rigobert Song]]
+* {{flagicon|DEN}} [[Miklos Molnar]]
+* {{flagicon|DEN}} [[Morten Wieghorst]]
+* {{flagicon|ENG}} [[David Beckham]]
+* {{flagicon|FRA|1974}} [[Laurent Blanc]]
+* {{flagicon|FRA|1974}} [[Marcel Desailly]]
+* {{flagicon|FRA|1974}} [[Zinedine Zidane]]
+* {{flagicon|GER}} [[Christian Wörns]]
+* {{flagicon|JAM}} [[Darryl Powell]]
+* {{flagicon|KOR|1997}} [[Ha Seok-ju]]
+* {{flagicon|MEX}} [[Pável Pardo]]
+* {{flagicon|MEX}} [[Ramón Ramírez (footballer)|Ramón Ramírez]]
+* {{flagicon|NED}} [[Patrick Kluivert]]
+* {{flagicon|NED}} [[Arthur Numan]]
+* {{flagicon|SAU}} [[Mohammed Al-Khilaiwi]]
+* {{flagicon|SCO}} [[Craig Burley]]
+* {{flagicon|RSA}} [[Alfred Phiri]]
+{{div col end}}
+
+=== All-star team ===
+The All-star team is a squad consisting of the 16 most impressive players at the 1998 World Cup, as selected by FIFA's Technical Study Group.<ref>{{Cite news|url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/10/wcup_allstars/|archive-url=https://web.archive.org/web/20140222065104/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/10/wcup_allstars/|url-status = dead|archive-date=22 February 2014|title=FIFA announces All-Star team|publisher=CNNSI|date=10 July 1998}}</ref>
+
+{| class="wikitable" style="margin:0 auto"
+|-
+!Goalkeepers
+!Defenders
+!Midfielders
+!Forwards
+|-
+|align=left valign=top|
+{{flagicon|FRA|1974}} [[Fabien Barthez]] <br />
+{{flagicon|PAR|1990}} [[José Luis Chilavert]]
+|align=left valign=top|
+{{flagicon|BRA}} [[Roberto Carlos]] <br />
+{{flagicon|FRA|1974}} [[Marcel Desailly]]<br />
+{{flagicon|FRA|1974}} [[Lilian Thuram]]<br />
+{{flagicon|NED}} [[Frank de Boer]]<br />
+{{flagicon|PAR|1990}} [[Carlos Gamarra]]
+|align=left valign=top|
+{{flagicon|BRA}} [[Dunga]]<br />
+{{flagicon|BRA}} [[Rivaldo]]<br />
+{{flagicon|DEN}} [[Michael Laudrup]] <br />
+{{flagicon|FRA|1974}} [[Zinedine Zidane]]<br />
+{{flagicon|NED}} [[Edgar Davids]]
+|align=left valign=top|
+{{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]] <br />
+{{flagicon|CRO}} [[Davor Šuker]]<br />
+{{flagicon|DEN}} [[Brian Laudrup]]<br />
+{{flagicon|NED}} [[Dennis Bergkamp]]
+|}
+
+=== Final standings ===
+{{small|Per statistical convention in football, matches decided in [[Overtime (sports)#Association football|extra time]] are counted as wins and losses, while matches decided by [[Penalty shoot-out (association football)|penalty shoot-outs]] are counted as draws.}}
+
+{| class="wikitable" style="font-size:95%;text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals For}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal Difference}}
+!width=25| {{abbr|Pts.|Points}}
+|-
+|- style="background:gold"
+| 1 || style="text-align:left"|{{fb|FRA|1974}} {{small|(H)}} || [[1998 FIFA World Cup Group C|C]] || 7 || 6 || 1 || 0 || 15 || 2 || +13 || 19
+|- style="background:silver"
+| 2 || style="text-align:left"|{{fb|BRA}} || [[1998 FIFA World Cup Group A|A]] || 7 || 4 || 1 || 2 || 14 || 10 || +4 || 13
+|- style="background:#c96"
+| 3 || style="text-align:left"|{{fb|CRO}} || [[1998 FIFA World Cup Group H|H]] || 7 || 5 || 0 || 2 || 11 || 5 || +6 || 15
+|- style="background:gray"
+| 4 || style="text-align:left"|{{fb|NED}} || [[1998 FIFA World Cup Group E|E]] || 7 || 3 || 3 || 1 || 13 || 7 || +6 || 12
+|-
+| colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 || style="text-align:left"|{{fb|ITA|1946}} || [[1998 FIFA World Cup Group B|B]] || 5 || 3 || 2 || 0 || 8 || 3 || +5 || 11
+|-
+| 6 || style="text-align:left"|{{fb|ARG|1861}} || [[1998 FIFA World Cup Group H|H]] || 5 || 3 || 1 || 1 || 10 || 4 || +6 || 10
+|-
+| 7 || style="text-align:left"|{{fb|GER}} || [[1998 FIFA World Cup Group F|F]] || 5 || 3 || 1 || 1 || 8 || 6 || +2 || 10
+|-
+| 8 || style="text-align:left"|{{fb|DEN}} || [[1998 FIFA World Cup Group C|C]] || 5 || 2 || 1 || 2 || 9 || 7 || +2 || 7
+|-
+| colspan="11"| '''Eliminated in the round of 16'''
+|-
+| 9 || style="text-align:left"|{{fb|ENG}} || [[1998 FIFA World Cup Group G|G]] || 4 || 2 || 1 || 1 || 7 || 4 || +3 || 7
+|-
+| 10 || style="text-align:left"|{{fb|FRY}} || [[1998 FIFA World Cup Group F|F]] || 4 || 2 || 1 || 1 || 5 || 4 || +1 || 7
+|-
+| 11 || style="text-align:left"|{{fb|ROU}} || [[1998 FIFA World Cup Group G|G]] || 4 || 2 || 1 || 1 || 4 || 3 || +1 || 7
+|-
+| 12 || style="text-align:left"|{{fb|NGA}} || [[1998 FIFA World Cup Group D|D]] || 4 || 2 || 0 || 2 || 6 || 9 || −3 || 6
+|-
+| 13 || style="text-align:left"|{{fb|MEX}} || [[1998 FIFA World Cup Group E|E]] || 4 || 1 || 2 || 1 || 8 || 7 || +1 || 5
+|-
+| 14 || style="text-align:left"|{{fb|PAR|1990}} || [[1998 FIFA World Cup Group D|D]] || 4 || 1 || 2 || 1 || 3 || 2 || +1 || 5
+|-
+| 15 || style="text-align:left"|{{fb|NOR}} || [[1998 FIFA World Cup Group A|A]] || 4 || 1 || 2 || 1 || 5 || 5 || 0 || 5
+|-
+| 16 || style="text-align:left"|{{fb|CHI}} || [[1998 FIFA World Cup Group B|B]] || 4 || 0 || 3 || 1 || 5 || 8 || −3 || 3
+|-
+| colspan="11"| '''Eliminated in the group stage'''
+|-
+| 17 || style="text-align:left"|{{fb|ESP}} || [[1998 FIFA World Cup Group D|D]] || 3 || 1 || 1 || 1 || 8 || 4 || +4 || 4
+|-
+| 18 || style="text-align:left"|{{fb|MAR}} || [[1998 FIFA World Cup Group A|A]] || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 4
+|-
+| 19 || style="text-align:left"|{{fb|BEL}} || [[1998 FIFA World Cup Group E|E]] || 3 || 0 || 3 || 0 || 3 || 3 || 0 || 3
+|-
+| 20 || style="text-align:left"|{{fb|IRN}} || [[1998 FIFA World Cup Group F|F]] || 3 || 1 || 0 || 2 || 2 || 4 || −2 || 3
+|-
+| 21 || style="text-align:left"|{{fb|COL}} || [[1998 FIFA World Cup Group G|G]] || 3 || 1 || 0 || 2 || 1 || 3 || −2 || 3
+|-
+| 22 || style="text-align:left"|{{fb|JAM}} || [[1998 FIFA World Cup Group H|H]] || 3 || 1 || 0 || 2 || 3 || 9 || −6 || 3
+|-
+| 23 || style="text-align:left"|{{fb|AUT}} || [[1998 FIFA World Cup Group B|B]] || 3 || 0 || 2 || 1 || 3 || 4 || −1 || 2
+|-
+| 24 || style="text-align:left"|{{fb|RSA}} || [[1998 FIFA World Cup Group C|C]] || 3 || 0 || 2 || 1 || 3 || 6 || −3 || 2
+|-
+| 25 || style="text-align:left"|{{fb|CMR}} || [[1998 FIFA World Cup Group B|B]] || 3 || 0 || 2 || 1 || 2 || 5 || −3 || 2
+|-
+| 26 || style="text-align:left"|{{fb|TUN|1959}} || [[1998 FIFA World Cup Group G|G]] || 3 || 0 || 1 || 2 || 1 || 4 || −3 || 1
+|-
+| 27 || style="text-align:left"|{{fb|SCO}} || [[1998 FIFA World Cup Group A|A]] || 3 || 0 || 1 || 2 || 2 || 6 || −4 || 1
+|-
+| 28 || style="text-align:left"|{{fb|KSA}} || [[1998 FIFA World Cup Group C|C]] || 3 || 0 || 1 || 2 || 2 || 7 || −5 || 1
+|-
+| 29 || style="text-align:left"|{{fb|BUL}} || [[1998 FIFA World Cup Group D|D]] || 3 || 0 || 1 || 2 || 1 || 7 || −6 || 1
+|-
+| 30 || style="text-align:left"|{{fb|KOR|1997}} || [[1998 FIFA World Cup Group E|E]] || 3 || 0 || 1 || 2 || 2 || 9 || −7 || 1
+|-
+| 31 || style="text-align:left"|{{fb|JPN|1870}} || [[1998 FIFA World Cup Group H|H]] || 3 || 0 || 0 || 3 || 1 || 4 || −3 || 0
+|-
+| 32 || style="text-align:left"|{{fb|USA}} || [[1998 FIFA World Cup Group F|F]] || 3 || 0 || 0 || 3 || 1 || 5 || −4 || 0
+|}
+<small>Source: FIFA<ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/01/18/03/18/fs-201_08a_fwc-alltimeranking.pdf |archive-url=https://web.archive.org/web/20120617060343/http://www.fifa.com/mm/document/fifafacts/mencompwc/01/18/03/18/fs-201_08a_fwc-alltimeranking.pdf |url-status=dead |archive-date=17 June 2012 |title=All-time FIFA World Cup Ranking 1930–2010 |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=31 January 2013 }}</ref></small>
+
+{{small|(H) Hosts}}
+
+== Marketing ==
+=== Tournoi de France ===
+{{main|1997 Tournoi de France}}
+A year before the tournament, a small, invitation-only tournament named the [[Tournoi de France]] was held in France, with [[Italy national football team|Italy]], [[Brazil national football team|Brazil]], [[England national football team|England]], and hosts [[France national football team|France]] participating.<ref>{{cite news |url=https://www.theguardian.com/football/blog/2013/jun/25/vault-england-le-tournoi-france-1997 |title=From the Vault: recalling how England won Le Tournoi de France in 1997 |date=25 June 2013 |work=Guardian |access-date=13 August 2013 |last1=Campbell |first1=Paul |archive-date=10 June 2020 |archive-url=https://web.archive.org/web/20200610185846/https://www.theguardian.com/football/blog/2013/jun/25/vault-england-le-tournoi-france-1997 |url-status=live }}</ref>
+
+===Broadcasting===
+{{More citations needed section|date=October 2024}}
+Through several companies, FIFA sold the broadcasting rights for the 1998 FIFA World Cup to many broadcasters. [[BBC]] and [[ITV (TV network)|ITV]] had the broadcasting rights in the United Kingdom. The pictures and audio of the competition were supplied to the TV and radio channels by the company TVRS 98, the broadcaster of the tournament.<ref name="Label France, 31, Un véritable enjeu médiatique">{{cite journal|first=Guy|last=Dutheil|title=France 98, vive le Football ! – Un véritable enjeu médiatique |newspaper=Label France|language=fr|editor=[[Ministry of Foreign Affairs and International Development (France)|Ministry of Foreign Affairs and International Development]] |year=1998 |number=31 |url=http://www.diplomatie.gouv.fr/fr/archives-label-france_5343/les-themes_5497/dossiers-fond_14492/france-98-vive-football-no31-1998_14615/un-veritable-enjeu-mediatique_37817.html |access-date=2 October 2009 |url-status = dead|archive-url=https://web.archive.org/web/20090218060512/http://www.diplomatie.gouv.fr/fr/archives-label-france_5343/les-themes_5497/dossiers-fond_14492/france-98-vive-football-no31-1998_14615/un-veritable-enjeu-mediatique_37817.html |archive-date=18 February 2009 }}</ref>
+
+The World Cup matches were broadcast in 200 countries. 818 photographers were credited for the tournament. In every match, a stand was reserved for the press. The number of places granted to them reached its maximum in the final, when 1,750 reporters and 110 [[Sports commentator|TV commentators]] were present in the stand.<ref name="fifa1998 p.128,129">{{in lang|fr}} {{Harvsp|FIFA|1998|p=128 and 129|id=fifa1998}}</ref>
+{| class="wikitable" border="1"
+!Country
+!Broadcaster
+!Television
+|-
+|{{flag|Albania}}
+|colspan=2|[[Radio Televizioni Shqiptar|TVSH]]
+|-
+|{{flag|Argentina}}
+|Artear, Televisión Federal, Grupo América, Telearte, SNMP, Teletreinta, Argentina Televisión, Lujan Cable Visión S.A., Holding Córdoba de radio y televisión 
+|[[Eltrece]], [[Telefe]], [[América TV]], [[Canal 30 (Argentina)|Channel 30]], [[Argenvisión]], [[Cable Visión Lujan|Channel 23]], [[The CW (Argentine Pay TV channel)|El CW]] 
+|-
+|{{flag|Australia}}
+|colspan=2|[[Special Broadcasting Service|SBS]]
+|-
+|{{flag|Austria}}
+|[[ORF (broadcaster)|ORF]]
+|[[ORF eins]] and [[ORF 2]]
+|-
+|{{flag|Arab League}}
+|[[Arab States Broadcasting Union]] (ASBU), [[Orbit Network]]
+|[[Orbit Communications Company|Orbit ESPN]]
+|-
+|rowspan=2| {{flag|Belgium}}
+|<small>[[Dutch language|Dutch]]:</small><br />[[Vlaamse Radio- en Televisieomroeporganisatie|VRT]]
+|<small>[[Dutch language|Dutch]]:</small><br />[[Eén]] and [[VRT Canvas|Canvas]]
+|-
+|<small>[[French language|French]]:</small><br />[[RTBF]]
+|<small>[[French language|French]]:</small><br />[[La Une]] and [[La Deux]]
+|-
+|{{flag|Bangladesh}}
+|colspan=2|[[Bangladesh Television|BTV]]
+|-
+|{{flag|Bolivia}}
+|colspan=2|[[TV Boliviana|TVB]] and [[Red ATB]]
+|-
+|{{flag|Brazil}}
+|colspan="2"|[[Rede Globo|Globo]], [[Rede Bandeirantes|Band]], [[Sistema Brasileiro de Televisão|SBT]], [[RecordTV]], [[Rede Manchete|Manchete]],<ref>{{Cite web|url=https://manchete.org/esportes/sobre/copas-do-mundo-na-manchete,%20https://manchete.org/esportes/sobre/copas-do-mundo-na-manchete/|title=A Copa do Mundo pela TV Manchete &#124; Rede Manchete}}</ref> [[SporTV]] and [[ESPN Brasil]]
+|-
+|{{flag|Brunei}}
+|[[Radio Televisyen Brunei|RTB]]
+|[[RTB Perdana]], [[RTB Aneka]]
+|-
+|{{flag|Bulgaria}}
+|[[Bulgarian National Television|BNT]]
+|[[BNT 1|Channel 1]] and [[BNT 2|Efir 2]]
+|-
+|{{flag|Cambodia}}
+|[[National Television of Kampuchea|TVK]]
+|[[National Television of Kampuchea|Channel 7]]
+|-
+|rowspan=2|{{flag|Canada}}
+|<small>[[English language|English]]:</small><br />[[Canadian Broadcasting Corporation|CBC]]
+|<small>[[English language|English]]:</small><br />[[CBC Television]]
+|-
+|<small>[[French language|French]]:</small><br />[[Société Radio-Canada]]
+|<small>[[French language|French]]:</small><br />[[Ici Radio-Canada Télé|Télévision de Radio-Canada]]
+|-
+|{{flag|Chile}}
+|colspan=2|[[Televisión Nacional de Chile|TVN]], [[Chilevisión]], [[Canal 13 (Chile)|UCTV]] and [[Mega (Chilean TV channel)|Megavisión]]
+|-
+|{{flag|China}}
+|[[China Central Television|CCTV]]
+|[[CCTV-1]]
+|-
+|rowspan=2| {{flag|Colombia}}
+|[[Inravisión]]
+|<small>[[Canal 1|Canal Uno]]:</small><br />[[Producciones PUNCH|PUNCH]] and [[Producciones JES|JES]]<br /><small>[[Canal Institucional|Canal A]]:</small><br />[[RTI Producciones|RTI]] and [[Datos y Mensajes]]
+|-
+|colspan=2|[[Caracol Televisión]] and [[RCN Televisión]]
+|-
+|{{flag|Corsica}}{{ref|n2|2}}
+|{{flagicon|France}} [[TF1]], [[France Télévisions|1998 FIFA World Cup TV]]{{ref|n2|2}}<br />{{flagicon|Italy|1946}} [[RAI]]
+|{{flagicon|France}} [[TF1]], [[France 2|1998 FIFA World Cup TV2]] and [[France 3|1998 FIFA World Cup TV3]]{{ref|n2|2|}}
+|-
+|{{flag|Czech Republic}}
+|[[Czech Television]]
+|[[ČT1]] and [[ČT2]]
+|-
+|{{flag|Denmark}}
+|[[DR (broadcaster)|DR]]
+|[[DR1]] and [[DR2]]
+|-
+|{{flag|Estonia}}
+|colspan=2|[[Eesti Televisioon|ETV]]
+|-
+|{{flag|Finland}}
+|[[Yleisradio|YLE]], [[MTV3]]
+|[[Yle TV2|YLE TV2]]
+|-
+|{{flag|France}}{{ref|n2|2}}
+|[[TF1]], [[France Télévisions|1998 FIFA World Cup TV]]{{ref|n2|2}}
+|[[TF1]], [[France 2|1998 FIFA World Cup TV2]], [[France 3|1998 FIFA World Cup TV3]], [[France 4|1998 FIFA World Cup TV4]], [[TV5Monde|1998 FIFA World Cup TV International]] and [[France Ô|1998 FIFA World Cup TV News]]{{ref|n2|2}}
+|-
+|{{flag|Georgia|1990}}
+|[[Georgian Public Broadcasting|GPB]]
+|[[First Channel (Georgian TV channel)|1TV]]
+|-
+|{{flag|Germany}}
+|[[ARD (broadcaster)|ARD]] and [[ZDF]]
+|[[Das Erste]] and [[ZDF]]
+|-
+|{{flag|Greece}}
+|[[Hellenic Broadcasting Corporation|ERT]]
+|[[ERT1|ET1]], [[ERT2|NET]] and [[ERT3|ET3]]
+|-
+|{{flag|Hungary}}
+|[[Magyar Televízió|MTV]]
+|[[m1 (TV channel)|MTV1]] and [[m2 (TV channel)|MTV2]]
+|-
+|{{flag|Holy See}}
+|{{flagicon|Italy|1946}} [[RAI]]
+|{{flagicon|Italy|1946}} [[RAI 1]], [[RAI 2]] and [[RAI 3]]
+|-
+|rowspan=2|{{flag|Hong Kong}}
+|rowspan=2|[[Television Broadcasts Limited|TVB]]
+|<small>[[Cantonese language|Cantonese]]:</small><br />[[TVB Jade]]
+|-
+|<small>[[English language|English]]:</small><br />[[TVB Pearl]]
+|-
+|{{flag|India}}
+|[[Doordarshan]]
+|[[DD National|Doordarshan National Channel]]
+|-
+|{{flag|Indonesia}}{{ref|n1|1}}
+|colspan=2| [[TVRI]] ([[TVRI (TV channel)|Programme 1]]), [[RCTI]], [[SCTV (TV network)|SCTV]], [[MNCTV|TPI]], [[ANTV|ANteve]], and [[Indosiar]] (all [[matches]] in [[live television]]){{ref|n1|1}}
+|-
+|{{flag|Iran}}
+|[[Islamic Republic of Iran Broadcasting|IRIB]]
+|[[Channel 1 (Iran)|Channel 1]] and [[Channel 2 (Iran)|Channel 2]]
+|-
+|{{flag|Ireland}}
+|[[RTÉ]]
+|[[RTÉ One]] and [[RTÉ Two]]
+|-
+|rowspan=2|{{flag|Israel}}
+|rowspan=2|[[Israel Broadcasting Authority|IBA]]
+|<small>[[Hebrew language|Hebrew]]:</small><br />[[Channel 1 (Israel)|Channel 1]]
+|-
+|<small>[[Arabic language|Arabic]]:</small><br />[[Channel 33 (Israel)|Channel 33]]
+|-
+|{{flag|Italy|1946}}
+|[[RAI]]
+|[[RAI 1]], [[RAI 2]] and [[RAI 3]]
+|-
+|{{flag|Japan|1947}}
+|[[NHK]], [[Fuji Television]], [[Tokyo Broadcasting System|TBS]], [[Nippon Television]], [[TV Asahi]] and [[TV Tokyo]]
+|[[NHK General TV]], [[Fuji Television]], [[Tokyo Broadcasting System|TBS Television]], [[Nippon Television]], [[TV Asahi]] and [[TV Tokyo]]
+|-
+|{{flag|Laos}}
+|colspan=2|[[Lao National Television|LNTV]]
+|-
+|rowspan=2|{{flag|Macau|colonial}}
+|rowspan=2|[[Television Broadcasts Limited|TVB]]
+|<small>[[Cantonese language|Cantonese]]:</small><br />[[TVB Jade]]
+|-
+|<small>[[English language|English]]:</small><br />[[TVB Pearl]]
+|-
+|Latin America
+|[[Bein TV]], [[DirecTV]]
+|Channels 530 and 532 of Bein TV<br />Channels 610 and 612 of DirecTV
+|-
+|{{flag|Malaysia}}{{ref|n2|2}}
+|[[Radio Televisyen Malaysia|RTM]], [[Sistem Televisyen Malaysia Berhad|STMB]], [[NTV7]]
+|[[TV1 (Malaysian TV network)|TV1]], [[TV2 (Malaysian TV network)|TV2]], [[TV3 (Malaysia)|TV3]], [[NTV7]]
+|-
+|{{flag|Mexico}}
+|[[Televisa]], [[Azteca (multimedia conglomerate)|TV Azteca]]
+|[[Canal de las Estrellas]], [[XHDF-TDT]]
+|-
+|{{flag|Monaco}}{{ref|n2|2}}
+|{{flagicon|France}} [[TF1]], [[France Télévisions|1998 FIFA World Cup TV]]{{ref|n2|2}}<br />{{flagicon|Italy|1946}} [[La7#Telemontecarlo|Telemontecarlo]]
+|{{flagicon|France}} [[TF1]], [[France 2|1998 FIFA World Cup TV2]], [[France 3|1998 FIFA World Cup TV3]], [[France 4|1998 FIFA World Cup TV4]], [[TV5Monde|1998 FIFA World Cup TV International]] and [[France Ô|1998 FIFA World Cup TV News]] (all [[matches]] of [[international broadcast]] signal){{ref|n2|2}}<br />{{flagicon|Italy|1946}} [[La7#Telemontecarlo|Telemontecarlo]]
+|-
+|{{flag|Myanmar|1974}}
+|[[Myanmar Radio and Television|MRTV]]
+|[[Myanmar Television|Channel 5]]
+|-
+|{{flag|Netherlands}}
+|[[Netherlands Public Broadcasting|NPO]]
+|[[Nederland 1]], [[Nederland 2]] and [[Nederland 3]]
+|-
+|{{flag|New Zealand}}
+|[[Television New Zealand|TVNZ]]
+|[[TV1 (New Zealand)|TV1]] and [[TV2 (New Zealand)|TV2]]
+|-
+|{{flag|Norway}}
+|[[Norwegian Broadcasting Corporation|NRK]]
+|[[NRK1]] and [[NRK2]]
+|-
+|{{flag|Paraguay|1990}}
+|TV Acción, TV Cerro Corá, Tevedos, Teledifusora Paraguaya, SICOM TV, Hispanoamérica TV, Canal 5 TV Color, Caacupé Cable Visión S.A., Holding Paraná de radio y televisión 
+|colspan="2"|[[Telefuturo]], [[Sistema Nacional de Televisión (Paraguay)|SNT]], [[Red Guaraní]] [[Canal 13 (Paraguay)|Canal 13]], [[Paraguay TV]], [[LaTele (Paraguay)|La Tele]], [[Paravisión]], [[Cable Visión Caacupé|Canal 25]], [[RTV Paraguay|RTV]]
+|-
+|{{flag|Peru}}
+|colspan=2|[[América Televisión]] and [[Panamericana Televisión]].
+|-
+|{{flag|Philippines}}
+|colspan=2|[[GMA Network]] and [[Sky Cable]]
+|-
+|{{flag|Poland}}
+|[[Telewizja Polska|TVP]]
+|[[TVP1]] and [[TVP2]]
+|-
+|{{flag|Portugal}}
+|[[Rádio e Televisão de Portugal|RTP]]
+|[[RTP1]] and [[RTP2]]
+|-
+|{{flag|Russia}}
+|[[All-Russian State Television and Radio Broadcasting Company|VGTRK]], ORT
+|[[Rossiya 1]], [[Channel One Russia]]
+|-
+|{{flag|San Marino|1862}}
+|{{flagicon|Italy|1946}} [[RAI]]
+|{{flagicon|Italy|1946}} [[RAI 1]], [[RAI 2]] and [[RAI 3]]
+|-
+|{{flag|Singapore}}
+|[[Mediacorp|Singapore International Media]]
+|[[Central (TV channel)|Premiere 12]]
+|-
+|{{flag|Slovakia}}
+|[[Slovenská televízia|STV]]
+|[[Jednotka|STV1]] and STV2
+|-
+|{{flag|South Africa}}
+|[[South African Broadcasting Corporation|SABC]]
+|[[SABC 1]], [[SABC 2]] and [[SABC 3]]
+|-
+|{{flag|South Korea|1997}}
+|colspan=2|[[Korean Broadcasting System|KBS]]
+|-
+|{{flag|Spain}}
+|[[RTVE]]
+|[[Televisión Española|TVE]] ([[La 1 (Spain)|TV1]] and [[La 2 (Spain)|TV2]])
+|-
+|{{flag|Sweden}}
+|[[Sveriges Television|SVT]]
+|[[SVT1]] and [[SVT2]]
+|-
+|{{flag|Switzerland}}
+|[[SRG SSR]]
+|[[SF 1]] ([[Swiss German|German]]), [[TSR 2]] ([[Swiss French|French]]) and [[TSI 2]] ([[Italian language|Italian]])
+|-
+|{{flag|Taiwan}}
+|colspan=2|[[Taiwan Television|TTV]], [[China Television|CTV]], [[Chinese Television System|CTS]] and [[Formosa Television|FTV]]
+|-
+|{{flag|Thailand}}
+|colspan=2|[[Television Pool of Thailand]]
+|-
+|{{flag|Turkey}}
+|[[Turkish Radio and Television Corporation|TRT]]
+|[[TRT 1]], [[TRT 2]] and [[TRT 3]]
+|-
+|{{flag|United Kingdom}}
+|[[British Broadcasting Corporation|BBC]] and [[ITV (TV network)|ITV]]
+|[[BBC One]] and [[ITV (TV network)|ITV]]{{ref|n3|3}}
+|-
+|{{flag|United States}}
+|colspan=2|[[American Broadcasting Company|ABC]], [[ESPN]] ([[English language|English]]) and [[Univision]] ([[Spanish language|Spanish]])
+|-
+|{{flag|Ukraine}}
+|colspan=2|[[Suspilne|UT-1]] and [[1+1 (TV channel)|1+1]]
+|-
+|{{flag|Uruguay}}
+|Tevetres, Monte Carlo Televisión, Sociedad Anónima Emisora de Televisión y Anexos, Sociedad Televisora Larrañaga, SODRE, Franco-Hispano TV, Canal 8 TV Color, Canelones Cable Visión S.A., Holding Rivera de radio y televisión 
+|colspan="2"|[[Channel 3 (Uruguay)|Channel 3]], [[Monte Carlo TV|Channel 4]], [[Channel 10 (Uruguay)|Channel 10]], [[Teledoce]], [[Televisión Nacional Uruguay|UTC]], [[Uruvisión]], [[Cable Visión Canelones|Canal 27]], [[STV (Uruguay)|STV]]
+|-
+|{{flag|Vietnam}}
+|[[Vietnam Television]], [[Ho Chi Minh City Television]]
+|[[VTV1]], [[VTV3]], [[HTV7]], [[HTV9]]
+|-
+|{{flag|Venezuela|1954}}
+|colspan=2|[[Venevisión]], [[RCTV]], [[Venezolana de Televisión|VTV]]
+|}
+{{clear}}
+'''Notes:'''
+# {{note|n1}} [[Indonesia]] screened the tournament [[simulcast]] via 6-[[national (distribution)|national]] [[free-to-air]] [[terrestrial television]] stations. It was broadcast simultaneously by 1-national [[state-owned]] [[public broadcasting|public]] free-to-air terrestrial television station ([[TVRI]]) and relayed by the 5-national [[private company|private]] [[commercial broadcasting|commercial]] free-to-air terrestrial [[television station]]s ([[RCTI]], [[SCTV (Indonesia)|SCTV]], [[MNCTV|TPI]], [[antv|ANteve]], and [[Indosiar]]). They provided [[Indonesian language|Indonesian]] [[colour commentator|sports commentary]] on all 64 matches.
+# {{note|n2}} It is a joint venture of [[TF1]], [[France Télévisions]] and [[TV5Monde]].
+# {{note|n3}} ITV did not use the official FIFA live feed. Instead, they took their own camera equipment over to France and shot the matches from the opposite side of the pitch of the FIFA feed cameras. This seen the station use their own on-screen graphics and enabled U.K. viewers to see the Vauxhall billboards (U.K. arm of General Motors).
+
+=== Sponsorship ===
+[[File:Coca cola world cup 1998.jpg|thumb|[[Coca-Cola]] was one of the [[sponsor (commercial)|sponsors]] of FIFA World Cup 1998.]]
+The sponsors of the 1998 FIFA World Cup are divided into two categories: [[FIFA World Cup]] Sponsors and [[France national football team|France]] Supporters.<ref>{{cite web|url=https://www.fifa.com/worldcup/organisation/partners/index.html |archive-url=https://web.archive.org/web/20070613064434/http://www.fifa.com/worldcup/organisation/partners/index.html |url-status=dead |archive-date=13 June 2007 |title=2014 FIFA World Cup Brazil official partners |publisher=FIFA |access-date=29 December 2013}}</ref><ref>{{cite web|url=https://resources.fifa.com/mm/document/fifafacts/misc-fwcpartn/52/01/15/fs-401_01_fwc-partners.pdf|title=The Official FIFA World Cup Partners & Sponsors since 1982|publisher=FIFA|access-date=12 July 2018|archive-date=18 February 2018|archive-url=https://web.archive.org/web/20180218222637/http://resources.fifa.com/mm/document/fifafacts/misc-fwcpartn/52/01/15/fs-401_01_fwc-partners.pdf|url-status=dead}}</ref>
+
+{| class="wikitable"
+|-
+! [[FIFA World Cup]] sponsors !! [[France national football team|France]] Supporters
+|-
+|
+* [[Adidas]]<ref>{{cite web|url=https://www.gettyimages.nl/license/52928020|title=2), Roberto BAGGIO/ITA vor dem Elfmeter zum 2:2|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063703/https://www.gettyimages.nl/detail/nieuwsfoto%27s/roberto-baggio-ita-vor-dem-elfmeter-zum-2-2-nieuwsfotos/52928020|url-status=live}}</ref><ref name="gettyimages.nl">{{cite web|url=https://www.gettyimages.nl/license/52930798|title=3 n.E. HALBFINALE; Claudio Andre TAFFAREL/BRA haelt den...The Official FIFA World Cup Partners & Sponsors since 1982|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063703/https://www.gettyimages.nl/detail/nieuwsfoto%27s/n-e-halbfinale-claudio-andre-taffarel-bra-haelt-den-nieuwsfotos/52930798|url-status=live}}</ref>
+* [[Budweiser]]
+* [[Canon Inc.|Canon]]<ref>{{cite web|url=https://www.gettyimages.nl/license/52921847|title=2, Frankie HEJDUK/USA, Mehdi MAHDAVIKIA/IRN erzielt hier das TOR zum...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063721/https://www.gettyimages.nl/detail/nieuwsfoto%27s/frankie-hejduk-usa-mehdi-mahdavikia-irn-erzielt-hier-das-nieuwsfotos/52921847|url-status=live}}</ref><ref>{{cite web|url=https://www.gettyimages.nl/license/52921810|title=Lens, 21.06.98, DEUTSCHLAND – JUGOSLAWIEN 2:2, Freistoss von Sinisa...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063704/https://www.gettyimages.nl/detail/nieuwsfoto%27s/freistoss-von-sinisa-mihajlovic-yug-der-zur-verletzung-nieuwsfotos/52921810|url-status=live}}</ref>
+* [[Casio]]<ref>{{cite web|url=https://www.gettyimages.nl/license/52921572|title=1, Jose SIERRA/CHI erzielt mit diesem Freistoss das TOR zum 1:0|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063704/https://www.gettyimages.nl/detail/nieuwsfoto%27s/jose-sierra-chi-erzielt-mit-diesem-freistoss-das-tor-zum-nieuwsfotos/52921572|url-status=live}}</ref>
+* [[The Coca-Cola Company|Coca-Cola]]<ref name="gettyimages.nl1">{{cite web|url=https://www.gettyimages.nl/license/52927162|title=Marseille, 23.06.98, BRASILIEN – NORWEGEN 1:2, 1:0 TORJUBEL BEBETO,...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063704/https://www.gettyimages.nl/detail/nieuwsfoto%27s/und-roberto-carlos-bra-jubel-nieuwsfotos/52927162|url-status=live}}</ref><ref>{{cite web|url=https://www.gettyimages.nl/license/52931254|title=Marseille, 23.06.98, BRASILIEN – NORWEGEN 1:2, 1:2 TOR JUBEL NOR -...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063736/https://www.gettyimages.nl/detail/nieuwsfoto%27s/torschuetze-kjetil-rekdal-nor-nieuwsfotos/52931254|url-status=live}}</ref>
+* [[Fujifilm]]<ref name="gettyimages.nl"/><ref>{{cite web|url=https://www.gettyimages.nl/license/52923615|title=Paris; BRASILIEN – FRANKREICH FINALE; Zinedine ZIDANE/FRA erzielt das...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063705/https://www.gettyimages.nl/detail/nieuwsfoto%27s/paris-brasilien-frankreich-finale-zinedine-zidane-fra-nieuwsfotos/52923615|url-status=live}}</ref>
+* [[Gillette (brand)|Gillette]]<ref name="gettyimages.nl1"/><ref>{{cite web|url=https://www.gettyimages.nl/license/52922915|title=3; FRANKREICH FUSSBALLWELTMEISTER 1998; v.lks.: Frank LEBOEUF/FRA,...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063705/https://www.gettyimages.nl/detail/nieuwsfoto%27s/v-lks-frank-leboeuf-fra-torwart-fabien-barthez-fra-und-nieuwsfotos/52922915|url-status=live}}</ref> ([[Braun (company)|Braun]])<ref>{{cite web|url=https://www.gettyimages.nl/license/177225902|title=26 June 1998 World Cup – Colombia v England, David Beckham scores...|website=Gettyimages.nl|date=19 August 2013 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063705/https://www.gettyimages.nl/detail/nieuwsfoto%27s/june-1998-world-cup-colombia-v-england-david-beckham-nieuwsfotos/177225902|url-status=live}}</ref>
+* [[JVC]]<ref>{{cite web|url=https://www.gettyimages.nl/license/53394828|title=Thomas Haessler of Germany takes a freekick during the FIFA World Cup...|website=Gettyimages.nl|date=16 August 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063706/https://www.gettyimages.nl/detail/nieuwsfoto%27s/thomas-haessler-of-germany-takes-a-freekick-during-the-nieuwsfotos/53394828|url-status=live}}</ref><ref>{{cite web|url=https://www.gettyimages.nl/license/52921978|title=Toulouse, 18.06.98, SUEDAFRIKA – DAENEMARK 1:1, Schiedsrichter TORO...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063707/https://www.gettyimages.nl/detail/nieuwsfoto%27s/schiedsrichter-toro-rendon-col-zeigt-morten-wieghorst-den-nieuwsfotos/52921978|url-status=live}}</ref>
+* [[MasterCard]]<ref name="gettyimages.nl2">{{cite web|url=https://www.gettyimages.nl/license/52921822|title=Lens, 21.06.98, Jens JEREMIES/GER nach dem 0:1|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063706/https://www.gettyimages.nl/detail/nieuwsfoto%27s/lens-21-06-98-jens-jeremies-ger-nach-dem-0-1-nieuwsfotos/52921822|url-status=live}}</ref><ref>{{cite web|url=https://www.gettyimages.nl/license/52927842|title=2 von Cuauhtemoc BLANCO|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417063706/https://www.gettyimages.nl/detail/nieuwsfoto%27s/nach-dem-2-2-von-cuauhtemoc-blanco-nieuwsfotos/52927842|url-status=live}}</ref>
+* [[McDonald's]]<ref>{{cite web|url=https://www.gettyimages.nl/license/52925749|title=BRA spielt den Ball an Torwart Driss BENZEKRI/MOR vorbei|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064207/https://www.gettyimages.nl/detail/nieuwsfoto%27s/spielt-den-ball-an-torwart-driss-benzekri-mor-vorbei-nieuwsfotos/52925749|url-status=live}}</ref><ref>{{cite web|url=https://www.gettyimages.nl/license/52919034|title=St.Etienne, 23.06.98, SCHOTTLAND – MAROKKO 0:3, Abdeljilil HADDA/MOR...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064301/https://www.gettyimages.nl/detail/nieuwsfoto%27s/abdeljilil-hadda-mor-erzielt-hier-das-tor-zum-0-1-nieuwsfotos/52919034|url-status=live}}</ref>
+* [[Opel]]<ref>{{cite web|url=https://www.gettyimages.nl/license/52927436|title=Montpellier, 22.06.98, KOLUMBIEN – TUNESIEN 1:0, JUBEL NACH DEM 1:0:...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064246/https://www.gettyimages.nl/detail/nieuwsfoto%27s/leider-preciado-col-nieuwsfotos/52927436|url-status=live}}</ref><ref name="gettyimages.nl3">{{cite web|url=https://www.gettyimages.nl/license/52921816|title=Lens, 21.06.98, GER JUBEL nach dem Treffer zum 2:2 durch Oliver...|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064207/https://www.gettyimages.nl/detail/nieuwsfoto%27s/lens-21-06-98-ger-jubel-nach-dem-treffer-zum-2-2-durch-nieuwsfotos/52921816|url-status=live}}</ref>
+* [[Philips]]<ref name="gettyimages.nl2"/><ref name="gettyimages.nl3"/>
+* [[Snickers]]<ref name="gettyimages.nl"/><ref>{{cite web|url=https://www.gettyimages.nl/license/52931542|title=5 n.E.; Torwart Carlos ROA/ARG haelt den Elfmeter von Paul Ince/ENG|website=Gettyimages.nl|date=18 May 2005 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064222/https://www.gettyimages.nl/detail/nieuwsfoto%27s/n-e-torwart-carlos-roa-arg-haelt-den-elfmeter-von-paul-nieuwsfotos/52931542|url-status=live}}</ref>
+||
+* [[Air France]]
+* [[Citroën]]
+* [[Crédit Agricole]]<ref>{{cite web|url=https://www.gettyimages.nl/license/535710165|title=19 June 1998 FIFA World Cup, Nigeria v Bulgaria, Nigeria celebrate...|website=Gettyimages.nl|date=3 February 2015 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064207/https://www.gettyimages.nl/detail/nieuwsfoto%27s/june-1998-fifa-world-cup-nigeria-v-bulgaria-nigeria-nieuwsfotos/535710165|url-status=live}}</ref>
+* [[Danone]]
+* [[Orange S.A.|France Telecom]]<ref>{{cite web|url=https://www.gettyimages.nl/license/1293111|title=Davor Suker of Croatia and Lothar Matthaus of Germany stretch for the...|website=Gettyimages.nl|date=6 August 2002 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064208/https://www.gettyimages.nl/detail/nieuwsfoto%27s/davor-suker-of-croatia-and-lothar-matthaus-of-germany-nieuwsfotos/1293111|url-status=live}}</ref>
+* [[La Poste (France)|La Poste]]<ref>{{cite web|url=https://www.gettyimages.nl/license/177225733|title=Football World Cup 1998, Brazil v Scotland, The Scotland defence leap...|website=Gettyimages.nl|date=19 August 2013 |access-date=12 July 2018|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417064247/https://www.gettyimages.nl/detail/nieuwsfoto%27s/football-world-cup-1998-brazil-v-scotland-the-scotland-nieuwsfotos/177225733|url-status=live}}</ref>
+* [[Peugeot]]
+* [[Renault]]
+* [[Vauxhall Motors|Vauxhall]]
+|}
+
+The absence of [[Budweiser (Anheuser-Busch)|Budweiser]] on pitch side advertising hoardings is notable due to the [[Evin law]], which forbids alcohol-related sponsorship in France, including in sports events.<ref>{{Cite web |title=WashingtonPost.com: Battle Over Bud Brewing for French-Hosted World Cup Soccer |url=https://www.washingtonpost.com/wp-srv/inatl/europe/april/14/worldcup.htm |access-date=2024-04-11 |website=www.washingtonpost.com |archive-date=8 December 2024 |archive-url=https://web.archive.org/web/20241208073739/https://www.washingtonpost.com/wp-srv/inatl/europe/april/14/worldcup.htm |url-status=live }}</ref>
+
+=== Video games ===
+In most of the world, the official video game was, ''[[World Cup 98 (video game)|World Cup 98]]'' released by [[EA Sports]] on 13 March 1998 for [[Microsoft Windows]], [[PlayStation (console)|PlayStation]], [[Nintendo 64]] and the [[Game Boy]]. It was the first international football game developed by Electronic Arts since obtaining the rights from FIFA in 1997 and received mostly favourable reviews.<ref>{{cite news |title=World Cup 98 |url=http://psx.ign.com/articles/153/153532p1.html |work=IGN |date=15 July 1998 |access-date=15 July 2012 |archive-date=15 December 2010 |archive-url=https://web.archive.org/web/20101215113910/http://psx.ign.com/articles/153/153532p1.html |url-status=live }}</ref><ref>{{cite news |first=Josh |last=Smith |title=World Cup 98 Review |url=http://www.gamespot.com/world-cup-98/reviews/world-cup-98-review-2531897/ |work=GameSpot |date=5 June 1998 |access-date=15 July 2012 |archive-date=22 October 2012 |archive-url=https://web.archive.org/web/20121022041429/http://www.gamespot.com/world-cup-98/reviews/world-cup-98-review-2531897/ |url-status=live }}</ref><ref>{{cite journal |last=James |first=Chris |date=July 1998 |title=Football's Coming Home |journal=PC Guide |volume=4 |issue=4 |pages=53–57 |publisher=Future Publishing }}</ref>
+
+In Japan, [[Konami]] was granted the FIFA World Cup licence and produced two distinct video games: ''[[International Superstar Soccer 98|Jikkyou World Soccer: World Cup France 98]]'' by KCEO for the Nintendo 64, and ''[[International Superstar Soccer Pro 98|World Soccer Jikkyou Winning Eleven 3: World Cup France '98]]'' by [[Konami#Konami Computer Entertainment Tokyo|KCET]] for the PlayStation. These games were released in the rest of the world as ''International Superstar Soccer '98'' and ''International Superstar Soccer Pro '98'', without the official FIFA World Cup licence, branding or real player names.{{citation needed|date=August 2023}}
+
+Also in Japan, [[Sega]] was granted the FIFA World Cup licence to produce the [[Sega Saturn|Saturn]] video game ''World Cup '98 France: Road to Win''.{{citation needed|date=August 2023}}
+
+Many other video games, including ''[[World League Soccer 98]]'', ''[[Actua Soccer]] 2'' and ''[[Neo Geo Cup '98: The Road to the Victory]]'' were released in the buildup to the 1998 World Cup and evidently were based on the tournament. ''[[FIFA: Road to World Cup 98]]'', also by EA Sports focused on the qualification stage.{{citation needed|date=August 2023}}
+
+== Symbols ==
+[[File:France98mascot.png|thumb|upright|Footix, the official [[FIFA World Cup mascots|mascot]] of the tournament]]
+
+=== Mascot ===
+The [[List of FIFA World Cup official mascots|official mascot]] was ''Footix'', a [[rooster]] first presented in May 1996.<ref name="Footix">{{cite web |url=http://www.e-space.mmu.ac.uk/e-space/bitstream/2173/4228/2/Footix%20The%20History%20Behind%20A%20Moderrn%20Mascot.pdf |publisher=Sage Publications |year=1998 |access-date=27 January 2012 |last=Hand |first=David |title=Footix: the history behind a modern mascot |archive-url=https://web.archive.org/web/20131112181426/http://www.e-space.mmu.ac.uk/e-space/bitstream/2173/4228/2/Footix%20The%20History%20Behind%20A%20Moderrn%20Mascot.pdf |archive-date=12 November 2013 |url-status = dead }}</ref> It was created by graphic designer Fabrice Pialot and selected from a shortlist of five mascots.<ref>{{cite web|url=http://www.ina.fr/video/CAC96021553/fabrice-pialot-l-inventeur-de-la-mascotte-footix.fr.html|work=[[France 3]]|publisher=Institut National de l'Audiovisuel|date=22 May 1996|access-date=27 January 2012|title=Fabrice Pialot l'inventeur de la mascotte Footix|language=fr|archive-date=8 March 2020|archive-url=https://web.archive.org/web/20200308181320/http://www.ina.fr/video/CAC96021553/fabrice-pialot-l-inventeur-de-la-mascotte-footix.fr.html|url-status=live}}</ref> Research carried out about the choice of having a cockerel as a mascot was greatly received: 91% associated it immediately with France, the traditional symbol of the nation.<ref name="Footix"/> Footix, the name chosen by French television viewers, is a [[portmanteau]] of "football" and the ending "-ix" from the popular ''[[Astérix]]'' comic strip.<ref name="Footix"/> The mascot's colours reflect those of the host nation's flag and home strip – blue for the jump suit, a red crest and with the words 'France 98' coloured in white.
+
+=== Match ball ===
+{{main|Adidas Tricolore}}
+The [[List of FIFA World Cup official match balls|official match ball]] for the 1998 World Cup, manufactured by [[Adidas]] was named the ''Tricolore'', meaning 'three-coloured' in French.<ref name="Capital Balls">{{cite web|title=ADIDAS TRICOLORE: WORLD CUP 1998|website=Capital Balls|date=December 14, 2016|url=http://capital-balls.com/adidas-tricolore-world-cup-1998/|access-date=July 5, 2026|archive-date=27 November 2024|archive-url=https://web.archive.org/web/20241127015301/http://capital-balls.com/adidas-tricolore-world-cup-1998/|url-status=live}}</ref> It was the eighth World Cup match ball made for the tournament by the German company and was the first in the series to be multi-coloured.<ref name="Tricolore">{{cite web|url=https://www.fifa.com/worldcup/archive/germany2006/news/newsid=28402.html |date=24 June 2006 |access-date=29 January 2012 |publisher=FIFA |title=1998: adidas Tricolore |url-status = dead|archive-url=https://web.archive.org/web/20100705075818/http://www.fifa.com/worldcup/archive/germany2006/news/newsid%3D28402.html |archive-date=5 July 2010}}</ref> The tricolour flag and cockerel, traditional symbols of France, were used as inspiration for the design.<ref name="Capital Balls"/><ref name="Tricolore"/>
+
+=== Music ===
+{{Main|Music of the World Cup: Allez! Ola! Ole!}}
+The official song of the 1998 FIFA World Cup was "[[The Cup of Life]]", also known as "La Copa de la Vida", recorded by [[Ricky Martin]].<ref>{{cite web|url=http://www.beembee.com/2010/fifa-world-cup-official-songs-1990-2010 |title=FIFA World Cup Official Songs 1990 – 2010 |date=10 June 2010 |website=BeemBee.com |access-date=29 May 2013 |url-status = dead|archive-url=https://web.archive.org/web/20130515082324/http://www.beembee.com/2010/fifa-world-cup-official-songs-1990-2010 |archive-date=15 May 2013 }}</ref><ref>{{cite web |url=https://www.fifa.com/worldcup/news/y=2014/m=1/news=brazilian-star-claudia-leitte-perform-with-pitbull-and-jennifer-lopez-th-2264459.html |archive-url=https://web.archive.org/web/20140413200631/http://www.fifa.com/worldcup/news/y=2014/m=1/news=brazilian-star-claudia-leitte-perform-with-pitbull-and-jennifer-lopez-th-2264459.html |url-status=dead |archive-date=13 April 2014 |title=Brazilian star Claudia Leitte to perform with Pitbull and Jennifer Lopez on the official song for the 2014 FIFA World Cup |publisher=FIFA |date=14 June 2014 |access-date=26 June 2014}}</ref>
+
+The official anthem was "[[La Cour des Grands (Do You Mind If I Play)]]" by [[Youssou N'Dour]] and [[Axelle Red]].
+
+== Legacy ==
+Honorary FIFA President [[João Havelange]] praised France's hosting of the World Cup, describing the tournament as one that would "remain with me forever, as I am sure they will remain with everyone who witnessed this unforgettable competition".{{sfn|FIFA|p=4}} [[Lennart Johansson]], the chairman of the organising committee for the World Cup and President of UEFA added that France provided "subject matter of a quality that made the world hold its breath".{{sfn|FIFA|p=6}}
+
+[[Cour des Comptes]], the [[quasi-judicial body]] of the [[French government]], released its report on the organisation of the 1998 World Cup in 2000.<ref>{{cite web |url=http://www.liberation.fr/societe/0101361511-cour-des-comptes-coupe-du-monde|work=[[Libération]] |date=25 January 2001 |access-date=29 January 2012 |last=Chemin |first=Michel |title=Cour des comptes: Coupe du monde|language=fr}}</ref>
+
+== See also ==
+{{Portal|Association football|1990s|France}}
+* ''[[Music of the World Cup: Allez! Ola! Ole!]]'' – The Official 1998 FIFA World Cup music album
+* [[1998 World Cup terror plot]]
+
+== References ==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+=== Sources ===
+* {{cite book |last1=Dauncey |first1=Hugh |last2=Hare |first2=Geoff |year=1999 |title=France and the 1998 World Cup: the national impact of a world sporting event |publisher=Routledge |location=London |isbn=0-7146-4887-6}}
+* {{cite web|url=http://www.ccomptes.fr/fr/CC/documents/RPA/OrganisationCoupeMonde1998.pdf |title=Rapport public annuel 2000 : l'organisation de la Coupe du monde de football 1998 |work=Cour des Comptes |access-date=28 January 2012 |language=fr |url-status = dead|archive-url=https://web.archive.org/web/20081204223455/http://www.ccomptes.fr/fr/CC/documents/RPA/OrganisationCoupeMonde1998.pdf |archive-date=4 December 2008 }}
+* {{cite web |url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/53/fwc_france_1998_en_part1_267.pdf|archive-url=https://web.archive.org/web/20111220054314/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/53/fwc%5ffrance%5f1998%5fen%5fpart1%5f267.pdf|url-status=dead|archive-date=20 December 2011|title=France 1998 Technical report (Part 1) |work=Fédération Internationale de Football Association |access-date=28 January 2012 |ref = {{sfnRef|FIFA}}}}
+* {{cite web |url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/48/fwc_france_1998_en_part2_266.pdf|archive-url=https://web.archive.org/web/20111220064424/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/48/fwc%5ffrance%5f1998%5fen%5fpart2%5f266.pdf|url-status=dead|archive-date=20 December 2011|title=France 1998 Technical report (Part 2) |work=Fédération Internationale de Football Association |access-date=28 January 2012 |ref = {{sfnRef|FIFA1998}}}}
+
+== External links ==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1998|1998 FIFA World Cup}}
+* {{webarchive |url=https://web.archive.org/web/19981206221808/http://www.france98.com/ |title=Official website |date=dmy}} {{in lang|fr|en}}
+* [https://www.fifa.com/tournaments/mens/worldcup/1998france 1998 FIFA World Cup France], FIFA.com
+* [https://www.rsssf.org/tables/98full.html RSSSF Archive of finals]
+* [https://www.rsssf.org/tables/98q.html RSSSF Archive of qualifying rounds]
+* {{webarchive |url=https://web.archive.org/web/20000425004323/http://www0.bbc.co.uk/hi/english/world_cup_98/default.stm |date=25 April 2000 |title=1998 FIFA World Cup }} at the BBC
+
+{{1998 FIFA World Cup}}
+{{1998 FIFA World Cup stadiums}}
+{{1998 FIFA World Cup referees}}
+{{FIFA World Cup}}
+{{Football in France}}
+{{1998 in Japanese football}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1998 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1998]]
+[[Category:1998 in men's international association football|World Cup]]
+[[Category:1997–98 in French men's football]]
+[[Category:Men's international association football competitions hosted by France|1998]]
+[[Category:June 1998 sports events in France]]
+[[Category:July 1998 sports events in France]]

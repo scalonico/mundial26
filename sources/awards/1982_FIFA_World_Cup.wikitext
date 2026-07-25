@@ -1,0 +1,1011 @@
+{{Short description|Association football tournament in Spain}}
+{{Redirect|1982 World Cup|the golf competition|1982 World Cup (men's golf)}}
+{{Use British English|date=October 2018}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox international football competition
+| tourney_name = FIFA World Cup
+| year = 1982
+| other_titles = {{native name|es|Copa Mundial de Fútbol España '82}}
+| image = 1982 FIFA World Cup.svg
+| caption =
+| size = 200px
+| country = Spain
+| dates = 13 June – 11 July
+| confederations = 6
+| num_teams = 24
+| venues = 17
+| cities = 14
+| champion = Italy
+| champion-flagvar = 1946
+| count = 3
+| second = West Germany
+| third = Poland
+| fourth = France
+| fourth-flagvar = 1974
+| matches = 52
+| goals = 146
+| attendance = {{#invoke:Football attendance summation|main|groups=1-6|groups2=A-D}}
+| top_scorer = {{fbicon|ITA|1946}} [[Paolo Rossi]] (6 goals)
+| player = {{fbicon|ITA|1946}} Paolo Rossi<ref name="awards">{{Cite web |title=1982 FIFA World Cup Spain – Awards |url=https://www.fifa.com/worldcup/archive/spain1982/awards/index.html |archive-url=https://web.archive.org/web/20150203144129/http://www.fifa.com/worldcup/archive/spain1982/awards/index.html |url-status=dead |archive-date=3 February 2015 |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=3 February 2019 }}</ref>
+| young_player = {{fbicon|FRA|1974}} [[Manuel Amoros]]<ref name="awards" />
+| fair_play = {{fb|BRA|1968}}<ref name="awards" />
+| prevseason = [[1978 FIFA World Cup|1978]]
+| nextseason = [[1986 FIFA World Cup|1986]]
+}}
+
+The '''1982 FIFA World Cup''' was the 12th [[FIFA World Cup]], the quadrennial [[Association football|football]] tournament for men's senior national teams, and was played in Spain from 13 June to 11 July 1982. The tournament was won by [[Italy national football team|Italy]], who defeated [[Germany national football team|West Germany]] 3–1 in the [[1982 FIFA World Cup final|final]] held in the [[Santiago Bernabéu Stadium]] in [[Madrid]]. It was Italy's third World Cup title, but their first since [[1938 FIFA World Cup|1938]]. The defending champions, [[Argentina national football team|Argentina]], were eliminated in the second round (finishing third and last in their group). [[Algeria national football team|Algeria]], [[Cameroon national football team|Cameroon]], [[Honduras national football team|Honduras]], [[Kuwait national football team|Kuwait]] and [[New Zealand men's national football team|New Zealand]] made their first appearances in a World Cup.
+
+The tournament featured the first penalty shoot-out in World Cup competition.<ref>{{Cite web|last1=Lewis|first1=Tim|title=1982: Why Brazil V Italy Was One Of Football's Greatest Ever Matches|url=http://www.esquire.co.uk/culture/sport/6396/1982-why-brazil-v-italy-was-one-of-footballs-greatest-ever-matches/|website=Esquire|access-date=20 May 2015|date=11 July 2014|archive-url=https://web.archive.org/web/20150927181154/http://www.esquire.co.uk/culture/sport/6396/1982-why-brazil-v-italy-was-one-of-footballs-greatest-ever-matches/|archive-date=27 September 2015|url-status=dead}}</ref><ref>{{Cite web|last1=Ger|first1=McCarthy|title=Memory Lane – West Germany v France at World Cup 82|url=http://backpagefootball.com/memory-lane-west-germany-v-france-at-world-cup-82/21132/|publisher=Backpage Football|access-date=17 June 2014|date=10 July 2011|archive-date=15 August 2014|archive-url=https://web.archive.org/web/20140815125442/http://backpagefootball.com/memory-lane-west-germany-v-france-at-world-cup-82/21132/|url-status=live}}</ref> This was the third and last World Cup to feature two rounds of [[Tournament#Group stage|group stages]]. It was also the third time (after [[1934 FIFA World Cup|1934]] and [[1966 FIFA World Cup|1966]]) that all four semi-finalists were European.
+
+In the first round of Group 3, [[Hungary national football team|Hungary]] defeated [[El Salvador national football team|El Salvador]] 10–1, equalling the largest margin of victory recorded in any edition of the World Cup (Hungary over [[South Korea national football team|South Korea]] 9–0 in [[1954 FIFA World Cup|1954]], and [[Yugoslavia national football team|Yugoslavia]] over [[DR Congo national football team|Zaire]] 9–0 in [[1974 FIFA World Cup|1974]]). Although filled with compelling and entertaining matches, this tournament was marred by violent fouls, poor officiating, some overcrowded stadiums, very hot weather and alleged [[Disgrace of Gijón|collusion between teams]]. One particular incident of note was West German goalkeeper [[Harald Schumacher]]'s foul of French player [[Patrick Battiston]] during a semi-final match in Seville, and another was Italian player [[Claudio Gentile]]'s intense and often violent match-long fouling and marking of Argentine player [[Diego Maradona]]. FIFA changed the regulations to somewhat prevent this kind of brutality on the pitch for the subsequent tournament in [[1986 FIFA World Cup|Mexico]].
+
+==Host selection==
+{{Main|FIFA World Cup hosts}}
+Spain was chosen as the host nation by FIFA in [[London]] on 6 July 1966. Hosting rights for the 1974 and [[1978 FIFA World Cup|1978]] tournaments were awarded at the same time. West Germany and Spain were initially competing for a hosting bid, but ultimately agreed a deal whereby [[Spain]] would support West Germany for the 1974 tournament and West Germany would allow Spain to bid for the 1982 World Cup unopposed. As a result, West Germany withdrew its bid for the 1982 edition.<ref>{{Cite web |date=2026-06-12 |title=Cómo la FIFA adjudicó a España el Mundial del 82 con Franco aún vivo y terminó siendo una oportunidad para proyectar al mundo un país nuevo |url=https://www.lasexta.com/programas/sexta-columna/como-fifa-adjudico-espana-mundial-82-franco-aun-vivo-termino-siendo-oportunidad-proyectar-mundo-pais-nuevo_202606126a2c463df2a09b63649e7d0e.html |access-date=2026-07-06 |website=LaSexta |language=es |archive-date=12 July 2026 |archive-url=https://web.archive.org/web/20260712224234/https://www.lasexta.com/programas/sexta-columna/como-fifa-adjudico-espana-mundial-82-franco-aun-vivo-termino-siendo-oportunidad-proyectar-mundo-pais-nuevo_202606126a2c463df2a09b63649e7d0e.html |url-status=live }}</ref>
+
+The decision to host the World Cup in Spain was controversial: At the time of Spain being selected, the country was still under the dictatorship of [[Francisco Franco]]'s regime.<ref>{{Cite web |date=March 23, 2022 |title=Controversy with a seeded head, broken balls and confusion with the first chosen ones: the story of the embarrassing 1982 World Cup draw |url=https://www.infobae.com/en/2022/03/23/controversy-with-a-seeded-head-broken-balls-and-confusion-with-the-first-chosen-ones-the-story-of-the-embarrassing-1982-world-cup-draw/ |access-date=2022-12-05 |website=infobae |language=es-ES |archive-date=5 December 2022 |archive-url=https://web.archive.org/web/20221205182130/https://www.infobae.com/en/2022/03/23/controversy-with-a-seeded-head-broken-balls-and-confusion-with-the-first-chosen-ones-the-story-of-the-embarrassing-1982-world-cup-draw/ |url-status=live }}</ref> However, the regime of [[Francoist Spain]] ended by 1975 with the [[death and funeral of Francisco Franco|death of Franco]]. The World Cup had significant effects on [[Spanish society after the democratic transition]] because, from the period from 1975 to 1982, Spain was still [[Spanish transition to democracy|undergoing a transition from dictatorship to democracy]].<ref>{{Cite journal |last=Simón |first=Juan |date=2020-11-16 |title=Fighting against oblivion: the legacy of the 1982 World Cup, or the first challenge of democratic Spain |url=https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1793626 |journal=Soccer & Society |language=en |volume=21 |issue=8 |pages=918–931 |doi=10.1080/14660970.2020.1793626 |s2cid=225701114 |issn=1466-0970 |url-access=subscription |archive-date=5 December 2022 |access-date=5 December 2022 |archive-url=https://web.archive.org/web/20221205182134/https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1793626 |url-status=live }}</ref>
+
+==Qualification==
+{{Main|1982 FIFA World Cup qualification}}
+
+For the first time ever, the World Cup finals expanded from 16 to 24 teams. This allowed more countries to participate from Africa and Asia.<ref>{{Cite news |last=Paradinas |first=Juan José |date=1978-09-07 |title=El Mundial-82 ya tiene problemas: su número de participantes |url=https://elpais.com/diario/1978/09/07/deportes/273967211_850215.html |access-date=2026-07-06 |work=El País |language=es |issn=1134-6582 |archive-date=16 August 2019 |archive-url=https://web.archive.org/web/20190816032744/https://elpais.com/diario/1978/09/07/deportes/273967211_850215.html |url-status=live }}</ref><ref>{{Cite news |last=País |first=El |date=1979-10-16 |title=104 equipos jugarán la fase previa del Mundial-82 |url=https://elpais.com/diario/1979/10/16/deportes/308876418_850215.html |access-date=2026-07-06 |work=El País |language=es |issn=1134-6582 |archive-date=7 July 2026 |archive-url=https://web.archive.org/web/20260707134850/https://elpais.com/diario/1979/10/16/deportes/308876418_850215.html |url-status=live }}</ref>
+
+Northern Ireland qualified for the first time since 1958. Belgium, [[Czechoslovakia national football team|Czechoslovakia]], [[El Salvador national football team|El Salvador]], [[England national football team|England]] and the [[Soviet Union national football team|Soviet Union]] were all back in the World Cup after 12-year absences. England had its first successful World Cup qualifying campaign in 20 years (they qualified for the 1966 tournament as hosts and for the 1970 tournament as defending champions).<ref name="falklands">{{Cite web |url=https://www.bbc.co.uk/news/uk-20856004 |title=World Cup withdrawal considered amid Falklands War |work=BBC Sport |date=28 December 2012 |access-date=28 December 2012 |archive-date=13 April 2019 |archive-url=https://web.archive.org/web/20190413070652/https://www.bbc.co.uk/news/uk-20856004 |url-status=live }}</ref> [[Yugoslavia national football team|Yugoslavia]] and [[Chile national football team|Chile]] were also back after missing the 1978 tournament.
+
+[[Algeria national football team|Algeria]], [[Cameroon national football team|Cameroon]], [[Honduras national football team|Honduras]], [[Kuwait national football team|Kuwait]], and [[New Zealand men's national football team|New Zealand]] all participated in the World Cup for the first time.<ref name=":0">{{Cite news |last=Mora |first=Juan |date=1982-01-24 |title=104 selecciones disputaron la fase previa del Mundial-82 |url=https://elpais.com/diario/1982/01/24/deportes/380674809_850215.html |access-date=2026-07-06 |work=El País |language=es |issn=1134-6582 |archive-date=10 July 2026 |archive-url=https://web.archive.org/web/20260710042213/https://elpais.com/diario/1982/01/24/deportes/380674809_850215.html |url-status=live }}</ref>
+
+This was the first time that all six confederations ([[Asian Football Confederation|AFC]], [[Confederation of African Football|CAF]], [[CONCACAF]], [[CONMEBOL]], [[Oceania Football Confederation|OFC]] and [[UEFA]]) sent representative teams to the tournament.<ref name=":0" />
+
+===List of qualified teams===
+The following 24 teams qualified for the final tournament.<ref name=":0" />
+{{col-begin}}
+{{col-4}}
+;[[1982 FIFA World Cup qualification (AFC and OFC)|AFC]] (1)
+* {{fb|KUW}} (debut)
+;[[1982 FIFA World Cup qualification (CAF)|CAF]] (2)
+* {{fb|ALG}} (debut)
+* {{fb|CMR}} (debut)
+;[[1982 FIFA World Cup qualification (AFC and OFC)|OFC]] (1)
+* {{fb|NZL}} (debut)
+{{col-4}}
+;[[1982 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (2)
+* {{fb|HON|1949}} (debut)
+* {{fb|SLV}}
+;[[1982 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (4)
+* {{fb|ARG|1861}} (holders)
+* {{fb|BRA|1968}}
+* {{fb|CHI}}
+* {{fb|PER}}
+{{col-4}}
+;[[1982 FIFA World Cup qualification (UEFA)|UEFA]] (14)
+* {{fb|AUT}}
+* {{fb|BEL}}
+* {{fb|TCH}}
+* {{fb|ENG}}
+* {{fb|FRA|1974}}
+* {{fb|HUN}}
+* {{fb|ITA|1946}}
+* {{fb|NIR}}
+* {{fb|POL}}
+* {{fb|SCO}}
+* {{fb|SOV}}
+* {{fb|ESP}}&nbsp;(hosts)
+* {{fb|FRG}}
+* {{fb|YUG}}
+{{col-4}}
+[[File:1982 world cup qualification.png|thumb|305px|{{legend|#000cff|Countries qualified for World Cup}} {{legend|#ffb400|Country did not qualify}} {{legend|black|Countries that did not enter World Cup}} {{legend|#ababab|Country not a FIFA member}}]]
+{{col-end}}
+
+{{as of|2026}}, this was the last time El Salvador qualified for the World Cup finals, the only time Kuwait have qualified, and the last time Mexico (who were disqualified from 1990) and South Korea failed to qualify.
+
+==Summary==
+===Format===
+[[File:Selecció de futbol d'Hondures. Copa del Món de Futbol de 1982. (Alginet, País Valencià).jpg|thumb|[[Honduras national football team|Honduras team]] in [[Alginet]], during a June 1982 preparatory match.]]
+The first round was a [[Round-robin tournament|round-robin]] group stage containing six groups of four teams each. Two points were awarded for a win and one for a draw, with [[goal difference]] used to separate teams equal on points. The top two teams in each group advanced. In the second round, the twelve remaining teams were split into four groups of three teams each, with the winner of each group progressing to the knockout semi-final stage.
+
+The composition of the groups in the second round was determined before the start of the tournament. Groups A and B were to include one team from each of Groups 1 through 6, and Groups C and D included the remaining six teams. The winners of Groups 1 and 3 were in Group A while the runners-up were in Group C. The winners of Groups 2 and 4 were in Group B while the runners-up were in Group D. The winner of Group 5 was in Group D and the runner-up was in Group B. The winner of Group 6 was in Group C and the runner-up was in Group A. Thus, Group A mirrored Group C, and Group B mirrored Group D with the winners and runners-up from the first round being placed into opposite groups in the second round.
+{| class="wikitable"
+|+
+!Group A
+!Group B
+!Group C
+!Group D
+|-
+|Winner G1
+|Winner G2
+|Winner G6
+|Winner G5
+|-
+|Winner G3
+|Winner G4
+|Runner-up G1
+|Runner-up G2
+|-
+|Runner-up G6
+|Runner-up G5
+|Runner-up G3
+|Runner-up G4
+|}
+
+The second-round groups that mirrored each other (based on the first-round groupings) faced off against each other in the semi-finals. Thus, the Group A winner played the Group C winner, and the Group B winner played the Group D winner. This meant that if two teams which played in the same first-round group both emerged from the second round, they would meet for the second time of the tournament in a semi-final match. It also guaranteed that the final match would feature two teams that had not previously played each other in the tournament. Italy and Poland who were both in Group 1 in the first round, each won their second-round groups and played each other in a semi-final match.<ref>{{Cite web |url=http://soccernostalgia.blogspot.ie/2015_05_01_archive.html |title=1982 FIFA World Cup Outline |date=31 May 2015 |work=Soccernostalgia |access-date=16 June 2015 |archive-date=30 January 2016 |archive-url=https://web.archive.org/web/20160130014957/http://soccernostalgia.blogspot.ie/2015_05_01_archive.html |url-status=live }}</ref>
+
+===First group stage===
+In Group 1, newcomers [[Cameroon national football team|Cameroon]] held both [[Poland national football team|Poland]] and [[Italy national football team|Italy]] to draws, and were denied a place in the next round on the basis of having scored fewer goals than Italy (the sides had an equal goal difference). Poland and Italy qualified over Cameroon and [[Peru national football team|Peru]]. Italian journalists and [[tifosi]] criticised their team for their uninspired performances that managed three draws; the squad was reeling from the recent [[Totonero 1980|Serie A scandal]], where national players were suspended for match fixing and illegal betting.<ref>{{Cite web|url=https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820624&printsec=frontpage&hl=en|title=Italy qualify with two goals in three games|date=24 June 1982|work=Glasgow Herald (page 19)|access-date=16 June 2015|archive-date=3 October 2015|archive-url=https://web.archive.org/web/20151003002258/https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820624&printsec=frontpage&hl=en|url-status=live}}</ref>
+
+Group 2 featured one of the great World Cup upsets on the first day, the 2–1 victory of [[Algeria national football team|Algeria]] over reigning European Champions [[Germany national football team|West Germany]]. In the final match in the group, West Germany met [[Austria national football team|Austria]] in a match later dubbed as the "[[Disgrace of Gijón]]". Algeria had already played their final group game on the previous day, and West Germany and Austria knew that a West German win by one or two goals would qualify them both, while a larger German victory would qualify Algeria over Austria, and a draw or an Austrian win would eliminate the Germans. After 10&nbsp;minutes of all-out attack, West Germany scored a goal by [[Horst Hrubesch]]. After that solitary goal, the two teams kicked the ball around aimlessly for the rest of the match. Chants of "''Fuera, fuera''" ("''Out, out''") were screamed by the Spanish crowd, while angry Algerian supporters waved [[banknotes]] at the players. This performance was widely deplored, even by the German and Austrian fans. One German fan was so upset by his team's display that he burned his German flag in disgust.<ref>{{Cite news|first1=Lawrence |last1=Booth |first2=Rob |last2=Smyth |title=What's the dodgiest game in football history? |url=https://www.theguardian.com/football/2004/aug/11/theknowledge.sport |work=The Guardian|publisher=Guardian News and Media |date=11 August 2004 |access-date=25 February 2009 |archive-url=https://web.archive.org/web/20110726092403/http://www.guardian.co.uk/football/2004/aug/11/theknowledge.sport |archive-date=26 July 2011 |url-status=live }}</ref> Algeria protested to FIFA, who ruled that the result would stand; FIFA introduced a revised qualification system at subsequent World Cups in which the final two games in each group were played simultaneously.
+
+In Group 3, which featured the opening ceremony and first match of the tournament, [[Belgium national football team|Belgium]] defeated the defending champion [[Argentina national football team|Argentina]] 1–0. The [[Camp Nou]] stadium was the home of [[FC Barcelona|Barcelona]], and many fans had wanted to see the club's new signing, Argentinian star [[Diego Maradona]], who did not perform to expectations. Both Belgium and Argentina ultimately advanced at the expense of [[Hungary national football team|Hungary]] and [[El Salvador national football team|El Salvador]] despite [[Hungary vs El Salvador (1982)|Hungary's 10–1 win]] over the Central American nation – which, with a total of 11 goals, is the second highest scoreline in a World Cup game (equal with Brazil's 6–5 victory over Poland in the 1938 tournament and Hungary's 8–3 victory over West Germany in the 1954 tournament).
+
+Group 4 opened with [[England national football team|England]] midfielder [[Bryan Robson]]'s goal against [[France national football team|France]] after only 27&nbsp;seconds of play. England won 3–1 and qualified along with France over [[Czechoslovakia national football team|Czechoslovakia]] and [[Kuwait national football team|Kuwait]], though the tiny Gulf emirate held Czechoslovakia to a 1–1 draw. In the game between Kuwait and France, with France leading 3–1, France midfielder [[Alain Giresse]] scored a goal vehemently contested by the Kuwait team, who had stopped play after hearing a piercing whistle from the stands, which they thought had come from Soviet referee [[Miroslav Stupar]]. Play had not yet resumed when Sheikh [[Fahad Al-Ahmed Al-Jaber Al-Sabah]], brother of the [[Jaber Al-Ahmad Al-Sabah|then-Kuwaiti Emir]] and president of the [[Kuwait Football Association]], rushed onto the pitch to remonstrate with the referee. Stupar reversed his initial decision and disallowed the goal to the fury of the French. [[Maxime Bossis]] scored another valid goal a few minutes later and France won 4–1.
+
+In Group 5, [[Honduras national football team|Honduras]] held hosts [[Spain men's national football team|Spain]] to a 1–1 draw. [[Northern Ireland national football team|Northern Ireland]] won the group outright, eliminating [[Yugoslavia national football team|Yugoslavia]] and beating hosts Spain 1–0; Northern Ireland had to play the majority of the second half with ten men after [[Mal Donaghy]] was dismissed. Spain narrowly avoided elimination due to a huge referee error, securing a contentious 2–1 victory over Yugoslavia, largely attributed to a disputed penalty decision. At 17 years and 41 days, Northern Ireland forward [[Norman Whiteside]] was the youngest player to appear in a World Cup match.<ref>{{Cite web|url=https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820626&printsec=frontpage&hl=en|title=Ten-man Irish in fairytale victory|date=26 June 1982|work=Glasgow Herald (page 19)|access-date=16 June 2015|archive-date=2 October 2015|archive-url=https://web.archive.org/web/20151002235454/https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820626&printsec=frontpage&hl=en|url-status=live}}</ref>
+
+[[Brazil national football team|Brazil]] were in Group 6. With [[Zico (footballer)|Zico]], [[Sócrates]], [[Paulo Roberto Falcão|Falcão]], [[Éder Aleixo de Assis|Éder]] and others, they boasted an offensive firepower that promised a return to the glory days of [[1970 FIFA World Cup|1970]]. They beat the [[USSR national football team|USSR]] 2–1 thanks to a 20-metre Éder goal two minutes from time, then [[Scotland national football team|Scotland]] and [[New Zealand men's national football team|New Zealand]] with four goals each. The Soviets took the group's other qualifying berth on goal difference at the expense of the Scots.
+
+===Second group stage===
+[[File:Mundial82coruña.jpg|thumb|upright|A statue commemorating the 1982 FIFA World Cup at the [[Estadio Riazor]] in [[A Coruña]].]]
+Poland opened Group A with a 3–0 defeat of Belgium thanks to a [[Zbigniew Boniek]] [[Perfect Hat-Trick|hat-trick]]. The Soviet Union prevailed 1–0 in the next match over Belgium. The Poles edged out the USSR for the semi-final spot on the final day on goal difference thanks to a 0–0 draw in a politically charged match, as Poland's then-Communist government had imposed a [[Martial law in Poland|martial law]] a few months earlier to quash internal dissent.
+
+In Group B, a match between England and West Germany ended in a goalless draw. West Germany put the pressure on England in their second match by beating Spain 2–1. The home side drew 0–0 against England, denying [[Ron Greenwood]]'s team a semi-final place and putting England in the same position as Cameroon, being eliminated without losing a game.
+
+In Group C, with Brazil, Argentina and Italy, in the opener, Italy prevailed 2–1 over [[Diego Maradona]] and [[Mario Kempes]]'s side after a game in which Italian defenders [[Gaetano Scirea]] and [[Claudio Gentile]] proved themselves equal to the task of stopping the Argentinian attack. Argentina now needed a win over Brazil on the second day, but lost 3–1 – Argentina only scoring in the last minute. Maradona kicked [[João Batista da Silva|João Batista]] in the groin and was sent off in the 85th minute.
+
+The [[Brazil vs Italy (1982)|match between Brazil and Italy]] pitted Brazil's attack against Italy's defence, with the majority of the game played around the Italian area, and with the Italian midfielders and defenders returning the repeated set volleys of Brazilian shooters such as [[Zico (footballer)|Zico]], [[Sócrates]] and [[Paulo Roberto Falcão|Falcão]]. Italian centre back Gentile was assigned to mark Brazilian striker Zico, earning a yellow card and a suspension for the semi-final. [[Paolo Rossi]] opened the scoring when he headed in [[Antonio Cabrini]]'s cross with just five minutes played. Sócrates equalised for Brazil seven minutes later. In the twenty-fifth minute Rossi stepped past [[Leovegildo Lins da Gama Júnior|Júnior]], intercepted a pass from [[Toninho Cerezo|Cerezo]] across the Brazilians' goal, and drilled the shot home. The Brazilians threw everything in search of another equaliser, while Italy defended bravely. On 68 minutes, Falcão collected a pass from Júnior and as Cerezo's dummy run distracted three defenders, fired home from 20 yards out. Now Italy had gained the lead twice thanks to Rossi's goals, and Brazil had come back twice; at 2–2, Brazil would have been through on goal difference, but in the 74th minute, a poor clearance from an Italian [[corner kick]] went back to the Brazilian six-yard line where Rossi and [[Francesco Graziani]] were waiting. Both aimed at the same shot, Rossi connecting to get a hat trick and sending Italy into the lead for good. In the 86th minute [[Giancarlo Antognoni]] scored an apparent fourth goal for Italy, but it was wrongly disallowed for offside. In the dying moments [[Dino Zoff]] made a miraculous save to deny [[Oscar (footballer, born 1954)|Oscar]] a goal, ensuring that Italy advanced to the semi-final.<ref>{{Cite web|url=http://www.esquire.co.uk/culture/sport/6396/1982-why-brazil-v-italy-was-one-of-footballs-greatest-ever-matches/|title=1982: Why Brazil V Italy Was One Of Football's Greatest Ever Matches|publisher=Esquire.co.uk|date=30 May 2014|access-date=1 July 2014|archive-url=https://web.archive.org/web/20150927181154/http://www.esquire.co.uk/culture/sport/6396/1982-why-brazil-v-italy-was-one-of-footballs-greatest-ever-matches/|archive-date=27 September 2015|url-status=dead}}</ref><ref>{{Cite book|first=John|last=Foot|author-link=John Foot (historian)|title=Winning at All Costs: A Scandalous History of Italian Soccer|url=https://books.google.com/books?id=NBufCsXpkVkC&pg=PA470 |page=470|access-date=1 July 2014|isbn=978-1-56858-652-6|date=24 August 2007|publisher=PublicAffairs }}</ref>
+
+In the last group, Group D, France dispatched Austria 1–0 with a free kick goal by [[Bernard Genghini]], and then defeated Northern Ireland 4–1 to reach their first semi-final since [[1958 FIFA World Cup|1958]].
+
+===Semi-finals, match for third place and final===
+In a re-match of the encounter in the first round, Italy beat Poland in the first semi-final through two goals from Paolo Rossi. In the game between France and West Germany, the Germans opened the scoring through a [[Pierre Littbarski]] strike in the 17th minute, and the French equalised nine minutes later with a [[Michel Platini]] penalty. In the second half a long through ball sent French defender [[Patrick Battiston]] racing clear towards the German goal. With both Battiston and the lone German defender trying to be the first to reach the ball, Battiston flicked it past German keeper [[Harald Schumacher]] from the edge of the German [[penalty area]] and Schumacher reacted by jumping up to block. Schumacher did not seem to go for the ball, however, and clattered straight into the oncoming Battiston – which left the French player unconscious and knocked two of his teeth out. Schumacher's action has been described as "one of history's most shocking fouls".<ref>{{Cite news |url=https://news.bbc.co.uk/sport2/hi/football/4148525.stm |title=World's worst refereeing decisions |first=Andrew |last=Benson |website=BBC Sport |date=5 January 2005 |access-date=15 December 2023 |archive-date=27 October 2023 |archive-url=https://web.archive.org/web/20231027091507/http://news.bbc.co.uk/sport2/hi/football/4148525.stm |url-status=live }}</ref> The ball went just wide of the post and Dutch referee [[Charles Corver]] deemed Schumacher's tackle on Battiston not to be a foul and awarded a [[goal kick]]. Play was interrupted for several minutes while Battiston, still unconscious and with a broken jaw, was carried off the field on a stretcher.
+
+After French defender [[Manuel Amoros]] had sent a 25-metre drive crashing onto the West German crossbar in the final minute, the match went into extra time. On 92&nbsp;minutes, France's sweeper [[Marius Trésor]] fired a swerving volley under Schumacher's crossbar from ten metres out to make it 2–1. Six minutes later, an unmarked [[Alain Giresse]] drove in an 18-metre shot off the inside of the right post to finish off a counter-attack and put France up 3–1. But West Germany would not give up. In the 102nd minute a counter-attack culminated in a cross that recent substitute [[Karl-Heinz Rummenigge]] turned in at the near post from a difficult angle with the outside of his foot, reducing France's lead to 3–2. Then in the 108th minute Germany took a short corner and after France failed to clear, the ball was played by Germany to Littbarski whose cross to [[Horst Hrubesch]] was headed back to the centre towards [[Klaus Fischer]], who was unmarked but with his back to goal. Fischer in turn volleyed the ball past French keeper [[Jean-Luc Ettori]] with a [[bicycle kick]], levelling the scores at 3–3.
+
+The resulting [[Penalty shoot-out (football)|penalty shoot-out]] was the first at a World Cup finals. Giresse, [[Manfred Kaltz]], [[Manuel Amoros]], [[Paul Breitner]] and [[Dominique Rocheteau]] all converted penalties until [[Uli Stielike]] was stopped by Ettori, giving France the advantage. But then Schumacher stepped forward, lifted the tearful Stielike from the ground, and saved [[Didier Six]]'s shot. With Germany handed the lifeline they needed Littbarski converted his penalty, followed by Platini for France, and then Rummenigge for Germany as the tension mounted. France defender Maxime Bossis then had his kick parried by Schumacher who anticipated it, and Hrubesch stepped up to score and send Germany to the World Cup final yet again with a victory on penalties, 5–4.
+
+{{Quote box|width=28%|bgcolor=#c6dbf7|align=right|quote="After I scored, my whole life passed before me – the same feeling they say you have when you are about to die, the joy of scoring in a World Cup final was immense, something I dreamed about as a kid, and my celebration was a release after realising that dream. I was born with that scream inside me, that was just the moment it came out."|source=—Italian midfielder [[Marco Tardelli]] on his [[Goal celebration#Notable non-celebrations|iconic goal celebration]] from the 1982 World Cup Final.<ref>{{Cite web|url=https://www.bbc.co.uk/blogs/chrisbevan/2010/05/the_story_of_the_1982_world_cu.html|title=The story of the 1982 World Cup|publisher=BBC|author1=Chris Bevan|date=20 May 2010|access-date=6 July 2016|archive-date=27 December 2016|archive-url=https://web.archive.org/web/20161227033332/http://www.bbc.co.uk/blogs/chrisbevan/2010/05/the_story_of_the_1982_world_cu.html|url-status=live}}</ref>}}
+In the match for third place, Poland edged the French side 3–2 which matched Poland's best performance at a World Cup previously achieved in 1974. France would go on to win the [[UEFA Euro 1984|European Championship]] two years later.
+
+In the final, [[Antonio Cabrini]] fired a penalty wide of goal in the first half. In the second half, Paolo Rossi scored first for the third straight game by heading home Gentile's bouncing cross at close range. Exploiting the situation, Italy scored twice more on quick counter-strikes, all the while capitalising on their defence to hold the Germans. With Gentile and Gaetano Scirea holding the centre, the Italian strikers were free to counter-punch the weakened German defence. [[Marco Tardelli]]'s shot from the edge of the area beat Schumacher first, and [[Alessandro Altobelli]], the substitute for injured striker [[Francesco Graziani]], made it 3–0 at the end of a solo sprint down the right side by the stand-out winger [[Bruno Conti]]. Italy's lead appeared secure, encouraging Italian president [[Sandro Pertini]] to wag his finger at the cameras in a playful "not going to catch us now" gesture. In the 83rd minute, Paul Breitner scored for West Germany, but it was only a consolation goal as Italy won 3–1 to claim their first World Cup title in 44 years, and their third in total.
+
+==Records==
+Italy became the first team to advance from the first round without winning a game, drawing all three (while [[Cameroon national football team|Cameroon]] were eliminated in the same way by virtue of having only one goal scored against Italy's two), and also the first of two World Cup winners to draw or lose three matches (Argentina matched this by drawing two games and losing one in 2022). By winning, Italy equalled Brazil's record of winning the World Cup three times. Italy's total of twelve goals scored in seven matches set a new low for average goals scored per game by a World Cup winning side (subsequently exceeded by Spain in 2010), while Italy's aggregate goal difference of +6 for the tournament remains a record low for a champion, equalled by Spain. England became the first and only side in European history to not select a player from that season's European Cup winning team, Aston Villa, in any match.<ref>{{Cite news |last=Cox |first=Michael |date=2025-10-26 |title=How Italy won the 1982 World Cup: A slow start, Rossi’s resurgence, and Tardelli’s iconic scream |url=https://www.nytimes.com/athletic/6734114/2025/10/26/world-cup-winners-italy-1982/ |access-date=2026-07-06 |work=The New York Times |language=en-US |issn=0362-4331 |archive-date=28 October 2025 |archive-url=https://web.archive.org/web/20251028195414/https://www.nytimes.com/athletic/6734114/2025/10/26/world-cup-winners-italy-1982/ |url-status=live }}</ref>
+
+Italy's 40-year-old captain-goalkeeper [[Dino Zoff]] became the oldest player to win the World Cup.<ref>{{Cite news|url=http://sportsillustrated.cnn.com/soccer/world/2002/world_cup/hof/zoff/|title=World Cup Hall of Fame: Dino Zoff|newspaper=[[Sports Illustrated]]|archive-url=https://web.archive.org/web/20050912055524/http://sportsillustrated.cnn.com/soccer/world/2002/world_cup/hof/zoff/|archive-date=12 September 2005}}</ref> This was the first World Cup in which teams from all six continental confederations participated, something that did not happen again until [[2006 FIFA World Cup|2006]].
+
+==Venues==
+{{OSM Location map 
+| coord        = {{Coord|39.5|N|3.7|W}}
+| zoom         = 5
+| width        = 400
+| height       = 300
+| shapeD       = circle
+| mark-sizeD   = 8
+| label-sizeD  = 10, background, outline
+| caption      = Venues of the 1982 FIFA World Cup
+
+| mark-coord1        = {{Coord|41.3809|2.1228}}
+| shape-color1       = red
+| mark-title1        = [[Camp Nou]]
+| mark-image1        = Camp Nou aerial (cropped).jpg
+| mark-description1  = [[Barcelona]]
+| label1             = '''[[Camp Nou]]'''
+| label-pos1         = east
+| mark-coord2        = {{Coord|41.3931|2.1332}}
+| shape-color2       = red
+| mark-title2        = [[Sarrià Stadium|Sarrià]]
+| mark-image2        = Sarrià.jpg
+| mark-description2  = [[Barcelona]]
+| label2             = '''[[Sarrià Stadium|Sarrià]]'''
+| label-pos2         = west
+| mark-coord3        = {{Coord|40.4531|-3.6883}}
+| shape-color3       = red
+| mark-title3        = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| mark-image3        = Santiago-Bernabeu-May-2013.jpg
+| mark-description3  = [[Madrid]]
+| label3             = '''[[Santiago Bernabéu Stadium|Santiago Bernabéu]]'''
+| label-pos3         = east
+| mark-coord4        = {{Coord|40.4017|-3.7206}}
+| shape-color4       = red
+| mark-title4        = [[Vicente Calderón Stadium|Vicente Calderón]]
+| mark-image4        = Vicente Calderón Stadium by BruceW.jpg
+| mark-description4  = [[Madrid]]
+| label4             = '''[[Vicente Calderón Stadium|Vicente Calderón]]'''
+| label-pos4         = west
+| mark-coord5        = {{Coord|37.3841|-5.9707}}
+| shape-color5       = red
+| mark-title5        = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+| mark-image5        = Seville Ramón Sánchez Pizjuán Stadium 1.jpg
+| mark-description5  = [[Seville]]
+| label5             = '''[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]'''
+| label-pos5         = west
+| mark-coord6        = {{Coord|37.3565|-5.9818}}
+| shape-color6       = red
+| mark-title6        = [[Estadio Benito Villamarín|Benito Villamarín]]
+| mark-image6        = Panorama Estadio Betis.jpg
+| mark-description6  = [[Seville]]
+| label6             = '''[[Estadio Benito Villamarín|Benito Villamarín]]'''
+| label-pos6         = east
+| mark-coord7        = {{Coord|38.2669|-0.6633}}
+| shape-color7       = red
+| mark-title7        = [[Estadio Martínez Valero|Nuevo Estadio]]
+| mark-image7        = Preferecia Martínez Valero.jpg
+| mark-description7  = [[Elche]]
+| label7             = '''[[Estadio Martínez Valero|Nuevo Estadio]]'''
+| label-pos7         = west
+| mark-coord8        = {{Coord|39.4747|-0.3584}}
+| shape-color8       = red
+| mark-title8        = [[Mestalla Stadium|Luis Casanova]]
+| mark-image8        = Mestalla trofeu taronja 120811.jpg
+| mark-description8  = [[Valencia]]
+| label8             = '''[[Mestalla Stadium|Luis Casanova]]'''
+| label-pos8         = east
+| mark-coord9        = {{Coord|43.2643|-2.9504}}
+| shape-color9       = red
+| mark-title9        = [[San Mamés Stadium (1913)|San Mamés]]
+| mark-image9        = San Mames Stadium.JPG
+| mark-description9  = [[Bilbao]]
+| label9             = '''[[San Mamés Stadium (1913)|San Mamés]]'''
+| label-pos9         = east
+| mark-coord10       = {{Coord|43.5361|-5.6372}}
+| shape-color10      = red
+| mark-title10       = [[El Molinón]]
+| mark-image10       = ElMolinonSportingvsAthletic30-10-11.jpg
+| ldx10              = 3
+| ldy10              = -7
+| mark-description10 = [[Gijón]]
+| label10            = '''[[El Molinón]]'''
+| label-pos10        = east, with-line
+| mark-coord11       = {{Coord|36.7342|-4.4266}}
+| shape-color11      = red
+| mark-title11       = [[La Rosaleda Stadium|La Rosaleda]]
+| mark-image11       = Estado de la Rosaleda (Málaga C.F.).jpg
+| mark-description11 = [[Málaga]]
+| label11            = '''[[La Rosaleda Stadium|La Rosaleda]]'''
+| label-pos11        = east
+| mark-coord12       = {{Coord|41.6366|-0.9018}}
+| shape-color12      = red
+| mark-title12       = [[La Romareda]]
+| mark-image12       = Grada Sur de La Romareda 2019.jpg
+| mark-description12 = [[Zaragoza]]
+| label12            = '''[[La Romareda]]'''
+| label-pos12        = west
+| mark-coord13       = {{Coord|43.3687|-8.4175}}
+| shape-color13      = red
+| mark-title13       = [[Estadio Riazor|Riazor]]
+| mark-image13       = Estadio de Riazor.A Corunha.Galiza.jpg
+| ldx13              = -6
+| ldy13              = -6
+| label13            = '''[[Estadio Riazor|Riazor]]'''
+| label-pos13        = west, with-line
+| mark-description13 = [[A Coruña]]
+| mark-coord14       = {{Coord|42.2118|-8.7397}}
+| shape-color14      = red
+| mark-title14       = [[Balaídos]]
+| mark-image14       = Grada Marcador.JPG
+| mark-description14 = [[Vigo]]
+| label14            = '''[[Balaídos]]'''
+| label-pos14        = west
+| mark-coord15       = {{Coord|38.3572|-0.4925}}
+| shape-color15      = red
+| mark-title15       = [[Estadio José Rico Pérez|José Rico Pérez]]
+| mark-image15       = Estadio Jose Rico Perez.JPG
+| mark-description15 = [[Alicante]]
+| label15            = '''[[Estadio José Rico Pérez|José Rico Pérez]]'''
+| label-pos15        = east
+| mark-coord16       = {{Coord|41.6444|-4.7611}}
+| shape-color16      = red
+| mark-title16       = [[Estadio José Zorrilla|José Zorrilla]]
+| mark-image16       = Estadio José Zorrilla desde Preferencia A.jpg
+| mark-description16 = [[Valladolid]]
+| label16            = '''[[Estadio José Zorrilla|José Zorrilla]]'''
+| label-pos16        = west
+| mark-coord17       = {{Coord|43.3579|-5.8608}}
+| shape-color17      = red
+| mark-title17       = [[Estadio Carlos Tartiere (1932)|Carlos Tartiere]]
+| mark-image17       = 
+| ldx17              = -1
+| ldy17              = 12
+| mark-description17 = [[Oviedo]]
+| label17            = '''[[Estadio Carlos Tartiere (1932)|Carlos Tartiere]]'''
+| label-pos17        = west, with-line
+}}
+
+Seventeen stadiums in fourteen cities hosted the tournament, a record that stood until the 2002 tournament, which was played in twenty stadiums in two countries.<ref name="Capacity">Stadium capacities, Panini official album to World Cup 1982.</ref> The most used venue was [[FC Barcelona]]'s [[Camp Nou]] stadium, which hosted five matches, including a semi-final; it was the largest stadium used for this tournament. With [[Sarrià Stadium]] also hosting three matches, Barcelona was the Spanish city with the most matches in España 1982 with eight; Madrid, the nation's capital, followed with seven. The only new stadium built for this tournament was the Jose Zorrilla stadium in Valladolid.
+
+This particular World Cup was organised in such a way that all of the matches of each of the six groups were assigned stadiums in cities near to each other, in order to reduce the stress of travel on the players and fans. For example, Group 1 matches were played in Vigo and A Coruña, Group 2 in Gijón and Oviedo, Group 3 in Elche and Alicante (except for the first match, which was the opening match of the tournament, which was played at the Camp Nou), Group 4 in Bilbao and Valladolid, Group 5 (which included hosts Spain) in Valencia and Zaragoza, and Group 6 in Seville and Malaga (of the three first-round matches in Seville, the first match between Brazil and the Soviet Union was played in the Pizjuán Stadium, and the other two were played in the Villamarín Stadium). Group stage matches in the milder northern cities like Bilbao or Gijón would start at 17:00, while the matches in the southern cities like Seville or Valencia would start at 21:00, in an attempt to avoid the intense southern Spanish summer heat.
+
+When the tournament went into the round-robin second round matches, all the aforementioned cities excluding Barcelona, Alicante and Seville did not host any more matches in España 1982. Both the [[Santiago Bernabéu Stadium|Santiago Bernabéu]] and [[Vicente Calderón Stadium|Vicente Calderón]] stadiums in Madrid and the Sarrià Stadium in Barcelona were used for the first time for this tournament for the second round matches. Madrid and Barcelona hosted the four second round group matches; Barcelona hosted Groups A and C (Camp Nou hosted all three of Group A's matches, and Sarrià did the same with Group C's matches) and Madrid hosted Groups B and D ([[Real Madrid C.F.|Real Madrid]]'s Bernabeu Stadium hosted all three of Group B's matches, and [[Atlético Madrid]]'s Calderon Stadium did the same with the Group D matches)
+
+The two semi final matches were held at Camp Nou and the Pizjuán Stadium in Seville, the third largest stadium used for the tournament (one of only two España 1982 matches it hosted), the match for third place was held in Alicante and the final was held at the Bernabeu, the second largest stadium used for this tournament.<ref>{{Cite web|url=http://www.planetworldcup.com/CUPS/1982/wc82index.html|title=Planet World Cup – 1982 – Match Schedule|first=Jan|last=Alsos|website=www.planetworldcup.com|access-date=7 September 2007|archive-date=9 April 2022|archive-url=https://web.archive.org/web/20220409090904/http://www.planetworldcup.com/CUPS/1982/wc82index.html|url-status=live}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2"|[[Barcelona]]
+! colspan="2"|[[Madrid]]
+|-
+| [[Camp Nou]]
+| [[Sarrià Stadium|Sarrià]]
+| [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| [[Vicente Calderón Stadium|Vicente Calderón]]
+|-
+| Capacity: '''121,401'''
+| Capacity: '''40,400'''
+| Capacity: '''90,089'''
+| Capacity: '''65,695'''
+|-
+| [[File:Camp Nou aerial (cropped).jpg|225px|alt=]]
+| [[File:Sarrià.jpg|225px|alt=]]
+| [[File:Santiago-Bernabeu-May-2013.jpg|225px|alt=]]
+| [[File:Vicente Calderón Stadium by BruceW.jpg|225px|alt=]]
+|-
+! colspan="2"|[[Seville]]
+! [[Elche]]
+! [[Valencia]]
+|-
+| [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+| [[Estadio Benito Villamarín|Benito Villamarín]]
+| [[Estadio Martínez Valero|Nuevo Estadio]]
+| [[Mestalla Stadium|Luis Casanova]]
+|-
+| Capacity: '''68,110'''
+| Capacity: '''50,253'''
+| Capacity: '''53,290'''
+| Capacity: '''49,562'''
+|-
+| [[File:Seville Ramón Sánchez Pizjuán Stadium 1.jpg|225px|alt=]]
+| [[File:Panorama Estadio Betis.jpg|225px|alt=]]
+| [[File:Preferecia Martínez Valero.jpg|225px|alt=]]
+| [[File:Mestalla trofeu taronja 120811.jpg|225px|alt=]]
+|-
+! [[Bilbao]]
+! [[Gijón]]
+! [[Málaga]]
+! [[Zaragoza]]
+|-
+| [[San Mamés Stadium (1913)|San Mamés]]
+| [[El Molinón]]
+| [[La Rosaleda Stadium|La Rosaleda]]
+| [[La Romareda]]
+|-
+| Capacity: '''46,223'''
+| Capacity: '''45,153'''
+| Capacity: '''45,000'''
+| Capacity: '''41,806'''
+|-
+| [[File:San Mames Stadium.JPG|225px|alt=]]
+| [[File:ElMolinonSportingvsAthletic30-10-11.jpg|225px|alt=]]
+| [[File:Estado de la Rosaleda (Málaga C.F.).jpg|225px|alt=]]
+| [[File:Grada Sur de La Romareda 2019.jpg|225px|alt=]]
+|-
+! [[A Coruña]]
+! [[Vigo]]
+! [[Alicante]]
+! [[Valladolid]]
+|-
+| [[Estadio Riazor|Riazor]]
+| [[Balaídos]]
+| [[Estadio José Rico Pérez|José Rico Pérez]]
+| [[Estadio José Zorrilla|José Zorrilla]]
+|-
+| Capacity: '''34,190'''
+| Capacity: '''33,000'''
+| Capacity: '''32,500'''
+| Capacity: '''30,043'''
+|-
+| [[File:Estadio de Riazor.A Corunha.Galiza.jpg|225px|alt=]]
+| [[File:Grada Marcador.JPG|225px|alt=]]
+| [[File:Estadio Jose Rico Perez.JPG|225px|alt=]]
+| [[File:Estadio José Zorrilla desde Preferencia A.jpg|225px|alt=]]
+|-
+! [[Oviedo]]
+|-
+| [[Estadio Carlos Tartiere (1932)|Carlos Tartiere]]
+|-
+| Capacity: '''22,284'''
+|-
+| 
+|-
+|}
+
+==Match officials==
+{{col-float-begin}}
+'''AFC'''
+* {{fbaicon|BHR|1972}} [[Ibrahim Youssef Al-Doy]]
+* {{fbaicon|HKG|1959}} [[Thomson Chan|Chan Tam Sun]]
+* {{fbaicon|ISR}} [[Abraham Klein (referee)|Abraham Klein]]
+'''CAF'''
+* {{fbaicon|GHA}} [[Benjamin Dwomoh]]
+* {{fbaicon|LBY|1977}} [[Yousef El-Ghoul]]
+* {{fbaicon|ALG}} [[Belaid Lacarne]]
+'''CONCACAF'''
+* {{fbaicon|GUA|1968}} [[Rómulo Méndez]]
+* {{fbaicon|MEX}} Mario Rubio Vázquez
+* {{fbaicon|CRC}} [[Luis Paulino Siles]]
+* {{fbaicon|USA}} [[David Socha]]
+{{col-float-break}}
+'''CONMEBOL'''
+* {{fbaicon|COL}} [[Gilberto Aristizábal]]
+* {{fbaicon|BOL}} [[Luis Barrancos]]
+* {{fbaicon|URU}} [[Juan Daniel Cardellino]]
+* {{fbaicon|CHI}} [[Gastón Castro]]
+* {{fbaicon|BRA|1968}} [[Arnaldo Cézar Coelho]]
+* {{fbaicon|ARG|1861}} [[Arturo Ithurralde]]
+* {{fbaicon|PER}} [[Enrique Labo Revoredo]]
+* {{fbaicon|PAR|1954}} [[Héctor Ortiz (referee)|Héctor Ortiz]]
+'''UEFA'''
+* {{fbaicon|ITA|1946}} [[Paolo Casarin]]
+* {{fbaicon|TCH}} [[Vojtech Christov]]
+* {{fbaicon|NED}} [[Charles Corver]]
+* {{fbaicon|BUL|1971}} [[Bogdan Dotchev]]
+* {{fbaicon|FRG}} [[Walter Eschweiler]]
+* {{fbaicon|SWE}} [[Erik Fredriksson]]
+* {{fbaicon|SUI}} [[Bruno Galler]]
+* {{fbaicon|POR}} [[António Garrido (referee)|António Garrido]]
+* {{fbaicon|POL}} [[Alojzy Jarguz]]
+* {{fbaicon|ESP}} [[Augusto Lamo Castillo]]
+* {{fbaicon|DEN}} [[Henning Lund-Sørensen]]
+* {{fbaicon|YUG}} [[Damir Matovinović]]
+* {{fbaicon|NIR}} Malcolm Moffat
+* {{fbaicon|HUN}} [[Károly Palotai]]
+* {{fbaicon|BEL}} [[Alexis Ponnet]]
+* {{fbaicon|GDR}} [[Adolf Prokop]]
+* {{fbaicon|ROU|1965}} [[Nicolae Rainea]]
+* {{fbaicon|URS|1955}} [[Miroslav Stupar]]
+* {{fbaicon|SCO}} [[Bob Valentine (referee)|Bob Valentine]]
+* {{fbaicon|FRA|1974}} [[Michel Vautrot]]
+* {{fbaicon|ENG}} [[Clive White]]
+* {{fbaicon|AUT}} [[Franz Wöhrer]]
+'''OFC'''
+* {{fbaicon|AUS}} [[Tony Boskovic]]
+{{col-float-end}}
+
+==Squads==
+For a list of all squads that appeared in the final tournament, see ''[[1982 FIFA World Cup squads]]''.
+
+==Groups==
+===Seeding===
+The 24 qualifiers were divided into four groupings which formed the basis of the draw for the group stage. FIFA announced the six seeded teams on the day of the draw and allocated them in advance to the six groups; as had become standard, the host nation and the reigning champions were among the seeds.<ref name="Draw history">{{Cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-final-draw-history.pdf|archive-url=https://web.archive.org/web/20140709165355/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-final-draw-history.pdf|url-status=dead|archive-date=9 July 2014|title=The FIFA World Cup Final Draw history|year=2009|publisher=FIFA}}</ref> The seeded teams would play all their group matches at the same venue (with the exception of World Cup holders Argentina who would play in the opening game scheduled for the Camp Nou, the largest of the venues). The remaining 18 teams were split into three pots based on FIFA's assessment of the team's strength, but also taking in account geographic considerations. The seedings and group venues for those teams were tentatively agreed at an informal meeting in December 1981 but not officially confirmed until the day of the draw. FIFA executive [[Hermann Neuberger]] told the press that the seeding of England had been challenged by other nations, but they were to be seeded as "the Spanish want England to play in Bilbao for security reasons"*.<ref>{{Cite news|url=https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19811212&printsec=frontpage&hl=en|newspaper=[[The Herald (Glasgow)|Glasgow Herald]]|title=England world seeds – official|date=12 December 1981|pages=15|archive-date=1 April 2020|access-date=4 July 2016|archive-url=https://web.archive.org/web/20200401144543/https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19811212&printsec=frontpage&hl=en|url-status=live}}</ref>
+
+{| class="wikitable"
+|-
+!Seeded teams<br />
+!Pot A
+!Pot B
+!Pot C
+|-
+|valign="top"|
+* {{fb|ESP}} <small>(hosts)</small>
+* {{fb|ARG|1861}} <small>(winner in 1978)</small>
+* {{fb|BRA|1968}} <small>(third in 1978)</small> <small>([[1970 FIFA World Cup|1970 winner]])</small>
+* {{fb|ENG}} <small>(seeded on security grounds)</small> <small>([[1966 FIFA World Cup|1966 winner]])</small> <small>([[1970 FIFA World Cup|1970 quarter finalist as holder]])</small>
+* {{fb|ITA|1946}} <small>(fourth in 1978)</small> <small>([[1970 FIFA World Cup|1970 runner up]])</small>
+* {{fb|FRG}} <small>(1980 Euro winner)</small> <small>([[1974 FIFA World Cup|1974 winner]])</small>
+|valign="top"|
+* {{fb|AUT}}
+* {{fb|TCH}}
+* {{fb|HUN}}
+* {{fb|POL}}
+* {{fb|URS|1955}}
+* {{fb|YUG}}
+|valign="top"|
+* {{fb|BEL}}
+* {{fb|FRA|1974}}
+* {{fb|NIR}}
+* {{fb|SCO}}
+* {{fb|CHI}}
+* {{fb|PER}}
+|valign="top"|
+* {{fb|ALG}}
+* {{fb|CMR}}
+* {{fb|KUW}}
+* {{fb|SLV}}
+* {{fb|HON|1949}}
+* {{fb|NZL}}
+|}
+
+===Final draw===
+On 16 January 1982, the draw was conducted at the [[Palacio de Congresos (Madrid)|Palacio de Congresos in Madrid]], where the teams were drawn out from the three pots to be placed with the seeded teams in their predetermined groups.<ref name="Draw history" /> Firstly a draw was made to decide the order in which the three drums containing pots A, B and C would be emptied; this resulted in the order being pot B, C and A. The teams were then drawn one-by-one out of the respective pot and entered in the groups in that order. A number was then drawn to determine the team's "position" in the group and hence the fixtures.<ref name="Report">{{Cite web |url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/28/fwc_spain_1982_en_part1_297.pdf |archive-url=https://web.archive.org/web/20111220061326/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/28/fwc%5fspain%5f1982%5fen%5fpart1%5f297.pdf |url-status=dead |archive-date=20 December 2011 |title=1982 FIFA World Cup in Spain; Report of FIFA |year=1982 |publisher=FIFA }}</ref>
+
+The only stipulation of the draw was that no group could feature two South American teams. As a result, Pot B – which contained two South American teams – was initially drawn with only the four Europeans in the pot. These first two European teams drawn from pot B were then to be immediately allocated to Groups 3 and 6 which contained the two South American seeds Argentina and Brazil. Once these two groups had been filled with the entrants from Pot B, Chile and Peru would be added to the pot and the draw would continue as normal.<ref name="Report" /> In the event, FIFA executives [[Sepp Blatter]] and [[Hermann Neuberger]] conducting the draw initially forgot this stipulation and therefore immediately placed the first team drawn from this pot (Belgium) into Group 1, rather than Group 3 as planned, before then placing the second team drawn out (Scotland) into Group 3; they then had to correct this by moving Belgium to Group 3 and Scotland into Group 6.<ref name="Draw chaos">{{Cite news|url=https://www.bbc.com/sport/football/25102176|title=World Cup: Confusion and chaos at the 1982 draw|date=15 July 2009|work=BBC Sport|archive-date=8 November 2020|access-date=13 February 2018|archive-url=https://web.archive.org/web/20201108103130/https://www.bbc.com/sport/football/25102176|url-status=dead}}</ref><ref>{{Cite news|url=https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820116&printsec=frontpage&hl=en|newspaper=[[The Herald (Glasgow)|Glasgow Herald]]|title=Stein gets down to business|date=18 January 1982|archive-date=1 April 2020|access-date=3 July 2016|archive-url=https://web.archive.org/web/20200401144604/https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820116&printsec=frontpage&hl=en|url-status=live}}</ref> The ceremony suffered further embarrassment when one of the revolving drums containing the teams broke down.<ref name="Draw chaos" />
+
+==First group stage==
+[[File:1982 world cup.png|right|thumb|400px|{{Colbegin|colwidth=10em}} {{legend|#2b42a3|Champion}} {{legend|#34c0be|Runner-up}} {{legend|#269c5a|Third place}} {{legend|#81c846|Fourth place}} {{legend|#f4d4ac|Second group stage}} {{legend|#b94954|First group stage}} {{colend}}]]
+
+The group winners and runners-up advanced to the second round.
+
+Teams were ranked on the following criteria:<ref name="Kicker" />
+
+:# Greater number of points in all group matches
+:# Goal difference in all group matches
+:# Greater number of goals scored in all group matches
+:# Drawing of lots
+
+''All times are [[Central European Summer Time]] ([[UTC+02:00|UTC+2]])''
+
+===Group 1===
+{{Main|1982 FIFA World Cup Group 1}}
+{{:1982 FIFA World Cup Group 1|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group 1|transcludesection=1-1}}
+{{:1982 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1982 FIFA World Cup Group 1|transcludesection=1-3}}
+{{:1982 FIFA World Cup Group 1|transcludesection=1-4}}
+----
+{{:1982 FIFA World Cup Group 1|transcludesection=1-5}}
+{{:1982 FIFA World Cup Group 1|transcludesection=1-6}}
+
+===Group 2===
+{{Main|1982 FIFA World Cup Group 2}}
+{{:1982 FIFA World Cup Group 2|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group 2|transcludesection=2-1}}
+{{:1982 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1982 FIFA World Cup Group 2|transcludesection=2-3}}
+{{:1982 FIFA World Cup Group 2|transcludesection=2-4}}
+----
+{{:1982 FIFA World Cup Group 2|transcludesection=2-5}}
+{{Main|Disgrace of Gijón}}
+{{:1982 FIFA World Cup Group 2|transcludesection=2-6}}
+
+===Group 3===
+{{Main|1982 FIFA World Cup Group 3}}
+{{:1982 FIFA World Cup Group 3|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group 3|transcludesection=3-1}}
+{{Main|Hungary v El Salvador (1982 FIFA World Cup)}}
+{{:1982 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1982 FIFA World Cup Group 3|transcludesection=3-3}}
+{{:1982 FIFA World Cup Group 3|transcludesection=3-4}}
+----
+{{:1982 FIFA World Cup Group 3|transcludesection=3-5}}
+{{:1982 FIFA World Cup Group 3|transcludesection=3-6}}
+
+===Group 4===
+{{Main|1982 FIFA World Cup Group 4}}
+{{:1982 FIFA World Cup Group 4|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group 4|transcludesection=4-1}}
+{{:1982 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1982 FIFA World Cup Group 4|transcludesection=4-3}}
+{{:1982 FIFA World Cup Group 4|transcludesection=4-4}}
+----
+{{:1982 FIFA World Cup Group 4|transcludesection=4-5}}
+{{:1982 FIFA World Cup Group 4|transcludesection=4-6}}
+
+===Group 5===
+{{Main|1982 FIFA World Cup Group 5}}
+{{:1982 FIFA World Cup Group 5|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group 5|transcludesection=5-1}}
+{{:1982 FIFA World Cup Group 5|transcludesection=5-2}}
+----
+{{:1982 FIFA World Cup Group 5|transcludesection=5-3}}
+{{:1982 FIFA World Cup Group 5|transcludesection=5-4}}
+----
+{{:1982 FIFA World Cup Group 5|transcludesection=5-5}}
+{{:1982 FIFA World Cup Group 5|transcludesection=5-6}}
+
+===Group 6===
+{{Main|1982 FIFA World Cup Group 6}}
+{{:1982 FIFA World Cup Group 6|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group 6|transcludesection=6-1}}
+{{:1982 FIFA World Cup Group 6|transcludesection=6-2}}
+----
+{{:1982 FIFA World Cup Group 6|transcludesection=6-3}}
+{{:1982 FIFA World Cup Group 6|transcludesection=6-4}}
+----
+{{:1982 FIFA World Cup Group 6|transcludesection=6-5}}
+{{:1982 FIFA World Cup Group 6|transcludesection=6-6}}
+
+==Second group stage==
+The second round of the tournament consisted of four groups of three teams, each played at one stadium in one of Spain's two largest cities: two in Madrid and two in Barcelona. The winners of each group progressed to the semi-finals.
+
+Teams were ranked on the following criteria:<ref name="Kicker" />
+
+# Greater number of points in all group matches
+# Goal difference in all group matches
+# Greater number of goals scored in all group matches
+# Whether the team finished first or second in their first round group
+# Drawing of lots
+
+Although the fixtures were provisionally determined in advance, the teams competing in each fixture depended on the result of the opening match in each group: Should a team lose their opening game of the group, that team would then have to play in the second fixture against the third team in the group and the winner would, by contrast, be rewarded by not needing to play again until the final fixture of the group and therefore gained extra recovery time. If the opening game was a draw, the predetermined order of games would proceed as planned. These regulations helped ensure that the final group games were of importance as no team could already have progressed to the semi-finals by the end of the second fixtures.<ref name="Kicker">{{Cite news |title=Der Spielplan für die WM '82|date=May 1982|work=Kicker – Sonderheft WM '82 |page=3|language=de}}</ref>
+
+The 43,000-capacity Sarria Stadium in Barcelona, used for the Group C round-robin matches between Italy, Argentina and Brazil was, unlike any of the other matches (except 1) in the other groups, severely overcrowded for all three matches. The venue was then heavily criticised for its lack of space and inability to handle such rampant crowds; although no one had foreseen such crowds at all; the Group A matches held at the nearby and much larger 121,401-capacity Camp Nou stadium never went past 65,000 and hosted all European teams; it was anticipated there would be larger crowds for the Camp Nou-hosted second round matches between Belgium, the Soviet Union and Poland.<ref>{{Cite web |url=http://www.fourfourtwo.com/features/82-original-and-harshest-group-death#:cPSwuJlAjge9fA |title=82: The original and harshest Group of Death |date=2 June 2014 |website=www.fourfourtwo.com |access-date=27 October 2015 |archive-date=9 October 2015 |archive-url=https://web.archive.org/web/20151009031341/http://www.fourfourtwo.com/features/82-original-and-harshest-group-death#:cPSwuJlAjge9fA |url-status=live }}</ref>
+
+===Group A===
+{{Main|1982 FIFA World Cup Group A}}
+{{:1982 FIFA World Cup Group A|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group A|transcludesection=A1}}
+----
+{{:1982 FIFA World Cup Group A|transcludesection=A2}}
+----
+{{:1982 FIFA World Cup Group A|transcludesection=A3}}
+
+===Group B===
+{{Main|1982 FIFA World Cup Group B}}
+{{:1982 FIFA World Cup Group B|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group B|transcludesection=B1}}
+----
+{{:1982 FIFA World Cup Group B|transcludesection=B2}}
+----
+{{:1982 FIFA World Cup Group B|transcludesection=B3}}
+
+===Group C===
+{{Main|1982 FIFA World Cup Group C}}
+{{:1982 FIFA World Cup Group C|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group C|transcludesection=C1}}
+----
+{{:1982 FIFA World Cup Group C|transcludesection=C2}}
+----
+{{Main|Italy v Brazil (1982 FIFA World Cup)}}
+{{:1982 FIFA World Cup Group C|transcludesection=C3}}
+
+===Group D===
+{{Main|1982 FIFA World Cup Group D}}
+{{:1982 FIFA World Cup Group D|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{:1982 FIFA World Cup Group D|transcludesection=D1}}
+----
+{{:1982 FIFA World Cup Group D|transcludesection=D2}}
+----
+{{:1982 FIFA World Cup Group D|transcludesection=D3}}
+
+==Knockout stage==
+{{Main|1982 FIFA World Cup knockout stage}}
+
+===Bracket===
+{{#lst:1982 FIFA World Cup knockout stage|Bracket}}
+
+===Semi-finals===
+{{#lst:1982 FIFA World Cup knockout stage|SF1}}
+----
+{{Main|West Germany v France (1982 FIFA World Cup)}}
+{{#lst:1982 FIFA World Cup knockout stage|SF2}}
+
+===Match for third place===
+{{#lst:1982 FIFA World Cup knockout stage|3rd}}
+
+===Final===
+{{Main|1982 FIFA World Cup final}}
+{{#lst:1982 FIFA World Cup final|Final}}
+
+==Statistics==
+===Goalscorers===
+Paolo Rossi received the [[FIFA World Cup awards#Golden Boot|Golden Boot]] for scoring six goals, his first international goals in 3 years. In total, 146 goals were scored by 100 players, with only one of them credited as own goal.
+
+'''6 goals'''
+*{{flagicon|ITA|1946}} [[Paolo Rossi]]
+'''5 goals'''
+*{{flagicon|FRG}} [[Karl-Heinz Rummenigge]]
+'''4 goals'''
+*{{flagicon|BRA|1968}} [[Zico (footballer)|Zico]]
+*{{flagicon|POL}} [[Zbigniew Boniek]]
+'''3 goals'''
+*{{flagicon|BRA|1968}} [[Paulo Roberto Falcão|Falcão]]
+*{{flagicon|FRA|1974}} [[Alain Giresse]]
+*{{flagicon|HUN}} [[László Kiss (footballer)|László Kiss]]
+*{{flagicon|NIR}} [[Gerry Armstrong (footballer)|Gerry Armstrong]]
+'''2 goals'''
+{{colbegin|colwidth=22em}}
+*{{flagicon|ALG}} [[Salah Assad]]
+*{{flagicon|ARG|1861}} [[Daniel Bertoni]]
+*{{flagicon|ARG|1861}} [[Diego Maradona]]
+*{{flagicon|ARG|1861}} [[Daniel Passarella]]
+*{{flagicon|AUT}} [[Walter Schachner]]
+*{{flagicon|BRA|1968}} [[Éder Aleixo de Assis|Éder]]
+*{{flagicon|BRA|1968}} [[Serginho Chulapa|Serginho]]
+*{{flagicon|BRA|1968}} [[Sócrates]]
+*{{flagicon|TCH}} [[Antonín Panenka]]
+*{{flagicon|ENG}} [[Trevor Francis]]
+*{{flagicon|ENG}} [[Bryan Robson]]
+*{{flagicon|FRA|1974}} [[Bernard Genghini]]
+*{{flagicon|FRA|1974}} [[Michel Platini]]
+*{{flagicon|FRA|1974}} [[Dominique Rocheteau]]
+*{{flagicon|FRA|1974}} [[Didier Six]]
+*{{flagicon|HUN}} [[László Fazekas]]
+*{{flagicon|HUN}} [[Tibor Nyilasi]]
+*{{flagicon|HUN}} [[Gábor Pölöskei]]
+*{{flagicon|ITA|1946}} [[Marco Tardelli]]
+*{{flagicon|NIR}} [[Billy Hamilton (footballer)|Billy Hamilton]]
+*{{flagicon|SCO}} [[John Wark]]
+*{{flagicon|FRG}} [[Klaus Fischer]]
+*{{flagicon|FRG}} [[Pierre Littbarski]]
+{{colend}}
+
+'''1 goal'''
+{{colbegin|colwidth=22em}}
+*{{flagicon|ALG}} [[Lakhdar Belloumi]]
+*{{flagicon|ALG}} [[Tedj Bensaoula]]
+*{{flagicon|ALG}} [[Rabah Madjer]]
+*{{flagicon|ARG|1861}} [[Osvaldo Ardiles]]
+*{{flagicon|ARG|1861}} [[Ramón Díaz]]
+*{{flagicon|AUT}} [[Reinhold Hintermaier]]
+*{{flagicon|AUT}} [[Hans Krankl]]
+*{{flagicon|AUT}} [[Bruno Pezzey]]
+*{{flagicon|BEL}} [[Ludo Coeck]]
+*{{flagicon|BEL}} [[Alexandre Czerniatynski]]
+*{{flagicon|BEL}} [[Erwin Vandenbergh]]
+*{{flagicon|BRA|1968}} [[Leovegildo Lins da Gama Júnior|Júnior]]
+*{{flagicon|BRA|1968}} [[Oscar (footballer, born 1954)|Oscar]]
+*{{flagicon|CMR}} [[Grégoire M'Bida]]
+*{{flagicon|CHI}} [[Juan Carlos Letelier]]
+*{{flagicon|CHI}} [[Gustavo Moscoso]]
+*{{flagicon|CHI}} [[Miguel Ángel Neira]]
+*{{flagicon|SLV}} [[Luis Ramírez Zapata]]
+*{{flagicon|ENG}} [[Paul Mariner]]
+*{{flagicon|FRA|1974}} [[Maxime Bossis]]
+*{{flagicon|FRA|1974}} [[Alain Couriol]]
+*{{flagicon|FRA|1974}} [[René Girard (footballer)|René Girard]]
+*{{flagicon|FRA|1974}} [[Gérard Soler]]
+*{{flagicon|FRA|1974}} [[Marius Trésor]]
+*{{flagicon|HON|1949}} [[Eduardo Laing]]
+*{{flagicon|HON|1949}} [[Héctor Zelaya]]
+*{{flagicon|HUN}} [[Lázár Szentes]]
+*{{flagicon|HUN}} [[József Tóth (footballer born 1951)|József Tóth]]
+*{{flagicon|HUN}} [[József Varga (footballer born 1954)|József Varga]]
+*{{flagicon|ITA|1946}} [[Alessandro Altobelli]]
+*{{flagicon|ITA|1946}} [[Antonio Cabrini]]
+*{{flagicon|ITA|1946}} [[Bruno Conti]]
+*{{flagicon|ITA|1946}} [[Francesco Graziani]]
+*{{flagicon|KWT}} [[Abdullah Al-Buloushi]]
+*{{flagicon|KWT}} [[Faisal Al-Dakhil]]
+*{{flagicon|NZL}} [[Steve Sumner]]
+*{{flagicon|NZL}} [[Steve Wooddin]]
+*{{flagicon|PER}} [[Rubén Toribio Díaz]]
+*{{flagicon|PER}} [[Guillermo La Rosa]]
+*{{flagicon|POL}} [[Andrzej Buncol]]
+*{{flagicon|POL}} [[Włodzimierz Ciołek]]
+*{{flagicon|POL}} [[Janusz Kupcewicz]]
+*{{flagicon|POL}} [[Grzegorz Lato]]
+*{{flagicon|POL}} [[Stefan Majewski]]
+*{{flagicon|POL}} [[Włodzimierz Smolarek]]
+*{{flagicon|POL}} [[Andrzej Szarmach]]
+*{{flagicon|SCO}} [[Steve Archibald]]
+*{{flagicon|SCO}} [[Kenny Dalglish]]
+*{{flagicon|SCO}} [[Joe Jordan (footballer)|Joe Jordan]]
+*{{flagicon|SCO}} [[David Narey]]
+*{{flagicon|SCO}} [[John Robertson (footballer, born 1953)|John Robertson]]
+*{{flagicon|SCO}} [[Graeme Souness]]
+*{{flagicon|URS|1955}} [[Andriy Bal]]
+*{{flagicon|URS|1955}} [[Sergei Pavlovich Baltacha|Sergei Baltacha]]
+*{{flagicon|URS|1955}} [[Oleh Blokhin]]
+*{{flagicon|URS|1955}} [[Aleksandre Chivadze]]
+*{{flagicon|URS|1955}} [[Yuri Gavrilov (footballer, born 1953)|Yuri Gavrilov]]
+*{{flagicon|URS|1955}} [[Khoren Oganesian]]
+*{{flagicon|URS|1955}} [[Ramaz Shengelia]]
+*{{flagicon|ESP}} [[Juanito (footballer, born 1954)|Juanito]]
+*{{flagicon|ESP}} [[Roberto López Ufarte]]
+*{{flagicon|ESP}} [[Enrique Saura]]
+*{{flagicon|ESP}} [[Jesús María Zamora]]
+*{{flagicon|FRG}} [[Paul Breitner]]
+*{{flagicon|FRG}} [[Horst Hrubesch]]
+*{{flagicon|FRG}} [[Uwe Reinders]]
+*{{flagicon|YUG}} [[Ivan Gudelj]]
+*{{flagicon|YUG}} [[Vladimir Petrović]]
+{{colend}}
+
+'''Own goals'''
+* {{flagicon|TCH}} [[Jozef Barmoš]] (against England)
+
+===Red cards===
+Five players received a [[Penalty card#Red card|red card]] during the tournament:
+* {{flagicon|ARG|1861}} [[Américo Gallego]]
+* {{flagicon|ARG|1861}} [[Diego Maradona]]
+* {{flagicon|TCH}} [[Ladislav Vízek]]
+* {{flagicon|HON|1949}} [[Gilberto Yearwood]]
+* {{flagicon|NIR}} [[Mal Donaghy]]
+
+===Awards===
+<small>Source:<ref>{{Cite web|url=https://www.fifa.com/worldcup/archive/edition=59/awards/index.html |archive-url=https://web.archive.org/web/20131210131554/http://www.fifa.com/worldcup/archive/edition=59/awards/index.html |archive-date=10 December 2013 |title=1986 FIFA World Cup Mexico – Awards |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=11 March 2013 |url-status=dead}}</ref></small>
+
+{| class="wikitable"
+|-
+![[FIFA World Cup awards#Golden Boot|Golden Boot]]
+![[FIFA World Cup awards#FIFA Young Player Award|Best Young Player]]
+![[FIFA World Cup awards#FIFA Fair Play Trophy|FIFA Fair Play Trophy]]
+|-
+|align=center|{{flagicon|ITA|1946}} [[Paolo Rossi]]
+|align=center|{{flagicon|FRA|1974}} [[Manuel Amoros]]
+|align=center|{{fb|BRA|1968}}
+|}
+
+{| class="wikitable"
+|-
+!colspan="2"|[[Golden Ball (FIFA World Cup)|Golden Ball]]<ref>{{Cite web |title=FIFA Awards – World Cup 1982 "Golden Ball" |url=https://www.rsssf.org/miscellaneous/fifa-gb82.html |access-date=2022-06-18 |website=[[RSSSF]] |archive-date=19 February 2023 |archive-url=https://web.archive.org/web/20230219164419/https://www.rsssf.org/miscellaneous/fifa-gb82.html |url-status=live }}</ref>
+|-
+!Rank:
+!Player:
+|- style="background:gold"
+!1st
+|{{flagicon|ITA|1946}} [[Paolo Rossi]]
+|- style="background:silver"
+!2nd
+|{{flagicon|BRA|1968}} [[Paulo Roberto Falcão|Falcão]]
+|- style="background:#c96"
+!3rd
+|{{flagicon|FRG}} [[Karl-Heinz Rummenigge]]
+|-
+!4th
+|{{flagicon|POL}} [[Zbigniew Boniek]]
+|-
+!5th
+|{{flagicon|BRA|1968}} [[Zico (footballer)|Zico]]
+|-
+!6th
+|{{flagicon|BRA|1968}} [[Sócrates]]
+|-
+!7th
+|{{flagicon|FRA|1974}} [[Alain Giresse]]
+|-
+!8th
+|{{flagicon|Soviet Union|1955}} [[Rinat Dasayev]]
+|-
+!9th
+|{{flagicon|ARG|1861}} [[Diego Maradona]]
+|-
+!10th
+|{{flagicon|FRA|1974}} [[Michel Platini]]
+|}
+
+===Final standings===
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref>{{Cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc_mexico_1986_en_part4_279.pdf |archive-url=https://web.archive.org/web/20100614213621/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |url-status=dead |archive-date=14 June 2010 |title=page 45 |access-date=2 March 2012}}</ref><ref>{{Cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]] |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |url-status=dead |date=26 March 2013}}</ref> The rankings for the 1982 tournament were as follows:
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals For}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal Difference}}
+!width=25| {{abbr|Pts.|Points}}
+|- style="background:gold"
+| 1 ||style="text-align:left"| {{fb|ITA|1946}} || [[#Group 1|1]]/[[#Group C|C]] || 7 || 4 || 3 || 0 || 12 || 6 || +6 || 11
+|- style="background:silver"
+| 2 ||style="text-align:left"| {{fb|FRG}} || [[#Group 2|2]]/[[#Group B|B]] || 7 || 3 || 2 || 2 || 12 || 10 || +2 || 8
+|- style="background:#c96"
+| 3 ||style="text-align:left"| {{fb|POL}} || [[#Group 1|1]]/[[#Group A|A]] || 7 || 3 || 3 || 1 || 11 || 5 || +6 || 9
+|- style="background:gray"
+| 4 ||style="text-align:left"| {{fb|FRA|1974}} || [[#Group 4|4]]/[[#Group D|D]] || 7 || 3 || 2 || 2 || 16 || 12 || +4 || 8
+|-
+| colspan="11"| '''Eliminated in the second group stage'''
+|-
+| 5 ||style="text-align:left"| {{fb|BRA|1968}} || [[#Group 6|6]]/[[#Group C|C]] || 5 || 4 || 0 || 1 || 15 || 6 || +9 || 8
+|-
+| 6 ||style="text-align:left"| {{fb|ENG}} || [[#Group 4|4]]/[[#Group B|B]] || 5 || 3 || 2 || 0 || 6 || 1 || +5 || 8
+|-
+| 7 ||style="text-align:left"| {{fb|URS|1955}} || [[#Group 6|6]]/[[#Group A|A]] || 5 || 2 || 2 || 1 || 7 || 4 || +3 || 6
+|-
+| 8 ||style="text-align:left"| {{fb|AUT}} || [[#Group 2|2]]/[[#Group D|D]] || 5 || 2 || 1 || 2 || 5 || 4 || +1 || 5
+|-
+| 9 ||style="text-align:left"| {{fb|NIR}} || [[#Group 5|5]]/[[#Group D|D]] || 5 || 1 || 3 || 1 || 5 || 7 || −2 || 5
+|-
+| 10 ||style="text-align:left"| {{fb|BEL}} || [[#Group 3|3]]/[[#Group A|A]] || 5 || 2 || 1 || 2 || 3 || 5 || −2 || 5
+|-
+| 11 ||style="text-align:left"| {{fb|ARG|1861}} || [[#Group 3|3]]/[[#Group C|C]] || 5 || 2 || 0 || 3 || 8 || 7 || +1 || 4
+|-
+| 12 ||style="text-align:left"| {{fb|ESP}} || [[#Group 5|5]]/[[#Group B|B]] || 5 || 1 || 2 || 2 || 4 || 5 || −1 || 4
+|-
+|colspan="11"| '''Eliminated in the first group stage'''
+|-
+| 13 ||style="text-align:left"| {{fb|ALG}} || [[#Group 2|2]] || 3 || 2 || 0 || 1 || 5 || 5 || 0 || 4
+|-
+| 14 ||style="text-align:left"| {{fb|HUN}} || [[#Group 3|3]] || 3 || 1 || 1 || 1 || 12 || 6 || +6 || 3
+|-
+| 15 ||style="text-align:left"| {{fb|SCO}} || [[#Group 6|6]] || 3 || 1 || 1 || 1 || 8 || 8 || 0 || 3
+|-
+| 16 ||style="text-align:left"| {{fb|YUG}} || [[#Group 5|5]] || 3 || 1 || 1 || 1 || 2 || 2 || 0 || 3
+|-
+| 17 ||style="text-align:left"| {{fb|CMR}} || [[#Group 1|1]] || 3 || 0 || 3 || 0 || 1 || 1 || 0 || 3
+|-
+| 18 ||style="text-align:left"| {{fb|HON|1949}} || [[#Group 5|5]] || 3 || 0 || 2 || 1 || 2 || 3 || −1 || 2
+|-
+| 19 ||style="text-align:left"| {{fb|TCH}} || [[#Group 4|4]] || 3 || 0 || 2 || 1 || 2 || 4 || −2 || 2
+|-
+| 20 ||style="text-align:left"| {{fb|PER}} || [[#Group 1|1]] || 3 || 0 || 2 || 1 || 2 || 6 || −4 || 2
+|-
+| 21 ||style="text-align:left"| {{fb|KUW}} || [[#Group 4|4]] || 3 || 0 || 1 || 2 || 2 || 6 || −4 || 1
+|-
+| 22 ||style="text-align:left"| {{fb|CHI}} || [[#Group 2|2]] || 3 || 0 || 0 || 3 || 3 || 8 || −5 || 0
+|-
+| 23 ||style="text-align:left"| {{fb|NZL}} || [[#Group 6|6]] || 3 || 0 || 0 || 3 || 2 || 12 || −10 || 0
+|-
+| 24 ||style="text-align:left"| {{fb|SLV}} || [[#Group 3|3]] || 3 || 0 || 0 || 3 || 1 || 13 || −12 || 0
+|}
+
+==Marketing==
+===Sponsorship===
+The sponsors of the 1982 FIFA World Cup consisted out of 34 [[FIFA World Cup]] Sponsors.<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+
+{| class="wikitable"
+|-
+! [[FIFA World Cup]] sponsors
+|-
+|
+* [[Giuliano Ravizza|Annabella]]
+* [[Banco Hispano Americano]]
+* BNZ Finance
+* [[Caloi]]
+* [[Canon Inc.|Canon]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* Casas Pernambucanas
+* CIS Insurance
+* [[The Coca-Cola Company|Coca-Cola]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[Commercial Bank of Kuwait]]
+* [[Continental AG|Continental]]
+* [[Heineken brands|Cruzcampo]]
+* [[Duarig]]
+* [[Ducados (cigarette)|Ducados]]
+* [[Ellesse]]
+* Erdgas Heizung
+* [[Fujifilm]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[Gillette]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[Iveco]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[JVC]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* Lois jeans & jackets
+* [[Metaxa]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* Mustang Jeans
+* [[Paper Mate]]
+* [[R. J. Reynolds Tobacco Company|R.J. Reynolds]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[San Miguel Beer|San Miguel]]
+* [[Seiko]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* ''[[Sport Billy]]''
+* Staroup jeans
+* [[Steinlager]]
+* [[Tungsram]]
+* Vitasay
+* [[Zanussi]]
+* Zeyko küchen
+|}
+
+==Symbols==
+===Mascot===
+[[File:keychains small.jpg|thumb|Naranjito, the official [[FIFA World Cup mascot|mascot]] of the 1982 tournament, is featured in this vintage collection of Spanish keychains.]]
+
+The [[FIFA World Cup mascots|official mascot]] of this World Cup was {{lang|es|Naranjito|i=no}}, a male anthropomorphised [[orange (fruit)|orange]], a typical fruit in Spain, wearing the kit of the host's [[Spain men's national football team|national team]]. It was designed by José María Martín and María Dolores Salto from the marketing agency {{lang|es|Publicidad Bellido|i=no}}. Its name comes from ''naranja'', the Spanish word for orange, and the diminutive suffix "-ito".<ref>{{cite news|url=https://elpais.com/diario/1979/05/30/deportes/296863209_850215.html|title=Una naranja, mascota del Mundial de España|date=30 May 1979|newspaper=[[El País]]|language=es|author=Paradinas, Juan José|archive-date=17 August 2024|access-date=17 August 2024|archive-url=https://web.archive.org/web/20240817230154/https://elpais.com/diario/1979/05/30/deportes/296863209_850215.html|url-status=live}}</ref>
+
+===Match ball===
+[[File:Adidas Tango España.jpg|thumb|upright|[[Adidas Tango#Tango España|Adidas Tango España]], the official match ball of Spain '82.]]
+The match ball for 1982 World Cup, manufactured by [[Adidas]], was the [[Adidas Tango España|Tango España]].
+
+===Television series===
+''Football in Action'' ({{langx|es|Fútbol en acción|link=no}}) is an educational animated television series about football produced by [[BRB Internacional]] and {{lang|es|[[Televisión Española]]|i=no}} (TVE). The main character is a twelve-year-old Naranjito, who is accompanied on his adventures by his friends: {{lang|es|Clementina|i=no}} (a mandarin orange), Citronio (a lemon), and Imarchi (a robot). The series talks about the rules of football and the history of the World Cup. Its 26 episodes of 25 minutes each were first aired in 1981–82 on [[La 1 (Spanish TV channel)|TVE 1]].
+
+===Poster===
+The official poster was designed by [[Joan Miró]].<ref>{{Cite web |url=https://www.bbc.co.uk/bbcthree/article/237780e8-0fe1-4dae-94f7-e4ba19d86158 |title=Russia's 2018 World Cup poster is super retro |date=30 November 2017 |access-date=6 August 2018 |archive-date=13 October 2018 |archive-url=https://web.archive.org/web/20181013051435/https://www.bbc.co.uk/bbcthree/article/237780e8-0fe1-4dae-94f7-e4ba19d86158 |url-status=live }}</ref>
+
+==Controversies==
+The final match in group 2 between West Germany and Austria, the "[[Disgrace of Gijón]]", was controversial because of accusations of match fixing.<ref>{{Cite news|first1=Lawrence |last1=Booth |first2=Rob |last2=Smyth |title=What's the dodgiest game in football history? |url=https://www.theguardian.com/football/2004/aug/11/theknowledge.sport |work=The Guardian|publisher=Guardian News and Media |date=11 August 2004 |access-date=25 February 2009 |archive-url=https://web.archive.org/web/20110726092403/http://www.guardian.co.uk/football/2004/aug/11/theknowledge.sport |archive-date=26 July 2011 |url-status=live }}</ref> It led to a rule change so that the final two games in each group were played simultaneously in subsequent World Cups.
+
+There was some consideration given as to whether England, Northern Ireland, and Scotland would withdraw from the tournament because of the [[Falklands War]] between Argentina and the United Kingdom.<ref name="falklands" /> A directive issued by the British sports minister [[Neil Macfarlane (politician)|Neil Macfarlane]] in April, at the start of the conflict, suggested that there should be no contact between British representative teams and Argentina.<ref name="falklands" /> This directive was not rescinded until August, following the end of the tournament and of the hostilities.<ref name="falklands" /> Macfarlane reported to [[Prime Minister of the United Kingdom|Prime Minister]] [[Margaret Thatcher]] that some players and officials were uneasy about participating because of the casualties suffered by British forces, and the strong diplomatic ties between Argentina and Spain.<ref name="falklands" /> FIFA later advised the British Government that there was no prospect that [[Argentina national football team|Argentina]] (the defending champions) would be asked to withdraw,<ref name="falklands" /> and it also became apparent that no other countries would withdraw from the tournament.<ref name="falklands" /> It was decided by [[Cabinet Secretary (United Kingdom)|Cabinet Secretary]] [[Robert Armstrong, Baron Armstrong of Ilminster|Robert Armstrong]] to allow the British national teams to participate so that Argentina could not use their absence for propaganda purposes, reversing the intended effect of applying political pressure onto Argentina.<ref name="falklands" />
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1982|1982 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup Spain], FIFA.com
+*[https://www.rsssf.org/tables/82full.html Details at RSSSF]
+*[https://web.archive.org/web/20111220061326/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/28/fwc%5fspain%5f1982%5fen%5fpart1%5f297.pdf FIFA Technical Report (Part 1)], [https://web.archive.org/web/20111220065035/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/20/fwc%5fspain%5f1982%5fen%5fpart2%5f290.pdf (Part 2)] and [https://web.archive.org/web/20100106062858/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/13/fwc%5fspain%5f1982%5fen%5fpart3%5f285.pdf (Part 3)]
+*[https://www.rsssf.org/miscellaneous/fifa-gb82.html FIFA Awards – World Cup 1982 "Golden Ball"]
+
+{{Portal bar|1980s|Association football|Spain}}
+{{1982 FIFA World Cup}}
+{{1982 FIFA World Cup stadiums}}
+{{1982 FIFA World Cup referees}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1982 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1982]]
+[[Category:1982 in men's international association football|World Cup]]
+[[Category:1981–82 in Spanish football]]
+[[Category:Men's international association football competitions hosted by Spain|1982]]
+[[Category:June 1982 sports events in Europe]]
+[[Category:July 1982 sports events in Europe]]

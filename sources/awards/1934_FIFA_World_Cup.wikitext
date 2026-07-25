@@ -1,0 +1,386 @@
+{{Short description|Association football tournament in Italy}}
+{{Use British English|date=June 2018}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox international football competition
+| tourney_name     = FIFA World Cup
+| year             = 1934
+| other_titles     = World's Cup<ref name="statutes">FIFA book of statutes, Roma 1934, prtd. Gebr. Fey & Kratz, Zürich, FIFA internal library no. C br. 18, 1955.</ref><br />{{native name|it|Campionato Mondiale di Calcio<br/>Italia 1934}}
+| image            = 1934 fifa worldcup poster.jpg
+| size             = 200
+| caption          = Official poster
+| country          = Italy
+| dates            = 27 May – 10 June
+| confederations   = 4
+| num_teams        = 16
+| venues           = 8
+| cities           = 8
+| champion         = Italy
+| champion-flagvar = 1861
+| count            = 1
+| second           = Czechoslovakia
+| third            = Germany
+| third-flagvar    = 1933
+| fourth           = Austria
+| fourth-flagvar    = 1230
+| matches          = 17
+| goals            = 70
+| attendance       = {{#invoke:Football attendance summation|main}}
+| top_scorer       = {{fbicon|TCH}} [[Oldřich Nejedlý]]<br>(5 goals)
+| player           = {{fbicon|ITA|1861}} [[Giuseppe Meazza]]
+| goalkeeper       = {{fbicon|ESP|1931}} [[Ricardo Zamora]]
+| prevseason       = [[1930 FIFA World Cup|1930]]
+| nextseason       = [[1938 FIFA World Cup|1938]]
+}}
+The '''1934 FIFA World Cup''' was the 2nd edition of the [[FIFA World Cup]], the quadrennial international [[Association football|football]] championship for [[List of men's national association football teams|senior men's national]] teams. It took place in [[Kingdom of Italy|Italy]] from 27 May to 10 June 1934.
+
+The 1934 World Cup was the first in which teams had to [[FIFA World Cup qualification|qualify]] to take part. Thirty-two nations entered the competition; sixteen teams qualified for the final tournament. Reigning champions [[Uruguay national football team|Uruguay]] boycotted the tournament as only four European teams had accepted their invitation to the [[1930 FIFA World Cup|1930 tournament]].<ref name="FIFAhistory" /><ref name="football_times" /> [[Italy national football team|Italy]] beat [[Czechoslovakia national football team|Czechoslovakia]] 2–1 to become the second World Cup champions and the first European winners.
+
+The 1934 World Cup was marred by being a high-profile instance of a sporting event being used for overt political gain. In particular, [[Benito Mussolini]] was keen to use this World Cup as a means of promoting fascism.<ref>{{Harvcolnb|de Carvalho|2014}}</ref><ref name="football_times" /> Although some historians and sports journalists have made accusations of corruption and meddling by Mussolini to influence the competition to the benefit of Italy,<ref name="bbc" /><ref name="football_times" /> Italy has always claimed that it deserved victory in the competition and the successful national team, [[History of the Italy national football team|considered one of the best in the country's history]], emerged victorious also in the [[1936 Summer Olympics|Olympic football tournament of 1936]] hosted by Germany and in the [[1938 World Cup]] hosted by France.<ref name="bbc" /><ref name="football_times" /><ref name="cnn" />
+
+The Federale 102 ball, which was manufactured in Italy, was the match ball provided for the 1934 World Cup.<ref>{{Cite web |title=FIFA World Cup 1934 Italy. Federale 102 |url=https://www.worldcupballs.info/ball/world-cup-balls/1934-italy/pre-adidas-world-cup-match-ball-fifa-world-cup-1934-italy-federale-102-12-panels/ |access-date=9 July 2021 |website=WorldCupBalls.info |language=en-US |archive-date=31 August 2021 |archive-url=https://web.archive.org/web/20210831175243/https://www.worldcupballs.info/ball/world-cup-balls/1934-italy/pre-adidas-world-cup-match-ball-fifa-world-cup-1934-italy-federale-102-12-panels/ |url-status=live }}</ref>
+
+==Host selection==
+{{main|FIFA World Cup hosts}}
+After a lengthy decision-making process in which FIFA's executive committee met eight times,<ref name="Freddi 2006 15">{{Harvcolnb|Freddi|2006|p=15}}</ref> Italy was chosen as the host nation at a meeting in [[Stockholm]] on 9 October 1932.<ref name="Hunt 2006 23">{{Harvcolnb|Hunt|2006|p=23}}</ref> The decision was taken by the executive committee without a ballot of members. The Italian bid was chosen in preference to one from Sweden;<ref name="FIFAhistory">{{Cite web |title=History of FIFA – The first FIFA World Cup |url=https://www.fifa.com/classicfootball/history/fifa/first-fifa-world-cup.html |url-status=dead |archive-url=https://web.archive.org/web/20130329051339/https://www.fifa.com/classicfootball/history/fifa/first-fifa-world-cup.html |archive-date=29 March 2013 |access-date=14 June 2018 |publisher=[[FIFA]]}}</ref> the Italian government assigned a budget of [[italian lira|Lire&nbsp;]]3.5&nbsp;million to the tournament.<ref>{{Harvcolnb|Goldblatt|2007|p=255}}</ref>
+
+==Qualification and participants==
+{{main|1934 FIFA World Cup qualification}}
+
+For the first time, teams had to play qualifying matches to enter the competition: 32 countries applied to enter the finals tournament, of which 16 qualified.<ref name="Hunt 2006 23"/> Even so, there were several notable absentees. Reigning World Cup holders [[Uruguay national football team|Uruguay]] declined to participate, in protest at the refusal of several European countries to travel to South America for the [[1930 FIFA World Cup|previous World Cup]], which Uruguay had hosted in 1930.<ref name="football_times" >{{Cite web |url=https://thesefootballtimes.co/2016/07/27/when-the-world-cup-rolled-into-fascist-italy-in-1934/ |title=When the World Cup rolled into fascist Italy in 1934 |last=Hart |first=Jim |date=27 July 2016 |website=[[These Football Times]] |language=en |access-date=14 June 2018 |archive-date=2 August 2021 |archive-url=https://web.archive.org/web/20210802143756/https://thesefootballtimes.co/2016/07/27/when-the-world-cup-rolled-into-fascist-italy-in-1934/ |url-status=live }}</ref> As a result, the 1934 World Cup is the only one in which the reigning champions did not participate.<ref name="Freddi 2006 15"/><ref>{{Harvcolnb|Glanville|2005|p=25}}</ref> The British [[Home Nations]], in a period of self-imposed exile from FIFA, also refused to participate, even though FIFA had offered England and Scotland direct entry to the tournament without qualification.<ref>{{Cite web |url=https://www.fifa.com/development/news/y=1999/m=8/news=british-society-sports-history-71171.html |archive-url=https://web.archive.org/web/20151019043353/http://www.fifa.com/development/news/y=1999/m=8/news=british-society-sports-history-71171.html |url-status=dead |archive-date=19 October 2015 |title=British football and FIFA, 1928-46: Going to war or peacefully coexistence? |last=Beck |first=Peter J. |year=1999 |website=FIFA.com |access-date=27 February 2018}}</ref> [[The Football Association|Football Association]] committee member [[Charles Sutcliffe]] called the tournament "a joke" and claimed that "the national associations of England, Scotland, Wales and Ireland have quite enough to do in their [[British Home Championship|own International Championship]] which seems to me a far better World Championship than the one to be staged in Rome".<ref>{{cite book |first=Matthew |last=Taylor |title=The Leaguers: The Making of Professional Football in England 1900-1939 |page=217 |url=https://books.google.com/books?id=mO0WDgAAQBAJ&pg=PA217 |publisher=Liverpool University Press |location=Liverpool |year=2005 |isbn=9781781387030}}</ref>
+
+Despite their role as hosts, [[Italy national football team|Italy]] were still required to qualify, the only time the host needed to do so.<ref name="Hunt 2006 23"/> The qualifying matches were arranged on a geographical basis. Withdrawals by [[Chile national football team|Chile]] and [[Peru national football team|Peru]] meant that [[Argentina national football team|Argentina]] and [[Brazil national football team|Brazil]] qualified without playing a single match.<ref>{{Harvcolnb|Crouch|2002|p=14}}</ref>
+
+Twelve of the sixteen places were allocated to Europe, three to the Americas, and one to Africa or Asia (including Turkey). Only 10 of the 32 entrants, and 4 of the 16 qualified teams (Brazil, Argentina, United States, and Egypt, the first African team to qualify for a World Cup finals tournament), were from outside Europe. The last place in the finals was contested between the [[United States men's national soccer team|United States]] and [[Mexico national football team|Mexico]] only three days before the start of the tournament in a one-off match in [[Rome]], which the United States won.<ref>{{Cite web |url=https://www.espnfc.com/fifa-world-cup/story/1834539/world-cup-history-1934 |title=World Cup History: 1934 |last1=Brewin |first1=John |last2=Williamson |first2=Martin |date=1 May 2014 |website=ESPN |access-date=15 June 2018 |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615112034/http://www.espnfc.com/fifa-world-cup/story/1834539/world-cup-history-1934 |url-status=live }}</ref>
+
+===List of qualified teams===
+
+The following 16 teams qualified for the final tournament.
+{{col-begin}}
+{{col-4}}
+'''Asia (0)'''
+* None qualified
+'''Africa (1)'''
+*{{fb|EGY|1922}} (debut)
+{{col-4}}
+'''North, Central America and Caribbean (1)'''
+*{{fb|USA|1912}}
+'''South America (2)'''
+*{{fb|ARG|1861}}
+*{{fb|BRA|1889}}
+{{col-4}}
+'''Europe (12)'''
+*{{fb|AUT}} (debut)
+*{{fb|BEL}}
+*{{fb|Czechoslovakia}} (debut)
+*{{fb|FRA|1830}}
+*{{fb|GER|1933}} (debut)
+*{{fb|HUN|1920}} (debut)
+*{{fb|ITA|1861}} (hosts, debut)
+*{{fb|NED}} (debut)
+*{{fb|ROM}}
+*{{fb|ESP|1931}} (debut)
+*{{fb|SWE}} (debut)
+*{{fb|SUI}} (debut)
+{{col-4}}
+{{col-end}}
+
+Ten of these teams made their first World Cup appearance.<ref name="kit" /> This included 9 of the 12 European teams (Italy, Germany, Spain, the Netherlands, Hungary, Czechoslovakia, Sweden, Austria, and Switzerland) as well as Egypt.<ref name="kit" /> Egypt was the first team from Africa in the finals and did not qualify again until the next time the competition was held in Italy, in [[1990 FIFA World Cup|1990]].
+
+==Venues==
+The number of supporters travelling from other countries was higher than at any previous football tournament, including 7,000 from the Netherlands and 10,000 each from Austria and Switzerland.<ref>{{Harvcolnb|Murray|1998|p=69}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2" rowspan="8" |{{Location map+|Italy|width=350|float=center|caption=|
+| AlternativeMap =Italy_location_map_1929_-_1947.png|places=
+{{Location map~|Italy|lat_deg=44.4923|lon_deg=11.3097|position=right|label=[[Bologna]]}}
+{{Location map~|Italy|lat_deg=43.7808|lon_deg=11.2823|position=right|label=[[Florence]]}}
+{{Location map~|Italy|lat_deg=44.4164|lon_deg=8.9524|position=bottom|label=[[Genoa]]}}
+{{Location map~|Italy|lat_deg=45.4780|lon_deg=9.1242|position=right|label=[[Milan]]}}
+{{Location map~|Italy|lat_deg=40.8597|lon_deg=14.2933|position=left|label=[[Naples]]}}
+{{Location map~|Italy|lat_deg=41.9272|lon_deg=12.4722|position=left|label=[[Rome]]}}
+{{Location map~|Italy|lat_deg=45.6333|lon_deg=13.8|position=right|label=[[Trieste]]}}
+{{Location map~|Italy|lat_deg=45.0418|lon_deg=7.650|position=top|label=[[Turin]]}}
+}}
+![[Milan]]
+![[Bologna]]
+|-
+|[[San Siro|Stadio San Siro]]
+|[[Stadio Renato Dall'Ara|Stadio Littoriale]]
+|-
+| Capacity: '''55,000'''
+| Capacity: '''50,100'''
+|-
+|[[File:San Siro stadium in 1934.jpg|200px]]
+|[[File:Stadio Littoriale Bologna.jpg|200px]]
+|-
+![[Rome]]
+![[Florence]]
+|-
+|[[Stadio Nazionale PNF]]
+|[[Stadio Artemio Franchi (Florence)|Stadio Giovanni Berta]]
+|-
+|Capacity: '''47,300'''
+|Capacity: '''47,290'''
+|-
+|[[File:Stadio Pnf.jpg|200px]]
+|[[File:Stadio Comunale Giovanni Berta.jpg|200px]]
+|-
+![[Naples]]
+![[Genoa]]
+![[Turin]]
+![[Trieste]]
+|-
+|[[Stadio Giorgio Ascarelli]]
+|[[Stadio Luigi Ferraris]]
+|[[Stadio Olimpico Grande Torino|Stadio Benito Mussolini]]
+|[[Stadio Giuseppe Grezar|Stadio Littorio]]
+|-
+|Capacity: '''40,000'''
+| Capacity: '''36,703'''
+|Capacity: '''28,140'''
+|Capacity: '''8,000'''
+|-
+|[[File:StadioPartenopeo.jpg|200px]]
+|[[File:Vecchio Stadio Marassi 1.jpg|200px]]
+|[[File:Stadio Comunale Benito Mussolini.jpg|200px]]
+|[[File:StadiodelLittorio.jpg|200px]]
+|}
+
+==Format==
+The group stage used in the first World Cup was discarded in favour of a straight knockout tournament. If a match was tied after ninety minutes, then thirty minutes of extra time were played. If the score was still tied after extra time, the match was replayed the next day.
+
+The eight seeded teams – Argentina, Brazil, Germany, Italy, the Netherlands, Austria, Czechoslovakia and Hungary – were kept apart in the first round.
+
+==Summary==
+{{for|a list of all squads that appeared in the final tournament|1934 FIFA World Cup squads}}
+[[File:1934_FIFA_World_Cup.png|left|thumb|300px|Qualifying countries and their results]]
+
+All eight first-round matches kicked off at the same time.<ref>{{Harvcolnb|Hunt|2006|p=26}}</ref> Hosts and favourites Italy won handsomely, defeating the USA 7–1; ''[[The New York Times]]'' correspondent wrote that "only the fine goal-tending of [[Julius Hjulian]] of Chicago kept the score as low as it was".<ref>{{Harvcolnb|Wangerin|2006|p=98}}</ref>
+
+[[File:1934 FIFA World Cup Final - Italy v Czechoslovakia - Pozzo, Monzeglio, Bertolini, Combi, Monti and Carcano.jpg|thumb|250px|From left to right: Italian manager [[Vittorio Pozzo|Pozzo]], [[Eraldo Monzeglio|Monzeglio]], [[Luigi Bertolini|Bertolini]], the goalkeeper and captain [[Gianpiero Combi|Combi]], [[Luis Monti|Monti]] (half-hidden) and the assistant manager [[Carlo Carcano|Carcano]] (behind) before the start of extra time in the victorious final versus Czechoslovakia]]
+Internal disputes meant Argentina's squad for the tournament did not contain a single member of the team which had reached the final in 1930. In the end, ''La Albiceleste'' would partake with an amateur squad.<ref>{{Harvcolnb|Glanville|2005|p=26}}</ref> Against Sweden in Bologna, Argentina twice took the lead, but two goals by [[Sven Jonasson]] and a winner by [[Knut Kroon]] gave Sweden a 3–2 victory.<ref>{{Harvcolnb|Freddi|2006|p=20}}</ref> Fellow South Americans Brazil also suffered an early exit. Spain beat them comfortably, with 3–1 as the final score.<ref>{{Harvcolnb|Hunt|2006|p=27}}</ref>
+
+For the only time in World Cup history, the last eight consisted entirely of European teams – [[Austria national football team|Austria]], [[Czechoslovakia national football team|Czechoslovakia]], [[Germany national football team|Germany]], [[Hungary national football team|Hungary]], [[Italy national football team|Italy]], [[Spain men's national football team|Spain]], [[Sweden men's national football team|Sweden]], and [[Switzerland national football team|Switzerland]]. All four non-European teams who made the journey to Italy were eliminated after one match.
+
+In the quarter-finals, the first replayed match in World Cup history took place, when Italy and Spain drew 1–1 after extra time. The match was played in a highly aggressive manner with several players of both sides injured: rough play injured the Spanish goalkeeper [[Ricardo Zamora]] in the first match, leaving him unable to participate in the replay, while on the other side rough play by Spaniards broke the leg of the Italian [[Mario Pizziolo]] who would not play in the national team again.<ref>{{Harvcolnb|Baker|1988|p=248}}</ref> Italy won the replay 1–0; their play so physical that at least three Spaniards had to depart the field with injuries.<ref>{{Harvcolnb|Wilson|2009|p=71}}</ref> Italy then went on to beat Austria in the semi-finals by the same score. Meanwhile, Czechoslovakia secured their place in the final by beating Germany 3–1.
+
+The [[Stadio Nazionale PNF|Stadium of the National Fascist Party]] was the venue for the final. With 80&nbsp;minutes played, the Czechoslovaks led 1–0. The Italians managed to score before the final whistle and then added another goal in extra time to be crowned World Cup winners.
+
+Over the years, several allegations have been made that the tournament was marred by bribery and corruption, specifically that it could have been influenced by Italian dictator [[Benito Mussolini]], who used it as a propaganda tool for [[fascism]]. According to these accusations, Mussolini personally selected referees for the matches where the Italy national team were playing, while the Italian government meddled in FIFA's organisation of events, reorganising the logistics of the matches to further promote fascism.<ref name="bbc" >{{Cite video |url=https://www.youtube.com/watch?v=oS0yeCONIaM | archive-url=https://ghostarchive.org/varchive/youtube/20211114/oS0yeCONIaM| archive-date=2021-11-14 | url-status=live|title=Fascism and Football |date=2009 |publisher=[[BBC]]}}{{cbignore}}</ref><ref name="football_times" /><ref>{{Cite web |date=25 April 2013 |title=Research: World Cup matches fixed in '34, '78 |url=http://www.espn.com/soccer/news/story/_/id/1425310/researchers-say-dictators-fixed-world-cup-matches-1934-1978 |access-date=9 July 2021 |website=[[ESPN]] |archive-date=2 July 2021 |archive-url=https://web.archive.org/web/20210702164110/https://www.espn.com/soccer/news/story/_/id/1425310/researchers-say-dictators-fixed-world-cup-matches-1934-1978 |url-status=live }}</ref><ref name="cnn" >{{Cite web |url=http://edition.cnn.com/2010/SPORT/football/06/08/world.cup.soccer.politics/index.html |title=When worlds collide: Soccer vs. politics |last=Weiner |first=Matthew |date=8 June 2010 |website=[[CNN]] |language=en |access-date=14 June 2018 |archive-date=5 May 2022 |archive-url=https://web.archive.org/web/20220505215705/http://edition.cnn.com/2010/SPORT/football/06/08/world.cup.soccer.politics/index.html |url-status=live }}</ref> Later commentary has described Italy's successful defence of the following [[1938 FIFA World Cup|World Cup in France in 1938]] as an opportunity to counter the allegations surrounding the 1934 tournament.<ref>{{cite news |last=Martin |first=Simon |date=5 Apr 2018 |title=World Cup stunning moments: Mussolini's blackshirts' 1938 win |url=https://www.theguardian.com/football/blog/2014/apr/01/world-cup-moments-1938-italy-benito-mussolini |work=The Guardian |archive-date=24 June 2018 |access-date=1 July 2026 |archive-url=https://web.archive.org/web/20180624010522/https://www.theguardian.com/football/blog/2014/apr/01/world-cup-moments-1938-italy-benito-mussolini |url-status=live }}</ref><ref>{{cite web |last=Niiler |first=Eric |date=14 June 2018 |title=World Cup 1938: When Nazi Germany Forced Austrians to Play For Them—And Lost |url=https://www.history.com/articles/world-cup-nazi-germany-forced-austrian-players-lost |url-status=dead |archive-url=https://web.archive.org/web/20250426073750/https://www.history.com/articles/world-cup-nazi-germany-forced-austrian-players-lost |archive-date=26 April 2025 |access-date=26 April 2025 |website=History |publisher=A&E Television Networks}}</ref>
+
+==Squads==
+For a list of all squads that appeared in the final tournament, see ''[[1934 FIFA World Cup squads]]''.
+{{Clear}}
+
+==Final tournament==
+{{main|1934 FIFA World Cup final tournament}}
+
+===Bracket===
+{{#lst:1934 FIFA World Cup final tournament|Bracket}}
+
+===Round of 16===
+{{#lst:1934 FIFA World Cup final tournament|R16-1}}
+----
+{{#lst:1934 FIFA World Cup final tournament|R16-2}}
+----
+{{#lst:1934 FIFA World Cup final tournament|R16-3}}
+----
+{{#lst:1934 FIFA World Cup final tournament|R16-4}}
+----
+{{#lst:1934 FIFA World Cup final tournament|R16-5}}
+----
+{{#lst:1934 FIFA World Cup final tournament|R16-6}}
+----
+{{#lst:1934 FIFA World Cup final tournament|R16-7}}
+----
+{{#lst:1934 FIFA World Cup final tournament|R16-8}}
+
+===Quarter-finals===
+{{#lst:1934 FIFA World Cup final tournament|QF1}}
+----
+{{#lst:1934 FIFA World Cup final tournament|QF2}}
+----
+{{#lst:1934 FIFA World Cup final tournament|QF3}}
+----
+{{#lst:1934 FIFA World Cup final tournament|QF4}}
+
+====Replay====
+{{#lst:1934 FIFA World Cup final tournament|QF2r}}
+
+===Semi-finals===
+{{#lst:1934 FIFA World Cup final tournament|SF1}}
+----
+{{#lst:1934 FIFA World Cup final tournament|SF2}}
+
+===Match for third place===
+{{#lst:1934 FIFA World Cup final tournament|TPP}}
+
+===Final===
+{{main|1934 FIFA World Cup final}}
+
+{{#lst:1934 FIFA World Cup Final|Final}}
+
+==Goalscorers==
+
+With five goals, Oldřich Nejedlý was the top scorer in the tournament. In total, 70 goals were scored by 45 players, with none of them credited as an own goal.
+
+;5 goals
+{{div col|colwidth=35em|small=yes}}
+* {{flagicon|TCH}} [[Oldřich Nejedlý]]
+{{div col end}}
+
+;4 goals
+{{div col|colwidth=35em|small=yes}}
+* {{flagicon|GER|1933}} [[Edmund Conen]]
+* {{flagicon|ITA|1861}} [[Angelo Schiavio]]
+{{div col end}}
+
+;3 goals
+{{div col|colwidth=35em|small=yes}}
+* {{flagicon|ITA|1861}} [[Raimundo Orsi]]
+* {{flagicon|SUI}} [[Leopold Kielholz]]
+{{div col end}}
+
+;2 goals
+{{div col|colwidth=35em|small=yes}}
+* {{flagicon|AUT}} [[Johann Horvath]]
+* {{flagicon|BEL}} [[Bernard Voorhoof]]
+* {{flagicon|TCH}} [[Antonín Puč]]
+* {{flagicon|EGY|1922}} [[Abdulrahman Fawzi]]
+* {{flagicon|GER|1933}} [[Karl Hohmann]]
+* {{flagicon|GER|1933}} [[Ernst Lehner]]
+* {{flagicon|HUN|1920}} [[Géza Toldi]]
+* {{flagicon|ITA|1861}} [[Giovanni Ferrari]]
+* {{flagicon|ITA|1861}} [[Giuseppe Meazza]]
+* {{flagicon|ESP|1931}} [[José Iraragorri]]
+* {{flagicon|SWE}} [[Sven Jonasson]]
+{{div col end}}
+
+;1 goal
+{{div col|colwidth=35em|small=yes}}
+* {{flagicon|ARG|1861}} [[Ernesto Belis]]
+* {{flagicon|ARG|1861}} [[Alberto Galateo]]
+* {{flagicon|AUT}} [[Josef Bican]]
+* {{flagicon|AUT}} [[Anton Schall]]
+* {{flagicon|AUT}} [[Karl Sesta]]
+* {{flagicon|AUT}} [[Matthias Sindelar]]
+* {{flagicon|AUT}} [[Karl Zischek]]
+* {{flagicon|BRA|1889}} [[Leônidas da Silva|Leônidas]]
+* {{flagicon|TCH}} [[Jiří Sobotka]]
+* {{flagicon|TCH}} [[František Svoboda]]
+* {{flagicon|FRA|1830}} [[Jean Nicolas]]
+* {{flagicon|FRA|1830}} [[Georges Verriest]]
+* {{flagicon|GER|1933}} [[Stanislaus Kobierski]]
+* {{flagicon|GER|1933}} [[Rudolf Noack]]
+* {{flagicon|GER|1933}} [[Otto Siffling]]
+* {{flagicon|HUN|1920}} [[György Sárosi]]
+* {{flagicon|HUN|1920}} [[Pál Teleki (footballer)|Pál Teleki]]
+* {{flagicon|HUN|1920}} [[Jenő Vincze]]
+* {{flagicon|ITA|1861}} [[Enrique Guaita]]
+* {{flagicon|NED}} [[Kick Smit]]
+* {{flagicon|NED}} [[Leen Vente]]
+* {{flagicon|ROU}} [[Ștefan Dobay]]
+* {{flagicon|ESP|1931}} [[Isidro Lángara]]
+* {{flagicon|ESP|1931}} [[Luis Regueiro]]
+* {{flagicon|SWE}} [[Gösta Dunker]]
+* {{flagicon|SWE}} [[Knut Kroon]]
+* {{flagicon|SUI}} [[André Abegglen]]
+* {{flagicon|SUI}} [[Willy Jäggi]]
+* {{flagicon|USA|1912}} [[Aldo Donelli]]
+{{div col end}}
+
+== FIFA retrospective ranking ==
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986,<ref>{{Cite book |title=FIFA World Cup — Mexico '86; Official Report |author=FIFA Technical Study Group |url=https://digitalhub.fifa.com/m/2bb4308f4d418319/original/pfnhnhmqhdwqvp62pm27-pdf.pdf#page=45 |url-status=live |archive-url=https://web.archive.org/web/20100614213621/https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc_mexico_1986_en_part4_279.pdf#page=45 |page=230 |chapter=Permanent table |archive-date=14 June 2010 |access-date=8 July 2021 |publisher=FIFA }}</ref><ref name="kit">{{Cite web |date=26 March 2013 |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |url-status=dead |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]]}}</ref> {{Citation needed span|text=based on progress in the competition, overall results|reason=No criteria are stated in either cited source.|date=June 2026}} {{Dubious span|text=and quality of the opposition (not counting replay results). |reason=Below table suggests that quality of the opposition was ignored and that replay result WAS in fact counted in placing Spain ahead of Hungary. |date=June 2026}} The rankings for the 1934 tournament were as follows:
+
+{| class="wikitable" style="font-size: 95%; text-align: center;"
+|+Team ranking and aggregate match statistics
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals for}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal difference}}
+!width=25| {{Original research span|text={{abbr|Pts.|Points}}|reason=Why not 3 points for a win? Why does it matter?|date=June 2026}}
+|-
+|- style="background:gold;"
+| 1 || style="text-align:left;"|{{fb|ITA|1861}} || 5 || 4 || 1 || 0 || 12 || 3 || +9 || 9
+|- style="background:silver;"
+| 2 || style="text-align:left;"|{{fb|CSK}} || 4 || 3 || 0 || 1 || 9 || 6 || +3 || 6
+|- style="background:#c96;"
+| 3 || style="text-align:left;"|{{fb|GER|1933}} || 4 || 3 || 0 || 1 || 11 || 8 || +3 || 6
+|- 
+| 4 || style="text-align:left;"|{{fb|AUT}} || 4 || 2 || 0 || 2 || 7 || 7 || 0 || 4
+|-
+| colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 || style="text-align:left;"|{{fb|ESP|1931}} || 3 || 1 || 1 || 1 || 4 || 3 || +1 || 3
+|-
+| 6 || style="text-align:left;"|{{fb|HUN|1920}} || 2 || 1 || 0 || 1 || 5 || 4 || +1 || 2
+|-
+| 7 || style="text-align:left;"|{{fb|SUI}} || 2 || 1 || 0 || 1 || 5 || 5 || 0 || 2
+|-
+| 8 || style="text-align:left;"|{{fb|SWE}} || 2 || 1 || 0 || 1 || 4 || 4 || 0 || 2
+|-
+| colspan="11"| '''Eliminated in the round of 16'''
+|-
+| rowspan="3"| 9 || style="text-align:left;"|{{fb|ARG|1861}} || 1 || 0 || 0 || 1 || 2 || 3 || −1 || 0
+|-
+| style="text-align:left;"|{{fb|FRA|1830}} || 1 || 0 || 0 || 1 || 2 || 3 || −1 || 0
+|-
+| style="text-align:left;"|{{fb|NED}} || 1 || 0 || 0 || 1 || 2 || 3 || −1 || 0
+|-
+| 12 || style="text-align:left;"|{{fb|ROU}} || 1 || 0 || 0 || 1 || 1 || 2 || −1 || 0
+|-
+| 13 || style="text-align:left;"|{{fb|EGY|1922}} || 1 || 0 || 0 || 1 || 2 || 4 || −2 || 0
+|-
+| 14 || style="text-align:left;"|{{fb|BRA|1889}} || 1 || 0 || 0 || 1 || 1 || 3 || −2 || 0
+|-
+| 15 || style="text-align:left;"|{{fb|BEL}} || 1 || 0 || 0 || 1 || 2 || 5 || −3 || 0
+|-
+| 16 || style="text-align:left;"|{{fb|USA|1912}} || 1 || 0 || 0 || 1 || 1 || 7 || −6 || 0
+|}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==Bibliography==
+* {{Citation| last=Baker| first=William Joseph| year=1988| title=Sports in the Western World| publisher=University of Illinois Press| location=Urbana, IL| isbn=978-0-252-06042-7| url-access=registration| url=https://archive.org/details/sportsinwesternw00bake}}
+* {{Citation| last=Crouch| first=Terry|year=2002| title=The World Cup: The Complete History| publisher=Aurum|location=London|isbn=978-1-85410-843-2}}
+* {{Citation| last=de Carvalho| first=José Eduardo|year=2014| title=History of World Cups| publisher=O Estado de S.Paulo|isbn=9788584280032}}
+* {{Citation| last=Freddi| first=Cris|year=2006| title=Complete Book of the World Cup 2006| publisher=HarperCollins|location=London|isbn=0-00-722916-X}}
+* {{Citation| last=Glanville| first=Brian|year=2005| title=The Story of the World Cup| publisher=Faber and Faber|location=London|isbn=978-0-571-22944-4}}
+* {{Citation| last=Goldblatt| first=David|year=2007| title=The Ball is Round: A Global History of Football| publisher=Penguin|location=London|isbn=978-0-14-101582-8}}
+* {{Citation| last=Hunt| first=Chris| year=2006| title=World Cup Stories: The History of the FIFA World Cup| publisher=Interact| location=Ware| isbn=978-0-9549819-2-1| url-access=registration| url=https://archive.org/details/historyoffifawor0000hunt}}
+* {{Citation| last=Murray| first=Bill|year=1998| title=The World's Game: A History of Soccer| publisher=University of Illinois Press|location=Urbana, IL|isbn=978-0-252-06718-1}}
+* {{Citation| last=Wangerin| first=Dave|year=2006| title=Soccer in a Football World| publisher=WSC Books|location=London|isbn=978-0-9540134-7-9}}
+* {{Citation| last=Wilson| first=Jonathan|year=2009| title=Inverting the Pyramid: The History of Football Tactics| publisher=Orion|location=London|isbn=978-1-4091-0204-5}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1934|1934 FIFA World Cup}}
+* [https://www.fifa.com/tournaments/mens/worldcup/1934italy 1934 FIFA World Cup] at FIFA.com
+* [https://www.rsssf.org/tables/34full.html 1934 FIFA World Cup] at RSSSF.com
+
+{{Portal bar|1930s|Association football|Italy}}
+{{1934 FIFA World Cup}}
+{{1934 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1934 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1934]]
+[[Category:1934 in men's international association football|World Cup]]
+[[Category:1933–34 in Italian football]]
+[[Category:Men's international association football competitions hosted by Italy|1934]]
+[[Category:May 1934 sports events in Europe]]
+[[Category:June 1934 sports events in Europe]]

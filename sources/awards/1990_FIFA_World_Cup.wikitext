@@ -1,0 +1,984 @@
+{{short description|Association football tournament in Italy}}
+{{redirect2|Italia '90|Italy 1990|the video games|World Cup Soccer: Italia '90{{!}}''World Cup Soccer: Italia '90''|and|Italy 1990 (video game){{!}}''Italy 1990'' (video game)}} 
+{{redirect|1990 World Cup}}
+{{Use British English|date=September 2014}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox international football competition
+| tourney_name   = FIFA World Cup
+| year           = 1990
+| other_titles   = {{native name|it|Coppa del Mondo Italia '90}}
+| image          = 1990 FIFA World Cup.svg
+| size           = 250px
+| country        = Italy
+| dates          = 8 June – 8 July
+| confederations = 5
+| num_teams      = 24
+| venues         = 12
+| cities         = 12
+| champion       = West Germany
+| count          = 3
+| second         = Argentina
+| second-flagvar = 1861
+| third          = Italy
+| third-flagvar  = 1946
+| fourth         = England 
+| matches        = 52
+| goals          = 115
+| attendance     = {{#invoke:Football attendance summation|main|groups=A-F}}
+| top_scorer     = {{fbicon|ITA|1946}} [[Salvatore Schillaci]] (6 goals)
+| player         = {{fbicon|ITA|1946}} Salvatore Schillaci
+| young_player   = {{fbicon|YUG}} [[Robert Prosinečki]]
+| fair_play      = {{fb|ENG}}
+| prevseason     = [[1986 FIFA World Cup|1986]]
+| nextseason     = [[1994 FIFA World Cup|1994]]
+}}
+
+The '''1990 FIFA World Cup''' was the 14th [[FIFA World Cup]], the quadrennial [[Association football|football]] tournament for men's senior national teams. It was held from 8 June to 8 July 1990 in Italy, the second country to host the event for a second time (after Mexico in 1986). Teams representing 116 national football associations entered and [[1990 FIFA World Cup qualification|qualification]] began in April 1988. Twenty-two teams qualified from this process, along with the host nation itself [[Italy national football team|Italy]] and defending champions [[Argentina national football team|Argentina]].
+
+The tournament was won by [[Germany national football team|West Germany]], for the third time. They [[1990 FIFA World Cup Final|beat defending champions Argentina 1–0]] at the [[Stadio Olimpico]] in [[Rome]], a rematch of [[1986 FIFA World Cup Final|the previous final]] four years earlier. Italy ended up finishing third and [[England national football team|England]] fourth, after both lost their semi-finals in [[Penalty shoot-out (association football)|penalty shoot-outs]]. This was the last tournament to feature a team from West Germany, with the country being [[German reunification|reunified with East Germany]] a few months later in October, as well as teams from the [[Eastern Bloc]] before the end of the [[Cold War]] in 1991, as the [[Soviet national football team|Soviet Union]], [[Yugoslavia national football team|Yugoslavia]], and [[Czechoslovakia national football team|Czechoslovakia]] teams all made their final appearances. [[Costa Rica national football team|Costa Rica]], [[Republic of Ireland national football team|Ireland]] and the [[United Arab Emirates national football team|United Arab Emirates]] made their first appearances in the finals. As of 2026, this was the only time the United Arab Emirates qualified for a FIFA World Cup finals. [[Cameroon national football team|Cameroon]] went on an unexpectedly strong run in the tournament, becoming the first African team to reach the quarter-finals of the World Cup. The official match ball was the [[Adidas Etrusco Unico]].
+
+The 1990 World Cup is widely regarded as one of the poorest World Cups in terms of the games.<ref name="Italy 1990">{{Cite news |url=http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1632000/1632223.stm |title=Italy 1990 |work=[[BBC Sport]] |date=17 April 2002 |access-date=11 August 2010 |archive-date=26 January 2011 |archive-url=https://web.archive.org/web/20110126214428/http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1632000/1632223.stm |url-status=live }}</ref><ref name="World Cup 1990">{{Cite news |url=http://soccernet.espn.go.com/world-cup/story?id=696774 |title=World Cup 1990 |work=ESPN Soccernet |date=9 November 2009 |access-date=11 August 2010 |archive-date=26 October 2012 |archive-url=https://web.archive.org/web/20121026105250/http://soccernet.espn.go.com/world-cup/story?id=696774 |url-status=dead }}</ref><ref>{{Cite book |last=Glanville |first=Brian |title=The Story of the World Cup |publisher=Faber |year=2005 |isbn=0-571-22944-1 }}</ref><ref>{{Cite book |last=Freddi |first=Cris |title=Complete Book of the World Cup |publisher=HarperSport |year=2006 |isbn=978-0-00-722916-1 }}</ref> It generated an average 2.21 goals per game – a record low that still stands<ref name="Record">{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/tournaments/worldcup/organisation/index.html |archive-url=https://web.archive.org/web/20070613023230/http://www.fifa.com/worldfootball/statisticsandrecords/tournaments/worldcup/organisation/index.html |url-status=dead |archive-date=13 June 2007 |title=FIFA World Cup Record – Organisation |access-date=14 June 2012 }}</ref> – and a then-record 16 red cards, including the first dismissal in a final. However, the tournament had a significant lasting influence on the game as a whole. In England, the team's success in this tournament led to the resurgence of the [[Football League First Division|domestic top-flight]], which had suffered from violence on the pitch and hooliganism by spectators throughout the 1980s.<ref name="Impact"/> It saw the introduction of the pre-match Fair Play Flag (then inscribed with "Fair Play Please") to encourage fair play. Overly defensive tactics of many teams  led to the introduction of the [[back-pass rule]] in 1992 and [[three points for a win]] instead of two, both of which have encouraged attacking play, increasing spectator interest in the sport. The tournament also produced some of the World Cup's best remembered moments and stories, including the emergence of African nations, and [[Luciano Pavarotti]]'s performance of "[[Nessun dorma]]" during the first ever joint concert of [[The Three Tenors]] on July 7, shortly before the match for third place which featured the host team.<ref name="Impact">{{cite news |title=A riot of colour, emotion and memories: the World Cup stands alone in the field of sport|url=https://www.independent.co.uk/sport/football/world-cup/world-cup-russia-2018-preview-lionel-messi-ronaldo-italia-90-98-england-brazil-germany-france-a8392211.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/world-cup/world-cup-russia-2018-preview-lionel-messi-ronaldo-italia-90-98-england-brazil-germany-france-a8392211.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |access-date=20 August 2018 |work=The Independent}}{{cbignore}}</ref>
+
+The 1990 World Cup stands as one of the most watched events in television history, garnering an estimated 26.69&nbsp;billion non-unique viewers over the course of the tournament.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/ffprojects/ip-401_06e_tv_2658.pdf |title=World Cup and Television |access-date=6 June 2007 |year=2006|publisher=[[FIFA]] |archive-url=https://web.archive.org/web/20070614094554/http://www.fifa.com/mm/document/fifafacts/ffprojects/ip-401_06e_tv_2658.pdf |archive-date=14 June 2007 |url-status=dead }}</ref> This was the first World Cup officially recorded and transmitted in [[HDTV]], which was a joint effort of the Italian broadcaster [[RAI]] and Japan's [[NHK]].<ref>{{cite web |url=http://www.crit.rai.it/eletel/2005-3/53-4.htm |title=L'Alta Definizione a Torino 1986 – 2006 di Marzio Barbero e Natasha Shpuza |publisher=Crit.rai.it |access-date=23 May 2012 |archive-date=3 August 2021 |archive-url=https://web.archive.org/web/20210803073254/http://www.crit.rai.it/eletel/2005-3/53-4.htm |url-status=live }}</ref> The huge success of the broadcasting model also had a lasting impact on the sport around the world.<ref name="Impact"/> At the time, it was the most watched World Cup in history in non-unique viewers, later bettered only by the [[1994 FIFA World Cup|1994]] and the [[2002 FIFA World Cup|2002]] editions of the competition.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/ffprojects/ip-401%5f05a%5ftvstats%5f9299.pdf |title=The FIFA World Cup TV viewing figures |access-date=31 October 2007|publisher=[[FIFA]] |archive-url=https://web.archive.org/web/20071127134616/http://www.fifa.com/mm/document/fifafacts/ffprojects/ip-401_05a_tvstats_9299.pdf |archive-date=27 November 2007 |url-status=dead }}</ref>
+
+==Host selection==
+{{Main|FIFA World Cup hosts}}
+The vote to choose the hosts of the 1990 tournament was held on 19 May 1984 in [[Zürich]], Switzerland. Here, the FIFA Executive Committee chose Italy ahead of the only rival bid, the [[Soviet Union|USSR]], by 11 votes to 5.<ref name="Hosting">{{Cite news |title=Italy gain vote over Soviet rival |page=21 |newspaper=The Times |location=London |date=21 May 1984 }}</ref> This awarding made Italy only the second nation to host two World Cup tournaments after Mexico had also achieved this with their [[1986 FIFA World Cup|1986 staging]], having agreed to replace Colombia as hosts the year before the 1990 hosts were chosen. Italy had previously held the event in [[1934 FIFA World Cup|1934]], where they had won their first championship.
+
+Austria, England, France, Greece, West Germany and Yugoslavia also submitted initial applications for the 31 July 1983 deadline.<ref>{{Cite news |title=Sports in brief |page=17 |newspaper=The Times |location=London |date=3 August 1983 }}</ref> A month later, only England, Greece, Italy and the Soviet Union remained in the hunt after the other contenders all withdrew.<ref>{{Cite news |title=Sports in brief |page=20 |newspaper=The Times |location=London |date=2 September 1983 }}</ref> All four bids were assessed by FIFA in late 1983, with the final decision over-running into 1984 due to the volume of paperwork involved.<ref>{{Cite news |title=World Cup formats |page=18 |newspaper=The Times |location=London |date=12 November 1983 }}</ref> In early 1984, England and Greece also withdrew, leading to a two-horse race in the final vote. The [[1984 Summer Olympics boycott|Soviet boycott of the 1984 Olympic Games]], announced on the eve of the World Cup decision, was speculated to have been a major factor behind Italy winning the vote so decisively,<ref>{{Cite news |title=Romania could join the boycott |page=30 |newspaper=The Times |location=London |date=22 May 1984 }}</ref> although this was denied by the FIFA President [[João Havelange]].<ref name="Hosting" /> The Soviet state media responded by accusing FIFA of political corruption, and blamed the organisation's American sponsors (chiefly [[Coca-Cola]]) for influencing the decision.<ref>{{Cite web |date=1984-03-25 |title=BoňguTe, A06aBMTb B M36paHHOe 1984 N°119 |url=https://yandex.ru/showcaptcha?cc=1&mt=1291DD1F03A7F567AB4C9F5B4CA149588DEAE5CF815846712A1C290FFEF0D07AD43F67FCE18C512EF66682374A87D1273DDCB8E7BA06EE95C6972150B0F1F45D277CB8CC93DF2010DB122A39D679A81415CCB3B25EFB1936DFEFB42C0C7E41576C24B265EC19939B60BC26B6C280EB66DD3BD51FE076BC8A1C4C742CFB17D95F37A78206A1B5980830391532D9ABD2470152C57EC56E049E53E555D26DB6E1AAF6FFF8691BBA077CB37912C83AD8BEAFD3F7001AB0C12D24EDC0F66518AEFAF3886399E48437396CDA3225F0D40BA2A8FE641A4A1E9187D86016889A48FB05F7C0304E5956C3237B077B2A&retpath=aHR0cHM6Ly95YW5kZXgucnUvYXJjaGl2ZS9jYXRhbG9nLzkxZDU2YWVlLWU3NjAtNGZhMC1hNDFmLWMyNDhlMzQ4MTdjYy80P3NuaXBwZXQ9Li4uJUQwJUJEJUQwJUI1JUQxJTgzJUQxJTg3JUQwJUIwJUQxJTgxJUQxJTgyJUQwJUI4JUQwJUI4KyVEMCVBMSVEMCVBMSVEMCVBMSVEMCVBMCslRDAlQjIrJTVDMDA3JTVCJUQwJTlFJUQwJUJCJUQwJUI4JUQwJUJDJUQwJUJGJUQwJUI4JUQwJUIwJUQwJUI0JUQwJUI1JTVDMDA3JTVEKyVEMCVCMislRDAlOUIlRDAlQkUlRDElODErLSslRDAlOTAlRDAlQkQlRDAlQjQlRDAlQjYlRDAlQjUlRDAlQkIlRDAlQjUlRDElODElRDAlQjUrJUQwJUJEJUQwJUI1KyVEMSU4RiVEMCVCMiVEMCVCQiVEMSU4RiVEMCVCNSVEMSU4MiVEMSU4MSVEMSU4RislRDAlQjAlRDAlQkElRDElODYlRDAlQjglRDAlQjUlRDAlQjkrJUQwJUJDJUQwJUI1JUQxJTgxJUQxJTgyJUQwJUI4KyVEMCVCMislRDAlQkUlRDElODIlRDAlQjIlRDAlQjUlRDElODIrJUQwJUJEJUQwJUIwKyVEMCVCMSVEMCVCRSVEMCVCOSVEMCVCQSVEMCVCRSVEMSU4MislRDAlQkMlRDAlQkUlRDElODElRDAlQkElRDAlQkUlRDAlQjIlRDElODElRDAlQkElRDAlQkUlRDAlQjkrJTVDMDA3JTVCJUQwJTlFJUQwJUJCJUQwJUI4JUQwJUJDJUQwJUJGJUQwJUI4JUQwJUIwJUQwJUI0JUQxJThCJTVDMDA3JTVELCslRDAlQkElRDAlQjAlRDAlQkErJUQxJThEJUQxJTgyJUQwJUJFKyVEMCVCRiVEMSU4QiVEMSU4MiVEMCVCMCVEMCVCNSVEMSU4MiVEMSU4MSVEMSU4RislRDAlQkYlRDElODAlRDAlQjUlRDAlQjQlRDElODElRDElODIlRDAlQjAlRDAlQjIlRDAlQjglRDElODIlRDElOEMrJTVDMDA3JTVCJUQwJUIxJUQxJTgzJUQxJTgwJUQwJUI2JUQxJTgzJUQwJUIwJUQwJUI3JUQwJUJEJUQwJUIwJUQxJThGJTVDMDA3JTVEKyVEMCVCRiVEMSU4MCVEMCVCRSVEMCVCRiVEMCVCMCVEMCVCMyVEMCVCMCVEMCVCRCVEMCVCNCVEMCVCMCwrJUQwJUJGJUQwJUI4JUQxJTg4JUQwJUI1JUQxJTgyLi4uJnRleHQ9JUQwJTkxJUQxJTgzJUQxJTgwJUQwJUI2JUQxJTgzJUQwJUIwJUQwJUI3JUQwJUJEJUQwJUIwJUQxJThGKyVEMCVCRSVEMCVCQiVEMCVCOCVEMCVCQyVEMCVCRiVEMCVCOCVEMCVCMCVEMCVCNCVEMCVCMA%2C%2C_3b5c483ef2f749ab009cbe506d083fbd&t=2/1723808548/f066321160ef6cbdc3ff2768bf564e3a&u=caa413d0-50cb9b9d-154124cf-fb0f0274&s=cdf54d5b2b6196f65f4ce5da648a0fd0 |access-date=2024-08-16 |website=yandex.ru |language=Ru}}</ref>
+
+Iran also planned to host the competition. They proposed it to FIFA in 1977, but a few months later they withdrew their request.<ref>{{cite web|url=https://www.varzesh3.com/news/1416397/%D8%B3%D9%86%D8%AF-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-90|title=Iran and the 1990 FIFA World Cup|access-date=20 August 2023|archive-date=13 July 2024|archive-url=https://web.archive.org/web/20240713022439/https://www.varzesh3.com/news/1416397/%D8%B3%D9%86%D8%AF-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-90|url-status=live}}</ref>
+
+==Qualification==
+{{Main|1990 FIFA World Cup qualification}}
+116 teams entered the 1990 World Cup, including Italy as host nation and Argentina as reigning World Cup champions, who were both granted automatic qualification. Thus, the remaining 22 finals places were divided among the continental confederations, with 114 initially entering the qualification competition. Due to rejected entries and withdrawals, 103 teams eventually participated in the qualifying stages.
+
+Thirteen places were contested by [[UEFA]] teams (Europe), two by [[CONMEBOL]] teams (South America), two by [[Confederation of African Football|CAF]] teams (Africa), two by [[Asian Football Confederation|AFC]] teams (Asia), and two by [[CONCACAF]] teams (North and Central America and Caribbean). The remaining place was decided by a play-off between a CONMEBOL team and a team from the [[Oceania Football Confederation|OFC]] (Oceania).
+
+After finishing in third place in [[1986 FIFA World Cup|1986]], [[France national football team|France]] missed the tournament for the first time since the [[1974 FIFA World Cup|1974]] edition.<ref>{{cite news |title=Football : la France éliminée de la Coupe du monde 1974, une remise à niveau |url=https://www.lemonde.fr/archives/article/1989/05/03/football-la-france-eliminee-de-la-coupe-du-monde-remise-a-niveau_4107644_1819218.html |work=Le Monde |date=3 May 1989 |access-date=5 July 2026 |language=fr |archive-date=13 April 2023 |archive-url=https://web.archive.org/web/20230413141700/https://www.lemonde.fr/archives/article/1989/05/03/football-la-france-eliminee-de-la-coupe-du-monde-remise-a-niveau_4107644_1819218.html |url-status=live }}</ref>
+
+[[Mexico national football team|Mexico]] was disqualified during the qualification process for [[Cachirules|fielding four overage players]] in [[1988 CONCACAF U-20 Tournament|a prior youth tournament]].<ref>{{cite news |title=Mexico given ban in soccer |url=https://www.nytimes.com/1988/07/01/sports/mexico-given-ban-in-soccer.html |work=The New York Times |agency=Associated Press |date=1 July 1988 |access-date=23 October 2014 |archive-date=2 July 2018 |archive-url=https://web.archive.org/web/20180702210208/https://www.nytimes.com/1988/07/01/sports/mexico-given-ban-in-soccer.html |url-status=live }}</ref>
+
+Three teams made their debuts; this was the first World Cup to feature [[Costa Rica national football team|Costa Rica]], the [[Republic of Ireland national football team|Republic of Ireland]], and the [[United Arab Emirates national football team|United Arab Emirates]].
+
+Returning after long absences were Egypt, which appeared for the first time since 1934; the [[United States men's national soccer team|United States]] (which would not miss a World Cup again until 2018), which competed for the first time since 1950; Colombia, which appeared for the first time since 1962; Romania, which last appeared at the Finals in 1970; and Sweden and the Netherlands, both of which last qualified in 1978. Austria, Cameroon, Czechoslovakia and Yugoslavia also returned after missing the 1986 tournament.
+
+===List of qualified teams===
+The following 24 teams qualified for the final tournament.<ref>{{Cite news|first=Michael|last=Janofsky|title=From the Mighty to the Maybes, 24 Nations Gather|url=https://www.nytimes.com/1990/06/04/sports/from-the-mighty-to-the-maybes-24-nations-gather.html|newspaper=[[The New York Times]]|date=4 June 1990|access-date=15 January 2025|archive-date=15 January 2025|archive-url=https://web.archive.org/web/20250115144754/https://www.nytimes.com/1990/06/04/sports/from-the-mighty-to-the-maybes-24-nations-gather.html|url-status=live}}</ref>
+{{col-begin}}
+{{col-4}}
+;[[1990 FIFA World Cup qualification (AFC)|AFC]] (2)
+* {{fb|KOR|1984}}&nbsp;
+* {{fb|UAE}}&nbsp;(debut)
+;[[1990 FIFA World Cup qualification (CAF)|CAF]] (2)
+* {{fb|EGY}}&nbsp;
+* {{fb|CMR}}&nbsp;
+;[[1990 FIFA World Cup qualification (OFC)|OFC]] (0)
+* ''None qualified''
+{{col-4}}
+;[[1990 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (2)
+* {{fb|CRC}}&nbsp;(debut)
+* {{fb|USA}}&nbsp; 
+;[[1990 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (4)
+* {{fb|ARG|1861}}&nbsp;(holders)
+* {{fb|BRA|1968}}&nbsp;
+* {{fb|COL}}&nbsp;
+* {{fb|URU}}&nbsp;
+{{col-4}}
+;[[1990 FIFA World Cup qualification (UEFA)|UEFA]] (14)
+* {{fb|AUT}}&nbsp;
+* {{fb|BEL}}&nbsp;
+* {{fb|TCH}}&nbsp;(last appearance)
+* {{fb|ENG}}&nbsp;
+* {{fb|ITA|1946}}&nbsp;(host)
+* {{fb|NED}}&nbsp;
+* {{fb|IRL}}&nbsp;(debut)
+* {{fb|ROU}}&nbsp;
+* {{fb|SCO}}&nbsp;
+* {{fb|SOV}}&nbsp;(last appearance)
+* {{fb|ESP}}&nbsp;
+* {{fb|SWE}}&nbsp;
+* {{fb|West Germany}}&nbsp;(last appearance)
+* {{fb|YUG}}&nbsp;(last appearance)
+{{col-4}}
+[[Image:1990 world cup qualification.png|thumb|upright=1.5|{{legend|#000cff|Countries qualified for World Cup}} {{legend|#ffb400|Country did not qualify}} {{legend|black|Countries that did not enter the World Cup or were expelled from the tournament by FIFA prior to playing a match}} {{legend|#ababab|Country not a FIFA member}}]]
+{{col-end}}
+
+{{as of|2026}}, this was the only time the United Arab Emirates qualified for the World Cup finals and the last time [[Mexico national football team|Mexico]] did not participate in the tournament.
+
+==Venues==
+Twelve stadiums in twelve cities were selected to host matches at the 1990 World Cup. The [[Stadio San Nicola]] in [[Bari]] and [[Turin]]'s [[Stadio delle Alpi]] were completely new venues opened for the World Cup. Of the twelve stadiums used, only four (San Siro, Luigi Ferraris, Comunale of Florence, and Renato Dall'Ara) had been used for the [[1934 FIFA World Cup]], while [[Trieste]] was the only host city from 1934 not to be selected for the 1990 tournament.
+
+The ten existing venues all underwent extensive programmes of improvements in preparation for the tournament, forcing many of the club tenants of the stadia to move to temporary homes. Additional seating and roofs were added to most stadia, with further redevelopments seeing running tracks removed and new pitches laid. Due to structural constraints, several of the existing stadia had to be virtually rebuilt to implement the changes required.
+
+Like España '82 and México '86, the group stage of this tournament was organised so an individual group only played in two cities in close proximity to each other. Group A only played in Rome and Florence (hosts [[Italy national football team|Italy]] played all but two competitive matches in Rome: their semi-final match was played in Napoli, and their match for third place in Bari), Group B played their matches in Naples and Bari (except for Argentina vs. Cameroon, which was the opening match of the tournament, played in Milan), Group C played their matches in Turin and Genoa, Group D played all their matches in Milan and Bologna, Group E played only in Udine and Verona, and Group F played in the insular cities of Cagliari and Palermo. The cities that hosted the most World Cup matches were the two biggest cities in Italy: Rome and Milan, each hosting six matches, and Bari, Naples, and Turin each hosted five matches. Cagliari, Udine and Palermo were the only cities of the 12 selected that did not host any knockout round matches.
+
+The England national team, at the British government's request, played all 3 of their group stage matches in Cagliari on the island of Sardinia.<ref name="ENGseed">{{Cite news|url=https://www.nytimes.com/1989/12/10/sports/soccer-us-must-face-italy-in-cup.html|title=U.S. must face Italy in cup|work=The New York Times|date=10 December 1989|first=Paul|last=Gardner|url-status=dead|archive-url=https://web.archive.org/web/20201117053004/https://www.nytimes.com/1989/12/10/sports/soccer-us-must-face-italy-in-cup.html|archive-date=17 November 2020}}</ref> Hooliganism, [[Football hooliganism in the United Kingdom#1980s|rife in English football in the 1980s]] had spilled over onto the European continent when 39 mostly Italian Juventus supporters [[Heysel disaster|were killed]] and 600 were injured at the 1985 European Cup Final in [[Brussels]] while trying to flee from an attack by Liverpool supporters. This hooliganism had followed the England national team while they played friendlies on the European continent – the distrust of English fans was high enough that the English Football Association's reputation and even diplomatic relations between the UK and Italy were seen to be at risk if England played any group stage matches on the Italian mainland. Thanks largely to British Sports Minister Colin Moynihan's negative remarks about English fans weeks before the match, security around Cagliari during England's three matches there was heavy – in addition to 7,000 local police, the [[Carabinieri]] and [[Italian special forces|special forces]] of the [[Italian Armed Forces|Italian military]] were also there patrolling the premises. The Italian authorities' presence proved to be justified as there were several riots during the time England were playing their matches in Cagliari, leading to a number of injuries, arrests and even deportations.<ref>{{Cite news|url=https://www.nytimes.com/1990/06/17/sports/world-cup-90-fan-violence-at-world-cup-finals.html |title=WORLD CUP '90; Fan Violence at World Cup Finals|work=The New York Times|date=17 June 1990|url-status=dead|archive-url=https://web.archive.org/web/20220126062842/https://www.nytimes.com/1990/06/17/sports/world-cup-90-fan-violence-at-world-cup-finals.html|archive-date=26 January 2022}}</ref><ref>{{Cite news|url=https://www.latimes.com/archives/la-xpm-1990-06-11-sp-210-story.html|title=WORLD CUP '90: English Fans Clash With Riot Police|newspaper=LA Times|date=11 June 1990|url-status=live|archive-url=https://web.archive.org/web/20201127045850/https://www.latimes.com/archives/la-xpm-1990-06-11-sp-210-story.html|archive-date=27 November 2020}}</ref>
+
+Most of the construction cost in excess of their original estimates and total costs ended up being over £550&nbsp;million (approximately $935&nbsp;million). Rome's [[Stadio Olimpico]] which hosted the final was the most expensive project overall, while Udine's [[Stadio Friuli]], the newest of the existing stadia (opened 14 years prior), cost the least to redevelop.
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Milan]]
+![[Rome]]
+![[Turin]]
+![[Naples]]
+|-
+|[[San Siro]]
+|[[Stadio Olimpico]]
+|[[Stadio Delle Alpi]]
+|[[Stadio San Paolo]]
+|-
+|{{small|{{Coord|45|28|41|N|9|7|27|E|region:IT_type:landmark|display=inline|name=San Siro}}}}
+|{{small|{{Coord|41|56|2|N|12|27|17|E|region:IT_type:landmark|display=inline|name=Stadio Olimpico}}}}
+|{{small|{{Coord|45|06|34|N|7|38|29|E|region:IT_type:landmark|display=inline|name=Stadio delle Alpi}}}}
+|{{small|{{Coord|40|49|41|N|14|11|35|E|region:IT_type:landmark|display=inline|name=Stadio San Paolo}}}}
+|-
+|Capacity: '''74,559'''<ref name="Cap1"/><ref name="Cap2"/>
+|Capacity: '''73,603'''<ref name="Cap1">{{Cite news |title=WM 1990 Sonderheft |page=185 |newspaper=Kicker |date=May–June 1990 |language=de }}</ref><ref name="Cap2">{{Cite news |title=World Cup '90: The Complete Collection |publisher=Orbis }}</ref>
+|Capacity: '''62,628'''<ref name="Cap1"/><ref name="Cap2"/>
+|Capacity: '''59,978'''<ref name="Cap1"/><ref name="Cap2"/>
+|-
+|[[File:San Siro - panoramio (2).jpg|alt=|frameless|200x200px]]
+|[[File:Stadio Olimpico 2008.JPG|alt=|frameless|200x200px]]
+|[[File:Torino, Stadio 'Delle Alpi', Mondiali 1990, Brasile-Svezia 2-1.jpg|alt=|frameless|200x200px]]
+|[[File:Stadio San Paolo (Napoli vs Club Brugge) - panoramio (4).jpg|200px]]
+|-
+![[Bari]]
+!rowspan=10 colspan=2|
+{{location map+|Italy|AlternativeMap = Italy location map December 1963 - 1992.svg|float=none|width=400|caption=|places=
+{{location map~|Italy|lat=41.934|long=12.454|label=[[Rome]]}}
+{{location map~|Italy|lat=45.478|long=9.1242|label=[[Milan]]}}
+{{location map~|Italy|lat=40.828|long=14.193|label=[[Naples]]}}
+{{location map~|Italy|lat=45.110|long=7.6413|label=[[Turin]]}}
+{{location map~|Italy|lat=41.085|long=16.840|label=[[Bari]]}}
+{{location map~|Italy|lat=45.435|long=10.969|label=[[Verona]]}}
+{{location map~|Italy|lat=43.781|long=11.283|label=[[Florence]]}}
+{{location map~|Italy|lat=39.199|long=9.135|label=[[Cagliari]]}}
+{{location map~|Italy|lat=44.492|long=11.310|label=[[Bologna]]}}
+{{location map~|Italy|lat=46.082|long=13.200|label=[[Udine]]}}
+{{location map~|Italy|lat=38.153|long=13.3425|label=[[Palermo]]}}
+{{location map~|Italy|lat=44.416|long=8.952|label=[[Genoa]]}}}}
+![[Florence]]
+|-
+|[[Stadio San Nicola]]
+|[[Stadio Artemio Franchi|Stadio Comunale]]
+|-
+|{{small|{{Coord|41|5|5|N|16|50|24|E|region:IT_type:landmark|display=inline|name=Stadio San Nicola}}}}
+|{{small|{{Coord|43|46|51|N|11|16|56|E|region:IT_type:landmark|display=inline|name=Stadio Artemio Franchi}}}}
+|-
+|Capacity: '''51,426'''<ref name="Cap1"/><ref name="Cap2"/>
+|Capacity: '''38,971'''<ref name="Cap1"/><ref name="Cap2"/>
+|-
+|[[File:Stadio San Nicola Bari 2009.jpg|alt=|200x200px]]
+|[[File:Soccer in Florence, Italy, 2007.jpg|200px]]
+|-
+![[Verona]]
+![[Udine]]
+|-
+|[[Stadio Marc'Antonio Bentegodi]]
+|[[Stadio Friuli]]
+|-
+|{{small|{{Coord|45|26|7|N|10|58|7|E|region:IT_type:landmark|display=inline|name=Stadio Marc'Antonio Bentegodi}}}}
+|{{small|{{Coord|46|4|54|N|13|12|0|E|region:IT_type:landmark|display=inline|name=Stadio Friuli}}}}
+|-
+|Capacity: '''35,950'''<ref name="Cap1"/><ref name="Cap2"/>
+|Capacity: '''35,713'''<ref name="Cap1"/><ref name="Cap2"/>
+|-
+|[[File:Italy - Verona - Stadio Marcantonio Bentegodi.jpg|200px]]
+|[[File:Stadio Friuli Udine 20090923.jpg|200px]]
+|-
+![[Cagliari]]
+![[Bologna]]
+![[Palermo]]
+![[Genoa]]
+|-
+|[[Stadio Sant'Elia]]
+|[[Stadio Renato Dall'Ara]]
+|[[Stadio Renzo Barbera|Stadio La Favorita]]
+|[[Stadio Luigi Ferraris]]
+|-
+|{{small|{{Coord|39|11|58|N|9|8|6|E|region:IT_type:landmark|display=inline|name=Stadio Sant'Elia}}}}
+|{{small|{{Coord|44|29|32|N|11|18|35|E|region:IT_type:landmark|display=inline|name=Stadio Renato Dall'Ara}}}}
+|{{small|{{Coord|38|9|10|N|13|20|32|E|region:IT_type:landmark|display=inline|name=Stadio Renzo Barbera}}}}
+|{{small|{{Coord|44|24|59|N|8|57|9|E|region:IT_type:landmark|display=inline|name=Stadio Luigi Ferraris}}}}
+|-
+|Capacity: '''35,238'''<ref name="Cap1"/><ref name="Cap2"/>
+|Capacity: '''34,520'''<ref name="Cap1"/><ref name="Cap2"/>
+|Capacity: '''33,288'''<ref name="Cap1"/><ref name="Cap2"/>
+|Capacity: '''31,823'''<ref name="Cap1"/><ref name="Cap2"/>
+|-
+|[[File:Stadio Sant'Elia 1970.jpg|alt=|200x200px]]
+|[[File:Stadio Dall'Ara 01-02-2020.jpg|200px]]
+|[[File:Stadio R Barbera.JPG|alt=|frameless|200x200px]]
+|[[File:Stadio Luigi Ferraris di Genova.jpg|200px]]
+|}
+
+==Squads==
+{{main|1990 FIFA World Cup squads}}
+Squads for the 1990 World Cup consisted of 22 players, as for the previous tournament in 1986. Replacement of injured players was permitted during the tournament at FIFA's discretion. Two goalkeepers – Argentina's [[Ángel Comizzo]] and England's [[Dave Beasant]] – entered their respective squads during the tournament to replace injured players ([[Nery Pumpido]] and [[David Seaman]]).
+
+==Match officials==
+41 match officials from 34 countries were assigned to the tournament to serve as referees and assistant referees. Officials in italics were only used as assistants during the tournament. Referees dressed only in traditional black jerseys for the final time at a World Cup (a red change shirt was used for two Group C games in which Scotland wore their navy blue shirts).
+
+{|class="wikitable collapsible collapsed" width="60%"
+|-
+!List of match officials
+|-
+|
+{{col-begin-small}}
+{{col-2}}
+;Africa
+*{{fbaicon|ALG}} ''[[Mohamed Hansal]]''
+*{{fbaicon|TUN|1959}} [[Neji Jouini]]
+*{{fbaicon|GAB}} ''[[Jean-Fidèle Diramba]]''
+
+;Asia
+*{{fbaicon|SYR|1980}} [[Jamal Al Sharif]]
+*{{fbaicon|BHR|1972}} ''[[Jassim Mandi]]''
+*{{fbaicon|JPN|1870}} [[Shizuo Takada]]
+
+;Europe
+*{{fbaicon|ITA|1946}} [[Luigi Agnolin]]
+*{{fbaicon|ESP}} [[Emilio Soriano Aladrén]]
+*{{fbaicon|ENG}} [[George Courtney]]
+*{{fbaicon|ITA|1946}} ''[[Pietro D'Elia]]''
+*{{fbaicon|SWE}} [[Erik Fredriksson]]
+*{{fbaicon|GDR}} [[Siegfried Kirschen]]
+*{{fbaicon|AUT}} [[Helmut Kohl (referee)|Helmut Kohl]]
+*{{fbaicon|ITA|1946}} [[Tullio Lanese]]
+*{{fbaicon|POL}} ''[[Michał Listkiewicz]]''
+*{{fbaicon|ITA|1946}} ''[[Rosario Lo Bello]]''
+*{{fbaicon|ITA|1946}} ''[[Carlo Longhi]]''
+*{{fbaicon|ITA|1946}} ''[[Pierluigi Magni]]''
+*{{fbaicon|DEN}} [[Peter Mikkelsen (referee)|Peter Mikkelsen]]
+*{{fbaicon|ITA|1946}} ''[[Pierluigi Pairetto]]''
+*{{fbaicon|YUG}} [[Zoran Petrović (referee)|Zoran Petrović]]
+*{{fbaicon|FRA|1974}} [[Joël Quiniou]]
+*{{fbaicon|SUI}} [[Kurt Röthlisberger]]
+*{{fbaicon|FRG}} [[Aron Schmidhuber]]
+*{{fbaicon|POR}} [[Carlos Silva Valente]]
+*{{fbaicon|SCO}} [[George Smith (referee)|George Smith]]
+*{{fbaicon|NIR}} [[Alan Snoddy]]
+*{{fbaicon|URS}} [[Alexey Spirin]]
+*{{fbaicon|BEL}} [[Marcel Van Langenhove (referee)|Marcel Van Langenhove]]
+*{{fbaicon|FRA|1974}} [[Michel Vautrot]]
+{{col-2}}
+;North and Central America
+*{{fbaicon|MEX}} [[Edgardo Codesal]]
+*{{fbaicon|USA}} [[Vincent Mauro]]
+*{{fbaicon|CRC}} ''[[Berny Ulloa Morera]]''
+
+;Oceania
+*{{fbaicon|AUS}} ''[[Richard Lorenc]]''
+
+;South America
+*{{fbaicon|URU}} [[Juan Daniel Cardellino]]
+*{{fbaicon|COL}} ''[[Armando Pérez Hoyos]]''
+*{{fbaicon|ECU|1900}} [[Elías Jácome]]
+*{{fbaicon|ARG|1861}} [[Juan Carlos Loustau]]
+*{{fbaicon|PAR|1988}} [[Carlos Maciel]]
+*{{fbaicon|CHI}} [[Hernán Silva]]
+*{{fbaicon|BRA|1968}} [[José Roberto Wright]]
+{{col-end}}
+|}
+
+==Draw==
+
+===Seedings===
+The six [[Seed (sports)|seeded]] teams for the 1990 tournament were announced on 7 December 1989, two days ahead of the draw. The FIFA Organising Committee also decided ahead of the draw, to allocate the six seeded teams into the first position of the six groups, in the alphabetic order of their seeding rank: first seed to Group A, second seed to Group B, etc.<ref name="Seedings">{{Cite news|url=https://www.nytimes.com/1989/12/08/sports/england-is-seeded-sixth-in-1990-world-cup-in-italy.html
+|title=England Is Seeded Sixth in 1990 World Cup in Italy|work=[[The New York Times]]|date=8 December 1989|url-status=dead|archive-url=https://web.archive.org/web/20220422075417/https://www.nytimes.com/1989/12/08/sports/england-is-seeded-sixth-in-1990-world-cup-in-italy.html|archive-date=22 April 2022}}</ref> The seeds were decided by FIFA, primarily based on the nations' [[1986 FIFA World Cup#FIFA retrospective ranking|ranked position in the 1986 World Cup]] (counting double), with the [[1982 FIFA World Cup#FIFA retrospective ranking|ranked position in the 1982 World Cup]] also considered as a secondary influence (counting normal).<ref>{{cite web|url=https://digitalhub.fifa.com/m/79d9ab359eab12f3/original/g6sxbyxsmoqdxz3firrz-pdf.pdf|title=Fact Sheet: FIFA World Cup Seeding System 1930–2010|publisher=FIFA|date=5 August 2014|url-status=live|archive-url=https://web.archive.org/web/20220322012822/https://digitalhub.fifa.com/m/79d9ab359eab12f3/original/g6sxbyxsmoqdxz3firrz-pdf.pdf|archive-date=22 March 2022}}</ref>
+
+Six of the [[1986 FIFA World Cup#FIFA retrospective ranking|final eight in 1986]] had qualified for the 1990 tournament, the missing nations being Mexico (quarter-final in 1986) and France (third place). Italy did not reach the final eight in 1986, but despite this were still seeded first in 1990 as hosts. In total, the primary seeding criteria hereby resulted in seven countries to be potentially seeded. As the tournament structure only had place for the selection of six seeded teams, this left FIFA needing to exclude one of the six teams qualifying for a seed based on the primary sporting criteria. FIFA first decided, that all qualified teams having played the 1986 semi-finals (Argentina, Germany, Belgium), should be guaranteed a seeding place behind the first seeded host nation Italy. Consequently, one of the three qualified nations who were eliminated in the 1986 quarter-finals (Brazil, England or Spain), should not be seeded based on the secondary sporting criteria – looking at their [[1982 FIFA World Cup#FIFA retrospective ranking|1982 FIFA World Cup results]].
+
+Owing to their performance in 1982, but also to their overall World Cup record, Brazil were seeded third, and not considered to drop out of the seedings. FIFA therefore had to choose if England or Spain should be granted the last seeding slot, and ultimately opted to seed England ahead of Spain.<ref name="Seedings"/>
+
+Spain had only been eliminated in their 1986 quarter-final on penalties, albeit by fourth-placed Belgium, while England had been defeated in their 1986 quarter-final after 90 minutes by eventual winners Argentina. If the only criteria had been the [[1986 FIFA World Cup#FIFA retrospective ranking|1986 ranking]], then Spain should have been seeded as #6 instead of England; a viewpoint being supported by FIFA President [[João Havelange]] as late as 29 November 1989.<ref>{{cite news |author=<!--Staff writer(s)/no by-line.--> |date=29 November 1989 |title=THE SIDELINES : World Cup Seeds Reported |url=https://www.latimes.com/archives/la-xpm-1989-11-29-sp-318-story.html |work=[[Los Angeles Times]] |location=Rome, Italy|url-status=live|archive-url=https://web.archive.org/web/20211008193539/https://www.latimes.com/archives/la-xpm-1989-11-29-sp-318-story.html|archive-date=8 October 2021}}</ref> If taking the [[1982 FIFA World Cup#FIFA retrospective ranking|1982 ranking]] into consideration, England however had performed slightly better than Spain – as they had finished ahead of them in [[1982 FIFA World Cup#Group B|Group B of the second group stage]]. If only considering the results of the [[1978 FIFA World Cup|1978 event]], it could on the other hand have been counter argued, that Spain by their group stage performance and Netherlands by their silver medal accomplishment, should have been seeded rather than [[1978 FIFA World Cup#Qualification|England and Belgium who both had failed to qualify]].
+
+Spanish officials believed the seeding was contrived to ensure England would be placed in Group F, the group to be held off the Italian mainland, in a bid to contain England's hooliganism problems.<ref name="ENGseed"/> Their coach [[Luis Suárez Miramontes|Luis Suárez]] said, "We feel we've been cheated...they wanted to seed England and to send it to Cagliari at all costs. So they invented this formula".<ref name="Seedings" /> FIFA countered that "the formula was based on the teams' respective showings during the previous two World Cups. England merited the sixth position. This is in no way a concession to English hooliganism".<ref name="Seedings" />
+
+Meanwhile, the Netherlands also had an argument, that on grounds of recent footballing form, they should be seeded, as the winners of the [[UEFA Euro 1988|1988 European Championship]], in which both [[Spain men's national football team|Spain]] and [[England national football team|England]] had been eliminated in the group stages, while [[Belgium national football team|Belgium]] (fourth in the 1986 World Cup after beating Spain, and thus seeded in 1990) had failed to even qualify. However, this argument was countered by the fact that Netherlands had themselves failed to qualify for both the 1982 and 1986 World Cups, which was considered the most important factor in the decision not to seed them.<ref>{{Cite news|url=https://www.nytimes.com/1989/11/30/sports/cup-seedings-revealed.html|title=Cup seedings revealed|work=[[The New York Times]]|date=30 November 1989|url-status=dead|archive-url=https://web.archive.org/web/20201117052949/https://www.nytimes.com/1989/11/30/sports/cup-seedings-revealed.html|archive-date=17 November 2020}}</ref>
+
+The arguments whether or not seeding positions were justified, mainly existed ahead of the draw, and rapidly fizzled out after the draw, as
+the two teams considered the most unlucky not to be seeded (Spain and Netherlands), were both drawn in groups against the two teams considered the weakest of the seeded nations (Belgium and England). After the group stage had been completed, England could be said to have justified their seeded position by winning their [[1990 FIFA World Cup#Group F|Group F]] ahead of Ireland and Netherlands; while Spain seemed to have made their own point about being worth a seeded position, by defeating Belgium to top their own [[1990 FIFA World Cup#Group E|Group E]].
+
+{| class="wikitable"
+|-
+!Top Seeded teams<ref name="Seedings"/><br /><small>{{nowrap|(hosts and top 6-ranked from [[1982 FIFA World Cup#FIFA retrospective ranking|1982]] & [[1986 FIFA World Cup#FIFA retrospective ranking|1986]])}}</small>
+!Pot 1<ref name="Pots">{{Cite news |title=The Times guide to the draw for the World Cup finals |page=51 |newspaper=The Times |location=London |date=9 December 1989 }}</ref><br />Africa, Asia & North America<br /><small>([[1990 FIFA World Cup qualification (CAF)|CAF]], [[1990 FIFA World Cup qualification (AFC)|AFC]] & [[1990 FIFA World Cup qualification (CONCACAF)|CONCACAF]])</small>
+!Pot 2<ref name="Pots"/><br />South America & Europe II<br /><small>([[1990 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] & [[1990 FIFA World Cup qualification (UEFA)|UEFA]])</small>
+!Pot 3<ref name="Pots"/><br />Best unseeded from Europe<br /><small>([[1990 FIFA World Cup qualification (UEFA)|UEFA]])</small>
+|-
+|
+{{fb|ITA|1946}} <small>(hosts, A1) (1st)</small><br />
+{{fb|ARG|1861}} <small>(holders, B1) (2nd)</small><br />
+{{fb|BRA|1968}} <small>(C1) (3rd)</small><br />
+{{fb|FRG}} <small>(D1) (4th)</small><br />
+{{fb|BEL}} <small>(E1) (5th)</small><br />
+{{fb|ENG}} <small>(F1) (6th)</small>
+|valign="top"|
+{{fb|CMR}}<br />
+{{fb|CRC}}<br />
+{{fb|EGY}}<br />
+{{fb|KOR|1984}}<br />
+{{fb|UAE}}<br />
+{{fb|USA}}
+|
+{{fb|COL}}<br />
+{{fb|TCH}}<br />
+{{fb|IRL}}<br />
+{{fb|ROU}}<br />
+{{fb|SWE}}<br />
+{{fb|URU}}
+|
+{{fb|AUT}}<br />
+{{fb|NED}}<br />
+{{fb|SCO}}<br />
+{{fb|ESP}}<br />
+{{fb|URS}}<br />
+{{fb|YUG}}
+|}
+
+===Final draw===
+[[File:Mascotte di italia 90.JPG|thumb|right|''Ciao'', a [[stick figure]] in the colours of the [[flag of Italy|Italy ''Tricolore'']], was the [[FIFA World Cup mascots|mascot]] for the 1990 FIFA World Cup.]]
+
+On 9 December 1989, the draw was conducted at the [[PalaLottomatica|Palazzo dello Sport]] in Rome,<ref>{{cite web |last=Bailey |first=Ryan |url=https://bleacherreport.com/articles/1861721-charlize-theron-heidi-klum-and-celebrity-stars-of-world-cup-draws-past |title=Charlize Theron, Heidi Klum and Celebrity Stars of World Cup Draws Past |publisher=Bleacher Report |date=25 November 2013 |access-date=26 June 2026 |archive-date=26 June 2026 |archive-url=https://web.archive.org/web/20260626102342/https://bleacherreport.com/articles/1861721-charlize-theron-heidi-klum-and-celebrity-stars-of-world-cup-draws-past |url-status=live }}</ref> where the teams were drawn out from the three pots to be placed with the seeded teams in their predetermined groups, in alphabetic order. A special draw decided teams should first be drawn from Pot 1, then from Pot 3, and finally from Pot 2. Each drawn team also had their group position number drawn from a separate group bowl, in order to decide their exact match schedule. The only stipulation of the draw was that no group could feature two South American teams. Hence, a special rule was set up that:<ref name="Pots"/><ref name="Draw part1">{{cite AV media |url=https://www.youtube.com/watch?v=UTnyBu6A9ZU|title=1990 World Cup Draw A|date=9 December 1989|access-date=21 August 2017|publisher=[[RTÉ News: Six One]]|via=YouTube|medium=video|url-status=live|archive-url=https://web.archive.org/web/20220623180606/https://www.youtube.com/watch?v=UTnyBu6A9ZU&gl=US&hl=en|archive-date=23 June 2022}}</ref><ref name="Draw part2">{{cite AV media |url=https://www.youtube.com/watch?v=yAH11L8QXj4|title=1990 World Cup Draw B|date=9 December 1989|access-date=21 August 2017|publisher=[[RTÉ News: Six One]]|via=YouTube|medium=video|url-status=live|archive-url=https://web.archive.org/web/20220623180607/https://www.youtube.com/watch?v=yAH11L8QXj4|archive-date=23 June 2022}}</ref>
+* '''Pot 2 rule (final version):''' ''If the two South American teams (Colombia and Uruguay) are drawn as the second/third team from Pot 2, then they will not go into group B/C – as those two groups are led by the two seeded South American teams (Argentina and Brazil); but instead they will be placed in the next open group in the alphabet led by a seeded European team (Group D/E).''<ref name="Pots"/><ref name="Draw part1"/><ref name="Draw part2"/>
+
+The procedure for the draw, was presented by FIFA at a press meeting the day before the draw. However, after having received objections from Italian officials, FIFA opted to slightly change their special Pot 2 rule, during the last 24 hours ahead of the draw. Before this rule was changed into the final wording given in the paragraph above, it had been intended to say:<ref name="Pot2rule">{{cite web|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1989/12/10/fara-caldo-sulle-isole.html|title=Fara' caldo sulle isole [It will get hot on the islands]|language=Italian|publisher=La Repubblica|date=10 December 1989|url-status=live|archive-url=https://web.archive.org/web/20220408142052/https://ricerca.repubblica.it/repubblica/archivio/repubblica/1989/12/10/fara-caldo-sulle-isole.html|archive-date=8 April 2022}}</ref> 
+* '''Pot 2 rule (dropped initial version):''' ''First two drawn European teams from Pot 2 shall, irrespectively of the alphabet order for the open groups, first be drawn into the two groups led by a seeded South American team (Argentina's Group B and Brazil's Group C); while the two drawn South American teams (Colombia and Uruguay) can not join Group B+C and shall instead be drawn into the first still open group being led by a seeded European team.''<ref name="Pot2rule"/>
+This dropped initial wording, would have increased the risk for Italy in Group A to draw one of the difficult two South American teams, instead of one of the easier European teams from Pot 2; because for Italy to get paired with a European Pot 2 team it would have required the less likely event that all three first drawn teams from Pot 2 should be European. When FIFA accepted to change the Pot 2 rule into the final version presented at the televised draw, this lowered the chance for the Italian Group A to draw a South American Pot 2 team, from the 80% chance created by the initial wording to only a 33% chance (two out of six teams).<ref name="Pot2rule"/>
+
+The ceremony was hosted by Italian television presenter [[Pippo Baudo]], with Italian actress [[Sophia Loren]] and opera singer [[Luciano Pavarotti]] conducting the draw alongside FIFA general secretary [[Sepp Blatter]].<ref name="ENGseed"/> The draw show was FIFA's most ambitious yet with the appearances of [[Pelé]], [[Bobby Moore]], [[Karl-Heinz Rummenigge]], [[Daniel Passarella]], [[Rubén Sosa]] and [[Bruno Conti]] as well as a performance of the Italian version of the [[FIFA World Cup official songs|tournament's official song]] "To Be Number One" by Giorgio Moroder, performed as "[[Un'estate italiana]]" by [[Edoardo Bennato]] and [[Gianna Nannini]].<ref>{{cite web |title=The FIFA World Cup Final Draw history |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-draw-history.pdf |archive-url=https://web.archive.org/web/20100601111831/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/68/fs-201_10e_fwc-draw-history.pdf |url-status=dead |archive-date=1 June 2010 |publisher=FIFA |access-date=11 August 2010 }}</ref>
+
+The event also featured the [[FIFA World Cup mascots|official mascot]] of this World Cup, ''Ciao'', a [[stick figure]] player with a football head and an [[flag of Italy|Italian tricolour body]] that formed the word "ITALIA" when deconstructed and reconstructed.<ref>{{cite web |title=Mascots |url=https://www.fifa.com/about-fifa/marketing/brand/mascots.html |archive-url=https://web.archive.org/web/20150601012827/http://www.fifa.com/about-fifa/marketing/brand/mascots.html |url-status=dead |archive-date=1 June 2015 |publisher=FIFA |access-date=24 April 2015 }}</ref> Its name is a greeting in Italian.
+
+===Results of the draw===
+{| class="wikitable" style=white-space:nowrap
+|-
+![[#Group A|Group A]]<ref name="Draw part1"/><ref name="Draw part2"/>
+![[#Group B|Group B]]<ref name="Draw part1"/><ref name="Draw part2"/>
+![[#Group C|Group C]]<ref name="Draw part1"/><ref name="Draw part2"/>
+![[#Group D|Group D]]<ref name="Draw part1"/><ref name="Draw part2"/>
+![[#Group E|Group E]]<ref name="Draw part1"/><ref name="Draw part2"/>
+![[#Group F|Group F]]<ref name="Draw part1"/><ref name="Draw part2"/>
+|-
+| valign="top"|
+1. {{fb|ITA|1946}}<br />
+2. {{fb|AUT}}<br />
+3. {{fb|USA}}<br />
+4. {{fb|TCH}}
+| valign="top"|
+1. {{fb|ARG|1861}}<br />
+2. {{fb|CMR}}<br />
+3. {{fb|URS}}<br />
+4. {{fb|ROU}}
+| valign="top"|
+1. {{fb|BRA|1968}}<br />
+2. {{fb|SWE}}<br />
+3. {{fb|CRC}}<br />
+4. {{fb|SCO}}
+| valign="top"|
+1. {{fb|FRG}}<br /> 
+2. {{fb|YUG}}<br />
+3. {{fb|UAE}}<br />
+4. {{fb|COL}}
+| valign="top"|
+1. {{fb|BEL}}<br />
+2. {{fb|KOR|1984}}<br />
+3. {{fb|URU}}<br />
+4. {{fb|ESP}}
+| valign="top"|
+1. {{fb|ENG}}<br />
+2. {{fb|IRL|name=Ireland}}<br />
+3. {{fb|NED}}<br />
+4. {{fb|EGY}}
+|}
+In each group, the teams would play three matches, one against each of the other teams. Victories would be granted 2 points, while a draw awarded 1 point. After completion of the group stage, the best two teams of each group as well as the [[#Ranking of third-placed teams|four best ranked third places]], advanced to round 16 in the [[#Knockout stage|knockout stage]]. This format was identical with the tournament structure being used in [[1986 FIFA World Cup|1986]]. A total of 52 games would be played, including the final and a match for third place between the two semi-final losers.
+
+==Summary of tournament==
+===Negative tactics===
+The tournament generated a record low goals-per-game average and a then-record of 16 red cards were handed out.<ref name="Record"/> In the knockout stage, many teams played defensively for 120 minutes, with the intention of trying their luck in the penalty shoot-out, rather than risk going forward.{{citation needed|date=September 2025}} Two exceptions were the eventual champions West Germany and hosts Italy, the only teams to win three of their four knockout matches in normal time. There were four penalty shoot-outs, 
+a record equalled with the [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], and [[2018 FIFA World Cup|2018]] tournaments, until it was surpassed by the [[2022 FIFA World Cup|2022]] tournament, with five.<ref>{{Cite news|url=https://www.nbcdfw.com/news/sports/world-cup-2022/tracking-every-penalty-shootout-from-the-2022-world-cup/3145315|title=Tracking every penalty shootout from the 2022 World Cup|access-date=5 January 2023|archive-date=5 January 2023|archive-url=https://web.archive.org/web/20230105161302/https://www.nbcdfw.com/news/sports/world-cup-2022/tracking-every-penalty-shootout-from-the-2022-world-cup/3145315/|url-status=live}}</ref> Eight matches went to extra time, also a record tied with the 2014 tournament.
+
+Losing finalists Argentina were prime examples of this trend of cautious defensive play, choosing to do so because 3 of their best players were left off the squad due to injury. They scored only five goals in the entire tournament (a record low for a finalist). Argentina also became the first team to advance twice on penalty shoot-outs and the first team to fail to score and have a player sent off in a World Cup final.<ref name="Italy 1990"/>
+
+Largely as a result of this trend [[International Football Association Board|IFAB]] introduced the [[back-pass rule]] in time for the [[1994 FIFA World Cup|1994 tournament]] to make it harder for teams to time-waste by repeatedly passing the ball back for their goalkeepers to pick up. [[Three points for a win|Three, rather than two points]] would be awarded for victories at future tournaments to help further encourage attacking play.
+
+===Emergence of Cameroon===
+[[Cameroon national football team|Cameroon]] reached the quarter-finals, where they were narrowly defeated by England.<ref name="Italy 1990"/> They opened the tournament with a shock victory over reigning champions Argentina, before topping the group ahead of them, [[Romania national football team|Romania]] and [[UEFA Euro 1988|European Championship]] runners-up the [[Soviet Union national football team|Soviet Union]]. Their success was fired by the goals of [[Roger Milla]], a 38-year-old forward who came out of international retirement to join the national squad at the last moment after a personal request from Cameroonian President [[Paul Biya]]. Milla's four goals and flamboyant goal celebrations made him one of the tournament's biggest stars as well as taking Cameroon to the last eight.<ref name="Italy 1990"/> Most of Cameroon's squad was made up of players who played in France's premier football league, [[Ligue 1]] – French is one of the officially spoken languages in Cameroon, it being a former French territory. In reaching this stage, they had gone further than any African nation had managed in a World Cup before; a feat not surpassed until [[Morocco national football team|Morocco]] reached the semi-final in [[2022 FIFA World Cup|2022]]. Cameroon's feat (equalled by [[Senegal national football team|Senegal]] in [[2002 FIFA World Cup|2002]] and [[Ghana national football team|Ghana]] in [[2010 FIFA World Cup|2010]]) remains the best by a Sub-Saharan African team. Their success was African football's biggest yet on the world stage and FIFA subsequently decided to allocate the [[Confederation of African Football|CAF qualifying zone]] an additional place for the next World Cup tournament.
+
+===All-champion final four===
+Despite the performances of nations such as Cameroon, Colombia, Ireland, Romania and Costa Rica, the semi-finalists consisted of Argentina, England, Italy and West Germany, all previous World Cup winners, with eight previous titles between them. After the [[1970 FIFA World Cup|1970 tournament]], this is only the second time in the history of the World Cup this has occurred. The teams which finished first, second and third had also contested both the two previous World Cup Finals between themselves.
+
+==Group stage==
+''All times are [[Central European Summer Time]] ([[UTC+02:00|UTC+2]])''[[File:1990 world cup.png|center|thumb|780px|{{col-begin}} {{col-4}} {{legend|#2b42a3|Champion}} {{legend|#34c0be|Runner-up}} {{col-4}} {{legend|#269c5a|Third place}} {{legend|#81c846|Fourth place}} {{col-4}} {{legend|#e4e454|Quarter-finals}} {{legend|#f4d4ac|Round of 16}} {{col-4}} {{legend|#b94954|Group stage}} {{col-end}}]] <!-- Note: background colour style shown here for later use, when colour codes used in map determined: <span style="background-color:yellow">text here</span>--->
+
+In the following tables:
+*'''Pld''' = total games played
+*'''W''' = total games won
+*'''D''' = total games drawn (tied)
+*'''L''' = total games lost
+*'''GF''' = total goals scored (goals for)
+*'''GA''' = total goals conceded (goals against)
+*'''GD''' = goal difference (GF−GA)
+*'''Pts''' = total points accumulated
+
+The Group stage saw the twenty-four teams divided into six groups of four teams. Each group was a [[Round-robin tournament|round-robin]] of six games, in which each team played one match against each of the other teams in the same group. Teams were awarded two points for a win, one point for a draw and none for a defeat. The teams coming first and second in each group qualified for the Round of 16. The four best third-placed teams would also advance to the next stage.
+
+As was typical of a World Cup staged in Europe, the matches all started at either 5:00 or 9:00 in the evening; this allowed for the games to avoid being played in the heat of an Italian summer, which would soar past 86F (30C) all over Italy.
+
+If teams finished level on points, they were to be ranked on the following criteria in order:
+{{Clear}}
+{{blockquote|
+# Greatest total goal difference in the three group matches
+# Greatest number of goals scored in the three group matches
+# Most points earned in matches against other teams in the tie
+# Greatest goal difference in matches against other teams in the tie
+# Greatest number of goals scored in matches against other teams in the tie
+# Drawing of lots
+}}
+
+=== Group A ===
+{{main|1990 FIFA World Cup Group A}}
+Hosts [[Italy national football team|Italy]] won Group A with a 100 percent record. They beat [[Austria national football team|Austria]] 1–0 thanks to substitute [[Salvatore Schillaci|Salvatore 'Totò' Schillaci]], who had played only one international before but would become a star during the tournament. A second 1–0 victory followed against a [[United States men's national soccer team|United States team]] already thumped 5–1 by [[Czechoslovakia national football team|Czechoslovakia]]. The Czechoslovaks ended runners-up in the group, while the USA's first appearance in a World Cup Finals since [[1950 FIFA World Cup|1950]] ended with three consecutive defeats.
+{{:1990 FIFA World Cup Group A|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1990 FIFA World Cup Group A|transcludesection=A1}}
+{{:1990 FIFA World Cup Group A|transcludesection=A2}}
+----
+{{:1990 FIFA World Cup Group A|transcludesection=A3}}
+{{:1990 FIFA World Cup Group A|transcludesection=A4}}
+----
+{{:1990 FIFA World Cup Group A|transcludesection=A5}}
+{{:1990 FIFA World Cup Group A|transcludesection=A6}}
+
+=== Group B ===
+{{main|1990 FIFA World Cup Group B}}
+[[Cameroon national football team|Cameroon]] defeated world champions [[Argentina national football team|Argentina]] 1–0. Despite ending the match with only nine men, the African team held on for a shock 1–0 win, with contrasting fortunes for the Biyik brothers: [[François Omam-Biyik]] scoring the winning goal with a downward header, shortly after seeing [[André Kana-Biyik]] sent off for a serious foul. Cameroon's second red card was awarded to [[Benjamin Massing]] for up-ending Caniggia in the last few minutes as Argentina pressed for an equalizer.<ref>{{cite web |url=https://www.theguardian.com/sport/2020/mar/29/my-favourite-game-argentina-v-cameroon-1990-world-cup |title=My favourite game: Argentina v Cameroon, 1990 World Cup |date=19 March 2020 |work=The Guardian |access-date=17 June 2025}}</ref>
+In Cameroon's second game, the introduction of [[Roger Milla]] was the catalyst for a 2–1 win over [[Romania national football team|Romania]], Milla scoring twice from the bench (making him the oldest goalscorer in the tournament). With progression assured, Cameroon slumped to a 4–0 defeat in their final group game to the [[USSR national football team|Soviet Union]] (in what would be their last World Cup due to the [[dissolution of the Soviet Union]]), who were striving to stay in the tournament on goal difference after successive 2–0 defeats. Argentina lost their veteran goalkeeper, [[Nery Pumpido]], to a broken leg during their victory over the USSR: his replacement, [[Sergio Goycochea]], proved to be one of the stars of their tournament. In the final match, a 1–1 draw between Romania and Argentina sent both through, equal on points and on goal difference but with Romania having the advantage on goals scored; Romania were thus second, and Argentina qualified as one of the best third-placed teams.
+{{:1990 FIFA World Cup Group B|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1990 FIFA World Cup Group B|transcludesection=B1}}
+{{:1990 FIFA World Cup Group B|transcludesection=B2}}
+----
+{{:1990 FIFA World Cup Group B|transcludesection=B3}}
+{{:1990 FIFA World Cup Group B|transcludesection=B4}}
+----
+{{:1990 FIFA World Cup Group B|transcludesection=B5}}
+{{:1990 FIFA World Cup Group B|transcludesection=B6}}
+
+=== Group C ===
+{{main|1990 FIFA World Cup Group C}}
+[[Costa Rica national football team|Costa Rica]] beat [[Scotland national football team|Scotland]] 1–0 in their first match, lost 1–0 to [[Brazil national football team|Brazil]] in their second, then saw off [[Sweden men's national football team|Sweden]] 2–1 to claim a place in the second round. Brazil took maximum points from the group. They began with a 2–1 win over Sweden, then beat both Costa Rica and Scotland 1–0. Scotland's 2–1 win over Sweden was not enough to save them from an early return home as one of the two lowest-ranked third-placed teams.
+{{:1990 FIFA World Cup Group C|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1990 FIFA World Cup Group C|transcludesection=C1}}
+{{:1990 FIFA World Cup Group C|transcludesection=C2}}
+----
+{{:1990 FIFA World Cup Group C|transcludesection=C3}}
+{{:1990 FIFA World Cup Group C|transcludesection=C4}}
+----
+{{:1990 FIFA World Cup Group C|transcludesection=C5}}
+{{:1990 FIFA World Cup Group C|transcludesection=C6}}
+
+=== Group D ===
+{{main|1990 FIFA World Cup Group D}}
+Group D featured the most goals of all the groups, most due to two large wins of [[Germany national football team|West Germany]] and defensive inadequacies of a [[United Arab Emirates national football team|United Arab Emirates]] team that lost 2–0 to [[Colombia national football team|Colombia]], 5–1 to West Germany and 4–1 to [[Yugoslavia national football team|Yugoslavia]]. The West Germans topped the group after a 4–1 opening victory over group runners-up Yugoslavia.
+{{:1990 FIFA World Cup Group D|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1990 FIFA World Cup Group D|transcludesection=D1}}
+{{:1990 FIFA World Cup Group D|transcludesection=D2}}
+----
+{{:1990 FIFA World Cup Group D|transcludesection=D3}}
+{{:1990 FIFA World Cup Group D|transcludesection=D4}}
+----
+{{:1990 FIFA World Cup Group D|transcludesection=D5}}
+{{:1990 FIFA World Cup Group D|transcludesection=D6}}
+
+=== Group E ===
+{{main|1990 FIFA World Cup Group E}}
+The winners of Group E were [[Spain men's national football team|Spain]], for whom [[Míchel (footballer, born 1963)|Míchel]] hit a [[List of FIFA World Cup hat-tricks|hat-trick]] as they beat [[South Korea national football team|South Korea]] 3–1 in an unbeaten group campaign. [[Belgium national football team|Belgium]] won their first two games against South Korea and [[Uruguay national football team|Uruguay]] to ensure their progress; Uruguay's advance to the second round came with an injury-time winner against South Korea to edge them through as the weakest of the third-placed sides to remain in the tournament.
+{{:1990 FIFA World Cup Group E|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1990 FIFA World Cup Group E|transcludesection=E1}}
+{{:1990 FIFA World Cup Group E|transcludesection=E2}}
+----
+{{:1990 FIFA World Cup Group E|transcludesection=E3}}
+{{:1990 FIFA World Cup Group E|transcludesection=E4}}
+----
+{{:1990 FIFA World Cup Group E|transcludesection=E5}}
+{{:1990 FIFA World Cup Group E|transcludesection=E6}}
+
+=== Group F ===
+{{main|1990 FIFA World Cup Group F}}
+Group F featured [[Netherlands national football team|the Netherlands]], [[England national football team|England]], the [[Republic of Ireland national football team|Republic of Ireland]] and [[Egypt national football team|Egypt]]. In the six group games, no team managed to score more than once in a match. England beat Egypt 1–0—the only match with a decisive result—and that was enough to win the group. England took the lead with an early goal for Lineker against Ireland, but Sheedy's late equaliser secured a draw. The Netherlands drew with Egypt: they had taken a 1–0 lead, but Egypt equalised with a penalty by Abdelghani. England then drew 0–0 with the Netherlands; a goal from a free-kick by Pearce was disallowed, Pearce having failed to register that it was an ''indirect'' free kick, and scoring directly. Lineker also had a goal disallowed for offside. For the second World Cup in succession, however, England lost their captain Bryan Robson to an injury which put him out of the tournament, just over halfway through their second match: he was replaced by David Platt in the side, and by Shilton as captain. Ireland missed a number of scoring opportunities in the second half of the other 0–0 draw against Egypt.<ref>{{cite web |title=Ireland and Egypt Play 0–0 Tie |url=https://www.nytimes.com/1990/06/18/sports/ireland-and-egypt-play-0-0-tie.html |url-status=live |url-access=subscription |work=The New York Times |agency=Associated Press |date=18 June 1990 |access-date=28 June 2021 |archive-url=https://web.archive.org/web/20201117060232/https://www.nytimes.com/1990/06/18/sports/ireland-and-egypt-play-0-0-tie.html |archive-date=17 November 2020}}</ref> After the first four matches all four teams had equal records with two draws, one goal for and one goal against. England's victory over Egypt, thanks to a 58th-minute goal from [[Mark Wright (footballer, born 1963)|Mark Wright]], put them top of the group: in the other match, Gullit gave the Netherlands the lead against Ireland, but Niall Quinn scored a second-half equaliser and the two teams finished in second and third, still with identical records. Both teams qualified, but they had to draw lots to place the teams in second and third place.
+{{:1990 FIFA World Cup Group F|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1990 FIFA World Cup Group F|transcludesection=F1}}
+{{:1990 FIFA World Cup Group F|transcludesection=F2}}
+----
+{{:1990 FIFA World Cup Group F|transcludesection=F3}}
+{{:1990 FIFA World Cup Group F|transcludesection=F4}}
+----
+{{:1990 FIFA World Cup Group F|transcludesection=F5}}
+{{:1990 FIFA World Cup Group F|transcludesection=F6}}
+
+=== Ranking of third-placed teams ===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=3rd place
+|teamwidth=180
+|update=complete 
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Drawing of lots.<ref>{{cite news |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0005114/19900613/418/0050 |title=Eyes down for numbers game |newspaper=[[Northamptonshire Evening Telegraph]] |date=13 June 1990 |access-date=15 May 2026 |url-access=limited |quote=There is a second formula to decide which of the third-placed teams advance: a) number of points, b) goal difference, c) number of goals scored, d) drawing of lots.}}</ref>
+|winpoints=2
+|source=[https://web.archive.org/web/20150407140015/http://www.fifa.com/worldcup/archive/italy1990/groups/index.html FIFA]
+
+|team1=GrB |team2=GrD |team3=GrF |team4=GrE |team5=GrA |team6=GrC
+|result1=KO |result2=KO |result3=KO |result4=KO
+
+|win_GrA=1 |draw_GrA=0 |loss_GrA=2 |gf_GrA=2 |ga_GrA=3
+|win_GrB=1 |draw_GrB=1 |loss_GrB=1 |gf_GrB=3 |ga_GrB=2
+|win_GrC=1 |draw_GrC=0 |loss_GrC=2 |gf_GrC=2 |ga_GrC=3
+|win_GrD=1 |draw_GrD=1 |loss_GrD=1 |gf_GrD=3 |ga_GrD=2
+|win_GrE=1 |draw_GrE=1 |loss_GrE=1 |gf_GrE=2 |ga_GrE=3
+|win_GrF=0 |draw_GrF=3 |loss_GrF=0 |gf_GrF=2 |ga_GrF=2
+
+|name_GrA={{fb|AUT}}
+|name_GrB={{fb|ARG|1861}}
+|name_GrC={{fb|SCO|1984}}
+|name_GrD={{fb|COL}}
+|name_GrE={{fb|URU}}
+|name_GrF={{fb|NED}}
+|show_groups=T
+|group_GrA=[[1990 FIFA World Cup Group A|A]]
+|group_GrB=[[1990 FIFA World Cup Group B|B]]
+|group_GrC=[[1990 FIFA World Cup Group C|C]]
+|group_GrD=[[1990 FIFA World Cup Group D|D]]
+|group_GrE=[[1990 FIFA World Cup Group E|E]]
+|group_GrF=[[1990 FIFA World Cup Group F|F]]
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1990 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Knockout stage==
+{{main|1990 FIFA World Cup knockout stage}}
+The [[single-elimination tournament|knockout stage]] involved the 16 teams that qualified from the group stage of the tournament. There were four rounds of matches, with each round eliminating half of the teams entering that round. The successive rounds were: round of 16, quarter-finals, semi-finals and the final. There was also a match for third place. For each game in the knockout stage, any tied score at 90 minutes was followed by 30 minutes of [[Overtime (association football)|extra time]]; if scores were still level there would be a [[Penalty shoot-out (association football)|penalty shoot-out]] (five penalties each, if neither team already had a decisive advantage, and more if necessary) to determine who progressed to the next round. Scores after extra time are indicated by (a.e.t.) and penalty shoot-outs are indicated by (pen.).
+
+===Bracket===
+{{#lst:1990 FIFA World Cup knockout stage|Bracket}}
+
+''All times listed are local ([[UTC+02|UTC+2]])''
+
+=== Round of 16 ===
+Two of the ties—Brazil vs Argentina and Italy vs Uruguay—pitted former champion countries against each other and West Germany met the Netherlands in a rematch of the [[1974 FIFA World Cup Final|1974 World Cup Final]]. The all-South American game was won for Argentina by a goal from [[Claudio Caniggia]] with 10 minutes remaining after a run through the Brazilian defence by [[Diego Maradona]] and a strong performance from their goalkeeper [[Sergio Goycochea]]. It would later come to light that [[Branco (footballer)|Branco]] had been offered water spiked with tranquillisers by Maradona and [[Ricardo Giusti]] during half time, to slow him down in the second half. Initially discredited by the press, Branco would be publicly proven right years later, when Maradona confessed the episode on a TV show in Argentina.<ref>{{cite web |title=Como Maradona "envenenou" Branco na Copa de 90 |url=https://copadomundo.uol.com.br/infograficos/2014/como-maradona-envenenou-branco-em-90/ |access-date=6 May 2014 |publisher=UOL |archive-date=6 May 2014 |archive-url=https://web.archive.org/web/20140506204026/http://copadomundo.uol.com.br/infograficos/2014/como-maradona-envenenou-branco-em-90/ |url-status=live }}</ref> Hosts Italy beat Uruguay 2–0, thanks to goals from Schillaci and [[Aldo Serena]].
+
+The match between West Germany and the Netherlands was held in Milan, and both sides featured players from the two Milanese clubs (Germans [[Andreas Brehme]], [[Lothar Matthäus]] and [[Jürgen Klinsmann]] for [[F.C. Internazionale Milano|Internazionale]], and Dutchmen [[Marco van Basten]], [[Ruud Gullit]] and [[Frank Rijkaard]] for [[A.C. Milan|Milan]]). After 22 minutes [[Rudi Völler]] and Rijkaard were both dismissed after a number of incidents between the two players, including Rijkaard spitting on Völler. As the players walked off the pitch together, Rijkaard spat on Völler a second time. Early in the second half, Jürgen Klinsmann put the West Germans ahead and Andreas Brehme added a second with eight minutes left. A [[Ronald Koeman]] penalty for the Netherlands in the 89th minute narrowed the score to 2–1 but the Germans saw the game out to gain some revenge for their [[UEFA Euro 1988#Semi-finals|exit to the Dutch in the previous European Championship]].
+
+Meanwhile, in Cameroon v. Colombia, Roger Milla was introduced as a second-half substitute with the game goalless, eventually breaking the deadlock midway in extra time. Three minutes later he netted a second after Colombian goalkeeper, [[René Higuita]] was dispossessed by Milla while well out of his goal, leaving the striker free to slot the ball into the empty net. Though the deficit was soon reduced to 2–1, Cameroon held on to become the first African team to reach the World Cup quarter-finals. Costa Rica were beaten 4–1 by Czechoslovakia, for whom [[Tomáš Skuhravý]] scored the tournament's second and final [[hat-trick]].
+
+The Republic of Ireland's match with Romania remained goalless after extra time and the Irish side won 5–4 on penalties. [[David O'Leary]] converted the penalty that clinched Ireland's place in the quarter-finals. Ireland thus became the first team since Sweden in [[1938 FIFA World Cup|1938]] to reach the last eight in a World Cup finals tournament without winning a match outright. Yugoslavia beat Spain 2–1 after extra time, with [[Dragan Stojković]] scoring both the Yugoslavs' goals. England were the final qualifier against Belgium, as midfielder [[David Platt (footballer)|David Platt]]'s swivelling volley broke the stalemate with the game moments away from a penalty shoot-out.
+
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 1}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 2}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 3}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 4}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 5}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 6}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 7}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|R of 16 8}}
+
+=== Quarter-finals ===
+The first game of the last 8 saw Argentina and a Yugoslav side, reduced to 10 men after only half an hour, play out a goalless stalemate. The holders reached the semi-finals after winning the penalty shoot-out 3–2, despite Maradona having his penalty saved. A second Argentine miss (by [[Pedro Troglio]]) looked to have eliminated them until goalkeeper [[Sergio Goycochea]] – playing because first choice [[Nery Pumpido]] broke his leg during the group stage – rescued his side by stopping the Yugoslavs' final two spotkicks.
+
+The Republic of Ireland's World Cup run was brought to an end by a single goal from Schillaci in the first half of their quarter-final with hosts Italy, thus becoming the team who advanced the furthest in a World Cup without winning a single  match. West Germany beat Czechoslovakia with a 25th minute [[Lothar Matthäus]] penalty.
+
+The quarter-final between England and Cameroon was the only quarter-final to produce more than one goal. Despite Cameroon's heroics earlier in the tournament, [[David Platt (footballer)|David Platt]] put England ahead in the 25th minute. At half-time, Milla was brought on. In the second half, the game was turned on its head during a five-minute stretch: first Cameroon were awarded a penalty from which [[Emmanuel Kunde]] scored the equaliser; then in the 65th minute [[Eugene Ekeke]] put Cameroon ahead. Cameroon came within eight minutes of reaching the semi-finals before they conceded a penalty, which Gary Lineker converted. Midway through extra time, England were awarded another penalty and Lineker again scored from the spot. England were through to the semi-finals for the first time since 1966.
+
+{{#lst:1990 FIFA World Cup knockout stage|QF1}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|QF2}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|QF3}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|QF4}}
+
+=== Semi-finals ===
+The first semi-final featured the host nation, Italy, and the world champions, Argentina in Naples. 'Toto' Schillaci scored yet again to put Italy ahead in the 17th minute, but Claudio Caniggia equalised midway through the second half, breaking [[Walter Zenga]]'s [[Shutout|clean sheet]] streak throughout the tournament. There were no more goals in the 90 minutes or in extra time despite Maradona (who played for Naples in Serie A at the time) showing glimpses of magic, but there was a sending-off: [[Ricardo Giusti]] of Argentina was shown the red card in the 13th minute of extra time. Argentina went through on penalties, winning the shoot-out 4–3 after more heroics from Goycochea.
+
+The semi-final between West Germany and England at [[Juventus FC|Juventus]]' home stadium in Turin was goalless at half-time. Then, in the 60th minute, a free-kick tapped to Andreas Brehme resulted in a shot which was deflected off [[Paul Parker (footballer)|Paul Parker]] into his own net. England equalised with ten minutes left; Gary Lineker was the scorer, Parker somewhat redeeming himself by providing the assist. The game ended 1–1. Extra time yielded more chances. Klinsmann was guilty of two glaring misses and both sides struck a post. England had another Platt goal disallowed for offside. The match went to penalties, and West Germany went on to win the shoot-out 4–3, Pearce having his penalty saved and Waddle firing over the bar.<ref>{{cite web|url=https://www.theguardian.com/football/2014/mar/27/retro-mbm-england-v-west-germany-sort-of-live|title=England v West Germany at Italia '90 – as it happened|date=27 March 2014|work=Guardian|access-date=30 May 2014|archive-date=2 April 2019|archive-url=https://web.archive.org/web/20190402221240/https://www.theguardian.com/football/2014/mar/27/retro-mbm-england-v-west-germany-sort-of-live|url-status=live}}</ref>	
+
+The two matches had the exact same score at 1–1, an identical penalty shoot-out score at 4–3, and the same order of penalties scored.
+
+{{#lst:1990 FIFA World Cup knockout stage|SF1}}
+----
+{{#lst:1990 FIFA World Cup knockout stage|SF2}}
+
+=== Match for third place ===
+The game saw three goals in a 15-minute spell near the end of the match. [[Roberto Baggio]] opened the scoring after a mistake by England's goalkeeper Peter Shilton, in his final game before international retirement, presented a simple opportunity. A header by [[David Platt (footballer)|David Platt]] levelled the game 10 minutes later but [[Salvatore Schillaci|Schillaci]] was fouled in the penalty area five minutes later, leading to a penalty. Schillaci himself got up to convert the kick to win him the tournament's [[World Cup Golden Boot|Golden Boot]] for his six-goal tally. [[Nicola Berti]] had a goal ruled out minutes later, but the hosts claimed third place. England had the consolation prize of the Fair Play award, having received no red cards and the lowest average number of yellows per match.
+{{#lst:1990 FIFA World Cup knockout stage|Third}}
+
+=== Final ===
+{{Main|1990 FIFA World Cup final}}
+
+The final between West Germany and Argentina has been cited as one of the lowest-quality World Cup finals.<ref name="Italy 1990"/><ref name="World Cup 1990"/><ref>{{Cite book|last=Glanville|first=Brian|title=The Story of the World Cup|page=303|publisher=Faber|year=2005|isbn=0-571-22944-1}}</ref><ref>{{Cite news|url=https://www.nytimes.com/1990/07/09/sports/sports-of-the-times-winning-ugly-losing-ugly-just-plain-ugly.html|title=Winning Ugly, Losing Ugly, Just Plain Ugly|work=The New York Times|date=9 July 1990|first=George|last=Vecsey|access-date=11 August 2010|archive-date=5 May 2019|archive-url=https://web.archive.org/web/20190505022949/https://www.nytimes.com/1990/07/09/sports/sports-of-the-times-winning-ugly-losing-ugly-just-plain-ugly.html|url-status=live}}</ref><ref>{{Cite news|title=A poor display bare of class |newspaper=The Times |location=London |date=9 July 1990}}</ref> In the 65th minute, Argentina's [[Pedro Monzon]] – himself only recently on as a substitute – was sent off for a foul on [[Jürgen Klinsmann]]. Monzon was the first player sent off in a World Cup final.
+
+Argentina, weakened by suspension and injury, offered little attacking threat throughout a contest dominated by the West Germans, who struggled to create many clear goalscoring opportunities. The only goal of the contest arrived in the 85th minute when Mexican referee [[Edgardo Codesal]] awarded a [[Penalty kick (association football)|penalty]] to West Germany, after a foul on [[Rudi Völler]] by [[Roberto Sensini]] leading to Argentinian protests. An earlier possible foul by Goycoecha, who tripped [[Klaus Augenthaler]] in the box, had not been given. German commentators speculated that the subsequent penalty was therefore a concession by the referee.<ref name="Germany finally awarded penatyy">{{cite book |title=The Story of the World Cup |publisher=Faber and Faber |last=Glanville |first=Brian |year=2018 |pages=326 |isbn=978-0-571-32556-6 |quote=After half-time, the game grew harsher, when Klaus Augenthaler was blantanly tripped in the box by Goycoecha, Germany had far stronger claims for a penalty than that which won the match. Sensini bought down Völler in the area Codesal gave a penalty, Argentina protested furiously, and seemed to have a pretty good case.}}</ref> [[Andreas Brehme]] converted the spot kick to settle the contest. In the closing moments, Argentina were reduced to nine after [[Gustavo Dezotti]], who had already been given a yellow card earlier in the match, received a red card when he hauled [[Jürgen Kohler]] to the ground during a stoppage in play. The 1–0 scoreline provided another first: Argentina were the first team to fail to score in a World Cup final.
+
+With its third title (and three second-place finishes) West Germany – in its final tournament before [[German reunification|national reunification]] – became the most successful World Cup nation at the time along with Italy and Brazil (who had also won three titles each then). West German manager [[Franz Beckenbauer]] became the first man to both captain (in [[1974 FIFA World Cup|1974]]) and manage a World Cup winning team, and only the second man (after [[Mário Zagallo]] of Brazil) to win the World Cup as a player and as team manager. It was also the first time a team from UEFA won the final against a non-European team.
+{{#lst:1990 FIFA World Cup final|Final}}
+
+==Statistics==
+===Goalscorers===
+[[Salvatore Schillaci]] received the [[World Cup Golden Boot|Golden Boot]] award for scoring six goals in the World Cup. This made him the second Italian footballer to have this honour, after [[Paolo Rossi]] won the award in [[1982 FIFA World Cup#Goalscorers|1982]]. In total, 115&nbsp;goals were scored by 75 players (none credited as [[Own goal (association football)|own goal]]s).
+
+;6 goals
+*{{flagicon|ITA|1946}} [[Salvatore Schillaci]]
+;5 goals
+*{{flagicon|TCH}} [[Tomáš Skuhravý]]
+;4 goals
+{{div col|colwidth=22em}}
+*{{flagicon|CMR}} [[Roger Milla]]
+*{{flagicon|ENG}} [[Gary Lineker]]
+*{{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]]
+*{{flagicon|FRG}} [[Lothar Matthäus]]
+{{div col end}}
+;3 goals
+{{div col|colwidth=22em}}
+*{{flagicon|ENG}} [[David Platt (footballer)|David Platt]]
+*{{flagicon|FRG}} [[Andreas Brehme]]
+*{{flagicon|FRG}} [[Jürgen Klinsmann]]
+*{{flagicon|FRG}} [[Rudi Völler]]
+{{div col end}}
+;2 goals
+{{div col|colwidth=22em}}
+*{{flagicon|ARG|1861}} [[Claudio Caniggia]]
+*{{flagicon|BRA|1968}} [[Careca]]
+*{{flagicon|BRA|1968}} [[Müller (footballer, born 1966)|Müller]]
+*{{flagicon|COL}} [[Bernardo Redín]]
+*{{flagicon|TCH}} [[Michal Bílek]]
+*{{flagicon|ITA|1946}} [[Roberto Baggio]]
+*{{flagicon|ROU}} [[Gabi Balint]]
+*{{flagicon|ROU}} [[Marius Lăcătuș]]
+*{{flagicon|YUG}} [[Davor Jozić]]
+*{{flagicon|YUG}} [[Darko Pančev]]
+*{{flagicon|YUG}} [[Dragan Stojković]]
+{{div col end}}
+;1 goal
+{{div col|colwidth=22em}}
+*{{flagicon|AUT}} [[Andreas Ogris]]
+*{{flagicon|AUT}} [[Gerhard Rodax]]
+*{{flagicon|ARG|1861}} [[Jorge Burruchaga]]
+*{{flagicon|ARG|1861}} [[Pedro Monzón]]
+*{{flagicon|ARG|1861}} [[Pedro Troglio]]
+*{{flagicon|BEL}} [[Jan Ceulemans]]
+*{{flagicon|BEL}} [[Lei Clijsters]]
+*{{flagicon|BEL}} [[Michel De Wolf]]
+*{{flagicon|BEL}} [[Marc Degryse]]
+*{{flagicon|BEL}} [[Enzo Scifo]]
+*{{flagicon|BEL}} [[Patrick Vervoort]]
+*{{flagicon|CMR}} [[Eugène Ekéké]]
+*{{flagicon|CMR}} [[Emmanuel Kundé]]
+*{{flagicon|CMR}} [[François Omam-Biyik]]
+*{{flagicon|COL}} [[Freddy Rincón]]
+*{{flagicon|COL}} [[Carlos Valderrama]]
+*{{flagicon|CRC}} [[Juan Cayasso]]
+*{{flagicon|CRC}} [[Róger Flores]]
+*{{flagicon|CRC}} [[Rónald González Brenes|Rónald González]]
+*{{flagicon|CRC}} [[Hernán Medford]]
+*{{flagicon|TCH}} [[Ivan Hašek]]
+*{{flagicon|TCH}} [[Luboš Kubík]]
+*{{flagicon|TCH}} [[Milan Luhový]]
+*{{flagicon|EGY}} [[Magdi Abdelghani]]
+*{{flagicon|ENG}} [[Mark Wright (footballer, born 1963)|Mark Wright]]
+*{{flagicon|ITA|1946}} [[Giuseppe Giannini]]
+*{{flagicon|ITA|1946}} [[Aldo Serena]]
+*{{flagicon|NED}} [[Ruud Gullit]]
+*{{flagicon|NED}} [[Wim Kieft]]
+*{{flagicon|NED}} [[Ronald Koeman]]
+*{{flagicon|IRL}} [[Niall Quinn]]
+*{{flagicon|IRL}} [[Kevin Sheedy (Irish footballer)|Kevin Sheedy]]
+*{{flagicon|SCO}} [[Mo Johnston]]
+*{{flagicon|SCO}} [[Stuart McCall]]
+*{{flagicon|KOR|1984}} [[Hwangbo Kwan]]
+*{{flagicon|URS|1955}} [[Igor Dobrovolski]]
+*{{flagicon|URS|1955}} [[Oleh Protasov]]
+*{{flagicon|URS|1955}} [[Oleksandr Zavarov]]
+*{{flagicon|URS|1955}} [[Andrei Zygmantovich]]
+*{{flagicon|ESP}} [[Alberto Górriz]]
+*{{flagicon|ESP}} [[Julio Salinas]]
+*{{flagicon|SWE}} [[Tomas Brolin]]
+*{{flagicon|SWE}} [[Johnny Ekström]]
+*{{flagicon|SWE}} [[Glenn Strömberg]]
+*{{flagicon|UAE}} [[Khalid Ismaïl]]
+*{{flagicon|UAE}} [[Ali Thani Jumaa]]
+*{{flagicon|USA|1960}} [[Paul Caligiuri]]
+*{{flagicon|USA|1960}} [[Bruce Murray (soccer)|Bruce Murray]]
+*{{flagicon|URU}} [[Pablo Bengoechea]]
+*{{flagicon|URU}} [[Daniel Fonseca]]
+*{{flagicon|FRG}} [[Uwe Bein]]
+*{{flagicon|FRG}} [[Pierre Littbarski]]
+*{{flagicon|YUG}} [[Robert Prosinečki]]
+*{{flagicon|YUG}} [[Safet Sušić]]
+{{div col end}}
+
+===Awards===
+<ref>{{cite web|url=http://www.worldcupbrazil.net/world-cup-history/world-cup-70s-90s/1990-italy/#world-cup-1990-fifa-all-star-team|title=World Cup 1990 in Italy – World Cup Brazil 2014 Guide|access-date=3 April 2015|archive-date=12 December 2019|archive-url=https://web.archive.org/web/20191212135001/http://www.worldcupbrazil.net/world-cup-history/world-cup-70s-90s/1990-italy/#world-cup-1990-fifa-all-star-team|url-status=dead}}</ref>
+{| class="wikitable"
+|-
+![[World Cup Golden Boot|Golden Boot]]
+![[FIFA World Cup awards#FIFA Young Player Award|Best Young Player]]
+![[FIFA World Cup Fair Play Trophy|FIFA Fair Play Trophy]]
+|-
+|{{flagicon|ITA|1946}} [[Salvatore Schillaci]]
+|{{flagicon|YUG}} [[Robert Prosinečki]]
+|{{fb|ENG}}
+|}
+{| class="wikitable"
+|-
+! colspan="3" |[[Golden Ball (FIFA)|Golden Ball]]<ref>{{Cite web |title=FIFA Awards – World Cup 1990 "Golden Ball" |url=https://www.rsssf.org/miscellaneous/fifa-gb90.html |access-date=19 June 2022 |website=[[RSSSF]] |archive-date=13 July 2024 |archive-url=https://web.archive.org/web/20240713022439/https://www.rsssf.org/miscellaneous/fifa-gb90.html |url-status=live }}</ref><ref>{{Cite web |title=All star teams of 1986 World Cup? |url=https://www.bigsoccer.com/threads/all-star-teams-of-1986-world-cup.1979342/page-3#post-37045613 |access-date=2023-02-07 |website=BigSoccer Forum |language=en-US |archive-date=13 July 2024 |archive-url=https://web.archive.org/web/20240713022440/https://www.bigsoccer.com/threads/all-star-teams-of-1986-world-cup.1979342/page-3#post-37045613 |url-status=live }}</ref>
+|-
+!Rank
+!Player
+!Points
+|-
+!1st
+|{{flagicon|ITA|1946}} [[Salvatore Schillaci]]
+|align="center"|1629
+|-
+!2nd
+|{{flagicon|FRG}} [[Lothar Matthäus]]
+|align="center"|1036
+|-
+!3rd
+|{{flagicon|ARG|1861}} [[Diego Maradona]]
+|align="center"|802
+|-
+!4th
+|{{flagicon|CMR}} [[Roger Milla]]
+| rowspan="3" align="center" |—
+|-
+!5th
+|{{flagicon|FRG}} [[Jürgen Klinsmann]]
+|-
+!6th
+|{{flagicon|ITA|1946}} [[Roberto Baggio]]
+|}
+
+====All-star team====
+FIFA published the first All-Star Team in 1938, but it never made an All-Star Team again until 1990 due to ensuing complaints. In 1990 an All-Star Team was announced in combination with the Golden Ball ceremony. It was chosen by the same journalists who chose the best player, but this team is still considered unofficial.<ref>{{Cite news |title=Gevonden in Delpher – Het vrĳe volk : democratisch-socialistisch dagblad |url=https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010948907:mpeg21:a0204 |access-date=9 June 2022 |newspaper=Het Vrĳe Volk : Democratisch-Socialistisch Dagblad |date=10 July 1990 |language=nl |archive-date=6 March 2022 |archive-url=https://web.archive.org/web/20220306205932/https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010948907:mpeg21:a0204 |url-status=live }}</ref>
+
+{| class="wikitable"
+|-
+!Goalkeeper
+!Defenders
+!Midfielders
+!Forwards
+!Reserves
+|-
+| align="left" valign="top" |
+*{{flagicon|ARG|1861}} [[Sergio Goycochea]]
+| align="left" valign="top" |
+*{{flagicon|ITA|1946}} [[Paolo Maldini]]
+*{{flagicon|ITA|1946}} [[Giuseppe Bergomi]]
+*{{flagicon|ITA|1946}} [[Franco Baresi]]
+*{{flagicon|GER}} [[Guido Buchwald]]
+*{{flagicon|GER}} [[Andreas Brehme]]
+| align="left" valign="top" |
+*{{flagicon|ARG|1861}} [[Diego Maradona]]
+*{{flagicon|GER}} [[Lothar Matthäus]]
+*{{flagicon|ITA|1946}} [[Roberto Donadoni]]
+| align="left" valign="top" |
+*{{flagicon|ITA|1946}} [[Salvatore Schillaci]]
+*{{flagicon|GER}} [[Jürgen Klinsmann]]
+|
+*{{flagicon|BRA|1968}} [[Cláudio Taffarel]]
+*{{flagicon|BRA|1968}} [[Branco (footballer)|Branco]]
+*{{flagicon|ARG|1861}} [[Jorge Burruchaga]]
+*{{flagicon|ITA|1946}} [[Roberto Baggio]]
+*{{flagicon|ARG|1861}} [[Claudio Caniggia]]
+|}
+
+===Final standings===
+After the tournament, FIFA published a ranking of all teams that competed in the 1990 World Cup finals based on progress in the competition, overall results and quality of the opposition.<ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/01/18/03/18/fs-201_08a_fwc-alltimeranking.pdf |archive-url=https://web.archive.org/web/20120617060343/http://www.fifa.com/mm/document/fifafacts/mencompwc/01/18/03/18/fs-201_08a_fwc-alltimeranking.pdf |url-status=dead |archive-date=17 June 2012 |title=All-time FIFA World Cup Ranking 1930–2010 |publisher=[[FIFA|Fédération Internationale de Football Association]]|access-date=30 January 2013 }}</ref><ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]] |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |date=26 March 2013}}</ref>
+
+{| class="wikitable" style="font-size:95%;text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals For}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal Difference}}
+!width=25| {{abbr|Pts.|Points}}
+|-
+|- style="background:gold"
+| 1 || style="text-align:left"|{{fb|FRG}} || [[1990 FIFA World Cup Group D|D]] || 7 || 5 || 2 || 0 || 15 || 5 || +10 || 12
+|- style="background:silver"
+| 2 || style="text-align:left"|{{fb|ARG|1861}} || [[1990 FIFA World Cup Group B|B]] || 7 || 2 || 3 || 2 || 5 || 4 || +1 || 7
+|- style="background:#c96"
+| 3 || style="text-align:left"|{{fb|ITA|1946}} || [[1990 FIFA World Cup Group A|A]] || 7 || 6 || 1 || 0 || 10 || 2 || +8 || 13
+|- style="background:gray"
+| 4 || style="text-align:left"|{{fb|ENG}} || [[1990 FIFA World Cup Group F|F]] || 7 || 3 || 3 || 1 || 8 || 6 || +2 || 9
+|-
+| colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 || style="text-align:left"|{{fb|YUG}} || [[1990 FIFA World Cup Group D|D]] || 5 || 3 || 1 || 1 || 8 || 6 || +2 || 7
+|-
+| 6 || style="text-align:left"|{{fb|TCH}} || [[1990 FIFA World Cup Group A|A]] || 5 || 3 || 0 || 2 || 10 || 5 || +5 || 6
+|-
+| 7 || style="text-align:left"|{{fb|CMR}} || [[1990 FIFA World Cup Group B|B]] || 5 || 3 || 0 || 2 || 7 || 9 || −2 || 6
+|-
+| 8 || style="text-align:left"|{{fb|IRL}} || [[1990 FIFA World Cup Group F|F]] || 5 || 0 || 4 || 1 || 2 || 3 || −1 || 4
+|-
+| colspan="11"| '''Eliminated in the round of 16'''
+|-
+| 9 || style="text-align:left"|{{fb|BRA|1968}} || [[1990 FIFA World Cup Group C|C]] || 4 || 3 || 0 || 1 || 4 || 2 || +2 || 6
+|-
+| 10 || style="text-align:left"|{{fb|ESP}} || [[1990 FIFA World Cup Group E|E]] || 4 || 2 || 1 || 1 || 6 || 4 || +2 || 5
+|-
+| 11 || style="text-align:left"|{{fb|BEL}} || [[1990 FIFA World Cup Group E|E]] || 4 || 2 || 0 || 2 || 6 || 4 || +2 || 4
+|-
+| 12 || style="text-align:left"|{{fb|ROU}} || [[1990 FIFA World Cup Group B|B]] || 4 || 1 || 2 || 1 || 4 || 3 || +1 || 4
+|-
+| 13 || style="text-align:left"|{{fb|CRC}} || [[1990 FIFA World Cup Group C|C]] || 4 || 2 || 0 || 2 || 4 || 6 || −2 || 4
+|-
+| 14 || style="text-align:left"|{{fb|COL}} || [[1990 FIFA World Cup Group D|D]] || 4 || 1 || 1 || 2 || 4 || 4 || 0 || 3
+|-
+| 15 || style="text-align:left"|{{fb|NED}} || [[1990 FIFA World Cup Group F|F]] || 4 || 0 || 3 || 1 || 3 || 4 || −1 || 3
+|-
+| 16 || style="text-align:left"|{{fb|URU}} || [[1990 FIFA World Cup Group E|E]] || 4 || 1 || 1 || 2 || 2 || 5 || −3 || 3
+|-
+| colspan="11"| '''Eliminated in the group stage'''
+|-
+| 17 || style="text-align:left"|{{fb|URS|1955}} || [[1990 FIFA World Cup Group B|B]] || 3 || 1 || 0 || 2 || 4 || 4 || 0 || 2
+|-
+| 18 || style="text-align:left"|{{fb|AUT}} || [[1990 FIFA World Cup Group A|A]] || 3 || 1 || 0 || 2 || 2 || 3 || −1 || 2
+|-
+| 19 || style="text-align:left"|{{fb|SCO}} || [[1990 FIFA World Cup Group C|C]] || 3 || 1 || 0 || 2 || 2 || 3 || −1 || 2
+|-
+| 20 || style="text-align:left"|{{fb|EGY}} || [[1990 FIFA World Cup Group F|F]] || 3 || 0 || 2 || 1 || 1 || 2 || −1 || 2
+|-
+| 21 || style="text-align:left"|{{fb|SWE}} || [[1990 FIFA World Cup Group C|C]] || 3 || 0 || 0 || 3 || 3 || 6 || −3 || 0
+|-
+| 22 || style="text-align:left"|{{fb|KOR|1984}} || [[1990 FIFA World Cup Group E|E]] || 3 || 0 || 0 || 3 || 1 || 6 || −5 || 0
+|-
+| 23 || style="text-align:left"|{{fb|USA|1960}} || [[1990 FIFA World Cup Group A|A]] || 3 || 0 || 0 || 3 || 2 || 8 || −6 || 0
+|-
+| 24 || style="text-align:left"|{{fb|UAE}} || [[1990 FIFA World Cup Group D|D]] || 3 || 0 || 0 || 3 || 2 || 11 || −9 || 0
+|}
+
+===Records===
+*Most wins: '''[[Italy national football team|Italy]] (6)'''
+*Fewest wins: '''[[Egypt national football team|Egypt]], [[Netherlands national football team|Netherlands]], [[Republic of Ireland national football team|Republic of Ireland]], [[South Korea national football team|South Korea]], [[Sweden men's national football team|Sweden]], [[United Arab Emirates national football team|United Arab Emirates]], [[United States men's national soccer team|United States]]''' (0)
+*Most defeats: '''[[South Korea national football team|South Korea]], [[Sweden men's national football team|Sweden]], [[United Arab Emirates national football team|United Arab Emirates]], [[United States men's national soccer team|United States]]''' (3)
+*Fewest defeats: '''[[Italy national football team|Italy]], [[West Germany national football team|West Germany]]''' (0)
+*First goal: '''[[François Omam Biyik]]''' (for [[1990 FIFA World Cup Group B#Argentina vs Cameroon|Cameroon vs Argentina]]; Group B, 8 June)
+*Fastest goal in a match: '''3 minutes 59 seconds''' – [[Safet Sušić]] (for [[1990 FIFA World Cup Group D#Yugoslavia vs United Arab Emirates|Yugoslavia vs United Arab Emirates]]; Group D, 19 June)
+*Latest goal scored in a match (apart from penalty shoot-outs): '''119 minutes''' – [[David Platt (footballer)|David Platt]] (for [[1990 FIFA World Cup knockout stage#England vs Belgium|England vs Belgium]]; Round of 16, 26 June)
+*Biggest win: '''5–1''' – by [[1990 FIFA World Cup Group A#United States vs Czechoslovakia|Czechoslovakia vs United States]], and by [[1990 FIFA World Cup Group D#West Germany vs United Arab Emirates|West Germany vs United Arab Emirates]]
+*Most goals in the tournament (team): '''[[Germany national football team|West Germany]]''' (15)
+*Most goals in the tournament (player): '''[[Salvatore Schillaci]]''' ([[Italy national football team|Italy]]) (6)
+*Fewest goals in the tournament (team): '''[[Egypt national football team|Egypt]]''' and '''[[South Korea national football team|South Korea]]''' (1)
+*Most goals in a game: '''6''' ([[1990 FIFA World Cup Group A#United States vs Czechoslovakia|United States 1 Czechoslovakia 5]]; [[1990 FIFA World Cup Group D#West Germany vs United Arab Emirates|West Germany 5 United Arab Emirates 1]])
+*Most goals in a game (player): '''3''', by '''[[Míchel (footballer, born 1963)|Míchel]]''' (for [[1990 FIFA World Cup Group E#South Korea vs Spain|Spain vs South Korea]]) and '''[[Tomáš Skuhravý]]''' (for [[1990 FIFA World Cup knockout stage#Czechoslovakia vs Costa Rica|Czechoslovakia vs Costa Rica]])
+*Fewest goals conceded: '''[[Brazil national football team|Brazil]]''', '''[[Egypt national football team|Egypt]]''' and '''[[Italy national football team|Italy]]''' (2)
+*Total goals scored: '''115''' (average 2.21 goals per game, a record low in World Cup history)
+*Most clean sheets: '''[[Italy national football team|Italy]]''' (5) (that record would ''also'' be broken by [[Spain national football team|Spain]] and its goalkeeper, [[Unai Simón]], however, in the [[2026 FIFA World Cup|2026]] edition of the tourney, as that team held its first ''six'' opponents scoreless, before that goal scored by [[Belgium national football team|Belgium]] in the quarterfinals.<ref>{{Cite web |last=Harris |first=Beth |date=July 10, 2026 |title=Belgium finally ends Unai Simón’s 650-minute World Cup shutout streak in quarterfinals |url=https://apnews.com/article/world-cup-spain-unai-simon-02b2a2d90a24a46fc03d31965c59d8e9 |access-date=July 15, 2026 |website=Associated Press News |archive-date=15 July 2026 |archive-url=https://web.archive.org/web/20260715082303/https://apnews.com/article/world-cup-spain-unai-simon-02b2a2d90a24a46fc03d31965c59d8e9 |url-status=live }}</ref>)
+*Total penalties awarded: '''18''' (13 scored, 5 missed)<ref>Figure does not include shoot-outs; penalties were missed during games by: [[Michal Bílek]] ([[1990 FIFA World Cup Group A#United States vs Czechoslovakia|Czechoslovakia v USA]]), [[Rubén Sosa]] ([[1990 FIFA World Cup Group E#Uruguay vs Spain|Uruguay v Spain]]), [[Faruk Hadžibegić]] ([[1990 FIFA World Cup Group D#Yugoslavia vs Colombia|Yugoslavia v Colombia]]), [[Gianluca Vialli]] ([[1990 FIFA World Cup Group A#Italy vs United States|Italy v USA]]) and [[Enzo Scifo]] ([[1990 FIFA World Cup Group E#Belgium vs Spain|Belgium v Spain]])</ref>
+*Most yellow cards in a game: '''9''' – '''[[1990 FIFA World Cup Group A#Austria vs United States|Austria vs United States]]''' (Group A, 19 June)
+*Most yellow cards in the tournament: '''[[Argentina national football team|Argentina]]''' (22)
+*Total yellow cards: '''162'''<ref>Figure does not include second yellow cards that led to a red card</ref>
+*Most red cards in the tournament: '''[[Argentina national football team|Argentina]]''' (3)
+*Total red cards: '''16''' (a record high for a 24 team World Cup)
+*Highest attendance: '''74,765''' – '''[[1990 FIFA World Cup Group D#West Germany vs Yugoslavia|West Germany vs Yugoslavia]]''' (Group D, 10 June)
+*Lowest attendance: '''27,833''' – '''[[1990 FIFA World Cup Group D#Yugoslavia vs United Arab Emirates|Yugoslavia vs United Arab Emirates]]''' (Group D, 19 June)
+*Average attendance: '''48,391''' (5th highest in World Cup history)
+*Oldest player: '''[[Peter Shilton]]''' ([[England national football team|England]]) (40 years 292 days)
+*Youngest player: '''[[Rónald González Brenes]]''' ([[Costa Rica national football team|Costa Rica]]) (19 years 307 days)
+* Italy's performance of 6 wins, 1 draw and 0 losses is the highest winning percentage for a team that did not win the World Cup.<ref name=Italy0>Argentina defeated Italy in the semi-finals by a penalty shoot-out which, by FIFA regulations counts as a draw for statistical reasons.</ref> 
+* The Republic of Ireland became the second team in World Cup history to reach the last eight without winning a match (Sweden progressed to the last eight by default in 1938 when Austria withdrew).
+
+==Marketing==
+===Sponsorship===
+[[File:Carlsberg Beer (224298822).jpg|thumb|[[Carlsberg Group|Carlsberg]] was one of the [[sponsor (commercial)|sponsors]] of FIFA World Cup 1990.]]
+The sponsors of the 1990 FIFA World Cup are divided into two categories: [[FIFA World Cup]] Sponsors and [[Italy national football team|Italy]] Supporters.<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+
+{| class="wikitable"
+|-
+! [[FIFA World Cup]] sponsors !! [[Italy national football team|Italy]] Supporters
+|-
+|
+* [[Adidas]]
+* [[Budweiser]]
+* [[Canon Inc.|Canon]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[Carlsberg Group|Carlsberg]]
+* [[The Coca-Cola Company|Coca-Cola]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[Fujifilm]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[G-Shock]]
+* [[Gillette (brand)|Gillette]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[JVC]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[Le Coq Sportif]]
+* [[Mars Inc.]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+* [[Philips]]<ref>{{Cite web |title=The Official FIFA World Cup™ Partners & Sponsors since 1982 |url=https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |access-date=2014-01-01 |website=www.whatahowler.com |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116123635/https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf |url-status=live }}</ref>
+||
+* [[Alfa Romeo]]
+* [[Alitalia]]
+* [[Barilla (company)|Barilla]]
+* [[Fiat]]
+* [[Grana Padano]]
+* [[Iveco]]
+* [[Radiocorriere TV|Radio Corriere TV]]
+* [[Gambero Rosso|Vini d'Italia]]
+* [[UNICEF]]
+|}
+
+==Symbols==
+===Mascot===
+The [[List of FIFA World Cup official mascots|official mascot]] of this World Cup was "Ciao", a [[stick figure]] player with a football head and an [[Flag of Italy|Italian tricolore]] body.<ref>{{Cite web|url=https://www.esquire.com/it/sport/calcio/a32432055/ciao-mascotte-mondiali/|title=Storia di Ciao, la mascotte dei Mondiali di Italia 90|date=18 May 2020|publisher=esquire.com|access-date=6 December 2022|archive-date=6 December 2022|archive-url=https://web.archive.org/web/20221206093048/https://www.esquire.com/it/sport/calcio/a32432055/ciao-mascotte-mondiali/|url-status=live}}</ref><ref>{{Cite web|url=http://www.periodicoitalianomagazine.it/notizie/Calcio_dangolo/pagine/Intervista_a_Lucio_Boscardin_papa_di_Italia90_|title='Ciao', la mascotte dei mondiali più amata|publisher=periodicoitalianomagazine.it|access-date=6 December 2022|archive-date=6 December 2022|archive-url=https://web.archive.org/web/20221206093334/http://www.periodicoitalianomagazine.it/notizie/Calcio_dangolo/pagine/Intervista_a_Lucio_Boscardin_papa_di_Italia90_|url-status=live}}</ref><ref>{{Cite web|url=https://www.glieroidelcalcio.com/2020/06/16/ciao-mascotte/|title=La storia della mascotte Ciao|date=16 June 2020|publisher=glieroidelcalcio.com|access-date=6 December 2022|archive-date=6 December 2022|archive-url=https://web.archive.org/web/20221206093052/https://www.glieroidelcalcio.com/2020/06/16/ciao-mascotte/|url-status=live}}</ref><ref>{{Cite web|url=https://www.mediotiempo.com/futbol/copa-mundial/ciao-italia-90-revoluciono-estilo-mascotas-mundialistas|title=Ciao, de Italia 90, revolucionó el estilo de las mascotas mundialistas|work=Mediotiempo |date=17 November 2022|publisher=mediotiempo.com|access-date=6 December 2022|archive-date=6 December 2022|archive-url=https://web.archive.org/web/20221206093110/https://www.mediotiempo.com/futbol/copa-mundial/ciao-italia-90-revoluciono-estilo-mascotas-mundialistas|url-status=live}}</ref><ref>{{Cite web|url=https://www.vermouth-deportivo.com.ar/ciao-la-controversial-y-particular-mascota-de-italia-90/|title="CIAO": LA CONTROVERSIAL Y PARTICULAR "MASCOTA" DE ITALIA 90|date=16 May 2020|publisher=vermouth-deportivo.com.ar|access-date=6 December 2022|archive-date=6 December 2022|archive-url=https://web.archive.org/web/20221206093056/https://www.vermouth-deportivo.com.ar/ciao-la-controversial-y-particular-mascota-de-italia-90/|url-status=live}}</ref><ref>{{Cite web|url=https://www.mundiario.com/articulo/deportes/historia-mascotas-mundiales-ciao-1990/20180530154823123366.html|title=Historia de las mascotas de los Mundiales: "Ciao" (1990)|date=30 May 2018|publisher=mundiario.com|access-date=6 December 2022|archive-date=13 July 2024|archive-url=https://web.archive.org/web/20240713022442/https://www.mundiario.com/articulo/deportes/historia-mascotas-mundiales-ciao-1990/20180530154823123366.html|url-status=live}}</ref> Its name is an [[Ciao|Italian greeting]].
+
+===Match ball===
+[[File:Etrusco Unico 1990 Fifa World Cup Italy Official Match Ball.jpg|thumb|upright|Adidas Etrusco Unico]]
+{{Main|Etrusco Unico}}
+The [[List of FIFA World Cup official match balls|official match ball]] of this World Cup was the "[[Adidas Etrusco Unico|Etrusco Unico]]", manufactured by [[Adidas]].
+{{clear}}
+
+===Music===
+The [[List of FIFA World Cup songs and anthems|official song]] of this World Cup was "[[Un'estate italiana]]".
+
+==See also==
+{{Portal|1990s|Sport|Association football|Italy}}
+* [[Sir Bobby Robson Trophy match]], a 2009 replay of the 1990 England Germany semi-final in honour of the England manager Bobby Robson
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1990|1990 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/1990italy 1990 FIFA World Cup Italy], FIFA
+*[https://web.archive.org/web/20110511104746/http://www.rsssf.com/tables/90full.html Details at RSSSF]
+*[https://web.archive.org/web/20111220065137/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/95/fwc%5fitaly%5f1990%5fa%5fpart1%5f278.pdf FIFA Technical Report (Part 1)], [https://web.archive.org/web/20111220061642/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/89/fwc%5fitaly%5f1990%5fa%5fpart2%5f277.pdf (Part 2)], [https://web.archive.org/web/20111220064652/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/84/fwc%5fitaly%5f1990%5fa%5fpart3%5f276.pdf (Part 3)], [https://web.archive.org/web/20111220053249/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/81/fwc%5fitaly%5f1990%5fa%5fpart4%5f275.pdf (Part 4)], [https://web.archive.org/web/20100106063327/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/75/fwc%5fitaly%5f1990%5fa%5fpart5%5f274.pdf (Part 5)] and [https://web.archive.org/web/20091128075446/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/69/fwc%5Fitaly%5F1990%5Fa%5Fpart6%5F273.pdf (Part 6)]
+*[http://www.planetworldcup.com/CUPS/1990/wc90index.html Planet World Cup – Italy 1990]
+
+{{1990 FIFA World Cup}}
+{{1990 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1990 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1990]]
+[[Category:1990 in men's international association football|World Cup]]
+[[Category:1989–90 in Italian football]]
+[[Category:Men's international association football competitions hosted by Italy|1990]]
+[[Category:June 1990 sports events in Italy]]
+[[Category:July 1990 sports events in Italy]]

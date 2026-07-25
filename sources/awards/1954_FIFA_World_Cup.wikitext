@@ -1,0 +1,472 @@
+{{Short description|Association football tournament in Switzerland}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox international football competition
+| tourney_name = FIFA World Cup
+| year = 1954
+| other_titles = {{native name|de|<!--Swiss German spelling-->Fussball-Weltmeisterschaft<br/>Schweiz 1954}}<br />{{native name|fr|Championnat du Monde de Football<br/>Suisse 1954}}<br />{{native name|it|Campionato mondiale di calcio<br/>Svizzera 1954}}<br />{{native name|rm|Campiunadis mundials da ballape<br/>Svizra 1954}}
+| image = 1954 FIFA World Cup logo.svg
+| size = 220px
+| country = [[Switzerland]]
+| dates = 16 June – 4 July
+| confederations = 4
+| num_teams = 16
+| venues = 6
+| cities = 6
+| champion = West Germany
+| count = 1
+| second = Hungary
+| second-flagvar = 1949
+| third = Austria
+| fourth = Uruguay
+| matches = 26
+| goals = 140
+| attendance = {{#invoke:Football attendance summation|main|groups=1-4}}
+| top_scorer = {{fbicon|HUN|1949}} [[Sándor Kocsis]] (11 goals)
+| prevseason = [[1950 FIFA World Cup|1950]]
+| nextseason = [[1958 FIFA World Cup|1958]]
+}}
+The '''1954 FIFA World Cup''' was the fifth edition of the [[FIFA World Cup]], the quadrennial international [[Association football|football]] tournament for senior men's national teams of the nations affiliated to [[FIFA]]. It was held in [[Switzerland]] from 16 June to 4 July. Switzerland was selected as the [[FIFA World Cup hosts#1950 and 1954 FIFA World Cups|host country]] in July 1946.<ref name="hosts">{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/ip-201_13a_fwc-host.pdf|archive-url=https://web.archive.org/web/20120117104450/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/81/ip-201_13a_fwc-host.pdf|url-status=dead|archive-date=17 January 2012|title=Host announcement decision|publisher=FIFA|access-date=14 June 2014}}</ref> At the tournament, several all-time records for goalscoring were set, including the highest average number of goals scored per game. The tournament was won by [[Germany national football team|West Germany]], who defeated tournament favourites [[Hungary national football team|Hungary]] 3–2 in the [[1954 FIFA World Cup Final|final]] for their first World Cup title. [[Uruguay national football team|Uruguay]], the defending champions, were eliminated by Hungary in the semi-finals and would lose to [[Austria national football team|Austria]] in the match for third place.
+
+The [[Austria v Switzerland (1954 FIFA World Cup)|highest scoring match of a men’s World Cup]] happened in the quarter-finals of this tournament, when [[Austria national football team|Austria]] defeated hosts [[Switzerland national football team|Switzerland]] 7–5.
+
+==Host selection==
+Switzerland was awarded the tournament unopposed at a meeting in [[Luxembourg City]] on 22 July 1946, the same day Brazil was selected to host the [[1950 FIFA World Cup|1950 World Cup]].<ref name="hosts" />
+
+==Qualification==
+{{main|1954 FIFA World Cup qualification}}
+The hosts (Switzerland) and the defending champions (Uruguay) qualified automatically. Of the remaining 14 places, 11 were allocated to Europe (including Egypt, Turkey, and Israel), two to the Americas, and one to Asia.
+
+Scotland, Turkey, and South Korea made their World Cup debuts at this tournament (Turkey and Scotland had qualified for the [[1950 FIFA World Cup|1950 competition]] but both withdrew). South Korea became the first independent Asian country to participate in a World Cup tournament. Austria appeared following a hiatus from [[1934 FIFA World Cup|1934]]. Several teams, such as Hungary and Czechoslovakia were back into the tournament after missing out the [[1950 FIFA World Cup|1950 World Cup]].
+
+German teams as well as [[Japan national football team|Japan]] were allowed to qualify again, after having been banned from the [[1950 FIFA World Cup]]. West Germany qualified against fellow Germans from the [[Saarland national football team|Saarland]] (which then was a French protectorate), while East Germany did not enter, having cancelled international football matches after the [[Uprising of 1953 in East Germany|East German uprising of 1953]]. [[Argentina national football team|Argentina]] declined to participate for the third successive World Cup.
+
+===List of qualified teams===
+The following 16 teams qualified for the final tournament.
+
+{{col-begin}}
+{{col-4}}
+'''[[1954 FIFA World Cup qualification (AFC – Group 13)|Asia]] (1)'''
+* {{fb|KOR|1949}} (debut)
+{{col-4}}
+'''[[1954 FIFA World Cup qualification#Group 12|North America]] (1)'''
+* {{fb|MEX|1934}}
+'''[[1954 FIFA World Cup qualification#Group 11|South America]] (2)'''
+* {{fb|BRA|1889}}
+* {{fb|URU}} (holders)
+{{col-4}}
+'''[[1954 FIFA World Cup qualification|Europe]] (12)'''
+* {{fb|AUT}}
+* {{fb|BEL}}
+* {{fb|TCH}}
+* {{fb|ENG}}
+* {{fb|FRA|1830}}
+* {{fb|HUN|1949}}
+* {{fb|ITA|1946}}
+* {{fb|SCO|1970}} (debut)
+* {{fb|SUI}} (hosts)
+* {{fb|TUR}} (debut)
+* {{fb|FRG}}
+* {{fb|YUG}}
+{{col-4}}
+{{col-end}}
+
+==Summary==
+===Format===
+====Group stage====
+The 1954 tournament used a unique format. The sixteen qualified teams were divided into four groups of four teams each. Each group contained two seeded teams and two unseeded teams. Only four matches were scheduled for each group, each pitting a seeded team against an unseeded team. This contrasts with the usual [[round-robin tournament|round-robin]] in which every team plays every other team: six matches in each group. Another oddity was that [[Overtime (sports)#Association football|extra time]], which in most tournaments is not employed at the group stage, was played in the group games if the score was level after 90 minutes, with the result being a draw if the scores were still level after 120 minutes.<ref name="jura">{{cite news |work=[[Journal du Jura]] |date=1954-06-16 |page=5 |title=Aujourd'hui commence le tour final de la Coupe du Monde de football |url=https://www.e-newspaperarchives.ch/?a=d&d=JDJ19540616-01.2.22 |location=Bienne, Switzerland |language=French |via=[[e-newspaperarchives.ch]] |archive-date=30 November 2024 |access-date=5 September 2022 |archive-url=https://web.archive.org/web/20241130051306/https://www.e-newspaperarchives.ch/?a=d&d=JDJ19540616-01.2.22 |url-status=live }}</ref>
+
+Two points were awarded for a win and one for a draw. The two teams with the most points from each group progressed to the knockout stage. In the case of a tie between two teams for second place, the two tied teams competed in a play-off to decide which team would progress to the next stage, with extra time and drawing of lots if necessary.<ref name="jura"/><ref>{{cite book |title=Soccer Stories: Anecdotes, Oddities, Lore, and Amazing Feats |first=Donn |last=Risolo |publisher=University of Nebraska Press |year=2010 |isbn=978-0-8032-3014-9 |page=83 }}</ref> Had all four teams in a group been tied on points, there would have been two further play-offs – one play-off between the two seeded teams, and the other between the two unseeded teams, again with extra time and drawing of lots if necessary – with the winner of each play-off progressing to the quarter-finals.<ref name="jura"/>
+
+[[File:1954 world cup.png|thumb|400px|Qualified countries]]
+Two of the four groups ended up requiring play-offs – one between Switzerland and Italy, and the other between Turkey and West Germany. In each match, the unseeded team (Switzerland and West Germany) repeated an earlier victory against the seeded team (Italy and Turkey) to progress. The fact that two group matches were played twice, while other group opponents never faced each other at all, attracted criticism; newly elected FIFA President [[Rodolphe Seeldrayers]] declared that this group format would be abandoned in future world cups.<ref>{{cite journal |title=La Coupe du Monde |date=1954-06-25 |journal=Nouvelliste Valaisan |location=St Maurice, Switzerland |page=6 |url=https://www.e-newspaperarchives.ch/?a=d&d=NVE19540625-01.2.78}}</ref>
+
+====Quarter-finals====
+For each of the first two quarter-finals, one team progressing from group 1 was drawn against one team progressing from group 2. For the remaining two quarter-finals, this procedure was repeated for groups 3 and 4.<ref name="jura"/> Before the tournament, it was stated that in the event of a quarter-final being tied after 90 minutes, 30 minutes of extra time would be played, followed by drawing of lots if necessary.<ref name="jura"/> Later, it was stated that a quarter-final could be replayed in this situation.<ref name="nzz">{{cite journal |url=https://www.e-newspaperarchives.ch/?a=d&d=NZZ19540626-01.2.26 |title=Die Fußball-Weltmeisterschaft |journal=Neue Zürcher Zeitung |date=1954-06-26 |page=7 |language=German |location=Zürich, Switzerland |archive-date=30 November 2024 |access-date=5 September 2022 |archive-url=https://web.archive.org/web/20241130045805/https://www.e-newspaperarchives.ch/?a=d&d=NZZ19540626-01.2.26 |url-status=live }}</ref> The draw was scheduled to be held on Sunday 20 June, though in fact it was delayed into the early morning of Monday 21 June.<ref>{{cite journal |journal=Der Bund |date=1954-06-21 |page=4 |title=Der neue Spielplan |url=https://www.e-newspaperarchives.ch/?a=d&d=DBB19540621-02.2.26.1 |location=Bern, Switzerland |language=German |archive-date=30 November 2024 |access-date=5 September 2022 |archive-url=https://web.archive.org/web/20241130050241/https://www.e-newspaperarchives.ch/?a=d&d=DBB19540621-02.2.26.1 |url-status=live }}</ref>
+
+====Semi-finals====
+For the semi-finals, a further draw was held, with each semi-final featuring one team from groups 1–2 against one team from groups 3–4.<ref name="jura"/> In the event of a semi-final being tied after extra time, it would be replayed once, followed by drawing of lots if necessary.<ref name="jura"/>
+
+The draw for the semi-finals, held on Sunday 27 June, was delayed by a complaint from the Hungarian team concerning the manner in which their quarter-final against Brazil had been played.<ref>{{cite journal |journal=La Liberté |date=1954-06-28 |page=7 |title=Tirage au sort des demi-finales |url=https://www.e-newspaperarchives.ch/?a=d&d=LLE19540628-01.2.30 |location=Fribourg, Switzerland |language=French |archive-date=3 December 2024 |access-date=5 September 2022 |archive-url=https://web.archive.org/web/20241203052624/https://www.e-newspaperarchives.ch/?d=LLE19540628-01.2.30&a=d |url-status=live }}</ref><ref name="nzz"/>
+
+====Final====
+The final would be replayed if scores were level after extra-time. If the replay was also tied, the winner would be decided by the tournament organising committee,<ref name="jura"/> or by drawing of lots.<ref>{{cite book |isbn=9783897842182 |title=Fußballweltmeisterschaft 1954 Schweiz: Das Wunder von Bern |location=Kassel |publisher=Agon-Sportverlag |year=2003 |pages=27ff |first1=Christian |last1=Jessen |first2=Volker |last2=Stahl |first3=Erik |last3=Eggers |first4=Johann-Günther |last4=Schlüper}}</ref>
+
+===Seeding===
+Before qualification was complete, the eight seeded teams were determined by FIFA. They were [[Austria national football team|Austria]], [[Brazil national football team|Brazil]], [[England national football team|England]], [[France national football team|France]], [[Hungary national football team|Hungary]], [[Italy national football team|Italy]], [[Spain men's national football team|Spain]], and [[Uruguay national football team|Uruguay]].
+
+These seedings were thrown into disarray when, in an unexpected result, [[Turkey national football team|Turkey]] eliminated Spain in qualification. FIFA resolved this situation by giving Turkey the seeding that had previously been allocated to Spain.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf |title=History of the World Cup Final Draw |access-date=2 March 2012|url-status=dead |archive-url=https://web.archive.org/web/20130723113048/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_10e_fwcdraw-history_8842.pdf|archive-date=2013-07-23}}</ref>
+
+===Notable results===
+The [[Germany national football team]], then limited to the area of [[West Germany]] only, had been reinstated as full FIFA members only in late 1950, had [[West Germany national football team results|played only 18 games since]], and were unseeded. When meeting the seeded Turkish side at Wankdorf stadium in Berne, the Turks scored early, but the Germans convincingly won the encounter, which would turn out as the first of two within six days.
+
+The South Koreans, the other unseeded team, lost 7–0 and 9–0 against the seeded sides of Hungary and Turkey. West Germany, being denied the chance to play such an easy opponent, had to face the seeded team of Hungary, a favourite to win the World Cup. [[Sepp Herberger]], the West German coach, did not want his A-squad to suffer a possible defeat against a strong opponent while trying to qualify for a rather meaningless first place, and gambled by going the easier route into the play-offs and sending in a reserve side which lost 8–3 in Basel. A benefit was that the Hungarians did not get to know the best German players in case both teams would meet again - which they did, in the final, along with referee [[William Ling (referee)|William Ling]]. Now two teams were tied for second place on 2 points, and with no tie breaking procedures in effect, even though West Germany had beaten Turkey head-to-head, they had to play-off against each other, a match-up that West Germany easily won for the second time within six days, this time in Zürich.
+
+Hungary's team captain [[Ferenc Puskás]], considered by many as the best player in the world in that time, was injured by West German defender [[Werner Liebrich]], and had to miss Hungary's next two matches. Puskás played for Hungary in the final, despite still being in a questionable condition.<ref>{{cite web |url=http://www.ifhof.com/hof/puskas.asp |title=FERENC PUSKAS – International Football Hall of Fame |publisher=Ifhof.com |date=2 April 1927 |access-date=2 March 2012 |archive-date=1 June 2020 |archive-url=https://web.archive.org/web/20200601223413/http://www.ifhof.com/hof/puskas.asp |url-status=live }}</ref>
+
+In the quarter-finals, the favourites Hungary beat Brazil 4–2 in one of the most violent matches in football history, which became infamous as the [[Battle of Berne (1954 FIFA World Cup)|Battle of Berne]]. Meanwhile, the World Cup holders Uruguay sent England out of the tournament, also by 4–2. West Germany dispatched [[Yugoslavia national football team|Yugoslavia]] 2–0, and Austria beat the host nation Switzerland in [[Austria v Switzerland (1954)|the game]] with the most goals in any World Cup match, 7–5.
+
+In the first semi-final, West Germany beat Austria 6–1.
+
+In the other semi-final, one of the most exciting games of the tournament, Hungary led Uruguay 1–0 at halftime, but the game went to extra time with a 2–2 score after 90 minutes. The deadlock was broken by [[Sándor Kocsis]] with two late goals to take Hungary through to the final, with Uruguay finally losing their unbeaten record in World Cup Final matches. Uruguay then went on to be beaten for a second time as Austria secured third place.
+
+===Final: "The Miracle of Bern"===
+{{main|1954 FIFA World Cup Final}}
+
+At the [[Wankdorf Stadion]] in Berne, 60,000 people watched the final between West Germany and Hungary, a rematch of a first-round game, which Hungary had won 8–3 against the reserves of the German team. The [[Golden Team]] of the Hungarians were favourites, as they were unbeaten for a record of 32 consecutive matches, but they had had two tough knockout matches. It started raining on match day–in Germany this was dubbed ''Fritz-Walter-Wetter'' ("Fritz Walter's weather") because the West German team captain [[Fritz Walter]] was said to play his best in the rain, a result of having contracted [[malaria]] during the war. [[Adi Dassler]] of ''Adidas'' provided the West German team with a new kind of shoes, with exchangeable studs that were replaced during halftime. 
+[[Image:Weltmeister autograph 1954.jpg|thumb|Card autographed by coach [[Sepp Herberger]] and the 11 German players that appeared in the final]]
+
+Hungary's Ferenc Puskás played again in the final, even though he was not fully fit. Despite this he put his team ahead after only six minutes and with [[Zoltán Czibor]] adding another two minutes later it seemed that the pre-tournament favourites would take the title. However, with a quick goal from [[Max Morlock]] in the 10th minute and an equaliser by [[Helmut Rahn]] in the 19th, the tide began to turn.
+
+The second half featured telling misses by the Hungarian team. Barely six minutes before the end of the match, the popular German radio reporter [[Herbert Zimmermann (football commentator)|Herbert Zimmermann]] delivered the most famous line in the German commentary, recommending that "Rahn should shoot from deep", which he did. The second goal from Rahn gave West Germany a 3–2 lead while the Hungarian reporter [[György Szepesi]] burst into tears. Later, Zimmermann called Puskás offside before he kicked the ball into [[Toni Turek]]'s net with 2 minutes left. While referee [[William Ling (referee)|William Ling]] pointed to the centre spot, linesman [[Benjamin Mervyn Griffiths|Griffiths]] signalled offside. After a one-minute consultation, Ling disallowed the claimed equaliser.
+
+The West Germans were handed the [[Jules Rimet Trophy]] as World Cup winners, while the crowd sang along to the tune of the [[national anthem of Germany]] – there was disquiet in the stadium as the Germans fans decided to sing the anthem's first stanza ''Deutschland über alles'',<ref>{{Citation|title=German Anthem -1954 Soccer Worldcup| date=8 October 2014 |url=https://www.youtube.com/watch?v=iXSL3gAmQH8&t=15s| archive-url=https://ghostarchive.org/varchive/youtube/20211111/iXSL3gAmQH8| archive-date=2021-11-11 | url-status=live|language=en|access-date=2021-06-23}}{{cbignore}}</ref> instead of the uncontroversial third ''Unity and Justice and Freedom'' which was supposed to be sung at official events according to a 1952 decree. In Germany the success is known as the "Miracle of Bern" (''Das Wunder Von Bern''), and was memorialised in a [[The Miracle of Bern|2003 film of the same name]]. For the Hungarians, the defeat was a disaster, and remains controversial for apparent refereeing errors and claims of [[doping in sport|doping]].
+
+One controversy concerns the 2–2 equaliser. Hungarian goalie [[Gyula Grosics]] jumped to catch [[Fritz Walter]]'s corner shot, but [[Hans Schäfer]] obstructed him (in plain sight of TV cameras), allowing the ball to reach Rahn, who then scored. Another controversy concerns allegations of doping. Though teammates steadfastly denied this rumour, German historian [[Guido Knopp]] claimed in a 2004 documentary for German public channel [[ZDF]]<ref>{{cite web |url=http://www.broadview.tv/Das-Wunder-von-Bern-Die-wahre-Geschichte.63.0.html |title=Das Wunder von Bern – Die wahre Geschichte |work=broadview.tv |language=de |archive-url=https://web.archive.org/web/20080420180618/http://www.broadview.tv/Das-Wunder-von-Bern-Die-wahre-Geschichte.63.0.html |archive-date=20 April 2008 |access-date=15 March 2012}}</ref> that the players were injected with shots of [[vitamin C]] at half-time, using a needle earlier taken from a [[Soviet Union|Soviet]] sports doctor. This resulted in both the better condition of the West German team in the second half and the wave of [[jaundice]] among their players following the tournament. A [[Leipzig University]] study in 2010 posited that the West German players had been injected with the banned substance [[methamphetamine]].<ref>{{cite web| url=https://www.google.com/hostednews/afp/article/ALeqM5gPwTouH5fV8OIKT0j17mvny-CgAA?docId=CNG.51aad93441791ba0a0064b851a86144e.421| archive-url=https://web.archive.org/web/20110430173029/https://www.google.com/hostednews/afp/article/ALeqM5gPwTouH5fV8OIKT0j17mvny-CgAA?docId=CNG.51aad93441791ba0a0064b851a86144e.421| archive-date=30 April 2011| title=Germany's 1954 World Cup winners 'were doped'| agency=[[Agence France-Presse]] | date=6 October 2010| access-date=16 June 2011}}</ref>
+
+Most controversial was the offside ruling for Puskás's intended 87th-minute equaliser. The camera filming the official footage was in a bad position to judge the situation, but eyewitnesses claimed that the referee was wrong, including West German substitute player [[Alfred Pfaff]].<ref>[http://www.spiegel.de/spiegel/print/d-30612555.html?name=Ewiger+Knaben+Wunderhorn Ewiger Knaben Wunderhorn] {{Webarchive|url=https://web.archive.org/web/20110427060516/http://www.spiegel.de/spiegel/print/d-30612555.html?name=Ewiger+Knaben+Wunderhorn |date=27 April 2011 }} (DER SPIEGEL, 18/2004)</ref> In 2004, North German regional public channel [[Norddeutscher Rundfunk|NDR]] aired unofficial footage appearing to show that Puskás was onside.<ref>{{cite web|url=http://www.ndrtv.de/kulturreport/traumavonbern.html |title=Das Trauma von Bern: Die unbekannte Seite des legendären Endspiels |publisher=Wndrtv |access-date=2 March 2012 |url-status = dead|archive-url=https://web.archive.org/web/20080605180906/http://www.ndrtv.de/kulturreport/traumavonbern.html |archive-date=5 June 2008 }}</ref>
+
+==Venues==
+Six venues in six cities (1 venue in each city) hosted the tournament's 26 matches. The most used stadium was the St. Jakob Stadium in Basel, which hosted 6 matches. The venues in Bern, Zurich and Lausanne each hosted 5 matches, the venue in Geneva hosted 4 matches, and the venue in Lugano only hosted 1 match.
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Bern]]
+! [[Basel]]
+! [[Lausanne]]
+|-
+| [[Wankdorf Stadium]]
+| [[St. Jakob Stadium]]
+| [[Stade Olympique de la Pontaise]]
+
+|-
+| <small>{{Coord|46|57|46|N|7|27|54|E|region:BR_type:landmark|display=inline|name=Wankdorf Stadium}}</small>
+| <small>{{Coord|47|32|29|N|7|37|12|E|region:BR_type:landmark|display=inline|name=St. Jakob Stadium}}</small>
+| <small>{{Coord|46|32|00|N|06|37|27|E|format=dms|region:BR_type:landmark|display=inline|name=Stade olympique de la Pontaise}}</small>
+|-
+| Capacity: '''64,600'''
+| Capacity: '''54,800'''
+| Capacity: '''50,300'''
+|-
+| [[File:ETH-BIB-Bern, Wankdorf-Stadion, Fussballspiel-LBS H1-016067 crop.tif|200px]]
+| [[File:ETH-BIB-Basel, St. Jakob, Stadion, Fussballspiel-LBS H1-016082.tif|200px]]
+| [[File:ETH-BIB-Lausanne, La, Pontaise, Stade, olympique-LBS H1-016165 crop.tif|200px]]
+|-
+! colspan="3" |{{Location map+|Switzerland|float=center|width=357|caption=|places=
+{{Location map~|Switzerland|lat=46.1778|long=6.1274|label=[[Geneva]]|position=right}}
+{{Location map~|Switzerland|lat=47.5416|long=7.6202|label=[[Basel]]|position=left}}
+{{Location map~|Switzerland|lat=46.9632|long=7.4648|label=[[Bern]]|position=bottom}}
+{{Location map~|Switzerland|lat=47.3828|long=8.5044|label=[[Zürich]]|position=top}}
+{{Location map~|Switzerland|lat=46.5198|long=6.6335|label=[[Lausanne]]|position=top}}
+{{Location map~|Switzerland|lat=46|long=8.95|label=[[Lugano]]|position=top}}
+}}
+|-
+! [[Geneva]]
+! [[Lugano]]
+! [[Zürich]]
+|-
+| [[Charmilles Stadium]]
+| [[Cornaredo Stadium]]
+| [[Hardturm|Hardturm Stadium]]
+|-
+| <small>{{Coord|46.2091|N|6.1182|E|region:BR_type:landmark|display=inline|name=Charmilles Stadium}}</small>
+| <small>{{Coord|46|01|25|N|8|57|42|E|format=dms|region:BR_type:landmark|display=inline|name=Cornaredo Stadium}}</small>
+| <small>{{Coord|47|23|35|N|8|30|17|E|format=dms|region:BR_type:landmark|display=inline|name=Hardturm Stadium}}</small>
+|-
+| Capacity: '''35,997'''
+| Capacity: '''35,800'''
+| Capacity: '''34,800'''
+|-
+| [[File:ETH-BIB-Genf = Genève, Les Charmilles, Parc des Sportes-LBS H1-016158 crop.tif|200px]]
+| [[File:ETH-BIB-Lugano,_Stadion-LBS_H1-016248.tif|200px]]
+| [[File:ETH-BIB-Zürich, Förrlibuck, Sportplatz, Fussballspiel aus 100 m-Inlandflüge-LBS MH01-005014 crop.tif|200px]]
+|}
+
+==Squads==
+{{main|1954 FIFA World Cup squads}}
+
+The 16 finalists named squads of 22 for the finals, though South Korea only named 20 players in their squad. Unlike recent tournaments, there were no requirements for teams to name three goalkeepers; most teams did, but 6 did not. Some teams also chose to leave some of their named squad at home, only bringing them to Switzerland if necessary.
+
+==Match officials==
+{{Div col|colwidth=20em}}
+* {{fbaicon|SUI}} Raymon Wyssling
+* {{fbaicon|WAL|1953}} [[Sandy Griffiths|Benjamin Griffiths]]
+* {{fbaicon|SCO}} Charlie Faultless
+* {{fbaicon|ESP|1945}} Manuel Asensi
+* {{fbaicon|POR}} José Vieira da Costa
+* {{fbaicon|FRA|1830}} Raymond Vincenti
+* {{fbaicon|ENG}} [[William Ling (referee)|William Ling]]
+* {{fbaicon|URU}} [[Esteban Marino]]
+* {{fbaicon|ENG}} [[Arthur Edward Ellis|Arthur Ellis]]
+* {{fbaicon|BEL}} Laurent Franken
+* {{fbaicon|ITA|1946}} [[Vincenzo Orlandini]]
+* {{fbaicon|YUG}} Vasa Stefanović
+* {{fbaicon|BRA|1889}} [[Mário Vianna]]
+* {{fbaicon|FRG}} Emil Schmetzer
+* {{fbaicon|AUT}} Carl Erich Steiner
+* {{fbaicon|HUN|1949}} [[István Zsolt]]
+{{div col end}}
+
+==Group stage==
+All times listed are local time ([[Central European Time|CET]], [[UTC+01:00|UTC+1]]).
+
+===Group 1===
+{{Main|1954 FIFA World Cup Group 1}}
+
+{{:1954 FIFA World Cup Group 1|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1954 FIFA World Cup Group 1|transcludesection=1-1}}
+{{:1954 FIFA World Cup Group 1|transcludesection=1-2}}
+----
+{{:1954 FIFA World Cup Group 1|transcludesection=1-3}}
+{{:1954 FIFA World Cup Group 1|transcludesection=1-4}}
+
+===Group 2===
+{{Main|1954 FIFA World Cup Group 2}}
+
+{{:1954 FIFA World Cup Group 2|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1954 FIFA World Cup Group 2|transcludesection=2-1}}
+{{:1954 FIFA World Cup Group 2|transcludesection=2-2}}
+----
+{{:1954 FIFA World Cup Group 2|transcludesection=2-3}}
+{{:1954 FIFA World Cup Group 2|transcludesection=2-4}}
+
+====Play-off====
+{{:1954 FIFA World Cup Group 2|transcludesection=2-PO}}
+
+===Group 3===
+{{Main|1954 FIFA World Cup Group 3}}
+
+{{:1954 FIFA World Cup Group 3|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1954 FIFA World Cup Group 3|transcludesection=3-1}}
+{{:1954 FIFA World Cup Group 3|transcludesection=3-2}}
+----
+{{:1954 FIFA World Cup Group 3|transcludesection=3-3}}
+{{:1954 FIFA World Cup Group 3|transcludesection=3-4}}
+
+===Group 4===
+{{Main|1954 FIFA World Cup Group 4}}
+
+{{:1954 FIFA World Cup Group 4|transcludesection=Standings|only_pld_pts=no_hide_class_rules}}
+{{:1954 FIFA World Cup Group 4|transcludesection=4-1}}
+{{:1954 FIFA World Cup Group 4|transcludesection=4-2}}
+----
+{{:1954 FIFA World Cup Group 4|transcludesection=4-3}}
+{{:1954 FIFA World Cup Group 4|transcludesection=4-4}}
+
+====Play-off====
+{{:1954 FIFA World Cup Group 4|transcludesection=4-PO}}
+
+==Knockout stage==
+{{Main|1954 FIFA World Cup knockout stage}}
+
+===Bracket===
+{{#lst:1954 FIFA World Cup knockout stage|Bracket}}
+
+===Quarter-finals===
+{{Main|Austria v Switzerland (1954 FIFA World Cup)}}
+
+{{#lst:1954 FIFA World Cup knockout stage|QF1}}
+----
+{{#lst:1954 FIFA World Cup knockout stage|QF2}}
+----
+{{#lst:1954 FIFA World Cup knockout stage|QF3}}
+----
+{{Main|Battle of Berne (1954 FIFA World Cup)}}
+
+{{#lst:1954 FIFA World Cup knockout stage|QF4}}
+
+===Semi-finals===
+{{#lst:1954 FIFA World Cup knockout stage|SF1}}
+----
+{{#lst:1954 FIFA World Cup knockout stage|SF2}}
+
+===Match for third place===
+{{#lst:1954 FIFA World Cup knockout stage|TPP}}
+
+===Final===
+{{Main|1954 FIFA World Cup final}}
+
+{{#lst:1954 FIFA World Cup Final|Final}}
+
+==Goalscorers==
+
+With 11 goals, Sándor Kocsis was the top scorer in the tournament. In total, 140 goals were scored by 63 players, with four of them credited as own goals.
+
+;11 goals
+{{div col|colwidth=35em|small=yes}}
+*{{flagicon|HUN|1949}} [[Sándor Kocsis]]
+{{div col end}}
+
+;6 goals
+{{div col|colwidth=35em|small=yes}}
+*{{flagicon|AUT}} [[Erich Probst]]
+*{{flagicon|SUI}} [[Josef Hügi]]
+*{{flagicon|FRG}} [[Max Morlock]]
+{{div col end}}
+
+;4 goals
+{{div col|colwidth=35em|small=yes}}
+*{{flagicon|HUN|1949}} [[Nándor Hidegkuti]]
+*{{flagicon|HUN|1949}} [[Ferenc Puskás]]
+*{{flagicon|SUI}} [[Robert Ballaman]]
+*{{flagicon|URU}} [[Carlos Borges]]
+*{{flagicon|FRG}} [[Helmut Rahn]]
+*{{flagicon|FRG}} [[Hans Schäfer]]
+*{{flagicon|FRG}} [[Ottmar Walter]]
+{{div col end}}
+
+;3 goals
+{{div col|colwidth=35em|small=yes}}
+*{{flagicon|AUT}} [[Ernst Stojaspal]]
+*{{flagicon|AUT}} [[Theodor Wagner]]
+*{{flagicon|BEL}} [[Léopold Anoul]]
+*{{flagicon|ENG}} [[Nat Lofthouse]]
+*{{flagicon|HUN|1949}} [[Zoltán Czibor]]
+*{{flagicon|TUR}} [[Burhan Sargun]]
+*{{flagicon|TUR}} [[Suat Mamat]]
+*{{flagicon|URU}} [[Juan Hohberg]]
+*{{flagicon|URU}} [[Óscar Míguez]]
+*{{flagicon|FRG}} [[Fritz Walter]]
+{{div col end}}
+
+;2 goals
+{{div col|colwidth=35em|small=yes}}
+*{{flagicon|AUT}} [[Alfred Körner]]
+*{{flagicon|AUT}} [[Ernst Ocwirk]]
+*{{flagicon|BRA|1889}} [[Didi (footballer, born 1928)|Didi]]
+*{{flagicon|BRA|1889}} [[Julinho (footballer, born 1929)|Julinho]]
+*{{flagicon|BRA|1889}} [[Pinga (footballer, born 1924)|Pinga]]
+*{{flagicon|ENG}} [[Ivor Broadis]]
+*{{flagicon|HUN|1949}} [[Mihály Lantos]]
+*{{flagicon|HUN|1949}} [[Péter Palotás]]
+*{{flagicon|TUR}} [[Lefter Küçükandonyadis]]
+*{{flagicon|URU}} [[Julio Abbadie]]
+*{{flagicon|URU}} [[Juan Alberto Schiaffino]]
+{{div col end}}
+
+;1 goal
+{{div col|colwidth=35em|small=yes}}
+*{{flagicon|BEL}} [[Henri Coppens]]
+*{{flagicon|BRA|1889}} [[Baltazar (footballer, born 1926)|Baltazar]]
+*{{flagicon|BRA|1889}} [[Djalma Santos]]
+*{{flagicon|ENG}} [[Tom Finney]]
+*{{flagicon|ENG}} [[Jimmy Mullen (footballer, born 1923)|Jimmy Mullen]]
+*{{flagicon|ENG}} [[Dennis Wilshaw]]
+*{{flagicon|FRA|1830}} [[Raymond Kopa]]
+*{{flagicon|FRA|1830}} [[Jean Vincent]]
+*{{flagicon|HUN|1949}} [[József Tóth (footballer, born 1929)|József Tóth]]
+*{{flagicon|ITA|1946}} [[Giampiero Boniperti]]
+*{{flagicon|ITA|1946}} [[Amleto Frignani]]
+*{{flagicon|ITA|1946}} [[Carlo Galli (footballer)|Carlo Galli]]
+*{{flagicon|ITA|1946}} [[Benito Lorenzi]]
+*{{flagicon|ITA|1946}} [[Fulvio Nesti]]
+*{{flagicon|ITA|1946}} [[Egisto Pandolfini]]
+*{{flagicon|MEX|1934}} [[Tomás Balcázar]]
+*{{flagicon|MEX|1934}} [[José Luis Lamadrid]]
+*{{flagicon|SUI}} [[Jacques Fatton]]
+*{{flagicon|TUR}} [[Mustafa Ertan]]
+*{{flagicon|TUR}} [[Erol Keskin]]
+*{{flagicon|URU}} [[Javier Ambrois]]
+*{{flagicon|URU}} [[Obdulio Varela]]
+*{{flagicon|FRG}} [[Richard Herrmann]]
+*{{flagicon|FRG}} [[Bernhard Klodt]]
+*{{flagicon|FRG}} [[Alfred Pfaff]]
+*{{flagicon|YUG}} [[Miloš Milutinović]]
+*{{flagicon|YUG}} [[Branko Zebec]]
+{{div col end}}
+
+;1 own goal
+{{div col|colwidth=35em|small=yes}}
+*{{flagicon|ENG}} [[Jimmy Dickinson]] (playing against [[Belgium national football team|Belgium]])
+*{{flagicon|MEX|1934}} [[Raúl Cárdenas]] (playing against [[France national football team|France]])
+*{{flagicon|URU}} [[Luis Cruz (Uruguayan footballer)|Luis Cruz]] (playing against [[Austria national football team|Austria]])
+*{{flagicon|YUG}} [[Ivica Horvat]] (playing against [[West Germany national football team|West Germany]])
+{{div col end}}
+
+==FIFA retrospective ranking==
+In 1986, FIFA published a report that ranked all teams in each World Cup up to and including 1986, based on progress in the competition, overall results and quality of the opposition.<ref>{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc_mexico_1986_en_part4_279.pdf |archive-url=https://web.archive.org/web/20100614213621/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/00/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |url-status=dead |archive-date=14 June 2010 |title=page 45 |access-date=2 March 2012}}</ref><ref>{{cite web |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |archive-date=21 May 2013 |publisher=[[FIFA]] |title=FIFA World Cup: Milestones, facts & figures. Statistical Kit 7 |url-status=dead |date=26 March 2013}}</ref> The rankings for the 1954 tournament were as follows:
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals for}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal difference}}
+!width=25| {{abbr|Pts.|Points}}
+|-
+|- style="background:gold"
+| 1 || style="text-align:left"|{{fb|FRG}} || [[#Group 2|2]] || 6 || 5 || 0 || 1 || 25 || 14 || +11 || 10
+|- style="background:silver"
+| 2 || style="text-align:left"|{{fb|HUN|1949}} || [[#Group 2|2]] || 5 || 4 || 0 || 1 || 27 || 10 || +17 || 8
+|- style="background:#c96"
+| 3 || style="text-align:left"|{{fb|AUT}} || [[#Group 3|3]] || 5 || 4 || 0 || 1 || 17 || 12 || +5 || 8
+|- style="background:gray"
+| 4 || style="text-align:left"|{{fb|URU}} || [[#Group 3|3]] || 5 || 3 || 0 || 2 || 16 || 9 || +7 || 6
+|-
+| colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 || style="text-align:left" |{{fb|BRA|1889}}|| [[#Group 1|1]]|| 3 || 1 || 1 || 1 || 8 || 5 || +3 || 3
+|-
+| 6 || style="text-align:left" |{{fb|ENG}}|| [[#Group 4|4]]|| 3 || 1 || 1 || 1 || 8 || 8 || 0 || 3
+|-
+| 7 || style="text-align:left" |{{fb|YUG}}|| [[#Group 1|1]]|| 3 || 1 || 1 || 1 || 2 || 3 || −1 || 3
+|-
+| 8 || style="text-align:left" |{{fb|SUI}}|| [[#Group 4|4]]|| 4 || 2 || 0 || 2 || 11 || 11 || 0 || 2
+|-
+| colspan="11"| '''Eliminated in the group stage'''
+|-
+| 9 || style="text-align:left"|{{fb|TUR}} || [[#Group 2|2]] || 3 || 1 || 0 || 2 || 10 || 11 || −1 || 2
+|-
+| 10 || style="text-align:left"|{{fb|ITA|1946}} || [[#Group 4|4]] || 3 || 1 || 0 || 2 || 6 || 7 || −1 || 2
+|-
+| 11 || style="text-align:left"|{{fb|FRA|1830}} || [[#Group 1|1]] || 2 || 1 || 0 || 1 || 3 || 3 || 0 || 2
+|-
+| 12 || style="text-align:left"|{{fb|BEL}} || [[#Group 4|4]] || 2 || 0 || 1 || 1 || 5 || 8 || −3 || 1
+|-
+| 13 || style="text-align:left"|{{fb|MEX|1934}} || [[#Group 1|1]] || 2 || 0 || 0 || 2 || 2 || 8 || −6 || 0
+|-
+| 14 || style="text-align:left"|{{fb|TCH}} || [[#Group 3|3]] || 2 || 0 || 0 || 2 || 0 || 7 || −7 || 0
+|-
+| 15 || style="text-align:left"|{{fb|SCO}} || [[#Group 3|3]] || 2 || 0 || 0 || 2 || 0 || 8 || −8 || 0
+|-
+| 16 || style="text-align:left"|{{fb|KOR|1949}} || [[#Group 2|2]] || 2 || 0 || 0 || 2 || 0 || 16 || −16 || 0
+|}
+
+==In film==
+The final scene of [[Rainer Werner Fassbinder]]'s 1979 film ''[[The Marriage of Maria Braun]]'' takes place during the finals of the 1954 World Cup; in the scene's background, the sports announcer is celebrating West Germany's victory and shouting ''"Deutschland ist wieder was!"'' (Germany is something again); the film uses this as the symbol of Germany's recovery from the ravages of the Second World War.
+
+[[Sönke Wortmann]]'s 2003 German box-office hit ''[[The Miracle of Bern]]'' (in German: ''Das Wunder von Bern'') re-tells the story of the German team's route to victory through the eyes of a young boy who admires the key player of the final, [[Helmut Rahn]].
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 1954|1954 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/1954switzerland 1954 FIFA World Cup Switzerland ], FIFA.com
+*[https://www.rsssf.org/tables/54full.html Details at RSSSF]
+
+{{Portal bar|1950s|Association football|Switzerland}}
+{{1954 FIFA World Cup}}
+{{1954 FIFA World Cup stadiums}}
+{{FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:1954 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|1954]]
+[[Category:1954 in men's international association football|World Cup]]
+[[Category:1953–54 in Swiss football]]
+[[Category:1954–55 in Swiss football]]
+[[Category:Men's international association football competitions hosted by Switzerland|1954]]
+[[Category:June 1954 sports events in Europe]]
+[[Category:July 1954 sports events in Europe]]

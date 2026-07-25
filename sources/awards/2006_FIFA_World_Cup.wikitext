@@ -1,0 +1,1783 @@
+{{Short description|Association football tournament in Germany}}
+{{redirect|2006 World Cup}}
+{{For-multi|the video games|2006 FIFA World Cup (video game){{!}}''2006 FIFA World Cup'' (video game)|and|FIFA 06{{!}}''FIFA 06''}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox international football competition
+| tourney_name   = FIFA World Cup
+| year           = 2006
+| other_titles   = {{native name|de|FIFA Fußball-Weltmeisterschaft<br />Deutschland 2006}}
+| image          = 2006 FIFA World Cup.svg
+| size           = 200px
+| country        = Germany
+| dates          = 9 June – 9 July
+| confederations = 6
+| num_teams      = 32
+| venues         = 12
+| cities         = 12
+| champion       = Italy
+| champion-flagvar = 2003
+| count          = 4
+| second         = France
+| second-flagvar = 1974
+| third          = Germany
+| fourth         = Portugal
+| matches        = 64
+| goals          = 147
+| attendance     = {{#invoke:Football attendance summation|main|groups=A-H}}
+| top_scorer     = {{fbicon|GER}} [[Miroslav Klose]]<br>(5 goals)
+| player         = {{fbicon|FRA|1974}} [[Zinedine Zidane]]
+| goalkeeper     = {{fbicon|ITA|2003}} [[Gianluigi Buffon]]
+| young_player   = {{fbicon|GER}} [[Lukas Podolski]]
+| fair_play      = {{fb|BRA}}<br>{{fb|ESP}}
+| prevseason     = [[2002 FIFA World Cup|2002]]
+| nextseason     = [[2010 FIFA World Cup|2010]]
+}}
+
+The '''2006 FIFA World Cup''' was the 18th [[FIFA World Cup]], the quadrennial international [[Association football|football]] world championship tournament. It was held from 9 June to 9 July 2006 in Germany, which had won the right to [[FIFA World Cup hosts#2006 FIFA World Cup|host]] the event in July 2000. Teams representing 198 national football associations from all six populated continents participated in the [[2006 FIFA World Cup qualification|qualification]] process which began in September 2003. Thirty-one teams qualified from this process along with hosts [[Germany national football team|Germany]] for the finals tournament. It was the second time that Germany staged the competition and the first as a [[German reunification|unified country]] along with the former [[East Germany]] with [[Leipzig]] as a host city (the other was in [[1974 FIFA World Cup|1974]] in West Germany), and the 10th time that the tournament was held in Europe.
+
+[[Italy national football team|Italy]] won the tournament, claiming their fourth World Cup title, defeating [[France national football team|France]] 5–3 in a [[Penalty shoot-out (association football)|penalty shoot-out]] in the [[2006 FIFA World Cup Final|final]] after [[Extra time (association football)|extra time]] had finished in a 1–1 draw. Germany defeated [[Portugal national football team|Portugal]] 3–1 to finish in third place. [[Angola national football team|Angola]], [[Ukraine national football team|Ukraine]], [[Ghana national football team|Ghana]], [[Ivory Coast national football team|Ivory Coast]], [[Trinidad and Tobago national football team|Trinidad and Tobago]] and [[Togo national football team|Togo]] made their first appearances in the competition. It was also the only appearance of [[Serbia and Montenegro]] under that name; they had previously appeared in [[1998 FIFA World Cup|1998]] as Yugoslavia. In late May 2006, immediately prior to the tournament, Montenegro voted in a [[2006 Montenegrin independence referendum|referendum]] to become an [[Montenegro|independent nation]] and dissolve the loose confederacy then existing between it and [[Serbia]]; Serbia recognised the results of the referendum in early June. Due to time constraints, FIFA had Serbia and Montenegro play in the World Cup tournament as one team, marking the first instance of multiple sovereign nations competing as one team in a major football tournament since [[UEFA Euro 1992]].
+
+[[Brazil national football team|Brazil]] were the [[2002 FIFA World Cup final|defending world champions]], but were eliminated by France in the quarter-finals. The 2006 World Cup stands as one of the most watched events in television history, garnering an estimated 26.29&nbsp;billion times viewed compiled over the course of the tournament. The final attracted an estimated audience of 715.1&nbsp;million people.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/ffprojects/ip-401_06e_tv_2658.pdf |title=World Cup and Television |access-date=6 June 2007 |year=2006|publisher=[[FIFA]] |archive-url=https://web.archive.org/web/20070614094554/http://www.fifa.com/mm/document/fifafacts/ffprojects/ip-401_06e_tv_2658.pdf |archive-date=14 June 2007 |url-status=dead }}</ref>
+
+==Host selection==
+{{main|FIFA World Cup hosts}}
+The vote to choose the hosts of the 2006 tournament was held in July 2000 in [[Zürich]], Switzerland. It involved four bidding nations after Brazil had withdrawn three days earlier: Germany, South Africa, England and Morocco.<ref>{{cite news|title=FIFA acknowledges Brazil's withdrawal from 2006 World Cup race |url=https://www.fifa.com/newscentre/news/newsid=73290.html |publisher=FIFA |date=4 July 2000 |access-date=29 March 2008 |archive-url=https://web.archive.org/web/20080423021200/http://www.fifa.com/newscentre/news/newsid%3D73290.html |archive-date=23 April 2008 |url-status=dead }}</ref> Three rounds of voting were required, each round eliminating the nation with the fewest votes. The first two rounds were held on 6 July 2000, and the final round was held on 7 July 2000, which Germany won over South Africa.
+
+{| class="wikitable" style="margin:.5em;"
+|-
+!colspan="4" style="text-align:center"| Voting results<ref>{{cite news|title=FIFA World Cup 2006 : Results of First Two Rounds of Voting |url=https://www.fifa.com/newscentre/news/newsid=73319.html |publisher=FIFA |date=6 July 2000 |access-date=29 March 2008 |archive-url=https://web.archive.org/web/20080423021211/http://www.fifa.com/newscentre/news/newsid%3D73319.html |archive-date=23 April 2008 |url-status=dead }}</ref>
+|-
+!Country
+!Round 1
+!Round 2
+!Round 3
+|-
+| Germany || '''10''' || '''11''' || '''12'''
+|-
+| South Africa || 6 || '''11''' || 11
+|-
+| England || 5 || 2 || –
+|-
+| Morocco || 3 || – || –
+|}
+
+===Bribery and corruption allegations===
+
+Accusations of bribery and corruption had marred the success of Germany's bid from the very beginning. On the very day of the vote, a hoax bribery affair was made public, leading to calls for a re-vote.<ref>{{cite news|title=Call for World Cup re-vote |url=https://news.bbc.co.uk/sport1/hi/in_depth/2000/2006_world_cup_decision/822645.stm |work=BBC Sport |date=7 July 2000 |access-date=25 June 2007 |archive-url=https://web.archive.org/web/20090922203158/http://news.bbc.co.uk/sport2/hi/in_depth/2000/2006_world_cup_decision/822645.stm |archive-date=22 September 2009 |url-status=live }}</ref> On the night before the vote, German satirical magazine ''[[Titanic (magazine)|Titanic]]'' sent letters to FIFA representatives, offering joke gifts like [[cuckoo clocks]] and [[Black Forest ham]] in exchange for their vote for Germany. Oceania delegate [[Charlie Dempsey]], who had initially backed England, had then been instructed to support South Africa following England's elimination. He abstained, citing "intolerable pressure" on the eve of the vote.<ref>{{cite news|title=Legal threat over World Cup prank |url=https://news.bbc.co.uk/2/hi/in_depth/sport/2000/2006_world_cup_decision/824885.stm |work=BBC News |date=8 July 2000 |access-date=25 June 2007 |archive-url=https://web.archive.org/web/20040518225400/http://news.bbc.co.uk/1/hi/in_depth/sport/2000/2006_world_cup_decision/824885.stm |archive-date=18 May 2004 |url-status=live }}</ref> Had Dempsey voted as originally instructed, the vote would have resulted with a 12–12 tie, and FIFA president [[Sepp Blatter]], who favoured the South African bid,<ref>{{cite news |title=S. Africa Confident of Blatter's Support to Host 2006 World Cup |url=http://english.people.com.cn/english/200001/19/eng20000119S121.html |publisher=People's Daily Online |date=19 January 2000 |access-date=25 June 2007 |archive-url=https://web.archive.org/web/20090910064542/http://english.people.com.cn/english/200001/19/eng20000119S121.html |archive-date=10 September 2009 |url-status=dead }}</ref> would have had to cast the deciding vote.<ref>{{cite news|title=Voting procedure for 2006 FIFA World Cup decision |url=https://www.fifa.com/newscentre/news/newsid=73308.html |publisher=FIFA |date=5 July 2000 |access-date=29 March 2008 |archive-url=https://web.archive.org/web/20080423021206/http://www.fifa.com/newscentre/news/newsid%3D73308.html |archive-date=23 April 2008 |url-status=dead }}</ref>
+
+More irregularities surfaced soon after, including, in the months leading up to the decision, the sudden interest of German politicians and major businesses in the four Asian countries whose delegates were decisive for the vote.<ref name=sueddeutsche>{{cite news|last1=Aumüller|first1=Johannes|last2=Kistner|first2=Thomas|title=Geplatzte Gala|work=Süddeutsche Zeitung|date=17 October 2015|page=41|language=de}}</ref> Just a week before the vote, the German government under [[Chancellor of Germany|Chancellor]] [[Gerhard Schröder]] lifted their arms embargo on [[Saudi Arabia]] and agreed to send grenade launchers to the country. [[Daimler AG|DaimlerChrysler]] invested several hundred million euros in [[Hyundai Motor Group|Hyundai]], where one of the sons of the company's founder was a member of FIFA's executive committee. Both [[Volkswagen]] and [[Bayer]] announced investments in [[Thailand]] and [[South Korea]], whose respective delegates [[Worawi Makudi]] and [[Chung Mong-joon]] were possible voters for Germany.<ref name=sueddeutsche/><ref name=zeit>{{cite news|last1=Fritsch|first1=Oliver|title=Die verkauften WM-Turniere|url=http://www.zeit.de/sport/2015-06/chuck-blazer-fifa-fussball-weltmeisterschaft-2022|newspaper=Die Zeit|access-date=18 October 2015|language=de|date=4 June 2015|archive-date=30 September 2015|archive-url=https://web.archive.org/web/20150930135353/http://www.zeit.de/sport/2015-06/chuck-blazer-fifa-fussball-weltmeisterschaft-2022|url-status=live}}</ref> Makudi additionally received a payment by a company of German media mogul [[Leo Kirch]], who also paid millions for usually worthless TV rights for friendly matches of the [[Germany national football team|Germany team]] and [[FC Bayern Munich]].<ref name=sueddeutsche/><ref name=zeit/>
+
+On 16 October 2015, German news magazine ''[[Der Spiegel]]'' alleged that a slush fund with money from then-[[Adidas]] CEO [[Robert Louis-Dreyfus]] was used to influence the vote of four Asian members of the FIFA executive committee.<ref>{{cite magazine|title=World Cup Scandal: Germany Appears to Have Bought Right to Host 2006 Tournament|url=http://www.spiegel.de/international/world/documents-indicate-slush-fund-used-in-german-world-cup-bid-a-1058212.html|magazine=Der Spiegel|access-date=18 October 2015|date=16 October 2015|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108113301/https://www.spiegel.de/international/world/documents-indicate-slush-fund-used-in-german-world-cup-bid-a-1058212.html|url-status=live}}</ref> The sum of €6.7&nbsp;million was later demanded back by Dreyfus. In order to retrieve the money, the [[2006 FIFA World Cup Organizing Committee|Organising Committee]] paid an equivalent sum to FIFA, allegedly as a German share for the cost of a closing ceremony, which never materialized.<ref name=sueddeutsche/> [[Wolfgang Niersbach]], president of the [[German Football Association]] (DFB), denied the allegations on 17 October 2015, saying that "the World Cup was not bought" and that he could "absolutely and categorically rule out the existence of a slush fund". The DFB announced they would consider seeking legal action against Der Spiegel.<ref>{{cite news|title=Niersbach: "Die WM war nicht gekauft"|url=https://www.kicker.de/niersbach_die-wm-war-nicht-gekauft-637330/artikel|newspaper=kicker|access-date=18 October 2015|language=de|date=17 October 2015|archive-date=18 October 2015|archive-url=https://web.archive.org/web/20151018180000/http://www.kicker.de/news/fussball/wm/startseite/637330/artikel_niersbach_die-wm-war-nicht-gekauft.html|url-status=live}}</ref> During a press conference on 22 October 2015, Niersbach repeated his stance, emphasising that the €6.7&nbsp;million was used in 2002 to secure a subsidy by FIFA.<ref>{{cite news|title=WM-Vergabe 2006: Niersbachs Erklärung zur 6,7-Millionen-Euro-Zahlung|url=http://www.spiegel.de/sport/fussball/wolfgang-niersbach-gibt-erklaerung-zur-6-7-millionen-euro-zahlung-ab-a-1059114.html|work=Spiegel Online|access-date=23 October 2015|language=de|date=22 October 2015|archive-date=23 October 2015|archive-url=https://web.archive.org/web/20151023081900/http://www.spiegel.de/sport/fussball/wolfgang-niersbach-gibt-erklaerung-zur-6-7-millionen-euro-zahlung-ab-a-1059114.html|url-status=live}}</ref> According to Niersbach, the payment had been agreed upon during a meeting between [[Franz Beckenbauer]] and FIFA president Blatter, with the money being provided by Dreyfus. On the same day, FIFA contradicted Niersbach's statement, saying: "By our current state of knowledge, no such payment of 10&nbsp;million francs was registered by FIFA in 2002."<ref>{{cite web|title=FIFA widerspricht DFB-Präsident Niersbach|url=https://www.tagesschau.de/inland/niersbach-dfb-107.html|publisher=Tagesschau|access-date=23 October 2015|language=de|date=22 October 2015|archive-date=22 October 2015|archive-url=https://web.archive.org/web/20151022202636/http://www.tagesschau.de/inland/niersbach-dfb-107.html|url-status=live}}</ref> The following day, former DFB president [[Theo Zwanziger]] publicly accused Niersbach of lying, saying: "It is evident that there was a slush fund for the German World Cup application". According to Zwanziger, the €6.7&nbsp;million went to [[Mohamed Bin Hammam]], who at the time was supporting Blatter's campaign for president against [[Issa Hayatou]].<ref>{{cite web|title=Ex-DFB-Chef Zwanziger: "Es gab eine schwarze Kasse"|url=https://www.tagesschau.de/inland/niersbach-dfb-109.html|publisher=Tagesschau|access-date=23 October 2015|language=de|date=23 October 2015|archive-date=24 October 2015|archive-url=https://web.archive.org/web/20151024151616/http://www.tagesschau.de/inland/niersbach-dfb-109.html|url-status=live}}</ref> On 22 March 2016, it was announced that the [[FIFA Ethics Committee]] was opening proceedings into the bid.<ref>{{cite news|title=Fifa opens investigation into Franz Beckenbauer and Germany's 2006 World Cup bid|url=https://www.theguardian.com/football/2016/mar/22/fifa-franz-beckenbauer-germany-2006-world-cup|access-date=22 March 2016|newspaper=The Guardian|date=22 March 2016|archive-date=22 March 2016|archive-url=https://web.archive.org/web/20160322110622/http://www.theguardian.com/football/2016/mar/22/fifa-franz-beckenbauer-germany-2006-world-cup|url-status=live}}</ref><ref>{{cite news|title=Fifa investigates 2006 World Cup award|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/35873480|access-date=22 March 2016|language=en|date=22 March 2016|archive-date=22 March 2016|archive-url=https://web.archive.org/web/20160322135920/http://www.bbc.co.uk/sport/football/35873480|url-status=live}}</ref><ref>{{cite news|title=FIFA watchdog opens formal proceedings over 2006 German World Cup|newspaper=Reuters|url=https://www.reuters.com/article/us-soccer-fifa-germany-idUSKCN0WO1UP|access-date=22 March 2016|language=en|date=22 March 2016|archive-date=22 March 2016|archive-url=https://web.archive.org/web/20160322150416/http://www.reuters.com/article/us-soccer-fifa-germany-idUSKCN0WO1UP|url-status=live}}</ref>
+
+==Qualification==
+{{main|2006 FIFA World Cup qualification}}
+198 teams attempted to qualify for the 2006 World Cup.<ref>{{cite news|url=https://www.fifa.com/worldcup/organisation/media/newsid=122766.html |title=Record number of 204 teams enter preliminary competition |date=3 March 2007 |access-date=29 March 2008 |publisher=FIFA |archive-url=https://web.archive.org/web/20071117123621/http://www.fifa.com/worldcup/organisation/media/newsid%3D122766.html |archive-date=17 November 2007 |url-status=dead }}</ref> Germany, the host nation, was granted automatic qualification, with the remaining 31 finals places divided among the continental confederations. For the first time since 1934, the defending champions did not automatically qualify for the tournament meaning [[Brazil national football team|Brazil]] had to play in the qualifiers. Thirteen places were contested by [[UEFA]] teams (Europe), five by [[Confederation of African Football|CAF]] teams (Africa), four by [[CONMEBOL]] teams (South America), four by [[Asian Football Confederation|AFC]] teams (Asia), and three by [[CONCACAF]] teams (North and Central America and Caribbean). The remaining two places were decided by playoffs between AFC and CONCACAF and between CONMEBOL and [[Oceania Football Confederation|OFC]] (Oceania).
+
+Eight nations qualified for the finals for the first time: [[Angola national football team|Angola]], [[Czech Republic national football team|Czech Republic]], [[Ghana national football team|Ghana]], [[Ivory Coast national football team|Ivory Coast]], [[Togo national football team|Togo]], [[Trinidad and Tobago national football team|Trinidad and Tobago]], [[Ukraine national football team|Ukraine]], and [[Serbia and Montenegro national football team|Serbia and Montenegro]]. Czech Republic and Ukraine were making their first appearance as independent nations, but had previously been represented as part of [[Czechoslovakia]] and the [[Soviet Union]] respectively, with Ukraine being the second independent nation to do so after [[Russia national football team|Russia]] in [[1994 FIFA World Cup|1994]]; Serbia and Montenegro had competed as [[Federal Republic of Yugoslavia]] in 1998, as well as making up part of [[Yugoslavia national football team|Yugoslav]] teams from 1930 to 1990.
+
+[[Australia men's national soccer team|Australia]] qualified for the first time since 1974. The highest-ranked team that failed to qualify was [[Denmark national football team|Denmark]] (ranked 11th), while the lowest-ranked team that did qualify was Togo (ranked 61st). For the first time since the 1982 World Cup, all six confederations were represented at the finals tournament. The [[Serbia and Montenegro|State Union of Serbia and Montenegro]] dissolved prior to the start of the World Cup, on 3 June 2006, with [[Serbia]] and [[Montenegro]] becoming independent countries; their team competed at the World Cup unaffected. Their involvement in the competition became similar to the [[CIS national football team|Commonwealth of Independent States]] that appeared at [[UEFA Euro 1992]], a team formed to take the [[Soviet Union national football team|Soviet Union]]'s place following dissolution, that multiple sovereign states had been represented in the finals of a major footballing tournament by a single team and the only occurrence in the World Cup finals to date.
+
+===List of qualified teams===
+The following 32 teams, shown with final pre-tournament rankings,<ref name="auto">{{cite web|title=FIFA/Coca Cola World Ranking (17 May 2006)|url=https://inside.fifa.com/fifa-world-ranking|archive-url=https://web.archive.org/web/20240318191618/https://inside.fifa.com/fifa-world-ranking|url-status=dead|archive-date=18 March 2024|work=FIFA.com|publisher=FIFA|access-date=13 July 2010|date=17 May 2006}}</ref> qualified for the finals tournament:
+{{col-begin}}
+{{col-4}}
+;[[2006 FIFA World Cup qualification (AFC)|AFC]] (4)
+* {{nowrap|{{fb|IRN}} (23)}}
+* {{nowrap|{{fb|JPN}} (18)}}
+* {{nowrap|{{fb|KSA}} (34)}}
+* {{nowrap|{{fb|KOR|1997}} (29)}}
+;[[2006 FIFA World Cup qualification (CAF)|CAF]] (5)
+* {{nowrap|{{fb|ANG}} (57)}} (debut)
+* {{nowrap|{{fb|GHA}} (48)}} (debut)
+* {{nowrap|{{fb|CIV}} (32)}} (debut)
+* {{nowrap|{{fb|TOG}} (61)}} (debut)
+* {{nowrap|{{fb|TUN}} (21)}}
+{{col-4}}
+;[[2006 FIFA World Cup qualification (CONCACAF)|CONCACAF]] (4)
+* {{nowrap|{{fb|CRC}} (26)}}
+* {{nowrap|{{fb|MEX}} (4)}}
+* {{nowrap|{{fb|TRI}} (47)}} (debut)
+* {{nowrap|{{fb|USA}} (5)}}
+;[[2006 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] (4)
+* {{nowrap|{{fb|ARG|1861}} (9)}}
+* {{nowrap|{{fb|BRA}} (1)}}
+* {{nowrap|{{fb|ECU|1900}} (39)}}
+* {{nowrap|{{fb|PAR|1990}} (33)}}
+;[[2006 FIFA World Cup qualification (OFC)|OFC]] (1)
+* {{nowrap|{{fb|AUS}} (42)}}
+{{col-4}}
+;[[2006 FIFA World Cup qualification (UEFA)|UEFA]] (14)
+* {{nowrap|{{fb|CRO}} (23)}}
+* {{nowrap|{{fb|CZE}} (2)}}
+* {{nowrap|{{fb|ENG}} (10)}}
+* {{nowrap|{{fb|FRA|1974}} (8)}}
+* {{nowrap|{{fb|GER}} (19) (hosts)}}
+* {{nowrap|{{fb|ITA|2003}} (13)}}
+* {{nowrap|{{fb|NED}} (3)}}
+* {{nowrap|{{fb|POL}} (29)}}
+* {{nowrap|{{fb|POR}} (7)}}
+* {{nowrap|{{fb|SCG}} (44)}}
+* {{nowrap|{{fb|ESP}} (5)}}
+* {{nowrap|{{fb|SWE}} (16)}}
+* {{nowrap|{{fb|SUI}} (35)}}
+* {{nowrap|{{fb|UKR}} (45)}} (debut)
+{{col-4}}<!-- This map should not be removed as it is shows the status of qualification by failed or not enter-->
+[[File:2006 world cup qualification.png|thumb|upright=1.4|{{legend|#000cff|Countries qualified for World Cup}} {{legend|#ffb400|Country did not qualify}} {{legend|black|Countries that did not enter World Cup}} {{legend|#ababab|Country not a FIFA member}}]]
+{{col-end}}
+
+{| class="wikitable collapsible collapsed"
+|-
+!colspan="4"| Teams listed by FIFA ranking as of May 2006<ref name="auto"/>
+|-
+! !! Country !! Confederation !! Rank
+|-
+| 1 || {{fb|BRA}} || CONMEBOL ||align=center| 1
+|-
+| 2 || {{fb|CZE}} || UEFA ||align=center| 2
+|-
+| 3 || {{fb|NED}} || UEFA ||align=center| 3
+|-
+| 4 || {{fb|MEX}}|| CONCACAF ||align=center| 4
+|-
+|rowspan="2"| 5 || {{fb|USA}} || CONCACAF ||align=center| 5
+|-
+| {{fb|ESP}} || UEFA ||align=center| 5
+|-
+| 7 || {{fb|POR}} || UEFA ||align=center| 7
+|-
+| 8 || {{fb|FRA|1974}}|| UEFA ||align=center| 8
+|-
+| 9 || {{fb|ARG|1861}} || CONMEBOL ||align=center| 9
+|-
+| 10 || {{fb|ENG}} || UEFA ||align=center| 10
+|-
+| 11 || {{fb|ITA|2003}} || UEFA ||align=center| 13
+|-
+| 12 || {{fb|SWE}} || UEFA ||align=center| 16
+|-
+| 13 || {{fb|JPN}} || AFC ||align=center| 18
+|-
+| 14 || {{fb|GER}} || UEFA ||align=center| 19
+|-
+| 15 || {{fb|TUN}} || CAF ||align=center| 21
+|-
+|rowspan="2"| 16 || {{fb|IRN}} || AFC ||align=center| 23
+|-
+| {{fb|CRO}} || UEFA ||align=center| 23
+|-
+| 18 || {{fb|CRC}} || CONCACAF ||align=center| 25
+|-
+|rowspan="2"| 19 || {{fb|KOR|1997}} || AFC ||align=center| 29
+|-
+| {{fb|POL}} || UEFA ||align=center| 29
+|-
+| 21 || {{fb|CIV}} || CAF ||align=center| 32
+|-
+| 22 || {{fb|PAR|1990}} || CONMEBOL ||align=center| 33
+|-
+| 23 || {{fb|KSA}} || AFC ||align=center| 34
+|-
+| 24 || {{fb|SUI}} || UEFA ||align=center| 35
+|-
+| 25 || {{fb|ECU|1900}} || CONMEBOL ||align=center| 39
+|-
+| 26 || {{fb|AUS}} || OFC ||align=center| 42
+|-
+| 27 || {{fb|SCG}} || UEFA ||align=center| 44
+|-
+| 28 || {{fb|UKR}} || UEFA ||align=center| 45
+|-
+| 29 || {{fb|TRI}} || CONCACAF ||align=center| 47
+|-
+| 30 || {{fb|GHA}} || CAF ||align=center| 48
+|-
+| 31 || {{fb|ANG}} || CAF ||align=center| 57
+|-
+| 32 || {{fb|TOG}} || CAF ||align=center| 61
+|}
+
+==Venues==
+In 2006, Germany had a plethora of football stadia that satisfied FIFA's minimum capacity of 40,000 seats for World Cup matches. The outdated and still-standing [[Olympiastadion (Munich)|Olympiastadion]] in Munich (69,250), the venue for the [[1974 FIFA World Cup Final|1974 final match]] was not used for the tournament, even though FIFA's regulations allow one city to use two stadia. [[Düsseldorf]]'s [[Esprit Arena|LTU Arena]] (51,500), [[Bremen]]'s [[Weser-Stadion|Weserstadion]] (43,000) and [[Mönchengladbach]]'s [[Borussia-Park]] (46,249) were also not used. Düsseldorf was the only 1974 host city not to be selected to host games for the 2006 edition, while Munich and [[Gelsenkirchen]] were the only ones with different venues from 32 years prior. One city located in the former East Germany, [[Leipzig]], was selected to host games.
+
+Twelve stadia were selected to host the World Cup matches. During the tournament, many of them were known by different names, as FIFA prohibits [[naming rights|sponsorship]] of stadia unless the stadium sponsors are also official FIFA sponsors.<ref name="StadiaNames">{{cite news |title=Stadiums renamed for Fifa sponsors |url=https://news.bbc.co.uk/2/hi/business/4773843.stm |publisher=BBC |date=6 June 2006 |access-date=29 March 2008 |archive-date=13 June 2018 |archive-url=https://web.archive.org/web/20180613190159/http://news.bbc.co.uk/1/hi/business/4773843.stm |url-status=live }}</ref> For example, the [[Allianz Arena]] in Munich was known during the competition as ''FIFA World Cup Stadium, Munich'' ({{langx|de|link=no|FIFA WM-Stadion München}}), and even the letters of the company [[Allianz]] were removed or covered.<ref name="StadiaNames" /> Some of the stadia also had a lower capacity for the World Cup, as FIFA regulations ban standing room; nonetheless, this was accommodated as several stadia had a [[UEFA stadium categories|UEFA five-star ranking]]. The stadia in Berlin, Munich, Dortmund and Stuttgart hosted six matches each, whilst the other eight stadia hosted five matches each.
+
+*''A cross denotes an indoor stadium.''
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Berlin]]
+![[Munich]]
+![[Dortmund]]
+![[Stuttgart]]
+|-
+|[[Olympiastadion (Berlin)|Olympiastadion]]
+|[[Allianz Arena]]<br />'''{{small|(FIFA World Cup Stadium, Munich)}}'''
+|[[Westfalenstadion]]<br />'''{{small|(FIFA World Cup Stadium, Dortmund)}}'''
+|[[MHPArena]]
+|-
+|{{small|{{Coord|52|30|53|N|13|14|22|E|region:DE_type:landmark|display=inline|name=Olympiastadion (Berlin)}}}}
+|{{small|{{Coord|48|13|7.59|N|11|37|29.11|E|region:DE_type:landmark|display=inline|name=Allianz Arena}}}}
+|{{small|{{Coord|51|29|33.25|N|7|27|6.63|E|region:DE_type:landmark|display=inline|name=Signal Iduna Park}}}}
+|{{small|{{Coord|48|47|32.17|N|9|13|55.31|E|region:DE_type:landmark|display=inline|name=Gottlieb-Daimler-Stadion}}}}
+|-
+|Capacity: '''72,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/berlin.html |title=Berlin |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074010/http://fifaworldcup.yahoo.com/06/en/d/s/berlin.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''66,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/munchen.html |title=Munich |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074102/http://fifaworldcup.yahoo.com/06/en/d/s/munchen.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''65,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/dortmund.html |title=Dortmund |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074153/http://fifaworldcup.yahoo.com/06/en/d/s/dortmund.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''52,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/stuttgart.html |title=Stuttgart |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074248/http://fifaworldcup.yahoo.com/06/en/d/s/stuttgart.html |archive-date=16 June 2006}}</ref>
+|-
+|[[File:Stade Olympique Berlin Ext.JPG|200px]]
+|[[File:München - Allianz-Arena (Luftbild).jpg|200px]]
+|[[File:Signal iduna park stadium dortmund 6.jpg|200px]]
+|[[File:Stuttgart stadium.jpg|200px]]
+|-
+![[Gelsenkirchen]]
+|colspan="2" rowspan="10"|
+{{location map+|Germany|float=none|width=400|places=
+{{location map~|Germany|lat=52.5147|long=13.2394|label='''[[Berlin]]'''}}
+{{location map~|Germany|lat=51.4926|long=7.4518|label=[[Dortmund]]|position=right}}
+{{location map~|Germany|lat=48.2188|long=11.6248|label=[[Munich]]}}
+{{location map~|Germany|lat=48.7923|long=9.2320|label=[[Stuttgart]]}}
+{{location map~|Germany|lat=51.5545|long=7.0676|label=[[Gelsenkirchen]]|position=top}}
+{{location map~|Germany|lat=53.5872|long=9.8986|label=[[Hamburg]]}}
+{{location map~|Germany|lat=50.0686|long=8.6455|label=[[Frankfurt]]}}
+{{location map~|Germany|lat=50.9335|long=6.8750|label=[[Cologne]]}}
+{{location map~|Germany|lat=52.3601|long=9.7312|label=[[Hanover]]}}
+{{location map~|Germany|lat=51.3458|long=12.3482|label=[[Leipzig]]}}
+{{location map~|Germany|lat=49.4347|long=7.7765|label=[[Kaiserslautern]]}}
+{{location map~|Germany|lat=49.4261|long=11.1258|label=[[Nuremberg]]}}}}
+![[Hamburg]]
+|-
+|[[Arena AufSchalke]]{{dagger}}<br />'''{{small|(FIFA World Cup Stadium, Gelsenkirchen)}}'''
+|[[Volksparkstadion|AOL Arena]]<br />'''{{small|(FIFA World Cup Stadium, Hamburg)}}'''
+|-
+|{{small|{{Coord|51|33|16.21|N|7|4|3.32|E|region:DE_type:landmark|display=inline|name=Arena AufSchalke}}}}
+|{{small|{{Coord|53|35|13.77|N|9|53|55.02|E|region:DE_type:landmark|display=inline|name=AOL Arena}}}}
+|-
+|Capacity: '''52,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/gelsenkirchen.html |title=Gelsenkirchen |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074452/http://fifaworldcup.yahoo.com/06/en/d/s/gelsenkirchen.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''50,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/hamburg.html |title=Hamburg |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074038/http://fifaworldcup.yahoo.com/06/en/d/s/hamburg.html |archive-date=16 June 2006}}</ref>
+|-
+|[[File:Arena auf schalke veltins arena gelsenkirchen 1.jpg|200px]]
+|[[File:RK 1009 9831 Volksparkstadion.jpg|200px]]
+|-
+![[Frankfurt]]
+![[Kaiserslautern]]
+|-
+|[[Waldstadion (Frankfurt)|Commerzbank-Arena]]{{dagger}}<br />'''{{small|(FIFA World Cup Stadium, Frankfurt)}}'''
+|[[Fritz-Walter-Stadion]]
+|-
+|{{small|{{Coord|50|4|7|N|8|38|44|E|region:DE_type:landmark|display=inline|name=Commerzbank Arena}}}}
+|{{small|{{Coord|49|26|5|N|7|46|35|E|region:DE_type:landmark|display=inline|name=Fritz-Walter-Stadion}}}}
+|-
+|Capacity: '''48,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/frankfurt.html |title=Frankfurt |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074236/http://fifaworldcup.yahoo.com/06/en/d/s/frankfurt.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''46,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/kaiserslautern.html |title=Kaiserslautern |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074517/http://fifaworldcup.yahoo.com/06/en/d/s/kaiserslautern.html |archive-date=16 June 2006}}</ref>
+|-
+|[[File:Aerial view of Commerzbank-Arena.jpg|200px]]
+|[[File:Betzenberg_luftaufnahme.jpg|200px]]
+|-
+![[Cologne]]
+![[Hanover]]
+![[Leipzig]]
+![[Nuremberg]]
+|-
+|[[RheinEnergieStadion]]<br />'''{{small|(FIFA World Cup Stadium, Cologne)}}'''
+|[[Niedersachsenstadion]]<br />'''{{small|(FIFA World Cup Stadium, Hanover)}}'''
+|[[Red Bull Arena (Leipzig)|Red Bull Arena]]
+|[[Max-Morlock-Stadion|easyCredit-Stadion]]<br />'''{{small|(Frankenstadion)}}'''
+|-
+|{{small|{{Coord|50|56|1|N|6|52|30|E|region:DE_type:landmark|display=inline|name=RheinEnergie Stadion}}}}
+|{{small|{{Coord|52|21|36|N|9|43|52|E|region:DE_type:landmark|display=inline|name=AWD-Arena}}}}
+|{{small|{{Coord|51|20|45|N|12|20|54|E|region:DE_type:landmark|display=inline|name=Zentralstadion}}}}
+|{{small|{{Coord|49|25|34|N|11|7|33|E|region:DE_type:landmark|display=inline|name=EasyCredit-Stadion}}}}
+|-
+|Capacity: '''45,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/koln.html |title=Cologne |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616073933/http://fifaworldcup.yahoo.com/06/en/d/s/koln.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''43,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/hannover.html |title=Hanover |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074210/http://fifaworldcup.yahoo.com/06/en/d/s/hannover.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''43,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/leipzig.html |title=Leipzig |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074050/http://fifaworldcup.yahoo.com/06/en/d/s/leipzig.html |archive-date=16 June 2006}}</ref>
+|Capacity: '''41,000'''<ref>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/d/s/nurnberg.html |title=Nuremberg |work=FIFA (Fédération Internationale de Football Association) |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20060616074224/http://fifaworldcup.yahoo.com/06/en/d/s/nurnberg.html |archive-date=16 June 2006}}</ref>
+|-
+|[[File:Rhein Energie Stadion Luftbild - aerial (20152327046).jpg|200px]]
+|[[File:Hanover stadium.jpg|200px]]
+|[[File:Leipzig stadium.jpg|200px]]
+|[[File:Morlockstadion Arena Nbg Juli 2021.jpg|200px]]
+|}
+
+===Team base camps===
+Base camps were used by the 32 national squads to stay and train before and during the World Cup tournament. FIFA announced the base camps for each participating team.<ref>{{cite web |title=Media Guide: Team Headquarters and Training Facilities |url=https://www.fifa.com/worldcup/news/y=2006/m=4/news=media-guide-team-headquarters-and-training-facilities-13341.html |publisher=FIFA.com (Fédération Internationale de Football Association) |date=12 April 2006 |access-date=10 February 2018 |archive-date=10 February 2018 |archive-url=https://web.archive.org/web/20180210180343/http://www.fifa.com/worldcup/news/y=2006/m=4/news=media-guide-team-headquarters-and-training-facilities-13341.html |url-status=dead }}</ref>
+
+{| class="wikitable collapsible collapsed"
+|-
+! colspan="2"| National squads' base camps
+|-
+<td>
+{| class="wikitable"
+|-
+! Team
+! City
+|-
+| {{Fb|Angola}}
+| [[Celle]]
+|-
+| {{Fb|Argentina}}
+| [[Herzogenaurach]]
+|-
+| {{Fb|Australia}}
+| [[Zweiflingen]]<ref>{{cite web | url=https://www.oehringen.de/stadt/stadtgeschichte/home-base-der-socceroos.html | title=Home Base der Socceroos | access-date=2 October 2022 | archive-date=2 October 2022 | archive-url=https://web.archive.org/web/20221002130320/https://www.oehringen.de/stadt/stadtgeschichte/home-base-der-socceroos.html | url-status=live }}</ref>
+|-
+| {{Fb|Brazil}}
+| [[Bergisch Gladbach]]
+|-
+| {{Fb|Costa Rica}}
+| [[Walldorf]]
+|-
+| {{Fb|Croatia}}
+| [[Bad Brückenau]]
+|-
+| {{Fb|Czech Republic}}
+| [[Westerburg]]
+|-
+| {{Fb|Ecuador}}
+| [[Bad Kissingen]]
+|-
+| {{Fb|England}}
+| [[Baden-Baden]]
+|-
+| {{Fb|France}}
+| [[Aerzen]]
+|-
+| {{Fb|Germany}}
+| [[Berlin]]
+|-
+| {{Fb|Ghana}}
+| [[Würzburg]]
+|-
+| {{Fb|Iran}}
+| [[Friedrichshafen]]
+|-
+| {{Fb|Italy}}
+| [[Duisburg]]
+|-
+| {{Fb|Ivory Coast}}
+| [[Niederkassel]]
+|-
+| {{Fb|Japan}}
+| [[Bonn]]
+|}
+<td>
+{| class="wikitable"
+|-
+! Team
+! City
+|-
+| {{Fb|Mexico}}
+| [[Göttingen]]
+|-
+| {{Fb|Netherlands}}
+| [[Hinterzarten]]
+|-
+| {{Fb|Paraguay}}
+| [[Oberhaching]]
+|-
+| {{Fb|Poland}}
+| [[Barsinghausen]]
+|-
+| {{Fb|Portugal}}
+| [[Marienfeld]]
+|-
+| {{Fb|Saudi Arabia}}
+| [[Bad Nauheim]]
+|-
+| {{Fb|Serbia and Montenegro}}
+| [[Billerbeck]]
+|-
+| {{Fb|Spain}}
+| [[Kamen]]
+|-
+| {{Fb|South Korea}}
+| [[Bergisch Gladbach]]
+|-
+| {{Fb|Sweden}}
+| [[Bremen]]
+|-
+| {{Fb|Switzerland}}
+| [[Bad Bertrich]]
+|-
+| {{Fb|Togo}}
+| [[Wangen im Allgäu]]
+|-
+| {{Fb|Trinidad and Tobago}}
+| [[Rotenburg an der Wümme]]
+|-
+| {{Fb|Tunisia}}
+| [[Schweinfurt]]
+|-
+| {{Fb|Ukraine}}
+| [[Potsdam]]
+|-
+| {{Fb|United States}}
+| [[Hamburg]]
+|}
+|}
+
+==Match officials==
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistants
+|-
+|rowspan="2"|[[Asian Football Confederation|AFC]]
+|[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+|Yoshikazu Hiroshima ([[Japan Football Association|Japan]])<br />Kim Dae-Young ([[Korea Football Association|South Korea]])
+|-
+|[[Shamsul Maidin]] ([[Football Association of Singapore|Singapore]])
+|Prachya Permpanich ([[Football Association of Thailand|Thailand]])<br />Eisa Ghoulom ([[United Arab Emirates Football Association|United Arab Emirates]])
+|-
+|rowspan="2"|[[Confederation of African Football|CAF]]
+|[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+|Aboudou Aderodjou ([[Benin Football Federation|Benin]])<br />Célestin Ntagungira ([[Rwanda Football Federation|Rwanda]])
+|-
+|[[Essam Abdel-Fatah]] ([[Egyptian Football Association|Egypt]])
+|Dramane Dante ([[Malian Football Federation|Mali]])<br />Mamadou N'Doye ([[Senegalese Football Federation|Senegal]])
+|-
+|rowspan="2"|[[CONCACAF]]
+|[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|José Ramírez ([[Mexican Football Federation|Mexico]])<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+|-
+|[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|José Luis Camargo ([[Mexican Football Federation|Mexico]])<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+|-
+|rowspan="5"|[[CONMEBOL]]
+|[[Horacio Elizondo]] ([[Argentine Football Association|Argentina]])
+|Darío García ([[Argentine Football Association|Argentina]])<br />Rodolfo Otero ([[Argentine Football Association|Argentina]])
+|-
+|[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+|Aristeu Tavares ([[Brazilian Football Confederation|Brazil]])<br />Ednílson Corona ([[Brazilian Football Confederation|Brazil]])
+|-
+|[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|José Navia ([[Colombian Football Federation|Colombia]])<br />Fernando Tamayo ([[Ecuadorian Football Federation|Ecuador]])
+|-
+|[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+|Amelio Andino ([[Paraguayan Football Association|Paraguay]])<br />Manuel Bernal ([[Paraguayan Football Association|Paraguay]])
+|-
+|[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|Wálter Rial ([[Uruguayan Football Association|Uruguay]])<br />Pablo Fandiño ([[Uruguayan Football Association|Uruguay]])
+|-
+|[[Oceania Football Confederation|OFC]]
+|[[Mark Shield]] ([[Football Federation Australia|Australia]])
+|Nathan Gibson ([[Football Federation Australia|Australia]])<br />Ben Wilson ([[Football Federation Australia|Australia]])
+|-
+|rowspan="9"|[[UEFA]]
+|[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|Peter Hermans ([[Royal Belgian Football Association|Belgium]])<br />Walter Vromans ([[Royal Belgian Football Association|Belgium]])
+|-
+|[[Graham Poll]] ([[The Football Association|England]])
+|Philip Sharp ([[The Football Association|England]])<br />Glenn Turner ([[The Football Association|England]])
+|-
+|[[Éric Poulat]] ([[French Football Federation|France]])
+|Lionel Dagorne ([[French Football Federation|France]])<br />Vincent Texier ([[French Football Federation|France]])
+|-
+|[[Markus Merk]] ([[German Football Association|Germany]])
+|Jan-Hendrik Salver ([[German Football Association|Germany]])<br />Christian Schräer ([[German Football Association|Germany]])
+|-
+|[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|Alessandro Stagnelli ([[Italian Football Federation|Italy]])<br />Cristiano Copelli ([[Italian Football Federation|Italy]])
+|-
+|[[Valentin Ivanov (footballer, born 1961)|Valentin Ivanov]] ([[Russian Football Union|Russia]])
+|Nikolay Golubev ([[Russian Football Union|Russia]])<br />Evgueni Volnin ([[Russian Football Union|Russia]])
+|-
+|[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|Roman Slyško ([[Slovak Football Association|Slovakia]])<br />Martin Balko ([[Slovak Football Association|Slovakia]])
+|-
+|[[Luis Medina Cantalejo]] ([[Royal Spanish Football Federation|Spain]])
+|Victoriano Giráldez Carrasco ([[Royal Spanish Football Federation|Spain]])<br />Pedro Medina Hernández ([[Royal Spanish Football Federation|Spain]])
+|-
+|[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|Francesco Buragina ([[Swiss Football Association|Switzerland]])<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+|}
+
+==Squads==
+{{further|2006 FIFA World Cup squads}}
+Squads for the 2006 World Cup consisted of 23&nbsp;players, as in the previous tournament in [[2002 FIFA World Cup squads|2002]]. Each participating national association had to confirm its 23-player [[2006 FIFA World Cup squads|squad]] by 15 May 2006.<ref>{{cite news|title=Deadline for submitting list of 23 players remains 15 May 2006 |url=https://www.fifa.com/worldcup/archive/germany2006/media/newsid=13258.html |publisher=FIFA.com |date=16 March 2006 |access-date=28 March 2008 |archive-url=https://web.archive.org/web/20080423021317/http://www.fifa.com/worldcup/archive/germany2006/media/newsid%3D13258.html |archive-date=23 April 2008 |url-status=dead }}</ref>
+
+==Groups==
+
+===Seeds===
+{{further|2006 FIFA World Cup seeding}}
+The eight [[Seed (sports)|seeded]] teams for the tournament were announced on 6 December 2005 and placed into Pot A for the draw. Pot B contained the unseeded qualifiers from South America, Africa and Oceania; Pot C contained eight of the nine remaining European teams, excluding [[Serbia and Montenegro national football team|Serbia and Montenegro]]. Pot D contained unseeded teams from the [[CONCACAF]] region and Asia. To ensure that no group contained three European teams, Serbia and Montenegro was placed in a special pot, as they were the lowest ranked qualified team from Europe on the latest [[FIFA Men's World Rankings|FIFA World Ranking]]; while it was deemed of less importance they had been seeded higher than Switzerland and Ukraine by the 2006 World Cup seeding tool.<ref>{{cite news|title=FIFA Organising Committee approves team classifications and final draw procedure |url=https://www.fifa.com/aboutfifa/media/newsid=101782.html |publisher=FIFA |date=6 December 2005 |access-date=29 March 2008 |archive-url=https://web.archive.org/web/20080423021144/http://www.fifa.com/aboutfifa/media/newsid%3D101782.html |archive-date=23 April 2008 |url-status=dead }}</ref> Serbia and Montenegro was drawn first, then their group was drawn from the three seeded non-European nations, [[Argentina national football team|Argentina]], [[Brazil national football team|Brazil]], and [[Mexico national football team|Mexico]]. FIFA predetermined that hosts Germany would be placed in Group A, thus being assured of the venues of their group matches in advance of the draw. They also announced in advance that defending champions Brazil would be allocated to Group F.
+
+{|
+|- valign=top
+|
+{| class="wikitable"
+|-
+|+ Pot A
+|-
+!width=150| Team !! {{Tooltip|Points|Total points in the seeding}} !! {{Tooltip|Rank|Ranking in the seeding}}
+|-
+| {{fb|GER}}{{efn|As hosts, Germany were automatically assigned to the first position in Group A.}} ||align=center| 49.3 ||align=center| 4
+|-
+| {{fb|BRA}} ||align=center| 63.7 ||align=center| 1
+|-
+| {{fb|ENG}} ||align=center| 50.7 ||align=center| 2
+|-
+| {{fb|ESP}} ||align=center| 50.0 ||align=center| 3
+|-
+| {{fb|MEX}} ||align=center| 47.3 ||align=center| 5
+|-
+| {{fb|FRA|1974}} ||align=center| 46.0 ||align=center| 6
+|-
+| {{fb|ITA|2003}} ||align=center| 44.3 ||align=center| 7
+|-
+| {{fb|ARG|1861}} ||align=center| 44.0 ||align=center| 8
+|}
+|
+{| class="wikitable"
+|-
+|+ Pot B
+|-
+!width=150| Team !! {{Tooltip|Points|Total points in the seeding}} !! {{Tooltip|Rank|Ranking in the seeding}}
+|-
+| {{fb|PAR|1990}} ||align=center| 31.3 ||align=center| 15
+|-
+| {{fb|TUN}} ||align=center| 19.0 ||align=center| 22
+|-
+| {{fb|ECU|1900}} ||align=center| 16.0 ||align=center| 23
+|-
+| {{fb|CIV}} ||align=center| 7.0 ||align=center| 27
+|-
+| {{fb|AUS}} ||align=center| 4.3 ||align=center| 28
+|-
+| {{fb|GHA}} ||align=center| 3.3 ||align=center| 30
+|-
+| {{fb|ANG}} ||align=center| 2.0 ||align=center| 31
+|-
+| {{fb|TGO}} ||align=center| 1.3 ||align=center| 32
+|}
+|
+{| class="wikitable"
+|-
+|+ Pot C
+|-
+!width=150| Team !! {{Tooltip|Points|Total points in the seeding}} !! {{Tooltip|Rank|Ranking in the seeding}}
+|-
+| {{fb|NED}} ||align=center| 38.3 ||align=center| 10
+|-
+| {{fb|SWE}} ||align=center| 33.7 ||align=center| 13
+|-
+| {{fb|CRO}} ||align=center| 33.0 ||align=center| 14
+|-
+| {{fb|CZE}} ||align=center| 29.0 ||align=center| 16
+|-
+| {{fb|POR}} ||align=center| 28.7 ||align=center| 17
+|-
+| {{fb|POL}} ||align=center| 20.3 ||align=center| 20
+|-
+| {{fb|SUI}} ||align=center| 8.7 ||align=center| 25
+|-
+| {{fb|UKR}} ||align=center| 7.0 ||align=center| 26
+|}
+|
+{| class="wikitable"
+|-
+|+ Pot D
+|-
+!width=150| Team !! {{Tooltip|Points|Total points in the seeding}} !! {{Tooltip|Rank|Ranking in the seeding}}
+|-
+| {{fb|USA}} ||align=center| 42.7 ||align=center| 9
+|-
+| {{fb|KOR|1997}} ||align=center| 37.3 ||align=center| 11
+|-
+| {{fb|JPN}} ||align=center| 36.0 ||align=center| 12
+|-
+| {{fb|CRC}} ||align=center| 22.7 ||align=center| 18
+|-
+| {{fb|KSA}} ||align=center| 20.7 ||align=center| 19
+|-
+| {{fb|IRN}} ||align=center| 19.3 ||align=center| 21
+|-
+| {{fb|TRI}} ||align=center| 4.3 ||align=center| 29
+|}
+|
+|}
+{| class="wikitable"
+|-
+|+ Special Pot
+|-
+!width=150| Team !! {{Tooltip|Points|Total points in the seeding}} !! {{Tooltip|Rank|Ranking in the seeding}}
+|-
+| {{fb|SCG}} ||align=center| 15.7 ||align=center| 24
+|}
+
+The group stage draw was held in Leipzig on 9 December 2005, and the group assignments and order of matches were determined. After the draw was completed, commentators remarked that Group C appeared to be the [[group of death]], while others suggested Group E.<ref>{{cite news|first=Paul |last=Wilson |title=An easy group? Draw your own conclusions |url=https://www.theguardian.com/football/2005/dec/11/sport.worldcup20062 |work=The Observer |location=UK |date=11 December 2005 |access-date=26 June 2006 |archive-url=https://web.archive.org/web/20060630182032/http://football.guardian.co.uk/Columnists/Column/0%2C4284%2C1664561%2C00.html |archive-date=30 June 2006 |url-status=live }}</ref><ref>{{cite web|url=http://soccernet.espn.go.com/columns/story?id=368725&root=worldcup&cc=5901 |title=Group C Tactics Board |last=Palmer |first=Kevin |publisher=ESPNsoccernet |date=24 May 2006 |access-date=26 June 2006 |archive-url=https://web.archive.org/web/20060620151414/http://soccernet.espn.go.com/columns/story?id=368725&root=worldcup&cc=5901 |archive-date=20 June 2006 |url-status=dead }}</ref> Argentina and the Netherlands both qualified with a game to spare with wins over Ivory Coast and Serbia and Montenegro respectively.
+
+===Group system===
+The first round, or group stage, saw the 32 teams divided into eight groups of four teams. Each group was a [[round-robin tournament|round-robin]] of three games, where each team played one match against each of the other teams in the same group. Teams were awarded three points for a win, one point for a draw and none for a defeat. The teams coming first and second in each group qualified for the Round of 16.
+
+====Ranking criteria====
+If teams were level on points, they were ranked on the following criteria in order:
+
+{{blockquote|
+# Greatest total goal difference in the three group matches
+# Greatest number of goals scored in the three group matches
+# If teams remained level after those criteria, a mini-group would be formed from those teams, who would be ranked on:
+## Most points earned in matches against other teams in the tie
+## Greatest goal difference in matches against other teams in the tie
+## Greatest number of goals scored in matches against other teams in the tie
+# If teams remained level after all these criteria, FIFA would hold a drawing of lots}}
+In the original version of the rules for the finals tournament, the system used during the qualifiers was in force. This system had the ranking criteria in a different order, with head-to-head results taking precedence over total goal difference. The rules were changed to the above in advance of the tournament, but older versions were still available on the FIFA and UEFA websites, causing some confusion among those trying to identify the correct criteria.<ref>{{cite web|url=http://www.geocities.com/worldcupspreadsheets/rulechange.html |title=FIFA changes World Cup tie-breaking rules |last=O'Dea |first=Joseph |date=18 May 2006 |access-date=29 June 2006 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> In any event, the finals tournament saw only two pairs of teams level on points: Argentina and the Netherlands at 7 points in Group C; Tunisia and Saudi Arabia at 1 point in Group H. Both of these ties were resolved on total goal difference. Moreover, in both cases the teams had tied their match, so the order of ranking criteria made no difference.
+
+==Finals tournament==
+The finals tournament of the 2006 FIFA World Cup began on 9 June. The 32&nbsp;teams were divided into eight groups of four teams each, within which the teams competed in a round-robin tournament to determine which two of those four teams would advance to the sixteen-team knock-out stage, which started on 24 June. In total, 64&nbsp;games were played.
+
+===Hosting===
+Although Germany failed to win the Cup, the tournament was considered a great success for Germany in general. Germany also experienced a sudden increase in patriotic spirit with flags waving, traditionally frowned upon by German society since World War II whenever the German team played.<ref>{{cite news|url=http://fifaworldcup.yahoo.com/06/en/060709/1/8p6r.html |title=South African to learn lessons from Germany |publisher=The 2006 FIFA World Cup Germany |date=9 July 2006 |access-date=27 July 2006 |archive-url=https://web.archive.org/web/20060719130930/http://fifaworldcup.yahoo.com/06/en/060709/1/8p6r.html |archive-date=19 July 2006 |url-status=live }}</ref> For the closing ceremonies, [[Matthias Keller (musician)|Matthias Keller]] composed a work performed simultaneously by the [[Munich Philharmonic Orchestra]], the [[Bavarian State Orchestra]] and the [[Bavarian Radio Orchestra]] with conductors [[Christian Thielemann]], [[Zubin Mehta]] and [[Mariss Jansons]], and soloists [[Diana Damrau]], [[Plácido Domingo]] and [[Lang Lang]].
+
+===Traditional powers dominate===
+Despite early success by [[Australia men's national soccer team|Australia]], [[Ecuador national football team|Ecuador]], and [[Ghana national football team|Ghana]], the tournament marked a return to dominance of traditional football powers. Four years after the [[2002 FIFA World Cup|2002 tournament]], in which teams from North America (the [[United States men's national soccer team|United States]]), Africa ([[Senegal national football team|Senegal]]) and Asia ([[South Korea national football team|South Korea]]) made it deep into the knockout stages and [[Turkey national football team|Turkey]] finished third, all eight seeded teams progressed to the knockout stages and no quarter-finalists were from outside Europe or South America. Six former champions took part in the quarter-finals, with Ukraine and [[2004 UEFA European Football Championship|Euro 2004]] runners-up [[Portugal national football team|Portugal]] as the only relative outsiders.<ref>{{cite news|title=World Cup quarterfinals |url=http://www.signonsandiego.com/sports/soccer/20060630-9999-lz1s30worldcu.html |last=Zeigler |first=Mark |publisher=Union Tribune |date=30 June 2006 |access-date=31 March 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080524021422/http://www.signonsandiego.com/sports/soccer/20060630-9999-lz1s30worldcu.html |archive-date=24 May 2008 }}</ref> Argentina and Brazil were eliminated in the quarter-finals, leaving an all-European final four for only the fourth time (after the [[1934 FIFA World Cup|1934]], [[1966 FIFA World Cup|1966]], and [[1982 FIFA World Cup|1982]] tournaments).
+
+===Scoring===
+Despite the early goals that flooded the group stages, the knock-out phase had a much lower goals per match ratio. A prime example of the dearth of goals was Portugal, which only scored in the 23rd minute of the round of 16, and did not score again until the 88th minute of the match for third place. No player managed to score a hat-trick in this tournament, the only time this happened in the tournament's history. Italy, Germany, Argentina, Brazil and France were the only teams to score more than one goal in a knockout match. Germany was one of the exceptions, tending to play an attacking style of football throughout the knock-out stage, which was reflected by the fact that they scored the most goals (14), with players from all three outfield positions (defence, midfield and forward) making the scoresheet.
+
+Germany's [[Miroslav Klose]] scored five goals to claim the Golden Boot, the lowest total to win the prize since [[1962 FIFA World Cup|1962]]. No other player scored more than three goals. No player from the winning Italian squad scored more than two goals, though ten players had scored for the team, tying France's record in [[1982 FIFA World Cup|1982]] for the most goalscorers from any one team. For the first time ever in the FIFA World Cup, the first and last goals of the tournament were scored by defenders. German [[Defender (association football)#Full-back|left-back]] [[Philipp Lahm]] scored the opener against Costa Rica after only 5&nbsp;minutes of the opening match. In the final, Italian [[Defender (association football)#Centre-back|centre-back]] [[Marco Materazzi]] out-jumped [[Patrick Vieira]] and headed in the last goal of the 2006 World Cup. In addition, [[Fabio Grosso]] clinched the cup for Italy with the decisive spot kick in the penalty shoot-out.
+
+===Unprecedented number of cards===
+The tournament had a record number of yellow and red cards, breaking the previous record set by the [[1998 FIFA World Cup#Tournament|1998 World Cup]]. Players received a record-breaking 345&nbsp;yellow cards and 28&nbsp;red cards, with Russian referee [[Valentin Ivanov (footballer, born 1961)|Valentin Ivanov]] handing out 16&nbsp;yellow and 4&nbsp;red cards in the round of 16 match between Portugal and the [[Netherlands national football team|Netherlands]] in a match known as the [[Battle of Nuremberg (2006 FIFA World Cup)|Battle of Nuremberg]]. Portugal had two players suspended for each of the quarter-final and semi-final matches respectively. FIFA President [[Sepp Blatter]] suggested that he might allow some rule changes for future tournaments so that earlier accumulated bookings would not force players to miss the final, should their teams make it that far. The tournament also saw English referee [[Graham Poll]] mistakenly hand out three yellow cards to Croatia's [[Josip Šimunić]] in their match against Australia. The high number of yellow and red cards show prompted discussion about the tournament's [[2006 FIFA World Cup officials|referees]]. FIFA officials and Blatter received criticism for allegedly making rules too rigid and taking discretion away from referees.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/5117520.stm |title=Who's to blame for Cup card frenzy? |work=BBC Sport |date=26 June 2006 |access-date=23 July 2006 |archive-date=17 December 2007 |archive-url=https://web.archive.org/web/20071217163854/http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/5117520.stm |url-status=live }}</ref>
+
+==Group stage==
+[[File:2006 world cup.png|thumb|upright=2.05|{{Colbegin|colwidth=8em}} {{legend|#2b42a3|Champion}} {{legend|#34c0be|Runner-up}} {{legend|#269c5a|Third place}} {{legend|#81c846|Fourth place}} {{legend|#e4e454|Quarter-finals}} {{legend|#f4d4ac|Round of 16}} {{legend|#b94954|Group stage}} {{colend}}]] <!-- Note: background colour style shown here for later use, when colour codes used in map determined: <span style="background:yellow;">text here</span>--->
+
+''All times are [[Central European Summer Time]] ([[UTC+02:00|UTC+2]]).''
+
+===Group A===
+{{main|2006 FIFA World Cup Group A}}
+In the opening match of the tournament, Germany and [[Costa Rica national football team|Costa Rica]] played a game which ended 4–2 for the host in the highest scoring opening match in the tournament's history. Germany went on to win the Group A after edging [[Poland national football team|Poland]] and breezing past [[Ecuador national football team|Ecuador]] 3–0. Despite the defeat, Ecuador had already joined the host in the Round of 16 having beaten Poland and Costa Rica 2–0 and 3–0, respectively.
+{{:2006 FIFA World Cup Group A|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group A}}
+
+===Group B===
+{{main|2006 FIFA World Cup Group B}}
+In Group B, [[England national football team|England]] and [[Sweden men's national football team|Sweden]] pushed [[Paraguay national football team|Paraguay]] into third place after narrow victories over the South Americans. [[Trinidad and Tobago national football team|Trinidad and Tobago]] earned some international respect after a draw with Sweden in their opening game and managing to hold England scoreless for 83&nbsp;minutes, until goals from [[Peter Crouch]] and [[Steven Gerrard]] sealed a 2–0 win for the Three Lions. Sweden qualified for the knockout rounds after drawing 2–2 with England to maintain their 38-year unbeaten record against them.
+{{:2006 FIFA World Cup Group B|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group B}}
+
+===Group C===
+{{main|2006 FIFA World Cup Group C}}
+Both [[Argentina national football team|Argentina]] and [[Netherlands national football team|Netherlands]] qualified from Group C with a game remaining. Argentina topped the group on goal difference, having hammered [[Serbia and Montenegro national football team|Serbia and Montenegro]] 6–0 and beaten [[Ivory Coast national football team|Ivory Coast]] 2–1. The Dutch picked up 1–0 and 2–1 victories over Serbia and Montenegro and Ivory Coast, respectively. Ivory Coast defeated Serbia and Montenegro 3–2 in their final game, in Serbia and Montenegro's last international as the country had dissolved 18 days earlier.
+{{:2006 FIFA World Cup Group C|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group C}}
+
+===Group D===
+{{main|2006 FIFA World Cup Group D}}
+[[Portugal national football team|Portugal]] coasted through in Group D, picking up the maximum number of points, with [[Mexico national football team|Mexico]] qualifying in second. [[Iran national football team|Iran]] missed chances against Mexico in their opening 1–3 defeat and were eliminated after losing their match against Portugal. They fought hard against the Portuguese, but lost 2–0. Their last game against [[Angola national football team|Angola]] ended in 1–1 draw. The Africans had a respectable first World Cup tournament after earning draws with Mexico (0–0) and Iran.
+{{:2006 FIFA World Cup Group D|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group D}}
+
+===Group E===
+{{main|2006 FIFA World Cup Group E}}
+In Group E, [[Italy national football team|Italy]] went through to the Round of 16 conceding just one goal (an [[own goal]]) by [[Cristian Zaccardo]] in the group phase against the [[United States men's national soccer team|United States]]. The US bowed out of the tournament after disappointing results against the [[Czech Republic national football team|Czech Republic]] and [[Ghana national football team|Ghana]], 0–3 and 1–2, respectively, despite a 1–1 draw (finishing with 9 vs 10 men) against Italy. Tournament debutant Ghana joined Italy in the round of 16, following victories over the Czech Republic and the United States. [[Daniele De Rossi]] was suspended for 4 games following his sending-off against the United States.
+{{:2006 FIFA World Cup Group E|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group E}}
+
+===Group F===
+{{main|2006 FIFA World Cup Group F}}
+Group F included the reigning [[2002 FIFA World Cup|World Champions]] [[Brazil national football team|Brazil]], [[Croatia national football team|Croatia]], [[Japan national football team|Japan]], and [[Australia men's national soccer team|Australia]]. Playing in their first World Cup for 32 years, Australia came from behind to defeat Japan 3–1, and, despite losing 0–2 to Brazil, a 2–2 draw with Croatia was enough to give the Australians a place in the Round of 16 in a game where two players were sent-off for second bookings and one, erroneously, for a [[List of 2006 FIFA World Cup controversies#Three yellow cards issued (Croatia vs. Australia, group stage)|third booking]] by English referee [[Graham Poll]]. The Brazilians won all three games to qualify first in the group. Their 1–0 win against Croatia was through a goal late in the first-half by [[Kaká]]. Croatia and Japan went out of the tournament without a single win.
+{{:2006 FIFA World Cup Group F|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group F}}
+
+===Group G===
+{{main|2006 FIFA World Cup Group G}}
+[[France national football team|France]] only managed a scoreless draw against [[Switzerland national football team|Switzerland]] and a 1–1 draw against [[South Korea national football team|South Korea]]. With captain [[Zinedine Zidane]] suspended, their 2–0 win against [[Togo national football team|Togo]] was enough for them to advance to the knockout round. They were joined by the group winners, Switzerland, who defeated South Korea 2–0, and did not concede a goal in the tournament. South Korea won their first World Cup finals match outside their own country in defeating Togo, but four points were not enough to see them through to the round of 16 (the only team for which this was the case), while Togo exited without a point.
+{{:2006 FIFA World Cup Group G|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group G}}
+
+===Group H===
+{{main|2006 FIFA World Cup Group H}}
+[[Spain men's national football team|Spain]] dominated Group H, picking up the maximum number of points, scoring 8 goals, and conceding only 1. [[Ukraine national football team|Ukraine]], despite being beaten 4–0 by Spain in their first World Cup game, took advantage of the weaker opponents to beat [[Saudi Arabia national football team|Saudi Arabia]] 4–0 and scrape past [[Tunisia national football team|Tunisia]] 1–0 thanks to a 70th-minute penalty by [[Andriy Shevchenko]], to reach the Round of 16. Saudi Arabia and Tunisia went out of the tournament having 1&nbsp;point each, thanks to a 2–2 draw against each other.
+{{:2006 FIFA World Cup Group H|transcludesection=standings|only_pld_pts=no_hide_class_rules}}
+{{#invoke:Football group summary|main|article=2006 FIFA World Cup Group H}}
+
+==Knockout stage==
+{{main|2006 FIFA World Cup knockout stage}}
+The [[Single-elimination tournament|knockout stage]] involved the sixteen teams that qualified from the group stage of the tournament. There were four rounds of matches, with each round eliminating half of the teams entering that round. The successive rounds were: round of 16, quarter-finals, semi-finals, and final. There was also a match for third place between the losing semi-finalists. For each game in the knockout stage, a draw was followed by thirty minutes of [[Overtime (association football)|extra time]] (two 15-minute halves); if scores were still level there would be a [[Penalty shoot-out (association football)|penalty shoot-out]] (at least five penalties each, and more if necessary) to determine who progressed to the next round.
+
+===Bracket===
+Results decided after extra time are indicated by (a.e.t.), and results decided via a penalty shoot-out are indicated by (p).
+{{trim|{{#section-h:2006 FIFA World Cup knockout stage|Bracket}}}}
+
+===Round of 16===
+In the second round, conceding two early goals in the first twelve minutes to Germany effectively ended the Swedes' hopes of progressing to the quarter-finals. Argentina struggled to get past Mexico until a [[Maxi Rodríguez]] goal in extra time put the ''Albiceleste'' in the quarter-finals. Australia's journey ended when Italy were awarded a controversial penalty scored by [[Francesco Totti]], deep into the remaining seconds of the match, after [[Fabio Grosso]] went down in the penalty box.<ref>{{cite web |last1=Lander |first1=Mark |title=A Tumble, a Whistle and a Controversial Victory for Italy |url=https://www.nytimes.com/2006/06/27/sports/soccer/27italy.html |website=[[The New York Times]] |access-date=23 June 2024 |date=27 June 2006 |archive-date=29 January 2021 |archive-url=https://web.archive.org/web/20210129094010/https://www.nytimes.com/2006/06/27/sports/soccer/27italy.html |url-status=live }}</ref> The Italians had spent much of the game with only ten men on the field, following a controversial red card shown to [[Centre-back|centre back]] [[Marco Materazzi]]. In a 0–0 match, described in ''[[The Guardian]]'' as "the dullest game in World Cup history",<ref>{{cite news |last1=Lea |first1=Greg |title=The dullest game in World Cup history: Switzerland v Ukraine in 2006 |url=https://www.theguardian.com/football/the-set-pieces-blog/2018/jun/01/world-cup-history-worst-game-ukraine-switzerland |access-date=28 June 2021 |work=The Guardian |date=2018-06-01 |language=en |archive-date=28 June 2021 |archive-url=https://web.archive.org/web/20210628213925/https://www.theguardian.com/football/the-set-pieces-blog/2018/jun/01/world-cup-history-worst-game-ukraine-switzerland |url-status=live }}</ref> Switzerland failed to convert any of their three penalties in the [[Penalty shoot-out (association football)|penalty shoot-out]] against Ukraine to see them exit the competition with an unwanted new record in becoming the first team in a World Cup to fail to convert any penalties in a shoot-out. Their elimination also meant that they became the first nation to be eliminated from the World Cup without conceding any goals (and indeed the only nation ever to participate in a World Cup finals tournament without conceding a goal). No two teams from the same group qualified for the quarters, all eight teams were from different groups.
+
+England struggled against Ecuador but won 1–0 thanks to a [[David Beckham]] free kick. Brazil won 3–0 against Ghana, in a game which included [[Ronaldo (Brazilian footballer)|Ronaldo]]'s record 15th World Cup goal. ''[[Der Spiegel]]'' reported that the match may have been influenced by an Asian betting syndicate.<ref>{{cite web |url=http://www.spiegel.de/international/world/interview-with-match-fixing-investigator-declan-hill-i-am-sure-the-game-was-manipulated-a-575586.html |title=Interview with Match-Fixing Investigator Declan Hill: 'I Am Sure the Game Was Manipulated' |work=Der Spiegel |date=1 September 2008 |access-date=8 January 2016 |archive-date=24 February 2016 |archive-url=https://web.archive.org/web/20160224122511/http://www.spiegel.de/international/world/interview-with-match-fixing-investigator-declan-hill-i-am-sure-the-game-was-manipulated-a-575586.html |url-status=live }}</ref> Portugal defeated the Netherlands 1–0. The only goal came courtesy of a [[Maniche]] strike in an [[Battle of Nuremberg (association football)|acrimonious match]], which marked a new World Cup record with 16&nbsp;yellow cards (Portugal: 9, the Netherlands: 7) and 4&nbsp;players being sent off for a second bookable offence. France came from behind to defeat Spain 3–1 thanks to goals from [[Franck Ribéry]], [[Patrick Vieira]], and [[Zinedine Zidane]].
+
+{{#lst:2006 FIFA World Cup knockout stage|R16-1}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|R16-2}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|R16-3}}
+----
+{{main|Battle of Nuremberg (2006 FIFA World Cup)}}
+{{#lst:2006 FIFA World Cup knockout stage|R16-4}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|R16-5}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|R16-6}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|R16-7}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|R16-8}}
+
+===Quarter-finals===
+Germany and Argentina ended 1–1 after extra time; the hosts edged out the Argentinians 4–2 on penalties to go through to the semi-finals (this was the first time Argentina had lost a World Cup penalty shoot-out: up until this match, Argentina and Germany had each participated in three penalty shoot-outs, winning all of them). In [[Arena AufSchalke|Gelsenkirchen]], England faced Portugal in a repeat of their Euro 2004 quarter-final. This time [[Wayne Rooney]] was sent off, and Portugal again won on penalties, 3–1 after a 0–0 draw to reach their first World Cup semi-final since the days of [[Eusébio]] 40 years earlier. This gave manager [[Luiz Felipe Scolari]] his third consecutive tournament quarter-final win over [[Sven-Göran Eriksson]]'s England, first with Brazil en route to their 2002 World Cup win, then with Portugal in 2004 and 2006. Italy defeated quarter-final debutants Ukraine 3–0. France eliminated Brazil 1–0 to advance into the semi-finals. Brazil only managed one shot on goal, while [[Zinedine Zidane]]'s dribbling earned him Man of the Match and his free-kick to [[Thierry Henry]] resulted in the winning goal.
+
+{{#lst:2006 FIFA World Cup knockout stage|QF1}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|QF2}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|QF3}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|QF4}}
+
+===Semi-finals===
+With Argentina and Brazil eliminated in the quarter-finals, an all-European semi-final line up was completed for only the fourth time (after the [[1934 FIFA World Cup|1934]], [[1966 FIFA World Cup|1966]] and [[1982 FIFA World Cup|1982]] tournaments—this would happen again in [[2018 FIFA World Cup|2018]]). The semi-final between Germany and Italy produced an extra time period that went scoreless until the 118th minute, when Italy scored twice through [[Fabio Grosso]] and [[Alessandro Del Piero]], putting an end to Germany's undefeated record in Dortmund. In the second semi-final, Portugal lost to France 1–0 in [[Allianz Arena|Munich]]. In a repeat of the [[UEFA Euro 1984|Euro 1984]] and [[UEFA Euro 2000|Euro 2000]] semi-finals, Portugal were defeated by France, with the decisive goal being a penalty scored by France captain Zinedine Zidane.
+
+{{#lst:2006 FIFA World Cup knockout stage|SF1}}
+----
+{{#lst:2006 FIFA World Cup knockout stage|SF2}}
+
+===Match for third place===
+The hosts got three goals in 20&nbsp;minutes in the second half with the help of 21-year-old left [[midfielder]] [[Bastian Schweinsteiger]]. His first goal beat the Portuguese goalkeeper [[Ricardo (footballer, born 1976)|Ricardo]] with pace over his head. Only 4&nbsp;minutes later, Schweinsteiger's free kick 30&nbsp;metres from the left of the penalty box, driven low across goal, was connected with [[Petit (Portuguese footballer)|Petit]]'s knee to become an own goal for Portugal. The German did not stop, and netted his second goal, which swerved away to the keeper's left, in the 78th minute. Portugal were strong in possession but lacked punch in attack; unable to convert 57% possession into goals. [[Pauleta]] had two clear chances from 15 metres, but both times hit tame shots that did not trouble keeper [[Oliver Kahn]], who was playing in his last match for the German national team. Portugal got a consolation goal with the help of substitute [[Luís Figo]] (also playing the final international game of his career), who almost immediately provided the precise distribution needed to unlock the German defence. A cross from the right wing on 88 minutes found fellow substitute [[Nuno Gomes]] at the far post, who dived in for the goal. The game ended 3–1, a result which gave the tournament hosts the bronze medals and left Portugal in fourth place.
+
+{{#lst:2006 FIFA World Cup knockout stage|3rd}}
+
+===Final===
+{{main|2006 FIFA World Cup final}}
+
+The final started with each side scoring within the first 20&nbsp;minutes. Zinedine Zidane opened the scoring by converting a controversial seventh-minute penalty kick,<ref>{{cite news|url=http://www.cbc.ca/sports/worldcup2006/storyview.html?/story/sports/national/2006/07/09/france-italy-worldcup.html |title=Italy wins World Cup |publisher=CBC Sports |date=9 July 2006 |access-date=5 October 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060715212514/http://www.cbc.ca/sports/worldcup2006/storyview.html?%2Fstory%2Fsports%2Fnational%2F2006%2F07%2F09%2Ffrance-italy-worldcup.html |archive-date=15 July 2006 }}</ref> which glanced off the underside of the crossbar and bounced beyond the goal line before it spun back up, hit the crossbar again and rebounded out of the goal.<ref>{{cite web|title=Zinedine Zidane Penalty Kick France V Italy FIFA World Cup Final 2006 HD HQ|url=https://www.youtube.com/watch?v=tO_E1TeT770|archive-url=https://web.archive.org/web/20120425213202/http://www.youtube.com/watch?v=tO_E1TeT770&gl=US&hl=en|archive-date=25 April 2012|website=Youtube.com|access-date=9 August 2014}}</ref> Marco Materazzi then levelled the scores in the 19th minute following an [[Andrea Pirlo]] corner. Both teams had chances to score the winning goal in normal time: [[Luca Toni]] hit the crossbar in the 35th minute for Italy (he later had a header disallowed for offside), while France were not awarded a possible second penalty in the 53rd minute when [[Florent Malouda]] went down in the box after a tackle from [[Gianluca Zambrotta]]. The reverse camera angle later made it clear that there was no penalty and that the referee took the right decision. At the end of the regulation 90 minutes, the score was still level at 1–1, and the match went into [[Overtime (sports)|extra time]]. Italian goalkeeper [[Gianluigi Buffon]] made a potentially game-saving save in extra time when he tipped a Zidane header over the crossbar. Further controversy ensued near the end of extra time, when [[Zidane–Materazzi incident|Zidane head-butted Materazzi]] in the chest in an off-the-ball incident and was sent off. Extra time produced no further goals and a penalty shoot-out followed, which Italy won 5–3. France's [[David Trezeguet]], the man who scored the [[golden goal]] against Italy in [[UEFA Euro 2000|Euro 2000]], was the only player not to score his penalty; his spot kick hit the crossbar, landed on the goal line, and went out. It was the first all-European final since Italy's triumph over West Germany in the [[1982 FIFA World Cup|1982 World Cup]], and the second final, after [[1994 FIFA World Cup final|1994]], to be decided on penalties. It was also Italy's first world title in 24 years, and their fourth overall, making them the second most successful World Cup team ever. The victory also helped Italy top the [[FIFA World Rankings]] in February 2007 for the first time since November 1993.
+
+{{#lst:2006 FIFA World Cup final|Final}}
+
+==Statistics==
+
+===Goal scorers===
+[[Miroslav Klose]] received the [[World Cup Golden Boot|Golden Boot]] for scoring five goals in the World Cup. In total, 147 goals were scored by 110 players, with four of them credited as own goals.
+
+{{trim|{{Goalscorers
+|5 goals=
+* {{flagicon|GER}} [[Miroslav Klose]]
+
+|3 goals=
+* {{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]]
+* {{flagicon|ARG|1861}} [[Hernán Crespo]]
+* {{flagicon|ARG|1861}} [[Maxi Rodríguez]]
+* {{flagicon|FRA|1974}} [[Thierry Henry]]
+* {{flagicon|FRA|1974}} [[Zinedine Zidane]]
+* {{flagicon|GER}} [[Lukas Podolski]]
+* {{flagicon|ESP}} [[Fernando Torres]]
+* {{flagicon|ESP}} [[David Villa]]
+
+|2 goals=
+* {{flagicon|AUS}} [[Tim Cahill]]
+* {{flagicon|BRA}} [[Adriano Leite Ribeiro|Adriano]]
+* {{flagicon|CRC}} [[Paulo Wanchope]]
+* {{flagicon|CZE}} [[Tomáš Rosický]]
+* {{flagicon|ECU|1900}} [[Agustín Delgado]]
+* {{flagicon|ECU|1900}} [[Carlos Tenorio]]
+* {{flagicon|ENG}} [[Steven Gerrard]]
+* {{flagicon|FRA|1974}} [[Patrick Vieira]]
+* {{flagicon|GER}} [[Bastian Schweinsteiger]]
+* {{flagicon|ITA|2003}} [[Marco Materazzi]]
+* {{flagicon|ITA|2003}} [[Luca Toni]]
+* {{flagicon|CIV}} [[Aruna Dindane]]
+* {{flagicon|MEX}} [[Omar Bravo]]
+* {{flagicon|POL}} [[Bartosz Bosacki]]
+* {{flagicon|POR}} [[Maniche]]
+* {{flagicon|SUI}} [[Alexander Frei]]
+* {{flagicon|UKR}} [[Andriy Shevchenko]]
+
+|1 goal=
+* {{flagicon|ANG}} [[Flávio Amado|Flávio]]
+* {{flagicon|ARG|1861}} [[Roberto Ayala]]
+* {{flagicon|ARG|1861}} [[Esteban Cambiasso]]
+* {{flagicon|ARG|1861}} [[Lionel Messi]]
+* {{flagicon|ARG|1861}} [[Javier Saviola]]
+* {{flagicon|ARG|1861}} [[Carlos Tevez]]
+* {{flagicon|AUS}} [[John Aloisi]]
+* {{flagicon|AUS}} [[Harry Kewell]]
+* {{flagicon|AUS}} [[Craig Moore]]
+* {{flagicon|BRA}} [[Fred (footballer, born 1983)|Fred]]
+* {{flagicon|BRA}} [[Gilberto (footballer, born 1976)|Gilberto]]
+* {{flagicon|BRA}} [[Juninho Pernambucano|Juninho]]
+* {{flagicon|BRA}} [[Kaká]]
+* {{flagicon|BRA}} [[Zé Roberto]]
+* {{flagicon|CRC}} [[Rónald Gómez]]
+* {{flagicon|CRO}} [[Niko Kovač]]
+* {{flagicon|CRO}} [[Darijo Srna]]
+* {{flagicon|CZE}} [[Jan Koller]]
+* {{flagicon|ECU|1900}} [[Iván Kaviedes]]
+* {{flagicon|ENG}} [[David Beckham]]
+* {{flagicon|ENG}} [[Joe Cole]]
+* {{flagicon|ENG}} [[Peter Crouch]]
+* {{flagicon|FRA|1974}} [[Franck Ribéry]]
+* {{flagicon|GER}} [[Torsten Frings]]
+* {{flagicon|GER}} [[Philipp Lahm]]
+* {{flagicon|GER}} [[Oliver Neuville]]
+* {{flagicon|GHA}} [[Stephen Appiah]]
+* {{flagicon|GHA}} [[Haminu Draman]]
+* {{flagicon|GHA}} [[Asamoah Gyan]]
+* {{flagicon|GHA}} [[Sulley Muntari]]
+* {{flagicon|IRN}} [[Sohrab Bakhtiarizadeh]]
+* {{flagicon|IRN}} [[Yahya Golmohammadi]]
+* {{flagicon|ITA|2003}} [[Alessandro Del Piero]]
+* {{flagicon|ITA|2003}} [[Alberto Gilardino]]
+* {{flagicon|ITA|2003}} [[Fabio Grosso]]
+* {{flagicon|ITA|2003}} [[Vincenzo Iaquinta]]
+* {{flagicon|ITA|2003}} [[Filippo Inzaghi]]
+* {{flagicon|ITA|2003}} [[Andrea Pirlo]]
+* {{flagicon|ITA|2003}} [[Francesco Totti]]
+* {{flagicon|ITA|2003}} [[Gianluca Zambrotta]]
+* {{flagicon|CIV}} [[Didier Drogba]]
+* {{flagicon|CIV}} [[Bonaventure Kalou]]
+* {{flagicon|CIV}} [[Bakari Koné]]
+* {{flagicon|JPN}} [[Shunsuke Nakamura]]
+* {{flagicon|JPN}} [[Keiji Tamada]]
+* {{flagicon|MEX}} [[Francisco Fonseca]]
+* {{flagicon|MEX}} [[Rafael Márquez]]
+* {{flagicon|MEX}} [[Sinha (footballer)|Sinha]]
+* {{flagicon|NED}} [[Ruud van Nistelrooy]]
+* {{flagicon|NED}} [[Robin van Persie]]
+* {{flagicon|NED}} [[Arjen Robben]]
+* {{flagicon|PAR|1990}} [[Nelson Cuevas]]
+* {{flagicon|POR}} [[Cristiano Ronaldo]]
+* {{flagicon|POR}} [[Deco]]
+* {{flagicon|POR}} [[Nuno Gomes]]
+* {{flagicon|POR}} [[Pauleta]]
+* {{flagicon|POR}} [[Simão Sabrosa|Simão]]
+* {{flagicon|KSA}} [[Sami Al-Jaber]]
+* {{flagicon|KSA}} [[Yasser Al-Qahtani]]
+* {{flagicon|SCG}} [[Saša Ilić (footballer, born 1977)|Saša Ilić]]
+* {{flagicon|SCG}} [[Nikola Žigić]]
+* {{flagicon|KOR|1997}} [[Ahn Jung-hwan]]
+* {{flagicon|KOR|1997}} [[Lee Chun-soo]]
+* {{flagicon|KOR|1997}} [[Park Ji-sung]]
+* {{flagicon|ESP}} [[Xabi Alonso]]
+* {{flagicon|ESP}} [[Juanito (footballer, born 1976)|Juanito]]
+* {{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+* {{flagicon|SWE}} [[Marcus Allbäck]]
+* {{flagicon|SWE}} [[Henrik Larsson]]
+* {{flagicon|SWE}} [[Freddie Ljungberg]]
+* {{flagicon|SUI}} [[Tranquillo Barnetta]]
+* {{flagicon|SUI}} [[Philippe Senderos]]
+* {{flagicon|TOG}} [[Mohamed Kader]]
+* {{flagicon|TUN}} [[Radhi Jaïdi]]
+* {{flagicon|TUN}} [[Ziad Jaziri]]
+* {{flagicon|TUN}} [[Jawhar Mnari]]
+* {{flagicon|UKR}} [[Maksym Kalynychenko]]
+* {{flagicon|UKR}} [[Serhiy Rebrov]]
+* {{flagicon|UKR}} [[Andriy Rusol]]
+* {{flagicon|USA}} [[Clint Dempsey]]
+
+|1 own goal=
+* {{flagicon|ITA|2003}} [[Cristian Zaccardo]] (against the United States)
+* {{flagicon|PAR|1990}} [[Carlos Gamarra]] (against England)
+* {{flagicon|POR}} [[Petit (Portuguese footballer)|Petit]] (against Germany)
+* {{flagicon|TRI}} [[Brent Sancho]] (against Paraguay)
+}}}}
+
+===Discipline===
+{| class="wikitable sortable plainrowheaders"
+|-
+! Player
+! Offence(s)
+! Suspension(s)
+|-
+| {{fbicon|TRI}} [[Avery John]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group B#Trinidad and Tobago vs Sweden|Group B]] vs [[Sweden men's national football team|Sweden]] (matchday 1; 10 June)
+| [[2006 FIFA World Cup Group B#Trinidad and Tobago vs England|Group B]] vs [[England national football team|England]] (matchday 2; 15 June)
+|-
+| {{fbicon|TOG}} [[Jean-Paul Abalo]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group G#Togo vs South Korea|Group G]] vs [[South Korea national football team|South Korea]] (matchday 1; 13 June)
+| [[2006 FIFA World Cup Group G#Togo vs Switzerland|Group G]] vs [[Switzerland national football team|Switzerland]] (matchday 2; 19 June)
+|-
+| {{fbicon|UKR}} [[Vladyslav Vashchuk]]
+| {{sent off}} in [[2006 FIFA World Cup Group H#Ukraine vs Spain|Group H]] vs [[Spain national football team|Spain]] (matchday 1; 14 June)
+| [[2006 FIFA World Cup Group H#Ukraine vs Saudi Arabia|Group H]] vs [[Saudi Arabia national football team|Saudi Arabia]] (matchday 2; 19 June)
+|-
+| {{fbicon|POL}} [[Radosław Sobolewski]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group A#Poland vs Germany|Group A]] vs [[Germany national football team|Germany]] (matchday 2; 14 June)
+| [[2006 FIFA World Cup Group A#Poland vs Costa Rica|Group A]] vs [[Costa Rica national football team|Costa Rica]] (matchday 3; 20 June)
+|-
+| {{fbicon|SCG}} [[Ognjen Koroman]]
+| {{yel}} in [[2006 FIFA World Cup Group C#Serbia and Montenegro vs Netherlands|Group C]] vs [[Netherlands national football team|Netherlands]] (matchday 1; 11 June)<br />{{yel}} in [[2006 FIFA World Cup Group C#Serbia and Montenegro vs Argentina|Group C]] vs [[Argentina national football team|Argentina]] (matchday 2; 16 June)
+| [[2006 FIFA World Cup Group C#Serbia and Montenegro vs Ivory Coast|Group C]] vs [[Ivory Coast national football team|Ivory Coast]] (matchday 3; 21 June)
+|-
+| {{fbicon|SCG}} [[Mateja Kežman]]
+| {{sent off}} in [[2006 FIFA World Cup Group C#Serbia and Montenegro vs Argentina|Group C]] vs [[Argentina national football team|Argentina]] (matchday 2; 16 June)
+| [[2006 FIFA World Cup Group C#Serbia and Montenegro vs Ivory Coast|Group C]] vs [[Ivory Coast national football team|Ivory Coast]] (matchday 3; 21 June)
+|-
+| {{fbicon|CIV}} [[Didier Drogba]]
+| {{yel}} in [[2006 FIFA World Cup Group C#Ivory Coast vs Argentina|Group C]] vs [[Argentina national football team|Argentina]] (matchday 1; 10 June)<br />{{yel}} in [[2006 FIFA World Cup Group C#Ivory Coast vs Netherlands|Group C]] vs [[Netherlands national football team|Netherlands]] (matchday 2; 16 June)
+| [[2006 FIFA World Cup Group C#Ivory Coast vs Serbia and Montenegro|Group C]] vs [[Serbia and Montenegro national football team|Serbia and Montenegro]] (matchday 3; 21 June)
+|-
+| {{fbicon|ANG}} [[André Macanga]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group D#Angola vs Mexico|Group D]] vs [[Mexico national football team|Mexico]] (matchday 2; 16 June)
+| [[2006 FIFA World Cup Group D#Angola vs Iran|Group D]] vs [[Iran national football team|Iran]] (matchday 3; 21 June)
+|-
+| {{fbicon|IRN}} [[Javad Nekounam]]
+| {{yel}} in [[2006 FIFA World Cup Group D#Iran vs Mexico|Group D]] vs [[Mexico national football team|Mexico]] (matchday 1; 11 June)<br />{{yel}} in [[2006 FIFA World Cup Group D#Iran vs Portugal|Group D]] vs [[Portugal national football team|Portugal]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group D#Iran vs Angola|Group D]] vs [[Angola national football team|Angola]] (matchday 3; 21 June)
+|-
+| {{fbicon|CZE}} [[Tomáš Ujfaluši]]
+| {{sent off}} in [[2006 FIFA World Cup Group E#Czech Republic vs Ghana|Group E]] vs [[Ghana national football team|Ghana]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group E#Czech Republic vs Italy|Group E]] vs [[Italy national football team|Italy]] (matchday 3; 22 June)
+|-
+| {{fbicon|CZE}} [[Vratislav Lokvenc]]
+| {{yel}} in [[2006 FIFA World Cup Group E#United States vs Czech Republic|Group E]] vs [[United States men's national soccer team|United States]] (matchday 1; 12 June)<br />{{yel}} in [[2006 FIFA World Cup Group E#Czech Republic vs Ghana|Group E]] vs [[Ghana national football team|Ghana]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group E#Czech Republic vs Italy|Group E]] vs [[Italy national football team|Italy]] (matchday 3; 22 June)
+|-
+| {{fbicon|GHA}} [[Asamoah Gyan]]
+| {{yel}} in [[2006 FIFA World Cup Group E#Ghana vs Italy|Group E]] vs [[Italy national football team|Italy]] (matchday 1; 12 June)<br />{{yel}} in [[2006 FIFA World Cup Group E#Ghana vs Czech Republic|Group E]] vs [[Czech Republic national football team|Czech Republic]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group E#Ghana vs United States|Group E]] vs [[United States men's national soccer team|United States]] (matchday 3; 22 June)
+|-
+| {{fbicon|GHA}} [[Sulley Muntari]]
+| {{yel}} in [[2006 FIFA World Cup Group E#Ghana vs Italy|Group E]] vs [[Italy national football team|Italy]] (matchday 1; 12 June)<br />{{yel}} in [[2006 FIFA World Cup Group E#Ghana vs Czech Republic|Group E]] vs [[Czech Republic national football team|Czech Republic]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group E#Ghana vs United States|Group E]] vs [[United States men's national soccer team|United States]] (matchday 3; 22 June)
+|-
+| {{fbicon|ITA|2003}} [[Daniele De Rossi]]
+| {{sent off}} in [[2006 FIFA World Cup Group E#Italy vs United States|Group E]] vs [[United States men's national soccer team|United States]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group E#Italy vs Czech Republic|Group E]] vs [[Czech Republic national football team|Czech Republic]] (matchday 3; 22 June), [[2006 FIFA World Cup knockout stage#Italy vs Australia|Round of 16]] vs [[Australia national football team|Australia]] (26 June), [[2006 FIFA World Cup knockout stage#Italy vs Ukraine|Quarter-finals]] vs [[Ukraine national football team|Ukraine]] (30 June), [[2006 FIFA World Cup knockout stage#Italy vs Germany|Semi-finals]] vs [[Germany national football team|Germany]] (4 July)
+|-
+| {{fbicon|USA}} [[Pablo Mastroeni]]
+| {{sent off}} in [[2006 FIFA World Cup Group E#United States vs Italy|Group E]] vs [[Italy national football team|Italy]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group E#United States vs Ghana|Group E]] vs [[Ghana national football team|Ghana]] (matchday 3; 22 June)
+|-
+| {{fbicon|USA}} [[Eddie Pope]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group E#United States vs Italy|Group E]] vs [[Italy national football team|Italy]] (matchday 2; 17 June)
+| [[2006 FIFA World Cup Group E#United States vs Ghana|Group E]] vs [[Ghana national football team|Ghana]] (matchday 3; 22 June)
+|-
+| {{fbicon|JAP}} [[Tsuneyasu Miyamoto]]
+| {{yel}} in [[2006 FIFA World Cup Group F#Australia vs Japan|Group F]] vs [[Australia men's national soccer team|Australia]] (matchday 1; 12 June)<br />{{yel}} in [[2006 FIFA World Cup Group F#Japan vs Croatia|Group F]] vs [[Croatia national football team|Croatia]] (matchday 2; 18 June)
+| [[2006 FIFA World Cup Group F#Japan vs Brazil|Group F]] vs [[Brazil national football team|Brazil]] (matchday 3; 22 June)
+|-
+| {{fbicon|CRO}} [[Robert Kovač]]
+| {{yel}} in [[2006 FIFA World Cup Group F#Brazil vs Croatia|Group F]] vs [[Brazil national football team|Brazil]] (matchday 1; 13 June)<br />{{yel}} in [[2006 FIFA World Cup Group F#Japan vs Croatia|Group F]] vs [[Japan national football team|Japan]] (matchday 2; 18 June)
+| [[2006 FIFA World Cup Group F#Croatia vs Australia|Group F]] vs [[Australia men's national soccer team|Australia]] (matchday 3; 22 June)
+|-
+| {{fbicon|FRA|1974}} [[Eric Abidal]]
+| {{yel}} in [[2006 FIFA World Cup Group G#France vs Switzerland|Group G]] vs [[Switzerland national football team|Switzerland]] (matchday 1; 13 June)<br />{{yel}} in [[2006 FIFA World Cup Group G#France vs South Korea|Group G]] vs [[South Korea national football team|South Korea]] (matchday 2; 18 June)
+| [[2006 FIFA World Cup Group G#Togo vs France|Group G]] vs [[Togo national football team|Togo]] (matchday 3; 23 June)
+|-
+| {{fbicon|FRA|1974}} [[Zinedine Zidane]]
+| {{yel}} in [[2006 FIFA World Cup Group G#France vs Switzerland|Group G]] vs [[Switzerland national football team|Switzerland]] (matchday 1; 13 June)<br />{{yel}} in [[2006 FIFA World Cup Group G#France vs South Korea|Group G]] vs [[South Korea national football team|South Korea]] (matchday 2; 18 June)
+| [[2006 FIFA World Cup Group G#Togo vs France|Group G]] vs [[Togo national football team|Togo]] (matchday 3; 23 June)
+|-
+| {{fbicon|TOG}} [[Alaixys Romao]]
+| {{yel}} in [[2006 FIFA World Cup Group G#South Korea vs Togo|Group G]] vs [[South Korea national football team|South Korea]] (matchday 1; 13 June)<br />{{yel}} in [[2006 FIFA World Cup Group G#Togo vs Switzerland|Group G]] vs [[Switzerland national football team|Switzerland]] (matchday 2; 19 June)
+| [[2006 FIFA World Cup Group G#Togo vs France|Group G]] vs [[France national football team|France]] (matchday 3; 23 June)
+|-
+| {{fbicon|MEX}} [[Luis Ernesto Pérez]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group D#Mexico vs Portugal|Group D]] vs [[Portugal national football team|Portugal]] (matchday 3; 21 June)
+| [[2006 FIFA World Cup knockout stage#Mexico vs Argentina|Round of 16]] vs [[Argentina national football team|Argentina]] (24 June)
+|-
+| {{fbicon|SCG}} [[Albert Nađ]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group C#Serbia and Montenegro vs Ivory Coast|Group C]] vs [[Ivory Coast national football team|Ivory Coast]] (matchday 3; 21 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|CIV}} [[Cyril Domoraud]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group C#Ivory Coast vs Serbia and Montenegro|Group C]] vs [[Serbia and Montenegro national football team|Serbia and Montenegro]] (matchday 3; 21 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|GHA}} [[Michael Essien]]
+| {{yel}} in [[2006 FIFA World Cup Group E#Czech Republic vs Ghana|Group E]] vs [[Czech Republic national football team|Czech Republic]] (matchday 2; 17 June)<br />{{yel}} in [[2006 FIFA World Cup Group E#Ghana vs United States|Group E]] vs [[United States men's national soccer team|United States]] (matchday 3; 22 June)
+| [[2006 FIFA World Cup knockout stage#Brazil vs Ghana|Round of 16]] vs [[Brazil national football team|Brazil]] (27 June)
+|-
+| {{fbicon|CZE}} [[Jan Polák]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group E#Czech Republic vs Italy|Group E]] vs [[Italy national football team|Italy]] (matchday 3; 22 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|CRO}} [[Dario Šimić]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group F#Croatia vs Australia|Group F]] vs [[Australia men's national soccer team|Australia]] (matchday 3; 22 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|AUS}} [[Brett Emerton]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group F#Australia vs Croatia|Group F]] vs [[Croatia national football team|Croatia]] (matchday 3; 22 June)
+| [[2006 FIFA World Cup knockout stage#Australia vs Italy|Round of 16]] vs [[Italy national football team|Italy]] (26 June)
+|-
+| {{fbicon|CRO}} [[Josip Šimunić]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group F#Croatia vs Australia|Group F]] vs [[Australia men's national soccer team|Australia]] (matchday 3; 22 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|UKR}} [[Vyacheslav Sviderskyi]]
+| {{yel}} in [[2006 FIFA World Cup Group H#Saudi Arabia vs Ukraine|Group H]] vs [[Saudi Arabia national football team|Saudi Arabia]] (matchday 2; 19 June)<br />{{yel}} in [[2006 FIFA World Cup Group H#Ukraine vs Tunisia|Group H]] vs [[Tunisia national football team|Tunisia]] (matchday 3; 23 June)
+| [[2006 FIFA World Cup knockout stage#Switzerland vs Ukraine|Round of 16]] vs [[Switzerland national football team|Switzerland]] (26 June)
+|-
+| {{fbicon|TUN}} [[Ziad Jaziri]]
+| {{Sent off|2}} in [[2006 FIFA World Cup Group H#Tunisia vs Ukraine|Group H]] vs [[Tunisia national football team|Tunisia]] (matchday 3; 23 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|SWE}} [[Teddy Lučić]]
+| {{Sent off|2}} in [[2006 FIFA World Cup knockout stage#Sweden vs Germany|Round of 16]] vs [[Germany national football team|Germany]] (24 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|POR}} [[Costinha]]
+| {{Sent off|2}} in [[2006 FIFA World Cup knockout stage#Portugal vs Netherlands|Round of 16]] vs [[Netherlands national football team|Netherlands]] (25 June)
+| [[2006 FIFA World Cup knockout stage#Portugal vs England|Quarter-finals]] vs [[England national football team|England]] (1 July)
+|-
+| {{fbicon|NED}} [[Khalid Boulahrouz]]
+| {{Sent off|2}} in [[2006 FIFA World Cup knockout stage#Netherlands vs Portugal|Round of 16]] vs [[Portugal national football team|Portugal]] (25 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|POR}} [[Deco]]
+| {{Sent off|2}} in [[2006 FIFA World Cup knockout stage#Portugal vs Netherlands|Round of 16]] vs [[Netherlands national football team|Netherlands]] (25 June)
+| [[2006 FIFA World Cup knockout stage#Portugal vs England|Quarter-finals]] vs [[England national football team|England]] (1 July)
+|-
+| {{fbicon|NED}} [[Giovanni van Bronckhorst]]
+| {{Sent off|2}} in [[2006 FIFA World Cup knockout stage#Netherlands vs Portugal|Round of 16]] vs [[Portugal national football team|Portugal]] (25 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|ITA|2003}} [[Marco Materazzi]]
+| {{sent off}} in [[2006 FIFA World Cup knockout stage#Italy vs Australia|Round of 16]] vs [[Australia men's national soccer team|Australia]] (26 June)
+| [[2006 FIFA World Cup knockout stage#Italy vs Ukraine|Quarter-finals]] vs [[Ukraine national football team|Ukraine]] (30 June)
+|-
+| {{fbicon|GHA}} [[Asamoah Gyan]]
+| {{Sent off|2}} in [[2006 FIFA World Cup knockout stage#Ghana vs Brazil|Round of 16]] vs [[Brazil national football team|Brazil]] (27 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|ARG|1861}} [[Leandro Cufré]]
+| {{sent off}} in [[2006 FIFA World Cup knockout stage#Germany vs Argentina|Quarter-finals]] vs [[Germany national football team|Germany]] (30 June)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|POR}} [[Petit (Portuguese footballer)|Petit]]
+| {{yel}} in [[2006 FIFA World Cup knockout stage#Portugal vs Netherlands|Round of 16]] vs [[Netherlands national football team|Netherlands]] (25 June)<br />{{yel}} in [[2006 FIFA World Cup knockout stage#England vs Portugal|Quarter-finals]] vs [[England national football team|England]] (1 July)
+| [[2006 FIFA World Cup knockout stage#Portugal vs France|Semi-finals]] vs [[France national football team|France]] (5 July)
+|-
+| {{fbicon|ENG}} [[Wayne Rooney]]
+| {{sent off}} in [[2006 FIFA World Cup knockout stage#England vs Portugal|Quarter-finals]] vs [[Portugal national football team|Portugal]] (1 July)
+| ''Suspension served outside tournament''
+|-
+| {{fbicon|POR}} [[Ricardo Carvalho]]
+| {{yel}} in [[2006 FIFA World Cup knockout stage#England vs Portugal|Quarter-finals]] vs [[England national football team|England]] (1 July)<br />{{yel}} in [[2006 FIFA World Cup knockout stage#Portugal vs France|Semi-finals]] vs [[France national football team|France]] (5 July)
+| [[2006 FIFA World Cup knockout stage#Germany vs Portugal|Match for third place]] vs [[Germany national football team|Germany]] (8 July)
+|-
+| {{fbicon|FRA|1974}} [[Louis Saha]]
+| {{yel}} in [[2006 FIFA World Cup knockout stage#Brazil vs France|Quarter-finals]] vs [[Brazil national football team|Brazil]] (1 July)<br />{{yel}} in [[2006 FIFA World Cup knockout stage#Portugal vs France|Semi-finals]] vs [[Portugal national football team|Portugal]] (5 July)
+| [[2006 FIFA World Cup knockout stage#Italy vs France|Final]] vs [[Italy national football team|Italy]] (9 July)
+|-
+| {{fbicon|FRA|1974}} [[Zinedine Zidane]]
+| {{sent off}} in [[2006 FIFA World Cup knockout stage#Italy vs France|Final]] vs [[Italy national football team|Italy]] (9 July)
+| ''Suspension served outside tournament''
+|-
+|}
+The 2006 tournament holds the record for the most [[Red card (soccer)|red cards]] in a single [[FIFA World Cup]], with a total of 28 red cards issued.<ref>{{Cite web |last=Hopkins |first=Oliver |date=2026-06-20 |title=Most Red Cards in World Cup History: Players, Teams and Incidents That Made History |url=https://theanalyst.com/articles/most-red-cards-in-world-cup-history |access-date=2026-07-03 |website=Opta Analyst |language=en |archive-date=6 July 2026 |archive-url=https://web.archive.org/web/20260706172326/https://theanalyst.com/articles/most-red-cards-in-world-cup-history |url-status=live }}</ref>
+
+===Awards===
+{| class="wikitable" style="text-align: center; margin: 0 auto;"
+|-
+![[World Cup Golden Boot|Golden Boot Winner]]
+![[Golden Ball (FIFA)|Golden Ball Winner]]
+![[Yashin Award]]
+![[FIFA World Cup awards#FIFA Young Player Award|Best Young Player]]
+![[FIFA World Cup Fair Play Trophy|FIFA Fair Play Trophy]]
+![[FIFA World Cup awards#Most Entertaining Team|Most Entertaining Team]]
+|-
+|{{flagicon|GER}} [[Miroslav Klose]]
+|{{flagicon|FRA|1974}} [[Zinedine Zidane]]
+|{{flagicon|ITA|2003}} [[Gianluigi Buffon]]
+|{{flagicon|GER}} [[Lukas Podolski]]
+|{{fb|BRA}}<br />{{fb|ESP}}
+|{{fb|POR}}
+|}
+
+FIFA's Technical Study Group (TSG) also granted a [[Man of the Match]] award to one player in each match. Italy's [[Andrea Pirlo]] won the most Man of the Match awards with three in total. [[Miroslav Klose]], [[Agustín Delgado]], [[Arjen Robben]], [[Zé Roberto]], [[Alexander Frei]], [[Michael Ballack]] and [[Patrick Vieira]] each received two awards.
+
+===All-star team===
+The All-star team is a squad consisting of the 23 most impressive players at the 2006 World Cup, as selected by FIFA's Technical Study Group. The team was chosen from a shortlist of over 50&nbsp;players, and was selected based on performances from the second round onwards.<ref>{{cite news|title=''Azzurri'' prominent in All Star Team |url=https://www.fifa.com/worldcup/archive/germany2006/news/newsid=31923.html |publisher=FIFA |date=7 July 2006 |access-date=24 May 2010 |archive-url=https://web.archive.org/web/20100614214225/http://www.fifa.com/worldcup/archive/germany2006/news/newsid%3D31923.html |archive-date=14 June 2010 |url-status=dead }}</ref><ref>{{cite news |agency=Associated Press |url=http://www.cbc.ca/sports/soccer/france-italy-dominate-world-cup-all-star-squad-1.572395 |title=France, Italy dominate World Cup all-star squad |publisher=[[Canadian Broadcasting Corporation]] |date=7 July 2006 |access-date=11 August 2006 |archive-date=17 October 2017 |archive-url=https://web.archive.org/web/20171017222206/http://www.cbc.ca/sports/soccer/france-italy-dominate-world-cup-all-star-squad-1.572395 |url-status=live }}</ref>
+
+{| class="wikitable" style="mArgin: 0 auto;"
+|-
+!Goalkeepers
+!Defenders
+!Midfielders
+!Forwards
+|-
+|valign=top|
+{{flagicon|ITA|2003}} [[Gianluigi Buffon]]<br />
+{{flagicon|GER}} [[Jens Lehmann]]<br />
+{{flagicon|POR}} [[Ricardo (footballer, born 1976)|Ricardo]]
+|valign=top|
+{{flagicon|ARG|1861}} [[Roberto Ayala]]<br />
+{{flagicon|ENG}} [[John Terry]]<br />
+{{flagicon|FRA|1974}} [[Lilian Thuram]]<br />
+{{flagicon|GER}} [[Philipp Lahm]]<br />
+{{flagicon|ITA|2003}} [[Fabio Cannavaro]]<br />
+{{flagicon|ITA|2003}} [[Gianluca Zambrotta]]<br />
+{{flagicon|POR}} [[Ricardo Carvalho]]
+|valign=top|
+{{flagicon|BRA}} [[Zé Roberto]]<br />
+{{flagicon|FRA|1974}} [[Patrick Vieira]]<br />
+{{flagicon|FRA|1974}} [[Zinedine Zidane]]<br />
+{{flagicon|GER}} [[Michael Ballack]]<br />
+{{flagicon|ITA|2003}} [[Andrea Pirlo]]<br />
+{{flagicon|ITA|2003}} [[Gennaro Gattuso]]<br />
+{{flagicon|ITA|2003}} [[Francesco Totti]]<br />
+{{flagicon|POR}} [[Luís Figo]]<br />
+{{flagicon|POR}} [[Maniche]]
+|valign=top|
+{{flagicon|ARG|1861}} [[Hernán Crespo]]<br />
+{{flagicon|FRA|1974}} [[Thierry Henry]]<br />
+{{flagicon|GER}} [[Miroslav Klose]]<br />
+{{flagicon|ITA|2003}} [[Luca Toni]]
+|}
+
+===Prize money===
+A total of [[Swiss franc|CHF332&nbsp;million]] was awarded to the 32 teams participating in the tournament. Each team who entered the competition received CHF2&nbsp;million, with the biggest prize being CHF24.5&nbsp;million, awarded to the winner of the tournament.<ref name="prize money">{{cite web |url=http://fifaworldcup.yahoo.com/06/en/051206/1/5hlo.html |title=CHF 24.5 million for the 2006 world champions |work=FIFA (Fédération Internationale de Football Association) |date=6 December 2005 |access-date=16 July 2014 |archive-url=https://web.archive.org/web/20061212022214/http://fifaworldcup.yahoo.com/06/en/051206/1/5hlo.html |archive-date=12 December 2006}}</ref> Below is a complete list of the prize money allocated:<ref name="prize money"/><ref>{{cite web |url=http://usatoday30.usatoday.com/sports/soccer/tourneys/2005-04-26-world-cup-prize_x.htm |title=2006 World Cup prize money increased |work=USA Today |date=26 April 2005 |access-date=16 July 2014 |archive-date=27 June 2017 |archive-url=https://web.archive.org/web/20170627120522/http://usatoday30.usatoday.com/sports/soccer/tourneys/2005-04-26-world-cup-prize_x.htm |url-status=live }}</ref>
+
+* CHF7&nbsp;million – To each team eliminated in the [[#Group stage|group stage]] (16 teams)
+* CHF8.5&nbsp;million – To each team eliminated in the [[#Round of 16|round of 16]] (8 teams)
+* CHF11.5&nbsp;million – To each team eliminated in the [[#Quarter-finals|quarter-finals]] (4 teams)
+* CHF21.5&nbsp;million – [[#Match for third place|Fourth placed team]] and [[#Match for third place|Third placed team]]
+* CHF22.5&nbsp;million – [[#Final|Runners-up]]
+* CHF24.5&nbsp;million – [[#Final|Winner]]
+
+===Final standings===
+{{small|Per statistical convention in football, matches decided in [[Overtime (sports)#Association football|extra time]] are counted as wins and losses, while matches decided by [[Penalty shoot-out (association football)|penalty shoot-outs]] are counted as draws.}}
+
+{| class="wikitable" style="font-size: 95%; text-align: center;"
+|-
+!width=25| {{abbr|R|Final Ranking}}
+!width=165| Team
+!width=25| {{abbr|G|Group}}
+!width=25| {{abbr|P|Played}}
+!width=25| {{abbr|W|Win}}
+!width=25| {{abbr|D|Draw}}
+!width=25| {{abbr|L|Lose}}
+!width=25| {{abbr|GF|Goals For}}
+!width=25| {{abbr|GA|Goals against}}
+!width=25| {{abbr|GD|Goal Difference}}
+!width=25| {{abbr|Pts.|Points}}
+|- style="background:gold;"
+| 1 ||style="text-align:left;"|{{fb|ITA|2003}} || [[2006 FIFA World Cup Group E|E]] || 7 || 5 || 2 || 0 || 12 || 2 || +10 || '''17'''
+|- style="background:silver;"
+| 2 ||style="text-align:left;"|{{fb|FRA|1974}} || [[2006 FIFA World Cup Group G|G]] || 7 || 4 || 3 || 0 || 9 || 3 || +6 || '''15'''
+|- style="background:#c96;"
+| 3 ||style="text-align:left;"|{{fb|GER}} {{small|(H)}} || [[2006 FIFA World Cup Group A|A]] || 7 || 5 || 1 || 1 || 14 || 6 || +8 || '''16'''
+|- style="background:gray;"
+| 4 ||style="text-align:left;"|{{fb|POR}} || [[2006 FIFA World Cup Group D|D]] || 7 || 4 || 1 || 2 || 7 || 5 || +2 || '''13'''
+|-
+|colspan="11"| '''Eliminated in the quarter-finals'''
+|-
+| 5 ||style="text-align:left;"|{{fb|BRA}} || [[2006 FIFA World Cup Group F|F]] || 5 || 4 || 0 || 1 || 10 || 2 || +8 || '''12'''
+|-
+| 6 ||style="text-align:left;"|{{fb|ARG|1861}} || [[2006 FIFA World Cup Group C|C]] || 5 || 3 || 2 || 0 || 11 || 3 || +8 || '''11'''
+|-
+| 7 ||style="text-align:left;"|{{fb|ENG}} || [[2006 FIFA World Cup Group B|B]] || 5 || 3 || 2 || 0 || 6 || 2 || +4 || '''11'''
+|-
+| 8 ||style="text-align:left;"|{{fb|UKR}} || [[2006 FIFA World Cup Group H|H]] || 5 || 2 || 1 || 2 || 5 || 7 || −2 || '''7'''
+|-
+|colspan="11"| '''Eliminated in the round of 16'''
+|-
+| 9 ||style="text-align:left;"|{{fb|ESP}} || [[2006 FIFA World Cup Group H|H]] || 4 || 3 || 0 || 1 || 9 || 4 || +5 || '''9'''
+|-
+| 10 ||style="text-align:left;"|{{fb|SUI}} || [[2006 FIFA World Cup Group G|G]] || 4 || 2 || 2 || 0 || 4 || 0 || +4 || '''8'''
+|-
+| 11 ||style="text-align:left;"|{{fb|NED}} || [[2006 FIFA World Cup Group C|C]] || 4 || 2 || 1 || 1 || 3 || 2 || +1 || '''7'''
+|-
+| 12 ||style="text-align:left;"|{{fb|ECU|1900}} || [[2006 FIFA World Cup Group A|A]] || 4 || 2 || 0 || 2 || 5 || 4 || +1 || '''6'''
+|-
+| 13 ||style="text-align:left;"|{{fb|GHA}} || [[2006 FIFA World Cup Group E|E]] || 4 || 2 || 0 || 2 || 4 || 6 || −2 || '''6'''
+|-
+| 14 ||style="text-align:left;"|{{fb|SWE}} || [[2006 FIFA World Cup Group B|B]] || 4 || 1 || 2 || 1 || 3 || 4 || −1 || '''5'''
+|-
+| 15 ||style="text-align:left;"|{{fb|MEX}} || [[2006 FIFA World Cup Group D|D]] || 4 || 1 || 1 || 2 || 5 || 5 || 0 || '''4'''
+|-
+| 16 ||style="text-align:left;"|{{fb|AUS}} || [[2006 FIFA World Cup Group F|F]] || 4 || 1 || 1 || 2 || 5 || 6 || −1 || '''4'''
+|-
+|colspan="11"| '''Eliminated in the group stage'''
+|-
+| 17 ||style="text-align:left;"|{{fb|KOR|1997}} || [[2006 FIFA World Cup Group G|G]] || 3 || 1 || 1 || 1 || 3 || 4 || −1 || '''4'''
+|-
+| 18 ||style="text-align:left;"|{{fb|PAR|1990}} || [[2006 FIFA World Cup Group B|B]] || 3 || 1 || 0 || 2 || 2 || 2 || 0 || '''3'''
+|-
+| 19 ||style="text-align:left;"|{{fb|CIV}} || [[2006 FIFA World Cup Group C|C]] || 3 || 1 || 0 || 2 || 5 || 6 || −1 || '''3'''
+|-
+| 20 ||style="text-align:left;"|{{fb|CZE}} || [[2006 FIFA World Cup Group E|E]] || 3 || 1 || 0 || 2 || 3 || 4 || −1 || '''3'''
+|-
+| 21 ||style="text-align:left;"|{{fb|POL}} || [[2006 FIFA World Cup Group A|A]] || 3 || 1 || 0 || 2 || 2 || 4 || −2 || '''3'''
+|-
+| 22 ||style="text-align:left;"|{{fb|CRO}} || [[2006 FIFA World Cup Group F|F]] || 3 || 0 || 2 || 1 || 2 || 3 || −1 || '''2'''
+|-
+| 23 ||style="text-align:left;"|{{fb|ANG}} || [[2006 FIFA World Cup Group D|D]] || 3 || 0 || 2 || 1 || 1 || 2 || −1 || '''2'''
+|-
+| 24 ||style="text-align:left;"|{{fb|TUN}} || [[2006 FIFA World Cup Group H|H]] || 3 || 0 || 1 || 2 || 3 || 6 || −3 || '''1'''
+|-
+|rowspan="2"| 25 ||style="text-align:left;"|{{fb|IRN}} || [[2006 FIFA World Cup Group D|D]] || 3 || 0 || 1 || 2 || 2 || 6 || −4 || '''1'''
+|-
+|style="text-align:left;"|{{fb|US|1960}} || [[2006 FIFA World Cup Group E|E]] || 3 || 0 || 1 || 2 || 2 || 6 || −4 || '''1'''
+|-
+| 27 ||style="text-align:left;"|{{fb|TRI}} || [[2006 FIFA World Cup Group B|B]] || 3 || 0 || 1 || 2 || 0 || 4 || −4 || '''1'''
+|-
+|rowspan="2"| 28 ||style="text-align:left;"|{{fb|JPN}} || [[2006 FIFA World Cup Group F|F]] || 3 || 0 || 1 || 2 || 2 || 7 || −5 || '''1'''
+|-
+|style="text-align:left;"|{{fb|KSA}} || [[2006 FIFA World Cup Group H|H]] || 3 || 0 || 1 || 2 || 2 || 7 || −5 || '''1'''
+|-
+| 30 ||style="text-align:left;"|{{fb|TOG}} || [[2006 FIFA World Cup Group G|G]] || 3 || 0 || 0 || 3 || 1 || 6 || −5 || '''0'''
+|-
+| 31 ||style="text-align:left;"|{{fb|CRC}} || [[2006 FIFA World Cup Group A|A]] || 3 || 0 || 0 || 3 || 3 || 9 || −6 || '''0'''
+|-
+| 32 ||style="text-align:left;"|{{fb|SCG}} || [[2006 FIFA World Cup Group C|C]] || 3 || 0 || 0 || 3 || 2 || 10 || −8 || '''0'''
+|}
+<small>Source: FIFA<ref>Based on the methodology of [https://www.fifa.com/worldcup/news/y=2006/m=7/news=germany-2006-the-final-ranking-21411.html Germany 2006: The final ranking] {{Webarchive|url=https://web.archive.org/web/20180508121802/http://www.fifa.com/worldcup/news/y=2006/m=7/news=germany-2006-the-final-ranking-21411.html |date=8 May 2018 }} (FIFA.com) 9 July 2006</ref></small>
+
+{{small|(H) Hosts}}
+
+==Fan Fests==
+
+[[File:Tunisia.jpg|left|thumb|Tunisian supporters watching their match against Ukraine at the Fan Fest in Stuttgart]]
+In preparation for the tournament, FIFA and the [[2006 FIFA World Cup Organizing Committee|Organising Committee]] sought a way to accommodate people planning to visit. The experience of past World Cups and public viewing was conceptualized in 4-week-long events for football supporters to meet, board, interact, partake in cultural activities and watch all 64 matches on giant video walls. Since 2004, the details on costs, logistics, safety issues, marketing and broadcasting rights were jointly hammered out by FIFA and the host cities.<ref>{{cite book |title=Stadium Worlds: Football, Space and the Built Environment |chapter=Chapter 3: Challenging the Stadium |editor=Sybille Frank, Silke Steets |author=Hans-Jürgen Schulke |year=2010 |publisher=Routledge |pages=56–73 |isbn=9780415549042 |url=https://books.google.com/books?id=UVcuCgAAQBAJ}}</ref> These public viewing events, known as "[[FIFA Fan Fest|Fan Fest]]s" ({{langx|de|Fanmeile}}), served an idea to provide football supporters without tickets a legitimate opportunity to partake in the World Cup. Unlike the past tournaments where ticket-less fans were treated as security risks, the World Cup in Germany welcomed all supporters, thus generating positive atmosphere even before the tournament began. Even though security planners and media were sceptical and cautious on the matter of public viewing, the scepticism was cast aside with the beginning of the World Cup.<ref name="kos">{{cite web |url=http://www.kos-fanprojekte.de/fileadmin/user_upload/material/international/kos-texte/KOS-wm06-broschur-en-screen.pdf |title=Welcome Fans. The World Cup 2006 Fan and Visitor Programme |date=2006 |publisher=Koordinationsstelle Fan-Projekte |access-date=23 December 2019 |archive-date=14 July 2016 |archive-url=https://web.archive.org/web/20160714170522/http://www.kos-fanprojekte.de/fileadmin/user_upload/material/international/kos-texte/KOS-wm06-broschur-en-screen.pdf |url-status=dead }}</ref>
+
+Fan Fests for the World Cup were set up in 12 host cities and attracted 21&nbsp;million visitors over the duration of tournament according to [[German National Tourist Board]] (FIFA claimed there were over 18&nbsp;million visitors).<ref name="dw">{{cite web |url=http://www.dw.com/en/public-viewing-takes-on-new-dimension-at-world-cup/a-2063384 |title=Public Viewing Takes on New Dimension at World Cup |last=Casagrande |first=Sabina |date=2006-06-24 |publisher=Deutsche Welle |access-date=21 March 2020 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612144057/http://www.dw.com/en/public-viewing-takes-on-new-dimension-at-world-cup/a-2063384 |url-status=live }}</ref><ref>{{cite web |url=https://www.fifa.com/mm/document/affederation/administration/01/53/04/22/ar07_e.pdf |archive-url=https://web.archive.org/web/20120105192047/http://www.fifa.com/mm/document/affederation/administration/01/53/04/22/ar07_e.pdf |url-status=dead |archive-date=5 January 2012 |title=2007 Activity Report |publisher=FIFA |access-date=2 July 2018}}</ref> The [[Berlin]] Fan Fest was located at the pedestrianised [[Straße des 17. Juni]], between [[Brandenburg Gate]] and the [[Berlin Victory Column|Victory Column]], with 14 consecutive video walls attracted 9&nbsp;million fans over the duration of World Cup with nearly a million supporters in each match that Germany played. For the first time in German history, an event scored more visitors than [[Oktoberfest]].<ref name="smith">{{cite book |title=Events in the City: Using Public Spaces as Event Venues |last=Smith |first=Andrew |chapter=Eventification: Events and the denigration of urban public space |pages=59–79 |publisher=Routledge |year=2016 |isbn=978-1-138-78885-5 |url=https://books.google.com/books?id=5Jb4CgAAQBAJ |access-date=23 December 2019 |archive-date=17 April 2023 |archive-url=https://web.archive.org/web/20230417061317/https://books.google.com/books?id=5Jb4CgAAQBAJ |url-status=live }}</ref> The [[Cologne]] Fan Fest scored 3&nbsp;million visitors, followed by 1.9&nbsp;million in [[Frankfurt]], 1.5&nbsp;million in [[Stuttgart]], 1.46&nbsp;million in [[Hamburg]], 1&nbsp;million in [[Dortmund]] and [[Munich]], 500,000 in [[Nuremberg]] and [[Hannover]], 471,000 in [[Leipzig]], 350,000 in [[Gelsenkirchen]] and 205,000 in [[Kaiserslautern]]. Those numbers exceeded all expectations and some of the Host Cities had to expand the Fan Fest areas in the middle of the World Cup.<ref name="de-tourist">{{cite web |url=https://www.germany.travel/media/en/pdf/dzt_marktforschung/Fazit_der_FIFA_WM_2006_PDF.pdf |title="A time to make friends". The 2006 FIFA World Cup and its effect on the image and economy of Germany |publisher=German National Tourist Board |archive-url=https://web.archive.org/web/20120620091636/https://www.germany.travel/media/en/pdf/dzt_marktforschung/Fazit_der_FIFA_WM_2006_PDF.pdf |archive-date=20 June 2012 |url-status=dead }}</ref> The most popular Fan Fests were located in the inner city areas, making the approach to keep the city centre generally "fan-free" applied by the authorities of Nuremberg ineffective as many football supporters preferred to stay in the picturesque city centre.<ref name="kos" /> According to surveys conducted during the 2006 FIFA World Cup at the Berlin, Frankfurt and Munich Fan Fests, 28% of visitors travelled over 100 kilometres to attend the event and up to 84% came there together with friends. Around 21% of foreigners interviewed at Fan Fests visited Germany to see the World Cup without tickets to any match.<ref name="daniels">{{cite web |url=http://etd.cput.ac.za/bitstream/handle/20.500.11838/1610/204163846_Daniels__MTech_thm_bus_2012.pdf |title=An investigation into 2010 FIFA World Cup planning: a case study of the Eden district municipality, Western Cape, South Africa |last=Daniels |first=Trucy |date=2012-11-30 |publisher=Cape Peninsula University of Technology |access-date=23 December 2019 |archive-date=13 July 2019 |archive-url=https://web.archive.org/web/20190713133125/http://etd.cput.ac.za/bitstream/handle/20.500.11838/1610/204163846_Daniels__MTech_thm_bus_2012.pdf |url-status=dead }}</ref><ref name="moll">{{cite book |title=Football World Cup 2010 in South Africa: A comparison between German football tourists' expectations and the planned tourism marketing activities of the venue Port Elizabeth |chapter=Approach to Tourism and Sport |last=Moll |first=Matthias |publisher=Diplomica |year=2009 |isbn=978-3-8366-2551-7}}</ref> Media coverage of events had an additional positive effect as pictures of fans celebrating in front of giant screens attracted even more visitors from neighbouring European countries who had spontaneously decided to take part in the celebrations at Fan Fests.<ref name="kos" />
+
+Despite minor inconsistencies in planning and execution, the Fan Fest concept was so successful in fact, numerous people later claimed personal responsibility for the invention.<ref name="kos" /> The visitors' expectations regarding Fan Fests were fulfilled. During the World Cup, Fan Fests served as modern [[market square]]s where communication and interaction strengthen the feeling of community. Out-of-home media reception made the emotional aspect of escape from everyday life more intense for participants. Pictures of football supporters celebrating in front of video walls became a typical illustration of atmosphere in the country, while "Fanmeile" was later picked up as the [[Word of the year (Germany)|German Word of the Year]].<ref name="maennig, porsche">{{cite journal |last1=Maennig |first1=Wolfgang |last2=Porsche |first2=Marcel |date=2008 |title=The Feel-good Effect at Mega Sports Events. Recommendations for Public and Private Administration Informed by the Experience of the FIFA World Cup 2006 |url=https://core.ac.uk/download/pdf/6922427.pdf |journal=Hamburg Contemporary Economic Discussion |issue=18 |archive-url=https://web.archive.org/web/20171207162733/https://core.ac.uk/download/pdf/6922427.pdf |archive-date=7 December 2017 |url-status=live }}</ref> In 2007, FIFA and the 12 host cities received the German Marketing Prize for Sports for the innovative nature and marketing concept of Fan Fests.<ref>{{cite web |url=https://www.handelsblatt.com/sport/fussball/fussball-wm-wm-staedte-erhalten-preis-fuer-fanfeste/2766158.html?ticket=ST-870800-ChNK44v5nTozcacvLcRI-ap4 |title=WM-Städte erhalten Preis für Fanfeste |date=6 February 2007 |publisher=Handelsblatt |access-date=23 December 2019 |archive-date=18 March 2022 |archive-url=https://web.archive.org/web/20220318030218/https://www.handelsblatt.com/sport/fussball/fussball-wm-wm-staedte-erhalten-preis-fuer-fanfeste/2766158.html?ticket=ST-870800-ChNK44v5nTozcacvLcRI-ap4 |url-status=dead }}</ref> FIFA and the Host Cities succeeded in creating and comfortable environment for foreign fans as 95% of them surveyed at Fan Fests agreed that it was an unequivocal declaration of international nature of World Cup and not a mere event for Germans.<ref name="daniels" /> A thought-out implementation of public viewing at such a large-scale football event as the 2006 World Cup became set a precedent. Immediately after the World Cup, FIFA announced that it registered the [[trademark]] for Fan Fests, taking over the organisation and marketing and making Fan Fests an integral part of future World Cups.<ref name="bennett, haggerty">{{cite book |title=Security Games: Surveillance and Control at Mega-Events |url=https://books.google.com/books?id=be6sAgAAQBAJ |author1=Colin J. Bennett |author2=Kevin Haggerty |chapter=Event-driven security policies and spatial control: the 2006 FIFA World Cup |publisher=Routledge |year=2011 |isbn=9781136801587 |access-date=23 December 2019 |archive-date=17 April 2023 |archive-url=https://web.archive.org/web/20230417061315/https://books.google.com/books?id=be6sAgAAQBAJ |url-status=live }}</ref>
+
+===Locations===
+* [[Berlin]] — [[Straße des 17. Juni]] (between [[Brandenburg Gate]] and [[Berlin Victory Column|Victory Column]])<ref>{{cite web |url=https://www.berlin.de/berlin-im-ueberblick/en/history/the-new-berlin/ |title=The new Berlin |date=6 December 2018 |publisher=Berlin.de |access-date=23 December 2019 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612142457/https://www.berlin.de/berlin-im-ueberblick/en/history/the-new-berlin/ |url-status=live }}</ref><ref name="de-locations">{{cite web |url=http://www.spiegel.de/international/no-tickets-no-problem-spiegel-online-s-guide-to-germany-s-world-cup-fan-fests-a-419726.html |title=No Tickets? No Problem! Spiegel Online's Guide to Germany's World Cup Fan Fests |last=Bryant |first=Chris |date=7 June 2006 |newspaper=Spiegel |access-date=23 December 2019 |archive-date=3 December 2018 |archive-url=https://web.archive.org/web/20181203171825/http://www.spiegel.de/international/no-tickets-no-problem-spiegel-online-s-guide-to-germany-s-world-cup-fan-fests-a-419726.html |url-status=live }}</ref>
+* [[Cologne]] — {{ill|Heumarkt|de|Heumarkt (Köln)}}, Roncalliplatz, [[Rheinauhafen]] and Deutzer shipyard<ref>{{cite web |url=http://www.guenter-lehnen-koeln.de/Sportstadt_WM2006.html |title=Impressionen von der Fußball-WM 2006 in Köln |publisher=Köln - die Rheinmetropole und alte Römerstadt |archive-url=https://web.archive.org/web/20180612141142/http://www.guenter-lehnen-koeln.de/Sportstadt_WM2006.html |archive-date=12 June 2018 |url-status=dead }}</ref><ref name="de-locations" />
+* [[Frankfurt]] — {{ill|MainArena|de|MainArena}} (at banks of [[Main (river)|Main river]])<ref>{{cite web |url=http://sport.ard.de/wm2006/wm/vorort/hr/news06/19/mainarena_mehr.jhtml |archive-url=https://web.archive.org/web/20070929164503/http://sport.ard.de/wm2006/wm/vorort/hr/news06/19/mainarena_mehr.jhtml |title=MainArena bisher voller Erfolg |date=19 June 2006 |archive-date=29 September 2007 |publisher=Westdeutscher Rundfunk }}</ref><ref name="de-locations" />
+* [[Stuttgart]] — [[Schlossplatz (Stuttgart)|Schlossplatz]]<ref>{{cite web |url=https://news.bbc.co.uk/2/hi/5114024.stm |title=England fans given next match ban |date=26 June 2006 |publisher=BBC |access-date=23 December 2019 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612145914/http://news.bbc.co.uk/2/hi/5114024.stm |url-status=live }}</ref>
+* [[Hamburg]] — [[Heiligengeistfeld]]<ref>{{cite web |url=https://www.stern.de/sport/fussball/wm-2006/news/public-viewing-der-party-hit-der-wm-3595926.html |title=Der Party-Hit der WM |author=Sascha Meyer, Jutta Schütz |date=7 July 2006 |publisher=Stern |access-date=23 December 2019 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612143612/https://www.stern.de/sport/fussball/wm-2006/news/public-viewing-der-party-hit-der-wm-3595926.html |url-status=live }}</ref>
+* [[Dortmund]] — {{ill|Friedensplatz|de|Friedensplatz (Dortmund)}}<ref>{{cite web |url=http://www.spiegel.de/international/spiegel/world-cup-city-guide-dortmund-a-419782.html |title=World Cup City Guide: Dortmund |date=9 June 2006 |newspaper=Spiegel |access-date=23 December 2019 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202141955/http://www.spiegel.de/international/spiegel/world-cup-city-guide-dortmund-a-419782.html |url-status=live }}</ref>
+* [[Munich]] — [[Olympiapark (Munich)|Olympiapark]]<ref>{{cite web |url=https://www.nbcnews.com/id/wbna12940747 |title=World-class Germany hosts the World Cup |last=McHugh |first=David |date=24 May 2006 |publisher=NBC |access-date=23 December 2019 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612142610/http://www.nbcnews.com/id/12940747/ns/travel-destination_travel/t/world-class-germany-hosts-world-cup/#.WvHDTUOgeUk |url-status=live }}</ref>
+* [[Nuremberg]] — Volksfestplatz<ref>{{cite web |url=http://www.spiegel.de/international/the-football-connoisseur-s-guide-everything-s-smaller-in-nuremberg-a-419924.html |title=Everything's Smaller in Nuremberg |date=7 June 2006 |newspaper=Spiegel |access-date=23 December 2019 |archive-date=28 November 2018 |archive-url=https://web.archive.org/web/20181128075958/http://www.spiegel.de/international/the-football-connoisseur-s-guide-everything-s-smaller-in-nuremberg-a-419924.html |url-status=live }}</ref>
+* [[Hannover]] — {{ill|Waterlooplatz|de|Waterlooplatz}}<ref>{{cite web |url=http://www.spiegel.de/international/the-football-connoisseur-s-guide-hanging-out-in-hanover-a-419894.html |title=The Football Connoisseur's Guide: Hanging out in Hanover |date=7 June 2006 |newspaper=Spiegel |access-date=23 December 2019 |archive-date=6 January 2019 |archive-url=https://web.archive.org/web/20190106131015/http://www.spiegel.de/international/the-football-connoisseur-s-guide-hanging-out-in-hanover-a-419894.html |url-status=live }}</ref>
+* [[Leipzig]] — [[Augustusplatz]]<ref>{{cite web |url=https://www.bbc.co.uk/blogs/worldcup/2006/06/overflowing_fan_fests_1.html |title=Overflowing Fan Fests |last=Richardson |first=Martin |date=24 June 2006 |publisher=BBC |access-date=23 December 2019 |archive-date=23 December 2019 |archive-url=https://web.archive.org/web/20191223112002/https://www.bbc.co.uk/blogs/worldcup/2006/06/overflowing_fan_fests_1.html |url-status=live }}</ref>
+* [[Gelsenkirchen]] — [[Glückauf-Kampfbahn]]<ref>{{cite web |url=http://www.aufschalke2006.de/fifa-world-cup-germany-gelsenkirchen-2006/ |title=FIFA World Cup Germany World Cup City Gelsenkirchen |date=5 December 2005 |publisher=Auf Schalke 2006 |access-date=23 December 2019 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612141730/http://www.aufschalke2006.de/fifa-world-cup-germany-gelsenkirchen-2006/ |url-status=live }}</ref>
+* [[Kaiserslautern]] — {{ill|Stiftsplatz|de|Stiftsplatz (Kaiserslautern)}}, Barbarossastrasse<ref name="de-locations" />
+
+==Marketing==
+===Broadcasting===
+FIFA, through several companies, sold the rights for the broadcast of 2006 FIFA World Cup to the following broadcasters.
+
+===Broadcasting rights===
+Broadcasters that were confirmed to be screening some or all of the matches in [[standard-definition television|standard definition]] are in '''bold'''. Broadcasters screening matches in [[UHF]] were [[free-to-air]]. This was the first FIFA World Cup to be entirely filmed in [[High-definition television|high-definition]], with more regions broadcasting in the [[widescreen]] standard.<ref>{{Cite web |author1=Claudia Kienzle |date=2006-05-10 |title=World Cup Soccer Goes HD |url=https://www.tvtechnology.com/news/world-cup-soccer-goes-hd |access-date=2024-11-28 |website=TVTechnology |language=en |archive-date=30 November 2024 |archive-url=https://web.archive.org/web/20241130050130/https://www.tvtechnology.com/news/world-cup-soccer-goes-hd |url-status=live }}</ref>
+{|class="wikitable" border="1"
+!Country!!Broadcaster(s)
+!Ref
+|-
+|'''Arab world'''
+|[[Arab Radio and Television Network|ART]]
+|
+|-
+|'''Albania'''
+|[[DigitAlb]]
+|
+|-
+|'''Argentina'''
+|[[Telefe]], [[El Trece]], [[El Nueve]], [[América TV]], [[TyC Sports]] & [[DirecTV]]
+|
+|-
+|'''Armenia'''
+|[[Public Television of Armenia|ARMTV]]
+|
+|-
+|'''Australia'''
+|[[Special Broadcasting Service|SBS]]
+|
+|-
+|'''Austria'''
+|[[Österreichischer Rundfunk|ORF]]
+|
+|-
+|'''Azerbaijan'''
+|[[Lider TV]]
+|
+|-
+|'''Bangladesh'''
+|[[Bangladesh Television|BTV]]
+|
+|-
+|rowspan=2|'''Belgium'''
+|'''[[Dutch language|Dutch]]''':<br>[[Vlaamse Radio- en Televisieomroep|VRT]] & [[VTM 2|KANALTWEE]]
+|
+|-
+|'''[[French language|French]]''':<br>[[Radio télévision belge de la communauté française|RTBF]]
+|
+|-
+|'''Bhutan'''
+|[[ESPN STAR Sports]]
+|
+|-
+|'''Bolivia'''
+|[[Unitel Bolivia|Unitel]]
+|
+|-
+|'''Bosnia and Herzegovina'''
+|[[Radiotelevision of Bosnia-Herzegovina|BHRT]]
+|
+|-
+|rowspan=2|'''Brazil'''
+|'''[[High-definition television|HDTV]]''':<br><small>[[Cable television|Cable]]/[[Satellite television|Satellite]] ([[Pay television|Pay]]):</small> [[BandSports]] & [[SporTV]]
+|
+|-
+|'''[[Standard-definition television|SDTV]]''':<br><small>[[Free-to-air]]:</small> [[Rede Globo]]<br><small>[[Cable television|Cable]]/[[Satellite television|Satellite]] ([[Pay television|Pay]]):</small> [[ESPN Brasil]]
+|
+|-
+|'''Brunei'''
+|<small>[[Satellite television|Satellite (pay)]]:</small> [[Kristal-Astro]] (8-[[live television|live]] [[digital television|digital]] [[satellite television|satellite channels]] dedicated exclusively to the 2006 FIFA World Cup)
+|
+|-
+|'''Bulgaria'''
+|[[Bulgarian National Television|BNT]]
+|
+|-
+|rowspan=4|'''Canada'''
+|'''English''':<br>[[CTV Television Network|CTV]], [[Rogers Sportsnet]] & [[The Sports Network|TSN]]
+|
+|-
+|'''French''':<br>[[Télévision de Radio-Canada|SRC]]
+|
+|-
+|'''[[Portuguese language|Portuguese]]''' & '''Italian''':<br>[[CFMT-DT|Omni 1]]
+|
+|-
+|'''[[Cantonese language|Cantonese]]''' & '''Chinese''':<br>[[CJMT-DT|Omni 2]]
+|
+|-
+|'''Chile'''
+|[[Red Televisiva Megavisión|Megavisión]], [[TVN (Chile)|TVN]], [[Compañía Chilena de Televisión|RED Televisión]] & [[DirecTV]]
+|
+|-
+|'''China'''
+|[[China Central Television|CCTV]] (64-matches including: 56-matches live on [[CCTV-5]], 4-matches live on [[CCTV-7]] & 4-matches on [[CCTV-1]])
+|
+|-
+|'''Colombia'''
+|[[Caracol Televisión|Caracol]], [[RCN Televisión|RCN]] & [[DirecTV]] (all matches)
+|
+|-
+|'''Costa Rica'''
+|[[Repretel]]
+|
+|-
+|'''Cuba'''
+|[[w:es:Tele Rebelde|Tele Rebelde]]
+|
+|-
+|'''Croatia'''
+|[[Croatian Radiotelevision|HRT]]
+|
+|-
+|'''Cyprus'''
+|[[Cyprus Broadcasting Corporation|RIK]]
+|
+|-
+|'''Czech Republic'''
+|[[Czech Television]]
+|
+|-
+|'''Denmark'''
+|[[DR1]] & [[TV 2 (Denmark)|TV 2]]
+|
+|-
+|'''Ecuador'''
+|[[Teleamazonas]], [[RedTeleSistema|RTS]] & [[Ecuavisa]]
+|
+|-
+|'''Estonia'''
+|[[ETV (Estonia)|ETV]]
+|
+|-
+|'''Finland'''
+|[[YLE]]
+|
+|-
+|'''France'''
+|[[TF1]], [[M6 (TV channel)|M6]], [[Canal+ (French TV channel)|Canal+]], [[Eurosport|Eurosport France]]
+|
+|-
+|'''Georgia'''
+|[[Georgian Public Broadcaster|GPB]]
+|
+|-
+|'''Germany'''
+|<small>[[High-definition television|HD]]</small>:[[Premiere (pay television network)|Premiere HD]]<br><small>[[Standard-definition television|SD]]</small>:[[Das Erste|ARD]], [[ZDF]], [[RTL Television|RTL]] & [[Premiere (pay television network)|Premiere]]
+|
+|-
+|'''Greece'''
+|[[ERT1]] & [[New Hellenic Television|NET]]
+|
+|-
+|'''Guatemala'''
+|[[w:es:Televisiete|Canal 3]] & [[w:es:Televisiete|Canal 7]]
+|
+|-
+|'''Honduras'''
+|[[Televicentro (Honduras)|TVC]]
+|
+|-
+|'''Hong Kong'''
+|<small>Free-to-air:</small> [[ATV Home|ATV]] & [[TVB Jade|TVB]] (4-matches including: [[2006 FIFA World Cup Group A#Germany vs Costa Rica|1-opening matches]], [[2006 FIFA World Cup knockout stage#Semi-finals|2-semi finals]] & [[2006 FIFA World Cup Final|1-finals]])<br><small>Cable (pay):</small> '''[[Cable TV Hong Kong]]''' (all matches)
+|
+|-
+|'''Hungary'''
+|[[RTL Klub]] & [[Sport Klub]]
+|
+|-
+|'''Iceland'''
+|[[365 (media corporation)|Sýn]]
+|
+|-
+|'''India'''
+|<small>Free-to-air:</small> [[Doordarshan]]<br><small>Satellite (pay)</small>: [[ESPN STAR Sports]]
+|
+|-
+|'''Indonesia'''
+|[[SCTV (Indonesia)|SCTV]] (64 matches includes 56 [[live television|live telecast]] and 8 [[Tape recorder|taped]] [[2006 FIFA World Cup#Group stage|group stage matches]])
+|<ref>{{Cite web|title=SCTV Bakal Menayangkan World Cup 2006|url=https://www.liputan6.com/showbiz/read/220982/isctvi-bakal-menayangkan-world-cup-2006|website=Liputan6|date=18 December 2003|access-date=24 July 2024|language=id|archive-date=24 July 2024|archive-url=https://web.archive.org/web/20240724074525/https://www.liputan6.com/showbiz/read/220982/isctvi-bakal-menayangkan-world-cup-2006|url-status=live}}</ref>
+|-
+|'''Iran'''
+|[[IRIB]]
+|
+|-
+|'''Ireland'''
+|[[RTÉ]]
+|
+|-
+|'''Israel'''
+|Free-to-air: [[Channel 2 (Israel)|Channel 2]] ([[Reshet]]), [[Channel Ten (Israel)|Channel 10]]<br>Satellite/Cable (pay): [[Sport 5]], Sport 1 and Sport 2
+|
+|-
+|'''Italy'''
+|<small>Free-to-air:</small> [[RAI]] (1-matches per day)<br><small>Satellite (pay)</small>: [[Sky Sport (Italy)|Sky Sport]] (all matches)
+|
+|-
+|'''Japan'''
+|<small>Free-to-air:</small> [[Fuji Television|Fuji TV]]
+|
+|-
+|'''Kenya'''
+|[[Kenya Television Network|KTN]] & [[Kenya Broadcasting Corporation|KBC]]
+|
+|-
+|'''North Korea'''
+|[[Korean Broadcasting System|KBS]] ([[KBS 1TV]]), [[Munhwa Broadcasting Corporation|MBC]] & [[Seoul Broadcasting System|SBS]]
+|
+|-
+|'''South Korea'''
+|[[Korean Broadcasting System|KBS]] ([[KBS 1TV]]), [[Munhwa Broadcasting Corporation|MBC]] & [[Seoul Broadcasting System|SBS]]
+|
+|-
+|'''Latvia'''
+|[[Latvijas Televīzija|LTV7]] & [[Channel One (Russia)|Channel 1]]
+|
+|-
+|'''Lithuania'''
+|[[Lithuanian National Radio and Television|LRT]]
+|
+|-
+|'''Macedonia'''
+|[[Macedonian Radio-Television|MKTV]]
+|
+|-
+|'''Malaysia'''
+|<small>[[Free-to-air]]:</small> [[Radio Televisyen Malaysia]] ([[TV1 (Malaysia)|RTM1]] & [[TV2 (Malaysia)|RTM2]]) & [[NTV7]]<br><small>[[Satellite television|Satellite (pay)]]:</small> [[Astro (Malaysian satellite television)|Astro]] (8-[[live television|live]] [[digital television|digital]] [[satellite television|satellite channels]] dedicated exclusively to the 2006 FIFA World Cup)
+|
+|-
+|'''Malta'''
+|Melita Sports
+|
+|-
+|'''Mexico'''
+|<small>Free-to-air:</small> [[TV Azteca]] & [[Televisa]]<br><small>Cable (pay):</small> [[MASTV|Mega Cable and Cablevisión]]<br><small>Satellite (pay):</small> [[SKY México]]
+|
+|-
+|'''Moldova'''
+|[[Teleradio-Moldova|TRM]]
+|
+|-
+|'''Montenegro'''
+|[[TV In]]
+|
+|-
+|'''Netherlands'''
+|[[Nederlandse Omroep Stichting|NOS]]
+|
+|-
+|'''New Zealand'''
+|[[TV One (New Zealand)|TV1]] & [[Sky Network Television|Sky]]
+|
+|-
+|'''Norway'''
+|[[Norsk Rikskringkasting|NRK]] & [[TV 2 (Norway)|TV2]]
+|
+|-
+|'''Pakistan'''
+|[[Pakistan Television Corporation|PTV]]
+|
+|-
+|'''Panama'''
+|[[HOF-TV|Channel 4]]
+|
+|-
+|'''Paraguay'''
+|[[Sistema Nacional de Televisión (Paraguay)|SNT]] 
+|
+|-
+|'''Peru'''
+|[[Andina de Televisión|ATV]] (Channel 9) 
+|
+|-
+|'''Philippines'''
+|[[Radio Philippines Network|RPN]], [[SportsPlus]]
+|
+|-
+|'''Poland'''
+|[[Polsat]] and [[Telewizja Polska|TVP]]
+|
+|-
+|'''Portugal'''
+|[[Rádio e Televisão de Portugal|RTP]], [[Sociedade Independente de Comunicação|SIC]], [[Sport TV]]
+|<ref>{{cite news |last1=Rocha |first1=João Manuel |title=RTP compra resumos alargados dos jogos do Mundial 2006 |url=https://www.publico.pt/2006/01/14/jornal/rtp-compra-resumos-alargados-dos-jogos-do-mundial-2006-58356 |access-date=17 January 2025 |date=14 January 2006}}</ref><ref>{{cite news |title=Mundial mais mediático de sempre |url=https://www.cmjornal.pt/tv-media/detalhe/mundial-mais-mediatico-de-sempre |access-date=17 January 2025 |date=9 June 2006 |archive-date=17 December 2024 |archive-url=https://web.archive.org/web/20241217094930/https://www.cmjornal.pt/tv-media/detalhe/mundial-mais-mediatico-de-sempre |url-status=live }}</ref><ref>{{cite news |title=Mundial da SIC na RTP das regiões autónomas |trans-title=SIC World Cup on RTP in the autonomous regions |url=https://maisfutebol.iol.pt/portugal/europa/mundial-da-sic-na-rtp-das-regioes-autonomas |access-date=17 January 2025 |date=12 June 2006 |language=pt |archive-date=30 June 2025 |archive-url=https://web.archive.org/web/20250630062046/https://maisfutebol.iol.pt/portugal/europa/mundial-da-sic-na-rtp-das-regioes-autonomas |url-status=live }}</ref><ref>{{cite news |title=Sport TV garante direitos de transmissão do Mundial 2006 |url=https://www.publico.pt/2005/06/23/portugal/noticia/sport-tv-garante-direitos-de-transmissao-do-mundial-2006-1226556 |access-date=17 January 2025 |date=23 June 2005}}</ref>
+|-
+|'''Puerto Rico'''
+|[[Univision|Univision Puerto Rico]], [[American Broadcasting Company|ABC]] & [[ESPN]]
+|
+|-
+|'''Romania'''
+|[[Romanian Television|RTV]]
+|
+|-
+|'''Russia'''
+|[[Channel One (Russia)|Perviy Kanal]] & [[All-Russia State Television and Radio Broadcasting Company|VGTRK]]
+|
+|-
+|'''Middle East and North Africa'''
+|[[Arab Radio and Television Network|ART]] & ([[Al Riyadiah]], only ln [[Saudi Arabia]])
+|
+|-
+|'''Serbia'''
+|[[Radio Television of Serbia|PTC]], [[Radio Television of Kosovo|RTK]]
+|
+|-
+|'''Singapore'''
+|<small>[[Free-to-air]]:</small> [[Channel 5 (Singaporean TV channel)|MediaCorp TV Channel 5]] (4-matches including: [[2006 FIFA World Cup Group A#Germany vs Costa Rica|1-opening matches]], [[2006 FIFA World Cup knockout stage#Semi-finals|2-semi finals]] & [[2006 FIFA World Cup Final|1-finals]])<br /><small>[[Cable television|Cable (pay)]]:</small> [[StarHub TV|StarHub Cable Television]] (all matches)
+|
+|-
+|'''Slovakia'''
+|[[Slovenská televízia|STV]]
+|
+|-
+|'''Slovenia'''
+|[[Radiotelevizija Slovenija|RTV]] & [[Kanal A]]
+|
+|-
+|'''South Africa'''
+|<small>Free-to-air:</small> [[South African Broadcasting Corporation|SABC]]<br><small>Satellite (pay):</small> [[Supersport (TV channel)|Super Sport]]
+|
+|-
+|'''Spain'''
+|[[la Sexta]], [[Cuatro TV]] and [[Digital+]]
+|
+|-
+|'''Sweden'''
+|[[Sveriges Television|SVT]] & [[TV4 AB|TV4]]
+|
+|-
+|rowspan=3|'''Switzerland'''
+|'''German''': [[SF2]]
+|
+|-
+|'''French''': [[Télévision Suisse Romande|TSR2]]
+|
+|-
+|'''Italian''': [[Radiotelevisione svizzera di lingua italiana|TSI2]]
+|
+|-
+|'''Taiwan'''
+|[[Era Television]] (3-[[cable television|cable channels]] for coverage)
+|
+|-
+|'''Thailand'''
+|<small>Free-to-air:</small> [[Channel 3 (Thailand)|Channel 3]], [[Channel 5 (Thailand)|Channel 5]], [[Channel 7 (Thailand)|Channel 7]], [[Channel 9 (Thailand)|Channel 9]], [[National Broadcasting Services of Thailand|Channel 11]] & [[iTV (Thailand)|ITV]] (all matches available on non-[[subscription television]])
+|
+|-
+|'''Trinidad and Tobago''':
+| [[CCN TV6]]
+|
+|-
+|'''Turkey'''
+|[[Bloomberg Television|Kanal 1]]
+|
+|-
+|'''Ukraine'''
+|[[Inter (TV channel)|Inter]] & [[ICTV (Ukraine)|ICTV]]
+|
+|-
+|rowspan=2|'''United Kingdom''' {{hidden begin|title=and territories}}
+* England
+* Scotland
+* Northern Ireland
+* Wales{{hidden end}}
+|'''[[High-definition television|HD]]''':<br>[[BBC HD]] & [[ITV HD]]
+|
+|-
+|'''[[Standard-definition television|SD]]''':<br>[[BBC]] & [[ITV (TV network)|ITV]]
+|
+|-
+|rowspan=9|'''United States''' {{hidden begin|title=and territories}}
+* American Samoa
+* Guam
+* Northern Mariana Islands
+* Puerto Rico
+* U.S. Virgin Islands{{hidden end}}
+|'''English''':<br>[[American Broadcasting Company|ABC]], [[ESPN]] & [[ESPN2]]
+|
+|-
+|'''Spanish''':<br>[[Univision]] & [[TeleFutura]]
+|
+|-
+|'''German''':<br>[[Setanta Sports]]
+|
+|-
+|'''French''':<br>[[TV5Monde]]
+|
+|-
+|'''Portuguese''':<br>[[Rede Brasileira de Televisão Internacional|RBTI]] & [[Rede Globo]]
+|
+|-
+|'''[[Persian language|Persian]]''':<br>[[Persian Broadcasting Company|Tapesh TV]]
+|
+|-
+|'''[[Arabic language|Arabic]]''':<br>[[Arab Radio and Television Network|ART]]
+|
+|-
+|'''Japanese''':<br>[[TV Japan]]
+|
+|-
+|'''Korean''':<br>[[Korean Broadcasting System|KBS]]
+|
+|-
+|'''Uruguay'''
+|[[Teledoce]], [[Monte Carlo TV]], [[Saeta TV Channel 10|Canal 10]], [[DirecTV]]
+|
+|-
+|'''Venezuela'''
+|[[Venevisión]], [[RCTV]], [[Meridiano Televisión]] & [[DirecTV]]
+|
+|-
+|'''Vietnam'''
+|[[FPT Group|FPT]], [[Vietnam Television|VTV]], [[Ho Chi Minh City Television|HTV]] & [[VTC Digital Television|VTC]]
+|
+|}
+
+===Sponsorship===
+[[File:Deutsche Telekom booth.JPG|thumb|230px|[[Deutsche Telekom]] was one of the [[sponsor (commercial)|sponsors]] of FIFA World Cup 2006.]]
+The sponsors of the 2006 World Cup consisted of 15 FIFA Partners.<ref>{{cite web |url=https://resources.fifa.com/mm/document/fifafacts/misc-fwcpartn/52/01/15/fs-401_01_fwc-partners.pdf |title=Factsheet |website=FIFA Resources|publisher=FIFA|access-date=10 July 2018 |archive-date=18 February 2018 |archive-url=https://web.archive.org/web/20180218222637/http://resources.fifa.com/mm/document/fifafacts/misc-fwcpartn/52/01/15/fs-401_01_fwc-partners.pdf |url-status=dead }}</ref>
+
+{| class="wikitable"
+|-
+! FIFA partners !! FIFA partners !! FIFA partners
+|-
+|
+*[[Adidas]]<ref>{{Cite web |url=https://www.adidas-group.com/en/media/news-archive/press-releases/2006/sponsoring-des-2006-fifa-world-cup-erfolgreichste-sponsorenrolle/ |title = 2006 FIFA World Cup Sponsorship Most Successful Ever For Adidas|website=Adidas|access-date=10 July 2018 |archive-url=https://web.archive.org/web/20180710225303/https://www.adidas-group.com/en/media/news-archive/press-releases/2006/sponsoring-des-2006-fifa-world-cup-erfolgreichste-sponsorenrolle/ |archive-date=10 July 2018 |url-status=dead }}</ref>
+*[[Avaya]]<ref>{{cite web|url=https://www.itweb.co.za/content/GxwQDM1AKONMlPVo|title=Avaya launches FIFA World Cup branding campaign with BusinessPartners|last=Avaya|date=22 February 2002|website=itweb.co.za|access-date=10 July 2018|archive-date=11 July 2018|archive-url=https://web.archive.org/web/20180711022056/https://www.itweb.co.za/content/GxwQDM1AKONMlPVo|url-status=live}}</ref>
+*[[Anheuser-Busch InBev|Budweiser]]<ref>{{Cite web|url=https://www.campaignlive.co.uk/article/budweiser-raises-glass-world-cup-official-sponsor-until-2014/556373|title=Budweiser raises glass as World Cup official sponsor until 2014|website=www.campaignlive.co.uk|access-date=10 July 2018|archive-date=10 July 2018|archive-url=https://web.archive.org/web/20180710225429/https://www.campaignlive.co.uk/article/budweiser-raises-glass-world-cup-official-sponsor-until-2014/556373|url-status=live}}</ref><ref>{{cite web|url=https://www.fifa.com/worldcup/news/anheuser-busch-toasts-official-beer-sponsorship-2006-fifa-world-cup-ge-15403|title=2018 FIFA World Cup Russia - News - Anheuser-Busch toasts official beer sponsorship of 2006 FIFA World Cup in Germany|website=FIFA|access-date=10 July 2018|archive-date=6 November 2020|archive-url=https://web.archive.org/web/20201106113921/https://www.fifa.com/worldcup/news/anheuser-busch-toasts-official-beer-sponsorship-2006-fifa-world-cup-ge-15403|url-status=dead}}</ref>
+*[[The Coca-Cola Company|Coca-Cola]]<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/business/5345866.stm|title=Coca-Cola "wins sponsor World Cup"|date=14 September 2006|website=[[BBC News]]|publisher=[[BBC]]|access-date=10 July 2018|archive-date=10 July 2018|archive-url=https://web.archive.org/web/20180710231418/http://news.bbc.co.uk/2/hi/business/5345866.stm|url-status=live}}</ref><ref>{{Cite web|url=https://www.campaignlive.co.uk/article/coca-cola-renews-fifa-football-sponsorship-until-2022/529147|title=Coca-Cola renews Fifa football sponsorship until 2022|website=Campaign Live|access-date=10 July 2018|archive-date=27 August 2017|archive-url=https://web.archive.org/web/20170827171212/http://www.campaignlive.co.uk/article/coca-cola-renews-fifa-football-sponsorship-until-2022/529147?src_site=brandrepublic|url-status=live}}</ref>
+*[[Continental AG|Continental]]<ref>{{cite web|url=https://www.fifa.com/news/y=2003/m=1/news=continental-official-partner-the-2006-fifa-world-cup-84972.html|archive-url=https://web.archive.org/web/20180711021956/https://www.fifa.com/news/y=2003/m=1/news=continental-official-partner-the-2006-fifa-world-cup-84972.html|url-status=dead|archive-date=11 July 2018|title=Continental AG - Official Partner of the 2006 FIFA World Cup TM|website=FIFA|date=21 January 2003}}</ref>
+|
+{{col-begin}}
+{{col-2}}
+*[[Deutsche Telekom]]<ref>{{cite web|url=https://www.fifa.com/about-fifa/news/y=2001/m=12/news=deutsche-telekom-becomes-official-partner-2006-fifa-world-cup-germanyt-87244.html|archive-url=https://web.archive.org/web/20151001230153/http://www.fifa.com/about-fifa/news/y=2001/m=12/news=deutsche-telekom-becomes-official-partner-2006-fifa-world-cup-germanyt-87244.html|url-status=dead|archive-date=1 October 2015|title=Deutsche Telekom becomes Official Partner of 2006 FIFA World Cup Germany|website=FIFA|date=18 January 2018}}</ref><ref>{{cite web|url=http://www.standaard.be/cnt/nflj06122001_003|title=Telekom partner Fifa voor WK 2006|last=spi|date=5 December 2001 |access-date=10 July 2018|archive-date=11 July 2018|archive-url=https://web.archive.org/web/20180711022253/http://www.standaard.be/cnt/nflj06122001_003|url-status=live}}</ref>
+*[[Emirates (airline)|Emirates]]<ref>{{cite web|url=https://www.fifa.com/news/y=2003/m=1/news=emirates-official-partner-the-2006-fifa-world-cup-85051.html|archive-url=https://web.archive.org/web/20180711022147/https://www.fifa.com/news/y=2003/m=1/news=emirates-official-partner-the-2006-fifa-world-cup-85051.html|url-status=dead|archive-date=11 July 2018|title=Emirates - Official Partner of the 2006 FIFA World Cup TM|website=FIFA|date=27 January 2003}}</ref><ref>{{cite web|url=https://gulfnews.com/news/uae/general/emirates-a-key-sponsor-of-fifa-world-cup-in-germany-1.346171|title=Emirates a key sponsor of FIFA World Cup in Germany|website=Gulf Newsdate=29 January 2003|access-date=16 December 2018|archive-url=https://web.archive.org/web/20180710225337/https://gulfnews.com/news/uae/general/emirates-a-key-sponsor-of-fifa-world-cup-in-germany-1.346171|archive-date=10 July 2018|url-status=dead}}</ref>
+*[[Fujifilm]]<ref>{{cite web|url=https://www.fifa.com/about-fifa/news/y=2003/m=2/news=fujifilm-official-partner-the-2006-fifa-world-cuptm-86800.html|archive-url=https://web.archive.org/web/20180711021858/https://www.fifa.com/about-fifa/news/y=2003/m=2/news=fujifilm-official-partner-the-2006-fifa-world-cuptm-86800.html|url-status=dead|archive-date=11 July 2018|title=Fujifilm Official Partner of the 2006 FIFA World Cup|website=FIFA|date=18 January 2018}}</ref><ref>{{cite web|url=https://www.sportcal.com/News/PressReleases/35985?sportID=92,92|title=Fujifilm Signs as Official Partner of the 2006 FIFA World Cup|website=Sportcal|access-date=10 July 2018|archive-date=19 November 2020|archive-url=https://web.archive.org/web/20201119233451/https://www.sportcal.com/News/PressReleases/35985?sportID=92,92|url-status=dead}}</ref>
+*[[Gillette]]<ref>{{Cite web|url=https://adage.com/article/news/gillette-amps-sponsorships/100331|title=Gillette amps up sponsorships|date=6 September 2004|website=adage.com|access-date=14 November 2020|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125211339/https://adage.com/article/news/gillette-amps-sponsorships/100331|url-status=live}}</ref>
+*[[Hyundai Motor Company|Hyundai]]<ref>{{cite web|url=https://www.hyundai.com/worldwide/en/meet-hyundai/sponsorship/fifa|title=FIFA|website=Hyundai Motors|access-date=10 July 2018|archive-date=11 July 2018|archive-url=https://web.archive.org/web/20180711021926/https://www.hyundai.com/worldwide/en/meet-hyundai/sponsorship/fifa|url-status=dead}}</ref>
+{{col-end}}
+{{col-2}}
+*[[MasterCard]]<ref>{{cite web|url=https://www.fifa.com/about-fifa/news/y=2003/m=3/news=mastercard-official-partner-the-2006-fifa-world-cuptm-86799.html|archive-url=https://web.archive.org/web/20180424020315/http://www.fifa.com/about-fifa/news/y=2003/m=3/news=mastercard-official-partner-the-2006-fifa-world-cuptm-86799.html|url-status=dead|archive-date=24 April 2018|title=MasterCard {{!}} Official Partner of the 2006 FIFA World Cup|website=FIFA|date=18 January 2018}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2006/12/07/business/worldbusiness/07iht-hot.3823031.html|title=MasterCard tops Visa for World Cup soccer sponsorship - Business - International Herald Tribune (Published 2006)|newspaper=[[The New York Times]]|date=7 November 2006|access-date=10 July 2018|archive-date=10 July 2018|archive-url=https://web.archive.org/web/20180710230916/https://www.nytimes.com/2006/12/07/business/worldbusiness/07iht-hot.3823031.html|url-status=live}}</ref>
+*[[McDonald's]]<ref>{{cite web|url=https://www.fifa.com/worldcup/news/mcdonald-renews-fifa-world-cup-sponsor-until-2014-13485|title=McDonald's renews as FIFA World Cup Sponsor until 2014|website=FIFA|access-date=10 July 2018|archive-date=23 November 2020|archive-url=https://web.archive.org/web/20201123012213/https://www.fifa.com/worldcup/news/mcdonald-renews-fifa-world-cup-sponsor-until-2014-13485|url-status=dead}}</ref>
+*[[Philips]]<ref>{{cite web|url=https://www.fifa.com/about-fifa/news/y=2002/m=11/news=philips-becomes-official-partner-the-2006-fifa-world-cup-trade-84119.html|archive-url=https://web.archive.org/web/20180711022223/https://www.fifa.com/about-fifa/news/y=2002/m=11/news=philips-becomes-official-partner-the-2006-fifa-world-cup-trade-84119.html|url-status=dead|archive-date=11 July 2018|title=Philips becomes Official Partner of the 2006 FIFA World Cup|website=FIFA|date=14 November 2002}}</ref>
+*[[Toshiba]]<ref>{{cite web|url=https://www.toshiba.co.jp/about/press/2001_06/pr0701.htm|title=Press Releases 7 June 2001|website=Toshiba|access-date=10 July 2018|archive-date=4 November 2020|archive-url=https://web.archive.org/web/20201104212818/https://www.toshiba.co.jp/about/press/2001_06/pr0701.htm|url-status=live}}</ref><ref>{{Cite web|url=https://adage.com/article/special-report-creativity-top-5/top-5-creative-brand-ideas/315339|title=The Top 5 most creative brand ideas you need to know about now|date=22 October 2018|website=adage.com|access-date=14 November 2020|archive-date=20 January 2021|archive-url=https://web.archive.org/web/20210120202341/https://adage.com/article/special-report-creativity-top-5/top-5-creative-brand-ideas/315339|url-status=live}}</ref>
+*[[Yahoo]]<ref>{{Cite web|url=https://www.campaignlive.co.uk/article/yahoo-sponsor-fifa/507934|title=Yahoo! to sponsor Fifa|website=Campaign Live|access-date=10 July 2018|archive-date=10 July 2018|archive-url=https://web.archive.org/web/20180710225403/https://www.campaignlive.co.uk/article/yahoo-sponsor-fifa/507934|url-status=live}}</ref><ref>{{Cite web|url=https://www.theregister.com/2001/09/11/yahoo_scores_world_cup_site/|title=Yahoo! scores! World! Cup! site! rights!|first=John|last=Leyden|website=The Register|access-date=14 November 2020|archive-date=19 January 2021|archive-url=https://web.archive.org/web/20210119224426/https://www.theregister.com/2001/09/11/yahoo_scores_world_cup_site/|url-status=live}}</ref>
+|}
+
+==Symbols==
+===Mascot===
+{{Main|Goleo and Pille}}
+The [[List of FIFA World Cup official mascots|official mascot]] of this World Cup was "[[Goleo VI]]"<ref>[https://web.archive.org/web/20200731052422/https://www.fifa.com/who-we-are/news/the-fifa-world-cuptm-mascots-517089 The FIFA World Cup Mascots]</ref>
+
+===Match ball===
+{{Main|Adidas Teamgeist}}
+The [[List of FIFA World Cup official match balls|official match ball]] was "[[Adidas Teamgeist|Teamgeist]]", manufactured by [[Adidas]].<ref>[https://web.archive.org/web/20151003074950/http://www.fifa.com/worldcup/photos/galleries/y=2009/m=12/gallery=official-match-balls-the-fifa-world-cuptm-1143505.html Official match balls of the FIFA World Cup]</ref>
+
+===Music===
+{{Main|Voices from the FIFA World Cup}}
+The [[List of FIFA World Cup songs and anthems|official song]] was "[[The Time of Our Lives (Il Divo and Toni Braxton song)|The Time of Our Lives]]".<ref>{{Cite web |url=https://www.fifa.com/tournaments/mens/worldcup/2018russia/media-releases/2018-fifa-world-cup-russiatm-official-song-live-it-up-to-be-performed-by-all-sta |title=2018 FIFA World Cup Russia Official Song 'Live It Up' to be performed by all-star line-up |access-date=28 October 2022 |archive-date=29 October 2022 |archive-url=https://web.archive.org/web/20221029233004/https://www.fifa.com/tournaments/mens/worldcup/2018russia/media-releases/2018-fifa-world-cup-russiatm-official-song-live-it-up-to-be-performed-by-all-sta |url-status=live }}</ref> The official anthem was "[[Celebrate the Day|Zeit dass sich was dreht (Celebrate The Day)]]".
+
+==Evaluation of Germany as host nation==
+[[File:Wm 2006 autokorso.jpg|thumb|230px|Fans in celebratory [[motorcade]]]]
+[[File:Wm-oly-de-cr.jpg|thumb|230px|Celebrating fans in [[Olympiapark (Munich)|Olympiapark]] in Munich during the opening match between Germany and [[Costa Rica]]]]
+
+FIFA president [[Sepp Blatter]] stated the organization of the tournament was the best in history and that Germany had a welcoming public.<ref>[https://web.archive.org/web/20240626212439/https://www.handelsblatt.com/sport/fussball/nachrichten/interview-mit-dem-fifa-praesidenten-blatter-spricht-von-bester-wm-aller-zeiten/2673774.html ''Blatter spricht von „bester WM aller Zeiten“''] [[Handelsblatt]] (Interview)</ref> Through the many fanfests and large-screen broadcasts the feeling of a four-week national festival developed, in which much of the population took part. During the first weeks of the tournament, there was concerned discussion about the wide display of the [[Flag of Germany|German national flag]] and the [[National colours of Germany|German national colours]] on houses, vehicles and clothing.<ref>[http://www.zeit.de/online/2006/25/WM-Patriotismus-Kommentar ''Angst vor der Nation''.] {{Webarchive|url=https://web.archive.org/web/20220318174413/https://www.zeit.de/online/2006/25/WM-Patriotismus-Kommentar |date=18 March 2022 }} In: ''[[Die Zeit]] online'', 2006</ref> Numerous national and international observers from media, society and politics considered that this signified not only great support for the German football team, but even a "new [[patriotism]]".{{citation needed|date=April 2021}} This continued a development already observed during the [[2002 FIFA World Cup]].<ref>[[Arnd Krüger]]: ''Sport and Identity in Germany since Reunification''. In Philip Dine & Seán Crosson (eds.): ''Sport, representation and evolving identities in Europe.'' Bern: P. Lang 2010, 289–316</ref> A study by the [[University of Marburg]] suggested a slight rise in [[national pride]].<ref>To the question "Are you proud to be German?“, 7 % more interviewees answered "Yes" as before the 2006 World Cup. [http://www.uni-marburg.de/aktuelles/news/2006/20061213studie/20061213studie uni-marburg.de] {{Webarchive|url=https://web.archive.org/web/20201108112352/https://www.uni-marburg.de/aktuelles/news/2006/20061213studie/20061213studie |date=8 November 2020 }} The Marburg researchers however interpreted this however as a rise in nationalism, not in national pride.</ref> However, sporadic attempts of far right organisations to use the tournament as a platform for their propaganda remained unsuccessful.<ref>Elmar Vieregge: ''Die Fußballweltmeisterschaft 2006 und der deutsche Rechtsextremismus''. In: Martin H. W. Möllers, Robert Chr. van Ooyen (eds.): ''Jahrbuch Öffentliche Sicherheit 2006/2007''. Frankfurt am Main 2007, pages 137–145</ref>
+
+As the German national football team contributed to arousing this previously undeclared enthusiasm and euphoria in Germany over a period of weeks, the then [[President of Germany|German President]] [[Horst Köhler]] presented the national players on 14 August 2006 with the ''[[Silbernes Lorbeerblatt]]'' (Silver Laurel Leaf), the highest sports award in Germany. The team's trainer, [[Jürgen Klinsmann]], in February 2007 was furthermore awarded the [[Order of Merit of the Federal Republic of Germany|Bundesverdienstkreuz]], not least for his reformed methods of modern training and playing methods, in which he persevered despite harsh criticism. Nevertheless, Klinsmann announced after the tournament that he would not extend his contract as trainer of the national team, since he felt completely burned-out and wished to spend more time with his family in [[California]]. The [[German Football Association]] (DFB) on the same day named as Klinsmann's successor his assistant trainer [[Joachim Löw]], since in the opinion of the DFB leadership he would best continue Klinsmann's work and training methods. According to a representative survey taken in [[Trier]] by the European Tourism Institute (ETI), 96% of the German population considered that Germany was a good host during the World Cup. Additionally 93% of those interviewed found the international football fans to be agreeable.<ref>{{cite news |archive-url=https://archive.today/20120707174813/http://www.mopo.de/news/tourismus-deutschland-war-ein-guter-wm-gastgeber,5066732,5722306.html |url=http://www.mopo.de/news/tourismus-deutschland-war-ein-guter-wm-gastgeber,5066732,5722306.html |author=<!--n/a--> |title=Deutschland war ein guter WM-Gastgeber |publisher=[[Hamburger Morgenpost]] |date=29 September 2006 |language=de |access-date=7 July 2012 |archive-date=7 July 2012}}</ref>
+
+==See also==
+{{Portal|Association football}}
+
+* 2006 FIFA World Cup:
+** [[List of 2006 FIFA World Cup broadcasting rights|Broadcasting rights]]
+** [[2006 FIFA World Cup controversies|Controversies]]
+** [[2006 FIFA World Cup disciplinary record|Disciplinary record]]
+** [[FIFA World Cup records]]
+** [[2006 FIFA World Cup officials|Officials]]
+** [[2006 FIFA World Cup Organizing Committee|Organizing Committee]]
+** [[2006 FIFA World Cup qualification|Qualification]]
+** [[2006 FIFA World Cup seeding|Seeding]]
+** [[2006 FIFA World Cup sponsorship|Sponsorship]]
+** [[2006 FIFA World Cup squads|Squads]]
+* [[2006 FIFA World Cup Organizing Committee]]
+* [[2011 FIFA Women's World Cup]], also held in Germany
+* [[Adidas Teamgeist]]
+* ''[[Colpo grosso a Berlino]]''
+* ''[[Deutschland. Ein Sommermärchen]]'', a 2006 documentary film recording the Germany national team from boot camp in Sardegna to match for third place against [[Portugal national football team|Portugal]]
+* [[Leeuwenhosen]] controversy
+* Several countries celebrated this major event with the minting of specially high value commemorative coins. Among them is the Belgian 20 euro [[Euro gold and silver commemorative coins (Belgium)#2005 coinage|Germany 2006 FIFA World Cup Coin]]. The obverse of the coin shows a footballer with a ball, right above them '2006 FIFA World Cup Germany' can be clearly seen.
+* ''[[Strangers (2007 Israeli film)|Strangers]]'', a 2007 film which takes place during the 2006 World Cup
+* ''[[Voices from the FIFA World Cup]]''
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage|World Cup 2006|2006 FIFA World Cup}}
+*[https://www.fifa.com/tournaments/mens/worldcup/2006germany 2006 FIFA World Cup Germany], FIFA.com
+*[https://web.archive.org/web/20111220061505/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/34/fwc%5f2006%5fgermany%5f1%5f1%5f263.pdf FIFA Technical Report (Part 1)] and [https://web.archive.org/web/20111220070751/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/32/fwc%5f2006%5fgermany%5f1%5f2%5f262.pdf (Part 2)]
+*[https://web.archive.org/web/20070817005955/http://www.rsssf.com/tables/2006f.html RSSSF Archive of finals]
+*[http://fifaworldcup.yahoo.com/ Official FIFA World Cup site] {{Webarchive|url=https://web.archive.org/web/20060615125930/http://fifaworldcup.yahoo.com/ |date=15 June 2006 }}
+*[https://web.archive.org/web/20061220141203/http://wm2006.deutschland.de/EN/Navigation/Home/home.html Germany 2006 – Home]
+*{{Cite web |url=http://fifaworldcup.yahoo.com/06/en/ |title=FIFAworldcup.com – The Official Site of FIFA World Cup |access-date=23 February 2006 |archive-url=https://web.archive.org/web/20070313221204/http://fifaworldcup.yahoo.com/06/en/ |archive-date=13 March 2007 |url-status=bot: unknown}}
+
+{{Portal bar|2000s|Sport|Germany}}
+{{2006 FIFA World Cup}}
+{{2006 FIFA World Cup stadiums}}
+{{2006 FIFA World Cup referees}}
+{{FIFA World Cup}}
+{{Football in Germany}}
+{{Authority control}}
+
+{{DEFAULTSORT:FIFA World Cup}}
+[[Category:2006 FIFA World Cup| ]]
+[[Category:FIFA World Cup tournaments|2006]]
+[[Category:2006 in men's international association football|World Cup]]
+[[Category:2005–06 in German football]]
+[[Category:2006–07 in German football]]
+[[Category:Men's international association football competitions hosted by Germany|2006]]
+[[Category:June 2006 sports events in Germany]]
+[[Category:July 2006 sports events in Germany]]
+[[Category:Corruption in Germany]]
