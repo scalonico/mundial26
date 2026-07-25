@@ -398,11 +398,17 @@ table.wcg-pre td.pts { color:#8493ad; }
   table.wcg { font-size:.86rem; }
   table.wcg th { font-size:.76rem; }
   table.wcg img.gf { height:13px; width:19px; }
-  /* Bracket is now the landing tab — tighten the matter above it so a matchup is in view sooner. */
+  /* The archive is the landing tab — tighten the matter above it so champions are in view sooner. */
   .block-container { padding-top:1.1rem; }
   .wchero { padding:13px 16px; gap:13px; margin:.1rem 0 .7rem; }
   .wch-emblem { width:58px; height:58px; }
   .wch-body h1 { font-size:1.9rem; }
+  /* Slim the champions badge on phones — at full size it squeezed the subtitle to five wrapped
+     lines. Narrower flag + inline label keeps the hero to a readable two or three. */
+  .wch-count { padding:7px 11px; border-radius:11px; }
+  .wch-champ img { width:34px; margin-bottom:3px; }
+  .wch-champ .nm { font-size:.95rem; }
+  .wch-count .l { font-size:.58rem; }
   .wclive { margin:.15rem 0 .6rem; }
   .wcres-wrap { margin:.1rem 0 .7rem; }
 }
@@ -521,10 +527,12 @@ st.markdown(
 
 # Archive-wide pulse. This used to be the LIVE 2026 tournament pulse (played/goals/now/days-to-final);
 # with the tournament finished those all freeze, so the row now measures the whole 1930–2026 archive —
-# figures that grow once every four years instead of going stale in a week.
+# figures that grow once every four years instead of going stale in a week. It sits above the tabs, so
+# it shows on every one of them; the archive tab therefore does NOT repeat these as stat cards.
 _rec = wch.records()
-_pulse = [(str(_eds), "editions"), (f"{_tot:,}", "matches"),
-          (f"{_rec['goals']:,}", "goals"), (str(_rec["nations"]), "nations")]
+_pulse = [(str(_eds), "editions"), (f"{_tot:,}", "matches"), (f"{_rec['goals']:,}", "goals"),
+          (str(_rec["nations"]), "nations"),
+          (_rec["most_titles"], f"most titles · {_rec['most_titles_n']}×")]
 st.markdown("<div class='wclive'>" + "".join(
     f"<div class='s'><span class='v'>{v}</span><span class='l'>{l}</span></div>" for v, l in _pulse)
     + "</div>", unsafe_allow_html=True)
@@ -1139,12 +1147,8 @@ with t_history:
     st.markdown(WCH_CSS, unsafe_allow_html=True)
     rec = wch.records()
     _yrs = wch.years()
-    ui.stats([
-        ("Editions", str(len(_yrs)), f"{_yrs[0]} – {_yrs[-1]}"),
-        ("Matches", f"{rec['matches']:,}", "all-time"),
-        ("Nations", str(rec["nations"]), "have competed"),
-        ("*Most titles", rec["most_titles"], f"{rec['most_titles_n']} World Cups"),
-    ])
+    # No stat cards here: this is the DEFAULT tab, so the four figures would sit inches below the
+    # identical ones in the pulse row above the tab bar. The pulse carries them for every tab.
     st.caption(f"The complete men's World Cup, {_yrs[0]}–{_yrs[-1]} — champions, all-time records and any "
                "nation's head-to-head. West Germany counts with Germany, Czech Republic with Czechia and "
                "Zaire with DR Congo; shootout knockouts count as draws.")
