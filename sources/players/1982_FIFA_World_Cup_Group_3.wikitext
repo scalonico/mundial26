@@ -1,0 +1,783 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Group 3 was one of six groups of national teams competing in the group stage of the [[1982 FIFA World Cup]]. Play began on 13 June with the opening match of the tournament and ended on 23 June 1982.<ref>{{cite web |url=https://www.rsssf.org/tables/82full.html |title=World Cup 1982 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The group consisted of four teams: The seeded team, the reigning world champions [[Argentina national football team|Argentina]], [[Belgium national football team|Belgium]], [[Hungary national football team|Hungary]] and [[El Salvador national football team|El Salvador]].
+
+Belgium won the group and advanced to the second round, along with Argentina. Despite recording [[Hungary v El Salvador (1982 FIFA World Cup)|the biggest victory in World Cup history]], Hungary failed to advance.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/spain1982/groups/index.html FIFA]
+
+|team1=BEL |team2=ARG |team3=HUN |team4=SLV
+|result1=A |result2=A
+
+|win_BEL=2 |draw_BEL=1 |loss_BEL=0 |gf_BEL=3 |ga_BEL=1
+|win_ARG=2 |draw_ARG=0 |loss_ARG=1 |gf_ARG=6 |ga_ARG=2
+|win_HUN=1 |draw_HUN=1 |loss_HUN=1 |gf_HUN=12 |ga_HUN=6
+|win_SLV=0 |draw_SLV=0 |loss_SLV=3 |gf_SLV=1 |ga_SLV=13
+
+|name_BEL={{fb|BEL}}
+|name_SLV={{fb|SLV}}
+|name_ARG={{fb|ARG|1861}}
+|name_HUN={{fb|HUN}}
+
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1982 FIFA World Cup#Second group stage|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+[[File:Argentina v belgica 1982 14.jpg|thumb|Argentina supporters outside the Camp Nou stadium]]
+===Argentina vs Belgium===
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1982|6|13|df=y}}
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1982 FIFA World Cup Group 3#Argentina vs Belgium|0–1}}
+|team2={{fb|BEL}}
+|goals1=
+|goals2=
+*[[Erwin Vandenbergh|Vandenbergh]] {{goal|62}}
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=95,000
+|referee=[[Vojtech Christov]] ([[Czechoslovak Football Association|Czechoslovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/749 |title=Argentina vs Belgium {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=749/index.html |title=1982 FIFA World Cup Spain – Matches – Argentina v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231161209/http://www.fifa.com/worldcup/matches/round=293/match=749/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _arg7879h
+|pattern_b  = _arg7879h
+|pattern_ra = _arg7879h
+|pattern_sh = _arg7879h
+|pattern_so = _arg78h
+|leftarm    = 75aadb
+|body       = 75aadb
+|rightarm   = 75aadb
+|shorts     = 000000
+|socks      = ffffff
+|title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _belgium1982h
+| pattern_b  = _belgium1982h
+| pattern_ra = _belgium1982h
+| pattern_sh = _belgium1982a
+| pattern_so  = _belgium1982h
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FF0000
+| socks      = FF0000
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''7''' ||[[Ubaldo Fillol]]
+|-
+|SW ||'''15'''||[[Daniel Passarella]] ([[Captain (association football)|c]])
+|-
+|DF ||'''14'''||[[Jorge Olguín]]
+|-
+|DF ||'''8''' ||[[Luis Galván]]
+|-
+|DF ||'''18'''||[[Alberto Tarantini]]
+|-
+|MF ||'''1''' ||[[Osvaldo Ardiles]]
+|-
+|MF ||'''9''' ||[[Américo Gallego]]
+|-
+|MF ||'''10'''||[[Diego Maradona]]
+|-
+|MF ||'''11'''||[[Mario Kempes]]
+|-
+|FW ||'''6''' ||[[Ramón Díaz]] || || {{suboff|63}}
+|-
+|FW ||'''4''' ||[[Daniel Bertoni]] || {{yel|55}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''2''' ||[[Héctor Baley]]
+|-
+|MF ||'''3''' ||[[Juan Barbas]]
+|-
+|MF ||'''12'''||[[Patricio Hernández]]
+|-
+|FW ||'''20'''||[[Jorge Valdano]] || || {{subon|63}}
+|-
+|DF ||'''22'''||[[José Van Tuyne]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[César Luis Menotti]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jean-Marie Pfaff]]
+|-
+|SW ||'''15'''||[[Maurits De Schrijver]]
+|-
+|DF ||'''2''' ||[[Eric Gerets]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[Luc Millecamps]] || {{yel|50}}
+|-
+|DF ||'''14'''||[[Marc Baecke]]
+|-
+|MF ||'''10'''||[[Ludo Coeck]]
+|-
+|MF ||'''6''' ||[[Franky Vercauteren]]
+|-
+|MF ||'''20'''||[[Guy Vandersmissen]]
+|-
+|FW ||'''21'''||[[Alexandre Czerniatynski]]
+|-
+|FW ||'''9''' ||[[Erwin Vandenbergh]]
+|-
+|FW ||'''11'''||[[Jan Ceulemans]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''5''' ||[[Michel Renquin]]
+|-
+|MF ||'''8''' ||[[Wilfried Van Moer]]
+|-
+|GK ||'''12'''||[[Theo Custers]]
+|-
+|DF ||'''13'''||[[François Van der Elst]]
+|-
+|MF ||'''17'''||[[René Verheyen]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Guy Thys]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+<br />[[Alojzy Jarguz]] ([[Polish Football Association|Poland]])
+|}
+
+===Hungary vs El Salvador===
+{{main|Hungary v El Salvador (1982 FIFA World Cup)}}
+<onlyinclude>{{#invoke:transcludable section|main|section=3-2|text={{#lst:Hungary v El Salvador (1982 FIFA World Cup)|3-2}}}}</onlyinclude>
+{{#lst:Hungary v El Salvador (1982 FIFA World Cup)|Line-ups}}
+
+===Argentina vs Hungary===
+Following an officiating error, Hungary took the kick-off in both halves.
+
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1982|6|18|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1982 FIFA World Cup Group 3#Argentina vs Hungary|4–1}}
+|team2={{fb|HUN}}
+|goals1=
+*[[Daniel Bertoni|Bertoni]] {{goal|26}}
+*[[Diego Maradona|Maradona]] {{goal|28||57}}
+*[[Osvaldo Ardiles|Ardiles]] {{goal|60}}
+|goals2=
+*[[Gábor Pölöskei|Pölöskei]] {{goal|76}}
+|stadium=[[Estadio José Rico Pérez]], [[Alicante]]
+|attendance=32,093
+|referee=[[Belaïd Lacarne]] ([[Algerian Football Federation|Algeria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/752 |title=Argentina vs Hungary {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=752/index.html |title=1982 FIFA World Cup Spain – Matches – Argentina v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226132143/http://www.fifa.com/worldcup/matches/round=293/match=752/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _arg7879h
+|pattern_b  = _arg7879h
+|pattern_ra = _arg7879h
+|pattern_sh = _arg7879h
+|pattern_so = _arg78h
+|leftarm    = 75aadb
+|body       = 75aadb
+|rightarm   = 75aadb
+|shorts     = 000000
+|socks      = ffffff
+|title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _hun82h
+ | pattern_b  = _hun82h
+ | pattern_ra = _hun82h
+ | pattern_sh = _hun82
+ | pattern_so = _hun82h
+ | leftarm    = ED1D24
+ | body       = ED1D24
+ | rightarm   = ED1D24
+ | shorts     = FFFFFF
+ | socks      = 00A851
+ | title      = Hungary
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''7''' ||[[Ubaldo Fillol]]
+|-
+|SW ||'''15'''||[[Daniel Passarella]] ([[Captain (association football)|c]])
+|-
+|DF ||'''14'''||[[Jorge Olguín]]
+|-
+|DF ||'''8''' ||[[Luis Galván]]
+|-
+|DF ||'''18'''||[[Alberto Tarantini]] || || {{suboff|51}}
+|-
+|MF ||'''9''' ||[[Américo Gallego]]
+|-
+|MF ||'''1''' ||[[Osvaldo Ardiles]]
+|-
+|MF ||'''10'''||[[Diego Maradona]]
+|-
+|MF ||'''11'''||[[Mario Kempes]]
+|-
+|FW ||'''20'''||[[Jorge Valdano]] || || {{suboff|24}}
+|-
+|FW ||'''4''' ||[[Daniel Bertoni]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''2''' ||[[Héctor Baley]]
+|-
+|MF ||'''3''' ||[[Juan Barbas]] || || {{subon|51}}
+|-
+|MF ||'''5''' ||[[Gabriel Calderón]] || || {{subon|24}}
+|-
+|FW ||'''6''' ||[[Ramón Díaz]]
+|-
+|DF ||'''22'''||[[José Van Tuyne]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[César Luis Menotti]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ferenc Mészáros (footballer, born 1950)|Ferenc Mészáros]]
+|-
+|SW ||'''3''' ||[[László Bálint]]
+|-
+|DF ||'''2''' ||[[Győző Martos]] || || {{suboff|46}}
+|-
+|DF ||'''6''' ||[[Imre Garaba]]
+|-
+|DF ||'''4''' ||[[József Tóth (born 1951)|József Tóth]]
+|-
+|MF ||'''19'''||[[József Varga (footballer, born 1954)|József Varga]]
+|-
+|MF ||'''8''' ||[[Tibor Nyilasi]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14'''||[[Sándor Sallai]]
+|-
+|FW ||'''10'''||[[László Kiss (footballer)|László Kiss]] || || {{suboff|61}}
+|-
+|FW ||'''11'''||[[Gábor Pölöskei]]
+|-
+|FW ||'''13'''||[[Tibor Rab]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[László Fazekas]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[András Törőcsik]]
+|-
+|MF ||'''12'''||[[Lázár Szentes]] || || {{subon|61}}
+|-
+|MF ||'''18'''||[[Attila Kerekes]]
+|-
+|GK ||'''21'''||[[Béla Katzirz]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Kálmán Mészöly]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Michel Vautrot]] ([[French Football Federation|France]])
+<br />[[Nicolae Rainea]] ([[Romanian Football Federation|Romania]])
+|}
+
+===Belgium vs El Salvador===
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1982|6|19|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|BEL}}
+|score={{score link|1982 FIFA World Cup Group 3#Belgium vs El Salvador|1–0}}
+|team2={{fb|SLV}}
+|goals1=
+*[[Ludo Coeck|Coeck]] {{goal|19}}
+|goals2=
+|stadium=[[Estadio Manuel Martínez Valero|Nuevo Estadio]], [[Elche]]
+|attendance=15,000
+|referee=[[Malcolm Moffat]] ([[Irish Football Association|Northern&nbsp;Ireland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/774 |title=Belgium vs El Salvador {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=774/index.html |title=1982 FIFA World Cup Spain – Matches – Belgium v El Salvador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227071002/http://www.fifa.com/worldcup/matches/round=293/match=774/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1982h
+ | pattern_b  = _belgium1982h
+ | pattern_ra = _belgium1982h
+ | pattern_sh = _belgium1982h
+ | pattern_so  = _belgium1982h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _elsalvador82
+ | pattern_b  = _elsalvador82
+ | pattern_ra = _elsalvador82
+ | pattern_sh = _blue_stripes_adidas
+ |pattern_so  = _3_stripes_blue
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = El Salvador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jean-Marie Pfaff]]
+|-
+|DF ||'''2''' ||[[Eric Gerets]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Walter Meeuws]]
+|-
+|DF ||'''3''' ||[[Luc Millecamps]]
+|-
+|DF ||'''14'''||[[Marc Baecke]]
+|-
+|MF ||'''20'''||[[Guy Vandersmissen]] || || {{suboff|46}}
+|-
+|MF ||'''10'''||[[Ludo Coeck]]
+|-
+|MF ||'''6''' ||[[Franky Vercauteren]]
+|-
+|FW ||'''21'''||[[Alexandre Czerniatynski]]
+|-
+|FW ||'''9''' ||[[Erwin Vandenbergh]]
+|-
+|FW ||'''11'''||[[Jan Ceulemans]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''8''' ||[[Wilfried Van Moer]] || || {{subon|80}}
+|-
+|DF ||'''13'''||[[François Van der Elst]]  || || {{subon|46}}
+|-
+|DF ||'''15'''||[[Maurits De Schrijver]]
+|-
+|MF ||'''17'''||[[René Verheyen]]
+|-
+|GK ||'''22'''||[[Jacky Munaron]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Guy Thys]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || [[Luis Guevara Mora]]
+|-
+|DF ||'''12'''|| [[Francisco Osorto]] || {{yel|17}} || {{suboff|46}}
+|-
+|DF ||'''3''' || [[José Francisco Jovel]]
+|-
+|DF ||'''15'''|| [[Jaime Rodríguez]]
+|-
+|DF ||'''4''' || [[Carlos Recinos]]
+|-
+|MF ||'''5''' || [[Ramón Fagoaga]] || {{yel|74}}
+|-
+|MF ||'''6''' || [[Joaquín Ventura]]
+|-
+|MF ||'''10'''|| [[Norberto Huezo]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14'''|| [[Luis Ramírez Zapata]]
+|-
+|FW ||'''11'''|| [[Mágico González|Jorge González]]
+|-
+|FW ||'''13'''|| [[José María Rivas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' || [[Mario Castillo]]
+|-
+|FW ||'''9''' || [[Ever Hernández]]
+|-
+|MF ||'''16'''|| [[Mauricio Alfaro]]
+|-
+|DF ||'''18'''|| [[Miguel Ángel Díaz]] || || {{subon|46}}
+|-
+|GK ||'''19'''|| [[Eduardo Hernández (goalkeeper)|Eduardo Hernández]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Mauricio Alonso Rodríguez|Pipo Rodríguez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Gastón Castro]] ([[Football Federation of Chile|Chile]])
+<br />[[Alojzy Jarguz]] ([[Polish Football Association|Poland]])
+|}
+
+===Belgium vs Hungary===
+<onlyinclude>{{#invoke:Football box|main|section=3-5
+|date={{Start date|1982|6|22|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|BEL}}
+|score={{score link|1982 FIFA World Cup Group 3#Belgium vs Hungary|1–1}}
+|team2={{fb|HUN}}
+|goals1=
+*[[Alexandre Czerniatynski|Czerniatynski]] {{goal|76}}
+|goals2=
+*[[József Varga (footballer born 1954)|Varga]] {{goal|27}}
+|stadium=[[Estadio Manuel Martínez Valero|Nuevo Estadio]], [[Elche]]
+|attendance=37,000
+|referee=[[Clive White]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/779 |title=Belgium vs Hungary {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=779/index.html |title=1982 FIFA World Cup Spain – Matches – Belgium v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226133856/http://www.fifa.com/worldcup/matches/round=293/match=779/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1982h
+| pattern_b  = _belgium1982h
+| pattern_ra = _belgium1982h
+| pattern_sh = _belgium1982h
+| pattern_so  = _belgium1982h
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FF0000
+| socks      = FF0000
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _hun82a
+ | pattern_b  = _hun82a
+ | pattern_ra = _hun82a
+ | pattern_sh = _hun82
+ | pattern_so = _hun82a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+| title      = Hungary
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jean-Marie Pfaff]] || {{yel|65}}
+|-
+|DF ||'''2''' ||[[Eric Gerets]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|DF ||'''4''' ||[[Walter Meeuws]] || {{yel|79}}
+|-
+|DF ||'''3''' ||[[Luc Millecamps]]
+|-
+|DF ||'''14'''||[[Marc Baecke]]
+|-
+|MF ||'''20'''||[[Guy Vandersmissen]] || || {{suboff|46}}
+|-
+|MF ||'''6''' ||[[Franky Vercauteren]]
+|-
+|MF ||'''10'''||[[Ludo Coeck]]
+|-
+|FW ||'''11'''||[[Jan Ceulemans]]
+|-
+|FW ||'''9''' ||[[Erwin Vandenbergh]]
+|-
+|FW ||'''21'''||[[Alexandre Czerniatynski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''8''' ||[[Wilfried Van Moer]] || || {{subon|46}}
+|-
+|GK ||'''12'''||[[Theo Custers]]
+|-
+|DF ||'''13'''||[[François Van der Elst]]
+|-
+|DF ||'''16'''||[[Gerard Plessers]] || || {{subon|62}}
+|-
+|MF ||'''17'''||[[René Verheyen]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Guy Thys]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ferenc Mészáros (footballer, born 1950)|Ferenc Mészáros]]
+|-
+|DF ||'''2''' ||[[Győző Martos]]
+|-
+|DF ||'''18'''||[[Attila Kerekes]]
+|-
+|DF ||'''6''' ||[[Imre Garaba]]
+|-
+|DF ||'''19'''||[[József Varga (footballer, born 1954)|József Varga]]
+|-
+|MF ||'''5''' ||[[Sándor Müller]] || || {{suboff|67}}
+|-
+|MF ||'''8''' ||[[Tibor Nyilasi]] ([[Captain (association football)|c]])
+|-
+|FW ||'''9''' ||[[András Törőcsik]]
+|-
+|FW ||'''7''' ||[[László Fazekas]]
+|-
+|FW ||'''10'''||[[László Kiss (footballer)|László Kiss]] || || {{suboff|70}}
+|-
+|FW ||'''11'''||[[Gábor Pölöskei]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''12'''||[[Lázár Szentes]]
+|-
+|DF ||'''13'''||[[Tibor Rab]]
+|-
+|DF ||'''14'''||[[Sándor Sallai]] || || {{subon|67}}
+|-
+|MF ||'''16'''||[[Ferenc Csongrádi]] || || {{subon|70}}
+|-
+|GK ||'''21'''||[[Béla Katzirz]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Kálmán Mészöly]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Walter Eschweiler]] ([[German Football Association|West Germany]])
+<br />[[Belaïd Lacarne]] ([[Algerian Football Federation|Algeria]])
+|}
+
+===Argentina vs El Salvador===
+<onlyinclude>{{#invoke:Football box|main|section=3-6
+|date={{Start date|1982|6|23|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1982 FIFA World Cup Group 3#Argentina vs El Salvador|2–0}}
+|team2={{fb|SLV}}
+|goals1=
+*[[Daniel Passarella|Passarella]] {{goal|22|pen.}}
+*[[Daniel Bertoni|Bertoni]] {{goal|54}}
+|goals2=
+|stadium=[[Estadio José Rico Pérez]], [[Alicante]]
+|attendance=32,500
+|referee=[[Luis Barrancos]] ([[Bolivian Football Federation|Bolivia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/751 |title=Argentina vs El Salvador {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=751/index.html |title=1982 FIFA World Cup Spain – Matches – Argentina v El Salvador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226182218/http://www.fifa.com/worldcup/matches/round=293/match=751/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _arg7879h
+|pattern_b  = _arg7879h
+|pattern_ra = _arg7879h
+|pattern_sh = _arg7879h
+|pattern_so = _arg78h
+|leftarm    = 75aadb
+|body       = 75aadb
+|rightarm   = 75aadb
+|shorts     = 000000
+|socks      = ffffff
+|title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _elsalvador82
+ | pattern_b  = _elsalvador82
+ | pattern_ra = _elsalvador82
+ | pattern_sh = _blue_stripes_adidas
+ |pattern_so  = _3_stripes_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = El Salvador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''7''' ||[[Ubaldo Fillol]]
+|-
+|DF ||'''14'''||[[Jorge Olguín]] || {{yel|31}}
+|-
+|DF ||'''15'''||[[Daniel Passarella]] ([[Captain (association football)|c]])
+|-
+|DF ||'''8''' ||[[Luis Galván]]
+|-
+|DF ||'''18'''||[[Alberto Tarantini]]
+|-
+|MF ||'''1''' ||[[Osvaldo Ardiles]]
+|-
+|MF ||'''9''' ||[[Américo Gallego]] || {{yel|44}}
+|-
+|MF ||'''10'''||[[Diego Maradona]]
+|-
+|MF ||'''11'''||[[Mario Kempes]]
+|-
+|FW ||'''4''' ||[[Daniel Bertoni]] || || {{suboff|67}}
+|-
+|FW ||'''5''' ||[[Gabriel Calderón]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''2''' ||[[Héctor Baley]]
+|-
+|FW ||'''6''' ||[[Ramón Díaz]] || || {{subon|67}}
+|-
+|MF ||'''12'''||[[Patricio Hernández]]
+|-
+|DF ||'''13'''||[[Julio Olarticoechea]]
+|-
+|FW ||'''17'''||[[Santiago Santamaría]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[César Luis Menotti]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || [[Luis Guevara Mora]]
+|-
+|DF ||'''12'''|| [[Francisco Osorto]] || {{yel|20}} || {{suboff|33}}
+|-
+|DF ||'''3''' || [[José Francisco Jovel]]
+|-
+|DF ||'''15'''|| [[Jaime Rodríguez]]
+|-
+|DF ||'''4''' || [[Carlos Recinos]] || {{yel|45}}
+|-
+|MF ||'''8''' || [[José Luis Rugamas]]
+|-
+|MF ||'''6''' || [[Joaquín Ventura]] || || {{suboff|78}}
+|-
+|MF ||'''10'''|| [[Norberto Huezo]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14'''|| [[Luis Ramírez Zapata]] || {{yel|26}}
+|-
+|FW ||'''11'''|| [[Mágico González|Jorge González]]
+|-
+|FW ||'''13'''|| [[José María Rivas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' || [[Mario Castillo]]
+|-
+|FW ||'''9''' || [[Ever Hernández]]
+|-
+|MF ||'''16'''|| [[Mauricio Alfaro]] || || {{subon|78}}
+|-
+|DF ||'''18'''|| [[Miguel Ángel Díaz]] || || {{subon|33}}
+|-
+|GK ||'''19'''|| [[Eduardo Hernández (goalkeeper)|Eduardo Hernández]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Mauricio Alonso Rodríguez|Pipo Rodríguez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Augusto Lamo Castillo]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Belaïd Lacarne]] ([[Algerian Football Federation|Algeria]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Belgium at the FIFA World Cup]]
+*[[El Salvador at the FIFA World Cup]]
+*[[Hungary at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+===Sources===
+* {{cite web|url=https://www.magyarfutball.hu/hu/merkozesek/1982-06-15/magyarorszag-salvador|title=Magyarország – Salvador 10 : 1, 1982.06.15. (Képek, Sdatok) • Világbajnokság 1982, Spanyolország, Csoportmérkőzés|trans-title=Hungary 10–1 El Salvador, 15 June 1982 (Photos, Stats) • 1982 World Cup, Spain, Group Stage Match|work=Magyarfutball|access-date=12 April 2026|language=hu|ref={{harvid|Magyarfutball}}}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/2602c368daaad887/original/bn1ocpuvccw3txzmiut3-pdf.pdf Spain 1982 FIFA Technical Report: Statistical Details of the Matches pp. 111-115]
+
+{{1982 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 3}}
+[[Category:1982 FIFA World Cup group stage]]
+[[Category:Argentina at the 1982 FIFA World Cup]]
+[[Category:Belgium at the 1982 FIFA World Cup]]
+[[Category:El Salvador at the 1982 FIFA World Cup]]
+[[Category:Hungary at the 1982 FIFA World Cup]]
+[[Category:Football competitions in Barcelona]]
+[[Category:Football in the Valencian Community]]
+[[Category:1980s in Barcelona]]
+[[Category:1982 in the Valencian Community]]
+[[Category:Sport in Elche]]
+[[Category:Sport in Alicante]]
+[[Category:1982 in Catalonia]]

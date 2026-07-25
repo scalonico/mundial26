@@ -1,0 +1,806 @@
+{{Short description|Football tournament group stage}}
+{{distinguish|1974 FIFA World Cup Group B}}
+{{more citations needed|date=May 2018}}
+{{Use dmy dates|date=May 2018}}
+'''Group 2 of the [[1974 FIFA World Cup]]''' was contested between 13 and 22 June 1974, with matches played in three cities: [[Dortmund]], [[Gelsenkirchen]] and [[Frankfurt]].<ref>{{cite web |url=https://www.rsssf.org/tables/74full.html |title=World Cup 1974 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+The group consisted of defending champions [[Brazil national football team|Brazil]], [[Scotland national football team|Scotland]], [[Yugoslavia national football team|Yugoslavia]] and African Cup of Nations winner [[DR Congo national football team|Zaire]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407142357/http://www.fifa.com/worldcup/archive/germany1974/groups/index.html FIFA]
+
+|team1=YUG |team2=BRA |team3=SCO |team4=ZAI
+|result1=A |result2=A
+
+|win_YUG=1 |draw_YUG=2 |loss_YUG=0 |gf_YUG=10 |ga_YUG=1
+|win_BRA=1 |draw_BRA=2 |loss_BRA=0 |gf_BRA=3 |ga_BRA=0
+|win_SCO=1 |draw_SCO=2 |loss_SCO=0 |gf_SCO=3 |ga_SCO=1
+|win_ZAI=0 |draw_ZAI=0 |loss_ZAI=3 |gf_ZAI=0 |ga_ZAI=14
+
+|name_YUG={{fb|YUG}}
+|name_ZAI={{fb|ZAI}}
+|name_BRA={{fb|BRA|1968}}
+|name_SCO={{fb|SCO}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1974 FIFA World Cup#Second round|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times listed are local ([[Central European Time|CET]])''
+
+===Brazil vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=2-1
+|date={{Start date|1974|6|13|df=y}}
+|time=17:00 [[Central European Time|CET]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1974 FIFA World Cup Group 2#Brazil vs Yugoslavia|0–0}}
+|team2={{fb|YUG}}
+|goals1=
+|goals2=
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=62,000
+|referee=[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1986 |title=Brazil vs Yugoslavia {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1986/index.html |title=1974 FIFA World Cup Germany – Matches – Brazil v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210014504/http://www.fifa.com/worldcup/matches/round=262/match=1986/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _greenborder
+| pattern_b  = _greencollar
+| pattern_ra = _greenborder
+| pattern_sh = _white_stripes
+| pattern_so = _BRAhome0710
+| leftarm    = FDE910
+| body       = FDE910
+| rightarm   = FDE910
+| shorts     = 0047AB
+| socks      = FFFFFF
+ |title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _red stripes
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Yugoslavia
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Émerson Leão]]
+|-
+|RB ||'''14'''||[[Nelinho]]
+|-
+|CB ||'''2''' ||[[Luís Pereira]]
+|-
+|CB ||'''3''' ||[[Marinho Peres]]
+|-
+|LB ||'''6''' ||[[Marinho Chagas]]
+|-
+|RM ||'''10'''||[[Rivellino]]
+|-
+|CM ||'''5''' ||[[Wilson Piazza|Piazza]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Caju (footballer, born 1949)|Caju]]
+|-
+|RF ||'''13'''||[[Valdomiro Vaz Franco|Valdomiro]]
+|-
+|CF ||'''7''' ||[[Jairzinho]]
+|-
+|LF ||'''8''' ||[[Leivinha]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Mário Zagallo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enver Marić]]
+|-
+|RB ||'''4''' ||[[Dražen Mužinić]]
+|-
+|CB ||'''2''' ||[[Ivan Buljan]]
+|-
+|CB ||'''5''' ||[[Josip Katalinski]]
+|-
+|LB ||'''3''' ||[[Enver Hadžiabdić]]
+|-
+|DM ||'''6''' ||[[Vladislav Bogićević]]
+|-
+|CM ||'''8''' ||[[Branko Oblak]] || {{yel|17}}
+|-
+|CM ||'''10'''||[[Jovan Aćimović]] || {{yel|49}}
+|-
+|RW ||'''7''' ||[[Ilija Petković]]
+|-
+|LW ||'''11'''||[[Dragan Džajić]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Ivica Šurjak]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Miljan Miljanić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Vital Loraux]] ([[Royal Belgian Football Association|Belgium]])
+<br />[[Luis Pestarino]] ([[Argentina Football Association|Argentina]])
+|}
+
+===Zaire vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=2-2
+|date={{Start date|1974|6|14|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|ZAI}}
+|score={{score link|1974 FIFA World Cup Group 2#Zaire vs Scotland|0–2}}
+|team2={{fb|SCO}}
+|goals1=
+|goals2=
+*[[Peter Lorimer|Lorimer]] {{goal|26}}
+*[[Joe Jordan|Jordan]] {{goal|34}}
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=27,000
+|referee=[[Gerhard Schulenburg]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2176 |title=Zaire vs Scotland {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2176/index.html |title=1974 FIFA World Cup Germany – Matches – Zaire v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171130143507/http://www.fifa.com/worldcup/matches/round=262/match=2176/index.html |archive-date=30 November 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_green_stripes
+ |pattern_b  = _adidas_greenshoulder
+ |pattern_ra = _shoulder_stripes_green_stripes
+ |pattern_sh = _adidas_yellow
+ |pattern_so = _greentop
+ |leftarm    = FFDD00 
+ |body       = FFDD00 
+ |rightarm   = FFDD00 
+ |shorts     = 008030
+ |socks      = FFDD00 
+ |title      = Zaire
+}}
+|{{Football kit
+| pattern_la = _whiteborder
+| pattern_b  = _whitecollar_trineck
+| pattern_ra = _whiteborder
+| leftarm    = 1A2D69
+| body       = 1A2D69
+| rightarm   = 1A2D69
+| shorts     = FFFFFF
+| socks      = FF0000
+ |title      = Scotland
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Kazadi Mwamba]]
+|-
+|RB ||'''2''' ||[[Mwepu Ilunga]]
+|-
+|CB ||'''5''' ||[[Lobilo Boba]]
+|-
+|CB ||'''4''' ||[[Bwanga Tshimen]]
+|-
+|LB ||'''3''' ||[[Mwanza Mukombo]]
+|-
+|CM ||'''6''' ||[[Kilasu Massamba]]
+|-
+|CM ||'''8''' ||[[Mana Mamuwene]]
+|-
+|AM ||'''10'''||[[Kidumu Mantantu]] ([[Captain (association football)|c]]) || {{yel|40}} || {{suboff|78}}
+|-
+|RF ||'''14'''||[[Mayanga Maku]] || || {{suboff|64}}
+|-
+|CF ||'''13'''||[[Ndaye Mulamba]]
+|-
+|LF ||'''21'''||[[Kakoko Etepé]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[Kembo Uba Kembo]] || || {{subon|64}}
+|-
+|MF ||'''15'''||[[Kibonge Mafu]] || || {{subon|78}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|YUG}} [[Blagoje Vidinić]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Harvey (footballer)|David Harvey]]
+|-
+|RB ||'''2''' ||[[Sandy Jardine]]
+|-
+|CB ||'''5''' ||[[Jim Holton]] || {{yel|48}}
+|-
+|CB ||'''6''' ||[[John Blackley]]
+|-
+|LB ||'''3''' ||[[Danny McGrain]]
+|-
+|CM ||'''4''' ||[[Billy Bremner]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||[[Kenny Dalglish]] || || {{suboff|75}}
+|-
+|CM ||'''10'''||[[David Hay]]
+|-
+|RF ||'''11'''||[[Peter Lorimer]]
+|-
+|CF ||'''9''' ||[[Joe Jordan]]
+|-
+|LF ||'''19'''||[[Denis Law]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Tommy Hutchison]] || || {{subon|75}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Willie Ormond]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Tony Boskovic]] ([[Football Federation Australia|Australia]])
+<br />[[Hans-Joachim Weyland]] ([[German Football Association|Germany]])
+|}
+
+===Yugoslavia vs Zaire===
+<onlyinclude>{{#invoke:Football box|main|section=2-3
+|date={{Start date|1974|6|18|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|YUG}}
+|score={{score link|1974 FIFA World Cup Group 2#Yugoslavia vs Zaire|9–0}}
+|team2={{fb|ZAI}}
+|goals1=
+*[[Dušan Bajević|Bajević]] {{goal|8||30||81}}
+*[[Dragan Džajić|Džajić]] {{goal|14}}
+*[[Ivica Šurjak|Šurjak]] {{goal|18}}
+*[[Josip Katalinski|Katalinski]] {{goal|22}}
+*[[Vladislav Bogićević|Bogićević]] {{goal|35}}
+*[[Branko Oblak|Oblak]] {{goal|61}}
+*[[Ilija Petković|Petković]] {{goal|65}}
+|goals2=
+|stadium=[[Parkstadion]], [[Gelsenkirchen]]
+|attendance=31,700
+|referee=[[Omar Delgado Gómez]] ([[Federación Colombiana de Fútbol|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2186 |title=Yugoslavia vs Zaire {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2186/index.html |title=1974 FIFA World Cup Germany – Matches – Yugoslavia v Zaire |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228021539/http://www.fifa.com/worldcup/matches/round=262/match=2186/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_blue_stripes
+ |pattern_b  = _shoulder_stripes_blue_stripes
+ |pattern_ra = _shoulder_stripes_blue_stripes
+ |pattern_sh = _red stripes
+ |pattern_so = _2 blue stripes
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Yugoslavia
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_yellow_stripes
+ |pattern_b  = _2yellowshoulderstripes
+ |pattern_ra = _shoulder_stripes_yellow_stripes
+ |pattern_sh = _adidas_yellow
+ |pattern_so = _goldtop
+ |leftarm    = 008030
+ |body       = 008030
+ |rightarm   = 008030
+ |shorts     = 008030
+ |socks      = 008030
+ |title      = Zaire
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enver Marić]]
+|-
+|RB ||'''2''' ||[[Ivan Buljan]]
+|-
+|CB ||'''5''' ||[[Josip Katalinski]]
+|-
+|CB ||'''6''' ||[[Vladislav Bogićević]]
+|-
+|LB ||'''3''' ||[[Enver Hadžiabdić]] || {{yel|54}}
+|-
+|CM ||'''8''' ||[[Branko Oblak]]
+|-
+|CM ||'''10'''||[[Jovan Aćimović]]
+|-
+|AM ||'''9''' ||[[Ivica Šurjak]]
+|-
+|RF ||'''7''' ||[[Ilija Petković]]
+|-
+|CF ||'''19'''||[[Dušan Bajević]]
+|-
+|LF ||'''11'''||[[Dragan Džajić]] ([[Captain (association football)|c]])
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Miljan Miljanić]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Kazadi Mwamba]] || || {{suboff|21}}
+|-
+|RB ||'''2''' ||[[Mwepu Ilunga]]
+|-
+|CB ||'''5''' ||[[Lobilo Boba]]
+|-
+|CB ||'''4''' ||[[Bwanga Tshimen]]
+|-
+|LB ||'''3''' ||[[Mwanza Mukombo]]
+|-
+|MF ||'''6''' ||[[Kilasu Massamba]]
+|-
+|MF ||'''8''' ||[[Mana Mamuwene]]
+|-
+|MF ||'''10'''||[[Kidumu Mantantu]] ([[Captain (association football)|c]]) 
+|-
+|RF ||'''13'''||[[Ndaye Mulamba]] || {{sent off|0|22}}
+|-
+|CF ||'''9''' ||[[Kembo Uba Kembo]]
+|-
+|LF ||'''21'''||[[Kakoko Etepé]] || || {{suboff|45}}
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Tubilandu Ndimbi]] || || {{subon|21}}
+|-
+|FW ||'''14'''||[[Mayanga Maku]] || || {{subon|45}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|YUG}} [[Blagoje Vidinić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Vincente Llobregat]] ([[Venezuelan Football Federation|Venezuela]])
+<br />[[Ramón Barreto]] ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Scotland vs Brazil===
+<onlyinclude>{{#invoke:Football box|main|section=2-4
+|date={{Start date|1974|6|18|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|SCO}}
+|score={{score link|1974 FIFA World Cup Group 2#Scotland vs Brazil|0–0}}
+|team2={{fb|BRA|1968}}
+|goals1=
+|goals2=
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=62,000
+|referee=[[Arie van Gemert]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1985 |title=Scotland vs Brazil {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1985/index.html |title=1974 FIFA World Cup Germany – Matches – Scotland v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227083600/http://www.fifa.com/worldcup/matches/round=262/match=1985/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollar_trineck
+ | pattern_ra = _whiteborder
+ | leftarm    = 1A2D69
+ | body       = 1A2D69
+ | rightarm   = 1A2D69
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ |title      = Scotland
+}}
+|{{Football kit
+| pattern_la = _greenborder
+| pattern_b  = _greencollar
+| pattern_ra = _greenborder
+| pattern_sh = _white_stripes
+| pattern_so = _BRAhome0710
+| leftarm    = FDE910
+| body       = FDE910
+| rightarm   = FDE910
+| shorts     = 0047AB
+| socks      = FFFFFF
+ |title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Harvey (footballer)|David Harvey]]
+|-
+|RB ||'''2''' ||[[Sandy Jardine]]
+|-
+|CB ||'''5''' ||[[Jim Holton]]
+|-
+|CB ||'''14'''||[[Martin Buchan]]
+|-
+|LB ||'''3''' ||[[Danny McGrain]]
+|-
+|RM ||'''20'''||[[Willie Morgan]]
+|-
+|CM ||'''10'''||[[David Hay]]
+|-
+|CM ||'''4''' ||[[Billy Bremner]] ([[Captain (association football)|c]])
+|-
+|LM ||'''8''' ||[[Kenny Dalglish]]
+|-
+|SS ||'''11'''||[[Peter Lorimer]]
+|-
+|CF ||'''9''' ||[[Joe Jordan]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Willie Ormond]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Émerson Leão]]
+|-
+|RB ||'''14'''||[[Nelinho]]
+|-
+|CB ||'''2''' ||[[Luís Pereira]]
+|-
+|CB ||'''3''' ||[[Marinho Peres]] || {{yel|87}}
+|-
+|LB ||'''6''' ||[[Marinho Chagas]] || {{yel|81}}
+|-
+|RM ||'''10'''||[[Rivellino]] || {{yel|35}}
+|-
+|CM ||'''5''' ||[[Wilson da Silva Piazza|Piazza]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Caju (footballer, born 1949)|Caju]]
+|-
+|RF ||'''19'''||[[Sebastião Miranda da Silva Filho|Mirandinha]]
+|-
+|CF ||'''7''' ||[[Jairzinho]]
+|-
+|LF ||'''8''' ||[[Leivinha]] || || {{suboff|65}}
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Paulo César Carpegiani|Carpegiani]] || || {{subon|65}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Mário Zagallo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+<br />[[Erich Linemayr]] ([[Austrian Football Association|Austria]])
+|}
+
+===Scotland vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=2-5
+|date={{Start date|1974|6|22|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|SCO}}
+|score={{score link|1974 FIFA World Cup Group 2#Scotland vs Yugoslavia|1–1}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Joe Jordan|Jordan]] {{goal|88}}
+|goals2=
+*[[Stanislav Karasi|Karasi]] {{goal|81}}
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=56,000
+|referee=[[Alfonso González Archundía]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2175 |title=Scotland vs Yugoslavia {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2175/index.html |title=1974 FIFA World Cup Germany – Matches – Scotland v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202032224/http://www.fifa.com/worldcup/matches/round=262/match=2175/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _whitecollar_trineck
+ | pattern_ra = 
+ | pattern_sh= 
+ | leftarm    = FFFFF
+ | body       = FFFFF
+ | rightarm   = FFFFF
+ | shorts     = FFFFF
+ | socks      = FFFFF
+ |title      = Scotland
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _red stripes
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = Yugoslavia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Harvey (footballer)|David Harvey]]
+|-
+|DF ||'''2''' ||[[Sandy Jardine]]
+|-
+|DF ||'''3''' ||[[Danny McGrain]]
+|-
+|DF ||'''5''' ||[[Jim Holton]]
+|-
+|DF ||'''14'''||[[Martin Buchan]]
+|-
+|MF ||'''4''' ||[[Billy Bremner]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Kenny Dalglish]] || || {{suboff|65}}
+|-
+|MF ||'''10'''||[[David Hay]] || {{yel|70}}
+|-
+|FW ||'''9''' ||[[Joe Jordan]] || {{yel|60}}
+|-
+|FW ||'''11'''||[[Peter Lorimer]]
+|-
+|FW ||'''20'''||[[Willie Morgan]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Tommy Hutchison]] || || {{subon|65}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Willie Ormond]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enver Marić]]
+|-
+|DF ||'''2''' ||[[Ivan Buljan]]
+|-
+|DF ||'''3''' ||[[Enver Hadžiabdić]]
+|-
+|DF ||'''5''' ||[[Josip Katalinski]] || {{yel|55}}
+|-
+|DF ||'''6''' ||[[Vladislav Bogićević]]
+|-
+|MF ||'''8''' ||[[Branko Oblak]] || {{yel|21}}
+|-
+|MF ||'''10'''||[[Jovan Aćimović]]
+|-
+|FW ||'''7''' ||[[Ilija Petković]]
+|-
+|FW ||'''9''' ||[[Ivica Šurjak]]
+|-
+|FW ||'''11'''||[[Dragan Džajić]] ([[Captain (association football)|c]])
+|-
+|FW ||'''19'''||[[Dušan Bajević]] || {{yel|70}} || {{suboff|70}}
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Stanislav Karasi]] || || {{subon|70}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Miljan Miljanić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+<br />[[Rudi Glöckner]] ([[Deutscher Fußball-Verband der DDR|East Germany]])
+|}
+
+===Zaire vs Brazil===
+<onlyinclude>{{#invoke:Football box|main|section=2-6
+|date={{Start date|1974|6|22|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|ZAI}}
+|score={{score link|1974 FIFA World Cup Group 2#Zaire vs Brazil|0–3}}
+|team2={{fb|BRA|1968}}
+|goals1=
+|goals2=
+*[[Jairzinho]] {{goal|12}}
+*[[Rivellino]] {{goal|66}}
+*[[Valdomiro Vaz Franco|Valdomiro]] {{goal|79}}
+|stadium=[[Parkstadion]], [[Gelsenkirchen]]
+|attendance=36,200
+|referee=[[Nicolae Rainea]] ([[Romanian Football Federation|Romania]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1987 |title=Zaire vs Brazil {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1987/index.html |title=1974 FIFA World Cup Germany – Matches – Zaire v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228030221/http://www.fifa.com/worldcup/matches/round=262/match=1987/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_yellow_stripes
+ |pattern_b  = _2yellowshoulderstripes
+ |pattern_ra = _shoulder_stripes_yellow_stripes
+ |pattern_sh = _shorts_adidas_green
+ |pattern_so = _goldtop
+ |leftarm    = 008030
+ |body       = 008030
+ |rightarm   = 008030
+ |shorts     = FFDD00 
+ |socks      = 008030
+ |title      = Zaire
+}}
+|{{Football kit
+| pattern_la = _greenborder
+| pattern_b  = _greencollar
+| pattern_ra = _greenborder
+| pattern_sh = _white_stripes
+| pattern_so = _BRAhome0710
+| leftarm    = FDE910
+| body       = FDE910
+| rightarm   = FDE910
+| shorts     = 0047AB
+| socks      = FFFFFF
+ |title      = Brazil
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Kazadi Mwamba]]
+|-
+|DF ||'''2''' ||[[Mwepu Ilunga]] || {{yel|78}}
+|-
+|DF ||'''3''' ||[[Mwanza Mukombo]]
+|-
+|DF ||'''4''' ||[[Bwanga Tshimen]]
+|-
+|DF ||'''5''' ||[[Lobilo Boba]]
+|-
+|MF ||'''7''' ||[[Tshinabu Wa Munda]] || || {{suboff|81}}
+|-
+|MF ||'''8''' ||[[Mana Mamuwene]]
+|-
+|MF ||'''10'''||[[Kidumu Mantantu]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|MF ||'''15'''||[[Kibonge Mafu]]
+|-
+|FW ||'''14'''||[[Mayanga Maku]]
+|-
+|FW ||'''20'''||[[Jean Kalala N'Tumba]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[Kembo Uba Kembo]] || || {{subon|81}}
+|-
+|MF ||'''6''' ||[[Kilasu Massamba]] || || {{subon|62}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|YUG}} [[Blagoje Vidinić]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Émerson Leão|Leão]]
+|-
+|DF ||'''2''' ||[[Luís Pereira]]
+|-
+|DF ||'''3''' ||[[Marinho Peres]]
+|-
+|DF ||'''6''' ||[[Marinho Chagas]]
+|-
+|DF ||'''14'''||[[Nelinho]]
+|-
+|MF ||'''5''' ||[[Wilson da Silva Piazza|Piazza]] ([[Captain (association football)|c]]) || || {{suboff|61}}
+|-
+|MF ||'''8''' ||[[Leivinha]] || || {{suboff|12}}
+|-
+|MF ||'''10'''||[[Rivellino]]
+|-
+|MF ||'''17'''||[[Paulo César Carpegiani|Carpegiani]]
+|-
+|FW ||'''7''' ||[[Jairzinho]]
+|-
+|FW ||'''20'''||[[Jonas Eduardo Américo|Edu]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Valdomiro Vaz Franco|Valdomiro]] || || {{subon|12}}
+|-
+|FW ||'''19'''||[[Sebastião Miranda da Silva Filho|Mirandinha]] || {{yel|77}} || {{subon|61}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Mário Zagallo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Aurelio Angonese]] ([[Italian Football Federation|Italy]])
+<br />[[Klaus Ohmsen]] ([[German Football Association|West Germany]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[DR Congo at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+*[[Yugoslavia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 2}}
+[[Category:1974 FIFA World Cup group stage|Group 2]]
+[[Category:Brazil at the 1974 FIFA World Cup]]
+[[Category:Scotland at the 1974 FIFA World Cup|Group]]
+[[Category:Yugoslavia at the 1974 FIFA World Cup]]
+[[Category:Zaire at the 1974 FIFA World Cup]]
+[[Category:Sports competitions in Dortmund]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:Football competitions in Frankfurt]]
+[[Category:Football competitions in North Rhine-Westphalia]]
+[[Category:1970s in North Rhine-Westphalia]]
+[[Category:20th century in Gelsenkirchen]]
+[[Category:20th century in Dortmund]]
+[[Category:1970s in Frankfurt]]

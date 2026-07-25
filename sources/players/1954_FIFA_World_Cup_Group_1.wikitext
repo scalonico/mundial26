@@ -1,0 +1,516 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 1 of the [[1954 FIFA World Cup]]''' took place from 16 to 19 June 1954. The group consisted of [[Brazil national football team|Brazil]], [[France national football team|France]], [[Mexico national football team|Mexico]], and [[Yugoslavia national football team|Yugoslavia]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/54f.html |title=World Cup 1954 (Switzerland, June 16 – July 4) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete|winpoints=2
+|source=[https://web.archive.org/web/20150407143131/http://www.fifa.com/worldcup/archive/switzerland1954/groups/index.html FIFA]
+
+|team1=BRA|team2=YUG
+|pos_YUG=1<!--POINTS WERE THE ONLY TIEBREAKER, BUT A PLAYOFF WAS ONLY USED IN TIE FOR 2ND/3RD PLACE; QUARTER-FINALS WERE RANDOMLY DRAWN AND NOT BASED ON GROUP POSITION-->
+|team3=FRA|team4=MEX
+
+|result1=KO|result2=KO
+
+|win_BRA=1|draw_BRA=1|loss_BRA=0|gf_BRA=6|ga_BRA=1
+|win_YUG=1|draw_YUG=1|loss_YUG=0|gf_YUG=2|ga_YUG=1
+|win_FRA=1|draw_FRA=0|loss_FRA=1|gf_FRA=3|ga_FRA=3
+|win_MEX=0|draw_MEX=0|loss_MEX=2|gf_MEX=2|ga_MEX=8
+
+|name_BRA={{fb|BRA|1889}}
+|name_YUG={{fb|YUG}}
+|name_FRA={{fb|FRA|1794}}
+|name_MEX={{fb|MEX|1934}}
+
+|res_col_header=Q|col_KO=green1|text_KO=Advance to the {{nowrap|[[1954 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time ([[Central European Time|CET]], [[UTC+01:00|UTC+1]]).
+
+===Brazil vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=1-1
+|date={{Start date|1954|6|16|df=y}}
+|time=18:00
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1954 FIFA World Cup Group 1#Brazil vs Mexico|5–0}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Baltazar (footballer, born 1926)|Baltazar]] {{goal|23}}
+*[[Didi (footballer, born 1928)|Didi]] {{goal|30}}
+*[[Pinga (footballer, born 1924)|Pinga]] {{goal|34||43}}
+*[[Julinho (footballer, born 1929)|Julinho]] {{goal|69}}
+|goals2=
+|stadium=[[Charmilles Stadium]], [[Geneva]]
+|attendance=13,470
+|referee=Raymon Wyssling ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1249 |title=Brazil vs Mexico {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1249/index.html |title=1954 FIFA World Cup Switzerland – Matches – Brazil v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227234510/http://www.fifa.com/worldcup/matches/round=211/match=1249/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder
+| pattern_b             =_collargreen
+| pattern_ra            = _greenborder
+| pattern_sh            = _whitesides
+| pattern_so            = _greentop
+| leftarm               = ffdd00
+| body                 = ffdd00
+| rightarm              =ffdd00
+| shorts               = 0000cc
+| socks                 = ffffff
+ | title           = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _clarettop
+| leftarm           = 800000
+| body             = 800000
+| rightarm           = 800000
+| shorts             = 000066
+| socks              = 000000
+|title            =  Mexico
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Carlos José Castilho|Castilho]]
+|-
+|RB||'''2'''|| [[Djalma Santos]] 
+|-
+|CH||'''5'''|| [[João Carlos Batista Pinheiro|Pinheiro]]
+|-
+|LB||'''3'''|| [[Nílton Santos]]
+|-
+|RH||'''4'''|| [[Brandãozinho (footballer, born 1925)|Brandãozinho]]
+|-
+|LH||'''6'''|| [[Bauer (footballer)|Bauer]] ([[Captain (association football)|c]])
+|-
+|OR||'''7'''|| [[Júlio Botelho|Julinho]]
+|-
+|IR||'''8'''|| [[Didi (footballer, born 1928)|Didi]]
+|-
+|CF||'''9'''|| [[Baltazar (footballer, born 1926)|Baltazar]]
+|-
+|IL||'''10'''|| [[José Lázaro Robles|Pinga]]
+|-
+|OL||'''11'''||[[Francisco Rodrigues (Brazilian footballer)|Rodrigues]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA|1889}} [[Zezé Moreira]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''12'''|| [[Salvador Mota]]
+|-
+|DF||'''2'''|| [[Narciso López (footballer)|Narciso López]] 
+|-
+|DF||'''3'''|| [[Jorge Romo]]
+|-
+|DF||'''14'''|| [[Juan Gómez (Mexican footballer)|Juan Gómez]]
+|-
+|MF||'''5'''|| [[Raúl Cárdenas]]
+|-
+|MF||'''6'''|| [[Rafael Ávalos]]
+|-
+|FW||'''7'''|| [[Alfredo Torres]]
+|-
+|FW||'''8'''|| [[José Naranjo (footballer, born 1926)|José Naranjo]] ([[Captain (association football)|c]])
+|-
+|FW||'''9'''|| [[José Luis Lamadrid]]
+|-
+|FW||'''10'''|| [[Tomás Balcázar]]
+|-
+|FW||'''11'''|| [[Raúl Arellano (footballer, born 1935)|Raúl Arellano]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SPA|1945}} [[Antonio López Herranz]] 
+|}
+{{col-end}}
+
+===Yugoslavia vs France===
+<onlyinclude>{{#invoke:Football box|main|section=1-2
+|date={{Start date|1954|6|16|df=y}}
+|time=18:00
+|team1={{fb-rt|YUG}}
+|score={{score link|1954 FIFA World Cup Group 1#Yugoslavia vs France|1–0}}
+|team2={{fb|FRA|1830}}
+|goals1=
+*[[Miloš Milutinović|Milutinović]] {{goal|15}}
+|goals2=
+|stadium=[[Stade Olympique de la Pontaise]], [[Lausanne]]
+|attendance=16,000
+|referee=Benjamin Griffiths ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1276 |title=Yugoslavia vs France {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1276/index.html |title=1954 FIFA World Cup Switzerland – Matches – Yugoslavia v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201093034/http://www.fifa.com/worldcup/matches/round=211/match=1276/index.html |archive-date=1 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _yugoslavia1962h
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              = ff0000
+| shorts               =ffffff
+| socks                 = 0261BF
+ | title           = Yugoslavia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = 0261BF
+| body             =0261BF
+| rightarm           = 0261BF
+| shorts             =ffffff
+| socks              =ff0000
+|title            =  France
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Vladimir Beara]]
+|-
+| RB ||''' 2'''|| [[Branko Stanković]]
+|-
+| CH ||''' 5'''|| [[Ivica Horvat]]
+|-
+| LB ||''' 3'''|| [[Tomislav Crnković (footballer)|Tomislav Crnković]]
+|-
+| RH ||''' 4'''|| [[Zlatko Čajkovski]]
+|-
+| LH ||''' 6'''|| [[Vujadin Boškov]]
+|-
+| FW ||'''18'''|| [[Miloš Milutinović]]
+|-
+| IF ||'''8'''|| [[Rajko Mitić]]
+|-
+| CF ||'''9'''|| [[Bernard Vukas]]
+|-
+| IF ||'''10'''|| [[Stjepan Bobek]] ([[Captain (association football)|c]])
+|-
+| FW ||'''11'''|| [[Branko Zebec]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|YUG}} [[Aleksandar Tirnanić]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''||[[François Remetter]]
+|-
+|RB||'''4'''||[[Lazare Gianessi]] 
+|-
+|CH||'''10'''||[[Robert Jonquet]] ([[Captain (association football)|c]])
+|-
+|LB||'''6'''||[[Raymond Kaelbel]]
+|-
+|RH||'''12'''||[[Jean-Jacques Marcel]]
+|-
+|LH||'''14'''||[[Armand Penverne]]
+|-
+|FW||'''16'''||[[René Dereuddre]]
+|-
+|FW||'''17'''||[[Léon Glovacki]]  
+|-
+|SS||'''18'''||[[Raymond Kopa]]
+|-
+|FW||'''21'''||[[André Strappe]]
+|-
+|OL||'''22'''||[[Jean Vincent]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1830}} [[Pierre Pibarot]] 
+|}
+{{col-end}}
+
+===Brazil vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=1-3
+|date={{Start date|1954|6|19|df=y}}
+|time=17:00
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1954 FIFA World Cup Group 1#Brazil vs Yugoslavia|1–1}}
+|aet=yes
+|team2={{fb|YUG}}
+|goals1=
+*[[Didi (footballer, born 1928)|Didi]] {{goal|69}}
+|goals2=
+*[[Branko Zebec|Zebec]] {{goal|48}}
+|stadium=[[Stade Olympique de la Pontaise]], [[Lausanne]]
+|attendance=24,637
+|referee=Charlie Faultless ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1252 |title=Brazil vs Yugoslavia {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1252/index.html |title=1954 FIFA World Cup Switzerland – Matches – Brazil v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171224105138/http://www.fifa.com/worldcup/matches/round=211/match=1252/index.html |archive-date=24 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder
+| pattern_b             =_collargreen
+| pattern_ra            = _greenborder
+| pattern_sh            = _whitesides
+| pattern_so            = _greentop
+| leftarm               = ffdd00
+| body                 = ffdd00
+| rightarm              =ffdd00
+| shorts               = 0000cc
+| socks                 = ffffff
+ | title           = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _yugoslavia1962h
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = 0261BF
+| body                 = 0261BF
+| rightarm              = 0261BF
+| shorts               =ffffff
+| socks                 = 0261BF
+ | title           = Yugoslavia
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Carlos José Castilho|Castilho]]
+|-
+|RB||'''2'''|| [[Djalma Santos]] 
+|-
+|CH||'''5'''|| [[João Carlos Batista Pinheiro|Pinheiro]]
+|-
+|LB||'''3'''|| [[Nílton Santos]]
+|-
+|RH||'''4'''|| [[Brandãozinho (footballer, born 1925)|Brandãozinho]]
+|-
+|LH||'''6'''|| [[Bauer (footballer)|Bauer]] ([[Captain (association football)|c]])
+|-
+|OR||'''7'''|| [[Júlio Botelho|Julinho]]
+|-
+|IR||'''8'''|| [[Didi (footballer, born 1928)|Didi]]
+|-
+|CF||'''9'''|| [[Baltazar (footballer, born 1926)|Baltazar]]
+|-
+|IL||'''10'''|| [[José Lázaro Robles|Pinga]]
+|-
+|OL||'''11'''||[[Francisco Rodrigues (Brazilian footballer)|Rodrigues]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA|1889}} [[Zezé Moreira]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Vladimir Beara]]
+|-
+| RB ||''' 2'''|| [[Branko Stanković]]
+|-
+| CH ||''' 5'''|| [[Ivica Horvat]]
+|-
+| LB ||''' 3'''|| [[Tomislav Crnković (footballer)|Tomislav Crnković]]
+|-
+| RH ||''' 4'''|| [[Zlatko Čajkovski]]
+|-
+| LH ||''' 6'''|| [[Vujadin Boškov]]
+|-
+| FW ||'''18'''|| [[Miloš Milutinović]]
+|-
+| IF ||'''8'''|| [[Rajko Mitić]] ([[Captain (association football)|c]])
+|-
+| CF ||'''9'''|| [[Bernard Vukas]]
+|-
+| IF ||'''20'''|| [[Dionizije Dvornić]]
+|-
+| FW ||'''11'''|| [[Branko Zebec]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|YUG}} [[Aleksandar Tirnanić]]
+|}
+{{col-end}}
+
+===France vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=1-4
+|date={{Start date|1954|6|19|df=y}}
+|time=17:10
+|team1={{fb-rt|FRA|1830}}
+|score={{score link|1954 FIFA World Cup Group 1#France vs Mexico|3–2}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Jean Vincent|Vincent]] {{goal|19}}
+*[[Raúl Cárdenas|Cárdenas]] {{goal|46|o.g.}}
+*[[Raymond Kopa|Kopa]] {{goal|88|pen.}}
+|goals2=
+*[[José Luis Lamadrid|Lamadrid]] {{goal|54}}
+*[[Tomás Balcázar|Balcázar]] {{goal|85}}
+|stadium=[[Charmilles Stadium]], [[Geneva]]
+|attendance=19,000
+|referee=Manuel Asensi ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1275 |title=France vs Mexico {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1275/index.html |title=1954 FIFA World Cup Switzerland – Matches – France v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228012940/http://www.fifa.com/worldcup/matches/round=211/match=1275/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = 0261BF
+| body             = 0261BF
+| rightarm           = 0261BF
+| shorts             =ffffff
+| socks              =ff0000
+|title            =  France
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _clarettop
+| leftarm           = 800000
+| body             = 800000
+| rightarm           = 800000
+| shorts             = 000066
+| socks              = 000000
+|title            =  Mexico
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''||[[François Remetter]]
+|-
+|DF||'''4'''||[[Lazare Gianessi]] 
+|-
+|DF||'''6'''||[[Raymond Kaelbel]]
+|-
+|LB||'''7'''||[[Roger Marche]] ([[Captain (association football)|c]])
+|-
+|MF||'''12'''||[[Jean-Jacques Marcel]]
+|-
+|MF||'''13'''||[[Abderrahmane Mahjoub]]
+|-
+|FW||'''15'''||[[Abdelaziz Ben Tifour]]  
+|-
+|FW||'''16'''||[[René Dereuddre]]
+|-
+|FW||'''18'''||[[Raymond Kopa]]
+|-
+|FW||'''21'''||[[André Strappe]]
+|-
+|OL||'''22'''||[[Jean Vincent]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1830}} [[Pierre Pibarot]] 
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Antonio Carbajal]]
+|-
+|DF||'''2'''|| [[Narciso López (footballer)|Narciso López]] 
+|-
+|DF||'''3'''|| [[Jorge Romo]]
+|-
+|DF||'''4'''|| [[Saturnino Martínez]]
+|-
+|MF||'''5'''|| [[Raúl Cárdenas]]
+|-
+|MF||'''6'''|| [[Rafael Ávalos]]
+|-
+|FW||'''7'''|| [[Alfredo Torres]]
+|-
+|FW||'''8'''|| [[José Naranjo (footballer, born 1926)|José Naranjo]] ([[Captain (association football)|c]])
+|-
+|FW||'''9'''|| [[José Luis Lamadrid]]
+|-
+|FW||'''10'''|| [[Tomás Balcázar]]
+|-
+|FW||'''11'''|| [[Raúl Arellano (footballer, born 1935)|Raúl Arellano]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SPA|1945}} [[Antonio López Herranz]] 
+|}
+{{col-end}}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Yugoslavia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1954switzerland 1954 FIFA World Cup archive]
+
+{{1954 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 1}}
+[[Category:1954 FIFA World Cup group stage|1]]
+[[Category:Brazil at the 1954 FIFA World Cup]]
+[[Category:France at the 1954 FIFA World Cup]]
+[[Category:Yugoslavia at the 1954 FIFA World Cup]]
+[[Category:Mexico at the 1954 FIFA World Cup]]
+[[Category:Sports competitions in Geneva]]
+[[Category:Sports competitions in Lausanne]]
+[[Category:20th century in Geneva]]
+[[Category:20th century in Lausanne]]

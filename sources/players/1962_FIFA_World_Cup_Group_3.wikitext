@@ -1,0 +1,734 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 3 of the [[1962 FIFA World Cup]]''' took place from 30 May to 7 June 1962. The group consisted of [[Brazil national football team|Brazil]], [[Czechoslovakia national football team|Czechoslovakia]], [[Mexico national football team|Mexico]], and [[Spain national football team|Spain]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/62f.html |title=World Cup 1962 (Chile, May 30 – June 17) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150403174623/http://www.fifa.com/worldcup/archive/chile1962/groups/index.html FIFA]
+
+|team1=BRA |team2=TCH |team3=MEX |team4=ESP
+|result1=A |result2=A
+|hth_MEX=Mexico finished ahead of Spain on [[goal average]]. |hth_ESP=MEX
+
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=4 |ga_BRA=1
+|win_TCH=1 |draw_TCH=1 |loss_TCH=1 |gf_TCH=2 |ga_TCH=3
+|win_MEX=1 |draw_MEX=0 |loss_MEX=2 |gf_MEX=3 |ga_MEX=4
+|win_ESP=1 |draw_ESP=0 |loss_ESP=2 |gf_ESP=2 |ga_ESP=3
+
+|name_BRA={{fb|BRA|1960}}
+|name_TCH={{fb|TCH}}
+|name_ESP={{fb|ESP|1945}}
+|name_MEX={{fb|MEX|1934}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1962 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Brazil vs Mexico===
+Brazilians attacked and Mexicans defended for most of the match. In the first half [[Pelé]] hit the woodwork with a free kick outside the box. Ten minutes after the break he made a cross from the right on [[Mário Zagallo|Zagallo]] who headed the first goal. Then, after 73 minutes, Pele dribbled past four defenders and scored with his left foot from inside the penalty area.<ref>[http://remezcla.com/features/sports/pele-legendary-assault-on-mexico-defense-1962-world-cup/ A Look Back at Pelé's Legendary Takedown of Mexico's Defense at the 1962 FIFA World Cup]</ref><ref>[https://www.youtube.com/watch?v=SXuoPhUEDb4 Brazil vs Mexico on YouTube]</ref>
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1962|5|30|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|BRA|1960}}
+|score={{score link|1962 FIFA World Cup Group 3#Brazil vs Mexico|2–0}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Mário Zagallo|Zagallo]] {{goal|56}}
+*[[Pelé]] {{goal|73}}
+|goals2=
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=10,484
+|referee=[[Gottfried Dienst]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1461 |title=Brazil vs Mexico {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1461/index.html |title=1962 FIFA World Cup Chile – Matches – Brazil v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170923100245/http://www.fifa.com/worldcup/matches/round=231/match=1461/index.html |archive-date=23 September 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _whiteborder
+| pattern_b         = _vneckwhite
+| pattern_ra        = _whiteborder
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = 008900
+| body             = 008900
+| rightarm           =008900
+| shorts             = ffffff
+| socks              = 008900
+|title            = Mexico
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gylmar dos Santos Neves|Gilmar]]
+|-
+|RB ||'''2''' ||[[Djalma Santos]]
+|-
+|CB ||'''3''' ||[[Mauro Ramos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Zózimo]]
+|-
+|LB ||'''6''' ||[[Nílton Santos]]
+|-
+|RH ||'''4''' ||[[Zito (footballer, born 1932)|Zito]]
+|-
+|LH ||'''8''' ||[[Didi (footballer, born 1928)|Didi]]
+|-
+|OR ||'''7'''||[[Garrincha]]
+|-
+|CF ||'''10'''||[[Pelé]]
+|-
+|CF ||'''19'''||[[Vavá]]
+|-
+|OL ||'''21''' ||[[Mário Zagallo]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Aymoré Moreira]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Antonio Carbajal]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Jesús del Muro]]
+|-
+|CB ||'''5''' ||[[Raúl Cárdenas]]
+|-
+|CB ||'''3''' ||[[Guillermo Sepúlveda]]
+|-
+|LB ||'''4'''||[[José Villegas (footballer, born 1934)|José Villegas]]
+|-
+|RH ||'''19'''||[[Antonio Jasso]]
+|-
+|LH ||'''6''' ||[[Pedro Nájera]]
+|-
+|OR ||'''7'''||[[Alfredo del Águila]]
+|-
+|IR ||'''8'''||[[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+|IL ||'''9''' ||[[Héctor Hernández (footballer, born 1935)|Héctor Hernández]]
+|-
+|OL ||'''11''' ||[[Isidoro Díaz]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Ignacio Trelles]]
+|}
+{{col-end}}
+
+===Czechoslovakia vs Spain===
+Spain took the initiative but only managed to create danger in disorganized attacks. Spanish players repelled the harshness of the Czechs with the same violence. That fact provoked the snub of spectators who soon leaned in favour of Czechoslovakia. The injuries of Rivilla and Reija, the two defensive sides, made things worse for Spain. The Czechs seemed to settle for the draw but in 10 minutes' time a mistake from the centre of the Spanish field allowed Josef Štibrányi to face Carmelo's goal and score. The Spanish team weighed down by the injuries managed to create very little danger in the last minutes of the match.<ref>[https://www.youtube.com/watch?v=gJdUkNPM-lc Czechoslovakia vs Spain on YouTube]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=3-2
+|date={{Start date|1962|5|31|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|TCH}}
+|score={{score link|1962 FIFA World Cup Group 3#Czechoslovakia vs Spain|1–0}}
+|team2={{fb|ESP|1945}}
+|goals1=
+*[[Jozef Štibrányi|Štibrányi]] {{goal|80}}
+|goals2=
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=12,700
+|referee=[[Carl Erich Steiner]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1498 |title=Czechoslovakia vs Spain {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1498/index.html |title=1962 FIFA World Cup Chile – Matches – Czechoslovakia v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170727093435/http://www.fifa.com/worldcup/matches/round=231/match=1498/index.html |archive-date=27 July 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _hoops_blue_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Czechoslovakia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _esp1959h
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _esp3639h
+| leftarm           =ED1C24
+| body             = 
+| rightarm           =ED1C24
+| shorts             =000099
+| socks              = 000000
+|title            =  Spain<ref>[http://www.cihefe.es/cuadernosdefutbol/2014/05/espana-1962-helenio-herrera-y-la-h3c-segunda-parte/ España 1962, Helenio Herrera y la H3C (Segunda parte)]</ref>
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Viliam Schrojf]]
+|-
+|RB ||'''2''' ||[[Jan Lála]]
+|-
+|CB ||'''5'''||[[Svatopluk Pluskal]]
+|-
+|CB ||'''3''' ||[[Ján Popluhár]]
+|-
+|LB ||'''4''' ||[[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+|RH ||'''19'''||[[Andrej Kvašňák]]
+|-
+|LH ||'''6'''||[[Josef Masopust]]
+|-
+|OR ||'''7''' ||[[Jozef Štibrányi]]
+|-
+|IR ||'''8''' ||[[Adolf Scherer]]
+|-
+|IL ||'''10''' ||[[Jozef Adamec]]
+|-
+|OL ||'''11'''||[[Josef Jelínek]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Rudolf Vytlačil]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''3''' ||[[Carmelo Cedrún|Carmelo]]
+|-
+|RB ||'''11'''||[[Feliciano Rivilla]]
+|-
+|CB ||'''19''' ||[[José Santamaría]]
+|-
+|LB ||'''16''' ||[[Severino Reija]]
+|-
+|RH ||'''20''' ||[[Joan Segarra]] ([[Captain (association football)|c]])
+|-
+|LH ||'''8''' ||[[Jesús Garay]]
+|-
+|OR ||'''5'''||[[Luis del Sol]]
+|-
+|IR ||'''15'''||[[Eulogio Martínez]]
+|-
+|CF ||'''14'''||[[Ferenc Puskás]]
+|-
+|IL ||'''21''' ||[[Luis Suárez (footballer, born 1935)|Luis Suárez]]
+|-
+|OL ||'''9''' ||[[Francisco Gento]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|ARG|1861}} [[Helenio Herrera]]
+|}
+{{col-end}}
+
+===Brazil vs Czechoslovakia===
+Brazil had to play part of the game with ten players<ref>[https://web.archive.org/web/20130118094312/http://www.v-brazil.com/world-cup/history/1962-Chile.php Brazil in the World Cup 1962]</ref> after [[Pelé]] tore a thigh muscle midway through the first half.<ref>[https://web.archive.org/web/20180527012334/https://in.reuters.com/article/us-soccer-world-bra-pele-neymar/brazilians-look-to-pele-and-1962-for-cup-winning-omen-idINKBN0FB0QO20140706 Brazilians look to Pele and 1962 for Cup-winning omen]</ref> Neither side could break the deadlock and the game ended in 0-0 draw.<ref>[https://www.youtube.com/watch?v=gM7TLZRdo1g Brazil vs Czechoslovakia on YouTube]</ref> The two sides would meet again in the final.
+
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1962|6|2|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|BRA|1960}}
+|score={{score link|1962 FIFA World Cup Group 3#Brazil vs Czechoslovakia|0–0}}
+|team2={{fb|TCH}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=14,903
+|referee=[[Pierre Schwinte]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1462 |title=Brazil vs Czechoslovakia {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1462/index.html |title=1962 FIFA World Cup Chile – Matches – Brazil v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170813024907/http://www.fifa.com/worldcup/matches/round=231/match=1462/index.html |archive-date=13 August 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _hoops_blue_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Czechoslovakia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gylmar dos Santos Neves|Gilmar]]
+|-
+|RB ||'''2''' ||[[Djalma Santos]]
+|-
+|CB ||'''3''' ||[[Mauro Ramos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Zózimo]]
+|-
+|LB ||'''6''' ||[[Nílton Santos]]
+|-
+|RH ||'''8''' ||[[Didi (footballer, born 1928)|Didi]]
+|-
+|LH ||'''4''' ||[[Zito (footballer, born 1932)|Zito]]
+|-
+|OR ||'''7'''||[[Garrincha]]
+|-
+|CF ||'''10'''||[[Pelé]]
+|-
+|CF ||'''19'''||[[Vavá]]
+|-
+|OL ||'''21''' ||[[Mário Zagallo]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Aymoré Moreira]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Viliam Schrojf]]
+|-
+|RB ||'''2''' ||[[Jan Lála]]
+|-
+|CB ||'''5'''||[[Svatopluk Pluskal]]
+|-
+|CB ||'''3''' ||[[Ján Popluhár]]
+|-
+|LB ||'''4''' ||[[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+|RH ||'''19'''||[[Andrej Kvašňák]]
+|-
+|LH ||'''6'''||[[Josef Masopust]]
+|-
+|OR ||'''7''' ||[[Jozef Štibrányi]]
+|-
+|IR ||'''8''' ||[[Adolf Scherer]]
+|-
+|IL ||'''10''' ||[[Jozef Adamec]]
+|-
+|OL ||'''11'''||[[Josef Jelínek]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Rudolf Vytlačil]]
+|}
+{{col-end}}
+
+===Spain vs Mexico===
+The game had very little rhythm and Spanish attacks were lost or easily stopped by the Aztec defense or goalkeeper Carbajal. In the second half physical spending began to take its toll on Spain and Mexico took attack positions. However in one of counterattacks Luis Suárez and Puskás scored a goal which was cancelled for offside. In the last minutes of the game Mexicans claimed a penalty in the Spanish area. The game continued and the ball reached Gento who made a run on the left wing. Gento passed in to Peiró who finished past Carbajal a few seconds from the final whistle. Spain achieves victory, Santamaría, Pachín and Peiró were named the best men of the Spanish side according to the press.<ref>[http://www.cihefe.es/cuadernosdefutbol/2014/05/espana-1962-helenio-herrera-y-la-h3c-segunda-parte/ España 1962, Helenio Herrera y la H3C (Segunda parte)]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1962|6|3|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|ESP|1945}}
+|score={{score link|1962 FIFA World Cup Group 3#Spain vs Mexico|1–0}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Joaquín Peiró|Peiró]] {{goal|90}}
+|goals2=
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=11,875
+|referee=[[Branko Tesanić]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1497 |title=Spain vs Mexico {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1497/index.html |title=1962 FIFA World Cup Chile – Matches – Spain v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20160304224355/http://www.fifa.com/worldcup/matches/round=231/match=1497/index.html |archive-date=4 March 2016}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _esp1959h
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _esp3639h
+| leftarm           =ED1C24
+| body             = 
+| rightarm           =ED1C24
+| shorts             =000099
+| socks              = 000000
+|title            =  Spain
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _whiteborder
+| pattern_b         = _vneckwhite
+| pattern_ra        = _whiteborder
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = 008900
+| body             = 008900
+| rightarm           = 008900
+| shorts             = ffffff
+| socks              = 008900
+|title            = Mexico
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''3''' ||[[Carmelo Cedrún|Carmelo]]
+|-
+|RB ||'''17'''||[[Francisco Rodríguez García|Rodri]]
+|-
+|CB ||'''19''' ||[[José Santamaría]]
+|-
+|LB ||'''10''' ||[[Sígfrid Gràcia]]
+|-
+|RH ||'''22''' ||[[Martí Vergés]]
+|-
+|LH ||'''13''' ||[[Pachín]]
+|-
+|OR ||'''5'''||[[Luis del Sol]]
+|-
+|IR ||'''12'''||[[Joaquín Peiró]]
+|-
+|CF ||'''14'''||[[Ferenc Puskás]]
+|-
+|IL ||'''21''' ||[[Luis Suárez (footballer, born 1935)|Luis Suárez]]
+|-
+|OL ||'''9''' ||[[Francisco Gento]] ([[Captain (association football)|c]])
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|ARG|1861}} [[Helenio Herrera]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Antonio Carbajal]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Jesús del Muro]]
+|-
+|CB ||'''5''' ||[[Raúl Cárdenas]]
+|-
+|CB ||'''3''' ||[[Guillermo Sepúlveda]]
+|-
+|LB ||'''15'''||[[Ignacio Jáuregui]]
+|-
+|RH ||'''19'''||[[Antonio Jasso]]
+|-
+|LH ||'''6''' ||[[Pedro Nájera]]
+|-
+|OR ||'''7'''||[[Alfredo del Águila]]
+|-
+|IR ||'''8'''||[[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+|IL ||'''9''' ||[[Héctor Hernández (footballer, born 1935)|Héctor Hernández]]
+|-
+|OL ||'''11''' ||[[Isidoro Díaz]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Ignacio Trelles]]
+|}
+{{col-end}}
+
+===Brazil vs Spain===
+Spain had control of the game in the first half and took the lead 10 minutes before halftime when [[Adelardo Rodríguez|Adelardo]] shot into the bottom corner from twenty meters. At the beginning of the second half [[Nílton Santos]] committed a foul inside the penalty area but the referee being far away from the episode awarded only a free kick to the Spanish team.<ref>[https://web.archive.org/web/20130118094312/http://www.v-brazil.com/world-cup/history/1962-Chile.php Brazil in the World Cup 1962]</ref> Spain also had a goal disallowed for no evident reason. In the last 15 minutes of the game [[Amarildo Tavares da Silveira|Amarildo]] (who was replacing Pele after the latter was injured in the previous match) scored twice to complete the Brazilian comeback.<ref>{{usurped|1=[https://web.archive.org/web/20170509015505/http://www.linguasport.com/futbol/internacional/mundial/1962_CHILE_FS.htm World Cup 1962 Final Stage: Game Details]}}</ref><ref>[https://www.youtube.com/watch?v=mAjoYQoboPs Brazil vs Spain on YouTube]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=3-5
+|date={{Start date|1962|6|6|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|BRA|1960}}
+|score={{score link|1962 FIFA World Cup Group 3#Brazil vs Spain|2–1}}
+|team2={{fb|ESP|1945}}
+|goals1=
+*[[Amarildo Tavares da Silveira|Amarildo]] {{goal|72||86}}
+|goals2=
+*[[Adelardo Rodríguez|Adelardo]] {{goal|35}}
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=18,715
+|referee=[[Sergio Bustamante (referee)|Sergio Bustamante]] ([[Federación de Fútbol de Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1460 |title=Brazil vs Spain {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1460/index.html |title=1962 FIFA World Cup Chile – Matches – Brazil v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228054128/http://www.fifa.com/worldcup/matches/round=231/match=1460/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = ffffff
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _esp1959h
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _esp3639h
+| leftarm           =ED1C24
+| body             = 
+| rightarm           =ED1C24
+| shorts             =000099
+| socks              = 000000
+|title            =  Spain
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gylmar dos Santos Neves|Gilmar]]
+|-
+|RB ||'''2''' ||[[Djalma Santos]]
+|-
+|CB ||'''3''' ||[[Mauro Ramos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Zózimo]]
+|-
+|LB ||'''6''' ||[[Nílton Santos]]
+|-
+|RH ||'''4''' ||[[Zito (footballer, born 1932)|Zito]]
+|-
+|LH ||'''8''' ||[[Didi (footballer, born 1928)|Didi]]
+|-
+|OR ||'''7'''||[[Garrincha]]
+|-
+|CF ||'''19'''||[[Vavá]]
+|-
+|CF ||'''20'''||[[Amarildo Tavares da Silveira|Amarildo]]
+|-
+|OL ||'''21''' ||[[Mário Zagallo]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Aymoré Moreira]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Araquistáin]]
+|-
+|RB ||'''17'''||[[Francisco Rodríguez García|Rodri]]
+|-
+|CB ||'''7''' ||[[Luis María Echeberría]]
+|-
+|LB ||'''10''' ||[[Sígfrid Gràcia]]
+|-
+|RH ||'''22''' ||[[Martí Vergés]]
+|-
+|LH ||'''13''' ||[[Pachín]]
+|-
+|OR ||'''4'''||[[Enrique Collar]] ([[Captain (association football)|c]])
+|-
+|IR ||'''12'''||[[Joaquín Peiró]]
+|-
+|CF ||'''14'''||[[Ferenc Puskás]]
+|-
+|IL ||'''18''' ||[[Adelardo Rodríguez|Adelardo]]
+|-
+|OL ||'''9''' ||[[Francisco Gento]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|ARG|1861}} [[Helenio Herrera]]
+|}
+{{col-end}}
+
+===Mexico vs Czechoslovakia===
+In this game [[Václav Mašek]] scored the second fastest goal in the history of the tournament after only 15 seconds. [[Isidoro Díaz]] equalized after sweeping past two defenders, [[Alfredo del Águila]] made it 2-1 before half time. In the second half Mexicans secured their first World Cup victory with a late penalty converted by [[Héctor Hernández (footballer, born 1935)|Héctor Hernández]]. Mašek’s record would be beaten 40 years later by Turkish footballer [[Hakan Şükür]], after only 10 seconds.<ref>[https://www.youtube.com/watch?v=hhCZPMBJNXk&t= Mexico vs Czechoslovakia on YouTube]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=3-6
+|date={{Start date|1962|6|7|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|MEX|1934}}
+|score={{score link|1962 FIFA World Cup Group 3#Mexico vs Czechoslovakia|3–1}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Isidoro Díaz|Díaz]] {{goal|12}}
+*[[Alfredo del Águila|Del Águila]] {{goal|29}}
+*[[Héctor Hernández (footballer, born 1935)|Hernández]] {{goal|90|pen.}}
+|goals2=
+*[[Václav Mašek|Mašek]] {{goal|1}}
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=10,648
+|referee=[[Gottfried Dienst]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1544 |title=Mexico vs Czechoslovakia {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1544/index.html |title=1962 FIFA World Cup Chile – Matches – Mexico v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210011130/http://www.fifa.com/worldcup/matches/round=231/match=1544/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _clarettop
+| leftarm           = 800000
+| body             = 800000
+| rightarm           = 800000
+| shorts             = 000066
+| socks              = 000000
+|title            =  Mexico
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _hoops_blue_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Czechoslovakia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Antonio Carbajal]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Jesús del Muro]]
+|-
+|CB ||'''5''' ||[[Raúl Cárdenas]]
+|-
+|CB ||'''3''' ||[[Guillermo Sepúlveda]]
+|-
+|LB ||'''15'''||[[Ignacio Jáuregui]]
+|-
+|RH ||'''8'''||[[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+|LH ||'''6''' ||[[Pedro Nájera]]
+|-
+|OR ||'''7'''||[[Alfredo del Águila]]
+|-
+|IR ||'''18'''||[[Alfredo Hernández (footballer, born 1935)|Alfredo Hernández]]
+|-
+|IL ||'''9''' ||[[Héctor Hernández (footballer, born 1935)|Héctor Hernández]]
+|-
+|OL ||'''11''' ||[[Isidoro Díaz]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Ignacio Trelles]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Viliam Schrojf]]
+|-
+|RB ||'''2''' ||[[Jan Lála]]
+|-
+|CB ||'''5'''||[[Svatopluk Pluskal]]
+|-
+|CB ||'''3''' ||[[Ján Popluhár]]
+|-
+|LB ||'''4''' ||[[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+|RH ||'''19'''||[[Andrej Kvašňák]]
+|-
+|LH ||'''6'''||[[Josef Masopust]]
+|-
+|OR ||'''7''' ||[[Jozef Štibrányi]]
+|-
+|IR ||'''8''' ||[[Adolf Scherer]]
+|-
+|IL ||'''10''' ||[[Jozef Adamec]]
+|-
+|OL ||'''14'''||[[Václav Mašek]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Rudolf Vytlačil]]
+|}
+{{col-end}}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Czech Republic at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Slovakia at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1962chile 1962 FIFA World Cup archive]
+
+{{1962 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 3}}
+[[Category:1962 FIFA World Cup group stage|3]]
+[[Category:Brazil at the 1962 FIFA World Cup]]
+[[Category:Czechoslovakia at the 1962 FIFA World Cup]]
+[[Category:Spain at the 1962 FIFA World Cup]]
+[[Category:Mexico at the 1962 FIFA World Cup]]
+[[Category:Sport in Valparaíso Region]]
+[[Category:History of Valparaíso Region]]

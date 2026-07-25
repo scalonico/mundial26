@@ -1,0 +1,224 @@
+{{Short description|1954 FIFA World Cup match between Hungary and Brazil}}
+{{About|1954 FIFA World Cup match|French defeat of Swiss forces on 5 March 1798 sometimes known as the Battle of Berne|Battle of Grauholz}}
+{{More citations needed|date=February 2011}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title                   = 1954 FIFA World Cup Quarter-final
+| image                   = Hungría v Brasil, Estadio, 1954-07-10 (582) 02.jpg
+| image_size              = 250
+| caption = Both captains prior to the match
+| event                   = [[1954 FIFA World Cup]]
+| team1                   = [[Hungary national football team|Hungary]]
+| team1association        = {{flagicon|HUN|1949|size=30px}}
+| team1score              = 4
+| team2                   = [[Brazil national football team|Brazil]]
+| team2association        = {{flagicon|BRA|size=30px}}
+| team2score              = 2
+| details                 = 
+| date                    = 27 June 1954
+| stadium                 = [[Wankdorf Stadium]]
+| city                    = [[Bern]]
+| referee                 = [[Arthur Edward Ellis|Arthur Ellis]] ([[The Football Association|England]])
+| attendance              = 40,000
+| weather                 = 
+}}
+
+'''The Battle of Berne''' ({{langx|hu|Berni csata}}, {{langx|pt|Batalha de Berna}}, {{Langx|de|Schlacht bei Bern}}, {{langx|fr|Bataille de Berne}}, {{langx|it|Battaglia di Berna}}, {{langx|rm|Battaglia da Berna}}) was a [[association football|football]] match at the [[FIFA World Cup 1954|1954 World Cup]] between [[Hungary national football team|Hungary]] and [[Brazil national football team|Brazil]], a quarter-final played on 27 June 1954 at the [[Wankdorf Stadium]] in [[Bern]], [[Switzerland]].
+Violent conduct and fighting prompted English referee [[Arthur Edward Ellis|Arthur Ellis]] to send off three players during the match. Fighting between the teams continued in the dressing rooms after the final whistle.
+
+==Background==
+Brazil had scored six goals in two group games, and Hungary had scored 17. Brazil had a reputation for attractive and attacking football; in their games in group 1, they beat [[Mexico national football team|Mexico]] 5–0, and drew the other 1–1 with [[Yugoslavia national football team|Yugoslavia]] after extra time.
+
+Hungary had revolutionized football tactics and coaching in Europe. Their fluid and open style of play – an early form of [[Total Football|total football]] – meant that they were unbeaten for 2 years, since defeat to [[Soviet Union national football team|Soviet Union]] on 27 May 1952. Hungary were clear winners of group 2, winning both of their group games – they beat South Korea 9–0, and West Germany 8–3.
+
+For each of the first two quarter-finals, one team progressing from group 1 was drawn at random against one team progressing from group 2.<ref name="jura">{{cite news |work=[[Journal du Jura]] |date=1954-06-16 |page=5 |title=Aujourd'hui commence le tour final de la Coupe du Monde de football |url=https://www.e-newspaperarchives.ch/?a=d&d=JDJ19540616-01.2.22 |location=Bienne, Switzerland |language=French|via=[[e-newspaperarchives.ch]]}}</ref> Brazil were drawn to play against Hungary, while West Germany drew Yugoslavia.
+
+==Match==
+
+===Summary===
+The match was played in driving rain, producing slippery conditions and a hard to control ball. Hungary took the lead in the third minute, with [[Nándor Hidegkuti]] scoring. Four minutes later, [[Sándor Kocsis]] made it 2–0 to Hungary. Brazil was awarded a penalty; [[Djalma Santos]] scored to make it 2–1 at half time.
+
+{{multiple image
+| header =
+| align = 
+| direction =  
+| total_width = 400
+| perrow = 2
+| image1 = Hungría v Brasil, Estadio, 1954-07-24 (584).jpg
+| caption1 = 
+| image2 = Hungría v Brasil, Estadio, 1954-08-14 (587).jpg
+| caption2 =  
+| footer = Two moments of the match
+}}
+In the second half, Hungary was awarded a penalty; [[Mihály Lantos]] scored to make the score 3–1. The penalty award was the cue for a pitch invasion by Brazilian journalists and officials, who had to be ushered off by police. The game then degenerated into a series of increasingly violent fouls and cynical tactics, with Brazilian forward [[Júlio Botelho|Julinho]] scoring to bring the score to 3–2. After this, [[József Bozsik]] was fouled by [[Nilton Santos]]; the two men started fighting, and both were sent off. Hungary scored a fourth goal via [[Sándor Kocsis]] to make the score 4–2 to Hungary. The last moments of the game was little more than a running battle between the two teams; Brazilian forward [[Humberto Tozzi]] kicked Hungary's [[Gyula Lóránt]] prior to the final whistle and was sent off.
+
+In total, 42 free kicks and 2 penalties were awarded, with 4 cautions and 3 dismissals issued.<ref>{{cite web |url=http://www.scoreshelf.com/dqcc/en/World_Cup/1954/HUN_v_BRA |title=Hungary vs Brazil: World CUP 1954 Quarter Final |publisher=ScoreShelf.com |accessdate=11 October 2012 |archive-url=https://web.archive.org/web/20100709114635/http://scoreshelf.com/dqcc/en/World_Cup/1954/HUN_v_BRA |archive-date=9 July 2010 |url-status=dead |df=dmy-all }}</ref>
+
+The ill-temper continued after the game, with the Brazilian players invading the Hungarian dressing room and continuing the on-pitch fighting. They were driven off by the notorious [[Hungary|Hungarian]] [[State Protection Authority|AVH]] security police with batons and guns drawn. Despite evidence from independent witnesses of violent conduct from both sides, football's governing body [[FIFA]] did nothing, leaving discipline to the respective countries.
+
+===Details===
+<section begin=QF4 />{{Football box
+|date={{Start date|1954|6|27|df=y}}
+|time=17:00 [[Central European Time|CET]]
+|team1={{fb-rt|HUN|1949}}
+|score={{score link|1954 FIFA World Cup knockout stage#Hungary vs Brazil|4–2|Battle of Berne (1954 FIFA World Cup)}}
+|team2={{fb|BRA|1889}}
+|goals1=
+*[[Nándor Hidegkuti|Hidegkuti]] {{goal|4}}
+*[[Sándor Kocsis|Kocsis]] {{goal|7||88}}
+*[[Mihály Lantos|Lantos]] {{goal|60|pen.}}
+|goals2=
+*[[Djalma Santos]] {{goal|18|pen.}}
+*[[Júlio Botelho|Julinho]] {{goal|65}}
+|stadium=[[Wankdorf Stadium]], [[Bern]]
+|attendance=40,000
+|referee=[[Arthur Edward Ellis|Arthur Ellis]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/212/1248 |title=Hungary vs Brazil {{!}} Quarter-final {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=212/match=1248/index.html |title=1954 FIFA World Cup Switzerland – Matches – Hungary v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211073522/http://www.fifa.com/worldcup/matches/round=212/match=1248/index.html |archive-date=11 December 2017}} }}</ref>
+}}<section end=QF4 />
+<section begin=Line-ups />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _hun_1949_1956_home
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = cc0000
+| body                 = cc0000 
+| rightarm              =cc0000 
+| shorts               =ffffff 
+| socks                 = 339900
+ | title           = Hungary
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder 
+| pattern_b             =_collargreen 
+| pattern_ra            = _greenborder
+| pattern_sh            = _whitesides
+| pattern_so            = _greentop
+| leftarm               = ffdd00
+| body                 = ffdd00 
+| rightarm              =ffdd00 
+| shorts               = 0000cc
+| socks                 = ffffff
+ | title           = Brazil
+}}
+{{col-end}}
+<!-- (text) -->
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''||[[Gyula Grosics]]
+|-
+|RB||'''2'''||[[Jenő Buzánszky]] 
+|-
+|CH||'''3'''||[[Gyula Lóránt]]
+|-
+|LB||'''4'''||[[Mihály Lantos]]
+|-
+|RH||'''5'''||[[József Bozsik]] ([[Captain (association football)|c]]) || {{sent off|0|71}}
+|-
+|LH||'''6'''||[[József Zakariás]]
+|-
+|OR||'''7'''||[[József Tóth (footballer, born 1929)|József Tóth]]  
+|-
+|IR||'''8'''||[[Sándor Kocsis]]
+|-
+|SS||'''9'''||[[Nándor Hidegkuti]]
+|-
+|IL||'''11'''||[[Zoltán Czibor]]
+|-
+|OL||'''20'''||[[Mihály Tóth (footballer, born 1926)|Mihály Tóth]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|HUN|1949}} [[Gusztáv Sebes]] 
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Carlos José Castilho|Castilho]]
+|-
+|RB||'''2'''|| [[Djalma Santos]] 
+|-
+|CH||'''5'''||[[João Carlos Batista Pinheiro|Pinheiro]]
+|-
+|LB||'''3'''|| [[Nílton Santos]] || {{sent off|0|71}}
+|-
+|RH||'''4'''||[[Brandãozinho (footballer, born 1925)|Brandãozinho]]
+|-
+|LH||'''6'''||[[Bauer (footballer)|Bauer]] ([[Captain (association football)|c]])
+|-
+|OR||'''7'''||[[Júlio Botelho|Julinho]]
+|-
+|IR||'''8'''||[[Didi (footballer, born 1928)|Didi]]
+|-
+|CF||'''19'''||[[Aloísio Francisco da Luz|Índio]]
+|-
+|IL||'''18'''||[[Humberto Tozzi|Humberto]] || {{sent off|0|79}}
+|-
+|OL||'''17'''||[[Maurinho (footballer, born 1933)|Maurinho]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA|1889}} [[Zezé Moreira]]
+|}
+{{col-end}}
+
+{|  style="width:50%; font-size:90%;"
+|
+'''Assistant referees:'''
+<br />{{flagicon|ENG}} [[William Ling (referee)|William Ling]]
+<br />{{flagicon|SUI}} [[Raymon Wyssling]]
+|}<section end=Line-ups />
+
+==Post-match commentary==
+The game's referee [[Arthur Edward Ellis|Arthur Ellis]] commented: "I thought it was going to be the greatest game I'd ever see. I was on top of the world. Whether politics and religion had something to do with it I don't know, but they behaved like animals. It was a disgrace. It was a horrible match. Certainly British players and fans would never act in such a most reprehensible manner. In today's climate so many players would have been sent off the game would have been abandoned. My only thought was that I was determined to finish it."<ref>{{cite web|url=https://www.independent.co.uk/sport/football-ellis-a-knockout-during-the-battle-of-berne-1163887.html |title=Football: Ellis a knockout during the Battle of Berne – Sport |work=The Independent |date=9 June 1998 |accessdate=12 February 2011}}</ref> Ellis later wrote, "Those people must learn sportsmanship and we must teach them. South Americans are more excitable and more passionate than we are. Even more so than the Italians. Unlike the British, they do crazy things, impulsively, then a few minutes later they are genuinely and deeply sorry".<ref>{{cite book |last=Downing |first=David |date=23 October 2003 |title=England v Argentina: World Cups and Other Small Wars |publisher=Piatkus |location= |isbn= 0749950021}}</ref>
+
+''[[The Times]]'' newspaper correspondent on 28 June 1954 drew a similar conclusion; "Never in my life have I seen such cruel tackling, the cutting down of opponents as if with a scythe, followed by threatening attitudes and sly jabs when officialdom was engaged elsewhere." Ellis's officiating and gentlemanly conduct was commended by the [[Daily Mail]].<ref>{{cite web |url=http://teora.hit.no/dspace/bitstream/2282/954/1/Brawling_in_Berne.pdf |archive-url=https://web.archive.org/web/20110718171937/http://teora.hit.no/dspace/bitstream/2282/954/1/Brawling_in_Berne.pdf |url-status=dead |archive-date=18 July 2011 |title=Gerd von der Lippe |accessdate=12 February 2011 }}</ref>
+
+"This was a battle; a brutal, savage match," recalled Hungary manager [[Gusztáv Sebes]], who needed four stitches for a facial wound received during the fighting. "At the end we had won 4–2 but it wasn't over yet. Brazilian photographers and fans flooded on to the pitch and police were called to clear it. Players clashed in the tunnel and a small war broke out in the corridor to the dressing rooms - everyone was having a go; fans, players and officials."<ref>{{cite web|url=http://www.mg.co.za/article/2006-05-03-brazil-swap-beauty-for-brutality-in-battle-of-berne |title=Brazil swap beauty for brutality in 'Battle of Berne' – Sport – Mail & Guardian Online |publisher=Mg.co.za |date=3 May 2006 |accessdate=12 February 2011}}</ref>
+
+The draw for the semi-finals, held on Sunday 27 June, was delayed by a complaint from the Hungarian team concerning the manner in which the quarter-final against Brazil had been played.<ref>{{cite journal |journal=La Liberté |date=1954-06-28 |page=7 |title=Tirage au sort des demi-finales |url=https://www.e-newspaperarchives.ch/?a=d&d=LLE19540628-01.2.30 |location=Fribourg, Switzerland |language=French}}</ref>
+
+==See also==
+*[[Battle of Bordeaux (1938 FIFA World Cup)|Battle of Bordeaux (1938)]]
+*[[Battle of Lusail|Battle of Lusail (2022)]]
+*[[Battle of Nuremberg (association football)|Battle of Nuremberg (2006)]]
+*[[Battle of Santiago (1962 FIFA World Cup)|Battle of Santiago (1962)]]
+*[[Brazil at the FIFA World Cup]]
+*[[Hungary at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{commons category}}
+* [https://web.archive.org/web/20070204234833/http://www.sportmuzeum.hu/aranycsapat/merkozes.php?id=41 Teams and Goalscorers]
+
+{{1954 FIFA World Cup}}
+{{Hungary national football team matches}}
+{{Brazil national football team matches}}
+
+[[Category:1954 FIFA World Cup]]
+[[Category:Brazil national football team matches|1954]]
+[[Category:FIFA World Cup matches]]
+[[Category:FIFA World Cup controversies]]
+[[Category:Hungary national football team matches|1954]]
+[[Category:Association football brawls]]
+[[Category:Brazil at the 1954 FIFA World Cup]]
+[[Category:Hungary at the 1954 FIFA World Cup]]
+[[Category:Sports competitions in Bern]]
+[[Category:June 1954 sports events in Europe]]
+[[Category:Nicknamed sporting events]]
+[[Category:Brazil–Hungary sports relations|1954]]

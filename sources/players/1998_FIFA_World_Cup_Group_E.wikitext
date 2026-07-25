@@ -1,0 +1,893 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=February 2014}}
+Group E was one of eight groups at the [[1998 FIFA World Cup]] into which the 32 teams were divided.<ref>{{cite web |url=https://www.rsssf.org/tables/98full.html |title=World Cup 1998 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Mexico and the Netherlands qualified after they both beat South Korea and drew with Belgium before drawing with each other. The Netherlands' five goals against South Korea put them top on goal difference. Belgium could have qualified with a big win in their final game against South Korea, who were already out, but they only managed a draw and were eliminated.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/france1998/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=NED|team2=MEX|team3=BEL|team4=KOR
+|result1=KO|result2=KO
+
+|win_NED=1 |draw_NED=2 |loss_NED=0 |gf_NED=7 |ga_NED=2
+|win_MEX=1 |draw_MEX=2 |loss_MEX=0 |gf_MEX=7 |ga_MEX=5
+|win_BEL=0 |draw_BEL=3 |loss_BEL=0 |gf_BEL=3 |ga_BEL=3
+|win_KOR=0 |draw_KOR=1 |loss_KOR=2 |gf_KOR=2 |ga_KOR=9
+
+|name_NED={{fb|NED}}|name_MEX={{fb|MEX}}|name_BEL={{fb|BEL}}|name_KOR={{fb|KOR|1997}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1998 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Netherlands advanced to play Yugoslavia (runner-up of [[1998 FIFA World Cup Group F|Group F]]) in the [[1998 FIFA World Cup knockout stage#Netherlands vs Yugoslavia|round of 16]].
+*Mexico advanced to play Germany (winner of [[1998 FIFA World Cup Group F|Group F]]) in the [[1998 FIFA World Cup knockout stage#Germany vs Mexico|round of 16]].
+
+==Matches==
+
+===South Korea vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=E1
+|date={{Start date|1998|6|13|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|KOR|1997}}
+|score={{score link|1998 FIFA World Cup Group E#South Korea vs Mexico|1–3}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Ha Seok-ju]] {{goal|27}}
+|goals2=
+*[[Ricardo Peláez|Peláez]] {{goal|50}}
+*[[Luis Hernández (footballer, born 1968)|Hernández]] {{goal|75||84}}
+|stadium=[[Stade de Gerland]], [[Lyon]]
+|attendance=39,100
+|referee=[[Günter Benkö]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8732 |title=Korea Republic vs Mexico {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8732/index.html |title=1998 FIFA World Cup France – Matches – Korea Republic v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228033050/http://www.fifa.com/worldcup/matches/round=1014/match=8732/index.html |archive-date=28 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8895.htm |title=Match Statistics – Group E – Korea Republic v Mexico |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=13 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418004853/http://www.france98.com/english/competition/matchstat8895.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _korearepublic1998h
+ | pattern_b  = _korea1998h
+ | pattern_ra = _korearepublic1998h
+ | pattern_sh = _kor98h
+ | pattern_so = _kor98a
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = South Korea
+}}
+|{{Football kit
+ | pattern_la = _mex98h
+ | pattern_b  = _mex98h
+ | pattern_ra = _mex98h
+ | pattern_sh = _mex98H
+ | pattern_so = _mexigo12ogt
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FFFFFF
+ | socks      = cc1023
+ | title      = Mexico
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Kim Byung-ji]]
+|-
+|DF ||'''5''' ||[[Lee Min-sung]] || {{yel|20}}
+|-
+|DF ||'''6''' ||[[Yoo Sang-chul]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Kim Do-keun]] || || {{suboff|60}}
+|-
+|MF ||'''8''' ||[[Noh Jung-yoon]] || || {{suboff|55}}
+|-
+|FW ||'''9''' ||[[Kim Do-hoon]]
+|-
+|DF ||'''13'''||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]]
+|-
+|MF ||'''14'''||[[Ko Jong-soo]] || || {{suboff|75}}
+|-
+|MF ||'''15'''||[[Lee Sang-yoon (footballer)|Lee Sang-yoon]]
+|-
+|MF ||'''17'''||[[Ha Seok-ju]] || {{sent off|0|30}}
+|-
+|DF ||'''20'''||[[Hong Myung-bo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''16'''||[[Jang Hyung-seok]] || || {{subon|55}}
+|-
+|MF ||'''2''' ||[[Choi Sung-yong]] || || {{subon|60}}
+|-
+|FW ||'''11'''||[[Seo Jung-won]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Cha Bum-kun]]
+|}
+|valign="top"|<!-- [[File:KOR-MEX 1998-06-13.svg|300px]] -->
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jorge Campos]]
+|-
+|RB ||'''13'''||[[Pável Pardo]]
+|-
+|CB ||'''2''' ||[[Claudio Suárez]]
+|-
+|CB ||'''5''' ||[[Duilio Davino]]
+|-
+|LB ||'''19'''||[[Braulio Luna]] || || {{suboff|45}}
+|-
+|RM ||'''20'''||[[Jaime Ordiales]] || {{yel|26}} || {{suboff|45}}
+|-
+|CM ||'''14'''||[[Raúl Lara]]
+|-
+|CM ||'''8''' ||[[Alberto García Aspe]] ([[Captain (association football)|c]]) || {{yel|27}} || {{suboff|71}}
+|-
+|LM ||'''7''' ||[[Ramón Ramírez (footballer)|Ramón Ramírez]]
+|-
+|CF ||'''11'''||[[Cuauhtémoc Blanco]]
+|-
+|CF ||'''15'''||[[Luis Hernández (footballer, born 1968)|Luis Hernández]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Ricardo Peláez]] || || {{subon|45}}
+|-
+|MF ||'''21'''||[[Jesús Arellano]] || || {{subon|45}}
+|-
+|MF ||'''6''' ||[[Marcelino Bernal]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Manuel Lapuente]]
+|}
+|}
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Lencie Fred]] ([[Vanuatu Football Federation|Vanuatu]])
+<br />Eric Schneider ([[German Football Association|Germany]])
+<br />'''[[Fourth official]]:'''
+<br />John Toro Lendon ([[Colombian Football Federation|Colombia]])
+|}
+
+===Netherlands vs Belgium===
+{{see also|Low Countries derby}}
+This fixture was a repeat of the two teams' second [[1994 FIFA World Cup Group F#Belgium vs Netherlands|match at the 1994 tournament]], won by Belgium.
+<onlyinclude>{{#invoke:Football box|main|section=E2
+|date={{Start date|1998|6|13|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NED}}
+|score={{score link|1998 FIFA World Cup Group E#Netherlands vs Belgium|0–0}}
+|team2={{fb|BEL}}
+|goals1=
+|goals2=
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=77,000
+|referee=[[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8733 |title=Netherlands vs Belgium {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8733/index.html |title=1998 FIFA World Cup France – Matches – Netherlands v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228213354/http://www.fifa.com/worldcup/matches/round=1014/match=8733/index.html |archive-date=28 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8894.htm |title=Match Statistics – Group E – Netherlands v Belgium |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=13 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418004802/http://www.france98.com/english/competition/matchstat8894.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1998a
+ | pattern_b  = _ned98 away
+ | pattern_ra = _netherlands1998a
+ | pattern_sh = _netherlands1998a
+ | pattern_so = _ned98h
+ | leftarm    = 0000A0
+ | body       = 0000A0
+ | rightarm   = 0000A0
+ | shorts     = 0000A0
+ | socks      = F3460C
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _belgium1998a
+ | pattern_b  = _belgium1998a
+ | pattern_ra = _belgium1998a
+ | pattern_sh = _belgium1998a
+ | pattern_so = _belgium1998a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Belgium
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]]
+|-
+|RB ||'''20'''||[[Aron Winter]]
+|-
+|CB ||'''3''' ||[[Jaap Stam]]
+|-
+|CB ||'''4''' ||[[Frank de Boer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Arthur Numan]]
+|-
+|CM ||'''11'''||[[Phillip Cocu]]
+|-
+|CM ||'''10'''||[[Clarence Seedorf]] || || {{suboff|65}}
+|-
+|RW ||'''7''' ||[[Ronald de Boer]] || || {{suboff|80}}
+|-
+|LW ||'''14'''||[[Marc Overmars]]
+|-
+|CF ||'''9''' ||[[Patrick Kluivert]] || {{sent off|0|80}}
+|-
+|CF ||'''21'''||[[Jimmy Floyd Hasselbaink]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''12'''||[[Boudewijn Zenden]] || || {{subon|65}}
+|-
+|FW ||'''8''' ||[[Dennis Bergkamp]] || || {{subon|65}}
+|-
+|MF ||'''6''' ||[[Wim Jonk]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Guus Hiddink]]
+|}
+|valign="top"|<!-- [[File:NED-BEL 1998-06-13.svg|300px]] -->
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Filip De Wilde]]
+|-
+|RB ||'''2''' ||[[Bertrand Crasson]] || || {{suboff|22}}
+|-
+|CB ||'''3''' ||[[Lorenzo Staelens]] || {{yel|20}}
+|-
+|CB ||'''17'''||[[Mike Verstraeten]]
+|-
+|LB ||'''5''' ||[[Vital Borkelmans]]
+|-
+|DM ||'''6''' ||[[Franky Van der Elst]] ([[Captain (association football)|c]])
+|-
+|DM ||'''15'''||[[Philippe Clement]]
+|-
+|AM ||'''7''' ||[[Marc Wilmots]]
+|-
+|AM ||'''21'''||[[Danny Boffin]]
+|-
+|CF ||'''8''' ||[[Luís Oliveira]] || || {{suboff|60}}
+|-
+|CF ||'''10'''||[[Luc Nilis]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''22'''||[[Éric Deflandre]] || {{yel|29}} || {{subon|22}}
+|-
+|FW ||'''20'''||[[Émile Mpenza]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georges Leekens]]
+|}
+|}
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Gennaro Mazzei ([[Italian Football Federation|Italy]])
+<br /> Emanuel Zammit ([[Malta Football Association|Malta]])
+<br />'''[[Fourth official]]:'''
+<br />[[Ramesh Ramdhan]] ([[Trinidad and Tobago Football Federation|Trinidad and Tobago]])
+|}
+
+===Belgium vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=E3
+|date={{Start date|1998|6|20|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BEL}}
+|score={{score link|1998 FIFA World Cup Group E#Belgium vs Mexico|2–2}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Marc Wilmots|Wilmots]] {{goal|42||47}}
+|goals2=
+*[[Alberto García Aspe|García Aspe]] {{goal|55|pen.}}
+*[[Cuauhtémoc Blanco|Blanco]] {{goal|62}}
+|stadium=[[Stade Chaban-Delmas|Parc Lescure]], [[Bordeaux]]
+|attendance=31,800
+|referee=[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8750 |title=Belgium vs Mexico {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8750/index.html |title=1998 FIFA World Cup France – Matches – Belgium v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204192541/http://www.fifa.com/worldcup/matches/round=1014/match=8750/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8911.htm |title=Match Statistics – Group E – Belgium v Mexico |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=20 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419012122/http://www.france98.com/english/competition/matchstat8911.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1998h
+ | pattern_b  = _belgium1998h
+ | pattern_ra = _belgium1998h
+ | pattern_so = _belgium1998h
+ | pattern_sh = _belgium1998h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _mex98a
+ | pattern_b  = _mex98
+ | pattern_ra = _mex98a
+ | pattern_sh = _mex98H
+ | pattern_so = _mex98A
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Mexico
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Filip De Wilde]]
+|-
+|DF ||'''3''' ||[[Lorenzo Staelens]]
+|-
+|DF ||'''4''' ||[[Gordan Vidović]] || {{yel|68}}
+|-
+|DF ||'''5''' ||[[Vital Borkelmans]]
+|-
+|MF ||'''6''' ||[[Franky Van der Elst]] ([[Captain (association football)|c]]) || || {{suboff|67}}
+|-
+|MF ||'''7''' ||[[Marc Wilmots]]
+|-
+|FW ||'''8''' ||[[Luís Oliveira]]
+|-
+|FW ||'''10'''||[[Luc Nilis]] || || {{suboff|77}}
+|-
+|MF ||'''14'''||[[Enzo Scifo]]
+|-
+|MF ||'''21'''||[[Danny Boffin]] || || {{suboff|17}}
+|-
+|DF ||'''22'''||[[Éric Deflandre]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Gert Verheyen]] || {{sent off|0|54}} || {{subon|17}}
+|-
+|DF ||'''16'''||[[Glen De Boeck]] || || {{subon|67}}
+|-
+|FW ||'''20'''||[[Émile Mpenza]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georges Leekens]]
+|}
+|valign="top"|<!-- [[File:BEL-MEX 1998-06-20.svg|300px]] -->
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jorge Campos]]
+|-
+|CB ||'''2''' ||[[Claudio Suárez]]
+|-
+|CB ||'''3''' ||[[Joel Sánchez (Mexican footballer)|Joel Sánchez]]
+|-
+|CB ||'''5''' ||[[Duilio Davino]]
+|-
+|RM ||'''13'''||[[Pável Pardo]] || {{sent off|0|28}}
+|-
+|CM ||'''20'''||[[Jaime Ordiales]] || || {{suboff|57}}
+|-
+|CM ||'''8''' ||[[Alberto García Aspe]] ([[Captain (association football)|c]]) || || {{suboff|67}}
+|-
+|LM ||'''7''' ||[[Ramón Ramírez (footballer)|Ramón Ramírez]] || {{yel|39}}
+|-
+|RF ||'''11'''||[[Cuauhtémoc Blanco]] || {{yel|47}}
+|-
+|CF ||'''17'''||[[Francisco Palencia]] || || {{suboff|45}}
+|-
+|LF ||'''15'''||[[Luis Hernández (footballer, born 1968)|Luis Hernández]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LM ||'''21'''||[[Jesús Arellano]] || || {{subon|45}}
+|-
+|CM ||'''4''' ||[[Germán Villa]] || || {{subon|57}}
+|-
+|CM ||'''14'''||[[Raúl Lara]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Manuel Lapuente]]
+|}
+|}
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Eddie Foley ([[Football Association of Ireland|Ireland]])
+<br />Mohamed Al Musawi ([[Oman Football Association|Oman]])
+<br />'''[[Fourth official]]:'''
+<br />[[Javier Castrilli]] ([[Argentine Football Association|Argentina]])
+|}
+
+===Netherlands vs South Korea===
+<onlyinclude>{{#invoke:Football box|main|section=E4
+|date={{Start date|1998|6|20|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NED}}
+|score={{score link|1998 FIFA World Cup Group E#Netherlands vs South Korea|5–0}}
+|team2={{fb|KOR|1997}}
+|goals1=
+*[[Phillip Cocu|Cocu]] {{goal|37}}
+*[[Marc Overmars|Overmars]] {{goal|41}}
+*[[Dennis Bergkamp|Bergkamp]] {{goal|71}}
+*[[Pierre van Hooijdonk|Van Hooijdonk]] {{goal|80}}
+*[[Ronald de Boer|R. de Boer]] {{goal|83}}
+|goals2=
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=55,000
+|referee=[[Ryszard Wójcik]] ([[Polish Football Association|Poland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8749 |title=Netherlands vs Korea Republic {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8749/index.html |title=1998 FIFA World Cup France – Matches – Netherlands v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204191036/http://www.fifa.com/worldcup/matches/round=1014/match=8749/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8848.htm |title=Match Statistics – Group E – Netherlands v Korea Republic |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=20 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418003747/http://www.france98.com/english/competition/matchstat8848.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1998h
+ | pattern_b  = _ned98
+ | pattern_ra = _netherlands1998h
+ | pattern_sh = _netherlands1998h
+ | pattern_so = _ned98h
+ | leftarm    = D74600
+ | body       = D74600
+ | rightarm   = D74600
+ | shorts     = FFFFFF
+ | socks      = F3460C
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _korearepublic1998a
+ | pattern_b  = _korearepublic1998a
+ | pattern_ra = _korearepublic1998a
+ | pattern_sh = _kor98a
+ | pattern_so = _kor98a
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = South Korea
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]]
+|-
+|CB ||'''3''' ||[[Jaap Stam]]
+|-
+|CB ||'''4''' ||[[Frank de Boer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Arthur Numan]] || || {{suboff|80}}
+|-
+|CM ||'''6''' ||[[Wim Jonk]]
+|-
+|RW ||'''7''' ||[[Ronald de Boer]] || || {{suboff|84}}
+|-
+|CF ||'''8''' ||[[Dennis Bergkamp]] || || {{suboff|78}}
+|-
+|CM ||'''11'''||[[Phillip Cocu]]
+|-
+|LW ||'''14'''||[[Marc Overmars]]
+|-
+|CM ||'''16'''||[[Edgar Davids]]
+|-
+|RB ||'''20'''||[[Aron Winter]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Pierre van Hooijdonk]] || || {{subon|78}}
+|-
+|DF ||'''15'''||[[Winston Bogarde]] || || {{subon|80}}
+|-
+|MF ||'''12'''||[[Boudewijn Zenden]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Guus Hiddink]]
+|}
+|valign="top"|<!-- [[File:NED-KOR 1998-06-20.svg|300px]] -->
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Kim Byung-ji]]
+|-
+|MF ||'''2''' ||[[Choi Sung-yong]] || ||{{suboff|53}}
+|-
+|DF ||'''4''' ||[[Choi Young-il]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Lee Min-sung]]
+|-
+|DF ||'''6''' ||[[Yoo Sang-chul]]
+|-
+|MF ||'''7''' ||[[Kim Do-keun]]
+|-
+|FW ||'''9''' ||[[Kim Do-hoon]] || || {{suboff|69}}
+|-
+|FW ||'''10'''||[[Choi Yong-soo]] || {{yel|26}}
+|-
+|FW ||'''11'''||[[Seo Jung-won]] || || {{suboff|77}}
+|-
+|MF ||'''15'''||[[Lee Sang-yoon (footballer)|Lee Sang-yoon]]
+|-
+|DF ||'''20'''||[[Hong Myung-bo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]] || || {{subon|53}}
+|-
+|MF ||'''14'''||[[Ko Jong-soo]] || {{yel|90+2}} || {{subon|69}}
+|-
+|FW ||'''21'''||[[Lee Dong-gook]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Cha Bum-kun]]
+|}
+|}
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jacek Pocięgiel ([[Polish Football Association|Poland]])
+<br />Yuri Dupanov ([[Football Federation of Belarus|Belarus]])
+<br />'''[[Fourth official]]:'''
+<br />[[Vitor Melo Pereira]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===Netherlands vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=E5
+|date={{Start date|1998|6|25|df=y}}
+|time=16:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NED}}
+|score={{score link|1998 FIFA World Cup Group E#Netherlands vs Mexico|2–2}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Phillip Cocu|Cocu]] {{goal|4}}
+*[[Ronald de Boer|R. de Boer]] {{goal|18}}
+|goals2=
+*[[Ricardo Peláez|Peláez]] {{goal|75}}
+*[[Luis Hernández (footballer, born 1968)|Hernández]] {{goal|90+4}}
+|stadium=[[Stade Geoffroy-Guichard]], [[Saint-Étienne]]
+|attendance=30,600
+|referee=[[Abdul Rahman Al-Zeid]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8766 |title=Netherlands vs Mexico {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8766/index.html |title=1998 FIFA World Cup France – Matches – Netherlands v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171111095224/http://www.fifa.com/worldcup/matches/round=1014/match=8766/index.html |archive-date=11 November 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8864.htm |title=Match Statistics – Group E – Netherlands v Mexico |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=25 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419011036/http://www.france98.com/english/competition/matchstat8864.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1998h
+ | pattern_b  = _ned98
+ | pattern_ra = _netherlands1998h
+ | pattern_sh = _netherlands1998h
+ | pattern_so = _ned98h
+ | leftarm    = D74600
+ | body       = D74600
+ | rightarm   = D74600
+ | shorts     = FFFFFF
+ | socks      = F3460C
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _mex98a
+ | pattern_b  = _mex98
+ | pattern_ra = _mex98a
+ | pattern_sh = _mex98H
+ | pattern_so = _mex98A
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Mexico
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]]
+|-
+|RB ||'''2''' ||[[Michael Reiziger]]
+|-
+|CB ||'''3''' ||[[Jaap Stam]] || {{yel|21}}
+|-
+|CB ||'''4''' ||[[Frank de Boer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Arthur Numan]] || {{yel|46}} || {{suboff|71}}
+|-
+|CM ||'''6''' ||[[Wim Jonk]] || || {{suboff|70}}
+|-
+|RW ||'''7''' ||[[Ronald de Boer]]
+|-
+|SS ||'''8''' ||[[Dennis Bergkamp]] || || {{suboff|78}}
+|-
+|CM ||'''11'''||[[Phillip Cocu]]
+|-
+|LW ||'''14'''||[[Marc Overmars]]
+|-
+|CM ||'''16'''||[[Edgar Davids]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Aron Winter]] || || {{subon|70}}
+|-
+|DF ||'''15'''||[[Winston Bogarde]] || || {{subon|71}}
+|-
+|FW ||'''21'''||[[Jimmy Floyd Hasselbaink]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Guus Hiddink]]
+|}
+|valign="top"|<!-- [[File:NED-MEX 1998-06-25.svg|300px]] -->
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jorge Campos]]
+|-
+|RB ||'''18'''||[[Salvador Carmona]] || {{yel|58}}
+|-
+|CB ||'''3''' ||[[Joel Sánchez (Mexican footballer)|Joel Sánchez]] || || {{suboff|55}}
+|-
+|CB ||'''2''' ||[[Claudio Suárez]]
+|-
+|CB ||'''5''' ||[[Duilio Davino]]
+|-
+|LB ||'''19'''||[[Braulio Luna]] || || {{suboff|45}}
+|-
+|RM ||'''8''' ||[[Alberto García Aspe]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||[[Germán Villa]] || {{yel|18}}
+|-
+|LM ||'''7''' ||[[Ramón Ramírez (footballer)|Ramón Ramírez]] || {{sent off|0|89}}
+|-
+|RF ||'''11'''||[[Cuauhtémoc Blanco]]
+|-
+|LF ||'''15'''||[[Luis Hernández (footballer, born 1968)|Luis Hernández]] || {{yel|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LM ||'''21'''||[[Jesús Arellano]] || || {{subon|45}}
+|-
+|CF ||'''9''' ||[[Ricardo Peláez]] || {{yel|68}} || {{subon|55}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Manuel Lapuente]]
+|}
+|}
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Fernando Tresaco Garcia ([[Royal Spanish Football Federation|Spain]])
+<br />Hussain Ghadanfari ([[Kuwait Football Association|Kuwait]])
+<br />'''[[Fourth official]]:'''
+<br />[[Rune Pedersen (referee)|Rune Pedersen]] ([[Football Association of Norway|Norway]])
+|}
+
+===Belgium vs South Korea===
+<onlyinclude>{{#invoke:Football box|main|section=E6
+|date={{Start date|1998|6|25|df=y}}
+|time=16:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BEL}}
+|score={{score link|1998 FIFA World Cup Group E#Belgium vs South Korea|1–1}}
+|team2={{fb|KOR|1997}}
+|goals1=
+*[[Luc Nilis|Nilis]] {{goal|7}}
+|goals2=
+*[[Yoo Sang-chul]] {{goal|72}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=45,500
+|referee=[[Márcio Rezende de Freitas]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8765 |title=Belgium vs Korea Republic {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8765/index.html |title=1998 FIFA World Cup France – Matches – Belgium v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229071620/http://www.fifa.com/worldcup/matches/round=1014/match=8765/index.html |archive-date=29 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8863.htm |title=Match Statistics – Group E – Belgium v Korea Republic |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=25 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419010659/http://www.france98.com/english/competition/matchstat8863.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1998a
+ | pattern_b  = _belgium1998a
+ | pattern_ra = _belgium1998a
+ | pattern_sh = _belgium1998a
+ | pattern_so = _belgium1998a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _korearepublic1998h
+ | pattern_b  = _korea1998h
+ | pattern_ra = _korearepublic1998h
+ | pattern_sh = _kor98h
+ | pattern_so = _kor98h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000FF
+ | socks      = FF0000
+ | title      = South Korea
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Philippe Vande Walle]]
+|-
+|DF ||'''3''' ||[[Lorenzo Staelens]]
+|-
+|DF ||'''4''' ||[[Gordan Vidović]]
+|-
+|DF ||'''5''' ||[[Vital Borkelmans]] || {{yel|65}}
+|-
+|MF ||'''7''' ||[[Marc Wilmots]]
+|-
+|FW ||'''8''' ||[[Luís Oliveira]] || || {{suboff|45}}
+|-
+|FW ||'''10'''||[[Luc Nilis]]
+|-
+|MF ||'''11'''||[[Nico Van Kerckhoven]]
+|-
+|MF ||'''14'''||[[Enzo Scifo]] ([[Captain (association football)|c]]) || || {{suboff|65}}
+|-
+|MF ||'''15'''||[[Philippe Clement]] || || {{suboff|74}}
+|-
+|DF ||'''22'''||[[Éric Deflandre]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Mbo Mpenza]] || || {{subon|45}}
+|-
+|MF ||'''6''' ||[[Franky Van der Elst]] || || {{subon|65}}
+|-
+|FW ||'''20'''||[[Émile Mpenza]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georges Leekens]]
+|}
+|valign="top"|<!-- [[File:BEL-KOR 1998-06-25.svg|300px]] -->
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Kim Byung-ji]] || {{yel|83}}
+|-
+|MF ||'''2''' ||[[Choi Sung-yong]] || || {{suboff|45}}
+|-
+|DF ||'''5''' ||[[Lee Min-sung]] || {{yel|83}}
+|-
+|DF ||'''6''' ||[[Yoo Sang-chul]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Kim Do-keun]] || || {{suboff|45}}
+|-
+|FW ||'''10'''||[[Choi Yong-soo]]
+|-
+|FW ||'''11'''||[[Seo Jung-won]]
+|-
+|DF ||'''12'''||[[Lee Sang-hun (footballer)|Lee Sang-hun]] || || {{suboff|66}}
+|-
+|DF ||'''13'''||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]] || {{yel|48}}
+|-
+|MF ||'''17'''||[[Ha Seok-ju]]
+|-
+|DF ||'''20'''||[[Hong Myung-bo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Lee Lim-saeng]] || {{yel|67}} || {{subon|45}}
+|-
+|MF ||'''14'''||[[Ko Jong-soo]] || || {{subon|45}}
+|-
+|DF ||'''16'''||[[Jang Hyung-seok]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kim Pyung-seok]] (caretaker)
+|}
+|}
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Arnaldo Pinto ([[Brazilian Football Confederation|Brazil]])
+<br />Jorge Luis Arango ([[Colombian Football Federation|Colombia]])
+<br />'''[[Fourth official]]:'''
+<br />[[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|}
+
+==See also==
+*[[Belgium at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+*[[South Korea at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:1998 FIFA World Cup group stage|E]]
+[[Category:Netherlands at the 1998 FIFA World Cup|Group]]
+[[Category:Mexico at the 1998 FIFA World Cup|Group]]
+[[Category:Belgium at the 1998 FIFA World Cup]]
+[[Category:South Korea at the 1998 FIFA World Cup]]
+[[Category:International football competitions in Paris]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:Football in Île-de-France]]
+[[Category:Sports competitions in Lyon]]
+[[Category:20th century in Lyon]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:Sports competitions in Marseille]]
+[[Category:20th century in Marseille]]
+[[Category:Football in Provence-Alpes-Côte d'Azur]]
+[[Category:Sport in Saint-Étienne]]
+[[Category:20th century in Auvergne-Rhône-Alpes]]
+[[Category:1998 in Paris]]

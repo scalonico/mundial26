@@ -1,0 +1,2407 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=June 2018}}
+The knockout stage of the [[1990 FIFA World Cup]] was the second and final stage of the final tournament, following the group stage. It began on 23 June with the round of 16 matches, and ended on 8 July with the [[1990 FIFA World Cup final|final]] held at the [[Stadio Olimpico]] in [[Rome]], in which [[Germany national football team|West Germany]] beat the defending champions [[Argentina national football team|Argentina]] 1–0 to claim their third World Cup.<ref>{{cite web |url=https://www.rsssf.org/tables/90full.html |title=World Cup 1990 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+Sixteen teams advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament: The top two teams from each of the six groups, as well as the [[1990 FIFA World Cup#Ranking of third-placed teams|best four third-placed teams]]. In the round of 16, the four third-placed teams played against four of the group winners from group A-D, with the remaining two group winners from group E and F taking on two of the group runners-up; the remaining four runners-up were paired off against each other. The winners of the eight round of 16 matches were then paired together in the quarter-finals, the winners of which played against each other in the semi-finals.
+
+The ties in each round were played over a single match; in the event that scores were level after 90 minutes, the teams would play an additional 30 minutes of [[Overtime (sports)#Association football|extra time]], divided into two 15-minute halves, to determine the winner. If the scores remained level after extra time, the teams would contest a [[penalty shoot-out (association football)|penalty shoot-out]].
+
+A [[#Match for third place|match for third place]] was also held on the day before the final, between the two losing teams of the semi-finals.
+
+''All times listed are local ([[UTC+02|UTC+2]])''
+
+==Qualified teams==
+The top two placed teams from each of the six groups, plus the four best-placed third teams, qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+! width="150" | Third-placed teams<br />([[1990 FIFA World Cup#Ranking of third-placed teams|Best four]] qualify)
+|-
+! [[1990 FIFA World Cup Group A|A]]
+| {{fb|ITA|1946}}
+| {{fb|TCH}}
+| {{N/a}}
+|-
+! [[1990 FIFA World Cup Group B|B]]
+| {{fb|CMR}}
+| {{fb|ROU}}
+| {{fb|ARG|1861}}
+|-
+! [[1990 FIFA World Cup Group C|C]]
+| {{fb|BRA|1968}}
+| {{fb|CRC}}
+| {{N/a}}
+|-
+! [[1990 FIFA World Cup Group D|D]]
+| {{fb|FRG}}
+| {{fb|YUG}}
+| {{fb|COL}}
+|-
+! [[1990 FIFA World Cup Group E|E]]
+| {{fb|ESP}}
+| {{fb|BEL}}
+| {{fb|URU}}
+|-
+! [[1990 FIFA World Cup Group F|F]]
+| {{fb|ENG}}
+| {{fb|IRL}}
+| {{fb|NED}}
+|}
+
+Based on group results, the matches would be the following in Round of 16:
+{| class="wikitable"  
+|-
+!Round of 16 !! Teams per qualified<br> group positions!! Teams identified
+|-
+|'''Match 1:''' || C1 &ndash; A3/''B3''/F3 || Brazil &ndash; Argentina
+|-
+|'''Match 2:''' || E1 &ndash; D2 || Spain &ndash; Yugoslavia
+|-
+|'''Match 3:''' || B2 &ndash; F2 || Romania &ndash; Ireland
+|-
+|'''Match 4:''' || A1 &ndash; C3/D3/''E3'' || Italy &ndash; Uruguay
+|-
+|'''Match 5:''' || A2 &ndash; C2 || Czechoslovakia &ndash; Costa Rica
+|-
+|'''Match 6:''' || D1 &ndash; B3/E3/''F3'' || West Germany &ndash; Netherlands
+|-
+|'''Match 7:''' || B1 &ndash; A3/C3/''D3'' || Cameroon &ndash; Colombia
+|-
+|'''Match 8:''' || F1 &ndash; E2 || England &ndash; Belgium
+|-
+|}
+
+The pairings for matches 1, 4, 6 and 7 depend on who the best third places are that qualify for the round of 16. The following table published in Section 28 of the tournament regulations, shows the 15 different options to define the opponents for the winners of groups A, B, C and D.
+
+{{legend|#ccffcc|Combination according to the four qualified teams}}
+
+{| class="wikitable" 
+|-
+! Third teams qualify from groups: !! Italy (A1) plays vs.: !! Cameroon (B1) plays vs.: !! Brazil (C1) plays vs.: !! West Germany (D1) plays vs.:
+|-
+| A B C D || C3 || D3 || A3 || B3
+|-
+| A B C E || C3 || A3 || B3 || E3
+|-
+| A B C F || C3 || A3 || B3 || F3
+|-
+| A B D E || D3 || A3 || B3 || E3
+|-
+| A B D F || D3 || A3 || B3 || F3
+|-
+| A B E F || E3 || A3 || B3 || F3
+|-
+| A C D E || C3 || D3 || A3 || E3
+|-
+| A C D F || C3 || D3 || A3 || F3
+|-
+| A C E F || C3 || A3 || F3 || E3
+|-
+| A D E F || D3 || A3 || F3 || E3
+|-
+| B C D E || C3 || D3 || B3 || E3
+|-
+| B C D F || C3 || D3 || B3 || F3
+|-
+| B C E F || E3 || C3 || B3 || F3
+|-bgcolor=#ccffcc
+| B D E F || E3 || D3 || B3 || F3
+|-
+| C D E F || C3 || D3 || F3 || E3
+|}
+
+==Bracket==
+<section begin=Bracket />{{#invoke:RoundN|N16
+|style=white-space:nowrap
+|widescore=yes
+|bold_winner=high
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- date-place/Team 1/Score 1/Team 2/Score 2 -->
+<!-- Round of 16 -->
+|24 June – [[Turin]]|{{fb|BRA|1968}}|0|{{fb|ARG|1861}}|1
+|26 June – [[Verona]]|{{fb|ESP}}|1|{{fb|YUG}} {{aet}}|2
+|25 June – [[Genoa]]|{{nowrap|{{fb|IRL}} {{pso}}}}|0 (5)|{{fb|ROU}}|0 (4)
+|25 June – [[Rome]]|{{fb|ITA|1946}}|2|{{fb|URU}}|0
+|23 June – [[Bari]]|{{fb|TCH}}|4|{{fb|CRC}}|1
+|24 June – [[Milan]]|{{fb|FRG}}|2|{{fb|NED}}|1
+|23 June – [[Naples]]|{{fb|CMR}} {{aet}}|2|{{fb|COL}}|1
+|26 June – [[Bologna]]|{{fb|ENG}} {{aet}}|1|{{fb|BEL}}|0
+<!-- quarter-finals -->
+|30 June – [[Florence]]|{{fb|ARG|1861}} {{pso}}|0 (3)|{{fb|YUG}}|0 (2)
+|30 June – [[Rome]]|{{fb|IRL}}|0|{{fb|ITA|1946}}|1
+|1 July – [[Milan]]|{{fb|TCH}}|0|{{fb|FRG}}|1
+|1 July – [[Naples]]|{{fb|CMR}} |2|{{fb|ENG}} {{aet}}|3
+<!-- semi-finals -->
+|3 July – [[Naples]]|{{fb|ARG|1861}} {{pso}}|1 (4)|{{fb|ITA|1946}}|1 (3)
+|4 July – [[Turin]]|{{fb|FRG}} {{pso}}|1 (4)|{{fb|ENG}}|1 (3)
+<!-- final -->
+|8 July – [[Rome]]|{{fb|ARG|1861}}|0|{{fb|FRG}}|1
+<!-- third place -->
+|7 July – [[Bari]]|{{fb|ITA|1946}}|2|{{fb|ENG}}|1
+}}<section end=Bracket />
+
+==Round of 16==
+
+===Cameroon vs Colombia===
+<section begin=R of 16 1 />{{Football box
+|date={{Start date|1990|6|23|df=y}}
+|time=17:00
+|team1={{fb-rt|CMR}}
+|score={{score link|1990 FIFA World Cup knockout stage#Cameroon vs Colombia|2–1}}
+|aet=yes
+|team2={{fb|COL}}
+|goals1=
+*[[Roger Milla|Milla]] {{goal|106||108}}
+|goals2=
+*[[Bernardo Redín|Redín]] {{goal|115}}
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=50,026
+|referee=[[Tullio Lanese]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/102 |title=Cameroon vs Colombia {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=102/index.html |title=1990 FIFA World Cup Italy – Matches – Cameroon v Colombia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171122061743/http://www.fifa.com/worldcup/matches/round=323/match=102/index.html |archive-date=22 November 2017}} }}</ref>
+}}<section end=R of 16 1 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _cameroon1990_home 
+ | pattern_b  = _cameroon1990_home
+ | pattern_ra = _cameroon1990_home
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = 008000
+ | title      = Cameroon
+}}
+|{{Football kit
+ | pattern_la = _col90a
+ | pattern_b  = _col90a
+ | pattern_ra = _col90a
+ | pattern_sh = _adidas_yellow
+ | pattern_so = _col90al
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 0000A0
+ | socks      = FFCA00
+ | title      = Colombia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Thomas N'Kono]]
+|-
+|SW ||'''17'''||[[Victor N'Dip]] || {{yel|47}}
+|-
+|DF ||'''14'''||[[Stephen Tataw]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[Jules Onana]] || {{yel|117}}
+|-
+|DF ||'''2''' ||[[André Kana-Biyik]] || {{yel|44}}
+|-
+|DF ||'''5''' ||[[Bertin Ebwellé]]
+|-
+|MF ||'''8''' ||[[Emile M'Bouh]] || {{yel|68}}
+|-
+|MF ||'''21'''||[[Emmanuel Maboang]]
+|-
+|MF ||'''10'''||[[Louis-Paul Mfédé]] || || {{suboff|54}}
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] 
+|-
+|FW ||'''20'''||[[Cyril Makanaky]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''4''' ||[[Benjamin Massing]] 
+|-
+|DF ||'''6''' ||[[Emmanuel Kundé]]
+|-
+|FW ||'''9''' ||[[Roger Milla]] || || {{subon|54}}
+|-
+|FW ||'''18'''||[[Bonaventure Djonkep]] || || {{subon|69}}
+|-
+|GK ||'''22'''||[[Jacques Songo'o]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URS}} [[Valery Nepomnyashchy]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[René Higuita]]
+|-
+|DF ||'''4''' ||[[Luis Fernando Herrera]]
+|-
+|DF ||'''15'''||[[Luis Carlos Perea]] || {{yel|72}}
+|-
+|DF ||'''2''' ||[[Andrés Escobar]]
+|-
+|DF ||'''3''' ||[[Gildardo Gómez]]
+|-
+|MF ||'''8''' ||[[Gabriel Gómez (footballer, born 1959)|Gabriel Gómez]] || {{yel|74}} || {{suboff|79}}
+|-
+|MF ||'''14'''||[[Leonel Álvarez (footballer, born 1965)|Leonel Álvarez]]
+|-
+|MF ||'''20'''||[[Luis Fajardo Posada|Luis Fajardo]] || || {{suboff|63}}
+|-
+|MF ||'''10'''||[[Carlos Valderrama (footballer)|Carlos Valderrama]] ([[Captain (association football)|c]])
+|-
+|FW ||'''19'''||[[Freddy Rincón]]
+|-
+|FW ||'''7''' ||[[Carlos Estrada]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Miguel Guerrero]] 
+|-
+|MF ||'''11'''||[[Bernardo Redín]] || || {{subon|79}}
+|-
+|GK ||'''12'''||[[Eduardo Niño]] 
+|-
+|FW ||'''16'''||[[Arnoldo Iguarán]] || || {{subon|63}}
+|-
+|DF ||'''21'''||[[Alexis Mendoza]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Francisco Maturana]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+<br />[[Berny Ulloa Morera]] ([[Costa Rican Football Federation|Costa Rica]])
+|}
+
+===Czechoslovakia vs Costa Rica===
+<section begin=R of 16 2 />{{Football box
+|date={{Start date|1990|6|23|df=y}}
+|time=21:00
+|team1={{fb-rt|CSK}}
+|score={{score link|1990 FIFA World Cup knockout stage#Czechoslovakia vs Costa Rica|4–1}}
+|team2={{fb|CRC}}
+|goals1=
+*[[Tomáš Skuhravý|Skuhravý]] {{goal|12||63||82}}
+*[[Luboš Kubík|Kubík]] {{goal|76}}
+|goals2=
+*[[Rónald González Brenes|González]] {{goal|55}}
+|stadium=[[Stadio San Nicola]], [[Bari]]
+|attendance=47,673
+|referee=[[Siegfried Kirschen]] ([[German Football Association|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/129 |title=Czechoslovakia vs Costa Rica {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=129/index.html |title=1990 FIFA World Cup Italy – Matches – Czechoslovakia v Costa Rica |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171114035451/http://www.fifa.com/worldcup/matches/round=323/match=129/index.html |archive-date=14 November 2017}} }}</ref>
+}}<section end=R of 16 2 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _tch90a
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 29459B
+ | title      = Czechoslovakia
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _collar 
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = DB000D
+ | body       = DB000D
+ | rightarm   = DB000D
+ | shorts     = 000080
+ | socks      = FFFFFF
+ | title      = Costa Rica
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jan Stejskal]]
+|-
+|DF ||'''5''' ||[[Ján Kocian]] || {{yel|56}} 
+|-
+|DF ||'''3''' ||[[Miroslav Kadlec]]
+|-
+|DF ||'''9''' ||[[Luboš Kubík]]
+|-
+|DF ||'''6''' ||[[František Straka]] || {{yel|68}}
+|-
+|MF ||'''4''' ||[[Ivan Hašek]] ([[Captain (association football)|c]]) || {{yel|53}}
+|-
+|MF ||'''11'''||[[Ľubomír Moravčík]]
+|-
+|MF ||'''8''' ||[[Jozef Chovanec]]
+|-
+|MF ||'''7''' ||[[Michal Bílek]]
+|-
+|FW ||'''10'''||[[Tomáš Skuhravý]]
+|-
+|FW ||'''17'''||[[Ivo Knoflíček]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]]
+|-
+|MF ||'''18'''||[[Milan Luhový]]
+|-
+|FW ||'''19'''||[[Stanislav Griga]]
+|-
+|MF ||'''20'''||[[Václav Němeček]]
+|-
+|GK ||'''21'''||[[Luděk Mikloško]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Vengloš]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Hermidio Barrantes]]
+|-
+|DF ||'''3''' ||[[Róger Flores]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Rónald González Brenes]] || {{yel|6}}
+|-
+|DF ||'''20'''||[[Mauricio Montero]]
+|-
+|DF ||'''5''' ||[[Marvin Obando]] || || {{suboff|46}}
+|-
+|DF ||'''6''' ||[[José Carlos Chaves]]
+|-
+|MF ||'''8''' ||[[Germán Chavarría]] || || {{suboff|65}}
+|-
+|MF ||'''19'''||[[Héctor Marchena]] || {{yel|75}} 
+|-
+|MF ||'''14'''||[[Juan Cayasso]]
+|-
+|FW ||'''10'''||[[Óscar Ramírez (football manager)|Óscar Ramírez]]
+|-
+|FW ||'''11'''||[[Claudio Jara]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Hernán Medford]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Alexandre Guimarães]] || || {{subon|65}}
+|-
+|MF ||'''17'''||[[Roy Myers]]
+|-
+|DF ||'''18'''||[[Geovanny Jara]]
+|-
+|GK ||'''22'''||[[Miguel Segura]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|YUG}} [[Bora Milutinović]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Armando Pérez Hoyos]] ([[Colombian Football Federation|Colombia]])
+<br />[[Pietro d'Elia]] ([[Italian Football Federation|Italy]])
+|}
+
+===Brazil vs Argentina===
+{{see also|Argentina–Brazil football rivalry}}
+{{external media|float= right|video1 ={{YouTube|O3DDJXfOBP8|Brazil v Argentina (Italy 1990) Full match}}}}
+
+Brazil dominated for most of the match, but [[Diego Maradona]] went on a trademark run from the halfway line to the edge of the penalty area late in the match, and found [[Claudio Caniggia]], who rounded the onrushing [[Cláudio Taffarel]] to give Argentina a lead that they would not relinquish.
+
+As of 2025, this is the last time Argentina played Brazil in a World Cup Tournament.<ref>{{Cite web|url=https://www.youtube.com/watch?v=OvMBgOCebiI|title = 'Every match was like a final' &#124; Argentina at the 1990 World Cup|website = [[YouTube]]}}</ref>
+
+<section begin=R of 16 3 />{{Football box
+|date={{Start date|1990|6|24|df=y}}
+|time=17:00
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1990 FIFA World Cup knockout stage#Brazil vs Argentina|0–1}}
+|team2={{fb|ARG|1861}}
+|goals1=
+|goals2=
+*[[Claudio Caniggia|Caniggia]] {{goal|81}}
+|stadium=[[Stadio delle Alpi|Stadio Delle Alpi]], [[Turin]]
+|attendance=61,381
+|referee=[[Joël Quiniou]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/25 |title=Brazil vs Argentina {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=25/index.html |title=1990 FIFA World Cup Italy – Matches – Brazil v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228212453/http://www.fifa.com/worldcup/matches/round=323/match=25/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end=R of 16 3 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra90h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = 
+ | leftarm    = FFDF00
+ | body       = FFFFFF 
+ | rightarm   = FFDF00
+ | shorts     = 0070F9
+ | socks      = 0047AB
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _argentina1992
+ | pattern_b  = _argentina1992
+ | pattern_ra = _argentina1992
+ | pattern_sh = _argentina1990a
+ | pattern_so = _argentina1992
+ | leftarm    = FFFFFF
+ | body       = 33CCFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Argentina
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|SW ||'''21'''||[[Mauro Galvão]] || {{yel|50}} || {{suboff|84}}
+|-
+|CB ||'''19'''||[[Ricardo Rocha (footballer, born 1962)|Ricardo Rocha]] || {{yel|40}} 
+|-
+|CB ||'''3''' ||[[Ricardo Gomes]] ([[Captain (association football)|c]])|| {{sent off|0|85}} 
+|-
+|RM ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|CM ||'''4''' ||[[Dunga]]
+|-
+|CM ||'''5''' ||[[Alemão (footballer, born 1961)|Alemão]] || || {{suboff|84}}
+|-
+|LM ||'''6''' ||[[Branco (footballer)|Branco]]
+|-
+|AM ||'''8''' ||[[Valdo Filho|Valdo]]
+|-
+|FW ||'''15'''||[[Müller (footballer, born 1966)|Müller]]
+|-
+|FW ||'''9''' ||[[Careca]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|AM ||'''10'''||[[Paulo Silas]] || || {{subon|84}}
+|-
+|CB ||'''13'''||[[Carlos Mozer]]
+|-
+|FW ||'''17'''||[[Renato Gaúcho]] || || {{subon|84}}
+|-
+|RM ||'''18'''||[[Mazinho]]
+|-
+|GK ||'''22'''||[[Zé Carlos (footballer, born 1962)|Zé Carlos]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Sebastião Lazaroni]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Sergio Goycochea]] || {{yel|87}} 
+|-
+|SW ||'''20'''||[[Juan Simón]]
+|-
+|DF ||'''15'''||[[Pedro Monzón]] || {{yel|27}} 
+|-
+|DF ||'''19'''||[[Oscar Ruggeri]]
+|-
+|MF ||'''4''' ||[[José Basualdo]]
+|-
+|MF ||'''21'''||[[Pedro Troglio]] || || {{suboff|61}}
+|-
+|MF ||'''14'''||[[Ricardo Giusti]] || {{yel|28}} 
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]]
+|-
+|MF ||'''7''' ||[[Jorge Burruchaga]]
+|-
+|FW ||'''8''' ||[[Claudio Caniggia]] 
+|-
+|FW ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''2''' ||[[Sergio Batista]]
+|-
+|MF ||'''6''' ||[[Gabriel Calderón]] || || {{subon|61}}
+|-
+|FW ||'''9''' ||[[Gustavo Dezotti]]
+|-
+|DF ||'''13'''||[[Néstor Lorenzo]]
+|-
+|GK ||'''22''' ||[[Fabián Cancelarich]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Bilardo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Alexey Spirin]] ([[Football Federation of the Soviet Union|Soviet Union]])
+<br />[[Pierluigi Pairetto]] ([[Italian Football Federation|Italy]])
+|}
+
+===West Germany vs Netherlands===
+{{see also|Germany–Netherlands football rivalry}}
+
+<section begin=R of 16 4 />{{Football box
+|date={{Start date|1990|6|24|df=y}}
+|time=21:00
+|team1={{fb-rt|FRG}}
+|score={{score link|1990 FIFA World Cup knockout stage#West Germany vs Netherlands|2–1}}
+|team2={{fb|NED}}
+|goals1=
+*[[Jürgen Klinsmann|Klinsmann]] {{goal|51}}
+*[[Andreas Brehme|Brehme]] {{goal|85}}
+|goals2=
+*[[Ronald Koeman|R. Koeman]] {{goal|89|pen.}}
+|stadium=[[San Siro]], [[Milan]]
+|attendance=74,559
+|referee=[[Juan Carlos Loustau]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/196 |title=Germany FR vs Netherlands {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=196/index.html |title=1990 FIFA World Cup Italy – Matches – Germany FR v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171115221949/http://www.fifa.com/worldcup/matches/round=323/match=196/index.html |archive-date=15 November 2017}} }}</ref>
+}}<section end=R of 16 4 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ger90h
+ | pattern_b  = _westgermany1990
+ | pattern_ra = _ger90h
+ | pattern_sh = _ger90h
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|{{Football kit
+ | pattern_la = _netherlands90h
+ | pattern_b  = _netherlands90h
+ | pattern_ra = _netherlands90h
+ | pattern_sh = _netherlands90h
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FF5F00
+ | body       = FF5F00
+ | rightarm   = FF5F00
+ | shorts     = FF5F00
+ | socks      = FF5F00
+ | title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Bodo Illgner]]
+|-
+|SW ||'''5''' ||[[Klaus Augenthaler]]
+|-
+|RB ||'''2'''||[[Stefan Reuter]]
+|-
+|CB ||'''4''' ||[[Jürgen Kohler]]
+|-
+|CB ||'''14''' ||[[Thomas Berthold]]
+|-
+|LB ||'''3''' ||[[Andreas Brehme]]
+|-
+|MF ||'''7''' ||[[Pierre Littbarski]]
+|-
+|MF ||'''10'''||[[Lothar Matthäus]] ([[Captain (association football)|c]]) || {{yel|77}}
+|-
+|MF ||'''6''' ||[[Guido Buchwald]]
+|-
+|FW ||'''9''' ||[[Rudi Völler]] || {{sent off|1|21|22}}
+|-
+|FW ||'''18'''||[[Jürgen Klinsmann]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||[[Raimond Aumann]]
+|-
+|FW ||'''13'''||[[Karl-Heinz Riedle]] || || {{subon|77}}
+|-
+|DF ||'''16'''||[[Paul Steiner]]
+|-
+|MF ||'''17'''||[[Andreas Möller]]
+|-
+|MF ||'''20'''||[[Olaf Thon]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Franz Beckenbauer]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans van Breukelen]]
+|-
+|RB ||'''2''' ||[[Berry van Aerle]] || || {{suboff|66}}
+|-
+|CB ||'''4''' ||[[Ronald Koeman]]
+|-
+|CB ||'''3''' ||[[Frank Rijkaard]] || {{sent off|1|21|22}}
+|-
+|LB ||'''5''' ||[[Adri van Tiggelen]]
+|-
+|MF ||'''14'''||[[John van 't Schip]] 
+|-
+|MF ||'''6''' ||[[Jan Wouters]] || {{yel|32}}
+|-
+|MF ||'''20'''||[[Aron Winter]]
+|-
+|MF ||'''11'''||[[Richard Witschge]] || || {{suboff|78}}
+|-
+|FW ||'''9''' ||[[Marco van Basten]] || {{yel|72}}
+|-
+|FW ||'''10'''||[[Ruud Gullit]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''12'''||[[Wim Kieft]] || || {{subon|66}}
+|-
+|DF ||'''13'''||[[Graeme Rutjes]] || || 
+|-
+|GK ||'''16'''||[[Joop Hiele]] || || 
+|-
+|FW ||'''17'''||[[Hans Gillhaus]] || || {{subon|78}}
+|-
+|DF ||'''21'''||[[Danny Blind]] || || 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Leo Beenhakker]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Elías Jácome]] ([[Ecuadorian Football Federation|Ecuador]])
+<br />[[Vincent Mauro]] ([[United States Soccer Federation|United States]])
+|}
+
+===Republic of Ireland vs Romania===
+<section begin=R of 16 5 />{{Football box
+|date={{Start date|1990|6|25|df=y}}
+|time=17:00
+|team1={{fb-rt|IRL}}
+|score={{score link|1990 FIFA World Cup knockout stage#Republic of Ireland vs Romania|0–0}}
+|aet=yes
+|team2={{fb|ROM}}
+|goals1=
+|goals2=
+|stadium=[[Stadio Luigi Ferraris]], [[Genoa]]
+|attendance=31,818
+|referee=[[José Roberto Wright]] ([[Brazilian Football Confederation|Brazil]])
+|penalties1=
+*[[Kevin Sheedy (Irish footballer)|Sheedy]] {{pengoal}}
+*[[Ray Houghton|Houghton]] {{pengoal}}
+*[[Andy Townsend|Townsend]] {{pengoal}}
+*[[Tony Cascarino|Cascarino]] {{pengoal}}
+*[[David O'Leary|O'Leary]] {{pengoal}}
+|penaltyscore=5–4
+|penalties2=
+*{{pengoal}} [[Gheorghe Hagi|Hagi]]
+*{{pengoal}} [[Dănuţ Lupu|Lupu]]
+*{{pengoal}} [[Iosif Rotariu|Rotariu]]
+*{{pengoal}} [[Ioan Lupescu|Lupescu]]
+*{{penmiss}} [[Daniel Timofte|Timofte]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/248 |title=Republic of Ireland vs Romania {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=248/index.html |title=1990 FIFA World Cup Italy – Matches – Republic of Ireland v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170708173333/http://www.fifa.com/worldcup/matches/round=323/match=248/index.html |archive-date=8 July 2017}} }}</ref>
+}}<section end=R of 16 5 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ireland90h
+ | pattern_b  = _ireland90h
+ | pattern_ra = _ireland90h
+ | pattern_sh = _ireland90h
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = 076f24
+ | body       = 076f24
+ | rightarm   = 076f24
+ | shorts     = FFFFFF
+ | socks      = 076f24
+ | title      = {{nowrap|Republic of Ireland}}
+}}
+|{{Football kit
+ | pattern_la = _romania1990_home
+ | pattern_b  = _romania1990_home
+ | pattern_ra = _romania1990_home
+ | pattern_sh = _adidas_yellow
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFD700
+ | body       = FFD700
+ | rightarm   = FFD700
+ | shorts     = 0000FF
+ | socks      = FF0000
+ | title      = Romania
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|CB ||'''4''' ||[[Mick McCarthy]] ([[Captain (association football)|c]])
+|-
+|CB ||'''7''' ||[[Paul McGrath (footballer)|Paul McGrath]] || {{yel|108}}
+|-
+|CB ||'''5''' ||[[Kevin Moran (footballer)|Kevin Moran]]
+|-
+|RWB ||'''2''' ||[[Chris Morris (footballer)|Chris Morris]]
+|-
+|LWB ||'''3''' ||[[Steve Staunton]] || || {{suboff|94}}
+|-
+|CM ||'''8''' ||[[Ray Houghton]]
+|-
+|CM ||'''13'''||[[Andy Townsend]]
+|-
+|AM ||'''11'''||[[Kevin Sheedy (Irish footballer)|Kevin Sheedy]]
+|-
+|CF ||'''9''' ||[[John Aldridge]] || {{yel|21}} || {{suboff|22}}
+|-
+|CF ||'''17'''||[[Niall Quinn]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6'''||[[Ronnie Whelan]]
+|-
+|FW ||'''10'''||[[Tony Cascarino]] || || {{subon|22}}
+|-
+|DF ||'''12'''||[[David O'Leary]] || || {{subon|94}}
+|-
+|MF ||'''16'''||[[John Sheridan (footballer)|John Sheridan]]
+|-
+|GK ||'''22'''||[[Gerry Peyton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Silviu Lung]] ([[Captain (association football)|c]])
+|-
+|SW ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|DF ||'''4''' ||[[Ioan Andone]]
+|-
+|DF ||'''21'''||[[Ioan Lupescu]]
+|-
+|MF ||'''2''' ||[[Mircea Rednic]]
+|-
+|MF ||'''8''' ||[[Ioan Sabău]] || || {{suboff|98}}
+|-
+|MF ||'''10'''||[[Gheorghe Hagi]] || {{yel|111}}
+|-
+|MF ||'''5''' ||[[Iosif Rotariu]] 
+|-
+|MF ||'''3''' ||[[Michael Klein (footballer)|Michael Klein]]
+|-
+|FW ||'''18'''||[[Gavril Balint]]
+|-
+|FW ||'''14'''||[[Florin Răducioiu]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9'''||[[Rodion Cămătaru]]
+|-
+|MF ||'''11'''||[[Dănuț Lupu]] || {{yel|114}} || {{subon|74}}
+|-
+|GK ||'''12'''||[[Bogdan Stelea]]
+|-
+|MF ||'''16'''||[[Daniel Timofte]] || || {{subon|98}}
+|-
+|DF ||'''19'''||[[Emil Săndoi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Emerich Jenei]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Carlos Maciel]] ([[Paraguayan Football Association|Paraguay]])
+<br />[[Jassim Mandi]] ([[Bahrain Football Association|Bahrain]])
+|}
+
+===Italy vs Uruguay===
+<section begin=R of 16 6 />{{Football box
+|date={{Start date|1990|6|25|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1990 FIFA World Cup knockout stage#Italy vs Uruguay|2–0}}
+|team2={{fb|URU}}
+|goals1=
+*[[Salvatore Schillaci|Schillaci]] {{goal|65}}
+*[[Aldo Serena|Serena]] {{goal|83}}
+|goals2=
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=73,303
+|referee=[[George Courtney]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/264 |title=Italy vs Uruguay {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=264/index.html |title=1990 FIFA World Cup Italy – Matches – Italy v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217164308/http://www.fifa.com/worldcup/matches/round=323/match=264/index.html |archive-date=17 December 2017}} }}</ref>
+}}<section end=R of 16 6 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita90
+ | pattern_ra = _italy1982-90
+ | pattern_so = _italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _uruguay1990
+ | pattern_b  = _uruguay1990
+ | pattern_ra = _uruguay1990
+ | pattern_sh = _uruguay1990h
+ | pattern_so = _uruguay1990
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Walter Zenga]]
+|-
+|SW ||'''2''' ||[[Franco Baresi]]
+|-
+|DF ||'''3''' ||[[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Riccardo Ferri]]
+|-
+|MF ||'''4''' ||[[Luigi De Agostini]]
+|-
+|MF ||'''10'''||[[Nicola Berti]] || {{yel|36}} || {{suboff|52}}
+|-
+|MF ||'''11'''||[[Fernando De Napoli]] 
+|-
+|MF ||'''13'''||[[Giuseppe Giannini]]
+|-
+|MF ||'''7''' ||[[Paolo Maldini]]
+|-
+|FW ||'''15'''||[[Roberto Baggio]] || || {{suboff|79}}
+|-
+|FW ||'''19'''||[[Salvatore Schillaci]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]] || || {{subon|79}}
+|-
+|MF ||'''9''' ||[[Carlo Ancelotti]] 
+|-
+|GK ||'''12'''||[[Stefano Tacconi]] 
+|-
+|MF ||'''20'''||[[Aldo Serena]] || || {{subon|52}}
+|-
+|FW ||'''21'''||[[Gianluca Vialli]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Azeglio Vicini]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Álvez]] || {{yel|26}}
+|-
+|DF ||'''2''' ||[[Nelson Gutiérrez]] || {{yel|65}}
+|-
+|DF ||'''3''' ||[[Hugo de León]]
+|-
+|DF ||'''6''' ||[[Alfonso Domínguez]]
+|-
+|DF ||'''14'''||[[José Pintos Saldanha]] || {{yel|14}}
+|-
+|MF ||'''20'''||[[Ruben Pereira]]
+|-
+|MF ||'''9''' ||[[Enzo Francescoli]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Santiago Ostolaza]] || || {{suboff|79}}
+|-
+|MF ||'''5''' ||[[José Perdomo]] || {{yel|35}}
+|-
+|FW ||'''19'''||[[Daniel Fonseca]]
+|-
+|FW ||'''18'''||[[Carlos Aguilera (Uruguayan footballer)|Carlos Aguilera]] || || {{suboff|55}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''7''' ||[[Antonio Alzamendi]] || || {{subon|79}}
+|-
+|FW ||'''11'''||[[Rubén Sosa]] || || {{subon|55}}
+|-
+|DF ||'''13'''||[[Daniel Felipe Revelez|Daniel Revelez]]
+|-
+|MF ||'''16'''||[[Pablo Bengoechea]]
+|-
+|GK ||'''22'''||[[Javier Zeoli]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Óscar Tabárez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+<br />[[Zoran Petrović (referee)|Zoran Petrović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|}
+
+===Spain vs Yugoslavia===
+<section begin=R of 16 7 />{{Football box
+|date={{Start date|1990|6|26|df=y}}
+|time=17:00
+|team1={{fb-rt|ESP}}
+|score={{score link|1990 FIFA World Cup knockout stage#Spain vs Yugoslavia|1–2}}
+|aet=yes
+|team2={{fb|YUG}}
+|goals1=
+*[[Julio Salinas|Salinas]] {{goal|84}}
+|goals2=
+*[[Dragan Stojković|Stojković]] {{goal|78||93}}
+|stadium=[[Stadio Marc'Antonio Bentegodi]], [[Verona]]
+|attendance=35,500
+|referee=[[Aron Schmidhuber]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/181 |title=Spain vs Yugoslavia {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=181/index.html |title=1990 FIFA World Cup Italy – Matches – Spain v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213003404/http://www.fifa.com/worldcup/matches/round=323/match=181/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=R of 16 7 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _spain1990h
+ | pattern_b  = _spain1990h
+ | pattern_ra = _spain1990h
+ | pattern_sh = _spain1990h
+ | pattern_so = _spain1990
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 3041FF
+ | socks      = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _yug90a
+ | pattern_b  = _yug90a
+ | pattern_ra = _yug90a
+ | pattern_sh = _yug90h
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = ffffff
+ | socks      = FFFFFF
+ | title      = Yugoslavia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|SW ||'''4''' ||[[Genar Andrinúa]] || || {{suboff|49}}
+|-
+|RB ||'''2''' ||[[Chendo]] || {{yel|110}}
+|-
+|CB ||'''14'''||[[Alberto Górriz]]
+|-
+|LB ||'''5''' ||[[Manuel Sanchís Hontiyuelo|Manuel Sanchís]]
+|-
+|RM ||'''6''' ||[[Rafael Martín Vázquez]]
+|-
+|CM ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]]
+|-
+|CM ||'''15'''||[[Roberto Fernández Bonillo|Roberto]] || {{yel|92}}
+|-
+|LM ||'''11'''||[[Francisco Villarroya]]
+|-
+|RF ||'''9''' ||[[Emilio Butragueño]] ([[Captain (association football)|c]])|| || {{suboff|79}}
+|-
+|LF ||'''19'''||[[Julio Salinas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Manuel Jiménez Jiménez|Manuel Jiménez]] || || {{subon|49}}
+|-
+|FW ||'''7''' ||[[Miguel Pardeza]]
+|-
+|DF ||'''12'''||[[Rafael Alkorta]]
+|-
+|GK ||'''13'''||[[Juan Carlos Ablanedo]]
+|-
+|MF ||'''18'''||[[Rafael Paz]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Suárez Miramontes|Luis Suárez]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tomislav Ivković]]
+|-
+|SW ||'''5''' ||[[Faruk Hadžibegić]]
+|-
+|DF ||'''16'''||[[Refik Šabanadžović]]
+|-
+|DF ||'''3''' ||[[Predrag Spasić]]
+|-
+|MF ||'''10'''||[[Dragan Stojković]]
+|-
+|MF ||'''13'''||[[Srečko Katanec]] || {{yel|7}} || {{suboff|79}}
+|-
+|MF ||'''6''' ||[[Davor Jozić]]
+|-
+|MF ||'''8''' ||[[Safet Sušić]]
+|-
+|MF ||'''7''' ||[[Dragoljub Brnović]]
+|-
+|FW ||'''9''' ||[[Darko Pančev]] || || {{suboff|55}}
+|-
+|FW ||'''11'''||[[Zlatko Vujović]] ([[Captain (association football)|c]])|| {{yel|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Zoran Vulić]] || {{yel|97}} || {{subon|79}}
+|-
+|GK ||'''12'''||[[Fahrudin Omerović]]
+|-
+|MF ||'''15'''||[[Robert Prosinečki]]
+|-
+|MF ||'''17'''||[[Robert Jarni]]
+|-
+|MF ||'''19'''||[[Dejan Savićević]] || || {{subon|55}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ivica Osim]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Alan Snoddy]] ([[Irish Football Association|Northern Ireland]])
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+|}
+
+===England vs Belgium===
+<section begin=R of 16 8 />{{Football box
+|date={{Start date|1990|6|26|df=y}}
+|time=21:00
+|team1={{fb-rt|ENG}}
+|score={{score link|1990 FIFA World Cup knockout stage#England vs Belgium|1–0}}
+|aet=yes
+|team2={{fb|BEL}}
+|goals1=
+*[[David Platt (footballer)|Platt]] {{goal|119}}
+|goals2=
+|stadium=[[Stadio Renato Dall'Ara]], [[Bologna]]
+|attendance=34,520
+|referee=[[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/323/55 |title=England vs Belgium {{!}} Round of 16 {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=323/match=55/index.html |title=1990 FIFA World Cup Italy – Matches – England v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214163049/http://www.fifa.com/worldcup/matches/round=323/match=55/index.html |archive-date=14 December 2017}} }}</ref>
+}}<section end=R of 16 8 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _eng90h
+ | pattern_b  = _eng90h
+ | pattern_ra = _eng90h
+ | pattern_sh = _eng90h
+ | pattern_so = _navytop
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 003060
+ | socks      = ffffff
+ | title      = England
+}}
+|{{Football kit
+ | pattern_la = _belgium1990h
+ | pattern_b  = _belgium1990h
+ | pattern_ra = _belgium1990h
+ | pattern_sh = _belgium1990h
+ | pattern_so = _belgium1990h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]]
+|-
+|SW ||'''14'''||[[Mark Wright (footballer, born 1963)|Mark Wright]]
+|-
+|RB ||'''12'''||[[Paul Parker (footballer)|Paul Parker]]
+|-
+|CB ||'''5''' ||[[Des Walker]]
+|-
+|CB ||'''6''' ||[[Terry Butcher]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Stuart Pearce]]
+|-
+|RM ||'''8''' ||[[Chris Waddle]]
+|-
+|CM ||'''16'''||[[Steve McMahon]] || || {{suboff|71}}
+|-
+|CM ||'''19'''||[[Paul Gascoigne]] || {{yel|85}}
+|-
+|LM ||'''11'''||[[John Barnes]] || || {{suboff|74}}
+|-
+|FW ||'''10'''||[[Gary Lineker]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Peter Beardsley]]
+|-
+|GK ||'''13'''||[[Chris Woods]] 
+|-
+|MF ||'''17'''||[[David Platt (footballer)|David Platt]] || || {{subon|71}}
+|-
+|CM ||'''20'''||[[Trevor Steven]]
+|-
+|FW ||'''21'''||[[Steve Bull]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bobby Robson]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michel Preud'homme]]
+|-
+|RB ||'''2''' ||[[Eric Gerets]]
+|-
+|SW ||'''7''' ||[[Stéphane Demol]]
+|-
+|CB ||'''13'''||[[Georges Grün]]
+|-
+|LB ||'''16'''||[[Michel De Wolf]]
+|-
+|RM ||'''4''' ||[[Lei Clijsters]]
+|-
+|CM ||'''8''' ||[[Franky Van der Elst]]
+|-
+|CM ||'''10'''||[[Enzo Scifo]]
+|-
+|LM ||'''5''' ||[[Bruno Versavel]] || || {{suboff|107}}
+|-
+|FW ||'''9''' ||[[Marc Degryse]] || || {{suboff|64}}
+|-
+|FW ||'''11'''||[[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''3''' ||[[Philippe Albert]]
+|-
+|FW ||'''14'''||[[Nico Claesen]] || || {{subon|64}}
+|-
+|FW ||'''19'''||[[Marc Van Der Linden]] 
+|-
+|GK ||'''20'''||[[Filip de Wilde]]
+|-
+|MF ||'''22'''||[[Patrick Vervoort]] || || {{subon|107}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Guy Thys]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Helmut Kohl (referee)|Helmut Kohl]] ([[Austrian Football Association|Austria]])
+<br />[[Shizuo Takada]] ([[Japan Football Association|Japan]])
+|}
+
+==Quarter-finals==
+
+===Argentina vs Yugoslavia===
+<section begin=QF1 />{{Football box
+|date={{Start date|1990|6|30|df=y}}
+|time=17:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1990 FIFA World Cup knockout stage#Argentina vs Yugoslavia|0–0}}
+|aet=yes
+|team2={{fb|YUG}}
+|goals1=
+|goals2=
+|stadium=[[Stadio Artemio Franchi (Florence)|Stadio Comunale]], [[Florence]]
+|attendance=38,971
+|referee=[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|penalties1=
+*[[José Serrizuela|Serrizuela]] {{pengoal}}
+*[[Jorge Burruchaga|Burruchaga]] {{pengoal}}
+*[[Diego Maradona|Maradona]] {{penmiss}}
+*[[Pedro Troglio|Troglio]] {{penmiss}}
+*[[Gustavo Dezotti|Dezotti]] {{pengoal}}
+|penaltyscore=3–2
+|penalties2=
+*{{penmiss}} [[Dragan Stojković|Stojković]]
+*{{pengoal}} [[Robert Prosinečki|Prosinečki]]
+*{{pengoal}} [[Dejan Savićević|Savićević]]
+*{{penmiss}} [[Dragoljub Brnović|Brnović]]
+*{{penmiss}} [[Faruk Hadžibegić|Hadžibegić]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/751/31 |title=Yugoslavia vs Argentina {{!}} Quarter-final {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=751/match=31/index.html |title=1990 FIFA World Cup Italy – Matches – Yugoslavia v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171113004706/http://www.fifa.com/worldcup/matches/round=751/match=31/index.html |archive-date=13 November 2017}} }}</ref>
+}}<section end=QF1 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1990a
+ | pattern_b  = _argentina1990a
+ | pattern_ra = _argentina1990a
+ | pattern_sh = _adidas_arg1990
+ | pattern_so = _argentina1992
+ | leftarm    = 0000E1
+ | body       = 0000E1
+ | rightarm   = 0000E1
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _yug90a
+ | pattern_b  = _yug90a
+ | pattern_ra = _yug90a
+ | pattern_sh = _yug90h
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = ffffff
+ | socks      = E80113
+ | title      = Yugoslavia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Sergio Goycochea]]
+|-
+|DF ||'''19'''||[[Oscar Ruggeri]]
+|-
+|SW ||'''20'''||[[Juan Simón]] || {{yel|111}} 
+|-
+|DF ||'''18'''||[[José Serrizuela]] || {{yel|21}} 
+|-
+|MF ||'''4''' ||[[José Basualdo]]
+|-
+|MF ||'''14'''||[[Ricardo Giusti]]
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]] || {{yel|41}} || {{suboff|51}}
+|-
+|MF ||'''7''' ||[[Jorge Burruchaga]] || 
+|-
+|MF ||'''6''' ||[[Gabriel Calderón]] || || {{suboff|87}}
+|-
+|FW ||'''8''' ||[[Claudio Caniggia]] 
+|-
+|FW ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''2''' ||[[Sergio Batista]]
+|-
+|FW ||'''9''' ||[[Gustavo Dezotti]] || || {{subon|87}}
+|-
+|DF ||'''13'''||[[Néstor Lorenzo]]
+|-
+|MF ||'''21'''||[[Pedro Troglio]] || {{yel|61}} || {{subon|51}}
+|-
+|GK ||'''22''' ||[[Fabián Cancelarich]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Carlos Bilardo]]
+|}
+|style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tomislav Ivković]]
+|-
+|SW ||'''5''' ||[[Faruk Hadžibegić]]
+|-
+|DF ||'''4''' ||[[Zoran Vulić]] 
+|-
+|DF ||'''16'''||[[Refik Šabanadžović]] || {{sent off|2|24|31}} 
+|-
+|DF ||'''3''' ||[[Predrag Spasić]]
+|-
+|MF ||'''15'''||[[Robert Prosinečki]]
+|-
+|MF ||'''10'''||[[Dragan Stojković]]
+|-
+|MF ||'''8''' ||[[Safet Sušić]] || || {{suboff|61}}
+|-
+|MF ||'''6''' ||[[Davor Jozić]]
+|-
+|MF ||'''7''' ||[[Dragoljub Brnović]]
+|-
+|FW ||'''11'''||[[Zlatko Vujović]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Darko Pančev]]
+|-
+|GK ||'''12'''||[[Fahrudin Omerović]]
+|-
+|MF ||'''17'''||[[Robert Jarni]]
+|-
+|DF ||'''18'''||[[Mirsad Baljić]]
+|-
+|MF ||'''19'''||[[Dejan Savićević]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ivica Osim]]
+|}
+|}
+{| style="width:50%; font-size:90%;"
+|
+'''Assistant referees:'''
+<br />[[Neji Jouini]] ([[Tunisian Football Federation|Tunisia]])
+<br />Mohamed Hansal ([[Algerian Football Federation|Algeria]])
+|}
+
+===Republic of Ireland vs Italy===
+<section begin=QF2 />{{Football box
+|date={{Start date|1990|6|30|df=y}}
+|time=21:00
+|team1={{fb-rt|IRL}}
+|score={{score link|1990 FIFA World Cup knockout stage#Republic of Ireland vs Italy|0–1}}
+|team2={{fb|ITA|1946}}
+|goals1=
+|goals2=
+*[[Salvatore Schillaci|Schillaci]] {{goal|38}}
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=73,303
+|referee=[[Carlos Silva Valente]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/751/243 |title=Italy vs Republic of Ireland {{!}} Quarter-final {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=751/match=243/index.html |title=1990 FIFA World Cup Italy – Matches – Italy v Republic of Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231143146/http://www.fifa.com/worldcup/matches/round=751/match=243/index.html |archive-date=31 December 2017}} }}</ref>
+}}<section end=QF2 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ireland90a
+ | pattern_b  = _ireland90a
+ | pattern_ra = _ireland90a
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_green
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 076F24
+ | socks      = FFFFFF
+ | title      = {{nowrap|Republic of Ireland}}
+}}
+ |{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita90
+ | pattern_ra = _italy1982-90
+ | pattern_so = _italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''2''' ||[[Chris Morris (footballer)|Chris Morris]]
+|-
+|CB ||'''4''' ||[[Mick McCarthy]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Kevin Moran (footballer)|Kevin Moran]] || {{yel|43}}
+|-
+|LB ||'''3''' ||[[Steve Staunton]]
+|-
+|RM ||'''8''' ||[[Ray Houghton]]
+|-
+|CM ||'''7''' ||[[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CM ||'''13'''||[[Andy Townsend]]
+|-
+|LM ||'''11'''||[[Kevin Sheedy (Irish footballer)|Kevin Sheedy]]
+|-
+|CF ||'''9''' ||[[John Aldridge]] || || {{suboff|78}}
+|-
+|CF ||'''17'''||[[Niall Quinn]] || || {{suboff|53}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6'''||[[Ronnie Whelan]]
+|-
+|FW ||'''10'''||[[Tony Cascarino]] || || {{subon|53}}
+|-
+|DF ||'''12'''||[[David O'Leary]]
+|-
+|MF ||'''16'''||[[John Sheridan (footballer)|John Sheridan]] || || {{subon|78}}
+|-
+|GK ||'''22'''||[[Gerry Peyton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Walter Zenga]]
+|-
+|SW ||'''2''' ||[[Franco Baresi]]
+|-
+|DF ||'''3''' ||[[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Riccardo Ferri]]
+|-
+|MF ||'''17'''||[[Roberto Donadoni]]
+|-
+|MF ||'''11'''||[[Fernando De Napoli]] 
+|-
+|MF ||'''13'''||[[Giuseppe Giannini]] || || {{suboff|62}}
+|-
+|MF ||'''4''' ||[[Luigi De Agostini]] || {{yel|36}}
+|-
+|MF ||'''7''' ||[[Paolo Maldini]]
+|-
+|FW ||'''15'''||[[Roberto Baggio]] || || {{suboff|70}}
+|-
+|FW ||'''19'''||[[Salvatore Schillaci]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]]
+|-
+|MF ||'''9''' ||[[Carlo Ancelotti]] || || {{subon|62}}
+|-
+|GK ||'''12'''||[[Stefano Tacconi]] 
+|-
+|MF ||'''20'''||[[Aldo Serena]] || || {{subon|70}}
+|-
+|FW ||'''21'''||[[Gianluca Vialli]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Azeglio Vicini]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Armando Pérez Hoyos]] ([[Colombian Football Federation|Colombia]])
+<br />[[Berny Ulloa Morera]] ([[Costa Rican Football Federation|Costa Rica]])
+|}
+
+===Czechoslovakia vs West Germany===
+<section begin=QF3 />{{Football box
+|date={{Start date|1990|7|1|df=y}}
+|time=17:00
+|team1={{fb-rt|TCH}}
+|score={{score link|1990 FIFA World Cup knockout stage#Czechoslovakia vs West Germany|0–1}}
+|team2={{fb|FRG}}
+|goals1=
+|goals2=
+*[[Lothar Matthäus|Matthäus]] {{goal|25|pen.}}
+|stadium=[[San Siro]], [[Milan]]
+|attendance=73,347
+|referee=[[Helmut Kohl (referee)|Helmut Kohl]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/751/197 |title=Germany FR vs Czechoslovakia {{!}} Quarter-final {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=751/match=197/index.html |title=1990 FIFA World Cup Italy – Matches – Germany FR v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212140800/http://www.fifa.com/worldcup/matches/round=751/match=197/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=QF3 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes
+ | pattern_b  = _tch90h
+ | pattern_ra = _shoulder_stripes_white_stripes
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = DB000D
+ | body       = DB000D
+ | rightarm   = DB000D
+ | shorts     = ffffff
+ | socks      = 29459B
+ | title      = Czechoslovakia
+}}
+|{{Football kit
+ | pattern_la = _ger90h
+ | pattern_b  = _westgermany1990
+ | pattern_ra = _ger90h
+ | pattern_sh = _ger90h
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jan Stejskal]]
+|-
+|DF ||'''5''' ||[[Ján Kocian]]
+|-
+|DF ||'''3''' ||[[Miroslav Kadlec]]
+|-
+|DF ||'''9''' ||[[Luboš Kubík]] || || {{suboff|79}}
+|-
+|DF ||'''6''' ||[[František Straka]] || {{yel|38}}
+|-
+|MF ||'''4''' ||[[Ivan Hašek]] ([[Captain (association football)|c]])
+|-
+|MF ||'''11'''||[[Ľubomír Moravčík]] || {{sent off|2|11|70}} 
+|-
+|MF ||'''8''' ||[[Jozef Chovanec]]
+|-
+|MF ||'''7''' ||[[Michal Bílek]] || {{yel|14}} || {{suboff|67}}
+|-
+|FW ||'''10'''||[[Tomáš Skuhravý]]
+|-
+|FW ||'''17'''||[[Ivo Knoflíček]] || {{yel|88}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]]
+|-
+|MF ||'''18'''||[[Milan Luhový]]
+|-
+|FW ||'''19'''||[[Stanislav Griga]] || || {{subon|79}}
+|-
+|MF ||'''20'''||[[Václav Němeček]] || || {{subon|67}}
+|-
+|GK ||'''21'''||[[Luděk Mikloško]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Vengloš]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Bodo Illgner]]
+|-
+|SW ||'''5''' ||[[Klaus Augenthaler]]
+|-
+|DF ||'''3''' ||[[Andreas Brehme]]
+|-
+|DF ||'''6''' ||[[Guido Buchwald]]
+|-
+|DF ||'''4''' ||[[Jürgen Kohler]]
+|-
+|DF ||'''14'''||[[Thomas Berthold]]
+|-
+|MF ||'''7''' ||[[Pierre Littbarski]]
+|-
+|MF ||'''10'''||[[Lothar Matthäus]] ([[Captain (association football)|c]])
+|-
+|MF ||'''15'''||[[Uwe Bein]] || || {{suboff|82}}
+|-
+|FW ||'''13'''||[[Karl-Heinz Riedle]]
+|-
+|FW ||'''18'''||[[Jürgen Klinsmann]] || {{yel|28}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Stefan Reuter]]
+|-
+|FW ||'''11'''||[[Frank Mill]]
+|-
+|GK ||'''12'''||[[Raimond Aumann]]
+|-
+|MF ||'''17'''||[[Andreas Möller]] || || {{subon|82}}
+|-
+|MF ||'''20'''||[[Olaf Thon]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Franz Beckenbauer]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+|}
+
+===Cameroon vs England===
+Apart from anything else, it was the only quarter-final to produce more than one goal. Despite Cameroon's heroics earlier in the tournament, [[David Platt (footballer)|David Platt]] put England ahead in the 25th minute. At half-time, Cameroon brought Milla on, and the game was turned on its head in five second-half minutes. First Cameroon were awarded a penalty, from which [[Emmanuel Kunde]] scored the equaliser. Then, in the 65th minute, [[Eugene Ekeke]] put Cameroon ahead. The African team came within eight minutes of reaching the semi-finals, but then they conceded a penalty, which Gary Lineker gratefully converted. Midway through extra time, England were awarded another penalty, which Lineker again scored from the spot. England were through to the semi-finals for the first time in 24 years.
+
+Yet England had grossly underestimated Cameroon's threat, despite the Indomitable Lions defeating then World Champions [[Argentina national football team|Argentina]] in the tournament's opening game and easily seeing off a highly fancied [[Colombia national football team|Colombia]] in the Round of 16. Howard Wilkinson was observing Cameroon's progress for England and informed the players that this quarter-final match represented "A practical [[Bye (sports)|bye]] to the semi-finals". [[Chris Waddle]], emerging afterwards, was reported to have told Wilkinson: "Some fucking bye that". England would not face African opposition in the knockout stage of a World Cup again until [[2022 FIFA World Cup knockout stage#England vs Senegal|2022's Round of 16 encounter with Senegal]].<ref>Brewin, John. [https://www.theguardian.com/football/2022/dec/03/how-england-pulled-it-out-of-the-fire-against-millas-cameroon-at-italia-90 "How England 'pulled it out of the fire' against Milla's Cameroon at Italia 90"]. ''The Observer''. 3 December 2022.</ref>
+
+<section begin=QF4 />{{Football box
+|date={{Start date|1990|7|1|df=y}}
+|time=21:00
+|team1={{fb-rt|CMR}}
+|score={{score link|1990 FIFA World Cup knockout stage#Cameroon vs England|2–3}}
+|aet=yes
+|team2={{fb|ENG}}
+|goals1=
+*[[Emmanuel Kundé|Kundé]] {{goal|61|pen.}}
+*[[Eugène Ekéké|Ekéké]] {{goal|65}}
+|goals2=
+*[[David Platt (footballer)|Platt]] {{goal|25}}
+*[[Gary Lineker|Lineker]] {{goal|83|pen.|105|pen.}}
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=55,205
+|referee=[[Edgardo Codesal]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/751/103 |title=England vs Cameroon {{!}} Quarter-final {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=751/match=103/index.html |title=1990 FIFA World Cup Italy – Matches – England v Cameroon |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212003343/http://www.fifa.com/worldcup/matches/round=751/match=103/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=QF4 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _cameroon1990_home 
+ | pattern_b  = _cameroon1990_home
+ | pattern_ra = _cameroon1990_home
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_green
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = FFF01C
+ | title      = Cameroon
+}}
+|{{Football kit
+ | pattern_la = _eng90h
+ | pattern_b  = _eng90h
+ | pattern_ra = _eng90h
+ | pattern_sh = _eng90h
+ | pattern_so = _navytop
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 003060
+ | socks      = ffffff
+ | title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Thomas N'Kono]] || {{yel|104}}
+|-
+|SW ||'''6''' ||[[Emmanuel Kundé]]
+|-
+|DF ||'''14'''||[[Stephen Tataw]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Benjamin Massing]] || {{yel|28}}
+|-
+|DF ||'''5''' ||[[Bertin Ebwellé]]
+|-
+|MF ||'''15'''||[[Thomas Libiih]]
+|-
+|MF ||'''21'''||[[Emmanuel Maboang]] || || {{suboff|46}}
+|-
+|MF ||'''13'''||[[Jean-Claude Pagal]]
+|-
+|MF ||'''10'''||[[Louis-Paul Mfédé]] || || {{suboff|62}}
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] 
+|-
+|FW ||'''20'''||[[Cyril Makanaky]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Roger Milla]] || {{yel|120}} || {{subon|46}}
+|-
+|FW ||'''11'''||[[Eugène Ekéké]] || || {{subon|62}}
+|-
+|DF ||'''12'''||[[Alphonse Yombi]]
+|-
+|MF ||'''19'''||[[Roger Feutmba]] 
+|-
+|GK ||'''22'''||[[Jacques Songo'o]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URS}} [[Valery Nepomnyashchy]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]]
+|-
+|SW ||'''14'''||[[Mark Wright (footballer, born 1963)|Mark Wright]]
+|-
+|RB ||'''12'''||[[Paul Parker (footballer)|Paul Parker]]
+|-
+|CB ||'''5''' ||[[Des Walker]]
+|-
+|CB ||'''6''' ||[[Terry Butcher]] ([[Captain (association football)|c]])|| || {{suboff|73}}
+|-
+|LB ||'''3''' ||[[Stuart Pearce]] || {{yel|70}}
+|-
+|RW ||'''8''' ||[[Chris Waddle]]
+|-
+|CM ||'''17'''||[[David Platt (footballer)|David Platt]]
+|-
+|CM ||'''19'''||[[Paul Gascoigne]]
+|-
+|LW ||'''11'''||[[John Barnes]] || || {{suboff|46}}
+|-
+|FW ||'''10'''||[[Gary Lineker]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Peter Beardsley]] || || {{subon|46}}
+|-
+|GK ||'''13'''||[[Chris Woods]] 
+|-
+|MF ||'''16'''||[[Steve McMahon]] 
+|-
+|MF ||'''20'''||[[Trevor Steven]] || || {{subon|73}}
+|-
+|FW ||'''21'''||[[Steve Bull]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bobby Robson]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Vincent Mauro]] ([[United States Soccer Federation|United States]])
+<br />[[Jassim Mandi]] ([[Bahrain Football Association|Bahrain]])
+|}
+
+==Semi-finals==
+
+===Argentina vs Italy===
+<section begin=SF1 />{{Football box
+|date={{Start date|1990|7|3|df=y}}
+|time=20:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1990 FIFA World Cup knockout stage#Argentina vs Italy|1–1}}
+|aet=yes
+|team2={{fb|ITA|1936}}
+|goals1=
+*[[Claudio Caniggia|Caniggia]] {{goal|67}}
+|goals2=
+*[[Salvatore Schillaci|Schillaci]] {{goal|17}}
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=59,978
+|referee=[[Michel Vautrot]] ([[French Football Federation|France]])
+|penalties1=
+*[[José Serrizuela|Serrizuela]] {{pengoal}}
+*[[Jorge Burruchaga|Burruchaga]] {{pengoal}}
+*[[Julio Olarticoechea|Olarticoechea]] {{pengoal}}
+*[[Diego Maradona|Maradona]] {{pengoal}}
+|penaltyscore=4–3
+|penalties2=
+*{{pengoal}} [[Franco Baresi|Baresi]]
+*{{pengoal}} [[Roberto Baggio|Baggio]]
+*{{pengoal}} [[Luigi De Agostini|De Agostini]]
+*{{penmiss}} [[Roberto Donadoni|Donadoni]]
+*{{penmiss}} [[Aldo Serena|Serena]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/3464/28 |title=Italy vs Argentina {{!}} Semi-final {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3464/match=28/index.html |title=1990 FIFA World Cup Italy – Matches – Italy v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214060206/http://www.fifa.com/worldcup/matches/round=3464/match=28/index.html |archive-date=14 December 2017}} }}</ref>
+}}<section end=SF1 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1992
+ | pattern_b  = _argentina1992
+ | pattern_ra = _argentina1992
+ | pattern_sh = _adidas_arg1990
+ | pattern_so = _argentina1992
+ | leftarm    = FFFFFF
+ | body       = 33CCFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita90
+ | pattern_ra = _italy1982-90
+ | pattern_so = _italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Sergio Goycochea]]
+|-
+|DF ||'''19'''||[[Oscar Ruggeri]] || {{yel|71}} 
+|-
+|SW ||'''20'''||[[Juan Simón]]
+|-
+|DF ||'''18'''||[[José Serrizuela]]
+|-
+|MF ||'''4''' ||[[José Basualdo]] || || {{suboff|99}}
+|-
+|MF ||'''14'''||[[Ricardo Giusti]] || {{sent off|2|30|103}} 
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]] || {{yel|76}} 
+|-
+|MF ||'''7''' ||[[Jorge Burruchaga]]
+|-
+|MF ||'''6''' ||[[Gabriel Calderón]] || || {{suboff|46}}
+|-
+|FW ||'''8''' ||[[Claudio Caniggia]] || {{yel|82}} 
+|-
+|FW ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''2''' ||[[Sergio Batista]] || {{yel|118}} || {{subon|99}}
+|-
+|FW ||'''9''' ||[[Gustavo Dezotti]] 
+|-
+|DF ||'''15'''||[[Pedro Monzón]]
+|-
+|MF ||'''21'''||[[Pedro Troglio]] || || {{subon|46}}
+|-
+|GK ||'''22'''||[[Fabián Cancelarich]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Bilardo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Walter Zenga]]
+|-
+|SW ||'''2''' ||[[Franco Baresi]]
+|-
+|DF ||'''3''' ||[[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Riccardo Ferri]]
+|-
+|MF ||'''17'''||[[Roberto Donadoni]]
+|-
+|MF ||'''11'''||[[Fernando De Napoli]] 
+|-
+|MF ||'''13'''||[[Giuseppe Giannini]] || {{yel|22}} || {{suboff|73}}
+|-
+|MF ||'''4''' ||[[Luigi De Agostini]]
+|-
+|MF ||'''7''' ||[[Paolo Maldini]]
+|-
+|FW ||'''21'''||[[Gianluca Vialli]] || || {{suboff|70}}
+|-
+|FW ||'''19'''||[[Salvatore Schillaci]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]] 
+|-
+|MF ||'''9''' ||[[Carlo Ancelotti]]
+|-
+|GK ||'''12'''||[[Stefano Tacconi]]
+|-
+|FW ||'''15'''||[[Roberto Baggio]] || || {{subon|73}}
+|-
+|MF ||'''20'''||[[Aldo Serena]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Azeglio Vicini]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+<br />[[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+|}
+
+===West Germany vs England===
+{{see also|England–Germany football rivalry}}
+<section begin=SF2 />{{Football box
+|date={{Start date|1990|7|7|df=y}}
+|time=17:30
+|team1={{fb-rt|FRG}}
+|score={{score link|1990 FIFA World Cup knockout stage#West Germany vs England|1-3}}
+|aet=yes
+|team2={{fb|ENG}}
+|goals1=
+*[[Brehme]] {{goal|60}}
+|goals2=
+*[[Gary Lineker|Lineker]] {{goal|80}}
+*[[Gary Lineker|Lineker]] {{goal|80}}
+|stadium=[[Stadio delle Alpi]], [[Turin]]
+|attendance=62,628
+|referee=[[José Roberto Wright]] ([[Brazilian Football Confederation|Brazil]])
+|penalties1=
+*[[Andreas Brehme|Brehme]] {{pengoal}}
+*[[Lothar Matthäus|Matthäus]] {{pengoal}}
+*[[Karl-Heinz Riedle|Riedle]] {{pengoal}}
+*[[Olaf Thon|Thon]] {{pengoal}}
+|penaltyscore=4–3
+|penalties2=
+*{{pengoal}} [[Gary Lineker|Lineker]]
+*{{pengoal}} [[Peter Beardsley|Beardsley]]
+*{{pengoal}} [[David Platt (footballer)|Platt]]
+*{{penmiss}} [[Stuart Pearce|Pearce]]
+*{{penmiss}} [[Chris Waddle|Waddle]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/3464/159 |title=Germany FR vs England {{!}} Semi-final {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3464/match=159/index.html |title=1990 FIFA World Cup Italy – Matches – Germany FR v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213041756/http://www.fifa.com/worldcup/matches/round=3464/match=159/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=SF2 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ger88h
+ | pattern_b  = _ger90h
+ | pattern_ra = _ger88h
+ | pattern_sh = 
+ | pattern_so = _3_stripes_white
+ | leftarm    = 008060
+ | body       = 008060
+ | rightarm   = 008060
+ | shorts     = 
+ | socks      = 008060
+ | title      = West Germany
+}}
+|{{Football kit
+ | pattern_la = _eng90a 
+ | pattern_b  = _eng90a 
+ | pattern_ra = _eng90a
+ | pattern_sh = _eng90h 
+ | pattern_so = _navytop
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 003060
+ | socks      = ffffff
+ | title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Bodo Illgner]]
+|-
+|SW ||'''5''' ||[[Klaus Augenthaler]]
+|-
+|RWB||'''14'''||[[Thomas Berthold]]
+|-
+|DF ||'''6''' ||[[Guido Buchwald]]
+|-
+|DF ||'''4''' ||[[Jürgen Kohler]]
+|-
+|LWB||'''3''' ||[[Andreas Brehme]] || {{yel|109}} 
+|-
+|MF ||'''8''' ||[[Thomas Häßler]] || || {{suboff|66}}
+|-
+|MF ||'''10'''||[[Lothar Matthäus]] ([[Captain (association football)|c]])
+|-
+|MF ||'''20'''||[[Olaf Thon]]
+|-
+|FW ||'''9''' ||[[Rudi Völler]] || || {{suboff|38}}
+|-
+|FW ||'''18'''||[[Jürgen Klinsmann]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[Stefan Reuter]] || || {{subon|66}}
+|-
+|GK ||'''12'''||[[Raimond Aumann]]
+|-
+|FW ||'''13'''||[[Karl-Heinz Riedle]] || || {{subon|38}}
+|-
+|DF ||'''16'''||[[Paul Steiner]] 
+|-
+|MF ||'''17'''||[[Andreas Möller]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Franz Beckenbauer]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]]
+|-
+|SW ||'''14'''||[[Mark Wright (footballer, born 1963)|Mark Wright]]
+|-
+|RB ||'''12'''||[[Paul Parker (footballer)|Paul Parker]] || {{yel|66}}
+|-
+|CB ||'''5''' ||[[Des Walker]]
+|-
+|CB ||'''6''' ||[[Terry Butcher]] ([[Captain (association football)|c]])|| || {{suboff|70}}
+|-
+|LB ||'''3''' ||[[Stuart Pearce]]
+|-
+|RM ||'''8''' ||[[Chris Waddle]]
+|-
+|CM ||'''17'''||[[David Platt (footballer)|David Platt]]
+|-
+|CM ||'''19'''||[[Paul Gascoigne]] || {{yel|99}}
+|-
+|LM ||'''9''' ||[[Peter Beardsley]]
+|-
+|FW ||'''10'''||[[Gary Lineker]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||[[Chris Woods]] 
+|-
+|DF ||'''15'''||[[Tony Dorigo]] 
+|-
+|MF ||'''16'''||[[Steve McMahon]] 
+|-
+|MF ||'''20'''||[[Trevor Steven]] || || {{subon|70}}
+|-
+|FW ||'''21'''||[[Steve Bull]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bobby Robson]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Joël Quiniou]] ([[French Football Federation|France]])
+<br />[[Armando Pérez Hoyos]] ([[Colombian Football Federation|Colombia]])
+|}
+
+==Match for third place==
+<section begin=Third />{{Football box
+|date={{Start date|1990|7|7|df=y}}
+|time=20:00
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1990 FIFA World Cup knockout stage#Match for third place|2–1}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Roberto Baggio|Baggio]] {{goal|71}}
+*[[Salvatore Schillaci|Schillaci]] {{goal|86|pen.}}
+|goals2=
+*[[David Platt (footballer)|Platt]] {{goal|81}}
+|stadium=[[Stadio San Nicola]], [[Bari]]
+|attendance=51,426
+|referee=[[Joël Quiniou]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/3463/162 |title=Italy vs England {{!}} Match for third place {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3463/match=162/index.html |title=1990 FIFA World Cup Italy – Matches – Italy v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217173241/http://www.fifa.com/worldcup/matches/round=3463/match=162/index.html |archive-date=17 December 2017}} }}</ref>
+}}<section end=Third />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita90
+ | pattern_ra = _italy1982-90
+ | pattern_so = _italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _eng90h
+ | pattern_b  = _eng90h
+ | pattern_ra = _eng90h
+ | pattern_sh = _eng90h
+ | pattern_so = _navytop
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 003060
+ | socks      = ffffff
+ | title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Walter Zenga]]
+|-
+|SW ||'''2''' ||[[Franco Baresi]]
+|-
+|DF ||'''3''' ||[[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Ciro Ferrara]]
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]] 
+|-
+|DF ||'''7''' ||[[Paolo Maldini]]
+|-
+|MF ||'''13'''||[[Giuseppe Giannini]] || || {{suboff|90}}
+|-
+|MF ||'''9''' ||[[Carlo Ancelotti]]
+|-
+|MF ||'''4''' ||[[Luigi De Agostini]] || || {{suboff|67}}
+|-
+|FW ||'''15'''||[[Roberto Baggio]] 
+|-
+|FW ||'''19'''||[[Salvatore Schillaci]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[Riccardo Ferri]] || || {{subon|90}} 
+|-
+|MF ||'''10'''||[[Nicola Berti]] || || {{subon|67}}
+|-
+|GK ||'''12'''||[[Stefano Tacconi]]
+|-
+|MF ||'''20'''||[[Aldo Serena]] 
+|-
+|FW ||'''21'''||[[Gianluca Vialli]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Azeglio Vicini]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]] ([[Captain (association football)|c]])
+|-
+|SW ||'''14'''||[[Mark Wright (footballer, born 1963)|Mark Wright]] || || {{suboff|71}}
+|-
+|RB ||'''2''' ||[[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|CB ||'''12'''||[[Paul Parker (footballer)|Paul Parker]]
+|-
+|CB ||'''5''' ||[[Des Walker]]
+|-
+|LB ||'''15'''||[[Tony Dorigo]] 
+|-
+|CM ||'''20'''||[[Trevor Steven]]
+|-
+|CM ||'''16'''||[[Steve McMahon]] || || {{suboff|71}}
+|-
+|CM ||'''17'''||[[David Platt (footballer)|David Platt]]
+|-
+|FW ||'''9''' ||[[Peter Beardsley]]
+|-
+|FW ||'''10'''||[[Gary Lineker]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''3''' ||[[Stuart Pearce]]
+|-
+|MF ||'''4''' ||[[Neil Webb]] || || {{subon|71}}
+|-
+|MF ||'''8''' ||[[Chris Waddle]] || || {{subon|71}}
+|-
+|GK ||'''13'''||[[Chris Woods]] 
+|-
+|FW ||'''21'''||[[Steve Bull]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bobby Robson]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Mohamed Hansal]] ([[Algerian Football Federation|Algeria]])
+<br />[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|}
+
+==Final==
+{{main|1990 FIFA World Cup final}}
+{{#lst:1990 FIFA World Cup final|Final}}
+{{#lst:1990 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://web.archive.org/web/20131220185801/http://www.fifa.com/tournaments/archive/worldcup/italy1990/index.html 1990 FIFA World Cup at FIFA.com]
+
+{{1990 FIFA World Cup}}
+
+{{DEFAULTSORT:1990 Fifa World Cup Knockout Stage}}
+[[Category:1990 FIFA World Cup|Knockout Stage]]
+[[Category:FIFA World Cup knockout stages|1990]]
+[[Category:Argentina at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Brazil at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Spain at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Italy at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Colombia at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Cameroon at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Republic of Ireland at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:England at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Netherlands at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Uruguay at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Yugoslavia at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Costa Rica at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Belgium at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:West Germany at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Czechoslovakia at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Romania at the 1990 FIFA World Cup|Knockout stage]]
+[[Category:Argentina–Brazil football rivalry]]
+[[Category:Football competitions in Rome]]
+[[Category:Football competitions in Florence]]
+[[Category:20th century in Florence]]
+[[Category:1990s in Rome]]
+[[Category:Football competitions in Milan]]
+[[Category:1990s in Milan]]
+[[Category:20th century in Apulia]]
+[[Category:Sport in Bari]]
+[[Category:Football competitions in Turin]]
+[[Category:Football in Genoa]]
+[[Category:Sports competitions in Genoa]]
+[[Category:20th century in Genoa]]
+[[Category:1990s in Turin]]
+[[Category:Sport in Bologna]]
+[[Category:20th century in Bologna]]
+[[Category:Sport in Verona]]
+[[Category:20th century in Veneto]]
+[[Category:Football in Naples]]
+[[Category:Sports competitions in Naples]]
+[[Category:20th century in Naples]]

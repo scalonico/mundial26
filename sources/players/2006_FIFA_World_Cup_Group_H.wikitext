@@ -1,0 +1,936 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Play in Group H of the [[2006 FIFA World Cup]] began on 14 June and completed on 23 June 2006. [[Spain national football team|Spain]] won the group and advanced to the [[2006 FIFA World Cup knockout stage#Round of 16|round of 16]], along with [[Ukraine national football team|Ukraine]]. [[Tunisia national football team|Tunisia]] and [[Saudi Arabia national football team|Saudi Arabia]] failed to advance.<ref>{{cite web |last=Saaid |first=Hamdan |url=https://www.rsssf.org/tables/2006full.html |title=World Cup 2006 – Match Details |publisher=[[RSSSF]] |date=7 February 2007 |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/9741?date=2006-06-23&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=ESP
+|team2=UKR
+|team3=TUN
+|team4=KSA
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2006 FIFA World Cup#Ranking criteria|Tie-breaking criteria]]
+
+|win_ESP=3 |draw_ESP=0 |loss_ESP=0 |gf_ESP=8 |ga_ESP=1
+|win_UKR=2 |draw_UKR=0 |loss_UKR=1 |gf_UKR=5 |ga_UKR=4
+|win_TUN=0 |draw_TUN=1 |loss_TUN=2 |gf_TUN=3 |ga_TUN=6
+|win_KSA=0 |draw_KSA=1 |loss_KSA=2 |gf_KSA=2 |ga_KSA=7
+
+|name_ESP={{fb|ESP}}
+|name_UKR={{fb|UKR|1992}}
+|name_TUN={{fb|TUN}}
+|name_KSA={{fb|KSA}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2006 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Spain advanced to play France (runners-up of [[2006 FIFA World Cup Group G|Group G]]) in the [[2006 FIFA World Cup knockout stage#Spain vs France|round of 16]].
+*Ukraine advanced to play Switzerland (winners of [[2006 FIFA World Cup Group G|Group G]]) in the [[2006 FIFA World Cup knockout stage#Switzerland vs Ukraine|round of 16]].
+
+==Matches==
+''All times local ([[Central European Summer Time|CEST/UTC+2]])''
+
+===Spain vs Ukraine===
+<onlyinclude>{{#invoke:Football box|main|section=H1
+|date={{Start date|2006|6|14|df=y}}
+|time=15:00
+|team1={{fb-rt|ESP}}
+|score={{score link|2006 FIFA World Cup Group H#Spain vs Ukraine|4–0}}
+|team2={{fb|UKR|1992}}
+|goals1=
+*[[Xabi Alonso|Alonso]] {{goal|13}}
+*[[David Villa|Villa]] {{goal|17||48|pen.}}
+*[[Fernando Torres|Torres]] {{goal|81}}
+|goals2=
+|stadium=[[Red Bull Arena (Leipzig)|Zentralstadion]], [[Leipzig]]
+|attendance=43,000
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410015 |title=Spain vs Ukraine {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410015/index.html |title=2006 FIFA World Cup Germany – Matches – Spain v Ukraine |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218051737/http://www.fifa.com/worldcup/matches/round=97410100/match=97410015/index.html |archive-date=18 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/15_0614_lei_esp-ukr_fulltime__1150296995.pdf |title=Match Report – Group H – Spain v Ukraine |publisher=[[FIFA]] |date=14 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053948/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/15_0614_lei_esp-ukr_fulltime__1150296995.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _esp06h2
+| pattern_b             = _esp06h2
+| pattern_ra            = _esp06h2
+| pattern_sh            = _esp06h2
+| pattern_so            = _esp06h2l
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = 0000D7
+| socks                 = 0000D7
+| title                 = Spain
+}}
+|{{Football kit
+ | pattern_la = _ukr06h
+ | pattern_b  = _ukr06h
+ | pattern_ra = _ukr06h
+ | pattern_sh = _ukr06h
+ | leftarm    = F8E052
+ | body       = F8E052
+ | rightarm   = F8E052
+ | shorts     = F8E052
+ | socks      = F8E052
+ | title      = Ukraine
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''22'''||[[Pablo Ibáñez]]
+|-
+|CB ||'''5''' ||[[Carles Puyol]]
+|-
+|LB ||'''3''' ||[[Mariano Pernía]]
+|-
+|RM ||'''16'''||[[Marcos Senna]]
+|-
+|CM ||'''14'''||[[Xabi Alonso]] || || {{suboff|55}}
+|-
+|LM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|AM ||'''11'''||[[Luis García (footballer, born 1978)|Luis García]] || || {{suboff|77}}
+|-
+|CF ||'''21'''||[[David Villa]] || || {{suboff|55}}
+|-
+|CF ||'''9''' ||[[Fernando Torres]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[David Albelda]] || || {{subon|55}}
+|-
+|FW ||'''7''' ||[[Raúl (footballer)|Raúl]] || || {{subon|55}}
+|-
+|MF ||'''18'''||[[Cesc Fàbregas]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Aragonés]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oleksandr Shovkovskyi]]
+|-
+|RB ||'''5''' ||[[Volodymyr Yezerskiy]] || {{yel|52}}
+|-
+|CB ||'''17'''||[[Vladyslav Vashchuk]] || {{sent off|0|47}}
+|-
+|CB ||'''6''' ||[[Andriy Rusol]] || {{yel|17}}
+|-
+|LB ||'''2''' ||[[Andriy Nesmachnyi]]
+|-
+|RM ||'''9''' ||[[Oleh Husyev]] || || {{suboff|46}}
+|-
+|CM ||'''4''' ||[[Anatoliy Tymoshchuk]]
+|-
+|CM ||'''14'''||[[Andriy Husin]] || || {{suboff|46}}
+|-
+|LM ||'''21'''||[[Ruslan Rotan]] || || {{suboff|63}}
+|-
+|SS ||'''10'''||[[Andriy Voronin]]
+|-
+|CF ||'''7''' ||[[Andriy Shevchenko]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Oleh Shelayev]] || || {{subon|46}}
+|-
+|FW ||'''16'''||[[Andriy Vorobey]] || || {{subon|46}}
+|-
+|FW ||'''11'''||[[Serhii Rebrov]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Oleg Blokhin]]
+|}
+|}
+{{wikinews|Spain beat Ukraine 4-0 in Group H}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Xavi (footballer, born 1980)|Xavi]] (Spain)
+
+'''Assistant referees:'''
+<br />Francesco Buragina ([[Swiss Football Association|Switzerland]])
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+<br />'''Fourth official:'''
+<br />[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+<br />'''Fifth official:'''
+<br />Cristiano Copelli ([[Italian Football Federation|Italy]])
+|}
+
+===Tunisia vs Saudi Arabia===
+<onlyinclude>{{#invoke:Football box|main|section=H2
+|date={{Start date|2006|6|14|df=y}}
+|time=18:00
+|team1={{fb-rt|TUN}}
+|score={{score link|2006 FIFA World Cup Group H#Tunisia vs Saudi Arabia|2–2}}
+|team2={{fb|KSA}}
+|goals1=
+*[[Ziad Jaziri|Jaziri]] {{goal|23}}
+*[[Radhi Jaïdi|Jaïdi]] {{goal|90+2}}
+|goals2=
+*[[Yasser Al Qahtani|Al-Qahtani]] {{goal|57}}
+*[[Sami Al Jaber|Al-Jaber]] {{goal|84}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=66,000
+|referee=[[Mark Shield]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410016 |title=Tunisia vs Saudi Arabia {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410016/index.html |title=2006 FIFA World Cup Germany – Matches – Tunisia v Saudi Arabia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228230527/http://www.fifa.com/worldcup/matches/round=97410100/match=97410016/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/16_0614_muc_tun-ksa_fulltime__1150308235.pdf |title=Match Report – Group H – Tunisia v Saudi Arabia |publisher=[[FIFA]] |date=14 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054021/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/16_0614_muc_tun-ksa_fulltime__1150308235.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _sui06a2
+| pattern_b             = _tun06h2
+| pattern_ra            = _sui06a2
+| pattern_sh            = _sui06h2
+| pattern_so            = _puma_2006_on_white
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = FFFFFF
+| socks                 = FF0000
+| title                 = Tunisia
+}}
+|{{Football kit
+| pattern_la            = _ksa06a1
+| pattern_b             = _ksa06a1
+| pattern_ra            = _ksa06a1
+| pattern_sh            = _ksa06a1
+| pattern_so            = _puma_2006_white
+| leftarm               = 208060
+| body                  = 208060
+| rightarm              = 208060
+| shorts                = 208060
+| socks                 = 208060
+| title                 = Saudi Arabia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ali Boumnijel]]
+|-
+|RB ||'''6''' ||[[Hatem Trabelsi]]
+|-
+|CB ||'''15'''||[[Radhi Jaïdi]]
+|-
+|CB ||'''3''' ||[[Karim Haggui]] || {{yel|35}}
+|-
+|LB ||'''18'''||[[David Jemmali]]
+|-
+|RM ||'''13'''||[[Riadh Bouazizi]] ([[Captain (association football)|c]]) || {{yel|36}} || {{suboff|55}}
+|-
+|CM ||'''12'''||[[Jawhar Mnari]]
+|-
+|LM ||'''14'''||[[Adel Chedli]] || {{yel|65}} || {{suboff|69}}
+|-
+|AM ||'''20'''||[[Hamed Namouchi]]
+|-
+|CF ||'''5''' ||[[Ziad Jaziri]]
+|-
+|CF ||'''9''' ||[[Yassine Chikhaoui]] || {{yel|79}} || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Mehdi Nafti]] || || {{subon|55}}
+|-
+|MF ||'''10'''||[[Kaies Ghodhbane]] || || {{subon|69}}
+|-
+|DF ||'''2''' ||[[Karim Essediri]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Roger Lemerre]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Mabrouk Zaid]]
+|-
+|RB ||'''2''' ||[[Ahmed Al-Dokhi]]
+|-
+|CB ||'''3''' ||[[Redha Tukar]]
+|-
+|CB ||'''4''' ||[[Hamad Al-Montashari]]
+|-
+|LB ||'''13'''||[[Hussein Sulaimani]] ([[Captain (association football)|c]])
+|-
+|RM ||'''6''' ||[[Omar Al-Ghamdi]]
+|-
+|CM ||'''16'''||[[Khaled Aziz]]
+|-
+|LM ||'''14'''||[[Saud Kariri]]
+|-
+|AM ||'''8''' ||[[Mohammed Noor]] || || {{suboff|74}}
+|-
+|AM ||'''18'''||[[Nawaf Al-Temyat]] || || {{suboff|67}}
+|-
+|CF ||'''20'''||[[Yasser Al-Qahtani]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''23'''||[[Malek Mouath]] || || {{subon|67}}
+|-
+|MF ||'''7''' ||[[Mohammed Ameen]] || || {{subon|74}}
+|-
+|FW ||'''9''' ||[[Sami Al-Jaber]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Marcos Paquetá]]
+|}
+|}
+{{wikinews|Saudi Arabia and Tunisia share dramatic draw in Group H}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Ziad Jaziri]] (Tunisia)
+
+'''Assistant referees:'''
+<br />Nathan Gibson ([[Football Federation Australia|Australia]])
+<br />Ben Wilson ([[Football Federation Australia|Australia]])
+<br />'''Fourth official:'''
+<br />Carlos Chandía ([[Chilean Football Federation|Chile]])
+<br />'''Fifth official:'''
+<br />Christian Julio ([[Chilean Football Federation|Chile]])
+|}
+
+===Saudi Arabia vs Ukraine===
+<onlyinclude>{{#invoke:Football box|main|section=H3
+|date={{Start date|2006|6|19|df=y}}
+|time=18:00
+|team1={{fb-rt|KSA}}
+|score={{score link|2006 FIFA World Cup Group H#Saudi Arabia vs Ukraine|0–4}}
+|team2={{fb|UKR|1992}}
+|goals1=
+|goals2=
+*[[Andriy Rusol|Rusol]] {{goal|4}}
+*[[Serhii Rebrov|Rebrov]] {{goal|36}}
+*[[Andriy Shevchenko|Shevchenko]] {{goal|46}}
+*[[Maksym Kalynychenko|Kalynychenko]] {{goal|84}}
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=50,000
+|referee=[[Graham Poll]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410032 |title=Saudi Arabia vs Ukraine {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410032/index.html |title=2006 FIFA World Cup Germany – Matches – Saudi Arabia v Ukraine |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229073113/http://www.fifa.com/worldcup/matches/round=97410100/match=97410032/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/32_0619_hag_ksa-ukr_fulltime__1150739834.pdf |title=Match Report – Group H – Saudi Arabia v Ukraine |publisher=[[FIFA]] |date=19 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054408/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/32_0619_hag_ksa-ukr_fulltime__1150739834.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _ksa06h1
+| pattern_b             = _ksa06h1
+| pattern_ra            = _ksa06h1
+| pattern_sh            = _ksa06h1
+| pattern_so            = _puma_2006_on_white
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = 208060
+| title                 = Saudi Arabia
+}}
+|{{Football kit
+ | pattern_la = _ukr06h
+ | pattern_b  = _ukr06h
+ | pattern_ra = _ukr06h
+ | pattern_sh = _ukr06h
+ | leftarm    = F8E052
+ | body       = F8E052
+ | rightarm   = F8E052
+ | shorts     = F8E052
+ | socks      = F8E052
+ | title      = Ukraine
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Mabrouk Zaid]]
+|-
+|RB ||'''2''' ||[[Ahmed Al-Dokhi]] || {{yel|41}} || {{suboff|55}}
+|-
+|CB ||'''3''' ||[[Redha Tukar]]
+|-
+|CB ||'''4''' ||[[Hamad Al-Montashari]]
+|-
+|LB ||'''13'''||[[Hussein Sulaimani]] ([[Captain (association football)|c]])
+|-
+|RM ||'''6''' ||[[Omar Al-Ghamdi]] || {{yel|57}}
+|-
+|CM ||'''7''' ||[[Mohammed Ameen]] || || {{suboff|55}}
+|-
+|CM ||'''16'''||[[Khaled Aziz]]
+|-
+|CM ||'''8''' ||[[Mohammed Noor]] || || {{suboff|77}}
+|-
+|LM ||'''14'''||[[Saud Kariri]] || {{yel|73}}
+|-
+|CF ||'''20'''||[[Yasser Al-Qahtani]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''23'''||[[Malek Mouath]] || || {{subon|55}}
+|-
+|DF ||'''12'''||[[Abdulaziz Khathran]] || || {{subon|55}}
+|-
+|FW ||'''9''' ||[[Sami Al-Jaber]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Marcos Paquetá]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oleksandr Shovkovskyi]]
+|-
+|CB ||'''22'''||[[Vyacheslav Sviderskyi]] || {{yel|89}}
+|-
+|CB ||'''6''' ||[[Andriy Rusol]]
+|-
+|CB ||'''2''' ||[[Andriy Nesmachnyi]] || {{yel|22}}
+|-
+|RM ||'''9''' ||[[Oleh Husyev]]
+|-
+|CM ||'''11'''||[[Serhii Rebrov]] || || {{suboff|71}}
+|-
+|CM ||'''4''' ||[[Anatoliy Tymoshchuk]]
+|-
+|CM ||'''8''' ||[[Oleh Shelayev]]
+|-
+|LM ||'''19'''||[[Maksym Kalynychenko]] || {{yel|77}}
+|-
+|SS ||'''10'''||[[Andriy Voronin]] || || {{suboff|79}}
+|-
+|CF ||'''7''' ||[[Andriy Shevchenko]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Ruslan Rotan]] || || {{subon|71}}
+|-
+|MF ||'''14'''||[[Andriy Husin]] || || {{subon|79}}
+|-
+|FW ||'''15'''||[[Artem Milevskyi]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Oleg Blokhin]]
+|}
+|}
+{{wikinews|Ukraine beats Saudi Arabia 4-0 in Group H}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Maksym Kalynychenko]] (Ukraine)
+
+'''Assistant referees:'''
+<br />[[Philip Sharp (referee)|Philip Sharp]] ([[The Football Association|England]])
+<br />Glenn Turner ([[The Football Association|England]])
+<br />'''Fourth official:'''
+<br />[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+<br />'''Fifth official:'''
+<br />Yoshikazu Hiroshima ([[Japan Football Association|Japan]])
+|}
+
+===Spain vs Tunisia===
+<onlyinclude>{{#invoke:Football box|main|section=H4
+|date={{Start date|2006|6|19|df=y}}
+|time=21:00
+|team1={{fb-rt|ESP}}
+|score={{score link|2006 FIFA World Cup Group H#Spain vs Tunisia|3–1}}
+|team2={{fb|TUN}}
+|goals1=
+*[[Raúl (footballer)|Raúl]] {{goal|71}}
+*[[Fernando Torres|Torres]] {{goal|76||90+1|pen.}}
+|goals2=
+*[[Jawhar Mnari|Mnari]] {{goal|8}}
+|stadium=[[MHPArena|Gottlieb-Daimler-Stadion]], [[Stuttgart]]
+|attendance=52,000
+|referee=[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410031 |title=Spain vs Tunisia {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410031/index.html |title=2006 FIFA World Cup Germany – Matches – Spain v Tunisia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229073108/http://www.fifa.com/worldcup/matches/round=97410100/match=97410031/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/31_0619_stu_esp-tun_fulltime__1150751688.pdf |title=Match Report – Group H – Spain v Tunisia |publisher=[[FIFA]] |date=19 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054430/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/31_0619_stu_esp-tun_fulltime__1150751688.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _esp06h2
+| pattern_b             = _esp06h2
+| pattern_ra            = _esp06h2
+| pattern_sh            = _esp06h2
+| pattern_so            = _esp06h2l
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = 0000D7
+| socks                 = 0000D7
+| title                 = Spain
+}}
+|{{Football kit
+| pattern_la            = _sui06a2
+| pattern_b             = _tun06h2
+| pattern_ra            = _sui06a2
+| pattern_sh            = _sui06h2
+| pattern_so            = _puma_2006_on_white
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = FFFFFF
+| socks                 = FF0000
+| title                 = Tunisia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''22'''||[[Pablo Ibáñez]]
+|-
+|CB ||'''5''' ||[[Carles Puyol]] || {{yel|30}}
+|-
+|LB ||'''3''' ||[[Mariano Pernía]]
+|-
+|RM ||'''16'''||[[Marcos Senna]] || || {{suboff|46}}
+|-
+|CM ||'''14'''||[[Xabi Alonso]]
+|-
+|LM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|AM ||'''11'''||[[Luis García (footballer, born 1978)|Luis García]] || || {{suboff|46}}
+|-
+|RF ||'''21'''||[[David Villa]] || || {{suboff|57}}
+|-
+|LF ||'''9''' ||[[Fernando Torres]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Raúl (footballer)|Raúl]] || || {{subon|46}}
+|-
+|MF ||'''18'''||[[Cesc Fàbregas]] || {{yel|89}} || {{subon|46}}
+|-
+|MF ||'''17'''||[[Joaquín (footballer, born 1981)|Joaquín]] || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Aragonés]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ali Boumnijel]]
+|-
+|RB ||'''6''' ||[[Hatem Trabelsi]] || {{yel|40}}
+|-
+|CB ||'''15'''||[[Radhi Jaïdi]] || {{yel|70}}
+|-
+|CB ||'''3''' ||[[Karim Haggui]]
+|-
+|LB ||'''19'''||[[Anis Ayari]] || {{yel|32}} || {{suboff|57}}
+|-
+|RM ||'''13'''||[[Riadh Bouazizi]] ([[Captain (association football)|c]]) || || {{suboff|57}}
+|-
+|CM ||'''20'''||[[Hamed Namouchi]]
+|-
+|CM ||'''8''' ||[[Mehdi Nafti]]
+|-
+|CM ||'''12'''||[[Jawhar Mnari]] || {{yel|90+3}}
+|-
+|LM ||'''14'''||[[Adel Chedli]] || || {{suboff|80}}
+|-
+|CF ||'''5''' ||[[Ziad Jaziri]] || {{yel|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Alaeddine Yahia]] || || {{subon|57}}
+|-
+|MF ||'''10'''||[[Kaies Ghodhbane]] || || {{subon|57}}
+|-
+|FW ||'''7''' ||[[Haykel Guemamdia]] || {{yel|81}} || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Roger Lemerre]]
+|}
+|}
+{{wikinews|Spain passes Tunisia test to win 3-1 in Group H}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Xabi Alonso]] (Spain)
+
+'''Assistant referees:'''
+<br />Aristeu Tavares ([[Brazilian Football Confederation|Brazil]])
+<br />Edmílson Corona ([[Brazilian Football Confederation|Brazil]])
+<br />'''Fourth official:'''
+<br />Carlos Chandía ([[Chilean Football Federation|Chile]])
+<br />'''Fifth official:'''
+<br />Christian Julio ([[Chilean Football Federation|Chile]])
+|}
+
+===Saudi Arabia vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=H5
+|date={{Start date|2006|6|23|df=y}}
+|time=16:00
+|team1={{fb-rt|KSA}}
+|score={{score link|2006 FIFA World Cup Group H#Saudi Arabia vs Spain|0–1}}
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+*[[Juanito (footballer, born 1976)|Juanito]] {{goal|36}}
+|stadium=[[Fritz-Walter-Stadion]], [[Kaiserslautern]]
+|attendance=46,000
+|referee=[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410047 |title=Saudi Arabia vs Spain {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410047/index.html |title=2006 FIFA World Cup Germany – Matches – Saudi Arabia v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229071429/http://www.fifa.com/worldcup/matches/round=97410100/match=97410047/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/47_0623_kai_ksa-esp_fulltime__1151078527.pdf |title=Match Report – Group H – Saudi Arabia v Spain |publisher=[[FIFA]] |date=23 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054740/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/47_0623_kai_ksa-esp_fulltime__1151078527.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _ksa06h1
+| pattern_b             = _ksa06h1
+| pattern_ra            = _ksa06h1
+| pattern_sh            = _ksa06h1
+| pattern_so            = _puma_2006_on_white
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = 208060
+| title                 = Saudi Arabia
+}}
+|{{Football kit
+| pattern_la            = _esp06h2
+| pattern_b             = _esp06h2
+| pattern_ra            = _esp06h2
+| pattern_sh            = _esp06h2
+| pattern_so            = _esp06h2l
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = 0000D7
+| socks                 = 0000D7
+| title                 = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Mabrouk Zaid]]
+|-
+|RB ||'''2''' ||[[Ahmed Al-Dokhi]]
+|-
+|CB ||'''3''' ||[[Redha Tukar]]
+|-
+|CB ||'''4''' ||[[Hamad Al-Montashari]]
+|-
+|LB ||'''12'''||[[Abdulaziz Khathran]]
+|-
+|RM ||'''8''' ||[[Mohammed Noor]]
+|-
+|CM ||'''14'''||[[Saud Kariri]]
+|-
+|CM ||'''16'''||[[Khaled Aziz]] || || {{suboff|13}}
+|-
+|LM ||'''13'''||[[Hussein Sulaimani]] || || {{suboff|81}}
+|-
+|CF ||'''11'''||[[Saad Al-Harthi]]
+|-
+|CF ||'''9''' ||[[Sami Al-Jaber]] ([[Captain (association football)|c]]) || {{yel|27}} || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Nawaf Al-Temyat]] || {{yel|77}} || {{subon|13}}
+|-
+|FW ||'''23'''||[[Malek Mouath]] || || {{subon|68}}
+|-
+|DF ||'''19'''||[[Mohammad Massad]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Marcos Paquetá]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''19'''||[[Santiago Cañizares]]
+|-
+|RB ||'''2''' ||[[Míchel Salgado]]
+|-
+|CB ||'''20'''||[[Juanito (footballer, born 1976)|Juanito]]
+|-
+|CB ||'''4''' ||[[Carlos Marchena]] || {{yel|75}}
+|-
+|LB ||'''12'''||[[Antonio López (footballer, born 1981)|Antonio López]]
+|-
+|CM ||'''18'''||[[Cesc Fàbregas]] || || {{suboff|66}}
+|-
+|CM ||'''6''' ||[[David Albelda]] || {{yel|30}}
+|-
+|CM ||'''13'''||[[Andrés Iniesta]]
+|-
+|RF ||'''17'''||[[Joaquín (footballer, born 1981)|Joaquín]]
+|-
+|CF ||'''7''' ||[[Raúl (footballer)|Raúl]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|LF ||'''10'''||[[José Antonio Reyes]] || {{yel|35}} || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[David Villa]] || || {{subon|46}}
+|-
+|MF ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]] || || {{subon|66}}
+|-
+|FW ||'''9''' ||[[Fernando Torres]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Aragonés]]
+|}
+|}
+{{wikinews|Spain edge out Saudi Arabia 1-0 in Group H}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Juanito (footballer, born 1976)|Juanito]] (Spain)
+
+'''Assistant referees:'''
+<br />Celestin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+<br />Aboudou Aderodjou ([[Benin Football Federation|Benin]])
+<br />'''Fourth official:'''
+<br />[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+<br />'''Fifth official:'''
+<br />Brahim Djezzar ([[Algerian Football Federation|Algeria]])
+|}
+
+===Ukraine vs Tunisia===
+<onlyinclude>{{#invoke:Football box|main|section=H6
+|date={{Start date|2006|6|23|df=y}}
+|time=16:00
+|team1={{fb-rt|UKR|1992}}
+|score={{score link|2006 FIFA World Cup Group H#Ukraine vs Tunisia|1–0}}
+|team2={{fb|TUN}}
+|goals1=
+*[[Andriy Shevchenko|Shevchenko]] {{goal|70|pen.}}
+|goals2=
+|stadium=[[Olympiastadion (Berlin)|Olympiastadion]], [[Berlin]]
+|attendance=72,000
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410048 |title=Ukraine vs Tunisia {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410048/index.html |title=2006 FIFA World Cup Germany – Matches – Ukraine v Tunisia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218040024/http://www.fifa.com/worldcup/matches/round=97410100/match=97410048/index.html |archive-date=18 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/48_0623_brl_ukr-tun_fulltime__1151078528.pdf |title=Match Report – Group H – Ukraine v Tunisia |publisher=[[FIFA]] |date=23 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054733/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/48_0623_brl_ukr-tun_fulltime__1151078528.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ukr06h
+ | pattern_b  = _ukr06h
+ | pattern_ra = _ukr06h
+ | pattern_sh = _ukr06h
+ | leftarm    = F8E052
+ | body       = F8E052
+ | rightarm   = F8E052
+ | shorts     = F8E052
+ | socks      = F8E052
+ | title      = Ukraine
+}}
+|{{Football kit
+| pattern_la            = _sui06h2
+| pattern_b             = _tun06a2
+| pattern_ra            = _sui06h2
+| pattern_sh            = _sui06a2
+| pattern_so            = _puma_2006_white
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FF0000
+| socks                 = FF0000
+| title                 = Tunisia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oleksandr Shovkovskyi]]
+|-
+|CB ||'''22'''||[[Vyacheslav Sviderskyi]] || {{yel|18}}
+|-
+|CB ||'''6''' ||[[Andriy Rusol]] || {{yel|65}}
+|-
+|CB ||'''2''' ||[[Andriy Nesmachnyi]]
+|-
+|RM ||'''9''' ||[[Oleh Husyev]]
+|-
+|CM ||'''11'''||[[Serhii Rebrov]] || || {{suboff|55}}
+|-
+|CM ||'''4''' ||[[Anatoliy Tymoshchuk]] || {{yel|61}}
+|-
+|CM ||'''8''' ||[[Oleh Shelayev]] || {{yel|47}}
+|-
+|LM ||'''19'''||[[Maksym Kalynychenko]] || || {{suboff|75}}
+|-
+|SS ||'''10'''||[[Andriy Voronin]]
+|-
+|CF ||'''7''' ||[[Andriy Shevchenko]] ([[Captain (association football)|c]]) || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''16'''||[[Andriy Vorobey]] || || {{subon|55}}
+|-
+|MF ||'''14'''||[[Andriy Husin]] || || {{subon|75}}
+|-
+|FW ||'''15'''||[[Artem Milevskyi]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Oleg Blokhin]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ali Boumnijel]]
+|-
+|RB ||'''6''' ||[[Hatem Trabelsi]]
+|-
+|CB ||'''15'''||[[Radhi Jaïdi]] || {{yel|90}}
+|-
+|CB ||'''3''' ||[[Karim Haggui]]
+|-
+|LB ||'''19'''||[[Anis Ayari]]
+|-
+|RM ||'''13'''||[[Riadh Bouazizi]] ([[Captain (association football)|c]]) || {{yel|43}} || {{suboff|79}}
+|-
+|CM ||'''8''' ||[[Mehdi Nafti]] || || {{suboff|90+1}}
+|-
+|CM ||'''20'''||[[Hamed Namouchi]]
+|-
+|CM ||'''12'''||[[Jawhar Mnari]]
+|-
+|LM ||'''14'''||[[Adel Chedli]] || || {{suboff|79}}
+|-
+|CF ||'''5''' ||[[Ziad Jaziri]] || {{sent off|2|9|45+1}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Francileudo Santos]] || || {{subon|79}}
+|-
+|FW ||'''17'''||[[Chaouki Ben Saada]] || || {{subon|79}}
+|-
+|MF ||'''10'''||[[Kaies Ghodhbane]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Roger Lemerre]]
+|}
+|}
+{{wikinews|Ukraine advance after win against Tunisia in Group H}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Anatoliy Tymoshchuk]] (Ukraine)
+
+'''Assistant referees:'''
+<br />Amelio Andino ([[Paraguayan Football Association|Paraguay]])
+<br />Manuel Bernal ([[Paraguayan Football Association|Paraguay]])
+<br />'''Fourth official:'''
+<br />[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+<br />'''Fifth official:'''
+<br />Hamdi Al Kadri ([[Syria Football Association|Syria]])
+|}
+
+==See also==
+*[[Saudi Arabia at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+*[[Tunisia at the FIFA World Cup]]
+*[[Ukraine at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2006 FIFA World Cup}}
+
+{{DEFAULTSORT:Group H}}
+[[Category:2006 FIFA World Cup group stage|H]]
+[[Category:Ukraine at the 2006 FIFA World Cup|Group]]
+[[Category:Spain at the 2006 FIFA World Cup|Group]]
+[[Category:Tunisia at the 2006 FIFA World Cup|group]]
+[[Category:Saudi Arabia at the 2006 FIFA World Cup]]
+[[Category:Sports competitions in Leipzig]]
+[[Category:Football in Saxony]]
+[[Category:21st century in Leipzig]]
+[[Category:2000s in Saxony]]
+[[Category:Football competitions in Munich]]
+[[Category:2000s in Munich]]
+[[Category:2006 in Bavaria]]
+[[Category:Football competitions in Hamburg]]
+[[Category:2000s in Hamburg]]
+[[Category:Football in Stuttgart]]
+[[Category:2000s in Baden-Württemberg]]
+[[Category:Sports competitions in Stuttgart]]
+[[Category:21st century in Stuttgart]]
+[[Category:Kaiserslautern]]
+[[Category:Football in Rhineland-Palatinate]]
+[[Category:21st century in Rhineland-Palatinate]]
+[[Category:2006 in Berlin]]
+[[Category:Football competitions in Berlin]]

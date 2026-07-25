@@ -1,0 +1,760 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use dmy dates|date=May 2018}}
+'''Group 1 of the [[1950 FIFA World Cup]]''' took place from 24 June to 2 July 1950. The group consisted of [[Brazil national football team|Brazil]], [[Mexico national football team|Mexico]], [[Yugoslavia national football team|Yugoslavia]], and [[Switzerland national football team|Switzerland]].<ref>{{cite web |url=https://www.fifa.com/worldcup/news/y=2013/m=12/news=brazil-first-world-cup-draw-2238709.html |archive-url=https://web.archive.org/web/20140614002515/http://www.fifa.com/worldcup/news/y=2013/m=12/news=brazil-first-world-cup-draw-2238709.html |url-status=dead |archive-date=14 June 2014 |title=Brazil's first World Cup draw |date=3 December 2013 |publisher=FIFA}}</ref> The group winners advanced to the [[1950 FIFA World Cup#Final round|final round]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|winpoints=2
+|class_rules=[[1950 FIFA World Cup#Format|Tiebreakers]]
+|source=[https://www.fifa.com/worldcup/archive/brazil1950/groups/index.html FIFA]
+
+<!--Team positions-->
+|team1=BRA |team2=YUG |team3=SUI |team4=MEX
+
+<!--Team results-->
+|update=complete
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=8 |ga_BRA=2
+|win_YUG=2 |draw_YUG=0 |loss_YUG=1 |gf_YUG=7 |ga_YUG=3
+|win_MEX=0 |draw_MEX=0 |loss_MEX=3 |gf_MEX=2 |ga_MEX=10
+|win_SUI=1 |draw_SUI=1 |loss_SUI=1 |gf_SUI=4 |ga_SUI=6
+
+<!--Team definitions-->
+|name_BRA={{fb|BRA|1889}}
+|name_YUG={{fb|YUG}}
+|name_MEX={{fb|MEX|1934}}
+|name_SUI={{fb|SUI|civil}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=FR
+|col_FR=green1 |text_FR=Advance to [[1950 FIFA World Cup#Final round|final round]]
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Brazil vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=1-1
+|date={{Start date|1950|6|24|df=y}}
+|time=15:00 [[Time in Brazil|BRT]] ([[UTC-3]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1950 FIFA World Cup Group 1#Brazil vs Mexico|4–0}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Ademir Marques de Menezes|Ademir]] {{goal|30||79}}
+*[[Jair da Rosa Pinto|Jair]] {{goal|65}}
+*[[Baltazar (footballer, born 1926)|Baltazar]] {{goal|71}}
+|goals2=
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=81,649
+|referee=[[George Reader]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/7/208/1187 |title=Brazil vs Mexico {{!}} Group Matches {{!}} 1950 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=208/match=1187/index.html |title=1950 FIFA World Cup Brazil – Matches – Brazil v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201112230/http://www.fifa.com/worldcup/matches/round=208/match=1187/index.html |archive-date=1 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _borderonwhite
+| pattern_b         = _bra1949h
+| pattern_ra        = _borderonwhite
+| pattern_sh        = 
+| pattern_so        = _brasil1942
+| leftarm           = 004A99
+| body              = FFFFFF
+| rightarm          = 004A99
+| shorts            = FFFFFF
+| socks             = FFFFFF
+| title             = Brazil
+}}
+{{col-2}}
+{{Football kit
+|pattern_la = 
+|pattern_b = _mex50h
+|pattern_ra =
+|pattern_so =_socks
+|leftarm = 890A22
+|body = 
+|rightarm = 890A22
+|shorts = 000099
+|socks = 800020
+|title            =  Mexico
+}}
+{{col-end}}
+
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Moacir Barbosa|Barbosa]]
+|-
+|RB||'''2'''|| [[Augusto da Costa|Augusto]] ([[Captain (association football)|c]])
+|-
+|CB||'''3'''|| [[Juvenal Amarijo|Juvenal]]
+|-
+|LB||'''6'''|| [[Bigode]] 
+|-
+|RH||'''4'''|| [[Ely do Amparo|Ely]]
+|-
+|LH||'''5'''|| [[Danilo Alvim|Danilo]]
+|-
+|OR||'''7'''|| [[Friaça]]
+|-
+|IR||'''8'''|| [[Maneca]]
+|-
+|CF||'''9'''|| [[Baltazar (footballer, born 1926)|Baltazar]]
+|-
+|IL||'''10'''|| [[Ademir de Menezes|Ademir]]
+|-
+|OL||'''11'''|| [[Jair da Rosa Pinto|Jair]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Flávio Costa]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Antonio Carbajal]]
+|-
+|RB||'''2'''|| [[Felipe Zetter]] 
+|-
+|LB||'''3'''|| [[Alfonso Montemayor]] ([[Captain (association football)|c]])
+|-
+|RH||'''4'''|| [[Rodrigo Ruiz (footballer, born 1923)|Rodrigo Ruiz]]
+|-
+|CH||'''5'''|| [[Mario Ochoa (footballer)|Mario Ochoa]]
+|-
+|LH||'''6'''|| [[José Antonio Roca]]
+|-
+|OR||'''7'''|| [[Carlos Septién]]
+|-
+|IR||'''8'''|| [[Héctor Ortiz (footballer)|Héctor Ortiz]]
+|-
+|CF||'''9'''|| [[Horacio Casarín]]
+|-
+|IL||'''10'''|| [[Mario Pérez (footballer, born 1927)|Mario Pérez]]
+|-
+|OL||'''11'''|| [[José Velázquez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Octavio Vial]] 
+|}
+{{col-end}}
+
+===Yugoslavia vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=1-2
+|date={{Start date|1950|6|25|df=y}}
+|time=15:00 [[Time in Brazil|BRT]] ([[UTC-3]])
+|team1={{fb-rt|YUG}}
+|score={{score link|1950 FIFA World Cup Group 1#Yugoslavia vs Switzerland|3–0}}
+|team2={{fb|SUI|civil}}
+|goals1=
+*[[Rajko Mitić|Mitić]] {{goal|59}}
+*[[Kosta Tomašević|Tomašević]] {{goal|70}}
+*[[Tihomir Ognjanov|Ognjanov]] {{goal|84}}
+|goals2=
+|stadium=[[Arena Independência|Estádio Independência]], [[Belo Horizonte]]
+|attendance=7,336
+|referee=[[Giovanni Galeati]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/7/208/1230 |title=Yugoslavia vs Switzerland {{!}} Group Matches {{!}} 1950 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=208/match=1230/index.html |title=1950 FIFA World Cup Brazil – Matches – Yugoslavia v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210004527/http://www.fifa.com/worldcup/matches/round=208/match=1230/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _old_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = 
+| leftarm               = 0099ff
+| body                 =  0099ff
+| rightarm              =0099ff
+| shorts               =ffffff
+| socks                 = 000000
+ | title           = Yugoslavia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _old_laced
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2_white_stripes
+| leftarm           =ff0000
+| body             = ff0000
+| rightarm           = ff0000
+| shorts             = ffffff
+| socks              = 000000
+|title            =  Switzerland
+}}
+{{col-end}}
+
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Srđan Mrkušić]]
+|-
+|RB||'''2'''|| [[Ivica Horvat]]
+|-
+|LB||'''3'''|| [[Branko Stanković]]
+|-
+|RH||'''4'''|| [[Zlatko Čajkovski]]
+|-
+|CH||'''5'''|| [[Miodrag Jovanović (footballer, born 1922)|Miodrag Jovanović]]
+|-
+|LH||'''6'''|| [[Predrag Đajić]] 
+|-
+|OR||'''7'''|| [[Tihomir Ognjanov]]
+|-
+|IR||'''8'''|| [[Rajko Mitić]] ([[Captain (association football)|c]])
+|-
+|CF||'''9'''|| [[Kosta Tomašević]]
+|-
+|IL||'''10'''|| [[Stjepan Bobek]]
+|-
+|OL||'''11'''|| [[Bernard Vukas]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Milorad Arsenijević]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Georges Stuber]]
+|-
+|RB||'''2'''|| [[André Neury]] 
+|-
+|LB||'''3'''|| [[Roger Bocquet]]
+|-
+|RH||'''4'''|| [[Gerhard Lusenti]]
+|-
+|CH||'''5'''|| [[Oliver Eggimann]]
+|-
+|LH||'''6'''|| [[Roger Quinche]]
+|-
+|OR||'''7'''|| [[Alfred Bickel]] ([[Captain (association football)|c]])
+|-
+|IR||'''8'''|| [[Charles Antenen]]
+|-
+|CF||'''9'''|| [[Jean Tamini]]
+|-
+|IL||'''10'''|| [[René Bader]]
+|-
+|OL||'''11'''|| [[Jacques Fatton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Franco Andreoli]]
+|}
+{{col-end}}
+
+===Brazil vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=1-3
+|date={{Start date|1950|6|28|df=y}}
+|time=15:00 [[Time in Brazil|BRT]] ([[UTC-3]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1950 FIFA World Cup Group 1#Brazil vs Switzerland|2–2}}
+|team2={{fb|SUI|civil}}
+|goals1=
+*[[Alfredo dos Santos|Alfredo]] {{goal|3}}
+*[[Baltazar (footballer, born 1926)|Baltazar]] {{goal|32}}
+|goals2=
+*[[Jacques Fatton|Fatton]] {{goal|17||88}}
+|stadium=[[Estádio do Pacaembu]], [[São Paulo]]
+|attendance=42,032
+|referee=[[Ramón Azón Romá]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/7/208/1188 |title=Brazil vs Switzerland {{!}} Group Matches {{!}} 1950 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=208/match=1188/index.html |title=1950 FIFA World Cup Brazil – Matches – Brazil v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202193826/http://www.fifa.com/worldcup/matches/round=208/match=1188/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _borderonwhite
+| pattern_b         = _bra1949h
+| pattern_ra        = _borderonwhite
+| pattern_sh        = _whitesides
+| pattern_so        = _brasil1942
+| leftarm           = 004A99
+| body              = FFFFFF
+| rightarm          = 004A99
+| shorts            = 004A99
+| socks             = FFFFFF
+| title             = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _old_laced
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2_white_stripes
+| leftarm           = ff0000
+| body              = ff0000
+| rightarm          = ff0000
+| shorts            = ffffff
+| socks             = 000000
+| title             = Switzerland
+}}
+{{col-end}}
+
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Moacir Barbosa|Barbosa]]
+|-
+|RB||'''2'''|| [[Augusto da Costa|Augusto]] ([[Captain (association football)|c]])
+|-
+|CB||'''3'''|| [[Juvenal Amarijo|Juvenal]]
+|-
+|LB||'''6'''|| [[Noronha (footballer, born 1918)|Noronha]]  
+|-
+|RH||'''4'''|| [[José Carlos Bauer|Bauer]]
+|-
+|LH||'''5'''|| [[Rui Campos|Rui]]
+|-
+|OR||'''7'''|| [[Alfredo II|Alfredo]]
+|-
+|IR||'''8'''|| [[Maneca]]
+|-
+|CF||'''9'''|| [[Baltazar (footballer, born 1926)|Baltazar]]
+|-
+|IL||'''10'''|| [[Ademir de Menezes|Ademir]]
+|-
+|OL||'''11'''|| [[Friaça]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Flávio Costa]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Georges Stuber]]
+|-
+|RB||'''2'''|| [[André Neury]] 
+|-
+|LB||'''3'''|| [[Roger Bocquet]]
+|-
+|RH||'''4'''|| [[Gerhard Lusenti]]
+|-
+|CH||'''5'''|| [[Oliver Eggimann]]
+|-
+|LH||'''6'''|| [[Roger Quinche]]
+|-
+|OR||'''7'''|| [[Jean Tamini]]
+|-
+|IR||'''8'''|| [[Alfred Bickel]] ([[Captain (association football)|c]])
+|-
+|CF||'''9'''|| [[Hans-Peter Friedländer]]
+|-
+|IL||'''10'''|| [[René Bader]]
+|-
+|OL||'''11'''|| [[Jacques Fatton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Franco Andreoli]]
+|}
+{{col-end}}
+
+===Yugoslavia vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=1-4
+|date={{Start date|1950|6|28|df=y}}
+|time=15:00 [[Time in Brazil|BRT]] ([[UTC-3]])
+|team1={{fb-rt|YUG}}
+|score={{score link|1950 FIFA World Cup Group 1#Yugoslavia vs Mexico|4–1}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Stjepan Bobek|Bobek]] {{goal|20}}
+*[[Željko Čajkovski|Ž. Čajkovski]] {{goal|23||51}}
+*[[Kosta Tomašević|Tomašević]] {{goal|81}}
+|goals2=
+*[[Héctor Ortiz (footballer)|Ortiz]] {{goal|89|pen.}}
+|stadium=[[Estádio dos Eucaliptos]], [[Porto Alegre]]
+|attendance=11,078
+|referee=[[Reginald Leafe]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/7/208/1225 |title=Yugoslavia vs Mexico {{!}} Group Matches {{!}} 1950 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=208/match=1225/index.html |title=1950 FIFA World Cup Brazil – Matches – Yugoslavia v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170801202833/http://www.fifa.com/worldcup/matches/round=208/match=1225/index.html |archive-date=1 August 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _old_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = 
+| leftarm               = 0099ff
+| body                 =  0099ff
+| rightarm              =0099ff
+| shorts               =ffffff
+| socks                 = 000000
+ | title           = Yugoslavia
+}}
+{{col-2}}
+{{Football kit
+|pattern_la = 
+|pattern_b = _mex50h
+|pattern_ra =
+|pattern_so =_socks
+|leftarm = 890A22
+|body = 
+|rightarm = 890A22
+|shorts = 000099
+|socks = 800020
+|title            =  Mexico
+}}
+{{col-end}}
+
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Srđan Mrkušić]]
+|-
+|RB||'''2'''|| [[Ivica Horvat]]
+|-
+|LB||'''3'''|| [[Branko Stanković]]
+|-
+|RH||'''4'''|| [[Zlatko Čajkovski]]
+|-
+|CH||'''5'''|| [[Miodrag Jovanović (footballer, born 1922)|Miodrag Jovanović]]
+|-
+|LH||'''6'''|| [[Predrag Đajić]] 
+|-
+|OR||'''7'''|| [[Prvoslav Mihajlović]]
+|-
+|IR||'''8'''|| [[Rajko Mitić]] ([[Captain (association football)|c]])
+|-
+|CF||'''9'''|| [[Kosta Tomašević]]
+|-
+|IL||'''10'''|| [[Stjepan Bobek]]
+|-
+|OL||'''11'''|| [[Željko Čajkovski]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Milorad Arsenijević]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Antonio Carbajal]]
+|-
+|RB||'''2'''|| [[Manuel Gutiérrez (Mexican footballer)|Manuel Gutiérrez]] 
+|-
+|CB||'''3'''|| [[Samuel Cuburu]]
+|-
+|LB||'''4'''||  [[Gregorio Gómez]] 
+|-
+|RH||'''5'''|| [[José Antonio Roca]]
+|-
+|LH||'''6'''|| [[Héctor Ortiz (footballer)|Héctor Ortiz]]
+|-
+|OR||'''7'''|| [[Carlos Septién]]
+|-
+|IR||'''8'''|| [[José Naranjo (footballer, born 1926)|José Naranjo]]
+|-
+|CF||'''9'''|| [[Horacio Casarín]] ([[Captain (association football)|c]])
+|-
+|IL||'''10'''|| [[José Luis Borbolla]]
+|-
+|OL||'''11'''|| [[José Velázquez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Octavio Vial]] 
+|}
+{{col-end}}
+
+===Brazil vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=1-5
+|date={{Start date|1950|7|1|df=y}}
+|time=15:00 [[Time in Brazil|BRT]] ([[UTC-3]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1950 FIFA World Cup Group 1#Brazil vs Yugoslavia|2–0}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Ademir Marques de Menezes|Ademir]] {{goal|4}}
+*[[Thomaz Soares da Silva|Zizinho]] {{goal|69}}
+|goals2=
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=142,429
+|referee=[[Sandy Griffiths|Benjamin Griffiths]] ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/7/208/1191 |title=Brazil vs Yugoslavia {{!}} Group Matches {{!}} 1950 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=208/match=1191/index.html |title=1950 FIFA World Cup Brazil – Matches – Brazil v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170801221110/http://www.fifa.com/worldcup/matches/round=208/match=1191/index.html |archive-date=1 August 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _borderonwhite
+| pattern_b         = _bra1949h
+| pattern_ra        = _borderonwhite
+| pattern_sh        = 
+| pattern_so        = _brasil1942
+| leftarm           = 004A99
+| body              = FFFFFF
+| rightarm          = 004A99
+| shorts            = FFFFFF
+| socks             = FFFFFF
+| title             = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _old_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = 
+| leftarm               = 0099ff
+| body                 =  0099ff
+| rightarm              =0099ff
+| shorts               =ffffff
+| socks                 = 000000
+ | title           = Yugoslavia
+}}
+{{col-end}}
+
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Moacir Barbosa|Barbosa]]
+|-
+|RB||'''2'''|| [[Augusto da Costa|Augusto]] ([[Captain (association football)|c]])
+|-
+|CB||'''3'''|| [[Juvenal Amarijo|Juvenal]]
+|-
+|LB||'''6'''|| [[Bigode]]
+|-
+|RH||'''4'''|| [[José Carlos Bauer|Bauer]]
+|-
+|LH||'''5'''|| [[Danilo Alvim|Danilo]]
+|-
+|OR||'''7'''|| [[Maneca]]
+|-
+|IR||'''8'''|| [[Zizinho]]
+|-
+|CF||'''9'''|| [[Ademir de Menezes|Ademir]]
+|-
+|IL||'''10'''|| [[Jair da Rosa Pinto|Jair]]
+|-
+|OL||'''11'''|| [[Francisco Aramburu|Chico]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Flávio Costa]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Srđan Mrkušić]]
+|-
+|RB||'''2'''|| [[Ivica Horvat]]
+|-
+|LB||'''3'''|| [[Branko Stanković]]
+|-
+|RH||'''4'''|| [[Zlatko Čajkovski]] ([[Captain (association football)|c]])
+|-
+|CH||'''5'''|| [[Miodrag Jovanović (footballer, born 1922)|Miodrag Jovanović]]
+|-
+|LH||'''6'''|| [[Predrag Đajić]] 
+|-
+|OR||'''7'''|| [[Bernard Vukas]]
+|-
+|IR||'''8'''|| [[Rajko Mitić]]
+|-
+|CF||'''9'''|| [[Kosta Tomašević]]
+|-
+|IL||'''10'''|| [[Stjepan Bobek]]
+|-
+|OL||'''11'''|| [[Željko Čajkovski]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Milorad Arsenijević]]
+|}
+{{col-end}}
+
+===Switzerland vs Mexico===
+
+For this match, Mexico wore the shirts provided by [[Esporte Clube Cruzeiro|EC Cruzeiro]].<ref>{{cite web|url=https://ge.globo.com/rs/futebol/noticia/2016/07/camisa-unica-quando-o-mexico-se-vestiu-de-cruzeiro-rs-na-copa-de-50.html |title=Camisa Única: quando o México se vestiu de Cruzeiro-RS na Copa de 50 |website=GloboEsporte |date=5 July 2016 |access-date=12 December 2022 |language=pt}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=1-6
+|date={{Start date|1950|7|2|df=y}}
+|time=15:40 [[Time in Brazil|BRT]] ([[UTC-3]])
+|team1={{fb-rt|SUI|civil}}
+|score={{score link|1950 FIFA World Cup Group 1#Switzerland vs Mexico|2–1}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[René Bader|Bader]] {{goal|10}}
+*[[Charles Antenen|Antenen]] {{goal|44}}
+|goals2=
+*[[Horacio Casarín|Casarín]] {{goal|89}}
+|stadium=[[Estádio dos Eucaliptos]], [[Porto Alegre]]
+|attendance=3,580
+|referee=[[Ivan Eklind]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/7/208/1222 |title=Switzerland vs Mexico {{!}} Group Matches {{!}} 1950 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=208/match=1222/index.html |title=1950 FIFA World Cup Brazil – Matches – Switzerland v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170801212408/http://www.fifa.com/worldcup/matches/round=208/match=1222/index.html |archive-date=1 August 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _old_laced
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2_white_stripes
+| leftarm           =ff0000
+| body             = ff0000
+| rightarm           = ff0000
+| shorts             = ffffff
+| socks              = 000000
+|title            =  Switzerland
+}}
+{{col-2}}
+{{Football kit
+|pattern_la = _blue_stripes
+|pattern_b = _bluetripes3
+|pattern_ra = _blue_stripes
+|pattern_so =
+|leftarm = 
+|body = 
+|rightarm = 
+|shorts = 000099
+| socks              = 800000
+|title            =  Mexico <!--- Mexico wore white and white Cruzeiro S.C. shirts; source: https://es.fifa.com/photos/galleries/el-curioso-mundo-de-las-camisetas-mundialistas-2338348 --->
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Adolphe Hug]]
+|-
+|RB||'''2'''|| [[André Neury]] 
+|-
+|LB||'''3'''|| [[Roger Bocquet]]
+|-
+|RH||'''4'''|| [[Gerhard Lusenti]]
+|-
+|CH||'''5'''|| [[Oliver Eggimann]]
+|-
+|LH||'''6'''|| [[Roger Quinche]]
+|-
+|OR||'''7'''|| [[Jean Tamini]]
+|-
+|IR||'''8'''|| [[Charles Antenen]]
+|-
+|CF||'''9'''|| [[Hans-Peter Friedländer]] ([[Captain (association football)|c]])
+|-
+|IL||'''10'''|| [[René Bader]]
+|-
+|OL||'''11'''|| [[Jacques Fatton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Franco Andreoli]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| [[Antonio Carbajal]]
+|-
+|RB||'''2'''|| [[Manuel Gutiérrez (Mexican footballer)|Manuel Gutiérrez]] 
+|-
+|CB||'''3'''|| [[Mario Ochoa (footballer)|Mario Ochoa]]
+|-
+|LB||'''4'''||  [[Gregorio Gómez]] 
+|-
+|RH||'''5'''|| [[José Antonio Roca]]
+|-
+|LH||'''6'''|| [[Héctor Ortiz (footballer)|Héctor Ortiz]]
+|-
+|OR||'''7'''|| [[Antonio Flores (footballer, born 1923)|Antonio Flores]]
+|-
+|IR||'''8'''|| [[José Naranjo (footballer, born 1926)|José Naranjo]]
+|-
+|CF||'''9'''|| [[Horacio Casarín]] ([[Captain (association football)|c]])
+|-
+|IL||'''10'''|| [[José Luis Borbolla]]
+|-
+|OL||'''11'''|| [[José Velázquez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Octavio Vial]] 
+|}
+{{col-end}}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+*[[Yugoslavia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1950brazil 1950 FIFA World Cup archive]
+
+{{1950 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 1}}
+[[Category:1950 FIFA World Cup group stage|1]]
+[[Category:Brazil at the 1950 FIFA World Cup]]
+[[Category:Mexico at the 1950 FIFA World Cup]]
+[[Category:Switzerland at the 1950 FIFA World Cup]]
+[[Category:Yugoslavia at the 1950 FIFA World Cup]]
+[[Category:Brazil–Mexico sports relations|1950]]
+[[Category:Brazil–Switzerland sports relations|1950]]
+[[Category:Brazil–Yugoslavia relations|1950]]
+[[Category:Mexico–Switzerland relations|1950]]
+[[Category:Mexico–Yugoslavia relations|1950]]
+[[Category:Switzerland–Yugoslavia relations|1950]]
+[[Category:Football competitions in Rio de Janeiro (city)]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in Belo Horizonte]]
+[[Category:20th century in Belo Horizonte]]
+[[Category:Football competitions in Porto Alegre]]
+[[Category:20th century in Porto Alegre]]

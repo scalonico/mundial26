@@ -1,0 +1,1093 @@
+{{Short description|International football tournament}}
+{{Use dmy dates|date=November 2017}}
+[[File:Russia stamp 2018 № 2348.jpg|thumb|2018 [[postage stamp]] from [[Russia]] depicting Group D of the [[2018 FIFA World Cup]] group stage.]]
+Group D of the [[2018 FIFA World Cup]] took place from 16 to 26 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |archive-date=24 June 2018 |archive-url=https://web.archive.org/web/20180624041527/https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |url-status=dead }}</ref> The group consisted of [[Argentina national football team|Argentina]], [[Iceland national football team|Iceland]], [[Croatia national football team|Croatia]], and [[Nigeria national football team|Nigeria]]. The top two teams, Croatia and Argentina, advanced to the round of 16.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| D1 || style=white-space:nowrap | {{fb|ARG}} || 1 || [[CONMEBOL]] || [[2018 FIFA World Cup qualification (CONMEBOL)|CONMEBOL Round Robin]] third place || 10 October 2017 || 17th || [[2014 FIFA World Cup|2014]] (runners-up) || data-sort-value="8.2" | '''Winners''' ([[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]]) || 4 || 5
+|-
+| D2 || style=white-space:nowrap | {{fb|ISL}} || 3 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group I|UEFA Group I]] winners|| 9 October 2017 || 1st || – || data-sort-value="1.0" | – || 21 || 22
+|-
+| D3 || style=white-space:nowrap | {{fb|CRO}} || 2 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA second round|UEFA second round]] winners || 12 November 2017 || 5th || [[2014 FIFA World Cup|2014]] (group stage) || data-sort-value="6.1" | Third place ([[1998 FIFA World Cup|1998]]) || 18 || 20
+|-
+| D4 || style=white-space:nowrap | {{fb|NGA}} || 4 || [[Confederation of African Football|CAF]] || [[2018 FIFA World Cup qualification – CAF third round#Group B|CAF third round Group B]] winners || 7 October 2017 || 6th || [[2014 FIFA World Cup|2014]] (round of 16) || data-sort-value="3.3" | Round of 16 ([[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2014 FIFA World Cup|2014]]) || 41 || 48
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+|class_rules=[[2018 FIFA World Cup#Tiebreakers|Group stage tiebreakers]]
+|source=[https://www.fifa.com/worldcup/groups/index.html FIFA]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_ARG=1 |draw_ARG=1 |loss_ARG=1 |gf_ARG=3 |ga_ARG=5
+|win_ISL=0 |draw_ISL=1 |loss_ISL=2 |gf_ISL=2 |ga_ISL=5
+|win_CRO=3 |draw_CRO=0 |loss_CRO=0 |gf_CRO=7 |ga_CRO=1
+|win_NGA=1 |draw_NGA=0 |loss_NGA=2 |gf_NGA=3 |ga_NGA=4
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=CRO |team2=ARG |team3=NGA |team4=ISL
+
+<!--Country definitions-->
+|name_ARG={{fb|ARG}}
+|name_ISL={{fb|ISL}}
+|name_CRO={{fb|CRO}}
+|name_NGA={{fb|NGA}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2018 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+* The winners of Group D, [[Croatia national football team|Croatia]], advanced to play the runners-up of [[2018 FIFA World Cup Group C|Group C]], [[Denmark national football team|Denmark]].
+* The runners-up of Group D, [[Argentina national football team|Argentina]], advanced to play the winners of [[2018 FIFA World Cup Group C|Group C]], [[France national football team|France]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===Argentina vs Iceland===
+[[File:FWC 2018 - Group D - ARG v ISL - Messi penalty kick.jpg|thumb|right|[[Lionel Messi]] missed a penalty kick]]
+The two teams had never met before.<ref name=Kit>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association}}</ref>
+
+Despite stamping their authority on the game's opening stages, Argentina struggled to find space against the Icelandic defence. Argentina then scored in the 19th minute, [[Sergio Agüero]] scoring with a powerful left foot shot to the top left corner of the net giving them a 1–0 lead. [[Alfreð Finnbogason]] made history by scoring his country's first World Cup goal just four minutes later when he slotted to the net from six yards out after the ball broke to him from six yards out.<ref name="ARG-ISL recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/iceland-secure-historic-first-world-cup-point-2958355 |title=Iceland thwart Argentina on World Cup debut |publisher=FIFA |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520043555/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/iceland-secure-historic-first-world-cup-point-2958355 |archive-date=20 May 2026}}</ref> Argentina then had the chance to go ahead again when [[Hörður Björgvin Magnússon]] pushed [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]] inside the box after 64 minutes. [[Hannes Þór Halldórsson]] dove to his right to deny [[Lionel Messi]] a goal.<ref name="Goal Argentina v Iceland">{{cite web |last=Lancaster |first=Rob |title=Finnbogason makes history as Messi fluffs his big chance |url=http://www.goal.com/en-ke/match/argentina-v-iceland/report/a5bn20ladyztuqtjzv2l57bvt |website=Goal.com |date=16 June 2018}}</ref> Although Argentina continued to press for a goal, but they were repeatedly denied by the Icelandics' defense.<ref name="ARG-ISL recap"/>
+
+Argentina failed to win their opening match at a World Cup tournament for the first time since losing to Cameroon in [[1990 FIFA World Cup|1990]], and it was the first time that they drew their opener in the competition. Argentina have missed their last two penalties taken at a World Cup finals (excluding shoot-outs), with [[Ariel Ortega]] failing to convert against Sweden in [[2002 FIFA World Cup|2002]] before Messi's effort against Iceland in 2018. The Iceland forward's goal after 23 minutes was the earliest scored for a nation playing in their first World Cup match since [[Rashidi Yekini]] netted after 21 minutes for Nigeria against Bulgaria on [[1994 FIFA World Cup Group D#Nigeria vs Bulgaria|21 June 1994]].<ref>{{cite web |last=Bevan |first=Chris |title=Argentina 1 Iceland 1 |url=https://www.bbc.com/sport/football/44422188 |work=BBC Sport |date=16 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=d1
+|date={{Start date|2018|6|16|df=y}}
+|time=16:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|ARG}}
+|score={{score link|2018 FIFA World Cup Group D#Argentina vs Iceland|1–1}}
+|team2={{fb|ISL}}
+|goals1=
+*[[Sergio Agüero|Agüero]] {{goal|19}}
+|goals2=
+*[[Alfreð Finnbogason|Finnbogason]] {{goal|23}}
+|stadium=[[Otkritie Arena]], [[Moscow]]
+|attendance=44,190
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331515 |title=Argentina vs Iceland {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/1aca66e0b73a6bde/original/hmxx74lllmizrstuf6sb-pdf.pdf |title=Match report – Group D – Argentina v Iceland |publisher=[[FIFA]] |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062706/https://digitalhub.fifa.com/m/1aca66e0b73a6bde/original/hmxx74lllmizrstuf6sb-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg18a
+ |pattern_b  = _arg18A
+ |pattern_ra = _arg18a
+ |pattern_sh = _arg18h
+ |pattern_so = _arg18a
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Argentina<ref name="ARG-ISL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3a098d74039ee2a3/original/wthnz4pecoqfgsppiitp-pdf.pdf |title=Tactical Line-up – Group D – Argentina v Iceland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175205/https://digitalhub.fifa.com/m/3a098d74039ee2a3/original/wthnz4pecoqfgsppiitp-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ijsl18a
+ |pattern_b  = _isl18A
+ |pattern_ra = _ijsl18a
+ |pattern_sh = _ijsl18a
+ |pattern_so = _ijsl18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iceland<ref name="ARG-ISL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Willy Caballero]]
+|-
+|RB ||'''18'''||[[Eduardo Salvio]]
+|-
+|CB ||'''17'''||[[Nicolás Otamendi]]
+|-
+|CB ||'''16'''||[[Marcos Rojo]]
+|-
+|LB ||'''3''' ||[[Nicolás Tagliafico]]
+|-
+|CM ||'''14'''||[[Javier Mascherano]]
+|-
+|CM ||'''5''' ||[[Lucas Biglia]] || || {{suboff|54}}
+|-
+|RW ||'''13'''||[[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]] || || {{suboff|84}}
+|-
+|AM ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|LW ||'''11'''||[[Ángel Di María]] || || {{suboff|75}}
+|-
+|CF ||'''19'''||[[Sergio Agüero]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Éver Banega]] || || {{subon|54}}
+|-
+|MF ||'''22'''||[[Cristian Pavón]] || || {{subon|75}}
+|-
+|FW ||'''9''' ||[[Gonzalo Higuaín]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jorge Sampaoli]]
+|}
+|valign="top"|[[File:ARG-ISL 2018-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hannes Þór Halldórsson]]
+|-
+|RB ||'''2''' ||[[Birkir Már Sævarsson]]
+|-
+|CB ||'''14'''||[[Kári Árnason]]
+|-
+|CB ||'''6''' ||[[Ragnar Sigurðsson]]
+|-
+|LB ||'''18'''||[[Hörður Björgvin Magnússon]]
+|-
+|DM ||'''10'''||[[Gylfi Sigurðsson]]
+|-
+|CM ||'''17'''||[[Aron Gunnarsson]] ([[Captain (association football)|c]]) || || {{suboff|76}}
+|-
+|CM ||'''20'''||[[Emil Hallfreðsson]]
+|-
+|RW ||'''7''' ||[[Jóhann Berg Guðmundsson]] || || {{suboff|63}}
+|-
+|LW ||'''8''' ||[[Birkir Bjarnason]]
+|-
+|CF ||'''11'''||[[Alfreð Finnbogason]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Rúrik Gíslason]] || || {{subon|63}}
+|-
+|DF ||'''23'''||[[Ari Freyr Skúlason]] || || {{subon|76}}
+|-
+|FW ||'''9'''||[[Björn Bergmann Sigurðarson]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Heimir Hallgrímsson]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Hannes Þór Halldórsson]] (Iceland)<ref name="ARG-ISL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="ARG-ISL line-ups"/>
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+<br />Tomasz Listkiewicz ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+|}
+
+===Croatia vs Nigeria===
+The two teams had never met before.<ref name=Kit/>
+
+[[Ivan Perišić]] went closest to hitting the target with an effort from 20 metres after a quarter of an hour, but in the end it was Nigeria's [[Oghenekaro Etebo]] who brought joy to the huge Croatian contingent in Kaliningrad, beating his own goalkeeper with the ball going into the left corner of the net following a [[Luka Modrić]] corner from the right which had been deflected off Perišić and [[Mario Mandžukić]].<ref name="CRO-NGA recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/report-cro--nga-2959074 |title=Modric-inspired Croatia open with a win |publisher=FIFA |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044000/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/report-cro--nga-2959074 |archive-date=20 May 2026}}</ref> [[Alex Iwobi]], after wriggling into space on the left side of the box, he hit a shot directly into a Croatia defender. [[Ante Rebić]] fired over from Perišić's left-wing centre, with [[Odion Ighalo]]'s header recording the match's first shot on target in the 59th minute. [[William Troost-Ekong]] was penalised for holding Mandžukić in the penalty area, and Modrić sent [[Francis Uzoho]] the wrong way from 12 yards for his first World Cup goal, shooting low to the left corner.<ref name="Goal Croatia v Nigeria">{{cite web |last=Smith |first=Jamie |title=Etebo own goal, Modric penalty settle tight clash |url=http://www.goal.com/en/match/croatia-v-nigeria/azmm7v76ft026xj554jejlw4p |website=Goal.com |date=16 June 2018}}</ref>
+
+Croatia have won their opening game of a World Cup for the first time since their debut in the competition in 1998 ([[1998 FIFA World Cup Group H#Jamaica vs Croatia|3–1]] vs Jamaica). Nigeria became the first team in World Cup history to concede two consecutive own goals in the competition, with their last goal shipped in 2014, against [[2014 FIFA World Cup knockout stage#France vs Nigeria|France in the last 16]], also coming in this manner.<ref name="CRO-NGA recap"/><ref name="Goal Croatia v Nigeria"/><ref>{{cite web |last=Whalley |first=Mike |title=Croatia 2 Nigeria 0 |url=https://www.bbc.com/sport/football/44422185 |work=BBC Sport |date=16 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=d2
+|date={{Start date|2018|6|16|df=y}}
+|time=21:00 [[Kaliningrad Time|KALT]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|CRO}}
+|score={{score link|2018 FIFA World Cup Group D#Croatia vs Nigeria|2–0}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Oghenekaro Etebo|Etebo]] {{goal|32|o.g.}}
+*[[Luka Modrić|Modrić]] {{goal|71|pen.}}
+|goals2=
+|stadium=[[Kaliningrad Stadium]], [[Kaliningrad]]
+|attendance=31,136
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331523 |title=Croatia vs Nigeria {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/34f1b12bd1ddc013/original/ysbfmfm3zpbjsi8lftkh-pdf.pdf |title=Match report – Group D – Croatia v Nigeria |publisher=[[FIFA]] |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062745/https://digitalhub.fifa.com/m/34f1b12bd1ddc013/original/ysbfmfm3zpbjsi8lftkh-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cro18H
+ |pattern_b  = _cro18ho
+ |pattern_ra = _cro18H
+ |pattern_sh = _cro18h
+ |pattern_so = _pol18H
+ |leftarm    = F40000
+ |body       = F40000
+ |rightarm   = F40000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Croatia<ref name="CRO-NGA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4d84ad13ea75f378/original/xk0dbu3dv17hl4zefcod-pdf.pdf |title=Tactical Line-up – Group D – Croatia v Nigeria |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175218/https://digitalhub.fifa.com/m/4d84ad13ea75f378/original/xk0dbu3dv17hl4zefcod-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ngra18a
+ |pattern_b  = _nga18a
+ |pattern_ra = _ngra18a
+ |pattern_sh = _nga18a
+ |pattern_so = _nga18a
+ |leftarm    = 1A4030
+ |body       = 1A4030
+ |rightarm   = 1A4030
+ |shorts     = 1A4030
+ |socks      = 1A4030
+ |title      = Nigeria<ref name="CRO-NGA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Danijel Subašić]]
+|-
+|RB ||'''2''' ||[[Šime Vrsaljko]]
+|-
+|CB ||'''21'''||[[Domagoj Vida]]
+|-
+|CB ||'''6''' ||[[Dejan Lovren]]
+|-
+|LB ||'''3''' ||[[Ivan Strinić]]
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]] || {{yel|30}}
+|-
+|CM ||'''10'''||[[Luka Modrić]] ([[Captain (association football)|c]])
+|-
+|RW ||'''18'''||[[Ante Rebić]] || || {{suboff|78}}
+|-
+|AM ||'''9''' ||[[Andrej Kramarić]] || || {{suboff|60}}
+|-
+|LW ||'''4''' ||[[Ivan Perišić]]
+|-
+|CF ||'''17'''||[[Mario Mandžukić]] || || {{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Marcelo Brozović]] || {{yel|89}} || {{subon|60}}
+|-
+|MF ||'''8''' ||[[Mateo Kovačić]] || || {{subon|78}}
+|-
+|FW ||'''20'''||[[Marko Pjaca]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Zlatko Dalić]]
+|}
+|valign="top"|[[File:CRO-NGA 2018-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Francis Uzoho]]
+|-
+|RB ||'''12'''||[[Shehu Abdullahi]]
+|-
+|CB ||'''6''' ||[[Leon Balogun]]
+|-
+|CB ||'''5''' ||[[William Troost-Ekong]] || {{yel|70}}
+|-
+|LB ||'''2''' ||[[Brian Idowu]]
+|-
+|CM ||'''4''' ||[[Wilfred Ndidi]]
+|-
+|CM ||'''8''' ||[[Oghenekaro Etebo]]
+|-
+|RW ||'''11'''||[[Victor Moses]]
+|-
+|AM ||'''10'''||[[John Obi Mikel]] ([[Captain (association football)|c]]) || || {{suboff|88}}
+|-
+|LW ||'''18'''||[[Alex Iwobi]] || || {{suboff|62}}
+|-
+|CF ||'''9''' ||[[Odion Ighalo]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Ahmed Musa]] || || {{subon|62}}
+|-
+|FW ||'''14'''||[[Kelechi Iheanacho]] || || {{subon|72}}
+|-
+|FW ||'''13'''||[[Simeon Nwankwo]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Gernot Rohr]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Luka Modrić]] (Croatia)<ref name="CRO-NGA recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="CRO-NGA line-ups"/>
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Pau Cebrián Devís ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===Argentina vs Croatia===
+[[File:Ivan Perišić - 2018 FIFA World Cup - full.jpg|thumb|right|[[Ivan Perišić]] followed by [[Gabriel Mercado]]]]The two teams had met in four matches, including one game at the [[1998 FIFA World Cup]], an Argentina [[1998 FIFA World Cup Group H#Argentina vs Croatia|1–0]] victory.<ref name=Kit9>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=9}}</ref>
+
+[[Ivan Perišić]] surged into space down the left and shot towards the bottom-right corner, which was tipped around the post by [[Willy Caballero]]. A [[Dejan Lovren]] block prevented [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]]'s low strike finding the net and then [[Marcos Acuña]]'s cross clipped the top of [[Danijel Subašić]]'s crossbar. [[Enzo Pérez]] struck wide from 15 yards. Three minutes later, [[Mario Mandžukić]] flashed a header wide of Caballero's right-hand post from six yards. Eight minutes into the second half, [[Ante Rebić]] shot a right foot volley past Caballero after the goalkeeper's mishit an attempted chip over his head. Subašić kept out Meza's close-range effort from substitute [[Gonzalo Higuaín]]'s cutback. With ten minutes remaining [[Luka Modrić]] curled in from 20 yards with his right foot to the right corner of the net to score Croatia's second. [[Ivan Rakitić]] was fouled by [[Javier Mascherano]] – [[Nicolás Otamendi]] receiving a booking for appearing to kick the ball towards Rakitić's head as tempers flared – and crashed the resulting free-kick against the crossbar. Rakitić in the 91st minute, though, slotted home from the centre of the box after his initial shot deflected off Caballero and found [[Mateo Kovačić]] who passed it back to Rakitić from the left.<ref>{{cite web |last=Atkinson |first=Guy |title=Caballero drops clanger as Messi's men are stunned |url=http://www.goal.com/en-us/match/argentina-v-croatia/report/bwhgq3x658klgh6zg42l2882x |website=Goal.com |date=21 June 2018}}</ref> With their second win in a row, Croatia advanced to the round of 16 for the first time since [[1998 FIFA World Cup|1998]], having been eliminated in [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]] and [[2014 FIFA World Cup|2014]] editions.
+
+This was Croatia's first victory in five attempts against a South American team at the World Cup, having lost the previous four.<ref name="ARG-CRO recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/croatia-advance-on-a-dark-night-for-argentina-2964326 |title=Croatia advance on a dark night for Argentina |publisher=FIFA |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045653/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/croatia-advance-on-a-dark-night-for-argentina-2964326 |archive-date=20 May 2026}}</ref> This was Argentina's heaviest defeat in the first-round group stage of a World Cup since losing [[1958 FIFA World Cup Group 1#Czechoslovakia vs Argentina|6–1]] to Czechoslovakia in 1958. Argentina failed to win either of their opening two group stage matches for the first time since 1974.<ref>{{cite web |last=Jennings |first=Patrick |title=Argentina 0 Croatia 3 |url=https://www.bbc.com/sport/football/44439114 |work=BBC Sport |date=21 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=d3
+|date={{Start date|2018|6|21|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|ARG}}
+|score={{score link|2018 FIFA World Cup Group D#Argentina vs Croatia|0–3}}
+|team2={{fb|CRO}}
+|goals1=
+|goals2=
+*[[Ante Rebić|Rebić]] {{goal|53}}
+*[[Luka Modrić|Modrić]] {{goal|80}}
+*[[Ivan Rakitić|Rakitić]] {{goal|90+1}}
+|stadium=[[Nizhny Novgorod Stadium]], [[Nizhny Novgorod]]
+|attendance=43,319
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Association|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331513 |title=Argentina vs Croatia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/4e2b7e744f9d8fc7/original/rreyld9smjelojvdapyl-pdf.pdf |title=Match report – Group D – Argentina v Croatia |publisher=[[FIFA]] |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063152/https://digitalhub.fifa.com/m/4e2b7e744f9d8fc7/original/rreyld9smjelojvdapyl-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _arg18H
+ |pattern_ra =
+ |pattern_sh = _arg18a
+ |pattern_so = _arg18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina<ref name="ARG-CRO line-ups">{{cite web |url=https://digitalhub.fifa.com/m/43128f285c3d7e15/original/opfhg3yrjnwu1lojqjok-pdf.pdf |title=Tactical Line-up – Group D – Argentina v Croatia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175233/https://digitalhub.fifa.com/m/43128f285c3d7e15/original/opfhg3yrjnwu1lojqjok-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _cro18A
+ |pattern_b  = _cro18aw
+ |pattern_ra = _cro18A
+ |pattern_sh = _cro18a
+ |pattern_so = _cro18a2
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Croatia<ref name="ARG-CRO line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Willy Caballero]]
+|-
+|CB ||'''2''' ||[[Gabriel Mercado]] || {{yel|51}}
+|-
+|CB ||'''17'''||[[Nicolás Otamendi]] || {{yel|85}}
+|-
+|CB ||'''3''' ||[[Nicolás Tagliafico]]
+|-
+|RM ||'''18'''||[[Eduardo Salvio]] || || {{suboff|56}}
+|-
+|CM ||'''14'''||[[Javier Mascherano]]
+|-
+|CM ||'''15'''||[[Enzo Pérez]] || || {{suboff|68}}
+|-
+|LM ||'''8''' ||[[Marcos Acuña]] || {{yel|87}}
+|-
+|RF ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''19'''||[[Sergio Agüero]] || || {{suboff|54}}
+|-
+|LF ||'''13'''||[[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Gonzalo Higuaín]] || || {{subon|54}}
+|-
+|MF ||'''22'''||[[Cristian Pavón]] || || {{subon|56}}
+|-
+|FW ||'''21'''||[[Paulo Dybala]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jorge Sampaoli]]
+|}
+|valign="top"|[[File:ARG-CRO 2018-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Danijel Subašić]]
+|-
+|RB ||'''2''' ||[[Šime Vrsaljko]] || {{yel|67}}
+|-
+|CB ||'''6''' ||[[Dejan Lovren]]
+|-
+|CB ||'''21'''||[[Domagoj Vida]]
+|-
+|LB ||'''3''' ||[[Ivan Strinić]]
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]]
+|-
+|CM ||'''11'''||[[Marcelo Brozović]]
+|-
+|RW ||'''18'''||[[Ante Rebić]] || {{yel|39}} || {{suboff|57}}
+|-
+|AM ||'''10'''||[[Luka Modrić]] ([[Captain (association football)|c]])
+|-
+|LW ||'''4''' ||[[Ivan Perišić]] || || {{suboff|82}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]] || {{yel|58}} || {{suboff|90+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Andrej Kramarić]] || || {{subon|57}}
+|-
+|MF ||'''8''' ||[[Mateo Kovačić]] || || {{subon|82}}
+|-
+|DF ||'''5''' ||[[Vedran Ćorluka]] || {{yel|90+4}} || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Zlatko Dalić]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Luka Modrić]] (Croatia)<ref name="ARG-CRO recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="ARG-CRO line-ups"/>
+<br />[[Abdukhamidullo Rasulov]] ([[Uzbekistan Football Association|Uzbekistan]])
+<br />Jakhongir Saidov ([[Uzbekistan Football Association|Uzbekistan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Bertrand Brial ([[New Caledonian Football Federation|New Caledonia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Corey Rockwell ([[United States Soccer Federation|United States]])
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Nigeria vs Iceland===
+[[File:FWC 2018 - Group D - NGA v ISL - Photo 77.jpg|thumb|right|Pre-match]]
+
+The two teams had met only once, in a friendly game in 1981, won by Iceland 3–0.<ref name=Kit9/>
+
+[[Gylfi Sigurðsson]] shot a sixth-minute chance straight at [[Francis Uzoho]]. In the last minute of the first half, [[Alfreð Finnbogason]] was unable to get a decisive touch on Sigurðsson's free-kick delivered from the right wing. In the 49th minute, [[Victor Moses]]' cross was collected by [[Ahmed Musa]], who first controlled it in the air with his right foot before scoring on the half-volley powerfully to the net. [[Hannes Þór Halldórsson]] tipped over a deflected drive from [[Wilfred Ndidi]]. In the 75th minute, fed by [[Kenneth Omeruo]], Musa burst clear in the left channel, cut inside and rounded Halldórsson before scoring with his right foot. A late VAR review spotted that substitute [[Tyronne Ebuehi]] had tripped Finnbogason, with Sigurðsson's spot-kick effort clearing the crossbar.<ref>{{cite web |last=Smith |first=Jamie |title=Musa brace boosts Super Eagles & Argentina |url=http://www.goal.com/en-om/match/nigeria-v-iceland/report/cu16m3pha19izr1hg2r0n9vxl |website=Goal.com |date=22 June 2018}}</ref>
+
+Iceland are the third World Cup debutants from Europe to have faced Nigeria at the tournament, and on every occasion Nigeria have emerged victorious, following victories against [[Greece national football team|Greece]] ([[1994 FIFA World Cup Group D#Greece vs Nigeria|2–0]]) in 1994 and [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] ([[2014 FIFA World Cup Group F#Nigeria vs Bosnia and Herzegovina|1–0]]) in 2014.<ref name="NGA-ISL recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/musa-brace-brings-nigeria-back-into-contention |title=Musa brace brings Nigeria back into contention |publisher=FIFA |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045915/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/musa-brace-brings-nigeria-back-into-contention |archive-date=20 May 2026}}</ref> Uzoho is the second youngest goalkeeper to keep a clean sheet in a World Cup match (19 years, 237 days), behind only [[Li Chan-myung]] in North Korea's [[1966 FIFA World Cup Group 4#North Korea vs Italy|1–0]] win over Italy in July 1966 (19 years, 198 days). This is Nigeria's first victory in a World Cup game by a margin of more than one goal since they beat Greece 2–0 in 1994 at their first World Cup tournament.<ref>{{cite web |last=Johnston |first=Neil |title=Nigeria 2 Iceland 0 |url=https://www.bbc.com/sport/football/44439138 |work=BBC Sport |date=22 June 2018}}</ref> This was Iceland's first group stage's defeat in any big tournament.
+
+<onlyinclude>{{#invoke:Football box|main|section=d4
+|date={{Start date|2018|6|22|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|NGA}}
+|score={{score link|2018 FIFA World Cup Group D#Nigeria vs Iceland|2–0}}
+|team2={{fb|ISL}}
+|goals1=
+*[[Ahmed Musa|Musa]] {{goal|49||75}}
+|goals2=
+|stadium=[[Volgograd Arena]], [[Volgograd]]
+|attendance=40,904
+|referee=[[Matthew Conger]] ([[New Zealand Football|New Zealand]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331497 |title=Nigeria vs Iceland {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/c9eebaa2899777c/original/x9veio9h7kg9xqurvgpt-pdf.pdf |title=Match report – Group D – Nigeria v Iceland |publisher=[[FIFA]] |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063217/https://digitalhub.fifa.com/m/c9eebaa2899777c/original/x9veio9h7kg9xqurvgpt-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ngra18h
+ |pattern_b  = _nga18H
+ |pattern_ra = _ngra18h
+ |pattern_sh = _usa18h
+ |pattern_so = _nga18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 37FF5D
+ |title      = Nigeria<ref name="NGA-ISL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/40fdf663018bd41/original/mccmcoppyxlmxex4gkaa-pdf.pdf |title=Tactical Line-up – Group D – Nigeria v Iceland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182151/https://digitalhub.fifa.com/m/40fdf663018bd41/original/mccmcoppyxlmxex4gkaa-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ijsl18h
+ |pattern_b  = _isl18H
+ |pattern_ra = _ijsl18h
+ |pattern_sh = _ijsl18h
+ |pattern_so = _ijsl18h
+ |leftarm    = 0C2FFF
+ |body       = 0C2FFF
+ |rightarm   = 0C2FFF
+ |shorts     = 0C2FFF
+ |socks      = 0C2FFF
+ |title      = Iceland<ref name="NGA-ISL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Francis Uzoho]]
+|-
+|CB ||'''22'''||[[Kenneth Omeruo]]
+|-
+|CB ||'''5''' ||[[William Troost-Ekong]]
+|-
+|CB ||'''6''' ||[[Leon Balogun]]
+|-
+|DM ||'''10'''||[[John Obi Mikel]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||[[Oghenekaro Etebo]] || || {{suboff|90}}
+|-
+|CM ||'''4''' ||[[Wilfred Ndidi]]
+|-
+|RW ||'''11'''||[[Victor Moses]]
+|-
+|LW ||'''2''' ||[[Brian Idowu]] || {{yel|44}} || {{suboff|46}}
+|-
+|CF ||'''7''' ||[[Ahmed Musa]]
+|-
+|CF ||'''14'''||[[Kelechi Iheanacho]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Tyronne Ebuehi]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Odion Ighalo]] || || {{subon|85}}
+|-
+|FW ||'''18'''||[[Alex Iwobi]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Gernot Rohr]]
+|}
+|valign="top"|[[File:NGA-ISL 2018-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hannes Þór Halldórsson]]
+|-
+|RB ||'''2''' ||[[Birkir Már Sævarsson]]
+|-
+|CB ||'''14'''||[[Kári Árnason]]
+|-
+|CB ||'''6''' ||[[Ragnar Sigurðsson]] || || {{suboff|65}}
+|-
+|LB ||'''18'''||[[Hörður Björgvin Magnússon]]
+|-
+|RM ||'''19'''||[[Rúrik Gíslason]]
+|-
+|CM ||'''17'''||[[Aron Gunnarsson]] ([[Captain (association football)|c]]) || || {{suboff|87}}
+|-
+|CM ||'''10'''||[[Gylfi Sigurðsson]]
+|-
+|LM ||'''8''' ||[[Birkir Bjarnason]]
+|-
+|CF ||'''22'''||[[Jón Daði Böðvarsson]] || || {{suboff|71}}
+|-
+|CF ||'''11'''||[[Alfreð Finnbogason]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Sverrir Ingi Ingason]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||[[Björn Bergmann Sigurðarson]] || || {{subon|71}}
+|-
+|DF ||'''23'''||[[Ari Freyr Skúlason]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Heimir Hallgrímsson]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Ahmed Musa]] (Nigeria)<ref name="NGA-ISL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="NGA-ISL line-ups"/>
+<br />Simon Lount ([[New Zealand Football|New Zealand]])
+<br />[[Tevita Makasini]] ([[Tonga Football Association|Tonga]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ricardo Montero (referee)|Ricardo Montero]] ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Hiroshi Yamauchi ([[Japan Football Association|Japan]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|}
+
+===Nigeria vs Argentina===
+[[File:Rojo after scoring against Nigeria.jpg|thumb|right|The Argentines celebrating Rojo's goal]]The two teams had met in eight matches, including four games at FIFA World Cup group stages, in [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]] and [[2014 FIFA World Cup|2014]], all won by Argentina.<ref name=Kit9/>
+
+[[Ahmed Musa]] narrowly cleared the crossbar in the early minutes of the game. In the 14th minute, [[Lionel Messi]] controlled the ball from a pass over the top from [[Éver Banega]] on his thigh and his left boot before shooting a right-footed drive past [[Francis Uzoho]] from the right. [[Leon Balogun]] brought [[Ángel Di María]] down 25 yards from goal, but Uzoho tipped Messi's free kick to his left-hand post. In the second half, Leon Balogun was held in the penalty area by [[Javier Mascherano]] after a corner form the left, and [[Victor Moses]] scored from the resulting penalty to equalize for Nigeria, shooting low to the right with the goalkeeper diving the other way. After a series of defensive fouls in each penalty area that went uncalled despite a VAR check for a handball by Marcos Rojo, [[Oghenekaro Etebo]] narrowly missed from a long-range free kick. [[Gabriel Mercado]] raided down the right and bent a cross into the penalty area, with [[Marcos Rojo]], who scored the decisive goal against Nigeria four years ago in Brazil, once again converting, as he tucked home a low right-footed volley to give Argentina the win and see them advance to the knockout stage.<ref>{{cite web |last=Smith |first=Jamie |title=Late Rojo stunner saves Messi's men |url=http://www.goal.com/en-za/match/nigeria-v-argentina/dnelgqreazv7u1ovoebgwh1bd |website=Goal.com |date=26 June 2018}}</ref><ref>{{cite web |last=Skelton |first=Jack |title=Nigeria 1 Argentina 2 |url=https://www.bbc.com/sport/football/44439263 |work=BBC Sport |date=26 June 2018}}</ref>
+
+Messi's strike brought up the century for goals at Russia 2018. He also joined [[Diego Maradona]] and [[Gabriel Batistuta]] in becoming the third Argentina player to score in three World Cups.<ref name="NGA-ARG recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/rojo-returns-to-haunt-nigeria-as-argentina-progress |title=Rojo returns to haunt Nigeria as Argentina progress |publisher=FIFA |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520051831/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/rojo-returns-to-haunt-nigeria-as-argentina-progress |archive-date=20 May 2026}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=d5
+|date={{Start date|2018|6|26|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|NGA}}
+|score={{score link|2018 FIFA World Cup Group D#Nigeria vs Argentina|1–2}}
+|team2={{fb|ARG}}
+|goals1=
+*[[Victor Moses|Moses]] {{goal|51|pen.}}
+|goals2=
+*[[Lionel Messi|Messi]] {{goal|14}}
+*[[Marcos Rojo|Rojo]] {{goal|86}}
+|stadium=[[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance=64,468
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331519 |title=Nigeria vs Argentina {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/7aa26a6f4bf3934b/original/ruwat1fihouipfuexwfe-pdf.pdf |title=Match report – Group D – Nigeria v Argentina |publisher=[[FIFA]] |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063551/https://digitalhub.fifa.com/m/7aa26a6f4bf3934b/original/ruwat1fihouipfuexwfe-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ngra18a
+ |pattern_b  = _nga18a
+ |pattern_ra = _ngra18a
+ |pattern_sh = _nga18a
+ |pattern_so = _nga18a
+ |leftarm    = 1A4030
+ |body       = 1A4030
+ |rightarm   = 1A4030
+ |shorts     = 1A4030
+ |socks      = 1A4030
+ |title      = Nigeria<ref name="NGA-ARG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7d9c0021dbb0e6db/original/jov1ouzccpfm5egmlvdv-pdf.pdf |title=Tactical Line-up – Group D – Nigeria v Argentina |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182203/https://digitalhub.fifa.com/m/7d9c0021dbb0e6db/original/jov1ouzccpfm5egmlvdv-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _arg18H
+ |pattern_ra =
+ |pattern_sh = _arg18h
+ |pattern_so = _arg18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina<ref name="NGA-ARG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Francis Uzoho]]
+|-
+|CB ||'''6''' ||[[Leon Balogun]] || {{yel|32}}
+|-
+|CB ||'''5''' ||[[William Troost-Ekong]]
+|-
+|CB ||'''22'''||[[Kenneth Omeruo]] || || {{suboff|90}}
+|-
+|DM ||'''10'''||[[John Obi Mikel]] ([[Captain (association football)|c]]) || {{yel|90+1}}
+|-
+|CM ||'''8''' ||[[Oghenekaro Etebo]]
+|-
+|CM ||'''4''' ||[[Wilfred Ndidi]]
+|-
+|RW ||'''11'''||[[Victor Moses]]
+|-
+|LW ||'''2''' ||[[Brian Idowu]]
+|-
+|CF ||'''7''' ||[[Ahmed Musa]] || || {{suboff|90+2}}
+|-
+|CF ||'''14'''||[[Kelechi Iheanacho]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Odion Ighalo]] || || {{subon|46}}
+|-
+|FW ||'''18'''||[[Alex Iwobi]] || || {{subon|90}}
+|-
+|FW ||'''13'''||[[Simeon Nwankwo]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Gernot Rohr]]
+|}
+|valign="top"|[[File:NGA-ARG 2018-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Franco Armani]]
+|-
+|RB ||'''2''' ||[[Gabriel Mercado]]
+|-
+|CB ||'''17'''||[[Nicolás Otamendi]]
+|-
+|CB ||'''16'''||[[Marcos Rojo]]
+|-
+|LB ||'''3''' ||[[Nicolás Tagliafico]] || || {{suboff|80}}
+|-
+|RM ||'''15'''||[[Enzo Pérez]] || || {{suboff|61}}
+|-
+|CM ||'''14'''||[[Javier Mascherano]] || {{yel|49}}
+|-
+|CM ||'''7''' ||[[Éver Banega]] || {{yel|64}}
+|-
+|LM ||'''11'''||[[Ángel Di María]] || || {{suboff|72}}
+|-
+|CF ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]]) || {{yel|90+4}}
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Cristian Pavón]] || || {{subon|61}}
+|-
+|MF ||'''13'''||[[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]] || || {{subon|72}}
+|-
+|FW ||'''19'''||[[Sergio Agüero]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jorge Sampaoli]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Lionel Messi]] (Argentina)<ref name="NGA-ARG recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="NGA-ARG line-ups"/>
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+|}
+
+===Iceland vs Croatia===
+The two teams had met in six matches, most recently in 2017 for the [[2018 FIFA World Cup qualification]], which ended in a [[2018 FIFA World Cup qualification – UEFA Group I|1–0]] Iceland victory.<ref name=Kit9/>
+
+[[Hörður Björgvin Magnússon|Hörður Magnússon]] headed wide from [[Jóhann Berg Guðmundsson|Jóhann Guðmundsson]]'s outswinging corner. [[Alfreð Finnbogason]] shot wide from the edge of the area. [[Birkir Bjarnason]] pounced from a corner, but [[Lovre Kalinić]] made a save from [[Aron Gunnarsson]]'s curling effort. At the restart, [[Milan Badelj]]'s strike clattered off the crossbar. Badelj got his goal when he reacted to a loose ball in the Iceland box and hammered home from close range. [[Sverrir Ingi Ingason|Sverrir Ingason]]'s header rebounded back off the bar. [[Dejan Lovren]]'s handball though enabled [[Gylfi Sigurðsson]] to score from the spot in the 76th minute. Badelj provided a throughball and, having outpaced his marker, [[Ivan Perišić]] lashed home to score the winner.<ref>{{cite web |last=Reddy |first=Luke |title=Iceland 1 Croatia 2 |url=https://www.bbc.com/sport/football/44439256 |work=BBC Sport |date=26 June 2018}}</ref><ref>{{cite web |last=Ridge |first=Patric |title=Perisic strikes late on to secure maximum points |url=http://www.goal.com/en/match/iceland-v-croatia/ek4mqlvymecadbww168frcs89 |website=Goal.com |date=26 June 2018}}</ref>
+
+Croatia topped a world finals group for the first time in their history, and because of Croatia's victory, Argentina also qualified.<ref name="ISL-CRO recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/isl-cro-review-words-2970706 |title=Croatia send brave Iceland home |publisher=FIFA |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520051907/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/isl-cro-review-words-2970706 |archive-date=20 May 2026}}</ref> With the defeat, Iceland stood bottom in the group with a single point and were eliminated.
+
+<onlyinclude>{{#invoke:Football box|main|section=d6
+|date={{Start date|2018|6|26|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|ISL}}
+|score={{score link|2018 FIFA World Cup Group D#Iceland vs Croatia|1–2}}
+|team2={{fb|CRO}}
+|goals1=
+*[[Gylfi Sigurðsson|Sigurðsson]] {{goal|76|pen.}}
+|goals2=
+*[[Milan Badelj|Badelj]] {{goal|53}}
+*[[Ivan Perišić|Perišić]] {{goal|90}}
+|stadium=[[Rostov Arena]], [[Rostov-on-Don]]
+|attendance=43,472
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331510 |title=Iceland vs Croatia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/46188ccdb75aa0/original/fluxpn6buvpgtqncqbny-pdf.pdf |title=Match report – Group D – Iceland v Croatia |publisher=[[FIFA]] |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063600/https://digitalhub.fifa.com/m/46188ccdb75aa0/original/fluxpn6buvpgtqncqbny-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ijsl18a
+ |pattern_b  = _isl18A
+ |pattern_ra = _ijsl18a
+ |pattern_sh = _ijsl18a
+ |pattern_so = _ijsl18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iceland<ref name="ISL-CRO line-ups">{{cite web |url=https://digitalhub.fifa.com/m/58e42aab6d05d8e5/original/mhi9ignt7jaxbfqhnsvw-pdf.pdf |title=Tactical Line-up – Group D – Iceland v Croatia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182217/https://digitalhub.fifa.com/m/58e42aab6d05d8e5/original/mhi9ignt7jaxbfqhnsvw-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _cro18A
+ |pattern_b  = _cro18aw
+ |pattern_ra = _cro18A
+ |pattern_sh = _cro18a
+ |pattern_so = _cro18a2
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Croatia<ref name="ISL-CRO line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hannes Þór Halldórsson]]
+|-
+|RB ||'''2''' ||[[Birkir Már Sævarsson]] || {{yel|84}}
+|-
+|CB ||'''5''' ||[[Sverrir Ingi Ingason]]
+|-
+|CB ||'''6''' ||[[Ragnar Sigurðsson]] || || {{suboff|70}}
+|-
+|LB ||'''18'''||[[Hörður Björgvin Magnússon]]
+|-
+|CM ||'''17'''||[[Aron Gunnarsson]] ([[Captain (association football)|c]])
+|-
+|CM ||'''20'''||[[Emil Hallfreðsson]] || {{yel|59}}
+|-
+|RW ||'''7''' ||[[Jóhann Berg Guðmundsson]]
+|-
+|AM ||'''10'''||[[Gylfi Sigurðsson]]
+|-
+|LW ||'''8''' ||[[Birkir Bjarnason]] || || {{suboff|90}}
+|-
+|CF ||'''11'''||[[Alfreð Finnbogason]] || {{yel|64}} || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Björn Bergmann Sigurðarson]] || || {{subon|70}}
+|-
+|MF ||'''4''' ||[[Albert Guðmundsson (footballer, born 1997)|Albert Guðmundsson]] || || {{subon|85}}
+|-
+|MF ||'''21'''||[[Arnór Ingvi Traustason]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Heimir Hallgrímsson]]
+|}
+|valign="top"|[[File:ISL-CRO 2018-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Lovre Kalinić]]
+|-
+|RB ||'''13'''||[[Tin Jedvaj]] || {{yel|83}}
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]]
+|-
+|CB ||'''15'''||[[Duje Ćaleta-Car]]
+|-
+|LB ||'''22'''||[[Josip Pivarić]]
+|-
+|CM ||'''10'''||[[Luka Modrić]] ([[Captain (association football)|c]]) || || {{suboff|65}}
+|-
+|CM ||'''19'''||[[Milan Badelj]]
+|-
+|RW ||'''20'''||[[Marko Pjaca]] || {{yel|14}} || {{suboff|70}}
+|-
+|AM ||'''8''' ||[[Mateo Kovačić]] || || {{suboff|81}}
+|-
+|LW ||'''4''' ||[[Ivan Perišić]]
+|-
+|CF ||'''9''' ||[[Andrej Kramarić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Filip Bradarić]] || || {{subon|65}}
+|-
+|DF ||'''6''' ||[[Dejan Lovren]] || || {{subon|70}}
+|-
+|MF ||'''7''' ||[[Ivan Rakitić]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Zlatko Dalić]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Milan Badelj]] (Croatia)<ref name="ISL-CRO recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="ISL-CRO line-ups"/>
+<br />Pau Cebrián Devís ([[Royal Spanish Football Federation|Spain]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[John Pitti]] ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Gabriel Victoria ([[Panamanian Football Federation|Panama]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+|}
+
+==Discipline==
+Fair play points would have been used as tiebreakers if the overall and head-to-head records of teams were tied. These were calculated based on yellow and red cards received in all group matches as follows:<ref name="regulations"/>
+*first yellow card: minus 1 point;
+*indirect red card (second yellow card): minus 3 points;
+*direct red card: minus 4 points;
+*yellow card and direct red card: minus 5 points;
+
+Only one of the above deductions were applied to a player in a single match.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Points
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{fb|ISL}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"| 3 ||  ||  ||
+!style="border-left:3px solid gray"| −3
+|-
+|align=left|{{fb|NGA}}
+|style="border-left:3px solid gray"| 1 ||  ||  ||
+|style="border-left:3px solid gray"| 1 ||  ||  ||
+|style="border-left:3px solid gray"| 2 ||  ||  ||
+!style="border-left:3px solid gray"| −4
+|-
+|align=left|{{fb|ARG}}
+|style="border-left:3px solid gray"|  ||  ||  ||
+|style="border-left:3px solid gray"| 3 ||  ||  ||
+|style="border-left:3px solid gray"| 3 ||  ||  ||
+!style="border-left:3px solid gray"| −6
+|-
+|align=left|{{fb|CRO}}
+|style="border-left:3px solid gray"| 2 ||  ||  ||
+|style="border-left:3px solid gray"| 4 ||  ||  ||
+|style="border-left:3px solid gray"| 2 ||  ||  ||
+!style="border-left:3px solid gray"| −8
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Croatia at the FIFA World Cup]]
+*[[Iceland at the FIFA World Cup]]
+*[[Nigeria at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20171202102739/http://www.fifa.com/worldcup/groups/group=275081/index.html 2018 FIFA World Cup Group D], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group D}}
+[[Category:2018 FIFA World Cup group stage|D]]
+[[Category:Argentina at the 2018 FIFA World Cup]]
+[[Category:Iceland at the 2018 FIFA World Cup]]
+[[Category:Croatia at the 2018 FIFA World Cup]]
+[[Category:Nigeria at the 2018 FIFA World Cup]]
+[[Category:Football in Moscow]]
+[[Category:2018 in Moscow]]
+[[Category:Sport in Kaliningrad]]
+[[Category:Sport in Nizhny Novgorod]]
+[[Category:Sports competitions in Volgograd]]
+[[Category:Football in Saint Petersburg]]
+[[Category:2018 in Saint Petersburg]]
+[[Category:Sport in Rostov-on-Don]]
+[[Category:2018 in Rostov-on-Don]]
+[[Category:2018 in Nizhny Novgorod]]

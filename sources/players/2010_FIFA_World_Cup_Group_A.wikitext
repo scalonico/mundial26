@@ -1,0 +1,935 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Group A of the [[2010 FIFA World Cup]] began on 11 June and ended on 22 June 2010.<ref>{{cite press release |url=https://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |archive-url=https://web.archive.org/web/20091228213032/http://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |url-status=dead |archive-date=28 December 2009 |title=Match Schedule 2010 FIFA World Cup South Africa |website=FIFA.com|publisher=Fédération Internationale de Football Association|access-date=6 December 2009 }}</ref> The group consisted of host nation [[South Africa national football team|South Africa]], [[Mexico national football team|Mexico]], [[Uruguay national football team|Uruguay]] and the runners-up from 2006, [[France national football team|France]].
+
+France and South Africa previously met at the [[1998 FIFA World Cup]], when then-hosts France beat South Africa 3–0. They also previously met with Uruguay at the [[2002 FIFA World Cup]]; the match ended in a 0–0 draw. France and Mexico were in the same group at the first ever World Cup in [[1930 FIFA World Cup|1930]]; the two nations played the first-ever World Cup match and France won 4–1. France and Mexico had also met in 1954 but neither team qualified for the next round. This is also the second time that France, Mexico and Uruguay have been drawn in the same group with the host nation. They were grouped with [[England national football team|England]] in [[1966 FIFA World Cup|1966]], when England and Uruguay advanced to the next round.
+
+South Africa became the first World Cup host team to fail to advance past the group stage after finishing behind Mexico on goal difference. France, despite having made the final at the [[2006 FIFA World Cup|previous edition]] of the World Cup, were also eliminated after drawing one and losing two matches, including one against South Africa.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/southafrica2010/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=URU
+|team2=MEX
+|team3=RSA
+|team4=FRA
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2010 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_URU=2 |draw_URU=1 |loss_URU=0 |gf_URU=4 |ga_URU=0
+|win_MEX=1 |draw_MEX=1 |loss_MEX=1 |gf_MEX=3 |ga_MEX=2
+|win_RSA=1 |draw_RSA=1 |loss_RSA=1 |gf_RSA=3 |ga_RSA=5 |status_RSA=H
+|win_FRA=0 |draw_FRA=1 |loss_FRA=2 |gf_FRA=1 |ga_FRA=4
+
+|name_URU={{fb|URU}}
+|name_MEX={{fb|MEX}}
+|name_RSA={{fb|RSA}}
+|name_FRA={{fb|FRA|1974}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2010 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+* Uruguay advanced to play [[South Korea national football team|South Korea]] (runners-up of [[2010 FIFA World Cup Group B|Group B]]) in the [[2010 FIFA World Cup knockout stage#Uruguay vs South Korea|round of 16]].
+* Mexico advanced to play [[Argentina national football team|Argentina]] (winners of [[2010 FIFA World Cup Group B|Group B]]) in the [[2010 FIFA World Cup knockout stage#Argentina vs Mexico|round of 16]].
+
+==Matches==
+''All times local ([[UTC+02:00|UTC+2]])''
+
+===South Africa vs Mexico===
+South Africa vs Mexico was the [[List of FIFA World Cup opening matches|opening match]] of the World Cup, held on 11 June 2010.<ref name="Mirror">{{cite news|url=http://www.mirrorfootball.co.uk/news/South-Africa-1-1-Mexico-The-Daily-Mirror-match-report-Tragedy-marks-vibrant-World-Cup-opening-match-but-the-hosts-will-continue-to-party-article460181.html|title=South Africa 1-1 Mexico: The Daily Mirror match report|last=Holt|first=Oliver|date=11 June 2010|work=[[Daily Mirror]]|publisher=[[Trinity Mirror]]|access-date=29 June 2010| archive-url= https://web.archive.org/web/20100612220340/http://www.mirrorfootball.co.uk/news/South-Africa-1-1-Mexico-The-Daily-Mirror-match-report-Tragedy-marks-vibrant-World-Cup-opening-match-but-the-hosts-will-continue-to-party-article460181.html| archive-date= 12 June 2010 | url-status= live}}</ref> It was described as an "enthralling" and "pulsating" match. Mexico put the ball in the net first, but it was offside. South Africa opened the scoring in the 55th minute after [[Siphiwe Tshabalala]] scored with a left foot shot to the top right corner of the net from the left of the penalty area after a pass through Mexico's defence by [[Kagiso Dikgacoi]]. Mexico's captain [[Rafael Márquez]] equalised following a [[corner kick]] in the 79th minute with a shot to the right of the net from five yards out on the right.<ref>{{cite news|url=http://www.abc.net.au/news/stories/2010/06/12/2925356.htm |title=South Africa draws in pulsating WC opener |last=Maasdorp |first=James |date=12 June 2010 |work=[[ABC News (Australia)|ABC News]] |publisher=[[Australian Broadcasting Corporation]] |access-date=29 June 2010 |archive-url=https://web.archive.org/web/20100614193157/http://www.abc.net.au/news/stories/2010/06/12/2925356.htm |archive-date=14 June 2010 |url-status=dead }}</ref> In the final minutes of the match, [[Katlego Mphela]] almost scored a winning goal for South Africa, but his shot bounced off the post.<ref name="Mirror"/>
+
+Tshabalala was named as the [[man of the match]]. South Africa's coach, [[Carlos Alberto Parreira]] called the result "fair", while Mexico's coach [[Javier Aguirre]] stated "we could have won, we could have lost".<ref>{{cite news|url=https://www.independent.co.uk/sport/football/world-cup/marquez-damps-down-incendiary-show-of-south-african-pride-1998176.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/world-cup/marquez-damps-down-incendiary-show-of-south-african-pride-1998176.html |archive-date=1 May 2022 |url-access=subscription|title=Marquez damps down incendiary show of South African pride|last=Tongue|first=Steve|date=12 June 2010|work=[[The Independent]]|publisher=Independent Print Limited|access-date=29 June 2010}}{{cbignore}}</ref>
+
+This opening match was played again as the opener for the [[2026 FIFA World Cup]] on 11 June 2026, exactly 16 years later, with Mexico now hosting South Africa.
+
+<onlyinclude>{{#invoke:Football box|main|section=a1
+|date={{Start date|2010|6|11|df=y}}
+|time=16:00
+|team1={{fb-rt|RSA}}
+|score={{score link|2010 FIFA World Cup Group A#South Africa vs Mexico|1–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Siphiwe Tshabalala|Tshabalala]] {{goal|55}}
+|goals2=
+*[[Rafael Márquez|Márquez]] {{goal|79}}
+|stadium=[[Soccer City]], [[Johannesburg]]
+|attendance=84,490
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061454 |title=South Africa vs Mexico {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061454/report.html |title=2010 FIFA World Cup South Africa – Matches – South Africa v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210002228/http://www.fifa.com/worldcup/matches/round=249722/match=300061454/report.html |archive-date=10 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/b78e847282f6a2f/original/ofaqbodf7wb40uwifgfh-pdf.pdf |title=Match Report – Group A – South Africa v Mexico |publisher=[[FIFA]] |date=11 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055230/https://digitalhub.fifa.com/m/b78e847282f6a2f/original/ofaqbodf7wb40uwifgfh-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _rsa10h2
+ |pattern_b  = _rsa10h2
+ |pattern_ra = _rsa10h2
+ |pattern_sh = _rsa10h2
+ |pattern_so = _color_3_stripes_green
+ |leftarm    = FFDF00
+ |body       = FFDF00
+ |rightarm   = FFDF00
+ |shorts     = 008000
+ |socks      = FFDF00
+ |title      = {{nowrap|South Africa}}<ref name="rsa-mex_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/159bf92575e418be/original/q1il3ogrr1v48vcy4xtz-pdf.pdf |title=Tactical Line-up – Group A – South Africa v Mexico |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 June 2010 |access-date=11 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522171858/https://digitalhub.fifa.com/m/159bf92575e418be/original/q1il3ogrr1v48vcy4xtz-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex10a2
+ |pattern_b  = _mex10a2
+ |pattern_ra = _mex10a2
+ |pattern_sh = _mex10a2
+ |pattern_so = _mex10a2
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Mexico<ref name="rsa-mex_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Itumeleng Khune]]
+|-
+|RB ||'''2''' ||[[Siboniso Gaxa]]
+|-
+|CB ||'''4''' ||[[Aaron Mokoena]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||[[Bongani Khumalo]]
+|-
+|LB ||'''15'''||[[Lucas Thwala]] || || {{suboff|46}}
+|-
+|RM ||'''8''' ||[[Siphiwe Tshabalala]]
+|-
+|CM ||'''13'''||[[Kagisho Dikgacoi]] || {{yel|27}}
+|-
+|CM ||'''12'''||[[Reneilwe Letsholonyane]]
+|-
+|LM ||'''11'''||[[Teko Modise]]
+|-
+|SS ||'''10'''||[[Steven Pienaar]] || || {{suboff|83}}
+|-
+|CF ||'''9''' ||[[Katlego Mphela]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Tsepo Masilela]] || {{yel|70}} || {{subon|46}}
+|-
+|FW ||'''17'''||[[Bernard Parker]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Carlos Alberto Parreira]]
+|}
+|valign="top"|[[File:RSA-MEX 2010-06-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Óscar Pérez Rojas|Óscar Pérez]]
+|-
+|RB ||'''12'''||[[Paul Aguilar]] || || {{suboff|55}}
+|-
+|CB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez]]
+|-
+|LB ||'''3''' ||[[Carlos Salcido]]
+|-
+|DM ||'''4''' ||[[Rafael Márquez]]
+|-
+|CM ||'''16'''||[[Efraín Juárez]] || {{yel|18}}
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]] ([[Captain (association football)|c]]) || {{yel|57}}
+|-
+|RW ||'''17'''||[[Giovani dos Santos]]
+|-
+|LW ||'''11'''||[[Carlos Vela]] || || {{suboff|69}}
+|-
+|CF ||'''9''' ||[[Guillermo Franco]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Andrés Guardado]] || || {{subon|55}}
+|-
+|FW ||'''10'''||[[Cuauhtémoc Blanco]] || || {{subon|69}}
+|-
+|FW ||'''14'''||[[Javier Hernández]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Javier Aguirre]]
+|}
+|}
+[[File:First game of the 2010 FIFA World Cup, South Africa vs Mexico4.jpg|thumb|South Africa vs Mexico]]
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Siphiwe Tshabalala]] (South Africa)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf |title=2010 FIFA World Cup South Africa Match Appointments |date=24 June 2010 |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100705072219/http://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf| archive-date= 5 July 2010 | url-status= dead}}</ref>
+<br />Rafael Ilyasov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bakhadyr Kochkarov ([[Football Federation of Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Subkhiddin Mohd Salleh]] ([[Football Association of Malaysia|Malaysia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Mu Yuxin ([[Chinese Football Association|China]])
+|}
+
+===Uruguay vs France===
+[[File:Uruguay vs France 2010 World Cup.jpg|thumb|The Uruguayan and French teams warming up]]
+France and Uruguay faced each other on 11 June 2010 at the [[Cape Town Stadium]]. Despite a [[Penalty card#Red card|red card]] being given to Uruguay substitute [[Nicolás Lodeiro]] in the second half, Uruguay were able to hold a "lacklustre" France to a 0&ndash;0 draw.<ref>{{cite news|url=http://www.abc.net.au/news/stories/2010/06/12/2925375.htm |title=French held by Uruguay |date=12 June 2010 |work=[[ABC News (Australia)|ABC News]] |publisher=[[Australian Broadcasting Corporation]] |access-date=29 June 2010 |archive-url=https://web.archive.org/web/20100614193218/http://www.abc.net.au/news/stories/2010/06/12/2925375.htm |archive-date=14 June 2010 |url-status=dead }}</ref> After the match, former World Cup-winning French player [[Zinedine Zidane]] criticised the French team and particularly coach [[Raymond Domenech]] for a lack of teamwork.<ref>{{cite news|url=https://www.google.com/hostednews/ap/article/ALeqM5ifRpvLjtAkKommkQLOdGV8morJpgD9GB1S384|archive-url=https://web.archive.org/web/20100618092516/http://www.google.com/hostednews/ap/article/ALeqM5ifRpvLjtAkKommkQLOdGV8morJpgD9GB1S384|url-status=dead|archive-date=18 June 2010|title=Zinedine Zidane critical of France team|date=14 June 2010|agency=[[Associated Press]]|access-date=29 June 2010}}</ref> Domenech claimed after the match to be "happy with the overall performance".<ref>{{cite news|url=http://www.abc.net.au/news/stories/2010/06/12/2925489.htm?site=sport&section=all|archive-url=https://web.archive.org/web/20121111081557/http://www.abc.net.au/news/stories/2010/06/12/2925489.htm?site=sport&section=all|url-status=dead|archive-date=11 November 2012|title=France frustrated by stalemate|date=12 June 2010|work=[[ABC News (Australia)|ABC News]]|publisher=[[Australian Broadcasting Corporation]]|access-date=29 June 2010}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=a2
+|date={{Start date|2010|6|11|df=y}}
+|time=20:30
+|team1={{fb-rt|URU}}
+|score={{score link|2010 FIFA World Cup Group A#Uruguay vs France|0–0}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+|stadium=[[Cape Town Stadium]], [[Cape Town]]
+|attendance=64,100
+|referee=[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061453 |title=Uruguay vs France {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061453/report.html |title=2010 FIFA World Cup South Africa – Matches – Uruguay v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171206152422/http://www.fifa.com/worldcup/matches/round=249722/match=300061453/report.html |archive-date=6 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5a528d9506437407/original/fh9y44pveqffvdhzsjmb-pdf.pdf |title=Match Report – Group A – Uruguay v France |publisher=[[FIFA]] |date=11 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055243/https://digitalhub.fifa.com/m/5a528d9506437407/original/fh9y44pveqffvdhzsjmb-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _uru10H
+ |pattern_b  = _uru10H
+ |pattern_ra = _uru10H
+ |pattern_sh = _uru10h
+ |pattern_so = _uru10h
+ |leftarm    = 87CEEB
+ |body       = 87CEEB
+ |rightarm   = 87CEEB
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay<ref name="uru-fra_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/1e347fb3eed71976/original/yqbtnvnseozsp3j9twaq-pdf.pdf |title=Tactical Line-up – Group A – Uruguay v France |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 June 2010 |access-date=11 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522171907/https://digitalhub.fifa.com/m/1e347fb3eed71976/original/yqbtnvnseozsp3j9twaq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _fra10a2
+ |pattern_b  = _fra10a2
+ |pattern_ra = _fra10a2
+ |pattern_sh = _fra10a2
+ |pattern_so = _fra10a2
+ |leftarm    = 0000FF
+ |body       = FFFFFF
+ |rightarm   = 0000FF
+ |shorts     = 000080
+ |socks      = FFFFFF
+ |title      = France<ref name="uru-fra_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''6''' ||[[Mauricio Victorino]] || {{yel|59}}
+|-
+|CB ||'''2''' ||[[Diego Lugano]] ([[Captain (association football)|c]]) || {{yel|90+3}}
+|-
+|CB ||'''3''' ||[[Diego Godín]]
+|-
+|LB ||'''11'''||[[Álvaro Pereira]]
+|-
+|RM ||'''16'''||[[Maxi Pereira]]
+|-
+|CM ||'''15'''||[[Diego Pérez (footballer)|Diego Pérez]] || || {{suboff|87}}
+|-
+|CM ||'''17'''||[[Egidio Arévalo Ríos|Egidio Arévalo]]
+|-
+|LM ||'''18'''||[[Ignacio María González|Ignacio González]] || || {{suboff|63}}
+|-
+|CF ||'''10'''||[[Diego Forlán]]
+|-
+|CF ||'''9''' ||[[Luis Suárez]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Nicolás Lodeiro]] || {{sent off|2|65|81}} || {{subon|63}}
+|-
+|FW ||'''13'''||[[Sebastián Abreu]] || || {{subon|74}}
+|-
+|MF ||'''8''' ||[[Sebastián Eguren]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|valign="top"|[[File:URU-FRA 2010-06-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]]
+|-
+|RB ||'''2''' ||[[Bacary Sagna]]
+|-
+|CB ||'''5''' ||[[William Gallas]]
+|-
+|CB ||'''3''' ||[[Eric Abidal]]
+|-
+|LB ||'''13'''||[[Patrice Evra]] ([[Captain (association football)|c]]) || {{yel|12}}
+|-
+|DM ||'''14'''||[[Jérémy Toulalan]] || {{yel|68}}
+|-
+|CM ||'''8''' ||[[Yoann Gourcuff]] || || {{suboff|75}}
+|-
+|CM ||'''19'''||[[Abou Diaby]]
+|-
+|RW ||'''10'''||[[Sidney Govou]] || || {{suboff|85}}
+|-
+|LW ||'''7''' ||[[Franck Ribéry]] || {{yel|19}}
+|-
+|CF ||'''21'''||[[Nicolas Anelka]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||[[Thierry Henry]] || || {{subon|72}}
+|-
+|MF ||'''15'''||[[Florent Malouda]] || || {{subon|75}}
+|-
+|FW ||'''11'''||[[André-Pierre Gignac]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Raymond Domenech]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Diego Forlán]] (Uruguay)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />Jeong Hae-sang ([[Korea Football Association|South Korea]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />William Torres ([[Salvadoran Football Federation|El Salvador]])
+|}
+
+===South Africa vs Uruguay===
+Uruguay took the lead in the 24th minute, when [[Diego Forlán]] launched a shot from 30 yards out that beat goalkeeper [[Itumeleng Khune]], who did not attempt to save the shot.<ref name="fifa.com">{{cite web |url=http://www.fifa.com/worldcup/news/y=2010/m=6/news=forlan-silences-south-africa-1246686.html |title=Forlan silences South Africa |website=FIFA.com |access-date=15 January 2022 |archive-url=https://web.archive.org/web/20160407211508/http://www.fifa.com/worldcup/news/y=2010/m=6/news=forlan-silences-south-africa-1246686.html |archive-date=7 April 2016 |url-status=dead}}</ref> In the second half, [[Luis Suárez]] was left through on goal, but he was brought down by Khune. Referee [[Massimo Busacca]] awarded a penalty and showed Khune a red card.<ref name="fifa.com"/> Deep into injury time, Uruguay scored their third goal when [[Álvaro Pereira]] tapped in a Suárez cross.<ref name="fifa.com"/> This was Uruguay's first World Cup win since 1990.
+
+<onlyinclude>{{#invoke:Football box|main|section=a3
+|date={{Start date|2010|6|16|df=y}}
+|time=20:30
+|team1={{fb-rt|RSA}}
+|score={{score link|2010 FIFA World Cup Group A#South Africa vs Uruguay|0–3}}
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+*[[Diego Forlán|Forlán]] {{goal|24||80|pen.}}
+*[[Álvaro Pereira|Á. Pereira]] {{goal|90+5}}
+|stadium=[[Loftus Versfeld Stadium]], [[Pretoria]]
+|attendance=42,658
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061452 |title=South Africa vs Uruguay {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061452/report.html |title=2010 FIFA World Cup South Africa – Matches – South Africa v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210102533/http://www.fifa.com/worldcup/matches/round=249722/match=300061452/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/22918aa142d32f93/original/kalwnbzpwlrradgfqodq-pdf.pdf |title=Match Report – Group A – South Africa v Uruguay |publisher=[[FIFA]] |date=16 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055632/https://digitalhub.fifa.com/m/22918aa142d32f93/original/kalwnbzpwlrradgfqodq-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _rsa10h2
+ |pattern_b  = _rsa10h2
+ |pattern_ra = _rsa10h2
+ |pattern_sh = _rsa10h2
+ |pattern_so = _color_3_stripes_green
+ |leftarm    = FFDF00
+ |body       = FFDF00
+ |rightarm   = FFDF00
+ |shorts     = 008000
+ |socks      = FFDF00
+ |title      = {{nowrap|South Africa}}<ref name="rsa-uru_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/1692fa9fb7e706a/original/ctjspqu9wibvztbc7kwk-pdf.pdf |title=Tactical Line-up – Group A – South Africa v Uruguay |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 June 2010 |access-date=16 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181024/https://digitalhub.fifa.com/m/1692fa9fb7e706a/original/ctjspqu9wibvztbc7kwk-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _uru10A
+ |pattern_b  = _uru10A
+ |pattern_ra = _uru10A
+ |pattern_sh = _uru10A
+ |pattern_so = _uru10A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Uruguay<ref name="rsa-uru_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Itumeleng Khune]] || {{sent off|0|76}}
+|-
+|RB ||'''2''' ||[[Siboniso Gaxa]]
+|-
+|CB ||'''4''' ||[[Aaron Mokoena]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||[[Bongani Khumalo]]
+|-
+|LB ||'''3''' ||[[Tsepo Masilela]]
+|-
+|RM ||'''8''' ||[[Siphiwe Tshabalala]]
+|-
+|CM ||'''13'''||[[Kagisho Dikgacoi]] || {{yel|42}}
+|-
+|CM ||'''12'''||[[Reneilwe Letsholonyane]] || || {{suboff|57}}
+|-
+|LM ||'''11'''||[[Teko Modise]]
+|-
+|SS ||'''10'''||[[Steven Pienaar]] || {{yel|6}} || {{suboff|79}}
+|-
+|CF ||'''9''' ||[[Katlego Mphela]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Surprise Moriri]] || || {{subon|57}}
+|-
+|GK ||'''1''' ||[[Moeneeb Josephs]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Carlos Alberto Parreira]]
+|}
+|valign="top"|[[File:RSA-URU 2010-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''16'''||[[Maxi Pereira]]
+|-
+|CB ||'''2''' ||[[Diego Lugano]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Diego Godín]]
+|-
+|LB ||'''4''' ||[[Jorge Fucile]] || ||{{suboff|71}}
+|-
+|DM ||'''15'''||[[Diego Pérez (footballer)|Diego Pérez]] || || {{suboff|90}}
+|-
+|RM ||'''17'''||[[Egidio Arévalo Ríos|Egidio Arévalo]]
+|-
+|LM ||'''11'''||[[Álvaro Pereira]]
+|-
+|AM ||'''10'''||[[Diego Forlán]]
+|-
+|CF ||'''9''' ||[[Luis Suárez]]
+|-
+|CF ||'''7''' ||[[Edinson Cavani]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Álvaro Fernández (Uruguayan footballer)|Álvaro Fernández]] || || {{subon|71}}
+|-
+|FW ||'''21'''||[[Sebastián Fernández (footballer, born 1985)|Sebastián Fernández]] || || {{subon|89}}
+|-
+|MF ||'''5''' ||[[Walter Gargano]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Óscar Tabárez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Diego Forlán]] (Uruguay)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+<br />Francesco Buragina ([[Swiss Football Association|Switzerland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Wolfgang Stark]] ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Jan-Hendrik Salver ([[German Football Association|Germany]])
+|}
+
+===France vs Mexico===
+Mexico's 2–0 victory over France in [[Polokwane]] was the nation's first win against a World Cup-winning team. It was overshadowed by French striker [[Nicolas Anelka]] launching a tirade of abuse towards coach [[Raymond Domenech]] during the half-time interval.<ref>{{cite news|url=https://www.theguardian.com/football/2010/jun/20/france-raymond-domenech-nicolas-anelka|title=French Revolt leaves Raymond Domenech High and Dry|date=21 June 2010|work=The Guardian|access-date=12 July 2014}}</ref> Anelka was subsequently dismissed from the squad, which resulted in many squad members, including captain [[Patrice Evra]], boycotting training in the lead-up to the final group stage match against [[South Africa national football team|South Africa]].<ref>{{cite news |title=French football in chaos after players' mutiny |url=https://www.google.com/hostednews/afp/article/ALeqM5jJUAsTmR7HSPud4_PSwWxUvvRcwQ |archive-url=https://web.archive.org/web/20100625053451/http://www.google.com/hostednews/afp/article/ALeqM5jJUAsTmR7HSPud4_PSwWxUvvRcwQ |url-status=dead |archive-date=25 June 2010 |work=Agence France Press|date=20 June 2010 |access-date=21 June 2010 }}</ref>
+<onlyinclude>{{#invoke:Football box|main|section=a4
+|date={{Start date|2010|6|17|df=y}}
+|time=20:30
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2010 FIFA World Cup Group A#France vs Mexico|0–2}}
+|team2={{fb|MEX}}
+|goals1=
+|goals2=
+*[[Javier Hernández|Hernández]] {{goal|64}}
+*[[Cuauhtémoc Blanco|Blanco]] {{goal|79|pen.}}
+|stadium=[[Peter Mokaba Stadium]], [[Polokwane]]
+|attendance=35,370
+|referee=[[Khalil Al Ghamdi]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061451 |title=France vs Mexico {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061451/report.html |title=2010 FIFA World Cup South Africa – Matches – France v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170802223642/http://www.fifa.com/worldcup/matches/round=249722/match=300061451/report.html |archive-date=2 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/51e51dc49edc6293/original/umbuepup52acoj7rgddc-pdf.pdf |title=Match Report – Group A – France v Mexico |publisher=[[FIFA]] |date=17 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055713/https://digitalhub.fifa.com/m/51e51dc49edc6293/original/umbuepup52acoj7rgddc-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fra10h2
+ |pattern_b  = _fra10h2
+ |pattern_ra = _fra10h2
+ |pattern_sh = _fra10h2
+ |pattern_so = _fra10h2
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = France<ref name="fra-mex_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5db6ad310e7e4c98/original/lfoxiigj1xofpfvjzal6-pdf.pdf |title=Tactical Line-up – Group A – France v Mexico |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 June 2010 |access-date=17 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181039/https://digitalhub.fifa.com/m/5db6ad310e7e4c98/original/lfoxiigj1xofpfvjzal6-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex10h2
+ |pattern_b  = _mex10h2
+ |pattern_ra = _mex10h2
+ |pattern_sh = _mex10h2
+ |pattern_so = _mex10h2
+ |leftarm    = 006847
+ |body       = 006847
+ |rightarm   = 006847
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Mexico<ref name="fra-mex_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]]
+|-
+|RB ||'''2''' ||[[Bacary Sagna]]
+|-
+|CB ||'''5''' ||[[William Gallas]]
+|-
+|CB ||'''3''' ||[[Eric Abidal]] || {{yel|78}}
+|-
+|LB ||'''13'''||[[Patrice Evra]] ([[Captain (association football)|c]])
+|-
+|CM ||'''14'''||[[Jérémy Toulalan]] || {{yel|45+1}}
+|-
+|CM ||'''19'''||[[Abou Diaby]]
+|-
+|RW ||'''10'''||[[Sidney Govou]] || || {{suboff|69}}
+|-
+|AM ||'''7''' ||[[Franck Ribéry]]
+|-
+|LW ||'''15'''||[[Florent Malouda]]
+|-
+|CF ||'''21'''||[[Nicolas Anelka]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[André-Pierre Gignac]] || || {{subon|46}}
+|-
+|MF ||'''20'''||[[Mathieu Valbuena]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Raymond Domenech]]
+|}
+|valign="top"|[[File:FRA-MEX 2010-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Óscar Pérez Rojas|Óscar Pérez]]
+|-
+|RB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|CB ||'''15'''||[[Héctor Moreno]] || {{yel|49}}
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez]] || {{yel|82}}
+|-
+|LB ||'''3''' ||[[Carlos Salcido]]
+|-
+|DM ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|CM ||'''16'''||[[Efraín Juárez]] || {{yel|48}} || {{suboff|55}}
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]]
+|-
+|RW ||'''17'''||[[Giovani dos Santos]]
+|-
+|LW ||'''11'''||[[Carlos Vela]] || || {{suboff|31}}
+|-
+|CF ||'''9''' ||[[Guillermo Franco]] || {{yel|4}} || {{suboff|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Pablo Barrera]] || || {{subon|31}}
+|-
+|FW ||'''14'''||[[Javier Hernández]] || || {{subon|55}}
+|-
+|FW ||'''10'''||[[Cuauhtémoc Blanco]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Javier Aguirre]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Javier Hernández]] (Mexico)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />Saleh Al Marzouqi ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Matthew Taro ([[Solomon Islands Football Federation|Solomon Islands]])
+|}
+
+===Mexico vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=a5
+|date={{Start date|2010|6|22|df=y}}
+|time=16:00
+|team1={{fb-rt|MEX}}
+|score={{score link|2010 FIFA World Cup Group A#Mexico vs Uruguay|0–1}}
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+*[[Luis Suárez|Suárez]] {{goal|43}}
+|stadium=[[Royal Bafokeng Stadium]], [[Rustenburg, North West|Rustenburg]]
+|attendance=33,425
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061450 |title=Mexico vs Uruguay {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061450/report.html |title=2010 FIFA World Cup South Africa – Matches – Mexico v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171206155713/http://www.fifa.com/worldcup/matches/round=249722/match=300061450/report.html |archive-date=6 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/3a26ed1c4cfee222/original/zw6fnsyvpqb7igxfukwy-pdf.pdf |title=Match Report – Group A – Mexico v Uruguay |publisher=[[FIFA]] |date=22 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060034/https://digitalhub.fifa.com/m/3a26ed1c4cfee222/original/zw6fnsyvpqb7igxfukwy-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mex10h2
+ |pattern_b  = _mex10h2
+ |pattern_ra = _mex10h2
+ |pattern_sh = _mex10h2
+ |pattern_so = _mex10h2
+ |leftarm    = 006847
+ |body       = 006847
+ |rightarm   = 006847
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Mexico<ref name="mex-uru_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5fa0d0b5fea98d6b/original/sedk0oo01zvj12dyoaij-pdf.pdf |title=Tactical Line-up – Group A – Mexico v Uruguay |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 June 2010 |access-date=22 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522183803/https://digitalhub.fifa.com/m/5fa0d0b5fea98d6b/original/sedk0oo01zvj12dyoaij-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _uru10H
+ |pattern_b  = _uru10H
+ |pattern_ra = _uru10H
+ |pattern_sh = _uru10h
+ |pattern_so = _uru10h
+ |leftarm    = 87CEEB
+ |body       = 87CEEB
+ |rightarm   = 87CEEB
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay<ref name="mex-uru_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Pérez Rojas|Óscar Pérez]]
+|-
+|RB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez]]
+|-
+|CB ||'''15'''||[[Héctor Moreno (footballer)|Héctor Moreno]] || || {{suboff|57}}
+|-
+|LB ||'''3''' ||[[Carlos Salcido]]
+|-
+|RM ||'''6''' ||[[Gerardo Torrado]]
+|-
+|CM ||'''4''' ||[[Rafael Márquez]]
+|-
+|LM ||'''18'''||[[Andrés Guardado]]|| || {{suboff|46}}
+|-
+|AM ||'''17'''||[[Giovani dos Santos]]
+|-
+|AM ||'''10'''||[[Cuauhtémoc Blanco]] ([[Captain (association football)|c]]) || || {{suboff|63}}
+|-
+|CF ||'''9''' ||[[Guillermo Franco]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Pablo Barrera]] || || {{subon|46}}
+|-
+|MF ||'''8''' ||[[Israel Castro]] || {{yel|86}} || {{subon|57}}
+|-
+|FW ||'''14'''||[[Javier Hernández]] || {{yel|77}} || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Javier Aguirre]]
+|}
+|valign="top"|[[File:MEX-URU 2010-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''16'''||[[Maxi Pereira]]
+|-
+|CB ||'''2''' ||[[Diego Lugano]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Mauricio Victorino]]
+|-
+|LB ||'''4''' ||[[Jorge Fucile]] ||{{yel|68}}
+|-
+|DM ||'''15'''||[[Diego Pérez (footballer)|Diego Pérez]]
+|-
+|RM ||'''17'''||[[Egidio Arévalo Ríos|Egidio Arévalo]]
+|-
+|LM ||'''11'''||[[Álvaro Pereira]] || || {{suboff|77}}
+|-
+|AM ||'''10'''||[[Diego Forlán]]
+|-
+|CF ||'''9''' ||[[Luis Suárez]] || || {{suboff|85}}
+|-
+|CF ||'''7''' ||[[Edinson Cavani]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''19'''||[[Andrés Scotti]] || || {{subon|77}}
+|-
+|MF ||'''20'''||[[Álvaro Fernández (Uruguayan footballer)|Álvaro Fernández]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Óscar Tabárez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Luis Suárez]] (Uruguay)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Gábor Erős ([[Hungarian Football Federation|Hungary]])
+<br />Tibor Vámos ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martin Hansson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Stefan Wittberg ([[Swedish Football Association|Sweden]])
+|}
+
+===France vs South Africa===
+<onlyinclude>{{#invoke:Football box|main|section=a6
+|date={{Start date|2010|6|22|df=y}}
+|time=16:00
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2010 FIFA World Cup Group A#France vs South Africa|1–2}}
+|team2={{fb|RSA}}
+|goals1=
+*[[Florent Malouda|Malouda]] {{goal|70}}
+|goals2=
+*[[Bongani Khumalo|Khumalo]] {{goal|20}}
+*[[Katlego Mphela|Mphela]] {{goal|37}}
+|stadium=[[Free State Stadium]], [[Bloemfontein]]
+|attendance=39,415
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061449 |title=France vs South Africa {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061449/report.html |title=2010 FIFA World Cup South Africa – Matches – France v South Africa |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212013212/http://www.fifa.com/worldcup/matches/round=249722/match=300061449/report.html |archive-date=12 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4f35229eb2b885c/original/qgsidpptpa10krfdq0zg-pdf.pdf |title=Match Report – Group A – France v South Africa |publisher=[[FIFA]] |date=22 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060107/https://digitalhub.fifa.com/m/4f35229eb2b885c/original/qgsidpptpa10krfdq0zg-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fra10h2
+ |pattern_b  = _fra10h2
+ |pattern_ra = _fra10h2
+ |pattern_sh = _fra10a2
+ |pattern_so = _fra10t2
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = France<ref name="fra-rsa_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7778e769a90635f7/original/qzogt1jxikfrrmqei5xl-pdf.pdf |title=Tactical Line-up – Group A – France v South Africa |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 June 2010 |access-date=22 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172507/https://digitalhub.fifa.com/m/7778e769a90635f7/original/qzogt1jxikfrrmqei5xl-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _rsa10h2
+ |pattern_b  = _rsa10h2
+ |pattern_ra = _rsa10h2
+ |pattern_sh = _rsa10h2
+ |pattern_so = _color_3_stripes_green
+ |leftarm    = FFDF00
+ |body       = FFDF00
+ |rightarm   = FFDF00
+ |shorts     = 008000
+ |socks      = FFDF00
+ |title      = {{nowrap|South Africa}}<ref name="fra-rsa_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]]
+|-
+|RB ||'''2''' ||[[Bacary Sagna]]
+|-
+|CB ||'''5''' ||[[William Gallas]]
+|-
+|CB ||'''17'''||[[Sébastien Squillaci]]
+|-
+|LB ||'''22'''||[[Gaël Clichy]]
+|-
+|CM ||'''18'''||[[Alou Diarra]] ([[Captain (association football)|c]]) || || {{suboff|82}}
+|-
+|CM ||'''19'''||[[Abou Diaby]] || {{yel|71}}
+|-
+|RW ||'''11'''||[[André-Pierre Gignac]] || || {{suboff|46}}
+|-
+|AM ||'''8''' ||[[Yoann Gourcuff]] || {{sent off|0|25}}
+|-
+|LW ||'''7''' ||[[Franck Ribéry]]
+|-
+|CF ||'''9''' ||[[Djibril Cissé]] || || {{suboff|55}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Florent Malouda]] || || {{subon|46}}
+|-
+|FW ||'''12'''||[[Thierry Henry]] || || {{subon|55}}
+|-
+|FW ||'''10'''||[[Sidney Govou]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Raymond Domenech]]
+|}
+|valign="top"|[[File:FRA-RSA 2010-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Moeneeb Josephs]]
+|-
+|RB ||'''5''' ||[[Anele Ngcongca]]†|| || {{suboff|55}}
+|-
+|CB ||'''4''' ||[[Aaron Mokoena]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||[[Bongani Khumalo]]
+|-
+|LB ||'''3''' ||[[Tsepo Masilela]]
+|-
+|CM ||'''6''' ||[[MacBeth Sibaya]]
+|-
+|CM ||'''23'''||[[Thanduyise Khuboni]] || || {{suboff|78}}
+|-
+|RW ||'''10'''||[[Steven Pienaar]]
+|-
+|LW ||'''8''' ||[[Siphiwe Tshabalala]]
+|-
+|CF ||'''9''' ||[[Katlego Mphela]]
+|-
+|CF ||'''17'''||[[Bernard Parker]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Siboniso Gaxa]] || || {{subon|55}}
+|-
+|FW ||'''18'''||[[Siyabonga Nomvethe]] || || {{subon|68}}
+|-
+|MF ||'''11'''||[[Teko Modise]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Carlos Alberto Parreira]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Katlego Mphela]] (South Africa)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Abraham González ([[Colombian Football Federation|Colombia]])
+<br />Humberto Clavijo ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Héctor Baldassi]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Ricardo Casas ([[Argentine Football Association|Argentina]])
+|}
+
+==See also==
+*[[France at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[South Africa at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:2010 FIFA World Cup group stage|A]]
+[[Category:France at the 2010 FIFA World Cup|Group]]
+[[Category:South Africa at the 2010 FIFA World Cup]]
+[[Category:Uruguay at the 2010 FIFA World Cup|Group]]
+[[Category:Mexico at the 2010 FIFA World Cup|Group]]
+[[Category:France–Mexico sports relations|2010-06-11]]
+[[Category:France–South Africa sports relations|2010-06-11]]
+[[Category:France–Uruguay sports relations|2010-06-11]]
+[[Category:Mexico–Uruguay sports relations|2010-06-11]]
+[[Category:South Africa–Uruguay sports relations|2010-06-11]]
+[[Category:Sport in Polokwane]]
+[[Category:Sport in Limpopo]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Sports competitions in Cape Town]]
+[[Category:2010s in Cape Town]]
+[[Category:Sports competitions in Pretoria]]
+[[Category:Rustenburg]]
+[[Category:Sports competitions in North West (South African province)]]
+[[Category:Sport in Bloemfontein]]

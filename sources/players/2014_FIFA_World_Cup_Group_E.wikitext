@@ -1,0 +1,1007 @@
+{{Short description|Football tournament group stage}}
+{{Use British English|date=July 2014}}
+{{Use dmy dates|date=January 2020}}
+Group E of the [[2014 FIFA World Cup]] consisted of [[Switzerland national football team|Switzerland]], [[Ecuador national football team|Ecuador]], [[France national football team|France]], and [[Honduras national football team|Honduras]]. Play began on 15 June and ended on 25 June 2014. The top two teams, France and Switzerland, advanced to the round of 16.
+
+==Teams==
+{| class="wikitable sortable" style="text-align: left;"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2013{{refn|group=nb|The rankings of October 2013 were used for [[2014 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2014
+|-
+| E1 ''(seed)'' || style=white-space:nowrap | {{fb|SUI}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA Group E|UEFA Group E]] Winners || 11 October 2013 || data-sort-value="10" | 10th || [[2010 FIFA World Cup|2010]] || data-sort-value="3.3" | Quarter-finals ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]]) || 7 || 6
+|-
+| E2 || style=white-space:nowrap | {{fb|ECU}} || [[CONMEBOL]] || [[2014 FIFA World Cup qualification (CONMEBOL)|CONMEBOL Round Robin]] 4th place || 15 October 2013 || data-sort-value="3" | 3rd || [[2006 FIFA World Cup|2006]] || data-sort-value="2.1" | Round of 16 ([[2006 FIFA World Cup|2006]]) || 22 || 26
+|-
+| E3 || style=white-space:nowrap | {{fb|FRA|1974}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA second round|UEFA Play-off]] Winners || 19 November 2013 || data-sort-value="6" |14th || [[2010 FIFA World Cup|2010]] || data-sort-value="7.1" | '''Winners''' ([[1998 FIFA World Cup|1998]]) || 21 || 17
+|-
+| E4 || style=white-space:nowrap | {{fb|HON|1949}} || [[CONCACAF]] || [[2014 FIFA World Cup qualification – CONCACAF fourth round|CONCACAF fourth round]] 3rd place || 15 October 2013 || data-sort-value="3" | 3rd || [[2010 FIFA World Cup|2010]] || data-sort-value="1.2" | Group stage ([[1982 FIFA World Cup|1982]], [[2010 FIFA World Cup|2010]]) || 34 || 33
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/brazil2014/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=FRA
+|team2=SUI
+|team3=ECU
+|team4=HON
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2014 FIFA World Cup#Format|Tie-breaking criteria]]
+
+|win_FRA=2 |draw_FRA=1 |loss_FRA=0 |gf_FRA=8 |ga_FRA=2
+|win_SUI=2 |draw_SUI=0 |loss_SUI=1 |gf_SUI=7 |ga_SUI=6
+|win_ECU=1 |draw_ECU=1 |loss_ECU=1 |gf_ECU=3 |ga_ECU=3
+|win_HON=0 |draw_HON=0 |loss_HON=3 |gf_HON=1 |ga_HON=8
+
+|name_FRA={{fb|FRA|1974}}
+|name_SUI={{fb|SUI}}
+|name_ECU={{fb|ECU}}
+|name_HON={{fb|HON|1949}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2014 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*[[France national football team|France]] advanced to play [[Nigeria national football team|Nigeria]] (runner-up of [[2014 FIFA World Cup Group F|Group F]]) in the [[2014 FIFA World Cup knockout stage#France vs Nigeria|round of 16]].
+*[[Switzerland national football team|Switzerland]] advanced to play [[Argentina national football team|Argentina]] (winner of [[2014 FIFA World Cup Group F|Group F]]) in the [[2014 FIFA World Cup knockout stage#Argentina vs Switzerland|round of 16]].
+
+==Matches==
+===Switzerland vs Ecuador===
+The two teams had never met before.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=16 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=16 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+Ecuador took the lead in the first half when [[Walter Ayoví]]'s free kick was headed in by [[Enner Valencia]]. Switzerland equalised early in the second half from another set-piece, [[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]'s corner kick headed in by half-time substitute [[Admir Mehmedi]].<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/15/switzerland-ecuador-world-cup-2014-group-e-match-report|title= Switzerland sink Ecuador in nick of time as Haris Seferovic secures justice|date= 15 June 2014 |work=Guardian|accessdate=30 October 2014}}</ref>
+The winning goal of the match was scored by another substitute [[Haris Seferovic]] in the 93rd minute of the game with just 20 seconds remaining in injury time. A Swiss breakaway started in their own penalty area when [[Valon Behrami]] won the ball, and finished by Seferovic converting Rodríguez's cross.<ref>{{cite news|url=https://www.nytimes.com/interactive/2014/06/15/sports/worldcup/world-cup-switzerland-vs-ecuador.html?_r=0 |title=World Cup 2014: Switzerland Stuns Ecuador, 2-1, in Added Time|newspaper=The New York Times|date=15 June 2014|accessdate=15 June 2014}}</ref>
+
+This was Switzerland's first World Cup win over South American opposition in six attempts.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285085|title=Switzerland 2 Ecuador 1|work=BBC Sport|date=15 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=e1
+|date={{Start date|2014|6|15|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|SUI}}
+|score={{score link|2014 FIFA World Cup Group E#Switzerland vs Ecuador|2–1}}
+|team2={{fb|ECU}}
+|goals1=
+*[[Admir Mehmedi|Mehmedi]] {{goal|48}}
+*[[Haris Seferovic|Seferovic]] {{goal|90+3}}
+|goals2=
+*[[Enner Valencia|E. Valencia]] {{goal|22}}
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=68,351
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186494 |title=Switzerland vs Ecuador {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186494/report.html |title=2014 FIFA World Cup Brazil – Matches – Switzerland v Ecuador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170808195626/http://www.fifa.com/worldcup/matches/round=255931/match=300186494/report.html |archive-date=8 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4cf02d3588ef22c5/original/zrzyrevsnqqu1zxn98ky-pdf.pdf |title=Match report – Group E – Switzerland v Ecuador |publisher=[[FIFA]] |date=15 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061101/https://digitalhub.fifa.com/m/4cf02d3588ef22c5/original/zrzyrevsnqqu1zxn98ky-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _switzerland1415h
+ |pattern_b  = _switzerland1415h
+ |pattern_ra = _switzerland1415h
+ |pattern_sh = _switzerland1415a
+ |pattern_so = _switzerland14h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Switzerland<ref name="SUI-ECU line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7e36c903c6ad259/original/h0oegcdomwbfn5mwityr-pdf.pdf |title=Tactical Line-up – Group E – Switzerland v Ecuador |publisher=[[FIFA]] |date=15 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173317/https://digitalhub.fifa.com/m/7e36c903c6ad259/original/h0oegcdomwbfn5mwityr-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ecuador1415a
+ |pattern_b  = _ecuador1415a
+ |pattern_ra = _ecuador1415a
+ |pattern_sh = _ecuador1415a
+ |pattern_so =
+ |leftarm    = 5BA1CE
+ |body       = 293F6F
+ |rightarm   = 293F6F
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Ecuador<ref name="SUI-ECU line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Diego Benaglio]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]]
+|-
+|CB ||'''20'''||[[Johan Djourou]] || {{yel|84}}
+|-
+|CB ||'''5''' ||[[Steve von Bergen]]
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|DM ||'''11'''||[[Valon Behrami]]
+|-
+|DM ||'''8''' ||[[Gökhan Inler]] ([[Captain (association football)|c]])
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]]
+|-
+|AM ||'''10'''||[[Granit Xhaka]]
+|-
+|LW ||'''14'''||[[Valentin Stocker]] || || {{suboff|46}}
+|-
+|CF ||'''19'''||[[Josip Drmić]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Admir Mehmedi]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Haris Seferovic]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|valign="top"|[[File:SUI-ECU 2014-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Alexander Domínguez]]
+|-
+|RB ||'''4''' ||[[Juan Carlos Paredes]] || {{yel|53}}
+|-
+|CB ||'''2''' ||[[Jorge Guagua]]
+|-
+|CB ||'''3''' ||[[Frickson Erazo]]
+|-
+|LB ||'''10'''||[[Walter Ayoví]]
+|-
+|RM ||'''16'''||[[Antonio Valencia]] ([[Captain (association football)|c]])
+|-
+|CM ||'''23'''||[[Carlos Armando Gruezo Arboleda|Carlos Gruezo]]
+|-
+|CM ||'''6''' ||[[Christian Noboa]]
+|-
+|LM ||'''7''' ||[[Jefferson Montero]] || || {{suboff|77}}
+|-
+|CF ||'''13'''||[[Enner Valencia]]
+|-
+|CF ||'''11'''||[[Felipe Caicedo]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Michael Arroyo]] || || {{subon|70}}
+|-
+|MF ||'''9''' ||[[Joao Rojas (footballer, born 1989)|Joao Rojas]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Reinaldo Rueda]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Xherdan Shaqiri]] (Switzerland)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Abdukhamidullo Rasulov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bahadyr Kochkarov ([[Football Federation of the Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===France vs Honduras===
+The two teams had never met before.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=17 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=17 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+The match started without the national anthems being played before the kick-off,<ref>{{cite web|url=https://www.foxnews.com/sports/france-and-honduras-kick-off-without-singing-national-anthems-at-world-cup/|title=France and Honduras kick off without singing national anthems at World Cup|publisher=Fox News|date=15 June 2014|access-date=15 June 2014}}</ref> which FIFA later said was due to an audio system malfunction.<ref>{{cite news|url=https://www.smh.com.au/fifa-world-cup-2014/world-cup-match-report/world-cup-2014-france-thrash-honduras-as-history-made-20140616-zs8t0.html|title=World Cup 2014: France thrash Honduras as history made|newspaper=The Sydney Morning Herald|date=16 June 2014}}</ref> France took the lead in the first half on a penalty kick converted by [[Karim Benzema]], which was awarded on a foul by [[Wilson Palacios]] on [[Paul Pogba]], for which Palacios received his second yellow card and was sent off.<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/15/france-honduras-world-cup-2014-group-e-match-report|title=France's Karim Benzema makes 10-man Honduras pay for tough line|date= 15 June 2014 |work=Guardian|accessdate=30 October 2014}}</ref>
+An own goal by Honduras goalkeeper [[Noel Valladares]] early in the second half gave France a two-goal lead. Benzema's shot rebounded off the post and then hit Valladares, and despite his effort to scoop it clear, the ball was indicated by [[goal-line technology]] to have crossed the line and the goal was awarded. The goal was the first time that a goal was awarded in the World Cup with the support of [[goal-line technology]].<ref>{{cite news|url=http://www.nydailynews.com/sports/soccer/benzema-france-10-man-honduras-article-1.1830806|title=2014 World Cup: Karim Benzema, France too much for 10-man Honduras|newspaper=New York Daily News|date=15 June 2014|accessdate=15 June 2014}}</ref> There was some confusion when the animated replay of the goal was shown in the stadium, however, as when the ball first hit the post, causing "NO GOAL" to correctly flash onto screens in the stadium, it then hit Valladares and crossed the line, producing "GOAL" on the screen. The initial flash of "NO GOAL" drew boos from fans, caused a commotion among the managers and players on the sideline,<ref>{{cite web|url=http://www.goal.com/en-sg/news/3999/world-cup-2014/2014/06/16/4886951/suarez-baffled-by-goal-line-technology|title=Suarez baffled by goal-line technology|publisher=Goal.com|date=16 June 2014}}</ref> and led to confusion even from the [[BBC]]'s experienced television commentator [[Jonathan Pearce (commentator)|Jonathan Pearce]], who required his colleague [[Martin Keown]] to explain the incident to him.<ref>{{cite web|url=https://www.mirror.co.uk/sport/row-zed/bbcs-jonathan-pearce-utterly-baffled-3701145|title=BBC's Jonathan Pearce utterly baffled by goal-line technology|work=Daily Mirror|date=15 June 2014|accessdate=15 June 2014}}</ref> In response to the confusion, FIFA promised to review how the replays are shown in the future for similar incidents.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=france-score-first-world-cup-goal-to-be-awarded-with-the-support-of-gl-2373179.html|archive-url=https://web.archive.org/web/20140617084804/http://www.fifa.com/worldcup/news/y=2014/m=6/news=france-score-first-world-cup-goal-to-be-awarded-with-the-support-of-gl-2373179.html|url-status=dead|archive-date=17 June 2014|title=France score first World Cup goal to be awarded with the support of GLT|publisher=FIFA.com|date=16 June 2014}}</ref> 
+France completed the scoring when Benzema scored his second goal, as he blasted in the rebound after [[Mathieu Debuchy]]'s shot was inadvertently blocked by [[Patrice Evra]] and fell to him in the penalty area.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285092|title=France 3 Honduras 0|work=BBC Sport|date=15 June 2014}}</ref>
+
+Stretching back to their last match of the 1982 World Cup, this was the fifth consecutive World Cup match that Honduras failed to score a goal, matching the record held by Bolivia (1930–1994) and Algeria (1986–2010).<ref>{{Cite news|url=https://sunnewsonline.com/new/?p=68200|location=Lagos, Nigeria|title=World Cup Fact Files|date=17 June 2014|newspaper=[[The Sun (Nigeria)|The Sun]]}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=e2
+|date={{Start date|2014|6|15|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2014 FIFA World Cup Group E#France vs Honduras|3–0}}
+|team2={{fb|HON|1949}}
+|goals1=
+*[[Karim Benzema|Benzema]] {{goal|45|pen.|72}}
+*[[Noel Valladares|Valladares]] {{goal|48|o.g.}}
+|goals2=
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=43,012
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186496 |title=France vs Honduras {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186496/report.html |title=2014 FIFA World Cup Brazil – Matches – France v Honduras |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227073231/http://www.fifa.com/worldcup/matches/round=255931/match=300186496/report.html |archive-date=27 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/786e78859a2a1bb6/original/m0lsl3pmperxwdrzrrod-pdf.pdf |title=Match report – Group E – France v Honduras |publisher=[[FIFA]] |date=15 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061131/https://digitalhub.fifa.com/m/786e78859a2a1bb6/original/m0lsl3pmperxwdrzrrod-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _france1415h
+ |pattern_b  = _france1415home
+ |pattern_ra = _france1415h
+ |pattern_sh = _white_stripes
+ |pattern_so = _france1415h
+ |leftarm    = 123163
+ |body       = 123163
+ |rightarm   = 123163
+ |shorts     = 123163
+ |socks      = F20A33
+ |title      = France<ref name="FRA-HON line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5515adfd001550a6/original/fupfiim59o35dg6dui6e-pdf.pdf |title=Tactical Line-up – Group E – France v Honduras |publisher=[[FIFA]] |date=15 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173331/https://digitalhub.fifa.com/m/5515adfd001550a6/original/fupfiim59o35dg6dui6e-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _honduras14h
+ |pattern_b  = _honduras14home
+ |pattern_ra = _honduras14h
+ |pattern_sh = _honduras1415h
+ |pattern_so = _honduras14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Honduras<ref name="FRA-HON line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Mathieu Debuchy]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Mamadou Sakho]]
+|-
+|LB ||'''3''' ||[[Patrice Evra]] || {{yel|7}}
+|-
+|DM ||'''6''' ||[[Yohan Cabaye]] || {{yel|45+2}} || {{suboff|65}}
+|-
+|CM ||'''14'''||[[Blaise Matuidi]]
+|-
+|CM ||'''19'''||[[Paul Pogba]] || {{yel|28}} || {{suboff|57}}
+|-
+|RF ||'''8''' ||[[Mathieu Valbuena]] || || {{suboff|78}}
+|-
+|CF ||'''10'''||[[Karim Benzema]]
+|-
+|LF ||'''11'''||[[Antoine Griezmann]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Moussa Sissoko]] || || {{subon|57}}
+|-
+|MF ||'''12'''||[[Rio Mavuba]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||[[Olivier Giroud]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-HON 2014-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Noel Valladares]] ([[Captain (association football)|c]])
+|-
+|RB ||'''3''' ||[[Maynor Figueroa]]
+|-
+|CB ||'''21'''||[[Brayan Beckeles]]
+|-
+|CB ||'''5''' ||[[Víctor Bernárdez]] || || {{suboff|46}}
+|-
+|LB ||'''7''' ||[[Emilio Izaguirre]]
+|-
+|RM ||'''17'''||[[Andy Najar]] || || {{suboff|58}}
+|-
+|CM ||'''19'''||[[Luis Garrido]] || {{yel|83}}
+|-
+|CM ||'''8''' ||[[Wilson Palacios]] || {{sent off|2|28|43}}
+|-
+|LM ||'''15'''||[[Roger Espinoza]]
+|-
+|SS ||'''13'''||[[Carlo Costly]]
+|-
+|CF ||'''11'''||[[Jerry Bengtson]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Óscar Boniek García|Óscar García]] || {{yel|53}} || {{subon|46}}
+|-
+|DF ||'''2''' ||[[Osman Chávez]] || || {{subon|46}}
+|-
+|MF ||'''20'''||[[Jorge Claros]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Luis Fernando Suárez]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Karim Benzema]] (France)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Jan-Hendrik Hintz ([[New Zealand Football|New Zealand]])
+|}
+
+===Switzerland vs France===
+The two teams had met in 36 previous matches, including in the [[2006 FIFA World Cup]] group stage, a [[2006 FIFA World Cup Group G#France vs Switzerland|0–0]] draw.<ref>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=32 |publisher=FIFA.com |page=32 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+France took the lead in the 17th minute when [[Olivier Giroud]] headed in [[Mathieu Valbuena]]'s corner. Almost straight from the restart, [[Karim Benzema]] intercepted a Swiss pass and set up [[Blaise Matuidi]] to increase the lead. [[Granit Xhaka]] scored, but he was deemed offside. Later, Benzema was tripped by [[Johan Djourou]] in the penalty box, but his penalty was saved by Swiss goalkeeper [[Diego Benaglio]] and [[Yohan Cabaye]] shot the rebound onto the crossbar. A quick counter-attack saw Giroud cross for Valbuena and France took a 3–0 lead at half time.<ref>{{cite web|url =https://www.theguardian.com/football/2014/jun/20/switzerland-france-world-cup-group-e|title=France lay down World Cup marker with drubbing of Switzerland|date= 20 June 2014 |work=Guardian|accessdate=30 October 2014}}</ref>
+France added two more goals in the second half, first [[Paul Pogba]] crossing for Benzema to score, then Benzema setting up [[Moussa Sissoko]]. Switzerland scored two late consolation goals, from a 35-yard free kick by substitute [[Blerim Džemaili]], and a volley by [[Granit Xhaka]] after a pass by [[Gökhan Inler]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285207|title=Switzerland 2 France 5|work=BBC Sport|date=20 June 2014}}</ref> While the referee was blowing the final whistle, [[Karim Benzema]] scored a sixth goal at the end of the match, causing some confusion for a short while about the final score.<ref>{{Cite web|url=https://www.worldsoccer.com/world-cup/switzerland-france-353944|title=Switzerland 2-5 France|date=20 June 2014}}</ref>
+
+Giroud's goal was France's 100th goal in the World Cup, joining four other countries to have achieved this feat (Brazil, Germany, Italy and Argentina).<ref>{{cite web|url=http://www.supersport.com/football/article.aspx?Id=2497784|title=France crush sorry Swiss 5-2|publisher=SuperSport|date=20 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=e3
+|date={{Start date|2014|6|20|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|SUI}}
+|score={{score link|2014 FIFA World Cup Group E#Switzerland vs France|2–5}}
+|team2={{fb|FRA|1974}}
+|goals1=
+*[[Blerim Džemaili|Džemaili]] {{goal|81}}
+*[[Granit Xhaka|Xhaka]] {{goal|87}}
+|goals2=
+*[[Olivier Giroud|Giroud]] {{goal|17}}
+*[[Blaise Matuidi|Matuidi]] {{goal|18}}
+*[[Mathieu Valbuena|Valbuena]] {{goal|40}}
+*[[Karim Benzema|Benzema]] {{goal|67}}
+*[[Moussa Sissoko|Sissoko]] {{goal|73}}
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=51,003
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186514 |title=Switzerland vs France {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186514/report.html |title=2014 FIFA World Cup Brazil – Matches – Switzerland v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201112235/http://www.fifa.com/worldcup/matches/round=255931/match=300186514/report.html |archive-date=1 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/19ca5234673cb164/original/mxp7bjpsapaagexh7j6i-pdf.pdf |title=Match report – Group E – Switzerland v France |publisher=[[FIFA]] |date=20 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061548/https://digitalhub.fifa.com/m/19ca5234673cb164/original/mxp7bjpsapaagexh7j6i-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _switzerland1415h
+ |pattern_b  = _switzerland1415h
+ |pattern_ra = _switzerland1415h
+ |pattern_sh = _switzerland1415h
+ |pattern_so = _switzerland14h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland<ref name="SUI-FRA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3c9556000219d5a4/original/yfk0uc7lnltpgqkuxuom-pdf.pdf |title=Tactical Line-up – Group E – Switzerland v France |publisher=[[FIFA]] |date=20 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173725/https://digitalhub.fifa.com/m/3c9556000219d5a4/original/yfk0uc7lnltpgqkuxuom-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _france1415a
+ |pattern_b  = _france1415a
+ |pattern_ra = _france1415a
+ |pattern_sh = _white_stripes
+ |pattern_so = _france1415a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 123163
+ |socks      = FFFFFF
+ |title      = France<ref name="SUI-FRA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Diego Benaglio]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]]
+|-
+|CB ||'''20'''||[[Johan Djourou]]
+|-
+|CB ||'''5''' ||[[Steve von Bergen]] || || {{suboff|9}}
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|DM ||'''11'''||[[Valon Behrami]] || || {{suboff|46}}
+|-
+|DM ||'''8''' ||[[Gökhan Inler]] ([[Captain (association football)|c]])
+|-
+|CM ||'''10'''||[[Granit Xhaka]]
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]]
+|-
+|LW ||'''18'''||[[Admir Mehmedi]]
+|-
+|CF ||'''9''' ||[[Haris Seferovic]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Philippe Senderos]] || || {{subon|9}}
+|-
+|MF ||'''15'''||[[Blerim Džemaili]] || || {{subon|46}}
+|-
+|FW ||'''19'''||[[Josip Drmić]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|valign="top"|[[File:SUI-FRA 2014-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Mathieu Debuchy]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Mamadou Sakho]] || || {{suboff|66}}
+|-
+|LB ||'''3''' ||[[Patrice Evra]]
+|-
+|DM ||'''6''' ||[[Yohan Cabaye]] || {{yel|88}}
+|-
+|CM ||'''18'''||[[Moussa Sissoko]]
+|-
+|CM ||'''14'''||[[Blaise Matuidi]]
+|-
+|RW ||'''8''' ||[[Mathieu Valbuena]] || || {{suboff|82}}
+|-
+|LW ||'''10'''||[[Karim Benzema]]
+|-
+|CF ||'''9''' ||[[Olivier Giroud]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Paul Pogba]] || || {{subon|63}}
+|-
+|DF ||'''21'''||[[Laurent Koscielny]] || || {{subon|66}}
+|-
+|MF ||'''11'''||[[Antoine Griezmann]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Karim Benzema]] (France)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Honduras vs Ecuador===
+The two teams had met in 14 previous matches, all in friendlies, most recently in 2013, a 2–2 draw.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=33 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=33 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref> The two coaches, fellow Colombians [[Luis Fernando Suárez]] and [[Reinaldo Rueda]], had previously managed their opponents: Suárez managed Ecuador in the 2006 World Cup, while Rueda managed Honduras in the 2010 World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=mixed-emotions-for-suarez-and-rueda-2376456.html|archive-url=https://web.archive.org/web/20140619123547/http://www.fifa.com//worldcup/news/y=2014/m=6/news=mixed-emotions-for-suarez-and-rueda-2376456.html|url-status=dead|archive-date=19 June 2014|title=Mixed emotions for Suarez and Rueda|publisher=FIFA.com|date=19 June 2014}}</ref> Honduras midfielder [[Wilson Palacios]] was suspended for the match, having received a red card against France.<ref>{{cite web|url=http://www.supersport.com/football/world-cup-2014/news/140617/Palacios_Pereira_hit_with_onegame_bans |title=Palacios, Pereira hit with one-game bans |publisher=[[SuperSport (South African broadcaster)|SuperSport]] |date=17 June 2014 |accessdate=17 June 2014}}</ref>
+
+Honduras took the lead in the first half when [[Carlo Costly]] collected left back [[Brayan Beckeles]]'s long clearance to score with his left foot.<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/21/world-cup-2014-honduras-ecuador-match-report|title=Enner Valencia's double takes Ecuador beyond Honduras|date= 21 June 2014 |work=Guardian|accessdate=30 October 2014}}</ref>
+Ecuador, which needed at least a point to stay alive in the competition, equalised three minutes later when [[Juan Carlos Paredes|Juan Paredes]]'s shot was deflected and [[Enner Valencia]] turned the ball in at the far post from close range. Enner Valencia scored the game winner in the second half, heading in a free kick from [[Walter Ayoví]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285214|title=Honduras 1 Ecuador 2|work=BBC Sport|date=20 June 2014}}</ref>
+
+Costly's goal snapped Honduras's 511-minute World Cup scoreless streak stretching back to 1982, second place at the time to the record of 517 minutes between 1930 and 1990 held by Bolivia.<ref>{{cite news|url=https://www.usatoday.com/story/sports/soccer/2014/06/20/costly-helps-lift-the-burden-from-honduras-laing/11201157/|title=Costly helps lift the burden from Honduras' Laing|newspaper=USA Today|date=20 June 2014}}</ref> Enner Valencia's brace gave him three total goals in the tournament, and he joined [[Agustín Delgado]] as the country's joint top scorer in the World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=valencia-i-sold-milk-to-buy-football-boots-2379692.html|archive-url=https://web.archive.org/web/20140621185347/http://www.fifa.com/worldcup/news/y=2014/m=6/news=valencia-i-sold-milk-to-buy-football-boots-2379692.html|url-status=dead|archive-date=21 June 2014|title=Valencia: I sold milk to buy football boots|publisher=FIFA.com|date=21 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=e4
+|date={{Start date|2014|6|20|df=y}}
+|time=19:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|HON|1949}}
+|score={{score link|2014 FIFA World Cup Group E#Honduras vs Ecuador|1–2}}
+|team2={{fb|ECU}}
+|goals1=
+*[[Carlo Costly|Costly]] {{goal|31}}
+|goals2=
+*[[Enner Valencia|E. Valencia]] {{goal|34||65}}
+|stadium=[[Arena da Baixada]], [[Curitiba]]
+|attendance=39,224
+|referee=[[Ben Williams (referee)|Ben Williams]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186463 |title=Honduras vs Ecuador {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186463/report.html |title=2014 FIFA World Cup Brazil – Matches – Honduras v Ecuador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171107011419/http://www.fifa.com/worldcup/matches/round=255931/match=300186463/report.html |archive-date=7 November 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4feed54205bf153b/original/dbgk9iy6p4iehlw6j2sn-pdf.pdf |title=Match report – Group E – Honduras v Ecuador |publisher=[[FIFA]] |date=20 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061600/https://digitalhub.fifa.com/m/4feed54205bf153b/original/dbgk9iy6p4iehlw6j2sn-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _honduras14h
+ |pattern_b  = _honduras14home
+ |pattern_ra = _honduras14h
+ |pattern_sh = _honduras1415h
+ |pattern_so = _honduras14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Honduras<ref name="HON-ECU line-ups">{{cite web |url=https://digitalhub.fifa.com/m/58069689360e92fc/original/syw0u1ovc9v91mpeuum7-pdf.pdf |title=Tactical Line-up – Group E – Honduras v Ecuador |publisher=[[FIFA]] |date=20 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173800/https://digitalhub.fifa.com/m/58069689360e92fc/original/syw0u1ovc9v91mpeuum7-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ecuador1415h
+ |pattern_b  = _ecuador1415h
+ |pattern_ra = _ecuador1415h
+ |pattern_sh = _ecuador1415h
+ |pattern_so = _ecuador1415h
+ |leftarm    = 2B51A3
+ |body       = FCE000
+ |rightarm   = FCE000
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = Ecuador<ref name="HON-ECU line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||[[Noel Valladares]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||[[Brayan Beckeles]]
+|-
+|CB ||'''5''' ||[[Víctor Bernárdez]] || {{yel|7}}
+|-
+|CB ||'''3''' ||[[Maynor Figueroa]]
+|-
+|LB ||'''7''' ||[[Emilio Izaguirre]] || || {{suboff|46}}
+|-
+|RM ||'''14'''||[[Óscar Boniek García|Óscar García]] || || {{suboff|83}}
+|-
+|CM ||'''19'''||[[Luis Garrido]] || || {{suboff|71}}
+|-
+|CM ||'''20'''||[[Jorge Claros]]
+|-
+|LM ||'''15'''||[[Roger Espinoza]]
+|-
+|SS ||'''13'''||[[Carlo Costly]]
+|-
+|CF ||'''11'''||[[Jerry Bengtson]] || {{yel|45+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Juan Carlos García (Honduran footballer)|Juan Carlos García]] || || {{subon|46}}
+|-
+|MF ||'''10'''||[[Mario Martínez (footballer, born 1989)|Mario Martínez]] || || {{subon|71}}
+|-
+|MF ||'''23'''||[[Marvin Chávez]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Luis Fernando Suárez]]
+|}
+|valign="top"|[[File:HON-ECU 2014-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Alexander Domínguez]]
+|-
+|RB ||'''4''' ||[[Juan Carlos Paredes]]
+|-
+|CB ||'''2''' ||[[Jorge Guagua]]
+|-
+|CB ||'''3''' ||[[Frickson Erazo]]
+|-
+|LB ||'''10'''||[[Walter Ayoví]]
+|-
+|RM ||'''16'''||[[Antonio Valencia]] ([[Captain (association football)|c]]) || {{yel|57}}
+|-
+|CM ||'''14'''||[[Oswaldo Minda]] || || {{suboff|83}}
+|-
+|CM ||'''6''' ||[[Christian Noboa]]
+|-
+|LM ||'''7''' ||[[Jefferson Montero]] || {{yel|80}} || {{suboff|90+2}}
+|-
+|CF ||'''11'''||[[Felipe Caicedo]] || || {{suboff|82}}
+|-
+|CF ||'''13'''||[[Enner Valencia]] || {{yel|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Édison Méndez]] || || {{subon|82}}
+|-
+|MF ||'''23'''||[[Carlos Armando Gruezo Arboleda|Carlos Gruezo]] || || {{subon|83}}
+|-
+|DF ||'''21'''||[[Gabriel Achilier]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Reinaldo Rueda]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Enner Valencia]] (Ecuador)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Matthew Cream]] ([[Football Federation Australia|Australia]])
+<br />Hakan Anaz ([[Football Federation Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+|}
+
+===Honduras vs Switzerland===
+The two teams had met in one previous match, in the [[2010 FIFA World Cup]] group stage, a [[2010 FIFA World Cup Group H#Switzerland vs Honduras|0–0]] draw.<ref name=StatKit45>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=45 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=45 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+All three goals of the match were scored by [[Xherdan Shaqiri]]. In the sixth minute, he received the ball from [[Stephan Lichtsteiner]], dribbled inside and curled the ball into the net with his left foot. In the 31st minute, a break-away by Switzerland saw [[Josip Drmić]] setting up Shaqiri to convert. Shaqiri completed his hat-trick in the 71st minute, from another break-away and assist by Drmić.<ref>{{cite web|url =https://www.theguardian.com/football/2014/jun/25/honduras-switzerland-world-cup-2014-match-report|title=Switzerland ease past Honduras courtesy of Xherdan Shaqiri hat-trick|date= 25 June 2014 |work=Guardian|accessdate=30 October 2014}}</ref>
+
+As Ecuador drew with France in the other match taking place simultaneously, Switzerland sealed a place in the knockout stage as the group runners-up, while Honduras, which needed a win to have any chance of qualifying for the knockout stage for the first time, were eliminated with zero points.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285335|title=Honduras 0 Switzerland 3|work=BBC Sport|date=25 June 2014}}</ref>
+
+Shaqiri's hat-trick was the [[List of FIFA World Cup hat-tricks|50th hat-trick in the history of the World Cup]], and also the second by a Swiss player, following [[Josef Hügi]] in the 1954 World Cup.<ref name="FourFourTwo">{{cite magazine|url=http://www.fourfourtwo.com/sg/features/silky-shaqiri-proves-hes-ready-messi-meet-how-stats-zone-saw-honduras-0-3-switzerland|title=Silky Shaqiri proves he's ready for Messi meet: how Stats Zone saw Honduras 0-3 Switzerland|magazine=FourFourTwo|date=26 June 2014|access-date=4 July 2014|archive-url=https://web.archive.org/web/20161020173614/http://www.fourfourtwo.com/sg/features/silky-shaqiri-proves-hes-ready-messi-meet-how-stats-zone-saw-honduras-0-3-switzerland|archive-date=20 October 2016|url-status=dead}}</ref> Honduras completed their third World Cup tournament still without a win, and had played more matches (nine total) without a win than any other side.<ref name="FourFourTwo"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=e5
+|date={{Start date|2014|6|25|df=y}}
+|time=16:00 [[Time in Brazil|AMT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|HON|1949}}
+|score={{score link|2014 FIFA World Cup Group E#Honduras vs Switzerland|0–3}}
+|team2={{fb|SUI}}
+|goals1=
+|goals2=
+*[[Xherdan Shaqiri|Shaqiri]] {{goal|6||31||71}}
+|stadium=[[Arena da Amazônia]], [[Manaus]]
+|attendance=40,322
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186482 |title=Honduras vs Switzerland {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186482/report.html |title=2014 FIFA World Cup Brazil – Matches – Honduras v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171113165244/http://www.fifa.com/worldcup/matches/round=255931/match=300186482/report.html |archive-date=13 November 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/17f97020faced404/original/f1lwau5p1yid8xhufecp-pdf.pdf |title=Match report – Group E – Honduras v Switzerland |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062032/https://digitalhub.fifa.com/m/17f97020faced404/original/f1lwau5p1yid8xhufecp-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _honduras14h
+ |pattern_b  = _honduras14home
+ |pattern_ra = _honduras14h
+ |pattern_sh = _honduras1415h
+ |pattern_so = _honduras14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Honduras<ref name="HON-SUI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/fc1207210671c4b/original/t66tinbynqegnjwjrsks-pdf.pdf |title=Tactical Line-up – Group E – Honduras v Switzerland |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174116/https://digitalhub.fifa.com/m/fc1207210671c4b/original/t66tinbynqegnjwjrsks-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _switzerland1415h
+ |pattern_b  = _switzerland1415h
+ |pattern_ra = _switzerland1415h
+ |pattern_sh = _switzerland1415h
+ |pattern_so = _switzerland14h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland<ref name="HON-SUI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||[[Noel Valladares]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||[[Brayan Beckeles]]
+|-
+|CB ||'''5''' ||[[Víctor Bernárdez]]
+|-
+|CB ||'''3''' ||[[Maynor Figueroa]]
+|-
+|LB ||'''6''' ||[[Juan Carlos García (Honduran footballer)|Juan Carlos García]]
+|-
+|CM ||'''20'''||[[Jorge Claros]]
+|-
+|CM ||'''8''' ||[[Wilson Palacios]]
+|-
+|RW ||'''14'''||[[Óscar Boniek García|Óscar García]] || || {{suboff|77}}
+|-
+|LW ||'''15'''||[[Roger Espinoza]] || || {{suboff|46}}
+|-
+|SS ||'''13'''||[[Carlo Costly]] || || {{suboff|40}}
+|-
+|CF ||'''11'''||[[Jerry Bengtson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Jerry Palacios]] || {{yel|66}} || {{subon|40}}
+|-
+|MF ||'''23'''||[[Marvin Chávez]] || || {{subon|46}}
+|-
+|MF ||'''17'''||[[Andy Najar]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Luis Fernando Suárez]]
+|}
+|valign="top"|[[File:HON-SUI 2014-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Diego Benaglio]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]]
+|-
+|CB ||'''20'''||[[Johan Djourou]]
+|-
+|CB ||'''22'''||[[Fabian Schär]]
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|CM ||'''11'''||[[Valon Behrami]]
+|-
+|CM ||'''8''' ||[[Gökhan Inler]] ([[Captain (association football)|c]])
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]] || || {{suboff|87}}
+|-
+|AM ||'''10'''||[[Granit Xhaka]] || || {{suboff|77}}
+|-
+|LW ||'''18'''||[[Admir Mehmedi]]
+|-
+|CF ||'''19'''||[[Josip Drmić]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Haris Seferovic]] || || {{subon|74}}
+|-
+|DF ||'''6''' ||[[Michael Lang (footballer, born 1991)|Michael Lang]] || || {{subon|77}}
+|-
+|MF ||'''15'''||[[Blerim Džemaili]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Xherdan Shaqiri]] (Switzerland)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+|}
+
+===Ecuador vs France===
+The two teams had met in one previous match, in a friendly in 2008, won 2–0 by France.<ref name=StatKit45 /> France midfielder [[Yohan Cabaye]] was suspended for the match due to accumulation of yellow cards.<ref>{{cite web|url=http://www.goal.com/fr/news/4959/international/2014/06/20/4900162/mondial-2014-bleus-cabaye-suspendu-face-%C3%A0-lequateur|title=Mondial 2014, Bleus : Cabaye suspendu face à l'Equateur|language=French|publisher=Goal.com|date=20 June 2014}}</ref>
+
+The match finished goalless, with the point enough to confirm France's place in the knockout stage, winning the group with seven points. Ecuador, which had to match Switzerland's result in the final match to have any chance of qualification, had captain [[Antonio Valencia]] sent off in the second half after a high tackle on [[Lucas Digne]].<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/25/ecuador-france-world-cup-2014-group-e-match-report|title= France top group after failing to break down battling 10-man Ecuador|date= 25 June 2014 |work=Guardian|accessdate=30 October 2014}}</ref>
+As Switzerland defeated Honduras in the other match played at the same time, Ecuador was eliminated, thus being the only team in the CONMEBOL group to fail to advance to the Round of 16.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285420|title=Ecuador 0 France 0|work=BBC Sport|date=25 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=e6
+|date={{Start date|2014|6|25|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|ECU}}
+|score={{score link|2014 FIFA World Cup Group E#Ecuador vs France|0–0}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=73,749
+|referee=[[Noumandiez Doué]] ([[Ivorian Football Federation|Ivory Coast]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186515 |title=Ecuador vs France {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186515/report.html |title=2014 FIFA World Cup Brazil – Matches – Ecuador v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709051050/http://www.fifa.com/worldcup/matches/round=255931/match=300186515/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7c95a4115b27253f/original/yxzqydkfb1qskgluesm6-pdf.pdf |title=Match report – Group E – Ecuador v France |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062008/https://digitalhub.fifa.com/m/7c95a4115b27253f/original/yxzqydkfb1qskgluesm6-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ecuador1415h
+ |pattern_b  = _ecuador1415h
+ |pattern_ra = _ecuador1415h
+ |pattern_sh = _ecuador1415h
+ |pattern_so = _ecuador1415h
+ |leftarm    = 2B51A3
+ |body       = FCE000
+ |rightarm   = FCE000
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = Ecuador<ref name="ECU-FRA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2db2d38cb4c274c8/original/uj0ijmli73jp9jddphhv-pdf.pdf |title=Tactical Line-up – Group E – Ecuador v France |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174158/https://digitalhub.fifa.com/m/2db2d38cb4c274c8/original/uj0ijmli73jp9jddphhv-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _france1415a
+ |pattern_b  = _france1415a
+ |pattern_ra = _france1415a
+ |pattern_sh = _fra11h
+ |pattern_so = _france1415a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = France<ref name="ECU-FRA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Alexander Domínguez]]
+|-
+|RB ||'''4''' ||[[Juan Carlos Paredes]]
+|-
+|CB ||'''2''' ||[[Jorge Guagua]]
+|-
+|CB ||'''3''' ||[[Frickson Erazo]] || {{yel|83}}
+|-
+|LB ||'''10'''||[[Walter Ayoví]]
+|-
+|RM ||'''16'''||[[Antonio Valencia]] ([[Captain (association football)|c]]) || {{sentoff|0|50}}
+|-
+|CM ||'''14'''||[[Oswaldo Minda]]
+|-
+|CM ||'''6''' ||[[Christian Noboa]] || || {{suboff|89}}
+|-
+|LM ||'''7''' ||[[Jefferson Montero]] || || {{suboff|63}}
+|-
+|CF ||'''15'''||[[Michael Arroyo]] || || {{suboff|82}}
+|-
+|CF ||'''13'''||[[Enner Valencia]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Renato Ibarra]] || || {{subon|63}}
+|-
+|DF ||'''21'''||[[Gabriel Achilier]] || || {{subon|82}}
+|-
+|FW ||'''11'''||[[Felipe Caicedo]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Reinaldo Rueda]]
+|}
+|valign="top"|[[File:ECU-FRA 2014-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Bacary Sagna]]
+|-
+|CB ||'''21'''||[[Laurent Koscielny]]
+|-
+|CB ||'''5''' ||[[Mamadou Sakho]] || || {{suboff|61}}
+|-
+|LB ||'''17'''||[[Lucas Digne]]
+|-
+|DM ||'''22'''||[[Morgan Schneiderlin]]
+|-
+|CM ||'''19'''||[[Paul Pogba]]
+|-
+|CM ||'''14'''||[[Blaise Matuidi]] || || {{suboff|67}}
+|-
+|RW ||'''11'''||[[Antoine Griezmann]] || || {{suboff|79}}
+|-
+|LW ||'''18'''||[[Moussa Sissoko]]
+|-
+|CF ||'''10'''||[[Karim Benzema]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Raphaël Varane]] || || {{subon|61}}
+|-
+|FW ||'''9''' ||[[Olivier Giroud]] || || {{subon|67}}
+|-
+|FW ||'''20'''||[[Loïc Rémy]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Alexander Domínguez]] (Ecuador)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Songuifolo Yeo ([[Ivorian Football Federation|Ivory Coast]])
+<br />Jean-Claude Birumushahu ([[Football Federation of Burundi|Burundi]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+==See also==
+*[[Ecuador at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Honduras at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+*[https://web.archive.org/web/20140413013131/http://www.fifa.com/worldcup/groups/group=255941/index.html 2014 FIFA World Cup Group E], FIFA.com
+
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:2014 FIFA World Cup group stage|E]]
+[[Category:Switzerland at the 2014 FIFA World Cup]]
+[[Category:France at the 2014 FIFA World Cup|Group]]
+[[Category:Ecuador at the 2014 FIFA World Cup]]
+[[Category:Honduras at the 2014 FIFA World Cup|Group]]
+[[Category:Football in Brasília]]
+[[Category:21st century in Brasília|2014 FIFA World Cup Group E]]
+[[Category:Football competitions in Porto Alegre]]
+[[Category:21st century in Porto Alegre]]
+[[Category:Sport in Salvador, Bahia]]
+[[Category:Football in Bahia]]
+[[Category:Sport in Curitiba]]
+[[Category:Football in Paraná (state)]]
+[[Category:21st century in Curitiba]]
+[[Category:International sports competitions in Manaus]]
+[[Category:Football in Amazonas (Brazilian state)]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in Rio de Janeiro (city)]]
+[[Category:2014 in Rio de Janeiro (city)]]

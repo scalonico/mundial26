@@ -1,0 +1,936 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group E of the 1986 FIFA  World Cup''' was one of the groups of nations competing at the [[1986 FIFA World Cup]].  The group's first round of matches began on 4 June and its last matches were played on 13 June. Matches were played at the [[Estadio La Corregidora]] in [[Santiago de Querétaro|Querétaro]] and at the [[Estadio Neza 86]] in [[Ciudad Nezahualcóyotl|Nezahualcóyotl]].<ref>{{cite web |url=https://www.rsssf.org/tables/86full.html |title=World Cup 1986 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Impressive debutantes [[Denmark national football team|Denmark]] topped the group - surprisingly beating Germany 2-0 despite having a man sent off: they were joined in the second round by [[Germany national football team|West Germany]] who would go on to reach the final. 3 red cards were handed out in this group, 2 of them against [[Uruguay national football team|Uruguay]] who made the second round but were criticized for their physical play, especially in their last group game against [[Scotland national football team|Scotland]] where [[José Batista]] was sent off in under a minute. Scotland Manager Sir Alex Ferguson made the surprise decision to leave out captain Souness and passed responsibility on to Strachan and Albiston, a move with which Ferguson would later recall "his biggest mistake in football" despite being a man up, Scotland was unable to score, the match finishing 0-0, and Uruguay went through in third place instead.
+
+Before the tournament, English-language media reported Uruguay manager [[Omar Borrás]]'s description of it as the "[[group of death]]", popularising a phrase first used in Spanish in the 1970 World Cup.<ref name="Lacey">{{cite news |url=https://www.theguardian.com/football/2004/jun/07/euro2004.sport136 |title=Dial D for death: Three previous winners in one group is a sign of the times |first=David |last=Lacey |date=7 June 2004 |work=[[The Guardian]] }}</ref><ref>{{cite news |title=Robson landed with a flight of fancy; David Lacey on England's Concorde trip to Saudi Arabia for a friendly in the Gulf which stretches the credibility gap |first=David |last=Lacey |work=[[The Guardian]] |date=15 November 1988 |page=18 |quote=Omar Borras, who managed the Uruguayans in the 1986 World Cup, went into the tournament remarking that their first-round draw with West Germany, Scotland and Denmark was "the group of death"}}</ref><ref>{{cite book |title=The beautiful team: in search of Pelé and the 1970 Brazilians |first=Garry |last=Jenkins |author2=Pedro Redig |author3=Antonio Pires Soares |year=1998 |isbn=0-684-81955-4 |page=22 |publisher=Simon & Schuster |quote=[[João Saldanha|Saldanha]] had no argument with the journalists who quickly christened the Group of Death.}}
+</ref><ref>{{cite book |last=Motson |first=John |author2=Nick Brownlee |title=Motson's World Cup Extravaganza |publisher=Robson |year=2006 |page=171 |isbn=1-86105-936-1 |quote=Group of Death - The term 'Group of Death' was first coined by the Mexican press in 1970 to describe Group 3}}</ref><ref>{{cite news|url=http://mundial.emol.com/historia/1970.asp |title=México 1970 |agency=Associated Press |publisher=[[El Mercurio]] Online |language=Spanish |year=2002 |accessdate=3 December 2009 |quote=Se puede decir que el primer "Grupo de la Muerte" en la historia lo fue el 3 |url-status=dead |archiveurl=https://web.archive.org/web/20091013080358/http://mundial.emol.com/historia/1970.asp |archivedate=13 October 2009 }}</ref><ref>{{cite journal|year=1970 |title=Futbol |journal=Hispano Americano; semanario de la vida y la verdad |publisher=Tiempo |location=Mexico |volume=57 |pages=66, 103 |language=Spanish }}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/mexico1986/groups/index.html FIFA]
+
+|team1=DEN |team2=FRG |team3=URU |team4=SCO
+|result1=KO |result2=KO |result3=KO
+
+|win_DEN=3 |draw_DEN=0 |loss_DEN=0 |gf_DEN=9 |ga_DEN=1
+|win_FRG=1 |draw_FRG=1 |loss_FRG=1 |gf_FRG=3 |ga_FRG=4
+|win_URU=0 |draw_URU=2 |loss_URU=1 |gf_URU=2 |ga_URU=7
+|win_SCO=0 |draw_SCO=1 |loss_SCO=2 |gf_SCO=1 |ga_SCO=3
+
+|name_FRG={{fb|FRG}}
+|name_DEN={{fb|DEN}}
+|name_URU={{fb|URU}}
+|name_SCO={{fb|SCO}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1986 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Uruguay vs West Germany===
+
+<onlyinclude>{{#invoke:Football box|main|section=E1
+|date={{Start date|1986|6|4|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|URU}}
+|score={{score link|1986 FIFA World Cup Group E#Uruguay vs West Germany|1–1}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Antonio Alzamendi|Alzamendi]] {{goal|4}}
+|goals2=
+*[[Klaus Allofs|Allofs]] {{goal|84}}
+|stadium=[[Estadio La Corregidora]], [[Santiago de Querétaro|Querétaro]]
+|attendance=30,500
+|referee=[[Vojtěch Christov]] ([[Czechoslovak Football Association|Czechoslovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/585 |title=Uruguay vs Germany FR {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=585/index.html |title=1986 FIFA World Cup Mexico – Matches – Uruguay v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214172002/http://www.fifa.com/worldcup/matches/round=308/match=585/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneckwhite
+ | pattern_ra = 
+ | pattern_sh = _uru86h
+ | pattern_so = _uru86h
+ | leftarm    = 72A0F8
+ | body       = 72A0F8
+ | rightarm   = 72A0F8
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Uruguay
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes
+ | pattern_b  = _westgermany1986
+ | pattern_ra = _shoulder_stripes_white_stripes
+ | pattern_sh = 
+ | pattern_so = _color_3_stripes_green
+ | leftarm    = 008020
+ | body       = 008020
+ | rightarm   = 008020
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''12''' || [[Fernando Álvez]]
+|-
+|DF || '''2''' || [[Nelson Gutiérrez]]
+|-
+|DF || '''3''' || [[Eduardo Mario Acevedo]]
+|-
+|DF || '''4''' || [[Víctor Diogo]] || {{yel|28}}
+|-
+|DF || '''6''' || [[José Batista]]
+|-
+|MF || '''5''' || [[Miguel Bossio]]
+|-
+|MF || '''8''' || [[Jorge Barrios (footballer)|Jorge Barrios]] ([[Captain (association football)|c]]) || || {{suboff|56}}
+|-
+|MF || '''11''' || [[Sergio Santín]]
+|-
+|MF || '''10''' || [[Enzo Francescoli]]
+|-
+|FW || '''9''' || [[Jorge Orosmán da Silva|Jorge da Silva]]
+|-
+|FW || '''7''' || [[Antonio Alzamendi]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''16''' || [[Mario Saralegui]] || {{yel|62}} || {{subon|56}}
+|-
+|FW || '''19''' || [[Venancio Ramos]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|URU}} [[Omar Borrás]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Harald Schumacher]] ([[Captain (association football)|c]])
+|-
+|DF || '''2''' || [[Hans-Peter Briegel]]
+|-
+|DF || '''4''' || [[Karlheinz Förster]]
+|-
+|DF || '''6''' || [[Norbert Eder]]
+|-
+|DF || '''14''' || [[Thomas Berthold]]
+|-
+|DF || '''15''' || [[Klaus Augenthaler]]
+|-
+|DF || '''3''' || [[Andreas Brehme]] || || {{suboff|46}}
+|-
+|MF || '''10''' || [[Felix Magath]]
+|-
+|MF || '''8''' || [[Lothar Matthäus]] || || {{suboff|75}}
+|-
+|FW || '''19''' || [[Klaus Allofs]]
+|-
+|FW || '''9''' || [[Rudi Völler]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''7''' || [[Pierre Littbarski]] || || {{subon|46}}
+|-
+|FW || '''11''' || [[Karl-Heinz Rummenigge]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|GER}} [[Franz Beckenbauer]]
+|}
+|}
+
+===Scotland vs Denmark===
+
+<onlyinclude>{{#invoke:Football box|main|section=E2
+|date={{Start date|1986|6|4|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|SCO}}
+|score={{score link|1986 FIFA World Cup Group E#Scotland vs Denmark|0–1}}
+|team2={{fb|DEN}}
+|goals1=
+|goals2=
+*[[Preben Elkjær|Elkjær]] {{goal|57}}
+|stadium=[[Estadio Neza 86]], [[Ciudad Nezahualcóyotl|Nezahualcóyotl]]
+|attendance=18,000
+|referee=[[Lajos Németh]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/517 |title=Scotland vs Denmark {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=517/index.html |title=1986 FIFA World Cup Mexico – Matches – Scotland v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228213404/http://www.fifa.com/worldcup/matches/round=308/match=517/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sco8588h
+ | pattern_b  = _sco8588h
+ | pattern_ra = _sco8588h
+ | pattern_sh = _sco8588h
+ | pattern_so = 
+ | leftarm    = 000060
+ | body       = 000060
+ | rightarm   = 000060
+ | shorts     = ffffff
+ | socks      = ff0000
+ | title      = Scotland
+}}
+|{{Football kit
+ | pattern_la =  _den86a
+ | pattern_b =   _den86a
+ | pattern_ra  = _den86h
+ | pattern_sh = _den86a
+ | pattern_so = _denmark_1986
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FF0000
+ | socks      = FFFFFF
+ | title      = Denmark
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Jim Leighton]]
+|-
+|DF || '''2''' || [[Richard Gough]]
+|-
+|DF || '''5''' || [[Alex McLeish]]
+|-
+|DF || '''6''' || [[Willie Miller]]
+|-
+|DF || '''3''' || [[Maurice Malpas]]
+|-
+|MF || '''7''' || [[Gordon Strachan]] || || {{suboff|74}}
+|-
+|MF || '''8''' || [[Roy Aitken]]
+|-
+|MF || '''4''' || [[Graeme Souness]] ([[Captain (association football)|c]])
+|-
+|MF || '''13''' || [[Steve Nicol]]
+|-
+|FW || '''19''' || [[Charlie Nicholas]]
+|-
+|FW || '''20''' || [[Paul Sturrock]] || || {{suboff|61}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Andy Goram]]
+|
+|
+|-
+|DF
+|'''14'''
+|[[David Narey]]
+|
+|
+|-
+|MF
+|'''11'''
+|[[Paul McStay]]
+|
+|
+|-
+|FW || '''16''' || [[Frank McAvennie]] || || {{subon|61}}
+|-
+|FW || '''9''' || [[Eamonn Bannon]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|SCO}} [[Alex Ferguson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Troels Rasmussen]]
+|-
+|SW || '''4''' || [[Morten Olsen]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Søren Busk]]
+|-
+|DF || '''5''' || [[Ivan Nielsen]]
+|-
+|RWB || '''9''' || [[Klaus Berggreen]] || {{yel|84}}
+|-
+|DM || '''12''' || [[Jens Jørn Bertelsen]]
+|-
+|CM || '''15''' || [[Frank Arnesen]] || || {{suboff|74}}
+|-
+|CM || '''6''' || [[Søren Lerby]]
+|-
+|LWB || '''8''' || [[Jesper Olsen]] || || {{suboff|80}}
+|-
+|FW || '''11''' || [[Michael Laudrup]]
+|-
+|FW || '''10''' || [[Preben Elkjær]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''16'''
+|[[Ole Qvist]]
+|
+|
+|-
+|DF || '''2''' || [[John Sivebæk]] || || {{subon|74}}
+|-
+|MF
+|'''20'''
+|[[Jan Bartram]]
+|
+|
+|-
+|MF || '''7''' || [[Jan Mølby]] || || {{subon|80}}
+|-
+|FW
+|'''19'''
+|[[John Eriksen]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|GER}} [[Sepp Piontek]]
+|}
+|}
+
+===West Germany vs Scotland===
+
+<onlyinclude>{{#invoke:Football box|main|section=E3
+|date={{Start date|1986|6|8|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1986 FIFA World Cup Group E#West Germany vs Scotland|2–1}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Rudi Völler|Völler]] {{goal|23}}
+*[[Klaus Allofs|Allofs]] {{goal|49}}
+|goals2=
+*[[Gordon Strachan|Strachan]] {{goal|18}}
+|stadium=[[Estadio La Corregidora]], [[Santiago de Querétaro|Querétaro]]
+|attendance=30,000
+|referee=[[Ioan Igna]] ([[Romanian Football Federation|Romania]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/580 |title=Germany FR vs Scotland {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=580/index.html |title=1986 FIFA World Cup Mexico – Matches – Germany FR v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214172950/http://www.fifa.com/worldcup/matches/round=308/match=580/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _westgermany1986h
+ | pattern_b  = _westgermany1986h
+ | pattern_ra = _westgermany1986h
+ | pattern_so = _color_3_stripes_black
+ | pattern_sh = _ger90h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|{{Football kit
+ | pattern_la = _sco8588h
+ | pattern_b  = _sco8588h
+ | pattern_ra = _sco8588h
+ | pattern_sh = _sco8588h
+ | pattern_so = 
+ | leftarm    = 000060
+ | body       = 000060
+ | rightarm   = 000060
+ | shorts     = ffffff
+ | socks      = ff0000
+ | title      = Scotland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Harald Schumacher]] ([[Captain (association football)|c]])
+|-
+|DF || '''2''' || [[Hans-Peter Briegel]] || || {{suboff|63}}
+|-
+|DF || '''4''' || [[Karlheinz Förster]]
+|-
+|DF || '''6''' || [[Norbert Eder]]
+|-
+|DF || '''14''' || [[Thomas Berthold]]
+|-
+|DF || '''15''' || [[Klaus Augenthaler]]
+|-
+|MF || '''10''' || [[Felix Magath]]
+|-
+|MF || '''8''' || [[Lothar Matthäus]]
+|-
+|MF || '''7''' || [[Pierre Littbarski]] || || {{suboff|75}}
+|-
+|FW || '''19''' || [[Klaus Allofs]]
+|-
+|FW || '''9''' || [[Rudi Völler]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''17''' || [[Ditmar Jakobs]] || || {{subon|63}}
+|-
+|FW || '''11''' || [[Karl-Heinz Rummenigge]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|GER}} [[Franz Beckenbauer]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Jim Leighton]]
+|-
+|DF || '''2''' || [[Richard Gough]]
+|-
+|DF || '''6''' || [[Willie Miller]]
+|-
+|DF || '''14''' || [[Dave Narey]]
+|-
+|DF || '''3''' || [[Maurice Malpas]] || {{yel|74}}
+|-
+|MF || '''9''' || [[Eamonn Bannon]] || {{yel|44}} || {{suboff|74}}
+|-
+|MF || '''8''' || [[Roy Aitken]]
+|-
+|MF || '''7''' || [[Gordon Strachan]]
+|-
+|MF || '''4''' || [[Graeme Souness]] ([[Captain (association football)|c]])
+|-
+|MF || '''13''' || [[Steve Nicol]] || || {{suboff|61}}
+|-
+|FW || '''17''' || [[Steve Archibald]] || {{yel|30}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Andy Goram]]
+|
+|
+|-
+|MF
+|'''10'''
+|[[Jim Bett]]
+|
+|
+|-
+|MF
+|'''11'''
+|[[Paul McStay]]
+|
+|
+|-
+|MF || '''16''' || [[Frank McAvennie]] || || {{subon|61}}
+|-
+|MF || '''21''' || [[Davie Cooper]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|SCO}} [[Alex Ferguson]]
+|}
+|}
+
+===Denmark vs Uruguay===
+
+<onlyinclude>{{#invoke:Football box|main|section=E4
+|date={{Start date|1986|6|8|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|DEN}}
+|score={{score link|1986 FIFA World Cup Group E#Denmark vs Uruguay|6–1}}
+|team2={{fb|URU}}
+|goals1=
+*[[Preben Elkjær|Elkjær]] {{goal|11||67||80}}
+*[[Søren Lerby|Lerby]] {{goal|41}}
+*[[Michael Laudrup|Laudrup]] {{goal|52}}
+*[[Jesper Olsen|J. Olsen]] {{goal|88}}
+|goals2=
+*[[Enzo Francescoli|Francescoli]] {{goal|45|pen.}}
+|stadium=[[Estadio Neza 86]], [[Ciudad Nezahualcóyotl|Nezahualcóyotl]]
+|attendance=26,500
+|referee=[[Antonio Márquez Ramírez]] ([[Federación Mexicana de Fútbol Asociación|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/522 |title=Denmark vs Uruguay {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=522/index.html |title=1986 FIFA World Cup Mexico – Matches – Denmark v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724214701/http://www.fifa.com/worldcup/matches/round=308/match=522/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _den86h
+ | pattern_b  = _den86h
+ | pattern_ra = _den86h
+ | pattern_sh = _den86a
+ | pattern_so = _denmark_1986
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Denmark
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _uruguay1986a
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _uru86a
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Troels Rasmussen]]
+|-
+|SW || '''4''' || [[Morten Olsen]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Søren Busk]]
+|-
+|DF || '''5''' || [[Ivan Nielsen]] || {{yel|7}}
+|-
+|RWB|| '''9''' || [[Klaus Berggreen]]
+|-
+|DM || '''12''' || [[Jens Jørn Bertelsen]] || || {{suboff|57}}
+|-
+|CM || '''15''' || [[Frank Arnesen]]
+|-
+|CM || '''6''' || [[Søren Lerby]]
+|-
+|LWB || '''21''' || [[Henrik Andersen]]
+|-
+|FW || '''11''' || [[Michael Laudrup]] || || {{suboff|81}}
+|-
+|FW || '''10''' || [[Preben Elkjær]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Lars Høgh]]
+|
+|
+|-
+|DF
+|'''2'''
+|[[John Sivebæk]]
+|
+|
+|-
+|MF || '''7''' || [[Jan Mølby]] || || {{subon|57}}
+|-
+|MF || '''8''' || [[Jesper Olsen]] || || {{subon|81}}
+|-
+|FW
+|'''19'''
+|[[John Eriksen]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|GER}} [[Sepp Piontek]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''12''' || [[Fernando Álvez]]
+|-
+|DF || '''2''' || [[Nelson Gutiérrez]]
+|-
+|DF || '''3''' || [[Eduardo Mario Acevedo]] ([[Captain (association football)|c]])
+|-
+|DF || '''4''' || [[Víctor Diogo]]
+|-
+|DF || '''6''' || [[José Batista]]
+|-
+|MF || '''5''' || [[Miguel Bossio]] || {{sent off|2|13|19}}
+|-
+|MF || '''16''' || [[Mario Saralegui]]
+|-
+|MF || '''11''' || [[Sergio Santín]] || || {{suboff|57}}
+|-
+|MF || '''10''' || [[Enzo Francescoli]]
+|-
+|FW || '''9''' || [[Jorge Orosmán da Silva|Jorge da Silva]] || {{yel|35}}
+|-
+|FW || '''7''' || [[Antonio Alzamendi]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Celso Otero]]
+|
+|
+|-
+|DF
+|'''14'''
+|[[Darío Pereyra]]
+|
+|
+|-
+|MF || '''17''' || [[José Zalazar]] || || {{subon|57}}
+|-
+|FW || '''19''' || [[Venancio Ramos]] || || {{subon|57}}
+|-
+|FW
+|'''21'''
+|[[Wilmar Cabrera]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|URU}} [[Omar Borrás]]
+|}
+|}
+
+===Denmark vs West Germany===
+
+<onlyinclude>{{#invoke:Football box|main|section=E5
+|date={{Start date|1986|6|13|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|DEN}}
+|score={{score link|1986 FIFA World Cup Group E#Denmark vs West Germany|2–0}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Jesper Olsen|J. Olsen]] {{goal|43|pen.}}
+*[[John Eriksen|Eriksen]] {{goal|62}}
+|goals2=
+|stadium=[[Estadio La Corregidora]], [[Santiago de Querétaro|Querétaro]]
+|attendance=36,000
+|referee=[[Alexis Ponnet]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/512 |title=Denmark vs Germany FR {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=512/index.html |title=1986 FIFA World Cup Mexico – Matches – Denmark v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214180806/http://www.fifa.com/worldcup/matches/round=308/match=512/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _den86h
+ | pattern_b  = _den86h
+ | pattern_ra = _den86h
+ | pattern_sh = _den86h
+ | pattern_so = _denmark_1986
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Denmark
+}}
+|{{Football kit
+ | pattern_la = _westgermany1986h
+ | pattern_b  = _westgermany1986h
+ | pattern_ra = _westgermany1986h
+ | pattern_sh = _ger90h
+ | pattern_so =_color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''22''' || [[Lars Høgh]]
+|-
+|SW || '''4''' || [[Morten Olsen]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Søren Busk]]
+|-
+|DF || '''21''' || [[Henrik Andersen]]
+|-
+|RWB || '''15''' || [[Frank Arnesen]] || {{sent off|1|36|88}}
+|-
+|DM || '''2''' || [[John Sivebæk]]
+|-
+|CM || '''7''' || [[Jan Mølby]]
+|-
+|CM || '''6''' || [[Søren Lerby]]
+|-
+|LWB || '''8''' || [[Jesper Olsen]] || || {{suboff|71}}
+|-
+|FW || '''11''' || [[Michael Laudrup]]
+|-
+|FW || '''10''' || [[Preben Elkjær]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''19''' || [[John Eriksen]] || || {{subon|46}}
+|-
+|FW || '''14''' || [[Allan Simonsen]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|GER}} [[Sepp Piontek]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Harald Schumacher]] ([[Captain (association football)|c]])
+|-
+|DF || '''4''' || [[Karlheinz Förster]] || || {{suboff|71}}
+|-
+|DF || '''5''' || [[Matthias Herget]]
+|-
+|DF || '''6''' || [[Norbert Eder]] || {{yel|48}}
+|-
+|DF || '''14''' || [[Thomas Berthold]]
+|-
+|DF || '''17''' || [[Ditmar Jakobs]] || {{yel|51}}
+|-
+|DF || '''3''' || [[Andreas Brehme]]
+|-
+|MF || '''21''' || [[Wolfgang Rolff]] || || {{suboff|46}}
+|-
+|MF || '''8''' || [[Lothar Matthäus]]
+|-
+|FW || '''19''' || [[Klaus Allofs]]
+|-
+|FW || '''9''' || [[Rudi Völler]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''7''' || [[Pierre Littbarski]] || || {{subon|46}}
+|-
+|FW || '''11''' || [[Karl-Heinz Rummenigge]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|GER}} [[Franz Beckenbauer]]
+|}
+|}
+
+===Scotland vs Uruguay===
+
+<onlyinclude>{{#invoke:Football box|main|section=E6
+|date={{Start date|1986|6|13|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|SCO}}
+|score={{score link|1986 FIFA World Cup Group E#Scotland vs Uruguay|0–0}}
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Neza 86]], [[Ciudad Nezahualcóyotl|Nezahualcóyotl]]
+|attendance=20,000
+|referee=[[Joël Quiniou]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/712 |title=Scotland vs Uruguay {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=712/index.html |title=1986 FIFA World Cup Mexico – Matches – Scotland v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229065324/http://www.fifa.com/worldcup/matches/round=308/match=712/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sco8588h
+ | pattern_b  = _sco8588h
+ | pattern_ra = _sco8588h
+ | pattern_sh = _sco8588h
+ | pattern_so = 
+ | leftarm    = 000060
+ | body       = 000060
+ | rightarm   = 000060
+ | shorts     = ffffff
+ | socks      = ff0000
+ | title      = Scotland
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _uruguay1986a
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _uru86a
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Jim Leighton]]
+|-
+|DF || '''2''' || [[Richard Gough]]
+|-
+|DF || '''6''' || [[Willie Miller]] ([[Captain (association football)|c]])
+|-
+|DF || '''14''' || [[David Narey]] || {{yel|48}}
+|-
+|DF || '''15''' || [[Arthur Albiston]]
+|-
+|MF || '''7''' || [[Gordon Strachan]]
+|-
+|MF || '''8''' || [[Roy Aitken]]
+|-
+|MF || '''11''' || [[Paul McStay]]
+|-
+|MF || '''13''' || [[Steve Nicol]] || {{yel|62}} || {{suboff|70}}
+|-
+|FW || '''18''' || [[Graeme Sharp]]
+|-
+|FW || '''20''' || [[Paul Sturrock]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Andy Goram]]
+|
+|
+|-
+|MF
+|'''10'''
+|[[Jim Bett]]
+|
+|
+|-
+|FW || '''19''' || [[Charlie Nicholas]] || || {{subon|70}}
+|-
+|MF || '''21''' || [[Davie Cooper]] || || {{subon|70}}
+|-
+|FW
+|'''17'''
+|[[Steve Archibald]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|SCO}} [[Alex Ferguson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''12''' || [[Fernando Álvez]] || {{yel|87}}
+|-
+|DF || '''2''' || [[Nelson Gutiérrez]]
+|-
+|DF || '''3''' || [[Eduardo Mario Acevedo]]
+|-
+|DF || '''4''' || [[Víctor Diogo]] || {{yel|72}}
+|-
+|DF || '''6''' || [[José Batista]] || {{sent off|0|1}}
+|-
+|DF || '''14''' || [[Darío Pereyra]]
+|-
+|MF || '''8''' || [[Jorge Barrios (footballer)|Jorge Barrios]] ([[Captain (association football)|c]])
+|-
+|MF || '''11''' || [[Sergio Santín]]
+|-
+|MF || '''10''' || [[Enzo Francescoli]] || || {{suboff|84}}
+|-
+|FW || '''21''' || [[Wilmar Cabrera]] || {{yel|32}}
+|-
+|FW || '''19''' || [[Venancio Ramos]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''1'''
+|[[Rodolfo Rodríguez (Uruguayan footballer)|Rodolfo Rodríguez]]
+|
+|
+|-
+|DF
+|'''13'''
+|[[César Vega (footballer)|César Vega]]
+|
+|
+|-
+|MF || '''16''' || [[Mario Saralegui]] || || {{subon|70}}
+|-
+|FW || '''7''' || [[Antonio Alzamendi]] || || {{subon|84}}
+|-
+|FW
+|'''9'''
+|[[Jorge Da Silva|Jorge da Silva]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|URU}} [[Omar Borrás]]
+|}
+|}
+
+==See also==
+*[[Denmark at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1986 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1986 FIFA World Cup group stage|E]]
+[[Category:Scotland at the 1986 FIFA World Cup|Group]]
+[[Category:West Germany at the 1986 FIFA World Cup|Group]]
+[[Category:Uruguay at the 1986 FIFA World Cup|Group]]
+[[Category:Denmark at the 1986 FIFA World Cup|Group]]
+[[Category:Querétaro (city)]]
+[[Category:Ciudad Nezahualcóyotl]]
+[[Category:Football in Querétaro]]
+[[Category:Football in the State of Mexico]]
+[[Category:History of Querétaro]]
+[[Category:History of the State of Mexico]]

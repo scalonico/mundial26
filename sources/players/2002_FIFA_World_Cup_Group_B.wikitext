@@ -1,0 +1,910 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group B of the [[2002 FIFA World Cup]]''' took place between 2 and 12 June 2002. [[Spain national football team|Spain]] won the group and advanced to the second round along with [[Paraguay national football team|Paraguay]], who beat [[South Africa national football team|South Africa]] to finish in second place on goals scored. South Africa and [[Slovenia national football team|Slovenia]] failed to advance.<ref>{{cite web |last=Manaschev |first=Erlan |url=https://www.rsssf.org/tables/2002full.html |title=World Cup 2002 – Match Details |publisher=[[RSSSF]] |date=3 July 2008 |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/4395?date=2002-06-14&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=ESP
+|team2=PAR
+|team3=RSA
+|team4=SVN
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2002 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_ESP=3 |draw_ESP=0 |loss_ESP=0 |gf_ESP=9 |ga_ESP=4
+|win_PAR=1 |draw_PAR=1 |loss_PAR=1 |gf_PAR=6 |ga_PAR=6
+|win_RSA=1 |draw_RSA=1 |loss_RSA=1 |gf_RSA=5 |ga_RSA=5
+|win_SVN=0 |draw_SVN=0 |loss_SVN=3 |gf_SVN=2 |ga_SVN=7
+
+|name_ESP={{fb|ESP}}
+|name_PAR={{fb|PAR|1990}}
+|name_RSA={{fb|RSA}}
+|name_SVN={{fb|SVN}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2002 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+*Spain advanced to play Republic of Ireland (runner-up of [[2002 FIFA World Cup Group E|Group E]]) in the [[2002 FIFA World Cup knockout stage#Spain vs Republic of Ireland|round of 16]].
+*Paraguay advanced to play Germany (winner of [[2002 FIFA World Cup Group E|Group E]]) in the [[2002 FIFA World Cup knockout stage#Germany vs Paraguay|round of 16]].
+
+==Matches==
+''All times are local ([[Korea Standard Time|UTC+9]])''
+
+===Paraguay vs South Africa===
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|2002|6|2|df=y}}
+|time=16:30
+|team1={{fb-rt|PAR|1990}}
+|score={{score link|2002 FIFA World Cup Group B#Paraguay vs South Africa|2–2}}
+|team2={{fb|RSA}}
+|goals1=
+*[[Roque Santa Cruz|Santa Cruz]] {{goal|39}}
+*[[Francisco Arce|Arce]] {{goal|55}}
+|goals2=
+*[[Teboho Mokoena (footballer, born 1974)|T. Mokoena]] {{goal|63}}
+*[[Quinton Fortune|Fortune]] {{goal|90+1|pen.}}
+|stadium=[[Busan Asiad Main Stadium]], [[Busan]]
+|attendance=25,186
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950006 |title=Paraguay vs South Africa {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950006/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Paraguay v South Africa |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181418/http://www.fifa.com/worldcup/matches/round=43950100/match=43950006/index.html |archive-date=19 December 2017}} | {{cite web |url=http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/06_0602_BUS_PAR-RSA_Fulltime.pdf |title=Match Report – Group B – Paraguay v South Africa |publisher=[[FIFA]] |date=2 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040829032421/http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/06_0602_BUS_PAR-RSA_Fulltime.pdf |archive-date=29 August 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _par02H
+ |pattern_b  = _par02H
+ |pattern_ra = _par02H
+ |pattern_sh = _par02H
+ |pattern_so = _whiteline
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Paraguay
+}}
+|{{Football kit
+ |pattern_la = _rsa02h
+ |pattern_b  = _rsa02H
+ |pattern_ra = _rsa02h
+ |pattern_sh = _rsa02h
+ |pattern_so = 
+ |leftarm    = FFFFF
+ |body       = FFFFF
+ |rightarm   = FFFFF
+ |shorts     = FFFF00
+ |socks      = FFFFF
+ |title      = South Africa
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Ricardo Tavarelli]] || {{yel|90}}
+|-
+|CB ||'''18'''||[[Julio César Cáceres]] || {{yel|35}}
+|-
+|CB ||'''5''' ||[[Celso Ayala]]
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]] ([[Captain (association football)|c]])
+|-
+|RWB||'''2''' ||[[Francisco Arce]]
+|-
+|LWB||'''21'''||[[Denis Caniza]] || {{yel|65}}
+|-
+|CM ||'''10'''||[[Roberto Acuña]]
+|-
+|CM ||'''6''' ||[[Estanislao Struway]] || || {{suboff|86}}
+|-
+|CM ||'''8''' ||[[Guido Alvarenga]] || || {{suboff|66}}
+|-
+|AM ||'''11'''||[[Jorge Campos (Paraguayan footballer)|Jorge Campos]] || || {{suboff|73}}
+|-
+|CF ||'''9''' ||[[Roque Santa Cruz]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Diego Gavilán]] || || {{subon|66}}
+|-
+|MF ||'''16'''||[[Gustavo Morínigo]] || || {{subon|73}}
+|-
+|DF ||'''17'''||[[Juan Carlos Franco]] || {{yel|90+3}} || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ITA}} [[Cesare Maldini]]
+|}
+|valign="top"|[[File:PAR-RSA_2002-06-02.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Andre Arendse]]
+|-
+|RB ||'''4''' ||[[Aaron Mokoena]] || {{yel|3}}
+|-
+|CB ||'''13'''||[[Pierre Issa]] || {{yel|9}} || {{suboff|27}}
+|-
+|CB ||'''19'''||[[Lucas Radebe]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Bradley Carnell]]
+|-
+|RM ||'''2''' ||[[Cyril Nzama]]
+|-
+|CM ||'''12'''||[[Teboho Mokoena (footballer, born 1974)|Teboho Mokoena]]
+|-
+|CM ||'''6''' ||[[MacBeth Sibaya]]
+|-
+|LM ||'''7''' ||[[Quinton Fortune]]
+|-
+|CF ||'''17'''||[[Benni McCarthy]] || {{yel|38}} || {{suboff|78}}
+|-
+|CF ||'''15'''||[[Sibusiso Zuma]] || {{yel|45+2}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[MacDonald Mukasi]] || || {{subon|27}}
+|-
+|FW ||'''23'''||[[George Koumantarakis]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jomo Sono]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Francisco Arce]] (Paraguay)
+
+'''Assistant referees:'''
+<br />Igor Šramka ([[Slovak Football Association|Slovakia]])
+<br />Curtis Charles ([[Antigua and Barbuda Football Association|Antigua and Barbuda]])
+<br />'''Fourth official:'''
+<br />[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Spain vs Slovenia===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|2002|6|2|df=y}}
+|time=20:30
+|team1={{fb-rt|ESP}}
+|score={{score link|2002 FIFA World Cup Group B#Spain vs Slovenia|3–1}}
+|team2={{fb|SVN}}
+|goals1=
+*[[Raúl (footballer)|Raúl]] {{goal|44}}
+*[[Juan Carlos Valerón|Valerón]] {{goal|74}}
+*[[Fernando Hierro|Hierro]] {{goal|87|pen.}}
+|goals2=
+*[[Sebastjan Cimirotič|Cimirotič]] {{goal|82}}
+|stadium=[[Guus Hiddink Stadium|Gwangju World Cup Stadium]], [[Gwangju]]
+|attendance=28,598
+|referee=[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950008 |title=Spain vs Slovenia {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950008/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Spain v Slovenia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181424/http://www.fifa.com/worldcup/matches/round=43950100/match=43950008/index.html |archive-date=19 December 2017}} | {{cite web |url=http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/08_0602_GWA_ESP-SVN_Fulltime.pdf |title=Match Report – Group B – Spain v Slovenia |publisher=[[FIFA]] |date=2 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050514111201/http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/08_0602_GWA_ESP-SVN_Fulltime.pdf |archive-date=14 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp0204h
+ |pattern_b  = _esp0204h
+ |pattern_ra = _esp0204h
+ |pattern_sh = _esp0204
+ |pattern_so =_esp0204h 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 003060
+ |title      = Spain
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _slo01h
+ |pattern_ra = 
+ |pattern_sh = _slo01h
+ |pattern_so = _slo01h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Slovenia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]]
+|-
+|RB ||'''5''' ||[[Carles Puyol]]
+|-
+|CB ||'''6''' ||[[Fernando Hierro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||[[Miguel Ángel Nadal]]
+|-
+|LB ||'''3''' ||[[Juanfran (footballer, born 1976)|Juanfran]] || || {{suboff|82}}
+|-
+|RM ||'''21'''||[[Luis Enrique]] || || {{suboff|74}}
+|-
+|CM ||'''17'''||[[Juan Carlos Valerón]] || {{yel|36}}
+|-
+|CM ||'''8''' ||[[Rubén Baraja]]
+|-
+|LM ||'''11'''||[[Javier de Pedro]]
+|-
+|CF ||'''7''' ||[[Raúl (footballer)|Raúl]]
+|-
+|CF ||'''10'''||[[Diego Tristán]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Fernando Morientes]] || || {{subon|67}}
+|-
+|DF ||'''4''' ||[[Iván Helguera]] || || {{subon|74}}
+|-
+|DF ||'''15'''||[[Enrique Romero]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Antonio Camacho]]
+|}
+|valign="top"|[[File:ESP-SVN_2002-06-02.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marko Simeunovič]]
+|-
+|CB ||'''3''' ||[[Željko Milinovič]]
+|-
+|CB ||'''5''' ||[[Marinko Galič]]
+|-
+|CB ||'''6''' ||[[Aleksander Knavs]]
+|-
+|RM ||'''7''' ||[[Đoni Novak]] || || {{suboff|77}}
+|-
+|CM ||'''8''' ||[[Aleš Čeh]] ([[Captain (association football)|c]])
+|-
+|CM ||'''11'''||[[Miran Pavlin]]
+|-
+|LM ||'''19'''||[[Amir Karić]] || {{yel|45+1}}
+|-
+|AM ||'''10'''||[[Zlatko Zahovič]] || || {{suboff|63}}
+|-
+|AM ||'''13'''||[[Mladen Rudonja]]
+|-
+|CF ||'''9''' ||[[Milan Osterc]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Sebastjan Cimirotič]] || {{yel|65}} || {{subon|57}}
+|-
+|MF ||'''18'''||[[Milenko Ačimovič]] || || {{subon|63}}
+|-
+|MF ||'''14'''||[[Saša Gajser]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Srečko Katanec]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Raúl (footballer)|Raúl]] (Spain)
+
+'''Assistant referees:'''
+<br />Ali Tomusange ([[Federation of Uganda Football Associations|Uganda]])
+<br />Egon Bereuter ([[Austrian Football Association|Austria]])
+<br />'''Fourth official:'''
+<br />[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+|}
+
+===Spain vs Paraguay===
+This was a repeat of the two teams' second [[1998 FIFA World Cup Group D#Spain vs Paraguay|match at the 1998 tournament]], a goalless draw.
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|2002|6|7|df=y}}
+|time=18:00
+|team1={{fb-rt|ESP}}
+|score={{score link|2002 FIFA World Cup Group B#Spain vs Paraguay|3–1}}
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Fernando Morientes|Morientes]] {{goal|53||69}}
+*[[Fernando Hierro|Hierro]] {{goal|83|pen.}}
+|goals2=
+*[[Carles Puyol|Puyol]] {{goal|10|o.g.}}
+|stadium=[[Jeonju World Cup Stadium]], [[Jeonju]]
+|attendance=24,000
+|referee=[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950022 |title=Spain vs Paraguay {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950022/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Spain v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181444/http://www.fifa.com/worldcup/matches/round=43950100/match=43950022/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/en/t/m/mr/22.html |title=Match Report – Group B – Spain v Paraguay |publisher=[[FIFA]] |date=7 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030403215921/http://fifaworldcup.yahoo.com/en/t/m/mr/22.html |archive-date=3 April 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp0204h
+ |pattern_b  = _esp0204h
+ |pattern_ra = _esp0204h
+ |pattern_sh = _esp0204
+ |pattern_so =_esp0204h 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 003060
+ |title      = Spain
+}}
+|{{Football kit
+ |pattern_la = _par02A
+ |pattern_b  = _par02A
+ |pattern_ra = _par02A
+ |pattern_sh = _par02A
+ |pattern_so = _navyline
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]]
+|-
+|RB ||'''5''' ||[[Carles Puyol]]
+|-
+|CB ||'''6''' ||[[Fernando Hierro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||[[Miguel Ángel Nadal]]
+|-
+|LB ||'''3''' ||[[Juanfran (footballer, born 1976)|Juanfran]]
+|-
+|RM ||'''21'''||[[Luis Enrique]] || || {{suboff|46}}
+|-
+|CM ||'''8''' ||[[Rubén Baraja]] || {{yel|9}}
+|-
+|CM ||'''17'''||[[Juan Carlos Valerón]] || || {{suboff|85}}
+|-
+|LM ||'''11'''||[[Javier de Pedro]]
+|-
+|CF ||'''7''' ||[[Raúl (footballer)|Raúl]]
+|-
+|CF ||'''10'''||[[Diego Tristán]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Iván Helguera]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Fernando Morientes]] || || {{subon|46}}
+|-
+|MF ||'''19'''||[[Xavi (footballer, born 1980)|Xavi]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Antonio Camacho]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Luis Chilavert]] ([[Captain (association football)|c]])
+|-
+|CB ||'''18'''||[[Julio César Cáceres]]
+|-
+|CB ||'''5''' ||[[Celso Ayala]]
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]]
+|-
+|RWB ||'''2''' ||[[Francisco Arce]] || {{yel|44}}
+|-
+|LWB ||'''21'''||[[Denis Caniza]] || || {{suboff|78}}
+|-
+|CM ||'''14'''||[[Diego Gavilán]] || {{yel|60}}
+|-
+|CM ||'''10'''||[[Roberto Acuña]]
+|-
+|CM ||'''13'''||[[Carlos Paredes (footballer)|Carlos Paredes]]
+|-
+|CF ||'''9''' ||[[Roque Santa Cruz]] || {{yel|80}}
+|-
+|CF ||'''20'''||[[José Cardozo]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Jorge Campos (Paraguayan footballer)|Jorge Campos]] || || {{subon|63}}
+|-
+|MF ||'''6''' ||[[Estanislao Struway]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ITA}} [[Cesare Maldini]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Fernando Morientes]] (Spain)
+
+'''Assistant referees:'''
+<br />Wagih Farag ([[Egyptian Football Association|Egypt]])
+<br />Brighton Mudzamiri ([[Zimbabwe Football Association|Zimbabwe]])
+<br />'''Fourth official:'''
+<br />[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+|}
+
+===South Africa vs Slovenia===
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|2002|6|8|df=y}}
+|time=15:30
+|team1={{fb-rt|RSA}}
+|score={{score link|2002 FIFA World Cup Group B#South Africa vs Slovenia|1–0}}
+|team2={{fb|SVN}}
+|goals1=
+*[[Siyabonga Nomvethe|Nomvethe]] {{goal|4}}
+|goals2=
+|stadium=[[Daegu World Cup Stadium]], [[Daegu]]
+|attendance=47,226
+|referee=[[Ángel Sánchez (referee)|Ángel Sánchez]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950024 |title=South Africa vs Slovenia {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950024/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – South Africa v Slovenia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181449/http://www.fifa.com/worldcup/matches/round=43950100/match=43950024/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/24_0608_DAG_RSA-SVN_Fulltime.pdf |title=Match Report – Group B – South Africa v Slovenia |publisher=[[FIFA]] |date=8 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030423184101/http://fifaworldcup.yahoo.com/releases/24_0608_DAG_RSA-SVN_Fulltime.pdf |archive-date=23 April 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _rsa02h
+ |pattern_b  = _rsa02H
+ |pattern_ra = _rsa02h
+ |pattern_sh = _rsa02h
+ |pattern_so = 
+ |leftarm    = FFFFF
+ |body       = FFFFF
+ |rightarm   = FFFFF
+ |shorts     = FFFFF
+ |socks      = FFFFF
+ |title      = South Africa
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _slo01a
+ |pattern_ra = 
+ |pattern_sh = _slo01a
+ |pattern_so = _slo01a
+ |leftarm    = 005252
+ |body       = 005252
+ |rightarm   = 005252
+ |shorts     = 005252
+ |socks      = 006060
+ |title      = Slovenia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Andre Arendse]]
+|-
+|RB ||'''2''' ||[[Cyril Nzama]]
+|-
+|CB ||'''4''' ||[[Aaron Mokoena]]
+|-
+|CB ||'''19'''||[[Lucas Radebe]] ([[Captain (association football)|c]]) || {{yel|12}}
+|-
+|LB ||'''3''' ||[[Bradley Carnell]]
+|-
+|RM ||'''15'''||[[Sibusiso Zuma]]
+|-
+|CM ||'''6''' ||[[MacBeth Sibaya]]
+|-
+|CM ||'''12'''||[[Teboho Mokoena (footballer, born 1974)|Teboho Mokoena]] || {{yel|59}}
+|-
+|LM ||'''7''' ||[[Quinton Fortune]] || || {{suboff|84}}
+|-
+|CF ||'''14'''||[[Siyabonga Nomvethe]] || || {{suboff|71}}
+|-
+|CF ||'''17'''||[[Benni McCarthy]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Delron Buckley]] || || {{subon|71}}
+|-
+|FW ||'''23'''||[[George Koumantarakis]] || || {{subon|80}}
+|-
+|MF ||'''11'''||[[Jabu Pule]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jomo Sono]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marko Simeunovič]]
+|-
+|CB ||'''3''' ||[[Željko Milinovič]] || {{yel|52}}
+|-
+|CB ||'''4''' ||[[Muamer Vugdalič]] || {{yel|35}}
+|-
+|CB ||'''6''' ||[[Aleksander Knavs]] || || {{suboff|60}}
+|-
+|RM ||'''7''' ||[[Đoni Novak]]
+|-
+|CM ||'''11'''||[[Miran Pavlin]] || {{yel|75}}
+|-
+|CM ||'''8''' ||[[Aleš Čeh]] ([[Captain (association football)|c]]) || {{yel|62}}
+|-
+|LM ||'''19'''||[[Amir Karić]]
+|-
+|AM ||'''18'''||[[Milenko Ačimovič]] || || {{suboff|60}}
+|-
+|CF ||'''21'''||[[Sebastjan Cimirotič]] || || {{suboff|41}}
+|-
+|CF ||'''13'''||[[Mladen Rudonja]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Milan Osterc]] || || {{subon|41}}
+|-
+|MF ||'''20'''||[[Nastja Čeh]] || || {{subon|60}}
+|-
+|DF ||'''23'''||[[Spasoje Bulajič]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Srečko Katanec]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Quinton Fortune]] (South Africa)
+
+'''Assistant referees:'''
+<br />Jorge Rattalino ([[Argentine Football Association|Argentina]])
+<br />Ali Al Traifi ([[Saudi Arabia Football Federation|Saudi Arabia]])
+<br />'''Fourth official:'''
+<br />[[Jan Wegereef]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===South Africa vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|2002|6|12|df=y}}
+|time=20:30
+|team1={{fb-rt|RSA}}
+|score={{score link|2002 FIFA World Cup Group B#South Africa vs Spain|2–3}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Benni McCarthy|McCarthy]] {{goal|31}}
+*[[Lucas Radebe|Radebe]] {{goal|53}}
+|goals2=
+*[[Raúl (footballer)|Raúl]] {{goal|4||56}}
+*[[Gaizka Mendieta|Mendieta]] {{goal|45+1}}
+|stadium=[[Daejeon World Cup Stadium]], [[Daejeon]]
+|attendance=31,024
+|referee=[[Saad Kamil Al-Fadhli|Saad Mane]] ([[Kuwait Football Association|Kuwait]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950039 |title=South Africa vs Spain {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950039/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – South Africa v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182246/http://www.fifa.com/worldcup/matches/round=43950100/match=43950039/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/39_0612_DAJ_RSA-ESP_Fulltime.pdf |title=Match Report – Group B – South Africa v Spain |publisher=[[FIFA]] |date=12 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20031124103656/http://fifaworldcup.yahoo.com/releases/39_0612_DAJ_RSA-ESP_Fulltime.pdf |archive-date=24 November 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _rsa02a
+ |pattern_b  = _rsa02A
+ |pattern_ra = _rsa02a
+ |pattern_sh = _rsa02a
+ |pattern_so = 
+ |leftarm    = F7EB29
+ |body       = F7EB29
+ |rightarm   = F7EB29
+ |shorts     = FFFF00
+ |socks      = FFFF00
+ |title      = South Africa
+}}
+|{{Football kit
+ |pattern_la = _esp0204h
+ |pattern_b  = _esp0204h
+ |pattern_ra = _esp0204h
+ |pattern_sh = _esp0204
+ |pattern_so =_esp0204h 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 003060
+ |title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Andre Arendse]]
+|-
+|RB ||'''2''' ||[[Cyril Nzama]] || {{yel|16}}
+|-
+|CB ||'''4''' ||[[Aaron Mokoena]] || {{yel|81}}
+|-
+|CB ||'''19'''||[[Lucas Radebe]] ([[Captain (association football)|c]]) || || {{suboff|80}}
+|-
+|LB ||'''3''' ||[[Bradley Carnell]] || {{yel|67}}
+|-
+|RM ||'''15'''||[[Sibusiso Zuma]]
+|-
+|CM ||'''6''' ||[[MacBeth Sibaya]]
+|-
+|CM ||'''12'''||[[Teboho Mokoena (footballer, born 1974)|Teboho Mokoena]]
+|-
+|LM ||'''7''' ||[[Quinton Fortune]] || || {{suboff|83}}
+|-
+|CF ||'''17'''||[[Benni McCarthy]]
+|-
+|CF ||'''14'''||[[Siyabonga Nomvethe]] || {{yel|69}} || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''23'''||[[George Koumantarakis]] || || {{subon|74}}
+|-
+|DF ||'''22'''||[[Thabang Molefe]] || || {{subon|80}}
+|-
+|DF ||'''5''' ||[[Jacob Lekgetho]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jomo Sono]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]]
+|-
+|RB ||'''2''' ||[[Curro Torres]]
+|-
+|CB ||'''4''' ||[[Iván Helguera]]
+|-
+|CB ||'''20'''||[[Miguel Ángel Nadal]] ([[Captain (association football)|c]])
+|-
+|LB ||'''15'''||[[Enrique Romero]]
+|-
+|RM ||'''22'''||[[Joaquín (footballer, born 1981)|Joaquín]]
+|-
+|CM ||'''19'''||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''14'''||[[David Albelda]] || || {{suboff|53}}
+|-
+|LM ||'''16'''||[[Gaizka Mendieta]]
+|-
+|CF ||'''7''' ||[[Raúl (footballer)|Raúl]] || || {{suboff|82}}
+|-
+|CF ||'''9''' ||[[Fernando Morientes]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Sergio (footballer, born 1976)|Sergio]] || || {{subon|53}}
+|-
+|FW ||'''12'''||[[Albert Luque]] || || {{subon|77}}
+|-
+|MF ||'''21'''||[[Luis Enrique]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Antonio Camacho]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Raúl (footballer)|Raúl]] (Spain)
+
+'''Assistant referees:'''
+<br />Jorge Rattalino ([[Argentine Football Association|Argentina]])
+<br />Awni Hassouneh ([[Jordan Football Association|Jordan]])
+<br />'''Fourth official:'''
+<br />[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+|}
+
+===Slovenia vs Paraguay===
+<onlyinclude>{{#invoke:Football box|main|section=B6
+|date={{Start date|2002|6|12|df=y}}
+|time=20:30
+|team1={{fb-rt|SVN}}
+|score={{score link|2002 FIFA World Cup Group B#Slovenia vs Paraguay|1–3}}
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Milenko Ačimovič|Ačimovič]] {{goal|45+1}}
+|goals2=
+*[[Nelson Cuevas|Cuevas]] {{goal|65||84}}
+*[[Jorge Luis Campos|Campos]] {{goal|73}}
+|stadium=[[Jeju World Cup Stadium]], [[Seogwipo]]
+|attendance=30,176
+|referee=[[Felipe Ramos]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950040 |title=Slovenia vs Paraguay {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950040/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Slovenia v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181520/http://www.fifa.com/worldcup/matches/round=43950100/match=43950040/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/40_0612_SEG_SVN-PAR_Fulltime.pdf |title=Match Report – Group B – Slovenia v Paraguay |publisher=[[FIFA]] |date=12 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040829061114/http://fifaworldcup.yahoo.com/releases/40_0612_SEG_SVN-PAR_Fulltime.pdf |archive-date=29 August 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _slo01h
+ |pattern_ra = 
+ |pattern_sh = _slo01h
+ |pattern_so = _slo01h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Slovenia
+}}
+|{{Football kit
+ |pattern_la = _par02H
+ |pattern_b  = _par02H
+ |pattern_ra = _par02H
+ |pattern_sh = _par02H
+ |pattern_so = _whiteline
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12''' ||[[Mladen Dabanovič]]
+|-
+|CB ||'''23'''||[[Spasoje Bulajič]]
+|-
+|CB ||'''3''' ||[[Željko Milinovič]] || {{yel|79}}
+|-
+|CB ||'''15'''||[[Rajko Tavčar]]
+|-
+|RM ||'''7''' ||[[Đoni Novak]]
+|-
+|CM ||'''8''' ||[[Aleš Čeh]] ([[Captain (association football)|c]])
+|-
+|CM ||'''11'''||[[Miran Pavlin]] || {{yel|15}} || {{suboff|40}}
+|-
+|LM ||'''19'''||[[Amir Karić]] || {{yel|68}}
+|-
+|AM ||'''18'''||[[Milenko Ačimovič]] || || {{suboff|62}}
+|-
+|CF ||'''21'''||[[Sebastjan Cimirotič]]
+|-
+|CF ||'''9''' ||[[Milan Osterc]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Mladen Rudonja]] || {{yel|69}} || {{subon|40}}
+|-
+|MF ||'''20'''||[[Nastja Čeh]] || {{sent off|0|81}} || {{subon|62}}
+|-
+|FW ||'''16'''||[[Senad Tiganj]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Danilo Popivoda]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Luis Chilavert]] ([[Captain (association football)|c]])
+|-
+|CB ||'''18'''||[[Julio César Cáceres]]
+|-
+|CB ||'''5''' ||[[Celso Ayala]]
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]]
+|-
+|RWB ||'''2''' ||[[Francisco Arce]]
+|-
+|LWB ||'''21'''||[[Denis Caniza]]
+|-
+|CM ||'''13'''||[[Carlos Paredes (footballer)|Carlos Paredes]] || {{sent off|2|4|22}}
+|-
+|CM ||'''10'''||[[Roberto Acuña]]
+|-
+|CM ||'''8''' ||[[Guido Alvarenga]] || || {{suboff|53}}
+|-
+|CF ||'''20'''||[[José Cardozo]] || || {{suboff|61}}
+|-
+|CF ||'''9''' ||[[Roque Santa Cruz]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Jorge Campos (Paraguayan footballer)|Jorge Campos]] || || {{subon|53}}
+|-
+|FW ||'''23'''||[[Nelson Cuevas]] || || {{subon|61}} || {{suboff|90+2}}
+|-
+|MF ||'''17'''||[[Juan Carlos Franco]] || || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ITA}} [[Cesare Maldini]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Nelson Cuevas]] (Paraguay)
+
+'''Assistant referees:'''
+<br />Leif Lindberg ([[Swedish Football Association|Sweden]])
+<br />Visva Krishnan ([[Football Association of Singapore|Singapore]])
+<br />'''Fourth official:'''
+<br />Kim Young-joo ([[Korea Football Association|South Korea]])
+|}
+
+==See also==
+*[[Paraguay at the FIFA World Cup]]
+*[[Slovenia at the FIFA World Cup]]
+*[[South Africa at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2002 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:2002 FIFA World Cup group stage|B]]
+[[Category:Spain at the 2002 FIFA World Cup]]
+[[Category:Slovenia at the 2002 FIFA World Cup|Group]]
+[[Category:South Africa at the 2002 FIFA World Cup]]
+[[Category:Paraguay at the 2002 FIFA World Cup]]
+[[Category:Sports competitions in Busan]]
+[[Category:Sports competitions in Gwangju]]
+[[Category:Sports competitions in Jeonju]]
+[[Category:Sports competitions in Daegu]]
+[[Category:Sports competitions in Daejeon]]
+[[Category:Seogwipo]]
+[[Category:Sport in Jeju Province]]

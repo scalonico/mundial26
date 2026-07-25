@@ -1,0 +1,935 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group F of the [[2010 FIFA World Cup]]''' began on 14 June 2010 and ended on 24 June 2010.<ref>{{cite press release |title=Match Schedule 2010 FIFA World Cup South Africa |website=FIFA.com |publisher=Fédération Internationale de Football Association |url=https://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |archive-url=https://web.archive.org/web/20091228213032/http://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |url-status=dead |archive-date=28 December 2009 |accessdate=6 December 2009 }}</ref> The group consisted of [[2006 FIFA World Cup|2006]] winner [[Italy national football team|Italy]], [[Paraguay national football team|Paraguay]], [[New Zealand men's national football team|New Zealand]] and [[Slovakia national football team|Slovakia]]. Italy and Paraguay previously met in the first round of the [[1950 FIFA World Cup|1950 tournament]], with Italy winning 2–0; neither qualified for the next round.
+
+Italy were eliminated from the group with just two points, behind underdogs New Zealand, who drew all three of their matches to finish on three points. New Zealand ended up being the only unbeaten team at this World Cup, as eventual champions [[Spain national football team|Spain]] lost to [[Switzerland national football team|Switzerland]] in their [[2010 FIFA World Cup Group H|Group H]] game while [[Japan national football team|Japan]] and [[Ghana national football team|Ghana]] who both lost on penalties in the knockout stage had previously lost a group game. Italy placed last, making it the first time since [[1974 FIFA World Cup|1974]] that the Italians did not advance beyond the first round and the first tournament they didn’t win a World Cup match.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/southafrica2010/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=PAR
+|team2=SVK
+|team3=NZL
+|team4=ITA
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2010 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_PAR=1 |draw_PAR=2 |loss_PAR=0 |gf_PAR=3 |ga_PAR=1
+|win_SVK=1 |draw_SVK=1 |loss_SVK=1 |gf_SVK=4 |ga_SVK=5
+|win_NZL=0 |draw_NZL=3 |loss_NZL=0 |gf_NZL=2 |ga_NZL=2
+|win_ITA=0 |draw_ITA=2 |loss_ITA=1 |gf_ITA=4 |ga_ITA=5
+
+|name_PAR={{fb|PAR|1990}}
+|name_SVK={{fb|SVK}}
+|name_NZL={{fb|NZL}}
+|name_ITA={{fb|ITA}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2010 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Paraguay advanced to play [[Japan national football team|Japan]] (runner-up of [[2010 FIFA World Cup Group E|Group E]]) in the [[2010 FIFA World Cup knockout stage#Paraguay vs Japan|round of 16]].
+*Slovakia advanced to play [[Netherlands national football team|Netherlands]] (winner of [[2010 FIFA World Cup Group E|Group E]]) in the [[2010 FIFA World Cup knockout stage#Netherlands vs Slovakia|round of 16]].
+
+==Matches==
+''All times local ([[UTC+02:00|UTC+2]])''
+
+===Italy vs Paraguay===
+Italy entered the fixture as defending champions, having won the [[2006 FIFA World Cup|2006]] edition of the tournament, and their starting lineup featured five of their World Cup winning team.<ref name="BBCItPa">{{Cite web |last=Bevan |first=Chris |website=BBC Sport |date=2010 |title=Italy 1-1 Paraguay |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_11}}</ref>
+
+Paraguay defender [[Antolín Alcaraz]] put his team in front on 39 minutes with a well-timed header. Veteran Italy goalkeeper [[Gianluigi Buffon]] was substituted off at half-time, with what appeared to be back injury.<ref name="BBCItPa"/>
+
+Half-way through the second half, an error from Paraguay goalkeeper [[Justo Villar]] allowed Italy midfielder [[Daniele De Rossi]] to score an equaliser.<ref name="BBCItPa"/>
+<onlyinclude>{{#invoke:Football box|main|section=f1
+|date={{Start date|2010|6|14|df=y}}
+|time=20:30
+|team1={{fb-rt|ITA}}
+|score={{score link|2010 FIFA World Cup Group F#Italy vs Paraguay|1–1}}
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Daniele De Rossi|De Rossi]] {{goal|63}}
+|goals2=
+*[[Antolín Alcaraz|Alcaraz]] {{goal|39}}
+|stadium=[[Cape Town Stadium]], [[Cape Town]]
+|attendance=62,869
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061484 |title=Italy vs Paraguay {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061484/report.html |title=2010 FIFA World Cup South Africa – Matches – Italy v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228112252/http://www.fifa.com/worldcup/matches/round=249722/match=300061484/report.html |archive-date=28 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7c17bd43a91de84f/original/wx0t2dyrf8br1slvrmzq-pdf.pdf |title=Match Report – Group F – Italy v Paraguay |publisher=[[FIFA]] |date=14 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055459/https://digitalhub.fifa.com/m/7c17bd43a91de84f/original/wx0t2dyrf8br1slvrmzq-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ita10h
+ |pattern_b  = _ita10h
+ |pattern_ra = _ita10h
+ |pattern_sh = _ita10h
+ |pattern_so = _ita10h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Italy<ref name="ita-par_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6b70f10ed7d4404b/original/a1jbuwac39nm8d2hcvdl-pdf.pdf |title=Tactical Line-up – Group F – Italy v Paraguay |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 June 2010 |access-date=14 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522183709/https://digitalhub.fifa.com/m/6b70f10ed7d4404b/original/a1jbuwac39nm8d2hcvdl-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _par10h
+ |pattern_b  = _par10h
+ |pattern_ra = _par10h
+ |pattern_sh = _par10h
+ |pattern_so = _par10h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Paraguay<ref name="ita-par_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] || || {{suboff|46}}
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Giorgio Chiellini]]
+|-
+|LB ||'''3''' ||[[Domenico Criscito]]
+|-
+|CM ||'''6''' ||[[Daniele De Rossi]]
+|-
+|CM ||'''22'''||[[Riccardo Montolivo]]
+|-
+|AM ||'''15'''||[[Claudio Marchisio]] || || {{suboff|59}}
+|-
+|RW ||'''7''' ||[[Simone Pepe]]
+|-
+|LW ||'''9''' ||[[Vincenzo Iaquinta]]
+|-
+|CF ||'''11'''||[[Alberto Gilardino]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Federico Marchetti]] || || {{subon|46}}
+|-
+|MF ||'''16''' ||[[Mauro Camoranesi]] || {{yel|70}} || {{subon|59}}
+|-
+|FW ||'''10''' ||[[Antonio Di Natale]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marcello Lippi]]
+|}
+|valign="top"|[[File:ITA-PAR 2010-06-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Justo Villar]] ([[Captain (association football)|c]])
+|-
+|RB ||'''6''' ||[[Carlos Bonet]]
+|-
+|CB ||'''21'''||[[Antolín Alcaraz]]
+|-
+|CB ||'''14'''||[[Paulo da Silva]]
+|-
+|LB ||'''3''' ||[[Claudio Morel]]
+|-
+|DM ||'''15'''||[[Víctor Cáceres]] || {{yel|62}}
+|-
+|RM ||'''13'''||[[Enrique Vera]]
+|-
+|CM ||'''16'''||[[Cristian Riveros]]
+|-
+|LM ||'''17'''||[[Aureliano Torres]] || || {{suboff|60}}
+|-
+|SS ||'''18'''||[[Nelson Valdez]] || || {{suboff|68}}
+|-
+|CF ||'''19'''||[[Lucas Barrios]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11''' ||[[Jonathan Santana]] || || {{subon|60}}
+|-
+|FW ||'''9''' ||[[Roque Santa Cruz]] || || {{subon|68}}
+|-
+|FW ||'''7''' ||[[Óscar Cardozo]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Gerardo Martino]]
+|}
+|}
+[[File:Italy vs. Paraguay 2010 World Cup.jpg|thumb|right|260px|Italy vs Paraguay]]
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Antolín Alcaraz]] (Paraguay)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf |title=2010 FIFA World Cup South Africa Match Appointments |date=24 June 2010 |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100705072219/http://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf| archive-date= 5 July 2010 | url-status= dead}}</ref>
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+|}
+
+===New Zealand vs Slovakia===
+This was New Zealand's first World Cup game since their debut in the [[1982 FIFA World Cup|1982]] tournament, where they lost all three of their group games.<ref name="BBCNzSl">{{Cite web |website=BBC News |last=Cheese |first=Caroline |date=2010 |title=New Zealand 1-1 Slovakia |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_12/default.stm}}</ref>
+
+Slovakia went ahead early in the second half via striker [[Róbert Vittek]]. New Zealand struggled to create any clear cut chances of their own, however deep into stoppage time [[Winston Reid]] equalized for New Zealand via a header. The 1-1 draw was New Zealand's first ever point at the FIFA World Cup finals.<ref name="BBCNzSl"/>
+<onlyinclude>{{#invoke:Football box|main|section=f2
+|date={{Start date|2010|6|15|df=y}}
+|time=13:30
+|team1={{fb-rt|NZL}}
+|score={{score link|2010 FIFA World Cup Group F#New Zealand vs Slovakia|1–1}}
+|team2={{fb|SVK}}
+|goals1=
+*[[Winston Reid (footballer)|Reid]] {{goal|90+3}}
+|goals2=
+*[[Róbert Vittek|Vittek]] {{goal|50}}
+|stadium=[[Royal Bafokeng Stadium]], [[Rustenburg, North West|Rustenburg]]
+|attendance=23,871
+|referee=[[Jerome Damon]] ([[South African Football Association|South Africa]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061483 |title=New Zealand vs Slovakia {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061483/report.html |title=2010 FIFA World Cup South Africa – Matches – New Zealand v Slovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210101344/http://www.fifa.com/worldcup/matches/round=249722/match=300061483/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/15ad26ad29c8b204/original/l3bgyggeqqw9g9d5sstg-pdf.pdf |title=Match Report – Group F – New Zealand v Slovakia |publisher=[[FIFA]] |date=15 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055514/https://digitalhub.fifa.com/m/15ad26ad29c8b204/original/l3bgyggeqqw9g9d5sstg-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _nzl10h
+ |pattern_b  = _nzl10h
+ |pattern_ra = _nzl10h
+ |pattern_sh = _manutd1011h
+ |pattern_so = _nzl10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = New Zealand<ref name="nzl-svk_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/59143215ea7a15f5/original/ejuv5jx6edvmqf6ci7jn-pdf.pdf |title=Tactical Line-up – Group F – New Zealand v Slovakia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 June 2010 |access-date=15 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522183723/https://digitalhub.fifa.com/m/59143215ea7a15f5/original/ejuv5jx6edvmqf6ci7jn-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+|pattern_la = _esl10a
+|pattern_b  = _esl10a
+|pattern_ra = _esl10a
+|pattern_sh = _esl10a
+|pattern_so = _3_stripes_white
+|leftarm    = 0000DD
+|body       = 0000DD
+|rightarm   = 0000DD
+|shorts     = 0000DD
+|socks      = 0000DD
+|title      = Slovakia<ref name="nzl-svk_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mark Paston]]
+|-
+|RB ||'''4''' ||[[Winston Reid (footballer)|Winston Reid]] || {{yel|90+3}}
+|-
+|CB ||'''6''' ||[[Ryan Nelsen]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Ivan Vicelich]] || || {{suboff|78}}
+|-
+|LB ||'''19'''||[[Tommy Smith (footballer, born 1990)|Tommy Smith]]
+|-
+|RM ||'''11'''||[[Leo Bertos]]
+|-
+|CM ||'''7''' ||[[Simon Elliott]]
+|-
+|LM ||'''3''' ||[[Tony Lochhead]] || {{yel|42}}
+|-
+|RW ||'''14'''||[[Rory Fallon]]
+|-
+|LW ||'''10'''||[[Chris Killen]] || || {{suboff|72}}
+|-
+|CF ||'''9''' ||[[Shane Smeltz]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Chris Wood (footballer, born 1991)|Chris Wood]] || || {{subon|72}}
+|-
+|MF ||'''21'''||[[Jeremy Christie]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ricki Herbert]]
+|}
+|valign="top"|[[File:NZL-SVK 2010-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ján Mucha]]
+|-
+|RB ||'''5''' ||[[Radoslav Zabavník]]
+|-
+|CB ||'''16''' ||[[Ján Ďurica]]
+|-
+|CB ||'''3''' ||[[Martin Škrtel]]
+|-
+|LB ||'''4''' ||[[Marek Čech (Slovak footballer)|Marek Čech]]
+|-
+|DM ||'''6''' ||[[Zdeno Štrba]] || {{yel|55}}
+|-
+|RM ||'''7''' ||[[Vladimír Weiss (footballer, born 1989)|Vladimír Weiss]] || || {{suboff|90+1}}
+|-
+|CM ||'''9''' ||[[Stanislav Šesták]] || || {{suboff|81}}
+|-
+|LM ||'''17''' ||[[Marek Hamšík]] ([[Captain (association football)|c]])
+|-
+|CF ||'''11''' ||[[Róbert Vittek]] || || {{suboff|84}}
+|-
+|CF ||'''18''' ||[[Erik Jendrišek]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13''' ||[[Filip Hološko]] || || {{subon|81}}
+|-
+|MF ||'''15''' ||[[Miroslav Stoch]] || || {{subon|84}}
+|-
+|MF ||'''19''' ||[[Juraj Kucka]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Róbert Vittek]] (Slovakia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Celestin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+<br />Enock Molefe ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Rafael Ilyasov ([[Uzbekistan Football Federation|Uzbekistan]])
+|}
+
+===Slovakia vs Paraguay===
+<onlyinclude>{{#invoke:Football box|main|section=f3
+|date={{Start date|2010|6|20|df=y}}
+|time=13:30
+|team1={{fb-rt|SVK}}
+|score={{score link|2010 FIFA World Cup Group F#Slovakia vs Paraguay|0–2}}
+|team2={{fb|PAR|1990}}
+|goals1=
+|goals2=
+*[[Enrique Vera|Vera]] {{goal|27}}
+*[[Cristian Riveros|Riveros]] {{goal|86}}
+|stadium=[[Free State Stadium]], [[Bloemfontein]]
+|attendance=26,643
+|referee=[[Eddy Maillet]] ([[Seychelles Football Federation|Seychelles]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061481 |title=Slovakia vs Paraguay {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061481/report.html |title=2010 FIFA World Cup South Africa – Matches – Slovakia v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210093921/http://www.fifa.com/worldcup/matches/round=249722/match=300061481/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5fc30fb5ceed87d1/original/ceq9puoygujgcmhiov4e-pdf.pdf |title=Match Report – Group F – Slovakia v Paraguay |publisher=[[FIFA]] |date=20 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055849/https://digitalhub.fifa.com/m/5fc30fb5ceed87d1/original/ceq9puoygujgcmhiov4e-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esl10h
+ |pattern_b  = _esl10h
+ |pattern_ra = _esl10h
+ |pattern_sh = _Palmeiras_0910third
+ |pattern_so = _color_3_stripes_blue
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Slovakia<ref name="svk-par_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/69cbd94decc185b7/original/jt8fzyethn4vzvwmmeqb-pdf.pdf |title=Tactical Line-up – Group F – Slovakia v Paraguay |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 June 2010 |access-date=20 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181119/https://digitalhub.fifa.com/m/69cbd94decc185b7/original/jt8fzyethn4vzvwmmeqb-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _par10h
+ |pattern_b  = _par10h
+ |pattern_ra = _par10h
+ |pattern_sh = _par10h
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Paraguay<ref name="svk-par_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ján Mucha]]
+|-
+|RB ||'''2''' ||[[Peter Pekarík]]
+|-
+|CB ||'''3''' ||[[Martin Škrtel]]
+|-
+|CB ||'''21'''||[[Kornel Saláta]] || || {{suboff|83}}
+|-
+|LB ||'''16'''||[[Ján Ďurica]] || {{yel|42}}
+|-
+|DM ||'''6''' ||[[Zdeno Štrba]]
+|-
+|CM ||'''17'''||[[Marek Hamšík]] ([[Captain (association football)|c]])
+|-
+|RW ||'''9''' ||[[Stanislav Šesták]] || {{yel|47}} || {{suboff|70}}
+|-
+|LW ||'''7''' ||[[Vladimír Weiss (footballer, born 1989)|Vladimír Weiss]] || {{yel|84}}
+|-
+|SS ||'''8''' ||[[Ján Kozák (footballer, born 1980)|Ján Kozák]]
+|-
+|CF ||'''11'''||[[Róbert Vittek]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Filip Hološko]] || || {{subon|70}}
+|-
+|MF ||'''15'''||[[Miroslav Stoch]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]]
+|}
+|valign="top"|[[File:SVK-PAR 2010-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Justo Villar]] ([[Captain (association football)|c]])
+|-
+|RB ||'''6''' ||[[Carlos Bonet]]
+|-
+|CB ||'''14'''||[[Paulo da Silva]]
+|-
+|CB ||'''21'''||[[Antolín Alcaraz]]
+|-
+|LB ||'''3''' ||[[Claudio Morel]]
+|-
+|DM ||'''15'''||[[Víctor Cáceres]]
+|-
+|CM ||'''13'''||[[Enrique Vera]] || {{yel|45}} || {{suboff|88}}
+|-
+|CM ||'''16'''||[[Cristian Riveros]]
+|-
+|AM ||'''18'''||[[Nelson Valdez]] || || {{suboff|68}}
+|-
+|SS ||'''9''' ||[[Roque Santa Cruz]]
+|-
+|CF ||'''19'''||[[Lucas Barrios]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''17'''||[[Aureliano Torres]] || || {{subon|68}}
+|-
+|FW ||'''7''' ||[[Óscar Cardozo]] || || {{subon|82}}
+|-
+|MF ||'''8''' ||[[Édgar Barreto]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Gerardo Martino]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Enrique Vera]] (Paraguay)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Evarist Menkouande ([[Cameroonian Football Federation|Cameroon]])
+<br />Bechir Hassani ([[Tunisian Football Federation|Tunisia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+|}
+
+===Italy vs New Zealand===
+New Zealand took a surprise early lead when [[Simon Elliott|Simon Elliott's]] free-kick into the Italy penalty box was flicked on by defender Winston Reid, allowing striker [[Shane Smeltz]] to poke the ball into the Italy goal.<ref name="BBCItNz">{{Cite web |website=BBC Sport |last=Whyatt |first=Chris |date=2010 |title=Italy 1-1 New Zealand |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_28/default.stm}}</ref> The goal ended up being New Zealand's only shot on goal for the entire match.<ref name="pressdemocratNZIt">{{Cite web |website=The Press Democrat |date=20 June 2010 |title=Italy held to stunning 1-1 draw by New Zealand |url=https://www.pressdemocrat.com/2010/06/20/italy-held-to-stunning-1-1-draw-by-new-zealand/}}</ref>
+
+New Zealand conceded a penalty on half an hour when [[Tommy Smith (footballer, born_1990)|Tommy Smith]] tussled with Italy midfielder [[Daniele De Rossi]], allowing Italy to equalize. Italy pushed for a winning goal in the second half but were unable to score, and the game finished 1-1. The result meant that after their opening two games, New Zealand had the same number of points as reigning World Cup champions Italy.
+
+The draw extended Italy's winless run to five games, consisting of four draws and a 2-1 loss to Mexico in a World Cup warmup.<ref name="pressdemocratNZIt"/> For New Zealand, it was only their second ever point at the World Cup,<ref name="pressdemocratNZIt"/> having also drawn their opening game to Slovakia by the same score.
+
+<onlyinclude>{{#invoke:Football box|main|section=f4
+|date={{Start date|2010|6|20|df=y}}
+|time=16:00
+|team1={{fb-rt|ITA}}
+|score={{score link|2010 FIFA World Cup Group F#Italy vs New Zealand|1–1}}
+|team2={{fb|NZL}}
+|goals1=
+*[[Vincenzo Iaquinta|Iaquinta]] {{goal|29|pen.}}
+|goals2=
+*[[Shane Smeltz|Smeltz]] {{goal|7}}
+|stadium=[[Mbombela Stadium]], [[Mbombela|Nelspruit]]
+|attendance=38,229
+|referee=[[Carlos Batres]] ([[National Football Federation of Guatemala|Guatemala]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061482 |title=Italy vs New Zealand {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061482/report.html |title=2010 FIFA World Cup South Africa – Matches – Italy v New Zealand |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170705115506/http://www.fifa.com/worldcup/matches/round=249722/match=300061482/report.html |archive-date=5 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5cefe19da2438b03/original/udxhebfs6irys6t1yhse-pdf.pdf |title=Match Report – Group F – Italy v New Zealand |publisher=[[FIFA]] |date=20 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055904/https://digitalhub.fifa.com/m/5cefe19da2438b03/original/udxhebfs6irys6t1yhse-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ita10h
+ |pattern_b  = _ita10h
+ |pattern_ra = _ita10h
+ |pattern_sh = _ita10a
+ |pattern_so = _ita10h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Italy<ref name="ita-nzl_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/ff1a9b0b3ec1eff/original/fscuniup0cpk11jztufo-pdf.pdf |title=Tactical Line-up – Group F – Italy v New Zealand |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 June 2010 |access-date=20 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172404/https://digitalhub.fifa.com/m/ff1a9b0b3ec1eff/original/fscuniup0cpk11jztufo-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _nzl10h
+ |pattern_b  = _nzl10h
+ |pattern_ra = _nzl10h
+ |pattern_sh = _manutd1011h
+ |pattern_so = _nzl10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = New Zealand<ref name="ita-nzl_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Federico Marchetti]]
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Giorgio Chiellini]]
+|-
+|LB ||'''3''' ||[[Domenico Criscito]]
+|-
+|RM ||'''7''' ||[[Simone Pepe]] || || {{suboff|46}}
+|-
+|CM ||'''6''' ||[[Daniele De Rossi]]
+|-
+|CM ||'''22'''||[[Riccardo Montolivo]]
+|-
+|LM ||'''15'''||[[Claudio Marchisio]] || || {{suboff|61}}
+|-
+|SS ||'''9''' ||[[Vincenzo Iaquinta]]
+|-
+|CF ||'''11'''||[[Alberto Gilardino]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Mauro Camoranesi]] || || {{subon|46}}
+|-
+|FW ||'''10'''||[[Antonio Di Natale]] || || {{subon|46}}
+|-
+|FW ||'''20'''||[[Giampaolo Pazzini]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marcello Lippi]]
+|}
+|valign="top"|[[File:ITA-NZL 2010-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mark Paston]]
+|-
+|RB ||'''4''' ||[[Winston Reid (footballer)|Winston Reid]]
+|-
+|CB ||'''6''' ||[[Ryan Nelsen]] ([[Captain (association football)|c]]) || {{yel|87}}
+|-
+|CB ||'''5''' ||[[Ivan Vicelich]] || || {{suboff|81}}
+|-
+|LB ||'''19'''||[[Tommy Smith (footballer, born 1990)|Tommy Smith]] || {{yel|28}}
+|-
+|RM ||'''11'''||[[Leo Bertos]]
+|-
+|CM ||'''7''' ||[[Simon Elliott]]
+|-
+|LM ||'''3''' ||[[Tony Lochhead]]
+|-
+|RW ||'''14'''||[[Rory Fallon]] || {{yel|14}} || {{suboff|63}}
+|-
+|LW ||'''10'''||[[Chris Killen]] || || {{suboff|90+3}}
+|-
+|CF ||'''9''' ||[[Shane Smeltz]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Chris Wood (footballer, born 1991)|Chris Wood]] || || {{subon|63}}
+|-
+|MF ||'''21'''||[[Jeremy Christie]] || || {{subon|81}}
+|-
+|MF ||'''13'''||[[Andrew Barron (footballer)|Andrew Barron]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Ricki Herbert]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Daniele De Rossi]] (Italy)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+<br />Carlos Pastrana ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Koman Coulibaly]] ([[Malian Football Federation|Mali]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Redouane Achik ([[Royal Moroccan Football Federation|Morocco]])
+|}
+
+===Slovakia vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=f5
+|date={{Start date|2010|6|24|df=y}}
+|time=16:00
+|team1={{fb-rt|SVK}}
+|score={{score link|2010 FIFA World Cup Group F#Slovakia vs Italy|3–2}}
+|team2={{fb|ITA}}
+|goals1=
+*[[Róbert Vittek|Vittek]] {{goal|25||73}}
+*[[Kamil Kopúnek|Kopúnek]] {{goal|89}}
+|goals2=
+*[[Antonio Di Natale|Di Natale]] {{goal|81}}
+*[[Fabio Quagliarella|Quagliarella]] {{goal|90+2}}
+|stadium=[[Ellis Park Stadium]], [[Johannesburg]]
+|attendance=53,412
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061480 |title=Slovakia vs Italy {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061480/report.html |title=2010 FIFA World Cup South Africa – Matches – Slovakia v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210095634/http://www.fifa.com/worldcup/matches/round=249722/match=300061480/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/2de0a4141fac1a88/original/deaemdsaq7opwr6iyt0k-pdf.pdf |title=Match Report – Group F – Slovakia v Italy |publisher=[[FIFA]] |date=24 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060255/https://digitalhub.fifa.com/m/2de0a4141fac1a88/original/deaemdsaq7opwr6iyt0k-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esl10h
+ |pattern_b  = _esl10h
+ |pattern_ra = _esl10h
+ |pattern_sh = _Palmeiras_0910third
+ |pattern_so = _color_3_stripes_blue
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Slovakia<ref name="svk-ita_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/559df8152f8d6db4/original/uvh1utnnrxc3hdvcypo9-pdf.pdf |title=Tactical Line-up – Group F – Slovakia v Italy |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 June 2010 |access-date=24 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172640/https://digitalhub.fifa.com/m/559df8152f8d6db4/original/uvh1utnnrxc3hdvcypo9-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ita10h
+ |pattern_b  = _ita10h
+ |pattern_ra = _ita10h
+ |pattern_sh = _ita10a
+ |pattern_so = _ita10h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Italy<ref name="svk-ita_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ján Mucha]] || {{yel|82}}
+|-
+|RB ||'''2''' ||[[Peter Pekarík]] || {{yel|50}}
+|-
+|CB ||'''3''' ||[[Martin Škrtel]]
+|-
+|CB ||'''16'''||[[Ján Ďurica]]
+|-
+|LB ||'''5''' ||[[Radoslav Zabavník]]
+|-
+|RM ||'''17'''||[[Marek Hamšík]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Zdeno Štrba]] || {{yel|16}} || {{suboff|87}}
+|-
+|CM ||'''19'''||[[Juraj Kucka]]
+|-
+|LM ||'''15'''||[[Miroslav Stoch]]
+|-
+|SS ||'''11'''||[[Róbert Vittek]] || {{yel|40}} || {{suboff|90+2}}
+|-
+|CF ||'''18'''||[[Erik Jendrišek]] || || {{suboff|90+4}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Kamil Kopúnek]] || || {{subon|87}}
+|-
+|MF ||'''9''' ||[[Stanislav Šesták]] || || {{subon|90+2}}
+|-
+|DF ||'''22'''||[[Martin Petráš]] || || {{subon|90+4}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]]
+|}
+|valign="top"|[[File:SVK-ITA 2010-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Federico Marchetti]]
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]]) || {{yel|31}}
+|-
+|CB ||'''4''' ||[[Giorgio Chiellini]] || {{yel|67}}
+|-
+|LB ||'''3''' ||[[Domenico Criscito]] || || {{suboff|46}}
+|-
+|DM ||'''6''' ||[[Daniele De Rossi]]
+|-
+|CM ||'''8''' ||[[Gennaro Gattuso]] || || {{suboff|46}}
+|-
+|CM ||'''22'''||[[Riccardo Montolivo]] || || {{suboff|56}}
+|-
+|RW ||'''7''' ||[[Simone Pepe]] || {{yel|76}}
+|-
+|LW ||'''10'''||[[Antonio Di Natale]]
+|-
+|CF ||'''9''' ||[[Vincenzo Iaquinta]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Christian Maggio]] || || {{subon|46}}
+|-
+|FW ||'''18'''||[[Fabio Quagliarella]] || {{yel|83}} || {{subon|46}}
+|-
+|MF ||'''21'''||[[Andrea Pirlo]] || || {{subon|56}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Marcello Lippi]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Róbert Vittek]] ([[Slovakia national football team|Slovakia]])
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Darren Cann ([[The Football Association|England]])
+<br />Michael Mullarkey ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Stéphane Lannoy]] ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Eric Dansault ([[French Football Federation|France]])
+|}
+
+===Paraguay vs New Zealand===
+Paraguay qualified for the round of 16 for the fourth time in their history after being held to a 0–0 draw by New Zealand.<ref >{{Cite web |website=The Guardian |date=25 June 2010 |title=World Cup 2010: Paraguay through after drab draw with New Zealand |url=https://www.theguardian.com/football/2010/jun/24/paraguay-new-zealand-world-cup-match-report}}</ref>
+
+With their third successive draw, New Zealand concluded their campaign undefeated above World Cup holders Italy, but failed to qualify for the round of 16 by a single point.<ref >{{Cite web |website=BBC Sport|last=Chowdhury |first=Saj |date=2010 |title=Paraguay 0-0 New Zealand |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_42/default.stm}}</ref>
+<onlyinclude>{{#invoke:Football box|main|section=f6
+|date={{Start date|2010|6|24|df=y}}
+|time=16:00
+|team1={{fb-rt|PAR|1990}}
+|score={{score link|2010 FIFA World Cup Group F#Paraguay vs New Zealand|0–0}}
+|team2={{fb|NZL}}
+|goals1=
+|goals2=
+|stadium=[[Peter Mokaba Stadium]], [[Polokwane]]
+|attendance=34,850
+|referee=[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061479 |title=Paraguay vs New Zealand {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061479/report.html |title=2010 FIFA World Cup South Africa – Matches – Paraguay v New Zealand |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210101636/http://www.fifa.com/worldcup/matches/round=249722/match=300061479/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/630f6b9477b072d9/original/xb8nugethd3mnvwbym3v-pdf.pdf |title=Match Report – Group F – Paraguay v New Zealand |publisher=[[FIFA]] |date=24 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060242/https://digitalhub.fifa.com/m/630f6b9477b072d9/original/xb8nugethd3mnvwbym3v-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _par10h
+ |pattern_b  = _par10h
+ |pattern_ra = _par10h
+ |pattern_sh = _par10h
+ |pattern_so = _par10h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Paraguay<ref name="par-nzl_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/53d39d9b39553e1a/original/jgiwoz6jdxxkhno7p4ck-pdf.pdf |title=Tactical Line-up – Group F – Paraguay v New Zealand |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 June 2010 |access-date=24 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172653/https://digitalhub.fifa.com/m/53d39d9b39553e1a/original/jgiwoz6jdxxkhno7p4ck-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _nzl10a
+ |pattern_b  = _nzl10a
+ |pattern_ra = _nzl10a
+ |pattern_sh = _manutd1011a
+ |pattern_so = _nzl10a
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = New Zealand<ref name="par-nzl_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Justo Villar]]
+|-
+|RB ||'''4''' ||[[Denis Caniza]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Julio César Cáceres|Julio Cáceres]]
+|-
+|CB ||'''14'''||[[Paulo da Silva]]
+|-
+|LB ||'''3''' ||[[Claudio Morel]]
+|-
+|DM ||'''15'''||[[Víctor Cáceres]] || {{yel|10}}
+|-
+|RM ||'''16'''||[[Cristian Riveros]]
+|-
+|LM ||'''13'''||[[Enrique Vera]]
+|-
+|AM ||'''9''' ||[[Roque Santa Cruz]] || {{yel|41}}
+|-
+|AM ||'''18'''||[[Nelson Valdez]] || || {{suboff|67}}
+|-
+|CF ||'''7''' ||[[Óscar Cardozo]] ||  ||{{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Lucas Barrios]] || || {{subon|66}}
+|-
+|FW ||'''10'''||[[Édgar Benítez]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Gerardo Martino]]
+|}
+|valign="top"|[[File:PAR-NZL 2010-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mark Paston]]
+|-
+|RB ||'''4''' ||[[Winston Reid (footballer)|Winston Reid]]
+|-
+|CB ||'''6''' ||[[Ryan Nelsen]] ([[Captain (association football)|c]])  || {{yel|56}}
+|-
+|LB ||'''19'''||[[Tommy Smith (footballer, born 1990)|Tommy Smith]]
+|-
+|CM ||'''7''' ||[[Simon Elliott]]
+|-
+|CM ||'''5''' ||[[Ivan Vicelich]]
+|-
+|RM ||'''11'''||[[Leo Bertos]]
+|-
+|LM ||'''3''' ||[[Tony Lochhead]]
+|-
+|AM ||'''10'''||[[Chris Killen]] || || {{suboff|79}}
+|-
+|AM ||'''9''' ||[[Shane Smeltz]]
+|-
+|CF ||'''14'''||[[Rory Fallon]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Chris Wood (footballer, born 1991)|Chris Wood]] || || {{subon|69}}
+|-
+|MF ||'''22'''||[[Jeremy Brockie]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Ricki Herbert]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Roque Santa Cruz]] ([[Paraguay national football team|Paraguay]])
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />Jeong Hae-sang ([[Korea Football Association|South Korea]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Koman Coulibaly]] ([[Malian Football Federation|Mali]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Inácio Cândido ([[Angolan Football Federation|Angola]])
+|}
+
+==See also==
+*[[Italy at the FIFA World Cup]]
+*[[New Zealand at the FIFA World Cup]]
+*[[Paraguay at the FIFA World Cup]]
+*[[Slovakia at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Group F}}
+[[Category:2010 FIFA World Cup group stage|F]]
+[[Category:New Zealand at the 2010 FIFA World Cup|group]]
+[[Category:Paraguay at the 2010 FIFA World Cup|Group]]
+[[Category:Italy at the 2010 FIFA World Cup|Group]]
+[[Category:Slovakia at the 2010 FIFA World Cup]]
+[[Category:2010s in Cape Town]]
+[[Category:Sports competitions in Cape Town]]
+[[Category:Rustenburg]]
+[[Category:Sports competitions in North West (South African province)]]
+[[Category:Sport in Bloemfontein]]
+[[Category:Sports competitions in the Free State (province)]]
+[[Category:Mbombela]]
+[[Category:Sport in Mpumalanga]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Sport in Polokwane]]
+[[Category:Sport in Limpopo]]

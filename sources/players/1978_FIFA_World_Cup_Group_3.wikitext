@@ -1,0 +1,787 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 3 of the 1978 FIFA World Cup''' was one of four groups of nations competing at the [[1978 FIFA World Cup]], consisting of [[Brazil national football team|Brazil]], [[Austria national football team|Austria]], [[Spain national football team|Spain]] and [[Sweden men's national football team|Sweden]].<ref>{{cite web |url=https://www.rsssf.org/tables/78full.html |title=World Cup 1978 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+In their first World Cup appearance since [[1958 FIFA World Cup|1958]], [[Austria national football team|Austria]] retrieved some of their [[Wunderteam|past glory]], finishing ahead of a [[Zico (footballer)|Zico]] and [[Rivellino]]-led [[Brazil national football team|Brazil]]. The ''Seleção'' clinched second place and faced South American rivals [[Argentina national football team|Argentina]] and [[Peru national football team|Peru]] in the second round.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150330175434/http://www.fifa.com/worldcup/archive/argentina1978/groups/index.html FIFA]
+
+|team1=AUT |team2=BRA |team3=ESP |team4=SWE
+|result1=A |result2=A
+
+|win_AUT=2 |draw_AUT=0 |loss_AUT=1 |gf_AUT=3 |ga_AUT=2
+|win_BRA=1 |draw_BRA=2 |loss_BRA=0 |gf_BRA=2 |ga_BRA=1
+|win_ESP=1 |draw_ESP=1 |loss_ESP=1 |gf_ESP=2 |ga_ESP=2
+|win_SWE=0 |draw_SWE=1 |loss_SWE=2 |gf_SWE=1 |ga_SWE=3
+
+|name_AUT={{fb|AUT}}
+|name_SWE={{fb|SWE}}
+|name_BRA={{fb|BRA|1968}}
+|name_ESP={{fb|ESP|1977}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1978 FIFA World Cup#Second round|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Austria vs Spain===
+
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1978|6|3|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|AUT}}
+|score={{score link|1978 FIFA World Cup Group 3#Austria vs Spain|2–1}}
+|team2={{fb|SPA|1977}}
+|goals1=
+*[[Walter Schachner|Schachner]] {{goal|10}}
+*[[Hans Krankl|Krankl]] {{goal|76}}
+|goals2=
+*[[Dani (footballer, born 1951)|Dani]] {{goal|21}}
+|stadium=[[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance=40,841
+|referee=[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2216 |title=Austria vs Spain {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2216/index.html |title=1978 FIFA World Cup Argentina – Matches – Austria v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001709/http://www.fifa.com/worldcup/matches/round=278/match=2216/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _blackshoulders
+ | pattern_b  = _austria78h
+ | pattern_ra = _blackshoulders
+ | pattern_sh = _blacksides
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Austria
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _esp1959h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _esp1986
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 0000CD
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Friedrich Koncilia]]
+|-
+|DF || '''2''' || [[Robert Sara]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Erich Obermayer]]
+|-
+|DF || '''4''' || [[Gerhard Breitenberger (footballer, born 1954)|Gerhard Breitenberger]]
+|-
+|DF || '''5''' || [[Bruno Pezzey]]
+|-
+|MF || '''7''' || [[Josef Hickersberger]] || ||{{suboff|67}}
+|-
+|MF || '''8''' || [[Herbert Prohaska]]
+|-
+|MF || '''10''' || [[Wilhelm Kreuz|Willi Kreuz]]
+|-
+|MF || '''11''' || [[Kurt Jara]]
+|-
+|FW || '''9''' || [[Hans Krankl]]
+|-
+|FW || '''18''' || [[Walter Schachner]] || ||{{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''15''' || [[Heribert Weber]] || ||{{subon|67}}
+|-
+|FW || '''19''' || [[Hans Pirkner]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Senekowitsch]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''13''' || [[Miguel Ángel (footballer, born 1947)|Miguel Ángel]]
+|-
+|CB || '''17''' || [[Marcelino Pérez|Marcelino]]
+|-
+|CB || '''5''' || [[Migueli]]
+|-
+|CB || '''2''' || [[Antonio de la Cruz|Toño]]
+|-
+|DM || '''18''' || [[Pirri]] ([[Captain (association football)|c]])
+|-
+|RM || '''21''' || [[Isidoro San José]]
+|-
+|LM || '''11''' || [[Julio Cardeñosa]] || || {{suboff|46}}
+|-
+|AM || '''4''' || [[Juan Manuel Asensi|Juan Asensi]]
+|-
+|RF || '''7''' || [[Dani (footballer, born 1951)|Dani]]
+|-
+|CF || '''20''' || [[Rubén Cano]]
+|-
+|LF || '''19''' || [[Carles Rexach]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''14''' || [[Eugenio Leal]] || || {{subon|46}}
+|-
+|FW || '''9''' || [[Quini]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[László Kubala]]
+|}
+|}
+
+===Brazil vs Sweden===
+This match is remembered for Zico's disallowed goal during injury time of the second half. Welsh referee Clive Thomas whistled for full time while the ball was in the air after a corner kick, fractions of seconds before Zico's header.<ref>[https://web.archive.org/web/20180601203119/http://www.fifa.com/worldcup/news/kempes-key-argentina-are-crowned-with-confetti-502160]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=3-2
+|date={{Start date|1978|6|3|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1978 FIFA World Cup Group 3#Brazil vs Sweden|1–1}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Reinaldo (footballer, born 1957)|Reinaldo]] {{goal|45}}
+|goals2=
+*[[Thomas Sjöberg|Sjöberg]] {{goal|37}}
+|stadium=[[Estadio José Maria Minella]], [[Mar del Plata]]
+|attendance=32,569
+|referee=[[Clive Thomas (football)|Clive Thomas]] ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2253 |title=Sweden vs Brazil {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2253/index.html |title=1978 FIFA World Cup Argentina – Matches – Sweden v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220144949/http://www.fifa.com/worldcup/matches/round=278/match=2253/index.html |archive-date=20 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = _bra78h
+| pattern_b  = _bra78h
+| pattern_ra = _bra78h
+| pattern_sh = _adidaswhite
+| pattern_so = _bra88olyhl
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = 0070F9
+| socks      = FFFFFF
+| title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _swe78Aml
+ | pattern_b  = _swe78A
+ | pattern_ra = _swe78Aml
+ | pattern_sh = _adidasblue
+ | pattern_so = _3_stripes_yellow
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Sweden
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Émerson Leão]]
+|-
+|RB || '''2''' || [[Toninho (footballer, born 1948)|Toninho]]
+|-
+|CB || '''3''' || [[Oscar (footballer, born 1954)|Oscar]] || {{yel|87}}
+|-
+|CB || '''4''' || [[Amaral (footballer, born 1954)|Amaral]]
+|-
+|LB || '''6''' || [[Edinho (footballer, born 1955)|Edinho]]
+|-
+|DM || '''17''' || [[Batista (footballer, born 1955)|Batista]]
+|-
+|CM || '''5''' || [[Toninho Cerezo]] || || {{suboff|86}}
+|-
+|CM || '''10''' || [[Rivellino]] ([[Captain (association football)|c]])
+|-
+|AM || '''8''' || [[Zico (footballer)|Zico]]
+|-
+|CF || '''18''' || [[Gil (footballer, born 1950)|Gil]] || || {{suboff|66}}
+|-
+|CF || '''9''' || [[Reinaldo (footballer, born 1957)|Reinaldo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''13''' || [[Nelinho]] || || {{subon|66}}
+|-
+|MF || '''11''' || [[Dirceu]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Cláudio Coutinho]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Ronnie Hellström]]
+|-
+|DF || '''2''' || [[Hasse Borg]]
+|-
+|DF || '''3''' || [[Roy Andersson (footballer)|Roy Andersson]]
+|-
+|DF || '''4''' || [[Björn Nordqvist]] ([[Captain (association football)|c]])
+|-
+|DF || '''5''' || [[Ingemar Erlandsson]]
+|-
+|MF || '''6''' || [[Staffan Tapper]]
+|-
+|MF || '''7''' || [[Anders Linderoth]]
+|-
+|MF || '''8''' || [[Bo Larsson]]
+|-
+|MF || '''9''' || [[Lennart Larsson (footballer)|Lennart Larsson]] || ||{{suboff|81}}
+|-
+|FW || '''10''' || [[Thomas Sjöberg]]
+|-
+|FW || '''11''' || [[Benny Wendt]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''22''' || [[Ralf Edström]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Georg Ericson]]
+|}
+|}
+
+===Austria vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1978|6|7|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|AUT}}
+|score={{score link|1978 FIFA World Cup Group 3#Austria vs Sweden|1–0}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Hans Krankl|Krankl]] {{goal|42|pen.}}
+|goals2=
+|stadium=[[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance=41,424
+|referee=[[Charles Corver]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2224 |title=Austria vs Sweden {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2224/index.html |title=1978 FIFA World Cup Argentina – Matches – Austria v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001714/http://www.fifa.com/worldcup/matches/round=278/match=2224/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _blackshoulders
+ | pattern_b  = _austria78h
+ | pattern_ra = _blackshoulders
+ | pattern_sh = _whitesides
+ | pattern_so = _austria1990_home
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+|{{Football kit
+ | pattern_la = _swe78Hml
+ | pattern_b  = _swe78H
+ | pattern_ra = _swe78Hml
+ | pattern_sh = _yellow_stripes_adidas
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ | title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Friedrich Koncilia]]
+|-
+|DF || '''2''' || [[Robert Sara]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Erich Obermayer]]
+|-
+|DF || '''4''' || [[Gerhard Breitenberger (footballer, born 1954)|Gerhard Breitenberger]]
+|-
+|DF || '''5''' || [[Bruno Pezzey]]
+|-
+|MF || '''7''' || [[Josef Hickersberger]] 
+|-
+|MF || '''8''' || [[Herbert Prohaska]]
+|-
+|MF || '''10''' || [[Wilhelm Kreuz|Willi Kreuz]]
+|-
+|MF || '''11''' || [[Kurt Jara]]
+|-
+|FW || '''9''' || [[Hans Krankl]] 
+|-
+|FW || '''12'''|| |[[Eduard Krieger|Eddy Krieger]] || ||{{suboff|71}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''15''' || [[Heribert Weber]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Senekowitsch]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Ronnie Hellström]]
+|-
+|DF || '''2''' || [[Hasse Borg]]
+|-
+|DF || '''3''' || [[Roy Andersson (footballer)|Roy Andersson]]
+|-
+|DF || '''4''' || [[Björn Nordqvist]] ([[Captain (association football)|c]])
+|-
+|DF || '''5''' || [[Ingemar Erlandsson]]
+|-
+|MF || '''6''' || [[Staffan Tapper]] || ||{{suboff|36}}
+|-
+|MF || '''7''' || [[Anders Linderoth]] || ||{{suboff|60}}
+|-
+|MF || '''8''' || [[Bo Larsson]]
+|-
+|MF || '''9''' || [[Lennart Larsson (footballer)|Lennart Larsson]] 
+|-
+|FW || '''10''' || [[Thomas Sjöberg]]
+|-
+|FW || '''11''' || [[Benny Wendt]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''16''' || [[Conny Torstensson]] || || {{subon|36}}
+|-
+|FW || '''22''' || [[Ralf Edström]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Georg Ericson]]
+|}
+|}
+
+===Brazil vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1978|6|7|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1978 FIFA World Cup Group 3#Brazil vs Spain|0–0}}
+|team2={{fb|SPA|1977}}
+|goals1=
+|goals2=
+|stadium=[[Estadio José Maria Minella]], [[Mar del Plata]]
+|attendance=34,771
+|referee=[[Sergio Gonella]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2246 |title=Brazil vs Spain {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2246/index.html |title=1978 FIFA World Cup Argentina – Matches – Brazil v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20160511185448/http://www.fifa.com/worldcup/matches/round=278/match=2246/index.html |archive-date=11 May 2016}} }}</ref>
+}}</onlyinclude>
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = _bra78h
+| pattern_b  = _bra78h
+| pattern_ra = _bra78h
+| pattern_sh = _adidasblue
+| pattern_so = _bra88olyhl
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = FFFFFF
+| socks      = FFFFFF 
+| title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _esp1959h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _esp1986
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 0000CD
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Émerson Leão]] ([[Captain (association football)|c]])
+|-
+|RB || '''13''' || [[Nelinho]] || || {{suboff|70}}
+|-
+|CB || '''3''' || [[Oscar (footballer, born 1954)|Oscar]]
+|-
+|CB || '''4''' || [[Amaral (footballer, born 1954)|Amaral]]
+|-
+|LB || '''6''' || [[Edinho (footballer, born 1955)|Edinho]]
+|-
+|DM || '''17''' || [[Batista (footballer, born 1955)|Batista]]
+|-
+|RM || '''2''' || [[Toninho (footballer, born 1948)|Toninho]]
+|-
+|CM || '''5''' || [[Toninho Cerezo]]
+|-
+|CM || '''11''' || [[Dirceu]]
+|-
+|AM || '''8''' || [[Zico (footballer)|Zico]] || || {{suboff|84}}
+|-
+|FW || '''9''' || [[Reinaldo (footballer, born 1957)|Reinaldo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''18''' || [[Gil (footballer, born 1950)|Gil]] || || {{subon|70}}
+|-
+|FW || '''19''' || [[Jorge Mendonça (footballer, born 1954)|Jorge Mendonça]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Cláudio Coutinho]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''13''' || [[Miguel Ángel (footballer, born 1947)|Miguel Ángel]]
+|-
+|RWB || '''3''' || [[Francisco Uría]] || || {{suboff|79}}
+|-
+|CB || '''5''' || [[Migueli]] || || {{suboff|51}}
+|-
+|CB || '''16''' || [[Antonio Olmo]]
+|-
+|LB || '''17''' || [[Marcelino Pérez|Marcelino]]
+|-
+|DM || '''21''' || [[Isidoro San José]]
+|-
+|CM || '''14''' || [[Eugenio Leal]] || {{yel|60}}
+|-
+|CM || '''11''' || [[Julio Cardeñosa]]
+|-
+|CM || '''4''' || [[Juan Manuel Asensi|Juan Asensi]] ([[Captain (association football)|c]])
+|-
+|CF || '''10''' || [[Santillana (footballer)|Santillana]]
+|-
+|FW || '''8''' || [[Juanito (footballer, born 1954)|Juanito]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''6''' || [[Antonio Biosca]] || || {{subon|51}}
+|-
+|MF || '''12''' || [[Antonio Guzmán (footballer)|Antonio Guzmán]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[László Kubala]]
+|}
+|}
+
+===Spain vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=3-5
+|date={{Start date|1978|6|11|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|SPA|1977}}
+|score={{score link|1978 FIFA World Cup Group 3#Spain vs Sweden|1–0}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Juan Manuel Asensi|Asensi]] {{goal|75}}
+|goals2=
+|stadium=[[Estadio José Amalfitani]], [[Buenos Aires]]
+|attendance=42,132
+|referee=[[Ferdinand Biwersi]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2337 |title=Spain vs Sweden {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2337/index.html |title=1978 FIFA World Cup Argentina – Matches – Spain v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001719/http://www.fifa.com/worldcup/matches/round=278/match=2337/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _esp1959h
+ | pattern_ra = 
+ | pattern_sh = _esp10A
+ | pattern_so = _esp1986
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _swe78Hml
+ | pattern_b  = _swe78H
+ | pattern_ra = _swe78Hml
+ | pattern_sh = _yellow_stripes_adidas
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ | title      = Sweden
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''13''' || [[Miguel Ángel (footballer, born 1947)|Miguel Ángel]]
+|-
+|RB || '''17''' || [[Marcelino Pérez|Marcelino]]
+|-
+|CB || '''6''' || [[Antonio Biosca]]
+|-
+|CB || '''16''' || [[Antonio Olmo]] || || {{suboff|46}}
+|-
+|LB || '''3''' || [[Francisco Uría]]
+|-
+|CM || '''21''' || [[Isidoro San José]]
+|-
+|CM || '''14''' || [[Eugenio Leal]]
+|-
+|CM || '''11''' || [[Julio Cardeñosa]]
+|-
+|AM || '''4''' || [[Juan Manuel Asensi|Juan Asensi]] ([[Captain (association football)|c]])
+|-
+|CF || '''8''' || [[Juanito (footballer, born 1954)|Juanito]]
+|-
+|CF || '''10''' || [[Santillana (footballer)|Santillana]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''18''' || [[Pirri]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[László Kubala]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Ronnie Hellström]]
+|-
+|DF || '''2''' || [[Hasse Borg]] || {{yel|39}}
+|-
+|DF || '''3''' || [[Roy Andersson (footballer)|Roy Andersson]]
+|-
+|DF || '''4''' || [[Björn Nordqvist]] ([[Captain (association football)|c]])
+|-
+|DF || '''5''' || [[Ingemar Erlandsson]]
+|-
+|MF || '''8''' || [[Bo Larsson]]
+|-
+|MF || '''9''' || [[Lennart Larsson (footballer)|Lennart Larsson]] 
+|-
+|MF || '''18''' || [[Olle Nordin]] 
+|-
+|FW || '''10''' || [[Thomas Sjöberg]] || || {{suboff|67}}
+|-
+|FW || '''15''' || [[Torbjörn Nilsson]]
+|-
+|FW || '''22''' || [[Ralf Edström]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11''' || [[Benny Wendt]] || || {{subon|60}}
+|-
+|FW || '''7''' || [[Anders Linderoth]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Georg Ericson]]
+|-
+|}
+|}
+|}
+
+===Brazil vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=3-6
+|date={{Start date|1978|6|11|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1978 FIFA World Cup Group 3#Brazil vs Austria|1–0}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Roberto Dinamite|Dinamite]] {{goal|40}}
+|goals2=
+|stadium=[[Estadio José Maria Minella]], [[Mar del Plata]]
+|attendance=35,221
+|referee=[[Robert Wurtz (referee)|Robert Wurtz]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2215 |title=Brazil vs Austria {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2215/index.html |title=1978 FIFA World Cup Argentina – Matches – Brazil v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001704/http://www.fifa.com/worldcup/matches/round=278/match=2215/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = _bra78h
+| pattern_b  = _bra78h
+| pattern_ra = _bra78h
+| pattern_sh = _adidaswhite
+| pattern_so = _bra88olyhl
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = 0070F9
+| socks      = FFFFFF
+| title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _blackshoulders
+ | pattern_b  = _austria78h
+ | pattern_ra = _blackshoulders
+ | pattern_sh = _whitesides
+ | pattern_so = _austria1990_home
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Émerson Leão]] ([[Captain (association football)|c]])
+|-
+|RB || '''2''' || [[Antônio Dias dos Santos|Toninho]]
+|-
+|CB || '''3''' || [[Oscar (footballer, born 1954)|Oscar]]  
+|-
+|CB || '''4''' || [[Amaral (footballer, born 1954)|Amaral]]
+|-
+|LB || '''16''' || [[Rodrigues Neto]]
+|-
+|CM || '''5''' || [[Toninho Cerezo]] || || {{suboff|71}}
+|-
+|CM || '''17''' || [[Batista (footballer, born 1955)|Batista]]
+|-
+|RW || '''18''' || [[Gil (footballer, born 1950)|Gil]]
+|-
+|AM || '''11''' || [[Dirceu]]
+|-
+|LW || '''19''' || [[Jorge Mendonça (footballer, born 1954)|Jorge Mendonça]] || || {{suboff|84}}
+|-
+|CF || '''20''' || [[Roberto Dinamite]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''21''' || [[Chicão (footballer, born 1949)|Chicão]] || || {{subon|71}}
+|-
+|MF || '''8''' || [[Zico (footballer)|Zico]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Cláudio Coutinho]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Friedrich Koncilia]]
+|-
+|DF || '''2''' || [[Robert Sara]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Erich Obermayer]]
+|-
+|DF || '''4''' || [[Gerhard Breitenberger (footballer, born 1954)|Gerhard Breitenberger]]
+|-
+|DF || '''5''' || [[Bruno Pezzey]]
+|-
+|MF || '''7''' || [[Josef Hickersberger]] || ||{{suboff|61}}
+|-
+|MF || '''8''' || [[Herbert Prohaska]]
+|-
+|MF || '''10''' || [[Wilhelm Kreuz|Willi Kreuz]]
+|-
+|MF || '''11''' || [[Kurt Jara]]
+|-
+|FW || '''9''' || [[Hans Krankl]] 
+|-
+|FW || '''12'''|| [[Eduard Krieger|Eddy Krieger]] || ||{{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''15''' || [[Heribert Weber]] || || {{subon|61}}
+|-
+|MF || '''13''' || [[Günther Happich]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Helmut Senekowitsch]]
+|}
+|}
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Brazil at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1978 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 3}}
+[[Category:1978 FIFA World Cup group stage|Groups]]
+[[Category:Austria at the 1978 FIFA World Cup]]
+[[Category:Brazil at the 1978 FIFA World Cup]]
+[[Category:Spain at the 1978 FIFA World Cup]]
+[[Category:Sweden at the 1978 FIFA World Cup]]
+[[Category:International sports competitions in Buenos Aires]]
+[[Category:Football competitions in Mar del Plata]]
+[[Category:Football competitions in Buenos Aires]]
+[[Category:1970s in Buenos Aires]]

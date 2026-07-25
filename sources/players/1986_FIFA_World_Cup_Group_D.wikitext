@@ -1,0 +1,856 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group D of the 1986 FIFA World Cup''' was one of the groups of nations competing at the [[1986 FIFA World Cup]]. The group's first round of matches began on 1 June and its last matches were played on 12 June. Most matches were played at the [[Estadio Jalisco]] and the [[Estadio Tres de Marzo]] in [[Guadalajara]].<ref>{{cite web |url=https://www.rsssf.org/tables/86full.html |title=World Cup 1986 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Undefeated [[Brazil national football team|Brazil]], with three clean slate shutouts, topped the group; [[Spain national football team|Spain]] finished second. Both teams advanced to the second round. [[Northern Ireland national football team|Northern Ireland]] and [[Algeria national football team|Algeria]] were the other two teams in the group.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/mexico1986/groups/index.html FIFA]
+
+|team1=BRA |team2=ESP |team3=NIR |team4=ALG
+|result1=KO |result2=KO
+
+|win_BRA=3 |draw_BRA=0 |loss_BRA=0 |gf_BRA=5 |ga_BRA=0
+|win_ESP=2 |draw_ESP=0 |loss_ESP=1 |gf_ESP=5 |ga_ESP=2
+|win_NIR=0 |draw_NIR=1 |loss_NIR=2 |gf_NIR=2 |ga_NIR=6
+|win_ALG=0 |draw_ALG=1 |loss_ALG=2 |gf_ALG=1 |ga_ALG=5
+
+|name_ESP={{fb|ESP}}
+|name_ALG={{fb|ALG}}
+|name_NIR={{fb|NIR}}
+|name_BRA={{fb|BRA|1968}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1986 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Spain vs Brazil===
+
+<onlyinclude>{{#invoke:Football box|main|section=D1
+|date={{Start date|1986|6|1|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ESP}}
+|score={{score link|1986 FIFA World Cup Group D#Spain vs Brazil|0–1}}
+|team2={{fb|BRA|1968}}
+|goals1=
+|goals2=
+*[[Sócrates]] {{goal|62}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara, Jalisco|Guadalajara]]
+|attendance=65,500{{efn-ua|name=1 June attendances}}
+|referee=[[Chris Bambridge]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/439 |title=Spain vs Brazil {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=439/index.html |title=1986 FIFA World Cup Mexico – Matches – Spain v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228230518/http://www.fifa.com/worldcup/matches/round=308/match=439/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _esp8690h
+ | pattern_b  = _esp86
+ | pattern_ra = _esp8690h
+ | pattern_sh = _spain86
+ | pattern_so = _esp1986
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000CD
+ | socks      = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra86h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82a
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|RWB ||'''2''' ||[[Tomás Reñones|Tomás]]
+|-
+|LWB||'''3''' ||[[José Antonio Camacho]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Antonio Maceda]]
+|-
+|DF ||'''5''' ||[[Víctor Muñoz (footballer, born 1957)|Víctor]]
+|-
+|DF ||'''8''' ||[[Andoni Goikoetxea]]
+|-
+|MF ||'''11'''||[[Julio Alberto]] || {{yel|4}}
+|-
+|MF ||'''17'''||[[Francisco López Alfaro|Francisco]] || || {{suboff|82}}
+|-
+|MF ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]]
+|-
+|FW ||'''19'''||[[Julio Salinas]]
+|-
+|FW ||'''9''' ||[[Emilio Butragueño]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''13'''||[[Urruti]]
+|-
+|DF ||'''15'''||[[Chendo]]
+|-
+|MF ||'''7''' ||[[Juan Antonio Señor]] || || {{subon|82}}
+|-
+|DF ||'''6''' ||[[Rafael Gordillo]]
+|-
+|FW ||'''20'''||[[Eloy Olaya|Eloy]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ESP}} [[Miguel Muñoz]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Carlos Roberto Gallo|Carlos]]
+|-
+|RB ||'''2''' ||[[Édson Boaro|Édson]]
+|-
+|CB ||'''4''' ||[[Edinho (footballer, born 1955)|Edinho]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||[[Júlio César da Silva|Júlio César]]
+|-
+|LB ||'''17'''||[[Branco (footballer)|Branco]] || {{yel|82}}
+|-
+|DM ||'''19'''||[[Elzo Coelho|Elzo]]
+|-
+|DM ||'''15'''||[[Alemão (footballer born 1961)|Alemão]]
+|-
+|AM ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]] || || {{suboff|79}}
+|-
+|AM ||'''18'''||[[Sócrates]]
+|-
+|FW ||'''8''' ||[[Walter Casagrande|Casagrande]] || || {{suboff|66}}
+|-
+|FW ||'''9''' ||[[Careca]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''22'''||[[Émerson Leão|Leão]]
+|-
+|CB ||'''3''' ||[[Oscar Bernardi|Oscar]]
+|-
+|FW ||'''7''' ||[[Müller (footballer, born 1966)|Müller]] || || {{subon|66}}
+|-
+|AM ||'''10'''||[[Zico (footballer)|Zico]]
+|-
+|DM ||'''5''' ||[[Paulo Roberto Falcão|Falcão]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|BRA|1968}} [[Telê Santana]]
+|}
+|}
+
+===Algeria vs Northern Ireland===
+
+<onlyinclude>{{#invoke:Football box|main|section=D2
+|date={{Start date|1986|6|3|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ALG}}
+|score={{score link|1986 FIFA World Cup Group D#Algeria vs Northern Ireland|1–1}}
+|team2={{fb|NIR}}
+|goals1=
+*[[Djamel Zidane|Zidane]] {{goal|59}}
+|goals2=
+*[[Norman Whiteside|Whiteside]] {{goal|6}}
+|stadium=[[Estadio Tres de Marzo]], [[Zapopan]]
+|attendance=22,000
+|referee=[[Valeri Butenko]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/379 |title=Algeria vs Northern Ireland {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=379/index.html |title=1986 FIFA World Cup Mexico – Matches – Algeria v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211092232/http://www.fifa.com/worldcup/matches/round=308/match=379/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _whitecuffpiping
+ | pattern_b  = _algeria86a
+ | pattern_ra = _whitecuffpiping
+ | pattern_sh = _algeria86a
+ | pattern_so = _3_stripes_white
+ | leftarm    = E01600
+ | body       = 
+ | rightarm   = E01600
+ | shorts     = 
+ | socks      = E01600
+ | title      = Algeria
+}}
+|{{Football kit
+ | pattern_la = _nir86a
+ | pattern_b  = _nir86a
+ | pattern_ra = _nir86a
+ | pattern_sh = _nir86a
+ | pattern_so = _nir86a
+ | leftarm   = FFFFFF
+ | body      = FFFFFF
+ | rightarm  = FFFFFF
+ | shorts    = 22913C
+ | socks     = FFFFFF
+ | title      = Northern Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Larbi El Hadi]]
+|-
+|DF ||'''2''' ||[[Mahmoud Guendouz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Nourredine Kourichi]]
+|-
+|DF ||'''5''' ||[[Abdellah Liegeon]]
+|-
+|DF ||'''16'''||[[Faouzi Mansouri]] || {{yel|36}}
+|-
+|MF ||'''6''' ||[[Mohammed Kaci Said]]
+|-
+|MF ||'''8''' ||[[Karim Maroc]]
+|-
+|MF ||'''18'''||[[Halim Benmabrouk]]
+|-
+|MF ||'''14'''||[[Djamel Zidane]] || || {{suboff|71}}
+|-
+|FW ||'''7''' ||[[Salah Assad]]
+|-
+|FW ||'''11'''||[[Rabah Madjer]] || || {{suboff|33}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''1''' ||[[Nacerdine Drid]]
+|-
+|DF ||'''19'''||[[Mohammed Chaib]]
+|-
+|DF ||'''20'''||[[Fodil Megharia]]
+|-
+|FW ||'''13'''||[[Rachid Harkouk]] || || {{subon|33}}
+|-
+|MF ||'''10'''||[[Lakhdar Belloumi]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ALG}} [[Rabah Saâdane]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pat Jennings]]
+|-
+|DF ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''3''' ||[[Mal Donaghy]]
+|-
+|DF ||'''4''' ||[[John O'Neill (Northern Ireland footballer)|John O'Neill]]
+|-
+|DF ||'''5''' ||[[Alan McDonald (association football)|Alan McDonald]]
+|-
+|MF ||'''15'''||[[Nigel Worthington]] || {{yel|58}}
+|-
+|MF ||'''6''' ||[[David McCreery]]
+|-
+|MF ||'''7''' ||[[Steve Penney (footballer)|Steve Penney]] || || {{suboff|67}}
+|-
+|MF ||'''8''' ||[[Sammy McIlroy]] ([[Captain (association football)|c]]) || {{yel|78}}
+|-
+|MF ||'''10'''||[[Norman Whiteside]] || {{yel|79}} || {{suboff|81}}
+|-
+|FW ||'''19'''||[[Billy Hamilton (footballer)|Billy Hamilton]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Jim Platt]]
+|-
+|DF ||'''18'''||[[John McClelland (footballer, born 1955)|John McClelland]]
+|-
+|MF ||'''16'''||[[Paul Ramsey (footballer)|Paul Ramsey]]
+|-
+|FW ||'''11'''||[[Ian Stewart (Northern Ireland footballer)|Ian Stewart]] || || {{subon|67}}
+|-
+|FW ||'''17'''||[[Colin Clarke (footballer born 1962)|Colin Clarke]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|NIR}} [[Billy Bingham]]
+|}
+|}
+
+===Brazil vs Algeria===
+
+<onlyinclude>{{#invoke:Football box|main|section=D3
+|date={{Start date|1986|6|6|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1986 FIFA World Cup Group D#Brazil vs Algeria|1–0}}
+|team2={{fb|ALG}}
+|goals1=
+*[[Careca]] {{goal|66}}
+|goals2=
+|stadium=[[Estadio Jalisco]], [[Guadalajara, Jalisco|Guadalajara]]
+|attendance=48,000
+|referee=[[Rómulo Méndez]] ([[Federación Nacional de Fútbol de Guatemala|Guatemala]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/377 |title=Brazil vs Algeria {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=377/index.html |title=1986 FIFA World Cup Mexico – Matches – Brazil v Algeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214172240/http://www.fifa.com/worldcup/matches/round=308/match=377/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra86h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0047AB
+ | socks      = ffffff
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _algeria86h
+ | pattern_ra = 
+ | pattern_sh = _Algeria_1982_home
+ | pattern_so = _3_stripes_white
+ | leftarm    = ffffff
+ | body       = 
+ | rightarm   = ffffff
+ | shorts     = 
+ | socks      = E01600
+ | title      = Algeria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Carlos Roberto Gallo|Carlos]]
+|-
+|RB ||'''2''' ||[[Édson Boaro|Édson]] || || {{suboff|10}}
+|-
+|CB ||'''4''' ||[[Edinho (footballer, born 1955)|Edinho]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||[[Júlio César da Silva|Júlio César]]
+|-
+|LB ||'''17'''||[[Branco (footballer)|Branco]]
+|-
+|DM ||'''19'''||[[Elzo Coelho|Elzo]]
+|-
+|DM ||'''15'''||[[Alemão (footballer born 1961)|Alemão]]
+|-
+|AM ||'''18'''||[[Sócrates]]
+|-
+|AM ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]]
+|-
+|FW ||'''8''' ||[[Walter Casagrande|Casagrande]] || || {{suboff|59}}
+|-
+|FW ||'''9''' ||[[Careca]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Paulo Vítor (footballer, born 1957)|Paulo Vítor]]
+|-
+|CB ||'''3''' ||[[Oscar Bernardi|Oscar]]
+|-
+|DM ||'''5''' ||[[Paulo Roberto Falcão|Falcão]] || || {{subon|10}}
+|-
+|FW ||'''11'''||[[Edivaldo Martins Fonseca|Edivaldo]]
+|-
+|FW ||'''7''' ||[[Müller (footballer, born 1966)|Müller]] || || {{subon|59}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|BRA|1968}} [[Telê Santana]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Nacerdine Drid]]
+|-
+|DF ||'''2''' ||[[Mahmoud Guendouz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''20'''||[[Fodil Megharia]]
+|-
+|DF ||'''5''' ||[[Abdellah Liegeon]]
+|-
+|DF ||'''16'''||[[Faouzi Mansouri]]
+|-
+|MF ||'''6''' ||[[Mohammed Kaci Said]]
+|-
+|MF ||'''18'''||[[Halim Benmabrouk]]
+|-
+|MF ||'''10'''||[[Lakhdar Belloumi]] || || {{suboff|80}}
+|-
+|FW ||'''7''' ||[[Salah Assad]] || || {{suboff|68}}
+|-
+|FW ||'''9''' ||[[Djamel Menad]]
+|-
+|FW ||'''11'''||[[Rabah Madjer]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''21'''||[[Larbi El Hadi]]
+|-
+|DF ||'''19'''||[[Mohammed Chaib]]
+|-
+|FW ||'''12'''||[[Tedj Bensaoula]] || || {{subon|68}}
+|-
+|MF ||'''14'''||[[Djamel Zidane]] || || {{subon|80}}
+|-
+|MF ||'''8''' ||[[Karim Maroc]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ALG}} [[Rabah Saâdane]]
+|}
+|}
+
+===Northern Ireland vs Spain===
+
+<onlyinclude>{{#invoke:Football box|main|section=D4
+|date={{Start date|1986|6|7|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|NIR}}
+|score={{score link|1986 FIFA World Cup Group D#Northern Ireland vs Spain|1–2}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Colin Clarke (footballer born 1962)|Clarke]] {{goal|46}}
+|goals2=
+*[[Emilio Butragueño|Butragueño]] {{goal|1}}
+*[[Julio Salinas|Salinas]] {{goal|18}}
+|stadium=[[Estadio Tres de Marzo]], [[Zapopan]]
+|attendance=28,000
+|referee=[[Horst Brummeier]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/551 |title=Northern Ireland vs Spain {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=551/index.html |title=1986 FIFA World Cup Mexico – Matches – Northern Ireland v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229071408/http://www.fifa.com/worldcup/matches/round=308/match=551/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _nir86a
+ | pattern_b  = _nir86a
+ | pattern_ra = _nir86a
+ | pattern_sh = _nir86h
+ | pattern_so = _nir86a
+ | leftarm   = FFFFFF
+ | body      = FFFFFF
+ | rightarm  = FFFFFF
+ | shorts    = FFFFFF
+ | socks     = FFFFFF
+ | title     = Northern Ireland
+}}
+|{{Football kit
+ | pattern_la = _esp8690h
+ | pattern_b  = _esp86
+ | pattern_ra = _esp8690h
+ | pattern_sh = _spain86
+ | pattern_so = _esp1986
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000CD
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Pat Jennings]]
+|-
+|DF ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''3''' ||[[Mal Donaghy]]
+|-
+|DF ||'''4''' ||[[John O'Neill (Northern Ireland footballer)|John O'Neill]]
+|-
+|DF ||'''5''' ||[[Alan McDonald (association football)|Alan McDonald]]
+|-
+|MF ||'''15'''||[[Nigel Worthington]] || || {{suboff|70}}
+|-
+|MF ||'''6''' ||[[David McCreery]]
+|-
+|MF ||'''7''' ||[[Steve Penney (footballer)|Steve Penney]] || || {{suboff|54}}
+|-
+|MF ||'''8''' ||[[Sammy McIlroy]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Norman Whiteside]]
+|-
+|FW ||'''17'''||[[Colin Clarke (footballer born 1962)|Colin Clarke]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Ian Stewart (Northern Ireland footballer)|Ian Stewart]] || || {{subon|54}}
+|-
+|FW ||'''19'''||[[Billy Hamilton (footballer)|Billy Hamilton]] || {{yel|85}} || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|NIR}} [[Billy Bingham]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|DF ||'''2''' ||[[Tomás Reñones|Tomás]]
+|-
+|DF ||'''3''' ||[[José Antonio Camacho]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Víctor Muñoz (footballer, born 1957)|Víctor]] || {{yel|50}}
+|-
+|DF ||'''8''' ||[[Andoni Goikoetxea]]
+|-
+|DF ||'''14'''||[[Ricardo Gallego]]
+|-
+|MF ||'''6''' ||[[Rafael Gordillo]] || || {{suboff|54}}
+|-
+|MF ||'''17'''||[[Francisco López Alfaro|Francisco]]
+|-
+|MF ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]]
+|-
+|FW ||'''19'''||[[Julio Salinas]] || || {{suboff|78}}
+|-
+|FW ||'''9''' ||[[Emilio Butragueño]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Ramón Calderé]] || || {{subon|54}}
+|-
+|MF ||'''7''' ||[[Juan Antonio Señor]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ESP}} [[Miguel Muñoz]]
+|}
+|}
+
+===Northern Ireland vs Brazil===
+
+<onlyinclude>{{#invoke:Football box|main|section=D5
+|date={{Start date|1986|6|12|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|NIR}}
+|score={{score link|1986 FIFA World Cup Group D#Northern Ireland vs Brazil|0–3}}
+|team2={{fb|BRA|1968}}
+|goals1=
+|goals2=
+*[[Careca]] {{goal|15||87}}
+*[[Josimar (footballer, born 1961)|Josimar]] {{goal|42}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara, Jalisco|Guadalajara]]
+|attendance=51,000
+|referee=[[Siegfried Kirschen]] ([[German Football Association of the GDR|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/441 |title=Northern Ireland vs Brazil {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=441/index.html |title=1986 FIFA World Cup Mexico – Matches – Northern Ireland v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218051722/http://www.fifa.com/worldcup/matches/round=308/match=441/index.html |archive-date=18 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _nir86h
+ | pattern_b  = _nir86h
+ | pattern_ra = _nir86h
+ | pattern_sh = _nir86h
+ | pattern_so = _nir86h
+ | leftarm    = 22913C
+ | body       = 22913C
+ | rightarm   = 22913C
+ | shorts     = FFFFFF
+ | socks      = 00985B
+ | title      = Northern Ireland
+}}
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra86h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0047AB
+ | socks      = ffffff
+ | title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Pat Jennings]]
+|-
+|DF ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''3''' ||[[Mal Donaghy]] || {{yel|12}}
+|-
+|DF ||'''4''' ||[[John O'Neill (Northern Ireland footballer)|John O'Neill]]
+|-
+|DF ||'''5''' ||[[Alan McDonald (association football)|Alan McDonald]]
+|-
+|MF ||'''21'''||[[David Campbell (footballer)|David Campbell]] || || {{suboff|71}}
+|-
+|MF ||'''6''' ||[[David McCreery]]
+|-
+|MF ||'''8''' ||[[Sammy McIlroy]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Norman Whiteside]] || || {{suboff|67}}
+|-
+|FW ||'''11'''||[[Ian Stewart (Northern Ireland footballer)|Ian Stewart]]
+|-
+|FW ||'''17'''||[[Colin Clarke (footballer born 1962)|Colin Clarke]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Jim Platt]]
+|-
+|DF ||'''15'''||[[Nigel Worthington]]
+|-
+|DF ||'''18'''||[[John McClelland (footballer, born 1955)|John McClelland]]
+|-
+|FW ||'''19'''||[[Billy Hamilton (footballer)|Billy Hamilton]] || || {{subon|67}}
+|-
+|FW ||'''14'''||[[Gerry Armstrong (footballer)|Gerry Armstrong]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|NIR}} [[Billy Bingham]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Carlos Roberto Gallo|Carlos]]
+|-
+|RB ||'''13'''||[[Josimar (footballer, born 1961)|Josimar]]
+|-
+|CB ||'''4''' ||[[Edinho (footballer, born 1955)|Edinho]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||[[Júlio César da Silva|Júlio César]]
+|-
+|LB ||'''17'''||[[Branco (footballer)|Branco]]
+|-
+|DM ||'''19'''||[[Elzo Coelho|Elzo]]
+|-
+|DM ||'''15'''||[[Alemão (footballer born 1961)|Alemão]]
+|-
+|AM ||'''18'''||[[Sócrates]] || || {{suboff|68}}
+|-
+|AM ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]]
+|-
+|SS ||'''7''' ||[[Müller (footballer, born 1966)|Müller]] || || {{suboff|27}}
+|-
+|CF ||'''9''' ||[[Careca]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''22'''||[[Émerson Leão|Leão]]
+|-
+|CB ||'''3''' ||[[Oscar Bernardi|Oscar]]
+|-
+|AM ||'''20'''||[[Paulo Silas|Silas]]
+|-
+|CF ||'''8''' ||[[Walter Casagrande|Casagrande]] || || {{subon|27}}
+|-
+|AM ||'''10'''||[[Zico (footballer)|Zico]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|BRA|1968}} [[Telê Santana]]
+|}
+|}
+
+===Algeria vs Spain===
+
+<onlyinclude>{{#invoke:Football box|main|section=D6
+|date={{Start date|1986|6|12|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ALG}}
+|score={{score link|1986 FIFA World Cup Group D#Algeria vs Spain|0–3}}
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+*[[Ramón Calderé|Calderé]] {{goal|15||68}}
+*[[Eloy (footballer)|Eloy]] {{goal|70}}
+|stadium=[[Estadio Tecnológico]], [[Monterrey]]
+|attendance=23,980
+|referee=[[Shizuo Takada]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/378 |title=Algeria vs Spain {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=378/index.html |title=1986 FIFA World Cup Mexico – Matches – Algeria v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228213359/http://www.fifa.com/worldcup/matches/round=308/match=378/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _algeria86h
+ | pattern_ra = 
+ | pattern_sh = _Algeria_1982_home
+ | pattern_so = _3_stripes_green
+ | leftarm    = ffffff
+ | body       = 
+ | rightarm   = ffffff
+ | shorts     = 
+ | socks      = ffffff
+ | title      = Algeria
+}}
+|{{Football kit
+ | pattern_la = _esp8690h
+ | pattern_b  = _esp86
+ | pattern_ra = _esp8690h
+ | pattern_sh = _spain86
+ | pattern_so = _esp1986
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000CD
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Nacerdine Drid]] || || {{suboff|20}}
+|-
+|DF ||'''2''' ||[[Mahmoud Guendouz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''20'''||[[Fodil Megharia]]
+|-
+|DF ||'''4''' ||[[Nourredine Kourichi]]
+|-
+|DF ||'''16'''||[[Faouzi Mansouri]]
+|-
+|MF ||'''6''' ||[[Mohammed Kaci Said]]
+|-
+|MF ||'''8''' ||[[Karim Maroc]]
+|-
+|MF ||'''10'''||[[Lakhdar Belloumi]]
+|-
+|MF ||'''14'''||[[Djamel Zidane]] || || {{suboff|58}}
+|-
+|FW ||'''13'''||[[Rachid Harkouk]]
+|-
+|FW ||'''11'''||[[Rabah Madjer]] || {{yel|33}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''21'''||[[Larbi El Hadi]] || || {{subon|20}}
+|-
+|FW ||'''9''' ||[[Djamel Menad]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ALG}} [[Rabah Saâdane]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|DF ||'''2''' ||[[Tomás Reñones|Tomás]]
+|-
+|DF ||'''3''' ||[[José Antonio Camacho]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Víctor Muñoz (footballer, born 1957)|Víctor]]
+|-
+|DF ||'''8''' ||[[Andoni Goikoetxea Olaskoaga|Andoni Goikoetxea]] || {{yel|89}}
+|-
+|MF ||'''14'''||[[Ricardo Gallego]]
+|-
+|MF ||'''17'''||[[Francisco López Alfaro|Francisco]]
+|-
+|MF ||'''18'''||[[Ramón Calderé]]
+|-
+|MF ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]] || || {{suboff|63}}
+|-
+|FW ||'''19'''||[[Julio Salinas]]
+|-
+|FW ||'''9''' ||[[Emilio Butragueño]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Eloy Olaya|Eloy]] || || {{subon|46}}
+|-
+|MF ||'''7''' ||[[Juan Antonio Señor]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ESP}} [[Miguel Muñoz]]
+|}
+|}
+
+==See also==
+*[[Algeria at the FIFA World Cup]]
+*[[Brazil at the FIFA World Cup]]
+*[[Northern Ireland at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+
+==Notes==
+{{notelist-ua|refs=
+{{efn-ua|name=1 June attendances|The FIFA technical report mistakenly interchanged the attendance data for the 1 June matches.<ref>{{cite news |location=Reading, Berkshire |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0002471/19860602/247/0018 |title=Yesterday's results |newspaper=[[Reading Evening Post]] |page=16 |date=2 June 1986 |access-date=2 July 2026 |url-access=subscription}}</ref>}}
+}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1986 FIFA World Cup}}
+
+{{DEFAULTSORT:Group D}}
+[[Category:1986 FIFA World Cup group stage|D]]
+[[Category:Spain at the 1986 FIFA World Cup]]
+[[Category:Northern Ireland at the 1986 FIFA World Cup]]
+[[Category:Brazil at the 1986 FIFA World Cup]]
+[[Category:Algeria at the 1986 FIFA World Cup]]
+[[Category:Zapopan]]
+[[Category:Sport in Guadalajara, Jalisco]]
+[[Category:Football in Jalisco]]
+[[Category:20th century in Guadalajara, Jalisco]]

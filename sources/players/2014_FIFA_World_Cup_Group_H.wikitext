@@ -1,0 +1,1010 @@
+{{Short description|Football tournament group stage}}
+{{Use British English|date=July 2014}}
+{{Use dmy dates|date=July 2014}}
+Group H of the [[2014 FIFA World Cup]] consisted of [[Belgium national football team|Belgium]], [[Algeria national football team|Algeria]], [[Russia national football team|Russia]] and [[South Korea national football team|South Korea]]. Play began on 17 June and ended on 26 June 2014. The top two teams, Belgium and Algeria, advanced to the round of 16.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2013{{refn|group=nb|The rankings of October 2013 were used for [[2014 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2014
+|-
+| H1 ''(seed)'' || style=white-space:nowrap | {{fb|BEL}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA Group A|UEFA Group A]] winners || 11 October 2013 || data-sort-value="12" | 12th || [[2002 FIFA World Cup|2002]] || data-sort-value="4.1" | Fourth place ([[1986 FIFA World Cup|1986]]) || 5 || 11
+|-
+| H2 || style=white-space:nowrap | {{fb|ALG}} || [[Confederation of African Football|CAF]] || [[2014 FIFA World Cup qualification – CAF third round|CAF third round]] winners || 19 November 2013 || data-sort-value="4" | 4th || [[2010 FIFA World Cup|2010]] || data-sort-value="1.3" | Group stage ([[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[2010 FIFA World Cup|2010]]) || 32 || 22
+|-
+| H3 || style=white-space:nowrap | {{fb|RUS}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA Group F|UEFA Group F]] winners || 15 October 2013 || data-sort-value="10" | 10th{{refn|group=nb|This is Russia's third appearance as an independent nation at the FIFA World Cup; however, FIFA considers Russia as the successor to the [[Soviet Union national football team|Soviet Union]], who qualified for the World Cup seven times.}} || [[2002 FIFA World Cup|2002]] || data-sort-value="4.1" | Fourth place ([[1966 FIFA World Cup|1966]]){{refn|group=nb|Russia's best result is group stage in [[1994 FIFA World Cup|1994]] and [[2002 FIFA World Cup|2002]]. However, FIFA considers Russia as the successor team of the [[Soviet Union national football team|Soviet Union]].}} || 19 || 19
+|-
+| H4 || style=white-space:nowrap | {{fb|KOR}} || [[Asian Football Confederation|AFC]] || [[2014 FIFA World Cup qualification – AFC fourth round#Group A|AFC fourth round Group A]] <span style="display:none">2nd</span> runners-up || 18 June 2013 || data-sort-value="9" | 9th || [[2010 FIFA World Cup|2010]] || data-sort-value="4.1" | Fourth place ([[2002 FIFA World Cup|2002]]) || 56 || 57
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/brazil2014/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=BEL
+|team2=ALG
+|team3=RUS
+|team4=KOR
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2014 FIFA World Cup#Format|Tie-breaking criteria]]
+
+|win_BEL=3 |draw_BEL=0 |loss_BEL=0 |gf_BEL=4 |ga_BEL=1
+|win_ALG=1 |draw_ALG=1 |loss_ALG=1 |gf_ALG=6 |ga_ALG=5
+|win_RUS=0 |draw_RUS=2 |loss_RUS=1 |gf_RUS=2 |ga_RUS=3
+|win_KOR=0 |draw_KOR=1 |loss_KOR=2 |gf_KOR=3 |ga_KOR=6
+
+|name_BEL={{fb|BEL}}
+|name_ALG={{fb|ALG}}
+|name_RUS={{fb|RUS}}
+|name_KOR={{fb|KOR}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2014 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*[[Belgium national football team|Belgium]] advanced to play the [[United States men's national soccer team|United States]] (the runners-up of [[2014 FIFA World Cup Group G|Group G]]) in the [[2014 FIFA World Cup knockout stage#Belgium vs United States|round of 16]].
+*[[Algeria national football team|Algeria]] advanced to play [[Germany national football team|Germany]] (the winners of [[2014 FIFA World Cup Group G|Group G]]) in the [[2014 FIFA World Cup knockout stage#Germany vs Algeria|round of 16]].
+
+==Matches==
+===Belgium vs Algeria===
+The two teams had met in two previous matches, both friendlies, most recently in 2003, won 3–1 by Belgium.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=22 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA |page=22 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+Algeria took a one-goal lead in the first half after [[Sofiane Feghouli]] converted a penalty kick, awarded for a foul on him by [[Jan Vertonghen]]. Belgium came back with two goals in the second half, both scored by substitutes.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/17/belgium-algeria-world-cup-2014-group-h-match-report|title=Belgium's Dries Mertens completes fightback against impressive Algeria|date=17 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+The equaliser was scored by [[Marouane Fellaini]], heading in a cross from the left by [[Kevin De Bruyne]], followed by the game winner scored by [[Dries Mertens]] from a pass by [[Eden Hazard]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285127|title=Belgium 2 Algeria 1|publisher=BBC Sport|date=17 June 2014}}</ref>
+
+Feghouli's goal snapped Algeria's 506-minute World Cup scoreless streak stretching back to 1986, second place at the time to the record of 517 minutes between 1930 and 1990 held by Bolivia.<ref>{{cite web|url=http://www.theaustralian.com.au/sport/football/world-cup-2014-belgian-subs-inspire-comeback-21-win-over-algeria/story-fn63e0vj-1226958200329|title=World Cup 2014: Belgian subs inspire comeback 2–1 win over Algeria|work=The Australian|date=18 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h1
+|date={{Start date|2014|6|17|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BEL}}
+|score={{score link|2014 FIFA World Cup Group H#Belgium vs Algeria|2–1}}
+|team2={{fb|ALG}}
+|goals1=
+*[[Marouane Fellaini|Fellaini]] {{goal|70}}
+*[[Dries Mertens|Mertens]] {{goal|80}}
+|goals2=
+*[[Sofiane Feghouli|Feghouli]] {{goal|25|pen.}}
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=56,800
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186479 |title=Belgium vs Algeria {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186479/report.html |title=2014 FIFA World Cup Brazil – Matches – Belgium v Algeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210005943/http://www.fifa.com/worldcup/matches/round=255931/match=300186479/report.html |archive-date=10 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/61e27d73bf86f963/original/ynsxgpbtveyjtwcxvo4c-pdf.pdf |title=Match report – Group H – Belgium v Algeria |publisher=[[FIFA]] |date=17 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061308/https://digitalhub.fifa.com/m/61e27d73bf86f963/original/ynsxgpbtveyjtwcxvo4c-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bel14h
+ |pattern_b  = _bel14h
+ |pattern_ra = _bel14h
+ |pattern_sh = _belgium1415h
+ |pattern_so = _long_belgium1415h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="BEL-ALG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/69824c8e5ad1ef7d/original/gsirfwr7m37eefinhfiq-pdf.pdf |title=Tactical Line-up – Group H – Belgium v Algeria |publisher=[[FIFA]] |date=17 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173425/https://digitalhub.fifa.com/m/69824c8e5ad1ef7d/original/gsirfwr7m37eefinhfiq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _algeria1415h
+ |pattern_b  = _algeria1415home
+ |pattern_ra = _algeria1415h
+ |pattern_sh = 
+ |pattern_so = _argelia14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Algeria<ref name="BEL-ALG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''15'''||[[Daniel Van Buyten]]
+|-
+|CB ||'''4''' ||[[Vincent Kompany]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]] || {{yel|24}}
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|CM ||'''19'''||[[Moussa Dembélé (Belgian footballer)|Moussa Dembélé]] || || {{suboff|65}}
+|-
+|RW ||'''22'''||[[Nacer Chadli]] || || {{suboff|46}}
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|LW ||'''10'''||[[Eden Hazard]]
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|46}}
+|-
+|FW ||'''17'''||[[Divock Origi]] || || {{subon|58}}
+|-
+|MF ||'''8''' ||[[Marouane Fellaini]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|valign="top"|[[File:BEL-ALG 2014-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''23'''||[[Raïs M'Bolhi]]
+|-
+|RB ||'''22'''||[[Mehdi Mostefa]]
+|-
+|CB ||'''2''' ||[[Madjid Bougherra]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Rafik Halliche]]
+|-
+|LB ||'''3''' ||[[Faouzi Ghoulam]]
+|-
+|RM ||'''19'''||[[Saphir Taïder]]
+|-
+|CM ||'''12'''||[[Carl Medjani]] || || {{suboff|84}}
+|-
+|LM ||'''14'''||[[Nabil Bentaleb]] || {{yel|34}}
+|-
+|AM ||'''10'''||[[Sofiane Feghouli]]
+|-
+|AM ||'''21'''||[[Riyad Mahrez]] || || {{suboff|71}}
+|-
+|CF ||'''15'''||[[Hillal Soudani]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Islam Slimani]] || || {{subon|66}}
+|-
+|MF ||'''8''' ||[[Mehdi Lacen]] || || {{subon|71}}
+|-
+|FW ||'''9''' ||[[Nabil Ghilas]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BIH}} [[Vahid Halilhodžić]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Kevin De Bruyne]] (Belgium)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />Marcos Quintero ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|}
+
+===Russia vs South Korea===
+The two teams had met in one previous match, in a friendly in 2013.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=23 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA |page=23 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+After a goalless first half, the two teams traded goals by substitutes in the second half as the match finished 1–1. First, [[Han Kook-young]] passed to [[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]], and his long range shot was spilled by Russian goalkeeper [[Igor Akinfeev]] into the net.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/18/russia-south-korea-world-cup-2014-match-report|title=Aleksandr Kerzhakov rescues point for Russia against South Korea|date=18 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+Russia equalised after [[Alan Dzagoev]]'s shot was parried by South Korean goalkeeper [[Jung Sung-ryong]], the clearance hit [[Andrey Yeshchenko]], and [[Aleksandr Kerzhakov]] scored from close range.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285141|title=Russia 1 South Korea 1|publisher=BBC Sport|date=17 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h2
+|date={{Start date|2014|6|17|df=y}}
+|time=18:00 [[Time in Brazil|AMT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|RUS}}
+|score={{score link|2014 FIFA World Cup Group H#Russia vs South Korea|1–1}}
+|team2={{fb|KOR}}
+|goals1=
+*[[Aleksandr Kerzhakov|Kerzhakov]] {{goal|74}}
+|goals2=
+*[[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]] {{goal|68}}
+|stadium=[[Arena Pantanal]], [[Cuiabá]]
+|attendance=37,603
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186499 |title=Russia vs Korea Republic {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186499/report.html |title=2014 FIFA World Cup Brazil – Matches – Russia v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227234515/http://www.fifa.com/worldcup/matches/round=255931/match=300186499/report.html |archive-date=27 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6ea440f7365816b2/original/id223gpqd4ytmrjdxp7m-pdf.pdf |title=Match report – Group H – Russia v Korea Republic |publisher=[[FIFA]] |date=17 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061335/https://digitalhub.fifa.com/m/6ea440f7365816b2/original/id223gpqd4ytmrjdxp7m-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _rus13h
+ |pattern_b  = _rus13home
+ |pattern_ra = _rus13h
+ |pattern_sh = _rus13h
+ |pattern_so = _rus13h
+ |leftarm    = A81717
+ |body       = A81717
+ |rightarm   = A81717
+ |shorts     = A81717
+ |socks      = A81717
+ |title      = Russia<ref name="RUS-KOR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/b3f4ae0b12bac79/original/mmbswebmeuhrfqjtitoy-pdf.pdf |title=Tactical Line-up – Group H – Russia v Korea Republic |publisher=[[FIFA]] |date=17 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173435/https://digitalhub.fifa.com/m/b3f4ae0b12bac79/original/mmbswebmeuhrfqjtitoy-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _southkorea1415a
+ |pattern_b  = _southkorea1415away
+ |pattern_ra = _southkorea1415a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = South Korea<ref name="RUS-KOR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Igor Akinfeev]]
+|-
+|RB ||'''22'''||[[Andrey Yeshchenko]]
+|-
+|CB ||'''4''' ||[[Sergei Ignashevich]]
+|-
+|CB ||'''14'''||[[Vasili Berezutski]] ([[Captain (association football)|c]])
+|-
+|LB ||'''23'''||[[Dmitri Kombarov]]
+|-
+|DM ||'''8''' ||[[Denis Glushakov]] || || {{suboff|72}}
+|-
+|CM ||'''20'''||[[Viktor Fayzulin]]
+|-
+|CM ||'''18'''||[[Yuri Zhirkov]] || || {{suboff|71}}
+|-
+|RW ||'''19'''||[[Aleksandr Samedov]]
+|-
+|LW ||'''17'''||[[Oleg Shatov]] || {{yel|49}} || {{suboff|59}}
+|-
+|CF ||'''9''' ||[[Aleksandr Kokorin]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Alan Dzagoev]] || || {{subon|59}}
+|-
+|FW ||'''11'''||[[Aleksandr Kerzhakov]] || || {{subon|71}}
+|-
+|MF ||'''7''' ||[[Igor Denisov]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Fabio Capello]]
+|}
+|valign="top"|[[File:RUS-KOR 2014-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jung Sung-ryong]]
+|-
+|RB ||'''12'''||[[Lee Yong (footballer, born 1986)|Lee Yong]]
+|-
+|CB ||'''5''' ||[[Kim Young-gwon]]
+|-
+|CB ||'''20'''||[[Hong Jeong-ho]] || || {{suboff|73}}
+|-
+|LB ||'''3''' ||[[Yun Suk-young]]
+|-
+|CM ||'''16'''||[[Ki Sung-yueng]] || {{yel|30}}
+|-
+|CM ||'''14'''||[[Han Kook-young]]
+|-
+|RW ||'''17'''||[[Lee Chung-yong]]
+|-
+|AM ||'''13'''||[[Koo Ja-cheol]] ([[Captain (association football)|c]]) ||{{yel|90}}
+|-
+|LW ||'''9'''||[[Son Heung-min]] || {{yel|13}} || {{suboff|84}}
+|-
+|CF ||'''10'''||[[Park Chu-young]] || || {{suboff|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]] || || {{subon|56}}
+|-
+|DF ||'''6''' ||[[Hwang Seok-ho]] || || {{subon|73}}
+|-
+|MF ||'''7''' ||[[Kim Bo-kyung]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Hong Myung-bo]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Son Heung-min]] (South Korea)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Roberto Moreno ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Eric Boria ([[United States Soccer Federation|United States]])
+|}
+
+===Belgium vs Russia===
+The two teams had met in eight previous matches (including matches involving the Soviet Union), including four in the FIFA World Cup ([[1970 FIFA World Cup|1970]], group stage: Belgium [[1970 FIFA World Cup Group 1#Soviet Union vs Belgium|1–4]] Soviet Union; [[1982 FIFA World Cup|1982]], second group stage: Belgium 0–1 Soviet Union; [[1986 FIFA World Cup|1986]], round of 16: Belgium [[1986 FIFA World Cup knockout stage#Soviet Union vs Belgium|4–3]] (aet) Soviet Union; [[2002 FIFA World Cup|2002]], group stage: Belgium [[2002 FIFA World Cup Group H#Belgium vs Russia|3–2]] Russia).<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=37 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA |page=37 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+[[Aleksandr Kokorin]] had Russia's best chance in the first half, heading wide from six yards. Late in the second half, Belgian substitute [[Kevin Mirallas]] hit the post with his free kick, but Belgium did find the game-winner through another substitute, [[Divock Origi]] scoring from 8 yards out after [[Eden Hazard]]'s cut-back from the left. This victory sent Belgium into the knockout stage.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285242|title=Belgium 1 Russia 0|publisher=BBC Sport|date=22 June 2014}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/22/belgium-russia-world-cup-2014-group-h-match-report|title=Belgium through after Divock Origi sees off Russia with late goal|date=22 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h3
+|date={{Start date|2014|6|22|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])<!--Kick-off time adjusted by FIFA: https://www.fifa.com/worldcup/news/newsid=2240950/index.html-->
+|team1={{fb-rt|BEL}}
+|score={{score link|2014 FIFA World Cup Group H#Belgium vs Russia|1–0}}
+|team2={{fb|RUS}}
+|goals1=
+*[[Divock Origi|Origi]] {{goal|88}}
+|goals2=
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=73,819
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186481 |title=Belgium vs Russia {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186481/report.html |title=2014 FIFA World Cup Brazil – Matches – Belgium v Russia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211223530/http://www.fifa.com/worldcup/matches/round=255931/match=300186481/report.html |archive-date=11 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/721c52bd9fe59623/original/lzh1wgn3xvg3dbz4bwqg-pdf.pdf |title=Match report – Group H – Belgium v Russia |publisher=[[FIFA]] |date=22 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061700/https://digitalhub.fifa.com/m/721c52bd9fe59623/original/lzh1wgn3xvg3dbz4bwqg-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bel14h
+ |pattern_b  = _bel14h
+ |pattern_ra = _bel14h
+ |pattern_sh = _belgium1415h
+ |pattern_so = _long_belgium1415h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="BEL-RUS line-ups">{{cite web |url=https://digitalhub.fifa.com/m/598e4624f01f256a/original/jzts0xcrno5dficl5mjx-pdf.pdf |title=Tactical Line-up – Group H – Belgium v Russia |publisher=[[FIFA]] |date=22 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173917/https://digitalhub.fifa.com/m/598e4624f01f256a/original/jzts0xcrno5dficl5mjx-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _rus14a
+ |pattern_b  = _rus14a
+ |pattern_ra = _rus14a
+ |pattern_sh = _rus14a
+ |pattern_so = _rus14a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Russia<ref name="BEL-RUS line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||[[Toby Alderweireld]] || {{yel|73}}
+|-
+|CB ||'''15'''||[[Daniel Van Buyten]]
+|-
+|CB ||'''4''' ||[[Vincent Kompany]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Thomas Vermaelen]] || || {{suboff|31}}
+|-
+|CM ||'''6''' ||[[Axel Witsel]] || {{yel|54}}
+|-
+|CM ||'''8''' ||[[Marouane Fellaini]]
+|-
+|RW ||'''14'''||[[Dries Mertens]] || || {{suboff|75}}
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|LW ||'''10'''||[[Eden Hazard]]
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Jan Vertonghen]] || || {{subon|31}}
+|-
+|FW ||'''17'''||[[Divock Origi]] || || {{subon|57}}
+|-
+|MF ||'''11'''||[[Kevin Mirallas]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|valign="top"|[[File:BEL-RUS 2014-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Igor Akinfeev]]
+|-
+|RB ||'''2''' ||[[Aleksei Kozlov (footballer, born 1986)|Aleksei Kozlov]] || || {{suboff|62}}
+|-
+|CB ||'''14'''||[[Vasili Berezutski]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Sergei Ignashevich]]
+|-
+|LB ||'''23'''||[[Dmitri Kombarov]]
+|-
+|DM ||'''8''' ||[[Denis Glushakov]] || {{yel|38}}
+|-
+|CM ||'''20'''||[[Viktor Fayzulin]]
+|-
+|RW ||'''19'''||[[Aleksandr Samedov]] || || {{suboff|90}}
+|-
+|AM ||'''6''' ||[[Maksim Kanunnikov]]
+|-
+|LW ||'''17'''||[[Oleg Shatov]] || || {{suboff|83}}
+|-
+|CF ||'''9''' ||[[Aleksandr Kokorin]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''22'''||[[Andrey Yeshchenko]] || || {{subon|62}}
+|-
+|MF ||'''10'''||[[Alan Dzagoev]] || || {{subon|83}}
+|-
+|FW ||'''11'''||[[Aleksandr Kerzhakov]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Fabio Capello]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Eden Hazard]] (Belgium)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />Stefan Lupp ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Byron Romero ([[Ecuadorian Football Federation|Ecuador]])
+|}
+
+===South Korea vs Algeria===
+The two teams had met in two previous matches, both in friendlies both in 1985.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=38 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA |page=38 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+Algeria, who needed at least a point to stay alive in the competition, scored three goals in the first half to take a comfortable lead. First, [[Islam Slimani]] sped past two South Korean defenders to receive [[Carl Medjani]]'s long pass and slot home with his left foot past the advancing goalkeeper. Two minutes later, [[Rafik Halliche]] headed in [[Abdelmoumene Djabou]]'s corner from the left. Djabou scored himself later after he received a pass from Slimani, shooting low with his left foot from twelve yards out.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/22/south-korea-algeria-world-cup-2014-group-h-match-report|title=Algeria's Islam Slimani starts onslaught to put game beyond South Korea|date=22 June 2014 |work=Guardian|access-date=30 October 2014}}</ref> Early in the second half, [[Son Heung-min]] controlled a long pass from [[Ki Sung-yueng]] to shoot with his left foot between the goalkeeper's legs and reduce the deficit, but [[Yacine Brahimi]] restored Algeria's three-goal lead after a one-two with [[Sofiane Feghouli]] to side foot home from inside the penalty area with his right foot. [[Koo Ja-cheol]] scored South Korea's second goal after a pass from [[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]] from the left, but Algeria held on for its third ever World Cup victory, but its first since 24 June 1982.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285249|title=South Korea 2 Algeria 4|publisher=BBC Sport|date=22 June 2014}}</ref>
+
+Algeria became the first African team to score four goals in a World Cup match, a record that stood for 12 years until Senegal surpassed it with a [[2026 FIFA World Cup Group I#Senegal vs Iraq|5–0 victory]] over Iraq in [[2026 FIFA World Cup|2026]].<ref>{{Cite news |title=South Korea 2-4 Algeria |url=https://www.bbc.co.uk/sport/football/25285249 |publisher=BBC Sport |access-date=17 September 2021 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h4
+|date={{Start date|2014|6|22|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])<!--Kick-off time adjusted by FIFA: https://www.fifa.com/worldcup/news/newsid=2240950/index.html-->
+|team1={{fb-rt|KOR}}
+|score={{score link|2014 FIFA World Cup Group H#South Korea vs Algeria|2–4}}
+|team2={{fb|ALG}}
+|goals1=
+*[[Son Heung-min]] {{goal|50}}
+*[[Koo Ja-cheol]] {{goal|72}}
+|goals2=
+*[[Islam Slimani|Slimani]] {{goal|26}}
+*[[Rafik Halliche|Halliche]] {{goal|28}}
+*[[Abdelmoumene Djabou|Djabou]] {{goal|38}}
+*[[Yacine Brahimi|Brahimi]] {{goal|62}}
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=42,732
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186495 |title=Korea Republic vs Algeria {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186495/report.html |title=2014 FIFA World Cup Brazil – Matches – Korea Republic v Algeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170213051059/http://www.fifa.com/worldcup/matches/round=255931/match=300186495/report.html |archive-date=13 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/301f96a59c8d123a/original/olrfgavmrobilbp2l4gt-pdf.pdf |title=Match report – Group H – Korea Republic v Algeria |publisher=[[FIFA]] |date=22 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061710/https://digitalhub.fifa.com/m/301f96a59c8d123a/original/olrfgavmrobilbp2l4gt-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _southkorea1415h
+ |pattern_b  = _southkorea1415home
+ |pattern_ra = _southkorea1415h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = F9041D
+ |body       = F9041D
+ |rightarm   = F9041D
+ |shorts     = 122DA7
+ |socks      = F9041D
+ |title      = South Korea<ref name="KOR-ALG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6e5decf64de367fe/original/fsmsqo1blc32cfisf0qx-pdf.pdf |title=Tactical Line-up – Group H – Korea Republic v Algeria |publisher=[[FIFA]] |date=22 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173946/https://digitalhub.fifa.com/m/6e5decf64de367fe/original/fsmsqo1blc32cfisf0qx-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _algeria1415h
+ |pattern_b  = _algeria1415home
+ |pattern_ra = _algeria1415h
+ |pattern_sh = 
+ |pattern_so = _argelia14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Algeria<ref name="KOR-ALG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jung Sung-ryong]]
+|-
+|RB ||'''12'''||[[Lee Yong (footballer, born 1986)|Lee Yong]] || {{yel|54}}
+|-
+|CB ||'''20'''||[[Hong Jeong-ho]]
+|-
+|CB ||'''5''' ||[[Kim Young-gwon]]
+|-
+|LB ||'''3''' ||[[Yun Suk-young]]
+|-
+|CM ||'''14'''||[[Han Kook-young]] || {{yel|69}} || {{suboff|78}}
+|-
+|CM ||'''16'''||[[Ki Sung-yueng]]
+|-
+|RW ||'''17'''||[[Lee Chung-yong]] || || {{suboff|64}}
+|-
+|AM ||'''13'''||[[Koo Ja-cheol]] ([[Captain (association football)|c]])
+|-
+|LW ||'''9'''||[[Son Heung-min]]
+|-
+|CF ||'''10''' ||[[Park Chu-young]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Kim Shin-wook]] || || {{subon|57}}
+|-
+|FW ||'''11'''||[[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]] || || {{subon|64}}
+|-
+|FW ||'''19'''||[[Ji Dong-won]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Hong Myung-bo]]
+|}
+|valign="top"|[[File:KOR-ALG 2014-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''23'''||[[Raïs M'Bolhi]]
+|-
+|CB ||'''12'''||[[Carl Medjani]]
+|-
+|CB ||'''2''' ||[[Madjid Bougherra]] ([[Captain (association football)|c]]) || {{yel|67}} || {{suboff|89}}
+|-
+|CB ||'''5''' ||[[Rafik Halliche]]
+|-
+|RWB||'''20'''||[[Aïssa Mandi]]
+|-
+|LWB||'''6''' ||[[Djamel Mesbah]]
+|-
+|CM ||'''11'''||[[Yacine Brahimi]] || || {{suboff|77}}
+|-
+|CM ||'''18'''||[[Abdelmoumene Djabou]] || || {{suboff|73}}
+|-
+|RW ||'''10'''||[[Sofiane Feghouli]]
+|-
+|LW ||'''14'''||[[Nabil Bentaleb]]
+|-
+|CF ||'''13'''||[[Islam Slimani]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Nabil Ghilas]] || || {{subon|73}}
+|-
+|MF ||'''8''' ||[[Mehdi Lacen]] || || {{subon|77}}
+|-
+|DF ||'''4''' ||[[Essaïd Belkalem]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BIH}} [[Vahid Halilhodžić]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Islam Slimani]] (Algeria)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Eduardo Díaz ([[Colombian Football Federation|Colombia]])
+<br />Christian Lescano ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|}
+
+===South Korea vs Belgium===
+The two teams had met in three previous matches, including twice in the FIFA World Cup group stage ([[1990 FIFA World Cup|1990]]: South Korea [[1990 FIFA World Cup Group E#Belgium vs Korea Republic|0–2]] Belgium; [[1998 FIFA World Cup|1998]]: South Korea [[1998 FIFA World Cup Group E#Belgium vs South Korea|1–1]] Belgium).<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=49 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA |page=49 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+Belgium, who had already qualified for the knockout stage and would win the group if either South Korea did not win this match, or Algeria didn't beat Russia in the other simultaneous match, had [[Steven Defour]] sent off for a reckless tackle on [[Kim Shin-wook]] at the end of the first half. Belgium scored the only goal of the match in the second half, when substitute [[Divock Origi]]'s shot was parried by South Korea goalkeeper [[Kim Seung-gyu]] and [[Jan Vertonghen]] converted the rebound with his left foot.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/26/south-korea-belgium-world-cup-2014-group-h-match-report|title=Jan Vertonghen fires Belgium to win over South Korea|date=26 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+
+Belgium's win ensured that they topped their group, while South Korea, who had to win by two goals to have any chance for qualification to the knockout stage, were eliminated.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285474|title=South Korea 0 Belgium 1|publisher=BBC Sport|date=26 June 2014}}</ref>
+
+South Korea's elimination meant that all four Asian representatives finished bottom of their group with a combined record of zero wins, three draws and nine defeats, the worst showing by the [[Asian Football Confederation]] since the 1990 World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=asian-media-dissects-quartet-s-world-cup-performance-2387766.html|archive-url=https://web.archive.org/web/20140630113454/http://www.fifa.com/worldcup/news/y=2014/m=6/news=asian-media-dissects-quartet-s-world-cup-performance-2387766.html|url-status=dead|archive-date=30 June 2014|title=Asian media dissects quartet's World Cup performance|publisher=FIFA |date=27 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h5
+|date={{Start date|2014|6|26|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|KOR}}
+|score={{score link|2014 FIFA World Cup Group H#South Korea vs Belgium|0–1}}
+|team2={{fb|BEL}}
+|goals1=
+|goals2=
+*[[Jan Vertonghen|Vertonghen]] {{goal|78}}
+|stadium=[[Arena Corinthians|Arena de São Paulo]], [[São Paulo]]
+|attendance=61,397
+|referee=[[Ben Williams (referee)|Ben Williams]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186480 |title=Korea Republic vs Belgium {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186480/report.html |title=2014 FIFA World Cup Brazil – Matches – Korea Republic v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709053625/http://www.fifa.com/worldcup/matches/round=255931/match=300186480/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/16715877d934f581/original/meq8ul2ndolp3fmdouqn-pdf.pdf |title=Match report – Group H – Korea Republic v Belgium |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062132/https://digitalhub.fifa.com/m/16715877d934f581/original/meq8ul2ndolp3fmdouqn-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _southkorea1415a
+ |pattern_b  = _southkorea1415away
+ |pattern_ra = _southkorea1415a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = South Korea<ref name="KOR-BEL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/10e2f781ac00252/original/tlhdojqavnubllpfmn89-pdf.pdf |title=Tactical Line-up – Group H – Korea Republic v Belgium |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174316/https://digitalhub.fifa.com/m/10e2f781ac00252/original/tlhdojqavnubllpfmn89-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _belgium1415a
+ |pattern_b  = _belgium1415a
+ |pattern_ra = _belgium1415a
+ |pattern_sh = _belgium1415a
+ |pattern_so = _long_belgium1415a
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Belgium<ref name="KOR-BEL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Kim Seung-gyu]]
+|-
+|RB ||'''12'''||[[Lee Yong (footballer, born 1986)|Lee Yong]]
+|-
+|CB ||'''5''' ||[[Kim Young-gwon]]
+|-
+|CB ||'''20'''||[[Hong Jeong-ho]] || {{yel|35}}
+|-
+|LB ||'''3''' ||[[Yun Suk-young]]
+|-
+|CM ||'''14'''||[[Han Kook-young]] || || {{suboff|46}}
+|-
+|CM ||'''16'''||[[Ki Sung-yueng]]
+|-
+|RW ||'''17'''||[[Lee Chung-yong]]
+|-
+|AM ||'''13'''||[[Koo Ja-cheol]] ([[Captain (association football)|c]])
+|-
+|LW ||'''9''' ||[[Son Heung-min]] || || {{suboff|73}}
+|-
+|CF ||'''18'''||[[Kim Shin-wook]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]] || || {{subon|46}}
+|-
+|MF ||'''7''' ||[[Kim Bo-kyung]] || || {{subon|66}}
+|-
+|FW ||'''19'''||[[Ji Dong-won]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Hong Myung-bo]]
+|}
+|valign="top"|[[File:KOR-BEL 2014-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''21'''||[[Anthony Vanden Borre]]
+|-
+|CB ||'''15'''||[[Daniel Van Buyten]]
+|-
+|CB ||'''18'''||[[Nicolas Lombaerts]]
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]] ([[Captain (association football)|c]])
+|-
+|CM ||'''16'''||[[Steven Defour]] || {{sent off|0|45}}
+|-
+|CM ||'''19'''||[[Moussa Dembélé (Belgian footballer)|Moussa Dembélé]] || {{yel|50}}
+|-
+|RW ||'''14'''||[[Dries Mertens]] || || {{suboff|60}}
+|-
+|AM ||'''8''' ||[[Marouane Fellaini]]
+|-
+|LW ||'''20'''||[[Adnan Januzaj]] || || {{suboff|60}}
+|-
+|CF ||'''11'''||[[Kevin Mirallas]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Nacer Chadli]] || || {{subon|60}}
+|-
+|FW ||'''17'''||[[Divock Origi]] || || {{subon|60}}
+|-
+|MF ||'''10'''||[[Eden Hazard]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jan Vertonghen]] (Belgium)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Matthew Cream]] ([[Football Federation Australia|Australia]])
+<br />Hakan Anaz ([[Football Federation Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Víctor Hugo Carrillo]] ([[Peruvian Football Federation|Peru]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Rodney Aquino ([[Paraguayan Football Association|Paraguay]])
+|}
+
+===Algeria vs Russia===
+{{further|List of 2014 FIFA World Cup controversies#Algeria vs Russia}}
+The two teams had met in three previous matches (only involving matches during the time period of the Soviet Union).<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=50 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA |page=50 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+[[Aleksandr Kokorin]] opened the scoring for Russia, who had to win to have chance of qualifying for the knockout stage, in the 6th minute when he scored with a header after a cross from [[Dmitri Kombarov]] from the left. Algeria equalised in the 60th minute when [[Islam Slimani]] scored with a header at the back post after a free kick from the left by [[Yacine Brahimi]] was missed by Russian goalkeeper [[Igor Akinfeev]]. Algeria held on for the draw, and as South Korea lost to Belgium in the other match played at the same time, Algeria finished as group runners-up and reached the second round for the first time in their history (after unsuccessful campaigns in 1982, 1986, and 2010), while Russia failed to advance out of the group stage in all three tournaments since the break-up of the Soviet Union.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285498|title=Algeria 1 Russia 1|date=26 June 2014|publisher=BBC Sport|access-date=27 June 2014}}</ref>
+
+For Algeria's goal, television replays showed that Akinfeev had a green laser light shining in his face during the play.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/26/algeria-russia-world-cup-2014-group-h-match-report|title=Algeria through but Russia's Akinfeev distracted by laser for Slimani goal|date=26 June 2014|work=Guardian |access-date=27 June 2014}}</ref>
+After the match the [[Algerian Football Federation]] was fined 50,000 [[Swiss franc|CHF]] by [[FIFA]] for the use of [[laser pointer]]s, a prohibited item in the stadium according to FIFA Stadium Safety and Security Regulations,<ref>[https://web.archive.org/web/20130516223844/http://www.fifa.com/mm/document/tournament/competition/51/53/98/safetyregulations%5fe.pdf FIFA Stadium Safety and Security Regulations] — see page 96, "g"</ref> and other violations of the rules by Algerian fans.<ref>{{cite news|first=Simon|last=Evans|url=http://in.reuters.com/article/us-soccer-world-alg-lasers-fifa-idINKBN0F52E220140630|archive-url=https://web.archive.org/web/20160110052627/http://in.reuters.com/article/us-soccer-world-alg-lasers-fifa-idINKBN0F52E220140630|url-status=dead|archive-date=10 January 2016|title=Algeria zapped with FIFA fine over lasers|agency=[[Reuters]]|date=1 July 2014|access-date=2 July 2014}}</ref>
+
+With fellow African representative Nigeria also reaching the knockout stage earlier, this was the first time that there were two teams from the [[Confederation of African Football]] in the knockout stage of a World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=concacaf-and-africa-enter-brave-new-world-2388146.html|archive-url=https://web.archive.org/web/20140629154813/http://www.fifa.com/worldcup/news/y=2014/m=6/news=concacaf-and-africa-enter-brave-new-world-2388146.html|url-status=dead|archive-date=29 June 2014|title=CONCACAF and Africa enter brave new world|publisher=FIFA |date=27 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h6
+|date={{Start date|2014|6|26|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|ALG}}
+|score={{score link|2014 FIFA World Cup Group H#Algeria vs Russia|1–1}}
+|team2={{fb|RUS}}
+|goals1=
+*[[Islam Slimani|Slimani]] {{goal|60}}
+|goals2=
+*[[Aleksandr Kokorin|Kokorin]] {{goal|6}}
+|stadium=[[Arena da Baixada]], [[Curitiba]]
+|attendance=39,311
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186506 |title=Algeria vs Russia {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186506/report.html |title=2014 FIFA World Cup Brazil – Matches – Algeria v Russia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171222052136/http://www.fifa.com/worldcup/matches/round=255931/match=300186506/report.html |archive-date=22 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/2f2ea15b98fe4ffd/original/jlmgebe7zbv60inciqq7-pdf.pdf |title=Match report – Group H – Algeria v Russia |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062120/https://digitalhub.fifa.com/m/2f2ea15b98fe4ffd/original/jlmgebe7zbv60inciqq7-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _algeria1415h
+ |pattern_b  = _algeria1415home
+ |pattern_ra = _algeria1415h
+ |pattern_sh = 
+ |pattern_so = _argelia14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Algeria<ref name="ALG-RUS line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5324300a5f530efe/original/fli6h7ohydhqppkmxxq8-pdf.pdf |title=Tactical Line-up – Group H – Algeria v Russia |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174336/https://digitalhub.fifa.com/m/5324300a5f530efe/original/fli6h7ohydhqppkmxxq8-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _rus13h
+ |pattern_b  = _rus13home
+ |pattern_ra = _rus13h
+ |pattern_sh = _rus13h
+ |pattern_so = _rus13h
+ |leftarm    = A81717
+ |body       = A81717
+ |rightarm   = A81717
+ |shorts     = A81717
+ |socks      = A81717
+ |title      = Russia<ref name="ALG-RUS line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Raïs M'Bolhi]]
+|-
+|RB ||'''20'''||[[Aïssa Mandi]]
+|-
+|CB ||'''4''' ||[[Essaïd Belkalem]]
+|-
+|CB ||'''5''' ||[[Rafik Halliche]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Djamel Mesbah]] || {{yel|39}}
+|-
+|CM ||'''12'''||[[Carl Medjani]]
+|-
+|CM ||'''14'''||[[Nabil Bentaleb]]
+|-
+|RW ||'''10'''||[[Sofiane Feghouli]]
+|-
+|AM ||'''11'''||[[Yacine Brahimi]] || || {{suboff|71}}
+|-
+|LW ||'''18'''||[[Abdelmoumene Djabou]] || || {{suboff|77}}
+|-
+|CF ||'''13'''||[[Islam Slimani]] || || {{suboff|90+2}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Hassan Yebda]] || || {{subon|71}}
+|-
+|FW ||'''9''' ||[[Nabil Ghilas]] || {{yel|87}} || {{subon|77}}
+|-
+|FW ||'''15'''||[[Hillal Soudani]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|DF ||'''17'''||[[Liassine Cadamuro]] || {{yel|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BIH}} [[Vahid Halilhodžić]]
+|}
+|valign="top"|[[File:ALG-RUS 2014-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Igor Akinfeev]]
+|-
+|RB ||'''2''' ||[[Aleksei Kozlov (footballer, born 1986)|Aleksei Kozlov]] || {{yel|59}}
+|-
+|CB ||'''14'''||[[Vasili Berezutski]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Sergei Ignashevich]]
+|-
+|LB ||'''23'''||[[Dmitri Kombarov]] || {{yel|57}}
+|-
+|CM ||'''8''' ||[[Denis Glushakov]] || || {{suboff|46}}
+|-
+|CM ||'''20'''||[[Viktor Fayzulin]]
+|-
+|RW ||'''19'''||[[Aleksandr Samedov]]
+|-
+|AM ||'''9''' ||[[Aleksandr Kokorin]]
+|-
+|LW ||'''17'''||[[Oleg Shatov]] || || {{suboff|67}}
+|-
+|CF ||'''11'''||[[Aleksandr Kerzhakov]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Igor Denisov]] || || {{subon|46}}
+|-
+|MF ||'''10'''||[[Alan Dzagoev]] || || {{subon|67}}
+|-
+|FW ||'''6''' ||[[Maksim Kanunnikov]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Fabio Capello]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Islam Slimani]] (Algeria)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+|}
+
+==See also==
+*[[Algeria at the FIFA World Cup]]
+*[[Belgium at the FIFA World Cup]]
+*[[Russia at the FIFA World Cup]]
+*[[South Korea at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://web.archive.org/web/20140413170550/http://www.fifa.com/worldcup/groups/group=255947/index.html 2014 FIFA World Cup Group H], FIFA.com
+
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Group H}}
+[[Category:2014 FIFA World Cup group stage|H]]
+[[Category:Algeria at the 2014 FIFA World Cup]]
+[[Category:Belgium at the 2014 FIFA World Cup]]
+[[Category:Russia at the 2014 FIFA World Cup]]
+[[Category:South Korea at the 2014 FIFA World Cup]]
+[[Category:Football competitions in Belo Horizonte]]
+[[Category:21st century in Belo Horizonte]]
+[[Category:Cuiabá]]
+[[Category:Football in Mato Grosso]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in Rio de Janeiro (city)]]
+[[Category:2014 in Rio de Janeiro (city)]]
+[[Category:Football competitions in Porto Alegre]]
+[[Category:21st century in Porto Alegre]]
+[[Category:International sports competitions in São Paulo]]
+[[Category:Football competitions in São Paulo (city)]]
+[[Category:2010s in São Paulo]]
+[[Category:Sport in Curitiba]]
+[[Category:Football in Paraná (state)]]
+[[Category:21st century in Curitiba]]

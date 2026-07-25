@@ -1,0 +1,944 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group E of the [[2010 FIFA World Cup]]''' began on 14 June and ended on 24 June 2010.<ref>{{cite press release |title=Match Schedule 2010 FIFA World Cup South Africa |url=https://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |archive-url=https://web.archive.org/web/20091228213032/http://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |url-status=dead |archive-date=28 December 2009 |website=FIFA.com |publisher=Fédération Internationale de Football Association |accessdate=6 December 2009 }}</ref> The group consisted of the [[Netherlands national football team|Netherlands]], [[Denmark national football team|Denmark]], [[Japan national football team|Japan]] and [[Cameroon national football team|Cameroon]]. None of these teams had previously met in a World Cup group stage.
+
+Cameroon was the first team to be eliminated in the World Cup, following their 2–1 defeat by Denmark on 19 June 2010.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|title=
+|showteam=
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/southafrica2010/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=NED
+|team2=JPN
+|team3=DEN
+|team4=CMR
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2010 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_NED=3 |draw_NED=0 |loss_NED=0 |gf_NED=5 |ga_NED=1
+|win_JPN=2 |draw_JPN=0 |loss_JPN=1 |gf_JPN=4 |ga_JPN=2
+|win_DEN=1 |draw_DEN=0 |loss_DEN=2 |gf_DEN=3 |ga_DEN=6
+|win_CMR=0 |draw_CMR=0 |loss_CMR=3 |gf_CMR=2 |ga_CMR=5
+
+|name_NED={{fb|NED}}
+|name_JPN={{fb|JPN}}
+|name_DEN={{fb|DEN}}
+|name_CMR={{fb|CMR}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2010 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+* Netherlands advanced to play [[Slovakia national football team|Slovakia]] (runner-up of [[2010 FIFA World Cup Group F|Group F]]) in the [[2010 FIFA World Cup knockout stage#Netherlands vs Slovakia|round of 16]].
+* Japan advanced to play [[Paraguay national football team|Paraguay]] (winner of [[2010 FIFA World Cup Group F|Group F]]) in the [[2010 FIFA World Cup knockout stage#Paraguay vs Japan|round of 16]].
+
+==Matches==
+''All times local ([[UTC+02:00|UTC+2]])''
+
+===Netherlands vs Denmark===
+<onlyinclude>{{#invoke:Football box|main|section=e1
+|date={{Start date|2010|6|14|df=y}}
+|time=13:30
+|team1={{fb-rt|NED}}
+|score={{score link|2010 FIFA World Cup Group E#Netherlands vs Denmark|2–0}}
+|team2={{fb|DEN}}
+|goals1=
+*[[Daniel Agger|Agger]] {{goal|46|o.g.}}
+*[[Dirk Kuyt|Kuyt]] {{goal|85}}
+|goals2=
+|stadium=[[Soccer City]], [[Johannesburg]]
+|attendance=83,465
+|referee=[[Stéphane Lannoy]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061478 |title=Netherlands vs Denmark {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061478/report.html |title=2010 FIFA World Cup South Africa – Matches – Netherlands v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170922002227/http://www.fifa.com/worldcup/matches/round=249722/match=300061478/report.html |archive-date=22 September 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/458cc3be7b0828fd/original/hm8ehnqa7hhlihr5r7fw-pdf.pdf |title=Match Report – Group E – Netherlands v Denmark |publisher=[[FIFA]] |date=14 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055432/https://digitalhub.fifa.com/m/458cc3be7b0828fd/original/hm8ehnqa7hhlihr5r7fw-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ned10h
+ |pattern_b  = _ned10H
+ |pattern_ra = _ned10h
+ |pattern_sh = _manutd1011a
+ |pattern_so = _band_black
+ |leftarm    = FF5F00
+ |body       = FF5F00
+ |rightarm   = FF5F00
+ |shorts     = 000000
+ |socks      = FF5F00
+ |title      = Netherlands<ref name="ned-den_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/11b1e20fb5313ab9/original/j2nr4wzbzzrs7sltpkoq-pdf.pdf |title=Tactical Line-up – Group E – Netherlands v Denmark |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 June 2010 |access-date=14 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172019/https://digitalhub.fifa.com/m/11b1e20fb5313ab9/original/j2nr4wzbzzrs7sltpkoq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _den10a
+ |pattern_b  = _den10a
+ |pattern_ra = _den10a
+ |pattern_sh = _adidaswhite
+ |pattern_so = _color_3_stripes_red
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Denmark<ref name="ned-den_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Maarten Stekelenburg]]
+|-
+|RB ||'''2''' ||[[Gregory van der Wiel]]
+|-
+|CB ||'''3''' ||[[John Heitinga]]
+|-
+|CB ||'''4''' ||[[Joris Mathijsen]]
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Mark van Bommel]]
+|-
+|CM ||'''8''' ||[[Nigel de Jong]] || {{yel|44}} || {{suboff|88}}
+|-
+|RW ||'''7''' ||[[Dirk Kuyt]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]]
+|-
+|LW ||'''23'''||[[Rafael van der Vaart]] || || {{suboff|67}}
+|-
+|CF ||'''9''' ||[[Robin van Persie]] || {{yel|49}} || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Eljero Elia]] || || {{subon|67}}
+|-
+|MF ||'''20'''||[[Ibrahim Afellay]] || || {{subon|77}}
+|-
+|MF ||'''14'''||[[Demy de Zeeuw]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Bert van Marwijk]]
+|}
+|valign="top"|[[File:NED-DEN 2010-06-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thomas Sørensen]]
+|-
+|RB ||'''6''' ||[[Lars Jacobsen]]
+|-
+|CB ||'''4''' ||[[Daniel Agger]]
+|-
+|CB ||'''3''' ||[[Simon Kjær]] || {{yel|63}}
+|-
+|LB ||'''15'''||[[Simon Poulsen]]
+|-
+|RM ||'''20'''||[[Thomas Enevoldsen]] || || {{suboff|56}}
+|-
+|CM ||'''2''' ||[[Christian Poulsen]]
+|-
+|CM ||'''12'''||[[Thomas Kahlenberg]] || || {{suboff|73}}
+|-
+|LM ||'''10'''||[[Martin Jørgensen]] ([[Captain (association football)|c]])
+|-
+|SS ||'''19'''||[[Dennis Rommedahl]]
+|-
+|CF ||'''11'''||[[Nicklas Bendtner]] || || {{suboff|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Jesper Grønkjær]] || || {{subon|56}}
+|-
+|FW ||'''17'''||[[Mikkel Beckmann]] || || {{subon|62}}
+|-
+|MF ||'''21'''||[[Christian Eriksen]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Morten Olsen]]
+|}
+|}
+[[File:Netherlands - Denmark WC2010.jpg|thumb|Netherlands vs Denmark]]
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Wesley Sneijder]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf |title=2010 FIFA World Cup South Africa Match Appointments |date=24 June 2010 |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100705072219/http://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf| archive-date= 5 July 2010 | url-status= dead}}</ref>
+<br />Eric Dansault ([[French Football Federation|France]])
+<br />Laurent Ugo ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Paolo Calcagno ([[Italian Football Federation|Italy]])
+|}
+
+===Japan vs Cameroon===
+On the 39th minute, from a surprising [[Daisuke Matsui]] cross from the right wing, [[Keisuke Honda]] chipped in and delivered home to give Japan the lead, a lead which Japan would successfully defend for the remainder of the match.
+
+The win for Japan was their first World Cup win away from home soil, and it was also the first time Cameroon was defeated in a World Cup opening match. This defeat was a huge shock at the time, due to Japan's poor friendly results and their relatively unknown squad versus to that of Cameroon.
+
+<onlyinclude>{{#invoke:Football box|main|section=e2
+|date={{Start date|2010|6|14|df=y}}
+|time=16:00
+|team1={{fb-rt|JPN}}
+|score={{score link|2010 FIFA World Cup Group E#Japan vs Cameroon|1–0}}
+|team2={{fb|CMR}}
+|goals1=
+*[[Keisuke Honda|Honda]] {{goal|39}}
+|goals2=
+|stadium=[[Free State Stadium]], [[Bloemfontein]]
+|attendance=30,620
+|referee=[[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061477 |title=Japan vs Cameroon {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061477/report.html |title=2010 FIFA World Cup South Africa – Matches – Japan v Cameroon |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210101730/http://www.fifa.com/worldcup/matches/round=249722/match=300061477/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/740afeb63669a4b9/original/l3mwte3dv1dggkrpm9wb-pdf.pdf |title=Match Report – Group E – Japan v Cameroon |publisher=[[FIFA]] |date=14 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055446/https://digitalhub.fifa.com/m/740afeb63669a4b9/original/l3mwte3dv1dggkrpm9wb-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jap10h
+ |pattern_b  = _jap10h
+ |pattern_ra = _jap10h
+ |pattern_sh = _adidasonwhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="jpn-cmr_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/34a6c03fbcba04ca/original/gyn9tm2ljdlgarxv06qf-pdf.pdf |title=Tactical Line-up – Group E – Japan v Cameroon |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 June 2010 |access-date=14 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172034/https://digitalhub.fifa.com/m/34a6c03fbcba04ca/original/gyn9tm2ljdlgarxv06qf-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _cam1012a
+ |pattern_b  = _cameroon2010a
+ |pattern_ra = _cam1012a
+ |pattern_sh = _cam1012a
+ |pattern_so = _redtop
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 008000
+ |title      = Cameroon<ref name="jpn-cmr_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Eiji Kawashima]]
+|-
+|RB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|CB ||'''22'''||[[Yuji Nakazawa]]
+|-
+|CB ||'''4''' ||[[Marcus Tulio Tanaka]]
+|-
+|LB ||'''3''' ||[[Yūichi Komano]]
+|-
+|DM ||'''2''' ||[[Yuki Abe]] || {{yel|90+1}}
+|-
+|RM ||'''8''' ||[[Daisuke Matsui]] || || {{suboff|69}}
+|-
+|CM ||'''18'''||[[Keisuke Honda]]
+|-
+|CM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]]) || || {{suboff|88}}
+|-
+|LM ||'''7''' ||[[Yasuhito Endō]]
+|-
+|CF ||'''16'''||[[Yoshito Ōkubo]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Shinji Okazaki]] || || {{subon|69}}
+|-
+|FW ||'''12'''||[[Kisho Yano]] || || {{subon|82}}
+|-
+|MF ||'''20'''||[[Junichi Inamoto]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Takeshi Okada]]
+|}
+|valign="top"|[[File:JPN-CMR 2010-06-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Souleymanou Hamidou]]
+|-
+|RB ||'''19'''||[[Stéphane Mbia]]
+|-
+|CB ||'''3''' ||[[Nicolas N'Koulou]] || {{yel|72}}
+|-
+|CB ||'''5''' ||[[Sébastien Bassong]]
+|-
+|LB ||'''2''' ||[[Benoît Assou-Ekotto]]
+|-
+|RM ||'''21'''||[[Joël Matip]] || || {{suboff|63}}
+|-
+|CM ||'''11'''||[[Jean Makoun]] || || {{suboff|75}}
+|-
+|LM ||'''18'''||[[Eyong Enoh]]
+|-
+|RW ||'''9''' ||[[Samuel Eto'o]] ([[Captain (association football)|c]])
+|-
+|LW ||'''13'''||[[Eric Maxim Choupo-Moting]] || || {{suboff|75}}
+|-
+|CF ||'''15'''||[[Pierre Webó]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Achille Emana]] || || {{subon|63}}
+|-
+|MF ||'''8''' ||[[Geremi Njitap|Geremi]] || || {{subon|75}}
+|-
+|FW ||'''17'''||[[Mohammadou Idrissou]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA}} [[Paul Le Guen]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Keisuke Honda]] (Japan)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />José Cardinal ([[Portuguese Football Federation|Portugal]])
+<br />Bertino Miranda ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Abraham González ([[Colombian Football Federation|Colombia]])
+|}
+
+===Netherlands vs Japan===
+The first clear chance of the game came from midfielder [[Wesley Sneijder]] when he shot over the bar from a long-range free-kick. When Japan broke up the Netherlands' passing, midfielder [[Daisuke Matsui]] was positive, helping a move that set [[Yuto Nagatomo]] up for a shot that he hit wide. The Netherlands became frustrated, as they struggled to incorporate forward [[Robin van Persie]]. Towards the end of the first half, Japan had two chances: defender [[Marcus Tulio Tanaka]] heading wide and Matsui with a powerful shot at the goalkeeper.<ref name="jvnsummary">{{cite news |first=Chris |last=Whyatt |title=Netherlands 1-0 Japan |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_24 |work=BBC Sport |publisher=British Broadcasting Corporation |date=19 June 2010 |accessdate=19 June 2010 | archiveurl= https://web.archive.org/web/20100619185248/http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_24| archivedate= 19 June 2010 | url-status= live}}</ref>
+
+Throughout the second half, Van Persie managed to break free twice. In the 52 minute, as the ball came into the penalty area, the Dutch number 9 moved the ball towards Sneijder, who shot the ball powerfully towards the goal, scoring via a deflection from the goalkeeper, [[Eiji Kawashima]]. Substitute [[Shunsuke Nakamura]] later managed to make a cross into the six-yard box, which was cleared by Van Persie. Dutch substitute [[Eljero Elia]], managed to set up [[Ibrahim Afellay]] with a one-on-one with goalkeeper Kawashima, but Kawashima prevented him from scoring a goal. One minute before the end of the game, [[Shinji Okazaki]] missed a shot from {{convert|10|yard}}; shooting over the bar. Soon after this, [[Yuto Nagatomo]] went down in the penalty area claiming a penalty, from a challenge by Dutch [[Nigel de Jong]], but the referee turned down his appeals.<ref name="jvnsummary"/>
+
+The result was the Netherlands' second win in the competition, which meant that they would progress to the knockout stage if they did not lose their last match or Cameroon did not defeat Denmark. Cameroon would later on lose to Denmark, which meant that the Dutch were through and Cameroon were out after two matches.
+
+<onlyinclude>{{#invoke:Football box|main|section=e3
+|date={{Start date|2010|6|19|df=y}}
+|time=13:30
+|team1={{fb-rt|NED}}
+|score={{score link|2010 FIFA World Cup Group E#Netherlands vs Japan|1–0}}
+|team2={{fb|JPN}}
+|goals1=
+*[[Wesley Sneijder|Sneijder]] {{goal|53}}
+|goals2=
+|stadium=[[Moses Mabhida Stadium]], [[Durban]]
+|attendance=62,010
+|referee=[[Héctor Baldassi]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300111117 |title=Netherlands vs Japan {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300111117/report.html |title=2010 FIFA World Cup South Africa – Matches – Netherlands v Japan |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210104015/http://www.fifa.com/worldcup/matches/round=249722/match=300111117/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/744a3160c269286d/original/cnfsau05noxkvtidbmzq-pdf.pdf |title=Match Report – Group E – Netherlands v Japan |publisher=[[FIFA]] |date=19 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055808/https://digitalhub.fifa.com/m/744a3160c269286d/original/cnfsau05noxkvtidbmzq-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ned10h
+ |pattern_b  = _ned10H
+ |pattern_ra = _ned10h
+ |pattern_sh = _manutd1011a
+ |pattern_so = _band_black
+ |leftarm    = FF5F00
+ |body       = FF5F00
+ |rightarm   = FF5F00
+ |shorts     = 000000
+ |socks      = FF5F00
+ |title      = {{nowrap|Netherlands}}<ref name="ned-jpn_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/489182ec59346eb4/original/urkjdfqvbnbpm7jr3and-pdf.pdf |title=Tactical Line-up – Group E – Netherlands v Japan |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 June 2010 |access-date=19 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172334/https://digitalhub.fifa.com/m/489182ec59346eb4/original/urkjdfqvbnbpm7jr3and-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _jap10a
+ |pattern_b  = _jap10a
+ |pattern_ra = _jap10a
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_on_white
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="ned-jpn_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Maarten Stekelenburg]]
+|-
+|RB ||'''2''' ||[[Gregory van der Wiel]] || {{yel|36}}
+|-
+|CB ||'''3''' ||[[John Heitinga]]
+|-
+|CB ||'''4''' ||[[Joris Mathijsen]]
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Mark van Bommel]]
+|-
+|CM ||'''8''' ||[[Nigel de Jong]]
+|-
+|RW ||'''7''' ||[[Dirk Kuyt]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]] || || {{suboff|83}}
+|-
+|LW ||'''23'''||[[Rafael van der Vaart]] || || {{suboff|72}}
+|-
+|CF ||'''9''' ||[[Robin van Persie]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Eljero Elia]] || || {{subon|72}}
+|-
+|MF ||'''20'''||[[Ibrahim Afellay]] || || {{subon|83}}
+|-
+|FW ||'''21'''||[[Klaas-Jan Huntelaar]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Bert van Marwijk]]
+|}
+|valign="top"|[[File:NED-JPN 2010-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Eiji Kawashima]]
+|-
+|RB ||'''3''' ||[[Yūichi Komano]]
+|-
+|CB ||'''22'''||[[Yuji Nakazawa]]
+|-
+|CB ||'''4''' ||[[Marcus Tulio Tanaka]]
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|DM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]]) || || {{suboff|77}}
+|-
+|CM ||'''2''' ||[[Yuki Abe]]
+|-
+|CM ||'''7''' ||[[Yasuhito Endō]]
+|-
+|RW ||'''8''' ||[[Daisuke Matsui]] || || {{suboff|64}}
+|-
+|LW ||'''16'''||[[Yoshito Ōkubo]] || || {{suboff|77}}
+|-
+|CF ||'''18'''||[[Keisuke Honda]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Shunsuke Nakamura]] || || {{subon|64}}
+|-
+|FW ||'''9''' ||[[Shinji Okazaki]] || || {{subon|77}}
+|-
+|FW ||'''11'''||[[Keiji Tamada]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Takeshi Okada]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Wesley Sneijder]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Ricardo Casas ([[Argentine Football Association|Argentina]])
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martin Hansson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Henrik Andrén ([[Swedish Football Association|Sweden]])
+|}
+
+===Cameroon vs Denmark===
+<onlyinclude>{{#invoke:Football box|main|section=e4
+|date={{Start date|2010|6|19|df=y}}
+|time=20:30
+|team1={{fb-rt|CMR}}
+|score={{score link|2010 FIFA World Cup Group E#Cameroon vs Denmark|1–2}}
+|team2={{fb|DEN}}
+|goals1=
+*[[Samuel Eto'o|Eto'o]] {{goal|10}}
+|goals2=
+*[[Nicklas Bendtner|Bendtner]] {{goal|33}}
+*[[Dennis Rommedahl|Rommedahl]] {{goal|61}}
+|stadium=[[Loftus Versfeld Stadium]], [[Pretoria]]
+|attendance=38,074
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061475 |title=Cameroon vs Denmark {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061475/report.html |title=2010 FIFA World Cup South Africa – Matches – Cameroon v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210105242/http://www.fifa.com/worldcup/matches/round=249722/match=300061475/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5a4e7d1f41f19e3b/original/deoqpe6tm8imqygbo8g0-pdf.pdf |title=Match Report – Group E – Cameroon v Denmark |publisher=[[FIFA]] |date=19 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055836/https://digitalhub.fifa.com/m/5a4e7d1f41f19e3b/original/deoqpe6tm8imqygbo8g0-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cam1012h
+ |pattern_b  = _cameroon2010h
+ |pattern_ra = _cam1012h
+ |pattern_sh = _cam1012h
+ |pattern_so = _redtop
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = FF0000
+ |socks      = FFFF00
+ |title      = Cameroon<ref name="cmr-den_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2b475f87498ee3a/original/t9gcssz0dncnapp44dgp-pdf.pdf |title=Tactical Line-up – Group E – Cameroon v Denmark |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 June 2010 |access-date=19 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172344/https://digitalhub.fifa.com/m/2b475f87498ee3a/original/t9gcssz0dncnapp44dgp-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _den10a
+ |pattern_b  = _den10a
+ |pattern_ra = _den10a
+ |pattern_sh = _adidasred
+ |pattern_so = _color_3_stripes_red
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Denmark<ref name="cmr-den_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Souleymanou Hamidou]]
+|-
+|RB ||'''19'''||[[Stéphane Mbia]] || {{yel|75}}
+|-
+|CB ||'''3''' ||[[Nicolas N'Koulou]]
+|-
+|CB ||'''5''' ||[[Sébastien Bassong]] || {{yel|49}} || {{suboff|72}}
+|-
+|LB ||'''2''' ||[[Benoît Assou-Ekotto]]
+|-
+|CM ||'''8''' ||[[Geremi Njitap|Geremi]]
+|-
+|CM ||'''18'''||[[Eyong Enoh]]|| || {{suboff|46}}
+|-
+|RW ||'''6''' ||[[Alex Song]]
+|-
+|LW ||'''10'''||[[Achille Emana]]
+|-
+|SS ||'''15'''||[[Pierre Webó]] || || {{suboff|78}}
+|-
+|CF ||'''9''' ||[[Samuel Eto'o]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Jean Makoun]] || || {{subon|46}}
+|-
+|FW ||'''17'''||[[Mohammadou Idrissou]] || || {{subon|72}}
+|-
+|FW ||'''23'''||[[Vincent Aboubakar]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Paul Le Guen]]
+|}
+|valign="top"|[[File:CMR-DEN 2010-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thomas Sørensen]] || {{yel|86}}
+|-
+|RB ||'''6''' ||[[Lars Jacobsen]]
+|-
+|CB ||'''3''' ||[[Simon Kjær]] || {{yel|87}}
+|-
+|CB ||'''4''' ||[[Daniel Agger]]
+|-
+|LB ||'''15'''||[[Simon Poulsen]]
+|-
+|CM ||'''2''' ||[[Christian Poulsen]]
+|-
+|CM ||'''10'''||[[Martin Jørgensen]] || || {{suboff|46}}
+|-
+|RW ||'''19'''||[[Dennis Rommedahl]]
+|-
+|AM ||'''9''' ||[[Jon Dahl Tomasson]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|-
+|LW ||'''8''' ||[[Jesper Grønkjær]] || || {{suboff|67}}
+|-
+|CF ||'''11'''||[[Nicklas Bendtner]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Daniel Jensen]] || || {{subon|46}}
+|-
+|MF ||'''12'''||[[Thomas Kahlenberg]] || || {{subon|67}}
+|-
+|MF ||'''14'''||[[Jakob Poulsen]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Morten Olsen]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Daniel Agger]] (Denmark)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Pablo Fandino ([[Uruguayan Football Association|Uruguay]])
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Brent Best ([[New Zealand Football|New Zealand]])
+|}
+
+===Denmark vs Japan===
+Japan opened the scoring in the 17th minute from a direct free kick taken by [[Keisuke Honda]] – only the second goal scored from a free kick in the tournament.<ref>{{cite news |first=Sam |last=Sheringham |title=Denmark 1-3 Japan |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_43 |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 June 2010 |accessdate=25 June 2010 | archiveurl= https://web.archive.org/web/20100624033840/http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_43| archivedate= 24 June 2010 | url-status= live}}</ref> Honda, standing to Danish keeper [[Thomas Sørensen]]'s left, kicked the ball with great force; Sørensen initially moved to his left, and as the ball sailed past the wall, he shifted direction, but could not recover in time to make the save. Japan's second goal came thirteen minutes later, also from a direct free kick, this time by [[Yasuhito Endō]]. Standing outside the penalty area directly in front of the Danish goal, he curled the ball around the wall. Sørensen had been standing on the right side of his goal and could not move to his left fast enough. Endō almost scored from yet another free kick early in the second half. This time, Sørensen appeared to have difficulty judging the path of the ball, and was only able to palm it away at the last second, where it caromed off the goalpost.
+
+Denmark needed to win this game in order to advance and increased their attacks accordingly. Late in the second half, [[Christian Eriksen]] put his shot over the goal and [[Søren Larsen]] hit the goalpost. They were finally able to score in the 82nd minute. When [[Makoto Hasebe]] was adjudged to have fouled [[Daniel Agger]] inside the penalty area, Denmark were awarded a penalty kick. [[Jon Dahl Tomasson]] took the shot, which was saved by [[Eiji Kawashima]]; the goalkeeper, however, was unable to control the rebound, which fell to Tomasson, and he was able to put it in the goal. Japan scored their final goal in the 87th minute. Honda dribbled into the penalty area, forcing Sørensen to attempt to block a potential shot, but Honda passed it to substitute [[Shinji Okazaki]], who merely had to put the ball into an empty net.
+
+The victory was Japan's second World Cup tournament victory on foreign soil, and only their second against a European team. Japan finished group play in second place with six points, and advanced to the knockout round for the second time in their history, and the first time on foreign soil.<ref>{{cite news |title=Honda drives Japan through |url=http://soccernet.espn.go.com/report?id=264059&cc=5739&ver=global |work=ESPNsoccernet |publisher=ESPN |date=24 June 2010 |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100628060817/http://soccernet.espn.go.com/report?id=264059&cc=5739&ver=global| archive-date= 28 June 2010 | url-status= dead}}</ref> Denmark ended in third with three points. This was the first time Denmark failed to get past the group stage in the World Cup.
+
+<onlyinclude>{{#invoke:Football box|main|section=e5
+|date={{Start date|2010|6|24|df=y}}
+|time=20:30
+|team1={{fb-rt|DEN}}
+|score={{score link|2010 FIFA World Cup Group E#Denmark vs Japan|1–3}}
+|team2={{fb|JPN}}
+|goals1=
+*[[Jon Dahl Tomasson|Tomasson]] {{goal|81}}
+|goals2=
+*[[Keisuke Honda|Honda]] {{goal|17}}
+*[[Yasuhito Endō|Endō]] {{goal|30}}
+*[[Shinji Okazaki|Okazaki]] {{goal|87}}
+|stadium=[[Royal Bafokeng Stadium]], [[Rustenburg, North West|Rustenburg]]
+|attendance=27,967
+|referee=[[Jerome Damon]] ([[South African Football Association|South Africa]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061474 |title=Denmark vs Japan {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061474/report.html |title=2010 FIFA World Cup South Africa – Matches – Denmark v Japan |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210103952/http://www.fifa.com/worldcup/matches/round=249722/match=300061474/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/62a2ae49ba52d908/original/yob6rqd6jd3osinmeobd-pdf.pdf |title=Match Report – Group E – Denmark v Japan |publisher=[[FIFA]] |date=24 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060353/https://digitalhub.fifa.com/m/62a2ae49ba52d908/original/yob6rqd6jd3osinmeobd-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _den10h
+ |pattern_b  = _den10h
+ |pattern_ra = _den10h
+ |pattern_sh = _adidasred
+ |pattern_so = _3_stripes_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Denmark<ref name="den-jpn_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/13fe0ec72c8dc80a/original/bmsuzgu1rlaafx0af7zj-pdf.pdf |title=Tactical Line-up – Group E – Denmark v Japan |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 June 2010 |access-date=24 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172722/https://digitalhub.fifa.com/m/13fe0ec72c8dc80a/original/bmsuzgu1rlaafx0af7zj-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _jap10h
+ |pattern_b  = _jap10h
+ |pattern_ra = _jap10h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="den-jpn_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Sørensen]]
+|-
+|RB ||'''6''' ||[[Lars Jacobsen]]
+|-
+|CB ||'''4''' ||[[Daniel Agger]]
+|-
+|CB ||'''13'''||[[Per Krøldrup]] || {{yel|29}} || {{suboff|56}}
+|-
+|LB ||'''15'''||[[Simon Poulsen]]
+|-
+|DM ||'''2''' ||[[Christian Poulsen]] || {{yel|48}}
+|-
+|CM ||'''10'''||[[Martin Jørgensen]] || || {{suboff|34}}
+|-
+|CM ||'''12'''||[[Thomas Kahlenberg]] || || {{suboff|63}}
+|-
+|AM ||'''9''' ||[[Jon Dahl Tomasson]] ([[Captain (association football)|c]])
+|-
+|AM ||'''19'''||[[Dennis Rommedahl]]
+|-
+|CF ||'''11'''||[[Nicklas Bendtner]] || {{yel|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Jakob Poulsen]] || || {{subon|34}}
+|-
+|FW ||'''18'''||[[Søren Larsen]] || || {{subon|56}}
+|-
+|MF ||'''21'''||[[Christian Eriksen]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Morten Olsen]]
+|}
+|valign="top"|[[File:DEN-JPN 2010-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Eiji Kawashima]]
+|-
+|RB ||'''3''' ||[[Yūichi Komano]]
+|-
+|CB ||'''22'''||[[Yuji Nakazawa]]
+|-
+|CB ||'''4''' ||[[Marcus Tulio Tanaka]]
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]] || {{yel|26}}
+|-
+|DM ||'''2''' ||[[Yuki Abe]]
+|-
+|CM ||'''8''' ||[[Daisuke Matsui]] || || {{suboff|74}}
+|-
+|CM ||'''7''' ||[[Yasuhito Endō]] || {{yel|12}} || {{suboff|90+1}}
+|-
+|RW ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]])
+|-
+|LW ||'''16'''||[[Yoshito Ōkubo]] || || {{suboff|88}}
+|-
+|CF ||'''18'''||[[Keisuke Honda]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Shinji Okazaki]] || || {{subon|74}}
+|-
+|DF ||'''15'''||[[Yasuyuki Konno]] || || {{subon|88}}
+|-
+|MF ||'''20'''||[[Junichi Inamoto]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Takeshi Okada]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Keisuke Honda]] (Japan)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Célestin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+<br />Enock Molefe ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martin Hansson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Henrik Andrén ([[Swedish Football Association|Sweden]])
+|}
+
+===Cameroon vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=e6
+|date={{Start date|2010|6|24|df=y}}
+|time=20:30
+|team1={{fb-rt|CMR}}
+|score={{score link|2010 FIFA World Cup Group E#Cameroon vs Netherlands|1–2}}
+|team2={{fb|NED}}
+|goals1=
+*[[Samuel Eto'o|Eto'o]] {{goal|65|pen.}}
+|goals2=
+*[[Robin van Persie|Van Persie]] {{goal|36}}
+*[[Klaas-Jan Huntelaar|Huntelaar]] {{goal|83}}
+|stadium=[[Cape Town Stadium]], [[Cape Town]]
+|attendance=63,093
+|referee=[[Pablo Pozo]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061473 |title=Cameroon vs Netherlands {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061473/report.html |title=2010 FIFA World Cup South Africa – Matches – Cameroon v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171001165337/http://www.fifa.com/worldcup/matches/round=249722/match=300061473/report.html |archive-date=1 October 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6873471bac943ef6/original/hk9hudqxmvly67g8iskk-pdf.pdf |title=Match Report – Group E – Cameroon v Netherlands |publisher=[[FIFA]] |date=24 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060310/https://digitalhub.fifa.com/m/6873471bac943ef6/original/hk9hudqxmvly67g8iskk-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cam1012h
+ |pattern_b  = _cameroon2010h
+ |pattern_ra = _cam1012h
+ |pattern_sh = _cam1012h
+ |pattern_so = _redtop
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = FF0000
+ |socks      = FFFF00
+ |title      = Cameroon<ref name="cmr-ned_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6986c0dfc947582d/original/crtd0m44tqolmcreob80-pdf.pdf |title=Tactical Line-up – Group E – Cameroon v Netherlands |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 June 2010 |access-date=24 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172749/https://digitalhub.fifa.com/m/6986c0dfc947582d/original/crtd0m44tqolmcreob80-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ned10a
+ |pattern_b  = _ned10A
+ |pattern_ra = _ned10a
+ |pattern_sh = _ned10a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Netherlands}} <ref name="cmr-ned_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Souleymanou Hamidou]]
+|-
+|RB ||'''8''' ||[[Geremi Njitap|Geremi]]
+|-
+|CB ||'''19'''||[[Stéphane Mbia]] || {{yel|81}}
+|-
+|CB ||'''3''' ||[[Nicolas N'Koulou]] || {{yel|25}} || {{suboff|73}}
+|-
+|LB ||'''2''' ||[[Benoît Assou-Ekotto]]
+|-
+|CM ||'''14'''||[[Aurélien Chedjou]]
+|-
+|CM ||'''7''' ||[[Landry N'Guémo]]
+|-
+|RW ||'''11'''||[[Jean Makoun]]
+|-
+|LW ||'''12'''||[[Gaëtan Bong]] || || {{suboff|56}}
+|-
+|CF ||'''9''' ||[[Samuel Eto'o]] ([[Captain (association football)|c]])
+|-
+|CF ||'''13'''||[[Eric Maxim Choupo-Moting]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''23'''||[[Vincent Aboubakar]] || || {{subon|56}}
+|-
+|FW ||'''17'''||[[Mohammadou Idrissou]] || || {{subon|72}}
+|-
+|DF ||'''4''' ||[[Rigobert Song]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Paul Le Guen]]
+|}
+|valign="top"|[[File:CMR-NED 2010-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Maarten Stekelenburg]]
+|-
+|RB ||'''12'''||[[Khalid Boulahrouz]]
+|-
+|CB ||'''3''' ||[[John Heitinga]]
+|-
+|CB ||'''4''' ||[[Joris Mathijsen]]
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]] ([[Captain (association football)|c]]) || {{yel|70}}
+|-
+|CM ||'''6''' ||[[Mark van Bommel]]
+|-
+|CM ||'''8''' ||[[Nigel de Jong]]
+|-
+|RW ||'''7''' ||[[Dirk Kuyt]] || {{yel|17}} || {{suboff|66}}
+|-
+|AM ||'''10'''||[[Wesley Sneijder]]
+|-
+|LW ||'''23'''||[[Rafael van der Vaart]] || {{yel|65}} || {{suboff|73}}
+|-
+|CF ||'''9''' ||[[Robin van Persie]] || || {{suboff|59}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Klaas-Jan Huntelaar]] || || {{subon|59}}
+|-
+|FW ||'''17'''||[[Eljero Elia]] || || {{subon|66}}
+|-
+|FW ||'''11'''||[[Arjen Robben]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Bert van Marwijk]]
+|}
+|}
+[[File:FIFA World Cup 2010 Netherlands Cameroon.jpg|thumb|The [[Netherlands national football team|Netherlands]] and [[Cameroon national football team|Cameroon]] teams line up prior to the game.]]
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Robin van Persie]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Patricio Basualto ([[Football Federation of Chile|Chile]])
+<br />Francisco Mondria ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Khalil Al Ghamdi]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Saleh Al Marzouqi ([[United Arab Emirates Football Association|United Arab Emirates]])
+|}
+
+==See also==
+*[[Cameroon at the FIFA World Cup]]
+*[[Denmark at the FIFA World Cup]]
+*[[Japan at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:2010 FIFA World Cup group stage|E]]
+[[Category:Netherlands at the 2010 FIFA World Cup|Group]]
+[[Category:Denmark at the 2010 FIFA World Cup|Group]]
+[[Category:Japan at the 2010 FIFA World Cup]]
+[[Category:Cameroon at the 2010 FIFA World Cup]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Sport in Bloemfontein]]
+[[Category:Sports competitions in the Free State (province)]]
+[[Category:Sports competitions in Durban]]
+[[Category:Sports competitions in Pretoria]]
+[[Category:Rustenburg]]
+[[Category:Sports competitions in North West (South African province)]]
+[[Category:Sports competitions in Cape Town]]
+[[Category:2010s in Cape Town]]

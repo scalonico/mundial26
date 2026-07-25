@@ -1,0 +1,213 @@
+{{short description|Semi-final of the 1970 FIFA World Cup}}
+{{redirect|Game of the Century (football)|other uses|Game of the Century (disambiguation){{!}}Game of the Century}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title            = 1970 FIFA World Cup<br>Semi-final
+| image            = Commemorative plaque Aztec Stadium.jpg
+| caption          = The plaque commemorating the match at the Estadio Azteca in Mexico City
+| event            = [[1970 FIFA World Cup]]
+| team1            = [[Italy national football team|Italy]]
+| team1association = {{flagicon|ITA|1946|size=30px}}
+| team1score       = 4
+| team2            = [[Germany national football team|West Germany]]
+| team2association = {{flagicon|FRG|size=30px}}
+| team2score       = 3 
+| details          = After [[Overtime (sports)#Association football|extra time]]
+| date             = {{Start date|1970|06|17|df=y}}
+| stadium          = [[Estadio Azteca]]
+| city             = Mexico City
+| referee          = [[Arturo Yamasaki]] ([[Mexican Football Federation|Mexico]])
+| attendance       = 102,444
+}}
+
+The [[semi-final]] of the [[1970 FIFA World Cup]] between [[Italy national football team|Italy]] and [[Germany national football team|West Germany]] has been called the "'''Game of the Century'''"<ref>{{cite book |last1=Cantor |first1=Andres |title=Goooal! : a celebration of soccer |date=1997 |publisher=Simon and Schuster |location=New York |isbn=978-0-684-83340-8 |edition=Fireside}}</ref><ref>{{cite web|url=https://www.telegraph.co.uk/sport/football/teams/germany/9361429/Euro-2012-five-classic-tournament-matches-between-Germany-and-Italy-including-the-Game-of-the-Century.html|title=Euro 2012: five classic tournament matches between Germany and Italy including the 'Game of the Century'|publisher=telegraph.co.uk|author=Matt Wagg|date=28 June 2012|access-date=27 April 2016}}</ref> ({{langx|es|Partido del Siglo}}; {{langx|it|Partita del secolo}}; {{langx|de|Jahrhundertspiel}}). It was played on 17 June 1970 at the ''[[Estadio Azteca]]'' in [[Mexico City]]. Italy won 4–3 after five of the seven goals were scored in [[extra time]], the record for most goals scored during extra time in a [[FIFA World Cup]] game. The result eliminated West Germany from the tournament while Italy went on to lose to Brazil in [[1970 FIFA World Cup Final|the final]].
+
+==Match==
+
+===Summary===
+Italy led 1–0 for the majority of the match, after [[Roberto Boninsegna]] scored in the 8th minute. In the 70th minute, West German defender [[Franz Beckenbauer]] dislocated his shoulder, but stayed on the field carrying his dislocated arm in a sling, as his side had already used their two permitted substitutions.<ref>{{cite web|url=https://www.fifa.com/u20womensworldcup/news/y=2007/m=4/news=der-kaiser-the-brains-behind-germany-503637.html|archive-url=https://web.archive.org/web/20160409234351/http://www.fifa.com/u20womensworldcup/news/y=2007/m=4/news=der-kaiser-the-brains-behind-germany-503637.html|url-status=dead|archive-date=9 April 2016|title=Der Kaiser, the brains behind Germany|access-date=24 July 2009|work=[[FIFA]]}}</ref>
+
+Defender [[Karl-Heinz Schnellinger]] equalised for West Germany in the 90th minute. German television commentator [[Ernst Huberty]] famously exclaimed ''"Schnellinger, of all people!"'' (in German: ''"Schnellinger! Ausgerechnet Schnellinger!"''), since Schnellinger played in Italy's professional football league, [[Serie A]], at [[A.C. Milan]] (for whom he had never scored). It was also his first and only goal in a career total of 47 matches for the West Germany national team. At the end of regulation time, the score was level at 1–1, forcing the match into extra time.  Had the match remained drawn after extra time, lots would have been drawn to decide which team would progress to the final.<ref>{{cite journal |title=Drawing of lots -- that's how teams will be parted |journal=Evening Standard |location=London |date=1970-05-26 |page=43}}</ref>
+
+[[Gerd Müller]] put West Germany ahead in the 94th minute following a defensive error by [[Fabrizio Poletti]], who had just come on as a substitute, but [[Tarcisio Burgnich]] equalised only four minutes later, and then striker [[Gigi Riva]] put the Italians in front again with a superb goal. Müller scored yet again, this time with a header, for West Germany to tie the score at 3–3. Yet, as the live television coverage was still replaying Müller's goal, Italian midfielder [[Gianni Rivera]] scored what proved to be the match-winning goal in the 111th minute. Being left unmarked near the penalty area, Rivera had connected perfectly with a fine cross made by Boninsegna, clinching the victory for Italy at 4–3.<ref>[https://web.archive.org/web/20150224151153/http://www.fifa.com/worldcup/matches/round=569/match=1838/index.html 1970 FIFA World Cup Mexico. Match report. Italy - Germany FR] [[FIFA.com]]</ref>
+
+===Details===
+<section begin=SF2 />{{Football box
+|date={{Start date|1970|6|17|df=y}}
+|time=16:00
+|team1={{fb-rt|ITA}}
+|score={{score link|1970 FIFA World Cup knockout stage#Italy vs West Germany|4–3|Italy v West Germany (1970 FIFA World Cup)}}
+|aet=yes
+|team2={{fb|FRG}}
+|goals1=
+*[[Roberto Boninsegna|Boninsegna]] {{goal|8}}
+*[[Tarcisio Burgnich|Burgnich]] {{goal|98}}
+*[[Gigi Riva|Riva]] {{goal|104}}
+*[[Gianni Rivera|Rivera]] {{goal|111}}
+|goals2=
+*[[Karl-Heinz Schnellinger|Schnellinger]] {{goal|90+2}}
+*[[Gerd Müller|Müller]] {{goal|94||110}}
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=102,444
+|referee=[[Arturo Yamasaki]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/569/1838 |title=Italy vs Germany FR {{!}} Semi-final {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=569/match=1838/index.html |title=1970 FIFA World Cup Mexico – Matches – Italy v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209233745/http://www.fifa.com/worldcup/matches/round=569/match=1838/index.html |archive-date=9 December 2017}} }}</ref>
+}}<section end=SF2 />
+<section begin=Line-ups />
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _white_bands
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Italy
+}}
+|{{Football kit
+| pattern_la = _blackborder
+ | pattern_b  = _vneckblack
+ | pattern_ra = _blackborder
+ | pattern_so = _blacktop 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enrico Albertosi]] || {{yel|73}}
+|-
+|RB ||'''2''' ||[[Tarcisio Burgnich]]
+|-
+|CB ||'''8''' ||[[Roberto Rosato]] || {{yel|38}} || {{suboff|91}}
+|-
+|CB ||'''5''' ||[[Pierluigi Cera]]
+|-
+|LB ||'''3''' ||[[Giacinto Facchetti]] ([[Captain (association football)|c]])
+|-
+|DM ||'''10'''||[[Mario Bertini]]
+|-
+|RM ||'''13'''||[[Angelo Domenghini]] || {{yel|114}}
+|-
+|CM ||'''16'''||[[Giancarlo De Sisti]] || {{yel|103}}
+|-
+|LM ||'''15'''||[[Sandro Mazzola]] || || {{suboff|46}}
+|-
+|CF ||'''20'''||[[Roberto Boninsegna]]
+|-
+|CF ||'''11'''||[[Gigi Riva]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Gianni Rivera]] || || {{subon|46}}
+|-
+|DF ||'''4''' ||[[Fabrizio Poletti]] || || {{subon|91}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Ferruccio Valcareggi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|SW ||'''5''' ||[[Willi Schulz]]
+|-
+|CB ||'''15'''||[[Bernd Patzke]] || || {{suboff|66}}
+|-
+|CB ||'''3''' ||[[Karl-Heinz Schnellinger]]
+|-
+|DM ||'''4''' ||[[Franz Beckenbauer]]
+|-
+|RM ||'''7''' ||[[Berti Vogts]]
+|-
+|LM ||'''17'''||[[Hannes Löhr]] || || {{suboff|52}}
+|-
+|AM ||'''12'''||[[Wolfgang Overath]] || {{yel|53}}
+|-
+|RF ||'''20'''||[[Jürgen Grabowski]]
+|-
+|CF ||'''13'''||[[Gerd Müller]] || {{yel|66}}
+|-
+|LF ||'''9''' ||[[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Reinhard Libuda]] || || {{subon|52}}
+|-
+|FW ||'''10'''||[[Sigfried Held]] || || {{subon|66}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Rafael Hormazábal Díaz]] ([[Chilean Football Federation|Chile]])
+<br />[[Guillermo Velásquez (referee)|Guillermo Velasquez]] ([[Colombian Football Federation|Colombia]])
+|}<section end=Line-ups />
+
+==Aftermath==
+West Germany went on to defeat Uruguay in the third-place game, 1–0.
+
+Italy, after having expended a great amount of energy in winning the match, was defeated by Brazil in the Final 4–1. Brazil thus became the first team to win three world football championships.
+
+A monument commemorating this match was added to front of the ''[[Estadio Azteca]]''. On a plaque the following sentence is engraved: 
+{{bquote|El Estadio Azteca rinde homenaje a las selecciones de: Italia (4) y Alemania (3) protagonistas en el Mundial de 1970, del "Partido del Siglo" 17 de junio de 1970. <br>
+''(English translation: "Azteca Stadium pays tribute to the national teams of Italy (4) and Germany (3), protagonists of the "Match of the Century" at the 1970 World Cup.")''}}
+
+==See also==
+*[[Germany–Italy football rivalry]]
+*[[1970 FIFA World Cup knockout stage]]
+*[[Germany at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [[John Motson|Motson, John]] (2006) [https://books.google.com/books?id=crVZxbMijpYC&dq=1970+world+cup+italy+4-3+west+germany&pg=PA33 Motson's World Cup Extravaganza GREAT GAMES: ITALY 4-3 WEST GERMANY, 1970]
+
+{{coord|19|18|12|N|99|9|2|W|type:event_region:MX|display=title}}
+
+{{1970 FIFA World Cup}}
+{{Italy national football team matches}}
+{{Germany national football team matches}}
+
+{{DEFAULTSORT:Italy 4-3 West Germany (1970 FIFA World Cup)}}
+[[Category:1970 FIFA World Cup]]
+[[Category:FIFA World Cup matches]]
+[[Category:Germany national football team matches|1970]]
+[[Category:Italy national football team matches|1969]]
+[[Category:Italy–West Germany relations|1970]]
+[[Category:West Germany at the 1970 FIFA World Cup]]
+[[Category:Italy at the 1970 FIFA World Cup|Germany]]
+[[Category:June 1970 sports events in North America]]
+[[Category:Nicknamed sporting events]]
+[[Category:Germany–Italy sports relations|1970]]
+[[Category:Men's international association football matches in North America]]
+[[Category:Football competitions in Mexico City]]
+[[Category:1970s in Mexico City]]
+[[Category:Football matches in Mexico]]

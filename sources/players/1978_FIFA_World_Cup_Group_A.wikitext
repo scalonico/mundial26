@@ -1,0 +1,705 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group A of the 1978 FIFA World Cup''' was one of two groups of nations competing for the [[De facto]] semi-finals  the [[1978 FIFA World Cup]]. The group's first round of matches began on 14 June and its last matches were played on 21 June. All six group matches were played either at the [[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]] in [[Córdoba, Argentina|Córdoba]], or the [[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]] in the capital [[Buenos Aires]]. The group consisted of [[Germany national football team|West Germany]] (the Defending Champions) as well as the [[Netherlands national football team|Netherlands]] (the former runners up), [[Italy national football team|Italy]] and [[Austria national football team|Austria]].<ref>{{cite web |url=https://www.rsssf.org/tables/78full.html |title=World Cup 1978 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The Netherlands advanced to the [[1978 FIFA World Cup final|final match]], and Italy advanced to the match for third place.<ref>{{cite web|title=World Cup Guide - 1978 Argentina|url=http://www.worldcupbrazil.net/world-cup-history/world-cup-70s-90s/1978-argentina/|work=worldcupbrazil.net|accessdate=5 July 2014|archive-date=1 March 2016|archive-url=https://web.archive.org/web/20160301152208/http://www.worldcupbrazil.net/world-cup-history/world-cup-70s-90s/1978-argentina/|url-status=dead}}</ref>
+
+==Qualified teams==
+The winners of Group 1 and 3 and the runners-up of Group 2 and 4 qualified for Group A of the second round.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+|-
+! [[1978 FIFA World Cup Group 1|1]]
+| {{fb|ITA|1946}}
+|-
+! [[1978 FIFA World Cup Group 3|3]]
+| {{fb|AUT}}
+|-
+! Group
+! width="150" | Runners-up
+|-
+! [[1978 FIFA World Cup Group 2|2]]
+| {{fb|FRG}}
+|-
+! [[1978 FIFA World Cup Group 4|4]]
+| {{fb|NED}}
+|}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150330175434/http://www.fifa.com/worldcup/archive/argentina1978/groups/index.html FIFA]
+
+|team1=NED |team2=ITA |team3=FRG |team4=AUT
+|result1=F |result2=TP
+
+|win_NED=2 |draw_NED=1 |loss_NED=0 |gf_NED=9 |ga_NED=4
+|win_ITA=1 |draw_ITA=1 |loss_ITA=1 |gf_ITA=2 |ga_ITA=2
+|win_FRG=0 |draw_FRG=2 |loss_FRG=1 |gf_FRG=4 |ga_FRG=5
+|win_AUT=1 |draw_AUT=0 |loss_AUT=2 |gf_AUT=4 |ga_AUT=8
+
+|name_FRG={{fb|FRG}}
+|name_ITA={{fb|ITA|1946}}
+|name_NED={{fb|NED}}
+|name_AUT={{fb|AUT}}
+
+|res_col_header=Q
+|col_F=green1 |text_F=Advance to [[1978 FIFA World Cup#Final|final]]
+
+|col_TP=blue1 |text_TP=Advance to {{nowrap|[[1978 FIFA World Cup#Match for third place|match for third place]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Austria vs Netherlands===
+After an unconvincing group stage performance the Netherlands knew they had to play better if they were to qualify for the finals, and took on surprise qualifiers Austria in their first game. They started well when an unmarked [[Ernie Brandts]] headed in [[Arie Haan]]'s free kick. The Dutch then won a penalty kick after [[Gerhard Breitenberger (footballer, born 1954)|Gerhard Breitenberger]] fouled [[Wim Jansen]] and [[Rob Rensenbrink]] neatly scored. Rensenbrink then took advantage of some poor defending to provide assist for [[Johnny Rep]] to score on either side of half time. Austria which created several chances and were unlucky to score in the first half got one back in the eightieth minute when defender [[Erich Obermayer]] scored a brilliant lob over the Dutch goalkeeper for a goal. The Dutch weren't to be deterred as Rensenbrink provided yet another assist this time [[Willy van de Kerkhof]] to score just two minutes later.<ref>{{cite web|title=Austria - Netherlands Match Report |url=http://www.planetworldcup.com/CUPS/1978/ph2gr1_hol_v_aut.html|work=Planet World Cup|accessdate=6 July 2014}}</ref><ref>{{cite web|title=World Cup History: Argentina 1978|url=http://www.sportal.com.au/football/world-cup-2014/world-cup-history-argentina-1978/8ryb0kgibwe0zzhi3z2urkxb|work=Sportal|accessdate=6 July 2014|archive-url=https://web.archive.org/web/20140714225832/http://www.sportal.com.au/football/world-cup-2014/world-cup-history-argentina-1978/8ryb0kgibwe0zzhi3z2urkxb|archive-date=14 July 2014|url-status=dead|df=dmy-all}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=A1
+|date={{Start date|1978|6|14|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|AUT}}
+|score={{score link|1978 FIFA World Cup Group A#Austria vs Netherlands|1–5}}
+|team2={{fb|NED}}
+|goals1=
+*[[Erich Obermayer|Obermayer]] {{goal|80}}
+|goals2=
+*[[Ernie Brandts|Brandts]] {{goal|6}}
+*[[Rob Rensenbrink|Rensenbrink]] {{goal|35|pen.}}
+*[[Johnny Rep|Rep]] {{goal|36||53}}
+*[[Willy van de Kerkhof|W. van de Kerkhof]] {{goal|82}}
+|stadium=[[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|attendance=25,050
+|referee=[[John Gordon (referee)|John Gordon]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2220 |title=Netherlands vs Austria {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2220/index.html |title=1978 FIFA World Cup Argentina – Matches – Netherlands v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227080122/http://www.fifa.com/worldcup/matches/round=279/match=2220/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92% |
+|-
+|{{Football kit
+|pattern_la = _blackshoulders
+|pattern_b  = _austria78h
+|pattern_ra = _blackshoulders
+|pattern_sh = _black_thinstripe_color
+|pattern_so = _austria1990_home
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = 000000
+|title      = Austria
+}}
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _netherlands80h
+| pattern_ra = _netherlands80h
+| pattern_sh = _netherlands1985h
+| pattern_so  = _netherlands80h
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FF5900
+| socks      = FF6000
+| title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' || [[Friedl Koncilia]]
+|-
+|DF ||'''2''' || [[Robert Sara]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3'''|| [[Erich Obermayer]]
+|-
+|DF ||'''4''' || [[Gerhard Breitenberger (footballer, born 1954)|Gerhard Breitenberger]]
+|-
+|DF ||'''5''' || [[Bruno Pezzey]]
+|-
+|MF ||'''7''' || [[Josef Hickersberger]]
+|-
+|MF ||'''8''' || [[Herbert Prohaska]]
+|-
+|MF ||'''11''' || [[Kurt Jara]]
+|-
+|MF ||'''12''' || [[Eduard Krieger]]
+|-
+|FW ||'''9''' || [[Hans Krankl]]
+|-
+|FW ||'''10'''|| [[Wilhelm Kreuz]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Senekowitsch]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Piet Schrijvers]]
+|-
+|DF || '''2''' || [[Jan Poortvliet]]
+|-
+|DF || '''5''' || [[Ruud Krol]] ([[Captain (association football)|c]])
+|-
+|DF || '''7''' || [[Piet Wildschut]]
+|-
+|DF || '''22''' || [[Ernie Brandts]] || || {{suboff|66}}
+|-
+|MF || '''6''' || [[Wim Jansen]]
+|-
+|MF || '''9''' || [[Arie Haan]]
+|-
+|MF|| '''10''' || [[René van de Kerkhof]] || || {{suboff|60}}
+|-
+|MF || '''11''' || [[Willy van de Kerkhof]]
+|-
+|FW || '''16''' || [[Johnny Rep]]
+|-
+|FW || '''12''' || [[Rob Rensenbrink]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF|| '''3''' || [[Dick Schoenaker]] || || {{subon|60}}
+|-
+|DF|| '''4''' || [[Adrie van Kraay]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|{{Flagicon|AUT}} [[Ernst Happel]]
+|}
+|}
+
+===Italy vs West Germany===
+{{see also|Germany–Italy football rivalry}}
+
+<onlyinclude>{{#invoke:Football box|main|section=A2
+|date={{Start date|1978|6|14|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1978 FIFA World Cup Group A#Italy vs West Germany|0–0}}
+|team2={{fb|FRG}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], [[Buenos Aires]]
+|attendance=67,547
+|referee=[[Dušan Maksimović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2349 |title=Germany FR vs Italy {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2349/index.html |title=1978 FIFA World Cup Argentina – Matches – Germany FR v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210010008/http://www.fifa.com/worldcup/matches/round=279/match=2349/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = 
+|pattern_b  = _ita70h
+|pattern_ra = 
+|pattern_so = _2whitestripes
+|leftarm    = 3120cc
+|body       = 3120cc
+|rightarm   = 3120cc
+|shorts     = ffffff
+|socks      = 3120cc
+|title      = Italy
+}}
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _westgermany78
+| pattern_ra = _blackborder
+| pattern_so = _blacktop
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Dino Zoff]] ([[Captain (association football)|c]])
+|-
+|DF || '''2''' || [[Mauro Bellugi]]
+|-
+|DF || '''3''' || [[Antonio Cabrini]]
+|-
+|DF || '''5''' || [[Claudio Gentile]]
+|-
+|DF || '''8''' || [[Gaetano Scirea]]
+|-
+|MF || '''9''' || [[Giancarlo Antognoni]] || || {{suboff|46}}
+|-
+|MF || '''10''' || [[Romeo Benetti]]
+|-
+|MF || '''14''' || [[Marco Tardelli]]
+|-
+|MF || '''16''' || [[Franco Causio]]
+|-
+|CF || '''18''' || [[Roberto Bettega]]
+|-
+|CF || '''21''' || [[Paolo Rossi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''15''' || [[Renato Zaccarelli]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Enzo Bearzot]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || [[Sepp Maier]]
+|-
+|DF ||'''2''' || [[Berti Vogts]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' || [[Bernard Dietz]]
+|-
+|DF ||'''4''' || [[Rolf Rüssmann]]
+|-
+|DF ||'''5''' || [[Manfred Kaltz]]
+|-
+|DF ||'''8''' ||[[Herbert Zimmermann (footballer)|Herbert Zimmerman]] || || {{suboff|53}}
+|-
+|MF ||'''6''' || [[Rainer Bonhof]]
+|-
+|MF ||'''10''' || [[Heinz Flohe]] || || {{suboff|68}}
+|-
+|MF ||'''17''' || [[Bernd Hoelzenbein]]
+|-
+|FW ||'''9''' || [[Klaus Fischer]]
+|-
+|FW ||'''11''' || [[Karl-Heinz Rummenigge]]
+|-
+|colspan=4|'''Substitute:'''
+|-
+|DF ||'''13''' || [[Harald Konopka]] || {{subon|53}}
+|-
+|MF ||'''15''' || [[Erich Beer]] || {{subon|68}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schoen]]
+|}
+|}
+
+===Netherlands vs West Germany===
+{{see also|Germany–Netherlands football rivalry}}
+
+This highly anticipated match was a repeat of the [[1974 FIFA World Cup Final]], with the Netherlands fielding six players who had played that day and West Germany four. The match official [[Ramón Barreto]] of Uruguay coincidentally had also been one of the linesmen at the 1974 final.
+
+The 1974 final had started with the Dutch scoring within two minutes, and in this match there was another early goal, although it went the Germans' way. The Dutch goaltender [[Piet Schrijvers]] could only parry [[Rainer Bonhof]]'s free kick right into the path of [[Rüdiger Abramczik]], who headed home. The Netherlands equalized around the thirty-minute mark when [[Arie Haan]] let fly from 35 yards and into the top corner.<ref>{{Cite web |url=http://easyweb.easynet.co.uk/~goldkeep/Holland78/WGermany.htm |title=Holland 1978 v West Germany |access-date=7 July 2014 |archive-url=https://web.archive.org/web/20140716205213/http://easyweb.easynet.co.uk/~goldkeep/Holland78/WGermany.htm |archive-date=16 July 2014 |url-status=dead |df=dmy-all }}</ref>
+
+Knowing a draw would be enough Netherlands refrained from taking chances in the second half. Against the run of play West Germany were awarded a soft free-kick, the Dutch were complaining with the referee and did not keep their concentration [[Erich Beer]] crossed for [[Dieter Müller]] to power in a header. The goal gave the Netherlands the momentum to score though and eight minutes from time [[René van de Kerkhof]] took a pass from his twin brother [[Willy van de Kerkhof|Willy]], cut inside a defender and smashed home. There would be a few more chances as [[Johnny Rep]] hit the woodwork and Schrijvers was forced to save from Beer.
+
+The match ended in bizarre fashion, with substitute [[Dick Nanninga]] shown a yellow card for an off the ball incident and then seconds later referee Barreto showing the same player a red card for apparently laughing at the decision to give him a card. It took five minutes to restore order on the field as the bewildered Nanninga was led off.
+
+<onlyinclude>{{#invoke:Football box|main|section=A3
+|date={{Start date|1978|6|18|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|NED}}
+|score={{score link|1978 FIFA World Cup Group A#Netherlands vs West Germany|2–2}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Arie Haan|Haan]] {{goal|27}}
+*[[René van de Kerkhof|R. van de Kerkhof]] {{goal|82}}
+|goals2=
+*[[Rüdiger Abramczik|Abramczik]] {{goal|3}}
+*[[Dieter Müller|D. Müller]] {{goal|70}}
+|stadium=[[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|attendance=40,750
+|referee=[[Ramón Barreto]] ([[Asociación Uruguaya de Fútbol|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2348 |title=Germany FR vs Netherlands {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2348/index.html |title=1978 FIFA World Cup Argentina – Matches – Germany FR v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227065924/http://www.fifa.com/worldcup/matches/round=279/match=2348/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _netherlands80h
+| pattern_ra = _netherlands80h
+| pattern_sh = _netherlands1985h
+| pattern_so  = _netherlands80h
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FF5900
+| socks      = FF6000
+| title      = Netherlands
+}}
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _westgermany78
+| pattern_ra = _blackborder
+| pattern_so = _blacktop
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Piet Schrijvers]]
+|-
+|DF || '''2''' || [[Jan Poortvliet]]
+|-
+|DF || '''5''' || [[Ruud Krol]] ([[Captain (association football)|c]])
+|-
+|DF || '''7''' || [[Piet Wildschut]] || || {{suboff|79}}
+|-
+|DF || '''22''' || [[Ernie Brandts]]
+|-
+|MF || '''6''' || [[Wim Jansen]]
+|-
+|MF || '''9''' || [[Arie Haan]]
+|-
+|MF|| '''10''' || [[René van de Kerkhof]]
+|-
+|MF || '''11''' || [[Willy van de Kerkhof]] || {{yel|6}}
+|-
+|FW || '''16''' || [[Johnny Rep]]
+|-
+|FW || '''12''' || [[Rob Rensenbrink]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW|| '''18''' || [[Dick Nanninga]] || {{sent off|1|87|88}} || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|{{Flagicon|AUT}} [[Ernst Happel]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || [[Sepp Maier]] || {{yel|84}}
+|-
+|DF ||'''2''' || [[Berti Vogts]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' || [[Bernard Dietz]]
+|-
+|DF ||'''4''' || [[Rolf Rüssmann]]
+|-
+|DF ||'''5''' || [[Manfred Kaltz]]
+|-
+|MF ||'''6''' || [[Rainer Bonhof]]
+|-
+|MF ||'''15'''|| [[Erich Beer]]
+|-
+|MF ||'''17'''|| [[Bernd Hölzenbein]]
+|-
+|FW ||'''7''' || [[Rüdiger Abramczik]]
+|-
+|FW ||'''11''' || [[Karl-Heinz Rummenigge]]
+|-
+|FW ||'''14''' || [[Dieter Müller]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|}
+
+===Italy vs Austria===
+
+<onlyinclude>{{#invoke:Football box|main|section=A4
+|date={{Start date|1978|6|18|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1978 FIFA World Cup Group A#Italy vs Austria|1–0}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Paolo Rossi|Rossi]] {{goal|13}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], [[Buenos Aires]]
+|attendance=66,695
+|referee=[[Francis Rion]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2221 |title=Italy vs Austria {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2221/index.html |title=1978 FIFA World Cup Argentina – Matches – Italy v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001750/http://www.fifa.com/worldcup/matches/round=279/match=2221/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _ita70h
+ |pattern_ra = 
+ |pattern_so = _color_2_stripes_blue
+ |leftarm    = 3120cc
+ |body       = 3120cc
+ |rightarm   = 3120cc
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Italy
+}}
+|{{Football kit
+|pattern_la = _blackshoulders
+|pattern_b  = _austria78h
+|pattern_ra = _blackshoulders
+|pattern_sh = _black_thinstripe_color
+|pattern_so = _austria1990_home
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = 000000
+|title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Dino Zoff]] ([[Captain (association football)|c]])
+|-
+|DF || '''2''' || [[Mauro Bellugi]] || || {{suboff|46}}
+|-
+|DF || '''3''' || [[Antonio Cabrini]]
+|-
+|DF || '''5''' || [[Claudio Gentile]]
+|-
+|DF || '''8''' || [[Gaetano Scirea]]
+|-
+|MF || '''10''' || [[Romeo Benetti]]
+|-
+|MF || '''14''' || [[Marco Tardelli]]
+|-
+|MF || '''15''' || [[Renato Zaccarelli]]
+|-
+|MF || '''16''' || [[Franco Causio]]
+|-
+|CF || '''18''' || [[Roberto Bettega]] || || {{suboff|72}}
+|-
+|CF || '''21''' || [[Paolo Rossi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''4''' || [[Antonello Cuccureddu]] || || {{subon|46}}
+|-
+|FW || '''19''' || [[Francesco Graziani]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Enzo Bearzot]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || [[Friedl Koncilia]]
+|-
+|DF ||'''2''' || [[Robert Sara]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' || [[Erich Obermayer]]
+|-
+|DF ||'''5''' || [[Bruno Pezzey]]
+|-
+|DF ||'''14''' || [[Heinrich Strasser]]
+|-
+|MF ||'''7''' || [[Josef Hickersberger]]
+|-
+|MF ||'''8''' || [[Herbert Prohaska]]
+|-
+|MF ||'''12''' || [[Eduard Krieger]]
+|-
+|FW ||'''9''' || [[Hans Krankl]]
+|-
+|FW ||'''10''' || [[Wilhelm Kreuz]]
+|-
+|FW ||'''18''' || [[Walter Schachner]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''19''' || [[Hans Pirkner]] || || {{subon|63}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Senekowitsch]]
+|}
+|}
+
+===Austria vs West Germany===
+{{main|Austria v West Germany (1978 FIFA World Cup)}}
+<onlyinclude>{{#invoke:transcludable section|main|section=A5|text={{#lst:Austria v West Germany (1978 FIFA World Cup)|A5}}}}</onlyinclude>
+{{#lst:Austria v West Germany (1978 FIFA World Cup)|Lineups}}
+
+===Italy vs Netherlands===
+This match was a semi-final in all but name with the winner being assured a place in the final, although the Netherlands could advance with a draw and a Germany draw or loss. Italy started the positive and scored when [[Ernie Brandts]] in an attempt to stop [[Roberto Bettega]] only succeeded in putting the ball into his own net. The goal would have consequences for the Netherlands as [[Piet Schrijvers]] was injured on the play and had to be stretchered off for [[Jan Jongbloed]]. Italy dominated the remainder of the first half. In a physical match [[Johnny Rep]] was cautioned for fouling [[Romeo Benetti]], who was later to pick up a yellow card himself for fouling Rensenbrink, meaning the Italian defender would miss the final should Italy reach it. Early in the second half [[Arie Haan]] was cautioned for a challenge on [[Marco Tardelli]] who later also picked up a yellow card meaning he too would miss Italy's next match. Some felt that [[Antonio Cabrini]]'s challenge on Haan many felt warranted a red card, not just a yellow. Shortly after half time Brandts, who had earlier scored an own goal, blasted home a shot to equalize. Then fourteen minutes from time Haan hit an audacious shot 30 yards out that went off Zoff's left post and into the net.<ref>{{Cite web |url=http://easyweb.easynet.co.uk/~goldkeep/Holland78/Italy.htm |title=Holland 1978 v Italy |access-date=6 July 2014 |archive-url=https://web.archive.org/web/20140622075829/http://easyweb.easynet.co.uk/~goldkeep/Holland78/Italy.htm |archive-date=22 June 2014 |url-status=dead |df=dmy-all }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=A6
+|date={{Start date|1978|6|21|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1978 FIFA World Cup Group A#Italy vs Netherlands|1–2}}
+|team2={{fb|NED}}
+|goals1=
+*[[Ernie Brandts|Brandts]] {{goal|19|o.g.}}
+|goals2=
+*[[Ernie Brandts|Brandts]] {{goal|49}}
+*[[Arie Haan|Haan]] {{goal|76}}
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], [[Buenos Aires]]
+|attendance=67,433
+|referee=[[Ángel Franco Martínez]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2391 |title=Netherlands vs Italy {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2391/index.html |title=1978 FIFA World Cup Argentina – Matches – Netherlands v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227061301/http://www.fifa.com/worldcup/matches/round=279/match=2391/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = 
+|pattern_b  = _ita70h
+|pattern_ra = 
+|pattern_so = _2whitestripes
+|leftarm    = 3120cc
+|body       = 3120cc
+|rightarm   = 3120cc
+|shorts     = ffffff
+|socks      = 3120cc
+|title      = Italy
+}}
+|{{Football kit
+| pattern_la = _netherlands80a
+| pattern_b  = _netherlands80a
+| pattern_ra = _netherlands80a
+| pattern_sh = _adidasblack
+| pattern_so = _color_3_stripes_on_white
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FF6600
+| socks      = FF6600
+| title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Dino Zoff]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Antonio Cabrini]] || {{yel|65}}
+|-
+|DF || '''4''' || [[Antonello Cuccureddu]]
+|-
+|DF || '''5''' || [[Claudio Gentile]]
+|-
+|DF || '''8''' || [[Gaetano Scirea]]
+|-
+|MF || '''10''' || [[Romeo Benetti]] || {{yel|40}} || {{suboff|77}}
+|-
+|MF || '''14''' || [[Marco Tardelli]] || {{yel|70}}
+|-
+|MF || '''15''' || [[Renato Zaccarelli]]
+|-
+|MF || '''16''' || [[Franco Causio]] || || {{suboff|46}}
+|-
+|CF || '''18''' || [[Roberto Bettega]]
+|-
+|CF || '''21''' || [[Paolo Rossi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''17''' || [[Claudio Sala]] || || {{subon|46}}
+|-
+|FW || '''19''' || [[Francesco Graziani]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Enzo Bearzot]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Piet Schrijvers]] || || {{suboff|21}}
+|-
+|DF || '''2''' || [[Jan Poortvliet]]
+|-
+|DF || '''5''' || [[Ruud Krol]] ([[Captain (association football)|c]])
+|-
+|DF || '''6''' || [[Wim Jansen]]
+|-
+|DF || '''22''' || [[Ernie Brandts]]
+|-
+|MF || '''13''' || [[Johan Neeskens]]
+|-
+|MF || '''9''' || [[Arie Haan]] || {{yel|50}}
+|-
+|MF|| '''10''' || [[René van de Kerkhof]]
+|-
+|MF || '''11''' || [[Willy van de Kerkhof]]
+|-
+|FW || '''16''' || [[Johnny Rep]] || {{yel|35}} || {{suboff|65}}
+|-
+|FW || '''12''' || [[Rob Rensenbrink]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK|| '''8''' || [[Jan Jongbloed]] || || {{subon|21}}
+|-
+|DF|| '''4''' || [[Adrie van Kraay]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|{{Flagicon|AUT}} [[Ernst Happel]]
+|}
+|}
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1978 FIFA World Cup}}
+
+{{DEFAULTSORT:World}}
+[[Category:1978 FIFA World Cup group stage|Groups]]
+[[Category:West Germany at the 1978 FIFA World Cup|G]]
+[[Category:Italy at the 1978 FIFA World Cup|Group]]
+[[Category:Austria at the 1978 FIFA World Cup|Group]]
+[[Category:Netherlands at the 1978 FIFA World Cup|Group]]
+[[Category:Football competitions in Córdoba Province, Argentina]]
+[[Category:Sport in Córdoba, Argentina]]
+[[Category:International sports competitions in Buenos Aires]]
+[[Category:1970s in Buenos Aires]]
+[[Category:Football competitions in Buenos Aires]]

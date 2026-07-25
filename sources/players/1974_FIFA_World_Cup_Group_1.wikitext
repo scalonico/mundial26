@@ -1,0 +1,726 @@
+{{Short description|First group in 1974 FIFA World Cup}}
+{{distinguish|1974 FIFA World Cup Group A}}
+{{Use dmy dates|date=May 2018}}
+'''Group 1 of the [[1974 FIFA World Cup]]''' was contested between 14 and 22 June 1974. This group was played in [[West Berlin]] and [[Hamburg]].<ref>{{cite web |url=https://www.rsssf.org/tables/74full.html |title=World Cup 1974 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The pool was composed of the tournament host nation [[Germany national football team|West Germany]] (''Pot 1-Western Europe''), with [[East Germany national football team|East Germany]] (''Pot 2-Eastern Europe''), [[Chile national football team|Chile]] (''Pot 3-South America'') and [[Australia men's national soccer team|Australia]] (''Pot 4-Rest of the world'').
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150407142357/http://www.fifa.com/worldcup/archive/germany1974/groups/index.html FIFA]
+
+|team1=GDR|team2=FRG |team3=CHI |team4=AUS
+|result1=A |result2=A
+
+
+|win_GDR=2 |draw_GDR=1 |loss_GDR=0 |gf_GDR=4 |ga_GDR=1
+|win_FRG=2 |draw_FRG=0 |loss_FRG=1 |gf_FRG=4 |ga_FRG=1
+|win_CHI=0 |draw_CHI=2 |loss_CHI=1 |gf_CHI=1 |ga_CHI=2
+|win_AUS=0 |draw_AUS=1 |loss_AUS=2 |gf_AUS=0 |ga_AUS=5
+
+|name_AUS={{fb|AUS}}
+|name_CHI={{fb|CHI}}
+|name_FRG={{fb|FRG}}
+|name_GDR={{fb|GDR}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1974 FIFA World Cup#Second round|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times listed are local ([[Central European Time|CET]])''
+
+===West Germany vs Chile===
+<onlyinclude>{{#invoke:Football box|main|section=1-1
+|date={{Start date|1974|6|14|df=y}}
+|time=16:00
+|team1={{fb-rt|FRG}}
+|score={{score link|1974 FIFA World Cup Group 1#West Germany vs Chile|1–0}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Paul Breitner|Breitner]] {{goal|18}}
+|goals2=
+|stadium=[[Olympic Stadium (Berlin)|Olympiastadion]], [[West Berlin]]
+|attendance=81,100
+|referee=[[Doğan Babacan]] ([[Turkish Football Federation|Turkey]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2003 |title=Germany FR vs Chile {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2003/index.html |title=1974 FIFA World Cup Germany – Matches – Germany FR v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209232117/http://www.fifa.com/worldcup/matches/round=262/match=2003/index.html |archive-date=9 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _blackborder 
+ |pattern_b  = _blackcollar
+ |pattern_ra = _blackborder 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = West Germany
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _blue stripes
+ |pattern_so = _2_white_stripes
+ |leftarm    = CD0000
+ |body       = CD0000
+ |rightarm   = CD0000
+ |shorts     = FFFFFF
+ |socks      = CD0000
+ |title      = Chile
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|RB ||'''2''' ||[[Berti Vogts]]
+|-
+|CB ||'''4''' ||[[Hans-Georg Schwarzenbeck]]
+|-
+|CB ||'''5''' ||[[Franz Beckenbauer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Paul Breitner]]
+|-
+|CM ||'''8''' ||[[Bernhard Cullmann]]
+|-
+|CM ||'''12'''||[[Wolfgang Overath]] || || {{suboff|75}}
+|-
+|AM ||'''14'''||[[Uli Hoeneß]]
+|-
+|RF ||'''9''' ||[[Jürgen Grabowski]]
+|-
+|CF ||'''13'''||[[Gerd Müller]]
+|-
+|LF ||'''11'''||[[Jupp Heynckes]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Bernd Hölzenbein]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Leopoldo Vallejos]]
+|-
+|RB ||'''2''' ||[[Rolando García (Chilean footballer)|Rolando García]] || {{yel|59}}
+|-
+|CB ||'''5''' ||[[Elías Figueroa]]
+|-
+|CB ||'''3''' ||[[Alberto Quintano]]
+|-
+|LB ||'''4''' ||[[Antonio Arias (footballer)|Antonio Arias]]
+|-
+|RM ||'''6''' ||[[Juan Manuel Rodríguez Vega|Juan Rodríguez]] || || {{suboff|83}}
+|-
+|CM ||'''8''' ||[[Francisco Valdés]] ([[Captain (association football)|c]]) || || {{suboff|76}}
+|-
+|CM ||'''16'''||[[Guillermo Páez]]
+|-
+|LM ||'''10'''||[[Carlos Reinoso]] || {{yel|47}}
+|-
+|CF ||'''7''' ||[[Carlos Caszely]] || {{sent off|1|13|67}}
+|-
+|CF ||'''9''' ||[[Sergio Ahumada]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Leonardo Véliz]] || || {{subon|76}}
+|-
+|MF ||'''14'''||[[Alfonso Lara]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Alamos]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+<br />[[Werner Winsemann]] ([[Canadian Soccer Association|Canada]])
+|}
+
+===East Germany vs Australia===
+This was the first ever fixture in the World Cup finals for Australia, with one West German newspaper labelling the team as “no-hope” Australians, and later printing an apology.<ref >{{Cite web |website=Socceroos |date=25 July 2012 |title=Green and Golden years – The ’74 Socceroos v East Germany |url=https://socceroos.com.au/news/green-and-golden-years-74-socceroos-v-east-germany}}</ref>
+
+Australia kept the highly-fancied East German side scoreless until the second half, when Australia defender [[Colin Curran]] deflected the ball into his own team's net, making unwanted history by being the first Australia player in the World Cup to score a goal, albeit an [[own goal]].<ref >{{Cite web |website=Socceroos |date=11 April 2018 |title=Col Curran's FIFA World Cup story |url=https://socceroos.com.au/news/67-days-go-col-currans-fifa-world-cup-story}}</ref> East Germany forward [[Joachim Streich]] scored half-way through the second half, securing the 2–0 victory for East Germany.
+<onlyinclude>{{#invoke:Football box|main|section=1-2
+|date={{Start date|1974|6|14|df=y}}
+|time=19:30
+|team1={{fb-rt|GDR}}
+|score={{score link|1974 FIFA World Cup Group 1#East Germany vs Australia|2–0}}
+|team2={{fb|AUS}}
+|goals1=
+*[[Colin Curran|Curran]] {{goal|58|o.g.}}
+*[[Joachim Streich|Streich]] {{goal|72}}
+|goals2=
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=17,000
+|referee=[[Youssou N'Diaye]] ([[Senegalese Football Federation|Senegal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1955 |title=German DR vs Australia {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1955/index.html |title=1974 FIFA World Cup Germany – Matches – German DR v Australia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213181758/http://www.fifa.com/worldcup/matches/round=262/match=1955/index.html |archive-date=13 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _blueborder
+ |pattern_b  = _vneckblue
+ |pattern_ra = _blueborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000A0
+ |socks      = FFFFFF
+ |title      = East Germany
+}}
+|{{Football kit
+ |pattern_la = _aus_1974h
+ |pattern_b  = _aus_1974h
+ |pattern_ra = _aus_1974h
+ |pattern_sh = _aus_1974h
+ |pattern_so = _goldandblank_onwhite
+ |leftarm    = 1b4a3f
+ |body       = 1b4a3f
+ |rightarm   = 1b4a3f
+ |shorts     = 1b4a3f
+ |socks      = 1b4a3f
+ |title      = Australia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jürgen Croy]]
+|-
+|RB ||'''18'''||[[Gerd Kische]]||{{yel|61}}
+|-
+|CB ||'''4''' ||[[Konrad Weise]]
+|-
+|CB ||'''3''' ||[[Bernd Bransch]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||[[Siegmar Wätzlich]]||{{yel|32}}
+|-
+|CM ||'''16'''||[[Harald Irmscher]]
+|-
+|CM ||'''7''' ||[[Jürgen Pommerenke]]
+|-
+|AM ||'''14'''||[[Jürgen Sparwasser]]
+|-
+|RF ||'''8''' ||[[Wolfram Löwe]] || || {{suboff|55}}
+|-
+|CF ||'''11'''||[[Joachim Streich]]
+|-
+|LF ||'''15'''||[[Eberhard Vogel]] || {{yel|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20''' ||[[Martin Hoffmann (footballer)|Martin Hoffmann]] || || {{subon|55}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Buschner]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jack Reilly (footballer)|Jack Reilly]]
+|-
+|RB ||'''2''' ||[[Doug Utjesenovic]]
+|-
+|CB ||'''3''' ||[[Peter Wilson (Australian soccer)|Peter Wilson]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Manfred Schäfer]]
+|-
+|LB ||'''5''' ||[[Colin Curran]]
+|-
+|MF ||'''9''' ||[[Johnny Warren]]
+|-
+|MF ||'''6''' ||[[Ray Richards (footballer)|Ray Richards]]
+|-
+|MF ||'''8''' ||[[Jimmy Mackay]]
+|-
+|MF ||'''7''' ||[[Jimmy Rooney]]
+|-
+|CF ||'''12'''||[[Adrian Alston]]
+|-
+|CF ||'''20'''||[[Branko Buljevic]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SFR Yugoslavia}} [[Rale Rasic]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Pablo Sánchez Ibáñez]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Omar Delgado Gómez]] ([[Colombian Football Federation|Colombia]])
+|}
+
+===Australia vs West Germany===
+Australia, fielding a team of mostly semi-professional players who held day jobs alongside their football careers,<ref name="ausSoccerAUSWESGER">{{Cite web |website=Australia Football |title=1974 World Cup West Germany — Results, Winners & History |url=https://www.australiafootball.com/world-cup/history/1974-west-germany}}</ref> were given little hope of achieving a result against West Germany, who were heavy favourites for the tournament. Despite being outclassed and losing to the hosts 3–0, [[Franz Beckenbauer]] reportedly acknowledged the Australians' effort when the match was over.<ref name="ausSoccerAUSWESGER"/>
+<onlyinclude>{{#invoke:Football box|main|section=1-3
+|date={{Start date|1974|6|18|df=y}}
+|time=16:00
+|team1={{fb-rt|AUS}}
+|score={{score link|1974 FIFA World Cup Group 1#Australia vs West Germany|0–3}}
+|team2={{fb|FRG}}
+|goals1=
+|goals2=
+*[[Wolfgang Overath|Overath]] {{goal|12}}
+*[[Bernhard Cullmann|Cullmann]] {{goal|34}}
+*[[Gerd Müller|Müller]] {{goal|53}}
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=53,300
+|referee=[[Mahmoud Mustafa Kamel]] ([[Egyptian Football Association|Egypt]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1954 |title=Australia vs Germany FR {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1954/index.html |title=1974 FIFA World Cup Germany – Matches – Australia v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228015821/http://www.fifa.com/worldcup/matches/round=262/match=1954/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _aus_1974h
+ |pattern_b  = _aus_1974h
+ |pattern_ra = _aus_1974h
+ |pattern_sh = _aus_1974h
+ |pattern_so = _goldandblank_onwhite
+ |leftarm    = 1b4a3f
+ |body       = 1b4a3f
+ |rightarm   = 1b4a3f
+ |shorts     = 1b4a3f
+ |socks      = 1b4a3f
+ |title      = Australia
+}}
+|{{Football kit
+ |pattern_la = _whiteborder 
+ |pattern_b  = _whitecollar 
+ |pattern_ra = _whiteborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 008020
+ |body       = 008020
+ |rightarm   = 008020
+ |shorts     = FFFFFF
+ |socks      = 008020
+ |title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jack Reilly (footballer)|Jack Reilly]]
+|-
+|DF ||'''2''' ||[[Doug Utjesenovic]]
+|-
+|DF ||'''3''' ||[[Peter Wilson (Australian soccer)|Peter Wilson]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Manfred Schäfer]]
+|-
+|DF ||'''5''' ||[[Colin Curran]]
+|-
+|MF ||'''6'''||[[Ray Richards (footballer)|Ray Richards]]
+|-
+|MF ||'''7'''||[[Jimmy Rooney]]
+|-
+|MF ||'''8'''||[[Jimmy Mackay]] ||{{yel|56}}
+|-
+|MF ||'''19'''||[[Ernie Campbell]] || || {{suboff|45}}
+|-
+|FW ||'''12'''||[[Adrian Alston]]
+|-
+|FW ||'''20'''||[[Branko Buljevic]]|| || {{suboff|61}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11''' ||[[Attila Abonyi]] || || {{subon|45}}
+|-
+|MF ||'''13''' ||[[Peter Ollerton]] || || {{subon|61}}
+|-
+|DF ||'''15''' ||[[Harry Williams]]
+|-
+|MF ||'''18''' ||[[Johnny Watkiss]]
+|-
+|GK ||'''21''' ||[[Jim Milisavljevic]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SFR Yugoslavia}} [[Rale Rasic]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|DF ||'''2''' ||[[Berti Vogts]]
+|-
+|DF ||'''3''' ||[[Paul Breitner]]
+|-
+|DF ||'''4''' ||[[Hans-Georg Schwarzenbeck]]
+|-
+|DF ||'''5''' ||[[Franz Beckenbauer]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Bernhard Cullmann]] || || {{suboff|67}}
+|-
+|MF ||'''11'''||[[Jupp Heynckes]] || || {{suboff|46}}
+|-
+|MF ||'''12'''||[[Wolfgang Overath]] 
+|-
+|FW ||'''9''' ||[[Jürgen Grabowski]]
+|-
+|FW ||'''13'''||[[Gerd Müller]]
+|-
+|FW ||'''14'''||[[Uli Hoeneß]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6'''||[[Horst-Dieter Höttges]]
+|-
+|MF ||'''17'''||[[Bernd Hölzenbein]] || || {{subon|46}}
+|-
+|FW ||'''7''' ||[[Herbert Wimmer]] || || {{subon|67}}
+|-
+|MF ||'''10'''||[[Günter Netzer]]
+|-
+|GK ||'''22'''||[[Wolfgang Kleff]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Alfonso González Archundia]] ([[Mexican Football Federation|Mexico]])
+<br />[[Edison Peréz-Núñez]] ([[Peruvian Football Federation|Peru]])
+|}
+
+===Chile vs East Germany===
+<onlyinclude>{{#invoke:Football box|main|section=1-4
+|date={{Start date|1974|6|18|df=y}}
+|time=19:30
+|team1={{fb-rt|CHI}}
+|score={{score link|1974 FIFA World Cup Group 1#Chile vs East Germany|1–1}}
+|team2={{fb|GDR}}
+|goals1=
+*[[Sergio Ahumada|Ahumada]] {{goal|69}}
+|goals2=
+*[[Martin Hoffmann (footballer)|Hoffmann]] {{goal|55}}
+|stadium=[[Olympic Stadium (Berlin)|Olympiastadion]], [[West Berlin]]
+|attendance=28,300
+|referee=[[Aurelio Angonese]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2004 |title=Chile vs German DR {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2004/index.html |title=1974 FIFA World Cup Germany – Matches – Chile v German DR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212013952/http://www.fifa.com/worldcup/matches/round=262/match=2004/index.html |archive-date=12 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _blue stripes
+ |pattern_so = _2_white_stripes
+ |leftarm    = CD0000
+ |body       = CD0000
+ |rightarm   = CD0000
+ |shorts     = FFFFFF
+ |socks      = CD0000
+ |title      = Chile
+}}
+|{{Football kit
+ |pattern_la = _blueborder
+ |pattern_b  = _vneckblue
+ |pattern_ra = _blueborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000A0
+ |socks      = FFFFFF
+ |title      = East Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Leopoldo Vallejos]]
+|-
+|RB ||'''2''' ||[[Rolando García (Chilean footballer)|Rolando García]]
+|-
+|CB ||'''5'''||[[Elías Figueroa]]
+|-
+|CB ||'''3''' ||[[Alberto Quintano]]
+|-
+|LB ||'''4''' ||[[Antonio Arias (footballer)|Antonio Arias]]
+|-
+|RM ||'''8'''||[[Francisco Valdés]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CM ||'''16'''||[[Guillermo Páez]] || {{yel|60}}
+|-
+|LM ||'''10'''||[[Carlos Reinoso]] 
+|-
+|RF||'''18'''||[[Jorge Socías]] || ||{{suboff|67}}
+|-
+|CF ||'''9'''||[[Sergio Ahumada]]
+|-
+|LF||'''11'''||[[Leonardo Véliz]] || {{yel|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Guillermo Yávar]] || || {{subon|46}}
+|-
+|MF ||'''19'''||[[Rogelio Farías]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Alamos]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jürgen Croy]]
+|-
+|RB ||'''3''' ||[[Bernd Bransch]] ([[Captain (association football)|c]])
+|-
+|CB ||'''18'''||[[Gerd Kische]]||{{yel|65}}
+|-
+|CB ||'''4''' ||[[Konrad Weise]]
+|-
+|LB ||'''12'''||[[Siegmar Wätzlich]]
+|-
+|RM ||'''19'''||[[Wolfgang Seguin]] || || {{suboff|72}}
+|-
+|CM ||'''16'''||[[Harald Irmscher]]
+|-
+|LM ||'''14'''||[[Jürgen Sparwasser]]
+|-
+|RF ||'''20'''||[[Martin Hoffmann (footballer)|Martin Hoffmann]]
+|-
+|CF ||'''11'''||[[Joachim Streich]]
+|-
+|LF ||'''15'''||[[Eberhard Vogel]] || || {{suboff|30}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Peter Ducke]] || || {{subon|30}}
+|-
+|FW ||'''10'''||[[Hans-Jürgen Kreische]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Buschner]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+<br />[[Bob Davidson (referee)|Bob Davidson]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Australia vs Chile===
+The fixture was played during a torrential downpour, necessitating the half-time break to be extended by 22 minutes.<ref >{{Cite web |website=Herald Sun|last=Hinds |first=Richard |date=10 June 2014 |title=Australia faced Chile at the 1974 World Cup, drawing 0-0 after losses to East and West Germany |url=https://www.heraldsun.com.au/sport/football/world-cup/australia-faced-chile-at-the-1974-world-cup-drawing-00-after-losses-to-east-and-west-germany/news-story/4c2271bffe6cd6d641e067161f989308}}</ref>
+
+[[Ray Richards (footballer)|Ray Richards]] received a second booking late in the second half for not taking a freekick quickly enough, however he was allowed to stay on the pitch due to the referee forgetting about his first booking.<ref name="rayrichardsSbs">{{Cite web |website=SBS Sport|last=Micallef |first=Philip |date=18 December 2018 |title=Socceroos Greats - Where are they now: Ray Richards |url=https://www.sbs.com.au/sport/article/socceroos-greats-where-are-they-now-ray-richards/ge80tt6zb}}</ref> He remained on the pitch for several minutes before the linesman alerted the referee about his mistake, resulting in the referee showing him a third yellow, followed by the required red card.<ref name="rayrichardsSbs"/> Richards became the first Australia player to be sent off in a World Cup game.<ref >{{Cite web |website=Socceroos.com.au |date=11 April 2018 |title=Ray Richards' FIFA World Cup story |url=https://socceroos.com.au/news/66-days-go-ray-richards-fifa-world-cup-story}}</ref> Coincidentally, a similar incident occurred involving Australia when they returned to the World Cup in Germany over three decades later in [[2006 FIFA World Cup|2006]] against Croatia - in this case, [[List of 2006 FIFA World Cup controversies#Three yellow cards|Josip Šimunić was erroneously shown three yellow cards before being sent off by referee Graham Poll]].
+
+This result earned Australia their first ever point and clean sheet at the World Cup finals.<ref >{{Cite web |last=Gorman |first=Joe |website=The Guardian |date=11 June 2014 |quote=That 0-0 draw between Chile and Australia in Berlin in June 1974 is the Socceroos' first point at a World Cup|title=Socceroos v Chile World Cup match recalls a painful history |url=https://www.theguardian.com/football/blog/2014/jun/11/socceroos-chile-world-cup-2014}}</ref>
+<onlyinclude>{{#invoke:Football box|main|section=1-5
+|date={{Start date|1974|6|22|df=y}}
+|time=16:00
+|team1={{fb-rt|AUS}}
+|score={{score link|1974 FIFA World Cup Group 1#Australia vs Chile|0–0}}
+|team2={{fb|CHI}}
+|goals1=
+|goals2=
+|stadium=[[Olympic Stadium (Berlin)|Olympiastadion]], [[West Berlin]]
+|attendance=17,400
+|referee=[[Jafar Namdar]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1953 |title=Australia vs Chile {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1953/index.html |title=1974 FIFA World Cup Germany – Matches – Australia v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001608/http://www.fifa.com/worldcup/matches/round=262/match=1953/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _aus_1974h
+ |pattern_b  = _aus_1974h
+ |pattern_ra = _aus_1974h
+ |pattern_sh = _aus_1974h
+ |pattern_so = _2_gold_stripes2
+ |leftarm    = 1b4a3f
+ |body       = 1b4a3f
+ |rightarm   = 1b4a3f
+ |shorts     = 1b4a3f
+ |socks      = 1b4a3f
+ |title      = Australia
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _blue stripes
+ |pattern_so = 
+ |leftarm    = CD0000
+ |body       = CD0000
+ |rightarm   = CD0000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Chile
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jack Reilly (footballer)|Jack Reilly]]
+|-
+|DF ||'''2''' ||[[Doug Utjesenovic]]
+|-
+|DF ||'''3''' ||[[Peter Wilson (Australian soccer)|Peter Wilson]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Manfred Schäfer]]
+|-
+|DF ||'''5''' ||[[Colin Curran]] || || {{suboff|83}}
+|-
+|MF ||'''6''' ||[[Ray Richards (footballer)|Ray Richards]] || {{sent off|1|37|83}}
+|-
+|MF ||'''7''' ||[[Jimmy Rooney]]
+|-
+|MF ||'''8''' ||[[Jimmy Mackay]] 
+|-
+|MF ||'''11'''||[[Attila Abonyi]] 
+|-
+|FW ||'''12'''||[[Adrian Alston]] || || {{suboff|65}}
+|-
+|FW ||'''20'''||[[Branko Buljevic]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Peter Ollerton]] || || {{subon|65}}
+|-
+|MF ||'''15''' ||[[Harry Williams (Australian soccer)|Harry Williams]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SFR Yugoslavia}} [[Rale Rasic]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Leopoldo Vallejos]]
+|-
+|RB ||'''2''' ||[[Rolando García (Chilean footballer)|Rolando García]]
+|-
+|CB ||'''5''' ||[[Elías Figueroa]]
+|-
+|CB ||'''3''' ||[[Alberto Quintano]]
+|-
+|LB ||'''4''' ||[[Antonio Arias (footballer)|Antonio Arias]]
+|-
+|RM ||'''8''' ||[[Francisco Valdés]] ([[Captain (association football)|c]]) || || {{suboff|57}}
+|-
+|CM ||'''16'''||[[Guillermo Páez]]
+|-
+|LM ||'''10'''||[[Carlos Reinoso]] 
+|-
+|RF ||'''7''' ||[[Carlos Caszely]]
+|-
+|CF ||'''9''' ||[[Sergio Ahumada]]
+|-
+|LF ||'''11'''||[[Leonardo Véliz]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Rogelio Farías]] || || {{subon|57}}
+|-
+|FW ||'''17'''||[[Guillermo Yávar]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Alamos]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Vital Loraux]] ([[Royal Belgian Football Association|Belgium]])
+<br />[[Arie van Gemert]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===East Germany vs West Germany===
+{{main|East Germany v West Germany (1974 FIFA World Cup)}}
+{{see also|East Germany–West Germany football rivalry}}
+<onlyinclude>{{#invoke:transcludable section|main|section=1-6|text={{#lst:East Germany v West Germany (1974 FIFA World Cup)|1-6}}}}</onlyinclude>
+{{#lst:East Germany v West Germany (1974 FIFA World Cup)|Lineups}}
+
+==See also==
+*[[Australia at the FIFA World Cup]]
+*[[Chile at the FIFA World Cup]]
+*[[East Germany at the FIFA World Cup]]
+*[West] [[Germany at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 1}}
+[[Category:1974 FIFA World Cup group stage]]
+[[Category:East Germany at the 1974 FIFA World Cup]]
+[[Category:West Germany at the 1974 FIFA World Cup]]
+[[Category:Chile at the 1974 FIFA World Cup]]
+[[Category:Australia at the 1974 FIFA World Cup]]
+[[Category:Football competitions in Berlin]]
+[[Category:Football competitions in Hamburg]]
+[[Category:1970s in Hamburg]]
+[[Category:1970s in West Berlin]]

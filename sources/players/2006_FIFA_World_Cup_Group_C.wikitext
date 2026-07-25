@@ -1,0 +1,941 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=June 2018}}
+Play in Group C of the [[2006 FIFA World Cup]] began on 10 June 2006 and ended on 21 June. [[Argentina national football team|Argentina]] won the group and advanced to the round of 16, along with the [[Netherlands national football team|Netherlands]].<ref>{{cite web |last=Saaid |first=Hamdan |url=https://www.rsssf.org/tables/2006full.html |title=World Cup 2006 – Match Details |publisher=[[RSSSF]] |date=7 February 2007 |access-date=30 April 2026}}</ref> The two sides tied on points in the standings, but Argentina won the tie-break on goal difference and ended the group in first with the Netherlands in second place. The [[Ivory Coast national football team|Ivory Coast]] and [[Serbia and Montenegro national football team|Serbia and Montenegro]] failed to advance.
+
+Upon completion of the draw for the tournament, many football pundits remarked that this group appeared to be the "[[group of death]]", despite the fact that only Argentina had qualified for the [[2002 FIFA World Cup|previous World Cup]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/9741?date=2006-06-23&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=ARG
+|team2=NED
+|team3=CIV
+|team4=SCG
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2006 FIFA World Cup#Ranking criteria|Tie-breaking criteria]]
+
+|win_ARG=2 |draw_ARG=1 |loss_ARG=0 |gf_ARG=8 |ga_ARG=1
+|win_NED=2 |draw_NED=1 |loss_NED=0 |gf_NED=3 |ga_NED=1
+|win_CIV=1 |draw_CIV=0 |loss_CIV=2 |gf_CIV=5 |ga_CIV=6
+|win_SCG=0 |draw_SCG=0 |loss_SCG=3 |gf_SCG=2 |ga_SCG=10
+
+|name_ARG={{fb|ARG|1861}}
+|name_NED={{fb|NED}}
+|name_CIV={{fb|CIV}}
+|name_SCG={{fb|SCG}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2006 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Argentina advanced to play Mexico (runners-up of [[2006 FIFA World Cup Group D|Group D]]) in the [[2006 FIFA World Cup knockout stage#Argentina vs Mexico|round of 16]].
+*The Netherlands advanced to play Portugal (winners of [[2006 FIFA World Cup Group D|Group D]]) in the [[2006 FIFA World Cup knockout stage#Portugal vs Netherlands|round of 16]].
+
+==Matches==
+''All times local ([[Central European Summer Time|CEST/UTC+2]])''
+
+===Argentina vs Ivory Coast===
+<onlyinclude>{{#invoke:Football box|main|section=C1
+|date={{Start date|2006|6|10|df=y}}
+|time=21:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|2006 FIFA World Cup Group C#Argentina vs Ivory Coast|2–1}}
+|team2={{fb|CIV}}
+|goals1=
+*[[Hernán Crespo|Crespo]] {{goal|24}}
+*[[Javier Saviola|Saviola]] {{goal|38}}
+|goals2=
+*[[Didier Drogba|Drogba]] {{goal|82}}
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=49,480
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410005 |title=Argentina vs Côte d'Ivoire {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410005/index.html |title=2006 FIFA World Cup Germany – Matches – Argentina v Côte d'Ivoire |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228001255/http://www.fifa.com/worldcup/matches/round=97410100/match=97410005/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/05_0610_hag_arg-civ_fulltime__1149973572.pdf |title=Match Report – Group C – Argentina v Côte d'Ivoire |publisher=[[FIFA]] |date=10 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053743/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/05_0610_hag_arg-civ_fulltime__1149973572.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg06h1
+ |pattern_b  = _arg06h1
+ |pattern_ra = _arg06h1
+ |pattern_sh = _arg06h
+ |pattern_so = _arg06hl
+ |leftarm    = 75AADB
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _thingreenborder
+ |pattern_b  = _civ06h
+ |pattern_ra = _thingreenborder
+ |pattern_sh = _puma0607green
+ |pattern_so = _puma_2006_green
+ |leftarm    = FF8000
+ |body       = FF8000
+ |rightarm   = FF8000
+ |shorts     = FF8000
+ |socks      = FF8000
+ |title      = Ivory Coast
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Abbondanzieri]]
+|-
+|RB ||'''21'''||[[Nicolás Burdisso]]
+|-
+|CB ||'''2''' ||[[Roberto Ayala]]
+|-
+|CB ||'''6''' ||[[Gabriel Heinze]] || {{yel|48}}
+|-
+|LB ||'''3''' ||[[Juan Pablo Sorín]] ([[Captain (association football)|c]])
+|-
+|RM ||'''18'''||[[Maxi Rodríguez]]
+|-
+|CM ||'''8''' ||[[Javier Mascherano]]
+|-
+|LM ||'''5''' ||[[Esteban Cambiasso]]
+|-
+|AM ||'''10'''||[[Juan Román Riquelme]] || || {{suboff|90+3}}
+|-
+|CF ||'''7''' ||[[Javier Saviola]] || {{yel|41}} || {{suboff|75}}
+|-
+|CF ||'''9''' ||[[Hernán Crespo]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Rodrigo Palacio]] || || {{subon|64}}
+|-
+|MF ||'''22'''||[[Lucho González]] || {{yel|81}} || {{subon|75}}
+|-
+|MF ||'''16'''||[[Pablo Aimar]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Pékerman]]
+|}
+|valign="top"|[[File:ARG-CIV 2006-06-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jean-Jacques Tizié]]
+|-
+|RB ||'''21'''||[[Emmanuel Eboué]] || {{yel|62}}
+|-
+|CB ||'''4''' ||[[Kolo Touré]]
+|-
+|CB ||'''12'''||[[Abdoulaye Méïté]]
+|-
+|LB ||'''3''' ||[[Arthur Boka]]
+|-
+|CM ||'''19'''||[[Yaya Touré]]
+|-
+|CM ||'''5''' ||[[Didier Zokora]]
+|-
+|RW ||'''18'''||[[Abdul Kader Keïta]] || || {{suboff|77}}
+|-
+|AM ||'''8''' ||[[Bonaventure Kalou]] || || {{suboff|55}}
+|-
+|LW ||'''2''' ||[[Kanga Akalé]] || || {{suboff|62}}
+|-
+|CF ||'''11'''||[[Didier Drogba]] ([[Captain (association football)|c]]) || {{yel|90+1}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Aruna Dindane]] || || {{subon|55}}
+|-
+|FW ||'''14'''||[[Bakari Koné]] || || {{subon|62}}
+|-
+|FW ||'''9''' ||[[Arouna Koné]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|}
+{{wikinews|Argentina start with 2-1 win in Group C}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Javier Saviola]] (Argentina)
+
+'''Assistant referees:'''
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])
+<br />Walter Vromans ([[Royal Belgian Football Association|Belgium]])
+<br />'''Fourth official:'''
+<br />[[Éric Poulat]] ([[French Football Federation|France]])
+<br />'''Fifth official:'''
+<br />Vincent Texier ([[French Football Federation|France]])
+|}
+
+===Serbia and Montenegro vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=C2
+|date={{Start date|2006|6|11|df=y}}
+|time=15:00
+|team1={{fb-rt|SCG}}
+|score={{score link|2006 FIFA World Cup Group C#Serbia and Montenegro vs Netherlands|0–1}}
+|team2={{fb|NED}}
+|goals1=
+|goals2=
+*[[Arjen Robben|Robben]] {{goal|18}}
+|stadium=[[Red Bull Arena (Leipzig)|Zentralstadion]], [[Leipzig]]
+|attendance=43,000
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410006 |title=Serbia and Montenegro vs Netherlands {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410006/index.html |title=2006 FIFA World Cup Germany – Matches – Serbia and Montenegro v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228220004/http://www.fifa.com/worldcup/matches/round=97410100/match=97410006/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/06_0611_lei_scg-ned_fulltime__1150106154.pdf |title=Match Report – Group C – Serbia & Montenegro v Netherlands |publisher=[[FIFA]] |date=11 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053751/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/06_0611_lei_scg-ned_fulltime__1150106154.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _scg06a
+ |pattern_b  = _scg06a
+ |pattern_ra = _scg06a
+ |pattern_sh = _scg06h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Serbia and Montenegro
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _collar
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _2_stripes_white
+ |leftarm    = F1771D
+ |body       = F1771D
+ |rightarm   = F1771D
+ |shorts     = F1771D
+ |socks      = F1771D
+ |title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dragoslav Jevrić]]
+|-
+|RB ||'''14'''||[[Nenad Đorđević]] || || {{suboff|43}}
+|-
+|CB ||'''6''' ||[[Goran Gavrančić]] || {{yel|90}}
+|-
+|CB ||'''20'''||[[Mladen Krstajić]]
+|-
+|LB ||'''3''' ||[[Ivica Dragutinović]] || {{yel|81}}
+|-
+|RM ||'''10'''||[[Dejan Stanković]] || {{yel|34}}
+|-
+|CM ||'''4''' ||[[Igor Duljaj]]
+|-
+|CM ||'''17'''||[[Albert Nađ]]
+|-
+|LM ||'''11'''||[[Predrag Đorđević]]
+|-
+|CF ||'''9''' ||[[Savo Milošević]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CF ||'''8''' ||[[Mateja Kežman]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Ognjen Koroman]] ||{{yel|64}} || {{subon|43}}
+|-
+|FW ||'''19'''||[[Nikola Žigić]] || || {{subon|46}}
+|-
+|FW ||'''21'''||[[Danijel Ljuboja]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ilija Petković]]
+|}
+|valign="top"|[[File:SCG-NED 2006-06-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]] ([[Captain (association football)|c]])
+|-
+|RB ||'''14'''||[[John Heitinga]] || {{yel|85}}
+|-
+|CB ||'''13'''||[[André Ooijer]]
+|-
+|CB ||'''4''' ||[[Joris Mathijsen]] || || {{suboff|86}}
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]] || {{yel|56}}
+|-
+|RM ||'''18'''||[[Mark van Bommel]] || || {{suboff|60}}
+|-
+|CM ||'''20'''||[[Wesley Sneijder]]
+|-
+|LM ||'''8''' ||[[Phillip Cocu]]
+|-
+|RF ||'''17'''||[[Robin van Persie]]
+|-
+|CF ||'''9''' ||[[Ruud van Nistelrooy]] || || {{suboff|69}}
+|-
+|LF ||'''11'''||[[Arjen Robben]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Denny Landzaat]] || || {{subon|60}}
+|-
+|FW ||'''7''' ||[[Dirk Kuyt]] || || {{subon|69}}
+|-
+|DF ||'''3''' ||[[Khalid Boulahrouz]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marco van Basten]]
+|}
+|}
+{{wikinews|Netherlands ease to 1-0 win in Group C}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Arjen Robben]] (Netherlands)
+
+'''Assistant referees:'''
+<br />Christian Schräer ([[German Football Association|Germany]])
+<br />Jan-Hendrik Salver ([[German Football Association|Germany]])
+<br />'''Fourth official:'''
+<br />[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+<br />'''Fifth official:'''
+<br />Brahim Djezzar ([[Algerian Football Federation|Algeria]])
+|}
+
+===Argentina vs Serbia and Montenegro===
+<onlyinclude>{{#invoke:Football box|main|section=C3
+|date={{Start date|2006|6|16|df=y}}
+|time=15:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|2006 FIFA World Cup Group C#Argentina vs Serbia and Montenegro|6–0}}
+|team2={{fb|SCG}}
+|goals1=
+*[[Maxi Rodríguez|Rodríguez]] {{goal|6||41}}
+*[[Esteban Cambiasso|Cambiasso]] {{goal|31}}
+*[[Hernán Crespo|Crespo]] {{goal|78}}
+*[[Carlos Tevez|Tevez]] {{goal|84}}
+*[[Lionel Messi|Messi]] {{goal|88}}
+|goals2=
+|stadium=[[Arena AufSchalke]], [[Gelsenkirchen]]
+|attendance=52,000
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410021 |title=Argentina vs Serbia and Montenegro {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410021/index.html |title=2006 FIFA World Cup Germany – Matches – Argentina v Serbia and Montenegro |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213013738/http://www.fifa.com/worldcup/matches/round=97410100/match=97410021/index.html |archive-date=13 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/21_0616_gel_arg-scg_fulltime__1150469597.pdf |title=Match Report – Group C – Argentina v Serbia & Montenegro |publisher=[[FIFA]] |date=16 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054156/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/21_0616_gel_arg-scg_fulltime__1150469597.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _arg06a1
+| pattern_b  = _arg06a1
+| pattern_ra = _arg06a1
+| pattern_sh = _arg06h1
+| pattern_so = _adidasonnavyl
+| leftarm    = 000040
+| body       = 000040
+| rightarm   = 000040
+| shorts     = 000000
+| socks      = 80bfff
+| title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _scg06a
+ |pattern_b  = _scg06a
+ |pattern_ra = _scg06a
+ |pattern_sh = _scg06h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Serbia and Montenegro
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Abbondanzieri]]
+|-
+|RB ||'''21'''||[[Nicolás Burdisso]]
+|-
+|CB ||'''2''' ||[[Roberto Ayala]]
+|-
+|CB ||'''6''' ||[[Gabriel Heinze]]
+|-
+|LB ||'''3''' ||[[Juan Pablo Sorín]] ([[Captain (association football)|c]])
+|-
+|DM ||'''8''' ||[[Javier Mascherano]]
+|-
+|RW ||'''22'''||[[Lucho González]] || || {{suboff|17}}
+|-
+|AM ||'''10'''||[[Juan Román Riquelme]]
+|-
+|LW ||'''18'''||[[Maxi Rodríguez]] || || {{suboff|75}}
+|-
+|CF ||'''7''' ||[[Javier Saviola]] || || {{suboff|59}}
+|-
+|CF ||'''9''' ||[[Hernán Crespo]] || {{yel|36}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Esteban Cambiasso]] || || {{subon|17}}
+|-
+|FW ||'''11'''||[[Carlos Tevez]] || || {{subon|59}}
+|-
+|FW ||'''19'''||[[Lionel Messi]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Pékerman]]
+|}
+|valign="top"|[[File:ARG-SCG 2006-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dragoslav Jevrić]]
+|-
+|RB ||'''4''' ||[[Igor Duljaj]]
+|-
+|CB ||'''6''' ||[[Goran Gavrančić]]
+|-
+|CB ||'''15'''||[[Milan Dudić]]
+|-
+|LB ||'''20'''||[[Mladen Krstajić]] || {{yel|42}}
+|-
+|RM ||'''7''' ||[[Ognjen Koroman]] || {{yel|7}} || {{suboff|50}}
+|-
+|CM ||'''17'''||[[Albert Nađ]] || {{yel|27}} || {{suboff|46}}
+|-
+|CM ||'''11'''||[[Predrag Đorđević]]
+|-
+|LM ||'''10'''||[[Dejan Stanković]]
+|-
+|CF ||'''9''' ||[[Savo Milošević]] ([[Captain (association football)|c]]) || || {{suboff|70}}
+|-
+|CF ||'''8''' ||[[Mateja Kežman]] || {{sent off|0|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''2''' ||[[Ivan Ergić]] || || {{subon|46}}
+|-
+|FW ||'''21'''||[[Danijel Ljuboja]] || || {{subon|50}}
+|-
+|MF ||'''18'''||[[Zvonimir Vukić]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ilija Petković]]
+|}
+|}
+{{wikinews|Argentina thrash Serbia and Montenegro in Group C}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Juan Román Riquelme]] (Argentina)
+
+'''Assistant referees:'''
+<br />Cristiano Copelli ([[Italian Football Federation|Italy]])
+<br />Alessandro Stagnoli ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''
+<br />[[Essam Abd El Fatah]] ([[Egyptian Football Association|Egypt]])
+<br />'''Fifth official:'''
+<br />Dramane Danté ([[Malian Football Federation|Mali]])
+|}
+
+===Netherlands vs Ivory Coast===
+<onlyinclude>{{#invoke:Football box|main|section=C4
+|date={{Start date|2006|6|16|df=y}}
+|time=18:00
+|team1={{fb-rt|NED}}
+|score={{score link|2006 FIFA World Cup Group C#Netherlands vs Ivory Coast|2–1}}
+|team2={{fb|CIV}}
+|goals1=
+*[[Robin van Persie|Van Persie]] {{goal|23}}
+*[[Ruud van Nistelrooy|Van Nistelrooy]] {{goal|27}}
+|goals2=
+*[[Bakari Koné|B. Koné]] {{goal|38}}
+|stadium=[[MHPArena|Gottlieb-Daimler-Stadion]], [[Stuttgart]]
+|attendance=52,000
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410022 |title=Netherlands vs Côte d'Ivoire {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410022/index.html |title=2006 FIFA World Cup Germany – Matches – Netherlands v Côte d'Ivoire |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229062546/http://www.fifa.com/worldcup/matches/round=97410100/match=97410022/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/22_0616_stu_ned-civ_fulltime__1150536190.pdf |title=Match Report – Group C – Netherlands v Côte d'Ivoire |publisher=[[FIFA]] |date=16 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054213/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/22_0616_stu_ned-civ_fulltime__1150536190.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _collar
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _2_stripes_white
+ |leftarm    = F1771D
+ |body       = F1771D
+ |rightarm   = F1771D
+ |shorts     = F1771D
+ |socks      = F1771D
+ |title      = Netherlands
+}}
+|{{Football kit
+ |pattern_la = _thingreenborder
+ |pattern_b  = _civ06a
+ |pattern_ra = _thingreenborder
+ |pattern_sh = _puma0607green
+ |pattern_so = _puma_2006_green
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ivory Coast
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]] ([[Captain (association football)|c]])
+|-
+|RB ||'''14'''||[[John Heitinga]] || || {{suboff|46}}
+|-
+|CB ||'''13'''||[[André Ooijer]]
+|-
+|CB ||'''4''' ||[[Joris Mathijsen]] || {{yel|35}}
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]]
+|-
+|RM ||'''18'''||[[Mark van Bommel]] || {{yel|58}}
+|-
+|CM ||'''20'''||[[Wesley Sneijder]] || || {{suboff|50}}
+|-
+|LM ||'''8''' ||[[Phillip Cocu]]
+|-
+|RF ||'''11'''||[[Arjen Robben]] || {{yel|34}}
+|-
+|CF ||'''9''' ||[[Ruud van Nistelrooy]] || || {{suboff|73}}
+|-
+|LF ||'''17'''||[[Robin van Persie]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Khalid Boulahrouz]] || || {{subon|46}}
+|-
+|MF ||'''10'''||[[Rafael van der Vaart]] || || {{subon|50}}
+|-
+|MF ||'''6''' ||[[Denny Landzaat]] || {{yel|90+4}} || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marco van Basten]]
+|}
+|valign="top"|[[File:NED-CIV 2006-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jean-Jacques Tizié]]
+|-
+|RB ||'''21'''||[[Emmanuel Eboué]]
+|-
+|CB ||'''4''' ||[[Kolo Touré]]
+|-
+|CB ||'''12'''||[[Abdoulaye Méïté]]
+|-
+|LB ||'''3''' ||[[Arthur Boka]] || {{yel|66}}
+|-
+|CM ||'''19'''||[[Yaya Touré]]
+|-
+|CM ||'''5''' ||[[Didier Zokora]] || {{yel|25}}
+|-
+|CM ||'''22'''||[[Romaric (footballer)|Romaric]] || || {{suboff|62}}
+|-
+|RF ||'''14'''||[[Bakari Koné]] || || {{suboff|62}}
+|-
+|CF ||'''11'''||[[Didier Drogba]] ([[Captain (association football)|c]]) || {{yel|41}}
+|-
+|LF ||'''9''' ||[[Arouna Koné]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Gilles Yapi Yapo]] || || {{subon|62}}
+|-
+|FW ||'''15'''||[[Aruna Dindane]] || || {{subon|62}}
+|-
+|MF ||'''2''' ||[[Kanga Akalé]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|}
+{{wikinews|Netherlands defeat Ivory Coast in Group C}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Arjen Robben]] (Netherlands)
+
+'''Assistant referees:'''
+<br />José Navia ([[Colombian Football Federation|Colombia]])
+<br />Fernando Tamayo ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''Fourth official:'''
+<br />[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+<br />'''Fifth official:'''
+<br />José Luis Camargo ([[Mexican Football Federation|Mexico]])
+|}
+
+===Netherlands vs Argentina===
+{{see also|Argentina–Netherlands football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=C5
+|date={{Start date|2006|6|21|df=y}}
+|time=21:00
+|team1={{fb-rt|NED}}
+|score={{score link|2006 FIFA World Cup Group C#Netherlands vs Argentina|0–0}}
+|team2={{fb|ARG|1861}}
+|goals1=
+|goals2=
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=48,000
+|referee=[[Luis Medina Cantalejo]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410037 |title=Netherlands vs Argentina {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410037/index.html |title=2006 FIFA World Cup Germany – Matches – Netherlands v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170909043117/http://www.fifa.com/worldcup/matches/round=97410100/match=97410037/index.html |archive-date=9 September 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/37_0621_frf_ned-arg_fulltime__1150923481.pdf |title=Match Report – Group C – Netherlands v Argentina |publisher=[[FIFA]] |date=21 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054604/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/37_0621_frf_ned-arg_fulltime__1150923481.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _collar
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _2_stripes_white
+ |leftarm    = F1771D
+ |body       = F1771D
+ |rightarm   = F1771D
+ |shorts     = F1771D
+ |socks      = F1771D
+ |title      = Netherlands
+}}
+|{{Football kit
+ |pattern_la = _arg06h1
+ |pattern_b  = _arg06h1
+ |pattern_ra = _arg06h1
+ |pattern_sh = _arg06h
+ |pattern_so = _arg06hl
+ |leftarm    = 75AADB
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Argentina
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Kew Jaliens]]
+|-
+|CB ||'''3''' ||[[Khalid Boulahrouz]]
+|-
+|CB ||'''13'''||[[André Ooijer]] || {{yel|42}}
+|-
+|LB ||'''15'''||[[Tim de Cler]] || {{yel|48}}
+|-
+|RM ||'''10'''||[[Rafael van der Vaart]]
+|-
+|CM ||'''20'''||[[Wesley Sneijder]] || || {{suboff|86}}
+|-
+|LM ||'''8''' ||[[Phillip Cocu]]
+|-
+|RF ||'''17'''||[[Robin van Persie]] || || {{suboff|67}}
+|-
+|CF ||'''9''' ||[[Ruud van Nistelrooy]] || || {{suboff|56}}
+|-
+|LF ||'''7''' ||[[Dirk Kuyt]] || {{yel|28}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Ryan Babel]] || || {{subon|56}}
+|-
+|MF ||'''6''' ||[[Denny Landzaat]] || || {{subon|67}}
+|-
+|MF ||'''16'''||[[Hedwiges Maduro]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marco van Basten]]
+|}
+|valign="top"|[[File:NED-ARG 2006-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Abbondanzieri]]
+|-
+|RB ||'''21'''||[[Nicolás Burdisso]] || || {{suboff|24}}
+|-
+|CB ||'''2''' ||[[Roberto Ayala]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||[[Gabriel Milito]]
+|-
+|LB ||'''17'''||[[Leandro Cufré]]
+|-
+|RM ||'''18'''||[[Maxi Rodríguez]]
+|-
+|CM ||'''8''' ||[[Javier Mascherano]] || {{yel|90}}
+|-
+|LM ||'''5''' ||[[Esteban Cambiasso]] || {{yel|57}}
+|-
+|AM ||'''10'''||[[Juan Román Riquelme]] || || {{suboff|80}}
+|-
+|CF ||'''19'''||[[Lionel Messi]] || || {{suboff|70}}
+|-
+|CF ||'''11'''||[[Carlos Tevez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Fabricio Coloccini]] || || {{subon|24}}
+|-
+|FW ||'''20'''||[[Julio Ricardo Cruz|Julio Cruz]] || || {{subon|70}}
+|-
+|MF ||'''16'''||[[Pablo Aimar]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Pékerman]]
+|}
+|}
+{{wikinews|Argentina and Netherlands play 0-0 stalemate in Group C}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Carlos Tevez]] (Argentina)
+
+'''Assistant referees:'''
+<br />Victoriano Giráldez Carrasco ([[Royal Spanish Football Federation|Spain]])
+<br />Pedro Medina Hernández ([[Royal Spanish Football Federation|Spain]])
+<br />'''Fourth official:'''
+<br />Carlos Chandía ([[Football Federation of Chile|Chile]])
+<br />'''Fifth official:'''
+<br />Rodrigo González ([[Football Federation of Chile|Chile]])
+|}
+
+===Ivory Coast vs Serbia and Montenegro===
+[[File:Ivory Coast penalty.jpg|thumb|right|[[Bonaventure Kalou]] scored the winning goal for the Ivory Coast with a [[Penalty kick (association football)|penalty kick]] in the 86th minute.]]
+<onlyinclude>{{#invoke:Football box|main|section=C6
+|date={{Start date|2006|6|21|df=y}}
+|time=21:00
+|team1={{fb-rt|CIV}}
+|score={{score link|2006 FIFA World Cup Group C#Ivory Coast vs Serbia and Montenegro|3–2}}
+|team2={{fb|SCG}}
+|goals1=
+*[[Aruna Dindane|Dindane]] {{goal|37|pen.|67}}
+*[[Bonaventure Kalou|Kalou]] {{goal|86|pen.}}
+|goals2=
+*[[Nikola Žigić|Žigić]] {{goal|10}}
+*[[Saša Ilić (footballer, born 1977)|Ilić]] {{goal|20}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=66,000
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410038 |title=Côte d'Ivoire vs Serbia and Montenegro {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410038/index.html |title=2006 FIFA World Cup Germany – Matches – Côte d'Ivoire v Serbia and Montenegro |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228214859/http://www.fifa.com/worldcup/matches/round=97410100/match=97410038/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/38_0621_muc_civ-scg_fulltime__1150923481.pdf |title=Match Report – Group C – Côte d'Ivoire v Serbia & Montenegro |publisher=[[FIFA]] |date=21 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054556/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/38_0621_muc_civ-scg_fulltime__1150923481.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _thingreenborder
+ |pattern_b  = _civ06h
+ |pattern_ra = _thingreenborder
+ |pattern_sh = _puma0607green
+ |pattern_so = _puma_2006_green
+ |leftarm    = FF8000
+ |body       = FF8000
+ |rightarm   = FF8000
+ |shorts     = FF8000
+ |socks      = FF8000
+ |title      = Ivory Coast
+}}
+|{{Football kit
+ |pattern_la = _scg06h
+ |pattern_b  = _scg06h
+ |pattern_ra = _scg06h
+ |pattern_sh = _scg06h
+ |pattern_so = 
+ |leftarm    = 2354A7
+ |body       = 2354A7
+ |rightarm   = 2354A7
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Serbia and Montenegro
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''23'''||[[Boubacar Barry]]
+|-
+|RB ||'''21'''||[[Emmanuel Eboué]]
+|-
+|CB ||'''6''' ||[[Blaise Kouassi (footballer, born 1974)|Blaise Kouassi]]
+|-
+|CB ||'''17'''||[[Cyril Domoraud]] ([[Captain (association football)|c]]) || {{sent off|2|41|90+2}}
+|-
+|LB ||'''3''' ||[[Arthur Boka]]
+|-
+|RM ||'''18'''||[[Abdul Kader Keïta]] || {{yel|33}} || {{suboff|73}}
+|-
+|CM ||'''5''' ||[[Didier Zokora]]
+|-
+|CM ||'''19'''||[[Yaya Touré]]
+|-
+|LM ||'''2''' ||[[Kanga Akalé]] || || {{suboff|60}}
+|-
+|CF ||'''15'''||[[Aruna Dindane]] || {{yel|43}}
+|-
+|CF ||'''9''' ||[[Arouna Koné]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Bakari Koné]] || || {{subon|60}}
+|-
+|FW ||'''8''' ||[[Bonaventure Kalou]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|valign="top"|[[File:CIV-SCG 2006-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dragoslav Jevrić]]
+|-
+|RB ||'''14'''||[[Nenad Đorđević]]
+|-
+|CB ||'''6''' ||[[Goran Gavrančić]] || {{yel|57}}
+|-
+|CB ||'''15'''||[[Milan Dudić]] || {{yel|35}}
+|-
+|LB ||'''20'''||[[Mladen Krstajić]] || || {{suboff|16}}
+|-
+|RM ||'''10'''||[[Dejan Stanković]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||[[Igor Duljaj]] || {{yel|37}}
+|-
+|CM ||'''22'''||[[Saša Ilić (footballer, born 1977)|Saša Ilić]]
+|-
+|CM ||'''11'''||[[Predrag Đorđević]]
+|-
+|LM ||'''2''' ||[[Ivan Ergić]]
+|-
+|CF ||'''19'''||[[Nikola Žigić]] || || {{suboff|67}}
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Albert Nađ]] || {{sent off|2|17|45+1}} || {{subon|16}}
+|-
+|FW ||'''9''' ||[[Savo Milošević]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ilija Petković]]
+|}
+|}
+{{wikinews|Ivory Coast beats Serbia and Montenegro 3-2 in Group C}}
+
+{|width="65%"
+|valign="top" width="60%" style="font-size: 90%"|
+'''Man of the Match:'''
+<br />[[Aruna Dindane]] (Ivory Coast)
+
+'''Assistant referees:'''
+<br />José Luis Camargo ([[Mexican Football Federation|Mexico]])
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''Fourth official:'''
+<br />[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+<br />'''Fifth official:'''
+<br />Brahim Djezzar ([[Algerian Football Federation|Algeria]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Ivory Coast at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+*[[Serbia and Montenegro at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2006 FIFA World Cup}}
+
+{{DEFAULTSORT:Group C}}
+[[Category:2006 FIFA World Cup group stage|C]]
+[[Category:Argentina at the 2006 FIFA World Cup|Group]]
+[[Category:Netherlands at the 2006 FIFA World Cup|Group]]
+[[Category:Serbia and Montenegro at the 2006 FIFA World Cup]]
+[[Category:Ivory Coast at the 2006 FIFA World Cup]]
+[[Category:Football competitions in Hamburg]]
+[[Category:2000s in Hamburg]]
+[[Category:Sports competitions in Leipzig]]
+[[Category:Football in Saxony]]
+[[Category:21st century in Leipzig]]
+[[Category:2000s in Saxony]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:21st century in Gelsenkirchen]]
+[[Category:Football in North Rhine-Westphalia]]
+[[Category:2000s in North Rhine-Westphalia]]
+[[Category:Football in Stuttgart]]
+[[Category:Sports competitions in Stuttgart]]
+[[Category:2000s in Baden-Württemberg]]
+[[Category:21st century in Stuttgart]]
+[[Category:Football competitions in Frankfurt]]
+[[Category:2000s in Frankfurt]]
+[[Category:Football competitions in Munich]]
+[[Category:2000s in Munich]]
+[[Category:2006 in Bavaria]]

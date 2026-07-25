@@ -1,0 +1,703 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group B of the 1978 FIFA World Cup''' was one of two groups of nations competing for the de facto semi-finals of the [[1978 FIFA World Cup]]. The group's first round of matches began on 14 June and its last matches were played on 21 June. All six group matches were played either at the [[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]] in [[Mendoza, Argentina|Mendoza]], or the [[Estadio Gigante de Arroyito]] in [[Rosario]]. The group consisted of [[Argentina national football team|Argentina]], [[Brazil national football team|Brazil]], [[Peru national football team|Peru]] and [[Poland national football team|Poland]].<ref>{{cite web |url=https://www.rsssf.org/tables/78full.html |title=World Cup 1978 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Argentina advanced to the final match, and Brazil advanced to the match for third place.<ref>{{cite web|title=1978 World Cup|url=https://www.fifa.com/worldcup/archive/argentina1978/groups/index.html|archive-url=https://web.archive.org/web/20150330175434/http://www.fifa.com/worldcup/archive/argentina1978/groups/index.html|url-status=dead|archive-date=30 March 2015|work=fifa.com|accessdate=3 April 2018}}</ref>
+
+==Qualified teams==
+The winners of Group 2 and 4 and the runners-up of Group 1 and 3 qualified for Group B of the second round.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+|-
+! [[1978 FIFA World Cup Group 2|2]]
+| {{fb|POL|1928}}
+|-
+! [[1978 FIFA World Cup Group 4|4]]
+| {{fb|PER}}
+|-
+! Group
+! width="150" | Runners-up
+|-
+! [[1978 FIFA World Cup Group 1|1]]
+| {{fb|ARG|1861}}
+|-
+! [[1978 FIFA World Cup Group 3|3]]
+| {{fb|BRA|1968}}
+|}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150330175434/http://www.fifa.com/worldcup/archive/argentina1978/groups/index.html FIFA]
+
+|team1=ARG |team2=BRA |team3=POL |team4=PER
+|result1=F |result2=TP
+
+|win_ARG=2 |draw_ARG=1 |loss_ARG=0 |gf_ARG=8 |ga_ARG=0
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=6 |ga_BRA=1
+|win_POL=1 |draw_POL=0 |loss_POL=2 |gf_POL=2 |ga_POL=5
+|win_PER=0 |draw_PER=0 |loss_PER=3 |gf_PER=0 |ga_PER=10
+
+|name_POL={{fb|POL|1928}}
+|name_BRA={{fb|BRA|1968}}
+|name_ARG={{fb|ARG|1861}}
+|name_PER={{fb|PER}}
+|res_col_header=Q
+|col_F=green1 |text_F=Advance to [[1978 FIFA World Cup#Final|final]]
+
+|col_TP=blue1 |text_TP=Advance to {{nowrap|[[1978 FIFA World Cup#Match for third place|match for third place]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Brazil vs Peru===
+
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|1978|6|14|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1978 FIFA World Cup Group B#Brazil vs Peru|3–0}}
+|team2={{fb|PER}}
+|goals1=
+*[[Dirceu]] {{goal|15||27}}
+*[[Zico (footballer)|Zico]] {{goal|72|pen.}}
+|goals2=
+|stadium=[[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|attendance=31,278
+|referee=[[Nicolae Rainea]] ([[Romanian Football Association|Romania]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2251 |title=Brazil vs Peru {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2251/index.html |title=1978 FIFA World Cup Argentina – Matches – Brazil v Peru |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214194800/http://www.fifa.com/worldcup/matches/round=279/match=2251/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = _bra78h
+| pattern_b  = _bra78h
+| pattern_ra = _bra78h
+| pattern_sh = _adidaswhite
+| pattern_so = _bra88olyhl
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = 0070F9
+| socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  =  _per78h
+ | pattern_ra = _shoulder_stripes_red_stripes
+ |pattern_sh = _red_stripes_adidas
+ |pattern_so = _3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Peru
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' || [[Émerson Leão]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' || [[Antônio Dias dos Santos|Toninho]] || || {{suboff|76}}
+|-
+|DF ||'''3''' || [[Oscar (footballer, born 1954)|Oscar]]
+|-
+|DF ||'''4''' || [[João Justino Amaral dos Santos|Amaral]]
+|-
+|DF ||'''16''' || [[José Rodrigues Neto|Rodrigues Neto]]
+|-
+|MF ||'''17''' ||[[João Batista da Silva|Batista]]
+|-
+|MF ||'''5''' || [[Toninho Cerezo]]
+|-
+|MF ||'''11''' || [[Dirceu]]
+|-
+|FW ||'''18''' || [[Gilberto Alves|Gil]] || || {{suboff|70}}
+|-
+|FW ||'''19''' || [[Jorge Mendonça (footballer, born 1954)|Jorge Mendonça]]
+|-
+|FW ||'''20''' || [[Roberto Dinamite]] || {{yel|80}}
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|MF ||'''8''' || [[Zico (footballer)|Zico]] || {{subon|70}}
+|-
+|MF ||'''21''' || [[Chicão (footballer, born 1949)|Chicão]] || {{subon|76}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Cláudio Coutinho]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21''' || [[Ramón Quiroga]]
+|-
+|DF ||'''4''' || [[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' || [[Rodolfo Manzo]]
+|-
+|DF ||'''2''' || [[Jaime Duarte]]
+|-
+|DF ||'''5''' || [[Rubén Toribio Díaz|Rubén Díaz]] || || {{suboff|11}}
+|-
+|MF ||'''6''' ||[[José Velásquez (footballer, born 1952)|José Velásquez]] ||{{yel|75}}
+|-
+|MF ||'''8''' || [[César Cueto]]
+|-
+|MF ||'''10''' || [[Teófilo Cubillas]]
+|-
+|FW ||'''7''' || [[Juan José Muñante|Juan Muñante]]
+|-
+|FW ||'''11''' || [[Juan Carlos Oblitas]] || || {{suboff|46}}
+|-
+|FW ||'''19''' || [[Guillermo La Rosa]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|DF ||'''14''' || [[José Navarro (footballer, born 1948)|José Navarro]] || {{subon|11}}
+|-
+|FW ||'''9''' || [[Percy Rojas]] || {{subon|46}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Marcos Calderón]]
+|}
+|}
+
+===Argentina vs Poland===
+
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|1978|6|14|df=y}}
+|time=19:15 [[Time in Argentina|ART]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1978 FIFA World Cup Group B#Argentina vs Poland|2–0}}
+|team2={{fb|POL|1928}}
+|goals1=
+*[[Mario Kempes|Kempes]] {{goal|16||71}}
+|goals2=
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance=37,091
+|referee=[[Ulf Eriksson (referee)|Ulf Eriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2202 |title=Argentina vs Poland {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2202/index.html |title=1978 FIFA World Cup Argentina – Matches – Argentina v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220151107/http://www.fifa.com/worldcup/matches/round=279/match=2202/index.html |archive-date=20 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _arg7879h
+|pattern_b  = _arg7879h
+|pattern_ra = _arg7879h
+|pattern_sh = _arg78a
+|pattern_so = _arg78h
+|leftarm    = 75aadb
+|body       = 75aadb
+|rightarm   = 75aadb
+|shorts     = ffffff
+|socks      = ffffff
+|title      = Argentina
+}}
+|{{Football kit
+|pattern_la = _shoulder_stripes_white_stripes
+|pattern_b  = _pol78A
+|pattern_ra = _shoulder_stripes_white_stripes
+|pattern_sh = _white_stripes_adidas
+|pattern_so = _color_3_stripes_white
+|leftarm    = ff0000
+|body       = ff0000
+|rightarm   = ff0000
+|shorts     = ff0000
+|socks      = ff0000
+|title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''5''' || [[Ubaldo Fillol]]
+|-
+|DF || '''19''' || [[Daniel Passarella]] ([[Captain (association football)|c]])
+|-
+|DF || '''7''' || [[Luis Galván]]
+|-
+|DF || '''20''' || [[Alberto Tarantini]]
+|-
+|DF || '''15''' || [[Jorge Olguín]]
+|-
+|MF || '''6''' || [[Américo Gallego]] ||{{yel|43}}
+|-
+|MF || '''2''' || [[Osvaldo Ardiles]]
+|-
+|MF || '''21''' || [[José Daniel Valencia]] || || {{suboff|46}}
+|-
+|FW || '''9''' || [[René Houseman]] || || {{suboff|83}}
+|-
+|FW || '''10''' || [[Mario Kempes]]
+|-
+|FW || '''4''' || [[Daniel Bertoni]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''22''' || [[Ricardo Villa]] || || {{subon|46}}
+|-
+|FW || '''16''' || [[Oscar Alberto Ortiz]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[César Luis Menotti]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || [[Jan Tomaszewski]]
+|-
+|DF ||'''8''' || [[Henryk Kasperczak]]
+|-
+|DF ||'''9''' || [[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF ||'''3''' || [[Henryk Maculewicz]]||{{yel|42}}
+|-
+|DF ||'''4''' || [[Antoni Szymanowski]]
+|-
+|MF ||'''5''' ||[[Adam Nawałka]]
+|-
+|MF ||'''11''' || [[Bohdan Masztaler]] || || {{suboff|64}}
+|-
+|MF ||'''12''' || [[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|MF ||'''18''' || [[Zbigniew Boniek]]
+|-
+|FW ||'''16''' || [[Grzegorz Lato]]
+|-
+|FW ||'''17''' || [[Andrzej Szarmach]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|FW ||'''2''' || [[Włodzimierz Mazur]] || || {{subon|64}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Jacek Gmoch]]
+|}
+|}
+
+===Peru vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|1978|6|18|df=y}}
+|time=13:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|PER}}
+|score={{score link|1978 FIFA World Cup Group B#Peru vs Poland|0–1}}
+|team2={{fb|POL|1928}}
+|goals1=
+|goals2=
+*[[Andrzej Szarmach|Szarmach]] {{goal|65}}
+|stadium=[[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|attendance=35,288
+|referee=[[Pat Partridge]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2450 |title=Poland vs Peru {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2450/index.html |title=1978 FIFA World Cup Argentina – Matches – Poland v Peru |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001801/http://www.fifa.com/worldcup/matches/round=279/match=2450/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  =  _per78h
+ | pattern_ra = _shoulder_stripes_red_stripes
+ |pattern_sh = _red_stripes_adidas
+ |pattern_so = _3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Peru
+}}
+|{{Football kit
+|pattern_la = _shoulder_stripes_white_stripes
+|pattern_b  = _pol78A
+|pattern_ra = _shoulder_stripes_white_stripes
+|pattern_sh = _white_stripes_adidas
+|pattern_so = _color_3_stripes_white
+|leftarm    = ff0000
+|body       = ff0000
+|rightarm   = ff0000
+|shorts     = ff0000
+|socks      = ff0000
+|title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21''' ||[[Ramón Quiroga]]|| {{yel|89}}
+|-
+|DF ||'''4''' ||[[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[Rodolfo Manzo]]||{{yel|7}}
+|-
+|DF ||'''2''' ||[[Jaime Duarte]]
+|-
+|DF ||'''14''' ||[[José Navarro (footballer, born 1948)|José Navarro]]
+|-
+|MF ||'''8''' ||[[César Cueto]]
+|-
+|MF ||'''10''' ||[[Teófilo Cubillas]]
+|-
+|MF ||'''17''' ||[[Alfredo Quesada]]
+|-
+|FW ||'''7''' || [[Juan José Muñante|Juan Muñante]] || || {{suboff|46}}
+|-
+|FW ||'''11''' || [[Juan Carlos Oblitas]]
+|-
+|FW ||'''19''' || [[Guillermo La Rosa]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''9''' ||[[Percy Rojas]] || || {{subon|46}}
+|-
+|FW || '''20''' ||[[Hugo Sotil]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marcos Calderón]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21''' ||[[Zygmunt Kukla (footballer)|Zygmunt Kukla]]
+|-
+|DF ||'''3''' ||[[Henryk Maculewicz]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF||'''6'''||[[Jerzy Gorgoń]]||{{yel|59}}
+|-
+|DF ||'''9''' ||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|MF ||'''5''' ||[[Adam Nawałka]]
+|-
+|MF ||'''11''' ||[[Bohdan Masztaler]] || || {{suboff|46}}
+|-
+|MF ||'''12''' ||[[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|MF ||'''18''' ||[[Zbigniew Boniek]] ||{{yel|75}} || {{suboff|86}}
+|-
+|FW ||'''16''' ||[[Grzegorz Lato]]
+|-
+|FW ||'''17''' ||[[Andrzej Szarmach]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|DF ||'''8''' ||[[Henryk Kasperczak]] || ||{{subon|46}}
+|-
+|FW ||'''19''' ||[[Włodzimierz Lubański]] || ||{{subon|86}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Jacek Gmoch]]
+|}
+|}
+
+===Argentina vs Brazil===
+{{see also|Argentina–Brazil football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|1978|6|18|df=y}}
+|time=19:15 [[Time in Argentina|ART]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1978 FIFA World Cup Group B#Argentina vs Brazil|0–0}}
+|team2={{fb|BRA|1968}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance=37,326
+|referee=[[Károly Palotai]] ([[Hungarian Football Association|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2196 |title=Argentina vs Brazil {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2196/index.html |title=1978 FIFA World Cup Argentina – Matches – Argentina v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211234233/http://www.fifa.com/worldcup/matches/round=279/match=2196/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _arg7879h
+|pattern_b  = _arg7879h
+|pattern_ra = _arg7879h
+|pattern_sh = _arg7879h
+|pattern_so = 
+|leftarm    = 75aadb
+|body       = 75aadb
+|rightarm   = 75aadb
+|shorts     = 000000
+|socks      = 000000
+|title      = Argentina
+}}
+|{{Football kit
+| pattern_la = _bra78h
+| pattern_b  = _bra78h
+| pattern_ra = _bra78h
+| pattern_sh = _adidasblue
+| pattern_so = _bra88olyhl
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''5''' || [[Ubaldo Fillol]]
+|-
+|DF || '''19''' || [[Daniel Passarella]] ([[Captain (association football)|c]])
+|-
+|DF || '''7''' || [[Luis Galván]]
+|-
+|DF || '''20''' || [[Alberto Tarantini]]
+|-
+|DF || '''15''' || [[Jorge Olguín]]
+|-
+|MF || '''6''' || [[Américo Gallego]]
+|-
+|MF || '''2''' || [[Osvaldo Ardiles]] || || {{suboff|46}}
+|-
+|MF || '''10''' || [[Mario Kempes]]
+|-
+|FW || '''4''' || [[Daniel Bertoni]]
+|-
+|FW || '''16''' || [[Oscar Alberto Ortiz]] || || {{suboff|60}}
+|-
+|FW || '''14''' || [[Leopoldo Luque]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''22''' || [[Ricardo Villa]] || {{yel|48}} || {{subon|46}}
+|-
+|FW || '''1''' || [[Norberto Alonso]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[César Luis Menotti]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || [[Émerson Leão]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' || [[Antônio Dias dos Santos|Toninho]]
+|-
+|DF ||'''3''' || [[Oscar (footballer, born 1954)|Oscar]]
+|-
+|DF ||'''4''' || [[João Justino Amaral dos Santos|Amaral]]
+|-
+|DF ||'''16''' || [[José Rodrigues Neto|Rodrigues Neto]] || || {{suboff|34}}
+|-
+|MF ||'''17''' ||[[João Batista da Silva|Batista]]
+|-
+|MF ||'''21''' || [[Chicão (footballer, born 1949)|Chicão]] || {{yel|45}}
+|-
+|MF ||'''11''' || [[Dirceu]]
+|-
+|FW ||'''18''' || [[Gilberto Alves|Gil]]
+|-
+|FW ||'''19''' || [[Jorge Mendonça (footballer, born 1954)|Jorge Mendonça]] || || {{suboff|67}}
+|-
+|FW ||'''20''' || [[Roberto Dinamite]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|DF ||'''6''' || [[Edinho (footballer, born 1955)|Edinho]]|| {{yel|66}} || {{subon|34}}
+|-
+|MF ||'''8''' || [[Zico (footballer)|Zico]] || {{yel|74}}|| {{subon|67}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Cláudio Coutinho]]
+|}
+|}
+
+===Brazil vs Poland===
+
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|1978|6|21|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1978 FIFA World Cup Group B#Brazil vs Poland|3–1}}
+|team2={{fb|POL|1928}}
+|goals1=
+*[[Nelinho]] {{goal|13}}
+*[[Roberto Dinamite|Dinamite]] {{goal|58||63}}
+|goals2=
+*[[Grzegorz Lato|Lato]] {{goal|45}}
+|stadium=[[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|attendance=39,586
+|referee=[[Juan Silvagno Cavanna]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2252 |title=Brazil vs Poland {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2252/index.html |title=1978 FIFA World Cup Argentina – Matches – Brazil v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001755/http://www.fifa.com/worldcup/matches/round=279/match=2252/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _bra78a
+| pattern_b  = _bra78a
+| pattern_ra = _bra78a
+| pattern_sh = _bra78a
+| pattern_so = _bra88olyhl
+| leftarm    = 0000BB
+| body       = 0000BB
+| rightarm   = 0000BB
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Brazil
+}}
+|{{Football kit
+|pattern_la = _shoulder_stripes_red_stripes
+|pattern_b  = _adidas_redshoulder
+|pattern_ra = _shoulder_stripes_red_stripes
+|pattern_sh = _adidas_white
+|pattern_so = _color_3_stripes_white
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FF0000
+|socks      = FF0000
+|title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' || [[Émerson Leão]] ([[Captain (association football)|c]])
+|-
+|DF ||'''13''' || [[Nelinho]]
+|-
+|DF ||'''3''' || [[Oscar (footballer, born 1954)|Oscar]]
+|-
+|DF ||'''4''' || [[João Justino Amaral dos Santos|Amaral]]
+|-
+|DF ||'''2''' || [[Antônio Dias dos Santos|Toninho]]
+|-
+|MF ||'''17''' ||[[João Batista da Silva|Batista]]
+|-
+|MF ||'''5''' || [[Toninho Cerezo]] ||{{yel|45}} || {{suboff|77}}
+|-
+|MF ||'''8''' || [[Zico (footballer)|Zico]] || || {{suboff|7}}
+|-
+|FW ||'''11''' || [[Dirceu]]
+|-
+|FW ||'''18''' || [[Gilberto Alves|Gil]]
+|-
+|FW ||'''20''' || [[Roberto Dinamite]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|FW ||'''19''' || [[Jorge Mendonça (footballer, born 1954)|Jorge Mendonça]] ||{{yel|53}}|| {{subon|7}}
+|-
+|MF ||'''10''' || [[Rivellino]] || {{subon|77}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Cláudio Coutinho]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21''' || [[Zygmunt Kukla (footballer)|Zygmunt Kukla]]
+|-
+|DF ||'''4''' || [[Antoni Szymanowski]]
+|-
+|DF ||'''9''' || [[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF ||'''6''' || [[Jerzy Gorgoń]]
+|-
+|DF ||'''3''' || [[Henryk Maculewicz]]
+|-
+|MF ||'''5''' ||[[Adam Nawałka]]
+|-
+|MF ||'''8''' || [[Henryk Kasperczak]] || || {{suboff|64}}
+|-
+|MF ||'''12''' || [[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|MF ||'''18''' || [[Zbigniew Boniek]]
+|-
+|FW ||'''16''' || [[Grzegorz Lato]]
+|-
+|FW ||'''17''' || [[Andrzej Szarmach]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|FW ||'''19''' || [[Włodzimierz Lubański]] || {{subon|64}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Jacek Gmoch]]
+|}
+|}
+
+===Argentina vs Peru===
+{{main|Argentina v Peru (1978 FIFA World Cup)}}
+<onlyinclude>{{#invoke:transcludable section|main|section=B6|text={{#lst:Argentina v Peru (1978 FIFA World Cup)|B6}}}}</onlyinclude>
+{{#lst:Argentina v Peru (1978 FIFA World Cup)|Lineups}}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Brazil at the FIFA World Cup]]
+*[[Peru at the FIFA World Cup]]
+*[[Poland at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1978 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:1978 FIFA World Cup group stage]]
+[[Category:Argentina at the 1978 FIFA World Cup]]
+[[Category:Brazil at the 1978 FIFA World Cup]]
+[[Category:Peru at the 1978 FIFA World Cup]]
+[[Category:Poland at the 1978 FIFA World Cup]]
+[[Category:Argentina–Brazil football rivalry]]
+[[Category:Football competitions in Mendoza Province]]
+[[Category:Sport in Mendoza, Argentina]]
+[[Category:Football competitions in Rosario, Santa Fe]]

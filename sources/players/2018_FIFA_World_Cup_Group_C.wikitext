@@ -1,0 +1,1087 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=November 2017}}
+[[File:Russia stamp 2018 № 2347.jpg|thumb|2018 [[postage stamp]] from Russia depicting Group C of the [[2018 FIFA World Cup]] group stage]]
+Group C of the [[2018 FIFA World Cup]] took place from 16 to 26 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |archive-date=24 June 2018 |archive-url=https://web.archive.org/web/20180624041527/https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |url-status=dead }}</ref> The group consisted of eventual champions [[France national football team|France]], [[Australia men's national soccer team|Australia]], [[Peru national football team|Peru]], and [[Denmark national football team|Denmark]]. The top two teams, France and Denmark, advanced to the round of 16.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017}}</ref>
+
+France, Denmark, and the winners of the play-off between Australia and Peru (ultimately Australia) were drawn into [[2022 FIFA World Cup Group D|the same group]] again for the [[2022 FIFA World Cup]].<ref>{{Cite web |last=Summerscales |first=Robert |date=2022-04-01 |title=Full FIFA World Cup Draw Confirmed As USMNT Meet England In Group Stage At Qatar 2022 |url=https://www.si.com/fannation/soccer/futbol/news/full-fifa-world-cup-draw-as-usmnt-meet-england-at-qatar-2022 |access-date=2024-06-27 |website=Futbol on FanNation |language=en}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| C1 || style=white-space:nowrap | {{fb|FRA|1974}} || 1 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group A|UEFA Group A]] winners || 10 October 2017 || 15th || [[2014 FIFA World Cup|2014]] (quarter-finals) || data-sort-value="8.1" | '''Winners''' ([[1998 FIFA World Cup|1998]]) || 7 || 7
+|-
+| C2 || style=white-space:nowrap | {{fb|AUS}} || 4 || [[Asian Football Confederation|AFC]] || [[2018 FIFA World Cup qualification (CONCACAF–AFC play-off)|CONCACAF v AFC play-off]] winners || 15 November 2017 || 5th || [[2014 FIFA World Cup|2014]] (group stage) || data-sort-value="3.1" | Round of 16 ([[2006 FIFA World Cup|2006]]) || 43 || 36
+|-
+| C3 || style=white-space:nowrap | {{fb|PER}} || 2 || [[CONMEBOL]] || [[2018 FIFA World Cup qualification (OFC–CONMEBOL play-off)|OFC v CONMEBOL play-off]] winners || 15 November 2017 || 5th || [[1982 FIFA World Cup|1982]] (first group stage) || data-sort-value="4.2" | Quarter-finals ([[1970 FIFA World Cup|1970]]), Second round ([[1978 FIFA World Cup|1978]]) || 10 || 11
+|-
+| C4 || style=white-space:nowrap | {{fb|DEN}} || 3 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA second round|UEFA second round]] winners || 14 November 2017 || 5th || [[2010 FIFA World Cup|2010]] (group stage) || data-sort-value="4.1" | Quarter-finals ([[1998 FIFA World Cup|1998]]) || 19 || 12
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+|class_rules=[[2018 FIFA World Cup#Tiebreakers|Group stage tiebreakers]]
+|source=[https://www.fifa.com/worldcup/groups/index.html FIFA]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_FRA=2 |draw_FRA=1 |loss_FRA=0 |gf_FRA=3 |ga_FRA=1
+|win_AUS=0 |draw_AUS=1 |loss_AUS=2 |gf_AUS=2 |ga_AUS=5
+|win_PER=1 |draw_PER=0 |loss_PER=2 |gf_PER=2 |ga_PER=2
+|win_DEN=1 |draw_DEN=2 |loss_DEN=0 |gf_DEN=2 |ga_DEN=1
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=FRA |team2=DEN |team3=PER |team4=AUS
+
+<!--Country definitions-->
+|name_FRA={{fb|FRA|1974}}
+|name_AUS={{fb|AUS}}
+|name_PER={{fb|PER}}
+|name_DEN={{fb|DEN}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2018 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+*The winners of Group C, [[France national football team|France]], advanced to play the runners-up of [[2018 FIFA World Cup Group D|Group D]], [[Argentina national football team|Argentina]].
+*The runners-up of Group C, [[Denmark national football team|Denmark]], advanced to play the winners of [[2018 FIFA World Cup Group D|Group D]], [[Croatia national football team|Croatia]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===France vs Australia===
+The two teams had met in four previous matches, most recently in a 2013 friendly, a 6–0 France victory.<ref name=Kit7>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=7}}</ref>
+
+After a disjointed first half, the game sparked into life shortly after the interval as referee [[Andrés Cunha]] initially disallowed a French penalty, but after a call from the [[Video assistant referee|VAR]], changed his decision and awarded the penalty to France,  deciding that [[Josh Risdon]] had clipped [[Antoine Griezmann]] just inside the area. Griezmann would convert the penalty, which was the first World Cup penalty awarded by VAR. The opener was soon cancelled out just four minutes later by another penalty, Australian midfielder and captain, [[Mile Jedinak]], slotting home after [[Samuel Umtiti]] handled the ball in the box,<ref name="Goal France v Australia">{{cite web |last=Atkinson |first=Guy |title=Historic Griezmann goal and Pogba secure slender win |url=http://www.goal.com/en-us/match/france-v-australia/report/3g144vnu0gzm5blvn62rw2b55 |website=Goal.com |date=16 June 2018}}</ref> and they looked on course to hold one of the pre-tournament favourites until [[Paul Pogba]]'s lobbed effort confirmed by goal line technology deflected off Australia full-back [[Aziz Behich]] and the crossbar to fall inches over the goal-line.<ref name="Goal France v Australia"/><ref name="BBC France v Australia">{{cite web |last=Sutcliffe |first=Steve |title=France 2 Australia 1 |url=https://www.bbc.com/sport/football/44422186 |work=BBC Sport |date=16 June 2018}}</ref>
+
+The two penalties were scored in the game between France and Australia were only four minutes, seven seconds apart - the shortest period of time between two penalties being scored by different sides in a World Cup match. Both countries also featured their youngest ever World Cup players in [[Daniel Arzani]] at 19 years and 163 days and [[Kylian Mbappé]] at 19 years and 178 days.<ref name="Goal France v Australia"/><ref name="FRA-AUS recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-france--australia-2958142 |title=Own goal sees France edge Australia |publisher=FIFA |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520043411/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-france--australia-2958142 |archive-date=20 May 2026}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c1
+|date={{Start date|2018|6|16|df=y}}
+|time=13:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2018 FIFA World Cup Group C#France vs Australia|2–1}}
+|team2={{fb|AUS}}
+|goals1=
+*[[Antoine Griezmann|Griezmann]] {{goal|58|pen.}}
+*[[Aziz Behich|Behich]] {{goal|81|o.g.}}
+|goals2=
+*[[Mile Jedinak|Jedinak]] {{goal|62|pen.}}
+|stadium=[[Kazan Arena]], [[Kazan]]
+|attendance=41,279
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331533 |title=France vs Australia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/2e87b52818fb1ed9/original/d0nb6lisuh3rgphcyvwv-pdf.pdf |title=Match report – Group C – France v Australia |publisher=[[FIFA]] |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062647/https://digitalhub.fifa.com/m/2e87b52818fb1ed9/original/d0nb6lisuh3rgphcyvwv-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _frank18h
+ |pattern_b  = _fra18ho
+ |pattern_ra = _frank18h
+ |pattern_sh = _POR18A
+ |pattern_so = _fra18H2
+ |leftarm    = 112855
+ |body       = 112855
+ |rightarm   = 112855
+ |shorts     = FFFFFF
+ |socks      = 112855
+ |title      = France<ref name="FRA-AUS line-ups">{{cite web |url=https://digitalhub.fifa.com/m/16b65df2edb52b75/original/ov9pxo0db9p8tmz7ax84-pdf.pdf |title=Tactical Line-up – Group C – France v Australia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175106/https://digitalhub.fifa.com/m/16b65df2edb52b75/original/ov9pxo0db9p8tmz7ax84-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _austr18h
+ |pattern_b  = _aus18h
+ |pattern_ra = _austr18h
+ |pattern_sh = _aus18h
+ |pattern_so = _aus18H
+ |leftarm    = FFBB00
+ |body       = FFBB00
+ |rightarm   = FFBB00
+ |shorts     = FFBB00
+ |socks      = FFBB00
+ |title      = Australia<ref name="FRA-AUS line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Benjamin Pavard]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Samuel Umtiti]]
+|-
+|LB ||'''21'''||[[Lucas Hernandez]]
+|-
+|CM ||'''12'''||[[Corentin Tolisso]] || {{yel|76}} || {{suboff|78}}
+|-
+|CM ||'''13'''||[[N'Golo Kanté]]
+|-
+|CM ||'''6''' ||[[Paul Pogba]]
+|-
+|RF ||'''11'''||[[Ousmane Dembélé]] || || {{suboff|70}}
+|-
+|CF ||'''10'''||[[Kylian Mbappé]]
+|-
+|LF ||'''7''' ||[[Antoine Griezmann]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Olivier Giroud]] || || {{subon|70}}
+|-
+|FW ||'''18'''||[[Nabil Fekir]] || || {{subon|70}}
+|-
+|MF ||'''14'''||[[Blaise Matuidi]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-AUS 2018-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mathew Ryan]]
+|-
+|RB ||'''19'''||[[Josh Risdon]] || {{yel|57}}
+|-
+|CB ||'''5''' ||[[Mark Milligan]]
+|-
+|CB ||'''20'''||[[Trent Sainsbury]]
+|-
+|LB ||'''16'''||[[Aziz Behich]] || {{yel|87}}
+|-
+|CM ||'''15'''||[[Mile Jedinak]] ([[Captain (association football)|c]])
+|-
+|CM ||'''13'''||[[Aaron Mooy]]
+|-
+|RW ||'''7''' ||[[Mathew Leckie]] || {{yel|13}}
+|-
+|AM ||'''23'''||[[Tom Rogic]] || || {{suboff|72}}
+|-
+|LW ||'''10'''||[[Robbie Kruse]] || || {{suboff|84}}
+|-
+|CF ||'''11'''||[[Andrew Nabbout]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Tomi Juric]] || || {{subon|64}}
+|-
+|MF ||'''22'''||[[Jackson Irvine]] || || {{subon|72}}
+|-
+|FW ||'''17'''||[[Daniel Arzani]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NED}} [[Bert van Marwijk]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Antoine Griezmann]] (France)<ref name="FRA-AUS recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="FRA-AUS line-ups"/>
+<br />Nicolás Taran ([[Uruguayan Football Association|Uruguay]])
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Christian Schiemann ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+|}
+
+===Peru vs Denmark===
+The two teams had never met before in a FIFA-sanctioned match,<ref name=Kit>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association}}</ref> but both teams previously faced each other in an [[exhibition match]] at the [[1997 U.S. Cup]] (a 2–1 Denmark victory).<ref>{{cite web |language=Spanish |title=Peru vs Dinamarca: Asi le fue a la seleccion en el unico partido entre ambos equipos| url=https://elcomercio.pe/deporte-total/seleccion/peru-vs-dinamarca-le-seleccion-unico-partido-equipos-video-noticia-478251 |work=El Comercio |publisher=Empresa Editora El Comercio |date=9 May 2018 |access-date=26 June 2018}}</ref>
+
+[[Yoshimar Yotún]] lashed the ball into [[Kasper Schmeichel]]'s midriff from 25 yards as Peru began the game and [[Edison Flores]] lifted a shot over the crossbar from just outside the box. [[André Carrillo]] surged towards the Denmark box in the 13th minute and cut inside to curl a low drive towards the bottom-left corner, only for Schmeichel to pull off a diving save. Denmark began to dominate possession but it was not until the 27th minute that they attempted a shot on goal, [[Thomas Delaney]] launching the ball over. Denmark midfielder [[William Kvist]] was taken off on a stretcher after a sustaining a blow to the ribs in a challenge with [[Jefferson Farfán]], and then [[Christian Cueva]] was brought down in the penalty area by [[Yussuf Poulsen]]. The referee pointed to the spot upon reviewing video footage and Cueva blazed over, much to the dismay of Peru's sizable travelling support.<ref>{{cite web |last=Creek |first=Stephen |title=Heartbreak for Cueva as Poulsen strikes |url=http://www.goal.com/en-qa/match/peru-v-denmark/report/48v2zgrdav6wmog0wwbiowu7d |website=Goal.com |date=16 June 2018}}</ref> Adopting a more adventurous approach after the restart, Denmark were rewarded when [[Christian Eriksen]]'s precise through-ball allowed Poulsen to open the scoring with a low left foot shot.<ref name="PER-DEN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/per-v-den-review--461-wds-2958886 |title=Denmark do just enough to edge out Peru |publisher=FIFA |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520043755/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/per-v-den-review--461-wds-2958886 |archive-date=20 May 2026}}</ref> Peru were denied an immediate equaliser when Denmark goalkeeper Schmeichel produced a one-handed save to deny Flores. Substitute [[Paolo Guerrero]], who was only able to play after a Swiss tribunal lifted a 14-month drugs ban, backheeled a chance wide as Denmark held on.<ref name="BBC Peru v Denamrk">{{cite web |last=Emons |first=Michael |title=Peru 0 Denmark 1 |url=https://www.bbc.com/sport/football/44422187 |work=BBC Sport |date=16 June 2018}}</ref>
+
+Denmark have won three of their four World Cup matches against South American opponents, with the only exception being a [[1998 FIFA World Cup knockout stage#Brazil vs Denmark|3–2]] defeat against Brazil in the 1998 quarter-final.<ref name="BBC Peru v Denamrk"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=c2
+|date={{Start date|2018|6|16|df=y}}
+|time=19:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|PER}}
+|score={{score link|2018 FIFA World Cup Group C#Peru vs Denmark|0–1}}
+|team2={{fb|DEN}}
+|goals1=
+|goals2=
+*[[Yussuf Poulsen|Poulsen]] {{goal|59}}
+|stadium=[[Mordovia Arena]], [[Saransk]]
+|attendance=40,502
+|referee=[[Bakary Gassama]] ([[Gambia Football Federation|Gambia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331528 |title=Peru vs Denmark {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/35f6ee25b402ea4e/original/ndfeo9denffngezwh3ds-pdf.pdf |title=Match report – Group C – Peru v Denmark |publisher=[[FIFA]] |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062721/https://digitalhub.fifa.com/m/35f6ee25b402ea4e/original/ndfeo9denffngezwh3ds-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _per18h
+ |pattern_b  = _per18H
+ |pattern_ra = _per18h
+ |pattern_sh = _per18H
+ |pattern_so = _per18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Peru<ref name="PER-DEN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6bd45f7e498f1be6/original/k0zzlg5krzlf1bewy1tv-pdf.pdf |title=Tactical Line-up – Group C – Peru v Denmark |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 June 2018 |access-date=16 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175119/https://digitalhub.fifa.com/m/6bd45f7e498f1be6/original/k0zzlg5krzlf1bewy1tv-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _dene18h
+ |pattern_b  = _den18H
+ |pattern_ra = _dene18h
+ |pattern_sh = _dene18a
+ |pattern_so = _dene18h
+ |leftarm    = F90000
+ |body       = F90000
+ |rightarm   = F90000
+ |shorts     = F90000
+ |socks      = F90000
+ |title      = Denmark<ref name="PER-DEN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pedro Gallese]]
+|-
+|RB ||'''17'''||[[Luis Advíncula]]
+|-
+|CB ||'''2''' ||[[Alberto Junior Rodríguez|Alberto Rodríguez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||[[Christian Ramos]]
+|-
+|LB ||'''6''' ||[[Miguel Trauco]]
+|-
+|CM ||'''13'''||[[Renato Tapia]] || {{yel|38}} || {{suboff|87}}
+|-
+|CM ||'''19'''||[[Yoshimar Yotún]]
+|-
+|RW ||'''18'''||[[André Carrillo]]
+|-
+|AM ||'''8''' ||[[Christian Cueva]]
+|-
+|LW ||'''20'''||[[Edison Flores]] || || {{suboff|62}}
+|-
+|CF ||'''10'''||[[Jefferson Farfán]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Paolo Guerrero]] || || {{subon|62}}
+|-
+|FW ||'''11'''||[[Raúl Ruidíaz]] || || {{subon|85}}
+|-
+|MF ||'''23'''||[[Pedro Aquino]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Ricardo Gareca]]
+|}
+|valign="top"|[[File:PER-DEN 2018-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Kasper Schmeichel]]
+|-
+|RB ||'''14'''||[[Henrik Dalsgaard]]
+|-
+|CB ||'''4''' ||[[Simon Kjær]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Andreas Christensen]] || || {{suboff|81}}
+|-
+|LB ||'''17'''||[[Jens Stryger Larsen]]
+|-
+|CM ||'''7''' ||[[William Kvist]] || || {{suboff|35}}
+|-
+|CM ||'''10'''||[[Christian Eriksen]]
+|-
+|CM ||'''8''' ||[[Thomas Delaney]] || {{yel|86}}
+|-
+|RF ||'''20'''||[[Yussuf Poulsen]] || {{yel|90+3}}
+|-
+|CF ||'''9''' ||[[Nicolai Jørgensen]]
+|-
+|LF ||'''23'''||[[Pione Sisto]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Lasse Schöne]] || || {{subon|35}}
+|-
+|FW ||'''11'''||[[Martin Braithwaite]] || || {{subon|67}}
+|-
+|DF ||'''13'''||[[Mathias Jørgensen]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NOR}} [[Åge Hareide]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Yussuf Poulsen]] (Denmark)<ref name="PER-DEN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="PER-DEN line-ups"/>
+<br />Jean Claude Birumushahu ([[Football Federation of Burundi|Burundi]])
+<br />Abdelhak Etchiali ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mehdi Abid Charef]] ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Anouar Hmila ([[Tunisian Football Federation|Tunisia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Denmark vs Australia===
+The two teams had met in three previous matches, most recently in a friendly in 2012, with Denmark prevailing 2–0.<ref name=Kit/>
+
+[[Thomas Delaney]] headed wide from [[Pione Sisto]]'s cross after just two minutes against Australia. At the other end, [[Mathew Leckie]] rose above the Danish defence to head a corner over the bar but Denmark countered and [[Nicolai Jørgensen]]'s lay-off afforded [[Christian Eriksen]] the chance to hit a half-volley past [[Mathew Ryan]] and into the top left corner of the net. Sisto shot a 20-yard drive and Jørgensen flashed a close-range header just wide. In the 35th minute, referee consulted VAR and decided that [[Yussuf Poulsen]] used his arm to block Leckie's headed shot and awarded the penalty, which [[Mile Jedinak]] shot into the bottom right corner of the net. Poulsen had a penalty claim of his own waved away early in the second half after he tumbled to the ground on his way into the Australia box. [[Kasper Schmeichel]] failed to collect a looping long ball before Leckie flashed the ball across the face of goal. [[Daniel Arzani]] teed up [[Aaron Mooy]] for a shot that flew just over the top right corner of Schmeichel's goal from outside the box. [[Andrew Nabbout]] left the field with a dislocated shoulder and was replaced by [[Tomi Juric]].<ref>{{cite web |last=Creek |first=Stephen |title=Jedinak strikes back after Eriksen rocket |url=http://www.goal.com/en-au/match/denmark-v-australia/report/6p8l3bm8q34z4sa7tg976qi95 |website=Goal.com |date=21 June 2018}}</ref>
+
+After Ghana, Australia are the second team in World Cup history to score three consecutive goals from the penalty spot.<ref name="DEN-AUS recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/denmark-australia-share-the-spoils |title=Denmark, Australia share the spoils |publisher=FIFA |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045355/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/denmark-australia-share-the-spoils |archive-date=20 May 2026}}</ref> Poulsen is the first player to concede two penalties in a single World Cup since [[Milan Dudić]] for Serbia in 2006. [[Mark Milligan]] completed 85 passes in this match - a record for an Australian player in a single game at a World Cup tournament.<ref>{{cite web |last=Johnston |first=Neil |title=Denmark 1 Australia 1 |url=https://www.bbc.com/sport/football/44439100 |work=BBC Sport |date=21 June 2018}}</ref> As Poulsen had a yellow card in the previous match, he did not play for Denmark in the next match.
+
+<onlyinclude>{{#invoke:Football box|main|section=c3
+|date={{Start date|2018|6|21|df=y}}
+|time=16:00 [[Samara Time|SAMT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|DEN}}
+|score={{score link|2018 FIFA World Cup Group C#Denmark vs Australia|1–1}}
+|team2={{fb|AUS}}
+|goals1=
+*[[Christian Eriksen|Eriksen]] {{goal|7}}
+|goals2=
+*[[Mile Jedinak|Jedinak]] {{goal|38|pen.}}
+|stadium=[[Cosmos Arena]], [[Samara]]
+|attendance=40,727
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331518 |title=Denmark vs Australia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/64eae0dab926adda/original/wv5yv0zaqrwrs8likcxr-pdf.pdf |title=Match report – Group C – Denmark v Australia |publisher=[[FIFA]] |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063115/https://digitalhub.fifa.com/m/64eae0dab926adda/original/wv5yv0zaqrwrs8likcxr-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _dene18a
+ |pattern_b  = _den18A
+ |pattern_ra = _dene18a
+ |pattern_sh = _dene18a
+ |pattern_so = _dene18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Denmark<ref name="DEN-AUS line-ups">{{cite web |url=https://digitalhub.fifa.com/m/152ab5983058fad6/original/gibh9fwxvmyk50samwfp-pdf.pdf |title=Tactical Line-up – Group C – Denmark v Australia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175133/https://digitalhub.fifa.com/m/152ab5983058fad6/original/gibh9fwxvmyk50samwfp-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _aus18A
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _aus18A
+ |leftarm    = 24403C
+ |body       = 213A36
+ |rightarm   = 24403C
+ |shorts     = 213A36
+ |socks      = 213A36
+ |title      = Australia<ref name="DEN-AUS line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Kasper Schmeichel]]
+|-
+|RB ||'''14'''||[[Henrik Dalsgaard]]
+|-
+|CB ||'''4''' ||[[Simon Kjær]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Andreas Christensen]]
+|-
+|LB ||'''17'''||[[Jens Stryger Larsen]]
+|-
+|CM ||'''8''' ||[[Thomas Delaney]]
+|-
+|CM ||'''19'''||[[Lasse Schöne]]
+|-
+|CM ||'''10'''||[[Christian Eriksen]]
+|-
+|RF ||'''20'''||[[Yussuf Poulsen]] || {{yel|37}} || {{suboff|59}}
+|-
+|CF ||'''9''' ||[[Nicolai Jørgensen]] || || {{suboff|68}}
+|-
+|LF ||'''23'''||[[Pione Sisto]] || {{yel|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Martin Braithwaite]] || || {{subon|59}}
+|-
+|FW ||'''21'''||[[Andreas Cornelius]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NOR}} [[Åge Hareide]]
+|}
+|valign="top"|[[File:DEN-AUS 2018-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mathew Ryan]]
+|-
+|RB ||'''19'''||[[Josh Risdon]]
+|-
+|CB ||'''20'''||[[Trent Sainsbury]]
+|-
+|CB ||'''5''' ||[[Mark Milligan]]
+|-
+|LB ||'''16'''||[[Aziz Behich]]
+|-
+|CM ||'''15'''||[[Mile Jedinak]] ([[Captain (association football)|c]])
+|-
+|CM ||'''13'''||[[Aaron Mooy]]
+|-
+|RW ||'''7''' ||[[Mathew Leckie]]
+|-
+|AM ||'''23'''||[[Tom Rogic]] || || {{suboff|82}}
+|-
+|LW ||'''10'''||[[Robbie Kruse]] || || {{suboff|68}}
+|-
+|CF ||'''11'''||[[Andrew Nabbout]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Daniel Arzani]] || || {{subon|68}}
+|-
+|FW ||'''9''' ||[[Tomi Juric]] || || {{subon|75}}
+|-
+|MF ||'''22'''||[[Jackson Irvine]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NED}} [[Bert van Marwijk]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Christian Eriksen]] (Denmark)<ref name="DEN-AUS recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="DEN-AUS line-ups"/>
+<br />Pau Cebrián Devís ([[Royal Spanish Football Federation|Spain]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Bamlak Tessema Weyesa]] ([[Ethiopian Football Federation|Ethiopia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Juan Carlos Mora ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===France vs Peru===
+The two teams had met only once, a friendly game in 1982, won by Peru 1–0.<ref>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=8}}</ref>
+
+[[Yoshimar Yotún]]'s shot from the halfway line drifted wide. [[Raphaël Varane]] missed with a header before [[Pedro Gallese]] saved with his legs to deny [[Antoine Griezmann]] after [[Olivier Giroud]] found him with a headed pass. [[Paolo Guerrero]] shot straight at [[Hugo Lloris]] on the turn after [[Christian Cueva]] found him in the box. [[Paul Pogba]] slid Giroud into the area and when his shot looped over Gallese via a deflection off [[Christian Ramos]], [[Kylian Mbappé]] tapped into the empty net from inside the six-yard box. [[Pedro Aquino]] clipped the outside of the post with a drive from 25 yards. [[André Carrillo]] fired over the crossbar and [[Jefferson Farfán]] hit the side-netting. Guerrero missed a late free-kick, and France secured their place in the knockout stages, while Peru were knocked out.<ref>{{cite web |last=Smith |first=Jamie |title=Mbappe books last-16 spot with record goal |url=http://www.goal.com/en/news/8/main/2018/06/21/45729252/france-1-peru-0-mbappe-books-last-16-spot-with-record-goal |website=Goal.com |date=21 June 2018}}</ref>
+
+Mbappé became France's youngest ever goalscorer at the World Cup, aged 19 years and 183 days,<ref name="FRA-PER recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/mbappe-slots-france-forward-sends-peru-home |title=Mbappe sends France forward as Peru's hopes end |publisher=FIFA |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045458/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/mbappe-slots-france-forward-sends-peru-home |archive-date=20 May 2026}}</ref> as well as the first player born after France's 1998 World Cup triumph to score a goal at the finals. Peru are just the second South American side to fail to qualify for the World Cup knockout stage in the last three tournaments - the other being Ecuador in 2014.<ref>{{cite web |last=Chowdhury |first=Saj |title=France 1 Peru 0 |url=https://www.bbc.com/sport/football/44439107 |work=BBC Sport |date=21 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c4
+|date={{Start date|2018|6|21|df=y}}
+|time=20:00 [[Yekaterinburg Time|YEKT]] ([[UTC+05:00|UTC+5]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2018 FIFA World Cup Group C#France vs Peru|1–0}}
+|team2={{fb|PER}}
+|goals1=
+*[[Kylian Mbappé|Mbappé]] {{goal|34}}
+|goals2=
+|stadium=[[Central Stadium (Yekaterinburg)|Central Stadium]], [[Yekaterinburg]]
+|attendance=32,789
+|referee=[[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331527 |title=France vs Peru {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/1dd5011b985f4f64/original/qebpwnoqfgaibj4c0xz5-pdf.pdf |title=Match report – Group C – France v Peru |publisher=[[FIFA]] |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063129/https://digitalhub.fifa.com/m/1dd5011b985f4f64/original/qebpwnoqfgaibj4c0xz5-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _frank18h
+ |pattern_b  = _fra18ho
+ |pattern_ra = _frank18h
+ |pattern_sh = _fra18a
+ |pattern_so = _fra18H
+ |leftarm    = 112855
+ |body       = 112855
+ |rightarm   = 112855
+ |shorts     = 112855
+ |socks      = F1030A
+ |title      = France<ref name="FRA-PER line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7482f61b896aaf6/original/o32tkhwsftjuhlm2lma4-pdf.pdf |title=Tactical Line-up – Group C – France v Peru |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 June 2018 |access-date=21 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182039/https://digitalhub.fifa.com/m/7482f61b896aaf6/original/o32tkhwsftjuhlm2lma4-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _per18h
+ |pattern_b  = _per18H
+ |pattern_ra = _per18h
+ |pattern_sh = _per18H
+ |pattern_so = _per18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Peru<ref name="FRA-PER line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Benjamin Pavard]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Samuel Umtiti]]
+|-
+|LB ||'''21'''||[[Lucas Hernandez]]
+|-
+|CM ||'''6''' ||[[Paul Pogba]] || {{yel|86}} || {{suboff|89}}
+|-
+|CM ||'''13'''||[[N'Golo Kanté]]
+|-
+|RW ||'''10'''||[[Kylian Mbappé]] || || {{suboff|75}}
+|-
+|AM ||'''7''' ||[[Antoine Griezmann]] || || {{suboff|80}}
+|-
+|LW ||'''14'''||[[Blaise Matuidi]] || {{yel|16}}
+|-
+|CF ||'''9''' ||[[Olivier Giroud]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Ousmane Dembélé]] || || {{subon|75}}
+|-
+|FW ||'''18'''||[[Nabil Fekir]] || || {{subon|80}}
+|-
+|MF ||'''15'''||[[Steven Nzonzi]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-PER 2018-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pedro Gallese]]
+|-
+|RB ||'''17'''||[[Luis Advíncula]]
+|-
+|CB ||'''15'''||[[Christian Ramos]]
+|-
+|CB ||'''2''' ||[[Alberto Junior Rodríguez|Alberto Rodríguez]] || || {{suboff|46}}
+|-
+|LB ||'''6''' ||[[Miguel Trauco]]
+|-
+|CM ||'''23'''||[[Pedro Aquino]] || {{yel|81}}
+|-
+|CM ||'''19'''||[[Yoshimar Yotún]] || || {{suboff|46}}
+|-
+|RW ||'''18'''||[[André Carrillo]]
+|-
+|AM ||'''8''' ||[[Christian Cueva]] || || {{suboff|82}}
+|-
+|LW ||'''20'''||[[Edison Flores]]
+|-
+|CF ||'''9''' ||[[Paolo Guerrero]] ([[Captain (association football)|c]]) || {{yel|23}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Jefferson Farfán]] || || {{subon|46}}
+|-
+|DF ||'''4''' ||[[Anderson Santamaría]] || || {{subon|46}}
+|-
+|FW ||'''11'''||[[Raúl Ruidíaz]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Ricardo Gareca]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Kylian Mbappé]] (France)<ref name="FRA-PER recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="FRA-PER line-ups"/>
+<br />Mohamed Al Hammadi ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />Hasan Al Mahri ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Jerson Dos Santos ([[Angolan Football Federation|Angola]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+<br />Taleb Al Maari ([[Qatar Football Association|Qatar]])
+<br />[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|}
+
+===Denmark vs France===
+[[File:Football supporters of France at FIFA World Cup 2018 (Moscow, 26.06.2018).jpg|thumb|France supporters at the FIFA Fan Fest in Moscow watch the second half of the match on the big screen.]]
+The two teams had faced each other in 15 matches, including two World Cup group stage matches, in [[1998 FIFA World Cup|1998]], won by France [[1998 FIFA World Cup Group C#France vs Denmark|2–1]], and in [[2002 FIFA World Cup|2002]], won by Denmark [[2002 FIFA World Cup Group A#Denmark vs France|2–0]].<ref name=Kit7/>
+
+[[Olivier Giroud]] and [[Raphaël Varane]] sent early efforts off target. In the 38th minute a strike from [[Antoine Griezmann]] was straight at [[Kasper Schmeichel]]. [[Steve Mandanda]] spilled a long-range [[Christian Eriksen]] free-kick before recovering to claim the loose ball ahead of lurking striker [[Andreas Cornelius]]. Eriksen shot wide in the 59th minute, although France substitute [[Nabil Fekir]] shot at the side-netting with a drive shortly after his introduction for Griezmann. Fekir forced a stop from Schmeichel in the 82nd minute, while Giroud had a late penalty appeal rejected by the referee.<ref>{{cite web |last=Bevan |first=Chris |title=Denmark 0 France 0 |url=https://www.bbc.com/sport/football/44439249 |work=BBC Sport |date=26 June 2018}}</ref><ref>{{cite web |last=Smith |first=Jamie |title=World Cup's first stalemate sends both teams through |url=http://www.goal.com/en-us/news/55/main/2018/06/26/45870352/denmark-0-france-0-world-cups-first-stalemate-sends-both |website=Goal.com |date=26 June 2018}}</ref>
+
+This was the only goalless draw of the 2018 World Cup; there were 36 matches played prior to this one, beating the previous record number of matches without a goalless draw to start a World Cup finals, set in [[1954 FIFA World Cup|1954]], when all 26 matches saw at least one goal.<ref name="DEN-FRA recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/goalless-draw-sees-denmark-progress |title=Goalless draw sees Denmark progress |publisher=FIFA |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520051731/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/goalless-draw-sees-denmark-progress |archive-date=20 May 2026}}</ref><ref>{{cite news |author=Tass |title=Record number of games without 0-0 draws at 2018 World Cup |url=https://www.upi.com/Record-number-of-games-without-0-0-draws-at-2018-World-Cup/7541529775097/ |publisher=United Press International |date=23 June 2018 |accessdate=22 July 2018 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c5
+|date={{Start date|2018|6|26|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|DEN}}
+|score={{score link|2018 FIFA World Cup Group C#Denmark vs France|0–0}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+|stadium=[[Luzhniki Stadium]], [[Moscow]]
+|attendance=78,011
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331512 |title=Denmark vs France {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/460c71e4959b983/original/zqrivlhq0vm1zrz9c8zd-pdf.pdf |title=Match report – Group C – Denmark v France |publisher=[[FIFA]] |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063524/https://digitalhub.fifa.com/m/460c71e4959b983/original/zqrivlhq0vm1zrz9c8zd-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _dene18h
+ |pattern_b  = _dene18h
+ |pattern_ra = _dene18h
+ |pattern_sh = _dene18h
+ |pattern_so = _dene18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Denmark<ref name="DEN-FRA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5b44f6702cf8024c/original/hfczs0l3kds9xmee0imr-pdf.pdf |title=Tactical Line-up – Group C – Denmark v France |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182050/https://digitalhub.fifa.com/m/5b44f6702cf8024c/original/hfczs0l3kds9xmee0imr-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _frank18a
+ |pattern_b  = _frank18a
+ |pattern_ra = _frank18a
+ |pattern_sh = _fra18a
+ |pattern_so = _fra18A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 123163
+ |socks      = FFFFFF
+ |title      = France<ref name="DEN-FRA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Kasper Schmeichel]]
+|-
+|RB ||'''14'''||[[Henrik Dalsgaard]]
+|-
+|CB ||'''4''' ||[[Simon Kjær]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Andreas Christensen]]
+|-
+|LB ||'''17'''||[[Jens Stryger Larsen]]
+|-
+|CM ||'''8''' ||[[Thomas Delaney]] || || {{suboff|90+2}}
+|-
+|CM ||'''13'''||[[Mathias Jørgensen]] || {{yel|45+3}}
+|-
+|CM ||'''10'''||[[Christian Eriksen]]
+|-
+|RF ||'''23'''||[[Pione Sisto]] || || {{suboff|60}}
+|-
+|CF ||'''21'''||[[Andreas Cornelius]] || || {{suboff|75}}
+|-
+|LF ||'''11'''||[[Martin Braithwaite]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Viktor Fischer]] || || {{subon|60}}
+|-
+|FW ||'''12'''||[[Kasper Dolberg]] || || {{subon|75}}
+|-
+|MF ||'''18'''||[[Lukas Lerager]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NOR}} [[Åge Hareide]]
+|}
+|valign="top"|[[File:DEN-FRA 2018-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Steve Mandanda]]
+|-
+|RB ||'''19'''||[[Djibril Sidibé (footballer, born 1992)|Djibril Sidibé]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Presnel Kimpembe]]
+|-
+|LB ||'''21'''||[[Lucas Hernandez]] || || {{suboff|50}}
+|-
+|CM ||'''13'''||[[N'Golo Kanté]]
+|-
+|CM ||'''15'''||[[Steven Nzonzi]]
+|-
+|RW ||'''11'''||[[Ousmane Dembélé]] || || {{suboff|78}}
+|-
+|AM ||'''7''' ||[[Antoine Griezmann]] || || {{suboff|68}}
+|-
+|LW ||'''8'''||[[Thomas Lemar]]
+|-
+|CF ||'''9''' ||[[Olivier Giroud]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''22'''||[[Benjamin Mendy]] || || {{subon|50}}
+|-
+|FW ||'''18'''||[[Nabil Fekir]] || || {{subon|68}}
+|-
+|FW ||'''10'''||[[Kylian Mbappé]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[N'Golo Kanté]] (France)<ref name="DEN-FRA recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="DEN-FRA line-ups"/>
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Mauro Tonolini ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===Australia vs Peru===
+[[File:Австралия Перу ЧМ 2018 Сочи.jpg|thumb|Paolo Guerrero celebrating his goal]]
+The two teams had never met before.<ref name=Kit/>
+
+[[Mile Jedinak]] was booked for a high boot on [[Christian Cueva]] after nine minutes of the first half. At the 18th minute, [[Paolo Guerrero]] broke into the penalty area, cut back onto his right foot and swung a deep cross for [[André Carrillo]] to lash a volley through Jedinak's legs and into the bottom right corner of the net. [[Tom Rogic]] beat three defenders on a run into the penalty area after 26 minutes and saw his shot saved by [[Pedro Gallese]], before [[Mathew Leckie]] was denied by an [[Anderson Santamaría]] tackle as he slid in on goal. Five minutes into the second half, Guerrero hooked the ball into the far corner of the net beyond [[Mathew Ryan]]'s left hand. Jedinak's far-post header was saved by Gallese and [[Trent Sainsbury]] shot wide from close range, while substitute [[Tim Cahill]] had a volley blocked inside the penalty area. [[Edison Flores]] crashed a low drive onto the post from the edge of the box in the closing minutes, but the offside flag was raised.<ref>{{cite web |last=Creek |first=Stephen |title=Guerrero stars as Gareca's men make proud exit |url=http://www.goal.com/en/news/8/main/2018/06/26/45870652/australia-0-peru-2-guerrero-stars-as-garecas-men-make-proud |website=Goal.com |date=26 June 2018}}</ref>
+
+Carrillo became the first Peru player to score at a World Cup in 36 years. He ended a barren run of 205 minutes since [[Guillermo La Rosa]] struck in a [[1982 FIFA World Cup Group 1#Poland vs Peru|5–1]] loss to Poland during Spain 1982.<ref name="AUS-PER recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/266-aus-per-match-report-xxw-2970194 |title=Peru sign off in style |publisher=FIFA |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520051803/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/266-aus-per-match-report-xxw-2970194 |archive-date=20 May 2026}}</ref> Peru won their first match at the World Cup since a [[1978 FIFA World Cup Group 4#Peru vs Iran|4–1]] win over Iran in 1978. Guerrero – aged 34 years and 176 days – became the third oldest South American scorer at the World Cup, behind only Argentina's [[Martín Palermo]] (36 years, 227 days) and [[Obdulio Varela]] of Uruguay (36 years 279 days). Cahill became the first Australian to appear at four different World Cup finals.<ref>{{cite web |last=Emons |first=Michael |title=Australia 0 Peru 2 |url=https://www.bbc.com/sport/football/44439242 |work=BBC Sport |date=26 June 2018}}</ref> For Australia, they had not won any World Cup matches since their last major victory in the [[2010 FIFA World Cup]], beating [[Serbia national football team|Serbia]] 2–1; and also Australia had not defeated any South American team in the World Cup, having been beaten by [[Brazil national football team|Brazil]] 0–2 in 2006, drew 0–0 and lost 1–3 to [[Chile national football team|Chile]] in 1974 and 2014.
+
+<onlyinclude>{{#invoke:Football box|main|section=c6
+|date={{Start date|2018|6|26|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|AUS}}
+|score={{score link|2018 FIFA World Cup Group C#Australia vs Peru|0–2}}
+|team2={{fb|PER}}
+|goals1=
+|goals2=
+*[[André Carrillo|Carrillo]] {{goal|18}}
+*[[Paolo Guerrero|Guerrero]] {{goal|50}}
+|stadium=[[Fisht Olympic Stadium]], [[Sochi]]
+|attendance=44,073
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331506 |title=Australia vs Peru {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/3f5d37694f53f7a6/original/po3epfozmsh7prew4nfl-pdf.pdf |title=Match report – Group C – Australia v Peru |publisher=[[FIFA]] |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063538/https://digitalhub.fifa.com/m/3f5d37694f53f7a6/original/po3epfozmsh7prew4nfl-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _austr18h
+ |pattern_b  = _aus18H
+ |pattern_ra = _austr18h
+ |pattern_sh =
+ |pattern_so = _aus18H
+ |leftarm    = FFBB00
+ |body       = FFBB00
+ |rightarm   = FFBB00
+ |shorts     = FFBB00
+ |socks      = FFBB00
+ |title      = Australia<ref name="AUS-PER line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4330fabc0350be69/original/dmfpjvze5tcmy7yowl4m-pdf.pdf |title=Tactical Line-up – Group C – Australia v Peru |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=26 June 2018 |access-date=26 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182106/https://digitalhub.fifa.com/m/4330fabc0350be69/original/dmfpjvze5tcmy7yowl4m-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _peru18a
+ |pattern_b  = _peru18a
+ |pattern_ra = _peru18a
+ |pattern_sh = _per18a
+ |pattern_so = _peru18a
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Peru<ref name="AUS-PER line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mathew Ryan]]
+|-
+|RB ||'''19'''||[[Josh Risdon]]
+|-
+|CB ||'''20'''||[[Trent Sainsbury]]
+|-
+|CB ||'''5''' ||[[Mark Milligan]] || {{yel|88}}
+|-
+|LB ||'''16'''||[[Aziz Behich]]
+|-
+|CM ||'''15'''||[[Mile Jedinak]] ([[Captain (association football)|c]]) || {{yel|10}}
+|-
+|CM ||'''13'''||[[Aaron Mooy]]
+|-
+|RW ||'''7''' ||[[Mathew Leckie]]
+|-
+|AM ||'''23'''||[[Tom Rogic]] || {{yel|66}} || {{suboff|72}}
+|-
+|LW ||'''10'''||[[Robbie Kruse]] || || {{suboff|58}}
+|-
+|CF ||'''9''' ||[[Tomi Juric]] || || {{suboff|53}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''4''' ||[[Tim Cahill]] || || {{subon|53}}
+|-
+|MF ||'''17'''||[[Daniel Arzani]] || {{yel|60}} || {{subon|58}}
+|-
+|MF ||'''22'''||[[Jackson Irvine]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NED}} [[Bert van Marwijk]]
+|}
+|valign="top"|[[File:AUS-PER 2018-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pedro Gallese]]
+|-
+|RB ||'''17'''||[[Luis Advíncula]]
+|-
+|CB ||'''15'''||[[Christian Ramos]]
+|-
+|CB ||'''4''' ||[[Anderson Santamaría]]
+|-
+|LB ||'''6''' ||[[Miguel Trauco]]
+|-
+|CM ||'''13'''||[[Renato Tapia]] || || {{suboff|63}}
+|-
+|CM ||'''19'''||[[Yoshimar Yotún]] || {{yel|45}} || {{suboff|46}}
+|-
+|RW ||'''18'''||[[André Carrillo]] || || {{suboff|79}}
+|-
+|AM ||'''8''' ||[[Christian Cueva]]
+|-
+|LW ||'''20'''||[[Edison Flores]]
+|-
+|CF ||'''9''' ||[[Paolo Guerrero]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''23'''||[[Pedro Aquino]] || || {{subon|46}}
+|-
+|MF ||'''7''' ||[[Paolo Hurtado]] || {{yel|79}} || {{subon|63}}
+|-
+|MF ||'''16'''||[[Wilder Cartagena]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Ricardo Gareca]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[André Carrillo]] (Peru)<ref name="AUS-PER recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="AUS-PER line-ups"/>
+<br />Anton Averianov ([[Russian Football Union|Russia]])
+<br />Tikhon Kalugin ([[Russian Football Union|Russia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ryuji Sato]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+|}
+
+==Discipline==
+Fair play points would have been used as tiebreakers if the overall and head-to-head records of teams were tied. These were calculated based on yellow and red cards received in all group matches as follows:<ref name="regulations"/>
+*first yellow card: minus 1 point;
+*indirect red card (second yellow card): minus 3 points;
+*direct red card: minus 4 points;
+*yellow card and direct red card: minus 5 points;
+
+Only one of the above deductions were applied to a player in a single match.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Points
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{fb|FRA|1974}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+!style="border-left:3px solid gray"| −3
+|-
+|align=left|{{fb|DEN}}
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+!style="border-left:3px solid gray"| −5
+|-
+|align=left|{{fb|PER}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+!style="border-left:3px solid gray"| −5
+|-
+|align=left|{{fb|AUS}}
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+|style="border-left:3px solid gray"| 4 ||  ||  || 
+!style="border-left:3px solid gray"| −7
+|}
+
+==See also==
+*[[Australia at the FIFA World Cup]]
+*[[Denmark at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Peru at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20171202100614/http://www.fifa.com/worldcup/groups/group=275079/index.html 2018 FIFA World Cup Group C], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group C}}
+[[Category:2018 FIFA World Cup group stage|C]]
+[[Category:France at the 2018 FIFA World Cup]]
+[[Category:Australia at the 2018 FIFA World Cup]]
+[[Category:Peru at the 2018 FIFA World Cup]]
+[[Category:Denmark at the 2018 FIFA World Cup]]
+[[Category:Sports competitions in Kazan]]
+[[Category:2018 in Kazan]]
+[[Category:Sport in Saransk]]
+[[Category:Sport in Samara]]
+[[Category:Sport in Yekaterinburg]]
+[[Category:Football in Moscow]]
+[[Category:2018 in Moscow]]
+[[Category:Sports competitions in Sochi]]
+[[Category:2018 in Sochi]]
+[[Category:2018 in Yekaterinburg]]

@@ -1,0 +1,1092 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=November 2017}}
+[[File:Russia stamp 2018 № 2351.jpg|thumb|2018 [[postage stamp]] from [[Russia]] depicting Group G of the [[2018 FIFA World Cup]] group stage.]]
+Group G of the [[2018 FIFA World Cup]] took place from 18 to 28 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |url-status=dead |archive-url=https://web.archive.org/web/20171228234846/http://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |archive-date=28 December 2017 |df=dmy-all }}</ref> The group consisted of [[Belgium national football team|Belgium]], [[Panama national football team|Panama]], [[Tunisia national football team|Tunisia]], and [[England national football team|England]]. The top two teams, Belgium and England, advanced to the round of 16,<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017 |url-status=live |archive-url=https://web.archive.org/web/20170712134322/http://resources.fifa.com/mm/document/tournament/competition/02/84/35/19/regulationsfwc2018en_neutral.pdf |archive-date=12 July 2017 |df=dmy-all }}</ref> and went on to meet each other again in the match for third place.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| G1 || style=white-space:nowrap | {{fb|BEL}} || 1 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group H|UEFA Group H]] winners || 3 September 2017 || 13th || [[2014 FIFA World Cup|2014]] (quarter-finals) || data-sort-value="5.1" | Fourth place ([[1986 FIFA World Cup|1986]]) || 5 || 3
+|-
+| G2 || style=white-space:nowrap | {{fb|PAN}} || 4 || [[CONCACAF]] || [[2018 FIFA World Cup qualification – CONCACAF fifth round|CONCACAF fifth round]] third place || 10 October 2017 || 1st || – || data-sort-value="1.0" | – || 49 || 55
+|-
+| G3 || style=white-space:nowrap | {{fb|TUN}} || 3 || [[Confederation of African Football|CAF]] || [[2018 FIFA World Cup qualification – CAF third round#Group A|CAF third round group A]] winners || 11 November 2017 || 5th || [[2006 FIFA World Cup|2006]] (group stage) || data-sort-value="2.4" | Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]]) || 28 || 21
+|-
+| G4 || style=white-space:nowrap | {{fb|ENG}} || 2 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group F|UEFA Group F]] winners || 5 October 2017 || 15th || [[2014 FIFA World Cup|2014]] (group stage) || data-sort-value="8.1" | '''Winners''' ([[1966 FIFA World Cup|1966]]) || 12 || 12
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+|class_rules=[[2018 FIFA World Cup#Tiebreakers|Group stage tiebreakers]]
+|source=[https://www.fifa.com/worldcup/groups/index.html FIFA]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_BEL=3 |draw_BEL=0 |loss_BEL=0 |gf_BEL=9 |ga_BEL=2
+|win_PAN=0 |draw_PAN=0 |loss_PAN=3 |gf_PAN=2 |ga_PAN=11
+|win_TUN=1 |draw_TUN=0 |loss_TUN=2 |gf_TUN=5 |ga_TUN=8
+|win_ENG=2 |draw_ENG=0 |loss_ENG=1 |gf_ENG=8 |ga_ENG=3
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=BEL |team2=ENG |team3=TUN |team4=PAN
+
+<!--Country definitions-->
+|name_BEL={{fb|BEL}}
+|name_PAN={{fb|PAN}}
+|name_TUN={{fb|TUN}}
+|name_ENG={{fb|ENG}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2018 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+*The winners of Group G, [[Belgium national football team|Belgium]], advanced to play the runners-up of [[2018 FIFA World Cup Group H|Group H]], [[Japan national football team|Japan]].
+*The runners-up of Group G, [[England national football team|England]], advanced to play the winners of [[2018 FIFA World Cup Group H|Group H]], [[Colombia national football team|Colombia]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===Belgium vs Panama===
+The two teams had never met before this World Cup match.<ref name=Kit>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|title=2018 FIFA World Cup – Statistical Kit|publisher=FIFA|url-status=dead|archive-url=https://web.archive.org/web/20180513163755/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|archive-date=13 May 2018|df=dmy-all}}</ref>
+
+[[Yannick Carrasco]] and [[Dries Mertens]] forced early saves from goalkeeper [[Jaime Penedo]]. [[Eden Hazard]] hit the side-netting after pouncing on a loose backpass from [[Román Torres]]. Hazard fired wide in the 26th minute and was left hobbling by heavy challenges from [[Michael Amir Murillo]] and Torres. Hazard then shook off the blows and forced Penedo into a save with his legs.<ref name="Goal Belgium v Panama">{{cite web |last=Smith |first=Jamie |title=Mertens magic sets up Group G win |url=http://www.goal.com/en-qa/match/belgium-v-panama/report/e39pyss79n96zilluineihiax |website=Goal.com |date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180618230524/http://www.goal.com/en-qa/match/belgium-v-panama/report/e39pyss79n96zilluineihiax |archive-date=18 June 2018 |df=dmy-all }}</ref> After a goalless first half, Mertens steered in a right-foot volley from the right of the penalty area to give Belgium the lead.<ref>{{cite web |last=Emons |first=Michael |title=Belgium 3 Panama 0 |url=https://www.bbc.com/sport/football/44434275 |work=BBC Sport |date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180619023629/https://www.bbc.com/sport/football/44434275 |archive-date=19 June 2018 |df=dmy-all }}</ref> [[Kevin De Bruyne]] almost doubled the lead but narrowly missed the target with a 25-yard free-kick that curled away from Penedo's right-hand post. Belgium doubled their lead in the 69th minute after [[Romelu Lukaku]] scored with a diving header after a cross from the left by Kevin De Bruyne. Lukaku then added a third with a chipped finish from the left of the penalty area after a through ball from Hazard.<ref name="Goal Belgium v Panama"/>
+
+Belgium's last victory by two goals or more at the FIFA World Cup was a [[1990 FIFA World Cup Group E#Belgium vs Uruguay|3–1]] defeat of Uruguay in 1990. It also matched their best win in World Cup history, along with a [[1970 FIFA World Cup Group 1#Belgium vs El Salvador|3–0]] victory over [[El Salvador]] in 1970.<ref name="BEL-PAN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-prevail-over-gritty-panama-2961030 |title=Belgium prevail over gritty Panama |publisher=FIFA |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044610/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-prevail-over-gritty-panama-2961030 |archive-date=20 May 2026}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g1
+|date={{Start date|2018|6|18|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|BEL}}
+|score={{score link|2018 FIFA World Cup Group G#Belgium vs Panama|3–0}}
+|team2={{fb|PAN}}
+|goals1=
+*[[Dries Mertens|Mertens]] {{goal|47}}
+*[[Romelu Lukaku|Lukaku]] {{goal|69||75}}
+|goals2=
+|stadium=[[Fisht Olympic Stadium]], [[Sochi]]
+|attendance=43,257
+|referee=[[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331539 |title=Belgium vs Panama {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/6db29b3557ed9ccc/original/mi7jyr0nmfxqkma90dk2-pdf.pdf |title=Match report – Group G – Belgium v Panama |publisher=[[FIFA]] |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062852/https://digitalhub.fifa.com/m/6db29b3557ed9ccc/original/mi7jyr0nmfxqkma90dk2-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _belgica1819h
+ |pattern_ra =
+ |pattern_sh = _belg18h
+ |pattern_so = _belg18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="BEL-PAN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/58b6bfc0b7156bb6/original/kbjsducvjflo5brzdnkz-pdf.pdf |title=Tactical Line-up – Group G – Belgium v Panama |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175535/https://digitalhub.fifa.com/m/58b6bfc0b7156bb6/original/kbjsducvjflo5brzdnkz-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _pana18a
+ |pattern_b  = _pana18a
+ |pattern_ra = _pana18a
+ |pattern_sh = 
+ |pattern_so = _panama18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Panama<ref name="BEL-PAN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''20'''||[[Dedryck Boyata]]
+|-
+|CB ||'''5''' ||[[Jan Vertonghen]] || {{yel|59}}
+|-
+|RM ||'''15'''||[[Thomas Meunier]] || {{yel|14}}
+|-
+|CM ||'''7''' ||[[Kevin De Bruyne]] || {{yel|88}}
+|-
+|CM ||'''6''' ||[[Axel Witsel]] || || {{suboff|90}}
+|-
+|LM ||'''11'''||[[Yannick Carrasco]] || || {{suboff|74}}
+|-
+|RW ||'''14'''||[[Dries Mertens]] || || {{suboff|83}}
+|-
+|LW ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]] || || {{subon|74}}
+|-
+|MF ||'''16'''||[[Thorgan Hazard]] || || {{subon|83}}
+|-
+|MF ||'''22'''||[[Nacer Chadli]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Roberto Martínez]]
+|}
+|valign="top"|[[File:BEL-PAN 2018-06-18.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jaime Penedo]]
+|-
+|RB ||'''2''' ||[[Michael Amir Murillo]] || {{yel|51}}
+|-
+|CB ||'''5''' ||[[Román Torres]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Fidel Escobar]]
+|-
+|LB ||'''15'''||[[Erick Davis]] || {{yel|18}}
+|-
+|DM ||'''6''' ||[[Gabriel Enrique Gómez|Gabriel Gómez]]
+|-
+|CM ||'''11'''||[[Armando Cooper]] || {{yel|49}}
+|-
+|CM ||'''20'''||[[Aníbal Godoy]] || {{yel|57}}
+|-
+|RW ||'''8''' ||[[Yoel Bárcenas]] || {{yel|45+2}} || {{suboff|63}}
+|-
+|LW ||'''21'''||[[José Luis Rodríguez (footballer, born 1998)|José Luis Rodríguez]] || || {{suboff|63}}
+|-
+|CF ||'''7''' ||[[Blas Pérez]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Gabriel Torres]] || || {{subon|63}}
+|-
+|FW ||'''10'''||[[Ismael Díaz (Panamanian footballer)|Ismael Díaz]] || || {{subon|63}}
+|-
+|FW ||'''18'''||[[Luis Tejada]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Hernán Darío Gómez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Romelu Lukaku]] (Belgium)<ref name="BEL-PAN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BEL-PAN line-ups"/>
+<br />Jerson Dos Santos ([[Angolan Football Federation|Angola]])
+<br />Zakhele Siwela ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ryuji Sato]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Tunisia vs England===
+The two teams had met in two matches, including one game at the [[1998 FIFA World Cup]] group stage, an England [[1998 FIFA World Cup Group G#England vs Tunisia|2–0]] victory.<ref name=Kit15>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|title=2018 FIFA World Cup – Statistical Kit|publisher=FIFA|page=15|url-status=dead|archive-url=https://web.archive.org/web/20180513163755/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|archive-date=13 May 2018|df=dmy-all}}</ref>
+
+England scored in the 11th minute when [[Mouez Hassen]] stopped a [[John Stones]]' header from a corner from the left, but could not save a [[Harry Kane]] follow-up from close range. Hassen was substituted four minutes later for [[Farouk Ben Mustapha]] due to an injury earlier in the game, after he had a collision with [[Jesse Lingard]]. Lingard then mishit a volley from [[Ashley Young]]'s cross to the far post.<ref name="Goal Tunisia v England">{{cite web |last=McGee |first=Nicholas |title=Captain Kane saves Three Lions |url=http://www.goal.com/en-us/match/tunisia-v-england/report/4k8fq1mudpghgl8eax1zpyax |website=Goal.com |date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180625144300/http://www.goal.com/en-us/match/tunisia-v-england/report/4k8fq1mudpghgl8eax1zpyax |archive-date=25 June 2018 |df=dmy-all }}</ref> After 10 minutes, [[Ferjani Sassi]] equalised from the penalty spot after [[Kyle Walker]] was penalised for an elbow on [[Fakhreddine Ben Youssef]].<ref name="BBC Tunisia v England">{{cite web |last=McNulty |first=Phil |title=Tunisia 1 England 2 |url=https://www.bbc.com/sport/football/44434276 |work=BBC Sport |date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180619045717/https://www.bbc.com/sport/football/44434276 |archive-date=19 June 2018 |df=dmy-all }}</ref> Kane had an appeal for a penalty waved away within five minutes of the restart as he was seemingly impeded by a pair of Tunisia players at a corner.<ref>{{cite web|url=https://www.theguardian.com/football/2018/jun/18/tunisia-england-world-cup-match-report|title=Kane double ensures England defeat Tunisia in World Cup opener|date=19 June 2018|work=Guardian|access-date=19 June 2018|url-status=live|archive-url=https://web.archive.org/web/20180618223854/https://www.theguardian.com/football/2018/jun/18/tunisia-england-world-cup-match-report|archive-date=18 June 2018|df=dmy-all}}</ref> In the additional time, [[Harry Maguire]] flicked a [[Kieran Trippier]] corner from the right into the path of Kane, who headed it inside the goal after being left free at the back post.<ref name="Goal Tunisia v England"/><ref name="TUN-ENG recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/england-harry-kane-tunisia-world-cup |title=England kick off campaign with hard-fought victory |publisher=FIFA |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044636/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/england-harry-kane-tunisia-world-cup |archive-date=20 May 2026}}</ref>
+
+England scored more than once for the first time in 10 World Cup matches, since a [[2006 FIFA World Cup Group B#Sweden vs England|2–2]] draw against Sweden in 2006. Kane became the first England player to score a brace in a World Cup match since [[Gary Lineker]] against Cameroon in [[1990 FIFA World Cup knockout stage#Cameroon vs England|1990]].<ref name="BBC Tunisia v England"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=g2
+|date={{Start date|2018|6|18|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|TUN}}
+|score={{score link|2018 FIFA World Cup Group G#Tunisia vs England|1–2}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Ferjani Sassi|Sassi]] {{goal|35|pen.}}
+|goals2=
+*[[Harry Kane|Kane]] {{goal|11||90+1}}
+|stadium=[[Volgograd Arena]], [[Volgograd]]
+|attendance=41,064
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331554 |title=Tunisia vs England {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/303429e6e8757359/original/wx3oxvbaorcqeqrsypgt-pdf.pdf |title=Match report – Group G – Tunisia v England |publisher=[[FIFA]] |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062904/https://digitalhub.fifa.com/m/303429e6e8757359/original/wx3oxvbaorcqeqrsypgt-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _tunisia18h
+ | pattern_b  = _tunisia18h
+ | pattern_ra = _tunisia18h
+ | pattern_sh = _tunisia18h
+ | pattern_so = _uhlsportfootballtunisia18h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ |title      = Tunisia<ref name="TUN-ENG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/576dd60001cc0697/original/dahmpavm5tdd7zdhttdm-pdf.pdf |title=Tactical Line-up – Group G – Tunisia v England |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182323/https://digitalhub.fifa.com/m/576dd60001cc0697/original/dahmpavm5tdd7zdhttdm-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _eng18a
+ |pattern_b  = _eng18a
+ |pattern_ra = _eng18a
+ |pattern_sh = _eng18a2
+ |pattern_so = _eng18a
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = England<ref name="TUN-ENG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Mouez Hassen]] || || {{suboff|16}}
+|-
+|RB ||'''11'''||[[Dylan Bronn]]
+|-
+|CB ||'''2''' ||[[Syam Ben Youssef]]
+|-
+|CB ||'''4''' ||[[Yassine Meriah]]
+|-
+|LB ||'''12'''||[[Ali Maâloul]]
+|-
+|CM ||'''13'''||[[Ferjani Sassi]]
+|-
+|CM ||'''17'''||[[Ellyes Skhiri]]
+|-
+|CM ||'''9''' ||[[Anice Badri]]
+|-
+|RF ||'''8''' ||[[Fakhreddine Ben Youssef]]
+|-
+|CF ||'''10'''||[[Wahbi Khazri]] ([[Captain (association football)|c]]) || || {{suboff|85}}
+|-
+|LF ||'''23'''||[[Naïm Sliti]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''1''' ||[[Farouk Ben Mustapha]] || || {{subon|16}}
+|-
+|MF ||'''14'''||[[Mohamed Amine Ben Amor]] || || {{subon|74}}
+|-
+|FW ||'''19'''||[[Saber Khalifa]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Nabil Maâloul]]
+|}
+|valign="top"|[[File:TUN-ENG 2018-06-18.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jordan Pickford]]
+|-
+|CB ||'''2''' ||[[Kyle Walker]] || {{yel|33}}
+|-
+|CB ||'''5''' ||[[John Stones]]
+|-
+|CB ||'''6''' ||[[Harry Maguire]]
+|-
+|DM ||'''8''' ||[[Jordan Henderson]]
+|-
+|CM ||'''20'''||[[Dele Alli]] || || {{suboff|80}}
+|-
+|CM ||'''7''' ||[[Jesse Lingard]] || || {{suboff|90+3}}
+|-
+|RM ||'''12'''||[[Kieran Trippier]]
+|-
+|LM ||'''18'''||[[Ashley Young]]
+|-
+|CF ||'''10'''||[[Raheem Sterling]] || || {{suboff|68}}
+|-
+|CF ||'''9''' ||[[Harry Kane]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Marcus Rashford]] || || {{subon|68}}
+|-
+|MF ||'''21'''||[[Ruben Loftus-Cheek]] || || {{subon|80}}
+|-
+|MF ||'''4''' ||[[Eric Dier]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Gareth Southgate]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Harry Kane]] (England)<ref name="TUN-ENG recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="TUN-ENG line-ups"/>
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />Cristian de la Cruz ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ricardo Montero (referee)|Ricardo Montero]] ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Hiroshi Yamauchi ([[Japan Football Association|Japan]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===Belgium vs Tunisia===
+The two teams had faced each other in three matches, including one game at the [[2002 FIFA World Cup]] group stage, which ended in a [[2002 FIFA World Cup Group H#Tunisia vs Belgium|1–1]] draw.<ref name=Kit15/>
+
+Just 6 minutes into the game, [[Syam Ben Youssef]]'s late challenge on [[Eden Hazard]] was deemed, with the use of VAR, to have been just inside the area and he stepped up to score the penalty into the bottom-left corner. Ten minutes later, [[Dries Mertens]] won possession just inside the Tunisia half before driving forward and passing the ball to [[Romelu Lukaku]]. Lukaku then shot a low strike across [[Farouk Ben Mustapha]] into the bottom-right corner. [[Wahbi Khazri]]'s free-kick from the left was met by [[Dylan Bronn]], who flashed a header past [[Thibaut Courtois]]. [[Thomas Meunier]] found Lukaku inside the area, which he clipped over the onrushing Mustapha. [[Toby Alderweireld]]'s long pass from defence was taken on the chest by Hazard, who then rounded Mustapha to stroke into an empty net. [[Michy Batshuayi]] met [[Youri Tielemans]]' cross at the back post with a controlled half-volley to score Belgium's 5th. Khazri scored deep into stoppage time after a swivel in the box.<ref>{{cite web |last=Atkinson |first=Guy |title=Lukaku and Hazard shine as Red Devils run riot |url=http://www.goal.com/en-in/match/belgium-v-tunisia/xla9emo05rkwo9bx4bxnr8x5 |website=Goal.com |date=23 June 2018}}</ref><ref name="BEL-TUN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-dazzle-in-seven-goal-thriller |title=Belgium dazzle in seven-goal thriller |publisher=FIFA |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520050218/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-dazzle-in-seven-goal-thriller |archive-date=20 May 2026}}</ref>
+
+Lukaku became the first player since [[Diego Maradona]] to score back-to-back braces in consecutive world cup games.<ref>{{cite web|title=Belgium's Romelu Lukaku first to score back-to-back World Cup braces since Maradona|url=http://www.espn.com/soccer/fifa-world-cup/story/3540368/belgiums-romelu-lukaku-first-to-score-back-to-back-world-cup-braces-since-maradona|date=23 June 2018|access-date=23 June 2018|publisher=[[ESPN FC]]|url-status=live|archive-url=https://web.archive.org/web/20180624054650/http://www.espn.com/soccer/fifa-world-cup/story/3540368/belgiums-romelu-lukaku-first-to-score-back-to-back-world-cup-braces-since-maradona|archive-date=24 June 2018|df=dmy-all}}</ref> Hazard's penalty was Belgium's second quickest goal in a World Cup match (5:59), behind only [[Léopold Anoul]]'s goal [[1954 FIFA World Cup Group 4#England vs Belgium|against England in 1954]], in the fifth minute.<ref>{{cite web |last=Bevan |first=Chris |title=Belgium 5 Tunisia 2 |url=https://www.bbc.com/sport/football/44439152 |work=BBC Sport |date=23 June 2018}}</ref> For Tunisia, it has registered as their worst defeat ever in their World Cup history.
+
+<onlyinclude>{{#invoke:Football box|main|section=g3
+|date={{Start date|2018|6|23|df=y}}
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|BEL}}
+|score={{score link|2018 FIFA World Cup Group G#Belgium vs Tunisia|5–2}}
+|team2={{fb|TUN}}
+|goals1=
+*[[Eden Hazard|E. Hazard]] {{goal|6|pen.|51}}
+*[[Romelu Lukaku|Lukaku]] {{goal|16||45+3}}
+*[[Michy Batshuayi|Batshuayi]] {{goal|90}}
+|goals2=
+*[[Dylan Bronn|Bronn]] {{goal|18}}
+*[[Wahbi Khazri|Khazri]] {{goal|90+3}}
+|stadium=[[Otkritie Arena]], [[Moscow]]
+|attendance=44,190
+|referee=[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331547 |title=Belgium vs Tunisia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/50862833d2e3fcd/original/mvgrahvkc0kmjpwvbwkq-pdf.pdf |title=Match report – Group G – Belgium v Tunisia |publisher=[[FIFA]] |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063259/https://digitalhub.fifa.com/m/50862833d2e3fcd/original/mvgrahvkc0kmjpwvbwkq-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bel18a
+ |pattern_b  = _bel18a
+ |pattern_ra = _bel18a
+ |pattern_sh = _belg18a
+ |pattern_so = _belg18a
+ |leftarm    = FFD800
+ |body       = FFD800
+ |rightarm   = FFD800
+ |shorts     = 000000
+ |socks      = FFD800
+ |title      = Belgium<ref name="BEL-TUN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/614e96fd7ffd24c8/original/ux6rnq5fwmjyac1qhzzi-pdf.pdf |title=Tactical Line-up – Group G – Belgium v Tunisia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182336/https://digitalhub.fifa.com/m/614e96fd7ffd24c8/original/ux6rnq5fwmjyac1qhzzi-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ | pattern_la = _tunisia18a
+ | pattern_b  = _tunisia18a
+ | pattern_ra = _tunisia18a
+ | pattern_sh = _tunisia18a
+ | pattern_so = _uhlsportfootballtunisia18a
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ |title      = Tunisia<ref name="BEL-TUN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''20'''||[[Dedryck Boyata]]
+|-
+|CB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|RM ||'''15'''||[[Thomas Meunier]]
+|-
+|CM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|LM ||'''11'''||[[Yannick Carrasco]]
+|-
+|RF ||'''14'''||[[Dries Mertens]] || || {{suboff|86}}
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|59}}
+|-
+|LF ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]]) || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Marouane Fellaini]] || || {{subon|59}}
+|-
+|FW ||'''21'''||[[Michy Batshuayi]] || || {{subon|68}}
+|-
+|MF ||'''17'''||[[Youri Tielemans]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Roberto Martínez]]
+|}
+|valign="top"|[[File:BEL-TUN 2018-06-23.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Farouk Ben Mustapha]]
+|-
+|RB ||'''11'''||[[Dylan Bronn]] || || {{suboff|24}}
+|-
+|CB ||'''2''' ||[[Syam Ben Youssef]] || || {{suboff|41}}
+|-
+|CB ||'''4''' ||[[Yassine Meriah]]
+|-
+|LB ||'''12'''||[[Ali Maâloul]]
+|-
+|CM ||'''7''' ||[[Saîf-Eddine Khaoui]]
+|-
+|CM ||'''17'''||[[Ellyes Skhiri]]
+|-
+|CM ||'''13'''||[[Ferjani Sassi]] || {{yel|14}} || {{suboff|59}}
+|-
+|RF ||'''8''' ||[[Fakhreddine Ben Youssef]]
+|-
+|CF ||'''10'''||[[Wahbi Khazri]] ([[Captain (association football)|c]])
+|-
+|LF ||'''9''' ||[[Anice Badri]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Hamdi Nagguez]] || || {{subon|24}}
+|-
+|DF ||'''3''' ||[[Yohan Benalouane]] || || {{subon|41}}
+|-
+|FW ||'''23'''||[[Naïm Sliti]] || || {{subon|59}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Nabil Maâloul]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Eden Hazard]] (Belgium)<ref name="BEL-TUN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BEL-TUN line-ups"/>
+<br />Corey Rockwell ([[United States Soccer Federation|United States]])
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Nicolás Taran ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+|}
+
+===England vs Panama===
+The two teams had never met before.<ref name=Kit/>
+
+[[John Stones]] headed in from [[Kieran Trippier]]'s corner to open the scoring. [[Harry Kane]] converted a penalty to make it 2–0 following a foul on [[Jesse Lingard]], who was next to find the net with a curling finish with his right foot from the edge of the area. Stones nodded home the rebound after goalkeeper [[Jaime Penedo]] had kept out [[Raheem Sterling]]'s close-range header. Kane scored his second penalty of the match in the stoppage time of first half, hammering the ball into Penedo's top right corner after referee had spotted a foul on the forward by [[Fidel Escobar]]. Kane completed his [[List of FIFA World Cup hat-tricks|hat-trick]] with a deflection near the edge of the box off a shot from [[Ruben Loftus-Cheek]]. [[Felipe Baloy]] scored Panama's first-ever World Cup goal, with a half-volley from a [[Ricardo Ávila]] free-kick.<ref>{{cite web |last=Lancaster |first=Rob |title=Kane hat-trick sees Southgate's side sail through |url=http://www.goal.com/en-in/match/england-v-panama/report/1nxy9zcrz72hqrklyzi0arfft |website=Goal.com |date=24 June 2018}}</ref> The result ensured that both England and Belgium would advance to the knockout stage, while Tunisia and Panama would be eliminated at the group stage.
+
+[[Gary Lineker]] was the last England player before Kane to notch more than one goal in consecutive World Cup matches, 32 years ago. At Mexico 1986, Lineker followed up a hat-trick against Poland with a brace against Paraguay.<ref name="ENG-PAN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/england-romp-past-panama-and-into-last-16-2967323 |title=England romp past Panama and into last 16 |publisher=FIFA |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520050750/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/england-romp-past-panama-and-into-last-16-2967323 |archive-date=20 May 2026}}</ref> This was England's biggest win at a major tournament. Stones became the first England defender to score two goals in a World Cup match. Kane is the first player to score at least twice in both of his first two World Cup appearances since [[Grzegorz Lato]] of Poland in 1974.<ref>{{cite web |last=McNulty |first=Phil |title=England 6 Panama 1 |url=https://www.bbc.com/sport/football/44439183 |work=BBC Sport |date=24 June 2018}}</ref> Kane is the third England player to score a hat-trick in a World Cup match, after [[Geoff Hurst]] against Germany in the [[1966 FIFA World Cup Final|1966 final]] and Gary Lineker [[1986 FIFA World Cup Group F#England vs Poland|against Poland in 1986]].<ref>{{cite web |last=Law |first=Matt |title=England hat-trick hero Harry Kane 'irreplaceable' at World Cup, says manager Gareth Southgate |url=https://www.telegraph.co.uk/world-cup/2018/06/24/england-hat-trick-hero-harry-kane-irreplaceable-world-cup-says/ |publisher=The Telegraph |date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180624182336/https://www.telegraph.co.uk/world-cup/2018/06/24/england-hat-trick-hero-harry-kane-irreplaceable-world-cup-says/ |archive-date=24 June 2018 |df=dmy-all }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g4
+|date={{Start date|2018|6|24|df=y}}
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|ENG}}
+|score={{score link|2018 FIFA World Cup Group G#England vs Panama|6–1}}
+|team2={{fb|PAN}}
+|goals1=
+*[[John Stones|Stones]] {{goal|8||40}}
+*[[Harry Kane|Kane]] {{goal|22|pen.|45+1|pen.|62}}
+*[[Jesse Lingard|Lingard]] {{goal|36}}
+|goals2=
+*[[Felipe Baloy|Baloy]] {{goal|78}}
+|stadium=[[Nizhny Novgorod Stadium]], [[Nizhny Novgorod]]
+|attendance=43,319
+|referee=[[Gehad Grisha]] ([[Egyptian Football Association|Egypt]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331546 |title=England vs Panama {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/c04e740d6fab81d/original/zikvkjq0x0dgjhnso1qz-pdf.pdf |title=Match report – Group G – England v Panama |publisher=[[FIFA]] |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063342/https://digitalhub.fifa.com/m/c04e740d6fab81d/original/zikvkjq0x0dgjhnso1qz-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _eng18h
+ |pattern_b  = _eng18home
+ |pattern_ra = _eng18h
+ |pattern_sh = _eng18h
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 00007E
+ |socks      = FFFFFF
+ |title      = England<ref name="ENG-PAN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2df2c9018acb0331/original/ltks1h0ekrsp9rkdzph1-pdf.pdf |title=Tactical Line-up – Group G – England v Panama |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175601/https://digitalhub.fifa.com/m/2df2c9018acb0331/original/ltks1h0ekrsp9rkdzph1-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _crc18h
+ |pattern_b  = _pan18h
+ |pattern_ra = _crc18h
+ |pattern_sh =
+ |pattern_so = _panama18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Panama<ref name="ENG-PAN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jordan Pickford]]
+|-
+|CB ||'''2''' ||[[Kyle Walker]]
+|-
+|CB ||'''5''' ||[[John Stones]]
+|-
+|CB ||'''6''' ||[[Harry Maguire]]
+|-
+|DM ||'''8''' ||[[Jordan Henderson]]
+|-
+|CM ||'''21'''||[[Ruben Loftus-Cheek]] || {{yel|24}}
+|-
+|CM ||'''7''' ||[[Jesse Lingard]] || || {{suboff|63}}
+|-
+|RM ||'''12'''||[[Kieran Trippier]] || || {{suboff|70}}
+|-
+|LM ||'''18'''||[[Ashley Young]]
+|-
+|CF ||'''10'''||[[Raheem Sterling]]
+|-
+|CF ||'''9''' ||[[Harry Kane]] ([[Captain (association football)|c]]) || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Jamie Vardy]] || || {{subon|63}}
+|-
+|DF ||'''17'''||[[Fabian Delph]] || || {{subon|63}}
+|-
+|DF ||'''3''' ||[[Danny Rose (footballer, born 1990)|Danny Rose]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Gareth Southgate]]
+|}
+|valign="top"|[[File:ENG-PAN 2018-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jaime Penedo]]
+|-
+|RB ||'''2''' ||[[Michael Amir Murillo]] || {{yel|72}}
+|-
+|CB ||'''5''' ||[[Román Torres]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Fidel Escobar]] || {{yel|44}}
+|-
+|LB ||'''15'''||[[Erick Davis]]
+|-
+|DM ||'''6''' ||[[Gabriel Enrique Gómez|Gabriel Gómez]] || || {{suboff|69}}
+|-
+|CM ||'''11'''||[[Armando Cooper]] || {{yel|10}}
+|-
+|CM ||'''20'''||[[Aníbal Godoy]] || || {{suboff|62}}
+|-
+|RW ||'''8''' ||[[Yoel Bárcenas]] || || {{suboff|69}}
+|-
+|LW ||'''21'''||[[José Luis Rodríguez (footballer, born 1998)|José Luis Rodríguez]]
+|-
+|CF ||'''7''' ||[[Blas Pérez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Ricardo Ávila]] || || {{subon|62}}
+|-
+|FW ||'''16'''||[[Abdiel Arroyo]] || || {{subon|69}}
+|-
+|DF ||'''23'''||[[Felipe Baloy]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Hernán Darío Gómez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Harry Kane]] (England)<ref name="ENG-PAN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="ENG-PAN line-ups"/>
+<br />Redouane Achik ([[Royal Moroccan Football Federation|Morocco]])
+<br />Waleed Ahmed ([[Sudan Football Association|Sudan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Bertrand Brial ([[New Caledonian Football Federation|New Caledonia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|}
+
+===England vs Belgium===
+The two teams had met in 21 matches, including two matches at the World Cup, one round of 16 game at the [[1990 FIFA World Cup]] which ended in a [[1990 FIFA World Cup knockout stage#England vs Belgium|1–0]] victory for England, and one group stage game at the [[1954 FIFA World Cup]] which ended in a [[1954 FIFA World Cup Group 4#England vs Belgium|4–4]] draw.<ref name=Kit15/> Both teams had already guaranteed to advance to the last 16 before kick off, with the winner securing top spot in the group.
+
+Both teams fielded significantly altered line-ups before the game, with media outlets stating that a loss could potentially become beneficial, as the winner would be in the half of the draw with the 4 of the top 7 sides in the world.{{efn|Belgium were ranked third, and Germany had already been eliminated. Only Switzerland (6) and Spain (10) would be on the loser's half of the draw from the top 10 of the [[FIFA World Rankings]]}}<ref>{{cite web |title=England's game v Colombia 'biggest knockout game for decade' |url=https://www.bbc.com/sport/football/44650417 |work=BBC Sport |date=28 June 2018}}</ref><ref>{{cite web |last=Delaney |first=Miguel |title=Three Lions still left wondering how good they really are after deflating defeat |url=https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-england-belgium-match-report-highlights-video-batshuayi-januzaj-goal-a8422126.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-england-belgium-match-report-highlights-video-batshuayi-januzaj-goal-a8422126.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |publisher=The Independent |date=28 June 2018}}{{cbignore}}</ref>
+
+[[Jordan Pickford]] kept out a long-range drive from [[Youri Tielemans]] before the goalkeeper was rescued by [[Gary Cahill]]'s goal-line clearance after the ball squirmed out of his grasp. In the 51st minute, [[Adnan Januzaj]] cut in from the right and hit a left foot shot into the top left corner of the net. [[Jamie Vardy]] sent [[Marcus Rashford]] through on goal in the 66th minute, but the striker's effort was turned wide of the post by a touch from [[Thibaut Courtois]].<ref>{{cite web |last=Smith |first=Jamie |title=Januzaj stunner claims Group G top spot |url=http://www.goal.com/en-om/match/england-v-belgium/2l4la1grc4tsyud191bkztecp |website=Goal.com |date=28 June 2018}}</ref>
+
+This 1–0 victory ended Belgium's 82-year winless run against England which dates back to a friendly played in Brussels on 9 May 1936. The scoreline was 3–2 on that occasion.<ref name="ENG-BEL recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-stay-perfect-england-settle-for-second-2973464 |title=Belgium stay perfect, England finish second |publisher=FIFA |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520052930/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-stay-perfect-england-settle-for-second-2973464 |archive-date=20 May 2026}}</ref> This is the first World Cup match (other than 0–0 draws) in which England failed to score since a [[1986 FIFA World Cup Group F#Portugal vs England|1–0]] loss to Portugal in 1986.<ref>{{cite web |last=McNulty |first=Phil |title=World Cup 2018: England lose 1-0 to Belgium in final group game |url=https://www.bbc.com/sport/football/44439312 |work=BBC Sport |date=28 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g5
+|date={{Start date|2018|6|28|df=y}}
+|time=20:00 [[Kaliningrad Time|KALT]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ENG}}
+|score={{score link|2018 FIFA World Cup Group G#England vs Belgium|0–1}}
+|team2={{fb|BEL}}
+|goals1=
+|goals2=
+*[[Adnan Januzaj|Januzaj]] {{goal|51}}
+|stadium=[[Kaliningrad Stadium]], [[Kaliningrad]]
+|attendance=33,973
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300340182 |title=England vs Belgium {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/2bc0f5509275b623/original/jl35tkd3xntyqhi1lxwo-pdf.pdf |title=Match report – Group G – England v Belgium |publisher=[[FIFA]] |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063742/https://digitalhub.fifa.com/m/2bc0f5509275b623/original/jl35tkd3xntyqhi1lxwo-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _eng18h
+ |pattern_b  = _eng18home
+ |pattern_ra = _eng18h
+ |pattern_sh = _eng18h
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 00007E
+ |socks      = FFFFFF
+ |title      = England<ref name="ENG-BEL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/18e3797178d35a/original/tvn1my6l8xr9hnths5s7-pdf.pdf |title=Tactical Line-up – Group G – England v Belgium |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175614/https://digitalhub.fifa.com/m/18e3797178d35a/original/tvn1my6l8xr9hnths5s7-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _belgica1819h
+ |pattern_ra =
+ |pattern_sh = _belg18h
+ |pattern_so = _belg18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="ENG-BEL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jordan Pickford]]
+|-
+|CB ||'''16'''||[[Phil Jones (footballer, born 1992)|Phil Jones]]
+|-
+|CB ||'''5''' ||[[John Stones]] || || {{suboff|46}}
+|-
+|CB ||'''15'''||[[Gary Cahill]]
+|-
+|DM ||'''4''' ||[[Eric Dier]] ([[Captain (association football)|c]])
+|-
+|CM ||'''21'''||[[Ruben Loftus-Cheek]]
+|-
+|CM ||'''17'''||[[Fabian Delph]]
+|-
+|RW ||'''22'''||[[Trent Alexander-Arnold]] || || {{suboff|79}}
+|-
+|LW ||'''3''' ||[[Danny Rose (footballer, born 1990)|Danny Rose]]
+|-
+|CF ||'''19'''||[[Marcus Rashford]]
+|-
+|CF ||'''11'''||[[Jamie Vardy]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Harry Maguire]] || || {{subon|46}}
+|-
+|FW ||'''14'''||[[Danny Welbeck]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Gareth Southgate]]
+|}
+|valign="top"|[[File:ENG-BEL 2018-06-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]] ([[Captain (association football)|c]])
+|-
+|CB ||'''23'''||[[Leander Dendoncker]] || {{yel|33}}
+|-
+|CB ||'''20'''||[[Dedryck Boyata]]
+|-
+|CB ||'''3''' ||[[Thomas Vermaelen]] || || {{suboff|74}}
+|-
+|RM ||'''22'''||[[Nacer Chadli]]
+|-
+|CM ||'''8''' ||[[Marouane Fellaini]]
+|-
+|CM ||'''19'''||[[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]]
+|-
+|LM ||'''16'''||[[Thorgan Hazard]]
+|-
+|RF ||'''18'''||[[Adnan Januzaj]] || || {{suboff|86}}
+|-
+|CF ||'''21'''||[[Michy Batshuayi]]
+|-
+|LF ||'''17'''||[[Youri Tielemans]] || {{yel|19}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Vincent Kompany]] || || {{subon|74}}
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Roberto Martínez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Adnan Januzaj]] (Belgium)<ref name="ENG-BEL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="ENG-BEL line-ups"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />Robert Vukan ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Mohamed Al Hammadi ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|}
+
+===Panama vs Tunisia===
+The two teams had never met before.<ref name=Kit/> Both teams had already been eliminated from the tournament before the match.
+
+Panama took the lead in the 33rd minute, after a [[José Luis Rodríguez (footballer, born 1998)|José Rodríguez]] shot from outside the penalty area took a deflection off [[Yassine Meriah]] and nestle in the back of the net. In the 51st minute, [[Naïm Sliti]] found [[Wahbi Khazri]] down the right and the latter's low cross was converted by [[Fakhreddine Ben Youssef]] just six yards out. At the 66 minute mark, Khazri finished off a cross from the left by [[Oussama Haddadi]] from close range at the back post.<ref>{{cite web |last=Chowdhury |first=Saj |title=Wahbi Khazri scores as Tunisia end with 2-1 win over Panama |url=https://www.bbc.com/sport/football/44439319 |work=BBC Sport |date=28 June 2018}}</ref><ref name="PAN-TUN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/second-half-surge-sees-tunisia-bow-out-in-style |title=Second-half surge sees Tunisia bow out in style |publisher=FIFA |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520053112/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/second-half-surge-sees-tunisia-bow-out-in-style |archive-date=20 May 2026}}</ref>
+
+Tunisia won a World Cup match after 40 years, since their [[1978 FIFA World Cup Group 2#Tunisia vs Mexico|3–1]] victory over Mexico in 1978. Panama became the first nation since Serbia & Montenegro and Togo in 2006 to lose each of their first three World Cup games. Panama's goal means this is the first World Cup tournament in which every side has scored at least two goals in the competition. Meriah's own goal was the 50th in World Cup history.<ref>{{cite web |last=Atkinson |first=Guy |title=Khazri seals first World Cup win in 40 years |url=http://www.goal.com/en-in/match/panama-v-tunisia/report/3ev2mylamd001rc4r3x0naew9 |website=Goal.com |date=28 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g6
+|date={{Start date|2018|6|28|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|PAN}}
+|score={{score link|2018 FIFA World Cup Group G#Panama vs Tunisia|1–2}}
+|team2={{fb|TUN}}
+|goals1=
+*[[Yassine Meriah|Meriah]] {{goal|33|o.g.}}
+|goals2=
+*[[Fakhreddine Ben Youssef|F. Ben Youssef]] {{goal|51}}
+*[[Wahbi Khazri|Khazri]] {{goal|66}}
+|stadium=[[Mordovia Arena]], [[Saransk]]
+|attendance=37,168
+|referee=[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331520 |title=Panama vs Tunisia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/3686999b7f2ee7ed/original/je1dkun1bemuqaavti3k-pdf.pdf |title=Match report – Group G – Panama v Tunisia |publisher=[[FIFA]] |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063809/https://digitalhub.fifa.com/m/3686999b7f2ee7ed/original/je1dkun1bemuqaavti3k-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _crc18h
+ |pattern_b  = _pan18h
+ |pattern_ra = _crc18h
+ |pattern_sh =
+ |pattern_so = _panama18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Panama<ref name="PAN-TUN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/790f50bd37c8d80f/original/dqujkdor7tog5uv7vxba-pdf.pdf |title=Tactical Line-up – Group G – Panama v Tunisia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175635/https://digitalhub.fifa.com/m/790f50bd37c8d80f/original/dqujkdor7tog5uv7vxba-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ | pattern_la = _tunisia18h
+ | pattern_b  = _tunisia18h
+ | pattern_ra = _tunisia18h
+ | pattern_sh = _tunisia18h
+ | pattern_so = _uhlsportfootballtunisia18h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ |title      = Tunisia<ref name="PAN-TUN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jaime Penedo]]
+|-
+|RB ||'''13'''||[[Adolfo Machado]]
+|-
+|CB ||'''5''' ||[[Román Torres]] ([[Captain (association football)|c]]) || || {{suboff|56}}
+|-
+|CB ||'''4''' ||[[Fidel Escobar]]
+|-
+|LB ||'''17'''||[[Luis Ovalle]]
+|-
+|DM ||'''6''' ||[[Gabriel Enrique Gómez|Gabriel Gómez]] || {{yel|80}}
+|-
+|CM ||'''20'''||[[Aníbal Godoy]]
+|-
+|CM ||'''19'''||[[Ricardo Ávila]] || {{yel|78}} || {{suboff|81}}
+|-
+|RW ||'''8''' ||[[Yoel Bárcenas]]
+|-
+|LW ||'''21'''||[[José Luis Rodríguez (footballer, born 1998)|José Luis Rodríguez]]
+|-
+|CF ||'''9''' ||[[Gabriel Torres]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Harold Cummings]] || || {{subon|46}}
+|-
+|FW ||'''18'''||[[Luis Tejada]] || {{yel|90+6}} || {{subon|56}}
+|-
+|FW ||'''16'''||[[Abdiel Arroyo]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Hernán Darío Gómez]]
+|}
+|valign="top"|[[File:PAN-TUN 2018-06-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Aymen Mathlouthi]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||[[Hamdi Nagguez]]
+|-
+|CB ||'''6''' ||[[Rami Bedoui]]
+|-
+|CB ||'''4''' ||[[Yassine Meriah]]
+|-
+|LB ||'''5''' ||[[Oussama Haddadi]]
+|-
+|CM ||'''13'''||[[Ferjani Sassi]] || {{yel|44}} || {{suboff|46}}
+|-
+|CM ||'''17'''||[[Ellyes Skhiri]]
+|-
+|CM ||'''20'''||[[Ghailene Chaalali]] || {{yel|90+3}}
+|-
+|RF ||'''8''' ||[[Fakhreddine Ben Youssef]]
+|-
+|CF ||'''10'''||[[Wahbi Khazri]] || || {{suboff|89}}
+|-
+|LF ||'''23'''||[[Naïm Sliti]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Anice Badri]] || {{yel|71}} || {{subon|46}}
+|-
+|MF ||'''15'''||[[Ahmed Khalil (footballer, born 1994)|Ahmed Khalil]] || || {{subon|77}}
+|-
+|MF ||'''18'''||[[Bassem Srarfi]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Nabil Maâloul]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Fakhreddine Ben Youssef]] (Tunisia)<ref name="PAN-TUN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="PAN-TUN line-ups"/>
+<br />Yaser Tulefat ([[Bahrain Football Association|Bahrain]])
+<br />Taleb Al Maari ([[Qatar Football Association|Qatar]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mehdi Abid Charef]] ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Hiroshi Yamauchi ([[Japan Football Association|Japan]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+==Discipline==
+Fair play points would have been used as tiebreakers if the overall and head-to-head records of teams were tied. These were calculated based on yellow and red cards received in all group matches as follows:<ref name="regulations"/>
+*first yellow card: minus 1 point;
+*indirect red card (second yellow card): minus 3 points;
+*direct red card: minus 4 points;
+*yellow card and direct red card: minus 5 points;
+
+Only one of the above deductions were applied to a player in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Points
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{fb|ENG}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+!style="border-left:3px solid gray"| −2
+|-
+|align=left|{{fb|TUN}}
+|style="border-left:3px solid gray"|  ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+!style="border-left:3px solid gray"| −4
+|-
+|align=left|{{fb|BEL}}
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+!style="border-left:3px solid gray"| −5
+|-
+|align=left|{{fb|PAN}}
+|style="border-left:3px solid gray"| 5 ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+!style="border-left:3px solid gray"| −11
+|}
+
+==See also==
+*[[Belgium at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[Panama at the FIFA World Cup]]
+*[[Tunisia at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://web.archive.org/web/20171202100609/http://www.fifa.com/worldcup/groups/group=275087/index.html 2018 FIFA World Cup Group G], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group G}}
+[[Category:2018 FIFA World Cup group stage|G]]
+[[Category:Belgium at the 2018 FIFA World Cup]]
+[[Category:Panama at the 2018 FIFA World Cup]]
+[[Category:Tunisia at the 2018 FIFA World Cup]]
+[[Category:England at the 2018 FIFA World Cup]]
+[[Category:Sports competitions in Sochi]]
+[[Category:2018 in Sochi]]
+[[Category:Sports competitions in Volgograd]]
+[[Category:Football in Moscow]]
+[[Category:2018 in Moscow]]
+[[Category:Sport in Nizhny Novgorod]]
+[[Category:Sport in Kaliningrad]]
+[[Category:Sport in Saransk]]
+[[Category:2018 in Nizhny Novgorod]]

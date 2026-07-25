@@ -1,0 +1,909 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Play in '''Group C of the [[1990 FIFA World Cup]]''' completed on 20 June 1990.<ref>{{cite web |url=https://www.rsssf.org/tables/90full.html |title=World Cup 1990 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> [[Brazil national football team|Brazil]] won the group, and advanced to the [[1990 FIFA World Cup knockout stage|second round]], along with [[Costa Rica national football team|Costa Rica]]. [[Scotland national football team|Scotland]] and [[Sweden men's national football team|Sweden]] failed to advance, with the latter achieving a unique feat in World Cup history by playing three games in a particular World Cup having every game finish with exactly the same scoreline: a 2–1 loss.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+|class_rules=[[1990 FIFA World Cup#Group stage|Group stage tiebreakers]]
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407140015/http://www.fifa.com/worldcup/archive/italy1990/groups/index.html FIFA]
+
+|team1=BRA |team2=CRC |team3=SCO |team4=SWE
+|result1=KO |result2=KO
+
+|win_BRA=3 |draw_BRA=0 |loss_BRA=0 |gf_BRA=4 |ga_BRA=1
+|win_CRC=2 |draw_CRC=0 |loss_CRC=1 |gf_CRC=3 |ga_CRC=2
+|win_SCO=1 |draw_SCO=0 |loss_SCO=2 |gf_SCO=2 |ga_SCO=3
+|win_SWE=0 |draw_SWE=0 |loss_SWE=3 |gf_SWE=3 |ga_SWE=6
+
+|name_BRA={{fb|BRA|1968}}
+|name_SWE={{fb|SWE}}
+|name_CRC={{fb|CRC}}
+|name_SCO={{fb|SCO}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1990 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times local ([[Central European Summer Time|CEST/UTC+2]])
+
+===Brazil vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=C1
+|date={{Start date|1990|6|10|df=y}}
+|time=21:00
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1990 FIFA World Cup Group C#Brazil vs Sweden|2–1}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Careca]] {{goal|40||63}}
+|goals2=
+*[[Tomas Brolin|Brolin]] {{goal|79}}
+|stadium=[[Stadio delle Alpi|Stadio Delle Alpi]], [[Turin]]
+|attendance=62,628
+|referee=[[Tullio Lanese]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/75 |title=Brazil vs Sweden {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=75/index.html |title=1990 FIFA World Cup Italy – Matches – Brazil v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724222626/http://www.fifa.com/worldcup/matches/round=322/match=75/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra90h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1990
+ | leftarm    = FFDF00
+ | body       = FFFFFF 
+ | rightarm   = FFDF00
+ | shorts     = 0070F9
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _sweden90a
+ | pattern_b  = _sweden90a
+ | pattern_ra = _sweden90a
+ | pattern_sh = _sweden1990
+ | pattern_so = _color_3_stripes_yellow
+ | leftarm    = 000097
+ | body       = 000097
+ | rightarm   = 000097
+ | shorts     = 000097
+ | socks      = 000097
+ | title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel|Taffarel]]
+|-
+|SW ||'''21'''||[[Mauro Galvão]]
+|-
+|CB ||'''13'''||[[Carlos Mozer|Mozer]]|| {{yel|38}}
+|-
+|CB ||'''3''' ||[[Ricardo Gomes]] ([[Captain (association football)|c]])
+|-
+|RM ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|CM ||'''4''' ||[[Dunga]]|| {{yel|88}}
+|-
+|CM ||'''5''' ||[[Alemão (footballer, born 1961)|Alemão]]
+|-
+|LM ||'''6''' ||[[Branco (footballer)|Branco]]|| {{yel|60}}
+|-
+|AM ||'''8''' ||[[Valdo Filho|Valdo]] || || {{suboff|82}}
+|-
+|FW ||'''15'''||[[Müller (footballer, born 1966)|Müller]] 
+|-
+|FW ||'''9''' ||[[Careca]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|AM ||'''10'''||[[Paulo Silas|Silas]] || || {{subon|82}}
+|-
+|FW ||'''11'''||[[Romário]]
+|-
+|FW ||'''16'''||[[Bebeto]]
+|-
+|CB ||'''19'''||[[Ricardo Roberto Barreto da Rocha|Ricardo Rocha]]
+|-
+|GK ||'''22'''||[[José Carlos da Costa Araújo|Zé Carlos]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Sebastião Lazaroni]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Thomas Ravelli]]
+|-
+|DF ||'''6''' ||[[Roland Nilsson]]
+|-
+|DF ||'''4''' ||[[Peter Larsson (footballer born 1961)|Peter Larsson]]
+|-
+|DF ||'''5''' ||[[Roger Ljung]]|| || {{suboff|70}}
+|-
+|DF ||'''8''' ||[[Stefan Schwarz]]
+|-
+|MF ||'''13'''||[[Anders Limpar]]
+|-
+|MF ||'''16'''||[[Jonas Thern]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Klas Ingesson]]
+|-
+|MF ||'''14'''||[[Joakim Nilsson (footballer born 1966)|Joakim Nilsson]]|| {{yel|83}}
+|-
+|FW ||'''20'''||[[Mats Magnusson]] || || {{suboff|46}}
+|-
+|FW ||'''17'''||[[Tomas Brolin]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||[[Lars Eriksson (footballer, born 1965)|Lars Eriksson]]
+|-
+|MF ||'''15'''||[[Glenn Strömberg]] || || {{subon|70}}
+|-
+|MF ||'''7'''||[[Niclas Nylén]]
+|-
+|DF ||'''19'''||[[Mats Gren]]
+|-
+|FW ||'''21'''||[[Stefan Pettersson (footballer)|Stefan Pettersson]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Olle Nordin]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Michel Vautrot]] ([[French Football Federation|France]])
+<br />[[Neji Jouini]] ([[Tunisian Football Federation|Tunisia]])
+|}
+
+===Costa Rica vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=C2
+|date={{Start date|1990|6|11|df=y}}
+|time=17:00
+|team1={{fb-rt|CRC}}
+|score={{score link|1990 FIFA World Cup Group C#Costa Rica vs Scotland|1–0}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Juan Cayasso|Cayasso]] {{goal|49}}
+|goals2=
+|stadium=[[Stadio Luigi Ferraris]], [[Genoa]]
+|attendance=30,867
+|referee=[[Juan Carlos Loustau]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/127 |title=Costa Rica vs Scotland {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=127/index.html |title=1990 FIFA World Cup Italy – Matches – Costa Rica v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170910152732/http://www.fifa.com/worldcup/matches/round=322/match=127/index.html |archive-date=10 September 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _collarwhite
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Costa Rica
+}}
+|{{Football kit
+ | pattern_la = _scotland1990_away
+ | pattern_b  = _scotland1990_away
+ | pattern_ra = _scotland1990_away
+ | pattern_sh = 
+ | pattern_so = _gold_midband
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 101060
+ | socks      = 101060
+ | title      = Scotland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Gabelo Conejo]]
+|-
+|SW ||'''3''' ||[[Róger Flores]] ([[Captain (association football)|c]])
+|-
+|DF ||'''8''' ||[[Germán Chavarría]]
+|-
+|DF ||'''20'''||[[Mauricio Montero]]
+|-
+|DF ||'''6''' ||[[José Carlos Chaves]]
+|-
+|MF ||'''4''' ||[[Rónald González Brenes]]
+|-
+|MF ||'''10'''||[[Óscar Ramírez (football manager)|Óscar Ramírez]]
+|-
+|MF ||'''12'''||[[Róger Gómez]]
+|-
+|FW ||'''14'''||[[Juan Cayasso]]
+|-
+|FW ||'''19'''||[[Héctor Marchena]] 
+|-
+|FW ||'''11'''||[[Claudio Jara]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''5''' ||[[Marvin Obando]]
+|-
+|FW ||'''7''' ||[[Hernán Medford]] || || {{subon|85}}
+|-
+|FW ||'''9''' ||[[Alexandre Guimarães]]
+|-
+|MF ||'''17'''||[[Roy Myers]]
+|-
+|GK ||'''21'''||[[Hermidio Barrantes]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|YUG}} [[Bora Milutinović]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jim Leighton]]
+|-
+|DF ||'''4''' ||[[Richard Gough]]|| || {{suboff|46}}
+|-
+|DF ||'''2''' ||[[Alex McLeish]]
+|-
+|DF ||'''3''' ||[[Roy Aitken]] ([[Captain (association football)|c]])
+|-
+|DF ||'''19'''||[[Dave McPherson (footballer)|David McPherson]]
+|-
+|DF ||'''6''' ||[[Maurice Malpas]]
+|-
+|MF ||'''5''' ||[[Paul McStay]]
+|-
+|MF ||'''8''' ||[[Jim Bett]]|| || {{suboff|74}}
+|-
+|MF ||'''16'''||[[Stuart McCall]]
+|-
+|FW ||'''7''' ||[[Mo Johnston]] 
+|-
+|FW ||'''14'''||[[Alan McInally]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Ally McCoist]] || || {{subon|74}}
+|-
+|MF ||'''10'''||[[Murdo MacLeod]]
+|-
+|GK ||'''12'''||[[Andy Goram]]
+|-
+|MF ||'''13'''||[[Gordon Durie]]
+|-
+|DF ||'''17'''||[[Stewart McKimmie]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Andy Roxburgh]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Carlos Maciel]] ([[Paraguayan Football Association|Paraguay]])
+<br />[[Elías Jácome]] ([[Ecuadorian Football Federation|Ecuador]])
+|}
+
+===Brazil vs Costa Rica===
+<onlyinclude>{{#invoke:Football box|main|section=C3
+|date={{Start date|1990|6|16|df=y}}
+|time=17:00
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1990 FIFA World Cup Group C#Brazil vs Costa Rica|1–0}}
+|team2={{fb|CRC}}
+|goals1=
+*[[Müller (footballer, born 1966)|Müller]] {{goal|33}}
+|goals2=
+|stadium=[[Stadio delle Alpi|Stadio Delle Alpi]], [[Turin]]
+|attendance=58,007
+|referee=[[Neji Jouini]] ([[Tunisian Football Federation|Tunisia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/73 |title=Brazil vs Costa Rica {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=73/index.html |title=1990 FIFA World Cup Italy – Matches – Brazil v Costa Rica |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228034208/http://www.fifa.com/worldcup/matches/round=322/match=73/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra90h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = 
+ | leftarm    = FFDF00
+ | body       = FFFFFF 
+ | rightarm   = FFDF00
+ | shorts     = 0070F9
+ | socks      = 0070F9
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _black_stripes
+ | pattern_b  = _juve190314h
+ | pattern_ra = _black_stripes
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Costa Rica
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel|Taffarel]]
+|-
+|SW ||'''21'''||[[Mauro Galvão]]
+|-
+|CB ||'''13'''||[[Carlos Mozer|Mozer]]|| {{yel|90}}
+|-
+|CB ||'''3''' ||[[Ricardo Gomes]] ([[Captain (association football)|c]])
+|-
+|RM ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]|| {{yel|88}}
+|-
+|CM ||'''5''' ||[[Alemão (footballer born 1961)|Alemão]]
+|-
+|CM ||'''4''' ||[[Dunga]]
+|-
+|LM ||'''6''' ||[[Branco (footballer)|Branco]]
+|-
+|AM ||'''8''' ||[[Valdo Filho|Valdo]] || || {{suboff|86}}
+|-
+|FW ||'''15'''||[[Müller (footballer, born 1966)|Müller]] 
+|-
+|FW ||'''9''' ||[[Careca]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|AM ||'''10'''||[[Paulo Silas|Silas]] || || {{subon|86}}
+|-
+|FW ||'''11'''||[[Romário]]
+|-
+|FW ||'''16'''||[[Bebeto]] || || {{subon|83}}
+|-
+|DF ||'''19'''||[[Ricardo Roberto Barreto da Rocha|Ricardo Rocha]]
+|-
+|GK ||'''22'''||[[José Carlos da Costa Araújo|Zé Carlos]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Sebastião Lazaroni]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Gabelo Conejo]]
+|-
+|SW ||'''3''' ||[[Róger Flores]] ([[Captain (association football)|c]])
+|-
+|RB ||'''8''' ||[[Germán Chavarría]]
+|-
+|CB ||'''20'''||[[Mauricio Montero]]
+|-
+|LB ||'''6''' ||[[José Carlos Chaves]]
+|-
+|DM ||'''4''' ||[[Rónald González Brenes]]
+|-
+|DM ||'''19'''||[[Héctor Marchena]] 
+|-
+|RW ||'''14'''||[[Juan Cayasso]]|| || {{suboff|78}}
+|-
+|CM ||'''10'''||[[Óscar Ramírez (football manager)|Óscar Ramírez]]
+|-
+|LM ||'''12'''||[[Róger Gómez]]|| {{yel|59}}
+|-
+|CF ||'''11'''||[[Claudio Jara]] || {{yel|16}} || {{suboff|71}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''5''' ||[[Marvin Obando]]
+|-
+|FW ||'''7''' ||[[Hernán Medford]]
+|-
+|MF ||'''9''' ||[[Alexandre Guimarães]] || || {{subon|78}}
+|-
+|MF ||'''17'''||[[Roy Myers]] || || {{subon|71}}
+|-
+|GK ||'''21'''||[[Hermidio Barrantes]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|YUG}} [[Bora Milutinović]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Jean-Fidèle Diramba]] ([[Gabonese Football Federation|Gabon]])
+<br />[[Jassim Mandi]] ([[Bahrain Football Association|Bahrain]])
+|}
+
+===Sweden vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=C4
+|date={{Start date|1990|6|16|df=y}}
+|time=21:00
+|team1={{fb-rt|SWE}}
+|score={{score link|1990 FIFA World Cup Group C#Sweden vs Scotland|1–2}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Glenn Strömberg|Strömberg]] {{goal|85}}
+|goals2=
+*[[Stuart McCall|McCall]] {{goal|11}}
+*[[Mo Johnston|Johnston]] {{goal|81|pen.}}
+|stadium=[[Stadio Luigi Ferraris]], [[Genoa]]
+|attendance=31,823
+|referee=[[Carlos Maciel]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/348 |title=Sweden vs Scotland {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=348/index.html |title=1990 FIFA World Cup Italy – Matches – Sweden v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724213817/http://www.fifa.com/worldcup/matches/round=322/match=348/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _metalist0708h
+ | pattern_b  = _rom84h
+ | pattern_ra = _metalist0708h
+ | pattern_sh =  _sweden1990
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 2020E0
+ | socks      = FFFF00
+ | title      = Sweden
+}}
+|{{Football kit
+ | pattern_la = _sco8891h
+ | pattern_b  = _sco8891h
+ | pattern_ra = _sco8891h
+ | pattern_sh = _sco8891h
+ | pattern_so = _sco8891h
+ | leftarm    = 101060
+ | body       = 101060
+ | rightarm   = 101060
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Scotland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Thomas Ravelli]]
+|-
+|RB ||'''6''' ||[[Roland Nilsson]]
+|-
+|CB ||'''4''' ||[[Peter Larsson (footballer born 1961)|Peter Larsson]]|| || {{suboff|75}}
+|-
+|CB ||'''3''' ||[[Glenn Hysén]] ([[Captain (association football)|c]])
+|-
+|LB ||'''8''' ||[[Stefan Schwarz]]
+|-
+|RM ||'''13'''||[[Anders Limpar]]
+|-
+|CM ||'''10'''||[[Klas Ingesson]]
+|-
+|CM ||'''16'''||[[Jonas Thern]]|| {{yel|59}}
+|-
+|LM ||'''14'''||[[Joakim Nilsson (footballer born 1966)|Joakim Nilsson]]
+|-
+|CF ||'''17'''||[[Tomas Brolin]]
+|-
+|CF ||'''21'''||[[Stefan Pettersson (footballer)|Stefan Pettersson]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||[[Lars Eriksson (footballer, born 1965)|Lars Eriksson]]
+|-
+|DF ||'''5'''||[[Roger Ljung]]
+|-
+|MF ||'''9''' ||[[Leif Engqvist]]
+|-
+|MF ||'''15'''||[[Glenn Strömberg]] || || {{subon|75}}
+|-
+|FW ||'''18'''||[[Johnny Ekström]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Olle Nordin]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jim Leighton]]
+|-
+|RB ||'''19'''||[[Dave McPherson (footballer)|David McPherson]] || {{yel|69}}
+|-
+|CB ||'''15'''||[[Craig Levein]]
+|-
+|CB ||'''2''' ||[[Alex McLeish]]
+|-
+|LB ||'''6''' ||[[Maurice Malpas]]
+|-
+|RM ||'''3''' ||[[Roy Aitken]] ([[Captain (association football)|c]])
+|-
+|CM ||'''16'''||[[Stuart McCall]]
+|-
+|CM ||'''10'''||[[Murdo MacLeod]]
+|-
+|LM ||'''13'''||[[Gordon Durie]]|| || {{suboff|75}}
+|-
+|CF ||'''21'''||[[Robert Fleck]]|| || {{suboff|84}}
+|-
+|CF ||'''7''' ||[[Mo Johnston]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||[[Andy Goram]]
+|-
+|DF ||'''17'''||[[Stewart McKimmie]]
+|-
+|MF ||'''5''' ||[[Paul McStay]] || || {{subon|75}}
+|-
+|MF ||'''20'''||[[Gary McAllister]]
+|-
+|FW ||'''9''' ||[[Ally McCoist]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Andy Roxburgh]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Vincent Mauro ([[United States Soccer Federation|United States]])
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+|}
+
+===Brazil vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=C5
+|date={{Start date|1990|6|20|df=y}}
+|time=21:00
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1990 FIFA World Cup Group C#Brazil vs Scotland|1–0}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Müller (footballer, born 1966)|Müller]] {{goal|81}}
+|goals2=
+|stadium=[[Stadio delle Alpi|Stadio Delle Alpi]], [[Turin]]
+|attendance=62,502
+|referee=[[Helmut Kohl (referee)|Helmut Kohl]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/74 |title=Brazil vs Scotland {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=74/index.html |title=1990 FIFA World Cup Italy – Matches – Brazil v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724224824/http://www.fifa.com/worldcup/matches/round=322/match=74/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra90h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1990
+ | leftarm    = FFDF00
+ | body       = FFFFFF 
+ | rightarm   = FFDF00
+ | shorts     = 0070F9
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _sco8891h
+ | pattern_b  = _sco8891h
+ | pattern_ra = _sco8891h
+ | pattern_sh = _sco8891h
+ | pattern_so = _sco8891h
+ | leftarm    = 101060
+ | body       = 101060
+ | rightarm   = 101060
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Scotland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel|Taffarel]]
+|-
+|SW ||'''21'''||[[Mauro Galvão]]
+|-
+|CB ||'''19'''||[[Ricardo Roberto Barreto da Rocha|Ricardo Rocha]]
+|-
+|CB ||'''3''' ||[[Ricardo Gomes]] ([[Captain (association football)|c]])
+|-
+|RM ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|CM ||'''4''' ||[[Dunga]]
+|-
+|CM ||'''5''' ||[[Alemão (footballer born 1961)|Alemão]]
+|-
+|LM ||'''6''' ||[[Branco (footballer)|Branco]]
+|-
+|AM ||'''8''' ||[[Valdo Filho|Valdo]] 
+|-
+|FW ||'''9''' ||[[Careca]]
+|-
+|FW ||'''11'''||[[Romário]]  || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|AM ||'''10'''||[[Paulo Silas|Silas]]
+|-
+|FW ||'''15'''||[[Müller (footballer, born 1966)|Müller]] || || {{subon|65}}
+|-
+|FW ||'''16'''||[[Bebeto]]
+|-
+|RM ||'''18'''||[[Mazinho]]
+|-
+|GK ||'''22'''||[[José Carlos da Costa Araújo|Zé Carlos]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Sebastião Lazaroni]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jim Leighton]] 
+|-
+|SW ||'''3''' ||[[Roy Aitken]] ([[Captain (association football)|c]])
+|-
+|DF ||'''17'''||[[Stewart McKimmie]]
+|-
+|DF ||'''2''' ||[[Alex McLeish]]
+|-
+|DF ||'''19'''||[[Dave McPherson (footballer)|David McPherson]] 
+|-
+|DF ||'''6''' ||[[Maurice Malpas]]
+|-
+|MF ||'''5''' ||[[Paul McStay]]
+|-
+|MF ||'''10'''||[[Murdo MacLeod]]  || {{yel|8}} || {{suboff|39}}
+|-
+|MF ||'''16'''||[[Stuart McCall]]
+|-
+|FW ||'''7''' ||[[Mo Johnston]] || {{yel|5}}
+|-
+|FW ||'''9''' ||[[Ally McCoist]]  || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''11'''||[[Gary Gillespie]] || || {{subon|39}}
+|-
+|GK ||'''12'''||[[Andy Goram]]
+|-
+|MF ||'''18'''||[[John Collins (footballer born 1968)|John Collins]]
+|-
+|MF ||'''20'''||[[Gary McAllister]]
+|-
+|FW ||'''21'''||[[Robert Fleck]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Andy Roxburgh]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+<br />[[Siegfried Kirschen]] ([[East German Football Association|East Germany]])
+|}
+
+===Sweden vs Costa Rica===
+<onlyinclude>{{#invoke:Football box|main|section=C6
+|date={{Start date|1990|6|20|df=y}}
+|time=21:00
+|team1={{fb-rt|SWE}}
+|score={{score link|1990 FIFA World Cup Group C#Sweden vs Costa Rica|1–2}}
+|team2={{fb|CRC}}
+|goals1=
+*[[Johnny Ekström|Ekström]] {{goal|32}}
+|goals2=
+*[[Róger Flores|Flores]] {{goal|75}}
+*[[Hernán Medford|Medford]] {{goal|87}}
+|stadium=[[Stadio Luigi Ferraris]], [[Genoa]]
+|attendance=30,223
+|referee=[[Zoran Petrović (referee)|Zoran Petrović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/128 |title=Sweden vs Costa Rica {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=128/index.html |title=1990 FIFA World Cup Italy – Matches – Sweden v Costa Rica |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170910152737/http://www.fifa.com/worldcup/matches/round=322/match=128/index.html |archive-date=10 September 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _metalist0708h
+ | pattern_b  = _rom84h
+ | pattern_ra = _metalist0708h
+ | pattern_sh =  _sweden1990
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 2020E0
+ | socks      = FFFF00
+ | title      = Sweden
+}}
+|{{Football kit
+ | pattern_la = _black_stripes
+ | pattern_b  = _juve190314h
+ | pattern_ra = _black_stripes
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Costa Rica
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Thomas Ravelli]]
+|-
+|DF ||'''6''' ||[[Roland Nilsson]]
+|-
+|DF ||'''3''' ||[[Glenn Hysén]] ([[Captain (association football)|c]])
+|-
+|DF ||'''8''' ||[[Stefan Schwarz]]|| {{yel|74}} 
+|-
+|MF ||'''21'''||[[Stefan Pettersson (footballer)|Stefan Pettersson]] 
+|-
+|MF ||'''15'''||[[Glenn Strömberg]]|| {{yel|20}}  || {{suboff|81}}
+|-
+|MF ||'''4''' ||[[Peter Larsson (footballer born 1961)|Peter Larsson]]
+|-
+|MF ||'''10'''||[[Klas Ingesson]]
+|-
+|MF ||'''14'''||[[Joakim Nilsson (footballer born 1966)|Joakim Nilsson]]
+|-
+|FW ||'''18'''||[[Johnny Ekström]]
+|-
+|FW ||'''17'''||[[Tomas Brolin]]|| || {{suboff|34}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''9''' ||[[Leif Engqvist]] || || {{subon|81}}
+|-
+|GK ||'''12'''||[[Lars Eriksson (footballer, born 1965)|Lars Eriksson]]
+|-
+|DF ||'''5'''||[[Roger Ljung]]
+|-
+|MF ||'''13'''||[[Anders Limpar]]
+|-
+|DF ||'''19'''||[[Mats Gren]] || || {{subon|34}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Olle Nordin]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Gabelo Conejo]]
+|-
+|SW ||'''3''' ||[[Róger Flores]] ([[Captain (association football)|c]])
+|-
+|DF ||'''8''' ||[[Germán Chavarría]] || || {{suboff|73}}
+|-
+|DF ||'''20'''||[[Mauricio Montero]]
+|-
+|DF ||'''6''' ||[[José Carlos Chaves]]
+|-
+|MF ||'''4''' ||[[Rónald González Brenes]]
+|-
+|MF ||'''10'''||[[Óscar Ramírez (football manager)|Óscar Ramírez]]
+|-
+|MF ||'''12'''||[[Róger Gómez]]|| {{yel|28}}  || {{suboff|60}}
+|-
+|MF ||'''14'''||[[Juan Cayasso]]
+|-
+|FW ||'''19'''||[[Héctor Marchena]] || {{yel|53}} 
+|-
+|FW ||'''11'''||[[Claudio Jara]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''5''' ||[[Marvin Obando]]
+|-
+|FW ||'''7''' ||[[Hernán Medford]] || || {{subon|60}}
+|-
+|FW ||'''9''' ||[[Alexandre Guimarães]] || || {{subon|73}}
+|-
+|MF ||'''17'''||[[Roy Myers]]
+|-
+|GK ||'''21'''||[[Hermidio Barrantes]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|YUG}} [[Bora Milutinović]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Alan Snoddy]] ([[Irish Football Association|Northern Ireland]])
+<br />[[George Courtney]] ([[The Football Association|England]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Costa Rica at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1990 FIFA World Cup}}
+
+{{DEFAULTSORT:Group C}}
+[[Category:1990 FIFA World Cup group stage|C]]
+[[Category:Brazil at the 1990 FIFA World Cup|Group]]
+[[Category:Scotland at the 1990 FIFA World Cup|Group]]
+[[Category:Sweden at the 1990 FIFA World Cup]]
+[[Category:Costa Rica at the 1990 FIFA World Cup]]
+[[Category:Football competitions in Turin]]
+[[Category:Football in Genoa]]
+[[Category:Sports competitions in Genoa]]
+[[Category:20th century in Genoa]]
+[[Category:1990s in Turin]]

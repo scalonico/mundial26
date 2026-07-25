@@ -1,0 +1,729 @@
+{{Short description|none}}
+{{Use dmy dates|date=May 2018}}
+'''Group 1 of the [[1966 FIFA World Cup]]''' consisted of [[Uruguay national football team|Uruguay]], hosts [[England national football team|England]], [[France national football team|France]], and [[Mexico national football team|Mexico]]. Play began on 11 July 1966 and concluded on 20 July 1966. England won the group and Uruguay finished as runners-up, and both advanced to the quarter-finals. Mexico and France failed to advance. England went on to win the tournament.<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/66f.html |title=World Cup 1966 (England, July 11–30) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=26 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150905185825/https://www.fifa.com/worldcup/archive/england1966/groups/index.html#532 FIFA] 
+
+|team1=ENG|team2=URU |team3=MEX |team4=FRA
+|result1=A |result2=A
+
+|win_ENG=2 |draw_ENG=1 |loss_ENG=0 |gf_ENG=4 |ga_ENG=0
+|win_URU=1 |draw_URU=2 |loss_URU=0 |gf_URU=2 |ga_URU=1
+|win_MEX=0 |draw_MEX=2 |loss_MEX=1 |gf_MEX=1 |ga_MEX=3
+|win_FRA=0 |draw_FRA=1 |loss_FRA=2 |gf_FRA=2 |ga_FRA=5
+
+|name_FRA={{fb|FRA|1794}}
+|name_MEX={{fb|MEX|1934}}
+|name_URU={{fb|URU}}
+|name_ENG={{fb|ENG}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1966 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===England vs Uruguay===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-1
+|date={{Start date|1966|7|11|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1966 FIFA World Cup Group 1#England vs Uruguay|0–0}}
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=87,148
+|referee=[[Istvan Zsolt]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1636 |title=England vs Uruguay {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1636/index.html |title=1966 FIFA World Cup England – Matches – England v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209232112/http://www.fifa.com/worldcup/matches/round=238/match=1636/index.html |archive-date=9 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la =
+|pattern_b  = _eng66h
+|pattern_ra =
+|pattern_sh =
+|pattern_so =
+|leftarm    = ffffff
+|body       = ffffff
+|rightarm   = ffffff
+|shorts     = 000066
+|socks      = ffffff
+|title      = England
+}}
+|{{Football kit
+|pattern_la = _whiteborder
+|pattern_b  = _vneckwhite
+|pattern_ra = _whiteborder
+|pattern_sh = 
+|pattern_so = _sky_blue_on_top
+|leftarm    = 5dc2ff
+|body       = 5dc2ff
+|rightarm   = 5dc2ff
+|shorts     = 000000
+|socks      = 000000
+|title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gordon Banks]]
+|-
+|RB ||'''2''' ||[[George Cohen]]
+|-
+|CB ||'''5''' ||[[Jack Charlton]]
+|-
+|CB ||'''6''' ||[[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+|DM ||'''4''' ||[[Nobby Stiles]]
+|-
+|AM ||'''9''' ||[[Bobby Charlton]]
+|-
+|RW ||'''7'''||[[Alan Ball Jr.|Alan Ball]]
+|-
+|CF ||'''8''' ||[[Jimmy Greaves]]
+|-
+|CF ||'''21'''||[[Roger Hunt]]
+|-
+|LF ||'''11'''||[[John Connelly (footballer, born 1938)|John Connelly]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Alf Ramsey]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]]
+|-
+|SW ||'''2''' ||[[Horacio Troche]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15''' ||[[Luis Ubiña]]
+|-
+|CB ||'''3''' ||[[Jorge Manicera]]
+|-
+|CH ||'''5''' ||[[Néstor Gonçalves]]
+|-
+|LB ||'''6''' ||[[Omar Caetano]]
+|-
+|RH ||'''18''' ||[[Milton Viera]]
+|-
+|LH ||'''7'''||[[Julio César Cortés]]
+|-
+|CM ||'''10'''||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|CF ||'''19'''||[[Héctor Silva (Uruguayan footballer)|Héctor Silva]]
+|-
+|CF ||'''11''' ||[[Domingo Pérez (footballer)|Domingo Pérez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Ondino Viera]]
+|}
+|}
+
+===France vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=1-2
+|date={{Start date|1966|7|13|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|FRA|1794}}
+|score={{score link|1966 FIFA World Cup Group 1#France vs Mexico|1–1}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Gérard Hausser|Hausser]] {{goal|62}}
+|goals2=
+*[[Enrique Borja|Borja]] {{goal|48}}
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=69,237
+|referee=[[Menachem Ashkenazi]] ([[Israel Football Association|Israel]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1650 |title=France vs Mexico {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1650/index.html |title=1966 FIFA World Cup England – Matches – France v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202100605/http://www.fifa.com/worldcup/matches/round=238/match=1650/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la =
+|pattern_b  = 
+|pattern_ra =
+|pattern_sh =
+|pattern_so = _arsenalsarandi1314h
+|leftarm    = 0000ff
+|body       = 0000ff
+|rightarm   = 0000ff
+|shorts     = ffffff
+|socks      = ff0000
+|title      = France
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = _mexico1966
+|pattern_ra =
+|pattern_sh =
+|pattern_so =
+|leftarm    = 890A22
+|body       = 890A22
+|rightarm   = 890A22
+|shorts     = 000066
+|socks      = 000000
+|title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcel Aubour]]
+|-
+|DF ||'''5''' ||[[Bernard Bosquier]]
+|-
+|DF ||'''6''' ||[[Robert Budzynski]]
+|-
+|DF ||'''11''' ||[[Gabriel De Michèle]]
+|-
+|DF ||'''12''' ||[[Jean Djorkaeff]]
+|-
+|MF ||'''2''' ||[[Marcel Artelesa]] ([[Captain (association football)|c]])
+|-
+|MF ||'''4''' ||[[Joseph Bonnel]]
+|-
+|MF ||'''16'''||[[Robert Herbin]]
+|-
+|FW ||'''8''' ||[[Néstor Combin]]
+|-
+|FW ||'''13'''||[[Philippe Gondet]]
+|-
+|FW ||'''14'''||[[Gérard Hausser]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Henri Guérin (footballer)|Henri Guérin]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12''' ||[[Ignacio Calderón]]
+|-
+|DF ||'''2''' ||[[Arturo Chaires]]
+|-
+|DF ||'''3''' ||[[Gustavo Peña]] ([[Captain (association football)|c]])
+|-
+|DF ||'''14''' ||[[Gabriel Núñez (footballer, born 1942)|Gabriel Núñez]]
+|-
+|MF ||'''6''' ||[[Isidoro Díaz]]
+|-
+|MF ||'''15''' ||[[Guillermo Hernández (footballer, born 1942)|Guillermo Hernández]]
+|-
+|MF ||'''17''' ||[[Magdaleno Mercado]]
+|-
+|FW ||'''8'''||[[Aarón Padilla Gutiérrez|Aarón Padilla]]
+|-
+|FW ||'''10'''||[[Javier Fragoso]]
+|-
+|FW ||'''19'''||[[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+|FW ||'''20''' ||[[Enrique Borja]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Ignacio Trelles]]
+|}
+|}
+
+===Uruguay vs France===
+<onlyinclude>{{#invoke:Football box|main|section=1-3
+|date={{Start date|1966|7|15|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|URU}}
+|score={{score link|1966 FIFA World Cup Group 1#Uruguay vs France|2–1}}
+|team2={{fb|FRA|1794}}
+|goals1=
+*[[Pedro Rocha (Uruguayan footballer)|Rocha]] {{goal|26}}
+*[[Julio César Cortés|Cortés]] {{goal|31}}
+|goals2=
+*[[Héctor De Bourgoing|De Bourgoing]] {{goal|15|pen.}}
+|stadium=[[White City Stadium]], [[London]]
+|attendance=45,662
+|referee=[[Karol Galba]] ([[Czechoslovak Football Association|Czechoslovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1653 |title=Uruguay vs France {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1653/index.html |title=1966 FIFA World Cup England – Matches – Uruguay v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225214719/http://www.fifa.com/worldcup/matches/round=238/match=1653/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _whiteborder
+|pattern_b  = _vneckwhite
+|pattern_ra = _whiteborder
+|pattern_sh =
+|pattern_so = _sky_blue_on_top
+|leftarm    = 5dc2ff
+|body       = 5dc2ff
+|rightarm   = 5dc2ff
+|shorts     = 000000
+|socks      = 000000
+|title      = Uruguay
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  =
+|pattern_ra =
+|pattern_sh =
+|pattern_so = _arsenalsarandi1314h
+|leftarm    = ffffff
+|body       = ffffff
+|rightarm   = ffffff
+|shorts     = ffffff
+|socks      = ff0000
+|title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]]
+|-
+|DF ||'''2''' ||[[Horacio Troche]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[Jorge Manicera]]
+|-
+|DF ||'''5''' ||[[Néstor Gonçalves]]
+|-
+|DF ||'''15''' ||[[Luis Ubiña]]
+|-
+|MF ||'''6''' ||[[Omar Caetano]]
+|-
+|MF ||'''7''' ||[[Julio César Cortés]]
+|-
+|FW ||'''9'''||[[José Sasía]]
+|-
+|FW ||'''10''' ||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|FW ||'''11'''||[[Domingo Pérez (footballer)|Domingo Pérez]]
+|-
+|FW ||'''18'''||[[Milton Viera]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Ondino Viera]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcel Aubour]]
+|-
+|DF ||'''5''' ||[[Bernard Bosquier]]
+|-
+|DF ||'''6''' ||[[Robert Budzynski]]
+|-
+|DF ||'''12''' ||[[Jean Djorkaeff]]
+|-
+|DF ||'''2''' ||[[Marcel Artelesa]] ([[Captain (association football)|c]])
+|-
+|MF ||'''4''' ||[[Joseph Bonnel]]
+|-
+|MF ||'''15''' ||[[Yves Herbet]]
+|-
+|DF ||'''10'''||[[Héctor De Bourgoing]]
+|-
+|FW ||'''13'''||[[Philippe Gondet]]
+|-
+|FW ||'''14'''||[[Gérard Hausser]]
+|-
+|MF ||'''20''' ||[[Jacques Simon (footballer)|Jacques Simon]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Henri Guérin (footballer)|Henri Guérin]]
+|}
+|}
+
+===England vs Mexico===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-4
+|date={{Start date|1966|7|16|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1966 FIFA World Cup Group 1#England vs Mexico|2–0}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Bobby Charlton|B. Charlton]] {{goal|37}}
+*[[Roger Hunt|Hunt]] {{goal|75}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=92,570
+|referee=[[Concetto Lo Bello]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1634 |title=England vs Mexico {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1634/index.html |title=1966 FIFA World Cup England – Matches – England v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220445/http://www.fifa.com/worldcup/matches/round=238/match=1634/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la =
+|pattern_b  = _eng66h
+|pattern_ra =
+|pattern_sh =
+|pattern_so =
+|leftarm    = ffffff
+|body       = ffffff
+|rightarm   = ffffff
+|shorts     = 000066
+|socks      = ffffff
+|title      = England
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = _mexico1966
+|pattern_ra =
+|pattern_sh =
+|pattern_so =
+|leftarm    = 890A22
+|body       = 890A22
+|rightarm   = 890A22
+|shorts     = 000066
+|socks      = 000000
+|title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gordon Banks]]
+|-
+|RB ||'''2''' ||[[George Cohen]]
+|-
+|CB ||'''5''' ||[[Jack Charlton]]
+|-
+|CB ||'''6''' ||[[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+|RH ||'''4''' ||[[Nobby Stiles]]
+|-
+|CH ||'''9''' ||[[Bobby Charlton]]
+|-
+|LH ||'''16'''||[[Martin Peters]]
+|-
+|RF ||'''8''' ||[[Jimmy Greaves]]
+|-
+|CF ||'''21'''||[[Roger Hunt]]
+|-
+|LF ||'''19'''||[[Terry Paine]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Alf Ramsey]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12''' ||[[Ignacio Calderón]]
+|-
+| RB||'''2''' ||[[Arturo Chaires]]
+|-
+| CB||'''3''' ||[[Gustavo Peña]] ([[Captain (association football)|c]])
+|-
+| CB||'''14'''||[[Gabriel Núñez (footballer, born 1942)|Gabriel Núñez]]
+|-
+| LB||'''15'''||[[Guillermo Hernández (footballer, born 1942)|Guillermo Hernández]]
+|-
+| CH||'''4'''||[[Jesús del Muro]]
+|-
+| CH||'''6''' ||[[Isidoro Díaz]]
+|-
+| RF||'''19'''||[[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+| CF||'''20'''||[[Enrique Borja]]
+|-
+| CF||'''5'''||[[Ignacio Jáuregui]]
+|-
+| LF||'''8'''||[[Aarón Padilla Gutiérrez|Aarón Padilla]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Ignacio Trelles]]
+|}
+|}
+
+===Mexico vs Uruguay===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-5
+|date={{Start date|1966|7|19|df=y}}
+|time=16:30 [[British Summer Time|BST]]
+|team1={{fb-rt|MEX|1934}}
+|score={{score link|1966 FIFA World Cup Group 1#Mexico vs Uruguay|0–0}}
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=61,112
+|referee=[[Bertil Lööw]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1689 |title=Uruguay vs Mexico {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1689/index.html |title=1966 FIFA World Cup England – Matches – Uruguay v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220319/http://www.fifa.com/worldcup/matches/round=238/match=1689/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la =
+|pattern_b  = _mexico19662
+|pattern_ra =
+|pattern_sh =
+|pattern_so = _socks
+|leftarm    = 008800
+|body       = 
+|rightarm   = 008800
+|shorts     = ffffff
+|socks      = 008800
+|title      = Mexico
+}}
+|{{Football kit
+|pattern_la = _whiteborder
+|pattern_b  = _vneckwhite
+|pattern_ra = _whiteborder
+|pattern_sh = 
+|pattern_so = _sky_blue_on_top
+|leftarm    = 5dc2ff
+|body       = 5dc2ff
+|rightarm   = 5dc2ff
+|shorts     = 000000
+|socks      = 000000
+|title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Antonio Carbajal]]
+|-
+|RB ||'''2''' ||[[Arturo Chaires]]
+|-
+|CB ||'''3''' ||[[Gustavo Peña]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14''' ||[[Gabriel Núñez (footballer, born 1942)|Gabriel Núñez]]
+|-
+|LB ||'''15''' ||[[Guillermo Hernández (footballer, born 1942)|Guillermo Hernández]]
+|-
+|CH ||'''6''' ||[[Isidoro Díaz]]
+|-
+|CH ||'''17'''||[[Magdaleno Mercado]]
+|-
+|RF ||'''9''' ||[[Ernesto Cisneros]]
+|-
+|CF ||'''19'''||[[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+|CF ||'''20'''||[[Enrique Borja]]
+|-
+|LF ||'''8''' ||[[Aarón Padilla Gutiérrez|Aarón Padilla]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Ignacio Trelles]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]]
+|-
+|SW ||'''2''' ||[[Horacio Troche]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15''' ||[[Luis Ubiña]]
+|-
+|CB ||'''5''' ||[[Néstor Gonçalves]]
+|-
+|CB ||'''3''' ||[[Jorge Manicera]]
+|-
+|LB ||'''6''' ||[[Omar Caetano]]
+|-
+|CH ||'''18''' ||[[Milton Viera]]
+|-
+|CH ||'''10'''||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|RF ||'''7''' ||[[Julio César Cortés]]
+|-
+|CF ||'''9'''||[[José Sasía]]
+|-
+|LF ||'''11'''||[[Domingo Pérez (footballer)|Domingo Pérez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Ondino Viera]]
+|}
+|}
+
+===England vs France===
+{{see also|England–France football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=1-6
+|date={{Start date|1966|7|20|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1966 FIFA World Cup Group 1#England vs France|2–0}}
+|team2={{fb|FRA|1794}}
+|goals1=
+*[[Roger Hunt|Hunt]] {{goal|38||75}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=98,270
+|referee=[[Arturo Yamasaki]] ([[Federación Peruana de Fútbol|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1632 |title=England vs France {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1632/index.html |title=1966 FIFA World Cup England – Matches – England v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220405/http://www.fifa.com/worldcup/matches/round=238/match=1632/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la =
+|pattern_b  = _eng66h
+|pattern_ra =
+|pattern_sh =
+|pattern_so =
+|leftarm    = ffffff
+|body       = ffffff
+|rightarm   = ffffff
+|shorts     = 000066
+|socks      = ffffff
+|title      = England
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = 
+|pattern_ra =
+|pattern_sh =
+|pattern_so = _arsenalsarandi1314h
+|leftarm    = 0000ff
+|body       = 0000ff
+|rightarm   = 0000ff
+|shorts     = ffffff
+|socks      = ff0000
+|title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gordon Banks]]
+|-
+|RB ||'''2''' ||[[George Cohen]]
+|-
+|CB ||'''5''' ||[[Jack Charlton]]
+|-
+|CB ||'''6''' ||[[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+|RH ||'''4''' ||[[Nobby Stiles]] || {{yel|44}}
+|-
+|CH ||'''9''' ||[[Bobby Charlton]]
+|-
+|LH ||'''20'''||[[Ian Callaghan]]
+|-
+|RF ||'''8''' ||[[Jimmy Greaves]]
+|-
+|CF ||'''21'''||[[Roger Hunt]]
+|-
+|LF ||'''16'''||[[Martin Peters]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Alf Ramsey]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcel Aubour]]
+|-
+| RB||'''12'''||[[Jean Djorkaeff]]
+|-
+| CB||'''2'''||[[Marcel Artelesa]] ([[Captain (association football)|c]])
+|-
+| CB||'''6'''||[[Robert Budzynski]]
+|-
+| LB||'''5'''||[[Bernard Bosquier]]
+|-
+| RH||'''4''' ||[[Joseph Bonnel]]
+|-
+| CH||'''16'''||[[Robert Herbin]]
+|-
+| LH||'''20'''||[[Jacques Simon (footballer)|Jacques Simon]]
+|-
+| RF||'''15'''||[[Yves Herbet]]
+|-
+| CF||'''13'''||[[Philippe Gondet]]
+|-
+| LF||'''14'''||[[Gérard Hausser]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Henri Guérin (footballer)|Henri Guérin]]
+|}
+|}
+
+==See also==
+*[[England at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://web.archive.org/web/20210623110948/https://www.fifa.com/tournaments/mens/worldcup/1966england 1966 FIFA World Cup archive]
+
+{{1966 FIFA World Cup}}
+
+{{DEFAULTSORT:Group}}
+[[Category:1966 FIFA World Cup group stage|1]]
+[[Category:France at the 1966 FIFA World Cup]]
+[[Category:England at the 1966 FIFA World Cup]]
+[[Category:Mexico at the 1966 FIFA World Cup]]
+[[Category:Uruguay at the 1966 FIFA World Cup]]
+[[Category:1966 in sport in London]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Sport in the London Borough of Hammersmith and Fulham]]
+[[Category:International football competitions in London]]

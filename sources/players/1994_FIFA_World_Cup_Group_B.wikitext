@@ -1,0 +1,870 @@
+{{Short description|Football tournament group stage}}
+{{Use mdy dates|date=April 2026}}
+{{Use American English|date=April 2024}}
+'''Group B of the 1994 FIFA World Cup''' was one of six groups of four teams competing at the [[1994 FIFA World Cup|1994 World Cup]] in the United States. The first match was played June 19, 1994, and the final games took place simultaneously on June 28, 1994.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|archive-url=https://web.archive.org/web/20131220184449/http://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|url-status=dead|archive-date=December 20, 2013|title=1994 FIFA World Cup USA|publisher=fifa.com|accessdate=July 31, 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/94full.html|title=World Cup 1994|website=[[RSSSF]]|accessdate=July 31, 2014}}</ref>
+
+The group consisted of [[Brazil national football team|Brazil]], [[Russia national football team|Russia]], [[Cameroon national football team|Cameroon]] and [[Sweden men's national football team|Sweden]]. Brazil won the group and Sweden finished second. Brazil would go on to win the tournament in the final against Italy, after meeting Sweden again and defeating them in the semi finals. Sweden in turn won the bronze medal match, so two teams from this group ended up on the medal podium.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/usa1994/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=BRA
+|team2=SWE
+|team3=RUS
+|team4=CMR
+
+|result1=KO
+|result2=KO
+
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=6 |ga_BRA=1
+|win_SWE=1 |draw_SWE=2 |loss_SWE=0 |gf_SWE=6 |ga_SWE=4
+|win_RUS=1 |draw_RUS=0 |loss_RUS=2 |gf_RUS=7 |ga_RUS=6
+|win_CMR=0 |draw_CMR=1 |loss_CMR=2 |gf_CMR=3 |ga_CMR=11
+
+|name_BRA={{fb|BRA}}
+|name_SWE={{fb|SWE}}
+|name_RUS={{fb|RUS}}
+|name_CMR={{fb|CMR}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1994 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times local ([[Eastern Time Zone|EDT]]/[[UTC−04:00|UTC–4]], [[Central Time Zone (North America)|CDT]]/[[UTC−05:00|UTC–5]], [[Pacific Time Zone|PDT]]/[[UTC−07:00|UTC–7]])''
+
+===Cameroon vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|1994|6|19}}
+|time=4:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|CMR}}
+|score={{score link|1994 FIFA World Cup Group B#Cameroon vs Sweden|2–2}}
+|team2={{fb|SWE}}
+|goals1=
+*[[David Embé|Embé]] {{goal|31}}
+*[[François Omam-Biyik|Omam-Biyik]] {{goal|47}}
+|goals2=
+*[[Roger Ljung|Ljung]] {{goal|8}}
+*[[Martin Dahlin|Dahlin]] {{goal|75}}
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=93,194
+|referee=[[Alberto Tejada Noriega]] ([[Peruvian Football Federation|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3056 |title=Cameroon vs Sweden {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3056/index.html |title=1994 FIFA World Cup USA – Matches – Cameroon v Sweden |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218051732/http://www.fifa.com/worldcup/matches/round=337/match=3056/index.html |archive-date=December 18, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _cmr94h
+ | pattern_b  = _cmr94h
+ | pattern_ra = _cmr94h
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = FFFF00
+ | title      = Cameroon
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _swe94a
+ | pattern_ra = 
+ | pattern_sh = _bluestripes
+ | pattern_so = _swe_wc_1994_a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Joseph-Antoine Bell]]
+|-
+|DF ||'''3''' ||[[Rigobert Song]]
+|-
+|MF ||'''6''' ||[[Thomas Libiih]]
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]]
+|-
+|MF ||'''8''' ||[[Émile Mbouh]] || {{yel|5}}
+|-
+|FW ||'''10''' ||[[Louis-Paul M'Fédé]] || || {{suboff|88}}
+|-
+|DF ||'''13''' ||[[Raymond Kalla]]
+|-
+|DF ||'''14''' ||[[Stephen Tataw]] ([[Captain (association football)|c]])
+|-
+|DF ||'''15'''||[[Hans Agbo]]
+|-
+|MF ||'''17'''||[[Marc-Vivien Foé]]
+|-
+|FW ||'''19'''||[[David Embé]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Emmanuel Maboang]] || || {{subon|88}}
+|-
+|FW ||'''20'''||[[Georges Mouyémé]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Ravelli]]
+|-
+|RB ||'''2''' ||[[Roland Nilsson]]
+|-
+|CB ||'''3''' ||[[Patrik Andersson]]
+|-
+|CB ||'''4''' ||[[Joachim Björklund]]
+|-
+|LB ||'''5''' ||[[Roger Ljung]]
+|-
+|RM ||'''8''' ||[[Klas Ingesson]] || || {{suboff|76}}
+|-
+|CM ||'''9'''||[[Jonas Thern]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Stefan Schwarz]]
+|-
+|LM ||'''21'''||[[Jesper Blomqvist]] || || {{suboff|61}}
+|-
+|SS ||'''11'''||[[Tomas Brolin]]
+|-
+|CF ||'''10'''||[[Martin Dahlin]] || {{yel|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|RM ||'''7''' ||[[Henrik Larsson]] || || {{subon|61}}
+|-
+|FW ||'''19'''||[[Kennet Andersson]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Tommy Svensson]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Douglas James ([[Trinidad and Tobago Football Federation|Trinidad and Tobago]])
+<br />Abdulla Al Ghattan ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jamal Al Sharif]] ([[Syrian Football Association|Syria]])
+|}
+
+===Brazil vs Russia===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|1994|6|20}}
+|time=1:00&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1994 FIFA World Cup Group B#Brazil vs Russia|2–0}}
+|team2={{fb|RUS}}
+|goals1=
+*[[Romário]] {{goal|26}}
+*[[Raí]] {{goal|52|pen.}}
+|goals2=
+|stadium=[[Stanford Stadium]], [[Stanford, California|Stanford]]
+|attendance=81,061
+|referee=[[Lim Kee Chong]] ([[Mauritius Football Association|Mauritius]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3057 |title=Brazil vs Russia {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3057/index.html |title=1994 FIFA World Cup USA – Matches – Brazil v Russia |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171224214600/http://www.fifa.com/worldcup/matches/round=337/match=3057/index.html |archive-date=December 24, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra94h
+ | pattern_b  = _bra94h
+ | pattern_ra = _bra94h
+ | pattern_so = _brazil1994
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 0070F9
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+| pattern_la = _rus94a
+| pattern_b  = _russia94a
+| pattern_ra = _rus94a
+| pattern_sh  = _russia94a
+| leftarm    = FFFFFF
+| body       = 0000FF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FF0000
+ | title      = Russia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Cláudio Taffarel|Taffarel]]
+|-
+|RB ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|CB ||'''3''' ||[[Ricardo Rocha (footballer, born 1962)|Ricardo Rocha]] || || {{suboff|75}}
+|-
+|CB ||'''15'''||[[Márcio Santos]]
+|-
+|LB ||'''16'''||[[Leonardo Araújo|Leonardo]]
+|-
+|DM ||'''5''' ||[[Mauro Silva]]
+|-
+|DM ||'''8''' ||[[Dunga]] || || {{suboff|85}}
+|-
+|AM ||'''10'''||[[Raí]] ([[Captain (association football)|c]])
+|-
+|AM ||'''9''' ||[[Zinho]]
+|-
+|CF ||'''7''' ||[[Bebeto]]
+|-
+|CF ||'''11'''||[[Romário]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Aldair]] || || {{subon|75}}
+|-
+|MF ||'''17'''||[[Mazinho]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16''' ||[[Dmitri Kharine]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Dmitri Kuznetsov (footballer, born 1965)|Dmitri Kuznetsov]] || {{yel|78}}
+|-
+|DF ||'''3''' ||[[Sergei Gorlukovich]]
+|-
+|DF ||'''5''' ||[[Yuriy Nikiforov]] || {{yel|61}}
+|-
+|DF ||'''6''' ||[[Vladislav Ternavsky]]
+|-
+|MF ||'''7''' ||[[Andrey Pyatnitsky]]
+|-
+|MF ||'''10''' ||[[Valeri Karpin]]
+|-
+|FW ||'''15'''||[[Dmitri Radchenko]] || || {{suboff|77}}
+|-
+|MF ||'''17'''||[[Ilya Tsymbalar]]
+|-
+|DF ||'''21'''||[[Dmitri Khlestov]] || {{yel|65}}
+|-
+|FW ||'''22'''||[[Sergei Yuran]] || || {{suboff|55}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Oleg Salenko]] || || {{subon|55}}
+|-
+|MF ||'''13'''||[[Aleksandr Borodyuk]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Pavel Sadyrin]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />El Jilali Rharib ([[Royal Moroccan Football Federation|Morocco]])
+<br />Domenico Ramicone ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Fabio Baldas]] ([[Italian Football Federation|Italy]])
+|}
+
+===Brazil vs Cameroon===
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|1994|6|24}}
+|time=1:00&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1994 FIFA World Cup Group B#Brazil vs Cameroon|3–0}}
+|team2={{fb|CMR}}
+|goals1=
+*[[Romário]] {{goal|39}}
+*[[Márcio Roberto dos Santos|Márcio Santos]] {{goal|66}}
+*[[Bebeto]] {{goal|73}}
+|goals2=
+|stadium=[[Stanford Stadium]], [[Stanford, California|Stanford]]
+|attendance=83,401
+|referee=[[Arturo Brizio Carter]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3067 |title=Brazil vs Cameroon {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3067/index.html |title=1994 FIFA World Cup USA – Matches – Brazil v Cameroon |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212135416/http://www.fifa.com/worldcup/matches/round=337/match=3067/index.html |archive-date=December 12, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra94h
+ | pattern_b  = _bra94h
+ | pattern_ra = _bra94h
+ | pattern_so = _brazil1994
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 0070F9
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _cmr94h
+ | pattern_b  = _cmr94h
+ | pattern_ra = _cmr94h
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = FFFF00
+ | title      = Cameroon
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Cláudio Taffarel|Taffarel]]
+|-
+|RB ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|CB ||'''13'''||[[Aldair]]
+|-
+|CB ||'''15'''||[[Márcio Roberto dos Santos|Márcio Santos]]
+|-
+|LB ||'''16'''||[[Leonardo Araújo|Leonardo]]
+|-
+|CM ||'''5''' ||[[Mauro Silva]] || {{yel|44}}
+|-
+|CM ||'''8''' ||[[Dunga]]
+|-
+|RM ||'''10''' ||[[Raí]] ([[Captain (association football)|c]]) || || {{suboff|81}}
+|-
+|LM ||'''9''' ||[[Zinho]] || || {{suboff|75}}
+|-
+|CF ||'''7''' ||[[Bebeto]]
+|-
+|CF ||'''11''' ||[[Romário]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Paulo Sérgio Silvestre do Nascimento|Paulo Sérgio]] || || {{subon|75}}
+|-
+|FW ||'''19'''||[[Müller (footballer, born 1966)|Müller]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Joseph-Antoine Bell]]
+|-
+|DF ||'''3''' ||[[Rigobert Song]] || {{sent off|0|63}}
+|-
+|MF ||'''6''' ||[[Thomas Libiih]]
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]]
+|-
+|MF ||'''8''' ||[[Emile Mbouh]]
+|-
+|FW ||'''10''' ||[[Louis-Paul Mfédé]] || || {{suboff|71}}
+|-
+|DF ||'''13''' ||[[Raymond Kalla]] || {{yel|37}}
+|-
+|DF ||'''14'''||[[Stephen Tataw]] ([[Captain (association football)|c]]) || {{yel|8}}
+|-
+|DF ||'''15'''||[[Hans Agbo]]
+|-
+|MF ||'''17'''||[[Marc-Vivien Foé]]
+|-
+|FW ||'''19'''||[[David Embé]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Roger Milla]] || || {{subon|64}}
+|-
+|MF ||'''11'''||[[Emmanuel Maboang]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Douglas James ([[Trinidad and Tobago Football Federation|Trinidad and Tobago]])
+<br />Carl-Johan Meyer Christensen ([[Danish Football Association|Denmark]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+|}
+
+===Sweden vs Russia===
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|1994|6|24}}
+|time=7:30&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|SWE}}
+|score={{score link|1994 FIFA World Cup Group B#Sweden vs Russia|3–1}}
+|team2={{fb|RUS}}
+|goals1=
+*[[Tomas Brolin|Brolin]] {{goal|39|pen.}}
+*[[Martin Dahlin|Dahlin]] {{goal|60||82}}
+|goals2=
+*[[Oleg Salenko|Salenko]] {{goal|4|pen.}}
+|stadium=[[Pontiac Silverdome]], [[Pontiac, Michigan|Pontiac]]
+|attendance=71,528
+|referee=[[Joël Quiniou]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3068 |title=Sweden vs Russia {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3068/index.html |title=1994 FIFA World Cup USA – Matches – Sweden v Russia |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217171951/http://www.fifa.com/worldcup/matches/round=337/match=3068/index.html |archive-date=December 17, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _swe94h
+ |pattern_ra = 
+ |pattern_sh = _yellow_stripes
+ |pattern_so = _swe_wc_1994_h
+ |leftarm    = FFE000
+ |body       = FFFFFF
+ |rightarm   = FFE000
+ |shorts     = 1030BF
+ |socks      = FFE000
+ |title      = Sweden
+}}
+|{{Football kit
+| pattern_la = _russia94
+| pattern_b  = _russia94
+| pattern_ra = _russia94
+| pattern_sh = _russia94
+| pattern_so = 
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 0000FF
+| socks      = FF0000
+| title      = Russia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Thomas Ravelli]]
+|-
+|RB ||'''2''' ||[[Roland Nilsson]]
+|-
+|CB ||'''3''' ||[[Patrik Andersson]]
+|-
+|CB ||'''4''' ||[[Joachim Björklund]] || || {{suboff|89}}
+|-
+|LB ||'''5''' ||[[Roger Ljung]]
+|-
+|RM ||'''11'''||[[Tomas Brolin]]
+|-
+|CM ||'''9''' ||[[Jonas Thern]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Stefan Schwarz]] || {{yel|52}}
+|-
+|LM ||'''8''' ||[[Klas Ingesson]]
+|-
+|CF ||'''10'''||[[Martin Dahlin]] || {{yel|58}}
+|-
+|CF ||'''19'''||[[Kennet Andersson]] || {{yel|42}} || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7'''||[[Henrik Larsson]] || || {{subon|84}}
+|-
+|CB ||'''20'''||[[Magnus Erlingmark]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Tommy Svensson]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16''' ||[[Dmitri Kharine]] ([[Captain (association football)|c]]) || {{yel|34}}
+|-
+|DF ||'''2''' ||[[Dmitri Kuznetsov (footballer, born 1965)|Dmitri Kuznetsov]]
+|-
+|DF ||'''3''' ||[[Sergei Gorlukovich]] || {{sent off|2|1|49}}
+|-
+|DF ||'''5''' ||[[Yuriy Nikiforov]]
+|-
+|MF ||'''8''' ||[[Dmitri Popov]] || || {{suboff|41}}
+|-
+|FW ||'''9''' ||[[Oleg Salenko]]
+|-
+|MF ||'''13''' ||[[Aleksandr Borodyuk]] || || {{suboff|51}}
+|-
+|FW ||'''15'''||[[Dmitri Radchenko]]
+|-
+|DF ||'''18'''||[[Viktor Onopko]]
+|-
+|MF ||'''19'''||[[Aleksandr Mostovoi]]
+|-
+|DF ||'''21'''||[[Dmitri Khlestov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Dmitri Galiamin]] || || {{subon|51}}
+|-
+|MF ||'''10'''||[[Valeri Karpin]] || || {{subon|41}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Pavel Sadyrin]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Davoud Fanaei ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />Abdel-Magid Hassan ([[Egyptian Football Association|Egypt]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Neji Jouini]] ([[Tunisian Football Federation|Tunisia]])
+|}
+
+===Russia vs Cameroon===
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|1994|6|28}}
+|time=1:00&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|RUS}}
+|score={{score link|1994 FIFA World Cup Group B#Russia vs Cameroon|6–1}}
+|team2={{fb|CMR}}
+|goals1=
+*[[Oleg Salenko|Salenko]] {{goal|15||41||44|pen.|72||75}}
+*[[Dmitri Radchenko|Radchenko]] {{goal|81}}
+|goals2=
+*[[Roger Milla|Milla]] {{goal|46}}
+|stadium=[[Stanford Stadium]], [[Stanford, California|Stanford]]
+|attendance=74,914
+|referee=[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3079 |title=Russia vs Cameroon {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3079/index.html |title=1994 FIFA World Cup USA – Matches – Russia v Cameroon |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170222212244/http://www.fifa.com/worldcup/matches/round=337/match=3079/index.html |archive-date=February 22, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _russia94
+| pattern_b  = _russia94
+| pattern_ra = _russia94
+| pattern_sh = _russia94
+| pattern_so = 
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 0000FF
+| socks      = FF0000
+| title      = Russia
+}}
+|{{Football kit
+ | pattern_la = _cmr94h
+ | pattern_b  = _cmr94h
+ | pattern_ra = _cmr94h
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = FFFF00
+ | title      = Cameroon
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Stanislav Cherchesov]]
+|-
+|DF ||'''5''' ||[[Yuriy Nikiforov]] || {{yel|90}}
+|-
+|DF ||'''6''' ||[[Vladislav Ternavsky]]
+|-
+|FW ||'''9''' ||[[Oleg Salenko]]
+|-
+|MF ||'''10''' ||[[Valeri Karpin]] || {{yel|57}}
+|-
+|DF ||'''12''' ||[[Omari Tetradze]]
+|-
+|FW ||'''14''' ||[[Igor Korneev]] || || {{suboff|65}}
+|-
+|MF ||'''17''' ||[[Ilya Tsymbalar]]
+|-
+|DF ||'''18'''||[[Viktor Onopko]] ([[Captain (association football)|c]])
+|-
+|MF ||'''20'''||[[Igor Lediakhov]] || || {{suboff|78}}
+|-
+|DF ||'''21'''||[[Dmitri Khlestov]] || {{yel|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Vladimir Beschastnykh]] || || {{subon|78}}
+|-
+|FW ||'''15'''||[[Dmitri Radchenko]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Pavel Sadyrin]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22''' ||[[Jacques Songo'o]] || {{yel|44}}
+|-
+|MF ||'''2''' ||[[André Kana-Biyik]] || {{yel|12}}
+|-
+|DF ||'''5''' ||[[Victor Ndip]]
+|-
+|MF ||'''6''' ||[[Thomas Libiih]]
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]]
+|-
+|FW ||'''10''' ||[[Louis-Paul Mfédé]] || || {{suboff|45}}
+|-
+|DF ||'''13''' ||[[Raymond Kalla]]
+|-
+|DF ||'''14'''||[[Stephen Tataw]] ([[Captain (association football)|c]])
+|-
+|DF ||'''15'''||[[Hans Agbo]]
+|-
+|MF ||'''17'''||[[Marc-Vivien Foé]]
+|-
+|FW ||'''19'''||[[David Embé]] || || {{suboff|47}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Roger Milla]] || || {{subon|45}}
+|-
+|FW ||'''16'''||[[Alphonse Tchami]] || || {{subon|47}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|[[Henri Michel]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Gordon Dunster ([[Football Federation Australia|Australia]])
+<br />Jan Dolstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Brazil vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=B6
+|date={{Start date|1994|6|28}}
+|time=4:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1994 FIFA World Cup Group B#Brazil vs Sweden|1–1}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Romário]] {{goal|47}}
+|goals2=
+*[[Kennet Andersson|K. Andersson]] {{goal|23}}
+|stadium=[[Pontiac Silverdome]], [[Pontiac, Michigan|Pontiac]]
+|attendance=77,217
+|referee=[[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3080 |title=Brazil vs Sweden {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3080/index.html |title=1994 FIFA World Cup USA – Matches – Brazil v Sweden |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171206182756/http://www.fifa.com/worldcup/matches/round=337/match=3080/index.html |archive-date=December 6, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit|
+ | pattern_la = _bra94a
+ | pattern_b  = _bra94a
+ | pattern_ra = _bra94a
+ | pattern_so = _bra94a
+ | leftarm    = 0000C6
+ | body       = 0000C6
+ | rightarm   = 0000C6
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _swe94h
+ |pattern_ra = 
+ |pattern_sh = _yellow_stripes
+ |pattern_so = _swe_wc_1994_h
+ |leftarm    = FFE000
+ |body       = FFFFFF
+ |rightarm   = FFE000
+ |shorts     = 1030BF
+ |socks      = FFE000
+ |title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Cláudio Taffarel|Taffarel]]
+|-
+|RB ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|DF ||'''13'''||[[Aldair]] || {{yel|68}}{{efn|Mistake in the FIFA report. The yellow card was shown in the second half, [https://footballia.net/matches/brazil-sweden in the 68th minute], not the 23rd minute as in the FIFA report.}}
+|-
+|DF ||'''15'''||[[Márcio Santos (footballer, born 1969)|Márcio Santos]]
+|-
+|LB ||'''16'''||[[Leonardo Araújo|Leonardo]]
+|-
+|CM ||'''5''' ||[[Mauro Silva]] || || {{suboff|45}}
+|-
+|CM ||'''8''' ||[[Dunga]]
+|-
+|LM ||'''9''' ||[[Zinho]]
+|-
+|RM ||'''10''' ||[[Raí]] ([[Captain (association football)|c]]) || || {{suboff|83}}
+|-
+|CF ||'''7''' ||[[Bebeto]]
+|-
+|CF ||'''11''' ||[[Romário]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CM ||'''17'''||[[Mazinho]] || || {{subon|45}}
+|-
+|RM ||'''18'''||[[Paulo Sérgio (footballer, born June 1969)|Paulo Sérgio]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Ravelli]]
+|-
+|RB ||'''2''' ||[[Roland Nilsson]]
+|-
+|CB ||'''3''' ||[[Patrik Andersson]]
+|-
+|CB ||'''14'''||[[Pontus Kåmark]]
+|-
+|LB ||'''5''' ||[[Roger Ljung]]
+|-
+|RM ||'''7''' ||[[Henrik Larsson]] || || {{suboff|65}}
+|-
+|CM ||'''9'''||[[Jonas Thern]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Stefan Schwarz]] || || {{suboff|75}}
+|-
+|LM ||'''8''' ||[[Klas Ingesson]]
+|-
+|SS ||'''11'''||[[Tomas Brolin]]
+|-
+|CF ||'''19'''||[[Kennet Andersson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LM ||'''21'''||[[Jesper Blomqvist]] || || {{subon|65}}
+|-
+|CM ||'''18''' ||[[Håkan Mild]] || {{yel|83}} || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Tommy Svensson]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Sándor Márton ([[Hungarian Football Federation|Hungary]])
+<br />Luc Matthys ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Manuel Díaz Vega]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Cameroon at the FIFA World Cup]]
+*[[Russia at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1994 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:1994 FIFA World Cup group stage|B]]
+[[Category:Brazil at the 1994 FIFA World Cup|Group]]
+[[Category:Sweden at the 1994 FIFA World Cup]]
+[[Category:Russia at the 1994 FIFA World Cup]]
+[[Category:Cameroon at the 1994 FIFA World Cup]]
+[[Category:Sports competitions in Pasadena, California]]
+[[Category:Soccer competitions in Los Angeles County, California]]
+[[Category:International sports competitions in California]]
+[[Category:1994 in sports in California]]
+[[Category:20th century in Pasadena, California]]
+[[Category:Soccer competitions in Michigan]]
+[[Category:1994 in sports in Michigan]]
+[[Category:Sports in Pontiac, Michigan]]
+[[Category:Sports in Stanford, California]]
+[[Category:Sports competitions in Santa Clara County, California]]

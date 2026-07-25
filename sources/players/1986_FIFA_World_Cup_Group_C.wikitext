@@ -1,0 +1,844 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group C of the 1986 FIFA  World Cup''' was one of the groups of nations competing at the [[1986 FIFA World Cup]]. The group's first round of matches began on 1 June and its last matches were played on 9 June. Matches were played at the [[Estadio Nou Camp]] in [[León, Guanajuato|León]] and the [[Estadio Sergio León Chavez]] in [[Irapuato]].<ref>{{cite web |url=https://www.rsssf.org/tables/86full.html |title=World Cup 1986 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The [[Soviet Union national football team|Soviet Union]] topped the group on goal difference over [[France national football team|France]]. Both teams advanced to the second round. [[Hungary national football team|Hungary]] and [[Canada men's national soccer team|Canada]] were the other two teams, the latter making their debut at the World Cup.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/mexico1986/groups/index.html FIFA]
+
+|team1=URS |team2=FRA |team3=HUN |team4=CAN
+|result1=KO |result2=KO
+
+|win_URS=2 |draw_URS=1 |loss_URS=0 |gf_URS=9 |ga_URS=1
+|win_FRA=2 |draw_FRA=1 |loss_FRA=0 |gf_FRA=5 |ga_FRA=1
+|win_HUN=1 |draw_HUN=0 |loss_HUN=2 |gf_HUN=2 |ga_HUN=9
+|win_CAN=0 |draw_CAN=0 |loss_CAN=3 |gf_CAN=0 |ga_CAN=5
+
+|name_URS={{fb|URS|1955}}
+|name_CAN={{fb|CAN}}
+|name_FRA={{fb|FRA|1974}}
+|name_HUN={{fb|HUN}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1986 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Canada vs France===
+<onlyinclude>{{#invoke:Football box|main|section=C1
+|date={{Start date|1986|6|1|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|CAN}}
+|score={{score link|1986 FIFA World Cup Group C#Canada vs France|0–1}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Jean-Pierre Papin|Papin]] {{goal|79}}
+|stadium=[[Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=35,748{{efn-ua|name=1 June attendances|The FIFA technical report mistakenly interchanged the attendance data for the 1 June matches.<ref>{{cite news |location=Reading, Berkshire |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0002471/19860602/247/0018 |title=Yesterday's results |newspaper=[[Reading Evening Post]] |page=16 |date=2 June 1986 |access-date=2 July 2026 |url-access=subscription}}</ref>}}
+|referee=[[Hernán Silva]] ([[Federación de Fútbol de Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/468 |title=Canada vs France {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=468/index.html |title=1986 FIFA World Cup Mexico – Matches – Canada v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227071007/http://www.fifa.com/worldcup/matches/round=308/match=468/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=_ussr86a
+|pattern_b=_can86a
+|pattern_ra=_ussr86a
+|pattern_sh=_ussr86a
+|pattern_so=
+|leftarm=FFFFFF
+|body=FFFFFF
+|rightarm=FFFFFF
+|shorts=F20000
+|socks=FFFFFF
+| title      = Canada
+}}
+|{{Football kit
+| pattern_la = _fra86h
+| pattern_b  = _fra86h
+| pattern_ra = _fra86h
+| pattern_sh = _fra86h
+| pattern_so = _fra86h
+| leftarm    = 0000C0
+| body       = 0000C0
+| rightarm   = 0000C0
+| shorts     = 0000C0
+| socks      = FF0000
+| title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''22''' || [[Paul Dolan (soccer)|Paul Dolan]]
+|-
+|DF || '''2''' || [[Bob Lenarduzzi]]
+|-
+|DF || '''3''' || [[Bruce Wilson (soccer)|Bruce Wilson]] ([[Captain (association football)|c]])
+|-
+|DF || '''6''' || [[Ian Bridge]]
+|-
+|DF || '''12''' || [[Randy Samuel]]
+|-
+|MF || '''4''' || [[Randy Ragan]]
+|-
+|MF || '''11''' || [[Mike Sweeney (soccer)|Mike Sweeney]] || || {{suboff|54}}
+|-
+|MF || '''17''' || [[David Norman (soccer)|David Norman]]
+|-
+|MF || '''15''' || [[Paul James (soccer)|Paul James]] || || {{suboff|81}}
+|-
+|FW || '''7''' || [[Carl Valentine]]
+|-
+|FW || '''10''' || [[Igor Vrablic]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''18''' || [[Jamie Lowery]] || || {{subon|54}}
+|-
+|FW || '''9''' || [[Branko Segota]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ENG}} [[Tony Waiters]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Joël Bats]]
+|-
+|RB || '''2''' || [[Manuel Amoros]]
+|-
+|CB || '''6''' || [[Maxime Bossis]]
+|-
+|CB || '''4''' || [[Patrick Battiston]]
+|-
+|LB || '''8''' || [[Thierry Tusseau]]
+|-
+|DM || '''9''' || [[Luis Fernández]]
+|-
+|CM || '''14''' || [[Jean Tigana]]
+|-
+|CM || '''12''' || [[Alain Giresse]]
+|-
+|AM || '''10''' || [[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|CF || '''17''' || [[Jean-Pierre Papin]]
+|-
+|CF || '''18''' || [[Dominique Rocheteau]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''19''' || [[Yannick Stopyra]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|}
+
+===Soviet Union vs Hungary===
+
+<onlyinclude>{{#invoke:Football box|main|section=C2
+|date={{Start date|1986|6|2|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1986 FIFA World Cup Group C#Soviet Union vs Hungary|6–0}}
+|team2={{fb|HUN}}
+|goals1=
+*[[Pavlo Yakovenko|Yakovenko]] {{goal|2}}
+*[[Sergei Aleinikov|Aleinikov]] {{goal|4}}
+*[[Igor Belanov|Belanov]] {{goal|24|pen.}}
+*[[Ivan Yaremchuk|Yaremchuk]] {{goal|66}}
+*[[László Dajka|Dajka]] {{goal|73|o.g.}}
+*[[Sergey Rodionov|Rodionov]] {{goal|80}}
+|goals2=
+|stadium=[[Estadio Sergio León Chavez]], [[Irapuato]]
+|attendance=16,500
+|referee=[[Luigi Agnolin]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/610 |title=Soviet Union vs Hungary {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=610/index.html |title=1986 FIFA World Cup Mexico – Matches – Soviet Union v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229070827/http://www.fifa.com/worldcup/matches/round=308/match=610/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ussr86a
+ | pattern_b  = _ussr86a
+ | pattern_ra = _ussr86a
+ | pattern_sh = _ussr86h
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = _hun86h1
+ | pattern_b  = _hun86h1
+ | pattern_ra = _hun86h1
+ | pattern_sh = _hun86h1
+ | pattern_so = _hun86h1
+ | leftarm    = F20000
+ | body       = F20000
+ | rightarm   = F20000
+ | shorts     = FFFFFF
+ | socks      = 20C040
+ | title      = Hungary
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Rinat Dasayev]]
+|-
+|DF || '''2''' || [[Volodymyr Bezsonov]]
+|-
+|DF || '''5''' || [[Anatoliy Demyanenko]] ([[Captain (association football)|c]])
+|-
+|DF || '''10''' || [[Oleh Kuznetsov]]
+|-
+|DF || '''15''' || [[Nikolay Larionov]]
+|-
+|DF || '''21''' || [[Vasiliy Rats]]
+|-
+|MF || '''7''' || [[Ivan Yaremchuk]]
+|-
+|MF || '''8''' || [[Pavel Yakovenko]] || || {{suboff|72}}
+|-
+|MF || '''9''' || [[Aleksandr Zavarov]]
+|-
+|MF || '''20''' || [[Sergei Aleinikov]]
+|-
+|FW || '''19''' || [[Igor Belanov]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''14''' || [[Sergey Rodionov]] || || {{subon|69}}
+|-
+|MF || '''17''' || [[Vadym Yevtushenko]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|URS|1955}} [[Valeri Lobanovsky]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Péter Disztl]]
+|-
+|DF || '''2''' || [[Sándor Sallai]]
+|-
+|DF || '''3''' || [[Antal Róth]] || || {{suboff|13}}
+|-
+|DF || '''5''' || [[József Kardos]]
+|-
+|DF || '''6''' || [[Imre Garaba]]
+|-
+|DF || '''14''' || [[Zoltán Péter]] || || {{suboff|62}}
+|-
+|MF || '''8''' || [[Antal Nagy (footballer, born 1956)|Antal Nagy]] ([[Captain (association football)|c]])
+|-
+|MF || '''10''' || [[Lajos Détári]]
+|-
+|FW || '''7''' || [[József Kiprich]]
+|-
+|FW || '''11''' || [[Márton Esterházy]]
+|-
+|FW || '''19''' || [[György Bognár]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''17''' || [[Győző Burcsa]] || || {{subon|13}}
+|-
+|MF || '''9''' || [[László Dajka]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|HUN}} [[György Mezey]]
+|}
+|}
+
+===France vs Soviet Union===
+
+<onlyinclude>{{#invoke:Football box|main|section=C3
+|date={{Start date|1986|6|5|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1986 FIFA World Cup Group C#France vs Soviet Union|1–1}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Luis Fernández|Fernández]] {{goal|62}}
+|goals2=
+*[[Vasyl Rats|Rats]] {{goal|53}}
+|stadium=[[Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=36,540
+|referee=[[Romualdo Arppi Filho]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/571 |title=France vs Soviet Union {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=571/index.html |title=1986 FIFA World Cup Mexico – Matches – France v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229064014/http://www.fifa.com/worldcup/matches/round=308/match=571/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _fra86a
+| pattern_b  = _fra86a
+| pattern_ra = _fra86a
+| pattern_sh = _fra86a
+| pattern_so = _fra86a
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 00288E
+| socks      = FFFFFF
+| title      = France
+}}
+|{{Football kit
+| pattern_la = _ussr86h
+| pattern_b  = _ussr86h
+| pattern_ra = _ussr86h
+| pattern_sh = _ussr86h
+| pattern_so = _3_stripes_white
+| leftarm    = F62128
+| body       = F62128
+| rightarm   = F62128
+| shorts     = FFFFFF
+| socks      = F62128
+| title      = Soviet Union
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Joël Bats]]
+|-
+|RB || '''3''' || [[William Ayache]]
+|-
+|CB || '''6''' || [[Maxime Bossis]]
+|-
+|CB || '''4''' || [[Patrick Battiston]]
+|-
+|LB || '''2''' || [[Manuel Amoros]] || {{yel|43}}
+|-
+|DM || '''9''' || [[Luis Fernández]] || {{yel|40}}
+|-
+|CM || '''12''' || [[Alain Giresse]] || || {{suboff|83}}
+|-
+|CM || '''14''' || [[Jean Tigana]]
+|-
+|AM || '''10''' || [[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|CF || '''17''' || [[Jean-Pierre Papin]] || || {{suboff|76}}
+|-
+|CF || '''19''' || [[Yannick Stopyra]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''16''' || [[Bruno Bellone]] || || {{subon|76}}
+|-
+|MF || '''15''' || [[Philippe Vercruysse]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Rinat Dasayev]]
+|-
+|DF || '''2''' || [[Volodymyr Bezsonov]]
+|-
+|DF || '''5''' || [[Anatoliy Demyanenko]] ([[Captain (association football)|c]])
+|-
+|DF || '''10''' || [[Oleh Kuznetsov]]
+|-
+|DF || '''15''' || [[Nikolay Larionov]]
+|-
+|DF || '''21''' || [[Vasiliy Rats]] || {{yel|30}}
+|-
+|MF || '''7''' || [[Ivan Yaremchuk]]
+|-
+|MF || '''8''' || [[Pavel Yakovenko]] || || {{suboff|68}}
+|-
+|MF || '''9''' || [[Aleksandr Zavarov]] || || {{suboff|58}}
+|-
+|MF || '''20''' || [[Sergei Aleinikov]]
+|-
+|FW || '''19''' || [[Igor Belanov]] || {{yel|33}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11''' || [[Oleh Blokhin]] || || {{subon|58}}
+|-
+|FW || '''14''' || [[Sergey Rodionov]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|URS|1955}} [[Valeri Lobanovsky]]
+|}
+|}
+
+===Hungary vs Canada===
+
+<onlyinclude>{{#invoke:Football box|main|section=C4
+|date={{Start date|1986|6|6|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|HUN}}
+|score={{score link|1986 FIFA World Cup Group C#Hungary vs Canada|2–0}}
+|team2={{fb|CAN}}
+|goals1=
+*[[Márton Esterházy|Esterházy]] {{goal|2}}
+*[[Lajos Détári|Détári]] {{goal|75}}
+|goals2=
+|stadium=[[Estadio Sergio León Chavez]], [[Irapuato]]
+|attendance=13,800
+|referee=[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/475 |title=Hungary vs Canada {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=475/index.html |title=1986 FIFA World Cup Mexico – Matches – Hungary v Canada |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229071403/http://www.fifa.com/worldcup/matches/round=308/match=475/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _hun86a1
+ | pattern_b  = _hun86a1
+ | pattern_ra = _hun86a1
+ | pattern_sh = _hun86h1
+ | pattern_so = _hun86a1
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Hungary
+}}
+|{{Football kit
+| pattern_la = _ussr86h
+| pattern_b =  _can86h
+| pattern_ra = _ussr86h
+| pattern_sh = _adidaswhite
+| leftarm = F6232A
+| body = F6232A
+| rightarm = F6232A
+| shorts = F6232A
+| socks = F6232A
+| title = Canada
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''18''' || [[József Szendrei]]
+|-
+|DF || '''2''' || [[Sándor Sallai]]
+|-
+|DF || '''4''' || [[József Varga (footballer born 1954)|József Varga]]
+|-
+|DF || '''5''' || [[József Kardos]]
+|-
+|DF || '''6''' || [[Imre Garaba]]
+|-
+|MF || '''17''' || [[Győző Burcsa]] || || {{suboff|28}}
+|-
+|MF || '''8''' || [[Antal Nagy (footballer born 1956)|Antal Nagy]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|MF || '''10''' || [[Lajos Détári]]
+|-
+|FW || '''7''' || [[József Kiprich]]
+|-
+|FW || '''11''' || [[Márton Esterházy]]
+|-
+|FW || '''19''' || [[György Bognár]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''3''' || [[Antal Róth]] || || {{subon|28}}
+|-
+|MF || '''9''' || [[László Dajka]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|HUN}} [[György Mezey]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Tino Lettieri]]
+|-
+|DF || '''2''' || [[Bob Lenarduzzi]] || {{yel|83}}
+|-
+|DF || '''3''' || [[Bruce Wilson (soccer)|Bruce Wilson]] ([[Captain (association football)|c]]) || || {{suboff|41}}
+|-
+|DF || '''6''' || [[Ian Bridge]]
+|-
+|DF || '''12''' || [[Randy Samuel]]
+|-
+|MF || '''4''' || [[Randy Ragan]]
+|-
+|MF || '''8''' || [[Gerry Gray (soccer)|Gerry Gray]]
+|-
+|MF || '''17''' || [[David Norman (soccer)|David Norman]]
+|-
+|MF || '''15''' || [[Paul James (soccer)|Paul James]] || || {{suboff|53}}
+|-
+|FW || '''7''' || [[Carl Valentine]]
+|-
+|FW || '''10''' || [[Igor Vrablic]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''11''' || [[Mike Sweeney (soccer)|Mike Sweeney]] || {{sent off|2|52|85}} || {{subon|41}}
+|-
+|FW || '''9''' || [[Branko Segota]] || || {{subon|53}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ENG}} [[Tony Waiters]]
+|}
+|}
+
+===Hungary vs France===
+
+<onlyinclude>{{#invoke:Football box|main|section=C5
+|date={{Start date|1986|6|9|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|HUN}}
+|score={{score link|1986 FIFA World Cup Group C#Hungary vs France|0–3}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Yannick Stopyra|Stopyra]] {{goal|29}}
+*[[Jean Tigana|Tigana]] {{goal|62}}
+*[[Dominique Rocheteau|Rocheteau]] {{goal|84}}
+|stadium=[[Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=31,420
+|referee=[[Carlos Silva Valente]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/567 |title=Hungary vs France {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=567/index.html |title=1986 FIFA World Cup Mexico – Matches – Hungary v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214181828/http://www.fifa.com/worldcup/matches/round=308/match=567/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _hun86h1
+ | pattern_b  = _hun86h1
+ | pattern_ra = _hun86h1
+ | pattern_sh = _hun86h1
+ | pattern_so = _hun86h1
+ | leftarm    = F20000
+ | body       = F20000
+ | rightarm   = F20000
+ | shorts     = FFFFFF
+ | socks      = 20C040
+ | title      = Hungary
+}}
+|{{Football kit
+| pattern_la = _fra86a
+| pattern_b  = _fra86a
+| pattern_ra = _fra86a
+| pattern_sh = _fra86a
+| pattern_so = _fra86a
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 00288E
+| socks      = FFFFFF
+| title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Péter Disztl]]
+|-
+|DF || '''2''' || [[Sándor Sallai]]
+|-
+|DF || '''3''' || [[Antal Róth]]
+|-
+|DF || '''4''' || [[József Varga (footballer, born 1954)|József Varga]]
+|-
+|DF || '''5''' || [[József Kardos]]
+|-
+|DF || '''6''' || [[Imre Garaba]] ([[Captain (association football)|c]])
+|-
+|MF || '''9''' || [[László Dajka]]
+|-
+|MF || '''15''' || [[Péter Hannich]] || || {{suboff|46}}
+|-
+|MF || '''10''' || [[Lajos Détári]]
+|-
+|FW || '''11''' || [[Márton Esterházy]]
+|-
+|MF || '''20''' || [[Kálmán Kovács (footballer, born 1965)|Kálmán Kovács]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''18'''
+|[[József Szendrei]]
+|
+|
+|-
+|DF
+|'''12'''
+|[[József Csuhay]]
+|
+|
+|-
+|MF || '''8''' || [[Antal Nagy (footballer, born 1956)|Antal Nagy]] || || {{subon|46}}
+|-
+|MF
+|'''21'''
+|[[Gyula Hajszán]]
+|
+|
+|-
+|FW || '''19''' || [[György Bognár]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|HUN}} [[György Mezey]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Joël Bats]]
+|-
+|RB || '''3''' || [[William Ayache]] || {{yel|41}}
+|-
+|CB || '''6''' || [[Maxime Bossis]]
+|-
+|CB || '''4''' || [[Patrick Battiston]]
+|-
+|LB || '''2''' || [[Manuel Amoros]]
+|-
+|DM || '''9''' || [[Luis Fernández]]
+|-
+|CM || '''12''' || [[Alain Giresse]]
+|-
+|CM || '''14''' || [[Jean Tigana]]
+|-
+|AM || '''10''' || [[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|CF || '''17''' || [[Jean-Pierre Papin]] || || {{suboff|61}}
+|-
+|CF || '''19''' || [[Yannick Stopyra]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Albert Rust (footballer)|Albert Rust]]
+|
+|
+|-
+|DF
+|'''5'''
+|[[Michel Bibard]]
+|
+|
+|-
+|MF
+|'''13'''
+|[[Bernard Genghini]]
+|
+|
+|-
+|FW || '''18''' || [[Dominique Rocheteau]] || {{yel|69}} || {{subon|61}}
+|-
+|MF || '''11''' || [[Jean-Marc Ferreri]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|FRA|1974}} [[Henri Michel]]
+|}
+|}
+
+===Soviet Union vs Canada===
+
+<onlyinclude>{{#invoke:Football box|main|section=C6
+|date={{Start date|1986|6|9|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1986 FIFA World Cup Group C#Soviet Union vs Canada|2–0}}
+|team2={{fb|CAN}}
+|goals1=
+*[[Oleg Blokhin|Blokhin]] {{goal|58}}
+*[[Oleksandr Zavarov|Zavarov]] {{goal|74}}
+|goals2=
+|stadium=[[Estadio Sergio León Chavez]], [[Irapuato]]
+|attendance=14,200
+|referee=[[Idrissa Traoré (referee)|Idrissa Traoré]] ([[Malian Football Federation|Mali]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/476 |title=Soviet Union vs Canada {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=476/index.html |title=1986 FIFA World Cup Mexico – Matches – Soviet Union v Canada |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214181823/http://www.fifa.com/worldcup/matches/round=308/match=476/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ussr86a
+ | pattern_b  = _ussr86a
+ | pattern_ra = _ussr86a
+ | pattern_sh = _ussr86h
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Soviet Union
+}}
+|{{Football kit
+| pattern_la = _ussr86h
+| pattern_b =  _can86h
+| pattern_ra = _ussr86h
+| pattern_sh = _adidaswhite
+| leftarm = F6232A
+| body = F6232A
+| rightarm = F6232A
+| shorts = F6232A
+| socks = F6232A
+| title = Canada
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''16''' || [[Viktor Chanov]]
+|-
+|DF || '''4''' || [[Gennady Morozov]]
+|-
+|DF || '''6''' || [[Aleksandr Bubnov]]
+|-
+|DF || '''10''' || [[Oleh Kuznetsov]]
+|-
+|DF || '''12''' || [[Andriy Bal]]
+|-
+|MF || '''17''' || [[Vadym Yevtushenko]]
+|-
+|MF || '''13''' || [[Gennadiy Litovchenko]]
+|-
+|MF || '''20''' || [[Sergei Aleinikov]]
+|-
+|FW || '''18''' || [[Oleh Protasov]] || || {{suboff|57}}
+|-
+|FW || '''14''' || [[Sergey Rodionov]]
+|-
+|FW || '''11''' || [[Oleh Blokhin]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''19''' || [[Ihor Belanov]] || || {{subon|57}}
+|-
+|MF || '''9''' || [[Aleksandr Zavarov]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|URS|1955}} [[Valeri Lobanovsky]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Tino Lettieri]]
+|-
+|DF || '''2''' || [[Bob Lenarduzzi]]
+|-
+|DF || '''3''' || [[Bruce Wilson (soccer)|Bruce Wilson]] ([[Captain (association football)|c]])
+|-
+|DF || '''6''' || [[Ian Bridge]]
+|-
+|DF || '''12''' || [[Randy Samuel]]
+|-
+|MF || '''4''' || [[Randy Ragan]]
+|-
+|MF || '''8''' || [[Gerry Gray (soccer)|Gerry Gray]] || || {{suboff|69}}
+|-
+|MF || '''17''' || [[David Norman (soccer)|David Norman]]
+|-
+|MF || '''15''' || [[Paul James (soccer)|Paul James]] || || {{suboff|64}}
+|-
+|FW || '''7''' || [[Carl Valentine]]
+|-
+|FW || '''14''' || [[Dale Mitchell (soccer)|Dale Mitchell]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''9''' || [[Branko Segota]] || || {{subon|64}}
+|-
+|MF || '''13''' || [[George Pakos]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ENG}} [[Tony Waiters]]
+|}
+|}
+
+==See also==
+*[[Canada at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Hungary at the FIFA World Cup]]
+*[[Soviet Union at the FIFA World Cup]]
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1986 FIFA World Cup}}
+
+{{DEFAULTSORT:Group C}}
+[[Category:1986 FIFA World Cup group stage|C]]
+[[Category:France at the 1986 FIFA World Cup]]
+[[Category:Soviet Union at the 1986 FIFA World Cup]]
+[[Category:Canada at the 1986 FIFA World Cup]]
+[[Category:Hungary at the 1986 FIFA World Cup|C]]
+[[Category:Irapuato]]
+[[Category:Sport in León, Guanajuato]]
+[[Category:Football in Guanajuato]]
+[[Category:History of Guanajuato]]
+[[Category:Canada–Russia sports relations|1986 FIFA World Cup]]

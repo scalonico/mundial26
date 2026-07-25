@@ -1,0 +1,403 @@
+{{Short description|World Cup final, held in Spain}}
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+|            title = 1982 FIFA World Cup final
+|            image = Italy v germany 1982 04.jpg
+|          caption = The 1982 Italy team as world champions
+|            event = [[1982 FIFA World Cup]]
+|            team1 = [[Italy national football team|Italy]]
+| team1association = {{flagdeco|ITA|1946|size=30px}}
+|       team1score = 3
+|            team2 = [[Germany national football team|West Germany]]
+| team2association = {{flagdeco|GER|size=30px}}
+|       team2score = 1
+|             date = 11 July 1982
+|          stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|             city = [[Madrid]]
+|          referee = [[Arnaldo Cézar Coelho]] ([[Brazil]])
+|       attendance = 90,000
+|         previous = [[1978 FIFA World Cup final|1978]]
+|             next = [[1986 FIFA World Cup final|1986]]
+}}
+
+The '''1982 FIFA World Cup final''' was a [[association football|football]] match contested between [[Italy national football team|Italy]] and [[Germany national football team|West Germany]]. It was the final match of the [[1982 FIFA World Cup]] tournament and was played on 11 July 1982 at the [[Santiago Bernabéu Stadium]] in the Spanish capital and largest city of [[Madrid]].
+
+Coming after their [[1934 FIFA World Cup final|1934]]<ref>{{cite web|title=Delight for the Azzurri as home advantage tells|url=https://www.fifa.com/tournaments/archive/worldcup/italy1934/index.html|archive-url=https://web.archive.org/web/20131220185429/http://www.fifa.com/tournaments/archive/worldcup/italy1934/index.html|url-status=dead|archive-date=20 December 2013|publisher=Fédération Internationale de Football Association |website=FIFA.com|access-date=13 June 2014}}</ref> and [[1938 FIFA World Cup final|1938]]<ref>{{cite web|title=Pozzo the mastermind as Italy retain their crown|url=https://www.fifa.com/tournaments/archive/worldcup/france1938/index.html|archive-url=https://web.archive.org/web/20131220184755/http://www.fifa.com/tournaments/archive/worldcup/france1938/index.html|url-status=dead|archive-date=20 December 2013|publisher=Fédération Internationale de Football Association |website=FIFA.com|access-date=13 June 2014}}</ref> victories, Italy had now drawn level with record champions [[Brazil national football team|Brazil]]. Italy's [[Paolo Rossi]] won the Golden Boot as the tournament's top goalscorer, and the Golden Ball as the tournament's best player (awarded for the first time). Italy's 40-year-old goalkeeper and captain [[Dino Zoff]] became the oldest player to win the World Cup.<ref>{{cite web|title=World Cup Hall of Fame: Dino Zoff|url=http://sportsillustrated.cnn.com/soccer/world/2002/world_cup/hof/zoff/|website=Sports Illustrated|access-date=13 June 2014|archive-date=12 September 2005|archive-url=https://web.archive.org/web/20050912055524/http://sportsillustrated.cnn.com/soccer/world/2002/world_cup/hof/zoff/|url-status=dead}}</ref>
+
+It remains to date the only final between the two sides in a major football tournament.
+
+==Venue==
+[[file:The Santiago Bernabeu Stadium - U-g-g-B-o-y.jpg|thumb|left|The [[Santiago Bernabéu Stadium|Santiago Bernabéu]] held the final]]
+{{-}}
+
+==Route to the final==
+{| style="width:100%;text-align:center"
+|- style="vertical-align:top;background:#9cf"
+!colspan=2 style="width:1*"|Italy
+!Round
+!colspan=2 style="width:1*"|West Germany
+
+|- style="vertical-align:top;background:#c1e0ff"
+|Opponent
+|Result
+|[[1982 FIFA World Cup#First group stage|First round]]
+|Opponent
+|Result
+|-
+|{{fb|POL}}
+|[[1982 FIFA World Cup#Group 1|0–0]]
+|style="background:#c1e0ff"|Match 1
+|{{fb|ALG}}
+|[[1982 FIFA World Cup#Group 2|1–2]]
+|-
+|{{fb|PER}}
+|[[1982 FIFA World Cup#Group 1|1–1]]
+|style="background:#c1e0ff"|Match 2
+|{{fb|CHI}}
+|[[1982 FIFA World Cup#Group 2|4–1]]
+|-
+|{{fb|CMR}}
+|[[1982 FIFA World Cup#Group 1|1–1]]
+|style="background:#c1e0ff"|Match 3
+|{{fb|AUT}}
+|[[West Germany v Austria (1982 FIFA World Cup)|1–0]]
+|-
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|{{fb|POL}}
+|3||1||2||0||5||1||+4||'''4'''
+|- style="background:#cfc"
+|align=left|'''{{fb|ITA|1946}}'''
+|3||0||3||0||2||2||0||'''3'''
+|-
+|align=left|{{fb|CMR}}
+|3||0||3||0||1||1||0||'''3'''
+|-
+|align=left|{{fb|PER}}
+|3||0||2||1||2||6||−4||'''2'''
+|}
+|style="background:#c1e0ff"|Final standing
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|FRG}}'''
+|3||2||0||1||6||3||+3||'''4'''
+|- style="background:#cfc"
+|align=left|{{fb|AUT}}
+|3||2||0||1||3||1||+2||'''4'''
+|-
+|align=left|{{fb|ALG}}
+|3||2||0||1||5||5||0||'''4'''
+|-
+|align=left|{{fb|CHI}}
+|3||0||0||3||3||8||−5||'''0'''
+|}
+|- style="vertical-align:top;background:#c1e0ff"
+|Opponent
+|Result
+|[[1982 FIFA World Cup#Second group stage|Second round]]
+|Opponent
+|Result
+|-
+|{{fb|ARG}}
+|[[1982 FIFA World Cup#Group C|2–1]]
+|style="background:#c1e0ff"|Match 1
+|{{fb|ENG}}
+|[[1982 FIFA World Cup#Group B|0–0]]
+|-
+|{{fb|BRA|1968}}
+|[[Brazil v Italy (1982 FIFA World Cup)|3–2]]
+|style="background:#c1e0ff"|Match 2
+|{{fb|ESP}}
+|[[1982 FIFA World Cup#Group B|2–1]]
+|-
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|ITA|1946}}'''
+|2||2||0||0||5||3||+2||'''4'''
+|-
+|align=left|{{fb|BRA|1968}}
+|2||1||0||1||5||4||+1||'''2'''
+|-
+|align=left|{{fb|ARG|1861}}
+|2||0||0||2||2||5||−3||'''0'''
+|}
+|style="background:#c1e0ff"|Final standing
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|FRG}}'''
+|2||1||1||0||2||1||+1||'''3'''
+|-
+|align=left|{{fb|ENG}}
+|2||0||2||0||0||0||0||'''2'''
+|-
+|align=left|{{fb|ESP}}
+|2||0||1||1||1||2||−1||'''1'''
+|}
+|- style="vertical-align:top;background:#c1e0ff"
+|Opponent
+|Result
+|[[1982 FIFA World Cup#Semi-finals|Semi-finals]]
+|Opponent
+|Result
+|-
+|{{fb|POL}}
+|[[1982 FIFA World Cup#Semi-finals|2–0]]
+|style="background:#c1e0ff"|
+|{{fb|FRA|1974}}
+|[[West Germany v France (1982 FIFA World Cup)|3–3]] ([[Overtime (sports)#Association football|aet]]) (5–4 [[Penalty shoot-out (association football)|pen.]])
+|}
+
+==Match==
+
+===Summary===
+After a scoreless first half during which [[Antonio Cabrini]] missed [[penalty kick]] in the 25th minute, [[Paolo Rossi]] scored first, heading home a bouncing [[Claudio Gentile]] cross from the right from close range. [[Marco Tardelli]] then scored from the edge of the area with a low left footed shot before [[Alessandro Altobelli]], at the end of a counterattack by winger Bruno Conti, made it 3–0 with another low left footed shot. Italy's lead appeared secure, encouraging Italian president [[Sandro Pertini]] to wag his finger at the cameras in a playful 'not going to catch us now' gesture from the stands.
+
+[[Paul Breitner]] scored for Germany in the 83rd minute, firing low past the goalkeeper from the right, but Italy held on to claim their first World Cup title in 44 years, and their third in total with a 3–1 victory.<ref>{{cite web |url=https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820712&printsec=frontpage&hl=en |title=Sparkling Italy spring ultimate upset |date=12 July 1982 |work=Glasgow Herald |access-date=30 April 2014 |archive-date=29 April 2016 |archive-url=https://web.archive.org/web/20160429003926/https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19820712&printsec=frontpage&hl=en |url-status=live }}</ref>
+
+{{multiple image
+| header =
+| align = 
+| direction =  
+| total_width = 900
+| perrow = 
+| image1 = Italy v germany 1982 05.jpg  
+| image2 = Italy v germany 1982 02.jpg 
+| image3 = Italy v germany 1982 03.jpg
+| image4 = Italy v germany 1982 08.jpg 
+| image5 = Italy v germany 1982 09.jpg 
+| footer = Some moments of the match held in Santiago Bernabéu Stadium
+}}
+{{-}}
+
+===Details===
+<section begin=Final />{{Football box
+|date={{Start date|1982|7|11|df=y}}
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1982 FIFA World Cup knockout stage#Final|3–1|1982 FIFA World Cup final}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Paolo Rossi|Rossi]] {{goal|57}}
+*[[Marco Tardelli|Tardelli]] {{goal|69}}
+*[[Alessandro Altobelli|Altobelli]] {{goal|81}}
+|goals2=
+*[[Paul Breitner|Breitner]] {{goal|83}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=90,000
+|referee=[[Arnaldo Cézar Coelho]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/3475/923 |title=Italy vs Germany FR {{!}} Final {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3475/match=923/index.html |title=1982 FIFA World Cup Spain – Matches – Italy v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171130175721/http://www.fifa.com/worldcup/matches/round=3475/match=923/index.html |archive-date=30 November 2017}} }}</ref>
+}}<section end=Final />
+<section begin=Lineups />
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita82
+ | pattern_ra = _italy1982-90
+ | pattern_so = _italia_cm1994
+ | leftarm    =
+ | body       =
+ | rightarm   =
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _westgermany1980
+ | pattern_b  = _westgermany1980
+ | pattern_ra = _westgermany1980
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Dino Zoff]] ([[Captain (association football)|c]])
+|-
+|SW ||'''7''' ||[[Gaetano Scirea]]
+|-
+|RB ||'''3''' ||[[Giuseppe Bergomi]]
+|-
+|CB ||'''6''' ||[[Claudio Gentile]]
+|-
+|CB ||'''5''' ||[[Fulvio Collovati]]
+|-
+|LB ||'''4''' ||[[Antonio Cabrini]]
+|-
+|DM ||'''13'''||[[Gabriele Oriali]] || {{yel|73}}
+|-
+|CM ||'''14'''||[[Marco Tardelli]]
+|-
+|RW ||'''16'''||[[Bruno Conti]] || {{yel|31}}
+|-
+|LW ||'''19'''||[[Francesco Graziani]] || || {{suboff|7}}
+|-
+|CF ||'''20'''||[[Paolo Rossi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Ivano Bordon]]
+|-
+|MF ||'''10'''||[[Giuseppe Dossena]]
+|-
+|MF ||'''11'''||[[Gianpiero Marini]]
+|-
+|MF ||'''15'''||[[Franco Causio]] || || || {{subon|89}}
+|-
+|FW ||'''18'''||[[Alessandro Altobelli]] || || {{subon|7}} || {{suboff|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Enzo Bearzot]]
+|}
+|valign="top"|[[File:ITA-FRG 1982-07-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Harald Schumacher]]
+|-
+|SW ||'''15'''||[[Uli Stielike]] || {{yel|73}}
+|-
+|RB ||'''20'''||[[Manfred Kaltz]]
+|-
+|CB ||'''4''' ||[[Karlheinz Förster]]
+|-
+|CB ||'''5''' ||[[Bernd Förster]]
+|-
+|LB ||'''2''' ||[[Hans-Peter Briegel]]
+|-
+|CM ||'''6''' ||[[Wolfgang Dremmler]] || {{yel|61}} || {{suboff|62}}
+|-
+|CM ||'''3''' ||[[Paul Breitner]]
+|-
+|RW ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]]) || || {{suboff|70}}
+|-
+|LW ||'''7''' ||[[Pierre Littbarski]] || {{yel|88}}
+|-
+|CF ||'''8''' ||[[Klaus Fischer]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''21'''||[[Bernd Franke]]
+|-
+|DF ||'''12'''||[[Wilfried Hannes]]
+|-
+|MF ||'''10'''||[[Hansi Müller]] || || {{subon|70}}
+|-
+|MF ||'''14'''||[[Felix Magath]]
+|-
+|FW ||'''9''' ||[[Horst Hrubesch]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jupp Derwall]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|width=50% valign=top|
+'''[[Assistant referee (association football)|Linesmen]]:'''
+<br />[[Abraham Klein (referee)|Abraham Klein]] ([[Israel Football Association|Israel]])
+<br />[[Vojtech Christov]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<includeonly>|}</includeonly><section end=Lineups />
+|width=50% valign=top|
+'''Match rules:'''
+*90 minutes
+*30 minutes of [[Extra time|extra-time]] if necessary
+*Replay on 13 July if scores still level
+*Five [[Substitute (association football)|substitutes]] named, of which two may be used
+|}
+
+==See also==
+*[[Blocco-Juve]]
+*[[Germany–Italy football rivalry]]
+*[[Germany at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{ccat}}
+*[http://www.planetworldcup.com/CUPS/1982/final_ita_v_ger.html 1982 FIFA World Cup Final planetworldcup.com]
+*[https://web.archive.org/web/20140903134315/http://www.shubhayan.com/jersey/1982-italy.asp 1982 FIFA World Cup Final shubhayan.com]
+
+{{1982 FIFA World Cup}}
+{{FIFA World Cup}}
+{{Italy national football team matches}}
+{{Germany national football team matches}}
+{{Portal bar|Association football|Spain|1980s|Italy}}
+
+{{DEFAULTSORT:1982 Fifa World Cup Final}}
+[[Category:1982 FIFA World Cup]]
+[[Category:Football matches in Spain]]
+[[Category:FIFA World Cup finals]]
+[[Category:Men's international association football finals in Europe]]
+[[Category:Italy national football team matches]]
+[[Category:Germany national football team matches|1982C]]
+[[Category:West Germany at the 1982 FIFA World Cup|Final]]
+[[Category:Italy at the 1982 FIFA World Cup|Final]]
+[[Category:1980s in Madrid]]
+[[Category:Italy–West Germany relations]]
+[[Category:Football competitions in Madrid]]
+[[Category:July 1982 sports events in Europe]]
+[[Category:Germany–Italy sports relations|1982]]

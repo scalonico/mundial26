@@ -1,0 +1,749 @@
+{{Short description|none}}
+{{Use dmy dates|date=May 2018}}
+'''Group 1 of the [[1962 FIFA World Cup]]''' took place from 30 May to 7 June 1962. The group consisted of [[Colombia national football team|Colombia]], the [[Soviet Union national football team|Soviet Union]], [[Uruguay national football team|Uruguay]], and [[Yugoslavia national football team|Yugoslavia]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/62f.html |title=World Cup 1962 (Chile, May 30 – June 17) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|teamwidth=180
+|section=Standings
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150403174623/http://www.fifa.com/worldcup/archive/chile1962/groups/index.html FIFA]
+
+|team1=URS|team2=YUG |team3=URU |team4=COL
+|result1=A |result2=A
+
+|win_URS=2 |draw_URS=1 |loss_URS=0 |gf_URS=8 |ga_URS=5
+|win_YUG=2 |draw_YUG=0 |loss_YUG=1 |gf_YUG=8 |ga_YUG=3
+|win_URU=1 |draw_URU=0 |loss_URU=2 |gf_URU=4 |ga_URU=6
+|win_COL=0 |draw_COL=1 |loss_COL=2 |gf_COL=5 |ga_COL=11
+
+|name_COL={{fb|COL}}
+|name_URU={{fb|URU}}
+|name_YUG={{fb|YUG}}
+|name_URS={{fb|URS|1955}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1962 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Uruguay vs Colombia===
+Colombians opened the score midway through the first half when [[Francisco Zuluaga]] converted a penalty. Uruguayan harsh tackling led to Zuluaga's injury. In the second half Uruguay could come back from behind with [[Luis Cubilla]] and [[José Sasía]]'s shots.<ref name="final_stage_game">{{usurped|1=[https://web.archive.org/web/20170509015505/http://www.linguasport.com/futbol/internacional/mundial/1962_CHILE_FS.htm World Cup 1962 Final Stage: Game Details]}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=1-1
+|date={{Start date|1962|5|30|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|URU}}
+|score={{score link|1962 FIFA World Cup Group 1#Uruguay vs Colombia|2–1}}
+|team2={{fb|COL}}
+|goals1=
+*[[Luis Cubilla|Cubilla]] {{goal|56}}
+*[[José Sasía|Sasía]] {{goal|75}}
+|goals2=
+*[[Francisco Zuluaga|Zuluaga]] {{goal|19|pen.}}
+|stadium=[[Estadio Carlos Dittborn]], [[Arica, Chile|Arica]]
+|attendance=7,908
+|referee=[[Andor Dorogi]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1479 |title=Uruguay vs Colombia {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1479/index.html |title=1962 FIFA World Cup Chile – Matches – Uruguay v Colombia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170804014355/http://www.fifa.com/worldcup/matches/round=231/match=1479/index.html |archive-date=4 August 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Uruguay
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _colombia 62 65 H
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = 152B82
+ | body       = 152B82
+ | rightarm   = 152B82
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Colombia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Sosa (Uruguayan footballer)|Roberto Sosa]]
+|-
+|RB ||'''2''' ||[[Horacio Troche]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Emilio Álvarez (Uruguayan footballer)|Emilio Álvarez]]
+|-
+|CB ||'''18''' ||[[Eliseo Álvarez]]
+|-
+|LB ||'''4''' ||[[Mario Méndez (Uruguayan footballer)|Mario Méndez]]
+|-
+|RH ||'''10''' ||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|LH ||'''5''' ||[[Néstor Gonçalves]]
+|-
+|OR ||'''11'''||[[Luis Cubilla]]
+|-
+|IR ||'''19'''||[[Ronald Langón]]
+|-
+|IL ||'''9'''||[[José Sasía]]
+|-
+|OL ||'''7''' ||[[Domingo Pérez (footballer)|Domingo Pérez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|URU}} [[Juan Carlos Corazzo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Efraín Sánchez]]
+|-
+|RB ||'''3''' ||[[Francisco Zuluaga]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Jaime González (Colombian footballer)|Jaime González]]
+|-
+|CB ||'''11''' ||[[Óscar López (Colombian footballer)|Óscar López]]
+|-
+|LB ||'''8'''||[[Hector Echeverri]]
+|-
+|RH ||'''9'''||[[Jaime Silva Gómez|Jaime Silva]]
+|-
+|LH ||'''15''' ||[[Marcos Coll]]
+|-
+|OR ||'''13'''||[[Germán Aceros]]
+|-
+|IR ||'''17'''||[[Marino Klinger]]
+|-
+|IL ||'''19''' ||[[Delio Gamboa]]
+|-
+|OL ||'''22''' ||[[Jairo Arias]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|ARG}} [[Adolfo Pedernera]]
+|}
+|}
+
+===Soviet Union vs Yugoslavia===
+The Soviet Union dominated the game from the beginning. Soon after half time, they opened the score when [[Viktor Ponedelnik]] hit the bar with a free kick and [[Valentin Ivanov (footballer, born 1934)|Valentin Ivanov]] headed in the rebound. In the last minutes, Ponedelnik scored from the edge of the area.<ref name="final_stage_game" />
+
+Tragedy struck ten minutes before the final whistle, when [[Eduard Dubinski]] was carried away with a broken leg after a clash with [[Muhamed Mujić]], who was later sent home by his team. Dubinski died almost seven years later in 1969 of [[sarcoma]].<ref>{{cite web |title=World Cup stunning moments: The Battle of Santiago {{!}} Simon Burnton |date=22 March 2018 |website=[[The Guardian]] |archive-url=https://web.archive.org/web/20221217132623/https://www.theguardian.com/football/blog/2014/mar/04/stunning-moments-no4-battle-of-santiago |archive-date=17 December 2022 |url-status=live |url=https://www.theguardian.com/football/blog/2014/mar/04/stunning-moments-no4-battle-of-santiago}}</ref><ref>[https://www.youtube.com/watch?v=AJoXHnXvcRk USSR vs Yugoslavia on YouTube]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=1-2
+|date={{Start date|1962|5|31|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1962 FIFA World Cup Group 1#Soviet Union vs Yugoslavia|2–0}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Valentin Kozmich Ivanov|Ivanov]] {{goal|51}}
+*[[Viktor Ponedelnik|Ponedelnik]] {{goal|83}}
+|goals2=
+|stadium=[[Estadio Carlos Dittborn]], [[Arica, Chile|Arica]]
+|attendance=9,622
+|referee=[[Albert Dusch]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1563 |title=Soviet Union vs Yugoslavia {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1563/index.html |title=1962 FIFA World Cup Chile – Matches – Soviet Union v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209233606/http://www.fifa.com/worldcup/matches/round=231/match=1563/index.html |archive-date=9 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000AA
+ | socks      = 0000AA
+ | title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _yugoslavia1962h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitestripe
+ | leftarm    = 0261BF
+ | body       = 0261BF
+ | rightarm   = 0261BF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Yugoslavia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lev Yashin]]
+|-
+|RB ||'''4''' ||[[Eduard Dubinski]]
+|-
+|CB ||'''7''' ||[[Anatoli Maslyonkin]]
+|-
+|LB ||'''6''' ||[[Leonīds Ostrovskis]]
+|-
+|RH ||'''12''' ||[[Valery Voronin]]
+|-
+|LH ||'''10''' ||[[Igor Netto]] ([[Captain (association football)|c]])
+|-
+|OR ||'''18''' ||[[Slava Metreveli]]
+|-
+|IR ||'''14'''||[[Valentin Ivanov (footballer, born 1934)|Valentin Ivanov]]
+|-
+|CF ||'''19'''||[[Viktor Ponedelnik]]
+|-
+|IL ||'''15'''||[[Viktor Kanevskyi]]
+|-
+|OL ||'''17''' ||[[Mikheil Meskhi]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|Soviet Union}} [[Gavriil Kachalin]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Milutin Šoškić]]
+|-
+|RB ||'''2''' ||[[Vladimir Durković]]
+|-
+|CB ||'''5''' ||[[Vlatko Marković]]
+|-
+|LB ||'''3''' ||[[Fahrudin Jusufi]]
+|-
+|RH ||'''15'''||[[Željko Matuš]]
+|-
+|LH ||'''6'''||[[Vladica Popović]]
+|-
+|OR ||'''16''' ||[[Muhamed Mujić]]
+|-
+|IR ||'''8'''||[[Dragoslav Šekularac]]
+|-
+|CF ||'''9'''||[[Dražan Jerković]]
+|-
+|IL ||'''10''' ||[[Milan Galić]] ([[Captain (association football)|c]])
+|-
+|OL ||'''11''' ||[[Josip Skoblar]]
+|-
+|colspan="3"|'''Co-managers:'''
+|-
+|colspan="3"| {{flagicon|YUG}} [[Ljubomir Lovrić]] & [[Prvoslav Mihajlović]]
+|}
+|}
+
+===Yugoslavia vs Uruguay===
+Uruguay took an early lead in the 19th minute with a goal from Ángel Cabrera. Yugoslavia responded with determination. In the 25th minute, Josip Skoblar converted a penalty to equalize the score. Shortly after, in the 29th minute, Milan Galić scored, giving Yugoslavia a 2–1 advantage. Early in the second half, Dražan Jerković extended Yugoslavia's lead with a goal in the 49th minute, bringing the score to 3–1. Yugoslavia maintained their lead for the remainder of the match, securing a 3–1 victory over Uruguay. This win was crucial for Yugoslavia's progression in the tournament, contributing to their advancement from the group stage. The match is remembered for Yugoslavia's effective comeback after conceding the initial goal.
+
+<onlyinclude>{{#invoke:Football box|main|section=1-3
+|date={{Start date|1962|6|2|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|YUG}}
+|score={{score link|1962 FIFA World Cup Group 1#Yugoslavia vs Uruguay|3–1}}
+|team2={{fb|URU}}
+|goals1=
+*[[Josip Skoblar|Skoblar]] {{goal|25|pen.}}
+*[[Milan Galić|Galić]] {{goal|29}}
+*[[Dražan Jerković|Jerković]] {{goal|49}}
+|goals2=
+*[[Ángel Cabrera (footballer)|Cabrera]] {{goal|19}}
+|stadium=[[Estadio Carlos Dittborn]], [[Arica, Chile|Arica]]
+|attendance=8,829
+|referee=[[Karol Galba]] ([[Czechoslovak Football Association|Czechoslovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1564 |title=Yugoslavia vs Uruguay {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1564/index.html |title=1962 FIFA World Cup Chile – Matches – Yugoslavia v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210005315/http://www.fifa.com/worldcup/matches/round=231/match=1564/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _yugoslavia1962h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitestripe
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Yugoslavia
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = 80BBFF
+ | body       = 80BBFF
+ | rightarm   = 80BBFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Milutin Šoškić]]
+|-
+|RB ||'''2''' ||[[Vladimir Durković]]
+|-
+|CB ||'''5''' ||[[Vlatko Marković]]
+|-
+|LB ||'''3''' ||[[Fahrudin Jusufi]]
+|-
+|RH ||'''4''' ||[[Petar Radaković]]
+|-
+|LH ||'''6''' ||[[Vladica Popović]] || {{sent off|0|71}}
+|-
+|OR ||'''17''' ||[[Vojislav Melić]]
+|-
+|IR ||'''8'''||[[Dragoslav Šekularac]]
+|-
+|CF ||'''9'''||[[Dražan Jerković]]
+|-
+|IL ||'''10'''||[[Milan Galić]] ([[Captain (association football)|c]])
+|-
+|OL ||'''11''' ||[[Josip Skoblar]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Ljubomir Lovrić]] & [[Prvoslav Mihajlović]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Sosa (Uruguayan footballer)|Roberto Sosa]]
+|-
+|RB ||'''2''' ||[[Horacio Troche]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Emilio Álvarez (Uruguayan footballer)|Emilio Álvarez]]
+|-
+|CB ||'''18''' ||[[Eliseo Álvarez]]
+|-
+|LB ||'''4'''||[[Mario Méndez (Uruguayan footballer)|Mario Méndez]]
+|-
+|RH ||'''10'''||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|LH ||'''5''' ||[[Néstor Gonçalves]]
+|-
+|OR ||'''20'''||[[Mario Ludovico Bergara|Mario Bergara]]
+|-
+|IR ||'''22'''||[[Ángel Cabrera (footballer)|Ángel Cabrera]] || {{sent off|0|71}}
+|-
+|IL ||'''9''' ||[[José Sasía]]
+|-
+|OL ||'''7''' ||[[Domingo Pérez (footballer)|Domingo Pérez]]
+|-
+|colspan="3"|'''Co-managers:'''
+|-
+|colspan="3"|[[Juan Carlos Corazzo]]
+|}
+|}
+
+===Soviet Union vs Colombia===
+The Soviet team scored three quick goals in the first 11 minutes of the game but then let the Colombians make an impressive comeback in the late second half. In the 68 minute Marcos Coll scored a goal directly from a corner,<ref>[https://www.theguardian.com/football/2018/jun/12/golden-goal-marcos-coll-scores-from-a-corner-for-colombia-v-ussr-1962 Golden Goal: Marcos Coll scores from a corner for Colombia v USSR (1962)]</ref> the first Olympic goal in World Cup history.<ref>[https://www.eltiempo.com/Multimedia/especiales/Colombia-Chile1962/ Primer Mundial de Fútbol de la Selección Colombiana]</ref><ref>[https://www.youtube.com/watch?v=nh4QeuOVSVw Colombia vs Soviet Union on YouTube]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=1-4
+|date={{Start date|1962|6|3|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1962 FIFA World Cup Group 1#Soviet Union vs Colombia|4–4}}
+|team2={{fb|COL}}
+|goals1=
+*[[Valentin Kozmich Ivanov|Ivanov]] {{goal|8||11}}
+*[[Igor Chislenko|Chislenko]] {{goal|10}}
+*[[Viktor Ponedelnik|Ponedelnik]] {{goal|56}}
+|goals2=
+*[[Germán Aceros|Aceros]] {{goal|21}}
+*[[Marcos Coll|Coll]] {{goal|68}}
+*[[Antonio Rada|Rada]] {{goal|72}}
+*[[Marino Klinger|Klinger]] {{goal|86}}
+|stadium=[[Estadio Carlos Dittborn]], [[Arica, Chile|Arica]]
+|attendance=8,040
+|referee=[[Joao Etzel Filho|João Etzel Filho]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1478 |title=Soviet Union vs Colombia {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1478/index.html |title=1962 FIFA World Cup Chile – Matches – Soviet Union v Colombia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171207225606/http://www.fifa.com/worldcup/matches/round=231/match=1478/index.html |archive-date=7 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _colombia 62 65 H
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = 152B82
+ | body       = 152B82
+ | rightarm   = 152B82
+ | shorts     = 001166
+ | socks      = FFFFFF
+ | title      = Colombia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lev Yashin]]
+|-
+|RB ||'''5''' ||[[Givi Chokheli]]
+|-
+|CB ||'''7''' ||[[Anatoli Maslyonkin]]
+|-
+|LB ||'''6''' ||[[Leonīds Ostrovskis]]
+|-
+|RH ||'''12''' ||[[Valery Voronin]]
+|-
+|LH ||'''10''' ||[[Igor Netto]] ([[Captain (association football)|c]])
+|-
+|OR ||'''22''' ||[[Igor Chislenko]]
+|-
+|IR ||'''14'''||[[Valentin Ivanov (footballer, born 1934)|Valentin Ivanov]]
+|-
+|CF ||'''19'''||[[Viktor Ponedelnik]]
+|-
+|IL ||'''15'''||[[Viktor Kanevskyi]]
+|-
+|OL ||'''17''' ||[[Mikheil Meskhi]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|Soviet Union}} [[Gavriil Kachalin]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Efraín Sánchez]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Aníbal Alzate]]
+|-
+|CB ||'''5''' ||[[Jaime González (Colombian footballer)|Jaime González]]
+|-
+|CB ||'''11''' ||[[Óscar López (Colombian footballer)|Óscar López]]
+|-
+|LB ||'''8'''||[[Hector Echeverri]]
+|-
+|RH ||'''10'''||[[Rolando Serrano]]
+|-
+|LH ||'''15''' ||[[Marcos Coll]]
+|-
+|OR ||'''13'''||[[Germán Aceros]]
+|-
+|IR ||'''17'''||[[Marino Klinger]]
+|-
+|IL ||'''20''' ||[[Antonio Rada]]
+|-
+|OL ||'''21''' ||[[Héctor González Garzón|Héctor González]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|ARG}} [[Adolfo Pedernera]]
+|}
+|}
+
+===Soviet Union vs Uruguay===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-5
+|date={{Start date|1962|6|6|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1962 FIFA World Cup Group 1#Soviet Union vs Uruguay|2–1}}
+|team2={{fb|URU}}
+|goals1=
+*[[Aleksei Mamykin|Mamykin]] {{goal|38}}
+*[[Valentin Kozmich Ivanov|Ivanov]] {{goal|89}}
+|goals2=
+*[[José Sasía|Sasía]] {{goal|54}}
+|stadium=[[Estadio Carlos Dittborn]], [[Arica, Chile|Arica]]
+|attendance=9,973
+|referee=[[Cesare Jonni]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1562 |title=Soviet Union vs Uruguay {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1562/index.html |title=1962 FIFA World Cup Chile – Matches – Soviet Union v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201074025/http://www.fifa.com/worldcup/matches/round=231/match=1562/index.html |archive-date=1 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = 80BBFF
+ | body       = 80BBFF
+ | rightarm   = 80BBFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lev Yashin]]
+|-
+|RB ||'''5''' ||[[Givi Chokheli]]
+|-
+|CB ||'''7''' ||[[Anatoli Maslyonkin]]
+|-
+|LB ||'''6''' ||[[Leonīds Ostrovskis]]
+|-
+|RH ||'''12''' ||[[Valery Voronin]]
+|-
+|LH ||'''10''' ||[[Igor Netto]] ([[Captain (association football)|c]])
+|-
+|OR ||'''22''' ||[[Igor Chislenko]]
+|-
+|IR ||'''14'''||[[Valentin Ivanov (footballer, born 1934)|Valentin Ivanov]]
+|-
+|CF ||'''19'''||[[Viktor Ponedelnik]]
+|-
+|IL ||'''16'''||[[Aleksei Mamykin]]
+|-
+|OL ||'''21''' ||[[Galimzyan Khusainov]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|Soviet Union}} [[Gavriil Kachalin]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Sosa (Uruguayan footballer)|Roberto Sosa]]
+|-
+|RB ||'''2''' ||[[Horacio Troche]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Emilio Álvarez (Uruguayan footballer)|Emilio Álvarez]]
+|-
+|CB ||'''18''' ||[[Eliseo Álvarez]]
+|-
+|LB ||'''4'''||[[Mario Méndez (Uruguayan footballer)|Mario Méndez]]
+|-
+|RH ||'''8'''||[[Julio César Cortés]]
+|-
+|LH ||'''5''' ||[[Néstor Gonçalves]]
+|-
+|OR ||'''11'''||[[Luis Cubilla]]
+|-
+|IR ||'''22'''||[[Ángel Cabrera (footballer)|Ángel Cabrera]]
+|-
+|IL ||'''9''' ||[[José Sasía]]
+|-
+|OL ||'''7''' ||[[Domingo Pérez (footballer)|Domingo Pérez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|URU}} [[Juan Carlos Corazzo]]
+|}
+|}
+
+===Yugoslavia vs Colombia===
+<onlyinclude>{{#invoke:Football box|main|section=1-6
+|date={{Start date|1962|6|7|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|YUG}}
+|score={{score link|1962 FIFA World Cup Group 1#Yugoslavia vs Colombia|5–0}}
+|team2={{fb|COL}}
+|goals1=
+*[[Milan Galić|Galić]] {{goal|20||61}}
+*[[Dražan Jerković|Jerković]] {{goal|25||87}}
+*[[Vojislav Melić|Melić]] {{goal|82}}
+|goals2=
+|stadium=[[Estadio Carlos Dittborn]], [[Arica, Chile|Arica]]
+|attendance=7,167
+|referee=[[Carlos Robles (referee)|Carlos Robles]] ([[Federación de Fútbol de Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1480 |title=Yugoslavia vs Colombia {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1480/index.html |title=1962 FIFA World Cup Chile – Matches – Yugoslavia v Colombia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171130231208/http://www.fifa.com/worldcup/matches/round=231/match=1480/index.html |archive-date=30 November 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _yugoslavia1962h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitestripe
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 0261BF
+ | socks      = FF0000
+ | title      = Yugoslavia
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _colombia 62 65 H
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = 152B82
+ | body       = 152B82
+ | rightarm   = 152B82
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Colombia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Milutin Šoškić]]
+|-
+|RB ||'''2''' ||[[Vladimir Durković]]
+|-
+|CB ||'''5''' ||[[Vlatko Marković]]
+|-
+|LB ||'''3''' ||[[Fahrudin Jusufi]]
+|-
+|RH ||'''4''' ||[[Petar Radaković]]
+|-
+|LH ||'''6''' ||[[Vladica Popović]]
+|-
+|OR ||'''17''' ||[[Vojislav Melić]]
+|-
+|IR ||'''8'''||[[Dragoslav Šekularac]]
+|-
+|CF ||'''9'''||[[Dražan Jerković]]
+|-
+|IL ||'''10'''||[[Milan Galić]] ([[Captain (association football)|c]])
+|-
+|OL ||'''7''' ||[[Andrija Anković]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Ljubomir Lovrić]] & [[Prvoslav Mihajlović]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Efraín Sánchez]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Aníbal Alzate]]
+|-
+|CB ||'''5''' ||[[Jaime González (Colombian footballer)|Jaime González]]
+|-
+|CB ||'''11''' ||[[Óscar López (Colombian footballer)|Óscar López]]
+|-
+|LB ||'''8'''||[[Hector Echeverri]]
+|-
+|RH ||'''10'''||[[Rolando Serrano]]
+|-
+|LH ||'''15''' ||[[Marcos Coll]]
+|-
+|OR ||'''13'''||[[Germán Aceros]]
+|-
+|IR ||'''17'''||[[Marino Klinger]]
+|-
+|IL ||'''20''' ||[[Antonio Rada]]
+|-
+|OL ||'''21''' ||[[Héctor González Garzón|Héctor González]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Adolfo Pedernera]]
+|}
+|}
+
+==See also==
+*[[Colombia at the FIFA World Cup]]
+*[[Soviet Union at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+*[[Yugoslavia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1962chile 1962 FIFA World Cup archive]
+
+{{1962 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 1}}
+[[Category:1962 FIFA World Cup group stage|1]]
+[[Category:Yugoslavia at the 1962 FIFA World Cup]]
+[[Category:Uruguay at the 1962 FIFA World Cup]]
+[[Category:Colombia at the 1962 FIFA World Cup]]
+[[Category:Soviet Union at the 1962 FIFA World Cup]]
+[[Category:Sport in Arica y Parinacota Region]]
+[[Category:History of Arica y Parinacota Region]]

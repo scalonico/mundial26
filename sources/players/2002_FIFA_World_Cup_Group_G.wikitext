@@ -1,0 +1,896 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group G of the [[2002 FIFA World Cup]]''' took place on 13 June 2002. [[Mexico national football team|Mexico]] won the group, and advanced to the second round, along with [[Italy national football team|Italy]]. [[Croatia national football team|Croatia]] and [[Ecuador national football team|Ecuador]] failed to advance.<ref>{{cite web |last=Manaschev |first=Erlan |url=https://www.rsssf.org/tables/2002full.html |title=World Cup 2002 – Match Details |publisher=[[RSSSF]] |date=3 July 2008 |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/4395?date=2002-06-14&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=MEX
+|team2=ITA
+|team3=CRO
+|team4=ECU
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2002 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_MEX=2 |draw_MEX=1 |loss_MEX=0 |gf_MEX=4 |ga_MEX=2
+|win_ITA=1 |draw_ITA=1 |loss_ITA=1 |gf_ITA=4 |ga_ITA=3
+|win_CRO=1 |draw_CRO=0 |loss_CRO=2 |gf_CRO=2 |ga_CRO=3
+|win_ECU=1 |draw_ECU=0 |loss_ECU=2 |gf_ECU=2 |ga_ECU=4
+
+|name_MEX={{fb|MEX}}
+|name_ITA={{fb|ITA}}
+|name_CRO={{fb|CRO}}
+|name_ECU={{fb|ECU|1900}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2002 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+*Mexico advanced to play [[United States men's national soccer team|United States]] (runner-up of [[2002 FIFA World Cup Group D|Group D]]) in the [[2002 FIFA World Cup knockout stage#Mexico vs United States|round of 16]].
+*Italy advanced to play [[South Korea national football team|South Korea]] (winner of [[2002 FIFA World Cup Group D|Group D]]) in the [[2002 FIFA World Cup knockout stage#South Korea vs Italy|round of 16]].
+
+==Matches==
+''All times local ([[Japan Standard Time|UTC+9]])''
+
+===Croatia vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=G1
+|date={{Start date|2002|6|3|df=y}}
+|time=15:30
+|team1={{fb-rt|CRO}}
+|score={{score link|2002 FIFA World Cup Group G#Croatia vs Mexico|0–1}}
+|team2={{fb|MEX}}
+|goals1=
+|goals2=
+*[[Cuauhtémoc Blanco|Blanco]] {{goal|60|pen.}}
+|stadium=[[Tohoku Denryoku Big Swan Stadium|Niigata Big Swan Stadium]], [[Niigata, Niigata|Niigata]]
+|attendance=32,239
+|referee=[[Lu Jun (referee)|Lu Jun]] ([[Chinese Football Association|China]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950009 |title=Croatia vs Mexico {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950009/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Croatia v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181430/http://www.fifa.com/worldcup/matches/round=43950100/match=43950009/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/09_0603_NII_CRO-MEX_Fulltime.pdf |title=Match Report – Group G – Croatia v Mexico |publisher=[[FIFA]] |date=3 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050525205127/http://fifaworldcup.yahoo.com/releases/09_0603_NII_CRO-MEX_Fulltime.pdf |archive-date=25 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _whiteupper
+| pattern_b  = _cro02h
+| pattern_ra = _whiteupper
+| pattern_sh = _cro02h
+| pattern_so = _slo02a
+| leftarm    = 0000CD
+| body       = FFFFFF
+| rightarm   = 0000CD
+| shorts     = 0000CD
+| socks      = 0000FF
+| title      = Croatia
+}}
+|{{Football kit
+| pattern_la = _thinredborder
+| pattern_b  = _mex02
+| pattern_ra = _thinredborder
+| pattern_sh = _uru02a
+| pattern_so = _redstripe
+| leftarm    = 005F1E
+| body       = 005F1E
+| rightarm   = 005F1E
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]] 
+|-
+|CB ||'''6''' ||[[Boris Živković]] || {{sent off|0|59}}
+|-
+|CB ||'''3''' ||[[Josip Šimunić]]
+|-
+|CB ||'''21'''||[[Robert Kovač]]
+|-
+|RM ||'''10'''||[[Niko Kovač]]
+|-
+|CM ||'''14'''||[[Zvonimir Soldo]] 
+|-
+|CM ||'''4''' ||[[Stjepan Tomas]]
+|-
+|LM ||'''17'''||[[Robert Jarni]]
+|-
+|AM ||'''8''' ||[[Robert Prosinečki]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Davor Šuker]] ([[Captain (association football)|c]]) || || {{suboff|64}}
+|-
+|CF ||'''11'''||[[Alen Bokšić]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Milan Rapaić]] || || {{subon|46}}
+|-
+|DF ||'''15'''||[[Daniel Šarić]] || || {{subon|64}}
+|-
+|MF ||'''13'''||[[Mario Stanić]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mirko Jozić]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Pérez Rojas|Óscar Pérez]]
+|-
+|RB ||'''16'''||[[Salvador Carmona]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Manuel Vidrio]]
+|-
+|LB ||'''11'''||[[Braulio Luna]]
+|-
+|RM ||'''19'''||[[Gabriel Caballero]]
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]]
+|-
+|CM ||'''13'''||[[Sigifredo Mercado]]
+|-
+|LM ||'''7''' ||[[Ramón Morales]]
+|-
+|SS ||'''10'''||[[Cuauhtémoc Blanco]] || || {{suboff|79}}
+|-
+|CF ||'''9''' ||[[Jared Borgetti]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Luis Hernández (footballer, born 1968)|Luis Hernández]] || || {{subon|68}}
+|-
+|FW ||'''17'''||[[Francisco Palencia]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Aguirre]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Braulio Luna]] (Mexico)
+
+'''Assistant referees:'''
+<br />Komaleeswaran Sankar ([[All India Football Federation|India]])
+<br />Taoufik Adjengui ([[Tunisian Football Federation|Tunisia]])
+<br />'''Fourth official:'''
+<br />[[Falla N'Doye]] ([[Senegalese Football Federation|Senegal]])
+|}
+
+===Italy vs Ecuador===
+<onlyinclude>{{#invoke:Football box|main|section=G2
+|date={{Start date|2002|6|3|df=y}}
+|time=20:30
+|team1={{fb-rt|ITA}}
+|score={{score link|2002 FIFA World Cup Group G#Italy vs Ecuador|2–0}}
+|team2={{fb|ECU|1900}}
+|goals1=
+*[[Christian Vieri|Vieri]] {{goal|7||27}}
+|goals2=
+|stadium=[[Sapporo Dome]], [[Sapporo]]
+|attendance=31,081
+|referee=[[Brian Hall (referee)|Brian Hall]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950011 |title=Italy vs Ecuador {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950011/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Italy v Ecuador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229035301/http://www.fifa.com/worldcup/matches/round=43950100/match=43950011/index.html |archive-date=29 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/11_0603_SAP_ITA-ECU_Fulltime.pdf |title=Match Report – Group G – Italy v Ecuador |publisher=[[FIFA]] |date=3 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050504031842/http://fifaworldcup.yahoo.com/releases/11_0603_SAP_ITA-ECU_Fulltime.pdf |archive-date=4 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _torinohome2009
+| pattern_b  = _ita02h
+| pattern_ra = _torinohome2009
+| pattern_sh = _ita02h
+| pattern_so = _kappa_white
+| leftarm    = 0040FF
+| body       = 0040FF
+| rightarm   = 0040FF
+| shorts     = FFFFFF
+| socks      = 0040FF
+| title      = Italy
+}}
+|{{Football kit
+| pattern_la = _ecu002h
+| pattern_b  = _ecu002h
+| pattern_ra = _ecu002h
+| pattern_sh = _redsides
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = 0000FF
+| socks      = FF0000
+| title      = Ecuador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''13'''||[[Alessandro Nesta]]
+|-
+|CB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] || {{yel|81}}
+|-
+|LB ||'''2''' ||[[Christian Panucci]]
+|-
+|RM ||'''17'''||[[Damiano Tommasi]]
+|-
+|CM ||'''14'''||[[Luigi Di Biagio]] || || {{suboff|69}}
+|-
+|LM ||'''11'''||[[Cristiano Doni]] || || {{suboff|64}}
+|-
+|SS ||'''10'''||[[Francesco Totti]] || || {{suboff|74}}
+|-
+|CF ||'''21'''||[[Christian Vieri]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Angelo Di Livio]] || || {{subon|64}}
+|-
+|MF ||'''8''' ||[[Gennaro Gattuso]] || || {{subon|69}}
+|-
+|FW ||'''7''' ||[[Alessandro Del Piero]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Giovanni Trapattoni]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Cevallos (footballer, born 1971)|José Cevallos]]
+|-
+|RB ||'''4''' ||[[Ulises de la Cruz]] || {{yel|49}}
+|-
+|CB ||'''3''' ||[[Iván Hurtado]]
+|-
+|CB ||'''2''' ||[[Augusto Poroso]] || {{yel|14}}
+|-
+|LB ||'''6''' ||[[Raúl Guerrón]]
+|-
+|RM ||'''19'''||[[Édison Méndez]]
+|-
+|CM ||'''20'''||[[Edwin Tenorio]] || || {{suboff|59}}
+|-
+|CM ||'''5''' ||[[Alfonso Obregón]]
+|-
+|LM ||'''16'''||[[Cléver Chalá]] || {{yel|54}} || {{suboff|85}}
+|-
+|AM ||'''10'''||[[Álex Aguinaga]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CF ||'''11'''||[[Agustín Delgado]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Carlos Tenorio]] || || {{subon|46}}
+|-
+|DF ||'''15'''||[[Marlon Ayoví]] || || {{subon|59}}
+|-
+|MF ||'''7''' ||[[Nicolás Asencio]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|COL}} [[Hernán Darío Gómez|Hernán Gómez]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Christian Vieri]] (Italy)
+
+'''Assistant referees:'''
+<br />Héctor Vergara ([[Canadian Soccer Association|Canada]])
+<br />[[Philip Sharp (referee)|Philip Sharp]] ([[The Football Association|England]])
+<br />'''Fourth official:'''
+<br />[[Terje Hauge]] ([[Football Association of Norway|Norway]])
+|}
+
+===Italy vs Croatia===
+<onlyinclude>{{#invoke:Football box|main|section=G3
+|date={{Start date|2002|6|8|df=y}}
+|time=18:00
+|team1={{fb-rt|ITA}}
+|score={{score link|2002 FIFA World Cup Group G#Italy vs Croatia|1–2}}
+|team2={{fb|CRO}}
+|goals1=
+*[[Christian Vieri|Vieri]] {{goal|55}}
+|goals2=
+*[[Ivica Olić|Olić]] {{goal|73}}
+*[[Milan Rapaić|Rapaić]] {{goal|76}}
+|stadium=[[Kashima Soccer Stadium]], [[Ibaraki, Ibaraki|Ibaraki]]
+|attendance=36,472
+|referee=[[Graham Poll]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950025 |title=Italy vs Croatia {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950025/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Italy v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181454/http://www.fifa.com/worldcup/matches/round=43950100/match=43950025/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/25_0608_IBA_ITA-CRO_Fulltime.pdf |title=Match Report – Group G – Italy v Croatia |publisher=[[FIFA]] |date=8 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20041220064513/http://fifaworldcup.yahoo.com/releases/25_0608_IBA_ITA-CRO_Fulltime.pdf |archive-date=20 December 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _torinohome2009
+| pattern_b  = _ita02h
+| pattern_ra = _torinohome2009
+| pattern_sh = _ita02h
+| pattern_so = _kappa_white
+| leftarm    = 0040FF
+| body       = 0040FF
+| rightarm   = 0040FF
+| shorts     = FFFFFF
+| socks      = 0040FF
+| title      = Italy
+}}
+|{{Football kit
+| pattern_la = _whiteupper
+| pattern_b  = _cro02h
+| pattern_ra = _whiteupper
+| pattern_sh = _cro02h
+| pattern_so = _redwhiteblueborder
+| leftarm    = 0000CD
+| body       = FFFFFF
+| rightarm   = 0000CD
+| shorts     = 0000CD
+| socks      = FFFFFF
+| title      = Croatia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''13'''||[[Alessandro Nesta]] || || {{suboff|24}}
+|-
+|CB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]]
+|-
+|LB ||'''2''' ||[[Christian Panucci]]
+|-
+|RM ||'''17'''||[[Damiano Tommasi]]
+|-
+|CM ||'''6''' ||[[Cristiano Zanetti]]
+|-
+|LM ||'''11'''||[[Cristiano Doni]] || || {{suboff|79}}
+|-
+|SS ||'''10'''||[[Francesco Totti]]
+|-
+|CF ||'''21'''||[[Christian Vieri]] || {{yel|51}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CB ||'''23'''||[[Marco Materazzi]] || || {{subon|24}}
+|-
+|FW ||'''9''' ||[[Filippo Inzaghi]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Giovanni Trapattoni]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|SW ||'''21'''||[[Robert Kovač]] || {{yel|39}}
+|-
+|CB ||'''3''' ||[[Josip Šimunić]]
+|-
+|CB ||'''4''' ||[[Stjepan Tomas]]
+|-
+|RWB||'''15'''||[[Daniel Šarić]]
+|-
+|LWB||'''17'''||[[Robert Jarni]] ([[Captain (association football)|c]])
+|-
+|CM ||'''14'''||[[Zvonimir Soldo]] || || {{suboff|62}}
+|-
+|CM ||'''10'''||[[Niko Kovač]]
+|-
+|AM ||'''7''' ||[[Davor Vugrinec]] || || {{suboff|57}}
+|-
+|AM ||'''5''' ||[[Milan Rapaić]] || || {{suboff|79}}
+|-
+|CF ||'''11'''||[[Alen Bokšić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Ivica Olić]] || || {{subon|57}}
+|-
+|MF ||'''16'''||[[Jurica Vranješ]] || || {{subon|62}}
+|-
+|DF ||'''20'''||[[Dario Šimić]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mirko Jozić]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Milan Rapaić]] (Croatia)
+
+'''Assistant referees:'''
+<br />[[Philip Sharp (referee)|Philip Sharp]] ([[The Football Association|England]])
+<br />Jens Larsen ([[Danish Football Association|Denmark]])
+<br />'''Fourth official:'''
+<br />[[William Mattus]] ([[Costa Rican Football Federation|Costa Rica]])
+|}
+
+===Mexico vs Ecuador===
+<onlyinclude>{{#invoke:Football box|main|section=G4
+|date={{Start date|2002|6|9|df=y}}
+|time=15:30
+|team1={{fb-rt|MEX}}
+|score={{score link|2002 FIFA World Cup Group G#Mexico vs Ecuador|2–1}}
+|team2={{fb|ECU|1900}}
+|goals1=
+*[[Jared Borgetti|Borgetti]] {{goal|28}}
+*[[Gerardo Torrado|Torrado]] {{goal|57}}
+|goals2=
+*[[Agustín Delgado|Delgado]] {{goal|5}}
+|stadium=[[Miyagi Stadium]], [[Miyagi Prefecture|Miyagi]]
+|attendance=45,610
+|referee=[[Mourad Daami]] ([[Tunisian Football Federation|Tunisia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950027 |title=Mexico vs Ecuador {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950027/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Mexico v Ecuador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182220/http://www.fifa.com/worldcup/matches/round=43950100/match=43950027/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/27_0609_MIY_MEX-ECU_Fulltime.pdf |title=Match Report – Group G – Mexico v Ecuador |publisher=[[FIFA]] |date=9 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040829044842/http://fifaworldcup.yahoo.com/releases/27_0609_MIY_MEX-ECU_Fulltime.pdf |archive-date=29 August 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _thinredborder
+| pattern_b  = _mex02
+| pattern_ra = _thinredborder
+| pattern_sh = _uru02a
+| pattern_so = _whitestripe
+| leftarm    = 005F1E
+| body       = 005F1E
+| rightarm   = 005F1E
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Mexico
+}}
+|{{Football kit
+| pattern_la = _ecu002h
+| pattern_b  = _ecu002h
+| pattern_ra = _ecu002h
+| pattern_sh = _redsides
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = 0000FF
+| socks      = FFFFFF
+| title      = Ecuador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Pérez Rojas|Óscar Pérez]]
+|-
+|RB ||'''16'''||[[Salvador Carmona]]
+|-
+|CB ||'''5''' ||[[Manuel Vidrio]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|LB ||'''11'''||[[Braulio Luna]]
+|-
+|RM ||'''21'''||[[Jesús Arellano]]
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]] || {{yel|65}}
+|-
+|CM ||'''18'''||[[Johan Rodríguez]] || || {{suboff|87}}
+|-
+|LM ||'''7''' ||[[Ramón Morales]]
+|-
+|SS ||'''10'''||[[Cuauhtémoc Blanco]] || || {{suboff|90+3}}
+|-
+|CF ||'''9''' ||[[Jared Borgetti]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Luis Hernández (footballer, born 1968)|Luis Hernández]] || || {{subon|77}}
+|-
+|MF ||'''19'''||[[Gabriel Caballero]] || || {{subon|87}}
+|-
+|MF ||'''13'''||[[Sigifredo Mercado]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Aguirre]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Cevallos (footballer, born 1971)|José Cevallos]] || {{yel|27}}
+|-
+|RB ||'''4''' ||[[Ulises de la Cruz]]
+|-
+|CB ||'''3''' ||[[Iván Hurtado]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Augusto Poroso]]
+|-
+|LB ||'''6''' ||[[Raúl Guerrón]] || {{yel|49}}
+|-
+|RM ||'''19'''||[[Édison Méndez]]
+|-
+|CM ||'''5''' ||[[Alfonso Obregón]] || || {{suboff|58}}
+|-
+|CM ||'''20'''||[[Edwin Tenorio]] || || {{suboff|35}}
+|-
+|LM ||'''16'''||[[Cléver Chalá]]
+|-
+|CF ||'''9''' ||[[Iván Kaviedes]] || {{yel|15}} || {{suboff|53}}
+|-
+|CF ||'''11'''||[[Agustín Delgado]] || {{yel|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''15'''||[[Marlon Ayoví]] || || {{subon|35}}
+|-
+|FW ||'''18'''||[[Carlos Tenorio]] || {{yel|61}} || {{subon|53}}
+|-
+|MF ||'''10'''||[[Álex Aguinaga]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|COL}} [[Hernán Darío Gómez|Hernán Gómez]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Gerardo Torrado]] (Mexico)
+
+'''Assistant referees:'''
+<br />Taoufik Adjengui ([[Tunisian Football Federation|Tunisia]])
+<br />Haidar Koleit ([[Lebanon Football Association|Lebanon]])
+<br />'''Fourth official:'''
+<br />[[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|}
+
+===Mexico vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=G5
+|date={{Start date|2002|6|13|df=y}}
+|time=20:30
+|team1={{fb-rt|MEX}}
+|score={{score link|2002 FIFA World Cup Group G#Mexico vs Italy|1–1}}
+|team2={{fb|ITA}}
+|goals1=
+*[[Jared Borgetti|Borgetti]] {{goal|34}}
+|goals2=
+*[[Alessandro Del Piero|Del Piero]] {{goal|85}}
+|stadium=[[Ōita Stadium|Ōita Big Eye Stadium]], [[Ōita, Ōita|Ōita]]
+|attendance=39,291
+|referee=[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950043 |title=Mexico vs Italy {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950043/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Mexico v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182251/http://www.fifa.com/worldcup/matches/round=43950100/match=43950043/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/43_0613_OIT_MEX-ITA_Fulltime.pdf |title=Match Report – Group G – Mexico v Italy |publisher=[[FIFA]] |date=13 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030917212805/http://fifaworldcup.yahoo.com/releases/43_0613_OIT_MEX-ITA_Fulltime.pdf |archive-date=17 September 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _thinredborder
+| pattern_b  = _mex02
+| pattern_ra = _thinredborder
+| pattern_sh = _uru02a
+| pattern_so = _whitestripe
+| leftarm    = 005F1E
+| body       = 005F1E
+| rightarm   = 005F1E
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Mexico
+}}
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _ita02a
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _kappafootballbluelogo
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 0040FF
+| socks      = FFFFFF
+| title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Pérez Rojas|Óscar Pérez]] || {{yel|84}}
+|-
+|RB ||'''16'''||[[Salvador Carmona]]
+|-
+|CB ||'''5''' ||[[Manuel Vidrio]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|LB ||'''11'''||[[Braulio Luna]]
+|-
+|RM ||'''21'''||[[Jesús Arellano]] || {{yel|2}}
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]]
+|-
+|CM ||'''18'''||[[Johan Rodríguez]] || || {{suboff|76}}
+|-
+|LM ||'''7''' ||[[Ramón Morales]] || || {{suboff|76}}
+|-
+|SS ||'''10'''||[[Cuauhtémoc Blanco]]
+|-
+|CF ||'''9''' ||[[Jared Borgetti]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''3''' ||[[Rafael García Torres|Rafael García]] || || {{subon|76}}
+|-
+|MF ||'''19'''||[[Gabriel Caballero]] || || {{subon|76}}
+|-
+|FW ||'''17'''||[[Francisco Palencia]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Aguirre]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]] || {{yel|55}}
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] || {{yel|5}}
+|-
+|CB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|CB ||'''13'''||[[Alessandro Nesta]]
+|-
+|LB ||'''2''' ||[[Christian Panucci]] || {{yel|10}} || {{suboff|63}}
+|-
+|RM ||'''17'''||[[Damiano Tommasi]]
+|-
+|CM ||'''6''' ||[[Cristiano Zanetti]]
+|-
+|LM ||'''10'''||[[Francesco Totti]] || {{yel|43}} || {{suboff|78}}
+|-
+|RF ||'''21'''||[[Christian Vieri]]
+|-
+|LF ||'''9''' ||[[Filippo Inzaghi]] || || {{suboff|55}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Vincenzo Montella]] || {{yel|57}} || {{subon|55}}
+|-
+|LB ||'''4''' ||[[Francesco Coco]] || || {{subon|63}}
+|-
+|FW ||'''7''' ||[[Alessandro Del Piero]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Giovanni Trapattoni]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Cuauhtémoc Blanco]] (Mexico)
+
+'''Assistant referees:'''
+<br />Jorge Oliveira ([[Brazilian Football Confederation|Brazil]])
+<br />Mat Lazim Awang Hamat ([[Football Association of Malaysia|Malaysia]])
+<br />'''Fourth official:'''
+<br />[[Terje Hauge]] ([[Football Association of Norway|Norway]])
+|}
+
+===Ecuador vs Croatia===
+<onlyinclude>{{#invoke:Football box|main|section=G6
+|date={{Start date|2002|6|13|df=y}}
+|time=20:30
+|team1={{fb-rt|ECU|1900}}
+|score={{score link|2002 FIFA World Cup Group G#Ecuador vs Croatia|1–0}}
+|team2={{fb|CRO}}
+|goals1=
+*[[Édison Méndez|Méndez]] {{goal|48}}
+|goals2=
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=65,862
+|referee=[[William Mattus]] ([[Costa Rican Football Federation|Costa Rica]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950044 |title=Ecuador vs Croatia {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950044/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Ecuador v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171216091424/http://www.fifa.com/worldcup/matches/round=43950100/match=43950044/index.html |archive-date=16 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/44_0613_YOK_ECU-CRO_Fulltime.pdf |title=Match Report – Group G – Ecuador v Croatia |publisher=[[FIFA]] |date=13 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050515022606/http://fifaworldcup.yahoo.com/releases/44_0613_YOK_ECU-CRO_Fulltime.pdf |archive-date=15 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _ecu002h
+| pattern_b  = _ecu002h
+| pattern_ra = _ecu002h
+| pattern_sh = _redsides
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = 0000FF
+| socks      = FF0000
+| title      = Ecuador
+}}
+|{{Football kit
+| pattern_la = _cro02a
+| pattern_b  = _cro02a
+| pattern_ra = _cro02a
+| pattern_sh = _cro02a
+| pattern_so = _redwhiteblueborder
+| leftarm    = 0000CD
+| body       = FFFFFF
+| rightarm   = 0000CD
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Croatia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Cevallos (footballer, born 1971)|José Cevallos]]
+|-
+|RB ||'''4''' ||[[Ulises de la Cruz]]
+|-
+|CB ||'''3''' ||[[Iván Hurtado]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Augusto Poroso]]
+|-
+|LB ||'''6''' ||[[Raúl Guerrón]]
+|-
+|RM ||'''19'''||[[Édison Méndez]]
+|-
+|CM ||'''5''' ||[[Alfonso Obregon]] || || {{suboff|40}}
+|-
+|CM ||'''15'''||[[Marlon Ayoví]]
+|-
+|LM ||'''16'''||[[Cléver Chalá]] || {{yel|86}}
+|-
+|CF ||'''18'''||[[Carlos Tenorio]] || || {{suboff|76}}
+|-
+|CF ||'''11'''||[[Agustín Delgado]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Álex Aguinaga]] || || {{subon|40}}
+|-
+|FW ||'''9''' ||[[Iván Kaviedes]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|COL}} [[Hernán Darío Gómez|Hernán Gómez]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|SW ||'''21'''||[[Robert Kovač]]
+|-
+|CB ||'''3''' ||[[Josip Šimunić]] || {{yel|90+2}}
+|-
+|CB ||'''20'''||[[Dario Šimić]] || || {{suboff|52}}
+|-
+|RWB||'''15'''||[[Daniel Šarić]] || || {{suboff|68}}
+|-
+|LWB||'''17'''||[[Robert Jarni]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||[[Stjepan Tomas]] || {{yel|72}}
+|-
+|CM ||'''10'''||[[Niko Kovač]] || || {{suboff|59}}
+|-
+|CM ||'''5''' ||[[Milan Rapaić]]
+|-
+|CF ||'''18'''||[[Ivica Olić]]
+|-
+|CF ||'''11'''||[[Alen Bokšić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Davor Vugrinec]] || || {{subon|52}}
+|-
+|MF ||'''16'''||[[Jurica Vranješ]] || || {{subon|59}}
+|-
+|MF ||'''13'''||[[Mario Stanić]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mirko Jozić]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Édison Méndez]] (Ecuador)
+
+'''Assistant referees:'''
+<br />Miguel Giacomuzzi ([[Paraguayan Football Association|Paraguay]])
+<br />Roland Van Nylen ([[Royal Belgian Football Association|Belgium]])
+<br />'''Fourth official:'''
+<br />[[Mark Shield]] ([[Football Federation Australia|Australia]])
+|}
+
+==See also==
+*[[Croatia at the FIFA World Cup]]
+*[[Ecuador at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2002 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup - Group G}}
+[[Category:2002 FIFA World Cup group stage|G]]
+[[Category:Mexico at the 2002 FIFA World Cup|Group]]
+[[Category:Italy at the 2002 FIFA World Cup|Group]]
+[[Category:Croatia at the 2002 FIFA World Cup|Group]]
+[[Category:Ecuador at the 2002 FIFA World Cup|Group]]
+[[Category:Sport in Niigata (city)]]
+[[Category:Sports competitions in Sapporo]]
+[[Category:Sports competitions in Ibaraki Prefecture]]
+[[Category:Sports competitions in Miyagi Prefecture]]
+[[Category:Football in Yokohama]]
+[[Category:2000s in Yokohama]]
+[[Category:Sport in Ōita (city)]]

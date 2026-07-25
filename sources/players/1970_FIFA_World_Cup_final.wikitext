@@ -1,0 +1,349 @@
+{{Short description|World Cup final, held in Mexico}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox football match
+| title = 1970 FIFA World Cup final
+| image = Brazil v italy 1970 06.jpg
+| image_size = 200
+| caption = Both teams lining up before the match
+| event = [[1970 FIFA World Cup]]
+| team1 = [[Brazil national football team|Brazil]]
+| team1association = {{flagdeco|BRA|1968|size=30px}}
+| team1score = 4
+| team2 = [[Italy national football team|Italy]]
+| team2association = {{flagdeco|ITA|1946|size=30px}}
+| team2score = 1 
+| date = 21 June 1970
+| stadium = [[Estadio Azteca]]
+| city = [[Mexico City]]
+| man_of_the_match1a = 
+| referee = [[Rudi Glöckner]] ([[Deutscher Fußball-Verband der DDR|East Germany]])
+| attendance = 107,412
+| weather = 
+| previous = [[1966 FIFA World Cup final|1966]]
+| next = [[1974 FIFA World Cup final|1974]]
+}}
+
+The final match of the [[1970 FIFA World Cup]] was held on Sunday, 21 June, in the [[Estadio Azteca]] in [[Mexico City]], between [[Brazil national football team|Brazil]] and [[Italy national football team|Italy]]. It marked the first time that two former world champions met in a final; Italy had previously won the World Cup in [[1934 FIFA World Cup|1934]] and [[1938 FIFA World Cup|1938]], while Brazil won in [[1958 FIFA World Cup|1958]] and [[1962 FIFA World Cup|1962]].
+
+== Road to the final==
+Before the finals in Mexico, Brazil had to play qualifying matches against [[Colombia national football team|Colombia]], [[Venezuela national football team|Venezuela]] and [[Paraguay national football team|Paraguay]]. Brazil was far superior, winning all six games, scoring twenty-three goals and conceding only two. The last match of the qualifying round, which Brazil won against Paraguay 1–0, had the largest official audience ever recorded for a football match, with 183,341 spectators in Brazil's [[Maracanã Stadium]]. In total, the Brazilian team won all 12 games, scoring 42 goals and conceding only 8.<ref>{{cite web|url=https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19700622&printsec=frontpage&hl=en|title=Brazil outplay Italy and take Jules Rimet Trophy outright|date=22 June 1970|work=Glasgow Herald (Page 4)|access-date=30 April 2014|archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703090441/https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19700622&printsec=frontpage&hl=en|url-status=live}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/football/62712350|title=Pele and 1970: How the greatest player of all time cemented his legend|date=31 October 2022|work=BBC Sport|accessdate=16 November 2022|archive-date=1 November 2022|archive-url=https://web.archive.org/web/20221101030822/https://www.bbc.com/sport/football/62712350|url-status=live}}</ref>
+
+{| style="width:100%;text-align:center"
+|- style="vertical-align:top;background:#9cf"
+!colspan=2 style="width:1*"|{{fb|BRA}}
+!Round
+!colspan=2 style="width:1*"|{{fb|ITA}}
+|- style="vertical-align:top;background:#c1e0ff"
+|Opponent
+|Result
+|Group stage
+|Opponent
+|Result
+|-
+|{{fb|CZE|name=Czechoslovakia}}
+|[[1970 FIFA World Cup Group 3#Brazil vs Czechoslovakia|4–1]]
+|style="background:#c1e0ff"|Match 1
+|{{fb|SWE}}
+|[[1970 FIFA World Cup Group 2#Italy vs Sweden|1–0]]
+|-
+|{{fb|ENG}}
+|[[1970 FIFA World Cup Group 3#Brazil vs England|1–0]]
+|style="background:#c1e0ff"|Match 2
+|{{fb|URU}}
+|[[1970 FIFA World Cup Group 2#Uruguay vs Italy|0–0]]
+|-
+|{{fb|ROU|1965}}
+|[[1970 FIFA World Cup Group 3#Brazil vs Romania|3–2]]
+|style="background:#c1e0ff"|Match 3
+|{{fb|ISR}}
+|[[1970 FIFA World Cup Group 2#Italy vs Israel|0–0]]
+|-
+|colspan="2" style="text-align:center"|'''[[1970 FIFA World Cup Group 3|Group 3]] winner'''
+{| class="wikitable" style="text-align:center"
+|-
+!width="190"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|BRA}}'''
+|3||3||0||0||8||3||+5||'''6'''
+|- style="background:#cfc"
+|align=left|{{fb|ENG}}
+|3||2||0||1||2||1||+1||'''4'''
+|-
+|align=left|{{fb|ROU|1965}}
+|3||1||0||2||4||5||−1||'''2'''
+|-
+|align=left|{{fb|CZE|name=Czechoslovakia}}
+|3||0||0||3||2||7||−5||'''0'''
+|}
+|style="background:#c1e0ff"|Final group standings
+|colspan="2" style="text-align:center"|'''[[1970 FIFA World Cup Group 2|Group 2]] winner'''
+{| class="wikitable" style="text-align:center"
+|-
+!width="190"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|ITA}}'''
+|3||1||2||0||1||0||+1||'''4'''
+|- style="background:#cfc"
+|align=left|{{fb|URU}}
+|3||1||1||1||2||1||+1||'''3'''
+|-
+|align=left|{{fb|SWE}}
+|3||1||1||1||2||2||0||'''3'''
+|-
+|align=left|{{fb|ISR}}
+|3||0||2||1||1||3||−2||'''2'''
+|}
+|- style="vertical-align:top;background:#c1e0ff"
+|Opponent
+|Result
+||[[1970 FIFA World Cup knockout stage|Knockout stage]]
+|Opponent
+|Result
+|-
+|{{fb|PER}}
+|[[1970 FIFA World Cup knockout stage#Brazil v Peru|4–2]]
+|style="background:#c1e0ff"|Quarter-finals
+|{{fb|MEX}}
+|[[1970 FIFA World Cup knockout stage#Italy v Mexico|4–1]]
+|-
+|{{fb|URU}}
+|[[1970 FIFA World Cup knockout stage#Brazil v Uruguay|3–1]]
+|style="background:#c1e0ff"|Semi-finals
+|{{fb|West Germany}}
+|[[1970 FIFA World Cup knockout stage#Italy v West Germany|4–3]] {{aet}}
+|}
+
+==Match==
+[[File:Habitación de Pelé en el CISS - 16.jpg|thumb|Recreation of Pelé's room at the Inter-American Social Security Conference Hotel of Mexico City, their hotel prior to their match against Italy on June 21, 1970.]]
+===Summary===
+{{multiple image
+| header =
+| align = 
+| direction = 
+| total_width = 450
+| perrow = 2
+| image1 = Brazil v italia 1970 01.jpg 
+| image2 = Brazil v italia 1970 02.jpg
+| image3 = Brazil v italia 1970 04.jpg
+| image4 = Brazil v italia 1970 05.jpg 
+| footer = Sequences of the 2nd and 3rd Brazil goals scored by Gerson (above) and Jairzinho (below), respectively
+}}
+
+Brazil struck first, with [[Pelé]] heading in a cross by [[Rivellino]] in the 18th minute.<ref>{{cite news |url=http://www.goal.com/en-gb/news/3058/coca-cola-memorable-moments/2010/06/10/1968267/coca-cola-memorable-celebrations-1-peles-iconic-leap-of-joy |title=Coca-Cola Memorable Celebrations 1: Pele's iconic leap of joy after scoring Brazil's century goal |work=Goal.com |date=10 June 2010 |access-date=8 May 2011 |archive-url=https://web.archive.org/web/20100613153050/http://www.goal.com/en-gb/news/3058/coca-cola-memorable-moments/2010/06/10/1968267/coca-cola-memorable-celebrations-1-peles-iconic-leap-of-joy |archive-date=13 June 2010 |url-status=dead }}</ref> [[Roberto Boninsegna]] equalized for Italy after a blunder in the Brazilian defence. In the second half, Brazil's firepower and creativity was too much for an Italian side that clung to their cautious defensive system. [[Gérson]] fired in a powerful shot for the second goal, and then helped provide the third, with a long free kick to Pelé who headed down into the path of the onrushing [[Jairzinho]].
+
+Pelé capped his superb performance by drawing the Italian defence in the centre and feeding captain [[Carlos Alberto Torres|Carlos Alberto]] on the right flank for the final score. Carlos Alberto's goal, after a series of moves by the Brazilian team from the left to the centre, is considered one of the greatest goals ever scored in the history of the tournament.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/teams/brazil/4759831.stm |title=The perfect goal |date=2 June 2006 |work=[[BBC Sport]] |publisher=[[BBC|British Broadcasting Corporation]] |access-date=8 May 2011 |first=Andrew |last=Benson |archive-url=https://web.archive.org/web/20060614134033/http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/teams/brazil/4759831.stm |archive-date=14 June 2006 |url-status=live }}</ref>
+
+A total of seven outfield players from Brazil passed the ball until captain Carlos Alberto hammered the ball into the corner of the Italian goal following a pass across the Italian penalty area from Pelé, prompted by [[Tostão]], who, with his back to the goal, told Pelé that Alberto was steaming in on the right flank. Tostão started the move five yards from the left of the Brazilian penalty area, then ran the length of the field to the Italian box without touching the ball again to tell Pelé to lay it off for Alberto. The players involved in the passes in order were Tostão, [[Wilson da Silva Piazza|Piazza]], [[Clodoaldo]], Pelé and Gérson. Clodoaldo beat four Italian players in his own half before passing to Rivellino who hit a perfect pass down the wing to Jairzinho. Jairzinho crossed from the wing to the centre of the box to Pelé who held the ball up to play a pass for Alberto to smash it home. The only outfield players not involved in the move were [[Everaldo (footballer, born 1944)|Everaldo]] and [[Brito (footballer, born 1939)|Brito]], although the ball did ricochet off Everaldo's foot when he was nutmegged by Juliano in the tackle. This caused the ball to run loose for Tostao as he tracked back. In 2002, the UK public voted the goal as number 36 in the list of the [[100 Greatest (UK TV series)|100 Greatest Sporting Moments]].<ref>[http://www.channel4.com/entertainment/tv/microsites/G/greatest_sporting/results.html 100 Greatest sporting moments – results] {{webarchive |url=https://web.archive.org/web/20020115144251/http://www.channel4.com/entertainment/tv/microsites/G/greatest_sporting/results.html |date=15 January 2002 }} ''[[Channel 4]]''. Retrieved 29 August 2014</ref><ref>{{cite web|url=https://www.theguardian.com/football/blog/2016/oct/25/world-cup-final-1970-brazil-v-italy-as-it-happened|title=World Cup final 1970: Brazil v Italy – as it happened|date=25 October 2016|work=Guardian|access-date=26 October 2016|archive-date=6 December 2022|archive-url=https://web.archive.org/web/20221206063946/https://www.theguardian.com/football/blog/2016/oct/25/world-cup-final-1970-brazil-v-italy-as-it-happened|url-status=live}}</ref>
+
+===Details===
+<section begin=Final />{{Football box
+|date={{Start date|1970|6|21|df=y}}
+|time=12:00 [[Central Time Zone|UTC−6]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1970 FIFA World Cup knockout stage#Final|4–1|1970 FIFA World Cup final}}
+|team2={{fb|ITA}}
+|goals1=
+*[[Pelé]] {{goal|18}}
+*[[Gérson]] {{goal|66}}
+*[[Jairzinho]] {{goal|71}}
+*[[Carlos Alberto Torres|Carlos Alberto]] {{goal|86}}
+|goals2=
+*[[Roberto Boninsegna|Boninsegna]] {{goal|37}}
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=107,412
+|referee=[[Rudi Glöckner]] ([[German Football Association|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/3476/1765 |title=Brazil vs Italy {{!}} Final {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |archive-date=26 November 2025 |archive-url=https://web.archive.org/web/20251126063907/https://www.fifa.com/en/match-centre/match/17/32/3476/1765 |url-status=live }} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3476/match=1765/index.html |title=1970 FIFA World Cup Mexico – Matches – Brazil v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229232231/http://www.fifa.com/worldcup/matches/round=3476/match=1765/index.html |archive-date=29 December 2017 }} }}</ref>
+}}<section end=Final />
+<section begin=Lineups />
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _greencollar
+ | pattern_ra = _greenborder
+ | pattern_sh = _white_stripes
+ | pattern_so = _bra74hl
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0070F9
+ | socks      = FFFFFF
+ | title      = Brazil
+ 
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  =_ita70h
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _2whitestripes
+ | leftarm    = 3120CC
+ | body       = 3120CC
+ | rightarm   = 3120CC
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Félix Miélli Venerando|Félix]]
+|-
+|RB ||'''4''' ||[[Carlos Alberto Torres|Carlos Alberto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Hércules Brito Ruas|Brito]]
+|-
+|CB ||'''3''' ||[[Wilson da Silva Piazza|Piazza]]
+|-
+|LB ||'''16'''||[[Everaldo (footballer, born 1944)|Everaldo]]
+|-
+|RH ||'''5''' ||[[Clodoaldo]]
+|-
+|LH ||'''8''' ||[[Gérson]]
+|-
+|OR ||'''7''' ||[[Jairzinho]]
+|-
+|OL ||'''11'''||[[Rivellino]] || {{yel|45}}
+|-
+|CF ||'''9''' ||[[Tostão]] 
+|-
+|CF ||'''10'''||[[Pelé]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||[[Ado (footballer)|Ado]]
+|-
+|DF ||'''6''' ||[[Marco Antônio (footballer, born 1951)|Marco Antônio]]
+|-
+|DF ||'''15'''||[[José de Anchieta Fontana|Fontana]]
+|-
+|MF ||'''18'''||[[Caju (footballer, born 1949)|Caju]]
+|-
+|FW ||'''13'''||[[Roberto Miranda|Roberto]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|valign="top"|[[File:BRA-ITA 1970-06-21 1.svg|414x414px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enrico Albertosi]] 
+|-
+|RB ||'''2''' ||[[Tarcisio Burgnich]] || {{yel|27}}
+|-
+|CB ||'''8''' ||[[Roberto Rosato]]
+|-
+|CB ||'''5''' ||[[Pierluigi Cera]]
+|-
+|LWB ||'''3''' ||[[Giacinto Facchetti]] ([[Captain (association football)|c]])
+|-
+|DM ||'''10'''||[[Mario Bertini]] || || {{suboff|74}}
+|-
+|CM ||'''16'''||[[Giancarlo De Sisti]]
+|-
+|RW ||'''13'''||[[Angelo Domenghini]]
+|-
+|AM ||'''15'''||[[Sandro Mazzola]]
+|-
+|CF ||'''20'''||[[Roberto Boninsegna]] || || {{suboff|84}}
+|-
+|CF ||'''11'''||[[Gigi Riva]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||[[Dino Zoff]]
+|-
+|DF ||'''4''' ||[[Fabrizio Poletti]]
+|-
+|MF ||'''21'''||[[Giuseppe Furino]]
+|-
+|MF ||'''18'''||[[Antonio Juliano]] || || {{subon|74}}
+|-
+|MF ||'''14'''||[[Gianni Rivera]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ferruccio Valcareggi]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|width=50% valign=top|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+<br />[[Ángel Coerezza]] ([[Argentine Football Association|Argentina]])
+<includeonly>|}</includeonly><section end="Lineups" />
+|width=50% valign=top|
+'''Match rules:'''
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*Replay on 23 June if scores still level
+*Five named substitutes
+*Maximum of two substitutions
+|}
+
+==Post-match==
+[[File:Pele celebrating 1970.jpg|thumb|Pelé celebrating after winning the match. It was his last World Cup as he would retire from the national team one year later<ref>[https://libero.pe/futbol-internacional/1572907-pele-jugo-ultimo-partido-seleccion-brasilena-yugoslavia-efemerides-maracana-rivelino-gerson Un día como hoy Pelé jugó su último partido con la selección brasileña] on Libero, 18 Jul 2020 {{webarchive |url=https://web.archive.org/web/20201002034402/https://libero.pe/futbol-internacional/1572907-pele-jugo-ultimo-partido-seleccion-brasilena-yugoslavia-efemerides-maracana-rivelino-gerson |date=2 October 2020 }}</ref>]]
+With this third win after their [[1958 FIFA World Cup|1958]] and [[1962 FIFA World Cup|1962]] World Cup victories, Brazil became the world's most successful national football team at that time, surpassing both Italy and [[Uruguay national football team|Uruguay]], who each had two championships. The third title earned Brazil the right to retain the [[FIFA World Cup Trophy#Jules Rimet Trophy|Jules Rimet Trophy]] permanently;<ref name=bwcwstp>{{cite news |url=https://news.google.com/newspapers?id=uplSAAAAIBAJ&pg=6097%2C2070851 |newspaper=St. Petersburg Times |agency=Associated Press |title=Brazil |date=22 June 1970 |page=1C |archive-date=18 October 2022 |access-date=6 October 2020 |archive-url=https://web.archive.org/web/20221018124729/https://news.google.com/newspapers?id=uplSAAAAIBAJ&pg=6097,2070851 |url-status=live }}</ref><ref>{{cite web |url=https://www.fifa.com/news/brazil-heroes-1970-relive-their-days-glory-73382 |title=Brazil's heroes of 1970 relive their days of glory |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |date=10 June 2000 |access-date=9 June 2021|archiveurl =https://web.archive.org/web/20190205191934/https://www.fifa.com/news/brazil-heroes-1970-relive-their-days-glory-73382 |archivedate=5 February 2019}}</ref> it was stolen in 1983 while on display in [[Rio de Janeiro]] and never recovered.
+
+Thirty-eight-year-old Brazilian coach [[Mário Zagallo]] became the first footballer to win the World Cup as a player (1958, 1962) and a coach, as well the second youngest coach to win a World Cup, after [[Alberto Suppici]] in [[1930 FIFA World Cup|1930]]. [[Pelé]] ended his World Cup playing career as the competition's first (and as of 2026, only) three-time winner.<ref>{{cite news |url=http://www.goal.com/en/news/60/south-america/2010/10/21/2176031/70-facts-about-brazil-legend-football-icon-pele-on-his-70th |title=70 Facts About Brazil Legend Football Icon Pele On His 70th Birthday |work=Goal.com |date=21 October 2010 |access-date=8 May 2011 |archive-url=https://web.archive.org/web/20101023020649/http://www.goal.com/en/news/60/south-america/2010/10/21/2176031/70-facts-about-brazil-legend-football-icon-pele-on-his-70th |archive-date=23 October 2010 |url-status=dead }}</ref>
+
+=== Legacy ===
+Historically, this 1970 Brazil squad is generally revered as the best World Cup team.<ref>{{cite web |last1=Molinaro |first1=John |title=THE TOP 10 WORLD CUP TEAMS OF ALL-TIME |url=https://www.sportsnet.ca/soccer/ranking-top-10-world-cup-teams-time/ |website=Sportsnet |publisher=Sportsnet |access-date=2026-07-20 |archive-date=20 July 2026 |archive-url=https://web.archive.org/web/20260720111723/https://www.sportsnet.ca/soccer/ranking-top-10-world-cup-teams-time/ |url-status=live }}</ref>
+
+==See also==
+*[[1994 FIFA World Cup final]]
+*[[Brazil 70: The Third Star]] ([[Netflix]] miniseries)
+*[[Brazil–Italy football rivalry]]
+*[[Brazil at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{ccat}}
+{{1970 FIFA World Cup}}
+{{FIFA World Cup}}
+{{Brazil national football team matches}}
+{{Italy national football team matches}}
+
+[[Category:1970 FIFA World Cup|Final]]
+[[Category:FIFA World Cup finals|1970]]
+[[Category:Italy national football team matches|1970]]
+[[Category:Brazil national football team matches|1970]]
+[[Category:Brazil at the 1970 FIFA World Cup|Final]]
+[[Category:Italy at the 1970 FIFA World Cup|Final]]
+[[Category:Brazil–Italy sports relations|1970-06-21]]
+[[Category:Football competitions in Mexico City]]
+[[Category:1970s in Mexico City]]
+[[Category:June 1970 sports events in North America]]
+[[Category:Men's international association football finals in North America]]
+[[Category:Football matches in Mexico]]

@@ -1,0 +1,510 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 3 of the [[1954 FIFA World Cup]]''' took place from 16 to 19 June 1954. The group consisted of [[Austria national football team|Austria]], [[Czechoslovakia national football team|Czechoslovakia]], [[Scotland national football team|Scotland]], and [[Uruguay national football team|Uruguay]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/54f.html |title=World Cup 1954 (Switzerland, June 16 – July 4) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Standings
+|source=[https://web.archive.org/web/20150407143131/http://www.fifa.com/worldcup/archive/switzerland1954/groups/index.html FIFA]
+|update=complete
+|show_positions=y
+|winpoints=2
+
+|team1=URU|name_URU={{fb|URU}}
+|team2=AUT|name_AUT={{fb|AUT}}
+|team3=TCH|name_TCH={{fb|TCH}}
+|team4=SCO|name_SCO={{fb|SCO}}
+|pos_AUT=1<!--POINTS WERE THE ONLY TIEBREAKER, BUT A PLAYOFF WAS ONLY USED IN TIE FOR 2ND/3RD PLACE; QUARTER-FINALS WERE RANDOMLY DRAWN AND NOT BASED ON GROUP POSITION-->
+|pos_SCO=3<!--POINTS WERE THE ONLY TIEBREAKER, BUT A PLAYOFF WAS ONLY USED IN TIE FOR 2ND/3RD PLACE; QUARTER-FINALS WERE RANDOMLY DRAWN AND NOT BASED ON GROUP POSITION-->
+
+|win_URU=2|draw_URU=0|loss_URU=0|gf_URU=9|ga_URU=0
+|win_AUT=2|draw_AUT=0|loss_AUT=0|gf_AUT=6|ga_AUT=0
+|win_TCH=0|draw_TCH=0|loss_TCH=2|gf_TCH=0|ga_TCH=7
+|win_SCO=0|draw_SCO=0|loss_SCO=2|gf_SCO=0|ga_SCO=8
+
+|res_col_header=Q
+|result1=Q |result2=Q
+|col_Q=green1 |text_Q=Advance to the {{nowrap|[[1954 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time ([[Central European Time|CET]], [[UTC+01:00|UTC+1]]).
+
+===Uruguay vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1954|6|16|df=y}}
+|time=18:00
+|team1={{fb-rt|URU}}
+|score={{score link|1954 FIFA World Cup Group 3#Uruguay vs Czechoslovakia|2–0}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Óscar Míguez|Míguez]] {{goal|71}}
+*[[Juan Alberto Schiaffino|Schiaffino]] {{goal|84}}
+|goals2=
+|stadium=[[Wankdorf Stadium]], [[Bern]]
+|attendance=20,500
+|referee=[[Arthur Edward Ellis|Arthur Ellis]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1315 |title=Uruguay vs Czechoslovakia {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1315/index.html |title=1954 FIFA World Cup Switzerland – Matches – Uruguay v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171225201232/http://www.fifa.com/worldcup/matches/round=211/match=1315/index.html |archive-date=25 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  _whiteborder
+| pattern_b             = _vneckwhite
+| pattern_ra            = _whiteborder
+| pattern_sh            =
+| pattern_so            = _skybluetop
+| leftarm               = 99ccff
+| body                 =  99ccff
+| rightarm              = 99ccff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Uruguay
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _cze54a
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _hoops_blue_red
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             = 0000ff
+| socks              =  ffffff
+|title            =  Czechoslovakia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+| GK ||'''1'''|| [[Roque Máspoli]]
+|-
+| RB ||'''4'''|| [[Víctor Rodríguez Andrade|Rodríguez Andrade]]
+|-
+| CB ||'''2'''|| [[José Santamaría]]
+|-
+| CB ||'''3'''|| [[William Martínez (footballer)|William Martínez]]
+|-
+| LWB ||'''17'''|| [[Luis Cruz (Uruguayan footballer)|Luis Cruz]]
+|-
+| CH ||'''5'''|| [[Obdulio Varela]] ([[Captain (association football)|c]])
+|-
+| OR ||'''7'''|| [[Julio Abbadie]]
+|-
+| IR ||'''19'''|| [[Javier Ambrois]]
+|-
+| CF ||'''9'''|| [[Oscar Míguez]]
+|-
+| IL ||'''10'''|| [[Juan Alberto Schiaffino|Juan Schiaffino]]
+|-
+| OL ||'''11'''|| [[Carlos Borges]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|URU}} [[Juan López Fontana|Juan López]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Theodor Reimann]]
+|-
+|DF||'''2'''|| [[František Šafránek]] 
+|-
+|DF||'''13'''|| [[Jiří Hledík]]
+|-
+|LB||'''4'''|| [[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+|MF||'''5'''|| [[Jiří Trnka (footballer)|Jiří Trnka]]
+|-
+|MF||'''14'''|| [[Jan Hertl]]
+|-
+|FW||'''7'''|| [[Ladislav Hlaváček]]
+|-
+|FW||'''8'''|| [[Otto Hemele]]
+|-
+|FW||'''15'''|| [[Ladislav Kačáni]]
+|-
+|FW||'''10'''|| [[Emil Pažický]]
+|-
+|FW||'''11'''|| [[Jiří Pešek]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|TCH}} [[Karol Borhy]] 
+|}
+{{col-end}}
+
+===Austria vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=3-2
+|date={{Start date|1954|6|16|df=y}}
+|time=18:00
+|team1={{fb-rt|AUT}}
+|score={{score link|1954 FIFA World Cup Group 3#Austria vs Scotland|1–0}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Erich Probst|Probst]] {{goal|33}}
+|goals2=
+|stadium=[[Hardturm|Hardturm Stadium]], [[Zürich]]
+|attendance=25,000
+|referee=Laurent Franken ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1236 |title=Austria vs Scotland {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1236/index.html |title=1954 FIFA World Cup Switzerland – Matches – Austria v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227073221/http://www.fifa.com/worldcup/matches/round=211/match=1236/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _vneck
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Austria
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collarwhite
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = 000066
+| body             = 000066
+| rightarm           = 000066
+| shorts             = ffffff
+| socks              = ffffff
+|title            =  Scotland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1'''||[[Kurt Schmied]]
+|-
+|DF ||'''2'''||[[Gerhard Hanappi]]
+|-
+|DF ||'''3'''||[[Ernst Happel]]
+|-
+|DF ||'''4''' ||[[Leopold Barschandt]]
+|-
+|MF ||'''5''' ||[[Ernst Ocwirk]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6''' ||[[Karl Koller (footballer)|Karl Koller]]
+|-
+|FW ||'''7'''||[[Robert Körner]]
+|-
+|FW ||'''8''' ||[[Walter Schleger]]
+|-
+|FW ||'''19'''||[[Robert Dienst]]
+|-
+|FW ||'''10''' ||[[Erich Probst]] 
+|-
+|FW ||'''11'''||[[Alfred Körner]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|AUT}} [[Walter Nausch]] 
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Fred Martin (footballer, born 1929)|Fred Martin]]
+|-
+|RB||'''2'''|| [[Willie Cunningham (footballer, born 1925)|Willie Cunningham]] ([[Captain (association football)|c]])
+|-
+|LB||'''3'''|| [[Jock Aird]]
+|-
+|RH||'''5'''|| [[Tommy Docherty]]
+|-
+|CH||'''6'''|| [[Jimmy Davidson (footballer, born 1925)|Jimmy Davidson]] 
+|-
+|LH||'''7'''|| [[Doug Cowie (footballer)|Doug Cowie]]
+|-
+|OR||'''8'''|| [[John Mackenzie (footballer)|John Mackenzie]]
+|-
+|IR||'''12'''|| [[Willie Fernie (footballer)|Willie Fernie]]
+|-
+|CF||'''11'''|| [[Neil Mochan]]
+|-
+|IL||'''10'''|| [[Allan Brown (footballer, born 1926)|Allan Brown]]
+|-
+|OL||'''13'''|| [[Willie Ormond]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Andy Beattie]] 
+|}
+{{col-end}}
+
+===Uruguay vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1954|6|19|df=y}}
+|time=16:50
+|team1={{fb-rt|URU}}
+|score={{score link|1954 FIFA World Cup Group 3#Uruguay vs Scotland|7–0}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Carlos Borges|Borges]] {{goal|17||47||57}}
+*[[Óscar Míguez|Míguez]] {{goal|30||83}}
+*[[Julio Abbadie|Abbadie]] {{goal|54||85}}
+|goals2=
+|stadium=[[St. Jakob Stadium]], [[Basel]]
+|attendance=34,000
+|referee=[[Vincenzo Orlandini]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1313 |title=Uruguay vs Scotland {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1313/index.html |title=1954 FIFA World Cup Switzerland – Matches – Uruguay v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227062626/http://www.fifa.com/worldcup/matches/round=211/match=1313/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  _whiteborder
+| pattern_b             = _vneckwhite
+| pattern_ra            = _whiteborder
+| pattern_sh            =
+| pattern_so            = _skybluetop
+| leftarm               = 99ccff
+| body                 =  99ccff
+| rightarm              = 99ccff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Uruguay
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collarwhite
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = 000066
+| body             = 000066
+| rightarm           = 000066
+| shorts             = ffffff
+| socks              = ff0000
+|title            =  Scotland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+| GK ||'''1'''|| [[Roque Máspoli]]
+|-
+| RB ||'''4'''|| [[Víctor Rodríguez Andrade|Rodríguez Andrade]]
+|-
+| CB ||'''2'''|| [[José Santamaría]]
+|-
+| CB ||'''3'''|| [[William Martínez (footballer)|William Martínez]]
+|-
+| LWB ||'''17'''|| [[Luis Cruz (Uruguayan footballer)|Luis Cruz]]
+|-
+| CH ||'''5'''|| [[Obdulio Varela]] ([[Captain (association football)|c]])
+|-
+| OR ||'''7'''|| [[Julio Abbadie]]
+|-
+| IR ||'''19'''|| [[Javier Ambrois]]
+|-
+| CF ||'''9'''|| [[Oscar Míguez]]
+|-
+| IL ||'''10'''|| [[Juan Alberto Schiaffino|Juan Schiaffino]]
+|-
+| OL ||'''11'''|| [[Carlos Borges]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|URU}} [[Juan López Fontana|Juan López]]
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Fred Martin (footballer, born 1929)|Fred Martin]]
+|-
+|RB||'''2'''|| [[Willie Cunningham (footballer, born 1925)|Willie Cunningham]] ([[Captain (association football)|c]])
+|-
+|LB||'''3'''|| [[Jock Aird]]
+|-
+|RH||'''5'''|| [[Tommy Docherty]]
+|-
+|CH||'''6'''|| [[Jimmy Davidson (footballer, born 1925)|Jimmy Davidson]] 
+|-
+|LH||'''7'''|| [[Doug Cowie (footballer)|Doug Cowie]]
+|-
+|OR||'''8'''|| [[John Mackenzie (footballer)|John Mackenzie]]
+|-
+|IR||'''12'''|| [[Willie Fernie (footballer)|Willie Fernie]]
+|-
+|CF||'''11'''|| [[Neil Mochan]]
+|-
+|IL||'''10'''|| [[Allan Brown (footballer, born 1926)|Allan Brown]]
+|-
+|OL||'''13'''|| [[Willie Ormond]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} Selection committee
+|}
+{{col-end}}
+
+===Austria vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1954|6|19|df=y}}
+|time=17:00
+|team1={{fb-rt|AUT}}
+|score={{score link|1954 FIFA World Cup Group 3#Austria vs Czechoslovakia|5–0}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Ernst Stojaspal|Stojaspal]] {{goal|3||65}}
+*[[Erich Probst|Probst]] {{goal|4||21||24}}
+|goals2=
+|stadium=[[Hardturm|Hardturm Stadium]], [[Zürich]]
+|attendance=26,000
+|referee=Vasa Stefanovic ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1238 |title=Austria vs Czechoslovakia {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1238/index.html |title=1954 FIFA World Cup Switzerland – Matches – Austria v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201083159/http://www.fifa.com/worldcup/matches/round=211/match=1238/index.html |archive-date=1 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _vneck
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Austria
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _cze54h
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _hoops_blue_red
+| leftarm           = ff0000
+| body             = ff0000
+| rightarm           = ff0000
+| shorts             = ffffff
+| socks              =  ffffff
+|title            =  Czechoslovakia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1'''||[[Kurt Schmied]]
+|-
+|DF ||'''2'''||[[Gerhard Hanappi]]
+|-
+|DF ||'''3'''||[[Ernst Happel]]
+|-
+|DF ||'''4''' ||[[Leopold Barschandt]]
+|-
+|MF ||'''5''' ||[[Ernst Ocwirk]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6''' ||[[Karl Koller (footballer)|Karl Koller]]
+|-
+|FW ||'''7'''||[[Robert Körner]]
+|-
+|FW ||'''9''' ||[[Theodor Wagner]]
+|-
+|FW ||'''21'''||[[Ernst Stojaspal]]
+|-
+|FW ||'''10''' ||[[Erich Probst]] 
+|-
+|FW ||'''11'''||[[Alfred Körner]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|AUT}} [[Walter Nausch]] 
+|}
+|
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''21'''|| [[Imrich Stacho]]
+|-
+|DF||'''2'''|| [[František Šafránek]] 
+|-
+|DF||'''3'''|| [[Svatopluk Pluskal]]
+|-
+|LB||'''4'''|| [[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+|MF||'''5'''|| [[Jiří Trnka (footballer)|Jiří Trnka]]
+|-
+|MF||'''14'''|| [[Jan Hertl]]
+|-
+|FW||'''7'''|| [[Ladislav Hlaváček]]
+|-
+|FW||'''8'''|| [[Otto Hemele]]
+|-
+|FW||'''15'''|| [[Ladislav Kačáni]]
+|-
+|FW||'''10'''|| [[Emil Pažický]]
+|-
+|FW||'''17'''|| [[Tadeáš Kraus]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|TCH}} [[Karol Borhy]] 
+|}
+{{col-end}}
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Czech Republic at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+*[[Slovakia at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1954switzerland 1954 FIFA World Cup archive]
+
+{{1954 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 3}}
+[[Category:1954 FIFA World Cup group stage|3]]
+[[Category:Scotland at the 1954 FIFA World Cup]]
+[[Category:Austria at the 1954 FIFA World Cup]]
+[[Category:Uruguay at the 1954 FIFA World Cup]]
+[[Category:Czechoslovakia at the 1954 FIFA World Cup]]
+[[Category:20th century in Bern]]
+[[Category:20th century in Zurich]]
+[[Category:20th century in Basel]]
+[[Category:Sports competitions in Bern]]
+[[Category:Sports competitions in Basel]]
+[[Category:Sports competitions in Zurich]]

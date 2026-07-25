@@ -1,0 +1,917 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group C of the [[2002 FIFA World Cup]]''' took place between 3 and 13 June 2002. The group consisted of eventual champions [[Brazil national football team|Brazil]], [[Turkey national football team|Turkey]], [[Costa Rica national football team|Costa Rica]], and [[China national football team|China]].<ref>{{cite web |last=Manaschev |first=Erlan |url=https://www.rsssf.org/tables/2002full.html |title=World Cup 2002 – Match Details |publisher=[[RSSSF]] |date=3 July 2008 |access-date=30 April 2026}}</ref> Brazil finished top of the group, winning all three matches, and advanced to the second round, alongside Turkey. Costa Rica were eliminated on goal difference, having shared the same number of points as Turkey, while China lost all three of their matches, failing to score a goal in any of them.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/4395?date=2002-06-14&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=BRA
+|team2=TUR
+|team3=CRC
+|team4=CHN
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2002 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_BRA=3 |draw_BRA=0 |loss_BRA=0 |gf_BRA=11 |ga_BRA=3
+|win_TUR=1 |draw_TUR=1 |loss_TUR=1 |gf_TUR=5 |ga_TUR=3
+|win_CRC=1 |draw_CRC=1 |loss_CRC=1 |gf_CRC=5 |ga_CRC=6
+|win_CHN=0 |draw_CHN=0 |loss_CHN=3 |gf_CHN=0 |ga_CHN=9
+
+|name_BRA={{fb|BRA}}
+|name_TUR={{fb|TUR}}
+|name_CRC={{fb|CRC}}
+|name_CHN={{fb|CHN}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2002 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+*Brazil advanced to play Belgium (runner-up of [[2002 FIFA World Cup Group H|Group H]]) in the [[2002 FIFA World Cup knockout stage#Brazil vs Belgium|round of 16]].
+*Turkey advanced to play Japan (winner of [[2002 FIFA World Cup Group H|Group H]]) in the [[2002 FIFA World Cup knockout stage#Japan vs Turkey|round of 16]].
+
+==Matches==
+''All times are local ([[Korea Standard Time|UTC+9]])''
+
+===Brazil vs Turkey===
+<onlyinclude>{{#invoke:Football box|main|section=C1
+|date={{Start date|2002|6|3|df=y}}
+|time=18:00
+|team1={{fb-rt|BRA}}
+|score={{score link|2002 FIFA World Cup Group C#Brazil vs Turkey|2–1}}
+|team2={{fb|TUR}}
+|goals1=
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|50}}
+*[[Rivaldo]] {{goal|87|pen.}}
+|goals2=
+*[[Hasan Şaş|Şaş]] {{goal|45+2}}
+|stadium=[[Ulsan Munsu Football Stadium|Munsu Football Stadium]], [[Ulsan]]
+|attendance=33,842
+|referee=Kim Young-joo ([[Korea Football Association|South Korea]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950010 |title=Brazil vs Turkey {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950010/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Brazil v Turkey |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218125043/http://www.fifa.com/worldcup/matches/round=43950100/match=43950010/index.html |archive-date=18 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/10_0603_ULS_BRA-TUR_Fulltime.pdf |title=Match Report – Group C – Brazil v Turkey |publisher=[[FIFA]] |date=3 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060216224038/http://fifaworldcup.yahoo.com/releases/10_0603_ULS_BRA-TUR_Fulltime.pdf |archive-date=16 February 2006}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _brasil2002
+ |pattern_b  = _bra02h
+ |pattern_ra = _brasil2002
+ |pattern_sh = _bra02h
+ |pattern_so = _bra02H
+ |leftarm    = FFDA00
+ |body       = FFDA00
+ |rightarm   = FFDA00
+ |shorts     = 003399
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = _tur02h
+ |pattern_b  = _tur02h
+ |pattern_ra = _tur02h
+ |pattern_sh = _adidaswhite2002
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FFFFFF
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Turkey
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcos Roberto Silveira Reis|Marcos]]
+|-
+|CB ||'''4''' ||[[Roque Júnior]]
+|-
+|CB ||'''3''' ||[[Lúcio]]
+|-
+|CB ||'''5''' ||[[Edmílson (footballer, born 1976)|Edmílson]]
+|-
+|RWB||'''2''' ||[[Cafu]] ([[Captain (association football)|c]])
+|-
+|LWB||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''8''' ||[[Gilberto Silva]]
+|-
+|CM ||'''19'''||[[Juninho Paulista]] || || {{suboff|72}}
+|-
+|RF ||'''11'''||[[Ronaldinho]] || || {{suboff|67}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]] || || {{suboff|73}}
+|-
+|LF ||'''10'''||[[Rivaldo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Denílson de Oliveira Araújo|Denílson]] || {{yel|73}} || {{subon|67}}
+|-
+|MF ||'''18'''||[[Vampeta]] || || {{subon|72}}
+|-
+|FW ||'''21'''||[[Luiz Bombonato Goulart|Luizão]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luiz Felipe Scolari]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rüştü Reçber]]
+|-
+|CB ||'''5''' ||[[Alpay Özalan]] || {{sent off|1|44|86}}
+|-
+|CB ||'''16'''||[[Ümit Özat]]
+|-
+|CB ||'''3''' ||[[Bülent Korkmaz]] || || {{suboff|66}}
+|-
+|RM ||'''4''' ||[[Fatih Akyel]] || {{yel|21}}
+|-
+|CM ||'''8''' ||[[Tugay Kerimoğlu]] || || {{suboff|88}}
+|-
+|LM ||'''20'''||[[Hakan Ünsal]] || {{sent off|2|24|90+4}}
+|-
+|RW ||'''21'''||[[Emre Belözoğlu]]
+|-
+|AM ||'''10'''||[[Yıldıray Baştürk]] || || {{suboff|66}}
+|-
+|LW ||'''11'''||[[Hasan Şaş]]
+|-
+|CF ||'''9''' ||[[Hakan Şükür]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[İlhan Mansız]] || || {{subon|66}}
+|-
+|MF ||'''22'''||[[Ümit Davala]] || || {{subon|66}}
+|-
+|FW ||'''6''' ||[[Arif Erdem]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Şenol Güneş]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Rivaldo]] (Brazil)
+
+'''Assistant referees:'''
+<br />Visva Krishnan ([[Football Association of Singapore|Singapore]])
+<br />Vladimir Fernández ([[Salvadoran Football Association|El Salvador]])
+<br />'''Fourth official:'''
+<br />[[Vítor Melo Pereira]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===China vs Costa Rica===
+<onlyinclude>{{#invoke:Football box|main|section=C2
+|date={{Start date|2002|6|4|df=y}}
+|time=15:30
+|team1={{fb-rt|CHN}}
+|score={{score link|2002 FIFA World Cup Group C#China vs Costa Rica|0–2}}
+|team2={{fb|CRC}}
+|goals1=
+|goals2=
+*[[Rónald Gómez|Gómez]] {{goal|61}}
+*[[Mauricio Wright|Wright]] {{goal|65}}
+|stadium=[[Guus Hiddink Stadium|Gwangju World Cup Stadium]], [[Gwangju]]
+|attendance=27,217
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950012 |title=China PR vs Costa Rica {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950012/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – China PR v Costa Rica |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171222214649/http://www.fifa.com/worldcup/matches/round=43950100/match=43950012/index.html |archive-date=22 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/12_0604_GWA_CHN-CRC_Fulltime.pdf |title=Match Report – Group C – China v Costa Rica |publisher=[[FIFA]] |date=4 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050514122411/http://fifaworldcup.yahoo.com/releases/12_0604_GWA_CHN-CRC_Fulltime.pdf |archive-date=14 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chn0204a
+ |pattern_b  = _chn02h
+ |pattern_ra = _chn0204a
+ |pattern_sh = _adidasonwhite2002
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = China
+}}
+|{{Football kit
+ |pattern_la = _costarica02h
+ |pattern_b  = _costarica02h
+ |pattern_ra = _costarica02h
+ |pattern_sh = _costarica02h
+ |pattern_so =
+ |leftarm    = 0033CC
+ |body       = FF0000
+ |rightarm   = 0033CC
+ |shorts     = 0033CC
+ |socks      = FF0000
+ |title      = Costa Rica
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Jiang Jin]]
+|-
+|RB ||'''21'''||[[Xu Yunlong]] || {{yel|72}}
+|-
+|CB ||'''5''' ||[[Fan Zhiyi]] || || {{suboff|74}}
+|-
+|CB ||'''14'''||[[Li Weifeng]]
+|-
+|LB ||'''4''' ||[[Wu Chengying]]
+|-
+|DM ||'''8''' ||[[Li Tie]] || {{yel|60}}
+|-
+|RM ||'''7''' ||[[Sun Jihai]] || || {{suboff|26}}
+|-
+|LM ||'''9''' ||[[Ma Mingyu]] ([[Captain (association football)|c]])
+|-
+|AM ||'''18'''||[[Li Xiaopeng (footballer)|Li Xiaopeng]] || {{yel|77}}
+|-
+|CF ||'''10'''||[[Hao Haidong]]
+|-
+|CF ||'''20'''||[[Yang Chen (footballer, born 1974)|Yang Chen]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''16'''||[[Qu Bo (footballer)|Qu Bo]] || || {{subon|26}}
+|-
+|FW ||'''12'''||[[Su Maozhen]] || || {{subon|66}}
+|-
+|MF ||'''11'''||[[Yu Genwei]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Erick Lonnis]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Luis Marín Murillo|Luis Marín]] || {{yel|15}}
+|-
+|CB ||'''4''' ||[[Mauricio Wright]]
+|-
+|CB ||'''5''' ||[[Gilberto Martínez]]
+|-
+|RM ||'''15'''||[[Harold Wallace]] || || {{suboff|70}}
+|-
+|CM ||'''8''' ||[[Mauricio Solís]] || {{yel|17}}
+|-
+|CM ||'''10'''||[[Walter Centeno]] || {{yel|85}}
+|-
+|CM ||'''11'''||[[Rónald Gómez]] || {{yel|79}}
+|-
+|LM ||'''22'''||[[Carlos Castro Mora|Carlos Castro]]
+|-
+|CF ||'''7''' ||[[Rolando Fonseca]] || || {{suboff|57}}
+|-
+|CF ||'''9''' ||[[Paulo Wanchope]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Hernán Medford]] || || {{subon|57}}
+|-
+|FW ||'''16'''||[[Steven Bryce]] || || {{subon|70}}
+|-
+|MF ||'''6''' ||[[Wilmer López]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alexandre Guimarães]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Rónald Gómez]] (Costa Rica)
+
+'''Assistant referees:'''
+<br />Carlos Mato ([[Portuguese Football Federation|Portugal]])
+<br />Jaap Pool ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Fourth official:'''
+<br />[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|}
+
+===Brazil vs China===
+<onlyinclude>{{#invoke:Football box|main|section=C3
+|date={{Start date|2002|6|8|df=y}}
+|time=20:30
+|team1={{fb-rt|BRA}}
+|score={{score link|2002 FIFA World Cup Group C#Brazil vs China|4–0}}
+|team2={{fb|CHN}}
+|goals1=
+*[[Roberto Carlos]] {{goal|15}}
+*[[Rivaldo]] {{goal|32}}
+*[[Ronaldinho]] {{goal|45|pen.}}
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|55}}
+|goals2=
+|stadium=[[Jeju World Cup Stadium]], [[Seogwipo]]
+|attendance=36,750
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950026 |title=Brazil vs China PR {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950026/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Brazil v China PR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223220001/http://www.fifa.com/worldcup/matches/round=43950100/match=43950026/index.html |archive-date=23 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/26_0608_SEG_BRA-CHN_Fulltime.pdf |title=Match Report – Group C – Brazil v China |publisher=[[FIFA]] |date=8 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060328031618/http://fifaworldcup.yahoo.com/releases/26_0608_SEG_BRA-CHN_Fulltime.pdf |archive-date=28 March 2006}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _brasil2002
+ |pattern_b  = _bra02h
+ |pattern_ra = _brasil2002
+ |pattern_sh = _bra02h
+ |pattern_so = _bra02H
+ |leftarm    = FFDA00
+ |body       = FFDA00
+ |rightarm   = FFDA00
+ |shorts     = 003399
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = _chn0204h
+ |pattern_b  = _china2002h
+ |pattern_ra = _chn0204h
+ |pattern_sh = _adidaswhite2002
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = China
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcos Roberto Silveira Reis|Marcos]]
+|-
+|CB ||'''3''' ||[[Lúcio]]
+|-
+|CB ||'''14'''||[[Ânderson Polga]]
+|-
+|CB ||'''4''' ||[[Roque Júnior]] || {{yel|69}}
+|-
+|RWB||'''2''' ||[[Cafu]] ([[Captain (association football)|c]])
+|-
+|LWB||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''19'''||[[Juninho Paulista]] || || {{suboff|70}}
+|-
+|CM ||'''8''' ||[[Gilberto Silva]]
+|-
+|RF ||'''10'''||[[Rivaldo]]
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]] || || {{suboff|72}}
+|-
+|LF ||'''11'''||[[Ronaldinho]] || {{yel|25}} || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Denílson de Oliveira Araújo|Denílson]] || || {{subon|46}}
+|-
+|MF ||'''7''' ||[[Ricardinho (footballer, born May 1976)|Ricardinho]] || || {{subon|70}}
+|-
+|FW ||'''20'''||[[Edílson]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luiz Felipe Scolari]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Jiang Jin]]
+|-
+|RB ||'''21'''||[[Xu Yunlong]]
+|-
+|CB ||'''17'''||[[Du Wei (footballer)|Du Wei]]
+|-
+|CB ||'''14'''||[[Li Weifeng]]
+|-
+|LB ||'''4''' ||[[Wu Chengying]]
+|-
+|CM ||'''8''' ||[[Li Tie]]
+|-
+|CM ||'''15'''||[[Zhao Junzhe]]
+|-
+|RM ||'''18'''||[[Li Xiaopeng (footballer)|Li Xiaopeng]]
+|-
+|LM ||'''9''' ||[[Ma Mingyu]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|AM ||'''19'''||[[Qi Hong]] || || {{suboff|66}}
+|-
+|CF ||'''10'''||[[Hao Haidong]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''3''' ||[[Yang Pu (footballer)|Yang Pu]] || || {{subon|62}}
+|-
+|MF ||'''6''' ||[[Shao Jiayi]] || || {{subon|66}}
+|-
+|FW ||'''16'''||[[Qu Bo (footballer)|Qu Bo]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Roberto Carlos (footballer)|Roberto Carlos]] (Brazil)
+
+'''Assistant referees:'''
+<br />Leif Lindberg ([[Swedish Football Association|Sweden]])
+<br />Bomer Fierro ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''Fourth official:'''
+<br />[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|}
+
+===Costa Rica vs Turkey===
+<onlyinclude>{{#invoke:Football box|main|section=C4
+|date={{Start date|2002|6|9|df=y}}
+|time=18:00
+|team1={{fb-rt|CRC}}
+|score={{score link|2002 FIFA World Cup Group C#Costa Rica vs Turkey|1–1}}
+|team2={{fb|TUR}}
+|goals1=
+*[[Winston Parks|Parks]] {{goal|86}}
+|goals2=
+*[[Emre Belözoğlu|Belözoğlu]] {{goal|56}}
+|stadium=[[Incheon Munhak Stadium|Incheon World Cup Stadium]], [[Incheon]]
+|attendance=42,299
+|referee=[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950028 |title=Costa Rica vs Turkey {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950028/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Costa Rica v Turkey |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223220152/http://www.fifa.com/worldcup/matches/round=43950100/match=43950028/index.html |archive-date=23 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/28_0609_INC_CRC-TUR_Fulltime.pdf |title=Match Report – Group C – Costa Rica v Turkey |publisher=[[FIFA]] |date=9 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040829050052/http://fifaworldcup.yahoo.com/releases/28_0609_INC_CRC-TUR_Fulltime.pdf |archive-date=29 August 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _costarica02h
+ |pattern_b  = _costarica02h
+ |pattern_ra = _costarica02h
+ |pattern_sh = _costarica02h
+ |pattern_so =
+ |leftarm    = 0033CC
+ |body       = FF0000
+ |rightarm   = 0033CC
+ |shorts     = 0033CC
+ |socks      = FFFFFF
+ |title      = Costa Rica
+}}
+|{{Football kit
+ |pattern_la = _esp02a
+ |pattern_b  = _tur02a
+ |pattern_ra = _esp02a
+ |pattern_sh = _adidasonwhite2002
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title        = Turkey
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Erick Lonnis]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Gilberto Martínez]] || {{yel|24}}
+|-
+|CB ||'''4''' ||[[Mauricio Wright]]
+|-
+|CB ||'''3''' ||[[Luis Marín Murillo|Luis Marín]]
+|-
+|RM ||'''15'''||[[Harold Wallace]] || || {{suboff|77}}
+|-
+|CM ||'''10'''||[[Walter Centeno]] || || {{suboff|66}}
+|-
+|CM ||'''8''' ||[[Mauricio Solís]]
+|-
+|CM ||'''6''' ||[[Wilmer López]] || || {{suboff|77}}
+|-
+|CM ||'''11'''||[[Rónald Gómez]]
+|-
+|LM ||'''22'''||[[Carlos Castro Mora|Carlos Castro]] || {{yel|43}}
+|-
+|CF ||'''9''' ||[[Paulo Wanchope]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Hernán Medford]] || || {{subon|66}}
+|-
+|MF ||'''12'''||[[Winston Parks]] || || {{subon|77}}
+|-
+|FW ||'''16'''||[[Steven Bryce]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alexandre Guimarães]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rüştü Reçber]]
+|-
+|CB ||'''16'''||[[Ümit Özat]]
+|-
+|CB ||'''2''' ||[[Emre Aşık]] || {{yel|20}}
+|-
+|CB ||'''18'''||[[Ergün Penbe]]
+|-
+|RM||'''4''' ||[[Fatih Akyel]]
+|-
+|CM ||'''8''' ||[[Tugay Kerimoğlu]] || {{yel|45}}|| {{suboff|88}}
+|-
+|LM ||'''21'''||[[Emre Belözoğlu]] || {{yel|89}}
+|-
+|RW ||'''22'''||[[Ümit Davala]]
+|-
+|AM ||'''10'''||[[Yıldıray Baştürk]] || || {{suboff|79}}
+|-
+|LW ||'''11'''||[[Hasan Şaş]]
+|-
+|CF ||'''9''' ||[[Hakan Şükür]] ([[Captain (association football)|c]]) || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[İlhan Mansız]] || || {{subon|75}}
+|-
+|FW ||'''15'''||[[Nihat Kahveci]] || || {{subon|79}}
+|-
+|FW ||'''6''' ||[[Arif Erdem]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Şenol Güneş]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Paulo Wanchope]] (Costa Rica)
+
+'''Assistant referees:'''
+<br />Dramane Danté ([[Malian Football Federation|Mali]])
+<br />Brighton Mudzamiri ([[Zimbabwe Football Association|Zimbabwe]])
+<br />'''Fourth official:'''
+<br />[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|}
+
+===Costa Rica vs Brazil===
+The opening goal for Brazil, a shot from [[Ronaldo (Brazilian footballer)|Ronaldo]] that deflected off Costa Rica's [[Luis Marín (footballer, born 1974)|Luis Marín]], was initially ruled as an own goal. However, after a protest by Ronaldo, FIFA's technical study group credited him with the goal instead.<ref>{{cite web |url=http://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/brazil/newsid_2044000/2044349.stm |title=Ronaldo wins goal protest |publisher=[[BBC Sport]] |date=14 June 2002 |access-date=2 May 2026}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=C5
+|date={{Start date|2002|6|13|df=y}}
+|time=15:30
+|team1={{fb-rt|CRC}}
+|score={{score link|2002 FIFA World Cup Group C#Costa Rica vs Brazil|2–5}}
+|team2={{fb|BRA}}
+|goals1=
+*[[Paulo Wanchope|Wanchope]] {{goal|39}}
+*[[Rónald Gómez|Gómez]] {{goal|56}}
+|goals2=
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|10||13}}
+*[[Edmílson (footballer, born 1976)|Edmílson]] {{goal|38}}
+*[[Rivaldo]] {{goal|62}}
+*[[Jenílson Ângelo de Souza|Júnior]] {{goal|64}}
+|stadium=[[Suwon World Cup Stadium]], [[Suwon]]
+|attendance=38,524
+|referee=[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950041 |title=Costa Rica vs Brazil {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950041/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Costa Rica v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227061311/http://www.fifa.com/worldcup/matches/round=43950100/match=43950041/index.html |archive-date=27 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/41_0613_SUW_CRC-BRA_Fulltime.pdf |title=Match Report – Group C – Costa Rica v Brazil |publisher=[[FIFA]] |date=13 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030409003104/http://fifaworldcup.yahoo.com/releases/41_0613_SUW_CRC-BRA_Fulltime.pdf |archive-date=9 April 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _costarica02h
+ |pattern_b  = _costarica02h
+ |pattern_ra = _costarica02h
+ |pattern_sh = _costarica02h
+ |pattern_so =
+ |leftarm    = 0033CC
+ |body       = FF0000
+ |rightarm   = 0033CC
+ |shorts     = 0033CC
+ |socks      = FFFFFF
+ |title      = Costa Rica
+}}
+|{{Football kit
+ |pattern_la = _brasil2002
+ |pattern_b  = _bra02h
+ |pattern_ra = _brasil2002
+ |pattern_sh = _bra02a
+ |pattern_so = _bra02A
+ |leftarm    = FFDA00
+ |body       = FFDA00
+ |rightarm   = FFDA00
+ |shorts     = FFFFFF
+ |socks      = 003399
+ |title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Erick Lonnis]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Gilberto Martínez]] || || {{suboff|74}}
+|-
+|CB ||'''4''' ||[[Mauricio Wright]]
+|-
+|CB ||'''3''' ||[[Luis Marín Murillo|Luis Marín]]
+|-
+|RM ||'''15'''||[[Harold Wallace]] || || {{suboff|46}}
+|-
+|CM ||'''8''' ||[[Mauricio Solís]] || || {{suboff|65}}
+|-
+|CM ||'''6''' ||[[Wilmer López]]
+|-
+|CM ||'''10'''||[[Walter Centeno]]
+|-
+|LM ||'''22'''||[[Carlos Castro Mora|Carlos Castro]]
+|-
+|CF ||'''9''' ||[[Paulo Wanchope]]
+|-
+|CF ||'''11'''||[[Rónald Gómez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''16'''||[[Steven Bryce]] || || {{subon|46}}
+|-
+|FW ||'''7''' ||[[Rolando Fonseca]] || || {{subon|65}}
+|-
+|MF ||'''12'''||[[Winston Parks]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alexandre Guimarães]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcos Roberto Silveira Reis|Marcos]]
+|-
+|CB ||'''3''' ||[[Lúcio]]
+|-
+|CB ||'''14'''||[[Ânderson Polga]]
+|-
+|CB ||'''5''' ||[[Edmílson (footballer, born 1976)|Edmílson]]
+|-
+|RWB||'''2''' ||[[Cafu]] ([[Captain (association football)|c]]) || {{yel|90+3}}
+|-
+|LWB||'''16'''||[[Jenílson Ângelo de Souza|Júnior]]
+|-
+|CM ||'''19'''||[[Juninho Paulista]] || || {{suboff|61}}
+|-
+|CM ||'''8''' ||[[Gilberto Silva]]
+|-
+|RF ||'''20'''||[[Edílson]] || || {{suboff|57}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|LF ||'''10'''||[[Rivaldo]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[José Kléberson|Kléberson]] || || {{subon|57}}
+|-
+|MF ||'''7''' ||[[Ricardinho (footballer, born May 1976)|Ricardinho]] || || {{subon|61}}
+|-
+|FW ||'''23'''||[[Kaká]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luiz Felipe Scolari]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jenílson Ângelo de Souza|Júnior]] (Brazil)
+
+'''Assistant referees:'''
+<br />Wagih Farag ([[Egyptian Football Association|Egypt]])
+<br />Egon Bereuter ([[Austrian Football Association|Austria]])
+<br />'''Fourth official:'''
+<br />[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|}
+
+===Turkey vs China===
+<onlyinclude>{{#invoke:Football box|main|section=C6
+|date={{Start date|2002|6|13|df=y}}
+|time=15:30
+|team1={{fb-rt|TUR}}
+|score={{score link|2002 FIFA World Cup Group C#Turkey vs China|3–0}}
+|team2={{fb|CHN}}
+|goals1=
+*[[Hasan Şaş|Şaş]] {{goal|6}}
+*[[Bülent Korkmaz|Korkmaz]] {{goal|9}}
+*[[Ümit Davala|Davala]] {{goal|85}}
+|goals2=
+|stadium=[[Seoul World Cup Stadium]], [[Seoul]]
+|attendance=43,605
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950042 |title=Turkey vs China PR {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950042/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Turkey v China PR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223215940/http://www.fifa.com/worldcup/matches/round=43950100/match=43950042/index.html |archive-date=23 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/42_0613_SEO_TUR-CHN_Fulltime.pdf |title=Match Report – Group C – Turkey v China |publisher=[[FIFA]] |date=13 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040829045033/http://fifaworldcup.yahoo.com/releases/42_0613_SEO_TUR-CHN_Fulltime.pdf |archive-date=29 August 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _tur02h
+ |pattern_b  = _tur02h
+ |pattern_ra = _tur02h
+ |pattern_sh = _adidaswhite2002
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FFFFFF
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Turkey
+}}
+|{{Football kit
+ |pattern_la = _chn0204a
+ |pattern_b  = _chn02h
+ |pattern_ra = _chn0204a
+ |pattern_sh = _adidasonwhite2002
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = China
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rüştü Reçber]] || || {{suboff|35}}
+|-
+|CB ||'''4''' ||[[Fatih Akyel]]
+|-
+|CB ||'''2''' ||[[Emre Aşık]] || {{yel|19}}
+|-
+|CB ||'''3''' ||[[Bülent Korkmaz]]
+|-
+|RM ||'''22'''||[[Ümit Davala]]
+|-
+|CM ||'''8''' ||[[Tugay Kerimoğlu]] || || {{suboff|84}}
+|-
+|LM ||'''20'''||[[Hakan Ünsal]]
+|-
+|RW ||'''10'''||[[Yıldıray Baştürk]] || || {{suboff|70}}
+|-
+|AM ||'''11'''||[[Hasan Şaş]] || {{yel|81}}
+|-
+|LW ||'''21'''||[[Emre Belözoğlu]] || {{yel|30}}
+|-
+|CF ||'''9''' ||[[Hakan Şükür]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Ömer Çatkıç]] || || {{subon|35}}
+|-
+|FW ||'''17'''||[[İlhan Mansız]] || || {{subon|70}}
+|-
+|MF ||'''14'''||[[Tayfur Havutçu]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Şenol Güneş]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Jiang Jin]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||[[Xu Yunlong]]
+|-
+|CB ||'''17'''||[[Du Wei (footballer)|Du Wei]]
+|-
+|CB ||'''14'''||[[Li Weifeng]] || {{yel|62}}
+|-
+|LB ||'''4''' ||[[Wu Chengying]] || || {{suboff|46}}
+|-
+|RM ||'''18'''||[[Li Xiaopeng (footballer)|Li Xiaopeng]]
+|-
+|CM ||'''8''' ||[[Li Tie]]
+|-
+|CM ||'''15'''||[[Zhao Junzhe]]
+|-
+|LM ||'''3''' ||[[Yang Pu (footballer)|Yang Pu]] || {{yel|45+1}}
+|-
+|CF ||'''10'''||[[Hao Haidong]] || || {{suboff|73}}
+|-
+|CF ||'''20'''||[[Yang Chen (footballer, born 1974)|Yang Chen]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Shao Jiayi]] || {{sent off|0|58}} || {{subon|46}}
+|-
+|MF ||'''11'''||[[Yu Genwei]] || || {{subon|73}}
+|-
+|FW ||'''16'''||[[Qu Bo (footballer)|Qu Bo]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Hasan Şaş]] (Turkey)
+
+'''Assistant referees:'''
+<br />Ali Tomusange ([[Federation of Uganda Football Associations|Uganda]])
+<br />Curtis Charles ([[Antigua and Barbuda Football Association|Antigua and Barbuda]])
+<br />'''Fourth official:'''
+<br />[[Byron Moreno]] ([[Ecuadorian Football Federation|Ecuador]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[China at the FIFA World Cup]]
+*[[Costa Rica at the FIFA World Cup]]
+*[[Turkey at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2002 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup - Group C}}
+[[Category:2002 FIFA World Cup group stage|C]]
+[[Category:Brazil at the 2002 FIFA World Cup|Group]]
+[[Category:Turkey at the 2002 FIFA World Cup|Group]]
+[[Category:China at the 2002 FIFA World Cup|Group]]
+[[Category:Costa Rica at the 2002 FIFA World Cup|Group]]
+[[Category:Sports competitions in Ulsan]]
+[[Category:Sports competitions in Gwangju]]
+[[Category:Seogwipo]]
+[[Category:Sport in Jeju Province]]
+[[Category:Sports competitions in Incheon]]
+[[Category:Sports competitions in Suwon]]
+[[Category:Football in Seoul]]
+[[Category:2000s in Seoul]]

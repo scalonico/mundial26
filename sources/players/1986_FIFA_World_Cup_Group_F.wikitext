@@ -1,0 +1,793 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group F of the 1986 FIFA World Cup''' was one of the groups of the [[1986 FIFA World Cup]]. The group's first round of matches began on 2 June and its last matches were played on 11 June. Most matches were played at the [[Estadio Universitario (UANL)|Estadio Universitario]] and the [[Estadio Tecnológico]] in [[Monterrey]].<ref>{{cite web |url=https://www.rsssf.org/tables/86full.html |title=World Cup 1986 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> After the first four matches yielded just two goals, locals dubbed it the "Group of Sleep".<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/international/england/3017725/England-pay-for-past-failures.html |archive-url=https://archive.today/20130421124609/http://www.telegraph.co.uk/sport/football/international/england/3017725/England-pay-for-past-failures.html |url-status=dead |archive-date=21 April 2013 |title=England pay for past failures |work=Daily Telegraph |date=28 November 2001 |access-date=3 December 2009 |quote=the Mexicans also gave a title to 1986's Group Six. England, Poland, Portugal and Morocco, the locals in Monterrey were fond of saying, was the `Group of Sleep'. }}</ref><ref>{{cite news |url=https://www.independent.co.uk/sport/football/internationals/lisbon-evokes-mixture-of-memories-733305.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/internationals/lisbon-evokes-mixture-of-memories-733305.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |title=Lisbon evokes mixture of memories |first=Tim |last=Rich |work=The Independent |date=24 June 2004 |access-date=3 December 2009 |quote=the dreadfully dull "Group of Sleep" }}{{cbignore}}</ref> [[Morocco national football team|Morocco]] surprisingly topped the group, joined in the second round by [[England national football team|England]] and [[Poland national football team|Poland]]. [[Portugal national football team|Portugal]] were the other team in this group, making their first appearance since 1966.
+
+Morocco drew their first two matches 0–0 against Poland and England, while Portugal defeated England in their opening match 1–0, but were themselves beaten by Poland by the same scoreline. England's match against Morocco featured their first sending-off in a World Cup, when [[Ray Wilkins]] was shown a red card after throwing the ball which struck the referee when an offside decision went against England. Thus, Poland led the group after two games, with Portugal in second place on goals scored. However, England defeated Poland 3–0 with a first half hat-trick from [[Gary Lineker]] to take second place behind Morocco, who beat Portugal 3–1 with goals from [[Abderrazak Khairi]] and [[Abdelkrim Merry]]. Poland, in third, only qualified for the second round as one of the four best third-place finishers.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/mexico1986/groups/index.html FIFA]
+
+|team1=MAR |team2=ENG |team3=POL |team4=POR
+|result1=KO |result2=KO |result3=KO
+
+|win_MAR=1 |draw_MAR=2 |loss_MAR=0 |gf_MAR=3 |ga_MAR=1
+|win_ENG=1 |draw_ENG=1 |loss_ENG=1 |gf_ENG=3 |ga_ENG=1
+|win_POL=1 |draw_POL=1 |loss_POL=1 |gf_POL=1 |ga_POL=3
+|win_POR=1 |draw_POR=0 |loss_POR=2 |gf_POR=2 |ga_POR=4
+
+|name_POL={{fb|POL}}
+|name_ENG={{fb|ENG}}
+|name_POR={{fb|POR}}
+|name_MAR={{fb|MAR}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1986 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Morocco vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=F1
+|date={{Start date|1986|6|2|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|MAR}}
+|score={{score link|1986 FIFA World Cup Group F#Morocco vs Poland|0–0}}
+|team2={{fb|POL}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=19,900
+|referee=[[José Luis Martínez Bazán]] ([[Asociación Uruguaya de Fútbol|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/674 |title=Morocco vs Poland {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=674/index.html |title=1986 FIFA World Cup Mexico – Matches – Morocco v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211234238/http://www.fifa.com/worldcup/matches/round=308/match=674/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _mar86a
+ | pattern_b  = _mar86a
+ | pattern_ra = _mar86a
+ | pattern_sh = _mar86a
+ | pattern_so = _3_stripes_white
+ | leftarm    = 00A000
+ | body       = 00A000
+ | rightarm   = 00A000
+ | shorts     = 00A000
+ | socks      = 008000
+ | title      = Morocco 
+}}
+|{{Football kit
+  | pattern_la    = _pol86h1
+  | pattern_b     = _pol86h1
+  | pattern_ra    = _pol86h1
+  | pattern_sh    = _ussr86a
+  | pattern_so    = _ussr86a
+  | leftarm       = FFFFFF
+  | body          = FFFFFF
+  | rightarm      = FFFFFF
+  | shorts        = FFFFFF
+ | title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Badou Zaki]] ([[Captain (association football)|c]])
+|-
+|LB || '''2''' || [[Labid Khalifa]]
+|-
+|CB || '''3''' || [[Abdelmajid Lamriss]]
+|-
+|RB || '''4''' || [[Mustafa El Biyaz]]
+|-
+|CB || '''5''' || [[Noureddine Bouyahyaoui]]
+|-
+|DM || '''6''' || [[Abdelmajid Dolmy]]
+|-
+|CM || '''7''' || [[Mustafa El Haddaoui]] || || {{suboff|87}}
+|-
+|CM || '''8''' || [[Aziz Bouderbala]]
+|-
+|CF || '''9''' || [[Abdelkrim Merry]]
+|-
+|LW || '''10''' || [[Mohammed Timoumi]] || {{yel|33}} || {{suboff|88}}
+|-
+|RW || '''11''' || [[Mustafa Merry]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''21''' || [[Abdelaziz Souleimani]] || || {{subon|87}}
+|-
+|FW || '''17''' || [[Abderrazak Khairi]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BRA}} [[José Faria]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Józef Młynarczyk]]
+|-
+|RB || '''14''' || [[Dariusz Kubicki]] || || {{suboff|46}}
+|-
+|CB || '''5''' || [[Roman Wójcicki]]
+|-
+|CB || '''10''' || [[Stefan Majewski]]
+|-
+|LB || '''4''' || [[Marek Ostrowski]]
+|-
+|DM || '''6''' || [[Waldemar Matysik]]
+|-
+|RM || '''13''' || [[Ryszard Komornicki]]
+|-
+|CM || '''15''' || [[Andrzej Buncol]]
+|-
+|CM || '''20''' || [[Zbigniew Boniek]] ([[Captain (association football)|c]])
+|-
+|LM || '''11''' || [[Włodzimierz Smolarek]]
+|-
+|CF || '''21''' || [[Dariusz Dziekanowski]] || || {{suboff|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''2''' || [[Kazimierz Przybyś]] || || {{subon|46}}
+|-
+|FW || '''8''' || [[Jan Urban]] || || {{subon|56}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|POL}} [[Antoni Piechniczek]]
+|}
+|}
+
+===Portugal vs England===
+<onlyinclude>{{#invoke:Football box|main|section=F2
+|date={{Start date|1986|6|3|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|POR}}
+|score={{score link|1986 FIFA World Cup Group F#Portugal vs England|1–0}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Carlos Manuel]] {{goal|75}}
+|goals2=
+|stadium=[[Estadio Tecnológico]], [[Monterrey]]
+|attendance=23,000
+|referee=[[Volker Roth]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/538 |title=Portugal vs England {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=538/index.html |title=1986 FIFA World Cup Mexico – Matches – Portugal v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218051727/http://www.fifa.com/worldcup/matches/round=308/match=538/index.html |archive-date=18 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+  |pattern_ra    = _bul86a
+  |pattern_b     = _por86h1
+  |pattern_la    = _bul86a
+  |pattern_sh    = _bul86h
+  |pattern_so    = _por86h1
+  |leftarm       = FFFFFF
+  |body          = FFFFFF
+  |rightarm      = FFFFFF
+  |shorts        = FFFFFF
+  |socks         = E61414
+ |title      = Portugal
+}}
+|{{Football kit
+ | pattern_la = _eng86h
+ | pattern_b  = _eng86H
+ | pattern_ra = _eng86h
+ | pattern_sh = _eng86h
+ | pattern_so = _eng86h
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 000080
+ | socks      = ffffff
+ | title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Manuel Bento]] ([[Captain (association football)|c]])
+|-
+|RB || '''5''' || [[Álvaro Magalhães|Álvaro]]
+|-
+|CB || '''8''' || [[Frederico Rosa|Frederico]]
+|-
+|CB || '''15''' || [[António Henriques Jesus Oliveira|António Oliveira]]
+|-
+|LB || '''20''' || [[Augusto Inácio]]
+|-
+|RM || '''17''' || [[Diamantino Miranda|Diamantino]] || || {{suboff|82}}
+|-
+|CM || '''21''' || [[António André]]
+|-
+|CM || '''7''' || [[Jaime Pacheco]] || {{yel|88}}
+|-
+|LM || '''3''' || [[António Sousa]]
+|-
+|AM || '''6''' || [[Carlos Manuel]]
+|-
+|CF || '''9''' || [[Fernando Gomes (Portuguese footballer)|Fernando Gomes]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''10''' || [[Paulo Futre]] || || {{subon|73}}
+|-
+|DF || '''16''' || [[José António Bargiela|José António]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|POR}} [[José Augusto Torres|José Torres]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Peter Shilton]]
+|-
+|RB || '''2''' || [[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|CB || '''14''' || [[Terry Fenwick]] || {{yel|17}}
+|-
+|CB || '''6''' || [[Terry Butcher]] || {{yel|78}}
+|-
+|LB || '''3''' || [[Kenny Sansom]]
+|-
+|CM || '''4''' || [[Glenn Hoddle]]
+|-
+|CM || '''8''' || [[Ray Wilkins]]
+|-
+|CM || '''7''' || [[Bryan Robson]] ([[Captain (association football)|c]]) || || {{suboff|80}}
+|-
+|LW || '''11''' || [[Chris Waddle]] || || {{suboff|80}}
+|-
+|CF || '''10''' || [[Gary Lineker]]
+|-
+|CF || '''9''' || [[Mark Hateley]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''18''' || [[Steve Hodge]] || || {{subon|80}}
+|-
+|FW || '''20''' || [[Peter Beardsley]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ENG}} [[Bobby Robson]]
+|}
+|}
+
+===England vs Morocco===
+<onlyinclude>{{#invoke:Football box|main|section=F3
+|date={{Start date|1986|6|6|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1986 FIFA World Cup Group F#England vs Morocco|0–0}}
+|team2={{fb|MAR}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Tecnológico]], [[Monterrey]]
+|attendance=20,200
+|referee=[[Gabriel González (referee)|Gabriel González]] ([[Asociación Paraguaya de Fútbol|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/533 |title=England vs Morocco {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=533/index.html |title=1986 FIFA World Cup Mexico – Matches – England v Morocco |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724230819/http://www.fifa.com/worldcup/matches/round=308/match=533/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _eng86h
+ | pattern_b  = _eng86H
+ | pattern_ra = _eng86h
+ | pattern_sh = _eng86h
+ | pattern_so = _eng86h
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 000080
+ | socks      = ffffff
+ | title      = England
+}}
+|{{Football kit
+ | pattern_la = _mar86h
+ | pattern_b  = _mar86h
+ | pattern_ra = _mar86h
+ | pattern_sh = _mar86h
+ | pattern_so = _color_3_stripes_green
+ | leftarm    = EE0000
+ | body       = EE0000
+ | rightarm   = EE0000
+ | shorts     = EE0000
+ | socks      = EE0000
+ | title      = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Peter Shilton]]
+|-
+|RB || '''2''' || [[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|CB || '''6''' || [[Terry Butcher]]
+|-
+|CB || '''14''' || [[Terry Fenwick]]
+|-
+|LB || '''3''' || [[Kenny Sansom]]
+|-
+|CM || '''4''' || [[Glenn Hoddle]]
+|-
+|CM || '''8''' || [[Ray Wilkins]] || {{sent off|1|40|42}}
+|-
+|CM || '''7''' || [[Bryan Robson]] ([[Captain (association football)|c]]) || || {{suboff|41}}
+|-
+|LW || '''11''' || [[Chris Waddle]]
+|-
+|CF || '''9''' || [[Mark Hateley]] || {{yel|69}} ||{{suboff|76}}
+|-
+|CF || '''10''' || [[Gary Lineker]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''18''' || [[Steve Hodge]] || || {{subon|41}}
+|-
+|DF || '''15''' || [[Gary Stevens (footballer, born 1962)|Gary A. Stevens]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ENG}} [[Bobby Robson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Badou Zaki]] ([[Captain (association football)|c]])
+|-
+|RB || '''2''' || [[Labid Khalifa]] || {{yel|50}}
+|-
+|CB || '''4''' || [[Mustafa El Biyaz]]
+|-
+|CB || '''5''' || [[Noureddine Bouyahyaoui]]
+|-
+|LB || '''3''' || [[Abdelmajid Lamriss]] || || {{suboff|73}}
+|-
+|CM || '''6''' || [[Abdelmajid Dolmy]]
+|-
+|CM || '''10''' || [[Mohammed Timoumi]]
+|-
+|CM || '''17''' || [[Abderrazak Khairi]] || {{yel|76}}
+|-
+|RW || '''8''' || [[Aziz Bouderbala]]
+|-
+|CF || '''9''' || [[Abdelkrim Merry]]
+|-
+|LW || '''11''' || [[Mustafa Merry]] || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''14''' || [[Lahcen Ouadani]] || || {{subon|73}}
+|-
+|MF || '''21''' || [[Abdelaziz Souleimani]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BRA}} [[José Faria]]
+|}
+|}
+
+===Poland vs Portugal===
+<onlyinclude>{{#invoke:Football box|main|section=F4
+|date={{Start date|1986|6|7|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|POL}}
+|score={{score link|1986 FIFA World Cup Group F#Poland vs Portugal|1–0}}
+|team2={{fb|POR}}
+|goals1=
+*[[Włodzimierz Smolarek|Smolarek]] {{goal|68}}
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=19,915
+|referee=[[Ali Bin Nasser]] ([[Tunisian Football Federation|Tunisia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/701 |title=Poland vs Portugal {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=701/index.html |title=1986 FIFA World Cup Mexico – Matches – Poland v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229063006/http://www.fifa.com/worldcup/matches/round=308/match=701/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _pol86h1
+ | pattern_b  = _pol86h1
+ | pattern_ra = _pol86h1
+ | pattern_sh = _por86a1
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Poland
+}}
+|{{Football kit
+  |pattern_ra    = _bul86a
+  |pattern_b     = _por86h1
+  |pattern_la    = _bul86a
+  |pattern_sh    = _bul86h
+  |pattern_so    = _por86h1
+  |leftarm       = FFFFFF
+  |body          = FFFFFF
+  |rightarm      = FFFFFF
+  |shorts        = FFFFFF
+  |socks         = E61414
+ | title      = Portugal
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Józef Młynarczyk]]
+|-
+|DF || '''4''' || [[Marek Ostrowski]]
+|-
+|DF || '''5''' || [[Roman Wójcicki]] || {{yel|46}}
+|-
+|DF || '''10''' || [[Stefan Majewski]]
+|-
+|DF || '''18''' || [[Krzysztof Pawlak]]
+|-
+|MF || '''6''' || [[Waldemar Matysik]]
+|-
+|MF || '''11''' || [[Włodzimierz Smolarek]] || || {{suboff|74}}
+|-
+|MF || '''13''' || [[Ryszard Komornicki]] || || {{suboff|57}}
+|-
+|MF || '''20''' || [[Zbigniew Boniek]] ([[Captain (association football)|c]])
+|-
+|FW || '''8''' || [[Jan Urban]]
+|-
+|FW || '''21''' || [[Dariusz Dziekanowski]] || {{yel|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''9''' || [[Jan Karaś]] || || {{subon|57}}
+|-
+|FW || '''17''' || [[Andrzej Zgutczyński]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|POL}} [[Antoni Piechniczek]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''22''' || [[Vítor Damas]]
+|-
+|DF || '''5''' || [[Álvaro Magalhães|Álvaro]]
+|-
+|DF || '''15''' || [[António Henriques Jesus Oliveira|António Oliveira]]
+|-
+|DF || '''8''' || [[Frederico Rosa|Frederico]]
+|-
+|DF || '''20''' || [[Augusto Inácio]]
+|-
+|MF || '''7''' || [[Jaime Pacheco]]
+|-
+|MF || '''21''' || [[António André]] || || {{suboff|72}}
+|-
+|MF || '''3''' || [[António Sousa]]
+|-
+|MF || '''6''' || [[Carlos Manuel]]
+|-
+|FW || '''17''' || [[Diamantino Miranda|Diamantino]]
+|-
+|FW || '''9''' || [[Fernando Gomes (Portuguese footballer)|Fernando Gomes]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''10''' || [[Paulo Futre]] || || {{subon|46}}
+|-
+|MF || '''14''' || [[Jaime Magalhães]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|POR}} [[José Augusto Torres|José Torres]]
+|}
+|}
+
+===England vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=F5
+|date={{Start date|1986|6|11|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1986 FIFA World Cup Group F#England vs Poland|3–0}}
+|team2={{fb|POL}}
+|goals1=
+*[[Gary Lineker|Lineker]] {{goal|8||14||36}}
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=22,700
+|referee=[[André Daina]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/537 |title=England vs Poland {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=537/index.html |title=1986 FIFA World Cup Mexico – Matches – England v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218040019/http://www.fifa.com/worldcup/matches/round=308/match=537/index.html |archive-date=18 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _eng86h
+ | pattern_b  = _eng86H
+ | pattern_ra = _eng86h
+ | pattern_sh = _eng86h
+ | pattern_so = _eng86h
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 000080
+ | socks      = ffffff
+ | title      = England
+}}
+|{{Football kit
+| pattern_la            = _ussr86h
+| pattern_b             = _pol86a1
+| pattern_ra            = _ussr86h
+| pattern_sh            = _por86a1
+| pattern_so            = _pol86a1
+| leftarm               = F20000
+| body                  = F20000
+| rightarm              = F20000
+| shorts                = FFFFFF
+| socks                 = F20000
+| title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Peter Shilton]] ([[Captain (association football)|c]])
+|-
+|RB || '''2''' || [[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|CB || '''6''' || [[Terry Butcher]]
+|-
+|CB || '''14''' || [[Terry Fenwick]] || {{yel|52}}
+|-
+|LB || '''3''' || [[Kenny Sansom]]
+|-
+|RM || '''17''' || [[Trevor Steven]]
+|-
+|CM || '''16''' || [[Peter Reid]]
+|-
+|CM || '''4''' || [[Glenn Hoddle]]
+|-
+|LM || '''18''' || [[Steve Hodge]]
+|-
+|SS || '''20''' || [[Peter Beardsley]] || || {{suboff|75}}
+|-
+|CF || '''10''' || [[Gary Lineker]] || ||{{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''11''' || [[Chris Waddle]] || || {{subon|75}}
+|-
+|FW || '''21''' || [[Kerry Dixon]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ENG}} [[Bobby Robson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Józef Młynarczyk]]
+|-
+|RB || '''18''' || [[Krzysztof Pawlak]]
+|-
+|CB || '''5''' || [[Roman Wójcicki]]
+|-
+|CB || '''10''' || [[Stefan Majewski]]
+|-
+|LB || '''4''' || [[Marek Ostrowski]]
+|-
+|DM || '''6''' || [[Waldemar Matysik]] || || {{suboff|46}}
+|-
+|RM || '''13''' || [[Ryszard Komornicki]] || || {{suboff|22}}
+|-
+|CM || '''20''' || [[Zbigniew Boniek]] ([[Captain (association football)|c]])
+|-
+|LM || '''11''' || [[Włodzimierz Smolarek]]
+|-
+|CF || '''21''' || [[Dariusz Dziekanowski]]
+|-
+|CF || '''8''' || [[Jan Urban]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''9''' || [[Jan Karaś]] || || {{subon|22}}
+|-
+|MF || '''15''' || [[Andrzej Buncol]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|POL}} [[Antoni Piechniczek]]
+|}
+|}
+
+===Portugal vs Morocco===
+<onlyinclude>{{#invoke:Football box|main|section=F6
+|date={{Start date|1986|6|11|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|POR}}
+|score={{score link|1986 FIFA World Cup Group F#Portugal vs Morocco|1–3}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Diamantino Miranda|Diamantino]] {{goal|80}}
+|goals2=
+*[[Abderrazak Khairi|Khairi]] {{goal|19||27}}
+*[[Abdelkrim Merry|A. Merry]] {{goal|62}}
+|stadium=[[Estadio Tres de Marzo]], [[Zapopan, Jalisco|Zapopan]]
+|attendance=28,000
+|referee=[[Alan Snoddy]] ([[Irish Football Association|Northern&nbsp;Ireland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/675 |title=Portugal vs Morocco {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=675/index.html |title=1986 FIFA World Cup Mexico – Matches – Portugal v Morocco |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228100028/http://www.fifa.com/worldcup/matches/round=308/match=675/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _ussr86a
+| pattern_b             = _por86a1
+| pattern_ra            = _ussr86a
+| pattern_sh            = _por86a1
+| pattern_so            = _color_3_stripes_red
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+| title      = Portugal
+}}
+|{{Football kit
+ | pattern_la = _mar86h
+ | pattern_b  = _mar86h
+ | pattern_ra = _mar86h
+ | pattern_sh = _mar86h
+ | pattern_so = _color_3_stripes_green
+ | leftarm    = EE0000
+ | body       = EE0000
+ | rightarm   = EE0000
+ | shorts     = EE0000
+ | socks      = EE0000
+ | title      = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''22''' || [[Vítor Damas]]
+|-
+|DF || '''5''' || [[Álvaro Magalhães|Álvaro]] || || {{suboff|55}}
+|-
+|DF || '''15''' || [[António Henriques Jesus Oliveira|António Oliveira]]
+|-
+|DF || '''8''' || [[Frederico Rosa|Frederico]]
+|-
+|DF || '''20''' || [[Augusto Inácio]]
+|-
+|MF || '''7''' || [[Jaime Pacheco]]
+|-
+|MF || '''3''' || [[António Sousa]] || || {{suboff|69}}
+|-
+|MF || '''10''' || [[Paulo Futre]]
+|-
+|MF || '''14''' || [[Jaime Magalhães]]
+|-
+|MF || '''6''' || [[Carlos Manuel]]
+|-
+|FW || '''9''' || [[Fernando Gomes (Portuguese footballer)|Fernando Gomes]] ([[Captain (association football)|c]]) || {{yel|59}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''19''' || [[Rui Águas (footballer)|Rui Águas]] || || {{subon|55}}
+|-
+|FW || '''17''' || [[Diamantino Miranda|Diamantino]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|POR}} [[José Augusto Torres|José Torres]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Badou Zaki]] ([[Captain (association football)|c]])
+|-
+|LB || '''2''' || [[Labid Khalifa]]
+|-
+|CB || '''3''' || [[Abdelmajid Lamriss]]
+|-
+|RB || '''4''' || [[Mustafa El Biyaz]]
+|-
+|CB || '''5''' || [[Noureddine Bouyahyaoui]]
+|-
+|DM || '''6''' || [[Abdelmajid Dolmy]]
+|-
+|LM || '''7''' || [[Mustafa El Haddaoui]] || || {{suboff|71}}
+|-
+|CM || '''8''' || [[Aziz Bouderbala]]
+|-
+|CF || '''9''' || [[Abdelkrim Merry]]
+|-
+|SS || '''10''' || [[Mohammed Timoumi]]
+|-
+|RM || '''17''' || [[Abderrazak Khairi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''21''' || [[Abdelaziz Souleimani]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BRA}} [[José Faria]]
+|}
+|}
+
+==See also==
+*[[England at the FIFA World Cup]]
+*[[Morocco at the FIFA World Cup]]
+*[[Poland at the FIFA World Cup]]
+*[[Portugal at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1986 FIFA World Cup}}
+
+{{DEFAULTSORT:Group F}}
+[[Category:1986 FIFA World Cup group stage|F]]
+[[Category:England at the 1986 FIFA World Cup|group]]
+[[Category:Poland at the 1986 FIFA World Cup]]
+[[Category:Morocco at the 1986 FIFA World Cup|Group]]
+[[Category:Portugal at the 1986 FIFA World Cup]]
+[[Category:Sport in Monterrey]]
+[[Category:Football in Nuevo León]]
+[[Category:20th century in Monterrey]]
+[[Category:Zapopan]]
+[[Category:Football in Jalisco]]
+[[Category:Sport in San Nicolás de los Garza]]

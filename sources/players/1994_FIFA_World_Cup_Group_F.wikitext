@@ -1,0 +1,869 @@
+{{Short description|Football tournament group stage}}
+{{Use mdy dates|date=April 2026}}
+{{Use American English|date=April 2024}}
+'''Group F of the 1994 FIFA World Cup''' was one of six groups of four teams competing at the [[1994 FIFA World Cup|1994 World Cup]] in the United States. The first match was played June 19, 1994, and the final games took place simultaneously on June 29, 1994.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|archive-url=https://web.archive.org/web/20131220184449/http://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|url-status=dead|archive-date=December 20, 2013|title=1994 FIFA World Cup USA|publisher=fifa.com|accessdate=July 31, 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/94full.html|title=World Cup 1994|website=[[RSSSF]]|accessdate=July 31, 2014}}</ref>
+
+The group consisted of [[Belgium national football team|Belgium]], [[Morocco national football team|Morocco]], [[Netherlands national football team|Netherlands]], and [[Saudi Arabia national football team|Saudi Arabia]]. Netherlands won the group, Saudi Arabia finished second, and Belgium qualified as one of the best third-placed teams. Saudi Arabia became the first Asian team to beat a side from Africa in the competition's history.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/usa1994/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=NED
+|team2=KSA
+|team3=BEL
+|team4=MAR
+|hth_NED=Head-to-head result: Netherlands 2–1 Saudi Arabia. |hth_KSA=NED
+
+|result1=KO
+|result2=KO
+|result3=KO
+
+|win_NED=2 |draw_NED=0 |loss_NED=1 |gf_NED=4 |ga_NED=3
+|win_KSA=2 |draw_KSA=0 |loss_KSA=1 |gf_KSA=4 |ga_KSA=3
+|win_BEL=2 |draw_BEL=0 |loss_BEL=1 |gf_BEL=2 |ga_BEL=1
+|win_MAR=0 |draw_MAR=0 |loss_MAR=3 |gf_MAR=2 |ga_MAR=5
+
+|name_NED={{fb|NED}}
+|name_KSA={{fb|KSA}}
+|name_BEL={{fb|BEL}}
+|name_MAR={{fb|MAR}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1994 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times local ([[Eastern Time Zone|EDT]]/[[UTC−04:00|UTC–4]], [[Central Time Zone (North America)|CDT]]/[[UTC−05:00|UTC–5]], [[Pacific Time Zone|PDT]]/[[UTC−07:00|UTC–7]])''
+
+===Belgium vs Morocco===
+<onlyinclude>{{#invoke:Football box|main|section=F1
+|date={{Start date|1994|6|19}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|BEL}}
+|score={{score link|1994 FIFA World Cup Group F#Belgium vs Morocco|1–0}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Marc Degryse|Degryse]] {{goal|11}}
+|goals2=
+|stadium=[[Citrus Bowl (stadium)|Citrus Bowl]], [[Orlando, Florida|Orlando]]
+|attendance=61,219
+|referee=[[José Torres Cadena]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3054 |title=Belgium vs Morocco {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3054/index.html |title=1994 FIFA World Cup USA – Matches – Belgium v Morocco |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228230522/http://www.fifa.com/worldcup/matches/round=337/match=3054/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1994a
+ | pattern_b  = _belgium1994a
+ | pattern_ra = _belgium1994a
+ | pattern_so = _belgium1994a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Belgium
+}}
+|{{Football kit
+ |pattern_la = _mar94h
+ |pattern_b  = _mar94h
+ |pattern_ra = _mar94h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FF0000
+ | title     = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Michel Preud'homme]]
+|-
+|DF ||'''13''' ||[[Georges Grün]] ([[Captain (association football)|c]]) || {{yel|81}}
+|-
+|DF ||'''14''' ||[[Michel De Wolf]]
+|-
+|DF ||'''5''' ||[[Rudi Smidts]]
+|-
+|MF ||'''6''' ||[[Lorenzo Staelens]]
+|-
+|MF ||'''7''' ||[[Franky Van der Elst]]
+|-
+|MF ||'''10''' ||[[Enzo Scifo]]
+|-
+|MF ||'''16'''||[[Danny Boffin]] || || {{suboff|85}}
+|-
+|FW ||'''8''' ||[[Luc Nilis]] || || {{suboff|54}}
+|-
+|FW ||'''9''' ||[[Marc Degryse]]
+|-
+|FW ||'''17'''||[[Josip Weber]] || {{yel|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Marc Emmers]] || || {{subon|54}}
+|-
+|DF ||'''3'''||[[Vital Borkelmans]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Paul Van Himst]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Khalil Azmi]] || || {{suboff|89}}
+|-
+|DF ||'''2''' ||[[Nacer Abdellah]]
+|-
+|DF ||'''5''' ||[[Smahi Triki]]
+|-
+|DF ||'''6''' ||[[Noureddine Naybet]] || {{yel|23}}
+|-
+|DF ||'''3''' ||[[Abdelkrim El Hadrioui]]
+|-
+|MF ||'''8''' ||[[Rachid Azzouzi]] || {{yel|89}}
+|-
+|MF ||'''15'''||[[El Arbi Hababi]]
+|-
+|MF ||'''10'''||[[Mustafa El Haddaoui]] ([[Captain (association football)|c]]) || || {{suboff|69}}
+|-
+|MF ||'''11'''||[[Rachid Daoudi]] || {{yel|26}}<ref>Mistake in FIFA report. Daoudi received his yellow card 13 minutes later, in the 39th minute of the game. [https://footballia.net/matches/belgium-morocco See the footage of the match].</ref>
+|-
+|MF ||'''7''' ||[[Mustapha Hadji]]
+|-
+|FW ||'''9''' ||[[Mohammed Chaouch]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13''' ||[[Ahmed Bahja]] || || {{subon|69}}
+|-
+|MF ||'''21'''||[[Mohamed Samadi]] || || {{subon|82}}
+|-
+|GK ||'''22'''||[[Zakaria Alaoui]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Abdellah Blinda]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Raimundo Calix Garcia ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />[[Tapio Yli-Karro]] ([[Football Association of Finland|Finland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Leslie Mottram]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Netherlands vs Saudi Arabia===
+<onlyinclude>{{#invoke:Football box|main|section=F2
+|date={{Start date|1994|6|20}}
+|time=7:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|NED}}
+|score={{score link|1994 FIFA World Cup Group F#Netherlands vs Saudi Arabia|2–1}}
+|team2={{fb|KSA}}
+|goals1=
+*[[Wim Jonk|Jonk]] {{goal|50}}
+*[[Gaston Taument|Taument]] {{goal|86}}
+|goals2=
+*[[Fuad Anwar|Anwar]] {{goal|18}}
+|stadium=[[Robert F. Kennedy Memorial Stadium|RFK Stadium]], [[Washington, D.C.]]
+|attendance=50,535
+|referee=[[Manuel Díaz Vega]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3058 |title=Netherlands vs Saudi Arabia {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3058/index.html |title=1994 FIFA World Cup USA – Matches – Netherlands v Saudi Arabia |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031030324/http://www.fifa.com/worldcup/matches/round=337/match=3058/index.html |archive-date=October 31, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1994h
+ | pattern_b  = _netherlands1994h
+ | pattern_ra = _netherlands1994h
+ | pattern_sh = 
+ | pattern_so = _netherlands96h
+ | leftarm    = FF9933
+ | body       = FF9933
+ | rightarm   = FF9933
+ | shorts     = FFFFFF
+ | socks      = FF6600
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _saudiarabia1994
+ | pattern_b  = _saudiarabia1994
+ | pattern_ra = _saudiarabia1994
+ | pattern_sh = _saudiarabia1994
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Saudi Arabia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Ed de Goey]]
+|-
+|DF ||'''14'''||[[Ulrich van Gobbel]] || {{yel|36}}
+|-
+|DF ||'''4''' ||[[Ronald Koeman]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Frank de Boer]] || {{yel|75}}
+|-
+|MF ||'''3''' ||[[Frank Rijkaard]]
+|-
+|MF ||'''8''' ||[[Wim Jonk]]
+|-
+|MF ||'''6''' ||[[Jan Wouters]]
+|-
+|MF ||'''9''' ||[[Ronald de Boer]]
+|-
+|FW ||'''7''' ||[[Marc Overmars]] || || {{suboff|58}}
+|-
+|FW ||'''11''' ||[[Bryan Roy]] || || {{suboff|81}}
+|-
+|FW ||'''10'''||[[Dennis Bergkamp]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Gaston Taument]] || || {{subon|58}}
+|-
+|FW ||'''19'''||[[Peter van Vossen]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dick Advocaat]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mohamed Al-Deayea]]
+|-
+|DF ||'''2''' ||[[Abdullah Al-Dosari]] || {{yel|28}}
+|-
+|DF ||'''5''' ||[[Ahmad Jamil Madani]]
+|-
+|DF ||'''3''' ||[[Mohammed Al-Khilaiwi]]
+|-
+|DF ||'''13'''||[[Mohamed Al-Jawad]] || {{yel|31}}
+|-
+|MF ||'''16'''||[[Talal Jebreen]]
+|-
+|MF ||'''6''' ||[[Fuad Anwar]] || {{yel|61}}
+|-
+|MF ||'''10''' ||[[Saeed Al-Owairan]] || || {{suboff|69}}
+|-
+|MF ||'''14'''||[[Khalid Al-Muwallid]]
+|-
+|FW ||'''8''' ||[[Fahad Al-Bishi]]
+|-
+|FW ||'''9''' ||[[Majed Abdullah]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Hamzah Idris]] || || {{subon|46}}
+|-
+|MF ||'''19'''||[[Hamzah Saleh]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Jorge Solari]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Valentin Ivanov (footballer born 1961)|Valentin Ivanov]] ([[Russian Football Union|Russia]])
+<br />Sándor Márton ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Belgium vs Netherlands===
+{{see also|Low Countries derby}}
+<onlyinclude>{{#invoke:Football box|main|section=F3
+|date={{Start date|1994|6|25}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|BEL}}
+|score={{score link|1994 FIFA World Cup Group F#Belgium vs Netherlands|1–0}}
+|team2={{fb|NED}}
+|goals1=
+*[[Philippe Albert|Albert]] {{goal|65}}
+|goals2=
+|stadium=[[Citrus Bowl (stadium)|Citrus Bowl]], [[Orlando, Florida|Orlando]]
+|attendance=62,387
+|referee=[[Renato Marsiglia]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3069 |title=Belgium vs Netherlands {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3069/index.html |title=1994 FIFA World Cup USA – Matches – Belgium v Netherlands |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212015829/http://www.fifa.com/worldcup/matches/round=337/match=3069/index.html |archive-date=December 12, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1994h
+ | pattern_b  = _belgium1994h
+ | pattern_ra = _belgium1994h
+ | pattern_so = _belgium1994h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _netherlands1994a
+ | pattern_b  = _netherlands1994a
+ | pattern_ra = _netherlands1994a
+ | pattern_sh = 
+ | pattern_so = _netherlands1994a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FF6600
+ | socks      = FFFFFF
+ | title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Michel Preud'homme]]
+|-
+|DF ||'''15'''||[[Marc Emmers]] || || {{suboff|78}}
+|-
+|DF ||'''13''' ||[[Georges Grün]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Philippe Albert]]
+|-
+|DF ||'''14'''||[[Michel De Wolf]]
+|-
+|DF ||'''3''' ||[[Vital Borkelmans]] || {{yel|20}} || {{suboff|61}}
+|-
+|MF ||'''10''' ||[[Enzo Scifo]]
+|-
+|MF ||'''7''' ||[[Franky Van der Elst]]
+|-
+|MF ||'''6''' ||[[Lorenzo Staelens]]
+|-
+|FW ||'''9''' ||[[Marc Degryse]]
+|-
+|FW ||'''17'''||[[Josip Weber]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5'''||[[Rudi Smidts]] || || {{subon|61}}
+|-
+|DF ||'''2'''||[[Dirk Medved]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Paul Van Himst]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Ed de Goey]]
+|-
+|DF ||'''18'''||[[Stan Valckx]]
+|-
+|DF ||'''4''' ||[[Ronald Koeman]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Frank de Boer]]
+|-
+|MF ||'''3''' ||[[Frank Rijkaard]] || {{yel|81}}
+|-
+|MF ||'''8''' ||[[Wim Jonk]] || {{yel|39}}
+|-
+|MF ||'''6''' ||[[Jan Wouters]] || {{yel|19}}
+|-
+|MF ||'''17'''||[[Gaston Taument]] || || {{suboff|64}}
+|-
+|MF ||'''9''' ||[[Ronald de Boer]] || || {{suboff|46}}
+|-
+|MF ||'''11''' ||[[Bryan Roy]]
+|-
+|FW ||'''10'''||[[Dennis Bergkamp]] || {{yel|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5'''||[[Rob Witschge]] || {{yel|49}} || {{subon|46}}
+|-
+|MF ||'''7'''||[[Marc Overmars]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dick Advocaat]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Paulo Jorge Alves ([[Brazilian Football Confederation|Brazil]])
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|}
+
+===Saudi Arabia vs Morocco===
+Saudi Arabia became the first Asian team to beat a side from Africa in the competition's history.
+<onlyinclude>{{#invoke:Football box|main|section=F4
+|date={{Start date|1994|6|25}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|KSA}}
+|score={{score link|1994 FIFA World Cup Group F#Saudi Arabia vs Morocco|2–1}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Sami Al-Jaber|Al-Jaber]] {{goal|7|pen.}}
+*[[Fuad Anwar|Anwar]] {{goal|45}}
+|goals2=
+*[[Mohammed Chaouch|Chaouch]] {{goal|26}}
+|stadium=[[Giants Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=76,322
+|referee=[[Philip Don]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3070 |title=Saudi Arabia vs Morocco {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3070/index.html |title=1994 FIFA World Cup USA – Matches – Saudi Arabia v Morocco |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217182018/http://www.fifa.com/worldcup/matches/round=337/match=3070/index.html |archive-date=December 17, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _saudiarabia1994
+ | pattern_b  = _saudiarabia1994
+ | pattern_ra = _saudiarabia1994
+ | pattern_sh = _saudiarabia1994
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Saudi Arabia
+}}
+|{{Football kit
+ |pattern_la = _mar94h
+ |pattern_b  = _mar94h
+ |pattern_ra = _mar94h
+ |pattern_sh = 
+ |pattern_so = _ballenas1314t
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FF0000
+ | title     = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mohamed Al-Deayea]] || {{yel|90}}
+|-
+|DF ||'''18'''||[[Awad Al-Anazi]] || || {{suboff|30}}
+|-
+|DF ||'''5''' ||[[Ahmad Jamil Madani]]
+|-
+|DF ||'''3''' ||[[Mohammed Al-Khilaiwi]]
+|-
+|DF ||'''13'''||[[Mohamed Al-Jawad]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6''' ||[[Fuad Anwar]] || {{yel|75}}
+|-
+|MF ||'''16'''||[[Talal Jebreen]] || {{yel|50}}
+|-
+|MF ||'''8''' ||[[Fahad Al-Bishi]]
+|-
+|MF ||'''14'''||[[Khalid Al-Muwallid]] || {{yel|78}}
+|-
+|FW ||'''10''' ||[[Saeed Al-Owairan]]
+|-
+|FW ||'''12''' ||[[Sami Al-Jaber]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Abdullah Zubromawi]] || || {{subon|30}}
+|-
+|FW ||'''7''' ||[[Fahad Al-Ghesheyan]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Jorge Solari]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Khalil Azmi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Nacer Abdellah]] || || {{suboff|57}}
+|-
+|DF ||'''5''' ||[[Smahi Triki]]
+|-
+|DF ||'''6''' ||[[Noureddine Naybet]] || {{yel|83}}
+|-
+|DF ||'''3''' ||[[Abdelkrim El Hadrioui]] || {{yel|34}}
+|-
+|MF ||'''8''' ||[[Rachid Azzouzi]]
+|-
+|MF ||'''15'''||[[El Arbi Hababi]] || || {{suboff|73}}
+|-
+|MF ||'''4''' ||[[Tahar El Khalej]]
+|-
+|MF ||'''11'''||[[Rachid Daoudi]]
+|-
+|FW ||'''9''' ||[[Mohammed Chaouch]]
+|-
+|FW ||'''13'''||[[Ahmed Bahja]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Abdeslam Laghrissi]] || || {{subon|57}}
+|-
+|MF ||'''7''' ||[[Mustapha Hadji]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Abdellah Blinda]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Roy Pearson ([[The Football Association|England]])
+<br />[[Tapio Yli-Karro]] ([[Football Association of Finland|Finland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Hellmut Krug]] ([[German Football Association|Germany]])
+|}
+
+===Belgium vs Saudi Arabia===
+<onlyinclude>{{#invoke:Football box|main|section=F5
+|date={{Start date|1994|6|29}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|BEL}}
+|score={{score link|1994 FIFA World Cup Group F#Belgium vs Saudi Arabia|0–1}}
+|team2={{fb|KSA}}
+|goals1=
+|goals2=
+*[[Saeed Al-Owairan|Al-Owairan]] {{goal|5}}
+|stadium=[[Robert F. Kennedy Memorial Stadium|RFK Stadium]], [[Washington, D.C.]]
+|attendance=52,959
+|referee=[[Hellmut Krug]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3082 |title=Belgium vs Saudi Arabia {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3082/index.html |title=1994 FIFA World Cup USA – Matches – Belgium v Saudi Arabia |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219075712/http://www.fifa.com/worldcup/matches/round=337/match=3082/index.html |archive-date=December 19, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1994h
+ | pattern_b  = _belgium1994h
+ | pattern_ra = _belgium1994h
+ | pattern_so = _belgium1994h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _saudiarabia1994
+ | pattern_b  = _saudiarabia1994
+ | pattern_ra = _saudiarabia1994
+ | pattern_sh = _saudiarabia1994
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Saudi Arabia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Michel Preud'homme]]
+|-
+|DF ||'''2''' ||[[Dirk Medved]]
+|-
+|DF ||'''14'''||[[Michel De Wolf]]
+|-
+|DF ||'''4''' ||[[Philippe Albert]]
+|-
+|DF ||'''5''' ||[[Rudi Smidts]] || {{yel|80}}
+|-
+|MF ||'''6''' ||[[Lorenzo Staelens]]
+|-
+|MF ||'''10''' ||[[Enzo Scifo]] ([[Captain (association football)|c]]) || {{yel|61}}<ref>Mistake in FIFA report. Scifo was booked 5 minutes later, in the 66th minute ([https://footballia.net/matches/belgium-saudi-arabia see the footage]).</ref>
+|-
+|MF ||'''7''' ||[[Franky Van der Elst]]
+|-
+|MF ||'''16'''||[[Danny Boffin]]
+|-
+|MF ||'''18'''||[[Marc Wilmots]] || || {{suboff|54}}
+|-
+|FW ||'''9''' ||[[Marc Degryse]] || || {{suboff|24}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''8'''||[[Luc Nilis]] || || {{subon|24}}
+|-
+|FW ||'''17'''||[[Josip Weber]] || || {{subon|54}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Paul Van Himst]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mohamed Al-Deayea]]
+|-
+|DF ||'''4''' || [[Abdullah Zubromawi]]
+|-
+|DF ||'''5''' ||[[Ahmad Jamil Madani]] || {{yel|3}}
+|-
+|DF ||'''3''' ||[[Mohammed Al-Khilaiwi]]
+|-
+|DF ||'''13'''||[[Mohamed Al-Jawad]]
+|-
+|MF ||'''16'''||[[Talal Jebreen]]
+|-
+|MF ||'''10''' ||[[Saeed Al-Owairan]] || || {{suboff|62}}
+|-
+|MF ||'''19'''||[[Hamzah Saleh]]
+|-
+|FW ||'''20'''||[[Hamzah Idris]] || {{yel|77}}
+|-
+|FW ||'''8''' ||[[Fahad Al-Bishi]]
+|-
+|FW ||'''9''' ||[[Majed Abdullah]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14''' ||[[Khalid Al-Muwallid]] || || {{subon|46}}
+|-
+|DF ||'''2''' ||[[Abdullah Al-Dosari]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Jorge Solari]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Eugene Brazzale ([[Football Federation Australia|Australia]])
+<br />Ernesto Taibi ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Francisco Oscar Lamolina]] ([[Argentine Football Association|Argentina]])
+|}
+
+===Morocco vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=F6
+|date={{Start date|1994|6|29}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|MAR}}
+|score={{score link|1994 FIFA World Cup Group F#Morocco vs Netherlands|1–2}}
+|team2={{fb|NED}}
+|goals1=
+*[[Hassan Nader|Nader]] {{goal|47}}
+|goals2=
+*[[Dennis Bergkamp|Bergkamp]] {{goal|43}}
+*[[Bryan Roy|Roy]] {{goal|77}}
+|stadium=[[Citrus Bowl (stadium)|Citrus Bowl]], [[Orlando, Florida|Orlando]]
+|attendance=60,578
+|referee=[[Alberto Tejada Noriega]] ([[Peruvian Football Federation|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3081 |title=Morocco vs Netherlands {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3081/index.html |title=1994 FIFA World Cup USA – Matches – Morocco v Netherlands |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217172559/http://www.fifa.com/worldcup/matches/round=337/match=3081/index.html |archive-date=December 17, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mar94a
+ |pattern_b  = _mar94a
+ |pattern_ra = _mar94a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 008000
+ |socks      = 008000
+ | title      = Morocco
+}}
+|{{Football kit
+ | pattern_la = _netherlands1994a
+ | pattern_b  = _netherlands1994a
+ | pattern_ra = _netherlands1994a
+ | pattern_so = _netherlands1994a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FF6600
+ | socks      = FFFFFF
+ | title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Zakaria Alaoui]]
+|-
+|DF ||'''18'''||[[Rachid Neqrouz]]
+|-
+|DF ||'''5''' ||[[Smahi Triki]]
+|-
+|DF ||'''3''' ||[[Abdelkrim El Hadrioui]]
+|-
+|MF ||'''21'''||[[Mohammed Samadi]] || {{yel|41}}
+|-
+|MF ||'''8''' ||[[Rachid Azzouzi]] || || {{suboff|61}}
+|-
+|MF ||'''4''' ||[[Tahar El Khalej]] ([[Captain (association football)|c]]) || {{yel|14}}
+|-
+|MF ||'''15'''||[[El Arbi Hababi]] || {{yel|28}}
+|-
+|FW ||'''19'''||[[Abdelmajid Bouyboud]] || {{yel|25}} || {{suboff|47}}
+|-
+|FW ||'''16'''||[[Hassan Nader]] || {{yel|12}}
+|-
+|FW ||'''13'''||[[Ahmed Bahja]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Mustapha Hadji]] || || {{subon|47}}
+|-
+|MF ||'''11'''||[[Rachid Daoudi]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Abdellah Blinda]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Ed de Goey]]
+|-
+|CB ||'''18'''||[[Stan Valckx]] || {{yel|79}}
+|-
+|CB ||'''4''' ||[[Ronald Koeman]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Frank de Boer]]
+|-
+|RM ||'''20'''||[[Aron Winter]]
+|-
+|CM ||'''8''' ||[[Wim Jonk]]
+|-
+|CM ||'''6''' ||[[Jan Wouters]] || {{yel|75}}<ref>Mistake in FIFA report. [https://footballia.net/matches/morocco-netherlands The footage of the game] shows that Wouters was booked in the 30th minute of the first half.</ref>
+|-
+|LM ||'''5''' ||[[Rob Witschge]]
+|-
+|RF ||'''7''' ||[[Marc Overmars]] || || {{suboff|56}}
+|-
+|CF ||'''10'''||[[Dennis Bergkamp]]
+|-
+|LF ||'''19'''||[[Peter van Vossen]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Gaston Taument]] || || {{subon|56}}
+|-
+|MF ||'''11'''||[[Bryan Roy]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dick Advocaat]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Venancio Concepcion Zarate ([[Paraguayan Football Association|Paraguay]])
+<br />Mikael Erik Everstig ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Bo Karlsson]] ([[Swedish Football Association|Sweden]])
+|}
+
+==See also==
+*[[Belgium at the FIFA World Cup]]
+*[[Morocco at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+*[[Saudi Arabia at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1994 FIFA World Cup}}
+
+{{DEFAULTSORT:Group F}}
+[[Category:1994 FIFA World Cup group stage|F]]
+[[Category:Netherlands at the 1994 FIFA World Cup|Group]]
+[[Category:Morocco at the 1994 FIFA World Cup|Group F]]
+[[Category:Saudi Arabia at the 1994 FIFA World Cup]]
+[[Category:Belgium at the 1994 FIFA World Cup]]
+[[Category:Soccer competitions in Washington, D.C.]]
+[[Category:1994 in sports in Washington, D.C.]]
+[[Category:Soccer competitions in Orlando, Florida]]
+[[Category:1990s in Orlando, Florida]]
+[[Category:1994 in sports in Florida]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:1994 in sports in New Jersey]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]

@@ -1,0 +1,840 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 3 of the [[1958 FIFA World Cup]]''' took place from 8 to 17 June 1958. The group consisted of [[Hungary national football team|Hungary]], [[Mexico national football team|Mexico]], [[Sweden men's national football team|Sweden]], and [[Wales national football team|Wales]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/58f.html |title=World Cup 1958 (Sweden, June 8–29) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|teamwidth=180
+|section=Standings
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150407144248/http://www.fifa.com/worldcup/archive/sweden1958/groups/index.html FIFA]
+
+|team1=SWE|team2=WAL 
+|team3=HUN |team4=MEX
+|hth_WAL=Wales finished ahead of Hungary by winning a play-off. |hth_HUN=WAL
+
+|result1=A |result2=A
+
+|win_SWE=2 |draw_SWE=1 |loss_SWE=0 |gf_SWE=5 |ga_SWE=1
+|win_WAL=0 |draw_WAL=3 |loss_WAL=0 |gf_WAL=2 |ga_WAL=2
+|win_HUN=1 |draw_HUN=1 |loss_HUN=1 |gf_HUN=6 |ga_HUN=3
+|win_MEX=0 |draw_MEX=1 |loss_MEX=2 |gf_MEX=1 |ga_MEX=8
+
+|name_MEX={{fb|MEX|1934}}
+|name_HUN={{fb|HUN|1957}}
+|name_WAL={{fb|WAL|1953}}
+|name_SWE={{fb|SWE|1906}}
+
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1958 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Sweden vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1958|6|8|df=y}}
+|time=14:00 ([[Central European Time|CET]])
+|team1={{fb-rt|SWE|1906}}
+|score={{score link|1958 FIFA World Cup Group 3#Sweden vs Mexico|3–0}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Agne Simonsson|Simonsson]] {{goal|17||64}}
+*[[Nils Liedholm|Liedholm]] {{goal|57|pen.}}
+|goals2=
+|stadium=[[Råsunda Stadium]], [[Solna Municipality|Solna]]
+|attendance=34,107
+|referee=[[Nikolay Latyshev]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1415 |title=Sweden vs Mexico {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1415/index.html |title=1958 FIFA World Cup Sweden – Matches – Sweden v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209232915/http://www.fifa.com/worldcup/matches/round=220/match=1415/index.html |archive-date=9 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _collarblue
+ | pattern_ra = _blueborder
+ | pattern_so = _yellowtop
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Sweden
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _mex58h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitetop
+ | leftarm    = 008800
+ | body       = 008800
+ | rightarm   = 008800
+ | shorts     = FFFFFF
+ | socks      = 008800
+ | title      = Mexico
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Kalle Svensson]]
+|-
+| RB ||'''2'''|| [[Orvar Bergmark]]
+|-
+| CH ||'''14'''|| [[Bengt Gustavsson]]
+|-
+| LB ||'''3'''|| [[Sven Axbom]]
+|-
+| RH ||'''4'''|| [[Nils Liedholm]] ([[Captain (association football)|c]])
+|-
+| LH ||'''6'''|| [[Sigge Parling]]
+|-
+| OR ||'''7'''|| [[Kurt Hamrin]]
+|-
+| IR ||'''20'''|| [[Bror Mellberg]]
+|-
+| CF ||'''9'''|| [[Agne Simonsson]]
+|-
+| IL ||'''8'''|| [[Gunnar Gren]]
+|-
+| OL ||'''11'''|| [[Lennart Skoglund]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ENG}} [[George Raynor]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Antonio Carbajal]] ([[Captain (association football)|c]])
+|-
+| RB ||'''2'''|| [[Jesús del Muro]]
+|-
+| DF ||'''4'''|| [[José Villegas (footballer, born 1934)|José Villegas]]
+|-
+| DF ||'''5'''|| [[Alfonso Portugal]]
+|-
+| MF ||'''3'''|| [[Jorge Romo]]
+|-
+| LH ||'''6'''|| [[Francisco Flores (footballer, born 1926)|Francisco Flores]]
+|-
+| OR ||'''7'''|| [[Alfredo Hernández (footballer, born 1935)|Alfredo Hernández]]
+|-
+| IR ||'''8'''|| [[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+| CF ||'''9'''|| [[Carlos Calderón de la Barca]]
+|-
+| IL ||'''10'''|| [[Crescencio Gutiérrez]] 
+|-
+| OL ||'''11'''|| [[Enrique Sesma]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|SPA|1945}} [[Antonio López Herranz]]
+|}
+{{col-end}}
+
+===Hungary vs Wales===
+<onlyinclude>{{#invoke:Football box|main|section=3-2
+|date={{Start date|1958|6|8|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|HUN|1957}}
+|score={{score link|1958 FIFA World Cup Group 3#Hungary vs Wales|1–1}}
+|team2={{fb|WAL|1953}}
+|goals1=
+*[[József Bozsik|Bozsik]] {{goal|5}}
+|goals2=
+*[[John Charles|J. Charles]] {{goal|27}}
+|stadium=[[Jernvallen]], [[Sandviken Municipality|Sandviken]]
+|attendance=15,343
+|referee=José María Codesal ([[Asociación Uruguaya de Fútbol|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1407 |title=Hungary vs Wales {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1407/index.html |title=1958 FIFA World Cup Sweden – Matches – Hungary v Wales |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171028083406/http://www.fifa.com/worldcup/matches/round=220/match=1407/index.html |archive-date=28 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _hun_1949_1956_home
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitehorizontal
+ | leftarm    = CE1126
+ | body       = CE1126
+ | rightarm   = CE1126
+ | shorts     = FFFFFF
+ | socks      = 008751
+ | title      = Hungary
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _vneckgreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _red sides
+ | pattern_so = _greentop
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = FFFFFF
+ | socks      = FFF01C
+ | title      = Wales
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Gyula Grosics]]
+|-
+| RB ||'''2'''|| [[Sándor Mátrai]]
+|-
+| CH ||'''3'''|| [[Ferenc Sipos]]
+|-
+| LB ||'''4'''|| [[László Sárosi (footballer)|László Sárosi]]
+|-
+| RH ||'''5'''|| [[József Bozsik]]
+|-
+| LH ||'''6'''|| [[Pál Berendy]]
+|-
+| OR ||'''11'''|| [[Károly Sándor]]
+|-
+| IR ||'''9'''|| [[Nándor Hidegkuti]] ([[Captain (association football)|c]])
+|-
+| CF ||'''8'''|| [[Lajos Tichy]]
+|-
+| IL ||'''10'''|| [[Dezső Bundzsák]]
+|-
+| CF ||'''21'''|| [[Máté Fenyvesi]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Lajos Baróti]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Jack Kelsey]]
+|-
+| RB ||'''2'''|| [[Stuart Williams (footballer)|Stuart Williams]]
+|-
+| CH ||'''5'''|| [[Mel Charles]]
+|-
+| LB ||'''3'''|| [[Mel Hopkins]]
+|-
+| RH ||'''4'''|| [[Derrick Sullivan]]
+|-
+| LH ||'''6'''|| [[Dave Bowen]] ([[Captain (association football)|c]])
+|-
+| OR ||'''19'''|| [[Colin Webster]]
+|-
+| IR ||'''7'''|| [[Terry Medwin]]
+|-
+| CF ||'''9'''|| [[John Charles]]
+|-
+| IL ||'''10'''|| [[Ivor Allchurch]] 
+|-
+| OL ||'''11'''|| [[Cliff Jones (Welsh footballer)|Cliff Jones]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Jimmy Murphy (footballer)|Jimmy Murphy]]
+|}
+{{col-end}}
+
+===Mexico vs Wales===
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1958|6|11|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|MEX|1934}}
+|score={{score link|1958 FIFA World Cup Group 3#Mexico vs Wales|1–1}}
+|team2={{fb|WAL|1953}}
+|goals1=
+*[[Jaime Belmonte|Belmonte]] {{goal|89}}
+|goals2=
+*[[Ivor Allchurch|I. Allchurch]] {{goal|32}}
+|stadium=[[Råsunda Stadium]], Solna
+|attendance=15,150
+|referee=[[Leo Lemesic]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1418 |title=Mexico vs Wales {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1418/index.html |title=1958 FIFA World Cup Sweden – Matches – Mexico v Wales |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031015451/http://www.fifa.com/worldcup/matches/round=220/match=1418/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _mex58h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitetop
+ | leftarm    = 008800
+ | body       = 008800
+ | rightarm   = 008800
+ | shorts     = FFFFFF
+ | socks      = 008800
+ | title      = Mexico
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _red sides
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Wales
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Antonio Carbajal]] ([[Captain (association football)|c]])
+|-
+| RB ||'''2'''|| [[Jesús del Muro]]
+|-
+| DF ||'''14'''|| [[Miguel Gutiérrez (footballer, born 1931)|Miguel Gutiérrez]]
+|-
+| DF ||'''17'''|| [[Raúl Cárdenas]]
+|-
+| MF ||'''3'''|| [[Jorge Romo]]
+|-
+| LH ||'''6'''|| [[Francisco Flores (footballer, born 1926)|Francisco Flores]]
+|-
+| OR ||'''19'''|| [[Jaime Belmonte]]
+|-
+| IR ||'''8'''|| [[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+| CF ||'''20'''|| [[Carlos Blanco (footballer, born 1928)|Carlos Blanco]]
+|-
+| IL ||'''22'''|| [[Carlos González (footballer born 1935)|Carlos González]]
+|-
+| OL ||'''11'''|| [[Enrique Sesma]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|SPA|1945}} [[Antonio López Herranz]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Jack Kelsey]]
+|-
+| RB ||'''2'''|| [[Stuart Williams (footballer)|Stuart Williams]]
+|-
+| CH ||'''5'''|| [[Mel Charles]]
+|-
+| LB ||'''3'''|| [[Mel Hopkins]]
+|-
+| RH ||'''15'''|| [[Colin Baker (footballer, born 1934)|Colin Baker]]
+|-
+| LB ||'''6'''|| [[Dave Bowen]] ([[Captain (association football)|c]])
+|-
+| OR ||'''19'''|| [[Colin Webster]]
+|-
+| IR ||'''7'''|| [[Terry Medwin]]
+|-
+| CF ||'''9'''|| [[John Charles]]
+|-
+| IL ||'''10'''|| [[Ivor Allchurch]] 
+|-
+| OL ||'''11'''|| [[Cliff Jones (Welsh footballer)|Cliff Jones]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Jimmy Murphy (footballer)|Jimmy Murphy]]
+|}
+{{col-end}}
+
+===Sweden vs Hungary===
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1958|6|12|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|SWE|1906}}
+|score={{score link|1958 FIFA World Cup Group 3#Sweden vs Hungary|2–1}}
+|team2={{fb|HUN}}
+|goals1=
+*[[Kurt Hamrin|Hamrin]] {{goal|34||55}}
+|goals2=
+*[[Lajos Tichy|Tichy]] {{goal|77}}
+|stadium=[[Råsunda Stadium]], [[Solna Municipality|Solna]]
+|attendance=38,850
+|referee=[[Jack Mowat]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1406 |title=Sweden vs Hungary {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1406/index.html |title=1958 FIFA World Cup Sweden – Matches – Sweden v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031042957/http://www.fifa.com/worldcup/matches/round=220/match=1406/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _collarblue
+ | pattern_ra = _blueborder
+ | pattern_so = _yellowtop
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Sweden
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _hun_1949_1956_home
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitehorizontal
+ | leftarm    = CE1126
+ | body       = CE1126
+ | rightarm   = CE1126
+ | shorts     = FFFFFF
+ | socks      = 008751
+ | title      = Hungary
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Kalle Svensson]]
+|-
+| RB ||'''2'''|| [[Orvar Bergmark]]
+|-
+| CH ||'''14'''|| [[Bengt Gustavsson]]
+|-
+| LB ||'''3'''|| [[Sven Axbom]]
+|-
+| RH ||'''4'''|| [[Nils Liedholm]] ([[Captain (association football)|c]])
+|-
+| LH ||'''6'''|| [[Sigge Parling]]
+|-
+| OR ||'''7'''|| [[Kurt Hamrin]]
+|-
+| IR ||'''20'''|| [[Bror Mellberg]]
+|-
+| CF ||'''9'''|| [[Agne Simonsson]]
+|-
+| IL ||'''8'''|| [[Gunnar Gren]]
+|-
+| OL ||'''11'''|| [[Lennart Skoglund]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ENG}} [[George Raynor]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Gyula Grosics]]
+|-
+| RB ||'''2'''|| [[Sándor Mátrai]]
+|-
+| CH ||'''3'''|| [[Ferenc Sipos]]
+|-
+| LB ||'''4'''|| [[László Sárosi (footballer)|László Sárosi]]
+|-
+| RH ||'''14'''|| [[Ferenc Szojka]]
+|-
+| LH ||'''6'''|| [[Pál Berendy]]
+|-
+| OR ||'''11'''|| [[Károly Sándor]]
+|-
+| IR ||'''8'''|| [[Lajos Tichy]]
+|-
+| SS ||'''5'''|| [[József Bozsik]] ([[Captain (association football)|c]])
+|-
+| IL ||'''10'''|| [[Dezső Bundzsák]]
+|-
+| OL ||'''21'''|| [[Máté Fenyvesi]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Lajos Baróti]]
+|}
+{{col-end}}
+
+===Sweden vs Wales===
+
+<onlyinclude>{{#invoke:Football box|main|section=3-5
+|date={{Start date|1958|6|15|df=y}}
+|time=14:00 ([[Central European Time|CET]])
+|team1={{fb-rt|SWE|1906}}
+|score={{score link|1958 FIFA World Cup Group 3#Sweden vs Wales|0–0}}
+|team2={{fb|WAL|1953}}
+|goals1=
+|goals2=
+|stadium=[[Råsunda Stadium]], Solna
+|attendance=30,287
+|referee=Lucien van Nuffel ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1438 |title=Sweden vs Wales {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1438/index.html |title=1958 FIFA World Cup Sweden – Matches – Sweden v Wales |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031032228/http://www.fifa.com/worldcup/matches/round=220/match=1438/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _collarblue
+ | pattern_ra = _blueborder
+ | pattern_so = _yellowtop
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Sweden
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _red sides
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Wales
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Kalle Svensson]]
+|-
+| RB ||'''2'''|| [[Orvar Bergmark]]
+|-
+| CH ||'''14'''|| [[Bengt Gustavsson]] ([[Captain (association football)|c]]) 
+|-
+| LB ||'''3'''|| [[Sven Axbom]]
+|-
+| RH ||'''15'''|| [[Reino Börjesson]]
+|-
+| LH ||'''6'''|| [[Sigge Parling]]
+|-
+| OR ||'''21'''|| [[Bengt Berndtsson]]
+|-
+| IR ||'''10'''|| [[Arne Selmosson]]
+|-
+| CF ||'''19'''|| [[Henry Källgren]]
+|-
+| IL ||'''18'''|| [[Gösta Löfgren]]
+|-
+| OL ||'''11'''|| [[Lennart Skoglund]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ENG}} [[George Raynor]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Jack Kelsey]]
+|-
+| RB ||'''2'''|| [[Stuart Williams (footballer)|Stuart Williams]]
+|-
+| CH ||'''5'''|| [[Mel Charles]]
+|-
+| LB ||'''3'''|| [[Mel Hopkins]]
+|-
+| RH ||'''4'''|| [[Derrick Sullivan]]
+|-
+| LH ||'''6'''|| [[Dave Bowen]] ([[Captain (association football)|c]])
+|-
+| OR ||'''18'''|| [[Roy Vernon]]
+|-
+| IR ||'''8'''|| [[Ron Hewitt (footballer, born 1928)|Ron Hewitt]]
+|-
+| CF ||'''9'''|| [[John Charles]]
+|-
+| IL ||'''10'''|| [[Ivor Allchurch]] 
+|-
+| OL ||'''11'''|| [[Cliff Jones (Welsh footballer)|Cliff Jones]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Jimmy Murphy (footballer)|Jimmy Murphy]]
+|}
+{{col-end}}
+
+===Hungary vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=3-6
+|date={{Start date|1958|6|15|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|HUN}}
+|score={{score link|1958 FIFA World Cup Group 3#Hungary vs Mexico|4–0}}
+|team2={{fb|MEX|1934}}
+|goals1=
+*[[Lajos Tichy|Tichy]] {{goal|19||46}}
+*[[Károly Sándor|Sándor]] {{goal|54}}
+*[[József Bencsics|Bencsics]] {{goal|69}}
+|goals2=
+|stadium=[[Jernvallen]], [[Sandviken Municipality|Sandviken]]
+|attendance=13,300
+|referee=[[Arne Eriksson]] ([[Football Association of Finland|Finland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1403 |title=Hungary vs Mexico {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1403/index.html |title=1958 FIFA World Cup Sweden – Matches – Hungary v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031034943/http://www.fifa.com/worldcup/matches/round=220/match=1403/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _hun_1949_1956_home
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _greentop
+ | leftarm    = CE1126
+ | body       = CE1126
+ | rightarm   = CE1126
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Hungary
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _mex58h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitetop
+ | leftarm    = 008800
+ | body       = 008800
+ | rightarm   = 008800
+ | shorts     = FFFFFF
+ | socks      = 008800
+ | title      = Mexico
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''22'''|| [[István Ilku]]
+|-
+| RB ||'''2'''|| [[Sándor Mátrai]]
+|-
+| CH ||'''3'''|| [[Ferenc Sipos]]
+|-
+| LB ||'''4'''|| [[László Sárosi (footballer)|László Sárosi]]
+|-
+| RH ||'''14'''|| [[Ferenc Szojka]]
+|-
+| LH ||'''15'''|| [[Antal Kotász]]
+|-
+| OR ||'''7'''|| [[László Budai]]
+|-
+| IR ||'''20'''|| [[József Bencsics]]
+|-
+| SS ||'''9'''|| [[Nándor Hidegkuti]] ([[Captain (association football)|c]])
+|-
+| IL ||'''8'''|| [[Lajos Tichy]]
+|-
+| OL ||'''11'''|| [[Károly Sándor]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Lajos Baróti]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Antonio Carbajal]] ([[Captain (association football)|c]])
+|-
+| RB ||'''2'''|| [[Jesús del Muro]]
+|-
+| CH ||'''15'''|| [[Guillermo Sepúlveda]] 
+|-
+| LB ||'''14'''|| [[Miguel Gutiérrez (footballer, born 1931)|Miguel Gutiérrez]]
+|-
+| RH ||'''17'''|| [[Raúl Cárdenas]]
+|-
+| LH ||'''6'''|| [[Francisco Flores (footballer, born 1926)|Francisco Flores]]
+|-
+| OR ||'''19'''|| [[Jaime Belmonte]]
+|-
+| IR ||'''8'''|| [[Salvador Reyes Monteón|Salvador Reyes]]
+|-
+| CF ||'''20'''|| [[Carlos Blanco (footballer, born 1928)|Carlos Blanco]]
+|-
+| IL ||'''22'''|| [[Carlos González (footballer born 1935)|Carlos González]]
+|-
+| OL ||'''11'''|| [[Enrique Sesma]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|SPA|1945}} [[Antonio López Herranz]]
+|}
+{{col-end}}
+
+===Play-off: Wales vs Hungary===
+<onlyinclude>{{#invoke:Football box|main|section=3-PO
+|date={{Start date|1958|6|17|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|WAL|1953}}
+|score={{score link|1958 FIFA World Cup Group 3#Play-off: Wales vs Hungary|2–1}}
+|team2={{fb|HUN}}
+|goals1=
+*[[Ivor Allchurch|I. Allchurch]] {{goal|55}}
+*[[Terry Medwin|Medwin]] {{goal|76}}
+|goals2=
+*[[Lajos Tichy|Tichy]] {{goal|33}}
+|stadium=[[Råsunda Stadium]], [[Solna Municipality|Solna]]
+|attendance=2,823
+|referee=[[Nikolay Latyshev]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1408 |title=Wales vs Hungary {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1408/index.html |title=1958 FIFA World Cup Sweden – Matches – Wales v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031021504/http://www.fifa.com/worldcup/matches/round=220/match=1408/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _red sides
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Wales
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _1949_away
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _greentop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Hungary
+}}
+
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Jack Kelsey]]
+|-
+| RB ||'''2'''|| [[Stuart Williams (footballer)|Stuart Williams]]
+|-
+| CH ||'''5'''|| [[Mel Charles]]
+|-
+| LB ||'''3'''|| [[Mel Hopkins]]
+|-
+| RH ||'''4'''|| [[Derrick Sullivan]]
+|-
+| LH ||'''6'''|| [[Dave Bowen]] ([[Captain (association football)|c]])
+|-
+| OR ||'''7'''|| [[Terry Medwin]]
+|-
+| IR ||'''8'''|| [[Ron Hewitt (footballer, born 1928)|Ron Hewitt]]
+|-
+| CF ||'''9'''|| [[John Charles]]
+|-
+| IL ||'''10'''|| [[Ivor Allchurch]] 
+|-
+| OL ||'''11'''|| [[Cliff Jones (Welsh footballer)|Cliff Jones]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Jimmy Murphy (footballer)|Jimmy Murphy]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Gyula Grosics]]
+|-
+| RB ||'''2'''|| [[Sándor Mátrai]]
+|-
+| CH ||'''3'''|| [[Ferenc Sipos]] || {{sent off|0|84}}
+|-
+| LB ||'''4'''|| [[László Sárosi (footballer)|László Sárosi]]
+|-
+| RH ||'''5'''|| [[József Bozsik]] ([[Captain (association football)|c]])
+|-
+| LH ||'''15'''|| [[Antal Kotász]]
+|-
+| OR ||'''7'''|| [[László Budai]]
+|-
+| IR ||'''20'''|| [[József Bencsics]]
+|-
+| CF ||'''8'''|| [[Lajos Tichy]]
+|-
+| IL ||'''10'''|| [[Dezső Bundzsák]]
+|-
+| OL ||'''21'''|| [[Máté Fenyvesi]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Lajos Baróti]]
+|}
+{{col-end}}
+
+==See also==
+*[[Hungary at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+*[[Wales at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1958sweden 1958 FIFA World Cup archive]
+
+{{1958 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 3}}
+[[Category:1958 FIFA World Cup group stage|3]]
+[[Category:Wales at the 1958 FIFA World Cup]]
+[[Category:Mexico at the 1958 FIFA World Cup]]
+[[Category:Hungary at the 1958 FIFA World Cup]]
+[[Category:Sweden at the 1958 FIFA World Cup]]
+[[Category:Sports competitions in Solna]]
+[[Category:Sports competitions in Sandviken]]
+[[Category:20th century in Stockholm County]]
+[[Category:20th century in Gävleborg County]]
+[[Category:Football in Stockholm County]]
+[[Category:Football in Gävleborg County]]

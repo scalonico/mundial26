@@ -1,0 +1,742 @@
+{{Short description|1966 Football Tournament Group}}
+{{Use dmy dates|date=February 2021}}
+'''Group 3 of the [[1966 FIFA World Cup]]''' consisted of holders [[Brazil national football team|Brazil]], [[Hungary national football team|Hungary]], [[Portugal national football team|Portugal]], and [[Bulgaria national football team|Bulgaria]]. Play began on 12 July 1966 and concluded on 20 July 1966. World Cup newcomers Portugal won the group, Hungary finished as runners-up, and both advanced to the quarter-finals. Meanwhile, Bulgaria and defending Champions Brazil failed to advance.<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/66f.html |title=World Cup 1966 (England, July 11–30) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=26 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/england1966/groups/index.html FIFA]
+
+|team1=POR |team2=HPR |team3=BRA |team4=BUL
+|result1=A |result2=A
+
+|win_POR=3 |draw_POR=0 |loss_POR=0 |gf_POR=9 |ga_POR=2
+|win_HPR=2 |draw_HPR=0 |loss_HPR=1 |gf_HPR=7 |ga_HPR=5
+|win_BRA=1 |draw_BRA=0 |loss_BRA=2 |gf_BRA=4 |ga_BRA=6
+|win_BUL=0 |draw_BUL=0 |loss_BUL=3 |gf_BUL=1 |ga_BUL=8
+
+|name_POR={{fb|POR}}
+|name_HPR={{fb|HPR}}
+|name_BUL={{fb|BUL|1948}}
+|name_BRA={{fb|BRA|1960}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1966 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Brazil vs Bulgaria===
+
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1966|7|12|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|BRA|1960}}
+|score={{score link|1966 FIFA World Cup Group 3#Brazil vs Bulgaria|2–0}}
+|team2={{fb|BUL|1948}}
+|goals1=
+*[[Pelé]] {{goal|15}}
+*[[Garrincha]] {{goal|63}}
+|goals2=
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=47,308
+|referee=[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1596 |title=Brazil vs Bulgaria {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1596/index.html |title=1966 FIFA World Cup England – Matches – Brazil v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170525091119/http://www.fifa.com/worldcup/matches/round=238/match=1596/index.html |archive-date=25 May 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 1199FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _vneck
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             = ffffff
+| socks              = ffffff
+|title            = Bulgaria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gilmar]]
+|-
+|RB ||'''2''' ||[[Djalma Santos]]
+|-
+|CB ||'''4''' ||[[Hilderaldo Bellini|Bellini]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Altair (footballer)|Altair]]
+|-
+|LB ||'''8''' ||[[Paulo Henrique (footballer, born 1943)|Paulo Henrique]]
+|-
+|RH ||'''13''' ||[[Denílson (footballer, born 1943)|Denílson]] || {{yel|87}}
+|-
+|LH ||'''14''' ||[[Lima (footballer, born 1942)|Lima]]
+|-
+|OR ||'''16'''||[[Garrincha]]
+|-
+|CF ||'''10''' ||[[Pelé]]
+|-
+|CF ||'''18'''||[[Alcindo]]
+|-
+|OL ||'''17'''||[[Jairzinho]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Vicente Feola]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Georgi Naydenov (footballer, born 1931)|Georgi Naydenov]]
+|-
+|RB ||'''2''' ||[[Aleksandar Shalamanov]]
+|-
+|CB ||'''5''' ||[[Dimitar Penev]]
+|-
+|CB ||'''3''' ||[[Ivan Vutsov]]
+|-
+|LB ||'''4''' ||[[Boris Gaganelov]] ([[Captain (association football)|c]])
+|-
+|RH ||'''8''' ||[[Stoyan Kitov]]
+|-
+|LH ||'''6''' ||[[Dobromir Zhechev]] || {{yel|36}}
+|-
+|OR ||'''7'''||[[Dinko Dermendzhiev]]
+|-
+|CF ||'''9'''||[[Georgi Asparuhov]]
+|-
+|CF ||'''13'''||[[Dimitar Yakimov]]
+|-
+|OL ||'''11''' ||[[Ivan Kolev (footballer, born 1930)|Ivan Kolev]] || {{yel|66}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|Czechoslovakia}} [[Rudolf Vytlačil]]
+|}
+{{col-end}}
+
+===Portugal vs Hungary===
+
+<onlyinclude>{{#invoke:Football box|main|section=3-2
+|date={{Start date|1966|7|13|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|POR}}
+|score={{score link|1966 FIFA World Cup Group 3#Portugal vs Hungary|3–1}}
+|team2={{fb|HUN}}
+|goals1=
+*[[José Augusto (footballer)|José Augusto]] {{goal|2||67}}
+*[[José Torres (footballer, born 1938)|Torres]] {{goal|90}}
+|goals2=
+*[[Ferenc Bene|Bene]] {{goal|60}}
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=29,886
+|referee=[[Leo Callaghan]] ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1675 |title=Portugal vs Hungary {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1675/index.html |title=1966 FIFA World Cup England – Matches – Portugal v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212020711/http://www.fifa.com/worldcup/matches/round=238/match=1675/index.html |archive-date=12 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder
+| pattern_b             = _greencollar
+| pattern_ra            = _greenborder
+| pattern_sh            = 
+| pattern_so            = 
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              = ff0000
+| shorts               = 2E2EE3
+| socks                 = 008751
+ | title           = Portugal
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _1949_1956_away
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _redtop
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             =  ffffff
+| socks              = ffffff
+|title            = Hungary
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Joaquim Carvalho (footballer)|Joaquim Carvalho]]
+|-
+|RB ||'''17''' ||[[João Morais]]
+|-
+|CB ||'''20''' ||[[Alexandre Baptista]]
+|-
+|CB ||'''4''' ||[[Vicente Lucas|Vicente]]
+|-
+|LB ||'''9''' ||[[Hilário (footballer, born 1939)|Hilário]]
+|-
+|CM ||'''16''' ||[[Jaime Graça]]
+|-
+|CM ||'''10''' ||[[Mário Coluna]] ([[Captain (association football)|c]])
+|-
+|RW ||'''12'''||[[José Augusto (footballer)|José Augusto]]
+|-
+|SS ||'''13''' ||[[Eusébio]]
+|-
+|CF ||'''18'''||[[José Torres (footballer, born 1938)|José Torres]]
+|-
+|LW ||'''11'''||[[António Simões]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|BRA|1960}} [[Otto Glória]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Antal Szentmihályi]]
+|-
+|RB ||'''2''' ||[[Benő Káposzta]]
+|-
+|CB ||'''3''' ||[[Sándor Mátrai]]
+|-
+|CB ||'''5''' ||[[Kálmán Mészöly]]
+|-
+|LB ||'''4''' ||[[Kálmán Sóvári]]
+|-
+|MF ||'''14''' ||[[István Nagy (footballer born 1939)|István Nagy]]
+|-
+|MF ||'''6''' ||[[Ferenc Sipos]] ([[Captain (association football)|c]])
+|-
+|RW ||'''7'''||[[Ferenc Bene]]
+|-
+|CF ||'''10'''||[[János Farkas]]
+|-
+|CF ||'''9'''||[[Flórián Albert]]
+|-
+|LW ||'''11''' ||[[Gyula Rákosi]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Lajos Baróti]]
+|}
+{{col-end}}
+
+===Hungary vs Brazil===
+
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1966|7|15|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|HUN}}
+|score={{score link|1966 FIFA World Cup Group 3#Hungary vs Brazil|3–1}}
+|team2={{fb|BRA|1960}}
+|goals1=
+*[[Ferenc Bene|Bene]] {{goal|2}}
+*[[János Farkas|Farkas]] {{goal|64}}
+*[[Kálmán Mészöly|Mészöly]] {{goal|73|pen.}}
+|goals2=
+*[[Tostão]] {{goal|14}}
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=51,387
+|referee=[[Ken Dagnall]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1597 |title=Hungary vs Brazil {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1597/index.html |title=1966 FIFA World Cup England – Matches – Hungary v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220339/http://www.fifa.com/worldcup/matches/round=238/match=1597/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = 
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = cc0000
+| body                 =  cc0000
+| rightarm              = cc0000
+| shorts               = ffffff
+| socks                 = 006600
+ | title           = Hungary
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 1199FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21''' ||[[József Gelei]]
+|-
+|RB ||'''2''' ||[[Benő Káposzta]]
+|-
+|CB ||'''17''' ||[[Gusztáv Szepesi]]
+|-
+|CB ||'''5''' ||[[Kálmán Mészöly]]
+|-
+|LB ||'''3''' ||[[Sándor Mátrai]]
+|-
+|RH ||'''6''' ||[[Ferenc Sipos]] ([[Captain (association football)|c]])
+|-
+|LH ||'''13''' ||[[Imre Mathesz]]
+|-
+|RW ||'''7'''||[[Ferenc Bene]]
+|-
+|CF ||'''9''' ||[[Flórián Albert]]
+|-
+|CF ||'''10'''||[[János Farkas]]
+|-
+|LW ||'''11'''||[[Gyula Rákosi]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Lajos Baróti]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gilmar]]
+|-
+|RB ||'''2''' ||[[Djalma Santos]]
+|-
+|CB ||'''4''' ||[[Hilderaldo Bellini|Bellini]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Altair (footballer)|Altair]]
+|-
+|LB ||'''8''' ||[[Paulo Henrique (footballer, born 1943)|Paulo Henrique]]
+|-
+|RH ||'''11''' ||[[Gérson]]
+|-
+|CM ||'''14''' ||[[Lima (footballer, born 1942)|Lima]]
+|-
+|LH ||'''20'''||[[Tostão]]
+|-
+|OR ||'''16'''||[[Garrincha]]
+|-
+|CF ||'''18'''||[[Alcindo]]
+|-
+|OL ||'''17''' ||[[Jairzinho]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Vicente Feola]]
+|}
+{{col-end}}
+
+===Portugal vs Bulgaria===
+
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1966|7|16|df=y}}
+|time=15:00 [[British Summer Time|BST]]
+|team1={{fb-rt|POR}}
+|score={{score link|1966 FIFA World Cup Group 3#Portugal vs Bulgaria|3–0}}
+|team2={{fb|BUL|1948}}
+|goals1=
+*[[Ivan Vutsov|Vutsov]] {{goal|7|o.g.}}
+*[[Eusébio]] {{goal|38}}
+*[[José Torres (footballer, born 1938)|Torres]] {{goal|81}}
+|goals2=
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=25,438
+|referee=[[José María Codensal]] ([[Asociación Uruguaya de Fútbol|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1602 |title=Portugal vs Bulgaria {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1602/index.html |title=1966 FIFA World Cup England – Matches – Portugal v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220438/http://www.fifa.com/worldcup/matches/round=238/match=1602/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder
+| pattern_b             = _greencollar
+| pattern_ra            = _greenborder
+| pattern_sh            = 
+| pattern_so            = 
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              = ff0000
+| shorts               = 2E2EE3
+| socks                 = 008751
+ | title           = Portugal
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _vneck
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             =  ffffff
+| socks              = ffffff
+|title            = Bulgaria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''3''' ||[[José Pereira (footballer)|José Pereira]]
+|-
+|RB ||'''22''' ||[[Alberto Festa]]
+|-
+|CB ||'''4''' ||[[Vicente Lucas|Vicente]]
+|-
+|CB ||'''5''' ||[[Germano de Figueiredo|Germano]] ([[Captain (association football)|c]])
+|-
+|LB ||'''9''' ||[[Hilário (footballer, born 1939)|Hilário]]
+|-
+|CM ||'''16''' ||[[Jaime Graça]]
+|-
+|CM ||'''10''' ||[[Mário Coluna]] 
+|-
+|RW ||'''12'''||[[José Augusto (footballer)|José Augusto]]
+|-
+|SS ||'''13''' ||[[Eusébio]] || {{yel|70}}
+|-
+|CF ||'''18'''||[[José Torres (footballer, born 1938)|José Torres]]
+|-
+|LW ||'''11'''||[[António Simões]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|BRA|1960}} [[Otto Glória]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Georgi Naydenov (footballer, born 1931)|Georgi Naydenov]]
+|-
+|RB ||'''2''' ||[[Aleksandar Shalamanov]]
+|-
+|CB ||'''5''' ||[[Dimitar Penev]]
+|-
+|CB ||'''3''' ||[[Ivan Vutsov]]
+|-
+|LB ||'''4''' ||[[Boris Gaganelov]] ([[Captain (association football)|c]])
+|-
+|CM ||'''7''' ||[[Dinko Dermendzhiev]] || {{yel|70}}
+|-
+|OR ||'''6''' ||[[Dobromir Zhechev]]
+|-
+|CF ||'''10'''||[[Petar Zhekov]]
+|-
+|CF ||'''9'''||[[Georgi Asparuhov]]
+|-
+|CF ||'''13'''||[[Dimitar Yakimov]]
+|-
+|OL ||'''16''' ||[[Aleksandar Kostov]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|Czechoslovakia}} [[Rudolf Vytlačil]]
+|}
+{{col-end}}
+
+===Portugal vs Brazil===
+
+<onlyinclude>{{#invoke:Football box|main|section=3-5
+|date={{Start date|1966|7|19|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|POR}}
+|score={{score link|1966 FIFA World Cup Group 3#Portugal vs Brazil|3–1}}
+|team2={{fb|BRA|1960}}
+|goals1=
+*[[António Simões|Simões]] {{goal|15}}
+*[[Eusébio]] {{goal|27||85}}
+|goals2=
+*[[Rildo (footballer, born 1942)|Rildo]] {{goal|73}}
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=58,479
+|referee=[[George McCabe]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1598 |title=Portugal vs Brazil {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1598/index.html |title=1966 FIFA World Cup England – Matches – Portugal v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171216144040/http://www.fifa.com/worldcup/matches/round=238/match=1598/index.html |archive-date=16 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder
+| pattern_b             = _greencollar
+| pattern_ra            = _greenborder
+| pattern_sh            = _redsides
+| pattern_so            = 
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              = ff0000
+| shorts               = ffffff
+| socks                 = 008751
+ | title           = Portugal
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 1199FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''3''' ||[[José Pereira (footballer)|José Pereira]]
+|-
+|RB ||'''17''' ||[[João Morais]]
+|-
+|CB ||'''4''' ||[[Vicente Lucas|Vicente]]
+|-
+|CB ||'''20''' ||[[Alexandre Baptista]]
+|-
+|LB ||'''9''' ||[[Hilário (footballer, born 1939)|Hilário]]
+|-
+|CM ||'''16''' ||[[Jaime Graça]]
+|-
+|CM ||'''10''' ||[[Mário Coluna]] ([[Captain (association football)|c]])
+|-
+|RW ||'''12'''||[[José Augusto (footballer)|José Augusto]]
+|-
+|SS ||'''13''' ||[[Eusébio]]
+|-
+|CF ||'''18'''||[[José Torres (footballer, born 1938)|José Torres]]
+|-
+|LW ||'''11'''||[[António Simões]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{Flagicon|BRA|1960}} [[Otto Glória]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12''' ||[[Manga (footballer, born 1937)|Manga]]
+|-
+|RB ||'''3''' ||[[Fidélis (footballer, born 1944)|Fidélis]]
+|-
+|CB ||'''5''' ||[[Brito (footballer, born 1939)|Brito]]
+|-
+|CB ||'''7''' ||[[Orlando Peçanha|Orlando]] ([[Captain (association football)|c]])
+|-
+|LB ||'''9''' ||[[Rildo (footballer, born 1942)|Rildo]]
+|-
+|RH ||'''13''' ||[[Denílson (footballer, born 1943)|Denílson]]
+|-
+|LH ||'''14''' ||[[Lima (footballer, born 1942)|Lima]]
+|-
+|OR ||'''21'''||[[Paraná (footballer)|Paraná]]
+|-
+|CF ||'''10'''||[[Pelé]]
+|-
+|CF ||'''19'''||[[Silva Batuta]]
+|-
+|OL ||'''17''' ||[[Jairzinho]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Vicente Feola]]
+|}
+{{col-end}}
+
+===Hungary vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=3-6
+|date={{Start date|1966|7|20|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|HUN}}
+|score={{score link|1966 FIFA World Cup Group 3#Hungary vs Bulgaria|3–1}}
+|team2={{fb|BUL|1948}}
+|goals1=
+*[[Ivan Davidov|Davidov]] {{goal|43|o.g.}}{{efn|Also credited to [[Ivan Vutsov|Vutsov]] own goal.<ref>{{Cite web|url=http://www.blitz.bg/article/2603|publisher=blitz.bg|title=Иван Давидов: 10 години пазих Гунди, с Котков пиех коняк|date=7 September 2006|language=Bulgarian}}</ref>}}
+*[[Kálmán Mészöly|Mészöly]] {{goal|45}}
+*[[Ferenc Bene|Bene]] {{goal|54}}
+|goals2=
+*[[Georgi Asparuhov|Asparuhov]] {{goal|15}}
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=24,129
+|referee=[[Roberto Goicoechea]] ([[Asociación del Fútbol Argentino|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1599 |title=Hungary vs Bulgaria {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1599/index.html |title=1966 FIFA World Cup England – Matches – Hungary v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220443/http://www.fifa.com/worldcup/matches/round=238/match=1599/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = 
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = cc0000
+| body                 =  cc0000
+| rightarm              = cc0000
+| shorts               = cc0000
+| socks                 = 006600
+ | title           = Hungary
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _vneck
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             =ffffff
+| socks              =ffffff
+|title            = Bulgaria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21''' ||[[József Gelei]]
+|-
+|RB ||'''2''' ||[[Benő Káposzta]]
+|-
+|CB ||'''17''' ||[[Gusztáv Szepesi]]
+|-
+|CB ||'''5''' ||[[Kálmán Mészöly]]
+|-
+|LB ||'''3''' ||[[Sándor Mátrai]]
+|-
+|RH ||'''6''' ||[[Ferenc Sipos]] ([[Captain (association football)|c]])
+|-
+|LH ||'''13''' ||[[Imre Mathesz]]
+|-
+|RW ||'''7'''||[[Ferenc Bene]]
+|-
+|CF ||'''9''' ||[[Flórián Albert]]
+|-
+|CF ||'''10'''||[[János Farkas]]
+|-
+|LW ||'''11'''||[[Gyula Rákosi]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Lajos Baróti]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21''' ||[[Simeon Simeonov (footballer, born 1946)|Simeon Simeonov]]
+|-
+|RB ||'''15''' ||[[Dimitar Largov]]
+|-
+|CB ||'''5''' ||[[Dimitar Penev]]
+|-
+|CB ||'''3''' ||[[Ivan Vutsov]]
+|-
+|LB ||'''4''' ||[[Boris Gaganelov]] ([[Captain (association football)|c]])
+|-
+|CM ||'''20''' ||[[Ivan Davidov]]
+|-
+|OR ||'''6''' ||[[Dobromir Zhechev]]
+|-
+|CF ||'''14'''||[[Nikola Kotkov]]
+|-
+|CF ||'''9'''||[[Georgi Asparuhov]]
+|-
+|CF ||'''13'''||[[Dimitar Yakimov]]
+|-
+|OL ||'''11''' ||[[Ivan Kolev (footballer, born 1930)|Ivan Kolev]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|Czechoslovakia}} [[Rudolf Vytlačil]]
+|}
+{{col-end}}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Bulgaria at the FIFA World Cup]]
+*[[Hungary at the FIFA World Cup]]
+*[[Portugal at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1966england 1966 FIFA World Cup archive]
+
+{{1966 FIFA World Cup}}
+
+{{DEFAULTSORT:Group}}
+[[Category:1966 FIFA World Cup group stage|3]]
+[[Category:Hungary at the 1966 FIFA World Cup]]
+[[Category:Bulgaria at the 1966 FIFA World Cup]]
+[[Category:Portugal at the 1966 FIFA World Cup]]
+[[Category:Brazil at the 1966 FIFA World Cup]]
+[[Category:International sports competitions in Manchester]]
+[[Category:1960s in Manchester]]
+[[Category:Football competitions in Manchester]]
+[[Category:International sports competitions in Liverpool]]
+[[Category:1960s in Liverpool]]
+[[Category:Football competitions in Liverpool]]
+[[Category:Sport in Trafford]]

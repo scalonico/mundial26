@@ -1,0 +1,776 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 2 of the 1978 FIFA World Cup''' was one of four groups of nations competing at the [[1978 FIFA World Cup]]. The group consisted of [[Poland national football team|Poland]], [[Germany national football team|West Germany]], [[Tunisia national football team|Tunisia]] and [[Mexico national football team|Mexico]].<ref>{{cite web |url=https://www.rsssf.org/tables/78full.html |title=World Cup 1978 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150330175434/http://www.fifa.com/worldcup/archive/argentina1978/groups/index.html FIFA]
+
+|team1=POL |team2=FRG |team3=TUN |team4=MEX
+|result1=A |result2=A
+
+|win_POL=2 |draw_POL=1 |loss_POL=0 |gf_POL=4 |ga_POL=1
+|win_FRG=1 |draw_FRG=2 |loss_FRG=0 |gf_FRG=6 |ga_FRG=0
+|win_TUN=1 |draw_TUN=1 |loss_TUN=1 |gf_TUN=3 |ga_TUN=2
+|win_MEX=0 |draw_MEX=0 |loss_MEX=3 |gf_MEX=2 |ga_MEX=12
+
+|name_POL={{fb|POL|1928}}
+|name_MEX={{fb|MEX}}
+|name_FRG={{fb|FRG}}
+|name_TUN={{fb|TUN|1959}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1978 FIFA World Cup#Second round|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===West Germany vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=2-1
+|date={{Start date|1978|6|1|df=y}}
+|time=15:00 [[Time in Argentina|ART]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1978 FIFA World Cup Group 2#West Germany vs Poland|0–0}}
+|team2={{fb|POL|1928}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], [[Buenos Aires]]
+|attendance=67,579
+|referee=[[Ángel Norberto Coerezza]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2351 |title=Germany FR vs Poland {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2351/index.html |title=1978 FIFA World Cup Argentina – Matches – Germany FR v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209014917/http://www.fifa.com/worldcup/matches/round=278/match=2351/index.html |archive-date=9 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _westgermany78
+| pattern_ra = _blackborder
+| pattern_so = _blacktop
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = West Germany
+}}
+|{{Football kit
+|pattern_la = _shoulder_stripes_white_stripes
+|pattern_b  = _pol78A
+|pattern_ra = _shoulder_stripes_white_stripes
+|pattern_sh = _red_stripes_adidas
+|pattern_so = _color_3_stripes_white
+|leftarm    = ff0000
+|body       = ff0000
+|rightarm   = ff0000
+|shorts     = ffffff
+|socks      = ff0000
+|title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Sepp Maier]]
+|-
+|DF || '''2''' || [[Berti Vogts]] ([[Captain (association football)|c]])
+|-
+|DF || '''4''' || [[Rolf Rüssmann]]
+|-
+|DF || '''5''' || [[Manfred Kaltz]]
+|-
+|DF || '''8''' || [[Herbert Zimmermann (footballer)|Herbert Zimmermann]]
+|-
+|MF || '''6''' || [[Rainer Bonhof]]
+|-
+|MF || '''10''' || [[Heinz Flohe]]
+|-
+|MF || '''15''' || [[Erich Beer]]
+|-
+|MF || '''20''' || [[Hansi Müller]]
+|-
+|FW || '''7''' || [[Rüdiger Abramczik]]
+|-
+|FW || '''9''' || [[Klaus Fischer]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Jan Tomaszewski]]
+|-
+|DF || '''3''' || [[Henryk Maculewicz]]
+|-
+|DF || '''4''' || [[Antoni Szymanowski]]
+|-
+|DF || '''6''' || [[Jerzy Gorgoń]]
+|-
+|DF || '''9''' || [[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|MF || '''5''' || [[Adam Nawałka]]
+|-
+|MF || '''11''' || [[Bohdan Masztaler]] || || {{suboff|84}}
+|-
+|MF || '''12''' || [[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|FW || '''16''' || [[Grzegorz Lato]]
+|-
+|FW || '''17''' || [[Andrzej Szarmach]]
+|-
+|FW || '''19''' || [[Włodzimierz Lubański]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''8''' || [[Henryk Kasperczak]] || || {{subon|84}}
+|-
+|MF || '''18''' || [[Zbigniew Boniek]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Jacek Gmoch]]
+|}
+|}
+
+===Tunisia vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=2-2
+|date={{Start date|1978|6|2|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|TUN|1959}}
+|score={{score link|1978 FIFA World Cup Group 2#Tunisia vs Mexico|3–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Ali Kaabi|Kaabi]] {{goal|55}}
+*[[Néjib Ghommidh|Ghommidh]] {{goal|79}}
+*[[Mokhtar Dhouieb|Dhouieb]] {{goal|87}}
+|goals2=
+*[[Arturo Vázquez Ayala|Vázquez Ayala]] {{goal|45|pen.}}
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance=17,396
+|referee=[[John Gordon (referee)|John Gordon]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2433 |title=Tunisia vs Mexico {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2433/index.html |title=1978 FIFA World Cup Argentina – Matches – Tunisia v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219131217/http://www.fifa.com/worldcup/matches/round=278/match=2433/index.html |archive-date=19 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _shoulder_stripes_white_stripes
+|pattern_b  = _tunisia78A
+|pattern_ra = _shoulder_stripes_white_stripes
+|pattern_sh = _red_stripes_adidas
+|pattern_so = _color_3_stripes_white
+|leftarm    = ff0000
+|body       = ff0000
+|rightarm   = ff0000
+|shorts     = ffffff
+|socks      = ff0000
+|title      = Tunisia
+}}
+|{{Football kit
+|pattern_la = _redwhitegreenborder
+|pattern_b  = _mexico1976
+|pattern_ra = _redwhitegreenborder
+|pattern_sh = _redwhitegreenstripes
+|pattern_so = _mex78a
+|leftarm    = ffffff
+|body       = ffffff
+|rightarm   = ffffff
+|shorts     = ff0000
+|socks      = ffffff
+|title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''22''' || [[Mokhtar Naili]]
+|-
+|DF || '''2''' || [[Mokhtar Dhouieb]]
+|-
+|DF || '''3''' || [[Ali Kaabi]]
+|-
+|DF || '''5''' || [[Mohsen Labidi]]
+|-
+|DF || '''20''' || [[Amor Jebali]]
+|-
+|MF || '''6''' || [[Néjib Ghommidh]]
+|-
+|MF || '''7''' || [[Témime Lahzami]] ([[Captain (association football)|c]]) || || {{suboff|88}}
+|-
+|MF || '''8''' || [[Mohamed Ben Rehaiem]]
+|-
+|MF || '''10''' || [[Tarak Dhiab]]
+|-
+|FW || '''9''' || [[Mohamed Akid]]
+|-
+|FW || '''11''' || [[Abderraouf Ben Aziza]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''12''' || [[Khemais Labidi]] || || {{subon|88}}
+|-
+|FW || '''14''' || [[Slah Karoui]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Abdelmajid Chetali]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[José Pilar Reyes]]
+|-
+|DF || '''3''' || [[Alfredo Tena]]
+|-
+|DF || '''4''' || [[Eduardo Ramos (Mexican footballer)|Eduardo Ramos]]
+|-
+|DF || '''5''' || [[Arturo Vázquez Ayala]] ([[Captain (association football)|c]])
+|-
+|DF || '''12''' || [[Jesús Martínez (footballer)|Jesús Martínez]]
+|-
+|MF || '''6''' || [[Guillermo Mendizábal]] || || {{suboff|67}}
+|-
+|MF || '''7''' || [[Antonio de la Torre Villalpando|Antonio de la Torre]]
+|-
+|MF || '''17''' || [[Leonardo Cuéllar]]
+|-
+|MF || '''21''' || [[Raúl Isiordia]]
+|-
+|FW || '''9''' || [[Víctor Rangel (Mexican footballer)|Víctor Rangel]]
+|-
+|FW || '''11''' || [[Hugo Sánchez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''18''' || [[Gerardo Lugo Gómez]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Antonio Roca]]
+|}
+|}
+
+===West Germany vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=2-3
+|date={{Start date|1978|6|6|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1978 FIFA World Cup Group 2#West Germany vs Mexico|6–0}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Dieter Müller|D. Müller]] {{goal|15}}
+*[[Hansi Müller|H. Müller]] {{goal|30}}
+*[[Karl-Heinz Rummenigge|Rummenigge]] {{goal|38||73}}
+*[[Heinz Flohe|Flohe]] {{goal|44||89}}
+|goals2=
+|stadium=[[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|attendance=35,258
+|referee=[[Farouk Bouzo]] ([[Syrian Arab Federation for Football|Syria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2350 |title=Germany FR vs Mexico {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2350/index.html |title=1978 FIFA World Cup Argentina – Matches – Germany FR v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171225091934/http://www.fifa.com/worldcup/matches/round=278/match=2350/index.html |archive-date=25 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _westgermany78
+| pattern_ra = _blackborder
+| pattern_so = _whitetop
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 008020
+| title      = West Germany
+}}
+|{{Football kit
+| pattern_la = _mex78h
+| pattern_b  = _mex78h
+| pattern_ra = _mex78h
+| pattern_sh = _greenwhiteredstripes
+| pattern_so = _mex78A
+| leftarm    = 0F7D5C
+| body       = 0F7D5C
+| rightarm   = 0F7D5C
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Sepp Maier]]
+|-
+|DF || '''2''' || [[Berti Vogts]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Bernard Dietz]]
+|-
+|DF || '''4''' || [[Rolf Rüssmann]]
+|-
+|DF || '''5''' || [[Manfred Kaltz]]
+|-
+|MF || '''6''' || [[Rainer Bonhof]] || {{yel|43}}
+|-
+|MF || '''10''' || [[Heinz Flohe]]
+|-
+|MF || '''20''' || [[Hansi Müller]]
+|-
+|FW || '''11''' || [[Karl-Heinz Rummenigge]]
+|-
+|FW || '''14''' || [[Dieter Müller]]
+|-
+|FW || '''9''' || [[Klaus Fischer]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[José Pilar Reyes]] || || {{suboff|39}}
+|-
+|DF || '''3''' || [[Alfredo Tena]]
+|-
+|DF || '''4''' || [[Eduardo Ramos (Mexican footballer)|Eduardo Ramos]]
+|-
+|DF || '''5''' || [[Arturo Vázquez Ayala]] ([[Captain (association football)|c]]) || {{yel|44}}
+|-
+|DF || '''12''' || [[Jesús Martínez (footballer)|Jesús Martínez]]
+|-
+|MF || '''6''' || [[Guillermo Mendizábal]]
+|-
+|MF || '''7''' || [[Antonio de la Torre Villalpando|Antonio de la Torre]]
+|-
+|MF || '''17''' || [[Leonardo Cuéllar]]
+|-
+|FW || '''8''' || [[Enrique López Zarza]] || || {{suboff|46}}
+|-
+|FW || '''9''' || [[Víctor Rangel (Mexican footballer)|Víctor Rangel]]
+|-
+|FW || '''11''' || [[Hugo Sánchez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK || '''22''' || [[Pedro Soto (footballer)|Pedro Soto]] || || {{subon|39}}
+|-
+|MF || '''18''' || [[Gerardo Lugo Gómez]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Antonio Roca]]
+|}
+|}
+|-
+|}
+
+===Poland vs Tunisia===
+<onlyinclude>{{#invoke:Football box|main|section=2-4
+|date={{Start date|1978|6|6|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|POL|1928}}
+|score={{score link|1978 FIFA World Cup Group 2#Poland vs Tunisia|1–0}}
+|team2={{fb|TUN|1959}}
+|goals1=
+*[[Grzegorz Lato|Lato]] {{goal|43}}
+|goals2=
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance=9,624
+|referee=[[Ángel Franco Martínez]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2454 |title=Poland vs Tunisia {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2454/index.html |title=1978 FIFA World Cup Argentina – Matches – Poland v Tunisia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001745/http://www.fifa.com/worldcup/matches/round=278/match=2454/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _shoulder_stripes_white_stripes
+|pattern_b  = _pol78A
+|pattern_ra = _shoulder_stripes_white_stripes
+|pattern_sh = _white_stripes_adidas
+|pattern_so = _color_3_stripes_white
+|leftarm    = ff0000
+|body       = ff0000
+|rightarm   = ff0000
+|shorts     = ff0000
+|socks      = ff0000
+|title      = Poland
+}}
+|{{Football kit
+|pattern_la = _shoulder_stripes_red_stripes
+|pattern_b  = _tunisia78H
+|pattern_ra = _shoulder_stripes_red_stripes
+|pattern_sh = _red_stripes_adidas
+|pattern_so = _color_3_stripes_red
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = FFFFFF
+|title      = Tunisia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Jan Tomaszewski]]
+|-
+|DF || '''3''' || [[Henryk Maculewicz]]
+|-
+|DF || '''4''' || [[Antoni Szymanowski]]
+|-
+|DF || '''6''' || [[Jerzy Gorgoń]]
+|-
+|DF || '''9''' || [[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|MF || '''5''' || [[Adam Nawałka]]
+|-
+|MF || '''8''' || [[Henryk Kasperczak]]
+|-
+|MF || '''12''' || [[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|FW || '''16''' || [[Grzegorz Lato]]
+|-
+|FW || '''17''' || [[Andrzej Szarmach]] || || {{suboff|60}}
+|-
+|FW || '''19''' || [[Włodzimierz Lubański]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''7''' || [[Andrzej Iwan]] || || {{subon|60}}
+|-
+|FW || '''18''' || [[Zbigniew Boniek]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Jacek Gmoch]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''22''' || [[Mokhtar Naili]]
+|-
+|DF || '''2''' || [[Mokhtar Dhouieb]]
+|-
+|DF || '''3''' || [[Ali Kaabi]]
+|-
+|DF || '''20''' || [[Amor Jebali]]
+|-
+|DF || '''4''' || [[Khaled Gasmi]]
+|-
+|MF || '''6''' || [[Néjib Ghommidh]]
+|-
+|MF || '''7''' || [[Témime Lahzami]] ([[Captain (association football)|c]])
+|-
+|MF || '''8''' || [[Mohamed Ben Rehaiem]]
+|-
+|MF || '''10''' || [[Tarak Dhiab]]
+|-
+|MF || '''12''' || [[Khemais Labidi]]
+|-
+|FW || '''9''' || [[Mohamed Akid]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Abdelmajid Chetali]]
+|}
+|}
+
+===West Germany vs Tunisia===
+<onlyinclude>{{#invoke:Football box|main|section=2-5
+|date={{Start date|1978|6|10|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1978 FIFA World Cup Group 2#West Germany vs Tunisia|0–0}}
+|team2={{fb|TUN|1959}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Olímpico Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|attendance=30,667
+|referee=[[César Guerrero Orosco]] ([[Federación Peruana de Fútbol|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2352 |title=Germany FR vs Tunisia {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2352/index.html |title=1978 FIFA World Cup Argentina – Matches – Germany FR v Tunisia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210013428/http://www.fifa.com/worldcup/matches/round=278/match=2352/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _westgermany78
+| pattern_ra = _blackborder
+| pattern_so = _blacktop
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = West Germany
+}}
+|{{Football kit
+|pattern_la = _shoulder_stripes_white_stripes
+|pattern_b  = _tunisia78A
+|pattern_ra = _shoulder_stripes_white_stripes
+|pattern_sh = _red_stripes_adidas
+|pattern_so = _color_3_stripes_white
+|leftarm    = ff0000
+|body       = ff0000
+|rightarm   = ff0000
+|shorts     = ffffff
+|socks      = ff0000
+|title      = Tunisia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Sepp Maier]]
+|-
+|DF || '''2''' || [[Berti Vogts]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Bernard Dietz]]
+|-
+|DF || '''4''' || [[Rolf Rüssmann]]
+|-
+|DF || '''5''' || [[Manfred Kaltz]]
+|-
+|MF || '''6''' || [[Rainer Bonhof]]
+|-
+|MF || '''10''' || [[Heinz Flohe]]
+|-
+|MF || '''20''' || [[Hansi Müller]] || {{yel|87}}
+|-
+|FW || '''11''' || [[Karl-Heinz Rummenigge]]
+|-
+|FW || '''14''' || [[Dieter Müller]]
+|-
+|FW || '''9''' || [[Klaus Fischer]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''22''' || [[Mokhtar Naili]]
+|-
+|DF || '''2''' || [[Mokhtar Dhouieb]]
+|-
+|DF || '''3''' || [[Ali Kaabi]]
+|-
+|DF || '''20''' || [[Amor Jebali]]
+|-
+|DF/MF? || '''4''' || [[Khaled Gasmi]]
+|-
+|MF || '''6''' || [[Néjib Ghommidh]]
+|-
+|MF || '''7''' || [[Témime Lahzami]] ([[Captain (association football)|c]])
+|-
+|MF || '''8''' || [[Mohamed Ben Rehaiem]]
+|-
+|MF || '''10''' || [[Tarak Dhiab]] || {{yel|68}}
+|-
+|MF || '''12''' || [[Khemais Labidi]]
+|-
+|FW || '''9''' || [[Mohamed Akid]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11''' || [[Abderraouf Ben Aziza]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Abdelmajid Chetali]]
+|-
+|}
+|}
+|-
+|}
+
+===Poland vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=2-6
+|date={{Start date|1978|6|10|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|POL|1928}}
+|score={{score link|1978 FIFA World Cup Group 2#Poland vs Mexico|3–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Zbigniew Boniek|Boniek]] {{goal|43||84}}
+*[[Kazimierz Deyna|Deyna]] {{goal|56}}
+|goals2=
+*[[Víctor Rangel (Mexican footballer)|Rangel]] {{goal|52}}
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|attendance=22,651
+|referee=[[Jafar Namdar]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2431 |title=Poland vs Mexico {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2431/index.html |title=1978 FIFA World Cup Argentina – Matches – Poland v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001735/http://www.fifa.com/worldcup/matches/round=278/match=2431/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _shoulder_stripes_red_stripes
+|pattern_b  = _pol78H
+|pattern_ra = _shoulder_stripes_red_stripes
+|pattern_sh = _adidas_white
+|pattern_so = _color_3_stripes_red
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FF0000
+|socks      = FFFFFF
+|title      = Poland
+}}
+|{{Football kit
+|pattern_la = _mex78h
+|pattern_b  = _mex78h
+|pattern_ra = _mex78h
+|pattern_sh = _greenwhiteredstripes
+|pattern_so = _mex78H
+|leftarm    = 0F7D5C
+|body       = 0F7D5C
+|rightarm   = 0F7D5C
+|shorts     = FFFFFF
+|socks      = 0F7D5C
+|title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Jan Tomaszewski]]
+|-
+|DF || '''4''' || [[Antoni Szymanowski]]
+|-
+|DF || '''6''' || [[Jerzy Gorgoń]]
+|-
+|DF || '''9''' || [[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|MF || '''8''' || [[Henryk Kasperczak]]
+|-
+|MF || '''10''' || [[Wojciech Rudy]] || || {{suboff|84}}
+|-
+|MF || '''11''' || [[Bohdan Masztaler]]
+|-
+|MF || '''12''' || [[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|FW || '''7''' || [[Andrzej Iwan]] || || {{suboff|76}}
+|-
+|FW || '''18''' || [[Zbigniew Boniek]]
+|-
+|FW || '''16''' || [[Grzegorz Lato]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''3''' || [[Henryk Maculewicz]] || || {{subon|84}}
+|-
+|FW || '''19''' || [[Włodzimierz Lubański]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Jacek Gmoch]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''22''' || [[Pedro Soto (footballer)|Pedro Soto]]
+|-
+|DF || '''5''' || [[Arturo Vázquez Ayala]] ([[Captain (association football)|c]])
+|-
+|DF || '''13''' || [[Rigoberto Cisneros]]
+|-
+|DF || '''14''' || [[Carlos Gómez (footballer, born 1952)|Carlos Gómez]]
+|-
+|DF || '''15''' || [[Ignacio Flores (Mexican footballer)|Ignacio Flores]]
+|-
+|MF || '''7''' || [[Antonio de la Torre Villalpando|Antonio de la Torre]]
+|-
+|MF || '''17''' || [[Leonardo Cuéllar]]
+|-
+|MF || '''16''' || [[Javier Cárdenas (footballer)|Javier Cárdenas]] || || {{suboff|46}}
+|-
+|MF || '''10''' || [[Cristóbal Ortega]]
+|-
+|FW || '''9''' || [[Víctor Rangel (Mexican footballer)|Víctor Rangel]]
+|-
+|FW || '''11''' || [[Hugo Sánchez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''6''' || [[Guillermo Mendizábal]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Antonio Roca]]
+|}
+|}
+
+==See also==
+*[[Germany at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Poland at the FIFA World Cup]]
+*[[Tunisia at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1978 FIFA World Cup}}
+
+{{DEFAULTSORT:Group}}
+[[Category:1978 FIFA World Cup group stage|Groups]]
+[[Category:West Germany at the 1978 FIFA World Cup|G]]
+[[Category:Poland at the 1978 FIFA World Cup]]
+[[Category:Mexico at the 1978 FIFA World Cup|Group]]
+[[Category:Tunisia at the 1978 FIFA World Cup]]
+[[Category:Football competitions in Buenos Aires]]
+[[Category:International sports competitions in Buenos Aires]]
+[[Category:1970s in Buenos Aires]]
+[[Category:Football competitions in Rosario, Santa Fe]]
+[[Category:Football competitions in Córdoba Province, Argentina]]
+[[Category:Sport in Córdoba, Argentina]]

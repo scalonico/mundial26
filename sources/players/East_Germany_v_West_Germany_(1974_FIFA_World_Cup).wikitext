@@ -1,0 +1,210 @@
+{{Short description|Football match in 1974}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox football match
+| title            = East Germany 1–0 West Germany
+| other_titles     = 
+| image            = Bundesarchiv Bild 183-N0622-0035, Fußball-Weltmeisterschaft, Spiel DDR-BRD.jpg
+| caption          = ''L–R:'' West German players [[Franz Beckenbauer]], [[Berti Vogts]] and in the background [[Wolfgang Overath]], and East Germany's striker [[Martin Hoffmann (footballer)|Martin Hoffmann]]
+| event            = [[1974 FIFA World Cup]]
+| team1            = [[East Germany national football team|East Germany]]
+| team1association = {{Flagdeco|GDR|size=30px}}
+| team1score       = 1
+| team2            = [[West Germany national football team|West Germany]]
+| team2association = {{Flagdeco|FRG|size=30px}}
+| team2score       = 0
+| date             = 22 June 1974
+| stadium          = [[Volksparkstadion]]
+| city             = [[Hamburg]]
+| referee          = [[Ramón Barreto|Ramón Barreto Ruíz]] ([[Uruguayan Football Association|Uruguay]])
+| attendance       = 60,200
+| weather          =
+}}
+On 22 June 1974, [[East Germany national football team|East Germany]] played [[West Germany national football team|West Germany]] in [[Hamburg]] as part of the [[1974 FIFA World Cup#Group stage|first group stage]] of the [[1974 FIFA World Cup]]. East Germany won the match 1–0, in what is regarded as one of the greatest [[upset (sport)|upsets]] in [[FIFA World Cup]] history.<ref name="y488">{{cite web | title=When East Germany met West and caused one of the greatest World Cup shocks | website=The Independent | first=Adam | last=Bushby | date=2022-11-23 | url=https://www.independent.co.uk/sport/football/world-cup/east-germany-west-germany-1974-world-cup-b2225390.html | access-date=2024-08-18}}</ref> The match is also the only time East and West Germany ever played each other in top-level senior international competition.
+
+==Background==
+Going into the match, both East and West Germany were already assured of progressing to the [[1974 FIFA World Cup#Second round|second round]]. East Germany had defeated [[Australia men's national soccer team|Australia]] 2–0 and drawn with [[Chile national football team|Chile]] 1–1. Host nation West Germany had beaten Chile 1–0 and Australia 3–0, which some fans had seen as unconvincing.<ref name="y488"/> West Germany were considered by pundits to be clear favorites.<ref name="r583">{{cite web | last=Thacker | first=Gary | title=The most politically-charged match in history: when East Germany met West in 1974 | website=These Football Times | date=2018-09-20 | url=https://thesefootballtimes.co/2018/09/21/the-most-politically-charged-match-in-history-when-east-germany-met-west-in-1974/ | access-date=2024-08-18}}</ref>
+
+According to journalist [[Ulrich Hesse]], West German players knew that their manager [[Helmut Schön]], who had been born in [[Dresden]] in East Germany, "wanted – no, needed – to win this match at all costs".<ref name="y488"/> The East German government viewed the match as a [[class struggle]] and politically significant, according to author Thomas Blees.<ref name="y975">{{cite web | title=Als die DDR gegen die BRD bei der Fußball-WM 1974 siegt | website=Deutschlandfunk Kultur | date=2024-06-02 | url=https://www.deutschlandfunkkultur.de/ddr-brd-fussballspiel-als-klassenkampf-100.html | language=de | access-date=2024-08-18}}</ref>
+
+The senior national teams of East and West Germany had never met before, though the countries did play each other at the [[Football at the 1972 Summer Olympics|1972 Summer Olympics]] in [[Munich]], where West Germany was represented by an [[amateur]] side. East Germany won this game 3–2.<ref name="y975"/>
+
+==Match==
+
+===Summary===
+West Germany dominated the early chances, though East Germany also had scoring opportunities, including by [[Hans-Jürgen Kreische]] who missed an open goal at close range. West German [[Gerd Müller]] subsequently hit the post. In the 77th minute, East German [[Jürgen Sparwasser]] received a long diagonal pass and ran toward the West German goal, shooting the ball over goalkeeper [[Sepp Maier]] into the roof of the net. Sparwasser did a [[somersault]] in celebration, and later said it was the first time he had ever done one.<ref name="y488"/>
+
+Around 1,500 East German citizens attended the match, including hundreds of [[Stasi]] members, who were instructed to cheer on East Germany with the chant "7, 8, 9, 10, Klasse!" ("7, 8, 9, 10, Great!").<ref name="Hawley 2006">{{cite web | last=Hawley | first=Charles | title=Germany's Other National Team: 1974 East Germans Take to the Field | website=DER SPIEGEL | date=2006-06-23 | url=https://www.spiegel.de/international/germany-s-other-national-team-1974-east-germans-take-to-the-field-a-423236.html | access-date=2024-01-18}}</ref><ref name="Deutschlandfunk Kultur 2014">{{cite web | first=Frank | last=Ulbricht | title="…7, 8, 9, 10, Klasse!" | trans-title=…7, 8, 9, 10, Great! | website=Deutschlandfunk Kultur | date=2014-06-22 | url=https://www.deutschlandfunkkultur.de/fussball-7-8-9-10-klasse-100.html | language=de | access-date=2024-01-18}}</ref>
+
+===Details===
+<section begin=1-6 />{{Football box
+|date={{Start date|1974|6|22|df=y}}
+|time=19:30
+|team1={{fb-rt|GDR}}
+|score={{score link|1974 FIFA World Cup Group 1#East Germany vs West Germany|1–0|East Germany v West Germany (1974 FIFA World Cup)}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Jürgen Sparwasser|Sparwasser]] {{goal|77}}
+|goals2=
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=60,200
+|referee=[[Ramón Barreto|Ramón Barreto Ruíz]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2062 |title=German DR vs Germany FR {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2062/index.html |title=1974 FIFA World Cup Germany – Matches – German DR v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228094108/http://www.fifa.com/worldcup/matches/round=262/match=2062/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end=1-6 />
+<section begin=Lineups />
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _whiteborder 
+ |pattern_b  = _collarwhite  
+ |pattern_ra = _whiteborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 0000A0
+ |body       = 0000A0
+ |rightarm   = 0000A0
+ |shorts     = FFFFFF
+ |socks      = 0000A0
+ |title      = East Germany
+}}
+|{{Football kit
+ |pattern_la = _blackborder 
+ |pattern_b  = _blackcollar
+ |pattern_ra = _blackborder 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jürgen Croy]] ||{{yel|81}}
+|-
+|DF ||'''3''' ||[[Bernd Bransch]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Konrad Weise]]
+|-
+|DF ||'''12'''||[[Siegmar Wätzlich]]
+|-
+|DF ||'''18'''||[[Gerd Kische]]
+|-
+|MF ||'''2''' ||[[Lothar Kurbjuweit]]
+|-
+|MF ||'''10'''||[[Hans-Jürgen Kreische]] ||{{yel|84}}
+|-
+|MF ||'''13'''||[[Reinhard Lauck]]
+|-
+|MF ||'''16'''||[[Harald Irmscher]] || || {{suboff|65}}
+|-
+|FW ||'''14'''||[[Jürgen Sparwasser]] ||{{yel|27}}
+|-
+|FW ||'''20'''||[[Martin Hoffmann (footballer)|Martin Hoffmann]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17''' ||[[Erich Hamann]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Buschner]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|DF ||'''2''' ||[[Berti Vogts]]
+|-
+|DF ||'''3''' ||[[Paul Breitner]]
+|-
+|DF ||'''4''' ||[[Hans-Georg Schwarzenbeck]]|| || {{suboff|68}}
+|-
+|DF ||'''5'''||[[Franz Beckenbauer]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8'''||[[Bernhard Cullmann]]
+|-
+|MF ||'''12'''||[[Wolfgang Overath]] || || {{suboff|69}}
+|-
+|MF ||'''14'''||[[Uli Hoeneß]]
+|-
+|FW ||'''9'''||[[Jürgen Grabowski]]
+|-
+|FW ||'''13'''||[[Gerd Müller]]
+|-
+|FW ||'''15'''||[[Heinz Flohe]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6'''|| [[Horst-Dieter Höttges]] || || {{subon|68}}
+|-
+|FW ||'''10'''|| [[Günter Netzer]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|width=50% valign=top|
+'''[[Assistant referee (association football)|Linesmen]]:'''
+<br />[[Armando Marques (referee)|Armando Marques]] ([[Brazilian Football Confederation|Brazil]])
+<br />Luis Pestarino ([[Argentine Football Association|Argentina]])<ref name="g756">{{cite web | title=World Cup 1974: East Germany v West Germany | website=Planet World Cup | url=https://www.planetworldcup.com/CUPS/1974/groupa_gdr_v_ger.html | access-date=2024-08-18}}</ref>
+<includeonly>|}</includeonly><section end="Lineups" />
+|width=50% valign=top|
+'''Match rules:'''
+*90 minutes
+*Maximum of two substitutions
+|}
+
+==Aftermath==
+[[File:Wimpel WM 1974 DDR.jpg|thumb|upright|Pennant commemorating the East German 1974 World Cup team in DDR musuem.]]
+The players of both teams [[Shirt swapping|swapped shirts]] after the match, though not on the pitch as this was officially forbidden.<ref name="y488"/>
+
+According to West German striker [[Gerd Müller]], "all hell broke loose" in the West German training camp after the loss.<ref name="a925"/> East Germany's win gave them the top spot in their group, but paradoxically resulted in them getting a more difficult group in the second round. East Germany was eliminated in the second round, while West Germany went on to win the entire tournament.<ref name="BBC"/><ref name="i294">{{cite web | title=WM 1974 in Hamburg: Die DDR schlägt den "Klassenfeind" | website=NDR.de | date=2024-06-24 | url=https://www.ndr.de/geschichte/chronologie/WM-1974-in-Hamburg-Die-DDR-schlaegt-Klassenfeind,fussballwm112.html | language=de | access-date=2024-08-18}}</ref>
+
+Sparwasser became a national hero in East Germany, with his goal simply being known as "The Sparwasser Goal".<ref name="Hawley 2006"/> In 1988, Sparwasser defected to West Germany.<ref name="i294"/><ref name="h026">{{cite web | title=Die Stasi und der Fußball | website=Frankfurter Allgemeine Zeitung | date=2006-05-21 | url=https://www.faz.net/aktuell/sport/fussball-wm-2006/deutschland-und-die-wm/leben-in-der-unfreiheit-1332249.html | language=de | trans-title=The Stasi and Football | access-date=2025-07-03 | archive-url=https://archive.today/20241006022924/https://www.faz.net/aktuell/sport/fussball-wm-2006/deutschland-und-die-wm/leben-in-der-unfreiheit-1332249.html | archive-date=2024-10-06}}</ref> Sparwasser later said that "If one day my gravestone simply says 'Hamburg 74', everybody will still know who is lying below".<ref name="a925">{{cite web | title= The capstone for Croy and the East | website=FIFA | url=https://www.fifa.com/en/tournaments/mens/worldcup/articles/jurgen-croy-east-germany | date=2024-06-22 | access-date=2024-08-18}}</ref> East Germans used to commonly ask each other "Where were you when Sparwasser scored?".<ref name="n471">{{cite web | title=World Cup'74: W. Germany 0-1 E. Germany—Where Were You When Sparwasser Scored? | website=Bleacher Report | date=2008-10-27 | url=https://bleacherreport.com/articles/73829-world-cup74-w-germany-0-1-e-germany-where-were-you-when-sparwasser-scored | access-date=2024-08-18}}</ref>
+
+East German striker [[Hans-Jürgen Kreische]] met West German politician [[Hans Apel]] on a flight immediately after the game, and the two men made an informal bet  – Kreische correctly predicted the West would win the trophy and Apel sent him some [[whisky]], unaware of the difficulties this would cause. Kreische later found he had been excluded from the subsequent national squad for the [[1976 Summer Olympics|1976 Olympic Games]] due to the Stasi being aware of his correspondence with Apel, which was forbidden by the East German authorities.<ref name="BBC">{{cite web |url=https://www.bbc.co.uk/sport/football/47456049 |title=World Cup whisky and the Cold War: When East & West Germany met |first=Mani |last=Djazmi |publisher=BBC Sport |date=7 March 2019 |access-date=8 March 2019}}</ref>
+
+The match is considered to be one of the most politically charged to ever take place in the World Cup.<ref name="k285">{{cite web | last=Smith | first=Rob | title=Here are 4 of the most politically charged World Cup games ever played | website=World Economic Forum | date=2018-06-13 | url=https://www.weforum.org/agenda/2018/06/here-are-4-of-the-most-politically-charged-world-cup-games-ever-played-russia2018/ | access-date=2024-09-15}}</ref> East and West Germany would never play each other again.<ref name="p466">{{cite web | last=Mansel | first=Tim | title=The East German team that refused to die | website=BBC News | date=2015-12-28 | url=https://www.bbc.com/news/magazine-35169108 | access-date=2024-09-15}}</ref>
+
+==See also==
+*[[East Germany–West Germany football rivalry]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+{{Germany national football team matches}}
+{{East Germany national football team}}
+
+[[Category:1974 FIFA World Cup]]
+[[Category:FIFA World Cup matches]]
+[[Category:Germany national football team matches]]
+[[Category:East Germany national football team matches]]
+[[Category:East Germany at the 1974 FIFA World Cup]]
+[[Category:West Germany at the 1974 FIFA World Cup]]
+[[Category:Football competitions in Hamburg]]
+[[Category:Politics and sports]]
+[[Category:East Germany–West Germany relations]]
+[[Category:1974 in West German sport]]
+[[Category:Football matches in West Germany]]
+[[Category:1970s in Hamburg]]
+[[Category:Men's international association football matches in Europe]]

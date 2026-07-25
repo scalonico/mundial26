@@ -1,0 +1,870 @@
+{{Short description|International football tournament}}
+{{Use dmy dates|date=June 2018}}
+'''Group A of the 1998 FIFA World Cup''' was one of eight groups of four teams competing at the [[1998 FIFA World Cup|1998 World Cup]] in France. The first matches were played on 10 June 1998 and the final games took place simultaneously on 23 June 1998. The group consisted of defending champions [[Brazil national football team|Brazil]], [[Norway national football team|Norway]], [[Scotland national football team|Scotland]] and [[Morocco national football team|Morocco]]. Matches took place at six different venues around France.<ref>{{cite web |url=https://www.rsssf.org/tables/98full.html |title=World Cup 1998 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> After Brazil beat Scotland and Morocco while Norway drew with Morocco and Scotland, Brazil had qualified as group winners with a game to spare. With ten minutes to go in the final two games, Morocco looked like they would take second place, because they were beating Scotland while Brazil were beating Norway. However, Norway scored two late goals to win and steal the runners up spot from Morocco.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/france1998/groups/ FIFA]
+|teamwidth=200
+
+|team1=BRA|team2=NOR|team3=MAR|team4=SCO
+|result1=KO|result2=KO
+
+|win_BRA=2 |draw_BRA=0 |loss_BRA=1 |gf_BRA=6 |ga_BRA=3
+|win_NOR=1 |draw_NOR=2 |loss_NOR=0 |gf_NOR=5 |ga_NOR=4
+|win_MAR=1 |draw_MAR=1 |loss_MAR=1 |gf_MAR=5 |ga_MAR=5
+|win_SCO=0 |draw_SCO=1 |loss_SCO=2 |gf_SCO=2 |ga_SCO=6
+
+|name_BRA={{fb|BRA}}|name_NOR={{fb|NOR}}|name_MAR={{fb|MAR}}|name_SCO={{fb|SCO}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1998 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Brazil advanced to play Chile (runner-up of [[1998 FIFA World Cup Group B|Group B]]) in the [[1998 FIFA World Cup knockout stage#Brazil vs Chile|round of 16]].
+*Norway advanced to play Italy (winner of [[1998 FIFA World Cup Group B|Group B]]) in the [[1998 FIFA World Cup knockout stage#Italy vs Norway|round of 16]].
+
+==Matches==
+===Brazil vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=A1
+|date={{Start date|1998|6|10|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1998 FIFA World Cup Group A#Brazil vs Scotland|2–1}}
+|team2={{fb|SCO}}
+|goals1=
+*[[César Sampaio]] {{goal|5}}
+*[[Tom Boyd (Scottish footballer)|Boyd]] {{goal|74|o.g.}}
+|goals2=
+*[[John Collins (footballer, born 1968)|Collins]] {{goal|38|pen.}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=80,000
+|referee=[[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/4000 |title=Brazil vs Scotland {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=4000/index.html |title=1998 FIFA World Cup France – Matches – Brazil v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171216211628/http://www.fifa.com/worldcup/matches/round=1014/match=4000/index.html |archive-date=16 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8887.htm |title=Match Statistics – Group A – Brazil v Scotland |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=10 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419013048/http://www.france98.com/english/competition/matchstat8887.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra98h
+ | pattern_b  = _bra98h
+ | pattern_ra = _bra98h
+ | pattern_sh = _bra98h
+ | pattern_so = _bra98hl
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 004A99
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _sco98h
+ | pattern_b  = _sco98h
+ | pattern_ra = _sco98h
+ | pattern_sh = 
+ | pattern_so = _navytop
+ | leftarm    = 123456
+ | body       = 123456
+ | rightarm   = 123456
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Scotland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Cafu]]
+|-
+|CB ||'''4''' ||[[Júnior Baiano]]
+|-
+|CB ||'''3''' ||[[Aldair]] || {{yel|45+2}}
+|-
+|LB ||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''5''' ||[[César Sampaio]] || {{yel|37}}
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]])
+|-
+|AM ||'''7''' ||[[Giovanni (footballer, born 1972)|Giovanni]] || || {{suboff|46}}
+|-
+|AM ||'''10'''||[[Rivaldo]]
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|CF ||'''20'''||[[Bebeto]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Leonardo Araújo|Leonardo]] || || {{subon|46}}
+|-
+|FW ||'''19'''||[[Denílson (footballer, born 1977)|Denílson]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jim Leighton]]
+|-
+|CB ||'''4''' ||[[Colin Calderwood]]
+|-
+|CB ||'''5''' ||[[Colin Hendry]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Tom Boyd (Scottish footballer)|Tom Boyd]]
+|-
+|RM ||'''10'''||[[Darren Jackson (Scottish footballer)|Darren Jackson]] || {{yel|25}} || {{suboff|78}}
+|-
+|CM ||'''8''' ||[[Craig Burley]]
+|-
+|CM ||'''14'''||[[Paul Lambert]]
+|-
+|CM ||'''11'''||[[John Collins (footballer, born 1968)|John Collins]]
+|-
+|LM ||'''22'''||[[Christian Dailly]] || || {{suboff|84}}
+|-
+|CF ||'''9''' ||[[Gordon Durie]]
+|-
+|CF ||'''7''' ||[[Kevin Gallacher]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Billy McKinlay]] || || {{subon|78}}
+|-
+|DF ||'''6''' ||[[Tosh McKinlay]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Craig Brown (footballer, born 1940)|Craig Brown]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])
+<br />Jorge Luis Arango ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|}
+
+===Morocco vs Norway===
+<onlyinclude>{{#invoke:Football box|main|section=A2
+|date={{Start date|1998|6|10|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|MAR}}
+|score={{score link|1998 FIFA World Cup Group A#Morocco vs Norway|2–2}}
+|team2={{fb|NOR}}
+|goals1=
+*[[Mustapha Hadji|Hadji]] {{goal|37}}
+*[[Abdeljalil Hadda|Hadda]] {{goal|60}}
+|goals2=
+*[[Youssef Chippo|Chippo]] {{goal|45+1|o.g.}}
+*[[Dan Eggen|Eggen]] {{goal|61}}
+|stadium=[[Stade de la Mosson]], [[Montpellier]]
+|attendance=29,800
+|referee=[[Pirom Un-Prasert]] ([[Football Association of Thailand|Thailand]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8725 |title=Morocco vs Norway {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8725/index.html |title=1998 FIFA World Cup France – Matches – Morocco v Norway |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214014326/http://www.fifa.com/worldcup/matches/round=1014/match=8725/index.html |archive-date=14 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8888.htm |title=Match Statistics – Group A – Morocco v Norway |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=10 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419012925/http://www.france98.com/english/competition/matchstat8888.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _mor98
+ | pattern_b  = _mor98
+ | pattern_ra = _mor98
+ | pattern_sh = _mor98
+ | pattern_so = _mor98
+ | leftarm    = 005F1E
+ | body       = 009530
+ | rightarm   = 005F1E
+ | shorts     = 005F1E
+ | socks      = 005F1E
+ | title      = Morocco
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _nor98A
+ | pattern_ra = 
+ | pattern_sh = _nor98A
+ | pattern_so = _nor98A
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 203060
+ | socks      = FFFFFF
+ | title      = Norway
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Driss Benzekri (footballer)|Driss Benzekri]]
+|-
+|RB ||'''2''' ||[[Abdelilah Saber]]
+|-
+|CB ||'''4''' ||[[Youssef Rossi]]
+|-
+|CB ||'''6''' ||[[Noureddine Naybet]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Abdelkrim El Hadrioui]]
+|-
+|DM ||'''20'''||[[Tahar El Khalej]] || || {{suboff|90}}
+|-
+|CM ||'''8''' ||[[Saïd Chiba]] || {{yel|79}}
+|-
+|CM ||'''18'''||[[Youssef Chippo]] || || {{suboff|78}}
+|-
+|AM ||'''7''' ||[[Mustapha Hadji]]
+|-
+|CF ||'''9''' ||[[Abdeljalil Hadda]] || || {{suboff|86}}
+|-
+|CF ||'''14'''||[[Salaheddine Bassir]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Gharib Amzine]] || || {{subon|78}}
+|-
+|FW ||'''11'''||[[Ali Elkhattabi|Ali El Khattabi]] || || {{subon|86}}
+|-
+|MF ||'''16'''||[[Rachid Azzouzi]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Henri Michel]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Frode Grodås]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Henning Berg]]
+|-
+|CB ||'''15'''||[[Dan Eggen]]
+|-
+|CB ||'''3''' ||[[Ronny Johnsen]]
+|-
+|LB ||'''5''' ||[[Stig Inge Bjørnebye]]
+|-
+|RM ||'''17'''||[[Håvard Flo]] || || {{suboff|72}}
+|-
+|CM ||'''8''' ||[[Øyvind Leonhardsen]]
+|-
+|CM ||'''10'''||[[Kjetil Rekdal]]
+|-
+|CM ||'''7''' ||[[Erik Mykland]]
+|-
+|LM ||'''20'''||[[Ole Gunnar Solskjær]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Tore André Flo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Vidar Riseth]] || || {{subon|46}}
+|-
+|MF ||'''6''' ||[[Ståle Solbakken]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Egil Olsen]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br /> Halim Abdul Hamid ([[Football Association of Malaysia|Malaysia]])
+<br /> Nimal Wickramatunge ([[Football Federation of Sri Lanka|Sri Lanka]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Eddie Lennie]] ([[Football Australia|Australia]])
+|}
+
+===Scotland vs Norway===
+<onlyinclude>{{#invoke:Football box|main|section=A3
+|date={{Start date|1998|6|16|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|SCO}}
+|score={{score link|1998 FIFA World Cup Group A#Scotland vs Norway|1–1}}
+|team2={{fb|NOR}}
+|goals1=
+*[[Craig Burley|Burley]] {{goal|66}}
+|goals2=
+*[[Håvard Flo|H. Flo]] {{goal|46}}
+|stadium=[[Stade Chaban-Delmas|Parc Lescure]], [[Bordeaux]]
+|attendance=31,800
+|referee=[[László Vágner]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8741 |title=Scotland vs Norway {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8741/index.html |title=1998 FIFA World Cup France – Matches – Scotland v Norway |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171203022214/http://www.fifa.com/worldcup/matches/round=1014/match=8741/index.html |archive-date=3 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8903.htm |title=Match Statistics – Group A – Scotland v Norway |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=16 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418032536/http://www.france98.com/english/competition/matchstat8903.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sco98a
+ | pattern_b  = _sco98a
+ | pattern_ra = _sco98a
+ | pattern_sh = _yellowsides
+ | pattern_so = _navytop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000040
+ | socks      = FF0000
+ | title      = Scotland
+}}
+|{{Football kit
+ | pattern_la = _nor98h
+ | pattern_b  = _nor98h
+ | pattern_ra = _nor98h
+ | pattern_sh = _umbro_shorts_98
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = 203060
+ | title      = Norway
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jim Leighton]]
+|-
+|CB ||'''4''' ||[[Colin Calderwood]] || || {{suboff|59}}
+|-
+|CB ||'''5''' ||[[Colin Hendry]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Tom Boyd (Scottish footballer)|Tom Boyd]]
+|-
+|RM ||'''10'''||[[Darren Jackson (Scottish footballer)|Darren Jackson]] || {{yel|56}} || {{suboff|61}}
+|-
+|CM ||'''8''' ||[[Craig Burley]]
+|-
+|CM ||'''14'''||[[Paul Lambert]]
+|-
+|CM ||'''11'''||[[John Collins (footballer, born 1968)|John Collins]]
+|-
+|LM ||'''22'''||[[Christian Dailly]]
+|-
+|CF ||'''9''' ||[[Gordon Durie]] || {{yel|24}}
+|-
+|CF ||'''7''' ||[[Kevin Gallacher]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''16'''||[[David Weir (Scottish footballer)|David Weir]] || || {{subon|59}}
+|-
+|DF ||'''2''' ||[[Jackie McNamara]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Craig Brown (footballer born 1940)|Craig Brown]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Frode Grodås]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Henning Berg]] || {{yel|58}} || {{suboff|81}}
+|-
+|CB ||'''15'''||[[Dan Eggen]]
+|-
+|CB ||'''3''' ||[[Ronny Johnsen]]
+|-
+|LB ||'''5''' ||[[Stig Inge Bjørnebye]]
+|-
+|RM ||'''17'''||[[Håvard Flo]] || || {{suboff|60}}
+|-
+|CM ||'''22'''||[[Roar Strand]]
+|-
+|CM ||'''10'''||[[Kjetil Rekdal]] || {{yel|53}}
+|-
+|CM ||'''6''' ||[[Ståle Solbakken]]
+|-
+|LM ||'''21'''||[[Vidar Riseth]] || || {{suboff|71}}
+|-
+|CF ||'''9''' ||[[Tore André Flo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Mini Jakobsen]] || || {{subon|60}}
+|-
+|FW ||'''18'''||[[Egil Østenstad]] || || {{subon|71}}
+|-
+|DF ||'''2''' ||[[Gunnar Halle]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Egil Olsen]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Evžen Amler ([[Football Association of the Czech Republic|Czech Republic]])
+<br />Laurent Rausis ([[Swiss Football Association|Switzerland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Abdul Rahman Al-Zeid]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|}
+
+===Brazil vs Morocco===
+<onlyinclude>{{#invoke:Football box|main|section=A4
+|date={{Start date|1998|6|16|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1998 FIFA World Cup Group A#Brazil vs Morocco|3–0}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|9}}
+*[[Rivaldo]] {{goal|45+2}}
+*[[Bebeto]] {{goal|50}}
+|goals2=
+|stadium=[[Stade de la Beaujoire]], [[Nantes]]
+|attendance=35,500
+|referee=[[Nikolai Levnikov]] ([[Russian Football Union|Russia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8742 |title=Brazil vs Morocco {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8742/index.html |title=1998 FIFA World Cup France – Matches – Brazil v Morocco |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214014616/http://www.fifa.com/worldcup/matches/round=1014/match=8742/index.html |archive-date=14 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8904.htm |title=Match Statistics – Group A – Brazil v Morocco |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=16 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419011057/http://www.france98.com/english/competition/matchstat8904.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra98h
+ | pattern_b  = _bra98h
+ | pattern_ra = _bra98h
+ | pattern_sh = _bra98h
+ | pattern_so = _bra98al
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 004A99
+ | socks      = 004A99
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _mor98_away
+ | pattern_b  = _mor98_away
+ | pattern_ra = _mor98_away
+ | pattern_sh = _mor98_away
+ | pattern_so = _pol20hl
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Cafu]]
+|-
+|CB ||'''4''' ||[[Júnior Baiano]] || {{yel|87}}
+|-
+|CB ||'''3''' ||[[Aldair]]
+|-
+|LB ||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''5''' ||[[César Sampaio]] || {{yel|36}} || {{suboff|68}}
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]])
+|-
+|AM ||'''18'''||[[Leonardo Araújo|Leonardo]]
+|-
+|AM ||'''10'''||[[Rivaldo]] || || {{suboff|87}}
+|-
+|CF ||'''20'''||[[Bebeto]] || || {{suboff|72}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Doriva]] || || {{subon|68}}
+|-
+|FW ||'''21'''||[[Edmundo (footballer)|Edmundo]] || || {{subon|72}}
+|-
+|FW ||'''19'''||[[Denílson de Oliveira Araújo|Denílson]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Driss Benzekri (footballer)|Driss Benzekri]]
+|-
+|RB ||'''2''' ||[[Abdelilah Saber]] || || {{suboff|76}}
+|-
+|CB ||'''4''' ||[[Youssef Rossi]]
+|-
+|CB ||'''6''' ||[[Noureddine Naybet]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Abdelkrim El Hadrioui]]
+|-
+|DM ||'''20'''||[[Tahar El Khalej]]
+|-
+|CM ||'''8''' ||[[Saïd Chiba]] || {{yel|64}} || {{suboff|76}}
+|-
+|CM ||'''18'''||[[Youssef Chippo]]
+|-
+|AM ||'''7''' ||[[Mustapha Hadji]]
+|-
+|CF ||'''9''' ||[[Abdeljalil Hadda]] || {{yel|32}} || {{suboff|88}}
+|-
+|CF ||'''14'''||[[Salaheddine Bassir]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''15'''||[[Lahcen Abrami]] || || {{subon|76}}
+|-
+|MF ||'''17'''||[[Gharib Amzine]] || || {{subon|76}}
+|-
+|FW ||'''11'''||[[Ali El Khattabi]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Henri Michel]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Yuri Dupanov ([[Football Federation of Belarus|Belarus]])
+<br />[[Mark Warren (referee)|Mark Warren]] ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Paul Durkin]] ([[The Football Association|England]])
+|}
+
+===Scotland vs Morocco===
+<onlyinclude>{{#invoke:Football box|main|section=A5
+|date={{Start date|1998|6|23|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|SCO}}
+|score={{score link|1998 FIFA World Cup Group A#Scotland vs Morocco|0–3}}
+|team2={{fb|MAR}}
+|goals1=
+|goals2=
+*[[Salaheddine Bassir|Bassir]] {{goal|23||85}}
+*[[Abdeljalil Hadda|Hadda]] {{goal|46}}
+|stadium=[[Stade Geoffroy-Guichard]], [[Saint-Étienne]]
+|attendance=30,600
+|referee=[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8758 |title=Scotland vs Morocco {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8758/index.html |title=1998 FIFA World Cup France – Matches – Scotland v Morocco |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230024657/http://www.fifa.com/worldcup/matches/round=1014/match=8758/index.html |archive-date=30 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8856.htm |title=Match Statistics – Group A – Scotland v Morocco |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=23 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418004856/http://www.france98.com/english/competition/matchstat8856.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sco98h
+ | pattern_b  = _sco98h
+ | pattern_ra = _sco98h
+ | pattern_sh = 
+ | pattern_so = _navytop
+ | leftarm    = 123456
+ | body       = 123456
+ | rightarm   = 123456
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Scotland
+}}
+|{{Football kit
+ | pattern_la = _mor98_away
+ | pattern_b  = _mor98_away
+ | pattern_ra = _mor98_away
+ | pattern_sh = _mor98
+ | pattern_so = _pol20hl
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 005F1E
+ | socks      = FFFFFF
+ | title      = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jim Leighton]]
+|-
+|CB ||'''16'''||[[David Weir (Scottish footballer)|David Weir]]
+|-
+|CB ||'''5''' ||[[Colin Hendry]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Tom Boyd (Scottish footballer)|Tom Boyd]]
+|-
+|RM ||'''2''' ||[[Jackie McNamara]] || || {{suboff|54}}
+|-
+|CM ||'''8''' ||[[Craig Burley]] || {{sent off|0|53}}
+|-
+|CM ||'''14'''||[[Paul Lambert]]
+|-
+|CM ||'''11'''||[[John Collins (footballer, born 1968)|John Collins]]
+|-
+|LM ||'''22'''||[[Christian Dailly]]
+|-
+|CF ||'''7''' ||[[Kevin Gallacher]] || {{yel|21}}
+|-
+|CF ||'''9''' ||[[Gordon Durie]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Tosh McKinlay]] || || {{subon|54}}
+|-
+|FW ||'''20'''||[[Scott Booth]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Craig Brown (footballer, born 1940)|Craig Brown]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Driss Benzekri (footballer)|Driss Benzekri]]
+|-
+|RB ||'''2''' ||[[Abdelilah Saber]] || || {{suboff|72}}
+|-
+|CB ||'''5''' ||[[Smahi Triki]]
+|-
+|CB ||'''6''' ||[[Noureddine Naybet]] ([[Captain (association football)|c]])
+|-
+|LB ||'''15'''||[[Lahcen Abrami]]
+|-
+|DM ||'''20'''||[[Tahar El Khalej]]
+|-
+|CM ||'''17'''||[[Gharib Amzine]] || || {{suboff|76}}
+|-
+|CM ||'''18'''||[[Youssef Chippo]] || {{yel|81}} || {{suboff|87}}
+|-
+|AM ||'''7''' ||[[Mustapha Hadji]]
+|-
+|CF ||'''9''' ||[[Abdeljalil Hadda]]
+|-
+|CF ||'''14'''||[[Salaheddine Bassir]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Youssef Rossi]] || || {{subon|72}}
+|-
+|MF ||'''16'''||[[Rachid Azzouzi]] || || {{subon|76}}
+|-
+|MF ||'''19'''||[[Jamal Sellami]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Henri Michel]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br /> Luis Torres Zúñiga ([[Costa Rican Football Federation|Costa Rica]])
+<br /> Lencie Fred ([[Vanuatu Football Federation|Vanuatu]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[László Vágner]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Brazil vs Norway===
+<onlyinclude>{{#invoke:Football box|main|section=A6
+|date={{Start date|1998|6|23|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1998 FIFA World Cup Group A#Brazil vs Norway|1–2}}
+|team2={{fb|NOR}}
+|goals1=
+*[[Bebeto]] {{goal|78}}
+|goals2=
+*[[Tore André Flo|T. A. Flo]] {{goal|83}}
+*[[Kjetil Rekdal|Rekdal]] {{goal|89|pen.}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=55,000
+|referee=[[Esfandiar Baharmast]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8759 |title=Brazil vs Norway {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8759/index.html |title=1998 FIFA World Cup France – Matches – Brazil v Norway |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214171957/http://www.fifa.com/worldcup/matches/round=1014/match=8759/index.html |archive-date=14 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8857.htm |title=Match Statistics – Group A – Brazil v Norway |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=23 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418005524/http://www.france98.com/english/competition/matchstat8857.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra98h
+ | pattern_b  = _bra98h
+ | pattern_ra = _bra98h
+ | pattern_sh = _bra98h
+ | pattern_so = _bra98hl
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 004A99
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _nor98h
+ | pattern_b  = _nor98h
+ | pattern_ra = _nor98h
+ | pattern_sh = _umbro_shorts_98
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = 203060
+ | title      = Norway
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Cafu]]
+|-
+|CB ||'''4''' ||[[Júnior Baiano]]
+|-
+|CB ||'''14'''||[[Marcelo Gonçalves|Gonçalves]]
+|-
+|LB ||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''18'''||[[Leonardo Araújo|Leonardo]]
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]])
+|-
+|AM ||'''10'''||[[Rivaldo]]
+|-
+|AM ||'''19'''||[[Denílson de Oliveira Araújo|Denílson]]
+|-
+|CF ||'''20'''||[[Bebeto]]
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Frode Grodås]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Henning Berg]]
+|-
+|CB ||'''15'''||[[Dan Eggen]]
+|-
+|CB ||'''3''' ||[[Ronny Johnsen]]
+|-
+|LB ||'''5''' ||[[Stig Inge Bjørnebye]]
+|-
+|RM ||'''17'''||[[Håvard Flo]] || || {{suboff|68}}
+|-
+|CM ||'''22'''||[[Roar Strand]] || || {{suboff|46}}
+|-
+|CM ||'''10'''||[[Kjetil Rekdal]]
+|-
+|CM ||'''8''' ||[[Øyvind Leonhardsen]] || {{yel|54}}
+|-
+|LM ||'''21'''||[[Vidar Riseth]] || || {{suboff|79}}
+|-
+|CF ||'''9''' ||[[Tore André Flo]] || {{yel|61}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Erik Mykland]] || || {{subon|46}}
+|-
+|FW ||'''20'''||[[Ole Gunnar Solskjær]] || || {{subon|68}}
+|-
+|MF ||'''16'''||[[Jostein Flo]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Egil Olsen]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br /> Gennaro Mazzei ([[Italian Football Federation|Italy]])
+<br /> Dramane Danté ([[Malian Football Federation|Mali]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Arturo Brizio Carter]] ([[Mexican Football Federation|Mexico]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Morocco at the FIFA World Cup]]
+*[[Norway at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:1998 FIFA World Cup group stage|A]]
+[[Category:Brazil at the 1998 FIFA World Cup|Group]]
+[[Category:Norway at the 1998 FIFA World Cup]]
+[[Category:Scotland at the 1998 FIFA World Cup|Group]]
+[[Category:Morocco at the 1998 FIFA World Cup|Group]]
+[[Category:Sports competitions in Marseille]]
+[[Category:20th century in Marseille]]
+[[Category:Sport in Nantes]]
+[[Category:Sport in Saint-Étienne]]
+[[Category:20th century in Auvergne-Rhône-Alpes]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Sport in Montpellier]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:Football in Île-de-France]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Football in Pays de la Loire]]
+[[Category:Football in Provence-Alpes-Côte d'Azur]]

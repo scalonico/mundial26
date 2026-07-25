@@ -1,0 +1,844 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+
+'''Group 4 of the [[1970 FIFA World Cup]]''' was contested in [[León, Guanajuato|León]]'s [[Estadio León|Estadio Nou Camp]] between 2 and 11 June 1970. [[Germany national football team|West Germany]] won the group, and advanced to the quarter-finals, along with [[Peru national football team|Peru]]. [[Bulgaria national football team|Bulgaria]] and [[Morocco national football team|Morocco]] failed to advance.<ref>{{Cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1970mexico|title=1970 FIFA World Cup Mexico|publisher=fifa.com|accessdate=9 March 2016}}</ref><ref>{{Cite web|url=https://www.rsssf.org/tables/70full.html |title=World Cup 1970 |accessdate=10 August 2014 |url-status=live |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20160701154217/http://www.rsssf.com/tables/70full.html |archivedate=1 July 2016 }}</ref>
+
+== Standings ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150224145302/http://www.fifa.com/worldcup/archive/mexico1970/groups/index.html FIFA]
+
+|team1=FRG |team2=PER |team3=BUL |team4=MAR
+|result1=A |result2=A
+|pos_MAR=3<!--EQUAL ON GOAL DIFFERENCE, THE LAST TIEBREAKER BEFORE DRAWING OF LOTS (WHICH WAS ONLY USED WHEN THERE WERE QUALIFICATION IMPLICATIONS); GOALS FOR WAS NOT USED AS A TIEBREAKER-->
+
+|win_FRG=3 |draw_FRG=0 |loss_FRG=0 |gf_FRG=10 |ga_FRG=4
+|win_PER=2 |draw_PER=0 |loss_PER=1 |gf_PER=7 |ga_PER=5
+|win_BUL=0 |draw_BUL=1 |loss_BUL=2 |gf_BUL=5 |ga_BUL=9
+|win_MAR=0 |draw_MAR=1 |loss_MAR=2 |gf_MAR=2 |ga_MAR=6
+
+|name_PER={{fb|PER}}
+|name_MAR={{fb|MAR}}
+|name_BUL={{fb|BUL|1968}}
+|name_FRG={{fb|FRG}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1970 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+== Matches ==
+All times local ([[Central Time Zone|UTC−6]])
+
+=== Peru vs Bulgaria ===
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1970|6|2|df=y}}
+|time=16:00
+|team1={{fb-rt|PER}}
+|score={{score link|1970 FIFA World Cup Group 4#Peru vs Bulgaria|3–2}}
+|team2={{fb|BUL|1968}}
+|goals1=
+*[[Alberto Gallardo|Gallardo]] {{goal|50}}
+*[[Héctor Chumpitaz|Chumpitaz]] {{goal|55}}
+*[[Teófilo Cubillas|Cubillas]] {{goal|73}}
+|goals2=
+*[[Dinko Dermendzhiev|Dermendzhiev]] {{goal|13}}
+*[[Hristo Bonev|Bonev]] {{goal|49}}
+|stadium=[[Estadio León|Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=13,765
+|referee=[[Antonio Sbardella]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1780 |title=Peru vs Bulgaria {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1780/index.html |title=1970 FIFA World Cup Mexico – Matches – Peru v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228210716/http://www.fifa.com/worldcup/matches/round=250/match=1780/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _whiteborder
+ |pattern_b  = _whitecollar
+ |pattern_ra = _whiteborder
+ |pattern_sh = _redsides
+ |pattern_so = _redtop
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Peru
+}}
+|{{Football kit
+| pattern_la = 
+ |pattern_b  = _greencollar
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _redstripe
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 068619
+ |socks      = FFFFFF
+ |title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Rubiños]]
+|-
+|DF ||'''2''' ||[[Eloy Campos]] || || {{suboff|29}}
+|-
+|DF ||'''3''' ||[[Orlando de la Torre]]
+|-
+|DF ||'''4''' ||[[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Nicolás Fuentes]]
+|-
+|MF ||'''6''' ||[[Ramón Mifflin]]
+|-
+|MF ||'''7''' ||[[Roberto Challe]]
+|-
+|FW ||'''8''' ||[[Julio Baylón]] || || {{suboff|50}}
+|-
+|FW ||'''9''' ||[[Pedro Pablo León]]
+|-
+|FW ||'''10'''||[[Teófilo Cubillas]]
+|-
+|FW ||'''11'''||[[Alberto Gallardo]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Javier González (footballer, born 1939)|Javier González]] || || {{subon|29}}
+|-
+|FW ||'''20'''||[[Hugo Sotil]] || || {{subon|50}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|BRA|1968}} [[Didi (footballer, born 1928)|Didi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Simeon Simeonov (footballer, born 1946)|Simeon Simeonov]]
+|-
+|DF ||'''2''' ||[[Aleksandar Shalamanov]]
+|-
+|DF ||'''3''' ||[[Ivan Dimitrov (footballer)|Ivan Dimitrov]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Ivan Davidov]]
+|-
+|DF ||'''4''' ||[[Stefan Aladzhov]]
+|-
+|MF ||'''8''' ||[[Hristo Bonev]] || || {{suboff|73}}
+|-
+|MF ||'''6''' ||[[Dimitar Penev]]
+|-
+|MF ||'''10'''||[[Dimitar Yakimov]]
+|-
+|FW ||'''7''' ||[[Georgi Popov]] || || {{suboff|59}}
+|-
+|FW ||'''9''' ||[[Petar Zhekov]]
+|-
+|FW ||'''11'''||[[Dinko Dermendzhiev]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Dimitar Marashliev]] || || {{subon|59}}
+|-
+|FW ||'''19'''||[[Georgi Asparuhov]] || || {{subon|73}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Stefan Bozhkov]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Abel Aguilar Elizalde]] ([[Mexican Football Federation|Mexico]])
+<br />[[Yoshiyuki Maruyama]] ([[Japan Football Association|Japan]])
+|}
+
+=== West Germany vs Morocco ===
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1970|6|3|df=y}}
+|time=16:00
+|team1={{fb-rt|FRG}}
+|score={{score link|1970 FIFA World Cup Group 4#West Germany vs Morocco|2–1}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Uwe Seeler|Seeler]] {{goal|56}}
+*[[Gerd Müller|Müller]] {{goal|80}}
+|goals2=
+*[[Houmane Jarir|Jarir]] {{goal|21}}
+|stadium=[[Estadio León|Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=12,942
+|referee=[[Laurens van Ravens]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1839 |title=Germany FR vs Morocco {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1839/index.html |title=1970 FIFA World Cup Mexico – Matches – Germany FR v Morocco |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223102830/http://www.fifa.com/worldcup/matches/round=250/match=1839/index.html |archive-date=23 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =_blackborder
+ |pattern_b  = _vneckblack
+ |pattern_ra =_blackborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = West Germany<ref>{{Cite web|title=Aufstellung &#124; Marokko – Deutschland 1:2 &#124; Vorrunde, 1. Spieltag &#124; Weltmeisterschaft 1970|url=https://www.kicker.de/marokko-gegen-deutschland-1970-weltmeisterschaft-567715/aufstellung|access-date=2022-11-30|website=kicker|language=de-DE}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _greenborder
+ |pattern_b  = _mar-historical
+ |pattern_ra = _greenborder
+ |pattern_sh = 
+ |pattern_so = _greentop
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|SW ||'''5''' ||[[Willi Schulz]]
+|-
+|RB ||'''7''' ||[[Berti Vogts]]
+|-
+|CB ||'''11'''||[[Klaus Fichtel]]
+|-
+|LB ||'''2''' ||[[Horst-Dieter Höttges]] || || {{suboff|77}}
+|-
+|RM ||'''8''' ||[[Helmut Haller]] || || {{suboff|46}}
+|-
+|CM ||'''4''' ||[[Franz Beckenbauer]]
+|-
+|LM ||'''12'''||[[Wolfgang Overath]]
+|-
+|RF ||'''9''' ||[[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|CF ||'''13'''||[[Gerd Müller]]
+|-
+|LF ||'''10'''||[[Sigfried Held]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Hannes Löhr]] || || {{subon|77}}
+|-
+|FW ||'''20'''||[[Jürgen Grabowski]] || || {{subon|46}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Allal Ben Kassou]]
+|-
+|DF ||'''2''' ||[[Abdallah Lamrani]]
+|-
+|DF ||'''4''' ||[[Moulay Khanousi]]
+|-
+|DF ||'''5''' ||[[Kacem Slimani]]
+|-
+|DF ||'''3''' ||[[Boujemaa Benkhrif]]
+|-
+|MF ||'''6''' ||[[Mohammed Mahroufi]]
+|-
+|MF ||'''8''' ||[[Driss Bamous]] ([[Captain (association football)|c]])|| || {{suboff|72}}
+|-
+|MF ||'''10'''||[[Mohammed El Filali]]
+|-
+|MF ||'''7''' ||[[Said Ghandi]]
+|-
+|FW ||'''11'''||[[Maouhoub Ghazouani]] || || {{suboff|56}}
+|-
+|FW ||'''14'''||[[Houmane Jarir]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Ahmed Faras]] || || {{subon|72}}
+|-
+|DF ||'''18'''||[[Abdelkader El Khiati]] || || {{subon|56}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|YUG}} [[Blagoje Vidinić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[José María Ortiz de Mendíbil]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Guillermo Velásquez (referee)|Guillermo Velasquez]] ([[Colombian Football Federation|Colombia]])
+|}
+
+=== Peru vs Morocco ===
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1970|6|6|df=y}}
+|time=16:00
+|team1={{fb-rt|PER}}
+|score={{score link|1970 FIFA World Cup Group 4#Peru vs Morocco|3–0}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Teófilo Cubillas|Cubillas]] {{goal|65||75}}
+*[[Roberto Challe|Challe]] {{goal|67}}
+|goals2=
+|stadium=[[Estadio León|Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=13,537
+|referee=[[Tofiq Bahramov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1893 |title=Peru vs Morocco {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1893/index.html |title=1970 FIFA World Cup Mexico – Matches – Peru v Morocco |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210072059/http://www.fifa.com/worldcup/matches/round=250/match=1893/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _redrightsash
+ |pattern_ra = 
+ |pattern_sh = _redsides
+ |pattern_so = _redtop
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Peru
+}}
+|{{Football kit
+ |pattern_la = _greenborder
+ |pattern_b  = _mar-historical
+ |pattern_ra = _greenborder
+ |pattern_sh = 
+ |pattern_so = _greentop
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 068619
+ |socks      = FF0000
+ |title      = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Rubiños]]
+|-
+|DF ||'''13'''||[[Pedro González (Peruvian footballer)|Pedro González]]
+|-
+|DF ||'''3''' ||[[Orlando de la Torre]]
+|-
+|DF ||'''4''' ||[[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Nicolás Fuentes]]
+|-
+|MF ||'''6''' ||[[Ramón Mifflin]] || || {{suboff|56}}
+|-
+|MF ||'''7''' ||[[Roberto Challe]]
+|-
+|FW ||'''20'''||[[Hugo Sotil]]
+|-
+|FW ||'''9''' ||[[Pedro Pablo León]]
+|-
+|FW ||'''11'''||[[Alberto Gallardo]] || || {{suboff|76}}
+|-
+|FW ||'''10'''||[[Teófilo Cubillas]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Luis Cruzado]] || || {{subon|56}}
+|-
+|FW ||'''22'''||[[Oswaldo Ramírez]] || || {{subon|76}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|BRA|1968}} [[Didi (footballer, born 1928)|Didi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Allal Ben Kassou]]
+|-
+|DF ||'''2''' ||[[Abdallah Lamrani]]
+|-
+|DF ||'''4''' ||[[Moulay Khanousi]]
+|-
+|DF ||'''5''' ||[[Kacem Slimani]]
+|-
+|DF ||'''3''' ||[[Boujemaa Benkhrif]] || || {{suboff|66}}
+|-
+|MF ||'''6''' ||[[Mohammed Mahroufi]]
+|-
+|MF ||'''8''' ||[[Driss Bamous]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Mohammed El Filali]]
+|-
+|MF ||'''7''' ||[[Said Ghandi]] || || {{suboff|81}}
+|-
+|FW ||'''11'''||[[Maouhoub Ghazouani]]
+|-
+|FW ||'''14'''||[[Houmane Jarir]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|DF ||'''13''' ||[[Jalili Fadili]] || || {{subon|66}}
+|-
+|FW ||'''17'''||[[Ahmed Alaoui]] || || {{subon|81}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|YUG}} [[Blagoje Vidinić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Yoshiyuki Maruyama]] ([[Japan Football Association|Japan]])
+<br />[[Antonio Sbardella]] ([[Italian Football Federation|Italy]])
+|}
+
+=== West Germany vs Bulgaria ===
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1970|6|7|df=y}}
+|time=12:00
+|team1={{fb-rt|FRG}}
+|score={{score link|1970 FIFA World Cup Group 4#West Germany vs Bulgaria|5–2}}
+|team2={{fb|BUL|1968}}
+|goals1=
+*[[Reinhard Libuda|Libuda]] {{goal|20}}
+*[[Gerd Müller|Müller]] {{goal|27||52|pen.|88}}
+*[[Uwe Seeler|Seeler]] {{goal|70}}
+|goals2=
+*[[Asparuh Nikodimov|Nikodimov]] {{goal|12}}
+*[[Todor Kolev (footballer, born 1942)|Kolev]] {{goal|89}}
+|stadium=[[Estadio León|Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=12,710
+|referee=[[José María Ortiz de Mendíbil]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1774 |title=Germany FR vs Bulgaria {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1774/index.html |title=1970 FIFA World Cup Mexico – Matches – Germany FR v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231160032/http://www.fifa.com/worldcup/matches/round=250/match=1774/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _blackborder
+ |pattern_b  = _vneckblack
+ |pattern_ra = _blackborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = West Germany
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _hungary1972
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _redstripe
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 068619
+ |socks      = FFFFFF
+ |title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|DF ||'''7''' ||[[Berti Vogts]]
+|-
+|DF ||'''3''' ||[[Karl-Heinz Schnellinger]]
+|-
+|DF ||'''11'''||[[Klaus Fichtel]]
+|-
+|DF ||'''2''' ||[[Horst-Dieter Höttges]]
+|-
+|MF ||'''4''' ||[[Franz Beckenbauer]] || || {{suboff|72}}
+|-
+|MF ||'''12'''||[[Wolfgang Overath]]
+|-
+|RW ||'''14'''||[[Reinhard Libuda]]
+|-
+|FW ||'''9''' ||[[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|FW ||'''13'''||[[Gerd Müller]]
+|-
+|LW ||'''17'''||[[Hannes Löhr]] || || {{suboff|58}}
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Wolfgang Weber]] || || {{subon|72}}
+|-
+|FW ||'''20'''||[[Jürgen Grabowski]] || || {{subon|58}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Simeon Simeonov (footballer, born 1946)|Simeon Simeonov]]
+|-
+|DF ||'''12'''||[[Milko Gaydarski]]
+|-
+|DF ||'''14'''||[[Dobromir Zhechev]]
+|-
+|DF ||'''17'''||[[Todor Kolev (footballer, born 1942)|Todor Kolev]]
+|-
+|DF ||'''6''' ||[[Dimitar Penev]]
+|-
+|MF ||'''15'''||[[Boris Gaganelov]] ([[Captain (association football)|c]])|| || {{suboff|58}}
+|-
+|MF ||'''16'''||[[Asparuh Nikodimov]]
+|-
+|MF ||'''11'''||[[Dinko Dermendzhiev]] || || {{suboff|46}}
+|-
+|MF ||'''19'''||[[Georgi Asparuhov]]
+|-
+|FW ||'''18'''||[[Dimitar Marashliev]]
+|-
+|FW ||'''8''' ||[[Hristo Bonev]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Aleksandar Shalamanov]] || || {{subon|58}}
+|-
+|MF ||'''20'''||[[Vasil Mitkov]] || || {{subon|46}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Stefan Bozhkov]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Guillermo Velásquez (referee)|Guillermo Velasquez]] ([[Colombian Football Federation|Colombia]])
+<br />[[Antonio Saldanha Ribeiro]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+=== West Germany vs Peru ===
+<onlyinclude>{{#invoke:Football box|main|section=4-5
+|date={{Start date|1970|6|10|df=y}}
+|time=16:00
+|team1={{fb-rt|FRG}}
+|score={{score link|1970 FIFA World Cup Group 4#West Germany vs Peru|3–1}}
+|team2={{fb|PER}}
+|goals1=
+*[[Gerd Müller|Müller]] {{goal|19||26||39}}
+|goals2=
+*[[Teófilo Cubillas|Cubillas]] {{goal|44}}
+|stadium=[[Estadio León|Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=17,875
+|referee=[[Abel Aguilar Elizalde]] ([[Federación Mexicana de Fútbol Asociación|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1840 |title=Germany FR vs Peru {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1840/index.html |title=1970 FIFA World Cup Mexico – Matches – Germany FR v Peru |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231151054/http://www.fifa.com/worldcup/matches/round=250/match=1840/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _vneckwhite
+ |pattern_ra = _whiteborder
+ |pattern_sh = 
+ |pattern_so = _whitetop
+ |leftarm    = 008020
+ |body       = 008020
+ |rightarm   = 008020
+ |shorts     = FFFFFF
+ |socks      = 008020
+ |title      = West Germany
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _redrightsash
+ |pattern_ra = 
+ |pattern_sh = _redsides
+ |pattern_so = _redtop
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Peru
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|DF ||'''7''' ||[[Berti Vogts]]
+|-
+|DF ||'''3''' ||[[Karl-Heinz Schnellinger]]
+|-
+|DF ||'''11'''||[[Klaus Fichtel]]
+|-
+|DF ||'''2''' ||[[Horst-Dieter Höttges]] || || {{suboff|46}}
+|-
+|MF ||'''4''' ||[[Franz Beckenbauer]]
+|-
+|MF ||'''12'''||[[Wolfgang Overath]]
+|-
+|RW ||'''14'''||[[Reinhard Libuda]] || || {{suboff|75}}
+|-
+|FW ||'''9''' ||[[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|FW ||'''13'''||[[Gerd Müller]]
+|-
+|LW ||'''17'''||[[Hannes Löhr]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|DF ||'''15'''||[[Bernd Patzke]] || || {{subon|46}}
+|-
+|FW ||'''20'''||[[Jürgen Grabowski]] || || {{subon|75}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Rubiños]]
+|-
+|DF ||'''13'''||[[Pedro González (Peruvian footballer)|Pedro González]]
+|-
+|DF ||'''3''' ||[[Orlando de la Torre]]
+|-
+|DF ||'''4''' ||[[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Nicolás Fuentes]]
+|-
+|MF ||'''6''' ||[[Ramón Mifflin]]
+|-
+|MF ||'''7''' ||[[Roberto Challe]] || || {{suboff|72}}
+|-
+|FW ||'''20'''||[[Hugo Sotil]]
+|-
+|FW ||'''9''' ||[[Pedro Pablo León]] || || {{suboff|56}}
+|-
+|FW ||'''11'''||[[Alberto Gallardo]]
+|-
+|FW ||'''10'''||[[Teófilo Cubillas]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Luis Cruzado]] || || {{subon|72}}
+|-
+|FW ||'''22'''||[[Oswaldo Ramírez]] || || {{subon|56}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|BRA|1968}} [[Didi (footballer, born 1928)|Didi]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[José María Ortiz de Mendíbil]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Antonio Sbardella]] ([[Italian Football Federation|Italy]])
+|}
+
+=== Bulgaria vs Morocco ===
+<onlyinclude>{{#invoke:Football box|main|section=4-6
+|date={{Start date|1970|6|11|df=y}}
+|time=16:00
+|team1={{fb-rt|BUL|1968}}
+|score={{score link|1970 FIFA World Cup Group 4#Bulgaria vs Morocco|1–1}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Dobromir Zhechev|Zhechev]] {{goal|40}}
+|goals2=
+*[[Maouhoub Ghazouani|Ghazouani]] {{goal|61}}
+|stadium=[[Estadio León|Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=12,299
+|referee=[[Antonio Ribeiro Saldanha]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1779 |title=Bulgaria vs Morocco {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1779/index.html |title=1970 FIFA World Cup Mexico – Matches – Bulgaria v Morocco |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223102541/http://www.fifa.com/worldcup/matches/round=250/match=1779/index.html |archive-date=23 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _greencollar
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _band_white
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 068619
+ |socks      = FF0000
+ |title      = Bulgaria
+}}
+|{{Football kit
+ |pattern_la = _greenborder
+ |pattern_b  = _mar-historical
+ |pattern_ra = _greenborder
+ |pattern_sh = 
+ |pattern_so = _greentop
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Morocco
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13'''||[[Stoyan Yordanov]]
+|-
+|DF ||'''12'''||[[Milko Gaydarski]]
+|-
+|DF ||'''14'''||[[Dobromir Zhechev]]
+|-
+|DF ||'''10'''||[[Dimitar Yakimov]] || || {{suboff|50}}
+|-
+|DF ||'''6''' ||[[Dimitar Penev]] || || {{suboff|42}}
+|-
+|MF ||'''2''' ||[[Aleksandar Shalamanov]] ([[Captain (association football)|c]])
+|-
+|MF ||'''16'''||[[Asparuh Nikodimov]]
+|-
+|MF ||'''17'''||[[Todor Kolev (footballer, born 1942)|Todor Kolev]]
+|-
+|MF ||'''7''' ||[[Georgi Popov]]
+|-
+|FW ||'''20'''||[[Vasil Mitkov]]
+|-
+|FW ||'''19'''||[[Georgi Asparuhov]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Ivan Dimitrov (footballer)|Ivan Dimitrov]] || || {{subon|42}}
+|-
+|FW ||'''8''' ||[[Hristo Bonev]] || || {{subon|50}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Stefan Bozhkov]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Mohammed Hazzaz]]
+|-
+|DF ||'''3''' ||[[Boujemaa Benkhrif]]
+|-
+|DF ||'''13''' ||[[Jalili Fadili]]
+|-
+|DF ||'''4''' ||[[Moulay Khanousi]]
+|-
+|DF ||'''5''' ||[[Kacem Slimani]]
+|-
+|MF ||'''6''' ||[[Mohammed Mahroufi]]
+|-
+|MF ||'''8''' ||[[Driss Bamous]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|MF ||'''10'''||[[Mohammed El Filali]]
+|-
+|MF ||'''7''' ||[[Said Ghandi]]
+|-
+|FW ||'''17'''||[[Ahmed Alaoui]] || || {{suboff|74}}
+|-
+|FW ||'''11'''||[[Maouhoub Ghazouani]]
+|-
+|colspan="3"|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Ahmed Faras]] || || {{subon|74}}
+|-
+|MF ||'''16'''||[[Moustapha Choukri]] || || {{subon|46}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|YUG}} [[Blagoje Vidinić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Tofiq Bahramov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+<br />[[Laurens van Ravens]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+==See also==
+*[[Bulgaria at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Morocco at the FIFA World Cup]]
+*[[Peru at the FIFA World Cup]]
+
+== References ==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1970 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1970 FIFA World Cup group stage|4]]
+[[Category:Peru at the 1970 FIFA World Cup|Group]]
+[[Category:West Germany at the 1970 FIFA World Cup|G]]
+[[Category:Bulgaria at the 1970 FIFA World Cup|G]]
+[[Category:Morocco at the 1970 FIFA World Cup|Group]]
+[[Category:Sport in León, Guanajuato]]
+[[Category:Football in Guanajuato]]
+[[Category:History of Guanajuato]]

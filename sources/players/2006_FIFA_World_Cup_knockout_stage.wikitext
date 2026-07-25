@@ -1,0 +1,2225 @@
+{{Short description|None}}
+{{Use dmy dates|date=June 2018}}
+The knockout stage was the second and final stage of the [[2006 FIFA World Cup]], following the group stage. The top two teams from each group (16 in total) advance to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament. A match was played between the two losing teams of the semi-finals to determine which team finished in third place.<ref>{{cite web |last=Saaid |first=Hamdan |url=https://www.rsssf.org/tables/2006full.html |title=World Cup 2006 – Match Details |publisher=[[RSSSF]] |date=7 February 2007 |access-date=30 April 2026}}</ref>
+
+''All times local ([[Central European Summer Time|CEST/UTC+2]])''
+
+==Qualified teams==
+The top two placed teams from each of the eight groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[2006 FIFA World Cup Group A|A]]
+| {{fb|GER}}
+| {{fb|ECU|1900}}
+|-
+! [[2006 FIFA World Cup Group B|B]]
+| {{fb|ENG}}
+| {{fb|SWE}}
+|-
+! [[2006 FIFA World Cup Group C|C]]
+| {{fb|ARG|1861}}
+| {{fb|NED}}
+|-
+! [[2006 FIFA World Cup Group D|D]]
+| {{fb|POR}}
+| {{fb|MEX}}
+|-
+! [[2006 FIFA World Cup Group E|E]]
+| {{fb|ITA|2003}}
+| {{fb|GHA}}
+|-
+! [[2006 FIFA World Cup Group F|F]]
+| {{fb|BRA}}
+| {{fb|AUS}}
+|-
+! [[2006 FIFA World Cup Group G|G]]
+| {{fb|SUI}}
+| {{fb|FRA|1974}}
+|-
+! [[2006 FIFA World Cup Group H|H]]
+| {{fb|ESP}}
+| {{fb|UKR|1992}}
+|}
+
+==Bracket==
+{{Round16|style=white-space:nowrap
+<!-- Date–Place|Team 1|Score 1|Team 2|Score 2 -->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- round of 16 -->
+|24 June – [[Munich]] |'''{{fb|GER}}'''|'''2'''|{{fb|SWE}}|0
+|24 June – [[Leipzig]] |'''{{fb|ARG|1861}}''' {{aet}}|'''2'''|{{fb|MEX}}|1
+|26 June – [[Kaiserslautern]]|'''{{fb|ITA|2003}}'''|'''1'''|{{fb|AUS}}|0
+|26 June – [[Cologne]]|{{fb|SUI}}|0 (0)|'''{{fb|UKR|1992}}''' {{pso}}|'''0 (3)'''
+|25 June – [[Stuttgart]]|'''{{fb|ENG}}'''|'''1'''|{{fb|ECU|1900}}|0
+|25 June – [[Nuremberg]] |'''{{fb|POR}}'''|'''1'''|{{fb|NED}}|0
+|27 June – [[Dortmund]]|'''{{fb|BRA}}'''|'''3'''|{{fb|GHA}}|0
+|27 June – [[Hanover]]|{{fb|ESP}}|1|'''{{fb|FRA|1974}}'''|'''3'''
+<!-- quarter-finals -->
+|30 June – [[Berlin]]|'''{{fb|GER}}''' {{pso}}|'''1 (4)'''|{{fb|ARG|1861}}|1 (2)
+|30 June – [[Hamburg]]|'''{{fb|ITA|2003}}'''|'''3'''|{{fb|UKR|1992}}|0
+|1 July – [[Gelsenkirchen]]|{{fb|ENG}}|0 (1)|'''{{fb|POR}}''' {{pso}}|'''0 (3)'''
+|1 July – [[Frankfurt]]|{{fb|BRA}}|0|'''{{fb|FRA|1974}}'''|'''1'''
+<!-- semi-finals -->
+|4 July – [[Dortmund]]|{{fb|GER}}|0|'''{{fb|ITA|2003}}''' {{aet}}|'''2'''
+|5 July – [[Munich]]|{{fb|POR}}|0|'''{{fb|FRA|1974}}'''|'''1'''
+<!-- final -->
+|9 July – [[Berlin]]|'''{{fb|ITA|2003}}''' {{pso}}|'''1 (5)'''|{{fb|FRA|1974}}|1 (3)
+<!-- third place -->
+|8 July – [[Stuttgart]]|'''{{fb|GER}}'''|'''3'''|{{fb|POR}}|1
+|widescore=yes
+}}
+
+==Round of 16==
+
+===Germany vs Sweden===
+Germany progressed thanks to two goals from [[Lukas Podolski]] inside the opening 12 minutes. His first was in the fourth minute; German captain [[Michael Ballack]] sent a pass to [[Miroslav Klose]],  who was tackled by goalkeeper [[Andreas Isaksson]], only for an onrushing Podolski to turn the ball in.<ref name="BBC SPORT | Football | World Cup 2006 | Germany 2-0 Sweden">{{Cite news | url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4991466.stm |title = Germany 2-0 Sweden|date = 24 June 2006}}</ref> Eight minutes later, a pass from Klose found Podolski, who scored his second goal.<ref name="BBC SPORT | Football | World Cup 2006 | Germany 2-0 Sweden" /> On 35 minutes, [[Teddy Lučić]] received a second yellow card for a foul on Klose.<ref name="BBC SPORT | Football | World Cup 2006 | Germany 2-0 Sweden" /> In the 52nd minute, [[Henrik Larsson]] won a penalty for Sweden when he was challenged by [[Christoph Metzelder]], only for Larsson himself to shoot the ball over the crossbar.<ref>{{Cite news | url=https://www.theguardian.com/football/2006/jun/24/worldcup2006.match4 |title = Germany 2 - 0 Sweden|newspaper = The Guardian|date = 24 June 2006|last1 = Ashdown|first1 = John}}</ref> Germany held out for a 2–0 win.
+
+<section begin="R16-1" />{{Football box
+|date={{Start date|2006|6|24|df=y}}
+|time=17:00
+|team1={{fb-rt|GER}}
+|score={{score link|2006 FIFA World Cup knockout stage#Germany vs Sweden|2–0}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Lukas Podolski|Podolski]] {{goal|4||12}}
+|goals2=
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=66,000
+|referee=[[Carlos Eugênio Simon]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10162/97410049 |title=Germany vs Sweden {{!}} Round of 16 {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410200/match=97410049/index.html |title=2006 FIFA World Cup Germany – Matches – Germany v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228224852/http://www.fifa.com/worldcup/matches/round=97410200/match=97410049/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/49_0624_muc_ger-swe_fulltime__1151168327.pdf |title=Match Report – Round of 16 – Germany v Sweden |publisher=[[FIFA]] |date=24 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054853/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/49_0624_muc_ger-swe_fulltime__1151168327.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger06H
+ |pattern_b  = _ger06H
+ |pattern_ra = _ger06H
+ |pattern_sh = _ger06H
+ |pattern_so = _adidasblackl
+ |leftarm    = 000000
+ |body       = FFFFFF
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany
+}}
+|{{Football kit
+ |pattern_la = _sweh06
+ |pattern_b  = _sweh06
+ |pattern_ra = _sweh06
+ |pattern_sh = _sweh06
+ |pattern_so = 
+ |leftarm    = FCD20E
+ |body       = FCD20E
+ |rightarm   = FCD20E
+ |shorts     = 004FA3
+ |socks      = FCD20E
+ |title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jens Lehmann]]
+|-
+|RB ||'''3''' ||[[Arne Friedrich]]
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''21'''||[[Christoph Metzelder]]
+|-
+|LB ||'''16'''||[[Philipp Lahm]]
+|-
+|RM ||'''19'''||[[Bernd Schneider (football)|Bernd Schneider]]
+|-
+|CM ||'''8''' ||[[Torsten Frings]] || {{yel|27}} || {{suboff|85}}
+|-
+|CM ||'''13'''||[[Michael Ballack]]  ([[Captain (association football)|c]])
+|-
+|LM ||'''7''' ||[[Bastian Schweinsteiger]] || || {{suboff|72}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]]
+|-
+|CF ||'''20'''||[[Lukas Podolski]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Tim Borowski]] || || {{subon|72}}
+|-
+|FW ||'''10'''||[[Oliver Neuville]] || || {{subon|74}}
+|-
+|MF ||'''5''' ||[[Sebastian Kehl]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:Germany-Sweden line ups.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Isaksson]]
+|-
+|RB ||'''7''' ||[[Niclas Alexandersson]]
+|-
+|CB ||'''3''' ||[[Olof Mellberg]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Teddy Lučić]] || {{sent off|2|28|35}}
+|-
+|LB ||'''5''' ||[[Erik Edman]]
+|-
+|DM ||'''6''' ||[[Tobias Linderoth]]
+|-
+|RM ||'''18'''||[[Mattias Jonson]] || {{yel|48}} || {{suboff|52}}
+|-
+|LM ||'''9''' ||[[Freddie Ljungberg]]
+|-
+|AM ||'''16'''||[[Kim Källström]] || || {{suboff|39}}
+|-
+|CF ||'''10'''||[[Zlatan Ibrahimović]] || || {{suboff|72}}
+|-
+|CF ||'''11'''||[[Henrik Larsson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Petter Hansson]] || || {{subon|39}}
+|-
+|MF ||'''21'''||[[Christian Wilhelmsson]] || || {{subon|52}}
+|-
+|FW ||'''20'''||[[Marcus Allbäck]] || {{yel|78}} || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Lars Lagerbäck]]
+|}
+|}
+{{wikinews|Germany book quarter-final spot with 2-0 win over Sweden}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Miroslav Klose]] (Germany)
+
+'''Assistant referees:'''
+<br />Aristeu Tavares ([[Brazilian Football Confederation|Brazil]])
+<br />Edmílson Corona ([[Brazilian Football Confederation|Brazil]])
+<br />'''Fourth official:'''
+<br />[[Shamsul Maidin]] ([[Football Association of Singapore|Singapore]])
+<br />'''Fifth official:'''
+<br />Prachya Permpanich ([[Football Association of Thailand|Thailand]])
+|}
+
+===Argentina vs Mexico===
+{{see also|Argentina–Mexico football rivalry}}
+<section begin="R16-2" />{{Football box
+|date={{Start date|2006|6|24|df=y}}
+|time=21:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|2006 FIFA World Cup knockout stage#Argentina vs Mexico|2–1}}
+|aet=yes
+|team2={{fb|MEX}}
+|goals1=
+*[[Hernán Crespo|Crespo]] {{goal|10}}
+*[[Maxi Rodríguez|Rodríguez]] {{goal|98}}
+|goals2=
+*[[Rafael Márquez|Márquez]] {{goal|6}}
+|stadium=[[Red Bull Arena (Leipzig)|Zentralstadion]], [[Leipzig]]
+|attendance=43,000
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10162/97410050 |title=Argentina vs Mexico {{!}} Round of 16 {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410200/match=97410050/index.html |title=2006 FIFA World Cup Germany – Matches – Argentina v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229073437/http://www.fifa.com/worldcup/matches/round=97410200/match=97410050/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/50_0624_lei_arg-mex_fulltime__1151185431.pdf |title=Match Report – Round of 16 – Argentina v Mexico |publisher=[[FIFA]] |date=24 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054923/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/50_0624_lei_arg-mex_fulltime__1151185431.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-2" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg06h1
+ |pattern_b  = _arg06h1
+ |pattern_ra = _arg06h1
+ |pattern_sh = _arg06h
+ |pattern_so = _arg06hl
+ |leftarm    = 75AADB
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _mexh06
+ |pattern_b  = _mexh06
+ |pattern_ra = _mexh06
+ |pattern_sh = _mexh06
+ |pattern_so = _mexh06
+ |leftarm    = 005F1E
+ |body       = 005F1E
+ |rightarm   = 005F1E
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Abbondanzieri]]
+|-
+|RB ||'''13'''||[[Lionel Scaloni]]
+|-
+|CB ||'''2''' ||[[Roberto Ayala]]
+|-
+|CB ||'''6''' ||[[Gabriel Heinze]] || {{yel|45+1}}
+|-
+|LB ||'''3''' ||[[Juan Pablo Sorín]] ([[Captain (association football)|c]]) || {{yel|112}}
+|-
+|DM ||'''8''' ||[[Javier Mascherano]]
+|-
+|RM ||'''5''' ||[[Esteban Cambiasso]] || || {{suboff|76}}
+|-
+|LM ||'''18'''||[[Maxi Rodríguez]]
+|-
+|AM ||'''10'''||[[Juan Román Riquelme]]
+|-
+|CF ||'''7''' ||[[Javier Saviola]] || || {{suboff|84}}
+|-
+|CF ||'''9''' ||[[Hernán Crespo]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Carlos Tevez]] || || {{subon|75}}
+|-
+|MF ||'''16'''||[[Pablo Aimar]] || || {{subon|76}}
+|-
+|FW ||'''19'''||[[Lionel Messi]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Pékerman]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"  align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oswaldo Sánchez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]]) || {{yel|70}}
+|-
+|CB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|CB ||'''3''' ||[[Carlos Salcido]]
+|-
+|RM ||'''16'''||[[Mario Méndez (Mexican footballer)|Mario Méndez]]
+|-
+|CM ||'''15'''||[[José Antonio Castro]] || {{yel|82}}
+|-
+|CM ||'''8''' ||[[Pável Pardo]] || || {{suboff|38}}
+|-
+|CM ||'''11'''||[[Ramón Morales]] || || {{suboff|74}}
+|-
+|LM ||'''18'''||[[Andrés Guardado]] || || {{suboff|66}}
+|-
+|CF ||'''17'''||[[Francisco Fonseca]] || {{yel|119}}
+|-
+|CF ||'''9''' ||[[Jared Borgetti]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Gerardo Torrado]] || {{yel|118}} || {{subon|38}}
+|-
+|MF ||'''14'''||[[Gonzalo Pineda]] || || {{subon|66}}
+|-
+|MF ||'''7''' ||[[Sinha (footballer)|Sinha]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Ricardo La Volpe]]
+|}
+|}
+{{wikinews|Argentina score in extra-time; beat Mexico, get to quarter-finals}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Maxi Rodríguez]] (Argentina)
+
+'''Assistant referees:'''
+<br />Francesco Buragina ([[Swiss Football Association|Switzerland]])
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+<br />'''Fourth official:'''
+<br />[[Khalil Al Ghamdi]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />'''Fifth official:'''
+<br />Fathi Arabati ([[Jordan Football Association|Jordan]])
+|}
+
+===England vs Ecuador===
+<section begin="R16-3" />{{Football box
+|date={{Start date|2006|6|25|df=y}}
+|time=17:00
+|team1={{fb-rt|ENG}}
+|score={{score link|2006 FIFA World Cup knockout stage#England vs Ecuador|1–0}}
+|team2={{fb|ECU|1900}}
+|goals1=
+*[[David Beckham|Beckham]] {{goal|60}}
+|goals2=
+|stadium=[[MHPArena|Gottlieb-Daimler-Stadion]], [[Stuttgart]]
+|attendance=52,000
+|referee=[[Frank De Bleeckere]] ([[Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10162/97410051 |title=England vs Ecuador {{!}} Round of 16 {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410200/match=97410051/index.html |title=2006 FIFA World Cup Germany – Matches – England v Ecuador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231160047/http://www.fifa.com/worldcup/matches/round=97410200/match=97410051/index.html |archive-date=31 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/51_0625_stu_eng-ecu_fulltime__1151254490.pdf |title=Match Report – Round of 16 – England v Ecuador |publisher=[[FIFA]] |date=25 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054930/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/51_0625_stu_eng-ecu_fulltime__1151254490.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-3" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _engh06
+ |pattern_b  = _engh06
+ |pattern_ra = _engh06
+ |pattern_sh = _engh06
+ |pattern_so = _engh06
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 2A325E
+ |socks      = FFFFFF
+ |title      = England
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _ecuh06
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 2B51A3
+ |body       = FCD116
+ |rightarm   = FCD116
+ |shorts     = 2B51A3
+ |socks      = EF4135
+ |title      = Ecuador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Paul Robinson (footballer, born 1979)|Paul Robinson]] || {{yel|78}}
+|-
+|RB ||'''16'''||[[Owen Hargreaves]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[John Terry]] || {{yel|18}}
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|DM ||'''18'''||[[Michael Carrick]]
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]]) || || {{suboff|87}}
+|-
+|CM ||'''4''' ||[[Steven Gerrard]] || || {{suboff|90+2}}
+|-
+|CM ||'''8''' ||[[Frank Lampard]]
+|-
+|LM ||'''11'''||[[Joe Cole]] || || {{suboff|77}}
+|-
+|CF ||'''9''' ||[[Wayne Rooney]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''15'''||[[Jamie Carragher]] || {{yel|82}} || {{subon|77}}
+|-
+|MF ||'''19'''||[[Aaron Lennon]] || || {{subon|87}}
+|-
+|MF ||'''20'''||[[Stewart Downing]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|valign="top"|[[File:England-Ecuador line ups.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Cristian Mora]]
+|-
+|RB ||'''4''' ||[[Ulises de la Cruz]] || {{yel|67}}
+|-
+|CB ||'''3''' ||[[Iván Hurtado]] ([[Captain (association football)|c]])
+|-
+|CB ||'''17'''||[[Giovanny Espinoza]]
+|-
+|LB ||'''18'''||[[Neicer Reasco]]
+|-
+|RM ||'''16'''||[[Antonio Valencia]] || {{yel|24}}
+|-
+|CM ||'''14'''||[[Segundo Castillo (footballer, born 1982)|Segundo Castillo]]
+|-
+|CM ||'''20'''||[[Edwin Tenorio]] || || {{suboff|69}}
+|-
+|LM ||'''8''' ||[[Édison Méndez]]
+|-
+|CF ||'''21'''||[[Carlos Tenorio]] || {{yel|37}} || {{suboff|72}}
+|-
+|CF ||'''11'''||[[Agustín Delgado]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Christian Lara (footballer)|Christian Lara]] || || {{subon|69}}
+|-
+|FW ||'''10'''||[[Iván Kaviedes]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|COL}} [[Luis Fernando Suárez]]
+|}
+|}
+{{wikinews|England do enough against Ecuador; through to quarter-final}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[John Terry]] (England)
+
+'''Assistant referees:'''
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])
+<br />Walter Vromans ([[Royal Belgian Football Association|Belgium]])
+<br />'''Fourth official:'''
+<br />[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+<br />'''Fifth official:'''
+<br />José Navia ([[Colombian Football Federation|Colombia]])
+|}
+
+===Portugal vs Netherlands===
+{{main|Battle of Nuremberg (2006 FIFA World Cup)}}
+<section begin=R16-4 />{{#lst:Battle of Nuremberg (2006 FIFA World Cup)|R16-4}}<section end=R16-4 />
+{{#lst:Battle of Nuremberg (2006 FIFA World Cup)|Line-ups}}
+
+===Italy vs Australia===
+This fixture was the first time the two teams had played each other,<ref >{{Cite web |website=11v11 |title=Italy national football team: record v Australia |url=https://www.11v11.com/teams/italy/tab/opposingTeams/opposition/Australia/}}</ref> and also the first time Australia had participated in a knockout fixture at a World Cup.
+
+Italy created early chances in the first half via [[Alberto Gilardino]] and [[Luca Toni]], with Toni's powerful strike being parried away from the Australia goal by [[Mark Schwarzer|Mark Schwarzer's]] leg.<ref name="gentlemanultraItalyAus">{{Cite web |website=The Guardian Sport Network|last=Santangelo |first=Matthew |date=19 June 2018 |title=The penalty that salvaged a dream: Francesco Totti vs. Australia (2006) |url=https://www.gentlemanultra.com/2018/06/19/goal-o-the-times-francesco-totti-vs-australia-world-cup-2006/}}</ref> Australia had their best chance via [[Scott Chipperfield]], who shot directly at Italy goalkeeper [[Gianluigi Buffon]].<ref name="FoxSportsItalyAus" >{{Cite web |last=Polychronis |first=Jacob |website=Fox Sports|date=26 June 2020 |title=‘You don’t go down’: Moment that broke Australia — and the ‘what if’ that will always drive us mad |url=https://www.foxsports.com.au/football/fifa-world-cup-football-news-australia-vs-italy-revisited-germany-2006-lucas-neill-fabio-grosso-dive/news-story/523b7ed6c03fe3449417b99458591e02}}</ref>
+
+Early in the second half, Italy were reduced to 10 men when defender [[Marco Materazzi]] was given a straight red card for a two-footed tackle on [[Mark Bresciano]].<ref name="FoxSportsItalyAus"/> Australia dominated possession but failed to capitalise on having an extra man - Chipperfield had another shot at goal on a tight angle which was easily saved, while [[Tim Cahill]] almost scored via a header soon afterwards.<ref name="FoxSportsItalyAus"/>
+
+Deep into stoppage time, with the match still at 0–0 and seemingly headed for extra time, [[Fabio Grosso]] found space to cut into the Australia penalty box, beating Bresciano in the process. As he closed in on the Australia goal, skipper [[Lucas Neill]] went to ground in an attempt to tackle the ball away, and Grosso made contact with Neill's prostrate body and fell, earning a penalty kick.<ref name="gentlemanultraItalyAus"/>
+
+Despite pleas from the Australian players, the penalty stood, and [[Francesco Totti]] struck the resultant penalty into the top left corner.<ref name="gentlemanultraItalyAus"/> Referee [[Luis Medina Cantalejo]] immediately blew full-time, ending the match 1–0, thereby eliminating Australia. The penalty was the first last minute deciding goal to be scored from the penalty spot in World Cup history, and with the victory, Italy remained unbeaten in their last 22 international fixtures–their longest undefeated sequence since 1939.<ref >{{Cite web |website=BBC Sport |date=26 June 2006 |title=BBC Sport |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4991534.stm}}</ref>
+
+After the match, Italy coach [[Marcello Lippi]] agreed with the penalty decision, and acknowledged that Australia dominated possession and put his team under pressure when Materazzi was dismissed, but insisted that Australia looked unlikely to score.<ref >{{Cite web |website=The Age |date=28 June 2006 |title=Italy adamant Grosso did not dive for penalty |url=https://www.theage.com.au/sport/soccer/fifa-world-cup-2018/italy-adamant-grosso-did-not-dive-for-penalty-20060628-ge2lu9.html}}</ref> Australia coach [[Guus Hiddink]] stated the penalty decision was questionable and later decided to step down as Australia coach and take a new role with the [[Russia national football team|Russian national side]].<ref >{{Cite web |last=Watt |first=Stuart | website=ABC News|date=27 June 2006 |title=Last-gasp penalty breaks Australian hearts |url=https://www.abc.net.au/news/2006-06-27/last-gasp-penalty-breaks-australian-hearts/1787878}}</ref>
+
+In October 2006, then-FIFA president [[Sepp Blatter]] apologised to Australian fans and said Australia should have reached the quarter-finals instead of eventual champions Italy.<ref >{{Cite web |website=Al Jazeera |date=29 October 2006 |title=Blatter apologises for Grosso penalty |url=https://www.aljazeera.com/news/2006/10/29/blatter-apologises-for-grosso-penalty}}</ref>
+
+In 2010, Grosso told ''Football+ Magazine'' that he "accentuated the challenge a little bit" when Neill slid in.<ref >{{Cite web |website=Fox Sports|last=Rayson |first=Zac |date=19 November 2022 |title=‘Maybe I accentuated it’: The ice-cold claim and brutal reality of Socceroos’ greatest heartbreak |url=https://www.foxsports.com.au/football/world-cup/fifa-world-cup-2022-socceroos-moments-2006-world-cup-socceroos-vs-italy-lucas-neill-fabio-grosso-dive-video/news-story/f260ecedb87a78830807167d10988cf1}}</ref>
+<section begin="R16-5" />{{Football box
+|date={{Start date|2006|6|26|df=y}}
+|time=17:00
+|team1={{fb-rt|ITA|2003}}
+|score={{score link|2006 FIFA World Cup knockout stage#Italy vs Australia|1–0}}
+|team2={{fb|AUS}}
+|goals1=
+*[[Francesco Totti|Totti]] {{goal|90+5|pen.}}
+|goals2=
+|stadium=[[Fritz-Walter-Stadion]], [[Kaiserslautern]]
+|attendance=46,000
+|referee=[[Luis Medina Cantalejo]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10162/97410053 |title=Italy vs Australia {{!}} Round of 16 {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410200/match=97410053/index.html |title=2006 FIFA World Cup Germany – Matches – Italy v Australia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217183828/http://www.fifa.com/worldcup/matches/round=97410200/match=97410053/index.html |archive-date=17 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/53_0626_kai_ita-aus_fulltime__1151341189.pdf |title=Match Report – Round of 16 – Italy v Australia |publisher=[[FIFA]] |date=26 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055016/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/53_0626_kai_ita-aus_fulltime__1151341189.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-5" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la            = _ita06h2
+| pattern_b             = _ita06h2
+| pattern_ra            = _ita06h2
+| pattern_sh            = _ita06h2
+| pattern_so            = _ita06h2l
+| leftarm               = 2050C0
+| body                  = 2050C0
+| rightarm              = 2050C0
+| shorts                = FFFFFF
+| socks                 = 2050C0
+ |title      = Italy
+}}
+|{{Football kit
+| pattern_la            = _aus06h
+| pattern_b             = _aus06h
+| pattern_ra            = _aus06h
+| pattern_sh            = _shorts
+| pattern_so            = _aus06hl
+| leftarm               = FFDF00
+| body                  = FFDF00
+| rightarm              = FFDF00
+| shorts                = 006040
+| socks                 = FFDF00
+ |title      = Australia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]] || {{yel|90+1}}
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''23'''||[[Marco Materazzi]] || {{sent off|0|50}}
+|-
+|LB ||'''3''' ||[[Fabio Grosso]] || {{yel|29}}
+|-
+|RM ||'''20'''||[[Simone Perrotta]]
+|-
+|CM ||'''21'''||[[Andrea Pirlo]]
+|-
+|LM ||'''8''' ||[[Gennaro Gattuso]] || {{yel|89}}
+|-
+|AM ||'''7''' ||[[Alessandro Del Piero]] || || {{suboff|75}}
+|-
+|CF ||'''11'''||[[Alberto Gilardino]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Luca Toni]] || || {{suboff|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Vincenzo Iaquinta]] || || {{subon|46}}
+|-
+|DF ||'''6''' ||[[Andrea Barzagli]] || || {{subon|56}}
+|-
+|FW ||'''10'''||[[Francesco Totti]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcello Lippi]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mark Schwarzer]]
+|-
+|CB ||'''3''' ||[[Craig Moore]]
+|-
+|CB ||'''2''' ||[[Lucas Neill]]
+|-
+|CB ||'''14'''||[[Scott Chipperfield]]
+|-
+|RM ||'''5''' ||[[Jason Culina]]
+|-
+|CM ||'''13'''||[[Vince Grella]] || {{yel|23}}
+|-
+|LM ||'''20'''||[[Luke Wilkshire]] || {{yel|61}}
+|-
+|RW ||'''21'''||[[Mile Sterjovski]] || || {{suboff|81}}
+|-
+|AM ||'''4''' ||[[Tim Cahill]] || {{yel|49}}
+|-
+|LW ||'''23'''||[[Mark Bresciano]]
+|-
+|CF ||'''9''' ||[[Mark Viduka]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[John Aloisi]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|}
+{{wikinews|Italy win with last kick against Australia; into quarter-finals}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Gianluigi Buffon]] (Italy)
+
+'''Assistant referees:'''
+<br />Víctoriano Giráldez Carrasco ([[Royal Spanish Football Federation|Spain]])
+<br />Pedro Medina Hernández ([[Royal Spanish Football Federation|Spain]])
+<br />'''Fourth official:'''
+<br />[[Éric Poulat]] ([[French Football Federation|France]])
+<br />'''Fifth official:'''
+<br />Lionel Dagorne ([[French Football Federation|France]])
+|}
+
+===Switzerland vs Ukraine===
+Despite their early elimination, Switzerland became the first team in the history of the FIFA World Cup to leave an edition of the tournament without conceding a single goal.<ref>{{cite web|date=27 June 2006|title=2006 FIFA World Cup - News - Out but no goals against |url=https://www.fifa.com/worldcup/news/out-but-goals-against-23830|archive-url=https://web.archive.org/web/20200926204801/https://www.fifa.com/worldcup/news/out-but-goals-against-23830|archive-date=26 September 2020|url-status=live|access-date=24 March 2021|website=www.fifa.com}}</ref>
+<section begin="R16-6" />{{Football box
+|date={{Start date|2006|6|26|df=y}}
+|time=21:00
+|team1={{fb-rt|SUI}}
+|score={{score link|2006 FIFA World Cup knockout stage#Switzerland vs Ukraine|0–0}}
+|aet=yes
+|team2={{fb|UKR|1992}}
+|goals1=
+|goals2=
+|stadium=[[RheinEnergieStadion]], [[Cologne]]
+|attendance=45,000
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|penalties1=
+*[[Marco Streller|Streller]] {{penmiss}}
+*[[Tranquillo Barnetta|Barnetta]] {{penmiss}}
+*[[Ricardo Cabanas|Cabanas]] {{penmiss}}
+|penaltyscore=0–3
+|penalties2=
+*{{penmiss}} [[Andriy Shevchenko|Shevchenko]]
+*{{pengoal}} [[Artem Milevskyi|Milevskyi]]
+*{{pengoal}} [[Serhii Rebrov|Rebrov]]
+*{{pengoal}} [[Oleh Husiev|Husiev]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10162/97410054 |title=Switzerland vs Ukraine {{!}} Round of 16 {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410200/match=97410054/index.html |title=2006 FIFA World Cup Germany – Matches – Switzerland v Ukraine |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229063021/http://www.fifa.com/worldcup/matches/round=97410200/match=97410054/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/54_0626_cgn_sui-ukr_fulltime__1151358389.pdf |title=Match Report – Round of 16 – Switzerland v Ukraine |publisher=[[FIFA]] |date=26 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055025/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/54_0626_cgn_sui-ukr_fulltime__1151358389.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-6" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _sui06h2
+| pattern_b  = _sui06h2
+| pattern_ra = _sui06h2
+| pattern_sh = _sui06h2
+| pattern_so = _puma_2006_white
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FF0000
+| socks      = FF0000
+| title      = Switzerland
+}}
+|{{Football kit
+ | pattern_la = _ukr06h
+ | pattern_b  = _ukr06h
+ | pattern_ra = _ukr06h
+ | pattern_sh = _ukr06h
+ | leftarm    = F8E052
+ | body       = F8E052
+ | rightarm   = F8E052
+ | shorts     = F8E052
+ | socks      = F8E052
+ | title      = Ukraine
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Pascal Zuberbühler]]
+|-
+|RB ||'''23'''||[[Philipp Degen]]
+|-
+|CB ||'''2''' ||[[Johan Djourou]] || || {{suboff|34}}
+|-
+|CB ||'''20'''||[[Patrick Müller (footballer)|Patrick Müller]]
+|-
+|LB ||'''3''' ||[[Ludovic Magnin]]
+|-
+|DM ||'''6''' ||[[Johann Vogel (footballer)|Johann Vogel]] ([[Captain (association football)|c]])
+|-
+|RM ||'''16'''||[[Tranquillo Barnetta]] || {{yel|59}}
+|-
+|LM ||'''8''' ||[[Raphaël Wicky]]
+|-
+|AM ||'''7''' ||[[Ricardo Cabanas]]
+|-
+|SS ||'''22'''||[[Hakan Yakin]] || || {{suboff|64}}
+|-
+|CF ||'''9''' ||[[Alexander Frei]] || || {{suboff|117}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Stéphane Grichting]] || || {{subon|34}}
+|-
+|FW ||'''11'''||[[Marco Streller]] || || {{subon|64}}
+|-
+|FW ||'''18'''||[[Mauro Lustrinelli]] || || {{subon|117}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Köbi Kuhn]]
+|}
+|valign="top"|[[File:Switzerland-Ukraine line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oleksandr Shovkovskyi]]
+|-
+|CB ||'''9''' ||[[Oleh Husyev]]
+|-
+|CB ||'''17'''||[[Vladyslav Vashchuk]]
+|-
+|CB ||'''2''' ||[[Andriy Nesmachnyi]]
+|-
+|CM ||'''8''' ||[[Oleh Shelayev]]
+|-
+|CM ||'''14'''||[[Andriy Husin]]
+|-
+|CM ||'''4''' ||[[Anatoliy Tymoschuk]]
+|-
+|AM ||'''16'''||[[Andriy Vorobey]] || || {{suboff|94}}
+|-
+|AM ||'''19'''||[[Maksym Kalynychenko]] || || {{suboff|75}}
+|-
+|SS ||'''10'''||[[Andriy Voronin]] || || {{suboff|111}}
+|-
+|CF ||'''7''' ||[[Andriy Shevchenko]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Ruslan Rotan]] || || {{subon|75}}
+|-
+|FW ||'''11'''||[[Serhii Rebrov]] || || {{subon|94}}
+|-
+|FW ||'''15'''||[[Artem Milevskyi]] || || {{subon|111}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Oleg Blokhin]]
+|}
+|}
+{{wikinews|Ukraine win penalty shootout; beat Switzerland for quarter-final spot}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Oleksandr Shovkovskyi]] (Ukraine)
+
+'''Assistant referees:'''
+<br />José Ramírez ([[Mexican Football Federation|Mexico]])
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />'''Fourth official:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''Fifth official:'''
+<br />Justice Yeboah ([[Ghana Football Association|Ghana]])
+|}
+
+===Brazil vs Ghana===
+<section begin="R16-7" />{{Football box
+|date={{Start date|2006|6|27|df=y}}
+|time=17:00
+|team1={{fb-rt|BRA}}
+|score={{score link|2006 FIFA World Cup knockout stage#Brazil vs Ghana|3–0}}
+|team2={{fb|GHA}}
+|goals1=
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|5}}
+*[[Adriano (footballer, born February 1982)|Adriano]] {{goal|45+1}}
+*[[Zé Roberto]] {{goal|84}}
+|goals2=
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=65,000
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10162/97410055 |title=Brazil vs Ghana {{!}} Round of 16 {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410200/match=97410055/index.html |title=2006 FIFA World Cup Germany – Matches – Brazil v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229073118/http://www.fifa.com/worldcup/matches/round=97410200/match=97410055/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/55_0627_dor_bra-gha_fulltime__1151427423.pdf |title=Match Report – Round of 16 – Brazil v Ghana |publisher=[[FIFA]] |date=27 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055032/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/55_0627_dor_bra-gha_fulltime__1151427423.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-7" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _brah06
+ |pattern_ra = _Brazil_home_2006
+ |pattern_sh = _white stripes
+ |leftarm    = FFDA00
+ |body       = FFDA00
+ |rightarm   = FFDA00
+ |shorts     = 004FA3
+ |socks      = 004FA3
+ |title      = Brazil
+}}
+|{{Football kit
+ | pattern_la            = _gha06h1
+ | pattern_b             = _gha06h1
+ | pattern_ra            = _gha06h1
+ | pattern_sh            = _gha06h1
+ | pattern_so            = _puma_2006_black
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Ghana
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dida (footballer, born 1973)|Dida]]
+|-
+|RB ||'''2''' ||[[Cafu]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Lúcio]]
+|-
+|CB ||'''4''' ||[[Juan (footballer, born 1979)|Juan]] || {{yel|44}}
+|-
+|LB ||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''5''' ||[[Emerson (footballer, born 1976)|Emerson]] || || {{suboff|46}}
+|-
+|CM ||'''11'''||[[Zé Roberto]]
+|-
+|AM ||'''8''' ||[[Kaká]] || || {{suboff|83}}
+|-
+|AM ||'''10'''||[[Ronaldinho]]
+|-
+|CF ||'''7''' ||[[Adriano (footballer, born February 1982)|Adriano]] || {{yel|13}} || {{suboff|61}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Gilberto Silva]] || || {{subon|46}}
+|-
+|MF ||'''19'''||[[Juninho Pernambucano|Juninho]] || || {{subon|61}}
+|-
+|MF ||'''20'''||[[Ricardinho (footballer, born May 1976)|Ricardinho]] || || {{subon|83}}
+|-
+|FW ||'''23'''||[[Robinho]]
+|-
+|GK ||'''22'''||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|valign="top"|[[File:Brazil-Ghana line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|RB ||'''15'''||[[John Paintsil]] || {{yel|29}}
+|-
+|CB ||'''5''' ||[[John Mensah]]
+|-
+|CB ||'''7''' ||[[Illiasu Shilla]]
+|-
+|LB ||'''6''' ||[[Emmanuel Pappoe]]
+|-
+|RM ||'''23'''||[[Haminu Dramani]]
+|-
+|CM ||'''18'''||[[Eric Addo]] || {{yel|38}} || {{suboff|60}}
+|-
+|CM ||'''10'''||[[Stephen Appiah]] ([[Captain (association football)|c]]) || {{yel|7}}
+|-
+|LM ||'''11'''||[[Sulley Muntari]] || {{yel|11}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] || {{sent off|2|48|81}}
+|-
+|CF ||'''14'''||[[Matthew Amoah]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[Derek Boateng]] || || {{subon|60}}
+|-
+|FW ||'''12'''||[[Alex Tachie-Mensah]] || || {{subon|70}}
+|-
+|MF ||'''8''' ||[[Michael Essien]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCG}} [[Ratomir Dujković]]
+|}
+|}
+{{wikinews|Brazil knock-out Ghana 3-0 to grab quarter-final place}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Zé Roberto]] (Brazil)
+
+'''Assistant referees:'''
+<br />Roman Slyško ([[Slovak Football Association|Slovakia]])
+<br />Martin Balko ([[Slovak Football Association|Slovakia]])
+<br />'''Fourth official:'''
+<br />[[Mark Shield]] ([[Football Federation Australia|Australia]])
+<br />'''Fifth official:'''
+<br />Nathan Gibson ([[Football Federation Australia|Australia]])
+|}
+
+===Spain vs France===
+{{see also|France–Spain football rivalry}}
+<section begin="R16-8" />{{Football box
+|date={{Start date|2006|6|27|df=y}}
+|time=21:00
+|team1={{fb-rt|ESP}}
+|score={{score link|2006 FIFA World Cup knockout stage#Spain vs France|1–3}}
+|team2={{fb|FRA|1974}}
+|goals1=
+*[[David Villa|Villa]] {{goal|28|pen.}}
+|goals2=
+*[[Franck Ribéry|Ribéry]] {{goal|41}}
+*[[Patrick Vieira|Vieira]] {{goal|83}}
+*[[Zinedine Zidane|Zidane]] {{goal|90+2}}
+|stadium=[[Niedersachsenstadion]], [[Hanover]]
+|attendance=43,000
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10162/97410056 |title=Spain vs France {{!}} Round of 16 {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410200/match=97410056/index.html |title=2006 FIFA World Cup Germany – Matches – Spain v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170608123753/http://www.fifa.com/worldcup/matches/round=97410200/match=97410056/index.html |archive-date=8 June 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/56_0627_han_esp-fra_fulltime__1151441731.pdf |title=Match Report – Round of 16 – Spain v France |publisher=[[FIFA]] |date=27 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055039/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/56_0627_han_esp-fra_fulltime__1151441731.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-8" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _esp06h2
+| pattern_b             = _esp06h2
+| pattern_ra            = _esp06h2
+| pattern_sh            = _esp06h2
+| pattern_so            = _esp06h2l
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = 0000D7
+| socks                 = 0000D7
+|title                  = Spain
+}}
+|{{Football kit
+| pattern_la            = _fra06A
+| pattern_b             = _fra06A
+| pattern_ra            = _fra06A
+| pattern_sh            = _fra06H1
+| pattern_so            = _fra06Al
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+ |title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] 
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''22'''||[[Pablo Ibáñez|Pablo]]
+|-
+|CB ||'''5''' ||[[Carles Puyol]] || {{yel|82}}
+|-
+|LB ||'''3''' ||[[Mariano Pernía]]
+|-
+|CM ||'''18'''||[[Cesc Fàbregas]]
+|-
+|CM ||'''14'''||[[Xabi Alonso]]
+|-
+|CM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]] || || {{suboff|72}}
+|-
+|AM ||'''21'''||[[David Villa]] || || {{suboff|54}}
+|-
+|AM ||'''9''' ||[[Fernando Torres]]
+|-
+|CF ||'''7''' ||[[Raúl (footballer)|Raúl]] ([[Captain (association football)|c]]) || || {{suboff|54}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Luis García (footballer, born 1978)|Luis García]] || || {{subon|54}}
+|-
+|MF ||'''17'''||[[Joaquín (footballer, born 1981)|Joaquín]] || || {{subon|54}}
+|-
+|MF ||'''16'''||[[Marcos Senna]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Aragonés]]
+|}
+|valign="top"|[[File:Spain-France line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''19'''||[[Willy Sagnol]]
+|-
+|CB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''5''' ||[[William Gallas]]
+|-
+|LB ||'''3''' ||[[Eric Abidal]]
+|-
+|CM ||'''4''' ||[[Patrick Vieira]] || {{yel|68}}
+|-
+|CM ||'''6''' ||[[Claude Makélélé]]
+|-
+|RW ||'''22'''||[[Franck Ribéry]] || {{yel|87}}
+|-
+|AM ||'''10'''||[[Zinedine Zidane]] ([[Captain (association football)|c]]) || {{yel|90+1}}
+|-
+|LW ||'''7''' ||[[Florent Malouda]] || || {{suboff|74}}
+|-
+|CF ||'''12'''||[[Thierry Henry]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Sidney Govou]] || || {{subon|74}}
+|-
+|FW ||'''11'''||[[Sylvain Wiltord]] || || {{subon|88}}
+|-
+|FW ||'''20'''||[[David Trezeguet]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raymond Domenech]]
+|}
+|}
+{{wikinews|France out-wit Spain 3-1 and clinch quarter-final spot}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Patrick Vieira]] (France)
+
+'''Assistant referees:'''
+<br />Cristiano Copelli ([[Italian Football Federation|Italy]])
+<br />Alessandro Stagnoli ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''
+<br />[[Markus Merk]] ([[German Football Association|Germany]])
+<br />'''Fifth official:'''
+<br />Christian Schräer ([[German Football Association|Germany]])
+|}
+
+==Quarter-finals==
+
+===Germany vs Argentina===
+Argentina took the lead in the 49th minute with a header from [[Roberto Ayala]] after a corner from the right by [[Juan Román Riquelme]], but the South Americans’ goalkeeper [[Roberto Abbondanzieri]] was injured after the goal and his replacement [[Leo Franco]] was unable to stop [[Miroslav Klose]] from equalizing with a header from six yards out to the left with ten minutes left in regulation time. The match went to extra time. With no goals scored, the semi-final spot came down to penalties, during which German goalkeeper [[Jens Lehmann]] was seen looking at a piece of paper kept in his sock before each Argentinian player would come forward for a penalty kick. Lehmann had researched the penalty taking habits of seven players on the Argentinian team. However, only two players on his list ended up taking a penalty that day. On the attempts by those two players, Lehmann saved one and came close to saving the other.<ref>{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4991602.stm |title=Germany beat Argentina 4–2 in a penalty shoot-out after a tense quarter-final in Berlin ended 1–1 after extra-time. |publisher=BBC Sport |date=30 June 2006 |access-date=5 April 2014 }}</ref> He then had to guess on [[Esteban Cambiasso]]'s kick since he did not have any information written on his list about Cambiasso. However, he derived an educated guess from the videos he had studied and pretended to read the piece of paper and nodded his head before putting it away, implying to Cambiasso that he did in fact have information on the kicker. Lehmann guessed correctly and saved the penalty, thus winning the shoot-out for Germany.<ref>{{Cite web|url=https://www.fifa.com/tournaments/mens/worldcup/2006germany/news/origin1904-p.cxm.fifa.comthe-piece-of-paper-that-helped-germany-turn-the-page-2811265|title=The piece of paper that helped Germany turn the page|website=www.fifa.com}}</ref> "Lehmann's list" became so popular in the annals of German football history that it is now in the [[Haus der Geschichte]] museum.
+
+<section begin="QF1" />{{Football box
+|date={{Start date|2006|6|30|df=y}}
+|time=17:00
+|team1={{fb-rt|GER}}
+|score={{score link|2006 FIFA World Cup knockout stage#Germany vs Argentina|1–1}}
+|aet=yes
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Miroslav Klose|Klose]] {{goal|80}}
+|goals2=
+*[[Roberto Ayala|Ayala]] {{goal|49}}
+|stadium=[[Olympiastadion (Berlin)|Olympiastadion]], [[Berlin]]
+|attendance=72,000
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|penalties1=
+*[[Oliver Neuville|Neuville]] {{pengoal}}
+*[[Michael Ballack|Ballack]] {{pengoal}}
+*[[Lukas Podolski|Podolski]] {{pengoal}}
+*[[Tim Borowski|Borowski]] {{pengoal}}
+|penaltyscore=4–2
+|penalties2=
+*{{pengoal}} [[Julio Ricardo Cruz|Cruz]]
+*{{penmiss}} [[Roberto Ayala|Ayala]]
+*{{pengoal}} [[Maxi Rodríguez|Rodríguez]]
+*{{penmiss}} [[Esteban Cambiasso|Cambiasso]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10163/97410057 |title=Germany vs Argentina {{!}} Quarter-final {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410300/match=97410057/index.html |title=2006 FIFA World Cup Germany – Matches – Germany v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214002135/http://www.fifa.com/worldcup/matches/round=97410300/match=97410057/index.html |archive-date=14 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/57_0630_brl_ger-arg_fulltime__1151699247.pdf |title=Match Report – Quarter-final – Germany v Argentina |publisher=[[FIFA]] |date=30 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055052/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/57_0630_brl_ger-arg_fulltime__1151699247.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger06H
+ |pattern_b  = _ger06H
+ |pattern_ra = _ger06H
+ |pattern_sh = _ger06H
+ |pattern_so = _adidasblackl
+ |leftarm    = 000000
+ |body       = FFFFFF
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany
+}}
+|{{Football kit
+| pattern_la = _arg06a1
+| pattern_b  = _arg06a1
+| pattern_ra = _arg06a1
+| pattern_sh = _arg06h1
+| pattern_so = _adidasonnavyl
+| leftarm    = 000040
+| body       = 000040
+| rightarm   = 000040
+| shorts     = 000000
+| socks      = 80bfff
+| title      = Argentina
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jens Lehmann]]
+|-
+|RB ||'''3''' ||[[Arne Friedrich]] || {{yel|114}}
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''21'''||[[Christoph Metzelder]]
+|-
+|LB ||'''16'''||[[Philipp Lahm]]
+|-
+|RM ||'''19'''||[[Bernd Schneider (footballer)|Bernd Schneider]] || || {{suboff|62}}
+|-
+|CM ||'''8''' ||[[Torsten Frings]]
+|-
+|CM ||'''13'''||[[Michael Ballack]] ([[Captain (association football)|c]])
+|-
+|LM ||'''7''' ||[[Bastian Schweinsteiger]] || || {{suboff|74}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|86}}
+|-
+|CF ||'''20'''||[[Lukas Podolski]] || {{yel|3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Tim Borowski]] || || {{subon|74}}
+|-
+|MF ||'''22'''||[[David Odonkor]] || {{yel|94}} || {{subon|62}}
+|-
+|FW ||'''10'''||[[Oliver Neuville]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:Germany-Argentina line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roberto Abbondanzieri]] || || {{suboff|71}}
+|-
+|RB ||'''4''' ||[[Fabricio Coloccini]]
+|-
+|CB ||'''2''' ||[[Roberto Ayala]]
+|-
+|CB ||'''6''' ||[[Gabriel Heinze]]
+|-
+|LB ||'''3''' ||[[Juan Pablo Sorín]] ([[Captain (association football)|c]]) || {{yel|46}}
+|-
+|DM ||'''8''' ||[[Javier Mascherano]] || {{yel|60}}
+|-
+|RM ||'''18'''||[[Maxi Rodríguez]] || {{yel|88}}
+|-
+|LM ||'''22'''||[[Lucho González]]
+|-
+|AM ||'''10'''||[[Juan Román Riquelme]] || || {{suboff|72}}
+|-
+|CF ||'''9''' ||[[Hernán Crespo]] || || {{suboff|79}}
+|-
+|CF ||'''11'''||[[Carlos Tevez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Leo Franco]] || || {{subon|71}}
+|-
+|MF ||'''5''' ||[[Esteban Cambiasso]] || || {{subon|72}}
+|-
+|FW ||'''20'''||[[Julio Ricardo Cruz|Julio Cruz]] || {{yel|95}} || {{subon|79}}
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|DF ||'''17'''||[[Leandro Cufré]] || {{sent off|0|FT}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Pékerman]]
+|}
+|}
+{{wikinews|Germany master penalties to beat Argentina to semi-final spot}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Michael Ballack]] (Germany)
+
+'''Assistant referees:'''
+<br />Roman Slysko ([[Slovak Football Association|Slovakia]])
+<br />Martin Balko ([[Slovak Football Association|Slovakia]])
+<br />'''Fourth official:'''
+<br />[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+<br />'''Fifth official:'''
+<br />Francesco Buragina ([[Swiss Football Association|Switzerland]])
+|}
+
+===Italy vs Ukraine===
+<section begin="QF2" />{{Football box
+|date={{Start date|2006|6|30|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA|2003}}
+|score={{score link|2006 FIFA World Cup knockout stage#Italy vs Ukraine|3–0}}
+|team2={{fb|UKR|1992}}
+|goals1=
+*[[Gianluca Zambrotta|Zambrotta]] {{goal|6}}
+*[[Luca Toni|Toni]] {{goal|59||69}}
+|goals2=
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=50,000
+|referee=[[Frank De Bleeckere]] ([[Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10163/97410058 |title=Italy vs Ukraine {{!}} Quarter-final {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410300/match=97410058/index.html |title=2006 FIFA World Cup Germany – Matches – Italy v Ukraine |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217175246/http://www.fifa.com/worldcup/matches/round=97410300/match=97410058/index.html |archive-date=17 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/58_0630_hag_ita-ukr_fulltime__1151700866.pdf |title=Match Report – Quarter-final – Italy v Ukraine |publisher=[[FIFA]] |date=30 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055059/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/58_0630_hag_ita-ukr_fulltime__1151700866.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF2" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la            = _ita06h2
+| pattern_b             = _ita06h2
+| pattern_ra            = _ita06h2
+| pattern_sh            = _ita06h2
+| pattern_so            = _ita06h2l
+| leftarm               = 2050C0
+| body                  = 2050C0
+| rightarm              = 2050C0
+| shorts                = FFFFFF
+| socks                 = 2050C0
+ |title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _ukr06h
+ | pattern_b  = _ukr06h
+ | pattern_ra = _ukr06h
+ | pattern_sh = _ukr06h
+ | leftarm    = F8E052
+ | body       = F8E052
+ | rightarm   = F8E052
+ | shorts     = F8E052
+ | socks      = F8E052
+ | title      = Ukraine
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] 
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Andrea Barzagli]]
+|-
+|LB ||'''3''' ||[[Fabio Grosso]]
+|-
+|RM ||'''16'''||[[Mauro Camoranesi]] || || {{suboff|68}}
+|-
+|CM ||'''21'''||[[Andrea Pirlo]] || || {{suboff|68}}
+|-
+|CM ||'''8''' ||[[Gennaro Gattuso]] || || {{suboff|77}}
+|-
+|LM ||'''20'''||[[Simone Perrotta]]
+|-
+|AM ||'''10'''||[[Francesco Totti]]
+|-
+|CF ||'''9''' ||[[Luca Toni]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Simone Barone]] || || {{subon|68}}
+|-
+|DF ||'''22'''||[[Massimo Oddo]] || || {{subon|68}}
+|-
+|DF ||'''2''' ||[[Cristian Zaccardo]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcello Lippi]]
+|}
+|valign="top"|[[File:Italy-Ukraine line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oleksandr Shovkovskyi]]
+|-
+|RB ||'''9''' ||[[Oleh Husyev]] 
+|-
+|CB ||'''22'''||[[Vyacheslav Sviderskyi]] || {{yel|16}} || {{suboff|20}}
+|-
+|CB ||'''6''' ||[[Andriy Rusol]] || || {{suboff|45+2}}
+|-
+|LB ||'''2''' ||[[Andriy Nesmachnyi]]
+|-
+|CM ||'''14'''||[[Andriy Husin]]
+|-
+|CM ||'''4''' ||[[Anatoliy Tymoschuk]]
+|-
+|CM ||'''8''' ||[[Oleh Shelayev]]
+|-
+|RW ||'''15'''||[[Artem Milevskyi]] || {{yel|67}} || {{suboff|72}}
+|-
+|CF ||'''7''' ||[[Andriy Shevchenko]] ([[Captain (association football)|c]])
+|-
+|LW ||'''19'''||[[Maksym Kalynychenko]] || {{yel|21}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''16'''||[[Andriy Vorobey]] || || {{subon|20}}
+|-
+|DF ||'''17'''||[[Vladyslav Vashchuk]] || || {{subon|45+2}}
+|-
+|FW ||'''20'''||[[Oleksiy Byelik]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Oleg Blokhin]]
+|}
+|}
+{{wikinews|Italy brush Ukraine aside 3-0 to reach semi-final}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Gennaro Gattuso]] (Italy)
+
+'''Assistant referees:'''
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])
+<br />Walter Vromans ([[Royal Belgian Football Association|Belgium]])
+<br />'''Fourth official:'''
+<br />[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+<br />'''Fifth official:'''
+<br />Yoshikazu Hiroshima ([[Japan Football Association|Japan]])
+|}
+
+===England vs Portugal===
+<section begin="QF3" />{{Football box
+|date={{Start date|2006|7|1|df=y}}
+|time=17:00
+|team1={{fb-rt|ENG}}
+|score={{score link|2006 FIFA World Cup knockout stage#England vs Portugal|0–0}}
+|aet=yes
+|team2={{fb|POR}}
+|goals1=
+|goals2=
+|stadium=[[Arena AufSchalke]], [[Gelsenkirchen]]
+|attendance=52,000
+|referee=[[Horacio Elizondo]] ([[Argentine Football Association|Argentina]])
+|penalties1=
+*[[Frank Lampard|Lampard]] {{penmiss}}
+*[[Owen Hargreaves|Hargreaves]] {{pengoal}}
+*[[Steven Gerrard|Gerrard]] {{penmiss}}
+*[[Jamie Carragher|Carragher]] {{penmiss}}
+|penaltyscore=1–3
+|penalties2=
+*{{pengoal}} [[Simão Sabrosa|Simão]]
+*{{penmiss}} [[Hugo Viana|Viana]]
+*{{penmiss}} [[Petit (Portuguese footballer)|Petit]]
+*{{pengoal}} [[Hélder Postiga|Postiga]]
+*{{pengoal}} [[Cristiano Ronaldo|Ronaldo]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10163/97410059 |title=England vs Portugal {{!}} Quarter-final {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410300/match=97410059/index.html |title=2006 FIFA World Cup Germany – Matches – England v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171109051224/http://www.fifa.com/worldcup/matches/round=97410300/match=97410059/index.html |archive-date=9 November 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/59_0701_gel_eng-por_fulltime__1151776302.pdf |title=Match Report – Quarter-final – England v Portugal |publisher=[[FIFA]] |date=1 July 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055106/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/59_0701_gel_eng-por_fulltime__1151776302.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF3" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _engh06
+ |pattern_b  = _engh06
+ |pattern_ra = _engh06
+ |pattern_sh = _engh06
+ |pattern_so = _engh06
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 2A325E
+ |socks      = FFFFFF
+ |title      = England
+}}
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _por0608h
+ |pattern_ra = _Brazil_home_2006
+ |pattern_sh = _por0608h
+ |pattern_so = _por0608h
+ |leftarm    = 900020
+ |body       = 900020
+ |rightarm   = 900020
+ |shorts     = 900020
+ |socks      = 900020
+ |title      = Portugal
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Paul Robinson (footballer, born 1979)|Paul Robinson]]
+|-
+|RB ||'''2''' ||[[Gary Neville]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[John Terry]] || {{yel|30}}
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]]) || || {{suboff|52}}
+|-
+|CM ||'''4''' ||[[Steven Gerrard]]
+|-
+|CM ||'''16'''||[[Owen Hargreaves]] || {{yel|107}}
+|-
+|CM ||'''8''' ||[[Frank Lampard]]
+|-
+|LM ||'''11'''||[[Joe Cole]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||[[Wayne Rooney]] || {{sent off|0|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Aaron Lennon]] || || {{subon|52}} || {{suboff|119}}
+|-
+|FW ||'''21'''||[[Peter Crouch]] || || {{subon|65}}
+|-
+|DF ||'''15'''||[[Jamie Carragher]] || || || {{subon|119}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|valign="top"|[[File:England-Portugal line ups.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ricardo (footballer, born 1976)|Ricardo]]
+|-
+|RB ||'''13'''||[[Miguel Monteiro|Miguel]]
+|-
+|CB ||'''5''' ||[[Fernando Meira]]
+|-
+|CB ||'''16'''||[[Ricardo Carvalho]] || {{yel|111}}
+|-
+|LB ||'''14'''||[[Nuno Valente]]
+|-
+|CM ||'''19'''||[[Tiago Mendes|Tiago]] || || {{suboff|74}}
+|-
+|CM ||'''8''' ||[[Petit (Portuguese footballer)|Petit]] || {{yel|44}}
+|-
+|CM ||'''18'''||[[Maniche]]
+|-
+|AM ||'''7''' ||[[Luís Figo]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|-
+|AM ||'''17'''||[[Cristiano Ronaldo]]
+|-
+|CF ||'''9''' ||[[Pauleta]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Simão Sabrosa|Simão]] || || {{subon|63}}
+|-
+|MF ||'''10'''||[[Hugo Viana]] || || {{subon|74}}
+|-
+|FW ||'''23'''||[[Hélder Postiga]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Luiz Felipe Scolari]]
+|}
+|}
+{{wikinews|Portugal taken to penalties; beat England and reach historic semi-final}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Owen Hargreaves]] (England)
+
+'''Assistant referees:'''
+<br />Darío García ([[Argentine Football Association|Argentina]])
+<br />Rodolfo Otero ([[Argentine Football Association|Argentina]])
+<br />'''Fourth official:'''
+<br />[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+<br />'''Fifth official:'''
+<br />Aboudou Aderodjou ([[Benin Football Federation|Benin]])
+|}
+
+===Brazil vs France===
+{{external media
+| float  = right
+| video1 = {{youTube|4f6xLy4pop0|Brazil v France (Germany 2006) Full match}}
+}}
+Defending world champions Brazil went out in the quarter-finals after [[Zinedine Zidane]] found an unmarked [[Thierry Henry]] from a free kick, the striker having been given a free run at the ball after his marker, [[Roberto Carlos]], stopped to tie his shoe.<ref>{{cite web|title=10 Best World Cup Moments|url=http://siphiwetshabalala.co.za/2014/06/10/10-best-world-cup-moments/|website=siphiwetshabalala.co.za|publisher=Siphiwe Tshabalala|access-date=3 September 2014|archive-date=4 September 2014|archive-url=https://web.archive.org/web/20140904071229/http://siphiwetshabalala.co.za/2014/06/10/10-best-world-cup-moments/|url-status=dead}}</ref>
+
+<section begin="QF4" />{{Football box
+|date={{Start date|2006|7|1|df=y}}
+|time=21:00
+|team1={{fb-rt|BRA}}
+|score={{score link|2006 FIFA World Cup knockout stage#Brazil vs France|0–1}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Thierry Henry|Henry]] {{goal|57}}
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=48,000
+|referee=[[Luis Medina Cantalejo]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10163/97410060 |title=Brazil vs France {{!}} Quarter-final {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410300/match=97410060/index.html |title=2006 FIFA World Cup Germany – Matches – Brazil v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227161716/http://www.fifa.com/worldcup/matches/round=97410300/match=97410060/index.html |archive-date=27 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/60_0701_frf_bra-fra_fulltime__1151787853.pdf |title=Match Report – Quarter-final – Brazil v France |publisher=[[FIFA]] |date=1 July 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055113/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/60_0701_frf_bra-fra_fulltime__1151787853.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF4" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _brah06
+ |pattern_ra = _Brazil_home_2006
+ |pattern_sh = _white_stripes
+ |leftarm    = FFDA00
+ |body       = FFDA00
+ |rightarm   = FFDA00
+ |shorts     = 004FA3
+ |socks      = 004FA3
+ |title      = Brazil
+}}
+|{{Football kit
+| pattern_la            = _fra06A
+| pattern_b             = _fra06A
+| pattern_ra            = _fra06A
+| pattern_sh            = _fra06H1
+| pattern_so            = _fra06Al
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+ |title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dida (footballer, born 1973)|Dida]] 
+|-
+|RB ||'''2''' ||[[Cafu]] ([[Captain (association football)|c]]) || {{yel|25}} || {{suboff|76}}
+|-
+|CB ||'''3''' ||[[Lúcio]] || {{yel|75}}
+|-
+|CB ||'''4''' ||[[Juan (footballer, born 1979)|Juan]] || {{yel|45}}
+|-
+|LB ||'''6''' ||[[Roberto Carlos]]
+|-
+|RM ||'''17'''||[[Gilberto Silva]]
+|-
+|CM ||'''8''' ||[[Kaká]] || || {{suboff|79}}
+|-
+|CM ||'''19'''||[[Juninho Pernambucano|Juninho]] || || {{suboff|63}}
+|-
+|LM ||'''11'''||[[Zé Roberto]]
+|-
+|SS ||'''10'''||[[Ronaldinho]]
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]] || {{yel|45+2}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Adriano (footballer, born February 1982)|Adriano]] || || {{subon|63}}
+|-
+|DF ||'''13'''||[[Cicinho]] || || {{subon|76}}
+|-
+|FW ||'''23'''||[[Robinho]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|valign="top"|[[File:Brazil-France line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''19'''||[[Willy Sagnol]] || {{yel|74}}
+|-
+|CB ||'''15'''||[[Lilian Thuram]] || {{yel|88}}
+|-
+|CB ||'''5''' ||[[William Gallas]]
+|-
+|LB ||'''3''' ||[[Eric Abidal]]
+|-
+|CM ||'''4''' ||[[Patrick Vieira]]
+|-
+|CM ||'''6''' ||[[Claude Makélélé]]
+|-
+|RW ||'''22'''||[[Franck Ribéry]] || || {{suboff|77}}
+|-
+|AM ||'''10'''||[[Zinedine Zidane]] ([[Captain (association football)|c]])
+|-
+|LW ||'''7''' ||[[Florent Malouda]] || || {{suboff|81}}
+|-
+|CF ||'''12'''||[[Thierry Henry]] || || {{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Sidney Govou]] || || {{subon|77}}
+|-
+|FW ||'''11'''||[[Sylvain Wiltord]] || || {{subon|81}}
+|-
+|FW ||'''14'''||[[Louis Saha]] || {{yel|87}} || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raymond Domenech]]
+|}
+|}
+{{wikinews|France beat Brazil 1-0 to take last semi-final spot}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Zinedine Zidane]] (France)
+
+'''Assistant referees:'''
+<br />Víctoriano Giráldez Carrasco ([[Royal Spanish Football Federation|Spain]])
+<br />Pedro Medina Hernández ([[Royal Spanish Football Federation|Spain]])
+<br />'''Fourth official:'''
+<br />[[Mark Shield]] ([[Football Federation Australia|Australia]])
+<br />'''Fifth official:'''
+<br />Ben Wilson ([[Football Federation Australia|Australia]])
+|}
+
+==Semi-finals==
+
+===Germany vs Italy===
+{{see also|Germany–Italy football rivalry}}
+This was the fourth time that Italy defeated the host nation of tournament, after [[France national football team|France]] in [[1938 FIFA World Cup final tournament#Italy vs France|1938]], [[Mexico national football team|Mexico]] in [[1970 FIFA World Cup knockout stage#Italy vs Mexico|1970]] and [[Argentina national football team|Argentina]] in [[1978 FIFA World Cup Group 1#Argentina vs Italy|1978]].
+
+<section begin="SF1" />{{Football box
+|date={{Start date|2006|7|4|df=y}}
+|time=21:00
+|team1={{fb-rt|GER}}
+|score={{score link|2006 FIFA World Cup knockout stage#Germany vs Italy|0–2}}
+|aet=yes
+|team2={{fb|ITA|2003}}
+|goals1=
+|goals2=
+*[[Fabio Grosso|Grosso]] {{goal|119}}
+*[[Alessandro Del Piero|Del Piero]] {{goal|120+1}}
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=65,000
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10164/97410061 |title=Germany vs Italy {{!}} Semi-final {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410400/match=97410061/index.html |title=2006 FIFA World Cup Germany – Matches – Germany v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217164313/http://www.fifa.com/worldcup/matches/round=97410400/match=97410061/index.html |archive-date=17 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/61_0704_dor_ger-ita_fulltime__1152048814.pdf |title=Match Report – Semi-final – Germany v Italy |publisher=[[FIFA]] |date=4 July 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055130/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/61_0704_dor_ger-ita_fulltime__1152048814.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="SF1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger06H
+ |pattern_b  = _ger06H
+ |pattern_ra = _ger06H
+ |pattern_sh = _ger06H
+ |pattern_so = _adidasblackl
+ |leftarm    = 000000
+ |body       = FFFFFF
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany
+}}
+|{{Football kit
+ | pattern_la            = _ita06h2
+| pattern_b             = _ita06h2
+| pattern_ra            = _ita06h2
+| pattern_sh            = _ita06a2
+| pattern_so            = _ita06h2l
+| leftarm               = 2050C0
+| body                  = 2050C0
+| rightarm              = 2050C0
+| shorts                = 2050C0
+| socks                 = 2050C0
+ |title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jens Lehmann]]
+|-
+|RB ||'''3''' ||[[Arne Friedrich]]
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''21'''||[[Christoph Metzelder]] || {{yel|56}}
+|-
+|LB ||'''16'''||[[Philipp Lahm]]
+|-
+|RM ||'''19'''||[[Bernd Schneider (football)|Bernd Schneider]] || || {{suboff|83}}
+|-
+|CM ||'''13'''||[[Michael Ballack]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||[[Sebastian Kehl]]
+|-
+|LM ||'''18'''||[[Tim Borowski]] || {{yel|40}} || {{suboff|73}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|111}}
+|-
+|CF ||'''20'''||[[Lukas Podolski]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Bastian Schweinsteiger]] || || {{subon|73}}
+|-
+|MF ||'''22'''||[[David Odonkor]] || || {{subon|83}}
+|-
+|FW ||'''10'''||[[Oliver Neuville]] || || {{subon|111}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:GER-ITA 2006-07-04.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] 
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''23'''||[[Marco Materazzi]]
+|-
+|LB ||'''3''' ||[[Fabio Grosso]]
+|-
+|RM ||'''16'''||[[Mauro Camoranesi]] || {{yel|90}} || {{suboff|91}}
+|-
+|CM ||'''21'''||[[Andrea Pirlo]]
+|-
+|CM ||'''8''' ||[[Gennaro Gattuso]]
+|-
+|LM ||'''20'''||[[Simone Perrotta]] || || {{suboff|104}}
+|-
+|AM ||'''10'''||[[Francesco Totti]]
+|-
+|CF ||'''9''' ||[[Luca Toni]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Alberto Gilardino]] || || {{subon|74}}
+|-
+|FW ||'''15'''||[[Vincenzo Iaquinta]] || || {{subon|91}}
+|-
+|FW ||'''7''' ||[[Alessandro Del Piero]] || || {{subon|104}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcello Lippi]]
+|}
+|}
+{{wikinews|Italy score two late in Extra Time; hosts Germany out of FIFA World Cup}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Andrea Pirlo]] (Italy)
+
+'''Assistant referees:'''
+<br />José Ramírez ([[Mexican Football Federation|Mexico]])
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />'''Fourth official:'''
+<br />[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+<br />'''Fifth official:'''
+<br />Yoshikazu Hiroshima ([[Japan Football Association|Japan]])
+|}
+
+===Portugal vs France===
+{{see also|France–Portugal football rivalry}}
+<section begin="SF2" />{{Football box
+|date={{Start date|2006|7|5|df=y}}
+|time=21:00
+|team1={{fb-rt|POR}}
+|score={{score link|2006 FIFA World Cup knockout stage#Portugal vs France|0–1}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Zinedine Zidane|Zidane]] {{goal|33|pen.}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=66,000
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10164/97410062 |title=Portugal vs France {{!}} Semi-final {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410400/match=97410062/index.html |title=2006 FIFA World Cup Germany – Matches – Portugal v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171130175731/http://www.fifa.com/worldcup/matches/round=97410400/match=97410062/index.html |archive-date=30 November 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/62_0705_muc_por-fra_fulltime__1152133078.pdf |title=Match Report – Semi-final – Portugal v France |publisher=[[FIFA]] |date=5 July 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055152/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/62_0705_muc_por-fra_fulltime__1152133078.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="SF2" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _por0608h
+ |pattern_ra = _Brazil_home_2006
+ |pattern_sh = _por0608h
+ |pattern_so = _por0608h
+ |leftarm    = 900020
+ |body       = 900020
+ |rightarm   = 900020
+ |shorts     = 900020
+ |socks      = 900020
+ |title      = Portugal
+}}
+|{{Football kit
+| pattern_la            = _fra06A
+| pattern_b             = _fra06A
+| pattern_ra            = _fra06A
+| pattern_sh            = _fra06H1
+| pattern_so            = _fra06Al
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+ |title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ricardo (footballer, born 1976)|Ricardo]]
+|-
+|RB ||'''13'''||[[Miguel Monteiro|Miguel]] || || {{suboff|62}}
+|-
+|CB ||'''5''' ||[[Fernando Meira]]
+|-
+|CB ||'''16'''||[[Ricardo Carvalho]] || {{yel|83}}
+|-
+|LB ||'''14'''||[[Nuno Valente]]
+|-
+|CM ||'''6''' ||[[Costinha]] || || {{suboff|75}}
+|-
+|CM ||'''18'''||[[Maniche]]
+|-
+|RW ||'''7''' ||[[Luís Figo]] ([[Captain (association football)|c]])
+|-
+|AM ||'''20'''||[[Deco]]
+|-
+|LW ||'''17'''||[[Cristiano Ronaldo]]
+|-
+|CF ||'''9''' ||[[Pauleta]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Paulo Ferreira]] || || {{subon|62}}
+|-
+|FW ||'''11'''||[[Simão Sabrosa|Simão]] || || {{subon|68}}
+|-
+|FW ||'''23'''||[[Hélder Postiga]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:Portugal-France line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''19'''||[[Willy Sagnol]]
+|-
+|CB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''5''' ||[[William Gallas]]
+|-
+|LB ||'''3''' ||[[Eric Abidal]]
+|-
+|CM ||'''4''' ||[[Patrick Vieira]]
+|-
+|CM ||'''6''' ||[[Claude Makélélé]]
+|-
+|RW ||'''22'''||[[Franck Ribéry]] || || {{suboff|72}}
+|-
+|AM ||'''10'''||[[Zinedine Zidane]] ([[Captain (association football)|c]])
+|-
+|LW ||'''7''' ||[[Florent Malouda]] || || {{suboff|69}}
+|-
+|CF ||'''12'''||[[Thierry Henry]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Sylvain Wiltord]] || || {{subon|69}}
+|-
+|FW ||'''9''' ||[[Sidney Govou]] || || {{subon|72}}
+|-
+|FW ||'''14'''||[[Louis Saha]] || {{yel|87}} || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raymond Domenech]]
+|}
+|}
+{{wikinews|France beat Portugal 1-0 and reach FIFA World Cup final}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Lilian Thuram]] (France)
+
+'''Assistant referees:'''
+<br />Wálter Rial ([[Uruguayan Football Association|Uruguay]])
+<br />Pablo Fandino ([[Uruguayan Football Association|Uruguay]])
+<br />'''Fourth official:'''
+<br />[[Mark Shield]] ([[Football Federation Australia|Australia]])
+<br />'''Fifth official:'''
+<br />Nathan Gibson ([[Football Federation Australia|Australia]])
+|}
+
+==Match for third place==
+This was the third time that Portugal lost to the host nation of tournament, after [[England national football team|England]] in [[1966 FIFA World Cup knockout stage#England vs Portugal|1966]] and [[South Korea national football team|South Korea]] in [[2002 FIFA World Cup Group D#Portugal vs South Korea|2002]].
+
+<section begin="3rd" />{{Football box
+|date={{Start date|2006|7|8|df=y}}
+|time=21:00
+|team1={{fb-rt|GER}}
+|score={{score link|2006 FIFA World Cup knockout stage#Match for third place|3–1}}
+|team2={{fb|POR}}
+|goals1=
+*[[Bastian Schweinsteiger|Schweinsteiger]] {{goal|56||78}}
+*[[Petit (Portuguese footballer)|Petit]] {{goal|60|o.g.}}
+|goals2=
+*[[Nuno Gomes]] {{goal|88}}
+|stadium=[[MHPArena|Gottlieb-Daimler-Stadion]], [[Stuttgart]]
+|attendance=52,000
+|referee=[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10165/97410063 |title=Germany vs Portugal {{!}} Match for third place {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410500/match=97410063/index.html |title=2006 FIFA World Cup Germany – Matches – Germany v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228013346/http://www.fifa.com/worldcup/matches/round=97410500/match=97410063/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/63_0708_stu_ger-por_fulltime__1152391970.pdf |title=Match Report – Match for third place – Germany v Portugal |publisher=[[FIFA]] |date=8 July 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055206/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/63_0708_stu_ger-por_fulltime__1152391970.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="3rd" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger06H
+ |pattern_b  = _ger06H
+ |pattern_ra = _ger06H
+ |pattern_sh = _ger06H
+ |pattern_so = _adidasblackl
+ |leftarm    = 000000
+ |body       = FFFFFF
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany
+}}
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _por0608h
+ |pattern_ra = _Brazil_home_2006
+ |pattern_sh = _por0608h
+ |pattern_so = _por0608h
+ |leftarm    = 900020
+ |body       = 900020
+ |rightarm   = 900020
+ |shorts     = 900020
+ |socks      = 900020
+ |title      = Portugal
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Oliver Kahn]] ([[Captain (association football)|c]])
+|-
+|RB ||'''16'''||[[Philipp Lahm]]
+|-
+|CB ||'''6''' ||[[Jens Nowotny]]
+|-
+|CB ||'''21'''||[[Christoph Metzelder]]
+|-
+|LB ||'''2''' ||[[Marcell Jansen]]
+|-
+|RM ||'''19'''||[[Bernd Schneider (footballer)|Bernd Schneider]]
+|-
+|CM ||'''5''' ||[[Sebastian Kehl]]
+|-
+|CM ||'''8''' ||[[Torsten Frings]] || {{yel|7}}
+|-
+|LM ||'''7''' ||[[Bastian Schweinsteiger]] || {{yel|78}} || {{suboff|79}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|65}}
+|-
+|CF ||'''20'''||[[Lukas Podolski]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Oliver Neuville]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||[[Mike Hanke]] || || {{subon|71}}
+|-
+|MF ||'''15'''||[[Thomas Hitzlsperger]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:Germany-Portugal line ups.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ricardo (footballer, born 1976)|Ricardo]]
+|-
+|RB ||'''2''' ||[[Paulo Ferreira]] || {{yel|60}}
+|-
+|CB ||'''5''' ||[[Fernando Meira]]
+|-
+|CB ||'''4''' ||[[Ricardo Costa (footballer, born 1981)|Ricardo Costa]] || {{yel|24}}
+|-
+|LB ||'''14'''||[[Nuno Valente]] || || {{suboff|69}}
+|-
+|CM ||'''6''' ||[[Costinha]] || {{yel|33}} || {{suboff|46}}
+|-
+|CM ||'''18'''||[[Maniche]]
+|-
+|RW ||'''17'''||[[Cristiano Ronaldo]]
+|-
+|AM ||'''20'''||[[Deco]]
+|-
+|LW ||'''11'''||[[Simão Sabrosa|Simão]]
+|-
+|CF ||'''9''' ||[[Pauleta]] ([[Captain (association football)|c]]) || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Petit (Portuguese footballer)|Petit]] || || {{subon|46}}
+|-
+|FW ||'''21'''||[[Nuno Gomes]] || || {{subon|69}}
+|-
+|MF ||'''7''' ||[[Luís Figo]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Luiz Felipe Scolari]]
+|}
+|}
+{{wikinews|Germany beat Portugal 3-1 to take FIFA World Cup bronze}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Bastian Schweinsteiger]] (Germany)
+
+'''Assistant referees:'''
+<br />Yoshikazu Hiroshima ([[Japan Football Association|Japan]])
+<br />Kim Dae-young ([[Korea Football Association|South Korea]])
+<br />'''Fourth official:'''
+<br />[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+<br />'''Fifth official:'''
+<br />Celestin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+|}
+
+==Final==
+{{main|2006 FIFA World Cup final}}
+{{#lst:2006 FIFA World Cup final|Final}}
+{{#lst:2006 FIFA World Cup final|Lineups}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2006 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:2006 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|2006]]
+[[Category:Mexico at the 2006 FIFA World Cup]]
+[[Category:Argentina at the 2006 FIFA World Cup]]
+[[Category:Germany at the 2006 FIFA World Cup]]
+[[Category:Italy at the 2006 FIFA World Cup]]
+[[Category:France at the 2006 FIFA World Cup]]
+[[Category:Brazil at the 2006 FIFA World Cup]]
+[[Category:Spain at the 2006 FIFA World Cup]]
+[[Category:Portugal at the 2006 FIFA World Cup]]
+[[Category:England at the 2006 FIFA World Cup]]
+[[Category:Netherlands at the 2006 FIFA World Cup]]
+[[Category:Switzerland at the 2006 FIFA World Cup]]
+[[Category:Ukraine at the 2006 FIFA World Cup]]
+[[Category:Sweden at the 2006 FIFA World Cup]]
+[[Category:Ecuador at the 2006 FIFA World Cup]]
+[[Category:Australia at the 2006 FIFA World Cup]]
+[[Category:Ghana at the 2006 FIFA World Cup]]
+[[Category:Football in North Rhine-Westphalia]]
+[[Category:2000s in North Rhine-Westphalia]]
+[[Category:Football competitions in Berlin]]
+[[Category:2006 in Berlin]]
+[[Category:Football in Hamburg]]
+[[Category:2000s in Hamburg]]
+[[Category:Football competitions in Munich]]
+[[Category:2000s in Munich]]
+[[Category:2006 in Bavaria]]
+[[Category:Sports competitions in Dortmund]]
+[[Category:21st century in Dortmund]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:21st century in Gelsenkirchen]]
+[[Category:Football in Frankfurt]]
+[[Category:2000s in Frankfurt]]
+[[Category:Sports competitions in Cologne]]
+[[Category:2000s in Cologne]]
+[[Category:Football in Middle Franconia]]
+[[Category:Sports competitions in Nuremberg]]
+[[Category:21st century in Nuremberg]]
+[[Category:Football in Rhineland-Palatinate]]
+[[Category:Kaiserslautern]]
+[[Category:21st century in Rhineland-Palatinate]]
+[[Category:Football in Lower Saxony]]
+[[Category:Sports competitions in Hanover]]
+[[Category:21st century in Hanover]]
+[[Category:2000s in Lower Saxony]]
+[[Category:Sports competitions in Leipzig]]
+[[Category:Football in Saxony]]
+[[Category:21st century in Leipzig]]
+[[Category:2000s in Saxony]]
+[[Category:Football in Stuttgart]]
+[[Category:2000s in Baden-Württemberg]]
+[[Category:Sports competitions in Stuttgart]]
+[[Category:21st century in Stuttgart]]

@@ -1,0 +1,916 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group H of the [[2010 FIFA World Cup]]''' began on 16 June and ended on 25 June 2010.<ref>{{cite press release |title=Match Schedule 2010 FIFA World Cup South Africa |website=FIFA.com|publisher=Fédération Internationale de Football Association |url=https://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |archive-url=https://web.archive.org/web/20091228213032/http://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |url-status=dead |archive-date=28 December 2009 |accessdate=6 December 2009 }}</ref> The group consisted of [[Switzerland national football team|Switzerland]], [[Honduras national football team|Honduras]], [[Chile national football team|Chile]] and reigning [[UEFA European Football Championship|European]] (and eventual) champions [[Spain national football team|Spain]]. 
+
+Chile and Spain were in the same group in [[1950 FIFA World Cup|1950]], in a group from which only the Spanish team qualified for the next round. Chile and Switzerland were also in the same group in [[1962 FIFA World Cup|1962]], when Chile was host and went on to finish in third place. Switzerland and Spain competed in the same group in [[1966 FIFA World Cup|1966]], but neither advanced to the next round. Finally, Honduras and Spain were in the same group in [[1982 FIFA World Cup|1982]]. Four years later, in the [[2014 FIFA World Cup|next World Cup]], Chile and Spain would meet again in [[2014 FIFA World Cup Group B|Group B]], against the [[Netherlands national football team|Netherlands]] and [[Australia men's national soccer team|Australia]]; Chile would upset Spain 2–0 in their second match, eliminating Spain from the tournament.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|title=
+|showteam=
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/southafrica2010/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=ESP
+|team2=CHI
+|team3=SUI
+|team4=HON
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2010 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_ESP=2 |draw_ESP=0 |loss_ESP=1 |gf_ESP=4 |ga_ESP=2
+|win_CHI=2 |draw_CHI=0 |loss_CHI=1 |gf_CHI=3 |ga_CHI=2
+|win_SUI=1 |draw_SUI=1 |loss_SUI=1 |gf_SUI=1 |ga_SUI=1
+|win_HON=0 |draw_HON=1 |loss_HON=2 |gf_HON=0 |ga_HON=3
+
+|name_ESP={{fb|ESP}}
+|name_CHI={{fb|CHI}}
+|name_SUI={{fb|SUI}}
+|name_HON={{fb|HON|1949}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2010 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Spain advanced to play [[Portugal national football team|Portugal]] (runner-up of [[2010 FIFA World Cup Group G|Group G]]) in the [[2010 FIFA World Cup knockout stage#Spain vs Portugal|round of 16]].
+*Chile advanced to play Brazil (winner of [[2010 FIFA World Cup Group G|Group G]]) in the [[2010 FIFA World Cup knockout stage#Brazil vs Chile|round of 16]].
+*Switzerland would wind up being the first team since Norway in [[1994 FIFA World Cup|1994]] to defeat the eventual group winner in their opening match but fail to advance to the second round.
+
+==Matches==
+''All times local ([[UTC+02:00|UTC+2]])''
+
+===Honduras vs Chile===
+<onlyinclude>{{#invoke:Football box|main|section=h1
+|date={{Start date|2010|6|16|df=y}}
+|time=13:30
+|team1={{fb-rt|HON|1949}}
+|score={{score link|2010 FIFA World Cup Group H#Honduras vs Chile|0–1}}
+|team2={{fb|CHI}}
+|goals1=
+|goals2=
+*[[Jean Beausejour|Beausejour]] {{goal|34}}
+|stadium=[[Mbombela Stadium]], [[Nelspruit]]
+|attendance=32,664
+|referee=[[Eddy Maillet]] ([[Seychelles Football Federation|Seychelles]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061495 |title=Honduras vs Chile {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061495/report.html |title=2010 FIFA World Cup South Africa – Matches – Honduras v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210100130/http://www.fifa.com/worldcup/matches/round=249722/match=300061495/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/40e44f0df8ec2051/original/ublr8omvvyuoywsbruxa-pdf.pdf |title=Match Report – Group H – Honduras v Chile |publisher=[[FIFA]] |date=16 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055555/https://digitalhub.fifa.com/m/40e44f0df8ec2051/original/ublr8omvvyuoywsbruxa-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _hon10h
+ |pattern_b  = _hon10h
+ |pattern_ra = _hon10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Honduras<ref name="hon-chi_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/73e22ffbcd46a1a8/original/xmtuhp5bhtx3zwbisjxh-pdf.pdf |title=Tactical Line-up – Group H – Honduras v Chile |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 June 2010 |access-date=16 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172121/https://digitalhub.fifa.com/m/73e22ffbcd46a1a8/original/xmtuhp5bhtx3zwbisjxh-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _chi10h1
+ |pattern_b  = _chi10h1
+ |pattern_ra = _chi10h1
+ |pattern_sh = _chi10h1
+ |pattern_so = _chi10h1
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = Chile<ref name="hon-chi_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Noel Valladares]]
+|-
+|RB ||'''23'''||[[Sergio Mendoza]]
+|-
+|CB ||'''2''' ||[[Osman Chávez]]
+|-
+|CB ||'''3''' ||[[Maynor Figueroa]]
+|-
+|LB ||'''21'''||[[Emilio Izaguirre]]
+|-
+|CM ||'''8''' ||[[Wilson Palacios]] || {{yel|33}}
+|-
+|CM ||'''20'''||[[Amado Guevara]] ([[Captain (association football)|c]]) || || {{suboff|66}}
+|-
+|RW ||'''17'''||[[Edgar Álvarez]]
+|-
+|AM ||'''7''' ||[[Ramón Núñez]] || || {{suboff|78}}
+|-
+|LW ||'''13'''||[[Roger Espinoza]]
+|-
+|CF ||'''9''' ||[[Carlos Pavón]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||[[Georgie Welcome]] || || {{subon|60}}
+|-
+|MF ||'''6''' ||[[Hendry Thomas]] || || {{subon|66}}
+|-
+|FW ||'''15'''||[[Walter Julián Martínez|Walter Martínez]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Alexis Mendoza]]{{refn|group=note|Due to a one-match suspension of manager [[Reinaldo Rueda]], assistant manager [[Alexis Mendoza]] took his place on the bench.}}
+|}
+|valign="top"|[[File:HON-CHI 2010-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Mauricio Isla]]
+|-
+|CB ||'''17'''||[[Gary Medel]]
+|-
+|CB ||'''3''' ||[[Waldo Ponce]]
+|-
+|LB ||'''8''' ||[[Arturo Vidal]] || || {{suboff|81}}
+|-
+|RM ||'''20'''||[[Rodrigo Millar]] || || {{suboff|52}}
+|-
+|CM ||'''6''' ||[[Carlos Carmona]] || {{yel|4}}
+|-
+|LM ||'''14'''||[[Matías Fernández (footballer, born 1986)|Matías Fernández]]  || {{yel|19}}
+|-
+|AM ||'''10'''||[[Jorge Valdivia]] || || {{suboff|87}}
+|-
+|CF ||'''7''' ||[[Alexis Sánchez]]
+|-
+|CF ||'''15'''||[[Jean Beausejour]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]] || || {{subon|52}}
+|-
+|DF ||'''5''' ||[[Pablo Contreras]] || || {{subon|81}}
+|-
+|FW ||'''11'''||[[Mark González]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Bielsa]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jean Beausejour]] (Chile)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf |title=2010 FIFA World Cup South Africa Match Appointments |date=24 June 2010 |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100705072219/http://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf| archive-date= 5 July 2010 | url-status= dead}}</ref>
+<br />Evarist Menkouande ([[Cameroonian Football Federation|Cameroon]])
+<br />Bechir Hassani ([[Tunisian Football Federation|Tunisia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+|}
+
+===Spain vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=h2
+|date={{Start date|2010|6|16|df=y}}
+|time=16:00
+|team1={{fb-rt|ESP}}
+|score={{score link|2010 FIFA World Cup Group H#Spain vs Switzerland|0–1}}
+|team2={{fb|SUI}}
+|goals1=
+|goals2=
+*[[Gelson Fernandes|Fernandes]] {{goal|52}}
+|stadium=[[Moses Mabhida Stadium]], [[Durban]]
+|attendance=62,453
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300111112 |title=Spain vs Switzerland {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300111112/report.html |title=2010 FIFA World Cup South Africa – Matches – Spain v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210094407/http://www.fifa.com/worldcup/matches/round=249722/match=300111112/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4d0f2e7fe126fb0b/original/coxw9ylpo4hq4aujmlti-pdf.pdf |title=Match Report – Group H – Spain v Switzerland |publisher=[[FIFA]] |date=16 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055619/https://digitalhub.fifa.com/m/4d0f2e7fe126fb0b/original/coxw9ylpo4hq4aujmlti-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp10h1
+ |pattern_b  = _esp10h1
+ |pattern_ra = _esp10h1
+ |pattern_sh = _esp10h
+ |pattern_so = _esp10h
+ |leftarm    = e80113
+ |body       = e80113
+ |rightarm   = e80113
+ |shorts     = 3366FF
+ |socks      = ff0000
+ |title      = Spain<ref name="esp-sui_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/457c7b9b97ef1c17/original/xnhdyozwxuv3fwe4f1id-pdf.pdf |title=Tactical Line-up – Group H – Spain v Switzerland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 June 2010 |access-date=16 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172133/https://digitalhub.fifa.com/m/457c7b9b97ef1c17/original/xnhdyozwxuv3fwe4f1id-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _sui10a
+ |pattern_b  = _sui1011a
+ |pattern_ra = _sui10a
+ |pattern_sh = _sui10a
+ |pattern_so = _sui10a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Switzerland<ref name="esp-sui_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''5''' ||[[Carles Puyol]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|LB ||'''11'''||[[Joan Capdevila]]
+|-
+|DM ||'''16'''||[[Sergio Busquets]] || || {{suboff|61}}
+|-
+|CM ||'''14'''||[[Xabi Alonso]]
+|-
+|CM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|RW ||'''21'''||[[David Silva]] || || {{suboff|62}}
+|-
+|LW ||'''6''' ||[[Andrés Iniesta]] || || {{suboff|77}}
+|-
+|CF ||'''7''' ||[[David Villa]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Fernando Torres]] || || {{subon|61}}
+|-
+|MF ||'''22'''||[[Jesús Navas]] || || {{subon|62}}
+|-
+|FW ||'''18'''||[[Pedro (footballer, born July 1987)|Pedro]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Vicente del Bosque]]
+|}
+|valign="top"|[[File:ESP-SUI 2010-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Diego Benaglio]] || {{yel|90+1}}
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]]
+|-
+|CB ||'''4''' ||[[Philippe Senderos]] || || {{suboff|35}}
+|-
+|CB ||'''13'''||[[Stéphane Grichting]] || {{yel|30}}
+|-
+|LB ||'''17'''||[[Reto Ziegler]] || {{yel|73}}
+|-
+|RM ||'''7''' ||[[Tranquillo Barnetta]] || || {{suboff|90+2}}
+|-
+|CM ||'''8''' ||[[Gökhan Inler]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Benjamin Huggel]]
+|-
+|LM ||'''16'''||[[Gelson Fernandes]]
+|-
+|SS ||'''19'''||[[Eren Derdiyok]] || || {{suboff|79}}
+|-
+|CF ||'''10'''||[[Blaise Nkufo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Steve von Bergen]] || || {{subon|35}}
+|-
+|MF ||'''15'''||[[Hakan Yakin]] || {{yel|90+4}} || {{subon|79}}
+|-
+|DF ||'''22'''||[[Mario Eggimann]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Gelson Fernandes]] (Switzerland)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Darren Cann ([[The Football Association|England]])
+<br />Michael Mullarkey ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martin Hansson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Stefan Wittberg ([[Swedish Football Association|Sweden]])
+|}
+
+===Chile vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=h3
+|date={{Start date|2010|6|21|df=y}}
+|time=16:00
+|team1={{fb-rt|CHI}}
+|score={{score link|2010 FIFA World Cup Group H#Chile vs Switzerland|1–0}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Mark González|González]] {{goal|75}}
+|goals2=
+|stadium=[[Nelson Mandela Bay Stadium]], [[Port Elizabeth]]
+|attendance=34,872
+|referee=[[Khalil Al Ghamdi]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061493 |title=Chile vs Switzerland {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061493/report.html |title=2010 FIFA World Cup South Africa – Matches – Chile v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229064009/http://www.fifa.com/worldcup/matches/round=249722/match=300061493/report.html |archive-date=29 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/3784bdcca86a1dee/original/df5ke9tlbwgrg8uybhfz-pdf.pdf |title=Match Report – Group H – Chile v Switzerland |publisher=[[FIFA]] |date=21 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055957/https://digitalhub.fifa.com/m/3784bdcca86a1dee/original/df5ke9tlbwgrg8uybhfz-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chi10h1
+ |pattern_b  = _chi10h1
+ |pattern_ra = _chi10h1
+ |pattern_sh = _chi10h1
+ |pattern_so = _chi10a1
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000040
+ |socks      = FFFFFF
+ |title      = Chile<ref name="chi-sui_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6202c9eeb6de9b93/original/phxftltaiobgtdyqvyzx-pdf.pdf |title=Tactical Line-up – Group H – Chile v Switzerland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 June 2010 |access-date=21 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181135/https://digitalhub.fifa.com/m/6202c9eeb6de9b93/original/phxftltaiobgtdyqvyzx-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _sui10a
+ |pattern_b  = _sui1011a
+ |pattern_ra = _sui10a
+ |pattern_sh = _sui10a
+ |pattern_so = _sui10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland<ref name="chi-sui_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Mauricio Isla]]
+|-
+|CB ||'''17'''||[[Gary Medel]] || {{yel|61}}
+|-
+|CB ||'''3''' ||[[Waldo Ponce]] || {{yel|25}}
+|-
+|LB ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|-
+|RM ||'''8''' ||[[Arturo Vidal]] || || {{suboff|46}}
+|-
+|CM ||'''6''' ||[[Carlos Carmona]] || {{yel|22}}
+|-
+|LM ||'''14'''||[[Matías Fernández (footballer, born 1986)|Matías Fernández]] || {{yel|60}} || {{suboff|65}}
+|-
+|RF ||'''7''' ||[[Alexis Sánchez]]
+|-
+|CF ||'''9''' ||[[Humberto Suazo]] || {{yel|2}} || {{suboff|46}}
+|-
+|LF ||'''15'''||[[Jean Beausejour]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Jorge Valdivia]] || {{yel|90+2}} || {{subon|46}}
+|-
+|MF ||'''11'''||[[Mark González]] || || {{subon|46}}
+|-
+|FW ||'''22'''||[[Esteban Paredes]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Bielsa]]
+|}
+|valign="top"|[[File:CHI-SUI 2010-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Diego Benaglio]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]]
+|-
+|CB ||'''5''' ||[[Steve von Bergen]]
+|-
+|CB ||'''13'''||[[Stéphane Grichting]]
+|-
+|LB ||'''17'''||[[Reto Ziegler]]
+|-
+|RM ||'''11'''||[[Valon Behrami]] || {{sent off|0|31}}
+|-
+|CM ||'''8''' ||[[Gökhan Inler]] || {{yel|60}}
+|-
+|CM ||'''6''' ||[[Benjamin Huggel]]
+|-
+|LM ||'''16'''||[[Gelson Fernandes]] || || {{suboff|77}}
+|-
+|SS ||'''9''' ||[[Alexander Frei]] ([[Captain (association football)|c]]) || || {{suboff|42}}
+|-
+|CF ||'''10'''||[[Blaise Nkufo]] || {{yel|18}} || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Tranquillo Barnetta]] || {{yel|48}} || {{subon|42}}
+|-
+|FW ||'''19'''||[[Eren Derdiyok]] || || {{subon|68}}
+|-
+|FW ||'''18'''||[[Albert Bunjaku]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Mark González]] (Chile)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />Saleh Al Marzouqi ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Miguel Nievas ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Spain vs Honduras===
+<onlyinclude>{{#invoke:Football box|main|section=h4
+|date={{Start date|2010|6|21|df=y}}
+|time=20:30
+|team1={{fb-rt|ESP}}
+|score={{score link|2010 FIFA World Cup Group H#Spain vs Honduras|2–0}}
+|team2={{fb|HON|1949}}
+|goals1=
+*[[David Villa|Villa]] {{goal|17||51}}
+|goals2=
+|stadium=[[Ellis Park Stadium]], [[Johannesburg]]
+|attendance=54,386
+|referee=[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061494 |title=Spain vs Honduras {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061494/report.html |title=2010 FIFA World Cup South Africa – Matches – Spain v Honduras |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210100927/http://www.fifa.com/worldcup/matches/round=249722/match=300061494/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/40dd4129fdf552f5/original/o3nqleu6poznslddmwh4-pdf.pdf |title=Match Report – Group H – Spain v Honduras |publisher=[[FIFA]] |date=21 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060012/https://digitalhub.fifa.com/m/40dd4129fdf552f5/original/o3nqleu6poznslddmwh4-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp10h1
+ |pattern_b  = _esp10h1
+ |pattern_ra = _esp10h1
+ |pattern_sh = _esp10h
+ |pattern_so = _esp10h
+ |leftarm    = e80113
+ |body       = e80113
+ |rightarm   = e80113
+ |shorts     = 3366FF
+ |socks      = ff0000
+ |title      = Spain<ref name="esp-hon_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3e472512abf60215/original/veitk88wypsamrqgpmh4-pdf.pdf |title=Tactical Line-up – Group H – Spain v Honduras |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 June 2010 |access-date=21 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522184228/https://digitalhub.fifa.com/m/3e472512abf60215/original/veitk88wypsamrqgpmh4-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _hon10h
+ |pattern_b  = _hon10h
+ |pattern_ra = _hon10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Honduras<ref name="esp-hon_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]] || || {{suboff|77}}
+|-
+|CB ||'''5''' ||[[Carles Puyol]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|LB ||'''11'''||[[Joan Capdevila]]
+|-
+|DM ||'''16'''||[[Sergio Busquets]]
+|-
+|RM ||'''22'''||[[Jesús Navas]]
+|-
+|LM ||'''14'''||[[Xabi Alonso]]
+|-
+|AM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]] || || {{suboff|66}}
+|-
+|CF ||'''9''' ||[[Fernando Torres]] || || {{suboff|70}}
+|-
+|CF ||'''7''' ||[[David Villa]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Cesc Fàbregas]] || || {{subon|66}}
+|-
+|MF ||'''13'''||[[Juan Mata]] || || {{subon|70}}
+|-
+|DF ||'''17'''||[[Álvaro Arbeloa]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|valign="top"|[[File:ESP-HON 2010-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Noel Valladares]]
+|-
+|RB ||'''23'''||[[Sergio Mendoza]]
+|-
+|CB ||'''2''' ||[[Osman Chávez]]
+|-
+|CB ||'''3''' ||[[Maynor Figueroa]]
+|-
+|LB ||'''21'''||[[Emilio Izaguirre]] || {{yel|38}}
+|-
+|CM ||'''8''' ||[[Wilson Palacios]]
+|-
+|CM ||'''20'''||[[Amado Guevara]] ([[Captain (association football)|c]])
+|-
+|RW ||'''19'''||[[Danilo Turcios]] || {{yel|8}} || {{suboff|63}}
+|-
+|AM ||'''15'''||[[Walter Julián Martínez|Walter Martínez]]
+|-
+|LW ||'''13'''||[[Roger Espinoza]] || || {{suboff|46}}
+|-
+|CF ||'''11'''||[[David Suazo]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||[[Georgie Welcome]] || || {{subon|46}}
+|-
+|MF ||'''7''' ||[[Ramón Núñez]] || || {{subon|63}}
+|-
+|FW ||'''10'''||[[Jerry Palacios]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Reinaldo Rueda]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[David Villa]] (Spain)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />Jeong Hae-sang ([[Korea Football Association|South Korea]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Subkhiddin Mohd Salleh]] ([[Football Association of Malaysia|Malaysia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Jeffrey Goh Gek Pheng ([[Football Association of Singapore|Singapore]])
+|}
+
+===Chile vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=h5
+|date={{Start date|2010|6|25|df=y}}
+|time=20:30
+|team1={{fb-rt|CHI}}
+|score={{score link|2010 FIFA World Cup Group H#Chile vs Spain|1–2}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Rodrigo Millar|Millar]] {{goal|47}}
+|goals2=
+*[[David Villa|Villa]] {{goal|24}}
+*[[Andrés Iniesta|Iniesta]] {{goal|37}}
+|stadium=[[Loftus Versfeld Stadium]], [[Pretoria]]
+|attendance=41,958
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061491 |title=Chile vs Spain {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061491/report.html |title=2010 FIFA World Cup South Africa – Matches – Chile v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210103121/http://www.fifa.com/worldcup/matches/round=249722/match=300061491/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/c91d883f13c8f8d/original/z5wzexkjaal5uknunqpi-pdf.pdf |title=Match Report – Group H – Chile v Spain |publisher=[[FIFA]] |date=25 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060432/https://digitalhub.fifa.com/m/c91d883f13c8f8d/original/z5wzexkjaal5uknunqpi-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chi10h1
+ |pattern_b  = _chi10h1
+ |pattern_ra = _chi10h1
+ |pattern_sh = _chi10h1
+ |pattern_so = _chi10h1
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = Chile<ref name="chi-esp_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/444ffcbe44115fca/original/g66aoczyru5wwlmssb1o-pdf.pdf |title=Tactical Line-up – Group H – Chile v Spain |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=25 June 2010 |access-date=25 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172826/https://digitalhub.fifa.com/m/444ffcbe44115fca/original/g66aoczyru5wwlmssb1o-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esp10a1
+ |pattern_b  = _esp10a1
+ |pattern_ra = _esp10a1
+ |pattern_sh = _esp10A
+ |pattern_so = _esp10A
+ |leftarm    = 003366
+ |body       = 003366
+ |rightarm   = 003366
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Spain<ref name="chi-esp_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Mauricio Isla]]
+|-
+|CB ||'''17'''||[[Gary Medel]] || {{yel|15}}
+|-
+|CB ||'''3''' ||[[Waldo Ponce]] || {{yel|19}}
+|-
+|LB ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|-
+|RM ||'''8''' ||[[Arturo Vidal]]
+|-
+|CM ||'''13'''||[[Marco Estrada (footballer)|Marco Estrada]] || {{sent off|2|21|37}}
+|-
+|LM ||'''11'''||[[Mark González]] || || {{suboff|46}}
+|-
+|AM ||'''10'''||[[Jorge Valdivia]] || || {{suboff|46}}
+|-
+|CF ||'''7''' ||[[Alexis Sánchez]] || || {{suboff|65}}
+|-
+|CF ||'''15'''||[[Jean Beausejour]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Rodrigo Millar]] || || {{subon|46}}
+|-
+|FW ||'''22'''||[[Esteban Paredes]] || || {{subon|46}}
+|-
+|FW ||'''16'''||[[Fabián Orellana]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Bielsa]]
+|}
+|valign="top"|[[File:CHI-ESP 2010-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''5''' ||[[Carles Puyol]]
+|-
+|LB ||'''11'''||[[Joan Capdevila]]
+|-
+|DM ||'''16'''||[[Sergio Busquets]]
+|-
+|RM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|LM ||'''14'''||[[Xabi Alonso]] || || {{suboff|73}}
+|-
+|RW ||'''6''' ||[[Andrés Iniesta]]
+|-
+|LW ||'''7''' ||[[David Villa]]
+|-
+|CF ||'''9''' ||[[Fernando Torres]] || || {{suboff|55}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Cesc Fàbregas]] || || {{subon|55}}
+|-
+|MF ||'''20'''||[[Javi Martínez]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Andrés Iniesta]] (Spain)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />José Luis Camargo Callado ([[Mexican Football Federation|Mexico]])
+<br />Alberto Morín Méndez ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Subkhiddin Mohd Salleh]] ([[Football Association of Malaysia|Malaysia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Mu Yuxin ([[Chinese Football Association|China]])
+|}
+
+===Switzerland vs Honduras===
+<onlyinclude>{{#invoke:Football box|main|section=h6
+|date={{Start date|2010|6|25|df=y}}
+|time=20:30
+|team1={{fb-rt|SUI}}
+|score={{score link|2010 FIFA World Cup Group H#Switzerland vs Honduras|0–0}}
+|team2={{fb|HON|1949}}
+|goals1=
+|goals2=
+|stadium=[[Free State Stadium]], [[Bloemfontein]]
+|attendance=28,042
+|referee=[[Héctor Baldassi]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061492 |title=Switzerland vs Honduras {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061492/report.html |title=2010 FIFA World Cup South Africa – Matches – Switzerland v Honduras |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210105543/http://www.fifa.com/worldcup/matches/round=249722/match=300061492/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4b46d26cc700e08a/original/ewqbbnhgb5omwvyp3gvh-pdf.pdf |title=Match Report – Group H – Switzerland v Honduras |publisher=[[FIFA]] |date=25 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060447/https://digitalhub.fifa.com/m/4b46d26cc700e08a/original/ewqbbnhgb5omwvyp3gvh-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _aut10h
+ |pattern_b  = _sui1011h
+ |pattern_ra = _aut10h
+ |pattern_sh = _sui10h
+ |pattern_so = _sui10h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Switzerland<ref name="sui-hon_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/d19a95274674f75/original/pqlrh72ozagooc3erpms-pdf.pdf |title=Tactical Line-up – Group H – Switzerland v Honduras |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=25 June 2010 |access-date=25 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172835/https://digitalhub.fifa.com/m/d19a95274674f75/original/pqlrh72ozagooc3erpms-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _hon10a
+ |pattern_b  = _hon10a
+ |pattern_ra = _hon10a
+ |leftarm    = 0000CC
+ |body       = 0000CC
+ |rightarm   = 0000CC
+ |shorts     = 0000CC
+ |socks      = 0000CC
+ |title      = Honduras<ref name="sui-hon_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Diego Benaglio]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]]
+|-
+|CB ||'''5''' ||[[Steve von Bergen]]
+|-
+|CB ||'''13'''||[[Stéphane Grichting]]
+|-
+|LB ||'''17'''||[[Reto Ziegler]]
+|-
+|RM ||'''7''' ||[[Tranquillo Barnetta]]
+|-
+|CM ||'''6''' ||[[Benjamin Huggel]] || || {{suboff|78}}
+|-
+|CM ||'''8''' ||[[Gökhan Inler]] ([[Captain (association football)|c]])
+|-
+|LM ||'''16'''||[[Gelson Fernandes]] || {{yel|34}} || {{suboff|46}}
+|-
+|CF ||'''19'''||[[Eren Derdiyok]]
+|-
+|CF ||'''10'''||[[Blaise Nkufo]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Hakan Yakin]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Alexander Frei]] || || {{subon|69}}
+|-
+|MF ||'''23'''||[[Xherdan Shaqiri]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|valign="top"|[[File:SUI-HON 2010-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Noel Valladares]] ([[Captain (association football)|c]])
+|-
+|RB ||'''16'''||[[Mauricio Sabillón]]
+|-
+|CB ||'''2''' ||[[Osman Chávez]] || {{yel|64}}
+|-
+|CB ||'''5''' ||[[Víctor Bernárdez]]
+|-
+|LB ||'''3''' ||[[Maynor Figueroa]]
+|-
+|CM ||'''8''' ||[[Wilson Palacios]] || {{yel|89}}
+|-
+|CM ||'''6''' ||[[Hendry Thomas]] || {{yel|4}}
+|-
+|RW ||'''17'''||[[Edgar Álvarez]]
+|-
+|LW ||'''7''' ||[[Ramón Núñez]] || || {{suboff|67}}
+|-
+|CF ||'''10'''||[[Jerry Palacios]] || || {{suboff|78}}
+|-
+|CF ||'''11'''||[[David Suazo]] || {{yel|58}} || {{suboff|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Walter Julián Martínez|Walter Martínez]] || || {{subon|67}}
+|-
+|FW ||'''12'''||[[Georgie Welcome]] || || {{subon|78}}
+|-
+|MF ||'''19'''||[[Danilo Turcios]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Reinaldo Rueda]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Noel Valladares]] (Honduras)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Ricardo Casas ([[Argentine Football Association|Argentina]])
+<br />Hernan Maidana ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Jose Manuel Silva Cardinal ([[Portuguese Football Federation|Portugal]])
+|}
+
+==See also==
+*[[Chile at the FIFA World Cup]]
+*[[Honduras at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Group H}}
+[[Category:2010 FIFA World Cup group stage|H]]
+[[Category:Spain at the 2010 FIFA World Cup|Group]]
+[[Category:Chile at the 2010 FIFA World Cup]]
+[[Category:Switzerland at the 2010 FIFA World Cup]]
+[[Category:Honduras at the 2010 FIFA World Cup|Group]]
+[[Category:Sport in Mpumalanga]]
+[[Category:Mbombela]]
+[[Category:Sports competitions in Durban]]
+[[Category:Sports competitions in Gqeberha]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Sports competitions in Pretoria]]
+[[Category:Sport in Bloemfontein]]
+[[Category:Sports competitions in the Free State (province)]]

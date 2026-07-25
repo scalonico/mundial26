@@ -1,0 +1,384 @@
+{{Short description|World Cup final, held in West Germany}}
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+|              title = 1974 FIFA World Cup final
+|              image = Bundesarchiv Bild 183-N0716-0314, Fußball-WM, BRD - Niederlande 2-1.jpg
+|            caption = Germany's [[Gerd Müller]] (far left) watches Netherlands' [[Johan Cruyff]] (centre) playing against team-mates [[Berti Vogts]] (2nd left) and [[Uli Hoeneß]] (right)
+|              event = [[1974 FIFA World Cup]]
+|              team1 = [[Netherlands national football team|Netherlands]]
+|   team1association = {{flagdeco|NED|size=30px}}
+|         team1score = 1
+|              team2 = [[Germany national football team|West Germany]]
+|   team2association = {{flagdeco|FRG|size=30px}}
+|         team2score = 2
+|               date = 7 July 1974
+|            stadium = [[Olympiastadion (Munich)|Olympiastadion]]
+|               city = [[Munich]]
+| man_of_the_match1a = 
+|            referee = [[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|         attendance = 78,200
+|            weather = 
+|           previous = [[1970 FIFA World Cup final|1970]]
+|               next = [[1978 FIFA World Cup final|1978]]
+}}
+The final match of the [[1974 FIFA World Cup]] was held in [[Munich]], [[West Germany]] (now [[Germany]]) on 7 July. It was the 10th [[FIFA World Cup]] competition, held to determine the world champion among national men's [[association football|football]] sides. The match was contested by the [[Netherlands national football team|Netherlands]] and [[Germany national football team|West Germany]], with West Germany winning 2–1. The Netherlands opened the scoring via a [[Johan Neeskens]] penalty in the second minute, only for [[Paul Breitner]] to equalise with another penalty in the 25th minute before [[Gerd Müller]] scored the winning goal in the 43rd minute, claiming West Germany's second FIFA World Cup title.<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4850426.stm |title=World Cup history - West Germany 1974 |work=BBC Sport |publisher=British Broadcasting Corporation |date=4 May 2006 |access-date=27 July 2012 |archive-url=https://web.archive.org/web/20060706173225/http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4850426.stm |archive-date=6 July 2006 |url-status=live }}</ref>
+
+Five German players ([[Sepp Maier]], [[Franz Beckenbauer]], [[Wolfgang Overath]], [[Jürgen Grabowski]] and [[Horst-Dieter Höttges]]) became the first in history to have won gold, silver and bronze medals at the FIFA World Cup.
+
+==Route to the final==
+{| style="text-align:center"
+|- style="vertical-align:top;background:#99CCFF"
+!colspan="2"|Netherlands
+!Round
+!colspan="2"|West Germany
+|- style="vertical-align:top;background:#c1e0ff"
+|Opponent
+|Result
+|[[1974 FIFA World Cup#Group stage|First round]]
+|Opponent
+|Result
+|-
+|{{fb|URU}}
+|[[1974 FIFA World Cup Group 3#Uruguay vs Netherlands|2–0]]
+|style="background:#c1e0ff"|Match 1
+|{{fb|CHI}}
+|[[1974 FIFA World Cup Group 1#West Germany vs Chile|1–0]]
+|-
+|{{fb|SWE}}
+|[[1974 FIFA World Cup Group 3#Netherlands vs Sweden|0–0]]
+|style="background:#c1e0ff"|Match 2
+|{{fb|AUS}}
+|[[1974 FIFA World Cup Group 1#Australia vs West Germany|3–0]]
+|-
+|{{fb|BUL|1971}}
+|[[1974 FIFA World Cup Group 3#Bulgaria vs Netherlands|4–1]]
+|style="background:#c1e0ff"|Match 3
+|{{fb|GDR}}
+|[[1974 FIFA World Cup Group 1#East Germany vs West Germany|0–1]]
+|-
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|NED}}'''
+|3||2||1||0||6||1||+5||'''5'''
+|- style="background:#cfc"
+|align=left|{{fb|SWE}}
+|3||1||2||0||3||0||+3||'''4'''
+|-
+|align=left|{{fb|BUL|1971}}
+|3||0||2||1||2||5||−3||'''2'''
+|-
+|align=left|{{fb|URU}}
+|3||0||1||2||1||6||−5||'''1'''
+|}
+|style="background:#c1e0ff"|Final standings
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|{{fb|GDR}}
+|3||2||1||0||4||1||+3||'''5'''
+|- style="background:#cfc"
+|align=left|'''{{fb|FRG}}'''
+|3||2||0||1||4||1||+3||'''4'''
+|-
+|align=left|{{fb|CHI}}
+|3||0||2||1||1||2||−1||'''2'''
+|-
+|align=left|{{fb|AUS}}
+|3||0||1||2||0||5||−5||'''1'''
+|}
+|- style="vertical-align:top;background:#c1e0ff"
+|Opponent
+|Result
+||[[1974 FIFA World Cup#Second round|Second round]]
+|Opponent
+|Result
+|-
+|{{fb|ARG}}
+|[[1974 FIFA World Cup Group A#Netherlands vs Argentina|4–0]]
+|style="background:#c1e0ff"|Match 1
+|{{fb|YUG}}
+|[[1974 FIFA World Cup Group B#West Germany vs Yugoslavia|2–0]]
+|-
+|{{fb|GDR}}
+|[[1974 FIFA World Cup Group A#East Germany vs Netherlands|2–0]]
+|style="background:#c1e0ff"|Match 2
+|{{fb|SWE}}
+|[[1974 FIFA World Cup Group B#West Germany vs Sweden|4–2]]
+|-
+|{{fb|BRA|1968}}
+|[[1974 FIFA World Cup Group A#Netherlands vs Brazil|2–0]]
+|style="background:#c1e0ff"|Match 3
+|{{fb|POL|1928}}
+|[[1974 FIFA World Cup Group B#Poland vs West Germany|1–0]]
+|-
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|NED}}'''
+|3||3||0||0||8||0||+8||'''6'''
+|-
+|align=left|{{fb|BRA|1968}}
+|3||2||0||1||3||3||0||'''4'''
+|-
+|align=left|{{fb|GDR}}
+|3||0||1||2||1||4||−3||'''1'''
+|-
+|align=left|{{fb|ARG}}
+|3||0||1||2||2||7||−5||'''1'''
+|}
+|style="background:#c1e0ff"|Final standings
+|colspan="2" style="text-align:center"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="175"|Team
+!width="20"|{{Tooltip|Pld|Played}}
+!width="20"|{{Tooltip|W|Won}}
+!width="20"|{{Tooltip|D|Drawn}}
+!width="20"|{{Tooltip|L|Lost}}
+!width="20"|{{Tooltip|GF|Goals for}}
+!width="20"|{{Tooltip|GA|Goals against}}
+!width="20"|{{Tooltip|GD|Goal difference}}
+!width="20"|{{Tooltip|Pts|Points}}
+|- style="background:#cfc"
+|align=left|'''{{fb|FRG}}'''
+|3||3||0||0||7||2||+5||'''6'''
+|-
+|align=left|{{fb|POL|1928}}
+|3||2||0||1||3||2||+1||'''4'''
+|-
+|align=left|{{fb|SWE}}
+|3||1||0||2||4||6||−2||'''2'''
+|-
+|align=left|{{fb|YUG}}
+|3||0||0||3||2||6||−4||'''0'''
+|}
+|}
+
+==Match==
+
+===Summary===
+[[File:Beckenbauer cruyff alfieri.jpg|thumb|[[Franz Beckenbauer]] (left) and [[Johan Cruyff]] (right), key players of Germany and the Netherlands respectively]]
+West Germany was led by [[Franz Beckenbauer]], while the Dutch had their star [[Johan Cruyff]] and their [[Total Football]] system, which had dazzled the competition. The start of the match was delayed as the ground staff at the stadium had removed the corner flags for the tournament's closing ceremony (which preceded the final) but then forgot to put them back. With just a minute gone, Cruyff was brought down by [[Uli Hoeneß]] in the German [[penalty area]] following a solo run, and the Dutch took the lead from the ensuing [[Penalty kick (association football)|penalty]] by [[Johan Neeskens]] before any German player had even touched the ball. West Germany struggled to recover, but they were awarded a penalty of their own in the 25th minute after [[Bernd Hölzenbein]] was fouled within the Dutch area. [[Paul Breitner]] took responsibility for the kick and scored. These two penalties were the first to be awarded in a World Cup Final. West Germany now pushed for a winner, which eventually came in the 43rd minute through [[Gerd Müller]].<ref>{{Cite web|url=http://www.thescore.ie/holland-1974-world-cup-tragedy-1488354-Jun2014/|title=The greatest World Cup tragedies: Holland 1974|date=6 June 2014|work=The Score|access-date=6 June 2014|archive-url=https://web.archive.org/web/20140606222718/http://www.thescore.ie/holland-1974-world-cup-tragedy-1488354-Jun2014/|archive-date=6 June 2014|url-status=dead|df=dmy-all}}</ref>
+
+It turned out to be Müller's last goal for the West German team, as he retired from international football after the tournament. As the teams walked off the pitch at half-time, Cruyff was booked for arguing with the referee.<ref>{{Cite web|url=https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19740708&printsec=frontpage&hl=en|title=West Germans on top of the World|date=8 July 1974|work=Glasgow Herald (Page 4)|access-date=30 April 2014|archive-date=23 November 2022|archive-url=https://web.archive.org/web/20221123154826/https://news.google.com/newspapers?nid=GGgVawPscysC&dat=19740708&printsec=frontpage&hl=en|url-status=live}}</ref>
+
+The second half saw chances for both sides. Müller thought he had scored when he put the ball in the net, only to be denied by the [[Assistant referee (association football)|linesman]] flagging for [[Offside (sport)|offside]]. In the 85th minute, Hölzenbein fell to ground in the Dutch penalty area again, but referee Taylor did not believe it was a foul. When the final whistle went, West Germany were crowned world champions for 1974, in addition to their European title from 1972. This was the only case of the reigning European champions winning the World Cup until Spain accomplished the feat in 2010,<ref>{{cite web |url=http://www.uefa.com/worldcup/news/newsid=1503690.html |title=Spain make history in Johannesburg |work=[[UEFA]] |publisher=Union of European Football Associations |date=12 July 2010 |access-date=27 July 2012 |archive-url=https://web.archive.org/web/20100710233840/http://www.uefa.com/worldcup/news/newsid=1503690.html |archive-date=10 July 2010 |url-status=dead }}</ref> although France have also held both trophies at the same time by winning the 1998 World Cup followed by Euro 2000.<ref>{{cite web |url=https://news.bbc.co.uk/2/hi/euro2000/816194.stm |title=France win Euro 2000 |work=BBC Sport |publisher=British Broadcasting Corporation |date=2 July 2000 |access-date=27 July 2012 |archive-url=https://web.archive.org/web/20040616054728/http://news.bbc.co.uk/2/hi/euro2000/816194.stm |archive-date=16 June 2004 |url-status=live }}</ref>
+
+[[João Havelange]], FIFA President from 1974 to 1998, made an unsubstantiated claim that the 1966 and 1974 World Cups were fixed so that England and West Germany would win respectively.<ref>{{cite web |url=http://www.goal.com/en/news/9/england/2008/06/26/753029/1966-1974-world-cups-were-fixed-former-fifa-president |title=1966 & 1974 World Cups Were Fixed - Former FIFA President |work=Goal.com |date=26 June 2008 |access-date=6 January 2013 |archive-url=https://web.archive.org/web/20090622024224/http://www.goal.com/en/news/9/england/2008/06/26/753029/1966-1974-world-cups-were-fixed-former-fifa-president |archive-date=22 June 2009 |url-status=dead }}</ref>
+
+West German defender [[Berti Vogts]] declared in 1997 that the penalty awarded to West Germany was unjustified. However, he remains the only player who wanted to comment on it.<ref>{{cite web|url=https://www.volkskrant.nl/sport/strafschop-voor-duits-elftal-in-wk-finale-1974-was-vergissing~b7cae0ac|language=nl|title=Strafschop voor Duits elftal in WK-finale 1974 was 'vergissing'|work=De Volkskrant|date=2 January 1997|access-date=26 June 2019|archive-date=26 June 2019|archive-url=https://web.archive.org/web/20190626123247/https://www.volkskrant.nl/sport/strafschop-voor-duits-elftal-in-wk-finale-1974-was-vergissing~b7cae0ac/|url-status=live}}</ref>
+
+===Details===
+<section begin=Final />{{Football box
+|date={{Start date|1974|7|7|df=y}}
+|time=16:00 [[UTC+01:00|UTC+1]]
+|team1={{fb-rt|NED}}
+|score={{score link|1974 FIFA World Cup knockout stage#Final|1–2|1974 FIFA World Cup final}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Johan Neeskens|Neeskens]] {{goal|2|pen.}}
+|goals2=
+*[[Paul Breitner|Breitner]] {{goal|25|pen.}}
+*[[Gerd Müller|Müller]] {{goal|43}}
+|stadium=[[Olympiastadion (Munich)|Olympiastadion]], [[Munich]]
+|attendance=78,200
+|referee=[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/605/2063 |title=Netherlands vs Germany FR {{!}} Final {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026 |archive-date=26 November 2025 |archive-url=https://web.archive.org/web/20251126063736/https://www.fifa.com/en/match-centre/match/17/39/605/2063 |url-status=live }} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=605/match=2063/index.html |title=1974 FIFA World Cup Germany – Matches – Netherlands v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228000239/http://www.fifa.com/worldcup/matches/round=605/match=2063/index.html |archive-date=28 December 2017 }} }}</ref>
+}}<section end=Final />
+<section begin=Lineups />
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _ned74h
+| pattern_ra = _netherlands80h
+ | pattern_sh = _adidasonwhite
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FF6000
+ | body       = FF6000
+ | rightarm   = FF6000
+ | shorts     = FF6000
+ | socks      = FF6000
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _blackborder
+ | pattern_b  = _blackcollar
+ | pattern_ra = _blackborder
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|RB ||'''20'''||[[Wim Suurbier]]
+|-
+|CB ||'''17'''||[[Wim Rijsbergen]] || || {{suboff|69}}
+|-
+|CB ||'''2''' ||[[Arie Haan]]
+|-
+|LB ||'''12'''||[[Ruud Krol]]
+|-
+|DM ||'''6''' ||[[Wim Jansen]]
+|-
+|CM ||'''13'''||[[Johan Neeskens]] || {{yel|40}}
+|-
+|CM ||'''3''' ||[[Willem van Hanegem]] || {{yel|23}}
+|-
+|RW ||'''16'''||[[Johnny Rep]]
+|-
+|LW ||'''15'''||[[Rob Rensenbrink]] || || {{suboff|46}}
+|-
+|CF ||'''14'''||[[Johan Cruyff]] ([[Captain (association football)|c]]) || {{yel|45}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''18'''||[[Piet Schrijvers]]
+|-
+|DF ||'''5''' ||[[Rinus Israël]]
+|-
+|MF ||'''7''' ||[[Theo de Jong]] || || {{subon|69}}
+|-
+|MF ||'''10'''||[[René van de Kerkhof]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Piet Keizer]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Rinus Michels]]
+|}
+|valign="top"|[[File:NED-FRG 1974-07-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|SW ||'''5''' ||[[Franz Beckenbauer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Berti Vogts]] || {{yel|4}}
+|-
+|CB ||'''4''' ||[[Hans-Georg Schwarzenbeck]]
+|-
+|LB ||'''3''' ||[[Paul Breitner]]
+|-
+|CM ||'''16'''||[[Rainer Bonhof]]
+|-
+|CM ||'''12'''||[[Wolfgang Overath]]
+|-
+|AM ||'''14'''||[[Uli Hoeneß]]
+|-
+|RW ||'''9''' ||[[Jürgen Grabowski]]
+|-
+|LW ||'''17'''||[[Bernd Hölzenbein]]
+|-
+|CF ||'''13'''||[[Gerd Müller]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''21'''||[[Norbert Nigbur]]
+|-
+|DF ||'''6''' ||[[Horst-Dieter Höttges]]
+|-
+|MF ||'''8''' ||[[Bernhard Cullmann]]
+|-
+|MF ||'''15'''||[[Heinz Flohe]]
+|-
+|FW ||'''11'''||[[Jupp Heynckes]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Schön]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|width=50% valign=top|
+'''[[Assistant referee (association football)|Linesmen]]:'''
+<br />[[Ramón Barreto]] ([[Uruguayan Football Association|Uruguay]])
+<br />Alfonso González Archundia ([[Mexican Football Federation|Mexico]])
+<includeonly>|}</includeonly><section end="Lineups" />
+|width=50% valign=top|
+'''Match rules:'''
+*90 minutes
+*30 minutes of [[Extra time|extra-time]] if necessary
+*Replay on 9 July if scores still level
+*Five [[Substitute (association football)|substitutes]] named, of which two may be used
+|}
+
+==See also==
+*[[Germany–Netherlands football rivalry]]
+*[[Germany at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+{{Commons category}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+{{FIFA World Cup finals}}
+{{Netherlands national football team matches}}
+{{Germany national football team matches}}
+
+[[Category:1974 FIFA World Cup|Final]]
+[[Category:FIFA World Cup finals|1974]]
+[[Category:Men's international association football finals in Europe|1974]]
+[[Category:Germany national football team matches|1974]]
+[[Category:Netherlands national football team matches|1974]]
+[[Category:West Germany at the 1974 FIFA World Cup|Final]]
+[[Category:Netherlands at the 1974 FIFA World Cup|Final]]
+[[Category:Football matches in Munich]]
+[[Category:July 1974 sports events in Europe]]
+[[Category:1970s in Munich]]
+[[Category:Football matches in West Germany]]
+[[Category:Netherlands–West Germany relations]]
+[[Category:Germany–Netherlands sports relations|1974]]
+[[Category:Football finals in Germany]]

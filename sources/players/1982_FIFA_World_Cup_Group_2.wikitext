@@ -1,0 +1,775 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group 2''' of the [[1982 FIFA World Cup]] was one of six groups of national teams competing in the group stage of the [[1982 FIFA World Cup]]. Play began on 14 June and ended on 25 June 1982.<ref>{{cite web |url=https://www.rsssf.org/tables/82full.html |title=World Cup 1982 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The group consisted of four teams: Seeded team, the European champions [[West Germany national football team|West Germany]], World Cup debutants [[Algeria national football team|Algeria]], [[Chile national football team|Chile]] and [[Austria national football team|Austria]].
+
+West Germany won the group and advanced to the second round, along with Austria. [[Disgrace of Gijón|The final game in the group]], between these two teams, was one of the most controversial in World Cup history: with both teams knowing a win by one or two goals for West Germany would result in both them and Austria qualifying at the expense of Algeria, after West Germany took the lead after 10 minutes, the remainder of the match was played without any serious attempts from either side to score. This match is famously known as "The Disgrace of Gijón". FIFA amended the rules for all future tournaments so that the final group fixtures are always played simultaneously.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/spain1982/groups/index.html FIFA]
+
+|team1=FRG |team2=AUT |team3=ALG |team4=CHI
+|result1=A |result2=A
+
+|win_FRG=2 |draw_FRG=0 |loss_FRG=1 |gf_FRG=6 |ga_FRG=3
+|win_AUT=2 |draw_AUT=0 |loss_AUT=1 |gf_AUT=3 |ga_AUT=1
+|win_ALG=2 |draw_ALG=0 |loss_ALG=1 |gf_ALG=5 |ga_ALG=5
+|win_CHI=0 |draw_CHI=0 |loss_CHI=3 |gf_CHI=3 |ga_CHI=8
+
+|name_AUT={{fb|AUT}}
+|name_CHI={{fb|CHI}}
+|name_FRG={{fb|FRG}}
+|name_ALG={{fb|ALG}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1982 FIFA World Cup#Second group stage|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===West Germany vs Algeria===
+<onlyinclude>{{#invoke:Football box|main|section=2-1
+|date={{Start date|1982|6|16|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1982 FIFA World Cup Group 2#West Germany vs Algeria|1–2}}
+|team2={{fb|ALG}}
+|goals1=
+*[[Karl-Heinz Rummenigge|Rummenigge]] {{goal|67}}
+|goals2=
+*[[Rabah Madjer|Madjer]] {{goal|54}}
+*[[Lakhdar Belloumi|Belloumi]] {{goal|68}}
+|stadium=[[El Molinón]], [[Gijón]]
+|attendance=42,000
+|referee=[[Enrique Labo Revoredo]] ([[Federación Peruana de Fútbol|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/741 |title=Germany FR vs Algeria {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=741/index.html |title=1982 FIFA World Cup Spain – Matches – Germany FR v Algeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226130752/http://www.fifa.com/worldcup/matches/round=293/match=741/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _westgermany1980
+| pattern_b =  _shoulder stripes_black stripes_collar
+| pattern_ra = _westgermany1980
+| pattern_so = _color_3_stripes_black
+| leftarm = FFFFFF
+| body = FFFFFF
+| rightarm = FFFFFF
+| shorts = 000000
+| socks = FFFFFF
+| title = West Germany
+}}
+|{{Football kit
+ | pattern_la = _whiteshoulders
+ | pattern_b  = _algeria82a
+ | pattern_ra = _whiteshoulders
+ | pattern_sh = _Algeria_1982_away
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = 008000
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FF0000
+ | title      = Algeria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Harald Schumacher]]
+|-
+|SW ||'''15'''||[[Uli Stielike]]
+|-
+|DF ||'''20'''||[[Manfred Kaltz]]
+|-
+|DF ||'''4''' ||[[Karlheinz Förster]]
+|-
+|DF ||'''2''' ||[[Hans-Peter Briegel]]
+|-
+|MF ||'''6''' ||[[Wolfgang Dremmler]]
+|-
+|MF ||'''3''' ||[[Paul Breitner]]
+|-
+|MF ||'''14'''||[[Felix Magath]] || {{suboff|83}}
+|-
+|FW ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]])
+|-
+|FW ||'''9''' ||[[Horst Hrubesch]] || {{yel|57}}
+|-
+|FW ||'''7''' ||[[Pierre Littbarski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''5''' ||[[Bernd Förster]]
+|-
+|FW ||'''8''' ||[[Klaus Fischer]] || {{subon|83}}
+|-
+|DF ||'''12'''||[[Wilfried Hannes]]
+|-
+|FW ||'''13'''||[[Uwe Reinders]]
+|-
+|GK ||'''22'''||[[Eike Immel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jupp Derwall]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mehdi Cerbah]]
+|-
+|SW ||'''2''' ||[[Mahmoud Guendouz]]
+|-
+|DF ||'''5''' ||[[Chaâbane Merzekane]]
+|-
+|DF ||'''4''' ||[[Noureddine Kourichi]]
+|-
+|DF ||'''16'''||[[Faouzi Mansouri]]
+|-
+|MF ||'''8''' ||[[Ali Fergani]] ([[Captain (association football)|c]])
+|-
+|MF ||'''15'''||[[Mustapha Dahleb]]
+|-
+|MF ||'''10'''||[[Lakhdar Belloumi]]
+|-
+|MF ||'''14'''||[[Djamel Zidane]] || || {{suboff|64}}
+|-
+|FW ||'''7''' ||[[Salah Assad]]
+|-
+|FW ||'''11'''||[[Rabah Madjer]] || {{yel|83}} || {{suboff|88}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Tedj Bensaoula]] || || {{subon|64}}
+|-
+|DF ||'''12'''||[[Salah Larbès]] || || {{subon|88}}
+|-
+|MF ||'''19'''||[[Djamel Tlemçani]]
+|-
+|FW ||'''20'''||[[Abdelmajid Bourebbou]]
+|-
+|GK ||'''21'''||[[Mourad Amara]]
+|-
+|colspan=3|'''Co-managers:'''
+|-
+|colspan=3|[[Mahieddine Khalef]] & [[Rachid Mekhloufi]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Gilberto Aristizábal]] ([[Colombian Football Federation|Colombia]])
+<br />[[Paolo Casarin]] ([[Italian Football Federation|Italy]])
+|}
+
+===Chile vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=2-2
+|date={{Start date|1982|6|17|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|CHI}}
+|score={{score link|1982 FIFA World Cup Group 2#Chile vs Austria|0–1}}
+|team2={{fb|AUT}}
+|goals1=
+|goals2=
+*[[Walter Schachner|Schachner]] {{goal|22}}
+|stadium=[[Estadio Carlos Tartiere (1926)|Estadio Carlos Tartiere]], [[Oviedo]]
+|attendance=22,500
+|referee=[[Juan Daniel Cardellino]] ([[Asociación Uruguaya de Fútbol|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/764 |title=Chile vs Austria {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=764/index.html |title=1982 FIFA World Cup Spain – Matches – Chile v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226182146/http://www.fifa.com/worldcup/matches/round=293/match=764/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | align_left
+ | pattern_la = _shoulder stripes_white stripes
+ | pattern_b = _3_stripes_collar_white
+ | pattern_ra = _shoulder stripes_white stripes
+ | pattern_sh = _adidaswhite
+ | leftarm     = CD0000
+ | body        = CD0000
+ | rightarm       = CD0000
+ | shorts        = 191970
+ | socks        = FFFFFF
+ | title      = Chile
+}}
+|{{Football kit
+| pattern_la = _blackshoulders
+| pattern_b  = _austria82h
+| pattern_ra = _blackshoulders
+| pattern_sh = _whitesides
+| pattern_so = _band_red
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 000000
+ | title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Mario Osbén]]
+|-
+|SW ||'''5''' ||[[Elías Figueroa]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Lizardo Garrido]] || {{yel|29}}
+|-
+|DF ||'''3''' ||[[René Valenzuela]]
+|-
+|DF ||'''4''' ||[[Vladimir Bigorra]]
+|-
+|MF ||'''6''' ||[[Rodolfo Dubó]]
+|-
+|MF ||'''7''' ||[[Eduardo Bonvallet]]
+|-
+|MF ||'''20'''||[[Miguel Ángel Neira]] || || {{suboff|71}}
+|-
+|MF ||'''11'''||[[Gustavo Moscoso]] || || {{suboff|69}}
+|-
+|FW ||'''15'''||[[Patricio Yáñez]]
+|-
+|FW ||'''13'''||[[Carlos Caszely]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Oscar Wirth]]
+|-
+|MF ||'''10'''||[[Mario Soto (footballer, born 1950)|Mario Soto]]
+|-
+|MF ||'''16'''||[[Manuel Rojas (footballer)|Manuel Rojas]] || || {{subon|71}}
+|-
+|DF ||'''19'''||[[Enzo Escobar]]
+|-
+|FW ||'''21'''||[[Miguel Ángel Gamboa]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luis Santibáñez]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Friedrich Koncilia]]
+|-
+|SW ||'''3''' ||[[Erich Obermayer]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Bernd Krauss]]
+|-
+|DF ||'''5''' ||[[Bruno Pezzey]]
+|-
+|DF ||'''4''' ||[[Josef Degeorgi]] || {{yel|12}} || {{suboff|78}}
+|-
+|MF ||'''8''' ||[[Herbert Prohaska]]
+|-
+|MF ||'''6''' ||[[Roland Hattenberger]] || {{yel|66}}
+|-
+|MF ||'''10'''||[[Reinhold Hintermaier]]
+|-
+|MF ||'''19'''||[[Heribert Weber]] || || {{suboff|79}}
+|-
+|FW ||'''7''' ||[[Walter Schachner]]
+|-
+|FW ||'''9''' ||[[Hans Krankl]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''12'''||[[Anton Pichler (footballer)|Anton Pichler]]
+|-
+|DF ||'''14'''||[[Ernst Baumeister]] || || {{subon|78}}
+|-
+|FW ||'''18'''||[[Gernot Jurtin]]  || || {{subon|79}}
+|-
+|FW ||'''20'''||[[Kurt Welzl]]
+|-
+|GK ||'''22'''||[[Klaus Lindenberger]]
+|-
+|colspan=3|'''Co-managers:'''
+|-
+|colspan=3|[[Felix Latzke]] & [[Georg Schmidt (footballer)|Georg Schmidt]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Paolo Casarin]] ([[Italian Football Federation|Italy]])
+<br />[[Gilberto Aristizábal]] ([[Colombian Football Federation|Colombia]])
+|}
+
+===West Germany vs Chile===
+<onlyinclude>{{#invoke:Football box|main|section=2-3
+|date={{Start date|1982|6|20|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1982 FIFA World Cup Group 2#West Germany vs Chile|4–1}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Karl-Heinz Rummenigge|Rummenigge]] {{goal|9||57||66}}
+*[[Uwe Reinders|Reinders]] {{goal|83}}
+|goals2=
+*[[Gustavo Moscoso|Moscoso]] {{goal|90}}
+|stadium=[[El Molinón]], [[Gijón]]
+|attendance=42,000
+|referee=[[Bruno Galler]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/813 |title=Germany FR vs Chile {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=813/index.html |title=1982 FIFA World Cup Spain – Matches – Germany FR v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226132328/http://www.fifa.com/worldcup/matches/round=293/match=813/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _westgermany1980
+ | pattern_b =  _shoulder stripes_black stripes_collar
+ | pattern_ra = _westgermany1980
+ | pattern_so = _color_3_stripes_black
+ | leftarm = FFFFFF
+| body = FFFFFF
+| rightarm = FFFFFF
+| shorts = 000000
+| socks = FFFFFF
+| title = West Germany
+}}
+|{{Football kit
+  | pattern_la = _shoulder stripes_white stripes
+ | pattern_b = _3_stripes_collar_white
+ | pattern_ra = _shoulder stripes_white stripes
+ | pattern_sh = _adidasblue
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Chile
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Harald Schumacher|Toni Schumacher]]
+|-
+|SW ||'''15'''||[[Uli Stielike]]
+|-
+|DF ||'''20'''||[[Manfred Kaltz]]
+|-
+|DF ||'''4''' ||[[Karlheinz Förster]]
+|-
+|DF ||'''2''' ||[[Hans-Peter Briegel]]
+|-
+|MF ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6''' ||[[Wolfgang Dremmler]]
+|-
+|MF ||'''3''' ||[[Paul Breitner]] || {{suboff|61}}
+|-
+|MF ||'''14'''||[[Felix Magath]]
+|-
+|FW ||'''9''' ||[[Horst Hrubesch]]
+|-
+|FW ||'''7''' ||[[Pierre Littbarski]] || {{suboff|79}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''8''' ||[[Klaus Fischer]]
+|-
+|DF ||'''12'''||[[Wilfried Hannes]]
+|-
+|FW ||'''13'''||[[Uwe Reinders]] || {{subon|79}}
+|-
+|MF ||'''18'''||[[Lothar Matthäus]] || {{subon|61}}
+|-
+|GK ||'''22'''||[[Eike Immel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jupp Derwall]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Mario Osbén]]
+|-
+|SW ||'''5''' ||[[Elías Figueroa]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[René Valenzuela]]
+|-
+|DF ||'''4''' ||[[Vladimir Bigorra]]
+|-
+|DF ||'''2''' ||[[Lizardo Garrido]]
+|-
+|MF ||'''15'''||[[Patricio Yáñez]]
+|-
+|MF ||'''10'''||[[Mario Soto (footballer, born 1950)|Mario Soto]] || || {{suboff|46}}
+|-
+|MF ||'''6''' ||[[Rodolfo Dubó]] || {{yel|11}}
+|-
+|MF ||'''7''' ||[[Eduardo Bonvallet]]
+|-
+|FW ||'''21'''||[[Miguel Ángel Gamboa]]  || {{yel|29}} || {{suboff|66}}
+|-
+|FW ||'''11'''||[[Gustavo Moscoso]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Oscar Wirth]]
+|-
+|FW ||'''9''' ||[[Juan Carlos Letelier]] || || {{subon|46}}
+|-
+|MF ||'''14'''||[[Raúl Ormeño]]
+|-
+|DF ||'''19'''||[[Enzo Escobar]]
+|-
+|MF ||'''20'''||[[Miguel Ángel Neira]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luis Santibáñez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Vojtech Christov]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<br />[[Tony Boskovic]] ([[Football Federation Australia|Australia]])
+|}
+
+===Algeria vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=2-4
+|date={{Start date|1982|6|21|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ALG}}
+|score={{score link|1982 FIFA World Cup Group 2#Algeria vs Austria|0–2}}
+|team2={{fb|AUT}}
+|goals1=
+|goals2=
+*[[Walter Schachner|Schachner]] {{goal|55}}
+*[[Hans Krankl|Krankl]] {{goal|67}}
+|stadium=[[Estadio Carlos Tartiere (1926)|Estadio Carlos Tartiere]], [[Oviedo]]
+|attendance=22,000
+|referee=[[Tony Boskovic]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/739 |title=Algeria vs Austria {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=739/index.html |title=1982 FIFA World Cup Spain – Matches – Algeria v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226132325/http://www.fifa.com/worldcup/matches/round=293/match=739/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _whitecuffpiping
+| pattern_b  = _Algeria_1986_home
+| pattern_ra = _whitecuffpiping
+| pattern_sh = _Algeria_1982_home
+| pattern_so = _band_green
+| leftarm    = 008000
+| body       = 
+| rightarm   = 008000
+| shorts     = 
+| socks      = 
+| title      = Algeria
+}}
+|{{Football kit
+| pattern_la =  _whiteshoulders
+| pattern_b  = _austria82a
+| pattern_ra =  _whiteshoulders
+| pattern_sh = _redsides
+| pattern_so = _whitetop
+| leftarm    = ff0000
+| body       = ff0000
+| rightarm   = ff0000
+| shorts     = FFFFFF
+| socks      = ff0000
+| title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mehdi Cerbah]]
+|-
+|DF ||'''5''' ||[[Chaâbane Merzekane]]
+|-
+|DF ||'''2''' ||[[Mahmoud Guendouz]]
+|-
+|DF ||'''4''' ||[[Noureddine Kourichi]]
+|-
+|DF ||'''16'''||[[Faouzi Mansouri]] || {{yel|67}}
+|-
+|MF ||'''8''' ||[[Ali Fergani]] ([[Captain (association football)|c]])
+|-
+|MF ||'''15'''||[[Mustapha Dahleb]] || || {{suboff|76}}
+|-
+|MF ||'''10'''||[[Lakhdar Belloumi]] || || {{suboff|65}}
+|-
+|FW ||'''11'''||[[Rabah Madjer]]
+|-
+|FW ||'''14'''||[[Djamel Zidane]]
+|-
+|FW ||'''7''' ||[[Salah Assad]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''6''' ||[[Ali Bencheikh]]
+|-
+|FW ||'''9''' ||[[Tedj Bensaoula]] || || {{subon|65}}
+|-
+|DF ||'''12'''||[[Salah Larbès]]
+|-
+|MF ||'''19'''||[[Djamel Tlemçani]] || || {{subon|76}}
+|-
+|GK ||'''21'''||[[Mourad Amara]]
+|-
+|colspan=3|'''Co-managers:'''
+|-
+|colspan=3|[[Mahieddine Khalef]] & [[Rachid Mekhloufi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Friedrich Koncilia]]
+|-
+|DF ||'''2''' ||[[Bernd Krauss]]
+|-
+|DF ||'''3''' ||[[Erich Obermayer]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Bruno Pezzey]]
+|-
+|DF ||'''4''' ||[[Josef Degeorgi]]
+|-
+|MF ||'''6''' ||[[Roland Hattenberger]]
+|-
+|MF ||'''8''' ||[[Herbert Prohaska]] || || {{suboff|80}}
+|-
+|MF ||'''10'''||[[Reinhold Hintermaier]]
+|-
+|DF ||'''14'''||[[Ernst Baumeister]] || || {{suboff|46}}
+|-
+|FW ||'''7''' ||[[Walter Schachner]]
+|-
+|FW ||'''9''' ||[[Hans Krankl]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''17'''||[[Johann Pregesbauer]]
+|-
+|FW ||'''18'''||[[Gernot Jurtin]]
+|-
+|DF ||'''19'''||[[Heribert Weber]] || || {{subon|80}}
+|-
+|FW ||'''20'''||[[Kurt Welzl]] || || {{subon|46}}
+|-
+|GK ||'''22'''||[[Klaus Lindenberger]]
+|-
+|colspan=3|'''Co-managers:'''
+|-
+|colspan=3|[[Felix Latzke]] & [[Georg Schmidt (footballer)|Georg Schmidt]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Vojtech Christov]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<br />[[Ebrahim Al Doy]] ([[Bahrain Football Association|Bahrain]])
+|}
+
+===Algeria vs Chile===
+<onlyinclude>{{#invoke:Football box|main|section=2-5
+|date={{Start date|1982|6|24|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ALG}}
+|score={{score link|1982 FIFA World Cup Group 2#Algeria vs Chile|3–2}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Salah Assad|Assad]] {{goal|7||31}}
+*[[Tedj Bensaoula|Bensaoula]] {{goal|35}}
+|goals2=
+*[[Miguel Ángel Neira|Neira]] {{goal|59|pen.}}
+*[[Juan Carlos Letelier|Letelier]] {{goal|73}}
+|stadium=[[Estadio Carlos Tartiere (1926)|Estadio Carlos Tartiere]], [[Oviedo]]
+|attendance=16,000
+|referee=[[Rómulo Méndez]] ([[Federación Nacional de Fútbol de Guatemala|Guatemala]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/740 |title=Algeria vs Chile {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=740/index.html |title=1982 FIFA World Cup Spain – Matches – Algeria v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226132133/http://www.fifa.com/worldcup/matches/round=293/match=740/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _whitecuffpiping
+| pattern_b  = _Algeria_1986_home
+| pattern_ra = _whitecuffpiping
+| pattern_sh = _Algeria_1982_home
+| pattern_so = _band_green
+| leftarm    = 008000
+| body       = 
+| rightarm   = 008000
+| shorts     = 
+| socks      = 
+| title      = Algeria
+}}
+|{{Football kit
+ | align_left
+ | pattern_la = _shoulder stripes_white stripes
+ | pattern_b = _3_stripes_collar_white
+ | pattern_ra = _shoulder stripes_white stripes
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_blue
+ | leftarm    = CD0000
+ | body       = CD0000
+ | rightarm   = CD0000
+ | shorts     = 1933AA
+ | socks      = FFFFFF
+ | title      = Chile
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mehdi Cerbah]]
+|-
+|DF ||'''5''' ||[[Chaâbane Merzekane]]
+|-
+|DF ||'''12'''||[[Salah Larbès]]
+|-
+|DF ||'''4''' ||[[Noureddine Kourichi]]
+|-
+|DF ||'''2''' ||[[Mahmoud Guendouz]]
+|-
+|MF ||'''8''' ||[[Ali Fergani]] ([[Captain (association football)|c]])
+|-
+|MF ||'''16'''||[[Faouzi Mansouri]] || || {{suboff|75}}
+|-
+|MF ||'''20'''||[[Abdelmajid Bourebbou]] || || {{suboff|31}}
+|-
+|FW ||'''11'''||[[Rabah Madjer]]
+|-
+|FW ||'''9''' ||[[Tedj Bensaoula]]
+|-
+|FW ||'''7''' ||[[Salah Assad]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''13'''||[[Hocine Yahi]] || || {{subon|31}}
+|-
+|MF ||'''15'''||[[Mustapha Dahleb]] || || {{subon|75}}
+|-
+|DF ||'''17'''||[[Abdelkader Horr]]
+|-
+|MF ||'''19'''||[[Djamel Tlemçani]]
+|-
+|GK ||'''21'''||[[Mourad Amara]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Mahieddine Khalef]] & [[Rachid Mekhloufi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Mario Osbén]]
+|-
+|DF ||'''18'''||[[Mario Galindo]]
+|-
+|DF ||'''5''' ||[[Elías Figueroa]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[René Valenzuela]]
+|-
+|DF ||'''4''' ||[[Vladimir Bigorra]]
+|-
+|MF ||'''6''' ||[[Rodolfo Dubó]]
+|-
+|MF ||'''7''' ||[[Eduardo Bonvallet]] || || {{suboff|37}}
+|-
+|MF ||'''20'''||[[Miguel Ángel Neira]]
+|-
+|FW ||'''15'''||[[Patricio Yáñez]]
+|-
+|FW ||'''13'''||[[Carlos Caszely]] || || {{suboff|58}}
+|-
+|FW ||'''11'''||[[Gustavo Moscoso]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Oscar Wirth]]
+|-
+|FW ||'''9''' ||[[Juan Carlos Letelier]] || {{yel|88}} || {{subon|58}}
+|-
+|MF ||'''10'''||[[Mario Soto (footballer, born 1950)|Mario Soto]] || || {{subon|37}}
+|-
+|DF ||'''19'''||[[Enzo Escobar]]
+|-
+|FW ||'''21'''||[[Miguel Ángel Gamboa]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luis Santibáñez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+<br />[[Arnaldo Cézar Coelho]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===West Germany vs Austria===
+{{Main|Disgrace of Gijón}}
+<onlyinclude>{{#invoke:transcludable section|main|section=2-6|text={{#lst:Disgrace of Gijón|2-6}}}}</onlyinclude>
+{{#lst:Disgrace of Gijón|Line-ups}}
+
+==See also==
+*[[Algeria at the FIFA World Cup]]
+*[[Austria at the FIFA World Cup]]
+*[[Chile at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/2602c368daaad887/original/bn1ocpuvccw3txzmiut3-pdf.pdf Spain 1982 FIFA Technical Report: Statistical Details of the Matches pp. 103-106]
+
+{{1982 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 2}}
+[[Category:1982 FIFA World Cup group stage]]
+[[Category:West Germany at the 1982 FIFA World Cup]]
+[[Category:Austria at the 1982 FIFA World Cup]]
+[[Category:Chile at the 1982 FIFA World Cup]]
+[[Category:Algeria at the 1982 FIFA World Cup]]
+[[Category:Football in Asturias]]
+[[Category:1982 in Asturias]]
+[[Category:Sport in Gijón]]
+[[Category:Sport in Oviedo]]

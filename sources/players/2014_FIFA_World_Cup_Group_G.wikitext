@@ -1,0 +1,1003 @@
+{{Short description|Football World Cup}}
+{{Use British English|date=July 2014}}
+{{Use dmy dates|date=June 2018}}
+Group G of the [[2014 FIFA World Cup]] consisted of eventual champions [[Germany national football team|Germany]], [[Portugal national football team|Portugal]], [[Ghana national football team|Ghana]] and [[United States men's national soccer team|United States]]. Play began on 16 June and ended on 26 June 2014. The top two teams, Germany and the United States, advanced to the round of 16.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2013{{refn|group=nb|The rankings of October 2013 were used for [[2014 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2014
+|-
+| G1 ''(seed)'' || style=white-space:nowrap | {{fb|GER}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA Group C|UEFA Group C]] winners || 11 October 2013 || data-sort-value="18" | 18th || [[2010 FIFA World Cup|2010]] || data-sort-value="7.3" | '''Winners''' ([[1954 FIFA World Cup|1954]], [[1974 FIFA World Cup|1974]], [[1990 FIFA World Cup|1990]]) || 2 || 2
+|-
+| G2 || style=white-space:nowrap | {{fb|POR}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA second round|UEFA play-off]] winners || 19 November 2013 || data-sort-value="6" | 6th || [[2010 FIFA World Cup|2010]] || data-sort-value="5.1" | Third place ([[1966 FIFA World Cup|1966]]) || 14 || 4
+|-
+| G3 || style=white-space:nowrap | {{fb|GHA}} || [[Confederation of African Football|CAF]] || [[2014 FIFA World Cup qualification – CAF third round|CAF third round]] winners || 19 November 2013 || data-sort-value="3" | 3rd || [[2010 FIFA World Cup|2010]] || data-sort-value="3.1" | Quarter-finals ([[2010 FIFA World Cup|2010]]) || 23 || 37
+|-
+| G4 || style=white-space:nowrap | {{fb|USA}} || [[CONCACAF]] || [[2014 FIFA World Cup qualification – CONCACAF fourth round|CONCACAF fourth round]] <span style="display:none">1st</span> winners || 10 September 2013 || data-sort-value="10" | 10th || [[2010 FIFA World Cup|2010]] || data-sort-value="5.1" | Third place ([[1930 FIFA World Cup|1930]]) || 13 || 13
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/brazil2014/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=GER |team2=USA |team3=POR |team4=GHA
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2014 FIFA World Cup#Format|Tie-breaking criteria]]
+
+|win_GER=2 |draw_GER=1 |loss_GER=0 |gf_GER=7 |ga_GER=2
+|win_USA=1 |draw_USA=1 |loss_USA=1 |gf_USA=4 |ga_USA=4
+|win_POR=1 |draw_POR=1 |loss_POR=1 |gf_POR=4 |ga_POR=7
+|win_GHA=0 |draw_GHA=1 |loss_GHA=2 |gf_GHA=4 |ga_GHA=6
+
+|name_GER={{fb|GER}}
+|name_USA={{fb|USA}}
+|name_POR={{fb|POR}}
+|name_GHA={{fb|GHA}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2014 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Germany advanced to play [[Algeria national football team|Algeria]] (runner-up of [[2014 FIFA World Cup Group H|Group H]]) in the [[2014 FIFA World Cup knockout stage#Germany vs Algeria|round of 16]].
+*United States advanced to play [[Belgium national football team|Belgium]] (winner of [[2014 FIFA World Cup Group H|Group H]]) in the [[2014 FIFA World Cup knockout stage#Belgium vs United States|round of 16]].
+
+==Matches==
+===Germany vs Portugal===
+{{further|List of 2014 FIFA World Cup controversies#Germany vs Portugal}}
+The two teams had met in 17 previous matches, including in the [[2006 FIFA World Cup]] match for third place, won by Germany [[2006 FIFA World Cup knockout stage#Match for third place|3–1]].<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=20 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=20 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> Their most recent meeting was in the [[UEFA Euro 2012]] group stage, won by Germany [[UEFA Euro 2012 Group B#Germany vs Portugal|1–0]].
+
+Germany took the lead with a [[Thomas Müller]] penalty kick, shooting low and hard into the bottom left-hand corner, awarded after a foul on [[Mario Götze]] by [[João Pereira (footballer, born 1984)|João Pereira]]. [[Mats Hummels]] doubled the advantage for Germany by heading in a corner kick from [[Toni Kroos]].<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/16/germany-portugal-world-cup-2014-group-g-match-report|title=Thomas Müller's hat-trick and Pepe's petulance sink bedraggled Portugal|date= 16 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+Shortly before halftime Müller and [[Pepe (footballer, born 1983)|Pepe]] were involved in an altercation, in which Pepe headbutted Müller and was sent off. In first half stoppage time, Müller intercepted a clearance from [[Bruno Alves]] to slot home. Müller completed his hat-trick in the second half, as he scored from close range after Portugal goalkeeper [[Rui Patrício]] stopped [[André Schürrle]]'s cross from the right.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285106|title=Germany 4 Porgual 0|work=BBC Sport|date=16 June 2014}}</ref>
+
+The match was Germany's 100th in the World Cup, the first team to reach the milestone. Müller's [[List of FIFA World Cup hat-tricks|hat-trick]] was the seventh by a German player in the World Cup, the most of any nation.<ref>{{cite magazine|url=http://www.firstpost.com/sports/wc-2014-number-cruncher-how-germany-mullered-portugal-1573655.html|title=WC 2014 Number Cruncher: How Germany Mullered Portugal|magazine=First Post|date=17 June 2014}}</ref> This was Portugal's worst loss in their World Cup history.<ref>{{cite news|url=http://www.providencejournal.com/sports/content/20140616-germany-hands-portugal-its-worst-ever-world-cup-loss.ece|title=Germany hands Portugal its worst ever World Cup loss|newspaper=Providence Journal|date=16 June 2014|access-date=14 July 2014|archive-url=https://web.archive.org/web/20140714231103/http://www.providencejournal.com/sports/content/20140616-germany-hands-portugal-its-worst-ever-world-cup-loss.ece|archive-date=14 July 2014|url-status=dead|df=dmy-all}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g1
+|date={{Start date|2014|6|16|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|GER}}
+|score={{score link|2014 FIFA World Cup Group G#Germany vs Portugal|4–0}}
+|team2={{fb|POR}}
+|goals1=
+*[[Thomas Müller|Müller]] {{goal|12|pen.|45+1||78}}
+*[[Mats Hummels|Hummels]] {{goal|32}}
+|goals2=
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=51,081
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186475 |title=Germany vs Portugal {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186475/report.html |title=2014 FIFA World Cup Brazil – Matches – Germany v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217174600/http://www.fifa.com/worldcup/matches/round=255931/match=300186475/report.html |archive-date=17 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5dfad943d0706179/original/uedjgvkodnrtay96ilnh-pdf.pdf |title=Match report – Group G – Germany v Portugal |publisher=[[FIFA]] |date=16 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061228/https://digitalhub.fifa.com/m/5dfad943d0706179/original/uedjgvkodnrtay96ilnh-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _deutschland14h
+ |pattern_b  = _deutschland14h
+ |pattern_ra = _deutschland14h
+ |pattern_sh = _deutschland14h
+ |pattern_so = _DFB_14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Germany<ref name="GER-POR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/34265412a4932d60/original/n6vmhxr565y89v3yw6vh-pdf.pdf |title=Tactical Line-up – Group G – Germany v Portugal |publisher=[[FIFA]] |date=16 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522183906/https://digitalhub.fifa.com/m/34265412a4932d60/original/n6vmhxr565y89v3yw6vh-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _portugal14h
+ |pattern_b  = _portugal14h
+ |pattern_ra = _portugal14h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = 7D0013
+ |body       = 7D0013
+ |rightarm   = 7D0013
+ |shorts     = 7D0013
+ |socks      = 7D0013
+ |title      = Portugal<ref name="GER-POR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''20'''||[[Jérôme Boateng]]
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''5''' ||[[Mats Hummels]] || || {{suboff|73}}
+|-
+|LB ||'''4''' ||[[Benedikt Höwedes]]
+|-
+|DM ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Sami Khedira]]
+|-
+|CM ||'''18'''||[[Toni Kroos]]
+|-
+|RW ||'''13'''||[[Thomas Müller]] || || {{suboff|82}}
+|-
+|LW ||'''19'''||[[Mario Götze]]
+|-
+|CF ||'''8''' ||[[Mesut Özil]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[André Schürrle]] || || {{subon|63}}
+|-
+|DF ||'''21'''||[[Shkodran Mustafi]] || || {{subon|73}}
+|-
+|FW ||'''10'''||[[Lukas Podolski]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-POR 2014-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Rui Patrício]]
+|-
+|RB ||'''21'''||[[João Pereira (footballer, born 1984)|João Pereira]] || {{yel|11}}
+|-
+|CB ||'''2''' ||[[Bruno Alves]]
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]] || {{sent off|0|37}}
+|-
+|LB ||'''5''' ||[[Fábio Coentrão]] || || {{suboff|65}}
+|-
+|DM ||'''4''' ||[[Miguel Veloso]] || || {{suboff|46}}
+|-
+|CM ||'''8''' ||[[João Moutinho]]
+|-
+|CM ||'''16'''||[[Raul Meireles]]
+|-
+|RW ||'''17'''||[[Nani (footballer)|Nani]]
+|-
+|LW ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Hugo Almeida]] || || {{suboff|28}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Eder (Portuguese footballer)|Eder]] || || {{subon|28}}
+|-
+|DF ||'''13'''||[[Ricardo Costa (footballer, born 1981)|Ricardo Costa]] || || {{subon|46}}
+|-
+|DF ||'''19'''||[[André Almeida (footballer, born 1990)|André Almeida]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Paulo Bento]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Thomas Müller]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Néant Alioum ([[Cameroonian Football Federation|Cameroon]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Djibril Camara ([[Senegalese Football Federation|Senegal]])
+|}
+
+===Ghana vs United States===
+The two teams had met in three previous matches, including twice in World Cup in 2006 and 2010, where both times Ghana beat United States 2–1. The [[2006 FIFA World Cup]] encounter was in their [[2006 FIFA World Cup Group E#Ghana vs United States|last group stage match]], and the [[2010 FIFA World Cup]] encounter was in the round of 16 final where Ghana won [[2010 FIFA World Cup knockout stage#United States vs Ghana|again]], which in both occasions, eliminated United States from those previous World Cups.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=21 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=21 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+[[Clint Dempsey]] opened the scoring for the United States within 29 seconds (the fifth fastest goal in the history of the World Cup<ref>{{cite news|url=https://www.mirror.co.uk/sport/football/news/world-cup-2014-watch-clint-3707831|title=World Cup 2014: Watch Clint Dempsey score fifth fastest goal in World Cup history against Ghana|date=16 June 2014|access-date=11 July 2014|newspaper=Daily Mirror}}</ref><ref>{{cite web|url=https://bleacherreport.com/articles/2100421-team-usas-clint-dempsey-scores-5th-fastest-goal-in-world-cup-history|title=Team USA's Clint Dempsey Scores 5th-Fastest Goal in World Cup History|date=17 June 2014|access-date=11 July 2014|website=Bleacher Report}}</ref>), as he received the ball from [[Jermaine Jones]], dribbled past [[John Boye]] and shot into the far corner. The lead lasted until the 82nd minute, when [[Asamoah Gyan]]'s back-heel set up [[André Ayew]] to score. However, the United States scored the game-winning goal four minutes later, when half-time substitute [[John Brooks (soccer, born 1993)|John Brooks]] headed in [[Graham Zusi]]'s corner.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285120|title=Ghana 1 USA 2|work=BBC Sport|date=16 June 2014}}</ref> The American victory was marred by an injury to [[Jozy Altidore]], leaving the match in the 21st minute with a strained left hamstring.<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/17/usa-ghana-jozy-altidore-world-cup|title= Victory over Ghana, agony over Altidore: America wakes up to the World Cup|date=17 June 2014|work=Guardian |access-date=18 June 2014}}</ref>
+
+Dempsey's goal was officially timed by FIFA at 30 seconds after kick-off, the fifth fastest in World Cup history, and the fastest by an American player. He also became the first American player to score in three World Cups.<ref>{{cite web|url=http://www.espnfc.us/fifa-world-cup/story/1888395/fifa-times-clint-dempsey-world-cup-goal-for-us-in-2-1-win-over-ghana-at-30-seconds|title=FIFA: Dempsey goal at 30 seconds|publisher=ESPN FC|date=17 June 2014}}</ref> [[DaMarcus Beasley]] became the first American to play in four World Cups.<ref>{{cite news|url=http://www.latimes.com/sports/soccer/la-sp-world-cup-notes-20140617-story.html|title=U.S. fans show up in strength for World Cup victory over Ghana|newspaper=Los Angeles Times|date=17 June 2014}}</ref> Brooks became the first American substitute ever to score in a World Cup.
+
+<onlyinclude>{{#invoke:Football box|main|section=g2
+|date={{Start date|2014|6|16|df=y}}
+|time=19:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|GHA}}
+|score={{score link|2014 FIFA World Cup Group G#Ghana vs United States|1–2}}
+|team2={{fb|USA}}
+|goals1=
+*[[André Ayew|A. Ayew]] {{goal|82}}
+|goals2=
+*[[Clint Dempsey|Dempsey]] {{goal|1}}
+*[[John Brooks (soccer, born 1993)|Brooks]] {{goal|86}}
+|stadium=[[Arena das Dunas]], [[Natal, Rio Grande do Norte|Natal]]
+|attendance=39,760
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186512 |title=Ghana vs United States {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186512/report.html |title=2014 FIFA World Cup Brazil – Matches – Ghana v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170808200031/http://www.fifa.com/worldcup/matches/round=255931/match=300186512/report.html |archive-date=8 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/86f6abcc9723ee7/original/fv7ancap4hzlnoqmxn6t-pdf.pdf |title=Match report – Group G – Ghana v USA |publisher=[[FIFA]] |date=16 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061255/https://digitalhub.fifa.com/m/86f6abcc9723ee7/original/fv7ancap4hzlnoqmxn6t-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _ghana1415h
+ |pattern_b  = _ghana1415home
+ |pattern_ra = _ghana1415h
+ |pattern_sh = _ghana1415h
+ |pattern_so = _long_ghana1415h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ghana<ref name="GHA-USA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/70f5dc94482c2624/original/pzlv0itk9hok6hhnnxe1-pdf.pdf |title=Tactical Line-up – Group G – Ghana v USA |publisher=[[FIFA]] |date=16 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173403/https://digitalhub.fifa.com/m/70f5dc94482c2624/original/pzlv0itk9hok6hhnnxe1-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _usa1415a
+ |pattern_b  = _usa1415a
+ |pattern_ra = _usa1415a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 002664
+ |body       = 002664
+ |rightarm   = 002664
+ |shorts     = DF0B10
+ |socks      = DF0B10
+ |title      = United States<ref name="GHA-USA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Adam Larsen Kwarasey|Adam Kwarasey]]
+|-
+|RB ||'''4''' ||[[Daniel Opare]]
+|-
+|CB ||'''19'''||[[Jonathan Mensah]]
+|-
+|CB ||'''21'''||[[John Boye]]
+|-
+|LB ||'''20'''||[[Kwadwo Asamoah]]
+|-
+|CM ||'''17'''||[[Mohammed Rabiu]] || {{yel|30}} || {{suboff|71}}
+|-
+|CM ||'''11'''||[[Sulley Muntari]] || {{yel|90+2}}
+|-
+|AM ||'''10'''||[[André Ayew]]
+|-
+|RF ||'''13'''||[[Jordan Ayew]] || || {{suboff|59}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] ([[Captain (association football)|c]])
+|-
+|LF ||'''7''' ||[[Christian Atsu]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Kevin-Prince Boateng]] || || {{subon|59}}
+|-
+|MF ||'''5''' ||[[Michael Essien]] || || {{subon|71}}
+|-
+|MF ||'''14'''||[[Albert Adomah]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[James Kwesi Appiah]]
+|}
+|valign="top"|[[File:GHA-USA 2014-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tim Howard]]
+|-
+|RB ||'''23'''||[[Fabian Johnson]]
+|-
+|CB ||'''20'''||[[Geoff Cameron]]
+|-
+|CB ||'''5''' ||[[Matt Besler]] || || {{suboff|46}}
+|-
+|LB ||'''7''' ||[[DaMarcus Beasley]]
+|-
+|DM ||'''15'''||[[Kyle Beckerman]]
+|-
+|CM ||'''11'''||[[Alejandro Bedoya]] || || {{suboff|77}}
+|-
+|CM ||'''13'''||[[Jermaine Jones]]
+|-
+|AM ||'''4''' ||[[Michael Bradley (soccer)|Michael Bradley]]
+|-
+|CF ||'''17'''||[[Jozy Altidore]] || || {{suboff|23}}
+|-
+|CF ||'''8''' ||[[Clint Dempsey]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Aron Jóhannsson]] || || {{subon|23}}
+|-
+|DF ||'''6''' ||[[John Brooks (soccer, born 1993)|John Brooks]] || || {{subon|46}}
+|-
+|MF ||'''19'''||[[Graham Zusi]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klinsmann]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Clint Dempsey]] (United States)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+<br />Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Aden Marwa ([[Football Kenya Federation|Kenya]])
+|}
+
+===Germany vs Ghana===
+The two teams had met in three previous matches, including in the [[2010 FIFA World Cup]] group stage, won by Germany [[2010 FIFA World Cup Group D#Ghana vs Germany|1–0]]. This fixture is the 800th World Cup match.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=35 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=35 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+After a goalless first half, Germany took the lead when [[Thomas Müller]] crossed from the right for [[Mario Götze]], whose header went in off his thigh. Ghana equalised three minutes later, when [[André Ayew]] headed in [[Harrison Afful]]'s cross from the right. Ghana then took the lead when [[Sulley Muntari]] intercepted the ball from [[Philipp Lahm]], then slipped a through ball for [[Asamoah Gyan]] to score with his right foot.<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/22/world-cup-germany-ghana-asamoah-gyan-miroslav-klose-joachin-low|title=Germany's fightback against Ghana in breathless draw shows true grit|date= 22 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+Just two minutes after coming on as a substitute, [[Miroslav Klose]] once again tied up the match, with a close-range finish after [[Benedikt Höwedes]] flicked on a corner from [[Toni Kroos]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285228|title=Germany 2 Ghana 2|work=BBC Sport|date=21 June 2014}}</ref>
+
+Klose's goal took his World Cup total to 15, equalling the record mark held by Brazil's [[Ronaldo (Brazilian footballer)|Ronaldo]]. He also joined [[Pelé]] and [[Uwe Seeler]] as the only players to have scored in four World Cups.<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/world-cup/10918416/Germany-striker-Miroslav-Klose-equals-World-Cup-goal-record-in-dramatic-draw-with-Ghana.html|title=Germany striker Miroslav Klose equals World Cup goal record in dramatic draw with Ghana|newspaper=The Telegraph|date=22 June 2014}}</ref> Gyan became the joint top African scorer in the World Cup (tied with Cameroon's [[Roger Milla]]) with five goals, and also the first African player to score in three World Cups.<ref>{{cite web|url=http://en.africatopsports.com/2014/06/22/asamoah-gyan-african-top-scorer-world-cup-roger-milla/|title=Asamoah Gyan: African top scorer at World Cup with Roger Milla|publisher=Africa Top Sports|date=21 June 2014|access-date=23 June 2014|archive-url=https://web.archive.org/web/20140711111410/http://en.africatopsports.com/2014/06/22/asamoah-gyan-african-top-scorer-world-cup-roger-milla/|archive-date=11 July 2014|url-status=dead}}</ref> Just as in the 2010 meeting, [[Jérôme Boateng]] (Germany) and [[Kevin-Prince Boateng]] (Ghana) faced each other, the second time two brothers faced each other in a World Cup game.<ref>{{cite news|url=http://ftw.usatoday.com/2014/06/jerome-boateng-kevin-prince-boateng-brothers-ghana-germany|title=Brothers Jérôme Boateng and Kevin-Prince Boateng face off at the World Cup|newspaper=USA Today|date=21 June 2014}}</ref>
+
+In the 52nd minute, a man with a Polish passport, identified as Leszek Ludomir, invaded the pitch shirtless, with neo-Nazi letters and numbers painted on his chest and back. FIFA's official TV feed cut out the images. The man was approached in a calm and friendly manner by Ghana midfielder [[Sulley Muntari]], who quickly escorted him off the pitch, and he was then taken into custody by the stadium security.<ref>{{cite web |url=http://esportes.opovo.com.br/app/esportes/futebol/copadomundo/2014/06/22/noticiacopadomundo,2787010/torcedor-polones-invade-campo-da-arena-castelao-em-jogo-de-copa-do-mundo.shtml |title=Torcedor polonês invade campo da Arena Castelão em jogo de Copa do Mundo &#124; Copa do Mundo |publisher=Esportes O POVO |date=22 June 2014 |access-date=28 June 2014 |archive-url=https://web.archive.org/web/20140714183410/http://esportes.opovo.com.br/app/esportes/futebol/copadomundo/2014/06/22/noticiacopadomundo,2787010/torcedor-polones-invade-campo-da-arena-castelao-em-jogo-de-copa-do-mundo.shtml |archive-date=14 July 2014 |url-status=dead }}</ref> It was also quite surprising that no police were seen on the pitch in pursuit of the invader.<ref>{{cite web |author=22 de junho de 2014 12h43min |url=https://br.esporteinterativo.yahoo.com/noticias/nazista-invade-campo-entre-gana-e-alemanha-154352267.html |title=Nazista invade campo entre Gana e Alemanha - Yahoo Esporte Interativo |publisher=Br.esporteinterativo.yahoo.com |access-date=28 June 2014 |archive-url=https://web.archive.org/web/20140714235649/https://br.esporteinterativo.yahoo.com/noticias/nazista-invade-campo-entre-gana-e-alemanha-154352267.html |archive-date=14 July 2014 |url-status=dead |df=dmy-all }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g3
+|date={{Start date|2014|6|21|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|GER}}
+|score={{score link|2014 FIFA World Cup Group G#Germany vs Ghana|2–2}}
+|team2={{fb|GHA}}
+|goals1=
+*[[Mario Götze|Götze]] {{goal|51}}
+*[[Miroslav Klose|Klose]] {{goal|71}}
+|goals2=
+*[[André Ayew|A. Ayew]] {{goal|54}}
+*[[Asamoah Gyan|Gyan]] {{goal|63}}
+|stadium=[[Castelão (Ceará)|Estádio Castelão]], [[Fortaleza]]
+|attendance=59,621
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186493 |title=Germany vs Ghana {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186493/report.html |title=2014 FIFA World Cup Brazil – Matches – Germany v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20160306062147/http://www.fifa.com/worldcup/matches/round=255931/match=300186493/report.html |archive-date=6 March 2016}} | {{cite web |url=https://digitalhub.fifa.com/m/27d15c964070afb0/original/auafpbdydtfgiszgrc2u-pdf.pdf |title=Match report – Group G – Germany v Ghana |publisher=[[FIFA]] |date=21 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061628/https://digitalhub.fifa.com/m/27d15c964070afb0/original/auafpbdydtfgiszgrc2u-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _deutschland14h
+ |pattern_b  = _deutschland14h
+ |pattern_ra = _deutschland14h
+ |pattern_sh = _deutschland14h
+ |pattern_so = _DFB_14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Germany<ref name="GER-GHA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6ef7d1e931cd761e/original/gqdbcwfuur2ixbprzgnn-pdf.pdf |title=Tactical Line-up – Group G – Germany v Ghana |publisher=[[FIFA]] |date=21 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173850/https://digitalhub.fifa.com/m/6ef7d1e931cd761e/original/gqdbcwfuur2ixbprzgnn-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ghana1415a
+ |pattern_b  = _ghana2014a
+ |pattern_ra = _ghana1415a
+ |pattern_sh = _ghana1415a
+ |pattern_so = _long_ghana1415a
+ |leftarm    = DD0000
+ |body       = FF0000
+ |rightarm   = DD0000
+ |shorts     = D01124
+ |socks      = D01124
+ |title      = Ghana<ref name="GER-GHA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''20'''||[[Jérôme Boateng]] || || {{suboff|46}}
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''5''' ||[[Mats Hummels]]
+|-
+|LB ||'''4''' ||[[Benedikt Höwedes]]
+|-
+|DM ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CM ||'''6''' ||[[Sami Khedira]] || || {{suboff|70}}
+|-
+|CM ||'''18'''||[[Toni Kroos]]
+|-
+|RW ||'''8''' ||[[Mesut Özil]]
+|-
+|LW ||'''19'''||[[Mario Götze]] || || {{suboff|69}}
+|-
+|CF ||'''13'''||[[Thomas Müller]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Shkodran Mustafi]] || || {{subon|46}}
+|-
+|FW ||'''11'''||[[Miroslav Klose]] || || {{subon|69}}
+|-
+|MF ||'''7''' ||[[Bastian Schweinsteiger]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-GHA 2014-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fatau Dauda]]
+|-
+|RB ||'''23'''||[[Harrison Afful]]
+|-
+|CB ||'''21'''||[[John Boye]]
+|-
+|CB ||'''19'''||[[Jonathan Mensah]]
+|-
+|LB ||'''20'''||[[Kwadwo Asamoah]]
+|-
+|CM ||'''11'''||[[Sulley Muntari]] || {{yel|90+4}}
+|-
+|CM ||'''17'''||[[Mohammed Rabiu]] || || {{suboff|78}}
+|-
+|RW ||'''7''' ||[[Christian Atsu]] || || {{suboff|72}}
+|-
+|AM ||'''9''' ||[[Kevin-Prince Boateng]] || || {{suboff|52}}
+|-
+|LW ||'''10'''||[[André Ayew]]
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Jordan Ayew]] || || {{subon|52}}
+|-
+|MF ||'''22'''||[[Mubarak Wakaso]] || || {{subon|72}}
+|-
+|MF ||'''8''' ||[[Emmanuel Agyemang-Badu]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[James Kwesi Appiah]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Mario Götze]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Emerson De Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Víctor Hugo Carrillo]] ([[Peruvian Football Federation|Peru]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Rodney Aquino ([[Paraguayan Football Association|Paraguay]])
+|}
+
+===United States vs Portugal===
+The two teams had met in five previous matches, including in the [[2002 FIFA World Cup]] group stage, won by the United States [[2002 FIFA World Cup Group D#United States vs Portugal|3–2]].<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=36 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=36 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> Portugal defender [[Pepe (footballer, born 1983)|Pepe]] was suspended for the match after his red card against Germany.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/27928507|title=World Cup 2014: Pepe of Portugal handed one-match suspension|work=BBC Sport|date=19 June 2014}}</ref>
+
+Portugal took the lead within five minutes, when [[Geoff Cameron]]'s mis-hit clearance fell to [[Nani (footballer)|Nani]] and he scored from close range. Near the end of the first half, Nani's long-range shot hit the post, and American goalkeeper [[Tim Howard]] saved [[Éder (Portuguese footballer)|Éder]]'s follow-up. In the second half, [[Michael Bradley (soccer)|Michael Bradley]] had a shot cleared off the line by [[Ricardo Costa (footballer, born 1981)|Ricardo Costa]], but the United States eventually equalised through [[Jermaine Jones]], as he curled in a right-foot shot in after a corner was cleared to him.<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/23/usa-portugal-world-cup-group-g-match-report|title= Portugal hang on against USA with last-ditch goal|date= 23 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+The United States then took the lead, as [[Graham Zusi]] crossed for [[Clint Dempsey]] to score with his midriff. Had the United States held on for the win, they would have clinched a place in the knockout stage while eliminating Portugal at the same time, but in the fifth minute of injury time, [[Cristiano Ronaldo]] crossed for substitute [[Silvestre Varela]] to head in the equaliser and keep Portugal's qualification hopes alive.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285256|title=United States 2 Portugal 2|work=BBC Sport|date=22 June 2014}}</ref>
+
+Varela's goal (94:33) was the latest World Cup goal scored in regulation time.<ref>{{cite news|url=http://www.cbc.ca/sports/soccer/brazil2014/post-game/fifa-world-cup-usa-2-portugal-2-1.2683995|title=FIFA World Cup: USA 2, Portugal 2|publisher=CBC|date=22 June 2014}}</ref> In the 39th minute, the players took a short water break during an injury stoppage,<ref>{{cite web|url=https://abcnews.go.com/Sports/2014-fifa-world-cup-manaus-world-cup-match/story?id=24255761|title=World Cup Match So Hot Officials Call for First-Ever Water Break|work=ABC News|date=22 June 2014}}</ref> but this was not considered an official "cooling break" as introduced by FIFA for all matches during the 2026 World Cup.<ref>{{cite news|url=http://www.chinadailyasia.com/special/wc2014/2014-06/30/content_15145440.html|title=Dutch and Mexicans get first World Cup cooling break|newspaper=China Daily|date=30 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g4
+|date={{Start date|2014|6|22|df=y}}
+|time=18:00 [[Time in Brazil|AMT]] ([[UTC−04:00|UTC−4]])<!--Kick-off time adjusted by FIFA: https://www.fifa.com/worldcup/news/newsid=2240950/index.html-->
+|team1={{fb-rt|USA}}
+|score={{score link|2014 FIFA World Cup Group G#United States vs Portugal|2–2}}
+|team2={{fb|POR}}
+|goals1=
+*[[Jermaine Jones|Jones]] {{goal|64}}
+*[[Clint Dempsey|Dempsey]] {{goal|81}}
+|goals2=
+*[[Nani (footballer)|Nani]] {{goal|5}}
+*[[Silvestre Varela|Varela]] {{goal|90+5}}
+|stadium=[[Arena da Amazônia]], [[Manaus]]
+|attendance=40,123
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186483 |title=United States vs Portugal {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186483/report.html |title=2014 FIFA World Cup Brazil – Matches – USA v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170906060241/http://www.fifa.com/worldcup/matches/round=255931/match=300186483/report.html |archive-date=6 September 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/593d82e7b1205174/original/f8tgpukffqdfqplv3dpd-pdf.pdf |title=Match report – Group G – USA v Portugal |publisher=[[FIFA]] |date=22 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061723/https://digitalhub.fifa.com/m/593d82e7b1205174/original/f8tgpukffqdfqplv3dpd-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _usa1415h
+ |pattern_b  = _usa1415h
+ |pattern_ra = _usa1415h
+ |pattern_sh = _usa1415h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = United States<ref name="USA-POR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/639b46ca382fb759/original/r9ceqhprqugquyko7ji1-pdf.pdf |title=Tactical Line-up – Group G – USA v Portugal |publisher=[[FIFA]] |date=22 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173904/https://digitalhub.fifa.com/m/639b46ca382fb759/original/r9ceqhprqugquyko7ji1-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _portugal14h
+ |pattern_b  = _portugal14h
+ |pattern_ra = _portugal14h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = 7D0013
+ |body       = 7D0013
+ |rightarm   = 7D0013
+ |shorts     = 7D0013
+ |socks      = 7D0013
+ |title      = Portugal<ref name="USA-POR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Tim Howard]]
+|-
+|RB ||'''23'''||[[Fabian Johnson]]
+|-
+|CB ||'''20'''||[[Geoff Cameron]]
+|-
+|CB ||'''5''' ||[[Matt Besler]]
+|-
+|LB ||'''7''' ||[[DaMarcus Beasley]]
+|-
+|CM ||'''15'''||[[Kyle Beckerman]]
+|-
+|CM ||'''13'''||[[Jermaine Jones]] ||{{yel|75}}
+|-
+|RW ||'''11'''||[[Alejandro Bedoya]] || ||{{suboff|72}}
+|-
+|AM ||'''4''' ||[[Michael Bradley (soccer)|Michael Bradley]]
+|-
+|LW ||'''19'''||[[Graham Zusi]] || ||{{suboff|90+1}}
+|-
+|CF ||'''8''' ||[[Clint Dempsey]] ([[Captain (association football)|c]]) || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[DeAndre Yedlin]] || ||{{subon|72}}
+|-
+|FW ||'''18'''||[[Chris Wondolowski]] || ||{{subon|87}}
+|-
+|DF ||'''3''' ||[[Omar Gonzalez]]|| ||{{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:USA-POR 2014-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Beto (footballer, born 1982)|Beto]]
+|-
+|RB ||'''21'''||[[João Pereira (footballer, born 1984)|João Pereira]]
+|-
+|CB ||'''13'''||[[Ricardo Costa (footballer, born 1981)|Ricardo Costa]]
+|-
+|CB ||'''2''' ||[[Bruno Alves]]
+|-
+|LB ||'''19'''||[[André Almeida (footballer, born 1990)|André Almeida]]|| ||{{suboff|46}}
+|-
+|DM ||'''4''' ||[[Miguel Veloso]]
+|-
+|CM ||'''8''' ||[[João Moutinho]]
+|-
+|CM ||'''16'''||[[Raul Meireles]] || || {{suboff|69}}
+|-
+|RW ||'''17'''||[[Nani (footballer)|Nani]]
+|-
+|LW ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|CF ||'''23'''||[[Hélder Postiga]] ||||{{suboff|16}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Eder (Portuguese footballer)|Eder]] || ||{{subon|16}}
+|-
+|MF ||'''6''' ||[[William Carvalho]]|| ||{{subon|46}}
+|-
+|MF ||'''18'''||[[Silvestre Varela]]|| ||{{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Paulo Bento]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Tim Howard]] (United States)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Wálter López ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+|}
+
+===United States vs Germany===
+The two teams had met in nine previous matches, including twice in the FIFA World Cup, both won by Germany ([[1998 FIFA World Cup|1998]], group stage: [[1998 FIFA World Cup Group F#Germany vs United States|2–0]]; [[2002 FIFA World Cup|2002]], quarter-finals: [[2002 FIFA World Cup knockout stage#Germany vs United States|1–0]]).<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=48 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=48 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> The match featured two German coaches, [[Jürgen Klinsmann]] and [[Joachim Löw]], facing each other. United States coach Klinsmann played in three World Cups for Germany (he scored the second goal in the 1998 match against the United States), and also managed them in 2006 with Löw as his assistant, who succeeded him after the World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=reunion-as-rivals-for-jurgen-and-jogi-2384890.html|archive-url=https://web.archive.org/web/20140628205806/http://www.fifa.com/worldcup/news/y=2014/m=6/news=reunion-as-rivals-for-jurgen-and-jogi-2384890.html|url-status=dead|archive-date=28 June 2014|title=Reunion as rivals for Jurgen and Jogi|publisher=FIFA.com|date=25 June 2014}}</ref>
+
+Both teams came into this match needing only one point to qualify for the knockout stage. The only goal of the match was scored by [[Thomas Müller]] in the 55th minute, who slotted in the rebound with his right foot from the edge of the penalty area after American goalkeeper [[Tim Howard]] parried out [[Per Mertesacker]]'s header.<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/26/usa-germany-world-cup-2014-group-g-match-report|title=Germany's Thomas Müller secures win but beaten USA reach last 16 too|date= 26 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+With the win, Germany qualified as group winners, while the United States also qualified despite the loss as Portugal's 2–1 win over Ghana at the same time ensured that the Americans finished as group runners-up above the Portuguese on goal difference,<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285382|title=USA 0 Germany 1|work=BBC Sport|date=26 June 2014}}</ref> meaning that they reached the knockout stage of consecutive World Cups for the first time.<ref>{{cite web|url=https://abcnews.go.com/Sports/wireStory/us-klinsmann-face-german-friends-foes-24304861|title=US Advances to Knockout Stage Despite Loss|work=ABC News|date=25 June 2014}}</ref> This was the first match of the tournament where [[Bastian Schweinsteiger]] was included in the starting lineup and the last match where [[Lukas Podolski]] saw any time on the pitch.
+
+With Costa Rica and Mexico also reaching the knockout stage earlier, this was the first time there were three [[CONCACAF]] teams in the knockout stage of a World Cup.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=concacaf-and-africa-enter-brave-new-world-2388146.html|archive-url=https://web.archive.org/web/20140629154813/http://www.fifa.com/worldcup/news/y=2014/m=6/news=concacaf-and-africa-enter-brave-new-world-2388146.html|url-status=dead|archive-date=29 June 2014|title=CONCACAF and Africa enter brave new world|publisher=FIFA.com|date=27 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g5
+|date={{Start date|2014|6|26|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|USA}}
+|score={{score link|2014 FIFA World Cup Group G#United States vs Germany|0–1}}
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Thomas Müller|Müller]] {{goal|55}}
+|stadium=[[Itaipava Arena Pernambuco]], [[Recife]]
+|attendance=41,876
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186469 |title=United States vs Germany {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186469/report.html |title=2014 FIFA World Cup Brazil – Matches – USA v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170711111225/http://www.fifa.com/worldcup/matches/round=255931/match=300186469/report.html |archive-date=11 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/2c07c84fe2c2f2f3/original/nim5thnrbtszug96dqcb-pdf.pdf |title=Match report – Group G – USA v Germany |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062047/https://digitalhub.fifa.com/m/2c07c84fe2c2f2f3/original/nim5thnrbtszug96dqcb-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _usa1415h
+ |pattern_b  = _usa1415h
+ |pattern_ra = _usa1415h
+ |pattern_sh = _usa1415h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = United States<ref name="USA-GER line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4c962180b2586f81/original/a72ufmliou36cckeokgx-pdf.pdf |title=Tactical Line-up – Group G – USA v Germany |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174249/https://digitalhub.fifa.com/m/4c962180b2586f81/original/a72ufmliou36cckeokgx-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+| pattern_la = _deutschland14a
+| pattern_b  = _deutschland14a
+| pattern_ra = _deutschland14a
+| pattern_sh = _deutschland14a
+| pattern_so = _DFB_14a
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Germany<ref name="USA-GER line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Tim Howard]]
+|-
+|RB ||'''23'''||[[Fabian Johnson]]
+|-
+|CB ||'''3''' ||[[Omar Gonzalez]] || {{yel|37}}
+|-
+|CB ||'''5''' ||[[Matt Besler]]
+|-
+|LB ||'''7''' ||[[DaMarcus Beasley]]
+|-
+|CM ||'''15'''||[[Kyle Beckerman]] || {{yel|62}}
+|-
+|CM ||'''13'''||[[Jermaine Jones]]
+|-
+|RW ||'''19'''||[[Graham Zusi]] || || {{suboff|84}}
+|-
+|AM ||'''4''' ||[[Michael Bradley (soccer)|Michael Bradley]]
+|-
+|LW ||'''14'''||[[Brad Davis (soccer)|Brad Davis]] || || {{suboff|59}}
+|-
+|CF ||'''8''' ||[[Clint Dempsey]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Alejandro Bedoya]] || || {{subon|59}}
+|-
+|DF ||'''2''' ||[[DeAndre Yedlin]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:USA-GER 2014-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''20'''||[[Jérôme Boateng]]
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''5''' ||[[Mats Hummels]]
+|-
+|LB ||'''4''' ||[[Benedikt Höwedes]] || {{yel|11}}
+|-
+|DM ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]] || || {{suboff|76}}
+|-
+|CM ||'''18'''||[[Toni Kroos]]
+|-
+|RW ||'''8''' ||[[Mesut Özil]] || || {{suboff|89}}
+|-
+|LW ||'''10'''||[[Lukas Podolski]] || || {{suboff|46}}
+|-
+|CF ||'''13'''||[[Thomas Müller]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Miroslav Klose]] || || {{subon|46}}
+|-
+|MF ||'''19'''||[[Mario Götze]] || || {{subon|76}}
+|-
+|MF ||'''9''' ||[[André Schürrle]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Thomas Müller]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Abdukhamidullo Rasulov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bakhadyr Kochkarov ([[Football Federation of the Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Néant Alioum ([[Cameroonian Football Federation|Cameroon]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Djibril Camara ([[Senegalese Football Federation|Senegal]])
+|}
+
+===Portugal vs Ghana===
+The two teams had never met before.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=49 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=49 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> Ghana midfielder [[Sulley Muntari]] was suspended for the match due to accumulation of yellow cards.<ref>{{cite web|url=http://www.ghanafa.org/pages/blackstars/201406/9703.php|title=Muntari suspended for Portugal game|publisher=Ghana Football Association|date=21 June 2014}}</ref> However, along with fellow midfielder [[Kevin-Prince Boateng]], Muntari was indefinitely suspended from the team for disciplinary reasons by the [[Ghana Football Association]] before the match.<ref>{{cite news|last1=Hills|first1=David|title=Ghana in chaos as Sulley Muntari and Kevin-Prince Boateng suspended|url=https://www.theguardian.com/football/2014/jun/26/ghana-chaos-sulley-muntari-kevin-prince-boateng-suspended|access-date=26 June 2014|work=[[The Guardian]]|date=26 June 2014}}</ref><ref>{{cite web|url=http://www1.skysports.com/football/news/12040/9362144/world-cup-ghana-duo-sulley-muntari-and-kevin-prince-boateng-kicked-out-of-squad |title=World Cup: Ghana duo Sulley Muntari and Kevin-Prince Boateng kicked out of squad |date=26 June 2014 |publisher=[[Sky Sports News]] |access-date=26 June 2014}}</ref>
+
+Both teams came into the match knowing that to have any chance of qualifying for the knockout stage, they had to win while hoping that the United States vs Germany match, played at the same time, did not end in a draw. Portugal took the lead in the first half, when [[John Boye]] deflected in [[Miguel Veloso]]'s cross with his knee for an own goal. [[Asamoah Gyan]] equalised for Ghana in the second half, heading in [[Kwadwo Asamoah]]'s outside of the foot cross from the left. It was Gyan's sixth goal in World Cups, passing the tally of [[Roger Milla]] as the top African goalscorer in the competition.<ref>{{cite web|url=https://bleacherreport.com/articles/2110806-asamoah-gyan-sets-record-for-most-career-world-cup-goals-by-an-african-player|title=Asamoah Gyan Sets Record for Most Career World Cup Goals by an African Player|website=Bleacher Report|date=26 June 2014}}</ref> [[Cristiano Ronaldo]] scored the winner for Portugal in the 80th minute, after Ghana goalkeeper [[Fatau Dauda]] palmed the ball to him in the penalty area after a cross from the left,<ref>{{cite web|url = https://www.theguardian.com/football/2014/jun/26/portugal-ghana-world-cup-2014-group-g-match-report|title=Portugal eliminated despite Cristiano Ronaldo's goal beating Ghana|date= 26 June 2014 |work=Guardian|access-date=30 October 2014}}</ref> making Ronaldo the first Portuguese player to score in three World Cups.<ref>{{cite news|url=http://www.smh.com.au/fifa-world-cup-2014/world-cup-match-report/world-cup-2014-cristiano-ronaldo-off-target-as-portugal-beat-ghana-20140627-zsnij.html|title=World Cup 2014: Cristiano Ronaldo off target as Portugal beat Ghana|newspaper=The Sydney Morning Herald|date=27 June 2014}}</ref>
+
+Despite the win and Germany's win over the United States, Portugal finished behind the United States on goal difference, and were eliminated together with Ghana, who failed to reach the knockout stage for the first time in their three campaigns.<ref>{{cite news|url=https://www.bbc.com/sport/football/25285312|title=Portugal 2 Ghana 1|work=BBC Sport|date=26 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=g6
+|date={{Start date|2014|6|26|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|POR}}
+|score={{score link|2014 FIFA World Cup Group G#Portugal vs Ghana|2–1}}
+|team2={{fb|GHA}}
+|goals1=
+*[[John Boye|Boye]] {{goal|31|o.g.}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|80}}
+|goals2=
+*[[Asamoah Gyan|Gyan]] {{goal|57}}
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=67,540
+|referee=[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186476 |title=Portugal vs Ghana {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186476/report.html |title=2014 FIFA World Cup Brazil – Matches – Portugal v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170907081002/http://www.fifa.com/worldcup/matches/round=255931/match=300186476/report.html |archive-date=7 September 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/60e21dc69afc141/original/rgwe6dyozqvze8akungz-pdf.pdf |title=Match report – Group G – Portugal v Ghana |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062102/https://digitalhub.fifa.com/m/60e21dc69afc141/original/rgwe6dyozqvze8akungz-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _portugal14h
+ |pattern_b  = _portugal14h
+ |pattern_ra = _portugal14h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = 7D0013
+ |body       = 7D0013
+ |rightarm   = 7D0013
+ |shorts     = 7D0013
+ |socks      = 7D0013
+ |title      = Portugal<ref name="POR-GHA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7291af85e9b3d281/original/tzlyqfbp5itu0k5lmxvq-pdf.pdf |title=Tactical Line-up – Group G – Portugal v Ghana |publisher=[[FIFA]] |date=26 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174302/https://digitalhub.fifa.com/m/7291af85e9b3d281/original/tzlyqfbp5itu0k5lmxvq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ghana1415h
+ |pattern_b  = _ghana1415home
+ |pattern_ra = _ghana1415h
+ |pattern_sh = _ghana1415h
+ |pattern_so = _long_ghana1415h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ghana<ref name="POR-GHA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Beto (footballer, born 1982)|Beto]] || || {{suboff|89}}
+|-
+|RB ||'''21'''||[[João Pereira (footballer, born 1984)|João Pereira]] || || {{suboff|61}}
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]]
+|-
+|CB ||'''2''' ||[[Bruno Alves]]
+|-
+|LB ||'''4''' ||[[Miguel Veloso]]
+|-
+|DM ||'''6''' ||[[William Carvalho]]
+|-
+|CM ||'''8''' ||[[João Moutinho]] || {{yel|90+4}}
+|-
+|CM ||'''20'''||[[Ruben Amorim]]
+|-
+|RW ||'''17'''||[[Nani (footballer)|Nani]]
+|-
+|LW ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|CF ||'''11'''||[[Eder (Portuguese footballer)|Eder]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Silvestre Varela]] || || {{subon|61}}
+|-
+|MF ||'''10'''||[[Vieirinha]] || || {{subon|69}}
+|-
+|GK ||'''1''' ||[[Eduardo Carvalho|Eduardo]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Paulo Bento]]
+|}
+|valign="top"|[[File:POR-GHA 2014-06-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fatau Dauda]]
+|-
+|RB ||'''23'''||[[Harrison Afful]] || {{yel|39}}
+|-
+|CB ||'''21'''||[[John Boye]]
+|-
+|CB ||'''19'''||[[Jonathan Mensah]]
+|-
+|LB ||'''20'''||[[Kwadwo Asamoah]]
+|-
+|CM ||'''17'''||[[Mohammed Rabiu]] || || {{suboff|76}}
+|-
+|CM ||'''8''' ||[[Emmanuel Agyemang-Badu]]
+|-
+|RW ||'''7''' ||[[Christian Atsu]]
+|-
+|LW ||'''10'''||[[André Ayew]] || || {{suboff|81}}
+|-
+|CF ||'''18'''||[[Abdul Majeed Waris]] || {{yel|55}} || {{suboff|71}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Jordan Ayew]] || {{yel|78}} || {{subon|71}}
+|-
+|MF ||'''6''' ||[[Afriyie Acquah]] || || {{subon|76}}
+|-
+|MF ||'''22'''||[[Mubarak Wakaso]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[James Kwesi Appiah]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Portugal)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Yaser Tulerat ([[Bahrain Football Association|Bahrain]])
+<br />Ebrahim Saleh ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Eduardo Díaz ([[Colombian Football Federation|Colombia]])
+|}
+
+==See also==
+*[[Germany at the FIFA World Cup]]
+*[[Ghana at the FIFA World Cup]]
+*[[Portugal at the FIFA World Cup]]
+*[[United States at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://web.archive.org/web/20140413185822/http://www.fifa.com/worldcup/groups/group=255945/index.html 2014 FIFA World Cup Group G], FIFA.com
+
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:2014 FIFA World Cup group stage|G]]
+[[Category:Germany at the 2014 FIFA World Cup|Group]]
+[[Category:Ghana at the 2014 FIFA World Cup|Group]]
+[[Category:United States at the 2014 FIFA World Cup|Group]]
+[[Category:Portugal at the 2014 FIFA World Cup|group]]
+[[Category:Sport in Salvador, Bahia|2014 FIFA World Cup knockout stage]]
+[[Category:Football in Bahia|2014 FIFA World Cup knockout stage]]
+[[Category:Natal, Rio Grande do Norte|2014 FIFA World Cup knockout stage]]
+[[Category:Football in Rio Grande do Norte|2014 FIFA World Cup knockout stage]]
+[[Category:Sport in Fortaleza|2014 FIFA World Cup knockout stage]]
+[[Category:Football in Ceará|2014 FIFA World Cup knockout stage]]
+[[Category:International sports competitions in Manaus|2014 FIFA World Cup knockout stage]]
+[[Category:Football in Amazonas (Brazilian state)|2014 FIFA World Cup knockout stage]]
+[[Category:Sport in Recife|2014 FIFA World Cup knockout stage]]
+[[Category:Football in Pernambuco|2014 FIFA World Cup knockout stage]]
+[[Category:Football in Brasília|2014 FIFA World Cup knockout stage]]
+[[Category:21st century in Brasília|2014 FIFA World Cup knockout stage]]

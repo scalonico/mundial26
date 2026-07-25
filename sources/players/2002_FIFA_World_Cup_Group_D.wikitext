@@ -1,0 +1,900 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group D of the [[2002 FIFA World Cup]]''' took place between 4 and 14 June 2002. [[South Korea national football team|South Korea]] won the group, and advanced to the second round, along with the [[United States men's national soccer team|United States]]. [[Portugal national football team|Portugal]] and [[Poland national football team|Poland]] failed to advance.<ref>{{cite web |last=Manaschev |first=Erlan |url=https://www.rsssf.org/tables/2002full.html |title=World Cup 2002 – Match Details |publisher=[[RSSSF]] |date=3 July 2008 |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/4395?date=2002-06-14&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=KOR |team2=USA |team3=POR |team4=POL
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2002 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_KOR=2 |draw_KOR=1 |loss_KOR=0 |gf_KOR=4 |ga_KOR=1 |status_KOR=H
+|win_USA=1 |draw_USA=1 |loss_USA=1 |gf_USA=5 |ga_USA=6
+|win_POR=1 |draw_POR=0 |loss_POR=2 |gf_POR=6 |ga_POR=4
+|win_POL=1 |draw_POL=0 |loss_POL=2 |gf_POL=3 |ga_POL=7
+
+|name_KOR={{fb|KOR|1997}}
+|name_USA={{fb|US|1960}}
+|name_POR={{fb|POR}}
+|name_POL={{fb|POL}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2002 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+*South Korea advanced to play Italy (runner-up of [[2002 FIFA World Cup Group G|Group G]]) in the [[2002 FIFA World Cup knockout stage#South Korea vs Italy|round of 16]].
+*United States advanced to play Mexico (winner of [[2002 FIFA World Cup Group G|Group G]]) in the [[2002 FIFA World Cup knockout stage#Mexico vs United States|round of 16]].
+
+==Matches==
+''All times local ([[Korea Standard Time|UTC+9]])''
+
+===South Korea vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=D1
+|date={{Start date|2002|6|4|df=y}}
+|time=20:30
+|team1={{fb-rt|KOR|1997}}
+|score={{score link|2002 FIFA World Cup Group D#South Korea vs Poland|2–0}}
+|team2={{fb|POL}}
+|goals1=
+*[[Hwang Sun-hong]] {{goal|26}}
+*[[Yoo Sang-chul]] {{goal|53}}
+|goals2=
+|stadium=[[Busan Asiad Main Stadium]], [[Busan]]
+|attendance=48,760
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950014 |title=Korea Republic vs Poland {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950014/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Korea Republic v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171222052524/http://www.fifa.com/worldcup/matches/round=43950100/match=43950014/index.html |archive-date=22 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/14_0604_BUS_KOR-POL_Fulltime.pdf |title=Match Report – Group D – Korea Republic v Poland |publisher=[[FIFA]] |date=4 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050504024916/http://fifaworldcup.yahoo.com/releases/14_0604_BUS_KOR-POL_Fulltime.pdf |archive-date=4 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _kor02H
+ |pattern_ra = 
+ |pattern_sh = _white stripes
+ |pattern_so = _kor02H
+ |leftarm    = Fe2d4c
+ |body       = Fe2d4c
+ |rightarm   = Fe2d4c
+ |shorts     = 004488
+ |socks      = Fe2d4c
+ |title      = South Korea
+}}
+|{{Football kit
+ |pattern_la = _tun02h
+ |pattern_b  = _tun02h
+ |pattern_ra = _tun02h
+ |pattern_sh = _tun02a
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lee Woon-jae]]
+|-
+|CB ||'''4''' ||[[Choi Jin-cheul]]
+|-
+|CB ||'''20'''||[[Hong Myung-bo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''7''' ||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]]
+|-
+|RM ||'''22'''||[[Song Chong-gug]]
+|-
+|CM ||'''6''' ||[[Yoo Sang-chul]] || || {{suboff|61}}
+|-
+|CM ||'''5''' ||[[Kim Nam-il]]
+|-
+|LM ||'''13'''||[[Lee Eul-yong]]
+|-
+|RF ||'''21'''||[[Park Ji-sung]] || {{yel|70}}
+|-
+|CF ||'''18'''||[[Hwang Sun-hong]] || || {{suboff|50}}
+|-
+|LF ||'''9''' ||[[Seol Ki-hyeon]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Ahn Jung-hwan]] || || {{subon|50}}
+|-
+|MF ||'''14'''||[[Lee Chun-soo]] || || {{subon|61}}
+|-
+|FW ||'''16'''||[[Cha Du-ri]] || {{yel|90}} || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jerzy Dudek]]
+|-
+|RB ||'''6''' ||[[Tomasz Hajto]] || {{yel|79}}
+|-
+|CB ||'''20'''||[[Jacek Bąk]] || || {{suboff|50}}
+|-
+|CB ||'''15'''||[[Tomasz Wałdoch]] ([[Captain (association football)|c]])
+|-
+|LB ||'''4''' ||[[Michał Żewłakow]]
+|-
+|RM ||'''21'''||[[Marek Koźmiński]]
+|-
+|CM ||'''10'''||[[Radosław Kałużny]] || || {{suboff|64}}
+|-
+|CM ||'''7''' ||[[Piotr Świerczewski]] || {{yel|84}}
+|-
+|LM ||'''18'''||[[Jacek Krzynówek]] || {{yel|31}}
+|-
+|CF ||'''11'''||[[Emmanuel Olisadebe]]
+|-
+|CF ||'''19'''||[[Maciej Żurawski]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Paweł Kryszałowicz]] || || {{subon|46}}
+|-
+|DF ||'''2''' ||[[Tomasz Kłos]] || || {{subon|50}}
+|-
+|FW ||'''14'''||[[Marcin Żewłakow]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jerzy Engel]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Yoo Sang-chul]] (South Korea)
+
+'''Assistant referees:'''
+<br />Elise Doriri ([[Vanuatu Football Federation|Vanuatu]])
+<br />Leif Lindberg ([[Swedish Football Association|Sweden]])
+<br />'''Fourth official:'''
+<br />[[Ángel Sánchez (referee)|Ángel Sánchez]] ([[Argentine Football Association|Argentina]])
+|}
+
+===United States vs Portugal===
+<onlyinclude>{{#invoke:Football box|main|section=D2
+|date={{Start date|2002|6|5|df=y}}
+|time=18:00
+|team1={{fb-rt|USA|1960}}
+|score={{score link|2002 FIFA World Cup Group D#United States vs Portugal|3–2}}
+|team2={{fb|POR}}
+|goals1=
+*[[John O'Brien (soccer)|O'Brien]] {{goal|4}}
+*[[Jorge Costa (footballer)|J. Costa]] {{goal|29|o.g.}}
+*[[Brian McBride|McBride]] {{goal|36}}
+|goals2=
+*[[Beto (footballer, born May 1976)|Beto]] {{goal|39}}
+*[[Jeff Agoos|Agoos]] {{goal|71|o.g.}}
+|stadium=[[Suwon World Cup Stadium]], [[Suwon]]
+|attendance=37,306
+|referee=[[Byron Moreno]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950016 |title=United States vs Portugal {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950016/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – USA v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171222105128/http://www.fifa.com/worldcup/matches/round=43950100/match=43950016/index.html |archive-date=22 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/16_0605_SUW_USA-POR_Fulltime.pdf |title=Match Report – Group D – USA v Portugal |publisher=[[FIFA]] |date=5 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050504024942/http://fifaworldcup.yahoo.com/releases/16_0605_SUW_USA-POR_Fulltime.pdf |archive-date=4 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _usa02h
+ |pattern_b  = _usa02H
+ |pattern_ra = _usa02h
+ |pattern_sh = _mex04o1
+ |pattern_so = _usa02h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000080
+ |socks      = FFFFFF
+ |title      = United States
+}}
+|{{Football kit
+ |pattern_la = _por02h
+ |pattern_b  = _por02H
+ |pattern_ra = _por02h
+ |pattern_sh = _por02h
+ |pattern_so = _por02h
+ |leftarm    = C60000
+ |body       = C60000
+ |rightarm   = C60000
+ |shorts     = 008000
+ |socks      = C60000
+ |title      = Portugal
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Brad Friedel]]
+|-
+|RB ||'''22'''||[[Tony Sanneh]]
+|-
+|CB ||'''23'''||[[Eddie Pope]] || || {{suboff|80}}
+|-
+|CB ||'''12'''||[[Jeff Agoos]]
+|-
+|LB ||'''2''' ||[[Frankie Hejduk]]
+|-
+|RM ||'''8''' ||[[Earnie Stewart]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CM ||'''5''' ||[[John O'Brien (soccer)|John O'Brien]]
+|-
+|CM ||'''4''' ||[[Pablo Mastroeni]]
+|-
+|LM ||'''17'''||[[DaMarcus Beasley]] || {{yel|90+2}}
+|-
+|CF ||'''20'''||[[Brian McBride]]
+|-
+|CF ||'''21'''||[[Landon Donovan]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Cobi Jones]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Joe-Max Moore]] || || {{subon|75}}
+|-
+|DF ||'''16'''||[[Carlos Llamosa]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Vítor Baía]]
+|-
+|RB ||'''22'''||[[Beto (footballer, born May 1976)|Beto]] || {{yel|34}}
+|-
+|CB ||'''5''' ||[[Fernando Couto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Jorge Costa (footballer)|Jorge Costa]] || || {{suboff|74}}
+|-
+|LB ||'''23'''||[[Rui Jorge]] || || {{suboff|69}}
+|-
+|RM ||'''11'''||[[Sérgio Conceição]]
+|-
+|CM ||'''10'''||[[Rui Costa]] || || {{suboff|80}}
+|-
+|CM ||'''20'''||[[Petit (Portuguese footballer)|Petit]] || {{yel|52}}
+|-
+|LM ||'''7''' ||[[Luís Figo]]
+|-
+|SS ||'''8''' ||[[João Vieira Pinto|João Pinto]]
+|-
+|CF ||'''9''' ||[[Pauleta]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Paulo Bento]] || || {{subon|69}}
+|-
+|DF ||'''13'''||[[Jorge Andrade]] || || {{subon|74}}
+|-
+|FW ||'''21'''||[[Nuno Gomes]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[António Luís Alves Ribeiro Oliveira|António Oliveira]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Brian McBride]] (United States)
+
+'''Assistant referees:'''
+<br />Bomer Fierro ([[Ecuadorian Football Federation|Ecuador]])
+<br />Awni Hassouneh ([[Jordan Football Association|Jordan]])
+<br />'''Fourth official:'''
+<br />[[Saad Kamil Al-Fadhli|Saad Mane]] ([[Kuwait Football Association|Kuwait]])
+|}
+
+===South Korea vs United States===
+<onlyinclude>{{#invoke:Football box|main|section=D3
+|date={{Start date|2002|6|10|df=y}}
+|time=15:30
+|team1={{fb-rt|KOR|1997}}
+|score={{score link|2002 FIFA World Cup Group D#South Korea vs United States|1–1}}
+|team2={{fb|USA|1960}}
+|goals1=
+*[[Ahn Jung-hwan]] {{goal|78}}
+|goals2=
+*[[Clint Mathis|Mathis]] {{goal|24}}
+|stadium=[[Daegu World Cup Stadium]], [[Daegu]]
+|attendance=60,778
+|referee=[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950030 |title=Korea Republic vs United States {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950030/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Korea Republic v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182224/http://www.fifa.com/worldcup/matches/round=43950100/match=43950030/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/30_0610_DAG_KOR-USA_Fulltime.pdf |title=Match Report – Group D – Korea Republic v USA |publisher=[[FIFA]] |date=10 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030403025614/http://fifaworldcup.yahoo.com/releases/30_0610_DAG_KOR-USA_Fulltime.pdf |archive-date=3 April 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _kor02H
+ |pattern_ra = 
+ |pattern_sh = _white stripes
+ |pattern_so = _kor02H
+ |leftarm    = FE2D4C
+ |body       = FE2D4C
+ |rightarm   = FE2D4C
+ |shorts     = 004488
+ |socks      = FE2D4C
+ |title      = South Korea
+}}
+|{{Football kit
+ |pattern_la = _usa02h
+ |pattern_b  = _usa02H
+ |pattern_ra = _usa02h
+ |pattern_sh = _usa02a
+ |pattern_so = _usa02h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lee Woon-jae]]
+|-
+|CB ||'''4''' ||[[Choi Jin-cheul]]
+|-
+|CB ||'''20'''||[[Hong Myung-bo]] ([[Captain (association football)|c]]) || {{yel|80}}
+|-
+|CB ||'''7''' ||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]]
+|-
+|RM ||'''22'''||[[Song Chong-gug]]
+|-
+|CM ||'''6''' ||[[Yoo Sang-chul]] || || {{suboff|69}}
+|-
+|CM ||'''5''' ||[[Kim Nam-il]]
+|-
+|LM ||'''13'''||[[Lee Eul-yong]]
+|-
+|RF ||'''21'''||[[Park Ji-sung]] || || {{suboff|38}}
+|-
+|CF ||'''18'''||[[Hwang Sun-hong]] || || {{suboff|56}}
+|-
+|LF ||'''9''' ||[[Seol Ki-hyeon]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Lee Chun-soo]] || || {{subon|38}}
+|-
+|FW ||'''19'''||[[Ahn Jung-hwan]] || || {{subon|56}}
+|-
+|FW ||'''11'''||[[Choi Yong-soo]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Brad Friedel]]
+|-
+|RB ||'''22'''||[[Tony Sanneh]]
+|-
+|CB ||'''23'''||[[Eddie Pope]]
+|-
+|CB ||'''12'''||[[Jeff Agoos]] || {{yel|39}}
+|-
+|LB ||'''2''' ||[[Frankie Hejduk]] || {{yel|30}}
+|-
+|RM ||'''21'''||[[Landon Donovan]]
+|-
+|CM ||'''10'''||[[Claudio Reyna]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||[[John O'Brien (soccer)|John O'Brien]]
+|-
+|LM ||'''17'''||[[DaMarcus Beasley]] || || {{suboff|75}}
+|-
+|CF ||'''11'''||[[Clint Mathis]] || || {{suboff|82}}
+|-
+|CF ||'''20'''||[[Brian McBride]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Eddie Lewis (American soccer)|Eddie Lewis]] || || {{subon|75}}
+|-
+|FW ||'''15'''||[[Josh Wolff]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Brad Friedel]] (United States)
+
+'''Assistant referees:'''
+<br />Egon Bereuter ([[Austrian Football Association|Austria]])
+<br />Ali Tomusange ([[Federation of Uganda Football Associations|Uganda]])
+<br />'''Fourth official:'''
+<br />[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|}
+
+===Portugal vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=D4
+|date={{Start date|2002|6|10|df=y}}
+|time=20:30
+|team1={{fb-rt|POR}}
+|score={{score link|2002 FIFA World Cup Group D#Portugal vs Poland|4–0}}
+|team2={{fb|POL}}
+|goals1=
+*[[Pauleta]] {{goal|14||65||77}}
+*[[Rui Costa]] {{goal|88}}
+|goals2=
+|stadium=[[Jeonju World Cup Stadium]], [[Jeonju]]
+|attendance=31,000
+|referee=[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950032 |title=Portugal vs Poland {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950032/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Portugal v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181504/http://www.fifa.com/worldcup/matches/round=43950100/match=43950032/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/32_0610_JEO_POR-POL_Fulltime.pdf |title=Match Report – Group D – Portugal v Poland |publisher=[[FIFA]] |date=10 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040731160458/http://fifaworldcup.yahoo.com/releases/32_0610_JEO_POR-POL_Fulltime.pdf |archive-date=31 July 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _por02h
+ |pattern_b  = _por02H
+ |pattern_ra = _por02h
+ |pattern_sh = _por02h
+ |pattern_so = _por02h
+ |leftarm    = C60000
+ |body       = C60000
+ |rightarm   = C60000
+ |shorts     = 008000
+ |socks      = C60000
+ |title      = Portugal
+}}
+|{{Football kit
+ |pattern_la = _tun02h
+ |pattern_b  = _tun02h
+ |pattern_ra = _tun02h
+ |pattern_sh = _tun02a
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Vítor Baía]]
+|-
+|RB ||'''18'''||[[Nuno Frechaut]] || {{yel|25}} || {{suboff|63}}
+|-
+|CB ||'''5''' ||[[Fernando Couto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Jorge Costa (footballer)|Jorge Costa]] || {{yel|27}}
+|-
+|LB ||'''23'''||[[Rui Jorge]] || {{yel|31}}
+|-
+|CM ||'''20'''||[[Petit (Portuguese footballer)|Petit]]
+|-
+|CM ||'''17'''||[[Paulo Bento]]
+|-
+|RW ||'''11'''||[[Sérgio Conceição]] || || {{suboff|69}}
+|-
+|AM ||'''8''' ||[[João Vieira Pinto|João Pinto]] || || {{suboff|60}}
+|-
+|LW ||'''7''' ||[[Luís Figo]]
+|-
+|CF ||'''9''' ||[[Pauleta]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Rui Costa]] || || {{subon|60}}
+|-
+|DF ||'''22'''||[[Beto (footballer, born May 1976)|Beto]] || || {{subon|63}}
+|-
+|FW ||'''19'''||[[Nuno Capucho]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[António Luís Alves Ribeiro Oliveira|António Oliveira]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jerzy Dudek]]
+|-
+|RB ||'''21'''||[[Marek Koźmiński]]
+|-
+|CB ||'''6''' ||[[Tomasz Hajto]]
+|-
+|CB ||'''15'''||[[Tomasz Wałdoch]] ([[Captain (association football)|c]])
+|-
+|LB ||'''4''' ||[[Michał Żewłakow]] || || {{suboff|71}}
+|-
+|RM ||'''19'''||[[Maciej Żurawski]] || || {{suboff|56}}
+|-
+|CM ||'''10'''||[[Radosław Kałużny]] || || {{suboff|16}}
+|-
+|CM ||'''7''' ||[[Piotr Świerczewski]] || {{yel|21}}
+|-
+|LM ||'''18'''||[[Jacek Krzynówek]]
+|-
+|CF ||'''11'''||[[Emmanuel Olisadebe]]
+|-
+|CF ||'''9''' ||[[Paweł Kryszałowicz]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Arkadiusz Bąk]] || {{yel|39}} || {{subon|16}}
+|-
+|FW ||'''14'''||[[Marcin Żewłakow]] || || {{subon|56}}
+|-
+|DF ||'''5''' ||[[Tomasz Rząsa]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jerzy Engel]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Pauleta]] (Portugal)
+
+'''Assistant referees:'''
+<br />Igor Šramka ([[Slovak Football Association|Slovakia]])
+<br />Wagih Farag ([[Egyptian Football Association|Egypt]])
+<br />'''Fourth official:'''
+<br />[[Carlos Batres]] ([[National Football Federation of Guatemala|Guatemala]])
+|}
+
+===Portugal vs South Korea===
+<onlyinclude>{{#invoke:Football box|main|section=D5
+|date={{Start date|2002|6|14|df=y}}
+|time=20:30
+|team1={{fb-rt|POR}}
+|score={{score link|2002 FIFA World Cup Group D#Portugal vs South Korea|0–1}}
+|team2={{fb|KOR|1997}}
+|goals1=
+|goals2=
+*[[Park Ji-sung]] {{goal|70}}
+|stadium=[[Incheon Munhak Stadium|Incheon World Cup Stadium]], [[Incheon]]
+|attendance=50,239
+|referee=[[Ángel Sánchez (referee)|Ángel Sánchez]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950047 |title=Portugal vs Korea Republic {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950047/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Portugal v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182256/http://www.fifa.com/worldcup/matches/round=43950100/match=43950047/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/47_0614_INC_POR-KOR_Fulltime.pdf |title=Match Report – Group D – Portugal v Korea Republic |publisher=[[FIFA]] |date=14 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040731154704/http://fifaworldcup.yahoo.com/releases/47_0614_INC_POR-KOR_Fulltime.pdf |archive-date=31 July 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _por02h
+ |pattern_b  = _por02H
+ |pattern_ra = _por02h
+ |pattern_sh = _por02h
+ |pattern_so = _por02h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 008000
+ |socks      = BB0000
+ |title      = Portugal
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _kor02A
+ |pattern_ra = 
+ |pattern_sh = _white stripes
+ |pattern_so = _kor02A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FE2D4C
+ |socks      = FFFFFF
+ |title      = South Korea
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Vítor Baía]]
+|-
+|RB ||'''22'''||[[Beto (footballer, born May 1976)|Beto]] || {{sent off|2|22|66}}
+|-
+|CB ||'''5''' ||[[Fernando Couto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Jorge Costa (footballer)|Jorge Costa]] || {{yel|83}}
+|-
+|LB ||'''23'''||[[Rui Jorge]] || || {{suboff|73}}
+|-
+|CM ||'''20'''||[[Petit (Portuguese footballer)|Petit]] || || {{suboff|77}}
+|-
+|CM ||'''17'''||[[Paulo Bento]]
+|-
+|RW ||'''11'''||[[Sérgio Conceição]]
+|-
+|AM ||'''8''' ||[[João Vieira Pinto|João Pinto]] || {{sent off|0|27}}
+|-
+|LW ||'''7''' ||[[Luís Figo]]
+|-
+|CF ||'''9''' ||[[Pauleta]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Jorge Andrade]] || || {{subon|69}}
+|-
+|DF ||'''3''' ||[[Abel Xavier]] || || {{subon|73}}
+|-
+|FW ||'''21'''||[[Nuno Gomes]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[António Luís Alves Ribeiro Oliveira|António Oliveira]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lee Woon-jae]]
+|-
+|CB ||'''4''' ||[[Choi Jin-cheul]]
+|-
+|CB ||'''20'''||[[Hong Myung-bo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''7''' ||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]] || {{yel|24}}
+|-
+|RM ||'''22'''||[[Song Chong-gug]]
+|-
+|CM ||'''6''' ||[[Yoo Sang-chul]]
+|-
+|CM ||'''5''' ||[[Kim Nam-il]] || {{yel|74}}
+|-
+|LM ||'''10'''||[[Lee Young-pyo]]
+|-
+|RF ||'''21'''||[[Park Ji-sung]]
+|-
+|CF ||'''19'''||[[Ahn Jung-hwan]] || {{yel|90+3}} || {{suboff|90+3}}
+|-
+|LF ||'''9''' ||[[Seol Ki-hyeon]] || {{yel|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Lee Chun-soo]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Park Ji-sung]] (South Korea)
+
+'''Assistant referees:'''
+<br />Ali Al Traifi ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />Ferenc Szekely ([[Hungarian Football Federation|Hungary]])
+<br />'''Fourth official:'''
+<br />[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|}
+
+===Poland vs United States===
+<onlyinclude>{{#invoke:Football box|main|section=D6
+|date={{Start date|2002|6|14|df=y}}
+|time=20:30
+|team1={{fb-rt|POL}}
+|score={{score link|2002 FIFA World Cup Group D#Poland vs United States|3–1}}
+|team2={{fb|USA|1960}}
+|goals1=
+*[[Emmanuel Olisadebe|Olisadebe]] {{goal|3}}
+*[[Paweł Kryszałowicz|Kryszałowicz]] {{goal|5}}
+*[[Marcin Żewłakow|Żewłakow]] {{goal|66}}
+|goals2=
+*[[Landon Donovan|Donovan]] {{goal|83}}
+|stadium=[[Daejeon World Cup Stadium]], [[Daejeon]]
+|attendance=26,482
+|referee=[[Lu Jun (referee)|Lu Jun]] ([[Chinese Football Association|China]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950048 |title=Poland vs United States {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950048/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Poland v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181530/http://www.fifa.com/worldcup/matches/round=43950100/match=43950048/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/48_0614_DAJ_POL-USA_Fulltime.pdf |title=Match Report – Group D – Poland v USA |publisher=[[FIFA]] |date=14 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030405112740/http://fifaworldcup.yahoo.com/releases/48_0614_DAJ_POL-USA_Fulltime.pdf |archive-date=5 April 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _tun02h
+ |pattern_b  = _tun02h
+ |pattern_ra = _tun02h
+ |pattern_sh = _tun02a
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Poland
+}}
+|{{Football kit
+ |pattern_la = _usa02a
+ |pattern_b  = _usa02A
+ |pattern_ra = _usa02a
+ |pattern_sh = _usa02a
+ |pattern_so = _usa02a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 000080
+ |title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Radosław Majdan]] || {{yel|44}}
+|-
+|RB ||'''2''' ||[[Tomasz Kłos]] || || {{suboff|89}}
+|-
+|CB ||'''13'''||[[Arkadiusz Głowacki]]
+|-
+|CB ||'''3''' ||[[Jacek Zieliński (footballer, born 1967)|Jacek Zieliński]] ([[Captain (association football)|c]])
+|-
+|LB ||'''21'''||[[Marek Koźmiński]] || {{yel|46}}
+|-
+|RM ||'''19'''||[[Maciej Żurawski]]
+|-
+|CM ||'''8''' ||[[Cezary Kucharski]] || {{yel|63}} || {{suboff|65}}
+|-
+|CM ||'''16'''||[[Maciej Murawski]]
+|-
+|LM ||'''18'''||[[Jacek Krzynówek]]
+|-
+|CF ||'''11'''||[[Emmanuel Olisadebe]] || {{yel|86}} || {{suboff|87}}
+|-
+|CF ||'''9''' ||[[Paweł Kryszałowicz]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Marcin Żewłakow]] || || {{subon|65}}
+|-
+|MF ||'''23'''||[[Paweł Sibik]] || || {{subon|87}}
+|-
+|DF ||'''15'''||[[Tomasz Wałdoch]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jerzy Engel]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Brad Friedel]]
+|-
+|RB ||'''22'''||[[Tony Sanneh]]
+|-
+|CB ||'''23'''||[[Eddie Pope]]
+|-
+|CB ||'''12'''||[[Jeff Agoos]] || || {{suboff|36}}
+|-
+|LB ||'''2''' ||[[Frankie Hejduk]] || {{yel|72}}
+|-
+|RM ||'''8''' ||[[Earnie Stewart]] || || {{suboff|68}}
+|-
+|CM ||'''10'''||[[Claudio Reyna]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||[[John O'Brien (soccer)|John O'Brien]]
+|-
+|LM ||'''21'''||[[Landon Donovan]]
+|-
+|CF ||'''11'''||[[Clint Mathis]]
+|-
+|CF ||'''20'''||[[Brian McBride]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[DaMarcus Beasley]] || || {{subon|36}}
+|-
+|FW ||'''9''' ||[[Joe-Max Moore]] || || {{subon|58}}
+|-
+|MF ||'''13'''||[[Cobi Jones]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jacek Krzynówek]] (Poland)
+
+'''Assistant referees:'''
+<br />Bomer Fierro ([[Ecuadorian Football Federation|Ecuador]])
+<br />Jaap Pool ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Fourth official:'''
+<br />[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+|}
+
+==See also==
+*[[Poland at the FIFA World Cup]]
+*[[Portugal at the FIFA World Cup]]
+*[[South Korea at the FIFA World Cup]]
+*[[United States at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2002 FIFA World Cup}}
+
+{{DEFAULTSORT:Group D}}
+[[Category:2002 FIFA World Cup group stage|D]]
+[[Category:United States at the 2002 FIFA World Cup]]
+[[Category:South Korea at the 2002 FIFA World Cup]]
+[[Category:Poland at the 2002 FIFA World Cup]]
+[[Category:Portugal at the 2002 FIFA World Cup]]
+[[Category:Sports competitions in Busan]]
+[[Category:Sports competitions in Suwon]]
+[[Category:Sports competitions in Daegu]]
+[[Category:Sports competitions in Jeonju]]
+[[Category:Sports competitions in Incheon]]
+[[Category:Sports competitions in Daejeon]]

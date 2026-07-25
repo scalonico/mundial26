@@ -1,0 +1,865 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group A of the 1986 FIFA World Cup''' was one of six groups of national teams competing at the [[1986 FIFA World Cup]]. The group's first round of matches began on 31 May and its last matches were played on 10 June.<ref>{{cite web |url=https://www.rsssf.org/tables/86full.html |title=World Cup 1986 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Most matches were played at the [[Estadio Olímpico Universitario]] in [[Mexico City]] or at the [[Estadio Cuauhtémoc]] in [[Puebla]]. Eventual champions [[Argentina national football team|Argentina]] topped the group, joined in the second round by 1982 champions [[Italy national football team|Italy]] as well as [[Bulgaria national football team|Bulgaria]]. [[South Korea national football team|South Korea]] were making their first appearance in the tournament since 1954.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/mexico1986/groups/index.html FIFA]
+
+|team1=ARG |team2=ITA |team3=BUL |team4=KOR
+|result1=KO |result2=KO |result3=KO
+
+|win_ARG=2 |draw_ARG=1 |loss_ARG=0 |gf_ARG=6 |ga_ARG=2
+|win_ITA=1 |draw_ITA=2 |loss_ITA=0 |gf_ITA=5 |ga_ITA=4
+|win_BUL=0 |draw_BUL=2 |loss_BUL=1 |gf_BUL=2 |ga_BUL=4
+|win_KOR=0 |draw_KOR=1 |loss_KOR=2 |gf_KOR=4 |ga_KOR=7
+
+|name_ARG={{fb|ARG|1861}}
+|name_KOR={{fb|KOR|1984}}
+|name_BUL={{fb|BUL|1971}}
+|name_ITA={{fb|ITA|1946}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1986 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Bulgaria vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=A1
+|date={{Start date|1986|5|31|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|BUL|1971}}
+|score={{score link|1986 FIFA World Cup Group A#Bulgaria vs Italy|1–1}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Nasko Sirakov|Sirakov]] {{goal|85}}
+|goals2=
+*[[Alessandro Altobelli|Altobelli]] {{goal|44}}
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=96,000
+|referee=[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/459 |title=Bulgaria vs Italy {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=459/index.html |title=1986 FIFA World Cup Mexico – Matches – Bulgaria v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228210741/http://www.fifa.com/worldcup/matches/round=308/match=459/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la= _bul86h
+|pattern_b=  _bul86h
+|pattern_ra= _bul86h
+|pattern_sh=_bul86h
+|pattern_so=_3_stripes_red
+|leftarm=
+|body=
+|rightarm=
+|shorts=076F24
+|socks=FFFFFF
+| title      = Bulgaria
+}}
+|{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita90
+ | pattern_ra = _italy1982-90
+ | pattern_sh = 
+ | pattern_so = _italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = ffffff
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]]
+|-
+|DF ||'''3''' ||[[Nikolay Arabov]]
+|-
+|DF ||'''5''' ||[[Georgi Dimitrov (footballer, born 1959)|Georgi Dimitrov]] ([[Captain (association football)|c]])
+|-
+|DF ||'''13'''||[[Aleksandar Markov]] || {{yel|51}}
+|-
+|MF ||'''11'''||[[Plamen Getov]]
+|-
+|MF ||'''10'''||[[Zhivko Gospodinov]] || || {{suboff|74}}
+|-
+|MF ||'''8''' ||[[Ayan Sadakov]]
+|-
+|MF ||'''12'''||[[Radoslav Zdravkov]]
+|-
+|MF ||'''2''' ||[[Nasko Sirakov]]
+|-
+|FW ||'''7''' ||[[Bozhidar Iskrenov]] || || {{suboff|65}}
+|-
+|FW ||'''9''' ||[[Stoycho Mladenov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''22'''||[[Iliya Valov]]
+|-
+|DF ||'''4''' ||[[Petar Petrov (footballer, born 1961)|Petar Petrov]]
+|-
+|MF ||'''15'''||[[Georgi Yordanov]]
+|-
+|FW ||'''20'''||[[Kostadin Kostadinov (footballer)|Kostadin Kostadinov]] || || {{subon|65}}
+|-
+|MF ||'''6''' ||[[Andrey Zhelyazkov]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BUL|1971}} [[Ivan Vutsov]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Giovanni Galli]]
+|-
+|RB ||'''2''' ||[[Giuseppe Bergomi]] || {{yel|48}}
+|-
+|CB ||'''6''' ||[[Gaetano Scirea]] ([[Captain (association football)|c]])
+|-
+|CB ||'''8''' ||[[Pietro Vierchowod]]
+|-
+|LB ||'''3''' ||[[Antonio Cabrini]] || {{yel|64}}
+|-
+|MF ||'''14'''||[[Antonio Di Gennaro]]
+|-
+|MF ||'''10'''||[[Salvatore Bagni]]
+|-
+|MF ||'''13'''||[[Fernando De Napoli]]
+|-
+|MF ||'''16'''||[[Bruno Conti]] || || {{suboff|65}}
+|-
+|FW ||'''19'''||[[Giuseppe Galderisi]]
+|-
+|FW ||'''18'''||[[Alessandro Altobelli]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Franco Tancredi]]
+|-
+|DF ||'''4''' ||[[Fulvio Collovati]]
+|-
+|MF ||'''11'''||[[Giuseppe Baresi]]
+|-
+|MF ||'''15'''||[[Marco Tardelli]]
+|-
+|FW ||'''17'''||[[Gianluca Vialli]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA|1946}} [[Enzo Bearzot]]
+|}
+|}
+
+'''Assistant referees:'''
+<br />[[Chris Bambridge]] ([[Football Federation Australia|Australia]])
+<br />[[Siegfried Kirschen]] ([[East German Football Association|East Germany]])
+
+===Argentina vs South Korea===
+<onlyinclude>{{#invoke:Football box|main|section=A2
+|date={{Start date|1986|6|2|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1986 FIFA World Cup Group A#Argentina vs South Korea|3–1}}
+|team2={{fb|KOR|1984}}
+|goals1=
+*[[Jorge Valdano|Valdano]] {{goal|6||46}}
+*[[Oscar Ruggeri|Ruggeri]] {{goal|18}}
+|goals2=
+*[[Park Chang-Sun]] {{goal|73}}
+|stadium=[[Estadio Olímpico Universitario]], [[Mexico City]]
+|attendance=60,000
+|referee=[[Victoriano Sánchez Arminio]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/395 |title=Argentina vs Korea Republic {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=395/index.html |title=1986 FIFA World Cup Mexico – Matches – Argentina v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213024046/http://www.fifa.com/worldcup/matches/round=308/match=395/index.html |archive-date=13 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1986
+ | pattern_b  = _argentina1986
+ | pattern_ra = _argentina1986
+ | pattern_sh = _argentina1986
+ | pattern_so = _argentina1986
+ | leftarm    = 
+ | body       = 42A0FF
+ | rightarm   = 
+ | shorts     = 000000
+ | socks      = ffffff
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _korea86
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = South Korea
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Nery Pumpido]]
+|-
+|SW ||'''5''' ||[[José Luis Brown]]
+|-
+|CB ||'''8''' ||[[Néstor Clausen]]
+|-
+|CB ||'''19'''||[[Oscar Ruggeri]]
+|-
+|DM ||'''14'''||[[Ricardo Giusti]]
+|-
+|DM ||'''2''' ||[[Sergio Batista]] || || {{suboff|75}}
+|-
+|AM ||'''7''' ||[[Jorge Burruchaga]]
+|-
+|LWB ||'''13'''||[[Oscar Garré]]
+|-
+|SS ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|CF ||'''17'''||[[Pedro Pasculli]] || || {{suboff|74}}
+|-
+|CF ||'''11'''||[[Jorge Valdano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Carlos Daniel Tapia]] || || {{subon|74}}
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|ARG|1861}} [[Carlos Bilardo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Oh Yun-Kyo]]
+|-
+|DF ||'''2''' ||[[Park Kyung-Hoon]]
+|-
+|DF ||'''5''' ||[[Chung Yong-Hwan]]
+|-
+|DF ||'''12'''||[[Kim Pyung-Seok]] || || {{suboff|23}}
+|-
+|DF ||'''14'''||[[Cho Min-Kook]]
+|-
+|DF ||'''20'''||[[Kim Yong-Se]] || || {{suboff|46}}
+|-
+|MF ||'''17'''||[[Huh Jung-Moo]] || {{yel|44}}
+|-
+|MF ||'''16'''||[[Kim Joo-Sung]]
+|-
+|MF ||'''10'''||[[Park Chang-Sun]] ([[Captain (association football)|c]]) || {{yel|50}}
+|-
+|FW ||'''9''' ||[[Choi Soon-Ho]]
+|-
+|FW ||'''11'''||[[Cha Bum-Kun]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4''' ||[[Cho Kwang-Rae]] || || {{subon|23}}
+|-
+|FW ||'''19'''||[[Byun Byung-Joo]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|KOR|1984}} [[Kim Jung-Nam]]
+|}
+|}
+
+'''Assistant referees:'''
+<br />[[Jesús Díaz (football referee)|Jesús Díaz]] ([[Colombian Football Federation|Colombia]])
+<br />[[Gabriel González (referee)|Gabriel González]] ([[Paraguayan Football Association|Paraguay]])
+
+===Italy vs Argentina===
+<onlyinclude>{{#invoke:Football box|main|section=A3
+|date={{Start date|1986|6|5|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1986 FIFA World Cup Group A#Italy vs Argentina|1–1}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Alessandro Altobelli|Altobelli]] {{goal|6|pen.}}
+|goals2=
+*[[Diego Maradona|Maradona]] {{goal|34}}
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=32,000
+|referee=[[Jan Keizer (referee)|Jan Keizer]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/394 |title=Italy vs Argentina {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=394/index.html |title=1986 FIFA World Cup Mexico – Matches – Italy v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219085422/http://www.fifa.com/worldcup/matches/round=308/match=394/index.html |archive-date=19 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita90
+ | pattern_ra = _italy1982-90
+ | pattern_sh = 
+ | pattern_so = _italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = ffffff
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _argentina1986
+ | pattern_b  = _argentina1986
+ | pattern_ra = _argentina1986
+ | pattern_sh = _argentina1986
+ | pattern_so = _argentina1986
+ | leftarm    = 
+ | body       = 42A0FF
+ | rightarm   = 
+ | shorts     = 0000000
+ | socks      = ffffff
+ | title      = Argentina
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Giovanni Galli]]
+|-
+|DF ||'''2''' ||[[Giuseppe Bergomi]] || {{yel|54}}
+|-
+|DF ||'''3''' ||[[Antonio Cabrini]]
+|-
+|DF ||'''6''' ||[[Gaetano Scirea]] ([[Captain (association football)|c]])
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]]
+|-
+|MF ||'''14'''||[[Antonio Di Gennaro]]
+|-
+|MF ||'''10'''||[[Salvatore Bagni]]
+|-
+|MF ||'''13'''||[[Fernando De Napoli]] || || {{suboff|87}}
+|-
+|MF ||'''16'''||[[Bruno Conti]] || || {{suboff|65}}
+|-
+|FW ||'''19'''||[[Giuseppe Galderisi]]
+|-
+|FW ||'''18'''||[[Alessandro Altobelli]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Gianluca Vialli]] || || {{subon|65}}
+|-
+|MF ||'''11'''||[[Giuseppe Baresi]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA|1946}} [[Enzo Bearzot]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||[[Nery Pumpido]]
+|-
+|SW ||'''5''' ||[[José Luis Brown]]
+|-
+|CB ||'''19'''||[[Oscar Ruggeri]]
+|-
+|CB ||'''9''' ||[[José Luis Cuciuffo]]
+|-
+|DM ||'''14'''||[[Ricardo Giusti]] || {{yel|58}}
+|-
+|DM ||'''2''' ||[[Sergio Batista]] || || {{suboff|59}}
+|-
+|AM ||'''7''' ||[[Jorge Burruchaga]]
+|-
+|LWB ||'''13'''||[[Oscar Garré]] || {{yel|65}}
+|-
+|SS ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|CF ||'''4''' ||[[Claudio Borghi (football manager)|Claudio Borghi]] || || {{suboff|74}}
+|-
+|CF ||'''11'''||[[Jorge Valdano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]] || || {{subon|59}}
+|-
+|MF ||'''12'''||[[Héctor Enrique]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG|1861}} [[Carlos Bilardo]]
+|}
+|}
+
+'''Assistant referees:'''
+<br />[[Alan Snoddy]] ([[Irish Football Association|Northern Ireland]])
+<br />[[Antonio Marquez Ramirez]] ([[Mexican Football Federation|Mexico]])
+
+===South Korea vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=A4
+|date={{Start date|1986|6|5|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|KOR|1984}}
+|score={{score link|1986 FIFA World Cup Group A#South Korea vs Bulgaria|1–1}}
+|team2={{fb|BUL|1971}}
+|goals1=
+*[[Kim Jong-Boo]] {{goal|70}}
+|goals2=
+*[[Plamen Getov|Getov]] {{goal|11}}
+|stadium=[[Estadio Olímpico Universitario]], [[Mexico City]]
+|attendance=45,000
+|referee=[[Fallaj Al Shanar]] ([[Saudi Arabia Football Federation|Saudi&nbsp;Arabia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/460 |title=Korea Republic vs Bulgaria {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=460/index.html |title=1986 FIFA World Cup Mexico – Matches – Korea Republic v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228223110/http://www.fifa.com/worldcup/matches/round=308/match=460/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _korea86
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = South Korea
+}}
+|{{Football kit
+|pattern_la= _bul86h
+|pattern_b=  _bul86h
+|pattern_ra= _bul86h
+|pattern_sh=_bul86h
+|pattern_so=_3_stripes_red
+|leftarm=
+|body=
+|rightarm=
+|shorts=076F24
+|socks=FFFFFF
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Oh Yun-Kyo]]
+|-
+|DF ||'''2''' ||[[Park Kyung-Hoon]]
+|-
+|DF ||'''5''' ||[[Chung Yong-Hwan]]
+|-
+|DF ||'''8''' ||[[Cho Young-Jeung]] || {{yel|60}}
+|-
+|MF ||'''13'''||[[Noh Soo-Jin]] || || {{suboff|46}}
+|-
+|MF ||'''4''' ||[[Cho Kwang-Rae]] || || {{suboff|72}}
+|-
+|MF ||'''17'''||[[Huh Jung-Moo]]
+|-
+|MF ||'''16'''||[[Kim Joo-Sung]] || {{yel|31}}
+|-
+|MF ||'''10'''||[[Park Chang-Sun]] ([[Captain (association football)|c]])
+|-
+|FW ||'''19'''||[[Byun Byung-Joo]]
+|-
+|FW ||'''11'''||[[Cha Bum-Kun]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Kim Jong-Boo]] || || {{subon|46}}
+|-
+|DF ||'''14'''||[[Cho Min-Kook]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|KOR|1984}} [[Kim Jung-Nam]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]]
+|-
+|DF ||'''3''' ||[[Nikolay Arabov]]
+|-
+|DF ||'''5''' ||[[Georgi Dimitrov (footballer, born 1959)|Georgi Dimitrov]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Petar Petrov (footballer born 1961)|Petar Petrov]]
+|-
+|MF ||'''11'''||[[Plamen Getov]] || || {{suboff|58}}
+|-
+|MF ||'''10'''||[[Zhivko Gospodinov]] || {{yel|49}}
+|-
+|MF ||'''8''' ||[[Ayan Sadakov]]
+|-
+|MF ||'''12'''||[[Radoslav Zdravkov]]
+|-
+|MF ||'''2''' ||[[Nasko Sirakov]]
+|-
+|FW ||'''7''' ||[[Bozhidar Iskrenov]] || || {{suboff|46}}
+|-
+|FW ||'''9''' ||[[Stoycho Mladenov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Kostadin Kostadinov (footballer)|Kostadin Kostadinov]] || || {{subon|46}}
+|-
+|MF ||'''6''' ||[[Andrey Zhelyazkov]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BUL|1971}} [[Ivan Vutsov]]
+|}
+|}
+'''Assistant referees:'''
+<br />[[Valeri Butenko]] ([[Football Federation of the Soviet Union|Soviet Union]])
+<br />[[Ioan Igna]] ([[Romanian Football Federation|Romania]])
+
+===South Korea vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=A5
+|date={{Start date|1986|6|10|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|KOR|1984}}
+|score={{score link|1986 FIFA World Cup Group A#South Korea vs Italy|2–3}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Choi Soon-Ho]] {{goal|62}}
+*[[Huh Jung-Moo]] {{goal|89}}
+|goals2=
+*[[Alessandro Altobelli|Altobelli]] {{goal|17||73}}
+*[[Cho Kwang-Rae]] {{goal|82|o.g.}}
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=20,000
+|referee=[[David Socha]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/643 |title=Korea Republic vs Italy {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=643/index.html |title=1986 FIFA World Cup Mexico – Matches – Korea Republic v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228214833/http://www.fifa.com/worldcup/matches/round=308/match=643/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _korea86
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = South Korea
+}}
+|{{Football kit
+ | pattern_la = _ita82a
+ | pattern_b  = _ita90a
+ | pattern_ra = _ita82a
+ | pattern_sh = 
+ | pattern_so = _italia_cm1994
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Oh Yun-Kyo]]
+|-
+|DF ||'''2''' ||[[Park Kyung-Hoon]] || {{yel|35}}
+|-
+|DF ||'''5''' ||[[Chung Yong-Hwan]]
+|-
+|DF ||'''8''' ||[[Cho Young-Jeung]]
+|-
+|MF ||'''4''' ||[[Cho Kwang-Rae]]
+|-
+|MF ||'''17'''||[[Huh Jung-Moo]]
+|-
+|MF ||'''16'''||[[Kim Joo-Sung]] || {{yel|17}}|| {{suboff|46}}
+|-
+|MF ||'''10'''||[[Park Chang-Sun]] ([[Captain (association football)|c]])
+|-
+|FW ||'''9''' ||[[Choi Soon-Ho]]
+|-
+|FW ||'''19'''||[[Byun Byung-Joo]] || || {{suboff|70}}
+|-
+|FW ||'''11'''||[[Cha Bum-Kun]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''1'''
+|[[Cho Byung-deuk]]
+|
+|
+|-
+|DF ||'''3''' ||[[Chung Jong-Soo]] || {{yel|72}}|| {{subon|46}}
+|-
+|FW
+|'''6'''
+|[[Lee Tae-ho]]
+|
+|
+|-
+|FW
+|'''20'''
+|[[Kim Yong-se]]
+|
+|
+|-
+|FW ||'''7''' ||[[Kim Jong-Boo]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|KOR|1984}} [[Kim Jung-Nam]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Giovanni Galli]]
+|-
+|DF ||'''3''' ||[[Antonio Cabrini]]
+|-
+|DF ||'''4''' ||[[Fulvio Collovati]]
+|-
+|DF ||'''6''' ||[[Gaetano Scirea]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]] || {{yel|70}}
+|-
+|MF ||'''14'''||[[Antonio Di Gennaro]]
+|-
+|MF ||'''10'''||[[Salvatore Bagni]] || {{yel|31}} || {{suboff|67}}
+|-
+|MF ||'''13'''||[[Fernando De Napoli]]
+|-
+|MF ||'''16'''||[[Bruno Conti]]
+|-
+|FW ||'''19'''||[[Giuseppe Galderisi]] || || {{suboff|88}}
+|-
+|FW ||'''18'''||[[Alessandro Altobelli]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Franco Tancredi]]
+|
+|
+|-
+|DF
+|'''5'''
+|[[Sebastiano Nela]]
+|
+|
+|-
+|MF ||'''11'''||[[Giuseppe Baresi]] || || {{subon|67}}
+|-
+|FW
+|'''21'''
+|[[Aldo Serena]]
+|
+|
+|-
+|FW ||'''17'''||[[Gianluca Vialli]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA|1946}} [[Enzo Bearzot]]
+|}
+|}
+
+===Argentina vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=A6
+|date={{Start date|1986|6|10|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1986 FIFA World Cup Group A#Argentina vs Bulgaria|2–0}}
+|team2={{fb|BUL|1971}}
+|goals1=
+*[[Jorge Valdano|Valdano]] {{goal|4}}
+*[[Jorge Burruchaga|Burruchaga]] {{goal|77}}
+|goals2=
+|stadium=[[Estadio Olímpico Universitario]], [[Mexico City]]
+|attendance=65,000
+|referee=[[Berny Ulloa Morera]] ([[Federación Costarricense de Fútbol|Costa&nbsp;Rica]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/389 |title=Argentina vs Bulgaria {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=389/index.html |title=1986 FIFA World Cup Mexico – Matches – Argentina v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212024139/http://www.fifa.com/worldcup/matches/round=308/match=389/index.html |archive-date=12 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1986
+ | pattern_b  = _argentina1986
+ | pattern_ra = _argentina1986
+ | pattern_sh = _argentina1986
+ | pattern_so = _argentina1986
+ | leftarm    = 
+ | body       = 42A0FF
+ | rightarm   = 
+ | shorts     = 0000000
+ | socks      = ffffff
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _bul86a
+ | pattern_b  = _bul86a
+ | pattern_ra = _bul86a
+ | pattern_sh = _bul86h
+ | pattern_so = _3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 076F24
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Nery Pumpido]]
+|-
+|SW ||'''5''' ||[[José Luis Brown]]
+|-
+|CB ||'''19'''||[[Oscar Ruggeri]]
+|-
+|CB ||'''9''' ||[[José Luis Cuciuffo]] || {{yel|25}}
+|-
+|DM ||'''14'''||[[Ricardo Giusti]]
+|-
+|DM ||'''2''' ||[[Sergio Batista]] || || {{suboff|46}}
+|-
+|AM ||'''7''' ||[[Jorge Burruchaga]]
+|-
+|LWB ||'''13'''||[[Oscar Garré]]
+|-
+|SS ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|CF ||'''4''' ||[[Claudio Borghi (football manager)|Claudio Borghi]] || || {{suboff|46}}
+|-
+|CF ||'''11'''||[[Jorge Valdano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]] || || {{subon|46}}
+|-
+|MF ||'''12'''||[[Héctor Enrique]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG|1861}} [[Carlos Bilardo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]]
+|-
+|DF ||'''4''' ||[[Petar Petrov (footballer born 1961)|Petar Petrov]]
+|-
+|DF ||'''5''' ||[[Georgi Dimitrov (footballer, born 1959)|Georgi Dimitrov]] ([[Captain (association football)|c]])
+|-
+|MF ||'''11'''||[[Plamen Getov]]
+|-
+|MF ||'''15'''||[[Georgi Yordanov]]
+|-
+|MF ||'''6''' ||[[Andrey Zhelyazkov]]
+|-
+|MF ||'''8''' ||[[Ayan Sadakov]]
+|-
+|MF ||'''13'''||[[Aleksandar Markov]]
+|-
+|MF ||'''2''' ||[[Nasko Sirakov]] || || {{suboff|71}}
+|-
+|FW ||'''14'''||[[Plamen Markov]]
+|-
+|FW ||'''9''' ||[[Stoycho Mladenov]] || || {{suboff|52}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Boycho Velichkov]] || || {{subon|52}}
+|-
+|MF ||'''12'''||[[Radoslav Zdravkov]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BUL|1971}} [[Ivan Vutsov]]
+|}
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Bulgaria at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[South Korea at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1986 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:1986 FIFA World Cup group stage|A]]
+[[Category:Argentina at the 1986 FIFA World Cup|A]]
+[[Category:Bulgaria at the 1986 FIFA World Cup]]
+[[Category:Italy at the 1986 FIFA World Cup|Group]]
+[[Category:South Korea at the 1986 FIFA World Cup]]
+[[Category:Sport in Puebla (city)]]
+[[Category:Football in Puebla]]
+[[Category:History of Puebla]]
+[[Category:Football competitions in Mexico City]]
+[[Category:1980s in Mexico City]]

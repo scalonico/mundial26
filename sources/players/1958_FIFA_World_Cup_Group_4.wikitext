@@ -1,0 +1,848 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 4 of the [[1958 FIFA World Cup]]''' took place from 8 to 17 June 1958. The group consisted of [[Austria national football team|Austria]], [[Brazil national football team|Brazil]], [[England national football team|England]], and the [[Soviet Union national football team|Soviet Union]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/58f.html |title=World Cup 1958 (Sweden, June 8–29) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|teamwidth=180
+|section=Standings
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150407144248/http://www.fifa.com/worldcup/archive/sweden1958/groups/index.html FIFA]
+
+|team1=BRA|team2=URS 
+|team3=ENG |team4=AUT
+|hth_URS=The Soviet Union finished ahead of England by winning a play-off. |hth_ENG=URS
+
+|result1=A |result2=A
+
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=5 |ga_BRA=0
+|win_URS=1 |draw_URS=1 |loss_URS=1 |gf_URS=4 |ga_URS=4
+|win_ENG=0 |draw_ENG=3 |loss_ENG=0 |gf_ENG=4 |ga_ENG=4
+|win_AUT=0 |draw_AUT=1 |loss_AUT=2 |gf_AUT=2 |ga_AUT=7
+
+|name_AUT={{fb|AUT}}
+|name_ENG={{fb|ENG}}
+|name_URS={{fb|URS|1955}}
+|name_BRA={{fb|BRA|1889}}
+
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1958 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Brazil vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1958|6|8|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1958 FIFA World Cup Group 4#Brazil vs Austria|3–0}}
+|team2={{fb|AUT}}
+|goals1=
+*[[José Altafini|Altafini]] {{goal|37||85}}
+*[[Nílton Santos]] {{goal|50}}
+|goals2=
+|stadium=[[Rimnersvallen]], [[Uddevalla]]
+|attendance=17,788
+|referee=[[Maurice Guigue]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1326 |title=Brazil vs Austria {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1326/index.html |title=1958 FIFA World Cup Sweden – Matches – Brazil v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171027011506/http://www.fifa.com/worldcup/matches/round=220/match=1326/index.html |archive-date=27 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1954
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 62B0FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''3'''|| [[Gylmar dos Santos Neves|Gilmar]]
+|-
+| RB ||'''14'''|| [[Newton de Sordi|De Sordi]]
+|-
+| CB ||'''15'''|| [[Orlando Peçanha de Carvalho|Orlando]]
+|-
+| CB ||'''2'''|| [[Hilderaldo Bellini|Bellini]] ([[Captain (association football)|c]])
+|-
+| LB ||'''12'''|| [[Nílton Santos]]
+|-
+| DM ||'''5'''|| [[Dino Sani]]
+|-
+| AM ||'''6'''|| [[Valdir Pereira|Didi]]
+|-
+| RW ||'''17'''|| [[Joel Antônio Martins|Joel]]
+|-
+| FW ||'''18'''|| [[José Altafini|Mazzola]]
+|-
+| FW ||'''21'''|| [[Edvaldo Alves de Santa Rosa|Dida]]
+|-
+| LW ||'''7'''|| [[Mário Zagallo|Zagallo]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Vicente Feola]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Rudolf Szanwald]]
+|-
+| DF ||'''2'''|| [[Paul Halla]]
+|-
+| DF ||'''3'''|| [[Ernst Happel]]
+|-
+| DF ||'''4'''|| [[Franz Swoboda]]
+|-
+| MF ||'''5'''|| [[Gerhard Hanappi]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Karl Koller (footballer)|Karl Koller]]
+|-
+| FW ||'''7'''|| [[Walter Horak]]
+|-
+| FW ||'''11'''|| [[Helmut Senekowitsch]]
+|-
+| FW ||'''9'''|| [[Hans Buzek]]
+|-
+| FW ||'''10'''|| [[Alfred Körner]]
+|-
+| FW ||'''13'''|| [[Walter Schleger]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Karl Argauer]]
+|}
+{{col-end}}
+
+===Soviet Union vs England===
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1958|6|8|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1958 FIFA World Cup Group 4#Soviet Union vs England|2–2}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Nikita Simonyan|Simonyan]] {{goal|13}}
+*[[Aleksandr Ivanov (footballer born 1928)|A. Ivanov]] {{goal|56}}
+|goals2=
+*[[Derek Kevan|Kevan]] {{goal|66}}
+*[[Tom Finney|Finney]] {{goal|85|pen.}}
+|stadium=[[Ullevi]], [[Gothenburg]]
+|attendance=49,348
+|referee=[[István Zsolt]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1372 |title=Soviet Union vs England {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1372/index.html |title=1958 FIFA World Cup Sweden – Matches – Soviet Union v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031023411/http://www.fifa.com/worldcup/matches/round=220/match=1372/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _eng58h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000066
+ | socks      = FF0000
+ | title      = England
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Lev Yashin]]
+|-
+| DF ||'''2'''|| [[Vladimir Kesarev]]
+|-
+| DF ||'''4'''|| [[Boris Kuznetsov (footballer, born 1928)|Boris Kuznetsov]]
+|-
+| DF ||'''5'''|| [[Yuri Voinov]]
+|-
+| MF ||'''3'''|| [[Konstantin Krizhevsky]]
+|-
+| MF ||'''16'''|| [[Viktor Tsarev]]
+|-
+| FW ||'''17'''|| [[Aleksandr Ivanov (footballer, born 1928)|Aleksandr Ivanov]]
+|-
+| FW ||'''8'''|| [[Valentin Kozmich Ivanov|Valentin Ivanov]]
+|-
+| FW ||'''9'''|| [[Nikita Simonyan]] ([[Captain (association football)|c]])
+|-
+| FW ||'''10'''|| [[Sergei Salnikov]]
+|-
+| FW ||'''11'''|| [[Anatoli Ilyin]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Gavriil Kachalin]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Colin McDonald (footballer born 1930)|Colin McDonald]]
+|-
+| DF ||'''2'''|| [[Don Howe]]
+|-
+| DF ||'''3'''|| [[Tommy Banks (footballer)|Tommy Banks]]
+|-
+| MF ||'''4'''|| [[Eddie Clamp]]
+|-
+| MF ||'''5'''|| [[Billy Wright (footballer born 1924)|Billy Wright]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Bill Slater (footballer)|Bill Slater]]
+|-
+| FW ||'''7'''|| [[Bryan Douglas]]
+|-
+| FW ||'''8'''|| [[Bobby Robson]] 
+|-
+| FW ||'''9'''|| [[Derek Kevan]]
+|-
+| FW ||'''10'''|| [[Johnny Haynes]]
+|-
+| FW ||'''11'''|| [[Tom Finney]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Walter Winterbottom]]
+|}
+{{col-end}}
+
+===Brazil vs England===
+This was the first goalless draw in World Cup finals history.<ref>{{cite book |last=Norlin |first=Arne |title=1958: När Folkhemmet Fick Fotbolls-VM |year=2008 |publisher=Ross & Tegner |location=Malmö |language=sv |isbn=978-91-976144-8-1 |page=88}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1958|6|11|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1958 FIFA World Cup Group 4#Brazil vs England|0–0}}
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+|stadium=[[Ullevi]], [[Gothenburg]]
+|attendance=40,895
+|referee=Albert Dusch ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1339 |title=Brazil vs England {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1339/index.html |title=1958 FIFA World Cup Sweden – Matches – Brazil v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214053929/http://www.fifa.com/worldcup/matches/round=220/match=1339/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1954
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 62B0FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _eng58h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000066
+ | socks      = FF0000
+ | title      = England
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''3'''|| [[Gylmar dos Santos Neves|Gilmar]]
+|-
+| RB ||'''14'''|| [[Newton de Sordi|De Sordi]]
+|-
+| CB ||'''15'''|| [[Orlando Peçanha de Carvalho|Orlando]]
+|-
+| CB ||'''2'''|| [[Hilderaldo Bellini|Bellini]] ([[Captain (association football)|c]])
+|-
+| LB ||'''12'''|| [[Nílton Santos]]
+|-
+| DM ||'''5'''|| [[Dino Sani]]
+|-
+| AM ||'''6'''|| [[Valdir Pereira|Didi]]
+|-
+| RW ||'''17'''|| [[Joel Antônio Martins|Joel]]
+|-
+| FW ||'''18'''|| [[José Altafini|Mazzola]]
+|-
+| FW ||'''20'''|| [[Vavá]]
+|-
+| LW ||'''7'''|| [[Mário Zagallo|Zagallo]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Vicente Feola]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Colin McDonald (footballer born 1930)|Colin McDonald]]
+|-
+| DF ||'''2'''|| [[Don Howe]]
+|-
+| DF ||'''3'''|| [[Tommy Banks (footballer)|Tommy Banks]]
+|-
+| MF ||'''4'''|| [[Eddie Clamp]]
+|-
+| MF ||'''5'''|| [[Billy Wright (footballer born 1924)|Billy Wright]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Bill Slater (footballer)|Bill Slater]]
+|-
+| FW ||'''7'''|| [[Bryan Douglas]]
+|-
+| FW ||'''8'''|| [[Bobby Robson]] 
+|-
+| FW ||'''9'''|| [[Derek Kevan]]
+|-
+| FW ||'''10'''|| [[Johnny Haynes]]
+|-
+| FW ||'''21'''|| [[Alan A'Court]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Walter Winterbottom]]
+|}
+{{col-end}}
+
+===Soviet Union vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1958|6|11|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1958 FIFA World Cup Group 4#Soviet Union vs Austria|2–0}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Anatoli Ilyin|Ilyin]] {{goal|15}}
+*[[Valentin Kozmich Ivanov|V. Ivanov]] {{goal|62}}
+|goals2=
+|stadium=[[Ryavallen]], [[Borås]]
+|attendance=21,239
+|referee=Carl Jørgensen ([[Danish Football Union|Denmark]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1332 |title=Soviet Union vs Austria {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1332/index.html |title=1958 FIFA World Cup Sweden – Matches – Soviet Union v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171103232551/http://www.fifa.com/worldcup/matches/round=220/match=1332/index.html |archive-date=3 November 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Lev Yashin]]
+|-
+| DF ||'''2'''|| [[Vladimir Kesarev]]
+|-
+| DF ||'''4'''|| [[Boris Kuznetsov (footballer, born 1928)|Boris Kuznetsov]]
+|-
+| DF ||'''5'''|| [[Yuri Voinov]]
+|-
+| MF ||'''3'''|| [[Konstantin Krizhevsky]]
+|-
+| MF ||'''16'''|| [[Viktor Tsarev]]
+|-
+| FW ||'''17'''|| [[Aleksandr Ivanov (footballer, born 1928)|Aleksandr Ivanov]]
+|-
+| FW ||'''8'''|| [[Valentin Kozmich Ivanov|Valentin Ivanov]]
+|-
+| FW ||'''9'''|| [[Nikita Simonyan]] ([[Captain (association football)|c]])
+|-
+| FW ||'''10'''|| [[Sergei Salnikov]]
+|-
+| FW ||'''11'''|| [[Anatoli Ilyin]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Gavriil Kachalin]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''12'''|| [[Kurt Schmied]]
+|-
+| DF ||'''16'''|| [[Karl Stotz]]
+|-
+| DF ||'''4'''|| [[Franz Swoboda]]
+|-
+| DF ||'''5'''|| [[Gerhard Hanappi]] ([[Captain (association football)|c]])
+|-
+| MF ||'''17'''|| [[Ernst Kozlicek]]
+|-
+| MF ||'''6'''|| [[Karl Koller (footballer)|Karl Koller]]
+|-
+| FW ||'''7'''|| [[Walter Horak]]
+|-
+| FW ||'''8'''|| [[Paul Kozlicek]]
+|-
+| FW ||'''9'''|| [[Hans Buzek]]
+|-
+| FW ||'''10'''|| [[Alfred Körner]]
+|-
+| FW ||'''11'''|| [[Helmut Senekowitsch]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Karl Argauer]]
+|}
+{{col-end}}
+
+===England vs Austria===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-5
+|date={{Start date|1958|6|15|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|ENG}}
+|score={{score link|1958 FIFA World Cup Group 4#England vs Austria|2–2}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Johnny Haynes|Haynes]] {{goal|56}}
+*[[Derek Kevan|Kevan]] {{goal|74}}
+|goals2=
+*[[Karl Koller (footballer)|Koller]] {{goal|15}}
+*[[Alfred Körner|Körner]] {{goal|71}}
+|stadium=[[Ryavallen]], [[Borås]]
+|attendance=15,872
+|referee=Jan Bronkhorst ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1327 |title=England vs Austria {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1327/index.html |title=1958 FIFA World Cup Sweden – Matches – England v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031033749/http://www.fifa.com/worldcup/matches/round=220/match=1327/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _eng58h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000066
+ | socks      = FF0000
+ | title      = England
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollarplain
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Austria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Colin McDonald (footballer born 1930)|Colin McDonald]]
+|-
+| DF ||'''2'''|| [[Don Howe]]
+|-
+| DF ||'''3'''|| [[Tommy Banks (footballer)|Tommy Banks]]
+|-
+| MF ||'''4'''|| [[Eddie Clamp]]
+|-
+| MF ||'''5'''|| [[Billy Wright (footballer born 1924)|Billy Wright]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Bill Slater (footballer)|Bill Slater]]
+|-
+| FW ||'''7'''|| [[Bryan Douglas]]
+|-
+| FW ||'''8'''|| [[Bobby Robson]] 
+|-
+| FW ||'''9'''|| [[Derek Kevan]]
+|-
+| FW ||'''10'''|| [[Johnny Haynes]]
+|-
+| FW ||'''21'''|| [[Alan A'Court]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Walter Winterbottom]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Rudolf Szanwald]]
+|-
+| DF ||'''15'''|| [[Walter Kollmann]]
+|-
+| DF ||'''4'''|| [[Franz Swoboda]]
+|-
+| DF ||'''3'''|| [[Ernst Happel]]
+|-
+| MF ||'''5'''|| [[Gerhard Hanappi]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Karl Koller (footballer)|Karl Koller]]
+|-
+| FW ||'''16'''|| [[Ernst Kozlicek]]
+|-
+| FW ||'''8'''|| [[Paul Kozlicek]]
+|-
+| FW ||'''9'''|| [[Hans Buzek]]
+|-
+| FW ||'''10'''|| [[Alfred Körner]]
+|-
+| FW ||'''11'''|| [[Helmut Senekowitsch]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Karl Argauer]]
+|}
+{{col-end}}
+
+===Brazil vs Soviet Union===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-6
+|date={{Start date|1958|6|15|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1958 FIFA World Cup Group 4#Brazil vs Soviet Union|2–0}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Vavá]] {{goal|3||77}}
+|goals2=
+|stadium=[[Ullevi]], [[Gothenburg]]
+|attendance=50,928
+|referee=[[Maurice Guigue]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1344 |title=Brazil vs Soviet Union {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1344/index.html |title=1958 FIFA World Cup Sweden – Matches – Brazil v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212131339/http://www.fifa.com/worldcup/matches/round=220/match=1344/index.html |archive-date=12 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1954
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 62B0FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''3'''|| [[Gylmar dos Santos Neves|Gilmar]]
+|-
+| RB ||'''14'''|| [[Newton de Sordi|De Sordi]]
+|-
+| CB ||'''15'''|| [[Orlando Peçanha de Carvalho|Orlando]]
+|-
+| CB ||'''2'''|| [[Hilderaldo Bellini|Bellini]] ([[Captain (association football)|c]])
+|-
+| LB ||'''12'''|| [[Nílton Santos]]
+|-
+| DM ||'''19'''|| [[José Ely de Miranda|Zito]]
+|-
+| AM ||'''6'''|| [[Valdir Pereira|Didi]]
+|-
+| RW ||'''11'''|| [[Garrincha]]
+|-
+| FW ||'''10'''|| [[Pelé]]
+|-
+| FW ||'''20'''|| [[Vavá]]
+|-
+| LW ||'''7'''|| [[Mário Zagallo|Zagallo]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Vicente Feola]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Lev Yashin]]
+|-
+| DF ||'''2'''|| [[Vladimir Kesarev]]
+|-
+| DF ||'''4'''|| [[Boris Kuznetsov (footballer, born 1928)|Boris Kuznetsov]]
+|-
+| DF ||'''5'''|| [[Yuri Voinov]]
+|-
+| DF ||'''3'''|| [[Konstantin Krizhevsky]]
+|-
+| MF ||'''16'''|| [[Viktor Tsarev]]
+|-
+| MF ||'''6'''|| [[Igor Netto]] ([[Captain (association football)|c]])
+|-
+|-
+| FW ||'''17'''|| [[Aleksandr Ivanov (footballer, born 1928)|Aleksandr Ivanov]]
+|-
+| FW ||'''8'''|| [[Valentin Kozmich Ivanov|Valentin Ivanov]]
+|-
+| FW ||'''9'''|| [[Nikita Simonyan]] 
+|-
+| FW ||'''11'''|| [[Anatoli Ilyin]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Gavriil Kachalin]]
+|}
+{{col-end}}
+
+===Play-off: Soviet Union vs England===
+<onlyinclude>{{#invoke:Football box|main|section=4-PO
+|date={{Start date|1958|6|17|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|URS}}
+|score={{score link|1958 FIFA World Cup Group 4#Play-off: Soviet Union vs England|1–0}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Anatoli Ilyin|Ilyin]] {{goal|69}}
+|goals2=
+|stadium=[[Ullevi]], [[Gothenburg]]
+|attendance=23,182
+|referee=Albert Dusch ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1373 |title=Soviet Union vs England {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1373/index.html |title=1958 FIFA World Cup Sweden – Matches – Soviet Union v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031031604/http://www.fifa.com/worldcup/matches/round=220/match=1373/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _eng58h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _band_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000066
+ | socks      = FF0000
+ | title      = England
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Lev Yashin]]
+|-
+| DF ||'''2'''|| [[Vladimir Kesarev]]
+|-
+| DF ||'''4'''|| [[Boris Kuznetsov (footballer, born 1928)|Boris Kuznetsov]]
+|-
+| DF ||'''5'''|| [[Yuri Voinov]]
+|-
+| MF ||'''3'''|| [[Konstantin Krizhevsky]]
+|-
+| MF ||'''16'''|| [[Viktor Tsarev]]
+|-
+| FW ||'''7'''|| [[German Apukhtin]]
+|-
+| FW ||'''8'''|| [[Valentin Kozmich Ivanov|Valentin Ivanov]]
+|-
+| FW ||'''9'''|| [[Nikita Simonyan]] ([[Captain (association football)|c]])
+|-
+| FW ||'''20'''|| [[Yuri Falin]]
+|-
+| FW ||'''11'''|| [[Anatoli Ilyin]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Gavriil Kachalin]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Colin McDonald (footballer born 1930)|Colin McDonald]]
+|-
+| DF ||'''2'''|| [[Don Howe]]
+|-
+| DF ||'''3'''|| [[Tommy Banks (footballer)|Tommy Banks]]
+|-
+| MF ||'''15'''|| [[Ronnie Clayton (footballer, born 1934)|Ronnie Clayton]]
+|-
+| MF ||'''5'''|| [[Billy Wright (footballer born 1924)|Billy Wright]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Bill Slater (footballer)|Bill Slater]]
+|-
+| FW ||'''17'''|| [[Peter Brabrook]]
+|-
+| FW ||'''18'''|| [[Peter Broadbent (footballer)|Peter Broadbent]]
+|-
+| FW ||'''9'''|| [[Derek Kevan]]
+|-
+| FW ||'''10'''|| [[Johnny Haynes]]
+|-
+| FW ||'''21'''|| [[Alan A'Court]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Walter Winterbottom]]
+|}
+{{col-end}}
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Brazil at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[Soviet Union at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1958sweden 1958 FIFA World Cup archive]
+
+{{1958 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 4}}
+[[Category:1958 FIFA World Cup group stage|4]]
+[[Category:Brazil at the 1958 FIFA World Cup]]
+[[Category:England at the 1958 FIFA World Cup]]
+[[Category:Soviet Union at the 1958 FIFA World Cup]]
+[[Category:Austria at the 1958 FIFA World Cup]]
+[[Category:Sports competitions in Borås]]
+[[Category:Sport in Uddevalla]]
+[[Category:Sports competitions in Västra Götaland County]]
+[[Category:International sports competitions in Gothenburg]]
+[[Category:Football in Gothenburg]]
+[[Category:20th century in Gothenburg]]
+[[Category:20th century in Västra Götaland County]]
+[[Category:Football in Västra Götaland County]]

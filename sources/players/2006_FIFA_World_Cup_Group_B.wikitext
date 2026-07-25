@@ -1,0 +1,929 @@
+{{Short description|None}}
+{{Use dmy dates|date=January 2023}}
+{{Use British English|date=January 2023}}
+
+Play in Group B of the [[2006 FIFA World Cup]] began on 10 June and completed on 20 June 2006. [[England national football team|England]] won the group, and advanced to the round of 16, along with [[Sweden men's national football team|Sweden]]. [[Paraguay national football team|Paraguay]] and [[Trinidad and Tobago national football team|Trinidad and Tobago]] were eliminated.<ref>{{cite web |last=Saaid |first=Hamdan |url=https://www.rsssf.org/tables/2006full.html |title=World Cup 2006 – Match Details |publisher=[[RSSSF]] |date=7 February 2007 |access-date=30 April 2026}}</ref>
+
+==Background==
+Group B was the second of eight groups to start play at the [[2006 FIFA World Cup]] in Germany. The competition consisted of 32 competitors, split into eight groups of four teams. The sides would play each other on a [[Round-robin tournament|round-robin basis]] with the top two teams in each group advancing to the round of 16.<ref>{{cite web |url=https://www.uefa.com/newsfiles/19085.pdf |title=Regulations 2006 FIFA World Cup Germany|format=PDF | publisher=FIFA |accessdate=11 January 2023}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/9741?date=2006-06-23&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=ENG
+|team2=SWE
+|team3=PAR
+|team4=TRI
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2006 FIFA World Cup#Ranking criteria|Tie-breaking criteria]]
+
+|win_ENG=2 |draw_ENG=1 |loss_ENG=0 |gf_ENG=5 |ga_ENG=2
+|win_SWE=1 |draw_SWE=2 |loss_SWE=0 |gf_SWE=3 |ga_SWE=2
+|win_PAR=1 |draw_PAR=0 |loss_PAR=2 |gf_PAR=2 |ga_PAR=2
+|win_TRI=0 |draw_TRI=1 |loss_TRI=2 |gf_TRI=0 |ga_TRI=4
+
+|name_ENG={{fb|ENG}}
+|name_SWE={{fb|SWE}}
+|name_PAR={{fb|PAR|1990}}
+|name_TRI={{fb|TRI}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2006 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*England advanced to play Ecuador (runner-up of [[2006 FIFA World Cup Group A|Group A]]) in the [[2006 FIFA World Cup knockout stage#England vs Ecuador|round of 16]].
+*Sweden advanced to play Germany (winner of [[2006 FIFA World Cup Group A|Group A]]) in the [[2006 FIFA World Cup knockout stage#Germany vs Sweden|round of 16]].
+
+==Matches==
+''All times local ([[Central European Summer Time|CEST/UTC+2]])''
+
+===England vs Paraguay===
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|2006|6|10|df=y}}
+|time=15:00
+|team1={{fb-rt|ENG}}
+|score={{score link|2006 FIFA World Cup Group B#England vs Paraguay|1–0}}
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Carlos Gamarra|Gamarra]] {{goal|4|o.g.}}
+|goals2=
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=48,000
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410003 |title=England vs Paraguay {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410003/index.html |title=2006 FIFA World Cup Germany – Matches – England v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228214844/http://www.fifa.com/worldcup/matches/round=97410100/match=97410003/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/03_0610_frf_eng-par_fulltime__1149955396.pdf |title=Match Report – Group B – England v Paraguay |publisher=[[FIFA]] |date=10 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053709/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/03_0610_frf_eng-par_fulltime__1149955396.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _engh06
+ |pattern_b  = _engh06
+ |pattern_ra = _engh06
+ |pattern_sh = _engh06
+ |pattern_so = _engh06
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 2A325E
+ |socks      = FFFFFF
+ |title      = England
+}}
+|{{Football kit
+| pattern_la            = _par06a2
+| pattern_b             = _par06a2
+| pattern_ra            = _par06a2
+| pattern_sh            = _puma0607white
+| pattern_so            = _puma_2006_white
+| leftarm               = 0040F0
+| body                  = 0040F0
+| rightarm              = 0040F0
+| shorts                = 0040F0
+| socks                 = 0040F0
+ |title      = Paraguay
+}}
+|}
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Paul Robinson (footballer, born 1979)|Paul Robinson]]
+|-
+|RB ||'''2''' ||[[Gary Neville]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[John Terry]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||[[Steven Gerrard]] || {{yel|19}}
+|-
+|CM ||'''8''' ||[[Frank Lampard]]
+|-
+|LM ||'''11'''||[[Joe Cole]] || || {{suboff|83}}
+|-
+|CF ||'''10'''||[[Michael Owen]] || || {{suboff|56}}
+|-
+|CF ||'''21'''||[[Peter Crouch]] || {{yel|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Stewart Downing]] || || {{subon|56}}
+|-
+|MF ||'''16'''||[[Owen Hargreaves]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|valign="top"|[[File:ENG-PAR 2006-06-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Justo Villar]] || || {{suboff|8}}
+|-
+|RB ||'''21'''||[[Denis Caniza]]
+|-
+|CB ||'''5''' ||[[Julio César Cáceres]]
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Delio Toledo]] || || {{suboff|82}}
+|-
+|RM ||'''6''' ||[[Carlos Bonet]] || || {{suboff|68}}
+|-
+|CM ||'''10'''||[[Roberto Acuña]]
+|-
+|CM ||'''13'''||[[Carlos Humberto Paredes|Carlos Paredes]]
+|-
+|LM ||'''16'''||[[Cristian Riveros]]
+|-
+|CF ||'''9''' ||[[Roque Santa Cruz]]
+|-
+|CF ||'''18'''||[[Nelson Valdez]] || {{yel|22}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''22'''||[[Aldo Bobadilla]] || || {{subon|8}}
+|-
+|FW ||'''23'''||[[Nelson Cuevas]] || || {{subon|68}}
+|-
+|DF ||'''2''' ||[[Jorge Martín Núñez|Jorge Núñez]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Aníbal Ruiz]]
+|}
+|}
+{{wikinews|England wins first match with 1-0 victory in Group B}}[[File:2006-06-10 - United Kingdom - England- London - Trafalgar Square - World Cup 4888950534.jpg|thumb|238px|English supporters celebrate their victory over Paraguay]]
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Frank Lampard]] (England)
+
+'''Assistant referees:'''
+<br />José Luis Camargo ([[Mexican Football Federation|Mexico]])
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''Fourth official:'''
+<br />[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+<br />'''Fifth official:'''
+<br />Celestin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+|}
+
+===Trinidad and Tobago vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|2006|6|10|df=y}}
+|time=18:00
+|team1={{fb-rt|TRI}}
+|score={{score link|2006 FIFA World Cup Group B#Trinidad and Tobago vs Sweden|0–0}}
+|team2={{fb|SWE}}
+|goals1=
+|goals2=
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=62,959
+|referee=[[Shamsul Maidin]] ([[Football Association of Singapore|Singapore]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410004 |title=Trinidad and Tobago vs Sweden {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410004/index.html |title=2006 FIFA World Cup Germany – Matches – Trinidad and Tobago v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202052859/http://www.fifa.com/worldcup/matches/round=97410100/match=97410004/index.html |archive-date=2 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/04_0610_dor_tri-swe_fulltime__1149962635.pdf |title=Match Report – Group B – Trinidad & Tobago v Sweden |publisher=[[FIFA]] |date=10 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053733/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/04_0610_dor_tri-swe_fulltime__1149962635.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _tri06H
+ |pattern_b  = _tri06H
+ |pattern_ra = _tri06H
+ |pattern_sh = _tri06h
+ |pattern_so = _adidasblackl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Trinidad and Tobago
+}}
+|{{Football kit
+ |pattern_la = _sweh06
+ |pattern_b  = _sweh06
+ |pattern_ra = _sweh06
+ |pattern_sh = _swedenhalt0608
+ |pattern_so = 
+ |leftarm    = FCD20E
+ |body       = FCD20E
+ |rightarm   = FCD20E
+ |shorts     = FCD20E
+ |socks      = FCD20E
+ |title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Shaka Hislop]]
+|-
+|RB ||'''8''' ||[[Cyd Gray]]
+|-
+|CB ||'''5''' ||[[Brent Sancho]]
+|-
+|CB ||'''6''' ||[[Dennis Lawrence]]
+|-
+|LB ||'''3''' ||[[Avery John]] || {{sent off|2|15|46}}
+|-
+|RM ||'''11'''||[[Carlos Edwards]]
+|-
+|CM ||'''7''' ||[[Chris Birchall]]
+|-
+|CM ||'''19'''||[[Dwight Yorke]] ([[Captain (association football)|c]]) || {{yel|74}}
+|-
+|LM ||'''18'''||[[Densill Theobald]] || || {{suboff|66}}
+|-
+|CF ||'''14'''||[[Stern John]]
+|-
+|CF ||'''12'''||[[Collin Samuel]] || || {{suboff|52}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Cornell Glen]] || || {{subon|52}}
+|-
+|MF ||'''9''' ||[[Aurtis Whitley]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Leo Beenhakker]]
+|}
+|valign="top"|[[File:TRI-SWE 2006-06-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''23'''||[[Rami Shaaban]]
+|-
+|RB ||'''7''' ||[[Niclas Alexandersson]]
+|-
+|CB ||'''3''' ||[[Olof Mellberg]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Teddy Lučić]]
+|-
+|LB ||'''5''' ||[[Erik Edman]]
+|-
+|RM ||'''21'''||[[Christian Wilhelmsson]] || || {{suboff|78}}
+|-
+|CM ||'''6''' ||[[Tobias Linderoth]] || || {{suboff|78}}
+|-
+|CM ||'''8''' ||[[Anders Svensson (footballer, born 1976)|Anders Svensson]] || || {{suboff|62}}
+|-
+|LM ||'''9''' ||[[Freddie Ljungberg]]
+|-
+|CF ||'''10'''||[[Zlatan Ibrahimović]]
+|-
+|CF ||'''11'''||[[Henrik Larsson]] || {{yel|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Marcus Allbäck]] || ||{{subon|62}}
+|-
+|FW ||'''18'''||[[Mattias Jonson]] || || {{subon|78}}
+|-
+|MF ||'''16'''||[[Kim Källström]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Lars Lagerbäck]]
+|}
+|}
+{{wikinews|Trinidad and Tobago hold Sweden in second Group B match}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Dwight Yorke]] (Trinidad and Tobago)
+
+'''Assistant referees:'''
+<br />Prachya Permpanich ([[Football Association of Thailand|Thailand]])
+<br />Eisa Gholoum ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''Fourth official:'''
+<br />[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+<br />'''Fifth official:'''
+<br />Fernando Tamayo ([[Ecuadorian Football Federation|Ecuador]])
+|}
+
+===England vs Trinidad and Tobago===
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|2006|6|15|df=y}}
+|time=18:00
+|team1={{fb-rt|ENG}}
+|score={{score link|2006 FIFA World Cup Group B#England vs Trinidad and Tobago|2–0}}
+|team2={{fb|TRI}}
+|goals1=
+*[[Peter Crouch|Crouch]] {{goal|83}}
+*[[Steven Gerrard|Gerrard]] {{goal|90+1}}
+|goals2=
+|stadium=[[Max-Morlock-Stadion|Frankenstadion]], [[Nuremberg]]
+|attendance=41,000
+|referee=[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410019 |title=England vs Trinidad and Tobago {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410019/index.html |title=2006 FIFA World Cup Germany – Matches – England v Trinidad and Tobago |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171130150823/http://www.fifa.com/worldcup/matches/round=97410100/match=97410019/index.html |archive-date=30 November 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/19_0615_nur_eng-tri_fulltime__1150394584.pdf |title=Match Report – Group B – England v Trinidad & Tobago |publisher=[[FIFA]] |date=15 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054125/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/19_0615_nur_eng-tri_fulltime__1150394584.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _engh06
+ |pattern_b  = _engh06
+ |pattern_ra = _engh06
+ |pattern_sh = _engh06
+ |pattern_so = _engh06
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 2A325E
+ |socks      = FFFFFF
+ |title      = England
+}}
+|{{Football kit
+ |pattern_la = _tri06H
+ |pattern_b  = _tri06H
+ |pattern_ra = _tri06H
+ |pattern_sh = _tri06a
+ |pattern_so = _adidasblackl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Trinidad and Tobago
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Paul Robinson (footballer, born 1979)|Paul Robinson]]
+|-
+|RB ||'''15'''||[[Jamie Carragher]] || || {{suboff|58}}
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[John Terry]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||[[Steven Gerrard]]
+|-
+|CM ||'''8''' ||[[Frank Lampard]] || {{yel|64}}
+|-
+|LM ||'''11'''||[[Joe Cole]] || || {{suboff|74}}
+|-
+|CF ||'''10'''||[[Michael Owen]] || || {{suboff|58}}
+|-
+|CF ||'''21'''||[[Peter Crouch]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Wayne Rooney]] || || {{subon|58}}
+|-
+|MF ||'''19'''||[[Aaron Lennon]] || || {{subon|58}}
+|-
+|MF ||'''20'''||[[Stewart Downing]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|valign="top"|[[File:ENG-TRI 2006-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Shaka Hislop]] || {{yel|47}}
+|-
+|RB ||'''11'''||[[Carlos Edwards]]
+|-
+|CB ||'''5''' ||[[Brent Sancho]]
+|-
+|CB ||'''6''' ||[[Dennis Lawrence]]
+|-
+|LB ||'''8''' ||[[Cyd Gray]] || {{yel|55}}
+|-
+|RM ||'''7''' ||[[Chris Birchall]]
+|-
+|CM ||'''9''' ||[[Aurtis Whitley]] || {{yel|19}}
+|-
+|CM ||'''19'''||[[Dwight Yorke]] ([[Captain (association football)|c]])
+|-
+|LM ||'''18'''||[[Densill Theobald]] || {{yel|18}} || {{suboff|85}}
+|-
+|CF ||'''15'''||[[Kenwyne Jones]] || {{yel|45+1}} || {{suboff|70}}
+|-
+|CF ||'''14'''||[[Stern John]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Cornell Glen]] || || {{subon|70}}
+|-
+|FW ||'''16'''||[[Evans Wise]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Leo Beenhakker]]
+|}
+|}
+{{wikinews|England beat Trinidad and Tobago 2-0 in Group B}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[David Beckham]] (England)
+
+'''Assistant referees:'''
+<br />Yoshikazu Hiroshima ([[Japan Football Association|Japan]])
+<br />Kim Dae-young ([[Korea Football Association|South Korea]])
+<br />'''Fourth official:'''
+<br />[[Kevin Stott]] ([[United States Soccer Federation|United States]])
+<br />'''Fifth official:'''
+<br />Chris Strickland ([[United States Soccer Federation|United States]])
+|}
+
+===Sweden vs Paraguay===
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|2006|6|15|df=y}}
+|time=21:00
+|team1={{fb-rt|SWE}}
+|score={{score link|2006 FIFA World Cup Group B#Sweden vs Paraguay|1–0}}
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Freddie Ljungberg|Ljungberg]] {{goal|89}}
+|goals2=
+|stadium=[[Olympiastadion (Berlin)|Olympiastadion]], [[Berlin]]
+|attendance=72,000
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410020 |title=Sweden vs Paraguay {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410020/index.html |title=2006 FIFA World Cup Germany – Matches – Sweden v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229064609/http://www.fifa.com/worldcup/matches/round=97410100/match=97410020/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/20_0615_brl_swe-par_fulltime__1150405739.pdf |title=Match Report – Group B – Sweden v Paraguay |publisher=[[FIFA]] |date=15 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054143/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/20_0615_brl_swe-par_fulltime__1150405739.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sweh06
+ |pattern_b  = _sweh06
+ |pattern_ra = _sweh06
+ |pattern_sh = _swedenhalt0608
+ |pattern_so = 
+ |leftarm    = FCD20E
+ |body       = FCD20E
+ |rightarm   = FCD20E
+ |shorts     = FCD20E
+ |socks      = FCD20E
+ |title      = Sweden
+}}
+|{{Football kit
+ | pattern_la            = _par06h2
+| pattern_b             = _par06h2
+| pattern_ra            = _par06h2
+| pattern_sh            = _puma0607white
+| pattern_so            = _puma_2006_white
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = 0040F0
+| socks                 = 0040F0
+ |title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Isaksson]]
+|-
+|RB ||'''7''' ||[[Niclas Alexandersson]]
+|-
+|CB ||'''3''' ||[[Olof Mellberg]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Teddy Lučić]] || {{yel|48}}
+|-
+|LB ||'''5''' ||[[Erik Edman]]
+|-
+|RM ||'''21'''||[[Christian Wilhelmsson]] || || {{suboff|68}}
+|-
+|CM ||'''16'''||[[Kim Källström]] || || {{suboff|86}}
+|-
+|CM ||'''6''' ||[[Tobias Linderoth]] || {{yel|14}}
+|-
+|LM ||'''9''' ||[[Freddie Ljungberg]]
+|-
+|CF ||'''10'''||[[Zlatan Ibrahimović]] || || {{suboff|46}}
+|-
+|CF ||'''11'''||[[Henrik Larsson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Marcus Allbäck]] || {{yel|60}} || {{subon|46}}
+|-
+|FW ||'''18'''||[[Mattias Jonson]] || || {{subon|68}}
+|-
+|FW ||'''17'''||[[Johan Elmander]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Lars Lagerbäck]]
+|}
+|valign="top"|[[File:SWE-PAR 2006-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Aldo Bobadilla]]
+|-
+|RB ||'''21'''||[[Denis Caniza]] || {{yel|3}}
+|-
+|CB ||'''5''' ||[[Julio César Cáceres]]
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]] ([[Captain (association football)|c]])
+|-
+|LB ||'''2''' ||[[Jorge Martín Núñez|Jorge Núñez]] || {{yel|54}}
+|-
+|RM ||'''6''' ||[[Carlos Bonet]] || || {{suboff|81}}
+|-
+|CM ||'''10'''||[[Roberto Acuña]] || {{yel|51}}
+|-
+|CM ||'''13'''||[[Carlos Humberto Paredes|Carlos Paredes]] || {{yel|74}}
+|-
+|LM ||'''16'''||[[Cristian Riveros]] || || {{suboff|62}}
+|-
+|CF ||'''18'''||[[Nelson Valdez]]
+|-
+|CF ||'''9''' ||[[Roque Santa Cruz]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Julio dos Santos]] || || {{subon|62}}
+|-
+|FW ||'''20'''||[[Dante López]] || || {{subon|63}}
+|-
+|MF ||'''8''' ||[[Edgar Barreto]] || {{yel|85}} || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Aníbal Ruiz]]
+|}
+|}
+{{wikinews|Sweden stun Paraguay two minutes from time in Group B}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Freddie Ljungberg]] (Sweden)
+
+'''Assistant referees:'''
+<br />Roman Slyško ([[Slovak Football Association|Slovakia]])
+<br />Martin Balko ([[Slovak Football Association|Slovakia]])
+<br />'''Fourth official:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''Fifth official:'''
+<br />Enock Molefe ([[South African Football Association|South Africa]])
+|}
+
+===Sweden vs England===
+The fixture was a repeat of the two teams' opening [[2002 FIFA World Cup Group F#England vs Sweden|match at the 2002 tournament]], also ending in a draw.
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|2006|6|20|df=y}}
+|time=21:00
+|team1={{fb-rt|SWE}}
+|score={{score link|2006 FIFA World Cup Group B#Sweden vs England|2–2}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Marcus Allbäck|Allbäck]] {{goal|51}}
+*[[Henrik Larsson|Larsson]] {{goal|90}}
+|goals2=
+*[[Joe Cole|J. Cole]] {{goal|34}}
+*[[Steven Gerrard|Gerrard]] {{goal|85}}
+|stadium=[[RheinEnergieStadion]], [[Cologne]]
+|attendance=45,000
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410035 |title=Sweden vs England {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410035/index.html |title=2006 FIFA World Cup Germany – Matches – Sweden v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228220014/http://www.fifa.com/worldcup/matches/round=97410100/match=97410035/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/35_0620_cgn_swe-eng_fulltime__1150837175.pdf |title=Match Report – Group B – Sweden v England |publisher=[[FIFA]] |date=20 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054502/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/35_0620_cgn_swe-eng_fulltime__1150837175.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sweh06
+ |pattern_b  = _sweh06
+ |pattern_ra = _sweh06
+ |pattern_sh = _sweh06
+ |pattern_so = 
+ |leftarm    = FCD20E
+ |body       = FCD20E
+ |rightarm   = FCD20E
+ |shorts     = 004FA3
+ |socks      = FCD20E
+ |title      = Sweden
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _eng06away
+ |pattern_ra = 
+ |pattern_sh = _enga06
+ |pattern_so = 
+ |leftarm    = E23222
+ |body       = E23222
+ |rightarm   = E23222
+ |shorts     = E23222
+ |socks      = E23222
+ |title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Isaksson]]
+|-
+|RB ||'''7''' ||[[Niclas Alexandersson]] || {{yel|83}}
+|-
+|CB ||'''3''' ||[[Olof Mellberg]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Teddy Lučić]]
+|-
+|LB ||'''5''' ||[[Erik Edman]]
+|-
+|RM ||'''18'''||[[Mattias Jonson]] || || {{suboff|54}}
+|-
+|CM ||'''16'''||[[Kim Källström]]
+|-
+|CM ||'''6''' ||[[Tobias Linderoth]] || || {{suboff|90+1}}
+|-
+|LM ||'''9''' ||[[Freddie Ljungberg]] || {{yel|87}}
+|-
+|CF ||'''20'''||[[Marcus Allbäck]] || || {{suboff|75}}
+|-
+|CF ||'''11'''||[[Henrik Larsson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Christian Wilhelmsson]] || || {{subon|54}}
+|-
+|FW ||'''17'''||[[Johan Elmander]] || || {{subon|75}}
+|-
+|MF ||'''19'''||[[Daniel Andersson (footballer, born 1977)|Daniel Andersson]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Lars Lagerbäck]]
+|}
+|valign="top"|[[File:SWE-ENG 2006-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Paul Robinson (footballer, born 1979)|Paul Robinson]]
+|-
+|RB ||'''15'''||[[Jamie Carragher]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]] || || {{suboff|56}}
+|-
+|CB ||'''6''' ||[[John Terry]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]])
+|-
+|CM ||'''16'''||[[Owen Hargreaves]] || {{yel|76}}
+|-
+|CM ||'''8''' ||[[Frank Lampard]]
+|-
+|LM ||'''11'''||[[Joe Cole]]
+|-
+|CF ||'''9''' ||[[Wayne Rooney]] || || {{suboff|69}}
+|-
+|CF ||'''10'''||[[Michael Owen]] || || {{suboff|4}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Peter Crouch]] || || {{subon|4}}
+|-
+|DF ||'''12'''||[[Sol Campbell]] || || {{subon|56}}
+|-
+|MF ||'''4''' ||[[Steven Gerrard]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+{{wikinews|Sweden score late against England for 2-2 draw in Group B}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Joe Cole]] (England)
+
+'''Assistant referees:'''
+<br />Francesco Buragina ([[Swiss Football Association|Switzerland]])
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+<br />'''Fourth official:'''
+<br />[[Khalil Al Ghamdi]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />'''Fifth official:'''
+<br />Fathi Arabati ([[Jordan Football Association|Jordan]])
+|}
+
+===Paraguay vs Trinidad and Tobago===
+<onlyinclude>{{#invoke:Football box|main|section=B6
+|date={{Start date|2006|6|20|df=y}}
+|time=21:00
+|team1={{fb-rt|PAR|1990}}
+|score={{score link|2006 FIFA World Cup Group B#Paraguay vs Trinidad and Tobago|2–0}}
+|team2={{fb|TRI}}
+|goals1=
+*[[Brent Sancho|Sancho]] {{goal|25|o.g.}}
+*[[Nelson Cuevas|Cuevas]] {{goal|86}}
+|goals2=
+|stadium=[[Fritz-Walter-Stadion]], [[Kaiserslautern]]
+|attendance=46,000
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410036 |title=Paraguay vs Trinidad and Tobago {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410036/index.html |title=2006 FIFA World Cup Germany – Matches – Paraguay v Trinidad and Tobago |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218041825/http://www.fifa.com/worldcup/matches/round=97410100/match=97410036/index.html |archive-date=18 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/36_0620_kai_par-tri_fulltime__1150837280.pdf |title=Match Report – Group B – Paraguay v Trinidad & Tobago |publisher=[[FIFA]] |date=20 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054518/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/36_0620_kai_par-tri_fulltime__1150837280.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _par06a2
+| pattern_b             = _par06a2
+| pattern_ra            = _par06a2
+| pattern_sh            = _puma0607white
+| pattern_so            = _puma_2006_white
+| leftarm               = 0040F0
+| body                  = 0040F0
+| rightarm              = 0040F0
+| shorts                = 0040F0
+| socks                 = 0040F0
+ |title      = Paraguay
+}}
+|{{Football kit
+ |pattern_la = _tri06A
+ |pattern_b  = _tri06A
+ |pattern_ra = _tri06A
+ |pattern_sh = _tri0608t
+ |pattern_so = _3_stripes_on_white
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Trinidad and Tobago
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Aldo Bobadilla]]
+|-
+|RB ||'''21'''||[[Denis Caniza]] || || {{suboff|89}}
+|-
+|CB ||'''5''' ||[[Julio César Cáceres]] || || {{suboff|77}}
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]] ([[Captain (association football)|c]])
+|-
+|LB ||'''2''' ||[[Jorge Martín Núñez|Jorge Núñez]]
+|-
+|RM ||'''8''' ||[[Edgar Barreto]]
+|-
+|CM ||'''10'''||[[Roberto Acuña]]
+|-
+|CM ||'''13'''||[[Carlos Humberto Paredes|Carlos Paredes]] || {{yel|30}}
+|-
+|LM ||'''19'''||[[Julio dos Santos]] || {{yel|54}}
+|-
+|CF ||'''18'''||[[Nelson Valdez]] || || {{suboff|66}}
+|-
+|CF ||'''9''' ||[[Roque Santa Cruz]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''23'''||[[Nelson Cuevas]] || || {{subon|66}}
+|-
+|DF ||'''15'''||[[Julio Manzur]] || || {{subon|77}}
+|-
+|DF ||'''14'''||[[Paulo da Silva]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Aníbal Ruiz]]
+|}
+|valign="top"|[[File:PAR-TRI 2006-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Kelvin Jack]]
+|-
+|RB ||'''11'''||[[Carlos Edwards]]
+|-
+|CB ||'''5''' ||[[Brent Sancho]] || {{yel|45}}
+|-
+|CB ||'''6''' ||[[Dennis Lawrence]]
+|-
+|LB ||'''3''' ||[[Avery John]] || || {{suboff|31}}
+|-
+|RM ||'''7''' ||[[Chris Birchall]]
+|-
+|CM ||'''9''' ||[[Aurtis Whitley]] || {{yel|48}} || {{suboff|67}}
+|-
+|CM ||'''19'''||[[Dwight Yorke]] ([[Captain (association football)|c]])
+|-
+|LM ||'''18'''||[[Densill Theobald]]
+|-
+|CF ||'''13'''||[[Cornell Glen]] || || {{suboff|41}}
+|-
+|CF ||'''14'''||[[Stern John]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Kenwyne Jones]] || || {{subon|31}}
+|-
+|MF ||'''16'''||[[Evans Wise]] || || {{subon|41}}
+|-
+|MF ||'''10'''||[[Russell Latapy]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Leo Beenhakker]]
+|}
+|}
+{{wikinews|Paraguay beat Trinidad and Tobago 2-0 in Group B}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Julio dos Santos]] (Paraguay)
+
+'''Assistant referees:'''
+<br />Cristiano Copelli ([[Italian Football Federation|Italy]])
+<br />Alessandro Stagnelli ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''
+<br />[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+<br />'''Fifth official:'''
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])
+|}
+
+==See also==
+*[[England at the FIFA World Cup]]
+*[[Paraguay at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+*[[Trinidad and Tobago at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2006 FIFA World Cup}}
+
+[[Category:2006 FIFA World Cup group stage|B group]]
+[[Category:Sweden at the 2006 FIFA World Cup|Group]]
+[[Category:Paraguay at the 2006 FIFA World Cup|Group]]
+[[Category:England at the 2006 FIFA World Cup|Group]]
+[[Category:Trinidad and Tobago at the 2006 FIFA World Cup|Group]]
+[[Category:Football competitions in Frankfurt]]
+[[Category:Football in North Rhine-Westphalia]]
+[[Category:Sports competitions in Dortmund]]
+[[Category:Football in Middle Franconia]]
+[[Category:Sports competitions in Nuremberg]]
+[[Category:Football competitions in Berlin]]
+[[Category:Sports competitions in Cologne]]
+[[Category:Football in Rhineland-Palatinate]]
+[[Category:Kaiserslautern]]
+[[Category:2000s in North Rhine-Westphalia]]
+[[Category:21st century in Dortmund]]
+[[Category:2000s in Frankfurt]]
+[[Category:2000s in Cologne]]
+[[Category:21st century in Nuremberg]]
+[[Category:2006 in Bavaria]]
+[[Category:21st century in Rhineland-Palatinate]]

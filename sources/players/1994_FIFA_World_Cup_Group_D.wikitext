@@ -1,0 +1,879 @@
+{{Short description|Football tournament group stage}}
+{{Use mdy dates|date=April 2026}}
+{{Use American English|date=April 2024}}
+'''Group D of the 1994 FIFA World Cup''' was one of six groups of four teams competing at the [[1994 FIFA World Cup|1994 World Cup]] in the United States. The first match was played June 21, 1994, and the final games took place simultaneously on June 30, 1994.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|archive-url=https://web.archive.org/web/20131220184449/http://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|url-status=dead|archive-date=December 20, 2013|title=1994 FIFA World Cup USA|publisher=fifa.com|accessdate=July 31, 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/94full.html|title=World Cup 1994|website=[[RSSSF]]|accessdate=July 31, 2014}}</ref>
+
+The group consisted of [[Argentina national football team|Argentina]], [[Greece national football team|Greece]], [[Nigeria national football team|Nigeria]], and [[Bulgaria national football team|Bulgaria]]. Nigeria won the group on goal difference, Bulgaria finished second, and Argentina qualified as one of the best third-placed teams (Bulgaria defeated Argentina in the group stage, thus their higher rank). Bulgaria and Argentina had previously met before in the group stage, in 1962; neither team advanced into the knockout stage. Bulgaria and Argentina had also met in 1986, both teams advanced to the knockout stage.
+
+Group D was also notable for the end of [[Diego Maradona]]'s international career. Maradona, who was Argentina's captain and star player, was found to contain ephedrine, a performance-enhancing stimulant, in his system after being subjected to an anti-doping test held during their match with Nigeria.<ref>{{cite web|title=After Second Test, Maradona Is Out of World Cup|url=https://www.nytimes.com/1994/07/01/sports/world-cup-94-after-second-test-maradona-is-out-of-world-cup.html|work=The New York Times|accessdate=July 15, 2018}}</ref> In his absence, Argentina would lose their final group match against Bulgaria, and were eliminated by Romania 3–2 at the Round of 16. Maradona's only goal in the tournament against Greece would prove to be his last for Argentina.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/usa1994/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=NGA
+|team2=BUL
+|team3=ARG
+|team4=GRE
+|hth_BUL=Head-to-head result: Argentina 0–2 Bulgaria. |hth_ARG=BUL
+
+|result1=KO
+|result2=KO
+|result3=KO
+
+|win_NGA=2 |draw_NGA=0 |loss_NGA=1 |gf_NGA=6 |ga_NGA=2
+|win_BUL=2 |draw_BUL=0 |loss_BUL=1 |gf_BUL=6 |ga_BUL=3
+|win_ARG=2 |draw_ARG=0 |loss_ARG=1 |gf_ARG=6 |ga_ARG=3
+|win_GRE=0 |draw_GRE=0 |loss_GRE=3 |gf_GRE=0 |ga_GRE=10
+
+|name_NGA={{fb|NGA}}
+|name_BUL={{fb|BUL}}
+|name_ARG={{fb|ARG|1861}}
+|name_GRE={{fb|GRE}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1994 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times local ([[Eastern Time Zone|EDT]]/[[UTC−04:00|UTC–4]], [[Central Time Zone (North America)|CDT]]/[[UTC−05:00|UTC–5]], [[Pacific Time Zone|PDT]]/[[UTC−07:00|UTC–7]])''
+
+===Argentina vs Greece===
+<onlyinclude>{{#invoke:Football box|main|section=D1
+|date={{Start date|1994|6|21}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1994 FIFA World Cup Group D#Argentina vs Greece|4–0}}
+|team2={{fb|GRE}}
+|goals1=
+*[[Gabriel Batistuta|Batistuta]] {{goal|2||45||90+2|pen.}}
+*[[Diego Maradona|Maradona]] {{goal|60}}
+|goals2=
+|stadium=[[Foxboro Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=54,456
+|referee=[[Arturo Angeles]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3059 |title=Argentina vs Greece {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3059/index.html |title=1994 FIFA World Cup USA – Matches – Argentina v Greece |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210005320/http://www.fifa.com/worldcup/matches/round=337/match=3059/index.html |archive-date=December 10, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _arg94a
+| pattern_b  = _arg94a1
+| pattern_ra = _arg94a
+| pattern_sh = _arg94a
+| pattern_so = _adidas_thick_stripes_black
+| leftarm    = 0030E0
+| body       = 0030E0
+| rightarm   = 0030E0
+| shorts     = 0030E0
+| socks      = 0030E0
+| title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _gre94a
+ | pattern_ra = 
+ | pattern_sh = _blankbottom
+ | pattern_so = _2bluestripes
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 2E4998
+ | socks      = FFFFFF
+ | title      = Greece
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Luis Islas]]
+|-
+|RB ||'''4''' ||[[Roberto Sensini]]
+|-
+|CB ||'''13'''||[[Fernando Cáceres]] || {{yel|40}}
+|-
+|CB ||'''6''' ||[[Oscar Ruggeri]]
+|-
+|LB ||'''3''' ||[[José Chamot]]
+|-
+|CM ||'''14'''||[[Diego Simeone]]
+|-
+|CM ||'''5''' ||[[Fernando Redondo]]
+|-
+|AM ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]]) || || {{suboff|84}}
+|-
+|RF ||'''7''' ||[[Claudio Caniggia]]
+|-
+|CF ||'''9''' ||[[Gabriel Batistuta]]
+|-
+|LF ||'''19'''||[[Abel Balbo]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Alejandro Mancuso]] || || {{subon|81}}
+|-
+|FW ||'''17'''||[[Ariel Ortega]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alfio Basile]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Antonis Minou]]
+|-
+|RB ||'''2''' ||[[Stratos Apostolakis]]
+|-
+|CB ||'''4''' ||[[Stelios Manolas]] || {{yel|55}}
+|-
+|CB ||'''5''' ||[[Giannis Kalitzakis]]
+|-
+|LB ||'''3''' ||[[Thanasis Kolitsidakis]]
+|-
+|CM ||'''19'''||[[Savvas Kofidis]]
+|-
+|CM ||'''6''' ||[[Panagiotis Tsalouchidis]] || {{yel|25}}
+|-
+|CM ||'''8''' ||[[Nikos Nioplias]]
+|-
+|RF ||'''7''' ||[[Dimitris Saravakos]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Nikos Machlas]] || || {{suboff|59}}
+|-
+|LF ||'''11'''||[[Nikos Tsiantakis]] || || {{suboff|45}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''12'''||[[Spyros Marangos]] || || {{subon|45}}
+|-
+|MF ||'''10'''||[[Tasos Mitropoulos]] || || {{subon|59}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alketas Panagoulias]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Park Hae-yong ([[Korea Football Association|South Korea]])
+<br />Jan Dolstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Nigeria vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=D2
+|date={{Start date|1994|6|21}}
+|time=6:30&nbsp;p.m. [[Central Time Zone (North America)|CDT]]
+|team1={{fb-rt|NGA}}
+|score={{score link|1994 FIFA World Cup Group D#Nigeria vs Bulgaria|3–0}}
+|team2={{fb|BUL}}
+|goals1=
+*[[Rashidi Yekini|Yekini]] {{goal|21}}
+*[[Daniel Amokachi|Amokachi]] {{goal|43}}
+*[[Emmanuel Amunike|Amunike]] {{goal|55}}
+|goals2=
+|stadium=[[Cotton Bowl (stadium)|Cotton Bowl]], [[Dallas]]
+|attendance=44,132
+|referee=[[Rodrigo Badilla]] ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3061 |title=Nigeria vs Bulgaria {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3061/index.html |title=1994 FIFA World Cup USA – Matches – Nigeria v Bulgaria |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211073542/http://www.fifa.com/worldcup/matches/round=337/match=3061/index.html |archive-date=December 11, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _nigeria1994a
+ | pattern_b  = _nigeria1994a
+ | pattern_ra = _nigeria1994a
+ | pattern_sh = _nga94h1
+ | pattern_so = _adidas_thick_stripes_green
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 009933
+ | socks      = FFFFFF
+ | title      = Nigeria
+}}
+|{{Football kit
+ | pattern_la = _bul94a
+ | pattern_b  = _bul94a
+ | pattern_ra = _bul94a
+ | pattern_sh = _nor94h
+ | pattern_so = _adidas_thick_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Augustine Eguavoen]]
+|-
+|CB ||'''5''' ||[[Uche Okechukwu]]
+|-
+|CB ||'''6''' ||[[Chidi Nwanu]]
+|-
+|LB ||'''3''' ||[[Benedict Iroha]]
+|-
+|DM ||'''15'''||[[Sunday Oliseh]]
+|-
+|RM ||'''7''' ||[[Finidi George]] || || {{suboff|77}}
+|-
+|CM ||'''12'''||[[Samson Siasia]] || || {{suboff|69}}
+|-
+|LM ||'''11'''||[[Emmanuel Amunike]] || {{yel|73}}
+|-
+|CF ||'''9''' ||[[Rashidi Yekini]]
+|-
+|CF ||'''14'''||[[Daniel Amokachi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Mutiu Adepoju]] || || {{subon|69}}
+|-
+|DF ||'''13'''||[[Emeka Ezeugo]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Clemens Westerhof]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Emil Kremenliev]]
+|-
+|CB ||'''3''' ||[[Trifon Ivanov]]
+|-
+|CB ||'''5''' ||[[Petar Hubchev]]
+|-
+|LB ||'''4''' ||[[Tsanko Tsvetanov]]
+|-
+|RM ||'''11'''||[[Daniel Borimirov]] || || {{suboff|73}}
+|-
+|CM ||'''6''' ||[[Zlatko Yankov]]
+|-
+|CM ||'''9''' ||[[Yordan Letchkov]] || {{yel|54}} || {{suboff|59}}
+|-
+|LM ||'''20'''||[[Krasimir Balakov]]
+|-
+|CF ||'''7''' ||[[Emil Kostadinov]]
+|-
+|CF ||'''8''' ||[[Hristo Stoichkov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Nasko Sirakov]] || || {{subon|59}}
+|-
+|FW ||'''13'''||[[Ivaylo Yordanov]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dimitar Penev]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Gordon Dunster ([[Football Federation Australia|Australia]])
+<br />Eugene Brazzale ([[Football Federation Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|}
+
+===Argentina vs Nigeria===
+<onlyinclude>{{#invoke:Football box|main|section=D3
+|date={{Start date|1994|6|25}}
+|time=4:00&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1994 FIFA World Cup Group D#Argentina vs Nigeria|2–1}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Claudio Caniggia|Caniggia]] {{goal|21||28}}
+|goals2=
+*[[Samson Siasia|Siasia]] {{goal|8}}
+|stadium=[[Foxboro Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=54,453
+|referee=[[Bo Karlsson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3071 |title=Argentina vs Nigeria {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3071/index.html |title=1994 FIFA World Cup USA – Matches – Argentina v Nigeria |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228092506/http://www.fifa.com/worldcup/matches/round=337/match=3071/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _arg9495h
+ | pattern_b  = _arg9495h
+ | pattern_ra = _arg9495h
+ | pattern_sh = _arg_94_home
+ | pattern_so = _arg_94_home
+ | leftarm    = 6BB6FF
+ | body       = FFFFFF
+ | rightarm   = 6BB6FF
+ | shorts     = 000000
+ | socks      = 6BB6FF
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _nga94h1
+ | pattern_b  = _nga94
+ | pattern_ra = _nga94h1
+ | pattern_sh = _nga94h1
+ | pattern_so = _adidas_thick_stripes_white
+ | leftarm    = 009933
+ | body       = 009933
+ | rightarm   = 009933
+ | shorts     = 009933
+ | socks      = 009933
+ | title      = Nigeria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Luis Islas]]
+|-
+|DF ||'''4''' ||[[Roberto Sensini]] || || {{suboff|88}}
+|-
+|DF ||'''13'''||[[Fernando Cáceres]]
+|-
+|DF ||'''6''' ||[[Oscar Ruggeri]]
+|-
+|DF ||'''3''' ||[[José Chamot]]
+|-
+|MF ||'''14'''||[[Diego Simeone]]
+|-
+|MF ||'''5''' ||[[Fernando Redondo]]
+|-
+|MF ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|FW ||'''7''' ||[[Claudio Caniggia]] || {{yel|54}}
+|-
+|FW ||'''9''' ||[[Gabriel Batistuta]]
+|-
+|FW ||'''19'''||[[Abel Balbo]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Alejandro Mancuso]] || || {{subon|72}}
+|-
+|DF ||'''16'''||[[Hernán Díaz]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alfio Basile]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Augustine Eguavoen]] || {{yel|20}}
+|-
+|DF ||'''5''' ||[[Uche Okechukwu]]
+|-
+|DF ||'''6''' ||[[Chidi Nwanu]]
+|-
+|DF ||'''19'''||[[Michael Emenalo]] || {{yel|53}}
+|-
+|MF ||'''7''' ||[[Finidi George]]
+|-
+|MF ||'''12'''||[[Samson Siasia]] || || {{suboff|57}}
+|-
+|MF ||'''15'''||[[Sunday Oliseh]] || || {{suboff|88}}
+|-
+|MF ||'''11'''||[[Emmanuel Amunike]]
+|-
+|FW ||'''9''' ||[[Rashidi Yekini]]
+|-
+|FW ||'''14'''||[[Daniel Amokachi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Mutiu Adepoju]] || || {{subon|57}}
+|-
+|MF ||'''10'''||[[Jay-Jay Okocha]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Clemens Westerhof]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mikael Erik Everstig ([[Swedish Football Association|Sweden]])
+<br />Luc Matthys ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Leslie Mottram]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Bulgaria vs Greece===
+<onlyinclude>{{#invoke:Football box|main|section=D4
+|date={{Start date|1994|6|26}}
+|time=11:30&nbsp;a.m. [[Central Time Zone (North America)|CDT]]
+|team1={{fb-rt|BUL}}
+|score={{score link|1994 FIFA World Cup Group D#Bulgaria vs Greece|4–0}}
+|team2={{fb|GRE}}
+|goals1=
+*[[Hristo Stoichkov|Stoichkov]] {{goal|5|pen.|55|pen.}}
+*[[Yordan Letchkov|Letchkov]] {{goal|65}}
+*[[Daniel Borimirov|Borimirov]] {{goal|90}}
+|goals2=
+|stadium=[[Soldier Field]], [[Chicago]]
+|attendance=63,160
+|referee=[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3072 |title=Bulgaria vs Greece {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3072/index.html |title=1994 FIFA World Cup USA – Matches – Bulgaria v Greece |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228220922/http://www.fifa.com/worldcup/matches/round=337/match=3072/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bul94h
+ | pattern_b  = _bul94h
+ | pattern_ra = _bul94h
+ | pattern_sh = _bul94h
+ | pattern_so = _adidas_thick_stripes_green
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Bulgaria
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _gre94h
+ | pattern_ra = 
+ | pattern_sh = _blankbottom
+ | pattern_so = _2_stripes_white
+ | leftarm    = 2E4998
+ | body       = 2E4998
+ | rightarm   = 2E4998
+ | shorts     = 2E4998
+ | socks      = 2E4998
+ | title      = Greece
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Emil Kremenliev]]
+|-
+|CB ||'''3''' ||[[Trifon Ivanov]] || {{yel|26}}
+|-
+|CB ||'''5''' ||[[Petar Hubchev]] || {{yel|17}}
+|-
+|LB ||'''4''' ||[[Tsanko Tsvetanov]] || || {{suboff|77}}
+|-
+|DM ||'''6''' ||[[Zlatko Yankov]] || {{yel|33}}
+|-
+|CM ||'''9''' ||[[Yordan Letchkov]]
+|-
+|CM ||'''20'''||[[Krasimir Balakov]]
+|-
+|RF ||'''7''' ||[[Emil Kostadinov]] || || {{suboff|82}}
+|-
+|CF ||'''10'''||[[Nasko Sirakov]]
+|-
+|LF ||'''8''' ||[[Hristo Stoichkov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''16'''||[[Iliyan Kiryakov]] || || {{subon|77}}
+|-
+|MF ||'''11'''||[[Daniel Borimirov]] || {{yel|84}} || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dimitar Penev]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''20'''||[[Elias Atmatsidis]]
+|-
+|RB ||'''2''' ||[[Stratos Apostolakis]] ([[Captain (association football)|c]])
+|-
+|CB ||'''18'''||[[Kyriakos Karataidis]]
+|-
+|CB ||'''5''' ||[[Ioannis Kalitzakis]]
+|-
+|LB ||'''13'''||[[Vaios Karagiannis]] || {{yel|70}}
+|-
+|RM ||'''12'''||[[Spiros Marangos]]
+|-
+|CM ||'''19'''||[[Savvas Kofidis]]
+|-
+|CM ||'''17'''||[[Minas Hantzidis]] || {{yel|42}} || {{suboff|46}}
+|-
+|LM ||'''8''' ||[[Nikos Nioplias]]
+|-
+|CF ||'''9''' ||[[Nikos Machlas]]
+|-
+|CF ||'''16'''||[[Alexis Alexoudis]] || {{yel|6}} || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Tasos Mitropoulos]] || {{yel|59}} || {{subon|46}}
+|-
+|FW ||'''14'''||[[Vasilis Dimitriadis]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alketas Panagoulias]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Abdulla Al Ghattan ([[Bahrain Football Association|Bahrain]])
+<br />Raimundo Calix Garcia ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Arturo Angeles]] ([[United States Soccer Federation|United States]])
+|}
+
+===Argentina vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=D5
+|date={{Start date|1994|6|30}}
+|time=6:30&nbsp;p.m. [[Central Time Zone (North America)|CDT]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1994 FIFA World Cup Group D#Argentina vs Bulgaria|0–2}}
+|team2={{fb|BUL}}
+|goals1=
+|goals2=
+*[[Hristo Stoichkov|Stoichkov]] {{goal|61}}
+*[[Nasko Sirakov|Sirakov]] {{goal|90+3}}
+|stadium=[[Cotton Bowl (stadium)|Cotton Bowl]], [[Dallas]]
+|attendance=63,998
+|referee=[[Neji Jouini]] ([[Tunisian Football Federation|Tunisia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3084 |title=Argentina vs Bulgaria {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3084/index.html |title=1994 FIFA World Cup USA – Matches – Argentina v Bulgaria |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229064605/http://www.fifa.com/worldcup/matches/round=337/match=3084/index.html |archive-date=December 29, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _arg9495h
+ | pattern_b  = _arg9495h
+ | pattern_ra = _arg9495h
+ | pattern_sh = _arg_94_home
+ | pattern_so = _arg_94_home
+ | leftarm    = 6BB6FF
+ | body       = FFFFFF
+ | rightarm   = 6BB6FF
+ | shorts     = 000000
+ | socks      = 6BB6FF
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _bul94a
+ | pattern_b  = _bul94a
+ | pattern_ra = _bul94a
+ | pattern_sh = _nor94h
+ | pattern_so = _adidas_thick_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Luis Islas]]
+|-
+|DF ||'''16'''||[[Hernán Díaz]]
+|-
+|DF ||'''13'''||[[Fernando Cáceres]]
+|-
+|DF ||'''6''' ||[[Oscar Ruggeri]] ([[Captain (association football)|c]]) || {{yel|34}}
+|-
+|DF ||'''3''' ||[[José Chamot]]
+|-
+|MF ||'''14'''||[[Diego Simeone]]
+|-
+|MF ||'''5''' ||[[Fernando Redondo]]
+|-
+|MF ||'''20'''||[[Leonardo Rodríguez]] || {{yel|44}} || {{suboff|67}}
+|-
+|FW ||'''7''' ||[[Claudio Caniggia]] || || {{suboff|26}}
+|-
+|FW ||'''9''' ||[[Gabriel Batistuta]] || {{yel|81}}
+|-
+|FW ||'''19'''||[[Abel Balbo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Ariel Ortega]] || || {{subon|26}}
+|-
+|FW ||'''11'''||[[Ramón Medina Bello]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alfio Basile]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Emil Kremenliev]]
+|-
+|CB ||'''3''' ||[[Trifon Ivanov]] || {{yel|58}}
+|-
+|CB ||'''5''' ||[[Petar Hubchev]]
+|-
+|LB ||'''4''' ||[[Tsanko Tsvetanov]] || {{sent off|2|45|67}}
+|-
+|MF ||'''6''' ||[[Zlatko Yankov]] || {{yel|24}}
+|-
+|MF ||'''9''' ||[[Yordan Letchkov]] || || {{suboff|76}}
+|-
+|MF ||'''10'''||[[Nasko Sirakov]]
+|-
+|MF ||'''20'''||[[Krasimir Balakov]] || {{yel|74}}
+|-
+|FW ||'''7''' ||[[Emil Kostadinov]] || || {{suboff|74}}
+|-
+|FW ||'''8''' ||[[Hristo Stoichkov]] || {{yel|7}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''16'''||[[Iliyan Kiryakov]] || || {{subon|74}}
+|-
+|MF ||'''11'''||[[Daniel Borimirov]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dimitar Penev]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Tapio Yli-Karro]] ([[Football Association of Finland|Finland]])
+<br />El Jilali Rharib ([[Royal Moroccan Football Federation|Morocco]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Lim Kee Chong]] ([[Mauritius Football Association|Mauritius]])
+|}
+
+===Greece vs Nigeria===
+<onlyinclude>{{#invoke:Football box|main|section=D6
+|date={{Start date|1994|6|30}}
+|time=7:30&nbsp;p.m. [[Eastern Time Zone|EDT]]
+|team1={{fb-rt|GRE}}
+|score={{score link|1994 FIFA World Cup Group D#Greece vs Nigeria|0–2}}
+|team2={{fb|NGA}}
+|goals1=
+|goals2=
+*[[Finidi George|George]] {{goal|45+2}}
+*[[Daniel Amokachi|Amokachi]] {{goal|90+5}}
+|stadium=[[Foxboro Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=53,001
+|referee=[[Leslie Mottram]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3083 |title=Greece vs Nigeria {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3083/index.html |title=1994 FIFA World Cup USA – Matches – Greece v Nigeria |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171222220148/http://www.fifa.com/worldcup/matches/round=337/match=3083/index.html |archive-date=December 22, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _gre94h
+ | pattern_ra = 
+ | pattern_sh = _blankbottom
+ | pattern_so = _2_stripes_white
+ | leftarm    = 2E4998
+ | body       = 2E4998
+ | rightarm   = 2E4998
+ | shorts     = 2E4998
+ | socks      = 2E4998
+ | title      = Greece
+}}
+|{{Football kit
+ | pattern_la = _nigeria1994a
+ | pattern_b  = _nigeria1994a
+ | pattern_ra = _nigeria1994a
+ | pattern_sh = _nga94a1
+ | pattern_so = _adidas_thick_stripes_green
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Nigeria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''15'''||[[Christos Karkamanis]]
+|-
+|DF ||'''5''' ||[[Ioannis Kalitzakis]] || {{yel|41}}
+|-
+|DF ||'''22'''||[[Alexis Alexiou]]
+|-
+|DF ||'''13'''||[[Vaios Karagiannis]]
+|-
+|MF ||'''17'''||[[Minas Hantzidis]]
+|-
+|MF ||'''6''' ||[[Giotis Tsalouchidis]]
+|-
+|MF ||'''10'''||[[Tasos Mitropoulos]] ([[Captain (association football)|c]]) || {{yel|32}} || {{suboff|72}}
+|-
+|MF ||'''21'''||[[Alekos Alexandris]]
+|-
+|MF ||'''8''' ||[[Nikos Nioplias]]
+|-
+|MF ||'''19'''||[[Savvas Kofidis]]
+|-
+|FW ||'''9''' ||[[Nikos Machlas]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Nikos Tsiantakis]] || || {{subon|72}}
+|-
+|FW ||'''14'''||[[Vasilis Dimitriadis]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alketas Panagoulias]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]]
+|-
+|DF ||'''6''' ||[[Chidi Nwanu]]
+|-
+|DF ||'''4''' ||[[Stephen Keshi]] ([[Captain (association football)|c]]) || {{yel|70}}
+|-
+|DF ||'''5''' ||[[Uche Okechukwu]]
+|-
+|DF ||'''19'''||[[Michael Emenalo]]
+|-
+|MF ||'''7''' ||[[Finidi George]] || || {{suboff|84}}
+|-
+|MF ||'''12'''||[[Samson Siasia]]
+|-
+|MF ||'''15'''||[[Sunday Oliseh]] || {{yel|66}}
+|-
+|MF ||'''11'''||[[Emmanuel Amunike]]
+|-
+|FW ||'''9''' ||[[Rashidi Yekini]] || || {{suboff|69}}
+|-
+|FW ||'''14'''||[[Daniel Amokachi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Jay-Jay Okocha]] || || {{subon|69}}
+|-
+|MF ||'''21'''||[[Mutiu Adepoju]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Clemens Westerhof]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Park Hae-yong ([[Korea Football Association|South Korea]])
+<br />Paulo Jorge Alves ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[José Torres Cadena]] ([[Colombian Football Federation|Colombia]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Bulgaria at the FIFA World Cup]]
+*[[Greece at the FIFA World Cup]]
+*[[Nigeria at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1994 FIFA World Cup}}
+
+{{DEFAULTSORT:Group D}}
+[[Category:1994 FIFA World Cup group stage|D]]
+[[Category:Argentina at the 1994 FIFA World Cup|Group]]
+[[Category:Greece at the 1994 FIFA World Cup]]
+[[Category:Bulgaria at the 1994 FIFA World Cup]]
+[[Category:Nigeria at the 1994 FIFA World Cup|Group]]
+[[Category:Soccer competitions in Chicago]]
+[[Category:1994 in sports in Illinois]]
+[[Category:1994 in Chicago]]
+[[Category:Sports competitions in Foxborough, Massachusetts]]
+[[Category:Soccer competitions in Massachusetts]]
+[[Category:1994 in sports in Massachusetts]]
+[[Category:Soccer competitions in Texas]]
+[[Category:International sports competitions in Texas]]
+[[Category:Sports competitions in Dallas]]
+[[Category:1990s in Dallas]]
+[[Category:1994 in sports in Texas]]

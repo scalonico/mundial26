@@ -1,0 +1,235 @@
+{{Notability|Sports|date=June 2024}}
+{{Use dmy dates|date=May 2025}}
+{{Infobox football match
+| title            = Disaster of Sweden
+| image            = Argentina vs suecia lombardo en piso 1958.jpg
+| image_size       = 200
+| caption          = Francisco Lombardo (4) on the pitch<br> while Czechoslovakia players celebrate
+| event            = [[1958 FIFA World Cup]], first round, group 1
+| team1            = [[Czechoslovakia national football team|Czechoslovakia]]
+| team1association = {{flagicon|TCH|size=30px}}
+| team1score       = 6
+| team2            = [[Argentina national football team|Argentina]]
+| team2association = {{flagicon|ARG|size=30px}}
+| team2score       = 1
+| details          = 
+| date             = 15 June 1958
+| stadium          = [[Olympia (Helsingborg)|Olympiastadion]]
+| city             = [[Helsingborg]], Sweden
+| referee          = [[Arthur Edward Ellis]] ([[The Football Association|England]])
+| attendance       = 16,418
+| weather          = 
+}}
+
+The '''Disaster of Sweden''' ({{langx|es|Desastre de Suecia}})<ref>{{cite web |url=http://www.elgrafico.com.ar/coberturas-historicas/1958-el-desastre-de-suecia.php |title=No es cuestión de hombres |access-date=8 January 2024|date=20 June 1958 |work=El Gráfico|language=es|archive-date=6 April 2015 |archive-url=https://web.archive.org/web/20150406010815/http://www.elgrafico.com.ar/coberturas-historicas/1958-el-desastre-de-suecia.php |url-status=dead }}</ref> is the name given to the early elimination of the [[Argentina national football team|Argentina football team]] from the [[1958 FIFA World Cup]] at the hands of the [[Czechoslovakia national football team|Czechoslovakia football team]]. The match was played on 15 June 1958, at the [[Olympia (Helsingborg)|Olympiastadion]] in the city of [[Helsingborg]], Sweden, the host country of the championship. That day, Czechoslovakia beat Argentina 6–1. The final result means the heaviest defeat for the Albiceleste team in a FIFA World Cup.<ref>https://www.infobae.com/deportes-2/mundial-2018/2018/06/15/a-60-anos-del-desastre-de-suecia-el-recuerdo-de-la-peor-derrota-de-argentina-en-mundiales/ ''A 60 años del "desastre de Suecia": el recuerdo de la peor derrota de Argentina en Mundiales''. Infobae, 3 July 2018.</ref><ref>https://www.elgrafico.com.ar/articulo/las-cronicas-de-el-grafico/31835/1958-era-pan-comido-fue-desastre 1958. ERA PAN COMIDO, FUE DESASTRE. El Gráfico, 14 May 2018.</ref>
+
+==Background==
+Before that meeting, the two teams had only met once, on 16 August 1956, at [[Estadio Gasómetro|El Gasómetro]] in Buenos Aires with a 1–0 victory for the locals.<ref>{{cite web | url=https://www.livefutbol.com/cronica/freundschaft-1956-august-argentinien-cssr/ | title=Argentina - Checoslovaquia 1:0 (Amistosos Internacionales 1956, Agosto) }}</ref><ref>https://www.promiedos.com.ar/historialsel.php?equipo1=785&equipo2=1041&modo=todos Promiedos.com Historial completo de Argentina vs. Checoslovaquia</ref>
+
+Argentina arrived at the World Cup with the title of South American champion in tow, after the achievement obtained [[1957 South American Championship|a year earlier in Peru]]. Many of the Argentinian football figures of that time, such as [[Amadeo Carrizo]], [[Ángel Labruna]] (both members of [[Club Atlético River Plate|River's]] [[La Maquina]]), [[Oreste Corbatta|Omar Corbatta]], [[José Ramos Delgado]] (who later played alongside [[Pelé]] in [[Santos FC|Santos]]) and [[José Sanfilippo]] (historic goalscorer of [[San Lorenzo de Almagro]]) took place in the final squad that traveled to Sweden in search of the first world conquest of the Argentinian team and after 24 years of absence from the biggest event.<ref name=infobae>{{cite web |url=https://www.infobae.com/2012/06/14/653468-argentina-sufria-la-peor-derrota-un-mundial-el-desastre-suecia-1958/ |title=Argentina sufría la peor derrota en un Mundial: "El desastre de Suecia 1958" |access-date=8 January 2024|date=13 November 2017|publisher=Infobae|language=es|archive-date=8 January 2024 |archive-url=https://web.archive.org/web/20240108193732/https://www.infobae.com/2012/06/14/653468-argentina-sufria-la-peor-derrota-un-mundial-el-desastre-suecia-1958/ |url-status=live }}</ref> With [[Guillermo Stábile]] as coach, the Argentinian team [[1958 FIFA World Cup qualification (CONMEBOL)|reached qualification]] after eliminating [[Bolivia national football team|Bolivia]] and [[Chile national football team|Chile]].
+
+Czechoslovakia, for its part, [[1958 FIFA World Cup qualification (UEFA)|had qualified in UEFA group 4]] beating [[Wales national football team|Wales]] and [[East Germany national football team|East Germany]]. As at that time there was still no official football championship between all the European teams (the [[UEFA European Championship|UEFA Euro]] only began in 1960), the only rivals arose from the friendlies determined by [[FIFA]], and from the [[Central European International Cup]], a tournament which was played between the late '20s and '50s by the strongest teams in said continental region. The Czechoslovak team entered the World Cup with 7 consecutive matches without defeat, 2 of them friendlies, 3 in the qualifying round and 2 in the Central European Cup.
+
+==The World Cup in Sweden==
+In 1958, both teams met in Group A of the World Cup with [[Germany national football team|West Germany]] and [[Northern Ireland national football team|Northern Ireland]].
+
+After the dispute of the first two matches, Argentina arrived with 2 points as a result of a defeat against West Germany by 3-1 and a victory against the British team by the same score. Czechoslovakia, on the other hand, had achieved a single point due to a draw against the Germans and a narrow defeat against Northern Ireland, so they had to win to achieve a qualification attempt.
+
+{{center|'''Positions previous to the game'''}}
+
+{| class="wikitable" style="margin:1em auto; text-align:center"
+|-
+!width=165|Team
+!width=20|{{tooltip|Pld|Matches played}}
+!width=20|{{tooltip|W|Matches won}}
+!width=20|{{tooltip|D|Matches drawn}}
+!width=20|{{tooltip|L|Matches lost}}
+!width=20|{{tooltip|GF|Goals for}}
+!width=20|{{tooltip|GA|Goals against}}
+!width=20|{{tooltip|GD|Goal difference}}
+!width=20|{{tooltip|Pts|Points}}
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|FRG}}
+|2||1||1||0||5||3||+2||'''3'''
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|ARG}}
+|2||1||0||1||4||4||0||'''2'''
+|-
+|align="left"|{{fb|NIR}}
+|2||1||0||1||2||3||–1||'''2'''
+|-
+|align="left"|{{fb|TCH}}
+|2||0||1||1||2||3||–1||'''1'''
+|}
+
+==Match==
+
+===Summary===
+[[file:Argentina v checoslovaq 1958.jpg|thumb|Argentina's left wing Osvaldo Cruz on the attack]]
+The Europeans quickly took control of the match and in the 8th minute defender [[Milan Dvořák]] scored the first goal with a shot from outside the area. At 17' the Czechs scored through [[Zdeněk Zikán]] after a failed rejection by [[Francisco Lombardo]]. At the end of the first half, at 40', Zikán scored again.
+
+Already in the second half the South Americans tried to close the gap. Thus, at 65' [[Oreste Corbatta|Orestes Omar Corbatta]] made it 1-3 through a penalty. However, four minutes later [[Jiří Feureisl]] scored the fourth goal. Then [[Václav Hovorka]] would score twice, at 82' and 89', making the final score 6 to 1.
+
+===Details===
+<section begin=1-6 />{{Football box
+|date={{Start date|1958|6|15|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|TCH}}
+|score={{score link|1958 FIFA World Cup Group 1#Czechoslovakia vs Argentina|6–1|Disaster of Sweden}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Milan Dvořák|Dvořák]] {{goal|8}}
+*[[Zdeněk Zikán|Zikán]] {{goal|17||40}}
+*[[Jiří Feureisl|Feureisl]] {{goal|69}}
+*[[Václav Hovorka|Hovorka]] {{goal|82||89}}
+|goals2=
+*[[Omar Oreste Corbatta|Corbatta]] {{goal|65|pen.}}
+|stadium=[[Olympia (stadium)|Olympiastadion]], [[Helsingborg]]
+|attendance=16,418
+|referee=[[Arthur Edward Ellis]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1325 |title=Czechoslovakia vs Argentina {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1325/index.html |title=1958 FIFA World Cup Sweden – Matches – Czechoslovakia v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031044305/http://www.fifa.com/worldcup/matches/round=220/match=1325/index.html |archive-date=31 October 2017}} }}</ref>
+}}<section end=1-6 />
+<section begin=Line-ups />{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so =  
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Czechoslovakia
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _arg5861h
+ | pattern_b  = _arg2861h
+ | pattern_ra = _arg5861h
+ | pattern_sh =
+ | pattern_so = _whitestripe
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Argentina
+
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''19'''|| [[Břetislav Dolejší]]
+|-
+| DF ||'''2'''|| [[Gustáv Mráz]]
+|-
+| DF ||'''4'''|| [[Ladislav Novák]]
+|-
+| MF ||'''8'''|| [[Milan Dvořák]]
+|-
+| MF ||'''16'''|| [[Ján Popluhár]]
+|-
+| MF ||'''5'''||[[Josef Masopust]]  
+|-
+| FW ||'''13'''|| [[Vaclav Hovorka]]
+|-
+| FW ||'''10'''|| [[Jaroslav Borovička]] 
+|-
+| FW ||'''14'''|| [[Jiří Feureisl]]
+|-
+| FW ||'''9'''|| [[Pavol Molnár]]
+|-
+| FW ||'''12'''|| [[Zdeněk Zikán]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Karel Kolský]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Amadeo Carrizo]]
+|-
+| DF ||'''2'''|| [[Pedro Dellacha]]
+|-
+| DF ||'''3'''|| [[Federico Vairo]]
+|-
+| MF ||'''4'''|| [[Juan Francisco Lombardo|Francisco Lombardo]]
+|-
+| MF ||'''5'''|| [[Néstor Rossi]]
+|-
+| MF ||'''6'''|| [[José Varacka]]
+|-
+| FW ||'''7'''|| [[Omar Oreste Corbatta|Oreste Corbatta]]
+|-
+| FW ||'''19'''|| [[Ludovico Avio]]
+|-
+| FW ||'''9'''|| [[Norberto Menéndez]]
+|-
+| FW ||'''11'''|| [[Ángel Labruna]]
+|-
+| FW ||'''22'''|| [[Osvaldo Héctor Cruz|Osvaldo Cruz]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Guillermo Stábile]]
+|}
+{{col-end}}<section end=Line-ups />
+
+==Consequences==
+[[File:Varacka y labruna en vestuario suecia 1958.jpg|thumb|200px|José Varacka and Ángel Labruna after the match]]
+The defeat, considered humiliating, brought immediate consequences and others that decisively influenced the subsequent development of [[Football in Argentina|Argentinian football]].<ref>{{cite web |url=https://www.efdeportes.com/efd141/argentina-y-el-mundial-de-futbol-de-suecia-de-1958.htm |title=Argentina y el Mundial de Fútbol de Suecia de 1958, La otra historia (Primera parte) |access-date=8 January 2024|date=February 2010 |work=efdeportes|language=es|archive-date=8 January 2024 |archive-url=https://web.archive.org/web/20240108193731/http://www.efdeportes.com/efd141/argentina-y-el-mundial-de-futbol-de-suecia-de-1958.htm |url-status=live }}</ref><ref>{{cite web |url=https://www.efdeportes.com/efd142/argentina-y-el-mundial-de-futbol-de-suecia-de-1958-2.htm |title=Argentina y el Mundial de Fútbol de Suecia de 1958, La otra historia (Segunda parte) |access-date=8 January 2024|date=March 2010 |work=efdeportes|language=es|archive-date=16 December 2018 |archive-url=https://web.archive.org/web/20181216154529/http://www.efdeportes.com/efd142/argentina-y-el-mundial-de-futbol-de-suecia-de-1958-2.htm |url-status=live}}</ref>
+
+The early elimination of the Argentinian team was echoed in the main graphic media of the time. Criticism began to fall on the president of the [[Argentine Football Association|AFA]], Raúl Colombo, and the coaching staff, while the team was received at the [[Ministro Pistarini International Airport|Ezeiza Airport]] with insults and throwing coins.<ref name=infobae /><ref>https://tn.com.ar/deportes/mundial/2022/09/29/el-desastre-de-suecia-por-que-argentina-tuvo-su-peor-mundial-en-1958/ ''El desastre de Suecia: por qué Argentina tuvo su peor Mundial en 1958.'' TN, 29 September 2022.</ref>
+
+[[Guillermo Stábile]] resigned from the coach position after this episode, a position he had held since 1939 and in which he had achieved 6 [[Copa América|South American Championship]] titles.
+
+[[Ángel Labruna]], forward of that team, later declared to the press:
+
+{{blockquote|We went blindfolded, blind. We were not physically or tactically prepared to face 3 games in one week.<ref>{{cite web |url=https://www.telam.com.ar/notas/202306/631244-futbol-seleccionado-aniversario-desastre-mundial-suecia-58.html |title=La hora más dolorosa del seleccionado argentino en los Mundiales de fútbol |access-date=January 8, 2024|date=June 14, 2023|publisher=Télam |location=Buenos Aires |language=es|archive-date=January 8, 2024 |archive-url=https://web.archive.org/web/20240108193704/https://www.telam.com.ar/notas/202306/631244-futbol-seleccionado-aniversario-desastre-mundial-suecia-58.html |url-status=live}}</ref>}}
+
+[[Amadeo Carrizo]], the Argentinian goalkeeper, resigned from his country's national team, to which he returned, however, in 1964 for the [[Taça das Nações|Nations Cup]]. He would later reveal the following:
+
+{{blockquote|When we arrived in the country, after the elimination, the plane had to land on a farm in [[Monte Grande]] so they wouldn't kill us. Some Argentinian journalists who were in Sweden had asked people to go look for us at the air station with sticks and stones. There was a lot of anger, they wanted to kill us, they said we were traitors. Nobody was going to believe us that Argentina lacked organization and that none of us charged a single peso to play in that World Cup.<ref>{{cite web |url=https://www.infobae.com/deportes-2/mundial-2018/2018/06/15/a-60-anos-del-desastre-de-suecia-el-recuerdo-de-la-peor-derrota-de-argentina-en-mundiales/ |title=A 60 años del "desastre de Suecia": el recuerdo de la peor derrota de Argentina en Mundiales |access-date=January 8, 2024 |last=Del Moral |first=Milton |date=June 15, 2018|publisher=Infobae|language=es|archive-date=January 8, 2024 |archive-url=https://web.archive.org/web/20240108193705/https://www.infobae.com/deportes-2/mundial-2018/2018/06/15/a-60-anos-del-desastre-de-suecia-el-recuerdo-de-la-peor-derrota-de-argentina-en-mundiales/ |url-status=live}}</ref>}}
+
+[[José Sanfilippo|Jose Sanfilippo]], who did not play in that match, later stated:
+
+{{blockquote|We didn't even know what color our opponents' jerseys were, let alone how they played. It was a total mess, with lots of fights between the players and the coach. (...) It was a world of difference. They'd send a 40- or 50-meter pass right to a teammate's chest—it was a whole different level of speed; we looked like turtles. We learned a ton at that World Cup, because all we knew was to dribble.<ref>{{cite web |last1=Borinsky |first1=Diego |title=José Sanfilippo, 100x100: “Messi hasta es mejor que yo, este pibe pasó todos los límites” |url=https://www.elgrafico.com.ar/articulo/las-entrevistas-de-el-grafico/8118/jose-sanfilippo-100x100-messi-hasta-es-mejor-que-yo-este-pibe-paso-todos-los-limites |website=El gráfico |access-date=16 June 2026 |language=Spanish |date=3 June 2026}}</ref>}}
+
+== See also ==
+* [[Argentina at the FIFA World Cup]]
+* [[Czech Republic at the FIFA World Cup]]
+* [[Slovakia at the FIFA World Cup]]
+
+== References ==
+{{reflist}}
+
+=== Reports ===
+{{reflist|group=Report}}
+
+{{1958 FIFA World Cup}}
+{{Argentina national football team matches}} 
+{{Czechoslovakia national football team matches}}
+
+[[Category:1958 FIFA World Cup group stage]]
+[[Category:FIFA World Cup matches]]
+[[Category:Argentina national football team matches]]
+[[Category:Czechoslovakia national football team matches]]
+[[Category:Nicknamed sporting events]]
+[[Category:Football matches in Sweden]]
+[[Category:Sports competitions in Helsingborg]]
+[[Category:20th century in Malmöhus County]]
+[[Category:Argentina–Czechoslovakia relations|1958]]
+[[Category:Football in Helsingborg]]
+[[Category:June 1958 sports events in Europe]]
+[[Category:Argentina–Czech Republic sports relations|1958]]
+[[Category:Argentina–Slovakia sports relations|1958]]

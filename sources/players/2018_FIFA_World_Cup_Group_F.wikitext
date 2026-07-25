@@ -1,0 +1,1101 @@
+{{Short description|None}}
+{{Use dmy dates|date=November 2017}}
+[[File:Russia stamp 2018 № 2350.jpg|thumb|2018 [[postage stamp]] from [[Russia]] depicting Group F of the [[2018 FIFA World Cup]] group stage.]]
+Group F of the [[2018 FIFA World Cup]] took place from 17 to 27 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |archive-date=24 June 2018 |archive-url=https://web.archive.org/web/20180624041527/https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |url-status=dead }}</ref> The group consisted of defending champions [[Germany national football team|Germany]], [[Mexico national football team|Mexico]], [[Sweden men's national football team|Sweden]], and [[South Korea national football team|South Korea]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017}}</ref> Sweden and Mexico were the top two teams that advanced to the round of 16. 
+
+The surprise elimination of holders Germany marked the first time since [[1938 FIFA World Cup|1938]] that they did not advance beyond the first round,<ref>{{cite web |last=Blair |first=Alex |title=Germany knocked out of World Cup after 2-0 defeat to South Korea |url=https://www.news.com.au/sport/football/world-cup/germany-has-been-knocked-out-of-the-world-cup/news-story/279ae91f6abe464a20da95a552d3c01c |website=News.com.au |access-date=28 June 2018}}</ref> specifically the group stage which was first introduced in [[1950 FIFA World Cup|1950]].<ref>{{cite web |last=Emons |first= Michael |title=South Korea 2 0 Germany |url=https://www.bbc.com/sport/football/44439270 |date=27 June 2018 |publisher=BBC |access-date=30 June 2018}}</ref><ref>{{cite web |last=McCambridge |first=Ed |title=World Cup 2018: Germany exit at group stage after shock South Korea loss |url=https://www.dw.com/en/world-cup-2018-germany-exit-at-group-stage-after-shock-south-korea-loss/a-44418816 |date=27 June 2018 |publisher=Deutsche Welle |access-date=30 June 2018}}</ref> The early German exit was "greeted with shock in newspapers around the world".<ref>{{cite web |last=Rawlinson |first=Kevin |title='Over and out': media reacts to Germany's World Cup exit |url=https://www.theguardian.com/football/2018/jun/27/over-and-out-media-reaction-to-germanys-world-cup-exit |website=the Guardian |access-date=28 June 2018 |language=en |date=27 June 2018}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| F1 || style=white-space:nowrap | {{fb|GER}} || 1 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group C|UEFA Group C]] winners || 5 October 2017 || 19th{{refn|group=nb|Germany competed between 1951 and 1990 as West Germany.}} || [[2014 FIFA World Cup|2014]] (champions) || data-sort-value="8.4" | '''Winners''' ([[1954 FIFA World Cup|1954]], [[1974 FIFA World Cup|1974]], [[1990 FIFA World Cup|1990]], [[2014 FIFA World Cup|2014]]) || 1 || 1
+|-
+| F2 || style=white-space:nowrap | {{fb|MEX}} || 2 || [[CONCACAF]] || [[2018 FIFA World Cup qualification – CONCACAF fifth round|CONCACAF fifth round]] winners || 1 September 2017 || 16th || [[2014 FIFA World Cup|2014]] (round of 16) || data-sort-value="4.2" | Quarter-finals ([[1970 FIFA World Cup|1970]], [[1986 FIFA World Cup|1986]]) || 16 || 15
+|-
+| F3 || style=white-space:nowrap | {{fb|SWE}} || 3 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA second round|UEFA second round]] winners || 13 November 2017 || 12th || [[2006 FIFA World Cup|2006]] (round of 16) || data-sort-value="7.1" | Runners-up ([[1958 FIFA World Cup|1958]]) || 25 || 24
+|-
+| F4 || style=white-space:nowrap | {{fb|KOR}} || 4 || [[Asian Football Confederation|AFC]] || [[2018 FIFA World Cup qualification – AFC third round#Group A|AFC third round Group A]] runners-up || 5 September 2017 || 10th || [[2014 FIFA World Cup|2014]] (group stage) || data-sort-value="5.1" | Fourth place ([[2002 FIFA World Cup|2002]]) || 62 || 57
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+|class_rules=[[2018 FIFA World Cup#Tiebreakers|Group stage tiebreakers]]
+|source=[https://www.fifa.com/worldcup/groups/index.html FIFA]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_GER=1 |draw_GER=0 |loss_GER=2 |gf_GER=2 |ga_GER=4
+|win_MEX=2 |draw_MEX=0 |loss_MEX=1 |gf_MEX=3 |ga_MEX=4
+|win_SWE=2 |draw_SWE=0 |loss_SWE=1 |gf_SWE=5 |ga_SWE=2
+|win_KOR=1 |draw_KOR=0 |loss_KOR=2 |gf_KOR=3 |ga_KOR=3
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=SWE |team2=MEX |team3=KOR |team4=GER
+
+<!--Country definitions-->
+|name_GER={{fb|GER}}
+|name_MEX={{fb|MEX}}
+|name_SWE={{fb|SWE}}
+|name_KOR={{fb|KOR}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2018 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+*The winners of Group F, [[Sweden men's national football team|Sweden]], advanced to play the runners-up of [[2018 FIFA World Cup Group E|Group E]], [[Switzerland national football team|Switzerland]].
+*The runners-up of Group F, [[Mexico national football team|Mexico]], advanced to play the winners of [[2018 FIFA World Cup Group E|Group E]], [[Brazil national football team|Brazil]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===Germany vs Mexico===
+The two teams had faced each other 11 times, including three FIFA World Cup games all of which were German victories: 6–0 in [[1978 FIFA World Cup|1978]] (first group stage), 2–1 in [[1998 FIFA World Cup|1998]] (round of 16), but a [[1986 FIFA World Cup|1986]] quarter-final game being the most significant, which ended with a German [[1986 FIFA World Cup knockout stage#West Germany vs Mexico|penalty shoot-out victory]].<ref name=Kit12>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=12}}</ref>
+
+[[Timo Werner]] fired a warning shot across the face of [[Guillermo Ochoa]]'s goal during the first minutes of the match. [[Héctor Moreno]] headed straight at [[Manuel Neuer]] from their clearest opening. [[Javier Hernández]]'s one-two with [[Andrés Guardado]] allowed him to spin away from [[Mats Hummels]] just inside the Germany half and feed [[Hirving Lozano]] down the left. Lozano then cut inside the resistance offered by the back-tracking [[Mesut Özil]] to crash a low right foot shot inside Neuer's right post. However, two minutes later, [[Toni Kroos]]'s free-kick arrowed towards the top corner. Ochoa denied the midfielder's shot, pushing the ball against the crossbar. Near the end [[Joshua Kimmich]] and Werner came close to scoring, but their attempts were unsuccessful. [[Julian Brandt]] had one final chance to equalize in the 89th minute, but he hit the post from outside the box.<ref name="Goal Germany v Mexico">{{cite web |last=Atkinson |first=Guy |title=Lozano stuns woeful reigning champions |url=http://www.goal.com/en-us/news/55/main/2018/06/17/45607172/germany-0-mexico-1-lozano-stuns-woeful-reigning-champions |website=Goal.com |date=17 June 2018}}</ref><ref name="BBC Germany v Mexico">{{cite web |last=Bevan |first=Chris |title=Germany 0 Mexico 1 |url=https://www.bbc.com/sport/football/44427969 |work=BBC Sport |date=17 June 2018}}</ref>
+
+This defeat represented the first time that Germany had lost the opening game in defence of their trophy. They beat Argentina [[1958 FIFA World Cup Group 1#Argentina vs West Germany|3–1]] in 1958, drew [[1978 FIFA World Cup Group 2#West Germany vs Poland|0–0]] with Poland in 1978, and defeated Bolivia [[1994 FIFA World Cup Group C#Germany vs Bolivia|1–0]] in 1994.<ref name="GER-MEX recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/lozano-lights-up-the-luzhniki-as-el-tri-defeat-holders |title=Lozano lights up the Luzhniki as El Tri defeat holders |publisher=FIFA |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044218/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/lozano-lights-up-the-luzhniki-as-el-tri-defeat-holders |archive-date=20 May 2026}}</ref> Germany lost their opening match at a World Cup for only the second time, having done so in 1982, [[1982 FIFA World Cup Group 2#West Germany vs Algeria|against Algeria]]. This is the third consecutive World Cup in which the reigning champion has failed to win their opening match – Italy drew [[2010 FIFA World Cup Group F#Italy vs Paraguay|1–1]] with Paraguay in 2010, while Spain lost [[2014 FIFA World Cup Group B#Spain vs Netherlands|5–1]] against the Netherlands in 2014; and also the fourth champions failed to win their opening match, as [[France national football team|France]] lost 0–1 to [[Senegal national football team|Senegal]] at the [[2002 FIFA World Cup]] (all of whom had been knocked out at the group stage). Germany had 26 shots, the most by a side without scoring in a World Cup fixture since 2006 (Portugal v England, 29 shots in a [[2006 FIFA World Cup knockout stage#England vs Portugal|0–0]] draw).<ref name="Goal Germany v Mexico"/> Conversely, Mexico beat Germany for only the second time – their previous only win against them came in a friendly in [[1985 Azteca 2000 Tournament|June 1985]]. However, Mexico's victory over Germany marked the first time a team from the [[CONCACAF]] region defeated Germany in the World Cup, and also the second Mexican win against a World Champion's team in a [[FIFA World Cup|World Cup]] after beating [[France national football team|France]] in [[2010 FIFA World Cup Group A#France vs Mexico|2010]]. Additionally, Mexico became the first team from [[the Americas]] to defeat Germany at a World Cup [[2002 FIFA World Cup|in almost 16 years]] – the last time Germany lost to either a North- or South-American team was at [[2002 FIFA World Cup final|the 2002 final]] against [[Brazil national football team|Brazil]]. [[Rafael Márquez]] featured in his fifth World Cup finals, becoming just the third player to achieve this feat – along with Mexico's [[Antonio Carbajal]] and Germany's [[Lothar Matthäus]].<ref name="BBC Germany v Mexico"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=f1
+|date={{Start date|2018|6|17|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|GER}}
+|score={{score link|2018 FIFA World Cup Group F#Germany vs Mexico|0–1}}
+|team2={{fb|MEX}}
+|goals1=
+|goals2=
+*[[Hirving Lozano|Lozano]] {{goal|35}}
+|stadium=[[Luzhniki Stadium]], [[Moscow]]
+|attendance=78,011
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331502 |title=Germany vs Mexico {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/645f665d01d87900/original/vdedmcpen3hfh1sym6yb-pdf.pdf |title=Match report – Group F – Germany v Mexico |publisher=[[FIFA]] |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062810/https://digitalhub.fifa.com/m/645f665d01d87900/original/vdedmcpen3hfh1sym6yb-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger18home
+ |pattern_b  = _ger18H
+ |pattern_ra = _ger18home
+ |pattern_sh = _duit18h
+ |pattern_so = _3_stripes_black
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany<ref name="GER-MEX line-ups">{{cite web |url=https://digitalhub.fifa.com/m/264dec91a260ac3b/original/uujwzqcsenwwoqcehisq-pdf.pdf |title=Tactical Line-up – Group F – Germany v Mexico |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175406/https://digitalhub.fifa.com/m/264dec91a260ac3b/original/uujwzqcsenwwoqcehisq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex18h
+ |pattern_b  = _mex18h
+ |pattern_ra = _mex18h
+ |pattern_sh = _mex18h
+ |pattern_so = _mex18h
+ |leftarm    = 1A4D3E
+ |body       = 1A4D3E
+ |rightarm   = 1A4D3E
+ |shorts     = FFFFFF
+ |socks      = 960000
+ |title      = Mexico<ref name="GER-MEX line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''18'''||[[Joshua Kimmich]]
+|-
+|CB ||'''17'''||[[Jérôme Boateng]]
+|-
+|CB ||'''5''' ||[[Mats Hummels]] || {{yel|84}}
+|-
+|LB ||'''2''' ||[[Marvin Plattenhardt]] || || {{suboff|79}}
+|-
+|CM ||'''8''' ||[[Toni Kroos]]
+|-
+|CM ||'''6''' ||[[Sami Khedira]] || || {{suboff|60}}
+|-
+|RW ||'''13'''||[[Thomas Müller]] || {{yel|83}}
+|-
+|AM ||'''10'''||[[Mesut Özil]]
+|-
+|LW ||'''7''' ||[[Julian Draxler]]
+|-
+|CF ||'''9''' ||[[Timo Werner]] || || {{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Marco Reus]] || || {{subon|60}}
+|-
+|FW ||'''23'''||[[Mario Gómez]] || || {{subon|79}}
+|-
+|MF ||'''20'''||[[Julian Brandt]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-MEX 2018-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|RB ||'''3''' ||[[Carlos Salcedo]]
+|-
+|CB ||'''2''' ||[[Hugo Ayala]]
+|-
+|CB ||'''15'''||[[Héctor Moreno]] || {{yel|40}}
+|-
+|LB ||'''23'''||[[Jesús Gallardo]]
+|-
+|CM ||'''16'''||[[Héctor Herrera]] || {{yel|90}}
+|-
+|CM ||'''18'''||[[Andrés Guardado]] ([[Captain (association football)|c]]) || || {{suboff|74}}
+|-
+|RW ||'''7''' ||[[Miguel Layún]]
+|-
+|AM ||'''11'''||[[Carlos Vela]] || || {{suboff|58}}
+|-
+|LW ||'''22'''||[[Hirving Lozano]] || || {{suboff|66}}
+|-
+|CF ||'''14'''||[[Javier Hernández]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Edson Álvarez]] || || {{subon|58}}
+|-
+|FW ||'''9''' ||[[Raúl Jiménez]] || || {{subon|66}}
+|-
+|DF ||'''4''' ||[[Rafael Márquez]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Juan Carlos Osorio]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Hirving Lozano]] (Mexico)<ref name="GER-MEX recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="GER-MEX line-ups"/>
+<br />Reza Sokhandan ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />[[Mohammadreza Mansouri]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Mohamed Al Hammadi ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|}
+
+===Sweden vs South Korea===
+[[File:2018 FIFA WorldCup Russia Korea vs Sweden (42160214874).jpg|thumb|South Korean fans, the "[[Red Devils (supporters club)|Red Devils]]", in [[Seoul]]]]
+The two teams had faced each other four times, most recently in 2005, a 2–2 draw in a friendly game.<ref name=Kit14>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=14}}</ref>
+
+Sweden's defence was tested by a South Korean attack in the early stages. [[Andreas Granqvist]] was denied a shot at goal by a last-ditch interception by [[Kim Young-gwon]].<ref name="Goal Sweden v South Korea">{{cite web |last=Atkinson |first=Guy |title=Granqvist's VAR-assisted penalty settles tight game |url=http://www.goal.com/en/news/8/main/2018/06/18/45631462/sweden-1-south-korea-0-granqvists-var-assisted-penalty |work=Goal.com |date=18 June 2018}}</ref> [[Marcus Berg]] was close to score midway through the first half but his close range shot was beaten away by [[Jo Hyeon-woo]], while South Korea did not manage a single shot on target. Jo also saved from [[Ola Toivonen]]'s header following a free-kick. In the start to the second half, both sides exchanged chances within the first six minutes. There was a short delay for [[Kim Min-woo (footballer)|Kim Min-woo]]'s foul on [[Viktor Claesson]] to be analysed on video and for the referee to point to the spot but it did not affect Granqvist, who sent Jo the wrong way.<ref name="BBC Sweden v South Korea">{{cite web |last=Johnston |first=Neil |title=Sweden 1 South Korea 0 |url=https://www.bbc.com/sport/football/44434274 |work=BBC Sport |date=18 June 2018}}</ref> [[Hwang Hee-chan]] spurned a glorious opportunity late on, heading wide from 10 yards out, as Sweden ultimately held on for a precious three points.<ref name="Goal Sweden v South Korea"/>
+
+This was Sweden's first win in their opening match at a World Cup since beating Mexico [[1958 FIFA World Cup Group 3#Sweden vs Mexico|3–0]] as hosts in 1958.<ref name="SWE-KOR recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/sweden-win-on-return-global-stage-2960873 |title=Sweden win on return to global stage |publisher=FIFA |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044534/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/sweden-win-on-return-global-stage-2960873 |archive-date=20 May 2026}}</ref> South Korea lost their opening match at a World Cup for the first time since 1998 when they lost [[1998 FIFA World Cup Group E#South Korea vs Mexico|3–1]] against Mexico. Sweden's goal was the first they had scored in 402 minutes of international football.<ref name="BBC Sweden v South Korea"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=f2
+|date={{Start date|2018|6|18|df=y}}
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|SWE}}
+|score={{score link|2018 FIFA World Cup Group F#Sweden vs South Korea|1–0}}
+|team2={{fb|KOR}}
+|goals1=
+*[[Andreas Granqvist|Granqvist]] {{goal|65|pen.}}
+|goals2=
+|stadium=[[Nizhny Novgorod Stadium]], [[Nizhny Novgorod]]
+|attendance=42,300
+|referee=[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331499 |title=Sweden vs Korea Republic {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/23cbc5dbbe9f8bf9/original/aoogee9ukgiqkqroqfm1-pdf.pdf |title=Match report – Group F – Sweden v Korea Republic |publisher=[[FIFA]] |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062838/https://digitalhub.fifa.com/m/23cbc5dbbe9f8bf9/original/aoogee9ukgiqkqroqfm1-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _swe1719h
+ |pattern_b  = _zwed18h
+ |pattern_ra = _swe1719h
+ |pattern_sh = _zwed18h
+ |pattern_so = _zwed18h
+ |leftarm    = FFEC00
+ |body       = FFEC00
+ |rightarm   = FFEC00
+ |shorts     = 0000DD
+ |socks      = FFEC00
+ |title      = Sweden<ref name="SWE-KOR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5252e6b0c22bb683/original/ndaty5j8dvp7nokyxnzt-pdf.pdf |title=Tactical Line-up – Group F – Sweden v Korea Republic |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 June 2018 |access-date=18 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175419/https://digitalhub.fifa.com/m/5252e6b0c22bb683/original/ndaty5j8dvp7nokyxnzt-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _kor18a
+ |pattern_b  = _kor18a
+ |pattern_ra = _kor18a
+ |pattern_sh =
+ |pattern_so = _kor18A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|South Korea}}<ref name="SWE-KOR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Robin Olsen]]
+|-
+|RB ||'''2''' ||[[Mikael Lustig]]
+|-
+|CB ||'''18'''||[[Pontus Jansson]]
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Ludwig Augustinsson]]
+|-
+|RM ||'''17'''||[[Viktor Claesson]] || {{yel|61}}
+|-
+|CM ||'''7''' ||[[Sebastian Larsson]] || || {{suboff|81}}
+|-
+|CM ||'''8''' ||[[Albin Ekdal]] || || {{suboff|71}}
+|-
+|LM ||'''10'''||[[Emil Forsberg]]
+|-
+|CF ||'''9''' ||[[Marcus Berg]]
+|-
+|CF ||'''20'''||[[Ola Toivonen]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Oscar Hiljemark]] || || {{subon|71}}
+|-
+|FW ||'''22'''||[[Isaac Kiese Thelin]] || || {{subon|77}}
+|-
+|MF ||'''13'''||[[Gustav Svensson]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Janne Andersson]]
+|}
+|valign="top"|[[File:SWE-KOR 2018-06-18.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Jo Hyeon-woo]]
+|-
+|RB ||'''2''' ||[[Lee Yong (footballer, born 1986)|Lee Yong]]
+|-
+|CB ||'''20'''||[[Jang Hyun-soo]]
+|-
+|CB ||'''19'''||[[Kim Young-gwon]]
+|-
+|LB ||'''6''' ||[[Park Joo-ho]] || || {{suboff|28}}
+|-
+|CM ||'''17'''||[[Lee Jae-sung (footballer, born 1992)|Lee Jae-sung]]
+|-
+|CM ||'''16'''||[[Ki Sung-yueng]] ([[Captain (association football)|c]])
+|-
+|CM ||'''13'''||[[Koo Ja-cheol]] || || {{suboff|73}}
+|-
+|RF ||'''11'''||[[Hwang Hee-chan]] || {{yel|55}}
+|-
+|CF ||'''9''' ||[[Kim Shin-wook]] || {{yel|13}} || {{suboff|66}}
+|-
+|LF ||'''7''' ||[[Son Heung-min]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''12'''||[[Kim Min-woo (footballer)|Kim Min-woo]] || || {{subon|28}}
+|-
+|MF ||'''15'''||[[Jung Woo-young]] || || {{subon|66}}
+|-
+|MF ||'''10'''||[[Lee Seung-woo]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Shin Tae-yong]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Andreas Granqvist]] (Sweden)<ref name="SWE-KOR recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="SWE-KOR line-ups"/>
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+<br />Juan Carlos Mora ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Bertrand Brial ([[New Caledonian Football Federation|New Caledonia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+<br />Taleb Al Maari ([[Qatar Football Association|Qatar]])
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|}
+
+===South Korea vs Mexico===
+The two teams had met in 12 matches, including one game at the [[1998 FIFA World Cup]] group stage, won by Mexico [[1998 FIFA World Cup Group E#South Korea vs Mexico|3–1]].<ref name=Kit14/> The match was attended by the President of South Korea, [[Moon Jae-in]].
+
+In the 12th minute, [[Hirving Lozano]] made a block to deny [[Lee Yong (footballer, born 1986)|Lee Yong]]. Nine minutes later, [[Son Heung-min]] shot a low drive which [[Héctor Moreno]] helped to keep out. [[Jang Hyun-soo]] handled [[Andrés Guardado]]'s cross and the referee awarded a penalty, [[Carlos Vela]] stepped up and sent [[Jo Hyeon-woo]] the wrong way. Two minutes later, [[Miguel Layún]] lashed his effort over from close range. South Korea wanted a penalty of their own after the restart when [[Moon Seon-min]]'s strike clipped [[Carlos Salcedo]]'s arm, but the referee waved away their appeals. Jo lunged to his right to tip [[Javier Hernández]]'s shot wide.<ref name="Goal South Korea v Mexico">{{cite web |last=Ridge |first=Patric |title=Hernandez nets landmark goal as last 16 beckons |url=http://www.goal.com/en/match/korea-republic-v-mexico/9jxgq4wwe6nxt5vuukii7vsh5 |website=Goal.com |date=23 June 2018}}</ref> Lozano drove into space, Vela drew away to the right as the ball went left to Hernández, who checked back and clipped low past Jo.<ref name="BBC South Korea v Mexico">{{cite web |last=Skelton |first=Jack |title=South Korea 1 Mexico 2 |url=https://www.bbc.com/sport/football/44439169 |work=BBC Sport |date=23 June 2018}}</ref> In the third minute of stoppage time, Son struck from 20-yards into the top-left corner.<ref name="Goal South Korea v Mexico"/>
+
+Before Son's goal, South Korea had gone 288 minutes without scoring at the World Cup, their longest ever such drought.<ref name="KOR-MEX recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/mexico-momentum-continues-korea-republic-left-reeling-2966451 |title=Mexico momentum continues, Korea Republic left reeling |publisher=FIFA |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520050517/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/mexico-momentum-continues-korea-republic-left-reeling-2966451 |archive-date=20 May 2026}}</ref> Hernández scored his 50th goal for Mexico, becoming the inaugural player of the Mexico national team to reach that milestone. Mexico has won consecutive matches at the World Cup starting with their inaugural achievement at the 2002 World Cup. Hernández is the third player to score at three World Cups, preceded by Mexico's [[Cuauhtémoc Blanco]] and [[Rafael Márquez]].<ref name="BBC South Korea v Mexico"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=f3
+|date={{Start date|2018|6|23|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|KOR}}
+|score={{score link|2018 FIFA World Cup Group F#South Korea vs Mexico|1–2}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Son Heung-min]] {{goal|90+3}}
+|goals2=
+*[[Carlos Vela|Vela]] {{goal|26|pen.}}
+*[[Javier Hernández|Hernández]] {{goal|66}}
+|stadium=[[Rostov Arena]], [[Rostov-on-Don]]
+|attendance=43,472
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331549 |title=Korea Republic vs Mexico {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/cb05eed2e853f88/original/pqsowqotl3ud0lzriuu6-pdf.pdf |title=Match report – Group F – Korea Republic v Mexico |publisher=[[FIFA]] |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063308/https://digitalhub.fifa.com/m/cb05eed2e853f88/original/pqsowqotl3ud0lzriuu6-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _kore18h
+ |pattern_b  = _kore18h
+ |pattern_ra = _kore18h
+ |pattern_sh =
+ |pattern_so = _kor18H
+ |leftarm    = E20325
+ |body       = E20325
+ |rightarm   = E20325
+ |shorts     = 000000
+ |socks      = E20325
+ |title      = {{nowrap|South Korea}}<ref name="KOR-MEX line-ups">{{cite web |url=https://digitalhub.fifa.com/m/270b088530e1e4d1/original/kdkv78mmdxiywpir34xd-pdf.pdf |title=Tactical Line-up – Group F – Korea Republic v Mexico |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175444/https://digitalhub.fifa.com/m/270b088530e1e4d1/original/kdkv78mmdxiywpir34xd-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex18a
+ |pattern_b  = _mex18a
+ |pattern_ra = _mex18a
+ |pattern_sh = _mex18a
+ |pattern_so = _mex18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 960000
+ |socks      = FFFFFF
+ |title      = Mexico<ref name="KOR-MEX line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Jo Hyeon-woo]]
+|-
+|RB ||'''2''' ||[[Lee Yong (footballer, born 1986)|Lee Yong]] || {{yel|63}}
+|-
+|CB ||'''20'''||[[Jang Hyun-soo]]
+|-
+|CB ||'''19'''||[[Kim Young-gwon]] || {{yel|58}}
+|-
+|LB ||'''12'''||[[Kim Min-woo (footballer)|Kim Min-woo]] || || {{suboff|84}}
+|-
+|RM ||'''18'''||[[Moon Seon-min]] || || {{suboff|77}}
+|-
+|CM ||'''8''' ||[[Ju Se-jong]] || || {{suboff|64}}
+|-
+|CM ||'''16'''||[[Ki Sung-yueng]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Hwang Hee-chan]]
+|-
+|CF ||'''17'''||[[Lee Jae-sung (footballer, born 1992)|Lee Jae-sung]]
+|-
+|CF ||'''7''' ||[[Son Heung-min]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Lee Seung-woo]] || {{yel|72}} || {{subon|64}}
+|-
+|MF ||'''15'''||[[Jung Woo-young]] || {{yel|80}} || {{subon|77}}
+|-
+|DF ||'''14'''||[[Hong Chul]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Shin Tae-yong]]
+|}
+|valign="top"|[[File:KOR-MEX 2018-06-23.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|RB ||'''21'''||[[Edson Álvarez]]
+|-
+|CB ||'''3''' ||[[Carlos Salcedo]]
+|-
+|CB ||'''15'''||[[Héctor Moreno]]
+|-
+|LB ||'''23'''||[[Jesús Gallardo]]
+|-
+|CM ||'''7''' ||[[Miguel Layún]]
+|-
+|CM ||'''16'''||[[Héctor Herrera]]
+|-
+|CM ||'''18'''||[[Andrés Guardado]] ([[Captain (association football)|c]]) || || {{suboff|68}}
+|-
+|RF ||'''11'''||[[Carlos Vela]] || || {{suboff|77}}
+|-
+|CF ||'''14'''||[[Javier Hernández]]
+|-
+|LF ||'''22'''||[[Hirving Lozano]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Rafael Márquez]] || || {{subon|68}}
+|-
+|MF ||'''17'''||[[Jesús Manuel Corona]] || || {{subon|71}}
+|-
+|MF ||'''10'''||[[Giovani dos Santos]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Juan Carlos Osorio]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Javier Hernández]] (Mexico)<ref name="KOR-MEX recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="KOR-MEX line-ups"/>
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[John Pitti]] ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Gabriel Victoria ([[Panamanian Football Federation|Panama]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===Germany vs Sweden===
+The two teams had met in 36 previous matches, including four FIFA World Cup games, the latest of these being a 2–0 Germany win in the [[2006 FIFA World Cup|2006 World Cup]] round of 16.<ref>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=13}}</ref>
+
+[[Julian Draxler]] had a shot blocked from close range before he toe-poked a left-footed effort narrowly wide from a tight angle soon after. [[Sebastian Rudy]] left the field with a bloody nose after a collision with [[Ola Toivonen]] moments before he burst into the box to control a [[Viktor Claesson]] cross on his chest and lift his shot over [[Manuel Neuer]] into the far corner of the net. Three minutes into the second half, Germany drew level when [[Timo Werner]]'s cross found [[Marco Reus]], who met it with his knee and turned the ball into the bottom corner of the net. With just under 10 minutes left, [[Jérôme Boateng]] was dismissed after picking up a second yellow card for a tackle on [[Marcus Berg]], and Neuer then made a one-handed save to deny substitute [[John Guidetti]] from a downward header.<ref>{{cite web |last=Creek |first=Stephen |title=Late Kroos winner brings Low's men back from the brink |url=http://www.goal.com/en-in/match/germany-v-sweden/80qr9u7ckj9e6w9ohl7ryliw9 |work=Goal.com |date=23 June 2018}}</ref> [[Toni Kroos]] tapped a free-kick short to Reus before sweeping the return pass into the top right corner from left of the penalty area with his right foot.<ref name="BBC Germany v Sweden">{{cite web |last=Sutcliffe |first=Steve |title=Germany 2 Sweden 1 |url=https://www.bbc.com/sport/football/44439176 |work=BBC Sport |date=23 June 2018}}</ref>
+
+Kroos' goal in (94.39) is the latest winner ever scored on the World Cup stage. The previous record belonged to [[Francesco Totti]], who found the net late on (94.26) [[2006 FIFA World Cup knockout stage#Italy vs Australia|against Australia in 2006]].<ref name="GER-SWE recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/germany-sweden-kroos-late-win-2966728 |title=Kroos strikes late in thrilling win |publisher=FIFA |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520050555/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/germany-sweden-kroos-late-win-2966728 |archive-date=20 May 2026}}</ref> Germany came from behind at half-time to win a World Cup match for the first time since 1974 – which was also against Sweden (0–1 at HT, won 4–2). Sweden have lost a World Cup group-stage match for the first time since June 1990, when they [[1990 FIFA World Cup Group C#Sweden vs Costa Rica|lost to Costa Rica]] – this defeat ends a run of 10 group games unbeaten. Boateng is the first player to be sent off at the World Cup for Germany since [[Miroslav Klose]] in 2010 [[2010 FIFA World Cup Group D#Germany vs Serbia|against Serbia]].<ref name="BBC Germany v Sweden"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=f4
+|date={{Start date|2018|6|23|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|GER}}
+|score={{score link|2018 FIFA World Cup Group F#Germany vs Sweden|2–1}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Marco Reus|Reus]] {{goal|48}}
+*[[Toni Kroos|Kroos]] {{goal|90+5}}
+|goals2=
+*[[Ola Toivonen|Toivonen]] {{goal|32}}
+|stadium=[[Fisht Olympic Stadium]], [[Sochi]]
+|attendance=44,287
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331501 |title=Germany vs Sweden {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/719806092a67bfb7/original/i7zc4ydqlapwd8eerliv-pdf.pdf |title=Match report – Group F – Germany v Sweden |publisher=[[FIFA]] |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063331/https://digitalhub.fifa.com/m/719806092a67bfb7/original/i7zc4ydqlapwd8eerliv-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger18home
+ |pattern_b  = _ger18H
+ |pattern_ra = _ger18home
+ |pattern_sh = _duit18h
+ |pattern_so = _3_stripes_black
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany<ref name="GER-SWE line-ups">{{cite web |url=https://digitalhub.fifa.com/m/55de287a5ead0094/original/xe8fmbsf3pgmaejkhkdk-pdf.pdf |title=Tactical Line-up – Group F – Germany v Sweden |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=23 June 2018 |access-date=23 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182306/https://digitalhub.fifa.com/m/55de287a5ead0094/original/xe8fmbsf3pgmaejkhkdk-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _zwed18a
+ |pattern_b  = _swe18a
+ |pattern_ra = _zwed18a
+ |pattern_sh = _zwed18a
+ |pattern_so = _zwed18a
+ |leftarm    = 000060
+ |body       = 000060
+ |rightarm   = 000060
+ |shorts     = 15244D
+ |socks      = 032392
+ |title      = Sweden<ref name="GER-SWE line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''18'''||[[Joshua Kimmich]]
+|-
+|CB ||'''16'''||[[Antonio Rüdiger]]
+|-
+|CB ||'''17'''||[[Jérôme Boateng]] || {{sent off|2|71|82}}
+|-
+|LB ||'''3''' ||[[Jonas Hector]] || || {{suboff|87}}
+|-
+|CM ||'''19'''||[[Sebastian Rudy]] || || {{suboff|31}}
+|-
+|CM ||'''8''' ||[[Toni Kroos]]
+|-
+|RW ||'''13'''||[[Thomas Müller]]
+|-
+|AM ||'''7''' ||[[Julian Draxler]] || || {{suboff|46}}
+|-
+|LW ||'''11'''||[[Marco Reus]]
+|-
+|CF ||'''9''' ||[[Timo Werner]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[İlkay Gündoğan]] || || {{subon|31}}
+|-
+|FW ||'''23'''||[[Mario Gómez]] || || {{subon|46}}
+|-
+|MF ||'''20'''||[[Julian Brandt]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-SWE 2018-06-23.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Robin Olsen]]
+|-
+|RB ||'''2''' ||[[Mikael Lustig]]
+|-
+|CB ||'''3''' ||[[Victor Lindelöf]]
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Ludwig Augustinsson]]
+|-
+|RM ||'''17'''||[[Viktor Claesson]] || || {{suboff|74}}
+|-
+|CM ||'''7''' ||[[Sebastian Larsson]] || {{yel|90+7}}
+|-
+|CM ||'''8''' ||[[Albin Ekdal]] || {{yel|52}}
+|-
+|LM ||'''10'''||[[Emil Forsberg]]
+|-
+|CF ||'''9''' ||[[Marcus Berg]] || || {{suboff|90}}
+|-
+|CF ||'''20'''||[[Ola Toivonen]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Jimmy Durmaz]] || || {{subon|74}}
+|-
+|FW ||'''11'''||[[John Guidetti]] || || {{subon|78}}
+|-
+|FW ||'''22'''||[[Isaac Kiese Thelin]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Janne Andersson]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Marco Reus]] (Germany)<ref name="GER-SWE recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="GER-SWE line-ups"/>
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+<br />Tomasz Listkiewicz ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ryuji Sato]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Cyril Gringore ([[French Football Federation|France]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===South Korea vs Germany===
+[[File:South Korea vs Germany 2018 World Cup 15.jpg|thumb|The German team.]]
+The two teams had faced each other three times, including two [[FIFA World Cup]] games, one at the [[1994 FIFA World Cup]] group stage, a Germany [[1994 FIFA World Cup Group C#Germany vs South Korea|3–2]] victory.<ref name=Kit12/> and one at the [[2002 FIFA World Cup]] semi-finals, which ended with a [[2002 FIFA World Cup knockout stage#Germany vs South Korea|1–0]] victory for Germany, and despite South Korea's two previous losses, they were not eliminated just yet. [[File:South Korea vs Germany 2018 World Cup 13.jpg|thumb|left|The South Korean team.]]For South Korea to have any chance of advancing, Mexico would have to defeat Sweden in their match that same day, and South Korea would then have to defeat Germany by at least two goals, a feat predicted to be highly improbable going in, with the South Korean coach before the game predicting that it had a "one percent" chance of happening.<ref>{{Cite web|url=https://www.firstpost.com/sports/fifa-world-cup-2018-south-korea-have-one-percent-chance-of-staying-in-the-tournament-says-midfielder-ju-se-jong-4600471.html|title=FIFA World Cup 2018: South Korea have one percent chance of staying in the tournament, says midfielder Ju Se-jong|website=Firstpost}}</ref><ref>{{Cite web|url=https://www.youtube.com/watch?v=L3NxoRSztmE|title=Guus Hiddink's Reaction on South Korea Defeating Germany &#124; 거스 히딩크 감독의 카잔의 기적 반응|date=27 June 2018|via=YouTube}}</ref>
+
+[[Son Heung-min]] shot wide from the edge of the penalty area before [[Marco Reus]] shot one towards goal at the other end only to see it blocked. [[Leon Goretzka]] drew a one-handed save from [[Jo Hyeon-woo]] with a header from the middle of the penalty area, the South Korean goalkeeper diving to his right and pushing the ball away at full stretch. Two minutes into the second-half's stoppage time, Son's corner from the left reached [[Kim Young-gwon]] at the far post who scored into the right corner from six yards out with his left foot, the offside decision that followed was overruled by a VAR decision.<ref>{{cite web |last=Creek |first=Stephen |title=Defending champions crash out after Kazan collapse |url=http://www.goal.com/en-sg/news/3868/main/2018/06/28/45902092/south-korea-2-germany-0-defending-champions-crash-out-after |website=Goal.com |date=27 June 2018}}</ref> [[Ju Se-jong]] won the ball off [[Manuel Neuer]] who had been at the other end of the pitch in order to join the German attack, thus leaving the goal undefended, and hit a long ball to Son, who ran onto the ball and tapped into an empty net from close range to score the second.<ref name="KOR-GER recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-korea-republic--germany-2971533 |title=Germany crash out as Korea Republic end on high |publisher=FIFA |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520052245/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-korea-republic--germany-2971533 |archive-date=20 May 2026}}</ref><ref name="BBC South Korea v Germany">{{cite web |last=Emons |first=Michael |title=South Korea 2 Germany 0 |url=https://www.bbc.com/sport/football/44439270 |work=BBC Sport |date=27 June 2018}}</ref> Had Mexico defeated Sweden in their final group stage match that same day, a South Korean victory over Germany by at least two goals would have advanced South Korea to the round of 16 based on goal differential, at the expense of Sweden. However, since Sweden defeated Mexico 3–0, the South Koreans were eliminated despite their 2–0 victory over Germany. This marked the second time that South Korea failed to qualify for the knockout stage in consecutive World Cups, having been eliminated in the group stage at the previous [[2014 FIFA World Cup|tournament]] and in four consecutive World Cups from 1986 to 1998.
+
+[[File:South Korea vs Germany 2018 World Cup 40.jpg|thumb|Goal for South Korea.]]
+Germany were the fourth defending champions to be eliminated from the group stage at the World Cup in the last five tournaments, following [[France national football team|France]] in [[2002 FIFA World Cup|2002]], [[Italy national football team|Italy]] in [[2010 FIFA World Cup|2010]], and [[Spain national football team|Spain]] in [[2014 FIFA World Cup|2014]]; and since the new millennium, all champions eliminated in the group stage had been [[UEFA]] members. This was only the second time that Germany had been eliminated from the first round at the World Cup, having done so in [[1938 FIFA World Cup|1938]], while also being the first time since then that Germany failed to finish among the best eight teams of the tournament. However, this was the first time it happened after the first round was converted back to a group stage format in [[1950 FIFA World Cup|1950]]. This was Germany's first ever defeat against an Asian nation in a World Cup match in what was their sixth such match, and also the first time that Germany suffered two defeats in a same World Cup since [[2010 FIFA World Cup|2010]] (in which Germany lost by [[2010 FIFA World Cup Group D#Germany vs Serbia|1–0]] for [[Serbia national football team|Serbia]] in group stage and also by [[2010 FIFA World Cup knockout stage#Germany vs Spain|1–0]] for [[Spain national football team|Spain]] in the semi-finals). This was South Korea's first victory (and [[clean sheet]]) at the World Cup since their [[2010 FIFA World Cup Group B#South Korea vs Greece|2–0]] win over Greece in 2010. Son's goal for South Korea (95:52) was the latest goal Germany had ever conceded in a 90-minute World Cup match.<ref name="BBC South Korea v Germany"/> This was also the first time Germany finished bottom in the World Cup's group stage, one of the worst performances in their history; having been eliminated from the group stage of [[UEFA Euro 2000]] and [[UEFA Euro 2004|2004]]. South Korea's win also meant that [[Australia men's national soccer team|Australia]] was the only team from the [[Asian Football Confederation]] that failed to win a game in their 2018 World Cup campaign. Germany would also suffer the same fate again 4 years later in [[2022 FIFA World Cup|2022]], this time finishing 3rd of their group stage.
+
+<onlyinclude>{{#invoke:Football box|main|section=f5
+|date={{Start date|2018|6|27|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|KOR}}
+|score={{score link|2018 FIFA World Cup Group F#South Korea vs Germany|2–0}}
+|team2={{fb|GER}}
+|goals1=
+*[[Kim Young-gwon]] {{goal|90+2}}
+*[[Son Heung-min]] {{goal|90+6}}
+|goals2=
+|stadium=[[Kazan Arena]], [[Kazan]]
+|attendance=41,835
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331532 |title=Korea Republic vs Germany {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/4c6759397c767c60/original/nvasmittjvlndnmprpiw-pdf.pdf |title=Match report – Group F – Korea Republic v Germany |publisher=[[FIFA]] |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063628/https://digitalhub.fifa.com/m/4c6759397c767c60/original/nvasmittjvlndnmprpiw-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _kore18h
+ |pattern_b  = _kore18h
+ |pattern_ra = _kore18h
+ |pattern_sh =
+ |pattern_so = _kor18H
+ |leftarm    = E20325
+ |body       = E20325
+ |rightarm   = E20325
+ |shorts     = 000000
+ |socks      = E20325
+ |title      = {{nowrap|South Korea}}<ref name="KOR-GER line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5a936c3bbe6113cc/original/vp26cgdlpdhnx5ozjcd8-pdf.pdf |title=Tactical Line-up – Group F – Korea Republic v Germany |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175506/https://digitalhub.fifa.com/m/5a936c3bbe6113cc/original/vp26cgdlpdhnx5ozjcd8-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ger18A
+ |pattern_b  = _ger18A
+ |pattern_ra = _ger18A
+ |pattern_sh = _ger18a_1
+ |pattern_so = _ger18a_1
+ |leftarm    = 008B9F
+ |body       = 008B9F
+ |rightarm   = 008B9F
+ |shorts     = FFFFFF
+ |socks      = 008B9F
+ |title      = Germany<ref name="KOR-GER line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Jo Hyeon-woo]]
+|-
+|RB ||'''2''' ||[[Lee Yong (footballer, born 1986)|Lee Yong]]
+|-
+|CB ||'''5''' ||[[Yun Young-sun]]
+|-
+|CB ||'''19'''||[[Kim Young-gwon]]
+|-
+|LB ||'''14'''||[[Hong Chul]]
+|-
+|RM ||'''17'''||[[Lee Jae-sung (footballer, born 1992)|Lee Jae-sung]] || {{yel|23}}
+|-
+|CM ||'''15'''||[[Jung Woo-young]] || {{yel|9}}
+|-
+|CM ||'''20'''||[[Jang Hyun-soo]]
+|-
+|LM ||'''18'''||[[Moon Seon-min]] || {{yel|48}} || {{suboff|69}}
+|-
+|CF ||'''13'''||[[Koo Ja-cheol]] || || {{suboff|56}}
+|-
+|CF ||'''7''' ||[[Son Heung-min]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Hwang Hee-chan]] || || {{subon|56}} || {{suboff|79}}
+|-
+|MF ||'''8''' ||[[Ju Se-jong]] || || {{subon|69}}
+|-
+|DF ||'''22'''||[[Go Yo-han]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Shin Tae-yong]]
+|}
+|valign="top"|[[File:KOR-GER 2018-06-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''18'''||[[Joshua Kimmich]]
+|-
+|CB ||'''5''' ||[[Mats Hummels]]
+|-
+|CB ||'''15'''||[[Niklas Süle]]
+|-
+|LB ||'''3''' ||[[Jonas Hector]] || || {{suboff|78}}
+|-
+|CM ||'''6''' ||[[Sami Khedira]] || || {{suboff|58}}
+|-
+|CM ||'''8''' ||[[Toni Kroos]]
+|-
+|RW ||'''14'''||[[Leon Goretzka]] || || {{suboff|63}}
+|-
+|AM ||'''10'''||[[Mesut Özil]]
+|-
+|LW ||'''11'''||[[Marco Reus]]
+|-
+|CF ||'''9''' ||[[Timo Werner]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''23'''||[[Mario Gómez]] || || {{subon|58}}
+|-
+|FW ||'''13'''||[[Thomas Müller]] || || {{subon|63}}
+|-
+|MF ||'''20'''||[[Julian Brandt]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Jo Hyeon-woo]] (South Korea)<ref name="KOR-GER recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="KOR-GER line-ups"/>
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />Frank Anderson ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Christian Schiemann ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+<br />Corey Rockwell ([[United States Soccer Federation|United States]])
+<br />[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===Mexico vs Sweden===
+The two teams had met in nine previous matches, including a [[1958 FIFA World Cup]] group stage match won by Sweden [[1958 FIFA World Cup Group 3#Sweden vs Mexico|3–0]].<ref name=Kit14/>
+
+Sweden got the breakthrough five minutes into the second half, [[Ludwig Augustinsson]] volleyed past [[Guillermo Ochoa]] when [[Viktor Claesson]]'s mishit sat him up. The referee pointed to the spot when [[Héctor Moreno]] slid in on [[Marcus Berg]] and [[Andreas Granqvist]] shot into the top-left corner. In the 74th minute, substitute [[Isaac Kiese Thelin]] flicked on a long throw-in before [[Edson Álvarez]] accidentally hit the ball into his own net with his left thigh.<ref>{{cite web |last=Webber |first=Tom |title=Duo advance as world champions Germany bow out |url=http://www.goal.com/en/news/8/main/2018/06/27/45901442/mexico-0-sweden-3-duo-advance-as-world-champions-germany-bow |website=Goal.com |date=27 June 2018}}</ref>
+
+Mexico qualify for the knockout stages for the seventh consecutive World Cup despite this defeat thanks to South Korea's 2–0 victory over Germany.<ref name="MEX-SWE recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/powerhouse-sweden-overrun-mexico |title=Powerhouse Sweden overrun Mexico |publisher=FIFA |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520052103/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/powerhouse-sweden-overrun-mexico |archive-date=20 May 2026}}</ref> This was Sweden's biggest win in a World Cup match since they defeated Bulgaria [[1994 FIFA World Cup knockout stage#Match for third place|4–0]] in 1994 in the match for third place. Granqvist became the first Swedish player to score two or more goals in a single World Cup tournament since [[Henrik Larsson]] in 2002. This was Mexico's worst defeat at the World Cup since they were beaten [[1978 FIFA World Cup Group 2#West Germany vs Mexico|6–0]] by Germany in 1978. [[Jesús Gallardo]] was shown a yellow card after just 15 seconds in this game – the quickest anyone has ever been booked in the World Cup.<ref>{{cite web |last=Jennings |first=Patrick |title=Mexico 0 Sweden 3 |url=https://www.bbc.com/sport/football/44439277 |work=BBC Sport |date=27 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=f6
+|date={{Start date|2018|6|27|df=y}}
+|time=19:00 [[Yekaterinburg Time|YEKT]] ([[UTC+05:00|UTC+5]])
+|team1={{fb-rt|MEX}}
+|score={{score link|2018 FIFA World Cup Group F#Mexico vs Sweden|0–3}}
+|team2={{fb|SWE}}
+|goals1=
+|goals2=
+*[[Ludwig Augustinsson|Augustinsson]] {{goal|50}}
+*[[Andreas Granqvist|Granqvist]] {{goal|62|pen.}}
+*[[Edson Álvarez|Álvarez]] {{goal|74|o.g.}}
+|stadium=[[Central Stadium (Yekaterinburg)|Central Stadium]], [[Yekaterinburg]]
+|attendance=33,061
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331548 |title=Mexico vs Sweden {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/279b461c623317da/original/t2a6nselayrmyidw3zkt-pdf.pdf |title=Match report – Group F – Mexico v Sweden |publisher=[[FIFA]] |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063619/https://digitalhub.fifa.com/m/279b461c623317da/original/t2a6nselayrmyidw3zkt-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mex18h
+ |pattern_b  = _mex18h
+ |pattern_ra = _mex18h
+ |pattern_sh = _mex18h
+ |pattern_so = _mex18h
+ |leftarm    = 1A4D3E
+ |body       = 1A4D3E
+ |rightarm   = 1A4D3E
+ |shorts     = FFFFFF
+ |socks      = 960000
+ |title      = Mexico<ref name="MEX-SWE line-ups">{{cite web |url=https://digitalhub.fifa.com/m/347ad44c1c28c729/original/lft1grpjvhc8zkhfaqpp-pdf.pdf |title=Tactical Line-up – Group F – Mexico v Sweden |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175522/https://digitalhub.fifa.com/m/347ad44c1c28c729/original/lft1grpjvhc8zkhfaqpp-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _swe1719h
+ |pattern_b  = _zwed18h
+ |pattern_ra = _swe1719h
+ |pattern_sh = _zwed18h
+ |pattern_so = _zwed18h
+ |leftarm    = FFEC00
+ |body       = FFEC00
+ |rightarm   = FFEC00
+ |shorts     = 0000DD
+ |socks      = FFEC00
+ |title      = Sweden<ref name="MEX-SWE line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|RB ||'''21'''||[[Edson Álvarez]]
+|-
+|CB ||'''3''' ||[[Carlos Salcedo]]
+|-
+|CB ||'''15'''||[[Héctor Moreno]] || {{yel|61}}
+|-
+|LB ||'''23'''||[[Jesús Gallardo]] || {{yel|1}} || {{suboff|65}}
+|-
+|CM ||'''18'''||[[Andrés Guardado]] ([[Captain (association football)|c]]) || || {{suboff|75}}
+|-
+|CM ||'''16'''||[[Héctor Herrera]]
+|-
+|RW ||'''7''' ||[[Miguel Layún]] || {{yel|86}} || {{suboff|89}}
+|-
+|AM ||'''11'''||[[Carlos Vela]]
+|-
+|LW ||'''22'''||[[Hirving Lozano]]
+|-
+|CF ||'''14'''||[[Javier Hernández]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Marco Fabián]] || || {{subon|65}}
+|-
+|MF ||'''17'''||[[Jesús Manuel Corona]] || || {{subon|75}}
+|-
+|FW ||'''19'''||[[Oribe Peralta]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Juan Carlos Osorio]]
+|}
+|valign="top"|[[File:MEX-SWE 2018-06-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Robin Olsen]]
+|-
+|RB ||'''2''' ||[[Mikael Lustig]] || {{yel|88}}
+|-
+|CB ||'''3''' ||[[Victor Lindelöf]]
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Ludwig Augustinsson]]
+|-
+|RM ||'''17'''||[[Viktor Claesson]]
+|-
+|CM ||'''7''' ||[[Sebastian Larsson]] || {{yel|26}} || {{suboff|57}}
+|-
+|CM ||'''8''' ||[[Albin Ekdal]] || || {{suboff|80}}
+|-
+|LM ||'''10'''||[[Emil Forsberg]]
+|-
+|CF ||'''9''' ||[[Marcus Berg]] || || {{suboff|68}}
+|-
+|CF ||'''20'''||[[Ola Toivonen]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Gustav Svensson]] || || {{subon|57}}
+|-
+|FW ||'''22'''||[[Isaac Kiese Thelin]] || || {{subon|68}}
+|-
+|MF ||'''15'''||[[Oscar Hiljemark]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Janne Andersson]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Ludwig Augustinsson]] (Sweden)<ref name="MEX-SWE recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="MEX-SWE line-ups"/>
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+==Discipline==
+Fair play points would have been used as tiebreakers if the overall and head-to-head records of teams were tied. These were calculated based on yellow and red cards received in all group matches as follows:<ref name="regulations"/>
+*first yellow card: minus 1 point;
+*indirect red card (second yellow card): minus 3 points;
+*direct red card: minus 4 points;
+*yellow card and direct red card: minus 5 points;
+
+Only one of the above deductions were applied to a player in a single match.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Points
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{fb|SWE}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+!style="border-left:3px solid gray"| −5
+|-
+|align=left|{{fb|MEX}}
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+!style="border-left:3px solid gray"| −5
+|-
+|align=left|{{fb|GER}}
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"|  || 1 ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+!style="border-left:3px solid gray"| −5
+|-
+|align=left|{{fb|KOR}}
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 4 ||  ||  || 
+|style="border-left:3px solid gray"| 4 ||  ||  || 
+!style="border-left:3px solid gray"| −10
+|}
+
+==See also==
+*[[Germany at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[South Korea at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20171202100613/http://www.fifa.com/worldcup/groups/group=275085/index.html 2018 FIFA World Cup Group F], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group F}}
+[[Category:2018 FIFA World Cup group stage|F]]
+[[Category:Germany at the 2018 FIFA World Cup]]
+[[Category:Mexico at the 2018 FIFA World Cup]]
+[[Category:Sweden at the 2018 FIFA World Cup]]
+[[Category:South Korea at the 2018 FIFA World Cup]]
+[[Category:Football in Moscow]]
+[[Category:2018 in Moscow]]
+[[Category:Sport in Nizhny Novgorod]]
+[[Category:Sport in Rostov-on-Don]]
+[[Category:Sports competitions in Sochi]]
+[[Category:2018 in Sochi]]
+[[Category:Sports competitions in Kazan]]
+[[Category:2018 in Kazan]]
+[[Category:Sport in Yekaterinburg]]
+[[Category:Germany–Mexico sports relations|2018-06-17]]
+[[Category:Germany–South Korea sports relations|2018-06-17]]
+[[Category:Germany–Sweden sports relations|2018-06-17]]
+[[Category:Mexico–South Korea sports relations|2018-06-17]]
+[[Category:South Korea–Sweden sports relations|2018-06-17]]
+[[Category:2018 in Yekaterinburg]]
+[[Category:2018 in Nizhny Novgorod]]
+[[Category:2018 in Rostov-on-Don]]

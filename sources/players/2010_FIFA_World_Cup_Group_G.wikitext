@@ -1,0 +1,916 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=June 2018}}
+'''Group G of the [[2010 FIFA World Cup]]''' began on 15 June and ended on 25 June 2010.<ref>{{cite press release |title=Match Schedule 2010 FIFA World Cup South Africa |url=https://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |archive-url=https://web.archive.org/web/20091228213032/http://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |url-status=dead |archive-date=28 December 2009 |website=FIFA.com |publisher=Fédération Internationale de Football Association |accessdate=6 December 2009 }}</ref> The group consisted of reigning [[Copa América]] champion [[Brazil national football team|Brazil]], [[North Korea national football team|North Korea]], the [[Ivory Coast national football team|Ivory Coast]] and [[Portugal national football team|Portugal]].
+
+Brazil and Portugal were also drawn in the [[1966 FIFA World Cup#Group 3|same group]] at the [[1966 FIFA World Cup]], their previous official World Cup match. In 1966, the Portuguese team defeated Brazil 3–1, thus eliminating the [[1962 FIFA World Cup|defending champions]], to advance to the quarter-finals where they encountered and defeated North Korea (another team in Group G) 5–3 after trailing 0–3.
+
+As winners of the group, Brazil advanced to play against [[Chile national football team|Chile]] – runners-up in [[2010 FIFA World Cup Group H|Group H]] – in the Round of 16, while Portugal – the Group G runners-up – met [[Spain national football team|Spain]], who won Group H. Ivory Coast finished third in the group and North Korea finished bottom. The North Koreans had a goal difference of &minus;11, the worst of any team at the tournament, largely due to the 7–0 defeat they suffered against Portugal; that match was Portugal's biggest-ever World Cup win and North Korea's heaviest-ever defeat. It was also the first time a live football match was broadcast on North Korean television.<ref>{{Cite web|url=https://www.theguardian.com/football/2010/jun/21/north-korea-live-match-tv-7-0-beating|title=North Korea broadcasts live match on TV for first time (pity they lost 7-0)|publisher=[[The Guardian]]|date=21 June 2010|accessdate=24 September 2010|first=Jonathan|last=Watts|first2=David|last2=Hytner}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/southafrica2010/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=BRA
+|team2=POR
+|team3=CIV
+|team4=PRK
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2010 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=5 |ga_BRA=2
+|win_POR=1 |draw_POR=2 |loss_POR=0 |gf_POR=7 |ga_POR=0
+|win_CIV=1 |draw_CIV=1 |loss_CIV=1 |gf_CIV=4 |ga_CIV=3
+|win_PRK=0 |draw_PRK=0 |loss_PRK=3 |gf_PRK=1 |ga_PRK=12
+
+|name_BRA={{fb|BRA}}
+|name_POR={{fb|POR}}
+|name_CIV={{fb|CIV}}
+|name_PRK={{fb|PRK}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2010 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Brazil advanced to play Chile (runners-up of [[2010 FIFA World Cup Group H|Group H]]) in the [[2010 FIFA World Cup knockout stage#Brazil vs Chile|round of 16]].
+*Portugal advanced to play Spain (winners of [[2010 FIFA World Cup Group H|Group H]]) in the [[2010 FIFA World Cup knockout stage#Spain vs Portugal|round of 16]].
+
+==Matches==
+''All times local ([[UTC+02:00|UTC+2]])''
+
+===Ivory Coast vs Portugal===
+<onlyinclude>{{#invoke:Football box|main|section=g1
+|date={{Start date|2010|6|15|df=y}}
+|time=16:00
+|team1={{fb-rt|CIV}}
+|score={{score link|2010 FIFA World Cup Group G#Ivory Coast vs Portugal|0–0}}
+|team2={{fb|POR}}
+|goals1=
+|goals2=
+|stadium=[[Nelson Mandela Bay Stadium]], [[Port Elizabeth]]
+|attendance=37,034
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061489 |title=Côte d'Ivoire vs Portugal {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061489/report.html |title=2010 FIFA World Cup South Africa – Matches – Côte d'Ivoire v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210100859/http://www.fifa.com/worldcup/matches/round=249722/match=300061489/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/3a45de0939dcaec3/original/iyep7qjgjcqriewfq3lz-pdf.pdf |title=Match Report – Group G – Côte d'Ivoire v Portugal |publisher=[[FIFA]] |date=15 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055527/https://digitalhub.fifa.com/m/3a45de0939dcaec3/original/iyep7qjgjcqriewfq3lz-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _civ1012h
+ |pattern_b  = _civ1012h
+ |pattern_ra = _civ1012h
+ |pattern_sh = _civ1012h
+ |pattern_so = _whitetop
+ |leftarm    = FF8000
+ |body       = FF8000
+ |rightarm   = FF8000
+ |shorts     = FF8000
+ |socks      = FF8000
+ |title      = Ivory Coast<ref name="civ-por_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7af1654020ae8345/original/blyfheuvtsk33zi51mgn-pdf.pdf |title=Tactical Line-up – Group G – Côte d'Ivoire v Portugal |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 June 2010 |access-date=15 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181009/https://digitalhub.fifa.com/m/7af1654020ae8345/original/blyfheuvtsk33zi51mgn-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _por10a
+ |pattern_b  = _por1011a
+ |pattern_ra = _por10a
+ |pattern_sh = _por10a
+ |pattern_so = _por10a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 008000
+ |socks      = FFFFFF
+ |title      = Portugal<ref name="civ-por_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Boubacar Barry]]
+|-
+|RB ||'''20'''||[[Guy Demel]] || {{yel|21}}
+|-
+|CB ||'''4''' ||[[Kolo Touré]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Didier Zokora]] || {{yel|7}}
+|-
+|LB ||'''17'''||[[Siaka Tiéné]]
+|-
+|DM ||'''19'''||[[Yaya Touré]]
+|-
+|CM ||'''21'''||[[Emmanuel Eboué]] || || {{suboff|89}}
+|-
+|CM ||'''9''' ||[[Cheick Tioté]]
+|-
+|RW ||'''10'''||[[Gervinho]] || || {{suboff|82}}
+|-
+|LW ||'''8''' ||[[Salomon Kalou]] || || {{suboff|66}}
+|-
+|CF ||'''15'''||[[Aruna Dindane]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Didier Drogba]] || || {{subon|66}}
+|-
+|MF ||'''18'''||[[Abdul Kader Keïta|Kader Keïta]] || || {{subon|82}}
+|-
+|MF ||'''13'''||[[Romaric (footballer)|Romaric]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|valign="top"|[[File:CIV-POR 2010-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eduardo Carvalho|Eduardo]]
+|-
+|RB ||'''3''' ||[[Paulo Ferreira]]
+|-
+|CB ||'''2''' ||[[Bruno Alves]]
+|-
+|CB ||'''6''' ||[[Ricardo Carvalho]]
+|-
+|LB ||'''23'''||[[Fábio Coentrão]]
+|-
+|DM ||'''8''' ||[[Pedro Mendes (footballer, born 1979)|Pedro Mendes]]
+|-
+|CM ||'''20'''||[[Deco]] || || {{suboff|62}}
+|-
+|CM ||'''16'''||[[Raul Meireles]] || || {{suboff|85}}
+|-
+|RW ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]]) || {{yel|21}}
+|-
+|LW ||'''10'''||[[Danny (footballer)|Danny]] || || {{suboff|55}}
+|-
+|CF ||'''9''' ||[[Liédson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Simão Sabrosa|Simão]] || || {{subon|55}}
+|-
+|MF ||'''19'''||[[Tiago Mendes|Tiago]] || || {{subon|62}}
+|-
+|MF ||'''17'''||[[Ruben Amorim]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Carlos Queiroz]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Portugal)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf |title=2010 FIFA World Cup South Africa Match Appointments |date=24 June 2010 |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100705072219/http://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf| archive-date= 5 July 2010 | url-status= dead}}</ref>
+<br />Pablo Fandino ([[Uruguayan Football Association|Uruguay]])
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Miguel Nievas ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Brazil vs North Korea===
+<onlyinclude>{{#invoke:Football box|main|section=g2
+|date={{Start date|2010|6|15|df=y}}
+|time=20:30
+|team1={{fb-rt|BRA}}
+|score={{score link|2010 FIFA World Cup Group G#Brazil vs North Korea|2–1}}
+|team2={{fb|PRK}}
+|goals1=
+*[[Maicon Sisenando|Maicon]] {{goal|55}}
+*[[Elano]] {{goal|72}}
+|goals2=
+*[[Ji Yun-nam]] {{goal|89}}
+|stadium=[[Ellis Park Stadium]], [[Johannesburg]]
+|attendance=54,331
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061490 |title=Brazil vs Korea DPR {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061490/report.html |title=2010 FIFA World Cup South Africa – Matches – Brazil v Korea DPR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210101918/http://www.fifa.com/worldcup/matches/round=249722/match=300061490/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/1c971b716c236458/original/bnvseikk8hchf2goaktf-pdf.pdf |title=Match Report – Group G – Brazil v Korea DPR |publisher=[[FIFA]] |date=15 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055541/https://digitalhub.fifa.com/m/1c971b716c236458/original/bnvseikk8hchf2goaktf-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra10h
+ |pattern_b  = _bra10h
+ |pattern_ra = _bra10h
+ |pattern_sh = _bra10H
+ |pattern_so = _bra10hl
+ |leftarm    = FFDF00
+ |body       = FFDF00
+ |rightarm   = FFDF00
+ |shorts     = 0000BF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="bra-prk_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/d187152e972976c/original/motpfwbpl1xi8qcn6okd-pdf.pdf |title=Tactical Line-up – Group G – Brazil v Korea DPR |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 June 2010 |access-date=15 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172106/https://digitalhub.fifa.com/m/d187152e972976c/original/motpfwbpl1xi8qcn6okd-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _dpr10h
+ |pattern_b  = _dpr10H
+ |pattern_ra = 
+ |pattern_sh = _dpr10H
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = North Korea<ref name="bra-prk_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Maicon Sisenando|Maicon]]
+|-
+|CB ||'''3''' ||[[Lúcio]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Juan (footballer, born 1979)|Juan]]
+|-
+|LB ||'''6''' ||[[Michel Bastos]]
+|-
+|DM ||'''8''' ||[[Gilberto Silva]]
+|-
+|CM ||'''7''' ||[[Elano]] || || {{suboff|73}}
+|-
+|CM ||'''5''' ||[[Felipe Melo]] || || {{suboff|84}}
+|-
+|AM ||'''10'''||[[Kaká]] || || {{suboff|78}}
+|-
+|SS ||'''11'''||[[Robinho]]
+|-
+|CF ||'''9''' ||[[Luís Fabiano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13''' ||[[Dani Alves]] || || {{subon|73}}
+|-
+|FW ||'''21''' ||[[Nilmar]] || || {{subon|78}}
+|-
+|MF ||'''18''' ||[[Ramires]] || {{yel|88}} || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Dunga]]
+|}
+|valign="top"|[[File:BRA-PRK 2010-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ri Myong-guk]]
+|-
+|RB ||'''2''' ||[[Cha Jong-hyok]]
+|-
+|CB ||'''13'''||[[Pak Chol-jin]]
+|-
+|CB ||'''4''' ||[[Pak Nam-chol (footballer, born 1985)|Pak Nam-chol]]
+|-
+|LB ||'''5''' ||[[Ri Kwang-chon]]
+|-
+|DM ||'''3''' ||[[Ri Jun-il]]
+|-
+|RM ||'''11'''||[[Mun In-guk]] || || {{suboff|80}}
+|-
+|LM ||'''8''' ||[[Ji Yun-nam]]
+|-
+|AM ||'''10'''||[[Hong Yong-jo]] ([[Captain (association football)|c]])
+|-
+|AM ||'''17'''||[[An Yong-hak]]
+|-
+|CF ||'''9''' ||[[Jong Tae-se]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''6''' ||[[Kim Kum-il]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Kim Jong-hun (footballer, born 1956)|Kim Jong-hun]]
+|}
+|}
+[[File:FIFA World Cup 2010 Brazil North Korea 3.jpg|thumb|Brazil vs North Korea]]
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Maicon Sisenando|Maicon]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Gábor Erős ([[Hungarian Football Federation|Hungary]])
+<br />Tibor Vámos ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Subkhiddin Mohd Salleh]] ([[Football Association of Malaysia|Malaysia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Mu Yuxin ([[Chinese Football Association|China]])
+|}
+
+===Brazil vs Ivory Coast===
+<onlyinclude>{{#invoke:Football box|main|section=g3
+|date={{Start date|2010|6|20|df=y}}
+|time=20:30
+|team1={{fb-rt|BRA}}
+|score={{score link|2010 FIFA World Cup Group G#Brazil vs Ivory Coast|3–1}}
+|team2={{fb|CIV}}
+|goals1=
+*[[Luís Fabiano]] {{goal|25||50}}
+*[[Elano]] {{goal|62}}
+|goals2=
+*[[Didier Drogba|Drogba]] {{goal|79}}
+|stadium=[[FNB Stadium|Soccer City]], [[Johannesburg]]
+|attendance=84,455
+|referee=[[Stéphane Lannoy]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061488 |title=Brazil vs Côte d'Ivoire {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061488/report.html |title=2010 FIFA World Cup South Africa – Matches – Brazil v Côte d'Ivoire |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20160303165526/http://www.fifa.com/worldcup/matches/round=249722/match=300061488/report.html |archive-date=3 March 2016}} | {{cite web |url=https://digitalhub.fifa.com/m/28994152cf5dba26/original/puifxmwcf00rd9vgai18-pdf.pdf |title=Match Report – Group G – Brazil v Côte d'Ivoire |publisher=[[FIFA]] |date=20 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055918/https://digitalhub.fifa.com/m/28994152cf5dba26/original/puifxmwcf00rd9vgai18-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra10h
+ |pattern_b  = _bra10h
+ |pattern_ra = _bra10h
+ |pattern_sh = _bra10H
+ |pattern_so = _bra10al
+ |leftarm    = FFDF00
+ |body       = FFDF00
+ |rightarm   = FFDF00
+ |shorts     = 0000BF
+ |socks      = 0000BF
+ |title      = Brazil<ref name="bra-civ_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/10d997f2b7903e6a/original/fkofdpv3kvyrafopksql-pdf.pdf |title=Tactical Line-up – Group G – Brazil v Côte d'Ivoire |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 June 2010 |access-date=20 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172418/https://digitalhub.fifa.com/m/10d997f2b7903e6a/original/fkofdpv3kvyrafopksql-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _civ1012a
+ |pattern_b  = _civ1012a
+ |pattern_ra = _civ1012a
+ |pattern_sh = _civ1012a
+ |pattern_so = _civ1012a
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ivory Coast<ref name="bra-civ_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Maicon Sisenando|Maicon]]
+|-
+|CB ||'''3''' ||[[Lúcio]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Juan (footballer, born 1979)|Juan]]
+|-
+|LB ||'''6''' ||[[Michel Bastos]]
+|-
+|DM ||'''8''' ||[[Gilberto Silva]]
+|-
+|RM ||'''7''' ||[[Elano]] || || {{suboff|67}}
+|-
+|LM ||'''5''' ||[[Felipe Melo]]
+|-
+|AM ||'''10'''||[[Kaká]] || {{sent off|2|85|88}}
+|-
+|SS ||'''11'''||[[Robinho]] || || {{suboff|90+3}}
+|-
+|CF ||'''9''' ||[[Luís Fabiano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Dani Alves]] || || {{subon|67}}
+|-
+|MF ||'''18'''||[[Ramires]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Dunga]]
+|}
+|valign="top"|[[File:BRA-CIV 2010-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Boubacar Barry]]
+|-
+|RB ||'''20'''||[[Guy Demel]]
+|-
+|CB ||'''4''' ||[[Kolo Touré]]
+|-
+|CB ||'''5''' ||[[Didier Zokora]]
+|-
+|LB ||'''17'''||[[Siaka Tiéné]] || {{yel|31}}
+|-
+|DM ||'''19'''||[[Yaya Touré]]
+|-
+|CM ||'''21'''||[[Emmanuel Eboué]] || || {{suboff|72}}
+|-
+|CM ||'''9''' ||[[Cheick Tioté]] || {{yel|86}}
+|-
+|RW ||'''15'''||[[Aruna Dindane]] || || {{suboff|54}}
+|-
+|LW ||'''8''' ||[[Salomon Kalou]] || || {{suboff|68}}
+|-
+|CF ||'''11'''||[[Didier Drogba]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Gervinho]] || || {{subon|54}}
+|-
+|MF ||'''18'''||[[Abdul Kader Keïta|Kader Keïta]] || {{yel|75}} || {{subon|68}}
+|-
+|MF ||'''13'''||[[Romaric (footballer)|Romaric]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Luís Fabiano]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Eric Dansault ([[French Football Federation|France]])
+<br />Laurent Ugo ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Subkhiddin Mohd Salleh]] ([[Football Association of Malaysia|Malaysia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Mu Yuxin ([[Chinese Football Association|China]])
+|}
+
+===Portugal vs North Korea===
+<onlyinclude>{{#invoke:Football box|main|section=g4
+|date={{Start date|2010|6|21|df=y}}
+|time=13:30
+|team1={{fb-rt|POR}}
+|score={{score link|2010 FIFA World Cup Group G#Portugal vs North Korea|7–0}}
+|team2={{fb|PRK}}
+|goals1=
+*[[Raul Meireles|Meireles]] {{goal|29}}
+*[[Simão Sabrosa|Simão]] {{goal|53}}
+*[[Hugo Almeida|Almeida]] {{goal|56}}
+*[[Tiago Mendes|Tiago]] {{goal|60||89}}
+*[[Liédson]] {{goal|81}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|87}}
+|goals2=
+|stadium=[[Cape Town Stadium]], [[Cape Town]]
+|attendance=63,644
+|referee=[[Pablo Pozo]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061487 |title=Portugal vs Korea DPR {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061487/report.html |title=2010 FIFA World Cup South Africa – Matches – Portugal v Korea DPR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170702151012/http://www.fifa.com/worldcup/matches/round=249722/match=300061487/report.html |archive-date=2 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/1df0df855945de50/original/oj3nmfr1xcpextq7s1wx-pdf.pdf |title=Match Report – Group G – Portugal v Korea DPR |publisher=[[FIFA]] |date=21 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055945/https://digitalhub.fifa.com/m/1df0df855945de50/original/oj3nmfr1xcpextq7s1wx-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _por10h
+ |pattern_b  = _por1011h
+ |pattern_ra = _por10h
+ |pattern_sh = _por10H
+ |pattern_so = _por10h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Portugal<ref name="por-prk_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/67a733bcbb1710c/original/abt1rhy215kc3uhyaui5-pdf.pdf |title=Tactical Line-up – Group G – Portugal v Korea DPR |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 June 2010 |access-date=21 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172431/https://digitalhub.fifa.com/m/67a733bcbb1710c/original/abt1rhy215kc3uhyaui5-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _dpr10a
+ |pattern_b  = _dpr10A
+ |pattern_ra = 
+ |pattern_sh = _dpr10A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = North Korea<ref name="por-prk_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Eduardo Carvalho|Eduardo]]
+|-
+|RB ||'''13'''||[[Miguel Monteiro|Miguel]]
+|-
+|CB ||'''6''' ||[[Ricardo Carvalho]]
+|-
+|CB ||'''2''' ||[[Bruno Alves]]
+|-
+|LB ||'''23'''||[[Fábio Coentrão]]
+|-
+|DM ||'''8''' ||[[Pedro Mendes (footballer, born 1979)|Pedro Mendes]] || {{yel|38}}
+|-
+|CM ||'''19'''||[[Tiago Mendes|Tiago]]
+|-
+|CM ||'''16'''||[[Raul Meireles]] || || {{suboff|70}}
+|-
+|RW ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|LW ||'''11'''||[[Simão Sabrosa|Simão]] || || {{suboff|74}}
+|-
+|CF ||'''18'''||[[Hugo Almeida]] ||{{yel|70}} || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Miguel Veloso]] || || {{subon|70}}
+|-
+|DF ||'''5''' ||[[Duda (footballer, born 1980)|Duda]] || || {{subon|74}}
+|-
+|FW ||'''9''' ||[[Liédson]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Carlos Queiroz]]
+|}
+|valign="top"|[[File:POR-PKR 2010-6-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ri Myong-guk]]
+|-
+|RB ||'''2''' ||[[Cha Jong-hyok]] || || {{suboff|75}}
+|-
+|CB ||'''13'''||[[Pak Chol-jin]] || {{yel|32}}
+|-
+|CB ||'''3''' ||[[Ri Jun-il]]
+|-
+|CB ||'''8''' ||[[Ji Yun-nam]]
+|-
+|LB ||'''5''' ||[[Ri Kwang-chon]]
+|-
+|DM ||'''17'''||[[An Yong-hak]]
+|-
+|RM ||'''11'''||[[Mun In-guk]] || || {{suboff|58}}
+|-
+|CM ||'''4''' ||[[Pak Nam-chol (footballer, born 1985)|Pak Nam-chol]] || || {{suboff|58}}
+|-
+|LM ||'''10'''||[[Hong Yong-jo]] ([[Captain (association football)|c]]) || {{yel|47}}
+|-
+|CF ||'''9''' ||[[Jong Tae-se]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''6''' ||[[Kim Kum-il]] || || {{subon|58}}
+|-
+|MF ||'''15'''||[[Kim Yong-jun (footballer)|Kim Yong-jun]] || || {{subon|58}}
+|-
+|DF ||'''16'''||[[Nam Song-chol]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Kim Jong-hun (footballer, born 1956)|Kim Jong-hun]]
+|}
+|}
+[[File:FIFA World Cup 2010 Portugal North Korea3.jpg|thumb|Portugal vs North Korea]]
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Portugal)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Patricio Basualto ([[Football Federation of Chile|Chile]])
+<br />Francisco Mondria ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Enock Molefe ([[South African Football Association|South Africa]])
+|}
+
+===Portugal vs Brazil===
+<onlyinclude>{{#invoke:Football box|main|section=g5
+|date={{Start date|2010|6|25|df=y}}
+|time=16:00
+|team1={{fb-rt|POR}}
+|score={{score link|2010 FIFA World Cup Group G#Portugal vs Brazil|0–0}}
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+|stadium=[[Moses Mabhida Stadium]], [[Durban]]
+|attendance=62,712
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300111111 |title=Portugal vs Brazil {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300111111/report.html |title=2010 FIFA World Cup South Africa – Matches – Portugal v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210100440/http://www.fifa.com/worldcup/matches/round=249722/match=300111111/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/648053f6e5098201/original/g589heu96xzpkpzdf8ft-pdf.pdf |title=Match Report – Group G – Portugal v Brazil |publisher=[[FIFA]] |date=25 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060421/https://digitalhub.fifa.com/m/648053f6e5098201/original/g589heu96xzpkpzdf8ft-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _por10h
+ |pattern_b  = _por1011h
+ |pattern_ra = _por10h
+ |pattern_sh = _por10h
+ |pattern_so = _por10H
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = 008000
+ |title      = Portugal<ref name="por-bra_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/264ece31c5c25b70/original/cppa7ff4nrlsehbilnnr-pdf.pdf |title=Tactical Line-up – Group G – Portugal v Brazil |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=25 June 2010 |access-date=25 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172759/https://digitalhub.fifa.com/m/264ece31c5c25b70/original/cppa7ff4nrlsehbilnnr-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _bra10h
+ |pattern_b  = _bra10h
+ |pattern_ra = _bra10h
+ |pattern_sh = _bra10H
+ |pattern_so = _bra10hl
+ |leftarm    = FFDF00
+ |body       = FFDF00
+ |rightarm   = FFDF00
+ |shorts     = 0000BF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="por-bra_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Eduardo Carvalho|Eduardo]]
+|-
+|RB ||'''21'''||[[Ricardo Costa (footballer, born 1981)|Ricardo Costa]]
+|-
+|CB ||'''6''' ||[[Ricardo Carvalho]]
+|-
+|CB ||'''2''' ||[[Bruno Alves]]
+|-
+|LB ||'''5''' ||[[Duda (footballer, born 1980)|Duda]] || {{yel|25}} || {{suboff|54}}
+|-
+|DM ||'''15'''||[[Pepe (footballer, born 1983)|Pepe]] || {{yel|40}} || {{suboff|64}}
+|-
+|CM ||'''19'''||[[Tiago Mendes|Tiago]] || {{yel|31}}
+|-
+|CM ||'''16'''||[[Raul Meireles]] || || {{suboff|84}}
+|-
+|RW ||'''10'''||[[Danny (footballer)|Danny]]
+|-
+|LW ||'''23'''||[[Fábio Coentrão]] || {{yel|45}}
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Simão Sabrosa|Simão]] || || {{subon|54}}
+|-
+|MF ||'''8''' ||[[Pedro Mendes (footballer, born 1979)|Pedro Mendes]] || || {{subon|64}}
+|-
+|MF ||'''14'''||[[Miguel Veloso]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Carlos Queiroz]]
+|}
+|valign="top"|[[File:POR-BRA 2010-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Maicon Sisenando|Maicon]]
+|-
+|CB ||'''3''' ||[[Lúcio]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Juan (footballer, born 1979)|Juan]] || {{yel|25}}
+|-
+|LB ||'''6''' ||[[Michel Bastos]]
+|-
+|DM ||'''8''' ||[[Gilberto Silva]]
+|-
+|RM ||'''13'''||[[Dani Alves]]
+|-
+|LM ||'''5''' ||[[Felipe Melo]] || {{yel|43}} || {{suboff|44}}
+|-
+|RF ||'''21'''||[[Nilmar]]
+|-
+|CF ||'''19'''||[[Júlio Baptista]] || || {{suboff|82}}
+|-
+|LF ||'''9''' ||[[Luís Fabiano]] || {{yel|15}} || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Josué Anunciado de Oliveira|Josué]] || || {{subon|44}}
+|-
+|MF ||'''18'''||[[Ramires]] || || {{subon|82}}
+|-
+|FW ||'''23'''||[[Grafite]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Dunga]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Portugal)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Brent Best ([[New Zealand Football|New Zealand]])
+|}
+
+===North Korea vs Ivory Coast===
+<onlyinclude>{{#invoke:Football box|main|section=g6
+|date={{Start date|2010|6|25|df=y}}
+|time=16:00
+|team1={{fb-rt|PRK}}
+|score={{score link|2010 FIFA World Cup Group G#North Korea vs Ivory Coast|0–3}}
+|team2={{fb|CIV}}
+|goals1=
+|goals2=
+*[[Yaya Touré|Y. Touré]] {{goal|14}}
+*[[Romaric (footballer)|Romaric]] {{goal|20}}
+*[[Salomon Kalou|Kalou]] {{goal|82}}
+|stadium=[[Mbombela Stadium]], [[Nelspruit]]
+|attendance=34,763
+|referee=[[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061486 |title=Korea DPR vs Côte d'Ivoire {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061486/report.html |title=2010 FIFA World Cup South Africa – Matches – Korea DPR v Côte d'Ivoire |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170503150642/http://www.fifa.com/worldcup/matches/round=249722/match=300061486/report.html |archive-date=3 May 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/171cf06c478db210/original/wznjbg7tbuxuqtsf59sf-pdf.pdf |title=Match Report – Group G – Korea DPR v Côte d'Ivoire |publisher=[[FIFA]] |date=25 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060404/https://digitalhub.fifa.com/m/171cf06c478db210/original/wznjbg7tbuxuqtsf59sf-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _dpr10h
+ |pattern_b  = _dpr10H
+ |pattern_ra = 
+ |pattern_sh = _dpr10H
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = North Korea<ref name="prk-civ_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/48e7e90ad5c953cf/original/rh0y7t9lnfmddcnslxcq-pdf.pdf |title=Tactical Line-up – Group G – Korea DPR v Côte d'Ivoire |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=25 June 2010 |access-date=25 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172812/https://digitalhub.fifa.com/m/48e7e90ad5c953cf/original/rh0y7t9lnfmddcnslxcq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _civ1012a
+ |pattern_b  = _civ1012a
+ |pattern_ra = _civ1012a
+ |pattern_sh = _civ1012a
+ |pattern_so = _civ1012a
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ivory Coast<ref name="prk-civ_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ri Myong-guk]]
+|-
+|SW ||'''3''' ||[[Ri Jun-il]]
+|-
+|RB ||'''2''' ||[[Cha Jong-hyok]]
+|-
+|CB ||'''13'''||[[Pak Chol-jin]]
+|-
+|CB ||'''8''' ||[[Ji Yun-nam]]
+|-
+|LB ||'''5''' ||[[Ri Kwang-chon]]
+|-
+|RM ||'''10'''||[[Hong Yong-jo]] ([[Captain (association football)|c]])
+|-
+|CM ||'''17'''||[[An Yong-hak]]
+|-
+|CM ||'''4''' ||[[Pak Nam-chol (footballer, born 1985)|Pak Nam-chol]]
+|-
+|LM ||'''11'''||[[Mun In-guk]] || || {{suboff|67}}
+|-
+|CF ||'''9''' ||[[Jong Tae-se]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||Choe Kum-chol || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Kim Jong-hun (footballer, born 1956)|Kim Jong-hun]]
+|}
+|valign="top"|[[File:PRK-CIV 2010-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Boubacar Barry]]
+|-
+|RB ||'''21'''||[[Emmanuel Eboué]]
+|-
+|CB ||'''4''' ||[[Kolo Touré]]
+|-
+|CB ||'''5''' ||[[Didier Zokora]]
+|-
+|LB ||'''3''' ||[[Arthur Boka]]
+|-
+|DM ||'''19'''||[[Yaya Touré]]
+|-
+|CM ||'''13'''||[[Romaric (footballer)|Romaric]] || || {{suboff|79}}
+|-
+|CM ||'''9''' ||[[Cheick Tioté]]
+|-
+|RW ||'''18'''||[[Abdul Kader Keïta|Kader Keïta]] || || {{suboff|64}}
+|-
+|LW ||'''10'''||[[Gervinho]] || || {{suboff|64}}
+|-
+|CF ||'''11'''||[[Didier Drogba]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''8''' ||[[Salomon Kalou]] || || {{subon|64}}
+|-
+|FW ||'''15'''||[[Aruna Dindane]] || || {{subon|64}}
+|-
+|FW ||'''7''' ||[[Seydou Doumbia]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Didier Drogba]] (Ivory Coast)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Fermín Martínez Ibánez ([[Royal Spanish Football Federation|Spain]])
+<br />Juan Carlos Yuste Jiménez ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Ivory Coast at the FIFA World Cup]]
+*[[North Korea at the FIFA World Cup]]
+*[[Portugal at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Group G}}
+[[Category:2010 FIFA World Cup group stage|G]]
+[[Category:Brazil at the 2010 FIFA World Cup|Group]]
+[[Category:Portugal at the 2010 FIFA World Cup|group]]
+[[Category:North Korea at the 2010 FIFA World Cup]]
+[[Category:Ivory Coast at the 2010 FIFA World Cup]]
+[[Category:Sports competitions in Gqeberha]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Sports competitions in Cape Town]]
+[[Category:2010s in Cape Town]]
+[[Category:Sports competitions in Durban]]
+[[Category:Mbombela]]
+[[Category:Sport in Mpumalanga]]

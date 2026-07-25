@@ -1,0 +1,906 @@
+{{Short description|Football tournament details}}
+{{Use dmy dates|date=June 2018}}
+Play in '''Group F of the [[1990 FIFA World Cup]]''' completed on 21 June 1990. [[England national football team|England]] won the group and advanced to the second round, along with the [[Republic of Ireland national football team|Republic of Ireland]] and the [[Netherlands national football team|Netherlands]]. [[Egypt national football team|Egypt]] failed to advance.<ref>{{cite web |url=https://www.rsssf.org/tables/90full.html |title=World Cup 1990 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> This group has the record (along with the 1982 Group 1) of the most draws (five) of any "group round" in World Cup history. Both the [[Republic of Ireland]] and the [[Netherlands]] advanced but finished with identical records—with identical points, goal difference, goals scored, as well as drawing with each other—resulting in the drawing of lots to determine their position.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+|class_rules=[[1990 FIFA World Cup#Group stage|Group stage tiebreakers]]
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407140015/http://www.fifa.com/worldcup/archive/italy1990/groups/index.html FIFA]
+
+|team1=ENG |team2=IRL |team3=NED |team4=EGY
+|result1=KO |result2=KO |result3=KO
+
+|win_NED=0 |draw_NED=3 |loss_NED=0 |gf_NED=2 |ga_NED=2
+|win_IRL=0 |draw_IRL=3 |loss_IRL=0 |gf_IRL=2 |ga_IRL=2
+|win_EGY=0 |draw_EGY=2 |loss_EGY=1 |gf_EGY=1 |ga_EGY=2
+|win_ENG=1 |draw_ENG=2 |loss_ENG=0 |gf_ENG=2 |ga_ENG=1
+
+|name_NED={{fb|NED}}
+|name_IRL={{fb|IRL}}
+|name_EGY={{fb|EGY}}
+|name_ENG={{fb|ENG}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1990 FIFA World Cup#Knockout stage|knockout stage]]}}
+|hth_NED=The Republic of Ireland and the Netherlands finished with identical records. With both teams assured of progressing, they were split by the drawing of lots to determine second and third place.
+|hth_IRL=NED
+}}</onlyinclude>
+
+==Matches==
+All times local ([[Central European Summer Time|CEST/UTC+2]])
+
+===England vs Republic of Ireland===
+{{see also|England–Republic of Ireland football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=F1
+|date={{Start date|1990|6|11|df=y}}
+|time=21:00
+|team1={{fb-rt|ENG}}
+|score={{score link|1990 FIFA World Cup Group F#England vs Republic of Ireland|1–1}}
+|team2={{fb|IRL}}
+|goals1=
+*[[Gary Lineker|Lineker]] {{goal|9}}
+|goals2=
+*[[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|73}}
+|stadium=[[Stadio Sant'Elia]], [[Cagliari]]
+|attendance=35,238
+|referee=[[Aron Schmidhuber]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/161 |title=England vs Republic of Ireland {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=161/index.html |title=1990 FIFA World Cup Italy – Matches – England v Republic of Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202052854/http://www.fifa.com/worldcup/matches/round=322/match=161/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=_eng90h
+|pattern_b=_eng90h
+|pattern_ra=_eng90h
+|pattern_sh=_eng90h
+|pattern_so=_navytop
+|leftarm=ffffff
+|body=ffffff
+|rightarm=ffffff
+|shorts=003060
+|socks=ffffff
+|title=England
+}}
+|{{Football kit
+ | pattern_la = _ireland90h
+ | pattern_b  = _ireland90h
+ | pattern_ra = _ireland90h
+ | pattern_sh = _ireland90h
+ | pattern_so = _3_stripes_white
+ | leftarm    = 076f24
+ | body       = 076f24
+ | rightarm   = 076f24
+ | shorts     = FFFFFF
+ | socks      = 076f24
+ | title      = Republic of Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]]
+|-
+|RB ||'''2''' ||[[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|CB ||'''6''' ||[[Terry Butcher]]
+|-
+|CB ||'''5''' ||[[Des Walker]]
+|-
+|LB ||'''3''' ||[[Stuart Pearce]]
+|-
+|RM ||'''8''' ||[[Chris Waddle]]
+|-
+|CM ||'''19'''||[[Paul Gascoigne]]
+|-
+|CM ||'''7''' ||[[Bryan Robson]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[John Barnes (footballer)|John Barnes]]
+|-
+|CF ||'''9''' ||[[Peter Beardsley]] || || {{suboff|69}}
+|-
+|CF ||'''10'''||[[Gary Lineker]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''12'''||[[Paul Parker (footballer)|Paul Parker]] 
+|-
+|GK ||'''13'''||[[Chris Woods]] 
+|-
+|MF ||'''16'''||[[Steve McMahon]] || {{yel|75}} || {{subon|69}}
+|-
+|MF ||'''17'''||[[David Platt (footballer)|David Platt]]
+|-
+|FW ||'''21'''||[[Steve Bull]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"| {{flagicon|ENG}} [[Bobby Robson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''2''' ||[[Chris Morris (footballer)|Chris Morris]]
+|-
+|CB ||'''4''' ||[[Mick McCarthy]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Kevin Moran (footballer)|Kevin Moran]]
+|-
+|LB ||'''3''' ||[[Steve Staunton]]
+|-
+|RM ||'''8''' ||[[Ray Houghton]]
+|-
+|CM ||'''7''' ||[[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CM ||'''13'''||[[Andy Townsend]]
+|-
+|LM ||'''11'''||[[Kevin Sheedy (Irish footballer)|Kevin Sheedy]]
+|-
+|CF ||'''9''' ||[[John Aldridge]] || || {{suboff|64}}
+|-
+|CF ||'''10'''||[[Tony Cascarino]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''12'''||[[David O'Leary]]
+|-
+|MF ||'''14'''||[[Chris Hughton]] 
+|-
+|FW ||'''17'''||[[Niall Quinn]] 
+|-
+|MF ||'''21'''||[[Alan McLoughlin]] || || {{subon|64}}
+|-
+|GK ||'''22'''||[[Gerry Peyton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+<br />[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|}
+
+===Netherlands vs Egypt===
+<onlyinclude>{{#invoke:Football box|main|section=F2
+|date={{Start date|1990|6|12|df=y}}
+|time=21:00
+|team1={{fb-rt|NED}}
+|score={{score link|1990 FIFA World Cup Group F#Netherlands vs Egypt|1–1}}
+|team2={{fb|EGY}}
+|goals1=
+*[[Wim Kieft|Kieft]] {{goal|58}}
+|goals2=
+*[[Magdi Abdelghani|Abdelghani]] {{goal|83|pen.}}
+|stadium=[[Stadio Renzo Barbera|Stadio La Favorita]], [[Palermo]]
+|attendance=33,288
+|referee=[[Emilio Soriano Aladrén]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/151 |title=Netherlands vs Egypt {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=151/index.html |title=1990 FIFA World Cup Italy – Matches – Netherlands v Egypt |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171109045022/http://www.fifa.com/worldcup/matches/round=322/match=151/index.html |archive-date=9 November 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands90a
+ | pattern_b  = _netherlands90a
+ | pattern_ra = _netherlands90a
+ | pattern_sh = _adidaswhite
+ | pattern_so = _color_3_stripes_orange
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FF5F00
+ | socks      = FFFFFF
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _ddr1990a
+ | pattern_b  =  _3_stripes_vneck_white1
+ | pattern_ra = _ddr1990a
+ | pattern_sh = _adidas_green
+ | pattern_so = _3_stripes_white
+ | leftarm    = 00A000
+ | body       = 00A000
+ | rightarm   = 00A000
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Egypt
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans van Breukelen]]
+|-
+|RB ||'''2''' ||[[Berry van Aerle]]
+|-
+|CB ||'''4''' ||[[Ronald Koeman]]
+|-
+|CB ||'''13'''||[[Graeme Rutjes]]
+|-
+|LB ||'''5''' ||[[Adri van Tiggelen]]
+|-
+|DM ||'''3''' ||[[Frank Rijkaard]]
+|-
+|CM ||'''6''' ||[[Jan Wouters]]
+|-
+|CM ||'''10'''||[[Ruud Gullit]] ([[Captain (association football)|c]])
+|-
+|RW ||'''8''' ||[[Gerald Vanenburg]] || || {{suboff|46}}
+|-
+|LW ||'''7''' ||[[Erwin Koeman]] || || {{suboff|69}}
+|-
+|CF ||'''9''' ||[[Marco van Basten]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''11'''||[[Richard Witschge]] || || {{subon|69}}
+|-
+|FW ||'''12'''||[[Wim Kieft]] || {{yel|58}} || {{subon|46}}
+|-
+|FW ||'''14'''||[[John van 't Schip]]
+|-
+|GK ||'''16'''||[[Joop Hiele]]
+|-
+|MF ||'''20'''||[[Aron Winter]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Leo Beenhakker]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ahmed Shobair]]
+|-
+|DF ||'''2''' ||[[Ibrahim Hassan]]
+|-
+|DF ||'''3''' ||[[Rabie Yassin]]
+|-
+|DF ||'''4''' ||[[Hany Ramzy]]
+|-
+|DF ||'''5''' ||[[Hesham Yakan]]
+|-
+|DF ||'''13'''||[[Ahmed Ramzy (footballer)|Ahmed Ramzy]] || {{yel|55}} || {{suboff|69}}
+|-
+|MF ||'''7''' ||[[Ismail Youssef]]
+|-
+|MF ||'''8''' ||[[Magdi Abdelghani]]
+|-
+|FW ||'''9''' ||[[Hossam Hassan]] 
+|-
+|FW ||'''10'''||[[Gamal Abdelhamid]] ([[Captain (association football)|c]]) || || {{suboff|69}}
+|-
+|FW ||'''20'''||[[Ahmed El-Kass]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''15'''||[[Saber Eid]] 
+|-
+|MF ||'''16'''||[[Magdy Tolba]] || || {{subon|69}}
+|-
+|MF ||'''18'''||[[Osama Orabi]]
+|-
+|FW ||'''19'''||[[Adel Abdelrahman]] || || {{subon|69}}
+|-
+|GK ||'''21'''||[[Ayman Taher]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mahmoud El-Gohary]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Edgardo Codesal]] ([[Mexican Football Federation|Mexico]])
+<br />[[Juan Daniel Cardellino]] ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===England vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=F3
+|date={{Start date|1990|6|16|df=y}}
+|time=21:00
+|team1={{fb-rt|ENG}}
+|score={{score link|1990 FIFA World Cup Group F#England vs Netherlands|0–0}}
+|team2={{fb|NED}}
+|goals1=
+|goals2=
+|stadium=[[Stadio Sant'Elia]], [[Cagliari]]
+|attendance=35,267
+|referee=[[Zoran Petrović (referee)|Zoran Petrović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/160 |title=England vs Netherlands {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=160/index.html |title=1990 FIFA World Cup Italy – Matches – England v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227062641/http://www.fifa.com/worldcup/matches/round=322/match=160/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=_eng90h
+|pattern_b=_eng90h
+|pattern_ra=_eng90h
+|pattern_sh=_eng90h
+|pattern_so=_navytop
+|leftarm=ffffff
+|body=ffffff
+|rightarm=ffffff
+|shorts=003060
+|socks=ffffff
+|title=England
+}}
+|{{Football kit
+ | pattern_la = _netherlands90h
+ | pattern_b  = _netherlands90h
+ | pattern_ra = _netherlands90h
+ | pattern_sh = _netherlands90h
+ | pattern_so = _3_stripes_white
+ | leftarm    = FF5F00
+ | body       = FF5F00
+ | rightarm   = FF5F00
+ | shorts     = FFFFFF
+ | socks      = FF5F00
+ | title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]]
+|-
+|SW ||'''14'''||[[Mark Wright (footballer, born 1963)|Mark Wright]]
+|-
+|CB ||'''5''' ||[[Des Walker]]
+|-
+|CB ||'''6''' ||[[Terry Butcher]]
+|-
+|RWB ||'''12'''||[[Paul Parker (footballer)|Paul Parker]]
+|-
+|LWB ||'''3''' ||[[Stuart Pearce]]
+|-
+|RM ||'''8''' ||[[Chris Waddle]] || || {{suboff|58}}
+|-
+|CM ||'''7''' ||[[Bryan Robson]] ([[Captain (association football)|c]]) || || {{suboff|64}}
+|-
+|CM ||'''19'''||[[Paul Gascoigne]]
+|-
+|LM ||'''11'''||[[John Barnes (footballer)|John Barnes]]
+|-
+|CF ||'''10'''||[[Gary Lineker]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|GK ||'''13'''||[[Chris Woods]]
+|-
+|MF ||'''16'''||[[Steve McMahon]]
+|-
+|MF ||'''17'''||[[David Platt (footballer)|David Platt]] || || {{subon|64}}
+|-
+|FW ||'''21'''||[[Steve Bull]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bobby Robson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans van Breukelen]]
+|-
+|RB ||'''2''' ||[[Berry van Aerle]]
+|-
+|CB ||'''4''' ||[[Ronald Koeman]]
+|-
+|CB ||'''3''' ||[[Frank Rijkaard]]
+|-
+|LB ||'''5''' ||[[Adri van Tiggelen]]
+|-
+|CM ||'''6''' ||[[Jan Wouters]]
+|-
+|CM ||'''10'''||[[Ruud Gullit]] ([[Captain (association football)|c]])
+|-
+|CM ||'''11'''||[[Richard Witschge]]
+|-
+|RF ||'''14'''||[[John van 't Schip]] || || {{suboff|74}}
+|-
+|CF ||'''9''' ||[[Marco van Basten]]
+|-
+|LF ||'''17'''||[[Hans Gillhaus]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''12'''||[[Wim Kieft]] || || {{subon|74}}
+|-
+|DF ||'''13'''||[[Graeme Rutjes]] 
+|-
+|GK ||'''16'''||[[Joop Hiele]] 
+|-
+|MF ||'''20'''||[[Aron Winter]] 
+|-
+|DF ||'''21'''||[[Danny Blind]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Leo Beenhakker]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Mohamed Hansal]] ([[Algerian Football Federation|Algeria]])
+<br />[[Edgardo Codesal]] ([[Mexican Football Federation|Mexico]])
+|}
+
+===Republic of Ireland vs Egypt===
+<onlyinclude>{{#invoke:Football box|main|section=F4
+|date={{Start date|1990|6|17|df=y}}
+|time=17:00
+|team1={{fb-rt|IRL}}
+|score={{score link|1990 FIFA World Cup Group F#Republic of Ireland vs Egypt|0–0}}
+|team2={{fb|EGY}}
+|goals1=
+|goals2=
+|stadium=[[Stadio Renzo Barbera|Stadio La Favorita]], [[Palermo]]
+|attendance=33,288
+|referee=[[Marcel van Langenhove (referee)|Marcel van Langenhove]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/152 |title=Republic of Ireland vs Egypt {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=152/index.html |title=1990 FIFA World Cup Italy – Matches – Republic of Ireland v Egypt |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220141324/http://www.fifa.com/worldcup/matches/round=322/match=152/index.html |archive-date=20 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ireland90a
+ | pattern_b  = _ireland90a
+ | pattern_ra = _ireland90a
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_green
+ | leftarm   = FFFFFF
+ | body      = FFFFFF
+ | rightarm  = FFFFFF
+ | shorts    = 076F24
+ | socks     = FFFFFF
+ | title     = Republic of Ireland
+}}
+|{{Football kit
+ | pattern_la = _ddr1990a
+ | pattern_b  =  _3_stripes_vneck_white1
+ | pattern_ra = _ddr1990a
+ | pattern_sh = _adidasred
+ | pattern_so = _3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Egypt
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''2''' ||[[Chris Morris (footballer)|Chris Morris]] || {{yel|51}}
+|-
+|CB ||'''4''' ||[[Mick McCarthy]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Kevin Moran (footballer)|Kevin Moran]]
+|-
+|LB ||'''3''' ||[[Steve Staunton]]
+|-
+|RM ||'''8''' ||[[Ray Houghton]]
+|-
+|CM ||'''7''' ||[[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CM ||'''13'''||[[Andy Townsend]]
+|-
+|LM ||'''11'''||[[Kevin Sheedy (Irish footballer)|Kevin Sheedy]] 
+|-
+|CF ||'''9''' ||[[John Aldridge]] || || {{suboff|64}}
+|-
+|CF ||'''10'''||[[Tony Cascarino]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''12'''||[[David O'Leary]]
+|-
+|MF ||'''14'''||[[Chris Hughton]] 
+|-
+|FW ||'''17'''||[[Niall Quinn]]  || || {{subon|84}}
+|-
+|MF ||'''21'''||[[Alan McLoughlin]] || || {{subon|64}}
+|-
+|GK ||'''22'''||[[Gerry Peyton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ahmed Shobair]] || {{yel|77}}
+|-
+|RB ||'''2''' ||[[Ibrahim Hassan]]
+|-
+|CB ||'''4''' ||[[Hany Ramzy]]
+|-
+|CB ||'''5''' ||[[Hesham Yakan]]
+|-
+|LB ||'''3''' ||[[Rabie Yassin]]
+|-
+|RM ||'''18'''||[[Osama Orabi]]
+|-
+|CM ||'''7''' ||[[Ismail Youssef]]
+|-
+|CM ||'''8''' ||[[Magdi Abdelghani]] ([[Captain (association football)|c]])
+|-
+|LM ||'''16'''||[[Magdy Tolba]] || || {{suboff|60}}
+|-
+|SS ||'''20'''||[[Ahmed El-Kass]] || || {{suboff|76}}
+|-
+|CF ||'''9''' ||[[Hossam Hassan]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Gamal Abdelhamid]] || || {{subon|76}}
+|-
+|FW ||'''12'''||[[Taher Abouzeid]] || || {{subon|60}}
+|-
+|DF ||'''15'''||[[Saber Eid]] 
+|-
+|FW ||'''19'''||[[Adel Abdelrahman]]
+|-
+|GK ||'''21'''||[[Ayman Taher]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mahmoud El-Gohary]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Joël Quiniou]] ([[French Football Federation|France]])
+<br />[[Rosario Lo Bello]] ([[Italian Football Federation|Italy]])
+|}
+
+===England vs Egypt===
+<onlyinclude>{{#invoke:Football box|main|section=F5
+|date={{Start date|1990|6|21|df=y}}
+|time=21:00
+|team1={{fb-rt|ENG}}
+|score={{score link|1990 FIFA World Cup Group F#England vs Egypt|1–0}}
+|team2={{fb|EGY}}
+|goals1=
+*[[Mark Wright (footballer, born 1963)|Wright]] {{goal|58}}
+|goals2=
+|stadium=[[Stadio Sant'Elia]], [[Cagliari]]
+|attendance=34,959
+|referee=[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/150 |title=England vs Egypt {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=150/index.html |title=1990 FIFA World Cup Italy – Matches – England v Egypt |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170826132448/http://www.fifa.com/worldcup/matches/round=322/match=150/index.html |archive-date=26 August 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=_eng90h
+|pattern_b=_eng90h
+|pattern_ra=_eng90h
+|pattern_sh=_eng90h
+|pattern_so=_navytop
+|leftarm=ffffff
+|body=ffffff
+|rightarm=ffffff
+|shorts=003060
+|socks=ffffff
+|title=England
+}}
+|{{Football kit
+ | pattern_la = _ddr1990a
+ | pattern_b  =  _3_stripes_vneck_white1
+ | pattern_ra = _ddr1990a
+ | pattern_sh = _adidasred
+ | pattern_so = _3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Egypt
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]] ([[Captain (association football)|c]])
+|-
+|RB ||'''12'''||[[Paul Parker (footballer)|Paul Parker]]
+|-
+|CB ||'''5''' ||[[Des Walker]]
+|-
+|CB ||'''14'''||[[Mark Wright (footballer, born 1963)|Mark Wright]]
+|-
+|LB ||'''3''' ||[[Stuart Pearce]]
+|-
+|RM ||'''8''' ||[[Chris Waddle]] || || {{suboff|86}}
+|-
+|CM ||'''16'''||[[Steve McMahon]]
+|-
+|CM ||'''19'''||[[Paul Gascoigne]]
+|-
+|LM ||'''11'''||[[John Barnes (footballer)|John Barnes]]
+|-
+|CF ||'''21'''||[[Steve Bull]] || || {{suboff|84}}
+|-
+|CF ||'''10'''||[[Gary Lineker]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''4''' ||[[Neil Webb]] 
+|-
+|DF ||'''6''' ||[[Terry Butcher]] 
+|-
+|FW ||'''9''' ||[[Peter Beardsley]] || {{yel|85}} || {{subon|84}}
+|-
+|GK ||'''13'''||[[Chris Woods]] 
+|-
+|MF ||'''17'''||[[David Platt (footballer)|David Platt]]|| || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bobby Robson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ahmed Shobair]]
+|-
+|DF ||'''2''' ||[[Ibrahim Hassan]] || {{yel|47}}
+|-
+|DF ||'''3''' ||[[Rabie Yassin]]
+|-
+|DF ||'''4''' ||[[Hany Ramzy]]
+|-
+|DF ||'''5''' ||[[Hesham Yakan]]
+|-
+|DF ||'''13'''||[[Ahmed Ramzy (footballer)|Ahmed Ramzy]]
+|-
+|MF ||'''7''' ||[[Ismail Youssef]]
+|-
+|MF ||'''8''' ||[[Magdi Abdelghani]] || {{yel|38}}
+|-
+|FW ||'''9''' ||[[Hossam Hassan]]
+|-
+|FW ||'''10'''||[[Gamal Abdelhamid]] ([[Captain (association football)|c]])|| || {{suboff|77}}
+|-
+|FW ||'''20'''||[[Ahmed El-Kass]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''11'''||[[Tarek Soliman]] || || {{subon|77}}
+|-
+|DF ||'''15'''||[[Saber Eid]]
+|-
+|MF ||'''18'''||[[Osama Orabi]]
+|-
+|FW ||'''19'''||[[Adel Abdelrahman]] || || {{subon|77}}
+|-
+|GK ||'''21'''||[[Ayman Taher]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mahmoud El-Gohary]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Berny Ulloa Morera]] ([[Costa Rican Football Federation|Costa Rica]])
+<br />[[Edgardo Codesal]] ([[Mexican Football Federation|Mexico]])
+|}
+
+===Republic of Ireland vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=F6
+|date={{Start date|1990|6|21|df=y}}
+|time=21:00
+|team1={{fb-rt|IRL}}
+|score={{score link|1990 FIFA World Cup Group F#Republic of Ireland vs Netherlands|1–1}}
+|team2={{fb|NED}}
+|goals1=
+*[[Niall Quinn|Quinn]] {{goal|71}}
+|goals2=
+*[[Ruud Gullit|Gullit]] {{goal|11}}
+|stadium=[[Stadio Renzo Barbera|Stadio La Favorita]], [[Palermo]]
+|attendance=33,288
+|referee=[[Michel Vautrot]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/228 |title=Republic of Ireland vs Netherlands {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=228/index.html |title=1990 FIFA World Cup Italy – Matches – Republic of Ireland v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724213812/http://www.fifa.com/worldcup/matches/round=322/match=228/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ireland90a
+ | pattern_b  = _ireland90a
+ | pattern_ra = _ireland90a
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_green
+ | leftarm   = FFFFFF
+ | body      = FFFFFF
+ | rightarm  = FFFFFF
+ | shorts    = 076F24
+ | socks     = FFFFFF
+ | title     = Republic of Ireland
+}}
+|{{Football kit
+ | pattern_la = _netherlands90h
+ | pattern_b  = _netherlands90h
+ | pattern_ra = _netherlands90h
+ | pattern_sh = _netherlands90h
+ | pattern_so = _3_stripes_white
+ | leftarm    = FF5F00
+ | body       = FF5F00
+ | rightarm   = FF5F00
+ | shorts     = FFFFFF
+ | socks      = FF5F00
+ | title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''2''' ||[[Chris Morris (footballer)|Chris Morris]]
+|-
+|CB ||'''4''' ||[[Mick McCarthy]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Kevin Moran (footballer)|Kevin Moran]]
+|-
+|LB ||'''3''' ||[[Steve Staunton]]
+|-
+|RM ||'''8''' ||[[Ray Houghton]]
+|-
+|CM ||'''7''' ||[[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CM ||'''13'''||[[Andy Townsend]]
+|-
+|LM ||'''11'''||[[Kevin Sheedy (Irish footballer)|Kevin Sheedy]] || || {{suboff|62}}
+|-
+|CF ||'''9''' ||[[John Aldridge]] || || {{suboff|62}}
+|-
+|CF ||'''17'''||[[Niall Quinn]]  
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''6''' ||[[Ronnie Whelan]] || || {{subon|62}}
+|-
+|FW ||'''10'''||[[Tony Cascarino]] || || {{subon|62}}
+|-
+|DF ||'''12'''||[[David O'Leary]]  
+|-
+|MF ||'''16'''||[[John Sheridan (footballer)|John Sheridan]]
+|-
+|GK ||'''22'''||[[Gerry Peyton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans van Breukelen]]
+|-
+|RB ||'''2''' ||[[Berry van Aerle]]
+|-
+|CB ||'''4''' ||[[Ronald Koeman]]
+|-
+|CB ||'''3''' ||[[Frank Rijkaard]] || {{yel|43}}
+|-
+|LB ||'''5''' ||[[Adri van Tiggelen]]
+|-
+|CM ||'''6''' ||[[Jan Wouters]]
+|-
+|CM ||'''10'''||[[Ruud Gullit]] ([[Captain (association football)|c]])
+|-
+|CM ||'''11'''||[[Richard Witschge]] || || {{suboff|58}}
+|-
+|RF ||'''12'''||[[Wim Kieft]] || || {{suboff|78}}
+|-
+|CF ||'''9''' ||[[Marco van Basten]]
+|-
+|LF ||'''17'''||[[Hans Gillhaus]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''14'''||[[John van 't Schip]]
+|-
+|MF ||'''15'''||[[Bryan Roy]] 
+|-
+|GK ||'''16'''||[[Joop Hiele]]
+|-
+|MF ||'''18'''||[[Henk Fräser]] || || {{subon|58}}
+|-
+|FW ||'''19'''||[[John van Loen]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Leo Beenhakker]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Richard Lorenc]] ([[Football Federation Australia|Australia]])
+<br />[[Mohamed Hansal]] ([[Algerian Football Federation|Algeria]])
+|}
+
+==See also==
+*[[Egypt at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[Republic of Ireland at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1990 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1990 FIFA World Cup group stage|F]]
+[[Category:England at the 1990 FIFA World Cup|Group]]
+[[Category:Republic of Ireland at the 1990 FIFA World Cup|Group]]
+[[Category:Netherlands at the 1990 FIFA World Cup|Group]]
+[[Category:Egypt at the 1990 FIFA World Cup|Group]]
+[[Category:Sport in Cagliari]]
+[[Category:Sport in Palermo]]
+[[Category:Football in Sicily]]
+[[Category:20th century in Sicily]]

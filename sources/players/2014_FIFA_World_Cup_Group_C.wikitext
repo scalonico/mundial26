@@ -1,0 +1,1002 @@
+{{Short description|Football tournament group stage}}
+{{Use British English|date=July 2014}}
+{{Use dmy dates|date=July 2014}}
+Group C of the [[2014 FIFA World Cup]] consisted of [[Colombia national football team|Colombia]], [[Greece national football team|Greece]], [[Ivory Coast national football team|Ivory Coast]], and [[Japan national football team|Japan]]. Play began on 14 June and ended on 24 June 2014. The top two teams, Colombia and Greece, advanced to the round of 16.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2013{{refn|group=nb|The rankings of October 2013 were used for [[2014 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2014
+|-
+| C1 ''(seed)'' || style=white-space:nowrap | {{fb|COL}} || [[CONMEBOL]] || [[2014 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] <span style="display:none">2nd</span> runners-up || 11 October 2013 || data-sort-value="5" | 5th || [[1998 FIFA World Cup|1998]] || data-sort-value="2.1" | Round of 16 ([[1990 FIFA World Cup|1990]]) || 4 || 8
+|-
+| C2 || style=white-space:nowrap | {{fb|GRE}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA second round|UEFA Play-off]] winners || 19 November 2013 || data-sort-value="3" | 3rd || [[2010 FIFA World Cup|2010]] || data-sort-value="1.2" | Group stage ([[1994 FIFA World Cup|1994]], [[2010 FIFA World Cup|2010]]) || 15 || 12
+|-
+| C3 || style=white-space:nowrap | {{fb|CIV}} || [[Confederation of African Football|CAF]] || [[2014 FIFA World Cup qualification – CAF third round|CAF third round]] winners || 16 November 2013 || data-sort-value="3" | 3rd || [[2010 FIFA World Cup|2010]] || data-sort-value="1.2" | Group stage ([[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]) || 17 || 23
+|-
+| C4 || style=white-space:nowrap | {{fb|JPN}} || [[Asian Football Confederation|AFC]] || [[2014 FIFA World Cup qualification – AFC fourth round#Group B|AFC fourth round Group B]] <span style="display:none">1st</span> winners || 4 June 2013 || data-sort-value="5" | 5th || [[2010 FIFA World Cup|2010]] || data-sort-value="2.2" | Round of 16 ([[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]]) || 44 || 46
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/brazil2014/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=COL |team2=GRE |team3=CIV |team4=JPN
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2014 FIFA World Cup#Format|Tie-breaking criteria]]
+
+|win_COL=3 |draw_COL=0 |loss_COL=0 |gf_COL=9 |ga_COL=2
+|win_GRE=1 |draw_GRE=1 |loss_GRE=1 |gf_GRE=2 |ga_GRE=4
+|win_CIV=1 |draw_CIV=0 |loss_CIV=2 |gf_CIV=4 |ga_CIV=5
+|win_JPN=0 |draw_JPN=1 |loss_JPN=2 |gf_JPN=2 |ga_JPN=6
+
+|name_COL={{fb|COL}}
+|name_GRE={{fb|GRE}}
+|name_CIV={{fb|CIV}}
+|name_JPN={{fb|JPN}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2014 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*[[Colombia national football team|Colombia]] advanced to play [[Uruguay national football team|Uruguay]] (runner-up of [[2014 FIFA World Cup Group D|Group D]]) in the [[2014 FIFA World Cup knockout stage#Colombia vs Uruguay|round of 16]].
+*[[Greece national football team|Greece]] advanced to play [[Costa Rica national football team|Costa Rica]] (winner of [[2014 FIFA World Cup Group D|Group D]]) in the [[2014 FIFA World Cup knockout stage#Costa Rica vs Greece|round of 16]].
+
+==Matches==
+===Colombia vs Greece===
+The two teams had met in one previous match, in a friendly in 1994, where Colombia won 2–0.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=11 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=11 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref> Colombia midfielder [[Fredy Guarín]] was suspended for the match, after being sent off in the team's final qualifier against Paraguay.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=2/news=match-suspensions-served-the-final-competition-the-fifa-world-cup-2282433.html|archive-url=https://web.archive.org/web/20140414075701/http://www.fifa.com/worldcup/news/y=2014/m=2/news=match-suspensions-served-the-final-competition-the-fifa-world-cup-2282433.html|url-status=dead|archive-date=14 April 2014|title=Match suspensions to be served at the final competition of the FIFA World Cup|publisher=FIFA.com|date=24 February 2014}}</ref>
+
+Colombia took the lead within five minutes, [[Juan Cuadrado]]'s cutback was converted by [[Pablo Armero]] via a deflection off Greek defender [[Kostas Manolas]]. Colombia extended the lead in the second half, when [[Abel Aguilar]] flicked on a corner kick from [[James Rodríguez]] and [[Teófilo Gutiérrez]] scored from close range.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/15/fernando-santos-konstantinos-katsouranis-greece-colombia|title=Greece play blame game following World Cup defeat by Colombia|date=15 June 2014 |work=The Guardian|accessdate=30 October 2014}}</ref>
+Greece's best chance fell to [[Theofanis Gekas]], who headed against the bar. In stoppage time, Cuadrado set up James to complete the scoring with a low shot.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285057|title=Colombia 3 Greece 0|publisher=BBC Sport|date=14 June 2014}}</ref>
+
+The 3–0 scoreline was Colombia's biggest win to date in the World Cup.<ref>{{cite web|url=https://uk.eurosport.yahoo.com/news/world-cup-colombia-greece-matchpack-can-greece-upset-054750016--sow.html|title=World Cup - Colombia ease to win over Greece|publisher=Yahoo! Sport|date=14 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c1
+|date={{Start date|2014|6|14|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|COL}}
+|score={{score link|2014 FIFA World Cup Group C#Colombia vs Greece|3–0}}
+|team2={{fb|GRE}}
+|goals1=
+*[[Pablo Armero|Armero]] {{goal|5}}
+*[[Teófilo Gutiérrez|Gutiérrez]] {{goal|58}}
+*[[James Rodríguez|Rodríguez]] {{goal|90+3}}
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=57,174
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186471 |title=Colombia vs Greece {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186471/report.html |title=2014 FIFA World Cup Brazil – Matches – Colombia v Greece |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228033100/http://www.fifa.com/worldcup/matches/round=255931/match=300186471/report.html |archive-date=28 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/1f80923164c7516e/original/amxpbeuqozjto4iotldb-pdf.pdf |title=Match report – Group C – Colombia v Greece |publisher=[[FIFA]] |date=14 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060951/https://digitalhub.fifa.com/m/1f80923164c7516e/original/amxpbeuqozjto4iotldb-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _colombia14h
+ |pattern_b  = _colombia14h
+ |pattern_ra = _colombia14h
+ |pattern_sh = _colombia14h
+ |pattern_so = _colombia14h
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Colombia<ref name="COL-GRE line-ups">{{cite web |url=https://digitalhub.fifa.com/m/42bb69a1830a4891/original/izr0kv5kvwkrgscux5at-pdf.pdf |title=Tactical Line-up – Group C – Colombia v Greece |publisher=[[FIFA]] |date=14 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173204/https://digitalhub.fifa.com/m/42bb69a1830a4891/original/izr0kv5kvwkrgscux5at-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _greece1415a
+ |pattern_b  = _greece1415away
+ |pattern_ra = _greece1415a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 2447D5
+ |body       = 2447D5
+ |rightarm   = 2447D5
+ |shorts     = 2447D5
+ |socks      = 2447D5
+ |title      = Greece<ref name="COL-GRE line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''18'''||[[Juan Camilo Zúñiga]]
+|-
+|CB ||'''2''' ||[[Cristián Zapata]]
+|-
+|CB ||'''3''' ||[[Mario Yepes]] ([[Captain (association football)|c]])
+|-
+|LB ||'''7''' ||[[Pablo Armero]] || || {{suboff|74}}
+|-
+|CM ||'''6''' ||[[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]] || {{yel|26}}
+|-
+|CM ||'''8''' ||[[Abel Aguilar]] || || {{suboff|69}}
+|-
+|RW ||'''11'''||[[Juan Cuadrado]]
+|-
+|AM ||'''10'''||[[James Rodríguez]]
+|-
+|LW ||'''14'''||[[Víctor Ibarbo]]
+|-
+|CF ||'''9''' ||[[Teófilo Gutiérrez]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Alexander Mejía]] || || {{subon|69}}
+|-
+|DF ||'''4''' ||[[Santiago Arias]] || || {{subon|74}}
+|-
+|FW ||'''21'''||[[Jackson Martínez]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|valign="top"|[[File:COL-GRE 2014-06-14.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Orestis Karnezis]]
+|-
+|RB ||'''15'''||[[Vasilis Torosidis]]
+|-
+|CB ||'''4''' ||[[Kostas Manolas]]
+|-
+|CB ||'''19'''||[[Sokratis Papastathopoulos]] || {{yel|52}}
+|-
+|LB ||'''20'''||[[José Holebas]]
+|-
+|RM ||'''14'''||[[Dimitris Salpingidis]] || {{yel|55}} || {{suboff|57}}
+|-
+|CM ||'''2''' ||[[Giannis Maniatis]]
+|-
+|CM ||'''21'''||[[Kostas Katsouranis]] ([[Captain (association football)|c]])
+|-
+|LM ||'''8''' ||[[Panagiotis Kone]] || || {{suboff|78}}
+|-
+|CF ||'''7''' ||[[Georgios Samaras]]
+|-
+|CF ||'''17'''||[[Theofanis Gekas]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Giannis Fetfatzidis]] || || {{subon|57}}
+|-
+|FW ||'''9''' ||[[Konstantinos Mitroglou]] || || {{subon|64}}
+|-
+|MF ||'''10'''||[[Giorgos Karagounis]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Fernando Santos (football coach)|Fernando Santos]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[James Rodríguez]] (Colombia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mark Hurd ([[United States Soccer Federation|United States]])
+<br />Joe Fletcher ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|}
+
+===Ivory Coast vs Japan===
+The two teams had met in three previous matches, all in friendlies, most recently in 2010.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=12 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=12 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+Japan took the lead in the first half, when [[Keisuke Honda]] collected a pass from [[Yuto Nagatomo]] after a quick throw-in to strike home with his left foot high into the net.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/15/ivory-coast-japan-group-c-match-report|title=Ivory Coast stage World Cup fight back to see off Japan|date=15 June 2014 |work=The Guardian|accessdate=30 October 2014}}</ref>
+
+However, Ivory Coast came back with two goals in two minutes in the second half, first [[Wilfried Bony]] headed in from [[Serge Aurier]]'s cross from the right from six yards, followed by a [[Gervinho]] header from six yards from another cross from Aurier on the right.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285078|title=Ivory Coast 2 Japan 1|publisher=BBC Sport|date=14 June 2014}}</ref>
+
+With his goal, Honda became the first Japanese player to score in two World Cups, and also claimed sole possession of being the top Japanese scorer in World Cup history with three total goals.<ref>{{cite web|url=http://mainichi.jp/english/english/newsselect/news/20140615p2g00m0sp001000c.html|title=Japan beaten by Drogba-inspired Ivory Coast in World Cup opener|publisher=The Mainichi|date=15 June 2014|access-date=15 June 2014|archive-url=https://web.archive.org/web/20140618193820/http://mainichi.jp/english/english/newsselect/news/20140615p2g00m0sp001000c.html|archive-date=18 June 2014|url-status=dead|df=dmy-all}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c2
+|date={{Start date|2014|6|14|df=y}}
+|time=22:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])<!--Kick-off time adjusted by FIFA: https://www.fifa.com/worldcup/news/newsid=2240950/index.html-->
+|team1={{fb-rt|CIV}}
+|score={{score link|2014 FIFA World Cup Group C#Ivory Coast vs Japan|2–1}}
+|team2={{fb|JPN}}
+|goals1=
+*[[Wilfried Bony|Bony]] {{goal|64}}
+*[[Gervinho]] {{goal|66}}
+|goals2=
+*[[Keisuke Honda|Honda]] {{goal|16}}
+|stadium=[[Itaipava Arena Pernambuco]], [[Recife]]
+|attendance=40,267
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186507 |title=Côte d'Ivoire vs Japan {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186507/report.html |title=2014 FIFA World Cup Brazil – Matches – Côte d'Ivoire v Japan |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709061839/http://www.fifa.com/worldcup/matches/round=255931/match=300186507/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/25835a0506930f30/original/ovok6wgn6pal2iujauip-pdf.pdf |title=Match report – Group C – Côte d'Ivoire v Japan |publisher=[[FIFA]] |date=14 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061047/https://digitalhub.fifa.com/m/25835a0506930f30/original/ovok6wgn6pal2iujauip-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ic1415h
+ |pattern_b  = _ic1415home
+ |pattern_ra = _ic1415h
+ |pattern_sh = _ic1415h
+ |pattern_so = _ic1415h
+ |leftarm    = FF8A15
+ |body       = FF8A15
+ |rightarm   = FF8A15
+ |shorts     = FF8A15
+ |socks      = FF8A15
+ |title      = Ivory Coast<ref name="CIV-JPN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/54853fd52f7c4b66/original/xucshjbccbpewqcpoccs-pdf.pdf |title=Tactical Line-up – Group C – Côte d'Ivoire v Japan |publisher=[[FIFA]] |date=15 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173223/https://digitalhub.fifa.com/m/54853fd52f7c4b66/original/xucshjbccbpewqcpoccs-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _JFA_14h
+ |pattern_b  = _JFA_14h
+ |pattern_ra = _JFA_14h
+ |pattern_sh = _JFA_14h
+ |pattern_so = _JFA_14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Japan<ref name="CIV-JPN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Boubacar Barry]]
+|-
+|RB ||'''17'''||[[Serge Aurier]]
+|-
+|CB ||'''5''' ||[[Didier Zokora]] || {{yel|58}}
+|-
+|CB ||'''22'''||[[Sol Bamba]] || {{yel|54}}
+|-
+|LB ||'''3''' ||[[Arthur Boka]] || || {{suboff|75}}
+|-
+|CM ||'''9''' ||[[Cheick Tioté]]
+|-
+|CM ||'''20'''||[[Serey Die]] || || {{suboff|62}}
+|-
+|AM ||'''19'''||[[Yaya Touré]] ([[Captain (association football)|c]])
+|-
+|RF ||'''8''' ||[[Salomon Kalou]]
+|-
+|CF ||'''12'''||[[Wilfried Bony]] || || {{suboff|78}}
+|-
+|LF ||'''10'''||[[Gervinho]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Didier Drogba]] || || {{subon|62}}
+|-
+|DF ||'''18'''||[[Constant Djakpa]] || || {{subon|75}}
+|-
+|FW ||'''13'''||[[Didier Ya Konan]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA|1974}} [[Sabri Lamouchi]]
+|}
+|valign="top"|[[File:CIV-JPN 2014-06-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Eiji Kawashima]]
+|-
+|RB ||'''2''' ||[[Atsuto Uchida]]
+|-
+|CB ||'''22'''||[[Maya Yoshida]] || {{yel|23}}
+|-
+|CB ||'''6''' ||[[Masato Morishige]] || {{yel|64}}
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|DM ||'''16'''||[[Hotaru Yamaguchi]]
+|-
+|DM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]]) || || {{suboff|54}}
+|-
+|RW ||'''9''' ||[[Shinji Okazaki]]
+|-
+|AM ||'''4''' ||[[Keisuke Honda]]
+|-
+|LW ||'''10'''||[[Shinji Kagawa]] || || {{suboff|86}}
+|-
+|CF ||'''18'''||[[Yuya Osako]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Yasuhito Endō]] || || {{subon|54}}
+|-
+|FW ||'''13'''||[[Yoshito Ōkubo]] || || {{subon|67}}
+|-
+|MF ||'''11'''||[[Yoichiro Kakitani]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Alberto Zaccheroni]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Yaya Touré]] (Ivory Coast)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />Sergio Román ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Néant Alioum ([[Cameroonian Football Federation|Cameroon]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Djibril Camara ([[Senegalese Football Federation|Senegal]])
+|}
+
+===Colombia vs Ivory Coast===
+{{commons category}}
+The two teams had never met before.<ref name=StatKit29>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=29 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=29 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+After a goalless first half, Colombia scored first when [[James Rodríguez]] headed in [[Juan Cuadrado]]'s corner.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/19/colombia-ivory-coast-group-c-world-cup|title=Colombia win again as Juan Quintero's winner sinks skilful Ivory Coast|date=19 June 2014 |work=The Guardian|accessdate=30 October 2014}}</ref>
+The lead was extended six minutes later when Ivory Coast was caught in possession, and [[Teófilo Gutiérrez]] released substitute [[Juan Fernando Quintero|Juan Quintero]] to score. Ivory Coast reduced the deficit through [[Gervinho]], who received a pass from [[Arthur Boka]] in the left wing, dribbled past three Colombian players and shot home.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285169|title=Colombia 2 Ivory Coast 1|publisher=BBC Sport|date=19 June 2014}}</ref>
+
+The second goal of the tournament by James allowed him to join [[Bernardo Redín]] and [[Adolfo Valencia]] as the only Colombian players to score more than one goal in the World Cup.<ref>{{cite web|url=http://www.mundodeportivo.com/20140620/futbol/james-rodriguez-iguala-a-bernardo-redin-y-adolfo-valencia-con-dos-goles_54409240435.html|title=James Rodríguez iguala a Bernardo Redín y Adolfo Valencia con dos goles|language=Spanish|publisher=Mundo Deportivo|date=20 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c3
+|date={{Start date|2014|6|19|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|COL}}
+|score={{score link|2014 FIFA World Cup Group C#Colombia vs Ivory Coast|2–1}}
+|team2={{fb|CIV}}
+|goals1=
+*[[James Rodríguez|Rodríguez]] {{goal|64}}
+*[[Juan Fernando Quintero|Quintero]] {{goal|70}}
+|goals2=
+*[[Gervinho]] {{goal|73}}
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=68,748
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186468 |title=Colombia vs Côte d'Ivoire {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186468/report.html |title=2014 FIFA World Cup Brazil – Matches – Colombia v Côte d'Ivoire |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227055717/http://www.fifa.com/worldcup/matches/round=255931/match=300186468/report.html |archive-date=27 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/49d1b5115eae3800/original/lfnxsac5pcvxeawmpwfy-pdf.pdf |title=Match report – Group C – Colombia v Côte d'Ivoire |publisher=[[FIFA]] |date=19 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061454/https://digitalhub.fifa.com/m/49d1b5115eae3800/original/lfnxsac5pcvxeawmpwfy-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _colombia14h
+ |pattern_b  = _colombia14h
+ |pattern_ra = _colombia14h
+ |pattern_sh = _colombia14h
+ |pattern_so = _colombia14h
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Colombia<ref name="COL-CIV line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6bd1362862927aa3/original/uk5ir19ocw1g3ftgkdze-pdf.pdf |title=Tactical Line-up – Group C – Colombia v Côte d'Ivoire |publisher=[[FIFA]] |date=19 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173635/https://digitalhub.fifa.com/m/6bd1362862927aa3/original/uk5ir19ocw1g3ftgkdze-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ic1415a
+ |pattern_b  = _ic1415away
+ |pattern_ra = _ic1415a
+ |pattern_sh = _ic1415a
+ |pattern_so = _ic1415a
+ |leftarm    = 26A064
+ |body       = 26A064
+ |rightarm   = 26A064
+ |shorts     = 26A064
+ |socks      = 26A064
+ |title      = Ivory Coast<ref name="COL-CIV line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''18'''||[[Juan Camilo Zúñiga]]
+|-
+|CB ||'''2''' ||[[Cristián Zapata]]
+|-
+|CB ||'''3''' ||[[Mario Yepes]] ([[Captain (association football)|c]])
+|-
+|LB ||'''7''' ||[[Pablo Armero]] || || {{suboff|72}}
+|-
+|CM ||'''8''' ||[[Abel Aguilar]] || || {{suboff|79}}
+|-
+|CM ||'''6''' ||[[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]]
+|-
+|RW ||'''11'''||[[Juan Cuadrado]]
+|-
+|AM ||'''10'''||[[James Rodríguez]]
+|-
+|LW ||'''14'''||[[Víctor Ibarbo]] || || {{suboff|53}}
+|-
+|CF ||'''9''' ||[[Teófilo Gutiérrez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Juan Fernando Quintero|Juan Quintero]] || || {{subon|53}}
+|-
+|DF ||'''4''' ||[[Santiago Arias]] || || {{subon|72}}
+|-
+|MF ||'''15'''||[[Alexander Mejía]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|valign="top"|[[File:COL-CIV 2014-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Boubacar Barry]]
+|-
+|RB ||'''17'''||[[Serge Aurier]]
+|-
+|CB ||'''5''' ||[[Didier Zokora]] || {{yel|55}}
+|-
+|CB ||'''22'''||[[Sol Bamba]]
+|-
+|LB ||'''3''' ||[[Arthur Boka]]
+|-
+|CM ||'''20'''||[[Serey Die]] || || {{suboff|73}}
+|-
+|CM ||'''9''' ||[[Cheick Tioté]] || {{yel|90}}
+|-
+|RW ||'''10'''||[[Gervinho]]
+|-
+|AM ||'''19'''||[[Yaya Touré]] ([[Captain (association football)|c]])
+|-
+|LW ||'''15'''||[[Max Gradel]] || || {{suboff|67}}
+|-
+|CF ||'''12'''||[[Wilfried Bony]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Didier Drogba]] || || {{subon|60}}
+|-
+|FW ||'''8''' ||[[Salomon Kalou]] || || {{subon|67}}
+|-
+|MF ||'''6''' ||[[Mathis Bolly]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA|1974}} [[Sabri Lamouchi]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[James Rodríguez]] (Colombia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Michael Mullarkey ([[The Football Association|England]])
+<br />Darren Cann ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Víctor Hugo Carrillo]] ([[Peruvian Football Federation|Peru]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Rodney Aquino ([[Paraguayan Football Association|Paraguay]])
+|}
+
+===Japan vs Greece===
+[[File:Arena das Dunas 19062014.JPG|thumbnail|right|[[Arena das Dunas]] before the Japan x Greece match.]]
+The two teams had met in one previous match, in the [[2005 FIFA Confederations Cup]] group stage, won by Japan [[2005 FIFA Confederations Cup Group B#Greece v Japan|1–0]].<ref name=StatKit29 />
+
+Greece was reduced to ten men in the first half when [[Kostas Katsouranis]] was booked twice in eleven minutes. In the second half, Greece had a [[Theofanis Gekas]] header saved, while Japan, which needed at least a point to stay alive in the competition, had chances to score through [[Yoshito Ōkubo]] and [[Atsuto Uchida]], but the game finished goalless.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285183|title=Japan 0 Greece 0|publisher=BBC Sport|date=19 June 2014}}</ref> The result ensured Colombia's qualification to the knockout stage, their first since 1990.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/20/japan-greece-match-report-group-c|title=Greece keep Japan at bay after Kostas Katsouranis gets early red card|date=20 June 2014 |work=The Guardian|accessdate=30 October 2014}}</ref>
+
+This was the first clean sheet kept by Greece in World Cup history.<ref>{{cite web|url=https://uk.eurosport.yahoo.com/news/world-cup-japan-greece-matchpack-will-kagawa-keep-135219004--sow.html|title=World Cup - Ten-man Greece hang on for draw against Japan|publisher=Yahoo! Sport|date=20 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c4
+|date={{Start date|2014|6|19|df=y}}
+|time=19:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|JPN}}
+|score={{score link|2014 FIFA World Cup Group C#Japan vs Greece|0–0}}
+|team2={{fb|GRE}}
+|goals1=
+|goals2=
+|stadium=[[Arena das Dunas]], [[Natal, Rio Grande do Norte|Natal]]
+|attendance=39,485
+|referee=[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186454 |title=Japan vs Greece {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186454/report.html |title=2014 FIFA World Cup Brazil – Matches – Japan v Greece |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709053047/http://www.fifa.com/worldcup/matches/round=255931/match=300186454/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6a298e10cc6a38b5/original/sasaeovinei4fh7hczfp-pdf.pdf |title=Match report – Group C – Japan v Greece |publisher=[[FIFA]] |date=19 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061520/https://digitalhub.fifa.com/m/6a298e10cc6a38b5/original/sasaeovinei4fh7hczfp-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _JFA_14h
+ |pattern_b  = _JFA_14h
+ |pattern_ra = _JFA_14h
+ |pattern_sh = _JFA_14h
+ |pattern_so = _JFA_14h
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="JPN-GRE line-ups">{{cite web |url=https://digitalhub.fifa.com/m/746ec7f25ad0d01b/original/fiy1zhfxikalec8i4lc8-pdf.pdf |title=Tactical Line-up – Group C – Japan v Greece |publisher=[[FIFA]] |date=19 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173647/https://digitalhub.fifa.com/m/746ec7f25ad0d01b/original/fiy1zhfxikalec8i4lc8-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _greece1415h
+ |pattern_b  = _greece1415home
+ |pattern_ra = _greece1415h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Greece<ref name="JPN-GRE line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eiji Kawashima]]
+|-
+|RB ||'''2''' ||[[Atsuto Uchida]]
+|-
+|CB ||'''22'''||[[Maya Yoshida]]
+|-
+|CB ||'''15'''||[[Yasuyuki Konno]]
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|CM ||'''16'''||[[Hotaru Yamaguchi]]
+|-
+|CM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]]) || {{yel|12}} || {{suboff|46}}
+|-
+|RW ||'''9''' ||[[Shinji Okazaki]]
+|-
+|AM ||'''4''' ||[[Keisuke Honda]]
+|-
+|LW ||'''13'''||[[Yoshito Ōkubo]]
+|-
+|CF ||'''18'''||[[Yuya Osako]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Yasuhito Endō]] || || {{subon|46}}
+|-
+|MF ||'''10'''||[[Shinji Kagawa]] || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Alberto Zaccheroni]]
+|}
+|valign="top"|[[File:JPN-GRE 2014-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Orestis Karnezis]]
+|-
+|RB ||'''15'''||[[Vasilis Torosidis]] || {{yel|89}}
+|-
+|CB ||'''4''' ||[[Kostas Manolas]]
+|-
+|CB ||'''19'''||[[Sokratis Papastathopoulos]]
+|-
+|LB ||'''20'''||[[José Holebas]]
+|-
+|DM ||'''21'''||[[Kostas Katsouranis]] ([[Captain (association football)|c]]) || {{sent off|2|27|38}}
+|-
+|CM ||'''2''' ||[[Giannis Maniatis]]
+|-
+|CM ||'''8''' ||[[Panagiotis Kone]] || || {{suboff|81}}
+|-
+|RW ||'''18'''||[[Giannis Fetfatzidis]] || || {{suboff|41}}
+|-
+|LW ||'''7''' ||[[Georgios Samaras]] || {{yel|55}}
+|-
+|CF ||'''9''' ||[[Kostas Mitroglou]] || || {{suboff|35}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Theofanis Gekas]] || || {{subon|35}}
+|-
+|MF ||'''10'''||[[Giorgos Karagounis]] || || {{subon|41}}
+|-
+|FW ||'''14'''||[[Dimitris Salpingidis]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Fernando Santos (football coach)|Fernando Santos]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Keisuke Honda]] (Japan)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />William Torres ([[Salvadoran Football Federation|El Salvador]])
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Aden Marwa ([[Football Kenya Federation|Kenya]])
+|}
+
+===Japan vs Colombia===
+The two teams had met in two previous matches, most recently in a friendly in 2007, and also in the [[2003 FIFA Confederations Cup]] group stage, won by Colombia 1–0.<ref name=StatKit42>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=42 |publisher=FIFA.com |page=42 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+Colombia took the lead mid-way through the first half, with [[Juan Cuadrado]] taking a penalty kick, shooting low down the middle after Japan centre back [[Yasuyuki Konno]] fouled Colombia striker [[Adrián Ramos]] in the box.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/24/japan-colombia-world-cup-group-c-match-report|title=Colombia post their third group win to put Japan through the exit door|date=24 June 2014 |work=The Guardian|accessdate=30 October 2014}}</ref>
+Japan then equalised through [[Shinji Okazaki]]'s headed goal from a cross from [[Keisuke Honda]] on the right in first half stoppage time. Colombia's [[James Rodríguez]] was introduced after the half time break, and was credited for providing two assists for two goals scored by [[Jackson Martínez]], on 55 minutes when he shot low to the net with his left foot, and 82 minutes when he curled the ball in from the right of the penalty area with his left foot, before finishing off the scoring with a strike of his own, assisted by Ramos, where he beat the last man before clipping the ball over the goalkeeper.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/25455848 |title=Japan 1 Colombia 4 |date=24 June 2014 |work=BBC Sport |accessdate=25 June 2014 }}</ref> Colombia, which had already qualified for the knockout stage and would do so as group winners if either they didn't lose this match or Ivory Coast did not beat Greece in the other match, finished as group winners with a perfect record of three wins out of three, while Japan, which had to win the match to have any chance to qualify, were eliminated.
+
+[[Faryd Mondragón]] became the oldest player to make an appearance in the history of the World Cup, at the age of {{age in years and days|1971|6|21|2014|6|24}}, when he came on for the last five minutes of the match, breaking the record of [[Roger Milla]], who played at the 1994 World Cup at the age of 42.<ref>{{cite web |url=https://www.telegraph.co.uk/sport/football/world-cup/10923335/Japan-vs-Colombia-Jackson-Martinez-scores-twice-as-Carlos-Valderramas-side-top-group-to-set-up-Uruguay-tie.html |title=Jackson Martínez scores twice as Carlos Valderrama's side top group to set up Uruguay tie |date=24 June 2014 |work=Daily Telegraph |accessdate=25 June 2014 }}</ref> He also set the record for the longest time between World Cup appearances as 15 years and 363 days had passed since his last versus England at the 1998 World Cup, breaking [[Alfred Bickel]]'s record of 12 years and 13 days between appearances (1938–1950).<ref>{{cite web |title=Late goals decisive on big day for keepers |date=25 June 2014 |work=FIFA.com |url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=late-goals-decisive-on-big-day-for-keepers-2384705.html |archive-url=https://web.archive.org/web/20140625062552/http://www.fifa.com/worldcup/news/y=2014/m=6/news=late-goals-decisive-on-big-day-for-keepers-2384705.html |url-status=dead |archive-date=25 June 2014 |accessdate=25 June 2014 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c5
+|date={{Start date|2014|6|24|df=y}}
+|time=16:00 [[Time in Brazil|AMT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|JPN}}
+|score={{score link|2014 FIFA World Cup Group C#Japan vs Colombia|1–4}}
+|team2={{fb|COL}}
+|goals1=
+*[[Shinji Okazaki|Okazaki]] {{goal|45+1}}
+|goals2=
+*[[Juan Cuadrado|Cuadrado]] {{goal|17|pen.}}
+*[[Jackson Martínez|Martínez]] {{goal|55||82}}
+*[[James Rodríguez|Rodríguez]] {{goal|90}}
+|stadium=[[Arena Pantanal]], [[Cuiabá]]
+|attendance=40,340
+|referee=[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186457 |title=Japan vs Colombia {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186457/report.html |title=2014 FIFA World Cup Brazil – Matches – Japan v Colombia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210012636/http://www.fifa.com/worldcup/matches/round=255931/match=300186457/report.html |archive-date=10 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4dc2e3886f5a1903/original/k8oc04rtyz5pno2s7zle-pdf.pdf |title=Match report – Group C – Japan v Colombia |publisher=[[FIFA]] |date=24 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061858/https://digitalhub.fifa.com/m/4dc2e3886f5a1903/original/k8oc04rtyz5pno2s7zle-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _JFA_14h
+ |pattern_b  = _JFA_14h
+ |pattern_ra = _JFA_14h
+ |pattern_sh = _JFA_14h
+ |pattern_so = _JFA_14h
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="JPN-COL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/216bfe438a79d3d4/original/qub7bacqrhafjcfusqux-pdf.pdf |title=Tactical Line-up – Group C – Japan v Colombia |publisher=[[FIFA]] |date=24 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181723/https://digitalhub.fifa.com/m/216bfe438a79d3d4/original/qub7bacqrhafjcfusqux-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _colombia14h
+ |pattern_b  = _colombia14h
+ |pattern_ra = _colombia14h
+ |pattern_sh = _colombia14h
+ |pattern_so = _colombia14h
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Colombia<ref name="JPN-COL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eiji Kawashima]]
+|-
+|RB ||'''2''' ||[[Atsuto Uchida]]
+|-
+|CB ||'''22'''||[[Maya Yoshida]]
+|-
+|CB ||'''15'''||[[Yasuyuki Konno]] || {{yel|16}}
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|CM ||'''14'''||[[Toshihiro Aoyama]] || || {{suboff|62}}
+|-
+|CM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]])
+|-
+|RW ||'''9''' ||[[Shinji Okazaki]] || || {{suboff|69}}
+|-
+|AM ||'''4''' ||[[Keisuke Honda]]
+|-
+|LW ||'''10'''||[[Shinji Kagawa]] || || {{suboff|85}}
+|-
+|CF ||'''13'''||[[Yoshito Ōkubo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Hotaru Yamaguchi]] || || {{subon|62}}
+|-
+|FW ||'''11'''||[[Yoichiro Kakitani]] || || {{subon|69}}
+|-
+|MF ||'''8''' ||[[Hiroshi Kiyotake]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Alberto Zaccheroni]]
+|}
+|valign="top"|[[File:JPN-COL 2014-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Ospina]] ([[Captain (association football)|c]]) || || {{suboff|85}}
+|-
+|RB ||'''4''' ||[[Santiago Arias]]
+|-
+|CB ||'''23'''||[[Carlos Valdés (footballer)|Carlos Valdés]]
+|-
+|CB ||'''16'''||[[Éder Álvarez Balanta|Éder Balanta]]
+|-
+|LB ||'''7''' ||[[Pablo Armero]]
+|-
+|RM ||'''11'''||[[Juan Cuadrado]] || || {{suboff|46}}
+|-
+|CM ||'''15'''||[[Alexander Mejía]]
+|-
+|CM ||'''13'''||[[Fredy Guarín]] || {{Yel|63}}
+|-
+|LM ||'''20'''||[[Juan Fernando Quintero|Juan Quintero]] || || {{suboff|46}}
+|-
+|SS ||'''19'''||[[Adrián Ramos]]
+|-
+|CF ||'''21'''||[[Jackson Martínez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Carlos Carbonero]] || || {{subon|46}}
+|-
+|MF ||'''10'''||[[James Rodríguez]] || || {{subon|46}}
+|-
+|GK ||'''22'''||[[Faryd Mondragón]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jackson Martínez]] (Colombia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Bertino Cunha ([[Portuguese Football Federation|Portugal]])
+<br />Tiago Trigo ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Roberto Moreno ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Eric Boria ([[United States Soccer Federation|United States]])
+|}
+
+===Greece vs Ivory Coast===
+{{further|List of 2014 FIFA World Cup controversies#Greece vs Ivory Coast}}
+The two teams had never met before.<ref name=StatKit42 /> Greece midfielder [[Kostas Katsouranis]] (red card in previous match) and Ivory Coast defender [[Didier Zokora]] (accumulation of yellow cards) were suspended for the match.<ref>{{cite web|url=http://www.newindianexpress.com/fifaworldcup/news/Goalless-Draw-Keeps-Japan-And-Greece-Alive/2014/06/20/article2290235.ece|title=Goalless Draw Keeps Japan And Greece Alive|publisher=The New Indian Express|date=20 June 2014|access-date=22 June 2014|archive-url=https://web.archive.org/web/20140714113202/http://www.newindianexpress.com/fifaworldcup/news/Goalless-Draw-Keeps-Japan-And-Greece-Alive/2014/06/20/article2290235.ece|archive-date=14 July 2014|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|url=http://www.kickoff.com/worldcup2014/news/45787/world-cup-group-c-match-report-colombia-2-1-ivory-coast|title=Colombia edge Ivorians|publisher=Kickoff.com|date=19 June 2014|access-date=22 June 2014|archive-url=https://web.archive.org/web/20140714160853/http://www.kickoff.com/worldcup2014/news/45787/world-cup-group-c-match-report-colombia-2-1-ivory-coast|archive-date=14 July 2014|url-status=dead}}</ref>
+
+Greece, which had to win to have any chance to qualify for the knockout stage, went in front in the 42nd minute after [[Cheick Tioté]]'s defensive mistake allowed substitute [[Andreas Samaris]] to steal the ball, play a one-two with [[Georgios Samaras]], and run in on goal before shooting past the goalkeeper with his right foot. In the second half, substitute [[Wilfried Bony]] equalised with a low right foot finish after [[Gervinho]]'s pass from the left. As Japan were losing to Colombia in the other match played at the same time, Ivory Coast only required a point to qualify for the knockout stage for the first time.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/24/greece-ivory-coast-world-cup-2014-match-report|title=Greece advance with last-gasp penalty to deny Ivory Coast progress|date=24 June 2014|work=The Guardian|accessdate=25 June 2014}}</ref> The game looked to be heading for a draw, until Greece won a penalty in injury time when [[Giovanni Sio]] tripped Samaras as he was about to strike the ball, and Samaras scored the penalty hitting the ball to the goalkeeper's left. The win meant Greece finished as the group runners-up, and put them into the knockout stage for the first time in its World Cup history (after unsuccessful campaigns in 1994 and 2010), while Ivory Coast were eliminated in the group stage for the third tournament in a row.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285284|title=Greece 2 Ivory Coast 1|date=24 June 2014|work=BBC Sport|accessdate=25 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=c6
+|date={{Start date|2014|6|24|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|GRE}}
+|score={{score link|2014 FIFA World Cup Group C#Greece vs Ivory Coast|2–1}}
+|team2={{fb|CIV}}
+|goals1=
+*[[Andreas Samaris|Samaris]] {{goal|42}}
+*[[Georgios Samaras|Samaras]] {{goal|90+3|pen.}}
+|goals2=
+*[[Wilfried Bony|Bony]] {{goal|74}}
+|stadium=[[Castelão (Ceará)|Estádio Castelão]], [[Fortaleza]]
+|attendance=59,095
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186455 |title=Greece vs Côte d'Ivoire {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186455/report.html |title=2014 FIFA World Cup Brazil – Matches – Greece v Côte d'Ivoire |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709053340/http://www.fifa.com/worldcup/matches/round=255931/match=300186455/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7878923234b4e518/original/ae5690wvavqfm8a5jsp9-pdf.pdf |title=Match report – Group C – Greece v Côte d'Ivoire |publisher=[[FIFA]] |date=24 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061911/https://digitalhub.fifa.com/m/7878923234b4e518/original/ae5690wvavqfm8a5jsp9-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _greece1415h
+ |pattern_b  = _greece1415home
+ |pattern_ra = _greece1415h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Greece<ref name="GRE-CIV line-ups">{{cite web |url=https://digitalhub.fifa.com/m/78c6fbf42e482bae/original/oqbtlitdcfgxfyskmhms-pdf.pdf |title=Tactical Line-up – Group C – Greece v Côte d'Ivoire |publisher=[[FIFA]] |date=24 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181748/https://digitalhub.fifa.com/m/78c6fbf42e482bae/original/oqbtlitdcfgxfyskmhms-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ic1415a
+ |pattern_b  = _ic1415away
+ |pattern_ra = _ic1415a
+ |pattern_sh = _ic1415a
+ |pattern_so = _ic1415a
+ |leftarm    = 26A064
+ |body       = 26A064
+ |rightarm   = 26A064
+ |shorts     = 26A064
+ |socks      = 26A064
+ |title      = Ivory Coast<ref name="GRE-CIV line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Orestis Karnezis]] || || {{suboff|24}}
+|-
+|RB ||'''15'''||[[Vasilis Torosidis]]
+|-
+|CB ||'''4''' ||[[Kostas Manolas]]
+|-
+|CB ||'''19'''||[[Sokratis Papastathopoulos]]
+|-
+|LB ||'''20'''||[[José Holebas]]
+|-
+|DM ||'''10'''||[[Giorgos Karagounis]] ([[Captain (association football)|c]]) || || {{suboff|78}}
+|-
+|CM ||'''2''' ||[[Giannis Maniatis]]
+|-
+|CM ||'''16'''||[[Lazaros Christodoulopoulos]]
+|-
+|RW ||'''8''' ||[[Panagiotis Kone]] || || {{suboff|12}}
+|-
+|LW ||'''7''' ||[[Georgios Samaras]]
+|-
+|CF ||'''14'''||[[Dimitris Salpingidis]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Andreas Samaris]] || || {{subon|12}}
+|-
+|GK ||'''12'''||[[Panagiotis Glykos]] || || {{subon|24}}
+|-
+|FW ||'''17'''||[[Theofanis Gekas]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Fernando Santos (football coach)|Fernando Santos]]
+|}
+|valign="top"|[[File:GRE-CIV 2014-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Boubacar Barry]]
+|-
+|RB ||'''17'''||[[Serge Aurier]]
+|-
+|CB ||'''4''' ||[[Kolo Touré]]
+|-
+|CB ||'''22'''||[[Sol Bamba]]
+|-
+|LB ||'''3''' ||[[Arthur Boka]]
+|-
+|CM ||'''9''' ||[[Cheick Tioté]] || || {{suboff|61}}
+|-
+|CM ||'''20'''||[[Serey Die]] || {{yel|70}}
+|-
+|RW ||'''8''' ||[[Salomon Kalou]] || {{yel|62}}
+|-
+|AM ||'''19'''||[[Yaya Touré]]
+|-
+|LW ||'''10'''||[[Gervinho]] || || {{suboff|83}}
+|-
+|CF ||'''11'''||[[Didier Drogba]] ([[Captain (association football)|c]]) || {{yel|37}} || {{suboff|78}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||[[Wilfried Bony]] || || {{subon|61}}
+|-
+|MF ||'''14'''||[[Ismaël Diomandé (footballer, born 1992)|Ismaël Diomandé]] || || {{subon|78}}
+|-
+|FW ||'''21'''||[[Giovanni Sio]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA|1974}} [[Sabri Lamouchi]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Georgios Samaras]] (Greece)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Christian Lescano ([[Ecuadorian Football Federation|Ecuador]])
+<br />Byron Romero ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+|}
+
+==See also==
+*[[Colombia at the FIFA World Cup]]
+*[[Greece at the FIFA World Cup]]
+*[[Ivory Coast at the FIFA World Cup]]
+*[[Japan at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://web.archive.org/web/20140412235401/http://www.fifa.com/worldcup/groups/group=255937/index.html 2014 FIFA World Cup Group C], FIFA.com
+
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Group C}}
+[[Category:2014 FIFA World Cup group stage|C]]
+[[Category:Greece at the 2014 FIFA World Cup]]
+[[Category:Colombia at the 2014 FIFA World Cup]]
+[[Category:Japan at the 2014 FIFA World Cup]]
+[[Category:Ivory Coast at the 2014 FIFA World Cup]]
+[[Category:Football competitions in Belo Horizonte]]
+[[Category:21st century in Belo Horizonte]]
+[[Category:Sport in Recife]]
+[[Category:Football in Pernambuco]]
+[[Category:Football in Brasília]]
+[[Category:21st century in Brasília|2014 FIFA World Cup Group C]]
+[[Category:Natal, Rio Grande do Norte]]
+[[Category:Football in Rio Grande do Norte]]
+[[Category:Cuiabá]]
+[[Category:Football in Mato Grosso]]
+[[Category:Sport in Fortaleza]]
+[[Category:Football in Ceará]]

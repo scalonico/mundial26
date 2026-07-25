@@ -1,0 +1,2352 @@
+{{short description|none}}
+{{Use dmy dates|date=June 2018}}
+
+The knockout stage of the [[2010 FIFA World Cup]] was the second and final stage of the World Cup, following the group stage. It began on 26 June with the round of 16 matches, and ended on 11 July with the final match of the tournament held at [[Soccer City]], [[Johannesburg]], in which [[Spain national football team|Spain]] beat the [[Netherlands national football team|Netherlands]] 1–0 after extra time to claim their first World Cup. The top two teams from each group (16 in total) advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]]–style tournament. A match for third place was included and played between the two losing teams of the semi-finals.
+
+In the knockout stage (including the final), if a match was level at the end of 90 minutes, two periods of [[Overtime (sports)#Association football|extra time]] (15 minutes each) would be played. If the score was still level after extra time, the match would be decided by a [[Penalty shoot-out (association football)|penalty shoot-out]].<ref name=regulations>{{cite press release |url=https://www.fifa.com/mm/document/tournament/competition/fifa_wc_south_africa_2010_regulations_en_14123.pdf |title=Fifa World Cup South Africa 2010 Regulations|pages=42–44|date=July 2007 |access-date=1 December 2011 |url-status=dead |archive-url=https://web.archive.org/web/20070926230651/http://www.fifa.com/mm/document/tournament/competition/fifa_wc_south_africa_2010_regulations_en_14123.pdf |archive-date=26 September 2007|website=FIFA.com|publisher=Fédération Internationale de Football Association}}</ref>
+
+''All times listed are [[South African Standard Time]] ([[UTC+02:00|UTC+2]])''
+
+==Qualified teams==
+The top two placed teams from each of the eight groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[2010 FIFA World Cup Group A|A]]
+| {{fb|URU}}
+| {{fb|MEX}}
+|-
+! [[2010 FIFA World Cup Group B|B]]
+| {{fb|ARG|1861}}
+| {{fb|KOR|1997}}
+|-
+! [[2010 FIFA World Cup Group C|C]]
+| {{fb|USA}}
+| {{fb|ENG}}
+|-
+! [[2010 FIFA World Cup Group D|D]]
+| {{fb|GER}}
+| {{fb|GHA}}
+|-
+! [[2010 FIFA World Cup Group E|E]]
+| {{fb|NED}}
+| {{fb|JPN}}
+|-
+! [[2010 FIFA World Cup Group F|F]]
+| {{fb|PAR|1990}}
+| {{fb|SVK}}
+|-
+! [[2010 FIFA World Cup Group G|G]]
+| {{fb|BRA}}
+| {{fb|POR}}
+|-
+! [[2010 FIFA World Cup Group H|H]]
+| {{fb|ESP}}
+| {{fb|CHI}}
+|}
+
+==Bracket==
+{{Round16
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- round of 16 -->
+|26 June – [[Port Elizabeth]]|'''{{fb|URU}}'''|'''2'''|{{fb|KOR|1997}}|1
+|26 June – [[Rustenburg]]|{{fb|USA}}|1|'''{{fb|GHA}}''' {{aet}}|'''2'''
+|28 June – [[Durban]]|'''{{fb|NED}}'''|'''2''' |{{fb|SVK}}|1
+|28 June – [[Johannesburg]] ([[Ellis Park Stadium|Ellis Park]])|'''{{fb|BRA}}'''|'''3''' |{{fb|CHI}}|0
+|{{nowrap|27 June – [[Soccer City|Johannesburg (Soccer City)]]}}|'''{{fb|ARG|1861}}'''|'''3'''|{{fb|MEX}}|1
+|27 June – [[Bloemfontein]]|'''{{fb|GER}}'''|'''4'''|{{fb|ENG}}|1
+|29 June – [[Pretoria]]|'''{{fb|PAR|1990}}''' {{pso}}|'''0 (5)'''|{{fb|JPN}}|0 (3)
+|29 June – [[Cape Town]]|'''{{fb|ESP}}'''|'''1'''|{{fb|POR}}|0
+<!-- quarter-finals -->
+|{{nowrap|2 July – [[Johannesburg]] ([[Soccer City]])}}|'''{{fb|URU}}''' {{pso}}|'''1 (4)'''|{{fb|GHA}}|1 (2)
+|2 July – [[Port Elizabeth]]|'''{{fb|NED}}'''|'''2'''|{{fb|BRA}}|1
+|3 July – [[Cape Town]]|{{fb|ARG|1861}}|0|'''{{fb|GER}}'''|'''4'''
+|3 July – [[Johannesburg]] ([[Ellis Park Stadium|Ellis Park]])|{{fb|PAR|1990}}|0|'''{{fb|ESP}}'''|'''1'''
+<!-- semi-finals -->
+|6 July – [[Cape Town]]|{{fb|URU}}|2|'''{{fb|NED}}'''|'''3'''
+|7 July – [[Durban]]|{{fb|GER}}|0|'''{{fb|ESP}}'''|'''1'''
+<!-- final -->
+|{{nowrap|11 July – [[Johannesburg]] ([[Soccer City]])}}|{{fb|NED}}|0|'''{{fb|ESP}}''' {{aet}}|'''1'''
+<!-- match for third place -->
+|10 July – [[Port Elizabeth]]|{{fb|URU}}|2|'''{{fb|GER}}'''|'''3'''
+|widescore=yes}}
+
+==Round of 16==
+
+===Uruguay vs South Korea===
+[[Uruguay national football team|Uruguay]] vs [[South Korea national football team|South Korea]] was the first match in the Round of 16. The match was held at the [[Nelson Mandela Bay Stadium]] in [[Port Elizabeth]] before a low crowd of 30,597.<ref>{{cite news|url=https://www.google.com/hostednews/afp/article/ALeqM5hUONGwboBiMunFqECosWJ6-AQhEQ|archive-url=https://web.archive.org/web/20100702133940/http://www.google.com/hostednews/afp/article/ALeqM5hUONGwboBiMunFqECosWJ6-AQhEQ|url-status=dead|archive-date=2 July 2010|title=Low crowd causes concern in Port Elizabeth|date=28 June 2010|agency=[[Agence France-Presse]]|access-date=30 June 2010}}</ref> Uruguay won the match 2–1 with two goals from [[Luis Suárez]], the second of which broke a 1–1 deadlock in the 80th minute. Suárez's first was scored when [[Diego Forlán]] made a low cross from the left that was not dealt with by the South Korean defence, leaving Suárez to score at the back post. Uruguay subsequently adopted a defensive posture, and South Korea had more chances to score. Eventually, [[Lee Chung-yong]] equalised in the 68th minute, scoring a headed goal following a free kick. Despite South Korea then having chances to win the match, Suárez scored Uruguay's winner in the 80th minute with a curling strike from the edge of the 18-yard box that went in off the inside of the post; this goal was regarded as one of the tournament's best.<ref name="BBCUruguayKorea">{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_49/default.stm|title=Uruguay 2–1 South Korea|last=Chowdhury|first=Saj|date=26 June 2010|publisher=BBC News|access-date=2 July 2010}}</ref> Korea missed more good chances in the final minutes of the game, giving Uruguay victory and passage to the quarter-finals for the first time since 1970, where they would face [[Ghana national football team|Ghana]].<ref name="BBCUruguayKorea"/><ref>{{cite news|url=https://www.google.com/hostednews/ap/article/ALeqM5i0kw0Ykj_quQko06E86XJRwq9AiwD9GJ702G0|title=Uruguay beats South Korea 2–1 in round of 16|last=Ritter|first=Karl|date=26 June 2010|agency=Associated Press|access-date=30 June 2010}}{{dead link|date=June 2024|bot=medic}}{{cbignore|bot=medic}}</ref> After the match, Uruguayan coach [[Óscar Tabárez]] attributed his team's successful run to the number of players with experience at top-level overseas clubs.<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/world-cup-2010/teams/uruguay/7858926/Uruguay-glory-down-to-overseas-exploits.html|archive-url=https://archive.today/20120911223925/http://www.telegraph.co.uk/sport/football/world-cup-2010/teams/uruguay/7858926/Uruguay-glory-down-to-overseas-exploits.html|url-status=dead|archive-date=11 September 2012|title=Uruguay glory down to overseas exploits|date=28 June 2010|work=[[The Daily Telegraph]]|access-date=30 June 2010 |location=London}}</ref> South Korean coach [[Huh Jung-moo]] claimed his side "controlled" the match and that Uruguay's goals were "lucky".<ref>{{cite news|url=http://www.goal.com/en/news/1863/world-cup-2010/2010/06/26/1996911/world-cup-2010-south-korea-coach-huh-jung-moo-rues-uruguays|title=South Korea Coach Huh Jung-Moo Rues Uruguay's 'Lucky' Goals|last=Mira|first=Luis|date=26 June 2010|work=goal.com|access-date=2 July 2010}}</ref>
+
+<section begin="R16-1" />{{Football box
+|date={{Start date|2010|6|26|df=y}}
+|time=16:00
+|team1={{fb-rt|URU}}
+|score={{score link|2010 FIFA World Cup knockout stage#Uruguay vs South Korea|2–1}}
+|team2={{fb|KOR|1997}}
+|goals1=
+*[[Luis Suárez|Suárez]] {{goal|8||80}}
+|goals2=
+*[[Lee Chung-yong]] {{goal|68}}
+|stadium=[[Nelson Mandela Bay Stadium]], [[Port Elizabeth]]
+|attendance=30,597
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061504 |title=Uruguay vs Korea Republic {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300061504/report.html |title=2010 FIFA World Cup South Africa – Matches – Uruguay v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171206153038/http://www.fifa.com/worldcup/matches/round=249717/match=300061504/report.html |archive-date=6 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/47e9a5a7e3ecc992/original/qryu19msuwcsv5ce0kmj-pdf.pdf |title=Match Report – Round of 16 – Uruguay v Korea Republic |publisher=[[FIFA]] |date=26 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060500/https://digitalhub.fifa.com/m/47e9a5a7e3ecc992/original/qryu19msuwcsv5ce0kmj-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-1" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _uru10H
+ |pattern_b  = _uru10H
+ |pattern_ra = _uru10H
+ |pattern_sh = _uru10h
+ |pattern_so = _uru10h
+ |leftarm    = 87CEEB
+ |body       = 87CEEB
+ |rightarm   = 87CEEB
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay<ref name="uru-kor_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/606eb4204071947d/original/mhlaq8svxgj1a4l17rhy-pdf.pdf |title=Tactical Line-up – Round of 16 – Uruguay v Korea Republic |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=26 June 2010 |access-date=26 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522183818/https://digitalhub.fifa.com/m/606eb4204071947d/original/mhlaq8svxgj1a4l17rhy-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _kor10a
+ |pattern_b  = _kor10a
+ |pattern_ra = _kor10a
+ |pattern_sh = _kor10h
+ |pattern_so = _whitetop
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = South Korea<ref name="uru-kor_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''16'''||[[Maxi Pereira]]
+|-
+|CB ||'''2''' ||[[Diego Lugano]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Diego Godín]] || || {{suboff|46}}
+|-
+|LB ||'''4''' ||[[Jorge Fucile]]
+|-
+|DM ||'''15'''||[[Diego Pérez (footballer)|Diego Pérez]]
+|-
+|RM ||'''17'''||[[Egidio Arévalo Ríos]]
+|-
+|LM ||'''11'''||[[Álvaro Pereira]] || || {{suboff|74}}
+|-
+|RF ||'''7''' ||[[Edinson Cavani]]
+|-
+|CF ||'''10'''||[[Diego Forlán]]
+|-
+|LF ||'''9''' ||[[Luis Suárez]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Mauricio Victorino]] || || {{subon|46}}
+|-
+|MF ||'''14'''||[[Nicolás Lodeiro]] || || {{subon|74}}
+|-
+|MF ||'''20'''||[[Álvaro Fernández (Uruguayan footballer)|Álvaro Fernández]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|valign="top"|[[File:URU-KOR 2010-06-26.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||[[Jung Sung-ryong]]
+|-
+|RB ||'''22'''||[[Cha Du-ri]] || {{yel|69}}
+|-
+|CB ||'''4''' ||[[Cho Yong-hyung]] || {{yel|83}}
+|-
+|CB ||'''14'''||[[Lee Jung-soo]]
+|-
+|LB ||'''12'''||[[Lee Young-pyo]]
+|-
+|CM ||'''16'''||[[Ki Sung-yong]] || || {{suboff|85}}
+|-
+|CM ||'''8''' ||[[Kim Jung-woo]] || {{yel|38}}
+|-
+|RW ||'''13'''||[[Kim Jae-sung]] || || {{suboff|61}}
+|-
+|AM ||'''7''' ||[[Park Ji-sung]] ([[Captain (association football)|c]])
+|-
+|LW ||'''17'''||[[Lee Chung-yong]]
+|-
+|CF ||'''10'''||[[Park Chu-young]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Lee Dong-gook]] || || {{subon|61}}
+|-
+|FW ||'''19'''||[[Yeom Ki-hun]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Huh Jung-moo]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Luis Suárez]] (Uruguay)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jan-Hendrik Salver ([[German Football Association|Germany]])
+<br />Mike Pickel ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+|}
+
+===United States vs Ghana===
+The match between the [[United States men's national soccer team|United States]] and [[Ghana national football team|Ghana]] was played on 26 June 2010 at the [[Royal Bafokeng Stadium]] in [[Rustenburg]]. The match was watched by 19&nbsp;million Americans, making it the most watched association football match in American television history at the time.<ref>{{cite news|url=https://abcnews.go.com/Entertainment/wireStory?id=11036338|title=U.S. v Ghana Tie Most-Watched Soccer Game in U.S. History|date=28 June 2010|work=[[ABC News (United States)|ABC News]]|publisher=[[American Broadcasting Company]]|access-date=30 June 2010}}</ref> Heading into the [[2026 FIFA World Cup]], it is the most recent World Cup knockout match that did not feature neither a South American nor European side. The match was won by Ghana in extra time after [[Asamoah Gyan]] broke a 1–1 deadlock. [[Kevin-Prince Boateng]] scored the opening goal of the match for Ghana in the fifth minute. The goal followed an error by [[Ricardo Clark]], who lost the ball to the Ghanaians in midfield. Boateng took the ball to the edge of the [[penalty area]], beating United States goalkeeper [[Tim Howard]] with a low left-footed shot. [[Landon Donovan]] equalised with a penalty kick in the 62nd minute, which was awarded after [[Jonathan Mensah]] fouled [[Clint Dempsey]]. The United States had chances to win the game thereafter but were unable to get past Ghana goalkeeper [[Richard Kingson]]. The match thus went to extra time. In the third minute, Gyan latched onto a high long ball, chesting it down and holding off two defenders before scoring the winner.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_50/default.stm|title=USA 1–2 Ghana (aet)|last=Fletcher|first=Paul|date=26 June 2010|work=BBC News|publisher=[[British Broadcasting Corporation]]|access-date=2 July 2010}}</ref> After the match, Ghana's coach [[Milovan Rajevac]] hailed his side's achievement in becoming one of the "best eight teams in the world", but regretted the number of players that would miss the quarter-final match against [[Uruguay national football team|Uruguay]] because of injury or suspension.<ref>{{cite news|url=https://www.google.com/hostednews/canadianpress/article/ALeqM5g_YRpeJ79U5ZmX0glYNyKqF-0Wtw|archive-url=https://archive.today/20100629131630/http://www.google.com/hostednews/canadianpress/article/ALeqM5g_YRpeJ79U5ZmX0glYNyKqF-0Wtw|url-status=dead|archive-date=29 June 2010|title=Gyan scores in extra time to give Ghana 2–1 win over US and spot in quarters|last=Condie|first=Stuart|date=27 June 2010|agency=[[The Canadian Press]]|access-date=30 June 2010}}</ref> The president of the [[United States Soccer Federation]], [[Sunil Gulati]], lamented the team's failure to make the quarter-finals and thereby further raise the profile of the sport in the United States.<ref>{{cite news|url=http://www.dailyherald.com/story/?id=391119|title=USA's setback vs. Ghana bigger than just one game|last=Schwarz|first=Orrin|date=30 June 2010|work=[[Daily Herald (Arlington Heights)|Daily Herald]]|access-date=30 June 2010}}</ref>
+
+<section begin="R16-2" />{{Football box
+|date={{Start date|2010|6|26|df=y}}
+|time=20:30
+|team1={{fb-rt|USA}}
+|score={{score link|2010 FIFA World Cup knockout stage#United States vs Ghana|1–2}}
+|aet=yes
+|team2={{fb|GHA}}
+|goals1=
+*[[Landon Donovan|Donovan]] {{goal|62|pen.}}
+|goals2=
+*[[Kevin-Prince Boateng|Boateng]] {{goal|5}}
+*[[Asamoah Gyan|Gyan]] {{goal|93}}
+|stadium=[[Royal Bafokeng Stadium]], [[Rustenburg]]
+|attendance=34,976
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061503 |title=United States vs Ghana {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300061503/report.html |title=2010 FIFA World Cup South Africa – Matches – USA v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171017123139/http://www.fifa.com/worldcup/matches/round=249717/match=300061503/report.html |archive-date=17 October 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4587312c895da9e/original/ig23lcxauhrfdictdily-pdf.pdf |title=Match Report – Round of 16 – USA v Ghana |publisher=[[FIFA]] |date=26 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060513/https://digitalhub.fifa.com/m/4587312c895da9e/original/ig23lcxauhrfdictdily-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-2" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _usa10h
+ |pattern_b  = _usa10h
+ |pattern_ra = _usa10h
+ |pattern_sh = _usa10h
+ |pattern_so = _usa10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|United States}}<ref name="usa-gha_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/810b209bf658581/original/jrocxsvxe5t0jfj5oaer-pdf.pdf |title=Tactical Line-up – Round of 16 – USA v Ghana |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=26 June 2010 |access-date=26 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181305/https://digitalhub.fifa.com/m/810b209bf658581/original/jrocxsvxe5t0jfj5oaer-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ang1012h
+ |pattern_b  = _gan1012a
+ |pattern_ra = _ang1012h
+ |pattern_sh = _gan1012a
+ |pattern_so = _gha10a
+ |leftarm    = EA0000
+ |body       = EA0000
+ |rightarm   = EA0000
+ |shorts     = EA0000
+ |socks      = EA0000
+ |title      = Ghana<ref name="usa-gha_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tim Howard]]
+|-
+|RB ||'''6''' ||[[Steve Cherundolo]] || {{yel|18}}
+|-
+|CB ||'''15'''||[[Jay DeMerit]]
+|-
+|CB ||'''3''' ||[[Carlos Bocanegra]] ([[Captain (association football)|c]]) || {{yel|68}}
+|-
+|LB ||'''12'''||[[Jonathan Bornstein]]
+|-
+|CM ||'''4''' ||[[Michael Bradley (soccer)|Michael Bradley]]
+|-
+|CM ||'''13'''||[[Ricardo Clark]] || {{yel|7}} || {{suboff|31}}
+|-
+|RW ||'''8''' ||[[Clint Dempsey]]
+|-
+|LW ||'''10'''||[[Landon Donovan]]
+|-
+|CF ||'''17'''||[[Jozy Altidore]] || || {{suboff|91}}
+|-
+|CF ||'''20'''||[[Robbie Findley]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Maurice Edu]] || || {{subon|31}}
+|-
+|MF ||'''22'''||[[Benny Feilhaber]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Herculez Gomez]] || || {{subon|91}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Bob Bradley]]
+|}
+|valign="top"|[[File:USA-GHA 2010-06-26.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|CB ||'''4''' ||[[John Paintsil]]
+|-
+|CB ||'''5''' ||[[John Mensah]] ([[Captain (association football)|c]])
+|-
+|CB ||'''8''' ||[[Jonathan Mensah]] || {{yel|61}}
+|-
+|RWB ||'''7''' ||[[Samuel Inkoom]] || || {{suboff|113}}
+|-
+|LWB ||'''2''' ||[[Hans Sarpei]] || || {{suboff|73}}
+|-
+|RM ||'''21'''||[[Kwadwo Asamoah]]
+|-
+|CM ||'''6''' ||[[Anthony Annan]]
+|-
+|CM ||'''23'''||[[Kevin-Prince Boateng]] || || {{suboff|78}}
+|-
+|LM ||'''13'''||[[André Ayew]] || {{yel|90+2}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''19'''||[[Lee Addy]] || || {{subon|73}}
+|-
+|MF ||'''10'''||[[Stephen Appiah]] || || {{subon|78}}
+|-
+|MF ||'''11'''||[[Sulley Muntari]] || || {{subon|113}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SRB|2004}} [[Milovan Rajevac]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[André Ayew]] (Ghana)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Gábor Erős ([[Hungarian Football Federation|Hungary]])
+<br />Tibor Vámos ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Michael Hester]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Tevita Makasini ([[Tonga Football Association|Tonga]])
+|}
+
+===Germany vs England===
+{{see also|England–Germany football rivalry}}
+[[Germany national football team|Germany]] and [[England national football team|England]] played each other on 27 June 2010 at the [[Free State Stadium]] in [[Bloemfontein]]. Germany took the lead in the 20th minute after English defenders [[Matthew Upson]] and [[John Terry]] were at fault in allowing [[Miroslav Klose]] to latch on to a long goal kick from [[Manuel Neuer]] and score. [[Lukas Podolski]] doubled Germany's lead 12 minutes later, although England pulled one goal back through Upson in the 37th minute, heading in a cross from [[Steven Gerrard]].<ref name="BBCGerEng">{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_51/default.stm|title=Germany 4–1 England|last=McNulty|first=Phil|date=27 June 2010|work=BBC News|access-date=2 July 2010 }}</ref> 
+A controversial moment occurred in the 39th minute: a shot by [[Frank Lampard]] was [[Ghost goal|not awarded as a goal]] despite the ball bouncing off the crossbar and clearly crossing the line by at least a foot. Had the goal been awarded, England would have equalised at 2–2. [[Thomas Müller]] subsequently scored two goals in the second half, extending Germany's lead to 4–1.<ref>{{cite news|url=https://www.theguardian.com/football/2010/jun/27/germany-england-world-cup-2010|title=World Cup 2010: Germany tear down England's defence|last=McCarra|first=Kevin|date=27 June 2010|work=[[The Guardian]]|access-date=1 July 2010 |location=London }}</ref> His first came at the end of a swift German counter-attack in the 67th minute, the goal being assisted by [[Bastian Schweinsteiger]]. His second came from an error by [[Gareth Barry]] and was set up by [[Mesut Özil]].<ref name="BBCGerEng"/> Germany won the match, 4–1.<ref>{{cite news|url=http://wwos.ninemsn.com.au/article.aspx?id=1077077|title=Germany thrash England 4–1|date=28 June 2010|work=[[ninemsn]]|access-date=1 July 2010|archive-url=https://web.archive.org/web/20100630073259/http://wwos.ninemsn.com.au/article.aspx?id=1077077|archive-date=30 June 2010|url-status=dead|df=dmy-all}}</ref> Germany progressed to meet [[Argentina national football team|Argentina]] in the quarter-final.
+
+The ghost goal incident in this match was a major factor in the FIFA and [[International Football Association Board|IFAB]] decision to test and later implement new rules allowing [[goal-line technology]] to be used in football.<ref>{{cite web|url=https://www.theguardian.com/football/2011/jul/21/fifa-goal-line-technology |title=Fifa to run tests on nine goal-line technology systems this autumn|agency=Associated Press|work=The Guardian|date=21 July 2011|accessdate=14 July 2021}}</ref><ref>{{cite web|title=IFAB makes three unanimous historic decisions|url=https://www.fifa.com/about-fifa/news/y=2012/m=7/news=ifab-makes-three-unanimous-historic-decisions-1660541.html|website=FIFA.com|publisher=Fédération Internationale de Football Association|access-date=23 April 2015|archive-url=https://web.archive.org/web/20150507234418/https://www.fifa.com/about-fifa/news/y=2012/m=7/news=ifab-makes-three-unanimous-historic-decisions-1660541.html|url-status=dead|archive-date=7 May 2015|date=5 July 2012}}</ref>
+
+<section begin="R16-3" />{{Football box
+|date={{Start date|2010|6|27|df=y}}
+|time=16:00
+|team1={{fb-rt|GER}}
+|score={{score link|2010 FIFA World Cup knockout stage#Germany vs England|4–1}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Miroslav Klose|Klose]] {{goal|20}}
+*[[Lukas Podolski|Podolski]] {{goal|32}}
+*[[Thomas Müller|Müller]] {{goal|67||70}}
+|goals2=
+*[[Matthew Upson|Upson]] {{goal|37}}
+|stadium=[[Free State Stadium]], [[Bloemfontein]]
+|attendance=40,510
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061501 |title=Germany vs England {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300061501/report.html |title=2010 FIFA World Cup South Africa – Matches – Germany v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170810051845/http://www.fifa.com/worldcup/matches/round=249717/match=300061501/report.html |archive-date=10 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/3f69c0cc8f7f4009/original/le0qiavgwkn7bqothmnh-pdf.pdf |title=Match Report – Round of 16 – Germany v England |publisher=[[FIFA]] |date=27 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060527/https://digitalhub.fifa.com/m/3f69c0cc8f7f4009/original/le0qiavgwkn7bqothmnh-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-3" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _ger10h2
+ |pattern_b  = _ger10h2
+ |pattern_ra = _ger10h2
+ |pattern_sh = _ger10h2
+ |pattern_so = _ger10h2
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 100000
+ |socks      = FFFFFF
+ |title      = Germany<ref name="ger-eng_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/403cd4da2ef18d2a/original/zkjfslky8mvbncqvfkka-pdf.pdf |title=Tactical Line-up – Round of 16 – Germany v England |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=27 June 2010 |access-date=27 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172901/https://digitalhub.fifa.com/m/403cd4da2ef18d2a/original/zkjfslky8mvbncqvfkka-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = 
+ |pattern_ra = _whiteborder
+ |pattern_sh = _white stripes
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = England<ref name="ger-eng_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Arne Friedrich]] || {{yel|47}}
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|LB ||'''20'''||[[Jérôme Boateng]]
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]]
+|-
+|CM ||'''6''' ||[[Sami Khedira]]
+|-
+|RW ||'''13'''||[[Thomas Müller]] || || {{suboff|72}}
+|-
+|AM ||'''8''' ||[[Mesut Özil]] || || {{suboff|83}}
+|-
+|LW ||'''10'''||[[Lukas Podolski]]
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Piotr Trochowski]] || || {{subon|72}}
+|-
+|FW ||'''23'''||[[Mario Gómez]] || || {{subon|72}} 
+|-
+|FW ||'''9''' ||[[Stefan Kießling]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-ENG 2010-06-27.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David James (footballer, born 1970)|David James]]
+|-
+|RB ||'''2''' ||[[Glen Johnson]] || {{yel|81}} || {{suboff|87}}
+|-
+|CB ||'''15'''||[[Matthew Upson]]
+|-
+|CB ||'''6''' ||[[John Terry]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|CM ||'''8''' ||[[Frank Lampard]]
+|-
+|CM ||'''14'''||[[Gareth Barry]]
+|-
+|RW ||'''16'''||[[James Milner]] || || {{suboff|64}}
+|-
+|LW ||'''4''' ||[[Steven Gerrard]] ([[Captain (association football)|c]])
+|-
+|CF ||'''19'''||[[Jermain Defoe]] || || {{suboff|71}}
+|-
+|CF ||'''10'''||[[Wayne Rooney]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Joe Cole]] || || {{subon|64}}
+|-
+|FW ||'''21'''||[[Emile Heskey]] || || {{subon|71}}
+|-
+|MF ||'''17'''||[[Shaun Wright-Phillips]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Fabio Capello]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Thomas Müller]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Pablo Fandino ([[Uruguayan Football Association|Uruguay]])
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Miguel Nievas ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Argentina vs Mexico===
+{{see also|Argentina–Mexico football rivalry}}
+[[Argentina national football team|Argentina]] and [[Mexico national football team|Mexico]] met on 27 June; Argentina won the match 3–1 for a place in the quarter-finals against [[Germany national football team|Germany]]. The match was overshadowed by a refereeing error that allowed Argentina's opening goal. [[Carlos Tevez]] headed the ball into the net from a [[Lionel Messi]] pass in the 25th minute, but replays showed there were no players between Tevez and the goal, rendering his goal clearly offside.<ref>{{cite news|url=https://www.google.com/hostednews/ukpress/article/ALeqM5i8S5hUCt62Lu9WNeJv-EsIoYT7nA|title=Tevez inspires Argentina win|date=28 June 2010|work=[[Press Association]]|access-date=2 July 2010}}{{dead link|date=June 2024|bot=medic}}{{cbignore|bot=medic}}</ref> Replays of the goal were shown in the stadium but the decision to award the goal was not overturned. Tevez said he knew that the goal was offside, but chose not to say anything.<ref>[http://www.nybooks.com/blogs/nyrblog/2010/jul/15/fifas-foul-play/ FIFA's Foul Play], Tim Parks, ''The New York Review of Books'', 15 July 2010</ref> Argentina's second goal came from a defensive error from [[Ricardo Osorio]] as a poor pass out of defence was snatched by [[Gonzalo Higuaín]] to round the keeper and score. After half-time, Tevez scored his second goal of the match to give Argentina a three-goal lead, with a long range shot that found the top corner of the Mexican goal. [[Javier Hernández]] scored for Mexico in the 71st minute but it turned out to be no more than a consolation goal, as Argentina held on to win 3–1.<ref>{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_52/default.stm |title=Argentina 3–1 Mexico|last=Fletcher|first=Paul|date=27 June 2010|work=BBC News|access-date=2 July 2010 }}</ref> Mexico's coach [[Javier Aguirre]] resigned after the match, accepting responsibility for not meeting the team's target of the quarter-finals.<ref>{{cite news|url=http://www.abc.net.au/news/stories/2010/07/01/2941710.htm|title=Mexico coach Aguirre resigns|date=1 July 2010|work=[[ABC News (Australia)|ABC News]]|access-date=2 July 2010}}{{dead link|date=April 2025|bot=medic}}{{cbignore|bot=medic}}</ref> Tevez conceded that he was aware his first goal was offside at the time,<ref>{{cite news|url=http://www.skysports.com/football/world-cup-2010/story/0,27032,12026_6236170,00.html|title=Tevez – I knew I was offside|last=Barton|first=Mike|date=28 June 2010|work=[[Sky Sports]]|access-date=2 July 2010 }}</ref> although Aguirre deflected the blame for his side's loss away from the refereeing.<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/world-cup-2010/teams/argentina/7858102/Argentina-3-Mexico-1-Javier-Aguirre-refuses-to-blame-referee-for-World-Cup-defeat.html|archive-url=https://web.archive.org/web/20100701161255/http://www.telegraph.co.uk/sport/football/world-cup-2010/teams/argentina/7858102/Argentina-3-Mexico-1-Javier-Aguirre-refuses-to-blame-referee-for-World-Cup-defeat.html|url-status=dead|archive-date=1 July 2010|title=Argentina 3 Mexico 1: Javier Aguirre refuses to blame referee for World Cup defeat|date=27 June 2010|work=[[The Daily Telegraph]]|access-date=2 July 2010 |location=London }}</ref>
+
+<section begin="R16-4" />{{Football box
+|date={{Start date|2010|6|27|df=y}}
+|time=20:30
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|2010 FIFA World Cup knockout stage#Argentina vs Mexico|3–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Carlos Tevez|Tevez]] {{goal|26||52}}
+*[[Gonzalo Higuaín|Higuaín]] {{goal|33}}
+|goals2=
+*[[Javier Hernández|Hernández]] {{goal|71}}
+|stadium=[[Soccer City]], [[Johannesburg]]
+|attendance=84,377
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061502 |title=Argentina vs Mexico {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300061502/report.html |title=2010 FIFA World Cup South Africa – Matches – Argentina v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170702062018/http://www.fifa.com/worldcup/matches/round=249717/match=300061502/report.html |archive-date=2 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/67d6fdd96b9c54ae/original/x72qahrgo4slf0tqs3u3-pdf.pdf |title=Match Report – Round of 16 – Argentina v Mexico |publisher=[[FIFA]] |date=27 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060541/https://digitalhub.fifa.com/m/67d6fdd96b9c54ae/original/x72qahrgo4slf0tqs3u3-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-4" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _arg10h1
+ |pattern_b  = _arg10h1
+ |pattern_ra = _arg10h1
+ |pattern_sh = _arg10a2
+ |pattern_so = _arg10a2
+ |leftarm    = 80BFFF
+ |body       = 80BFFF
+ |rightarm   = 80BFFF
+ |shorts     = 0000C0
+ |socks      = 0000C0
+ |title      = Argentina<ref name="arg-mex_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3cdd36788f6936f2/original/rku1qjpqq8pqlaisa1ad-pdf.pdf |title=Tactical Line-up – Round of 16 – Argentina v Mexico |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=27 June 2010 |access-date=27 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172914/https://digitalhub.fifa.com/m/3cdd36788f6936f2/original/rku1qjpqq8pqlaisa1ad-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex10h2
+ |pattern_b  = _mex10h2
+ |pattern_ra = _mex10h2
+ |pattern_sh = _mex10h2
+ |pattern_so = _mex10h2
+ |leftarm    = 006847
+ |body       = 006847
+ |rightarm   = 006847
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Mexico<ref name="arg-mex_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Sergio Romero]]
+|-
+|RB ||'''15'''||[[Nicolás Otamendi]]
+|-
+|CB ||'''2''' ||[[Martín Demichelis]]
+|-
+|CB ||'''4''' ||[[Nicolás Burdisso]]
+|-
+|LB ||'''6''' ||[[Gabriel Heinze]]
+|-
+|DM ||'''14'''||[[Javier Mascherano]] ([[Captain (association football)|c]])
+|-
+|RM ||'''20'''||[[Maxi Rodríguez]] || || {{suboff|87}}
+|-
+|LM ||'''7''' ||[[Ángel Di María]] || || {{suboff|79}}
+|-
+|AM ||'''10'''||[[Lionel Messi]]
+|-
+|CF ||'''11'''||[[Carlos Tevez]] || || {{suboff|69}}
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Juan Sebastián Verón]] || || {{subon|69}}
+|-
+|MF ||'''17'''||[[Jonás Gutiérrez]] || || {{subon|79}}
+|-
+|MF ||'''23'''||[[Javier Pastore]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Diego Maradona]]
+|}
+|valign="top"|[[File:ARG-MEX 2010-06-27.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Óscar Pérez Rojas|Óscar Pérez]]
+|-
+|RB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]]) || {{yel|28}}
+|-
+|LB ||'''3''' ||[[Carlos Salcido]]
+|-
+|RM ||'''16'''||[[Efraín Juárez]]
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]]
+|-
+|LM ||'''18'''||[[Andrés Guardado]] || || {{suboff|61}}
+|-
+|AM ||'''17'''||[[Giovani dos Santos]]
+|-
+|AM ||'''21'''||[[Adolfo Bautista]] || || {{suboff|46}}
+|-
+|CF ||'''14'''||[[Javier Hernández]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Pablo Barrera]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Guillermo Franco]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Javier Aguirre]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Carlos Tevez]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Paolo Calcagno ([[Italian Football Federation|Italy]])
+<br />Stefano Ayroldi ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Célestin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+|}
+
+===Netherlands vs Slovakia===
+The [[Netherlands national football team|Netherlands]] defeated [[Slovakia national football team|Slovakia]] 2–1 on 28 June 2010 at the [[Moses Mabhida Stadium]] in [[Durban]]. The Netherlands' first goal was an excellent individual effort from [[Arjen Robben]] in the 18th minute, taking on the Slovak defence with the ball before scoring from 25&nbsp;yards. The Dutch had chances to extend their lead in the second half, with the most prominent coming when Robben cut inside on his left foot just like he did when he scored the first goal, but this time, Slovak goalkeeper [[Ján Mucha]] saved the shot going to his far post. The Slovaks also had two big opportunities to equalise but forced a save from [[Maarten Stekelenburg]] each time. The Dutch sealed their win in the 84th minute when [[Wesley Sneijder]] scored off an assist from [[Dirk Kuyt]] into an unguarded net after Kuyt got the ball past Mucha. [[Róbert Vittek]] slotted a penalty kick late in stoppage time, but it was no more than a consolation goal for Slovakia. The penalty had been awarded for a trip on him by Stekelenburg.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_53/default.stm|title=Netherlands 2–1 Slovakia|last=Dawkes|first=Phil|date=28 June 2010|work=BBC News|access-date=2 July 2010 }}</ref> The Netherlands' win threatened to be overshadowed by [[Robin van Persie]] responding angrily to being substituted by coach [[Bert van Marwijk]]. Van Marwijk called a team meeting over the incident and later insisted that there was no residual unrest in the squad.<ref>{{cite news|url=https://www.google.com/hostednews/ap/article/ALeqM5ifb6j65HwUJqv7ZUNX1yDDKRdxSAD9GL1ME00|archive-url=https://web.archive.org/web/20100702064118/http://www.google.com/hostednews/ap/article/ALeqM5ifb6j65HwUJqv7ZUNX1yDDKRdxSAD9GL1ME00|url-status=dead|archive-date=2 July 2010|title=Van Marwijk calls team meeting over Van Persie|last=Corder|first=Mike|date=30 June 2010|agency=Associated Press|access-date=2 July 2010 }}</ref><ref>{{cite news|url=http://soccernet.espn.go.com/world-cup/story/_/id/804507/ce/uk/&cc=3436?ver=global |title=Sneijder denies Van Persie rift |date=30 June 2010 |work=[[ESPNsoccernet]] |access-date=2 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20121021190058/http://soccernet.espn.go.com/world-cup/story/_/id/804507/ce/uk/%26cc%3D3436?ver=global |archive-date=21 October 2012 }}</ref>
+
+<section begin="R16-5" />{{Football box
+|date={{Start date|2010|6|28|df=y}}
+|time=16:00
+|team1={{fb-rt|NED}}
+|score={{score link|2010 FIFA World Cup knockout stage#Netherlands vs Slovakia|2–1}}
+|team2={{fb|SVK}}
+|goals1=
+*[[Arjen Robben|Robben]] {{goal|18}}
+*[[Wesley Sneijder|Sneijder]] {{goal|84}}
+|goals2=
+*[[Róbert Vittek|Vittek]] {{goal|90+4|pen.}}
+|stadium=[[Moses Mabhida Stadium]], [[Durban]]
+|attendance=61,962
+|referee=[[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300111113 |title=Netherlands vs Slovakia {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300111113/report.html |title=2010 FIFA World Cup South Africa – Matches – Netherlands v Slovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170922002400/http://www.fifa.com/worldcup/matches/round=249717/match=300111113/report.html |archive-date=22 September 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/2a2a4ba7d7a5e1ff/original/an5imbshqzpygrwzrthv-pdf.pdf |title=Match Report – Round of 16 – Netherlands v Slovakia |publisher=[[FIFA]] |date=28 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060554/https://digitalhub.fifa.com/m/2a2a4ba7d7a5e1ff/original/an5imbshqzpygrwzrthv-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-5" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _ned10h
+ |pattern_b  = _ned10H
+ |pattern_ra = _ned10h
+ |pattern_sh = _manutd1011a
+ |pattern_so = _band_black
+ |leftarm    = FF5F00
+ |body       = FF5F00
+ |rightarm   = FF5F00
+ |shorts     = 000000
+ |socks      = FF5F00
+ |title      = {{nowrap|Netherlands}}<ref name="ned-svk_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/1dfe2a9e998d030d/original/vw0275ut97qd11vgmoz7-pdf.pdf |title=Tactical Line-up – Round of 16 – Netherlands v Slovakia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 June 2010 |access-date=28 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172927/https://digitalhub.fifa.com/m/1dfe2a9e998d030d/original/vw0275ut97qd11vgmoz7-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esl10h
+ |pattern_b  = _esl10h
+ |pattern_ra = _esl10h
+ |pattern_sh = _Palmeiras_0910third
+ |pattern_so = _color_3_stripes_blue
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Slovakia<ref name="ned-svk_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Maarten Stekelenburg]] || {{yel|90+3}}
+|-
+|RB ||'''2''' ||[[Gregory van der Wiel]]
+|-
+|CB ||'''3''' ||[[John Heitinga]]
+|-
+|CB ||'''4''' ||[[Joris Mathijsen]]
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]] ([[Captain (association football)|c]])
+|-
+|DM ||'''6''' ||[[Mark van Bommel]]
+|-
+|DM ||'''8''' ||[[Nigel de Jong]]
+|-
+|RW ||'''7''' ||[[Dirk Kuyt]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]] || || {{suboff|90+2}}
+|-
+|LW ||'''11'''||[[Arjen Robben]] || {{yel|31}} || {{suboff|71}}
+|-
+|CF ||'''9''' ||[[Robin van Persie]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Eljero Elia]] || || {{subon|71}}
+|-
+|FW ||'''21'''||[[Klaas-Jan Huntelaar]] || || {{subon|80}}
+|-
+|MF ||'''20'''||[[Ibrahim Afellay]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Bert van Marwijk]]
+|}
+|valign="top"|[[File:NED-SVK 2010-06-28.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ján Mucha]]
+|-
+|RB ||'''2''' ||[[Peter Pekarík]]
+|-
+|CB ||'''3''' ||[[Martin Škrtel]] || {{yel|84}}
+|-
+|CB ||'''16'''||[[Ján Ďurica]]
+|-
+|LB ||'''5''' ||[[Radoslav Zabavník]] || || {{suboff|88}}
+|-
+|DM ||'''19'''||[[Juraj Kucka]] || {{yel|40}}
+|-
+|RM ||'''7''' ||[[Vladimír Weiss (footballer, born 1989)|Vladimír Weiss]]
+|-
+|LM ||'''15'''||[[Miroslav Stoch]]
+|-
+|AM ||'''17'''||[[Marek Hamšík]] ([[Captain (association football)|c]]) || || {{suboff|87}}
+|-
+|CF ||'''18'''||[[Erik Jendrišek]] || || {{suboff|71}}
+|-
+|CF ||'''11'''||[[Róbert Vittek]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Kamil Kopúnek]] || {{yel|72}} || {{subon|71}}
+|-
+|MF ||'''10'''||[[Marek Sapara]] || || {{subon|87}}
+|-
+|FW ||'''14'''||[[Martin Jakubko]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Arjen Robben]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Fermín Martínez Ibáñez ([[Royal Spanish Football Federation|Spain]])
+<br />Juan Carlos Yuste Jiménez ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Stéphane Lannoy]] ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Laurent Ugo ([[French Football Federation|France]])
+|}
+
+===Brazil vs Chile===
+[[Brazil national football team|Brazil]] soundly defeated [[Chile national football team|Chile]] 3–0 on 28 June 2010 at [[Ellis Park Stadium]], [[Johannesburg]] to progress to a quarter-final match against the [[Netherlands national football team|Netherlands]].<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2010/06/28/AR2010062803791.html|title=Brazil finds magic, tops Chile, 3–0, at World Cup|last=Goff|first=Steven|date=29 June 2010|newspaper=[[The Washington Post]]|publisher=[[Washington Post Company]]|access-date=3 July 2010}}</ref> Brazil's first goal came from a corner kick taken by [[Maicon Sisenando|Maicon]] in the 34th minute, with [[Juan (footballer, born 1979)|Juan]] heading the ball into the goal without being marked. Brazil had doubled its lead within five minutes after a free-flowing passing movement involving [[Robinho]] and [[Kaká]] that teed up [[Luís Fabiano]] to score after taking the ball around the Chilean goalkeeper. Robinho himself sealed victory for Brazil in the second half, scoring following a long run with the ball by [[Ramires]].<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_54/default.stm|title=Brazil 3–0 Chile|last=Fletcher|first=Paul|date=28 June 2010|publisher=BBC Sport|access-date=3 July 2010 }}</ref> After the match, Chile's coach [[Marcelo Bielsa]] conceded that his team had been outplayed, arguing that in his position there was "little one can do" when up against a team of Brazil's quality.<ref>{{cite news|url=http://soccernet.espn.go.com/world-cup/story/_/id/803821/ce/uk/?cc=3436&ver=global|title=Bielsa: Brazil were the better side|date=29 June 2010|publisher=[[ESPNsoccernet]]|access-date=3 July 2010|archive-date=21 October 2012|archive-url=https://web.archive.org/web/20121021200440/http://soccernet.espn.go.com/world-cup/story/_/id/803821/ce/uk/?cc=3436&ver=global|url-status=dead}}</ref>
+
+<section begin="R16-6" />{{Football box
+|date={{Start date|2010|6|28|df=y}}
+|time=20:30
+|team1={{fb-rt|BRA}}
+|score={{score link|2010 FIFA World Cup knockout stage#Brazil vs Chile|3–0}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Juan (footballer, born 1979)|Juan]] {{goal|35}}
+*[[Luís Fabiano]] {{goal|38}}
+*[[Robinho]] {{goal|59}}
+|goals2=
+|stadium=[[Ellis Park Stadium]], [[Johannesburg]]
+|attendance=54,096
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061500 |title=Brazil vs Chile {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300061500/report.html |title=2010 FIFA World Cup South Africa – Matches – Brazil v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709052713/http://www.fifa.com/worldcup/matches/round=249717/match=300061500/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/18a8711c11caf97b/original/hdoqe0nzkwsbdtlqudnl-pdf.pdf |title=Match Report – Round of 16 – Brazil v Chile |publisher=[[FIFA]] |date=28 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060608/https://digitalhub.fifa.com/m/18a8711c11caf97b/original/hdoqe0nzkwsbdtlqudnl-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-6" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _bra10h
+ |pattern_b  = _bra10h
+ |pattern_ra = _bra10h
+ |pattern_sh = _bra10H
+ |pattern_so = _bra10a
+ |leftarm    = FFDF00
+ |body       = FFDF00
+ |rightarm   = FFDF00
+ |shorts     = 0000BF
+ |socks      = 0000BF
+ |title      = Brazil<ref name="bra-chi_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/45b7ac5a88829fb4/original/luoexzxskqmh6y8yftjp-pdf.pdf |title=Tactical Line-up – Round of 16 – Brazil v Chile |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 June 2010 |access-date=28 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181321/https://digitalhub.fifa.com/m/45b7ac5a88829fb4/original/luoexzxskqmh6y8yftjp-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _chi10a1
+ |pattern_b  = _chi10a1
+ |pattern_ra = _chi10a1
+ |pattern_sh = _chi10a1
+ |pattern_so = _chi10a1
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Chile<ref name="bra-chi_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Maicon (footballer, born 1981)|Maicon]]
+|-
+|CB ||'''3''' ||[[Lúcio]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Juan (footballer, born 1979)|Juan]]
+|-
+|LB ||'''6''' ||[[Michel Bastos]]
+|-
+|DM ||'''8''' ||[[Gilberto Silva]]
+|-
+|RM ||'''13'''||[[Dani Alves]]
+|-
+|LM ||'''18'''||[[Ramires]] || {{yel|72}}
+|-
+|AM ||'''10'''||[[Kaká]] || {{yel|30}} || {{suboff|81}}
+|-
+|SS ||'''11'''||[[Robinho]] || || {{suboff|85}}
+|-
+|CF ||'''9''' ||[[Luís Fabiano]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Nilmar]] || || {{subon|76}}
+|-
+|MF ||'''20'''||[[José Kléberson|Kléberson]] || || {{subon|81}}
+|-
+|DF ||'''16'''||[[Gilberto (footballer, born 1976)|Gilberto]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Dunga]]
+|}
+|valign="top"|[[File:BRA-CHI 2010-06-28.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Mauricio Isla]] || || {{suboff|62}}
+|-
+|CB ||'''5''' ||[[Pablo Contreras]] || || {{suboff|46}}
+|-
+|CB ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|-
+|LB ||'''2''' ||[[Ismael Fuentes]] || {{yel|68}}
+|-
+|RM ||'''8''' ||[[Arturo Vidal]] || {{yel|47}}
+|-
+|CM ||'''6''' ||[[Carlos Carmona]]
+|-
+|LM ||'''15'''||[[Jean Beausejour]]
+|-
+|RF ||'''7''' ||[[Alexis Sánchez]]
+|-
+|CF ||'''9''' ||[[Humberto Suazo]]
+|-
+|LF ||'''11'''||[[Mark González]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Jorge Valdivia]] || || {{subon|46}}
+|-
+|MF ||'''21'''||[[Rodrigo Tello]] || || {{subon|46}}
+|-
+|MF ||'''20'''||[[Rodrigo Millar]] || {{yel|80}} || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Bielsa]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Robinho]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Darren Cann ([[The Football Association|England]])
+<br />Michael Mullarkey ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martin Hansson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Stefan Wittberg ([[Swedish Football Association|Sweden]])
+|}
+
+===Paraguay vs Japan===
+[[Paraguay national football team|Paraguay]] and [[Japan national football team|Japan]] met at the [[Loftus Versfeld Stadium]] in [[Pretoria]] on 29 June 2010. The match was decided by a penalty shoot-out after the score was locked at 0–0 for 120 minutes. Paraguay won the shoot-out and progressed to their first ever World Cup quarter-final.<ref>{{cite news|url=http://www.smh.com.au/world-cup-2010/world-cup-news/justice-done-for-paraguay-as-japan-pay-the-penalty-20100630-zjo7.html|title=Justice done for Paraguay as Japan pay the penalty|last=Lynch|first=Michael|date=30 June 2010|work=[[Sydney Morning Herald]]|access-date=9 July 2010 }}</ref> The match was a generally unexciting affair, as Japan adopted a defensive posture while Paraguay itself maintained a solid defence. The first half produced the occasional chance on goal with [[Lucas Barrios]] having a shot saved shortly before a long-distance shot from [[Daisuke Matsui]] hit the crossbar of Paraguay's goal. The second half was similar, with either side producing occasional chances to score rather than periods of dominance. The result of the deadlock was extra time, which continued goalless. A penalty shoot-out ensued, in which [[Yuichi Komano]] missed a spot kick for Japan. Paraguay scored all five of its penalties, clinching the win and passage to the quarter-finals.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_55/default.stm|title=Paraguay 0–0 Japan (5–3 pens)|last=Fletcher|first=Paul|date=29 June 2010|publisher=BBC Sport|access-date=9 July 2010 }}</ref> After the match, Japan's coach [[Takeshi Okada]] resigned and [[Shunsuke Nakamura]] retired from international football.<ref>{{cite news|url=http://www.miamiherald.com/2010/07/02/1712345/okada-steps-down-as-japan-coach.html|title=Okada steps down as Japan coach|date=2 July 2010|work=[[The Miami Herald]]|access-date=9 July 2010}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+<section begin="R16-7" />{{Football box
+|date={{Start date|2010|6|29|df=y}}
+|time=16:00
+|team1={{fb-rt|PAR|1990}}
+|score={{score link|2010 FIFA World Cup knockout stage#Paraguay vs Japan|0–0}}
+|aet=yes
+|team2={{fb|JPN}}
+|goals1=
+|goals2=
+|stadium=[[Loftus Versfeld Stadium]], [[Pretoria]]
+|attendance=36,742
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|penalties1=
+*[[Édgar Barreto|Barreto]] {{pengoal}}
+*[[Lucas Barrios|Barrios]] {{pengoal}}
+*[[Cristian Riveros|Riveros]] {{pengoal}}
+*[[Nelson Valdez|Valdez]] {{pengoal}}
+*[[Óscar Cardozo|Cardozo]] {{pengoal}}
+|penaltyscore=5–3
+|penalties2=
+*{{pengoal}} [[Yasuhito Endō|Endō]]
+*{{pengoal}} [[Makoto Hasebe|Hasebe]]
+*{{penmiss}} [[Yūichi Komano|Komano]]
+*{{pengoal}} [[Keisuke Honda|Honda]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061497 |title=Paraguay vs Japan {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300061497/report.html |title=2010 FIFA World Cup South Africa – Matches – Paraguay v Japan |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210100743/http://www.fifa.com/worldcup/matches/round=249717/match=300061497/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5b5b33012c88441a/original/nrmbgt9qwpjjjmg7jojn-pdf.pdf |title=Match Report – Round of 16 – Paraguay v Japan |publisher=[[FIFA]] |date=29 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060625/https://digitalhub.fifa.com/m/5b5b33012c88441a/original/nrmbgt9qwpjjjmg7jojn-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-7" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _par10h
+ |pattern_b  = _par10h
+ |pattern_ra = _par10h
+ |pattern_sh = _par10a
+ |pattern_so = _par10h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Paraguay<ref name="par-jpn_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2f926466c34bf3b/original/aqu3fd9ukiwo75k7p6up-pdf.pdf |title=Tactical Line-up – Round of 16 – Paraguay v Japan |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=29 June 2010 |access-date=29 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181336/https://digitalhub.fifa.com/m/2f926466c34bf3b/original/aqu3fd9ukiwo75k7p6up-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _jap10h
+ |pattern_b  = _jap10h
+ |pattern_ra = _jap10h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="par-jpn_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Justo Villar]] ([[Captain (association football)|c]])
+|-
+|RB ||'''6''' ||[[Carlos Bonet]]
+|-
+|CB ||'''14'''||[[Paulo da Silva]]
+|-
+|CB ||'''21'''||[[Antolín Alcaraz]]
+|-
+|LB ||'''3''' ||[[Claudio Morel]]
+|-
+|DM ||'''20'''||[[Néstor Ortigoza]] || || {{suboff|75}}
+|-
+|CM ||'''13'''||[[Enrique Vera]]
+|-
+|CM ||'''16'''||[[Cristian Riveros]] || {{yel|118}}
+|-
+|RW ||'''9''' ||[[Roque Santa Cruz]] || || {{suboff|94}}
+|-
+|LW ||'''10'''||[[Édgar Benítez]] || || {{suboff|60}}
+|-
+|CF ||'''19'''||[[Lucas Barrios]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Nelson Valdez]] || || {{subon|60}}
+|-
+|MF ||'''8''' ||[[Édgar Barreto]] || || {{subon|75}}
+|-
+|FW ||'''7''' ||[[Óscar Cardozo]] || || {{subon|94}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG|1861}} [[Gerardo Martino]]
+|}
+|valign="top"|[[File:PAR-JPN 2010-06-29.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Eiji Kawashima]]
+|-
+|RB ||'''3''' ||[[Yūichi Komano]]
+|-
+|CB ||'''22'''||[[Yuji Nakazawa]]
+|-
+|CB ||'''4''' ||[[Marcus Tulio Tanaka]]
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]] || {{yel|72}}
+|-
+|DM ||'''2''' ||[[Yuki Abe]] || || {{suboff|81}}
+|-
+|CM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]])
+|-
+|CM ||'''7''' ||[[Yasuhito Endō]] || {{yel|113}}
+|-
+|RW ||'''8''' ||[[Daisuke Matsui]] || {{yel|58}} || {{suboff|65}}
+|-
+|LW ||'''16'''||[[Yoshito Ōkubo]] || || {{suboff|106}}
+|-
+|CF ||'''18'''||[[Keisuke Honda]] || {{yel|90+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Shinji Okazaki]] || || {{subon|65}}
+|-
+|MF ||'''14'''||[[Kengo Nakamura]] || || {{subon|81}}
+|-
+|FW ||'''11'''||[[Keiji Tamada]] || || {{subon|106}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Takeshi Okada]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Keisuke Honda]] (Japan)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])
+<br />Walter Vromans ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Matthew Taro ([[Solomon Islands Football Federation|Solomon Islands]])
+|}
+
+===Spain vs Portugal===
+[[File:Spain and Portugal match at the FIFA World Cup 2010-06-29 7.jpg|thumb|right|[[Sergio Ramos]] of Spain tries to pass the ball to [[Fernando Torres]] as Portugal's [[Fábio Coentrão]], [[Bruno Alves]] and [[Cristiano Ronaldo]] look on.]]
+[[Spain national football team|Spain]] defeated [[Portugal national football team|Portugal]] 1–0 in the [[Iberia]]n [[Local derby|derby]] to progress to the quarter-finals where they were to play [[Paraguay national football team|Paraguay]]. The match took place on 29 June 2010 at the [[Cape Town Stadium]]. Spain dominated their neighbours with a ball possession ratio of 62% and several opportunities but had to endure a pair of missed chances by the Portuguese in the first half, including one by [[Hugo Almeida]] which nearly resulted in a goal. In the second half, the Portuguese attacking threat decreased and the entry of [[Fernando Llorente]] for [[Fernando Torres]] brought new energy to the Spanish team. The only goal of the match came in the 63rd minute: [[David Villa]] picked up a brilliant pass by [[Xavi (footballer, born 1980)|Xavi]], having his first shot saved, but then lifted the rebound into the roof of the net.<ref>{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_56/default.stm |title=Spain 1-0 Portugal|first=Chris|last=Bevan|work=BBC News|access-date=28 May 2011}}</ref> Post-match replays showed that the goal was scored from an offside position ({{convert|0.22|m|in|abbr=on}} according to [https://web.archive.org/web/20101213144159/http://bizoffootball.com/index.php?option=com_content&view=article&id=315:espn-axis-technology-new-high-speed-cameras-enhanced-graphics-for-mnf&catid=40:television&Itemid=57 ESPN axis]).<ref>{{cite web|publisher=livesoccertv.com|title=Spain's Villa, Argentine Refs send Portugal packing for deserved summer vacation|url=http://www.livesoccertv.com/news/1169/villa-and-refs-send-portugal-packing-for-deserved-summer-vacation/|access-date=11 July 2010 }}</ref><ref>{{cite web |last=Gaffer |first=The |url=http://www.worldcupbuzz.com/david-villas-goal-for-spain-against-portugal-was-offside-3d-video/ |title=David Villa's Goal for Spain Against Portugal Was Offside: 3D Video |publisher=Worldcupbuzz.com |date=30 June 2010 |access-date=1 April 2012 |archive-date=26 March 2012 |archive-url=https://web.archive.org/web/20120326191529/http://www.worldcupbuzz.com/david-villas-goal-for-spain-against-portugal-was-offside-3d-video/ |url-status=dead }}</ref><ref>{{cite web|publisher=Goal.com|title=Carvalho: Offside|url=http://www.goal.com/en/news/1863/world-cup-2010/2010/07/03/2007282/world-cup-2010-argentina-coach-diego-maradona-claims|access-date=11 July 2010 }}</ref><ref>{{cite web|publisher=chelseafc.com|title=World Cup 2010: Argentina Coach Diego Maradona Claims 'Horrible' Refereeing Helped Spain Beat Portugal|url=http://www.chelseafc.com/page/WorldCupNews/0,,10268~2081498,00.html|access-date=11 July 2010 }}</ref><ref>{{cite web |author=Lusitan |url=http://portugoal.net/index.php/more-portugal-news/12676-reaction-qwe-could-have-gone-furtherq |title=Reaction: "We could have gone further" |publisher=Portugoal.net |date=29 June 2010 |access-date=1 April 2012 |archive-date=22 March 2012 |archive-url=https://web.archive.org/web/20120322145748/http://portugoal.net/index.php/more-portugal-news/12676-reaction-qwe-could-have-gone-furtherq |url-status=dead }}</ref><ref>{{cite web|publisher=iafrica.com|title=Villa was offside|url=http://sport.iafrica.com/news/2513304.htm|access-date=11 July 2010|archive-url=https://web.archive.org/web/20100708210404/http://sport.iafrica.com/news/2513304.htm|archive-date=8 July 2010|url-status=dead|df=dmy-all}}</ref>
+
+<section begin="R16-8" />{{Football box
+|date={{Start date|2010|6|29|df=y}}
+|time=20:30
+|team1={{fb-rt|ESP}}
+|score={{score link|2010 FIFA World Cup knockout stage#Spain vs Portugal|1–0}}
+|team2={{fb|POR}}
+|goals1=
+*[[David Villa|Villa]] {{goal|63}}
+|goals2=
+|stadium=[[Cape Town Stadium]], [[Cape Town]]
+|attendance=62,955
+|referee=[[Héctor Baldassi]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061498 |title=Spain vs Portugal {{!}} Round of 16 {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249717/match=300061498/report.html |title=2010 FIFA World Cup South Africa – Matches – Spain v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230024032/http://www.fifa.com/worldcup/matches/round=249717/match=300061498/report.html |archive-date=30 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7b70a122b556807e/original/zmimy0avbuouejuuc9xy-pdf.pdf |title=Match Report – Round of 16 – Spain v Portugal |publisher=[[FIFA]] |date=29 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060650/https://digitalhub.fifa.com/m/7b70a122b556807e/original/zmimy0avbuouejuuc9xy-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="R16-8" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _esp10h1
+ |pattern_b  = _esp10h1
+ |pattern_ra = _esp10h1
+ |pattern_sh = _esp10h
+ |pattern_so = _esp10h
+ |leftarm    = e80113
+ |body       = e80113
+ |rightarm   = e80113
+ |shorts     = 3366FF
+ |socks      = ff0000
+ |title      = Spain<ref name="esp-por_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/128044c7111e9dd3/original/rbtce3sehl7w31etutgf-pdf.pdf |title=Tactical Line-up – Round of 16 – Spain v Portugal |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=29 June 2010 |access-date=29 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522183833/https://digitalhub.fifa.com/m/128044c7111e9dd3/original/rbtce3sehl7w31etutgf-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _por10a
+ |pattern_b  = _por1011a
+ |pattern_ra = _por10a
+ |pattern_sh = _por10a
+ |pattern_so = _por10a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 008000
+ |socks      = FFFFFF
+ |title      = Portugal<ref name="esp-por_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''5''' ||[[Carles Puyol]]
+|-
+|LB ||'''11'''||[[Joan Capdevila]]
+|-
+|CM ||'''16'''||[[Sergio Busquets]]
+|-
+|CM ||'''14'''||[[Xabi Alonso]] || {{yel|74}} || {{suboff|90+3}}
+|-
+|RW ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|LW ||'''6''' ||[[Andrés Iniesta]]
+|-
+|SS ||'''7''' ||[[David Villa]] || || {{suboff|88}}
+|-
+|CF ||'''9''' ||[[Fernando Torres]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Fernando Llorente]] || || {{subon|58}}
+|-
+|FW ||'''18'''||[[Pedro (footballer, born July 1987)|Pedro]] || || {{subon|88}}
+|-
+|DF ||'''4''' ||[[Carlos Marchena]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Vicente del Bosque]]
+|}
+|valign="top"|[[File:ESP-POR 2010-06-29.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eduardo Carvalho|Eduardo]]
+|-
+|RB ||'''21'''||[[Ricardo Costa (footballer, born 1981)|Ricardo Costa]] || {{sent off|0|89}}
+|-
+|CB ||'''6''' ||[[Ricardo Carvalho]]
+|-
+|CB ||'''2''' ||[[Bruno Alves]]
+|-
+|LB ||'''23'''||[[Fábio Coentrão]]
+|-
+|DM ||'''15'''||[[Pepe (footballer, born 1983)|Pepe]] || || {{suboff|72}}
+|-
+|CM ||'''19'''||[[Tiago Mendes|Tiago]] || {{yel|80}}
+|-
+|CM ||'''16'''||[[Raul Meireles]]
+|-
+|RW ||'''11'''||[[Simão Sabrosa|Simão]] || || {{suboff|72}}
+|-
+|LW ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|CF ||'''18'''||[[Hugo Almeida]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Danny (footballer)|Danny]] || || {{subon|58}}
+|-
+|FW ||'''9''' ||[[Liédson]] || || {{subon|72}}
+|-
+|MF ||'''8''' ||[[Pedro Mendes (footballer, born 1979)|Pedro Mendes]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Carlos Queiroz]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Xavi (footballer, born 1980)|Xavi]] (Spain)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ricardo Casas ([[Argentine Football Association|Argentina]])
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Carlos Batres]] ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Carlos Pastrana ([[National Autonomous Federation of Football of Honduras|Honduras]])
+|}
+
+==Quarter-finals==
+
+===Netherlands vs Brazil===
+{{external media
+| float  = right
+| video1 = {{YouTube|XojtTwQ3REg|Netherlands v Brazil (South Africa 2010) Full match}}
+}}
+The [[Netherlands national football team|Netherlands]] versus [[Brazil national football team|Brazil]] was the first quarter-final match, held on 2 July 2010 at the [[Nelson Mandela Bay Stadium]] in [[Port Elizabeth]]. The Netherlands won 2–1 after recovering from a 1–0 deficit, knocking the five-time world champions Brazil out of the tournament.<ref>{{cite news|url=http://www.abc.net.au/news/stories/2010/07/03/2943850.htm|archive-url=https://web.archive.org/web/20100705005251/http://www.abc.net.au/news/stories/2010/07/03/2943850.htm|url-status=dead|archive-date=5 July 2010|title=Brazil shellshocked as Dutch turn it around|last=Maasdorp|first=James|date=2 July 2010|work=[[ABC News (Australia)|ABC News]]|access-date=2 July 2010 }}</ref> The Netherlands' team was affected by an injury to [[Joris Mathijsen]] before the match. His replacement in defence – [[André Ooijer]] – and fellow central defender [[John Heitinga]] were at fault for Brazil's opening goal in the 10th minute, when [[Robinho]] was allowed to latch onto a deep pass from [[Felipe Melo]] and score without being challenged by the defence.<ref name="BBCNedBra">{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_57/default.stm|title=Netherlands 2–1 Brazil|last=Bevan|first=Chris|date=2 July 2010|work=BBC News|access-date=2 July 2010 }}</ref><ref name="FoxNedBra">{{cite news|url=http://www.foxsports.com.au/story/0,8659,27355567-5019291,00.html|title=The Netherlands upset Brazil 2–1 in FIFA World Cup quarter-final, South Africa|last=MacKinnon|first=Angus|date=3 July 2010|work=[[Fox Sports (Australia)|Fox Sports]]|access-date=2 July 2010}}</ref> For the rest of the first half, the Dutch were largely frustrated by the Brazilian defence, and needed to rely on [[Maarten Stekelenburg]]'s goalkeeping to prevent Brazil from extending its lead. However, eight minutes after half-time, the Dutch equalised through a goal from Sneijder. The goal was initially recorded as an own goal by Felipe Melo, but [[FIFA]] overturned the decision to credit the goal to Sneijder.<ref>{{cite news|url=https://www.fifa.com/worldcup/news/newsid=1266860/index.html|archive-url=https://web.archive.org/web/20100706084508/http://www.fifa.com/worldcup/news/newsid=1266860/index.html|url-status=dead|archive-date=6 July 2010|title=Sneijder credited with first goal in Dutch quarter-final victory|date=3 July 2010|work=FIFA.com|access-date=3 July 2010 }}</ref><ref>{{cite news|url=https://www.bloomberg.com/news/2010-07-03/sneijder-moves-into-tie-for-goal-scoring-lead-after-fifa-changes-credit.html|title=Sneijder Moves Into Tie for Goal-Scoring Lead After FIFA Changes Credit|last=Bensch|first=Bob|date=3 July 2010|work=[[Bloomberg L.P.]]|access-date=9 July 2010}}</ref> Having equalised, the Netherlands subsequently took the lead from a Robben corner kick in the 68th minute, Sneijder heading the ball in after a flick-on from Kuyt. Brazil's chances of restoring parity were damaged when Felipe Melo was sent off for a stamp on Robben. The Netherlands held out for the win, thereby earning passage to the semi-finals.<ref name="BBCNedBra"/> Brazil's coach [[Dunga]] confirmed after the match that he would be leaving the position upon the expiry of his contract, admitting responsibility for Brazil's defeat.<ref>{{cite news|url=http://www.skysports.com/football/world-cup-2010/story/0,27032,12027_6242736,00.html|title=Dunga reign at an end|date=2 July 2010|work=[[Sky Sports]]|access-date=2 July 2010 }}</ref> The Dutch coach [[Bert van Marwijk]] attacked the Brazilian team after the match, claiming they had provoked his side, and that Melo's stamp on Robben left him "ashamed for Brazilian football."<ref>{{cite news|url=https://www.google.com/hostednews/afp/article/ALeqM5iFJEMYc7TEcgtpZV71acUuYDTj7w|archive-url=https://web.archive.org/web/20100705105048/http://www.google.com/hostednews/afp/article/ALeqM5iFJEMYc7TEcgtpZV71acUuYDTj7w|url-status=dead|archive-date=5 July 2010|title=Dutch boss Van Marwijk attacks 'shameful' Brazil|date=2 July 2010|agency=[[Agence France-Presse]]|access-date=2 July 2010 }}</ref>
+
+<section begin="QF1" />{{Football box
+|date={{Start date|2010|7|2|df=y}}
+|time=16:00
+|team1={{fb-rt|NED}}
+|score={{score link|2010 FIFA World Cup knockout stage#Netherlands vs Brazil|2–1}}
+|team2={{fb|BRA}}
+|goals1=
+*[[Wesley Sneijder|Sneijder]] {{goal|53||68}}
+|goals2=
+*[[Robinho]] {{goal|10}}
+|stadium=[[Nelson Mandela Bay Stadium]], [[Port Elizabeth]]
+|attendance=40,186
+|referee=[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249718/300061507 |title=Netherlands vs Brazil {{!}} Quarter-final {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249718/match=300061507/report.html |title=2010 FIFA World Cup South Africa – Matches – Netherlands v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170504134432/http://www.fifa.com/worldcup/matches/round=249718/match=300061507/report.html |archive-date=4 May 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/fbfbf035164d4df/original/qdu99f4kpctxo11meeq9-pdf.pdf |title=Match Report – Quarter-final – Netherlands v Brazil |publisher=[[FIFA]] |date=2 July 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060704/https://digitalhub.fifa.com/m/fbfbf035164d4df/original/qdu99f4kpctxo11meeq9-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF1" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _ned10h
+ |pattern_b  = _ned10H
+ |pattern_ra = _ned10h
+ |pattern_sh = _manutd1011a
+ |pattern_so = _band_black
+ |leftarm    = FF5F00
+ |body       = FF5F00
+ |rightarm   = FF5F00
+ |shorts     = FF5F00
+ |socks      = FF5F00
+ |title      = {{nowrap|Netherlands}}<ref name="ned-bra_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/82597300ccbd60b/original/emnvqy6fyz0izwnicttj-pdf.pdf |title=Tactical Line-up – Quarter-finals – Netherlands v Brazil |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=2 July 2010 |access-date=2 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522184241/https://digitalhub.fifa.com/m/82597300ccbd60b/original/emnvqy6fyz0izwnicttj-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _bra10a
+ |pattern_b  = _bra10a
+ |pattern_ra = _bra10a
+ |pattern_sh = _bra10a
+ |pattern_so = _bra10a
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = 0000BF
+ |title      = Brazil<ref name="ned-bra_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Maarten Stekelenburg]]
+|-
+|RB ||'''2''' ||[[Gregory van der Wiel]] || {{yel|47}}
+|-
+|CB ||'''3''' ||[[John Heitinga]] || {{yel|14}}
+|-
+|CB ||'''13'''||[[André Ooijer]] || {{yel|76}}
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]] ([[Captain (association football)|c]])
+|-
+|DM ||'''6''' ||[[Mark van Bommel]]
+|-
+|DM ||'''8''' ||[[Nigel de Jong]] || {{yel|64}}
+|-
+|RW ||'''11'''||[[Arjen Robben]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]]
+|-
+|LW ||'''7''' ||[[Dirk Kuyt]]
+|-
+|CF ||'''9''' ||[[Robin van Persie]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Klaas-Jan Huntelaar]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Bert van Marwijk]]
+|}
+|valign="top"|[[File:NED-BRA 2010-07-02.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Maicon (footballer, born 1981)|Maicon]]
+|-
+|CB ||'''3''' ||[[Lúcio]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Juan (footballer, born 1979)|Juan]]
+|-
+|LB ||'''6''' ||[[Michel Bastos]] || {{yel|37}} || {{suboff|62}}
+|-
+|DM ||'''5''' ||[[Felipe Melo]] || {{sent off|0|73}}
+|-
+|RM ||'''13'''||[[Dani Alves]]
+|-
+|LM ||'''8''' ||[[Gilberto Silva]]
+|-
+|AM ||'''10'''||[[Kaká]]
+|-
+|SS ||'''11'''||[[Robinho]]
+|-
+|CF ||'''9''' ||[[Luís Fabiano]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''16'''||[[Gilberto (footballer, born 1976)|Gilberto]] || || {{subon|62}}
+|-
+|FW ||'''21'''||[[Nilmar]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Dunga]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Wesley Sneijder]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />Jeong Hae-sang ([[Korea Football Association|South Korea]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Khalil Al Ghamdi]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|}
+
+===Uruguay vs Ghana===
+[[Uruguay national football team|Uruguay]] and [[Ghana national football team|Ghana]] met on 2 July 2010 at [[Soccer City]], [[Johannesburg]], for a place in the semi-final against the [[Netherlands national football team|Netherlands]]. It was the first time that the teams had ever played each other in a senior competitive football match. After a dramatic 120 minutes of play (including extra time) that finished 1–1, Uruguay won in a [[Penalty shoot-out (association football)|penalty shoot-out]] 4–2.<ref name="Lynch">{{cite news|url=http://www.smh.com.au/world-cup-2010/world-cup-news/uruguay-ends-the-dream-for-gutted-ghana-20100703-zv16.html|title=Uruguay ends the dream for gutted Ghana|last=Lynch|first=Michael|date=4 July 2010|work=[[Sydney Morning Herald]]|access-date=3 July 2010 }}</ref> Uruguay dominated the early periods of the match, but suffered an injury to captain [[Diego Lugano]] in the first half. Just before half-time, Ghana took the lead when [[Sulley Muntari]] was allowed time on the ball by Uruguay, and took advantage by scoring with a shot from 40&nbsp;yards. After half-time, [[Diego Forlán]] pulled Uruguay level with a free kick from the left side of the field that went over the head of Ghana's goalkeeper [[Richard Kingson]]. While both teams had chances to win, the match proceeded to extra time as the scores remained level. Late in extra time, Ghana sent a [[Direct free kick|free kick]] into the penalty area; [[Luis Suárez]] blocked [[Stephen Appiah]]'s shot on the [[Association football pitch#Pitch boundary|goal line]].<ref name="FIFA Uru-Gha">{{cite web|url=https://www.fifa.com/worldcup/archive/southafrica2010/matches/round=249718/match=300061508/summary.html |title=Match 58 – Quarter-finals – Ghana pay the penalty |publisher=FIFA.com |date=2 July 2010 |access-date=23 August 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110811165311/http://www.fifa.com/worldcup/archive/southafrica2010/matches/round%3D249718/match%3D300061508/summary.html |archive-date=11 August 2011 }}</ref> On the rebound, [[Dominic Adiyiah]]'s header was heading into the goal, but Suárez blatantly blocked the shot with his hand<ref name="Echo 2-3">{{cite news |url=http://www.liverpoolecho.co.uk/sport/football/football-news/luis-suarez-story-part-two-3382481/ |title=The Luis Suarez story part two – new Liverpool FC star always one to hit the headlines |newspaper=Liverpool Echo |date=10 February 2011 |access-date=23 August 2011 |page=3}}</ref> to save what would have been the extra-time winner<ref name="Hand of God">{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8785140.stm |title=World Cup 2010: I have hand of God – Uruguay's Suarez |publisher=BBC Sport |date=3 July 2010 |access-date=24 August 2011}}</ref> and he was [[Red card (soccer)|red carded]]. [[Asamoah Gyan]] missed the ensuing [[Penalty kick (association football)|penalty kick]] off the crossbar<ref name="FIFA Uru-Gha"/> and Suárez celebrated the miss.<ref name="Marcus">{{cite news |url=https://www.nytimes.com/2010/07/03/sports/soccer/03ghanagame.html |title=Uruguay Trades Penalty for Chance at Victory |first=Jeffrey |last=Marcus |newspaper=The New York Times |date=2 July 2010 |access-date=23 August 2011}}</ref><ref name=reuters>{{cite news |first=Angus |last=MacSwan |title=I had no choice but to handle says Uruguay's Suarez |publisher=Reuters |date=3 July 2010 |url=http://in.reuters.com/article/idINIndia-49856120100703 |access-date=3 July 2010 |archive-date=5 July 2010 |archive-url=https://web.archive.org/web/20100705005019/http://in.reuters.com/article/idINIndia-49856120100703 |url-status=dead }}</ref> In the shoot-out, Gyan converted his penalty,<ref name="Hand of God"/> as did everybody else until Uruguay goalkeeper [[Fernando Muslera]] saved captain [[John Mensah]]'s penalty (Ghana's third). Uruguay's [[Maxi Pereira]] then hit his penalty over the bar, but then [[Dominic Adiyiah|Adiyiah]]'s penalty was saved by Muslera.<ref name="Lynch"/> [[Sebastián Abreu]] converted Uruguay's fifth spot kick by lightly chipping it [[Panenka (penalty kick)|Panenka-style]] to win the match.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_58/default.stm|title=Uruguay 1–1 Ghana (4–2 pens)|last=Fletcher|first=Paul|date=2 July 2010|publisher=[[BBC Sport]]|access-date=3 July 2010}}</ref>
+
+After the game, Suárez said "I made the save of the tournament",<ref name="Hand of God"/> and, referring to the infamous [[Hand of God goal|handball goal]] scored by [[Diego Maradona]] in the 1986 World Cup, claimed that "The 'Hand of God' now belongs to me". Suárez claimed he had no alternative and was acting out of instinct.<ref name="Doward">{{cite news |url=https://www.theguardian.com/football/2010/jul/04/luis-suarez-world-cup-villian-hand-of-god |title=Luis Suarez is new World Cup villain after 'hand of God' claim |first=Jamie |last=Doward |newspaper=The Guardian |date=4 July 2010 |access-date=24 August 2011}}</ref> Forlán agreed that Suárez saved the game, "Suárez this time, instead of scoring goals, he saved one, I think he saved the game."<ref name="Hand of God"/> Ghana coach [[Milovan Rajevac]] said the play was an "injustice"<ref name="Marcus"/> and Suárez was labeled a "villain"<ref name="Doward"/><ref name="Suarez soccernet stats">{{cite web |url=http://soccernet.espn.go.com/players/stats?id=125088&league=NED.1&season=2009&cc=5739 |title=Luis Suárez Statistics |access-date=13 April 2010 |publisher=ESPN Soccernet |archive-date=11 February 2010 |archive-url=https://web.archive.org/web/20100211040459/http://soccernet.espn.go.com/players/stats?id=125088&league=NED.1&season=2009&cc=5739 |url-status=dead}}</ref> and a "cheat".<ref name="Echo 2-3"/><ref name="Jim White">{{cite news |url=https://www.telegraph.co.uk/sport/football/competitions/world-cup-2010/7870325/World-Cup-2010-why-cant-football-tackle-cheats.html |archive-url=https://web.archive.org/web/20101024083252/http://www.telegraph.co.uk/sport/football/competitions/world-cup-2010/7870325/World-Cup-2010-why-cant-football-tackle-cheats.html |url-status=dead |archive-date=24 October 2010 |title=World Cup 2010: why can't football tackle cheats? |first=Jim |last=White |work=The Telegraph |date=4 July 2010 |access-date=28 August 2011}}</ref> However, Uruguay coach [[Óscar Tabárez]] said these labels were too harsh: "Well, there was a handball in the penalty area, there was a red card and Suárez was thrown out. Saying that Ghana were cheated out of the game is too harsh. We have to go by the rules. It might have been a mistake by my player but I do not like that word 'cheating'."<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/ghana/7869593/World-Cup-2010-Uruguay-owe-semi-final-spot-to-sporting-injustice-says-Ghana-coach.html |title=World Cup 2010: Uruguay owe semi-final spot to 'sporting injustice', says Ghana coach |first=Paul |last=Kelso |newspaper=The Telegraph |date=3 July 2010 |access-date=4 September 2011}}</ref>
+Ghana was the last African team left in the tournament and if they had won, they would have been the first team from Africa to ever qualify for the semi-finals.<ref name="Chadband"/> Thus, Suárez was said to have "enraged an entire continent <nowiki>[</nowiki>Africa<nowiki>]</nowiki>." But others viewed him as a hero<ref name="Echo 2-3"/><ref>{{cite news |url=http://en.mercopress.com/2010/07/14/a-country-full-of-gratitude-defies-freezing-weather-to-honour-uruguay-s-soccer-team |title=A country full of gratitude defies freezing weather to honour Uruguay's soccer team |agency=MercoPress |date=14 July 2010 |access-date=24 August 2011 }}</ref> who sacrificed himself in the semi-final for the unlikely chance that his team could win.<ref name="Jim White"/><ref name="Lyttleton">{{cite journal |url=http://sportsillustrated.cnn.com/2010/soccer/world-cup-2010/writers/ben_lyttleton/07/04/forlan.suarez/ |archive-url=https://web.archive.org/web/20100707105410/http://sportsillustrated.cnn.com/2010/soccer/world-cup-2010/writers/ben_lyttleton/07/04/forlan.suarez/ |url-status=dead |archive-date=7 July 2010 |first=Ben |last=Lyttleton |title=In Suarez's absence Uruguay will lean even more heavily on Forlan |journal=Sports Illustrated |date=4 July 2010 |access-date=21 August 2011}}</ref> A distraught Gyan conceded, "I would say Suárez is a hero now in his own country, because the ball was going in and he held it with his hand. He is a hero now."<ref name="Chadband">{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/uruguay/7870586/World-Cup-2010-Uruguays-Luis-Suarez-revels-in-second-coming-of-Hand-of-God.html |title=World Cup 2010: Uruguay's Luis Suárez revels in second coming of Hand of God |first=Ian |last=Chadband |work=The Telegraph |date=3 July 2010 |access-date=27 August 2011}}</ref>
+
+American sportswriter and podcaster [[Bill Simmons]], at the time a columnist for [[ESPN]] Page 2, listed Ghana vs. Uruguay as second on his "Levels of Losing" of most painful sports losses. He called it "The Continental Stomach Punch": "Ghana blowing the potential winning penalty kick against Uruguay in the World Cup, then losing the game on penalty kicks a few minutes later. That was like all three Cleveland teams (the [[Cleveland Browns|Browns]], [[Cleveland Cavaliers|Cavaliers]] and [[Cleveland Guardians|Guardians]] – still known as the Indians at the time) losing their worst possible game at the same time, only if Cleveland were a Third World country." He ranked it behind only "That Game" – originally referring to Game 6 of the [[1986 World Series]] between the [[Boston Red Sox]] and the [[New York Mets]], when the Red Sox were one strike away multiple times from winning their first championship since [[Curse of the Bambino|1918]] only to lose following [[Bill Buckner's 1986 World Series error|Bill Buckner's error]] in extra innings.<ref>{{cite news |last1=Simmons |first1=Bill |title=The Summer Mega-Mailbag, Part II |url=https://www.espn.com/espn/page2/story?page=simmons/100722/mailbag2 |access-date=22 June 2026 |work=ESPN Page 2 |publisher=ESPN |date=22 July 2010}}</ref>
+
+<section begin="QF2" />{{Football box
+|date={{Start date|2010|7|2|df=y}}
+|time=20:30
+|team1={{fb-rt|URU}}
+|score={{score link|2010 FIFA World Cup knockout stage#Uruguay vs Ghana|1–1}}
+|aet=yes
+|team2={{fb|GHA}}
+|goals1=
+*[[Diego Forlán|Forlán]] {{goal|55}}
+|goals2=
+*[[Sulley Muntari|Muntari]] {{goal|45+2}}
+|stadium=[[Soccer City]], [[Johannesburg]]
+|attendance=84,017
+|referee=[[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|penalties1=
+*[[Diego Forlán|Forlán]] {{pengoal}}
+*[[Mauricio Victorino|Victorino]] {{pengoal}}
+*[[Andrés Scotti|Scotti]] {{pengoal}}
+*[[Maxi Pereira|M. Pereira]] {{penmiss}}
+*[[Sebastián Abreu|Abreu]] {{pengoal}}
+|penaltyscore=4–2
+|penalties2=
+*{{pengoal}} [[Asamoah Gyan|Gyan]]
+*{{pengoal}} [[Stephen Appiah|Appiah]]
+*{{penmiss}} [[John Mensah|Mensah]]
+*{{penmiss}} [[Dominic Adiyiah|Adiyiah]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249718/300061508 |title=Uruguay vs Ghana {{!}} Quarter-final {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249718/match=300061508/report.html |title=2010 FIFA World Cup South Africa – Matches – Uruguay v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171206195932/http://www.fifa.com/worldcup/matches/round=249718/match=300061508/report.html |archive-date=6 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/216848ff5b201aed/original/bo4b6rtawuv458dhycsp-pdf.pdf |title=Match Report – Quarter-final – Uruguay v Ghana |publisher=[[FIFA]] |date=2 July 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060719/https://digitalhub.fifa.com/m/216848ff5b201aed/original/bo4b6rtawuv458dhycsp-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF2" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _uru10H
+ |pattern_b  = _uru10H
+ |pattern_ra = _uru10H
+ |pattern_sh = _uru10h
+ |pattern_so = _uru10h
+ |leftarm    = 87CEEB
+ |body       = 87CEEB
+ |rightarm   = 87CEEB
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay<ref name="uru-gha_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6b084f4a6ac9be65/original/jatmk8f7zhq7yzn7cjtp-pdf.pdf |title=Tactical Line-up – Quarter-finals – Uruguay v Ghana |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=2 July 2010 |access-date=2 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522173007/https://digitalhub.fifa.com/m/6b084f4a6ac9be65/original/jatmk8f7zhq7yzn7cjtp-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ang1012h
+ |pattern_b  = _gan1012a
+ |pattern_ra = _ang1012h
+ |pattern_sh = _gan1012a
+ |pattern_so = _gha10a
+ |leftarm    = EA0000
+ |body       = EA0000
+ |rightarm   = EA0000
+ |shorts     = EA0000
+ |socks      = EA0000
+ |title      = Ghana<ref name="uru-gha_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''16'''||[[Maxi Pereira]]
+|-
+|CB ||'''2''' ||[[Diego Lugano]] ([[Captain (association football)|c]]) || || {{suboff|38}}
+|-
+|CB ||'''6''' ||[[Mauricio Victorino]]
+|-
+|LB ||'''4''' ||[[Jorge Fucile]] || {{yel|20}}
+|-
+|RM ||'''20'''||[[Álvaro Fernández (Uruguayan footballer)|Álvaro Fernández]] || || {{suboff|46}}
+|-
+|CM ||'''15'''||[[Diego Pérez (footballer)|Diego Pérez]] || {{yel|59}}
+|-
+|CM ||'''17'''||[[Egidio Arévalo Ríos]] || {{yel|48}}
+|-
+|LM ||'''7''' ||[[Edinson Cavani]] || || {{suboff|76}}
+|-
+|CF ||'''9''' ||[[Luis Suárez]] || {{sent off|0|120+1}}
+|-
+|CF ||'''10'''||[[Diego Forlán]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''19'''||[[Andrés Scotti]] || || {{subon|38}}
+|-
+|MF ||'''14'''||[[Nicolás Lodeiro]] || || {{subon|46}}
+|-
+|FW ||'''13'''||[[Sebastián Abreu]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|valign="top"|[[File:URU-GHA 2010-07-02.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|RB ||'''4''' ||[[John Paintsil]] || {{yel|54}}
+|-
+|CB ||'''15'''||[[Isaac Vorsah]]
+|-
+|CB ||'''5''' ||[[John Mensah]] ([[Captain (association football)|c]]) || {{yel|93}}
+|-
+|LB ||'''2''' ||[[Hans Sarpei]] || {{yel|77}}
+|-
+|DM ||'''6''' ||[[Anthony Annan]]
+|-
+|RM ||'''7''' ||[[Samuel Inkoom]] || || {{suboff|74}}
+|-
+|CM ||'''21'''||[[Kwadwo Asamoah]]
+|-
+|CM ||'''23'''||[[Kevin-Prince Boateng]]
+|-
+|LM ||'''11'''||[[Sulley Muntari]] || || {{suboff|88}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Stephen Appiah]] || || {{subon|74}}
+|-
+|FW ||'''18'''||[[Dominic Adiyiah]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SRB|2004}} [[Milovan Rajevac]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Diego Forlán]] (Uruguay)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />José Manuel Silva Cardinal ([[Portuguese Football Federation|Portugal]])
+<br />Bertino Miranda ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Fermín Martínez Ibáñez ([[Royal Spanish Football Federation|Spain]])
+|}
+
+===Argentina vs Germany===
+[[File:FIFA World Cup 2010 Argentina vs Germany - Thomas Müller opening goal.gif|thumb|[[Thomas Müller]] heads in the opening goal for Germany from [[Bastian Schweinsteiger]]'s free kick.]]
+On 3 July 2010, [[Germany national football team|Germany]] beat [[Argentina national football team|Argentina]] 4–0 at the [[Cape Town Stadium]] to reach the semi-finals.<ref>{{cite news|url=http://mobile.latimes.com/inf/infomo?view=SportItem&feed:a=latimes_1min&feed:c=sportsnews&feed:i=54736429|title=Germany overwhelms Argentina, 4–0, to reach World Cup semifinals|last=Jones|first=Graham L.|date=3 July 2010|work=[[Los Angeles Times]]|access-date=4 July 2010|archive-date=7 July 2010|archive-url=https://web.archive.org/web/20100707185903/http://mobile.latimes.com/inf/infomo?view=SportItem&feed:a=latimes_1min&feed:c=sportsnews&feed:i=54736429|url-status=dead}}</ref> It was the third time in the tournament that Germany had scored four goals in a match. Germany's first goal was scored by [[Thomas Müller]] in the third minute of the match with a header from a free kick taken by [[Bastian Schweinsteiger]]. Early in the second half, Argentina pressed Germany and came close to scoring on a number of occasions, but Germany hit back on a counter-attack in the 67th minute when [[Miroslav Klose]] scored into an empty goal from a pass by [[Lukas Podolski]]. Germany's third goal came from [[Arne Friedrich]] after sliding the ball inside from Schweinsteiger's pass seven minutes later, before Klose took the score to 4–0, volleying the ball into the net off a cross from [[Mesut Özil]].<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_59/default.stm|title=Argentina 0–4 Germany|last=Bevan|first=Chris|date=3 July 2010|work=[[BBC Sport]]|access-date=4 July 2010}}</ref> The 4–0 defeat was Argentina's biggest loss at a World Cup since 1974.<ref>{{cite news|url=https://www.bloomberg.com/news/2010-07-03/germany-defeats-argentina-4-0-to-advance-to-soccer-s-world-cup-semifinals.html|title=Germany Defeats Argentina 4–0 Led by Miroslav Klose, Moves to Semifinals|last=Bensch|first=Bob|date=3 July 2010|work=[[Bloomberg L.P.]]|access-date=4 July 2010}}</ref> Germany's coach [[Joachim Löw]] hailed his side's performance as one of "absolute class",<ref>{{cite news|url=https://news.yahoo.com/s/ap/20100703/ap_on_sp_so_ga_su/soc_wcup_argentina_germany|title=World Cup: Germany beats Argentina, 4–0|last=Armour|first=Nancy|date=3 July 2010|agency=Associated Press|access-date=4 July 2010}}</ref> but admitted the suspension of Müller for picking up a yellow card was a blow.<ref>{{cite news|url=https://www.google.com/hostednews/afp/article/ALeqM5iQCtQzqbSPCJu3qegJeZPiYsJlMw|archive-url=https://web.archive.org/web/20100707071932/http://www.google.com/hostednews/afp/article/ALeqM5iQCtQzqbSPCJu3qegJeZPiYsJlMw|url-status=dead|archive-date=7 July 2010|title=Germany ponder Mueller replacement|date=4 July 2010|agency=[[Agence France-Presse]]|access-date=4 July 2010}}</ref>
+
+<section begin="QF3" />{{Football box
+|date={{Start date|2010|7|3|df=y}}
+|time=16:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|2010 FIFA World Cup knockout stage#Argentina vs Germany|0–4}}
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Thomas Müller|Müller]] {{goal|3}}
+*[[Miroslav Klose|Klose]] {{goal|68||89}}
+*[[Arne Friedrich|Friedrich]] {{goal|74}}
+|stadium=[[Cape Town Stadium]], [[Cape Town]]
+|attendance=64,100
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249718/300061505 |title=Argentina vs Germany {{!}} Quarter-final {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249718/match=300061505/report.html |title=2010 FIFA World Cup South Africa – Matches – Argentina v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170426104511/http://www.fifa.com/worldcup/matches/round=249718/match=300061505/report.html |archive-date=26 April 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/18606e8d4fd8df3/original/zzhonaxtstgjt11rndbu-pdf.pdf |title=Match Report – Quarter-final – Argentina v Germany |publisher=[[FIFA]] |date=3 July 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060733/https://digitalhub.fifa.com/m/18606e8d4fd8df3/original/zzhonaxtstgjt11rndbu-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF3" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+| pattern_la = _arg10h1
+| pattern_b  = _arg10h1
+| pattern_ra = _arg10h1
+| pattern_sh = _arg10h1
+| pattern_so = _arg10a1
+| leftarm    = 80BFFF
+| body       = 80BFFF
+| rightarm   = 80BFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = Argentina<ref name="arg-ger_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/68fef1684ec07bc6/original/k8028nrv7cfrdu0pydxj-pdf.pdf |title=Tactical Line-up – Quarter-finals – Argentina v Germany |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 July 2010 |access-date=3 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522173020/https://digitalhub.fifa.com/m/68fef1684ec07bc6/original/k8028nrv7cfrdu0pydxj-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ger10a2
+ |pattern_b  = _ger10a2
+ |pattern_ra = _ger10a2
+ |pattern_sh = _ger10h2
+ |pattern_so = _ger10al
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Germany<ref name="uru-ger_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Sergio Romero]]
+|-
+|RB ||'''15'''||[[Nicolás Otamendi]] || {{yel|11}} || {{suboff|70}}
+|-
+|CB ||'''2''' ||[[Martín Demichelis]]
+|-
+|CB ||'''4''' ||[[Nicolás Burdisso]]
+|-
+|LB ||'''6''' ||[[Gabriel Heinze]]
+|-
+|DM ||'''14'''||[[Javier Mascherano]] ([[Captain (association football)|c]]) || {{yel|80}}
+|-
+|RM ||'''20'''||[[Maxi Rodríguez]]
+|-
+|LM ||'''7''' ||[[Ángel Di María]] || || {{suboff|75}}
+|-
+|AM ||'''10'''||[[Lionel Messi]]
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]]
+|-
+|CF ||'''11'''||[[Carlos Tevez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''23'''||[[Javier Pastore]] || || {{subon|70}}
+|-
+|FW ||'''16'''||[[Sergio Agüero]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Diego Maradona]]
+|}
+|valign="top"|[[File:ARG-GER 2010-07-03.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''3''' ||[[Arne Friedrich]]
+|-
+|LB ||'''20'''||[[Jérôme Boateng]] || || {{suboff|72}}
+|-
+|DM ||'''6''' ||[[Sami Khedira]] || || {{suboff|77}}
+|-
+|DM ||'''7''' ||[[Bastian Schweinsteiger]]
+|-
+|RW ||'''13'''||[[Thomas Müller]] || {{yel|35}} || {{suboff|84}}
+|-
+|AM ||'''8''' ||[[Mesut Özil]]
+|-
+|LW ||'''10'''||[[Lukas Podolski]]
+|-
+|CF ||'''11'''||[[Miroslav Klose]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Marcell Jansen]] || || {{subon|72}}
+|-
+|MF ||'''18'''||[[Toni Kroos]] || || {{subon|77}}
+|-
+|MF ||'''15'''||[[Piotr Trochowski]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Bastian Schweinsteiger]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Rafael Ilyasov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bakhadyr Kochkarov ([[Football Federation of Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Enock Molefe ([[South African Football Association|South Africa]])
+|}
+
+===Paraguay vs Spain===
+On 3 July 2010, [[Spain national football team|Spain]] defeated [[Paraguay national football team|Paraguay]] 1–0, to secure entry to the semi-finals where they would meet [[Germany national football team|Germany]]. It was the first time that Spain had progressed to the semi-final of a World Cup since 1950; while for Paraguay, the quarter-final appearance was also the country's best ever performance.<ref name="BBCSpaPar">{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_60/default.stm|title=Paraguay 0–1 Spain|last=Fletcher|first=Paul|date=3 July 2010|work=[[BBC Sport]]|access-date=5 July 2010 }}</ref>
+The first half of the match finished goalless, although both sides had chances to score and Paraguay's [[Nelson Haedo Valdez|Nelson Valdez]] had a goal ruled out as offside. The match suddenly became eventful in the second half due to a string of penalty kicks. First, [[Óscar Cardozo]] was pulled down by [[Gerard Piqué]] in Spain's penalty area and Paraguay was awarded a penalty. Cardozo took the penalty himself but it was saved by Spain's goalkeeper [[Iker Casillas]]. Spain soon after launched an attack at the other end of the field, in which [[David Villa]] was ruled by the referee to have been brought down by [[Antolín Alcaraz]]. [[Xabi Alonso]] stepped up to take the penalty kick and seemed to have scored, only for the referee to order it be retaken because of encroachment by a Spanish player into the penalty area before the kick was taken. Xabi Alonso's retake was saved by Paraguayan goalkeeper [[Justo Villar]]. As a result, the score remained 0–0 after the three penalty kicks. However, Spain ultimately managed to take the lead in the 82nd minute: David Villa collected a rebounded shot off the right post from [[Pedro (footballer, born July 1987)|Pedro]], to score himself with a shot that again hit the right post before going in off the left post. The goal turned out to be the winner for Spain.<ref name="BBCSpaPar"/>
+After the match, Spain's coach [[Vicente del Bosque]] conceded that his side were not playing at their best and were starved of possession. He also noted his view that Spain's next opponents Germany were the best team at the World Cup.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8786181.stm|title=Spain must improve, admits coach|date=3 July 2010|work=[[BBC Sport]]|publisher=[[British Broadcasting Corporation]]|access-date=5 July 2010 }}</ref> Paraguay's coach [[Gerardo Martino]] stated he would be leaving his position at the end of his contract.<ref>{{cite news|url=http://www.skysports.com/football/world-cup-2010/story/0,27032,12098_6246020,00.html|title=Martino quits Paraguay|last=Razwan Mirza|date=5 July 2010|publisher=[[Sky Sports]]|access-date=5 July 2010 }}</ref>
+
+<section begin="QF4" />{{Football box
+|date={{Start date|2010|7|3|df=y}}
+|time=20:30
+|team1={{fb-rt|PAR|1990}}
+|score={{score link|2010 FIFA World Cup knockout stage#Paraguay vs Spain|0–1}}
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+*[[David Villa|Villa]] {{goal|83}}
+|stadium=[[Ellis Park Stadium]], [[Johannesburg]]
+|attendance=55,359
+|referee=[[Carlos Batres]] ([[National Football Federation of Guatemala|Guatemala]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249718/300061506 |title=Paraguay vs Spain {{!}} Quarter-final {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249718/match=300061506/report.html |title=2010 FIFA World Cup South Africa – Matches – Paraguay v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210105324/http://www.fifa.com/worldcup/matches/round=249718/match=300061506/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/533e5746555a87a1/original/nrbs3gpuu9ev3ybfnolm-pdf.pdf |title=Match Report – Quarter-final – Paraguay v Spain |publisher=[[FIFA]] |date=3 July 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060747/https://digitalhub.fifa.com/m/533e5746555a87a1/original/nrbs3gpuu9ev3ybfnolm-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="QF4" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _par10h
+ |pattern_b  = _par10h
+ |pattern_ra = _par10h
+ |pattern_sh = _par10a
+ |pattern_so = _par10h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Paraguay<ref name="par-esp_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2c727454d8c86d70/original/v9obx9rzfq3skgzsyy5k-pdf.pdf |title=Tactical Line-up – Quarter-finals – Paraguay v Spain |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 July 2010 |access-date=3 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522173035/https://digitalhub.fifa.com/m/2c727454d8c86d70/original/v9obx9rzfq3skgzsyy5k-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esp10a1
+ |pattern_b  = _esp10a1
+ |pattern_ra = _esp10a1
+ |pattern_sh = _esp10a
+ |pattern_so = _spaina2010
+ |leftarm    = 003366
+ |body       = 003366
+ |rightarm   = 003366
+ |shorts     = 003366
+ |socks      = 003366
+ |title      = Spain<ref name="par-esp_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Justo Villar]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Darío Verón]]
+|-
+|CB ||'''14'''||[[Paulo da Silva]]
+|-
+|CB ||'''21'''||[[Antolín Alcaraz]] || {{yel|59}}
+|-
+|LB ||'''3''' ||[[Claudio Morel]] || {{yel|71}}
+|-
+|DM ||'''15'''||[[Víctor Cáceres]] || {{yel|59}} || {{suboff|84}}
+|-
+|RM ||'''11'''||[[Jonathan Santana]] || {{yel|88}}
+|-
+|CM ||'''8''' ||[[Édgar Barreto]] || || {{suboff|64}}
+|-
+|LM ||'''16'''||[[Cristian Riveros]]
+|-
+|SS ||'''18'''||[[Nelson Valdez]] || || {{suboff|72}}
+|-
+|CF ||'''7''' ||[[Óscar Cardozo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Enrique Vera]] || || {{subon|64}}
+|-
+|FW ||'''9''' ||[[Roque Santa Cruz]] || || {{subon|72}}
+|-
+|FW ||'''19'''||[[Lucas Barrios]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG|1861}} [[Gerardo Martino]]
+|}
+|valign="top"|[[File:PAR-ESP 2010-07-03.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]] || {{yel|57}}
+|-
+|CB ||'''5''' ||[[Carles Puyol]] || || {{suboff|84}}
+|-
+|LB ||'''11'''||[[Joan Capdevila]]
+|-
+|DM ||'''16'''||[[Sergio Busquets]] || {{yel|63}}
+|-
+|RM ||'''6''' ||[[Andrés Iniesta]]
+|-
+|CM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|LM ||'''14'''||[[Xabi Alonso]] || || {{suboff|75}}
+|-
+|SS ||'''7''' ||[[David Villa]]
+|-
+|CF ||'''9''' ||[[Fernando Torres]] || || {{suboff|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Cesc Fàbregas]] || || {{subon|56}}
+|-
+|FW ||'''18'''||[[Pedro (footballer, born July 1987)|Pedro]] || || {{subon|75}}
+|-
+|DF ||'''4''' ||[[Carlos Marchena]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Andrés Iniesta]] (Spain)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+<br />Carlos Pastrana ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+|}
+
+==Semi-finals==
+
+===Uruguay vs Netherlands===
+[[Uruguay national football team|Uruguay]] played the [[Netherlands national football team|Netherlands]] in the first semi-final on 6 July 2010 at the [[Cape Town Stadium]]. The Netherlands won the match 3–2, thereby qualifying for the final for the first time since the [[1978 FIFA World Cup|1978 World Cup]].<ref>{{cite news|url=https://www.bloomberg.com/news/2010-07-06/netherlands-defeats-uruguay-3-2-for-first-world-cup-final-berth-since-1978.html|title=Netherlands Defeats Uruguay 3–2, Advances to World Cup Final|last=Bensch|first=Bob|date=6 July 2010|work=[[Bloomberg L.P.]]|access-date=8 July 2010}}</ref>
+Uruguay adopted a defensive posture early in the match, but were only able to hold their opponents scoreless for 18 minutes, when Dutch captain [[Giovanni van Bronckhorst]] scored from 35&nbsp;yards into the top right corner of the goal. However, the Netherlands were unable to capitalise on their lead, as [[Diego Forlán]] equalised in the 41st minute (1–1) when his shot from 25&nbsp;yards hit squarely in the middle of the goal was misjudged by goalkeeper [[Maarten Stekelenburg]] who missed it by millimetres. The Netherlands regained the lead in the second half, as a pass from [[Rafael van der Vaart]] reached Wesley Sneijder who hit it into the side-netting as Muslera dived and missed it by inches. Three minutes later, Kuyt crossed to Robben, who headed it in to make it 3–1. The Netherlands suffered a late scare when [[Maxi Pereira]], who missed a penalty against Ghana, scored a stoppage-time free kick; however, the match finished 3–2 despite desperate Uruguayan attempts to equalise.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_61/default.stm|title=Uruguay 2–3 Netherlands|last=Bevan|first=Chris|date=6 July 2010|publisher=BBC Sport|access-date=8 July 2010 }}</ref> After the match, Uruguay coach [[Óscar Tabárez]] spoke of his pride in his team for reaching the semi-finals.<ref>{{cite news|url=http://www.theaustralian.com.au/sport/world-cup-2010/skippers-stunning-goal-inspires-dutch-surge-into-final/story-fn4l4sfy-1225889158800|title=Skipper's stunning goal inspires Dutch surge into final|date=8 July 2010|work=[[The Australian]]|access-date=8 July 2010}}</ref>
+
+<section begin="SF1" />{{Football box
+|date={{Start date|2010|7|6|df=y}}
+|time=20:30
+|team1={{fb-rt|URU}}
+|score={{score link|2010 FIFA World Cup knockout stage#Uruguay vs Netherlands|2–3}}
+|team2={{fb|NED}}
+|goals1=
+*[[Diego Forlán|Forlán]] {{goal|41}}
+*[[Maxi Pereira|M. Pereira]] {{goal|90+2}}
+|goals2=
+*[[Giovanni van Bronckhorst|Van Bronckhorst]] {{goal|18}}
+*[[Wesley Sneijder|Sneijder]] {{goal|70}}
+*[[Arjen Robben|Robben]] {{goal|73}}
+|stadium=[[Cape Town Stadium]], [[Cape Town]]
+|attendance=62,479
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249719/300061512 |title=Uruguay vs Netherlands {{!}} Semi-final {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249719/match=300061512/report.html |title=2010 FIFA World Cup South Africa – Matches – Uruguay v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201043758/http://www.fifa.com/worldcup/matches/round=249719/match=300061512/report.html |archive-date=1 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6ffda0d319ec244f/original/idpcpk31bmqsnpgzbl0n-pdf.pdf |title=Match Report – Semi-final – Uruguay v Netherlands |publisher=[[FIFA]] |date=6 July 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060759/https://digitalhub.fifa.com/m/6ffda0d319ec244f/original/idpcpk31bmqsnpgzbl0n-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="SF1" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _uru10H
+ |pattern_b  = _uru10H
+ |pattern_ra = _uru10H
+ |pattern_sh = _uru10h
+ |pattern_so = _uru10h
+ |leftarm    = 87CEEB
+ |body       = 87CEEB
+ |rightarm   = 87CEEB
+ |shorts     = FFA500
+ |socks      = 000000
+ |title      = Uruguay<ref name="uru-ned_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7dd667804167aac1/original/hqxqz8duu6rfe2ng0ttv-pdf.pdf |title=Tactical Line-up – Semi-finals – Uruguay v Netherlands |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=6 July 2010 |access-date=6 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181408/https://digitalhub.fifa.com/m/7dd667804167aac1/original/hqxqz8duu6rfe2ng0ttv-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ned10h
+ |pattern_b  = _ned10H
+ |pattern_ra = _ned10h
+ |pattern_sh = _ned10H
+ |pattern_so = _band_black
+ |leftarm    = FF5F00
+ |body       = FF5F00
+ |rightarm   = FF5F00
+ |shorts     = FF5F00
+ |socks      = FF5F00
+ |title      = {{nowrap|Netherlands}}<ref name="uru-ned_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''16'''||[[Maxi Pereira]] || {{yel|21}}
+|-
+|CB ||'''3''' ||[[Diego Godín]]
+|-
+|CB ||'''6''' ||[[Mauricio Victorino]]
+|-
+|LB ||'''22'''||[[Martín Cáceres]] || {{yel|29}}
+|-
+|RM ||'''15'''||[[Diego Pérez (footballer)|Diego Pérez]]
+|-
+|CM ||'''5''' ||[[Walter Gargano]]
+|-
+|CM ||'''17'''||[[Egidio Arévalo Ríos]]
+|-
+|LM ||'''11'''||[[Álvaro Pereira]] || || {{suboff|78}}
+|-
+|CF ||'''7''' ||[[Edinson Cavani]]
+|-
+|CF ||'''10'''||[[Diego Forlán]] ([[Captain (association football)|c]]) || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Sebastián Abreu]] || || {{subon|78}}
+|-
+|FW ||'''21'''||[[Sebastián Fernández (footballer, born 1985)|Sebastián Fernández]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|valign="top"|[[File:URU-NED 2010-07-06.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Maarten Stekelenburg]]
+|-
+|RB ||'''12'''||[[Khalid Boulahrouz]] || {{yel|78}}
+|-
+|CB ||'''3''' ||[[John Heitinga]]
+|-
+|CB ||'''4''' ||[[Joris Mathijsen]]
+|-
+|LB ||'''5''' ||[[Giovanni van Bronckhorst]] ([[Captain (association football)|c]])
+|-
+|DM ||'''6''' ||[[Mark van Bommel]] || {{yel|90+5}}
+|-
+|DM ||'''14'''||[[Demy de Zeeuw]] || || {{suboff|46}}
+|-
+|RW ||'''11'''||[[Arjen Robben]] || || {{suboff|89}}
+|-
+|AM ||'''10'''||[[Wesley Sneijder]] || {{yel|29}}
+|-
+|LW ||'''7''' ||[[Dirk Kuyt]]
+|-
+|CF ||'''9''' ||[[Robin van Persie]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''23'''||[[Rafael van der Vaart]] || || {{subon|46}}
+|-
+|MF ||'''17'''||[[Eljero Elia]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Bert van Marwijk]]
+|}
+|}
+{{Wikinews|Netherlands beats Uruguay 3–2 in FIFA World Cup semifinals}}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Wesley Sneijder]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Rafael Ilyasov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bakhadyr Kochkarov ([[Football Federation of Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+|}
+
+===Germany vs Spain===
+On 7 July 2010, [[Spain national football team|Spain]] defeated [[Germany national football team|Germany]] 1–0 in a rematch of the [[UEFA Euro 2008 Final]] (also won 1-0 by Spain) at the [[Moses Mabhida Stadium]] in [[Durban]] to progress to the [[2010 FIFA World Cup Final|World Cup Final]] against the [[Netherlands national football team|Netherlands]]. It was the first time that Spain had ever gone through to the final of the World Cup, while it was the second consecutive World Cup in which Germany had lost in the semi-finals, having lost to [[Italy national football team|Italy]] at home four years before.<ref name="APGerSpa">{{cite news |url=https://www.google.com/hostednews/ap/article/ALeqM5jtf6lamDzvPPaVA4FEbAuQeAIdLQD9GQN95O0 |archive-url=https://web.archive.org/web/20100709191122/http://www.google.com/hostednews/ap/article/ALeqM5jtf6lamDzvPPaVA4FEbAuQeAIdLQD9GQN95O0 |url-status=dead |archive-date=9 July 2010 |title=Spain beats Germany 1–0 in World Cup semifinal |last=Armour |first=Nancy |date=8 July 2010 |agency=Associated Press |access-date=9 July 2010 }}</ref>
+
+Spain had the bulk of possession throughout the match, with Germany adopting a tight defensive structure. Germany created chances on the counter-attack, but Spain also went close to scoring on numerous occasions in each half. The match was deadlocked at 0–0 until the 73rd minute, when Spain was awarded a corner. The corner, taken by [[Xavi (footballer, born 1980)|Xavi]], was met by [[Carles Puyol]], who headed the ball into the net as [[Manuel Neuer]] didn't do much to protect it to give Spain the lead. Thereafter, Spain protected its advantage and won the match.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_62/default.stm|title=Germany 0–1 Spain|last=Fletcher|first=Paul|date=7 July 2010|publisher=BBC Sport|access-date=9 July 2010 }}</ref>
+
+After the match, Spain's coach [[Vicente del Bosque]] praised the "excellent performance" of his team, while Germany's coach [[Joachim Löw]] predicted that Spain would win the final.<ref name="APGerSpa"/>
+
+<section begin="SF2" />{{Football box
+|date={{Start date|2010|7|7|df=y}}
+|time=20:30
+|team1={{fb-rt|GER}}
+|score={{score link|2010 FIFA World Cup knockout stage#Germany vs Spain|0–1}}
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+*[[Carles Puyol|Puyol]] {{goal|73}}
+|stadium=[[Moses Mabhida Stadium]], [[Durban]]
+|attendance=60,960
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249719/300111114 |title=Germany vs Spain {{!}} Semi-final {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249719/match=300111114/report.html |title=2010 FIFA World Cup South Africa – Matches – Germany v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210095512/http://www.fifa.com/worldcup/matches/round=249719/match=300111114/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/139393d6f486b7b7/original/nf4yowwpswhd29t18rox-pdf.pdf |title=Match Report – Semi-final – Germany v Spain |publisher=[[FIFA]] |date=7 July 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060814/https://digitalhub.fifa.com/m/139393d6f486b7b7/original/nf4yowwpswhd29t18rox-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="SF2" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _ger10h2
+ |pattern_b  = _ger10h2
+ |pattern_ra = _ger10h2
+ |pattern_sh = _ger10h2
+ |pattern_so = _ger10h2
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 100000
+ |socks      = FFFFFF
+ |title      = Germany<ref name="ger-esp_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/1cc64fd31b8b511e/original/wze0buhpbt3cie02bjlj-pdf.pdf |title=Tactical Line-up – Semi-finals – Germany v Spain |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 July 2010 |access-date=7 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181424/https://digitalhub.fifa.com/m/1cc64fd31b8b511e/original/wze0buhpbt3cie02bjlj-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esp10h1
+ |pattern_b  = _esp10h1
+ |pattern_ra = _esp10h1
+ |pattern_sh = _esp10h
+ |pattern_so = _esp10h
+ |leftarm    = E80113
+ |body       = E80113
+ |rightarm   = E80113
+ |shorts     = 3366FF
+ |socks      = FF0000
+ |title      = Spain<ref name="ger-esp_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Arne Friedrich]]
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|LB ||'''20'''||[[Jérôme Boateng]] || || {{suboff|52}}
+|-
+|DM ||'''6''' ||[[Sami Khedira]] || || {{suboff|81}}
+|-
+|DM ||'''7''' ||[[Bastian Schweinsteiger]]
+|-
+|RW ||'''15'''||[[Piotr Trochowski]] || || {{suboff|62}}
+|-
+|AM ||'''8''' ||[[Mesut Özil]]
+|-
+|LW ||'''10'''||[[Lukas Podolski]]
+|-
+|CF ||'''11'''||[[Miroslav Klose]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Marcell Jansen]] || || {{subon|52}}
+|-
+|MF ||'''18'''||[[Toni Kroos]] || || {{subon|62}}
+|-
+|FW ||'''23'''||[[Mario Gómez]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-ESP 2010-07-07.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Sergio Ramos]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''5''' ||[[Carles Puyol]]
+|-
+|LB ||'''11'''||[[Joan Capdevila]]
+|-
+|DM ||'''16'''||[[Sergio Busquets]]
+|-
+|DM ||'''14'''||[[Xabi Alonso]] || || {{suboff|90+3}}
+|-
+|RW ||'''6''' ||[[Andrés Iniesta]]
+|-
+|AM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|LW ||'''18'''||[[Pedro (footballer, born July 1987)|Pedro]] || || {{suboff|86}}
+|-
+|CF ||'''7''' ||[[David Villa]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Fernando Torres]] || || {{subon|81}}
+|-
+|MF ||'''21'''||[[David Silva]] || || {{subon|86}}
+|-
+|DF ||'''4''' ||[[Carlos Marchena]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Vicente del Bosque]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Xavi (footballer, born 1980)|Xavi]] (Spain)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Gábor Erős ([[Hungarian Football Federation|Hungary]])
+<br />Tibor Vámos ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])
+|}
+
+==Match for third place==
+On 10 July 2010, at the [[Nelson Mandela Bay Stadium]] in [[Port Elizabeth, Eastern Cape|Port Elizabeth]], [[Germany national football team|Germany]] defeated [[Uruguay national football team|Uruguay]] 3–2 to claim third place at the World Cup for the second successive time after also finishing third at the [[2006 FIFA World Cup]].<ref>{{cite web |title=Khedira completes comeback |url=http://soccernet.espn.go.com/report?id=264122&league=FIFA.WORLD&cc=5739&ver=global |work=ESPNsoccernet |date=10 July 2010 |access-date=14 July 2010 |archive-date=22 October 2012 |archive-url=https://web.archive.org/web/20121022005104/http://soccernet.espn.go.com/report?id=264122&league=FIFA.WORLD&cc=5739&ver=global |url-status=dead }}</ref> In the 19th minute, [[Bastian Schweinsteiger]] managed to take a shot towards the goal, which Muslera rebounded towards the onrushing [[Thomas Müller]], who opened the scoring. Uruguay forced their way back into the match after [[Luis Suárez]]'s pass put [[Edinson Cavani]] through on the left. He slid low into the far corner to put the South American side on level terms after 28 minutes. [[Diego Forlán]] then put them ahead six minutes into the second half with a beautiful side volley from the edge of the penalty box while goalkeeper [[Hans-Jörg Butt]] didn't move off his line. [[Marcell Jansen]] then scored on 56 minutes after Muslera came for [[Jérôme Boateng]]'s cross but missed it right in front of Jansen, allowing him to head into an empty net. [[Mesut Özil]] took a corner in the 82nd minute, which reached a German player, bounced off him and went up to Khedira's head, who headed it in. Uruguay almost forced extra time when Forlán curled a 92nd-minute free kick onto the bar, but Germany held on to win the match.<ref>{{cite news |first=David |last=Ornstein |title=Uruguay 2–3 Germany |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_63/default.stm |publisher=BBC Sport |date=10 July 2010 |access-date=14 July 2010}}</ref> This was the [[European nations at the FIFA World Cup#Overview|eighth consecutive World Cup in which European teams finished third]], stretching back to [[1982 FIFA World Cup knockout stage#Match for third place|1982]].
+
+After the game, Uruguay coach [[Óscar Tabárez]] insisted that his side did not deserve to be on the losing side: "We achieved an equal game against a real power, we could have won because in the game [they] were not superior to us ... We're not that far away [from Germany's level], the route has been marked, we must learn from this."<ref>{{cite web|title=Tabarez: Uruguay as good as Germany |url=http://soccernet.espn.go.com/world-cup/story/_/id/807787/ce/uk/?cc=5739&ver=global |work=ESPNsoccernet |date=10 July 2010 |access-date=14 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110827052326/http://soccernet.espn.go.com/world-cup/story/_/id/807787/ce/uk/?cc=5739&ver=global |archive-date=27 August 2011 }}</ref>
+
+<section begin="3rd" />{{Football box
+|date={{Start date|2010|7|10|df=y}}
+|time=20:30
+|team1={{fb-rt|URU}}
+|score={{score link|2010 FIFA World Cup knockout stage#Match for third place|2–3}}
+|team2={{fb|GER}}
+|goals1=
+*[[Edinson Cavani|Cavani]] {{goal|28}}
+*[[Diego Forlán|Forlán]] {{goal|51}}
+|goals2=
+*[[Thomas Müller|Müller]] {{goal|19}}
+*[[Marcell Jansen|Jansen]] {{goal|56}}
+*[[Sami Khedira|Khedira]] {{goal|82}}
+|stadium=[[Nelson Mandela Bay Stadium]], [[Port Elizabeth, Eastern Cape|Port Elizabeth]]
+|attendance=36,254
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249720/300061510 |title=Uruguay vs Germany {{!}} Match for third place {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249720/match=300061510/report.html |title=2010 FIFA World Cup South Africa – Matches – Uruguay v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212132807/http://www.fifa.com/worldcup/matches/round=249720/match=300061510/report.html |archive-date=12 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5f2c581ebba50642/original/yyxci8hjbguo2phemfs5-pdf.pdf |title=Match Report – Match for third place – Uruguay v Germany |publisher=[[FIFA]] |date=10 July 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060830/https://digitalhub.fifa.com/m/5f2c581ebba50642/original/yyxci8hjbguo2phemfs5-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="3rd" />
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _uru10H
+ |pattern_b  = _uru10H
+ |pattern_ra = _uru10H
+ |pattern_sh = _uru10H
+ |pattern_so = _uru10H
+ |leftarm    = 87CEEB
+ |body       = 87CEEB
+ |rightarm   = 87CEEB
+ |shorts     = 7FBEFF
+ |socks      = 7FBEFF
+ |title      = Uruguay<ref name="uru-ger_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/15d5930222a8c583/original/wdz07yr01zv00tsforta-pdf.pdf |title=Tactical Line-up – Match for third place – Uruguay v Germany |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=10 July 2010 |access-date=10 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181441/https://digitalhub.fifa.com/m/15d5930222a8c583/original/wdz07yr01zv00tsforta-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ger10a2
+ |pattern_b  = _ger10a2
+ |pattern_ra = _ger10a2
+ |pattern_sh = _ger10h2
+ |pattern_so = _ger10al
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 0F0F0F
+ |title      = Germany<ref name="uru-ger_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''4''' ||[[Jorge Fucile]]
+|-
+|CB ||'''2''' ||[[Diego Lugano]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Diego Godín]]
+|-
+|LB ||'''22'''||[[Martín Cáceres]]
+|-
+|CM ||'''15'''||[[Diego Pérez (footballer)|Diego Pérez]] || {{yel|61}} || {{suboff|77}}
+|-
+|CM ||'''17'''||[[Egidio Arévalo Ríos]]
+|-
+|RW ||'''16'''||[[Maxi Pereira]]
+|-
+|LW ||'''7''' ||[[Edinson Cavani]] || || {{suboff|88}}
+|-
+|CF ||'''9''' ||[[Luis Suárez]]
+|-
+|CF ||'''10'''||[[Diego Forlán]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Walter Gargano]] || || {{subon|77}}
+|-
+|FW ||'''13'''||[[Sebastián Abreu]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|valign="top"|[[File:URU-GER 2010-07-10.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Hans-Jörg Butt]]
+|-
+|RB ||'''20'''||[[Jérôme Boateng]]
+|-
+|CB ||'''3''' ||[[Arne Friedrich]] || {{yel|90+2}}
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|LB ||'''4''' ||[[Dennis Aogo]] || {{yel|5}}
+|-
+|DM ||'''6''' ||[[Sami Khedira]]
+|-
+|DM ||'''7''' ||[[Bastian Schweinsteiger]] ([[Captain (association football)|c]])
+|-
+|RW ||'''13'''||[[Thomas Müller]]
+|-
+|AM ||'''8''' ||[[Mesut Özil]] || || {{suboff|90+1}}
+|-
+|LW ||'''2''' ||[[Marcell Jansen]] || || {{suboff|81}}
+|-
+|CF ||'''19'''||[[Cacau]] || {{yel|7}} || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Stefan Kießling]] || || {{subon|73}}
+|-
+|MF ||'''18'''||[[Toni Kroos]] || || {{subon|81}}
+|-
+|DF ||'''5''' ||[[Serdar Tasci]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Joachim Löw]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Thomas Müller]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees_63_64"/>
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />José Luis Camargo ([[Mexican Football Federation|Mexico]])
+|}
+
+==Final==
+{{Main|2010 FIFA World Cup final}}
+
+{{#lst:2010 FIFA World Cup final|Final}}
+{{#lst:2010 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* {{Official website|https://www.fifa.com/worldcup/index.html }}
+* [https://web.archive.org/web/20070615174345/http://www.sa2010.gov.za/ The official 2010 host country website]
+* [https://www.youtube.com/watch?v=eMdTsex8Cyw Germany v England | 2010 FIFA World Cup | Full Match on YouTube]
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout Stage}}
+[[Category:2010 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|2010]]
+[[Category:Mexico at the 2010 FIFA World Cup]]
+[[Category:Argentina at the 2010 FIFA World Cup]]
+[[Category:Brazil at the 2010 FIFA World Cup]]
+[[Category:Spain at the 2010 FIFA World Cup]]
+[[Category:Netherlands at the 2010 FIFA World Cup]]
+[[Category:Germany at the 2010 FIFA World Cup]]
+[[Category:Paraguay at the 2010 FIFA World Cup]]
+[[Category:United States at the 2010 FIFA World Cup]]
+[[Category:Uruguay at the 2010 FIFA World Cup]]
+[[Category:England at the 2010 FIFA World Cup]]
+[[Category:Portugal at the 2010 FIFA World Cup]]
+[[Category:Ghana at the 2010 FIFA World Cup]]
+[[Category:Japan at the 2010 FIFA World Cup]]
+[[Category:Slovakia at the 2010 FIFA World Cup]]
+[[Category:South Korea at the 2010 FIFA World Cup]]
+[[Category:Chile at the 2010 FIFA World Cup]]
+[[Category:Sports competitions in Pretoria]]
+[[Category:Rustenburg]]
+[[Category:Sports competitions in North West (South African province)]]
+[[Category:Sport in Bloemfontein]]
+[[Category:Sports competitions in the Free State (province)]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Sports competitions in Durban]]
+[[Category:Sports competitions in Cape Town]]
+[[Category:2010s in Cape Town]]
+[[Category:Sports competitions in Gqeberha]]

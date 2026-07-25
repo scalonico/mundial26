@@ -1,0 +1,229 @@
+{{Short description|World Cup final, held in France}}
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title                   = 1938 FIFA World Cup final
+| image                   = Italy v Hungary WC 1938 (2).jpg
+| image_size              = 200
+| caption                 = [[Italy national football team|Italy]] are champions
+| event                   = [[1938 FIFA World Cup]]
+| team1                   = [[Italy national football team|Italy]]
+| team1association        = {{flagdeco|ITA|1861|size=30px}}
+| team1score              = 4
+| team2                   = [[Hungary national football team|Hungary]]
+| team2association        = {{flagdeco|HUN|1920|size=30px}}
+| team2score              = 2
+| details                 =
+| date                    = 19 June 1938
+| stadium                 = [[Stade Olympique de Colombes]]
+| city                    = [[Colombes]]
+| man_of_the_match1a      =
+| man_of_the_match1atitle =
+| man_of_the_match1b      =
+| man_of_the_match1btitle =
+| referee                 = [[Georges Capdeville]] ([[French Football Federation|France]])
+| attendance              = 45,000
+| weather                 =
+| previous                = [[1934 FIFA World Cup final|1934]]
+| next                    = [[Uruguay v Brazil (1950 FIFA World Cup)|1950]]
+}}
+The '''1938 FIFA World Cup final''' was the third edition of the football quadrennial tournament match contested by the men's national teams of [[FIFA]] to determine the [[1938 FIFA World Cup]] champions: [[Italy national football team|Italy]] and [[Hungary national football team|Hungary]]. It was played on 19 June. Italy defended its claim to the championship 4–2 in the last tournament before [[World War II]].
+
+The final match took place at the [[Stade Olympique de Colombes]] in [[Colombes]]. [[Vittorio Pozzo]]'s Italian side took the lead early, but Hungary equalised within two minutes. The Italians shortly regained the lead, and by the end of the first half were leading the Hungarians 3–1. At 4–2, Italy successfully defended its title, the inaugural team to win on foreign soil.
+
+The last survivor of the game was Italy's [[Pietro Rava]], who died on 5 November 2006 at the age of 90.<ref>{{Cite web |date=5 November 2006 |title=La Juventus in lutto per Rava |url=http://www.juventus.com/it/news/detail.aspx?lml_language_id=0&trs_id=1203000&ID=9209 |url-status=dead |archive-url=https://web.archive.org/web/20070928010937/http://www.juventus.com/it/news/detail.aspx?lml_language_id=0&trs_id=1203000&ID=9209 |archive-date=28 September 2007 |access-date=20 June 2014 |website=Juventus.com |publisher=Juventus FC |language=it}}</ref>
+
+==Route to the final==
+{|  style="width:100%; text-align:center;"
+|-  style="vertical-align:top; background:#9cf;"
+!colspan=2 style="width:1*"|Italy
+!Round
+!colspan=2 style="width:1*"|Hungary
+|-  style="vertical-align:top; background:#c1e0ff;"
+|Opponent
+|Result
+||[[1938 FIFA World Cup final tournament|Final tournament]]
+|Opponent
+|Result
+|-
+|{{fb|NOR}}
+|[[1938 FIFA World Cup final tournament#Italy vs Norway|2–1]] ([[Overtime (association football)|a.e.t.]])
+| style="background:#c1e0ff;"|First round
+|{{fb|DEI}}
+|[[1938 FIFA World Cup final tournament#Hungary vs Dutch East Indies|6–0]]
+|-
+|{{fb|FRA|1830}}
+|[[1938 FIFA World Cup final tournament#France vs Italy|3–1]]
+| style="background:#c1e0ff;"|Quarter-finals
+|{{fb|SWI}}
+|[[1938 FIFA World Cup final tournament#Switzerland vs Hungary|2–0]]
+|-
+|{{fb|BRA|1889}}
+|[[1938 FIFA World Cup final tournament#Italy vs Brazil|2–1]]
+| style="background:#c1e0ff;"|Semi-finals
+|{{fb|SWE}}
+|[[1938 FIFA World Cup final tournament#Hungary vs Sweden|5–1]]
+|}
+
+==Match==
+===Summary===
+After six minutes, [[Gino Colaussi]] opened the scoring for Italy; [[Pál Titkos]] equalised for Hungary two minutes later, but with just over a quarter of an hour played, Italy regained the lead with a goal from [[Silvio Piola]]. Ten minutes before half-time, Italy extended their lead to 3–1 after the unmarked Colaussi scored his second goal. Midway through the second half, Hungary captain [[György Sárosi]] got his side back to within a goal of the Italians, but with eight minutes to go, Piola scored his second goal to complete a 4–2 win for Italy.<ref>{{cite news |last=Molinaro |first=John F. |url=http://www.cbc.ca/sports/soccer/1938-world-cup-italy-repeats-as-champions-1.853724 |title=1938 World Cup: Italy repeats as champions |website=[[CBC Sports]] |publisher=[[Canadian Broadcasting Corporation]] |date=24 November 2009 |access-date=8 April 2018 |archive-url=https://web.archive.org/web/20140519223256/http://www.cbc.ca/sports/soccer/1938-world-cup-italy-repeats-as-champions-1.853724 |archive-date=19 May 2014 |url-status=live }}</ref>
+
+===Details===
+<section begin=Final />{{Football box
+|date={{Start date|1938|6|19|df=y}}
+|time=17:00 ([[Western European Summer Time|WEST]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1938 FIFA World Cup final tournament#Final|4–2|1938 FIFA World Cup final}}
+|team2={{fb|HUN|1920}}
+|goals1=
+*[[Gino Colaussi|Colaussi]] {{goal|6||35}}
+*[[Silvio Piola|Piola]] {{goal|16||82}}
+|goals2=
+*[[Pál Titkos|Titkos]] {{goal|8}}
+*[[György Sárosi|G. Sárosi]] {{goal|70}}
+|stadium=[[Stade Olympique Yves-du-Manoir|Stade Olympique de Colombes]], [[Paris]]
+|attendance=45,000
+|referee=[[Georges Capdeville]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/3487/1174 |title=Italy vs Hungary {{!}} Final {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026 |archive-date=26 November 2025 |archive-url=https://web.archive.org/web/20251126063608/https://www.fifa.com/en/match-centre/match/17/5/3487/1174 |url-status=live }} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3487/match=1174/index.html |title=1938 FIFA World Cup France – Matches – Italy v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213010034/http://www.fifa.com/worldcup/matches/round=3487/match=1174/index.html |archive-date=13 December 2017 }} }}</ref>
+}}<section end=Final />
+<section begin=Lineups />
+{| width=92%
+|-
+|{{Football kit
+| pattern_la =_Italia1927-1943h
+ | pattern_b  = _colour vneck
+| pattern_ra =_Italia1927-1943h
+| pattern_sh =_Italiah
+| pattern_so =_Italia1927-1943h
+ | leftarm    = 426DA5
+ | body       = 426DA5
+ | rightarm   = 426DA5
+ | shorts     = ffffff
+ | socks      = 000000
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | leftarm    = DB000D
+ | body       = DB000D
+ | rightarm   = DB000D
+ | shorts     = ffffff
+ | socks      = 006400
+ | title      = Hungary
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Aldo Olivieri]]
+|-
+|RB ||[[Alfredo Foni]]
+|-
+|LB ||[[Pietro Rava]]
+|-
+|RH ||[[Pietro Serantoni]]
+|-
+|CH ||[[Michele Andreolo]]
+|-
+|LH ||[[Ugo Locatelli]]
+|-
+|OR ||[[Amedeo Biavati]]
+|-
+|IR ||[[Giuseppe Meazza]] ([[Captain (association football)|c]])
+|-
+|CF ||[[Silvio Piola]]
+|-
+|IL ||[[Giovanni Ferrari]]
+|-
+|OL ||[[Gino Colaussi]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"| [[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-HUN 1938-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Antal Szabó]]
+|-
+|RB ||[[Gyula Polgár]]
+|-
+|LB ||[[Sándor Bíró]]
+|-
+|RH ||[[Antal Szalay]]
+|-
+|CH ||[[György Szűcs]]
+|-
+|LH ||[[Gyula Lázár]] 
+|-
+|OR ||[[Ferenc Sas]]
+|-
+|IR ||[[Jenő Vincze]]
+|-
+|CF ||[[György Sárosi]] ([[Captain (association football)|c]])
+|-
+|IL ||[[Gyula Zsengellér]]
+|-
+|OL ||[[Pál Titkos]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"| [[Károly Dietz]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Hans Wüthrich]] ([[Swiss Football Association|Switzerland]])
+<br />[[Augustin Krist]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<includeonly>|}</includeonly><section end=Lineups />
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Replay (sports)#Association football|Replay]] if scores still level
+*No substitutions permitted
+|}
+
+==See also==
+*[[Hungary at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[http://www.planetworldcup.com/CUPS/1938/wc38final.html 1938 FIFA World Cup Final] at Planet World Cup
+
+{{1938 FIFA World Cup}}
+{{FIFA World Cup finals}}
+{{Italy national football team matches}}
+{{Hungary national football team matches}}
+
+[[Category:FIFA World Cup finals]]
+[[Category:Men's international association football finals in Europe]]
+[[Category:1938 FIFA World Cup]]
+[[Category:Football matches in France]]
+[[Category:Hungary national football team matches]]
+[[Category:Italy national football team matches]]
+[[Category:Italy at the 1938 FIFA World Cup]]
+[[Category:Hungary at the 1938 FIFA World Cup]]
+[[Category:Football in Île-de-France]]
+[[Category:20th century in Île-de-France]]
+[[Category:June 1938 sports events in Europe]]
+[[Category:Hungary–Italy sports relations|1938]]
+[[Category:Sport in Hauts-de-Seine]]
+[[Category:History of Hauts-de-Seine]]

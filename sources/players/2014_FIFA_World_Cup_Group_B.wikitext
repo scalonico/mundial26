@@ -1,0 +1,1006 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=July 2014}}
+{{Use British English|date=July 2014}}
+Group B of the [[2014 FIFA World Cup]] consisted of both finalists of [[2010 FIFA World Cup|the previous World Cup]] in [[Spain national football team|Spain]] (defending champions), the [[Netherlands national football team|Netherlands]] (previous runners-up), [[Chile national football team|Chile]], and [[Australia men's national soccer team|Australia]]. Play began on 13 June and ended on 23 June 2014. The Netherlands and Chile progressed to the knockout stage, while Australia and Spain were eliminated after suffering two defeats in their opening two matches. Chile were eliminated by hosts [[Brazil national football team|Brazil]] in the round of 16 on [[Penalty shoot-out (association football)|penalties]], while the Netherlands made their way to the semi-finals in which they lost to eventual runners-up [[Argentina national football team|Argentina]], also on penalties. The Netherlands won the match for third place with a convincing 3–0 victory against Brazil.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2013{{refn|group=nb|The rankings of October 2013 were used for [[2014 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2014
+|-
+| B1 ''(seed)'' || style=white-space:nowrap | {{fb|ESP}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA Group I|UEFA Group I]] winners || 15 October 2013 || data-sort-value="14" | 14th || [[2010 FIFA World Cup|2010]] || data-sort-value="7.1" | '''Winners''' ([[2010 FIFA World Cup|2010]]) || 1 || 1
+|-
+| B2 || style=white-space:nowrap | {{fb|NED}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA Group D|UEFA Group D]] winners || 10 September 2013 || data-sort-value="10" | 10th || [[2010 FIFA World Cup|2010]] || data-sort-value="6.3" | Runners-up ([[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[2010 FIFA World Cup|2010]]) || 8 || 15
+|-
+| B3 || style=white-space:nowrap | {{fb|CHI}} || [[CONMEBOL]] || [[2014 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] third place || 15 October 2013 || data-sort-value="9" | 9th || [[2010 FIFA World Cup|2010]] || data-sort-value="5.1" | Third place ([[1962 FIFA World Cup|1962]]) || 12 || 14
+|-
+| B4 || style=white-space:nowrap | {{fb|AUS}} || [[Asian Football Confederation|AFC]] || [[2014 FIFA World Cup qualification – AFC fourth round#Group B|AFC fourth round Group B]] <span style="display:none">2nd</span> runners-up || 18 June 2013 || data-sort-value="4" | 4th || [[2010 FIFA World Cup|2010]] || data-sort-value="2.1" | Round of 16 ([[2006 FIFA World Cup|2006]]) || 57 || 62
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/brazil2014/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=NED |team2=CHI |team3=ESP |team4=AUS
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2014 FIFA World Cup#Format|Tie-breaking criteria]]
+
+|win_NED=3 |draw_NED=0 |loss_NED=0 |gf_NED=10 |ga_NED=3
+|win_CHI=2 |draw_CHI=0 |loss_CHI=1 |gf_CHI=5 |ga_CHI=3
+|win_ESP=1 |draw_ESP=0 |loss_ESP=2 |gf_ESP=4 |ga_ESP=7
+|win_AUS=0 |draw_AUS=0 |loss_AUS=3 |gf_AUS=3 |ga_AUS=9
+
+|name_NED={{fb|NED}}
+|name_CHI={{fb|CHI}}
+|name_ESP={{fb|ESP}}
+|name_AUS={{fb|AUS}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2014 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Netherlands advanced to play [[Mexico national football team|Mexico]] (runner-up of [[2014 FIFA World Cup Group A|Group A]]) in the [[2014 FIFA World Cup knockout stage#Netherlands vs Mexico|round of 16]].
+*Chile advanced to play [[Brazil national football team|Brazil]] (winner of [[2014 FIFA World Cup Group A|Group A]]) in the [[2014 FIFA World Cup knockout stage#Brazil vs Chile|round of 16]].
+
+==Matches==
+===Spain vs Netherlands===
+{{further|List of 2014 FIFA World Cup controversies#Spain vs Netherlands}}
+{{external media|float=right|video1={{youTube|KXdVpPYU1As|Spain v Netherlands (Brazil 2014)}}}}
+
+The two teams had met in 9 previous matches, including in the [[2010 FIFA World Cup Final]], won by Spain 1–0 after extra time.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=9 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=9 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> This was the first time in the FIFA World Cup that the previous finalists met in the group stage.
+
+Halfway into the first half, the referee judged that [[Diego Costa]] caught a trailing leg from [[Stefan de Vrij]]'s attempted tackle. [[Xabi Alonso]] scored the penalty kick for Spain, shooting into the bottom-right corner with his right foot, putting them into the lead. They were unable to keep the lead until half time though, with [[Robin van Persie]] scoring a 15-yard diving looping header after a long ball from [[Daley Blind]] from the left after he spotted [[Iker Casillas]] slightly off his line.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/13/spain-holland-world-cup-2014-group-b-match-report|title=Spain humiliated as rampant Holland blast five in World Cup shock|date=13 June 2014 |work=The Guardian|access-date=30 October 2014 }}</ref> In the second half, Blind assisted another goal for Netherlands, this time setting up [[Arjen Robben]] who controlled the pass before coming inside to finish with his left foot from ten yards out. Twelve minutes later, Netherlands scored again, as De Vrij headed the ball in from a tight angle from a [[Wesley Sneijder]] free kick on the left. Spanish goalkeeper Iker Casillas protested that he had been fouled by Van Persie, but the goal was allowed to stand and Casillas received a yellow card for his protest. Not long after this, a backpass from [[Sergio Ramos]] was miscontrolled by Casillas with his left leg, resulting in Van Persie gathering the ball and scoring into an empty net for his second goal of the game. The fifth goal for Netherlands was a solo effort from Robben. Having received the ball near the halfway line from a Wesley Sneijder pass, he outran Ramos, [[Jordi Alba]] and Casillas, before slotting the ball into the net from 10 yards out with his left foot.<ref name="Spain 1-5 Netherlands">{{cite news |url=https://www.bbc.co.uk/sport/football/25285043 |title=Spain 1-5 Netherlands |work=BBC Sport |date=13 June 2014 |access-date=14 June 2014}}</ref><ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/world-cup/10892667/Spain-v-Holland-World-Cup-2014-live.html |title=Spain v Holland, World Cup 2014: as it happened |newspaper=The Telegraph |date=13 June 2014 |access-date=14 June 2014}}</ref><ref>{{cite news |url=https://www.theguardian.com/football/2014/jun/13/spain-v-holland-world-cup-2014-live-report |title=Spain v Holland: World Cup 2014 – as it happened |newspaper=The Guardian |date=13 June 2014 |access-date=14 June 2014}}</ref>
+
+The 5–1 scoreline was the biggest loss margin for a defending champion in the FIFA World Cup, and also Spain's second biggest loss in the World Cup after their 6–1 thrashing against Brazil in 1950.<ref>{{cite news|url=https://www.theguardian.com/football/blog/2014/jun/14/spain-defeat-holland-world-cup-2014|title=Spain suffer not just a defeat but a World Cup disaster against Holland|newspaper=The Guardian|first=Sid|last=Lowe|date=13 June 2014}}</ref> With their goals, Van Persie and Robben became the first Dutch players to score in three World Cups.<ref>{{cite web|url=http://www.caughtoffside.com/2014/06/14/manchester-united-striker-robin-van-persie-sets-new-dutch-world-cup-goal-scoring-record/|title=Manchester United Striker Robin Van Persie Sets New Dutch World Cup Goal-Scoring Record|publisher=Caughtoffisde.com|date=14 June 2014}}</ref> Casillas and [[Xavi (footballer, born 1980)|Xavi]] joined [[Andoni Zubizarreta]] as the only Spanish players to appear in four World Cups.<ref>{{cite web|url=http://www.sefutbol.com/en/these-are-players-who-defended-spain-more-world-cups|title=These are the players who have defended Spain in more World Cups|publisher=sefutbol.com|date=28 June 2014|access-date=4 July 2014|archive-url=https://web.archive.org/web/20150221000233/http://www.sefutbol.com/en/these-are-players-who-defended-spain-more-world-cups|archive-date=21 February 2015|url-status=dead}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b1
+|date={{Start date|2014|6|13|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|ESP}}
+|score={{score link|2014 FIFA World Cup Group B#Spain vs Netherlands|1–5}}
+|team2={{fb|NED}}
+|goals1=
+*[[Xabi Alonso|Alonso]] {{goal|27|pen.}}
+|goals2=
+*[[Robin van Persie|Van Persie]] {{goal|44||72}}
+*[[Arjen Robben|Robben]] {{goal|53||80}}
+*[[Stefan de Vrij|De Vrij]] {{goal|64}}
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=48,173
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186510 |title=Spain vs Netherlands {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186510/report.html |title=2014 FIFA World Cup Brazil – Matches – Spain v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223044026/http://www.fifa.com/worldcup/matches/round=255931/match=300186510/report.html |archive-date=23 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/24eb73d7f98b8425/original/cvc4xgoc0m96bocckyh2-pdf.pdf |title=Match report – Group B – Spain v Netherlands |publisher=[[FIFA]] |date=13 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413070317/https://digitalhub.fifa.com/m/24eb73d7f98b8425/original/cvc4xgoc0m96bocckyh2-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _spain14t
+ |pattern_b  = _esp14t
+ |pattern_ra = _spain14t
+ |pattern_sh = _spain14t
+ |pattern_so = _spain14t
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Spain<ref name="ESP-NED line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6db808238fe90516/original/i0hc8pikk1nzgjv37mvw-pdf.pdf |title=Tactical Line-up – Group B – Spain v Netherlands |publisher=[[FIFA]] |date=13 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522184256/https://digitalhub.fifa.com/m/6db808238fe90516/original/i0hc8pikk1nzgjv37mvw-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _netherlands2014a
+ |pattern_b  = _netherlands2014away
+ |pattern_ra = _netherlands2014a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 00005C
+ |body       = 00005C
+ |rightarm   = 00005C
+ |shorts     = 00005C
+ |socks      = 00005C
+ |title      = Netherlands<ref name="ESP-NED line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|RB ||'''22'''||[[César Azpilicueta]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]]
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|RM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''16'''||[[Sergio Busquets]]
+|-
+|LM ||'''14'''||[[Xabi Alonso]] || || {{suboff|62}}
+|-
+|RW ||'''21'''||[[David Silva]] || || {{suboff|78}}
+|-
+|LW ||'''6''' ||[[Andrés Iniesta]]
+|-
+|CF ||'''19'''||[[Diego Costa]] || || {{suboff|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Fernando Torres]] || || {{subon|62}}
+|-
+|FW ||'''11'''||[[Pedro (footballer, born July 1987)|Pedro]] || || {{subon|62}}
+|-
+|MF ||'''10'''||[[Cesc Fàbregas]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|valign="top"|[[File:ESP-NED 2014-06-13.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jasper Cillessen]]
+|-
+|CB||'''2''' ||[[Ron Vlaar]]
+|-
+|CB ||'''3''' ||[[Stefan de Vrij]] || {{yel|41}} || {{suboff|77}}
+|-
+|CB ||'''4''' ||[[Bruno Martins Indi]]
+|-
+|RWB||'''7''' ||[[Daryl Janmaat]]
+|-
+|LWB||'''5''' ||[[Daley Blind]]
+|-
+|CM ||'''8''' ||[[Jonathan de Guzmán]] || {{yel|25}} || {{suboff|62}}
+|-
+|CM ||'''6''' ||[[Nigel de Jong]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]]
+|-
+|CF ||'''9''' ||[[Robin van Persie]] ([[Captain (association football)|c]]) || {{yel|66}} || {{suboff|79}}
+|-
+|CF ||'''11'''||[[Arjen Robben]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Georginio Wijnaldum]] || || {{subon|62}}
+|-
+|DF ||'''13'''||[[Joël Veltman]] || || {{subon|77}}
+|-
+|FW ||'''17'''||[[Jeremain Lens]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Louis van Gaal]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Robin van Persie]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Renato Faverani ([[Italian Football Federation|Italy]])
+<br />Andrea Stefani ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Chile vs Australia===
+The two teams had met in five previous matches, including in the [[1974 FIFA World Cup]] group stage, a 0–0 draw.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=10 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=10 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+Chile took a 2–0 lead within the first 15 minutes. First, [[Alexis Sánchez]] controlled an [[Eduardo Vargas]] header in the penalty area to slot home. Two minutes later, [[Jorge Valdivia]]'s shot from a Sánchez pass doubled the lead. Australia pulled one back through a [[Tim Cahill]] header from a cross by [[Ivan Franjic]] before half time.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/14/australia-cahill-chile-world-cup-group-b|title=Australia's fighting spirit not enough as Alexis Sánchez fires up Chile|date=13 June 2014 |work=The Guardian|access-date=30 October 2014}}</ref> Australia could not find the equaliser in the second half, and in stoppage time, Chilean substitute [[Jean Beausejour]] converted the rebound after [[Mauricio Pinilla]]'s shot was saved by [[Mathew Ryan]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285050|title=Chile 3 Australia 1|work=BBC Sport|date=13 June 2014}}</ref>
+
+With their respective goals, Cahill became the first Australian player to score in three World Cups,<ref>{{cite news|url=http://www.smh.com.au/fifa-world-cup-2014/world-cup-match-report/world-cup-2014-battling-socceroos-take-chile-to-the-wire-20140614-zs7ri.html|title=World Cup 2014: Battling Socceroos take Chile to the wire|newspaper=The Sydney Morning Herald|date=14 June 2014}}</ref> while Beausejour became the first Chilean player to score in two World Cups.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=a-place-in-history-for-returning-beausejour-2370835.html|archive-url=https://web.archive.org/web/20140614064847/http://www.fifa.com//worldcup/news/y=2014/m=6/news=a-place-in-history-for-returning-beausejour-2370835.html|url-status=dead|archive-date=14 June 2014|title=A place in history for returning Beausejour|publisher=FIFA.com|date=14 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b2
+|date={{Start date|2014|6|13|df=y}}
+|time=18:00 [[Time in Brazil|AMT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|CHI}}
+|score={{score link|2014 FIFA World Cup Group B#Chile vs Australia|3–1}}
+|team2={{fb|AUS}}
+|goals1=
+*[[Alexis Sánchez|Sánchez]] {{goal|12}}
+*[[Jorge Valdivia|Valdivia]] {{goal|14}}
+*[[Jean Beausejour|Beausejour]] {{goal|90+2}}
+|goals2=
+*[[Tim Cahill|Cahill]] {{goal|35}}
+|stadium=[[Arena Pantanal]], [[Cuiabá]]
+|attendance=40,275
+|referee=[[Noumandiez Doué]] ([[Ivorian Football Federation|Ivory Coast]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186473 |title=Chile vs Australia {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186473/report.html |title=2014 FIFA World Cup Brazil – Matches – Chile v Australia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228030211/http://www.fifa.com/worldcup/matches/round=255931/match=300186473/report.html |archive-date=28 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/319d4c3ae38e4cda/original/ioedzjk7svzx8i9scgvp-pdf.pdf |title=Match report – Group B – Chile v Australia |publisher=[[FIFA]] |date=13 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060941/https://digitalhub.fifa.com/m/319d4c3ae38e4cda/original/ioedzjk7svzx8i9scgvp-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chile14h
+ |pattern_b  = _chile14h
+ |pattern_ra = _chile14h
+ |pattern_sh = _chile14h
+ |pattern_so = _chile14a
+ |leftarm    = ED1C24
+ |body       = ED1C24
+ |rightarm   = ED1C24
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Chile<ref name="CHI-AUS line-ups">{{cite web |url=https://digitalhub.fifa.com/m/508c6e6e4bed6897/original/uqnmkwhob9ltlct0ekvl-pdf.pdf |title=Tactical Line-up – Group B – Chile v Australia |publisher=[[FIFA]] |date=13 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181504/https://digitalhub.fifa.com/m/508c6e6e4bed6897/original/uqnmkwhob9ltlct0ekvl-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _aus14h
+ |pattern_b  = _aus14h
+ |pattern_ra = _aus14h
+ |pattern_sh = _aus14h
+ |pattern_so = 
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFBF00
+ |socks      = FFFFFF
+ |title      = Australia<ref name="CHI-AUS line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Mauricio Isla]]
+|-
+|CB ||'''17'''||[[Gary Medel]]
+|-
+|CB ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|-
+|LB ||'''2''' ||[[Eugenio Mena]]
+|-
+|RM ||'''20'''||[[Charles Aránguiz]] || {{yel|86}}
+|-
+|CM ||'''21'''||[[Marcelo Díaz]]
+|-
+|LM ||'''8''' ||[[Arturo Vidal]] || || {{suboff|60}}
+|-
+|RF ||'''7''' ||[[Alexis Sánchez]]
+|-
+|CF ||'''10'''||[[Jorge Valdivia]] || || {{suboff|68}}
+|-
+|LF ||'''11'''||[[Eduardo Vargas]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Felipe Gutiérrez]] || || {{subon|60}}
+|-
+|MF ||'''15'''||[[Jean Beausejour]] || || {{subon|68}}
+|-
+|FW ||'''9''' ||[[Mauricio Pinilla]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Jorge Sampaoli]]
+|}
+|valign="top"|[[File:CHI-AUS 2014-06-13.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mathew Ryan]]
+|-
+|RB ||'''2''' ||[[Ivan Franjic]] || || {{suboff|49}}
+|-
+|CB ||'''22'''||[[Alex Wilkinson]]
+|-
+|CB ||'''6''' ||[[Matthew Špiranović]]
+|-
+|LB ||'''3''' ||[[Jason Davidson]]
+|-
+|CM ||'''15'''||[[Mile Jedinak]] ([[Captain (association football)|c]]) || {{yel|58}}
+|-
+|CM ||'''5''' ||[[Mark Milligan]] || {{yel|67}}
+|-
+|RW ||'''7''' ||[[Mathew Leckie]]
+|-
+|AM ||'''23'''||[[Mark Bresciano]] || || {{suboff|78}}
+|-
+|LW ||'''11'''||[[Tommy Oar]] || || {{suboff|68}}
+|-
+|CF ||'''4''' ||[[Tim Cahill]] || {{yel|44}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''19'''||[[Ryan McGowan]] || || {{subon|49}}
+|-
+|MF ||'''10'''||[[Ben Halloran]] || || {{subon|68}}
+|-
+|MF ||'''14'''||[[James Troisi]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Ange Postecoglou]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Alexis Sánchez]] (Chile)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Songuifolo Yeo ([[Ivorian Football Federation|Ivory Coast]])
+<br />Jean-Claude Birumushahu ([[Football Federation of Burundi|Burundi]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Roberto Moreno ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Eric Boria ([[United States Soccer Federation|United States]])
+|}
+
+===Australia vs Netherlands===
+The two teams had met in three previous matches, all in friendlies, most recently in 2009.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=28 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=28 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+The Netherlands took the lead after [[Arjen Robben]] collected a [[Daley Blind]] headed pass at the halfway line, burst into the penalty area and scored with a low shot to the goalkeepers left. Soon after the restart, Australia equalised through [[Tim Cahill]]'s left-foot volley into the goal from the underside of the bar from [[Ryan McGowan]]'s cross.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/18/holland-australia-world-cup-2014-group-b-match-report|title=Holland come from behind to beat brave Australia in Group B classic|date=18 June 2014 |work=The Guardian|access-date=30 October 2014}}</ref> Australia took the lead in the second half with [[Mile Jedinak]]'s penalty, awarded for a handball by [[Daryl Janmaat]], but [[Robin van Persie]] equalised after he received substitute [[Memphis Depay]]'s pass and scored. Ten minutes later, Memphis Depay received a pass from [[Jonathan de Guzmán]] and his long-range effort beat Australia goalkeeper [[Mathew Ryan]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285148|title=Australia 2 Netherlands 3|work=BBC Sport|date=18 June 2014}}</ref>
+
+At the age of 20, Depay's goal made him the Netherlands' youngest scorer at World Cups.<ref>{{Cite news|url=http://sunnewsonline.com/new/?p=68607 |location=Lagos, Nigeria|title=Eagles down, but not out -Ameobi |date=20 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140714120629/http://sunnewsonline.com/new/?p=68607 |archive-date=14 July 2014 |newspaper=[[The Sun (Nigeria)|The Sun]]}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b3
+|date={{Start date|2014|6|18|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|AUS}}
+|score={{score link|2014 FIFA World Cup Group B#Australia vs Netherlands|2–3}}
+|team2={{fb|NED}}
+|goals1=
+*[[Tim Cahill|Cahill]] {{goal|21}}
+*[[Mile Jedinak|Jedinak]] {{goal|54|pen.}}
+|goals2=
+*[[Arjen Robben|Robben]] {{goal|20}}
+*[[Robin van Persie|Van Persie]] {{goal|58}}
+*[[Memphis Depay|Depay]] {{goal|68}}
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=42,877
+|referee=[[Djamel Haimoudi]] ([[Algerian Football Federation|Algeria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186478 |title=Australia vs Netherlands {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186478/report.html |title=2014 FIFA World Cup Brazil – Matches – Australia v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209234442/http://www.fifa.com/worldcup/matches/round=255931/match=300186478/report.html |archive-date=9 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/60e6cc933058ba95/original/ey0t6csd4z2ce728l9fe-pdf.pdf |title=Match report – Group B – Australia v Netherlands |publisher=[[FIFA]] |date=18 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061423/https://digitalhub.fifa.com/m/60e6cc933058ba95/original/ey0t6csd4z2ce728l9fe-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _aus14h
+ |pattern_b  = _aus14h
+ |pattern_ra = _aus14h
+ |pattern_sh = _aus14h
+ |pattern_so = 
+ |leftarm    = FFBB00
+ |body       = FFBB00
+ |rightarm   = FFBB00
+ |shorts     = 004044
+ |socks      = FFFFFF
+ |title      = Australia<ref name="AUS-NED line-ups">{{cite web |url=https://digitalhub.fifa.com/m/5811d48eca059752/original/zxujx6zlfamgfm6spiqg-pdf.pdf |title=Tactical Line-up – Group B – Australia v Netherlands |publisher=[[FIFA]] |date=18 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173553/https://digitalhub.fifa.com/m/5811d48eca059752/original/zxujx6zlfamgfm6spiqg-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _netherlands2014a
+ |pattern_b  = _netherlands2014away
+ |pattern_ra = _netherlands2014a
+ |pattern_sh = _netherlands2014a
+ |pattern_so = _netherlands2014a
+ |leftarm    = 00005C
+ |body       = 00005C
+ |rightarm   = 00005C
+ |shorts     = 00005C
+ |socks      = 00005C
+ |title      = Netherlands<ref name="AUS-NED line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mathew Ryan]]
+|-
+|RB ||'''19'''||[[Ryan McGowan]]
+|-
+|CB ||'''22'''||[[Alex Wilkinson]]
+|-
+|CB ||'''6''' ||[[Matthew Špiranović]]
+|-
+|LB ||'''3''' ||[[Jason Davidson]]
+|-
+|CM ||'''15'''||[[Mile Jedinak]] ([[Captain (association football)|c]])
+|-
+|CM ||'''17'''||[[Matt McKay]]
+|-
+|RW ||'''7''' ||[[Mathew Leckie]]
+|-
+|AM ||'''23'''||[[Mark Bresciano]] || || {{suboff|51}}
+|-
+|LW ||'''11'''||[[Tommy Oar]] || || {{suboff|77}}
+|-
+|CF ||'''4''' ||[[Tim Cahill]] || {{yel|43}} || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Oliver Bozanić]] || || {{subon|51}}
+|-
+|MF ||'''10'''||[[Ben Halloran]] || || {{subon|69}}
+|-
+|FW ||'''9''' ||[[Adam Taggart]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Ange Postecoglou]]
+|}
+|valign="top"|[[File:AUS-NED 2014-06-18.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jasper Cillessen]]
+|-
+|CB ||'''2''' ||[[Ron Vlaar]]
+|-
+|CB ||'''3''' ||[[Stefan de Vrij]]
+|-
+|CB ||'''4''' ||[[Bruno Martins Indi]] || || {{suboff|45+3}}
+|-
+|RWB ||'''7''' ||[[Daryl Janmaat]]
+|-
+|LWB ||'''5''' ||[[Daley Blind]]
+|-
+|CM ||'''8''' ||[[Jonathan de Guzmán]] || || {{suboff|78}}
+|-
+|CM ||'''6''' ||[[Nigel de Jong]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]]
+|-
+|CF ||'''9''' ||[[Robin van Persie]] ([[Captain (association football)|c]]) || {{yel|47}} || {{suboff|87}}
+|-
+|CF ||'''11'''||[[Arjen Robben]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Memphis Depay]] || || {{subon|45+3}}
+|-
+|MF ||'''20'''||[[Georginio Wijnaldum]] || || {{subon|78}}
+|-
+|FW ||'''17'''||[[Jeremain Lens]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Louis van Gaal]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Arjen Robben]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Rédouane Achik ([[Royal Moroccan Football Federation|Morocco]])
+<br />Abdelhak Etchiali ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Bakary Gassama]] ([[Gambia Football Association|Gambia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Evarist Menkouande ([[Cameroonian Football Federation|Cameroon]])
+|}
+
+===Spain vs Chile===
+The two teams had met in ten previous matches, including twice in the FIFA World Cup group stage, both won by Spain ([[1950 FIFA World Cup|1950]]: 2–0; [[2010 FIFA World Cup|2010]]: [[2010 FIFA World Cup Group H#Chile vs Spain|2–1]]).<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=27 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=27 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref>
+
+Chile opened the scoring when [[Charles Aránguiz]] squared a pass to [[Eduardo Vargas]] to score home in the penalty area. Near the end of the first half [[Alexis Sánchez]]'s free kick was parried by Spanish goalkeeper [[Iker Casillas]] to Aránguiz who put in the rebound.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/18/spain-chile-world-cup-group-b|title=Spain crash out as irresistible Chile prove too much of a handful|date=18 June 2014 |work=The Guardian|access-date=30 October 2014}}</ref> Spain, which needed at least a point to stay alive in the competition, had its best chance in the second half which fell to [[Sergio Busquets]], but he missed from close range.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285155|title=Spain 0 Chile 2|work=BBC Sport|date=18 June 2014}}</ref> Spain's loss confirmed the qualification of both Chile and the Netherlands into the knockout stage, and eliminated both Spain and Australia.
+
+Spain became the fifth defending champions to be knocked out in the group stage.<ref>{{cite news |last1=Ornstein |first1=David |title=World Cup 2014: Spain's stunning demise signals the end |url=https://www.bbc.com/sport/football/27916175 |access-date=9 September 2020 |work=BBC Sport |date=19 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b4
+|date={{Start date|2014|6|18|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])<!--Kick-off time adjusted by FIFA: https://www.fifa.com/worldcup/news/newsid=2240950/index.html-->
+|team1={{fb-rt|ESP}}
+|score={{score link|2014 FIFA World Cup Group B#Spain vs Chile|0–2}}
+|team2={{fb|CHI}}
+|goals1=
+|goals2=
+*[[Eduardo Vargas|Vargas]] {{goal|20}}
+*[[Charles Aránguiz|Aránguiz]] {{goal|43}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=74,101
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186498 |title=Spain vs Chile {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186498/report.html |title=2014 FIFA World Cup Brazil – Matches – Spain v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161126192235/http://www.fifa.com/worldcup/matches/round=255931/match=300186498/report.html |archive-date=26 November 2016}} | {{cite web |url=https://digitalhub.fifa.com/m/51154a43300efbe4/original/gggvv7kezqvmi7ravpkv-pdf.pdf |title=Match report – Group B – Spain v Chile |publisher=[[FIFA]] |date=18 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061426/https://digitalhub.fifa.com/m/51154a43300efbe4/original/gggvv7kezqvmi7ravpkv-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _spain14h
+ |pattern_b  = _esp14H
+ |pattern_ra = _spain14h
+ |pattern_sh = _spain14h
+ |pattern_so = _spain14h
+ |leftarm    = E3000B
+ |body       = E3000B
+ |rightarm   = E3000B
+ |shorts     = E3000B
+ |socks      = E3000B
+ |title      = Spain<ref name="ESP-CHI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2400e18837e48864/original/fqflcyco9qgrvhakgaab-pdf.pdf |title=Tactical Line-up – Group B – Spain v Chile |publisher=[[FIFA]] |date=18 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173515/https://digitalhub.fifa.com/m/2400e18837e48864/original/fqflcyco9qgrvhakgaab-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _chile14a
+ |pattern_b  = _chile14a
+ |pattern_ra = _chile14a
+ |pattern_sh = _chile14a
+ |pattern_so = _chile14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Chile<ref name="ESP-CHI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''22'''||[[César Azpilicueta]]
+|-
+|CB ||'''4''' ||[[Javi Martínez]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]]
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|CM ||'''16'''||[[Sergio Busquets]]
+|-
+|CM ||'''14'''||[[Xabi Alonso]] || {{yel|41}} || {{suboff|46}}
+|-
+|RW ||'''21'''||[[David Silva]]
+|-
+|AM ||'''6''' ||[[Andrés Iniesta]]
+|-
+|LW ||'''11'''||[[Pedro (footballer, born July 1987)|Pedro]] || || {{suboff|76}}
+|-
+|CF ||'''19'''||[[Diego Costa]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Koke (footballer, born 1992)|Koke]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Fernando Torres]] || || {{subon|64}}
+|-
+|MF ||'''20'''||[[Santi Cazorla]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|valign="top"|[[File:ESP-CHI 2014-06-18.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''17'''||[[Gary Medel]]
+|-
+|CB ||'''5''' ||[[Francisco Silva (footballer, born 1986)|Francisco Silva]]
+|-
+|CB ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|-
+|RM ||'''4''' ||[[Mauricio Isla]]
+|-
+|CM ||'''20'''||[[Charles Aránguiz]] || || {{suboff|64}}
+|-
+|CM ||'''21'''||[[Marcelo Díaz]]
+|-
+|LM ||'''2''' ||[[Eugenio Mena]] || {{yel|61}}
+|-
+|AM ||'''8''' ||[[Arturo Vidal]] || {{yel|26}} || {{suboff|88}}
+|-
+|CF ||'''11'''||[[Eduardo Vargas]] || || {{suboff|85}}
+|-
+|CF ||'''7''' ||[[Alexis Sánchez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Felipe Gutiérrez]] || || {{subon|64}}
+|-
+|MF ||'''10'''||[[Jorge Valdivia]] || || {{subon|85}}
+|-
+|MF ||'''6''' ||[[Carlos Carmona]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Jorge Sampaoli]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Eduardo Vargas]] (Chile)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Sean Hurd ([[United States Soccer Federation|United States]])
+<br />Joe Fletcher ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Yaser Tulefat ([[Bahrain Football Association|Bahrain]])
+|}
+
+===Australia vs Spain===
+The two teams had never met before.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=40 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=40 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> Australia forward [[Tim Cahill]] was suspended for the match due to accumulation of yellow cards.<ref name="Cahill-van Persie suspensions">{{cite web|url=http://www.espnfc.com/fifa-world-cup/story/1891504/robin-van-persie-and-tim-cahill-earn-suspensions |title=Van Persie and Cahill earn suspensions |publisher=[[ESPN FC]] |date=18 June 2014 |access-date=18 June 2014}}</ref>
+
+In a match between two already-eliminated teams, Spain went in front in the 36th minute after [[Andrés Iniesta]] threaded a pass down the right to overlapping full-back [[Juanfran (footballer, born 1985)|Juanfran]], who then crossed the ball low to [[David Villa]] to finish with a back flick of his right foot low to the net.<ref>{{cite web |url=https://www.theguardian.com/football/2014/jun/23/australia-spain-world-cup-2014-group-b-match-report |title=David Villa helps Spain salvage some pride with victory over Australia |date=23 June 2014 |work=The Guardian |access-date=24 June 2014 }}</ref> In the second half, [[Fernando Torres]] scored Spain's second with a low finish from the left of the penalty area after a pass from Iniesta, before substitute [[Juan Mata]], receiving a pass from [[Cesc Fàbregas]], scored from the right of the penalty area with a low shot between the goalkeeper's legs.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/25285263 |title=Australia 0 Spain 3 |date=23 June 2014 |work=BBC Sport |access-date=24 June 2014 }}</ref>
+
+Villa's goal was his ninth career World Cup goal. Already Spain's record World Cup goalscorer, he also joined [[Fernando Hierro]], [[Raúl (footballer)|Raúl]] and [[Julio Salinas]] as Spanish players who had scored in three World Cups.<ref>{{cite web|url=https://es.eurosport.yahoo.com/noticias/david-villa-se-despide-marcando-160548746--sow.html|title=David Villa se despide marcando|language=es|publisher=Yahoo! Deportes|date=24 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b5
+|date={{Start date|2014|6|23|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|AUS}}
+|score={{score link|2014 FIFA World Cup Group B#Australia vs Spain|0–3}}
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+*[[David Villa|Villa]] {{goal|36}}
+*[[Fernando Torres|Torres]] {{goal|69}}
+*[[Juan Mata|Mata]] {{goal|82}}
+|stadium=[[Arena da Baixada]], [[Curitiba]]
+|attendance=39,375
+|referee=[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186467 |title=Australia vs Spain {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186467/report.html |title=2014 FIFA World Cup Brazil – Matches – Australia v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709053305/http://www.fifa.com/worldcup/matches/round=255931/match=300186467/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6155c2e45fe2b53e/original/ajoe1wiwa4ljskndk6wx-pdf.pdf |title=Match report – Group B – Australia v Spain |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061750/https://digitalhub.fifa.com/m/6155c2e45fe2b53e/original/ajoe1wiwa4ljskndk6wx-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _aus14h
+ |pattern_b  = _aus14h
+ |pattern_ra = _aus14h
+ |pattern_sh = _aus14h
+ |pattern_so = 
+ |leftarm    = FFBB00
+ |body       = FFBB00
+ |rightarm   = FFBB00
+ |shorts     = 004044
+ |socks      = FFFFFF
+ |title      = Australia<ref name="AUS-ESP line-ups">{{cite web |url=https://digitalhub.fifa.com/m/139fcd9a03737a7b/original/fe44jsjnihy6n42ebsdk-pdf.pdf |title=Tactical Line-up – Group B – Australia v Spain |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174019/https://digitalhub.fifa.com/m/139fcd9a03737a7b/original/fe44jsjnihy6n42ebsdk-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esp14a
+ |pattern_b  = _esp14A
+ |pattern_ra = _esp14a
+ |pattern_sh = _esp14a
+ |pattern_so = _spain1415away
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Spain<ref name="AUS-ESP line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mathew Ryan]]
+|-
+|RB ||'''19'''||[[Ryan McGowan]]
+|-
+|CB ||'''6''' ||[[Matthew Špiranović]] || {{yel|88}}
+|-
+|CB ||'''22'''||[[Alex Wilkinson]]
+|-
+|LB ||'''3''' ||[[Jason Davidson]]
+|-
+|CM ||'''17'''||[[Matt McKay]]
+|-
+|CM ||'''15'''||[[Mile Jedinak]] ([[Captain (association football)|c]]) || {{yel|90+2}}
+|-
+|CM ||'''13'''||[[Oliver Bozanić]] || || {{suboff|72}}
+|-
+|RW ||'''7''' ||[[Mathew Leckie]]
+|-
+|CF ||'''9''' ||[[Adam Taggart]] || || {{suboff|46}}
+|-
+|LW ||'''11'''||[[Tommy Oar]] || || {{suboff|61}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Ben Halloran]] || || {{subon|46}}
+|-
+|MF ||'''14'''||[[James Troisi]] || || {{subon|61}}
+|-
+|MF ||'''23'''||[[Mark Bresciano]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Ange Postecoglou]]
+|}
+|valign="top"|[[File:AUS-ESP 2014-06-23.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Pepe Reina]]
+|-
+|RB ||'''5''' ||[[Juanfran (footballer, born 1985)|Juanfran]]
+|-
+|CB ||'''2''' ||[[Raúl Albiol]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]] ([[Captain (association football)|c]]) || {{yel|62}}
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|CM ||'''14'''||[[Xabi Alonso]] || || {{suboff|83}}
+|-
+|CM ||'''17'''||[[Koke (footballer, born 1992)|Koke]]
+|-
+|AM ||'''6''' ||[[Andrés Iniesta]]
+|-
+|RW ||'''20'''||[[Santi Cazorla]] || || {{suboff|68}}
+|-
+|LW ||'''7''' ||[[David Villa]] || || {{suboff|56}}
+|-
+|CF ||'''9''' ||[[Fernando Torres]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Juan Mata]] || || {{subon|56}}
+|-
+|MF ||'''10'''||[[Cesc Fàbregas]] || || {{subon|68}}
+|-
+|MF ||'''21'''||[[David Silva]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[David Villa]] (Spain)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Yaser Tulefat ([[Bahrain Football Association|Bahrain]])
+<br />Ebrahim Saleh ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Aden Marwa ([[Football Kenya Federation|Kenya]])
+|}
+
+===Netherlands vs Chile===
+The two teams had never met before.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=41 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=41 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> Netherlands forward [[Robin van Persie]] was suspended for the match due to accumulation of yellow cards.<ref name="Cahill-van Persie suspensions"/>
+
+With both teams already assured of qualifying for the knockout stage after their first two matches, this match would decide which team would win the group: the Netherlands needed only a draw while Chile needed a win. The Netherlands went in front in the 77th minute with a header from six yards by substitute [[Leroy Fer]] after a [[Daryl Janmaat]] cross from the right. Another substitute [[Memphis Depay]] got the second in injury time, when he scored from close range after [[Arjen Robben]] had made a run down the left before crossing from the byline.<ref>{{cite web |url=https://www.theguardian.com/football/2014/jun/23/holland-chile-world-cup-2014-group-b-match-report |title=Holland top Group B after Leroy Fer header helps break Chile's resolve |date=23 June 2014 |work=The Guardian |access-date=24 June 2014 }}</ref> With this win the Netherlands won Group B with a perfect record of three wins out of three, while Chile finished as group runners-up.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/25285270 |title=Netherlands 2 Chile 0 |date=23 June 2014 |work=BBC Sport |access-date=24 June 2014 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b6
+|date={{Start date|2014|6|23|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|NED}}
+|score={{score link|2014 FIFA World Cup Group B#Netherlands vs Chile|2–0}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Leroy Fer|Fer]] {{goal|77}}
+*[[Memphis Depay|Depay]] {{goal|90+2}}
+|goals2=
+|stadium=[[Arena Corinthians|Arena de São Paulo]], [[São Paulo]]
+|attendance=62,996
+|referee=[[Bakary Gassama]] ([[Gambia Football Association|Gambia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186470 |title=Netherlands vs Chile {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186470/report.html |title=2014 FIFA World Cup Brazil – Matches – Netherlands v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170805222050/http://www.fifa.com/worldcup/matches/round=255931/match=300186470/report.html |archive-date=5 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6bed93f69b1b6cc8/original/dikvjr7fkczw1wswbwkv-pdf.pdf |title=Match report – Group B – Netherlands v Chile |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061737/https://digitalhub.fifa.com/m/6bed93f69b1b6cc8/original/dikvjr7fkczw1wswbwkv-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _netherlands2014h
+ |pattern_b  = _netherlands2014home
+ |pattern_ra = _netherlands2014h
+ |pattern_sh = _netherlands2014h
+ |pattern_so = _netherlands2014h
+ |leftarm    = FF6600
+ |body       = FF6600
+ |rightarm   = FF6600
+ |shorts     = FF6600
+ |socks      = FF6600
+ |title      = Netherlands<ref name="NED-CHI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/582ef3843c60f80/original/assv7rslt56dmzw0ub4o-pdf.pdf |title=Tactical Line-up – Group B – Netherlands v Chile |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174030/https://digitalhub.fifa.com/m/582ef3843c60f80/original/assv7rslt56dmzw0ub4o-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _chile14a
+ |pattern_b  = _chile14a
+ |pattern_ra = _chile14a
+ |pattern_sh = _chile14a
+ |pattern_so = _chile14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Chile<ref name="NED-CHI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jasper Cillessen]]
+|-
+|RB ||'''7''' ||[[Daryl Janmaat]]
+|-
+|CB ||'''2''' ||[[Ron Vlaar]]
+|-
+|CB ||'''3''' ||[[Stefan de Vrij]]
+|-
+|LB ||'''5''' ||[[Daley Blind]] || {{yel|64}}
+|-
+|RM ||'''20'''||[[Georginio Wijnaldum]]
+|-
+|CM ||'''6''' ||[[Nigel de Jong]]
+|-
+|LM ||'''15'''||[[Dirk Kuyt]] || || {{suboff|89}}
+|-
+|AM ||'''10'''||[[Wesley Sneijder]] || || {{suboff|75}}
+|-
+|SS ||'''11'''||[[Arjen Robben]] ([[Captain (association football)|c]])
+|-
+|CF ||'''17'''||[[Jeremain Lens]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Memphis Depay]] || || {{subon|69}}
+|-
+|MF ||'''18'''||[[Leroy Fer]] || || {{subon|75}}
+|-
+|DF ||'''14'''||[[Terence Kongolo]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Louis van Gaal]]
+|}
+|valign="top"|[[File:NED-CHI 2014-06-23.svg|300px]]
+|valign="top" width="50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''17'''||[[Gary Medel]]
+|-
+|CB ||'''5''' ||[[Francisco Silva (footballer, born 1986)|Francisco Silva]] || {{yel|25}} || {{suboff|70}}
+|-
+|CB ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|-
+|RWB ||'''4'''||[[Mauricio Isla]]
+|-
+|LWB ||'''2'''||[[Eugenio Mena]]
+|-
+|CM ||'''20'''||[[Charles Aránguiz]]
+|-
+|CM ||'''21'''||[[Marcelo Díaz]]
+|-
+|AM ||'''16'''||[[Felipe Gutiérrez]] || || {{suboff|46}}
+|-
+|CF ||'''7'''||[[Alexis Sánchez]]
+|-
+|CF ||'''11'''||[[Eduardo Vargas]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Jean Beausejour]] || || {{subon|46}}
+|-
+|MF ||'''10'''||[[Jorge Valdivia]] || || {{subon|70}}
+|-
+|FW ||'''9''' ||[[Mauricio Pinilla]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Jorge Sampaoli]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Arjen Robben]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Evarist Menkouande ([[Cameroonian Football Federation|Cameroon]])
+<br />Felicien Kabanda ([[Rwandese Association Football Federation|Rwanda]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />William Torres ([[Salvadoran Football Federation|El Salvador]])
+|}
+
+==See also==
+*[[Australia at the FIFA World Cup]]
+*[[Chile at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20140413192322/http://www.fifa.com/worldcup/groups/group=255935/index.html 2014 FIFA World Cup Group B], FIFA.com
+
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:2014 FIFA World Cup group stage|B]]
+[[Category:Spain at the 2014 FIFA World Cup|Group]]
+[[Category:Netherlands at the 2014 FIFA World Cup|Group]]
+[[Category:Chile at the 2014 FIFA World Cup]]
+[[Category:Australia at the 2014 FIFA World Cup]]
+[[Category:Sport in Salvador, Bahia]]
+[[Category:Football in Bahia]]
+[[Category:Cuiabá]]
+[[Category:Football in Mato Grosso]]
+[[Category:Football competitions in Porto Alegre]]
+[[Category:21st century in Porto Alegre]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in Rio de Janeiro (city)]]
+[[Category:2014 in Rio de Janeiro (city)]]
+[[Category:Sport in Curitiba]]
+[[Category:Football in Paraná (state)]]
+[[Category:21st century in Curitiba]]
+[[Category:International sports competitions in São Paulo]]
+[[Category:Football competitions in São Paulo (city)]]
+[[Category:2010s in São Paulo]]

@@ -1,0 +1,731 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 4 of the [[1962 FIFA World Cup]]''' took place from 30 May to 7 June 1962. The group consisted of [[Argentina national football team|Argentina]], [[Bulgaria national football team|Bulgaria]], [[England national football team|England]], and [[Hungary national football team|Hungary]].<ref name="RSSSF"/>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150403174623/http://www.fifa.com/worldcup/archive/chile1962/groups/index.html FIFA]
+
+|team1=HUN |team2=ENG |team3=ARG |team4=BUL
+|result1=A |result2=A
+
+|win_HUN=2 |draw_HUN=1 |loss_HUN=0 |gf_HUN=8 |ga_HUN=2
+|win_ENG=1 |draw_ENG=1 |loss_ENG=1 |gf_ENG=4 |ga_ENG=3
+|win_ARG=1 |draw_ARG=1 |loss_ARG=1 |gf_ARG=2 |ga_ARG=3
+|win_BUL=0 |draw_BUL=1 |loss_BUL=2 |gf_BUL=1 |ga_BUL=7
+
+|hth_ENG=England finished ahead of Argentina on [[goal average]].
+|hth_ARG=ENG
+
+|name_ENG={{fb|ENG}}
+|name_BUL={{fb|BUL|1948}}
+|name_ARG={{fb|ARG|1861}}
+|name_HUN={{fb|HUN}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1962 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Argentina vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1962|5|30|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1962 FIFA World Cup Group 4#Argentina vs Bulgaria|1–0}}
+|team2={{fb|BUL|1948}}
+|goals1=
+*[[Héctor Facundo|Facundo]] {{goal|4}}
+|goals2=
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=7,134
+|referee=[[Juan Gardeazábal|Juan Gardeazábal Garay]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1447 |title=Argentina vs Bulgaria {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1447/index.html |title=1962 FIFA World Cup Chile – Matches – Argentina v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226182404/http://www.fifa.com/worldcup/matches/round=231/match=1447/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _arg3757h
+ | pattern_b  = _arg6265h
+ | pattern_ra = _arg3757h
+ | pattern_sh =
+ | pattern_so = 
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 000000
+ | socks      = 999999
+ | title      = Argentina
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= 
+|pattern_b= 
+|pattern_ra= 
+|pattern_sh= 
+|pattern_so= 
+|leftarm= ff0000
+|body= ff0000
+|rightarm= ff0000
+|shorts= ffffff
+|socks= ffffff
+| title   = Bulgaria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Antonio Roma]]
+|-
+| RB ||'''4'''|| [[Alberto Sainz]]
+|-
+| CB ||'''15'''|| [[Rubén Marino Navarro|Rubén Navarro]]
+|-
+| CB ||'''6'''|| [[Raúl Páez]]
+|-
+| LB ||'''3'''|| [[Silvio Marzolini]]
+|-
+| MF || '''13''' || [[Oscar Rossi]]
+|-
+| MF ||'''5'''|| [[Federico Sacchi]]
+|-
+| OR ||'''7'''|| [[Héctor Facundo]]
+|-
+| IR ||'''9'''|| [[Marcelo Pagani]]
+|-
+| IL ||'''10'''|| [[José Sanfilippo]]
+|-
+| OL ||'''11'''|| [[Raúl Belén]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Juan Carlos Lorenzo]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Georgi Naydenov (footballer, born 1931)|Georgi Naydenov]]
+|-
+| RB ||'''2'''|| [[Kiril Rakarov]]
+|-
+| CB ||'''3'''|| [[Ivan Dimitrov (footballer)|Ivan Dimitrov]]
+|-
+| LB ||'''4'''|| [[Stoyan Kitov]]
+|-
+| MF ||'''5'''|| [[Dimitar Kostov]]
+|-
+| MF ||'''6'''|| [[Nikola Kovachev]]
+|-
+| OR ||'''7'''|| [[Todor Diev]]
+|-
+| IR ||'''13'''|| [[Petar Velichkov]]
+|-
+| CF ||'''9'''||  [[Hristo Iliev (footballer)|Hristo Iliev]]
+|-
+| IL ||'''11'''|| [[Dimitar Yakimov]]
+|-
+| OL ||'''10'''|| [[Ivan Kolev (footballer, born 1930)|Ivan Kolev]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Georgi Pachedzhiev]]
+|}
+{{col-end}}
+
+===Hungary vs England===
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1962|5|31|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|HUN}}
+|score={{score link|1962 FIFA World Cup Group 4#Hungary vs England|2–1}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Lajos Tichy|Tichy]] {{goal|17}}
+*[[Flórián Albert|Albert]] {{goal|71}}
+|goals2=
+*[[Ron Flowers|Flowers]] {{goal|60|pen.}}
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=7,938
+|referee=[[Leo Horn]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1490 |title=Hungary vs England {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1490/index.html |title=1962 FIFA World Cup Chile – Matches – Hungary v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170907140450/http://www.fifa.com/worldcup/matches/round=231/match=1490/index.html |archive-date=7 September 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _hun_1949_1956_home
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = CE1126
+| body                 = CE1126
+| rightarm              = CE1126
+| shorts               = ffffff
+| socks                 = 008751
+ | title           = Hungary
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _eng66h
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = 
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 000066
+ | socks      = ffffff
+ | title      = England
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1 '''|| [[Gyula Grosics]]
+|-
+| DF ||'''2'''|| [[Sándor Mátrai]]
+|-
+| DF ||'''3'''|| [[Kálmán Mészöly]]
+|-
+| DF ||'''4'''|| [[László Sárosi (footballer)|László Sárosi]]
+|-
+| DF ||'''5'''|| [[Ernő Solymosi]]
+|-
+| MF ||'''6'''|| [[Ferenc Sipos]]
+|-
+| MF ||'''7'''|| [[Károly Sándor]]
+|-
+| FW ||'''9'''|| [[Flórián Albert, Sr.|Flórián Albert]]
+|-
+| FW ||''' 10'''|| [[Lajos Tichy]]
+|-
+| FW ||'''17'''|| [[Gyula Rákosi]]
+|-
+| FW ||'''18'''|| [[Tivadar Monostori]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|  {{flagicon|HUN}} [[Lajos Baróti]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Ron Springett]]
+|-
+| DF ||''' 2'''|| [[Jimmy Armfield]]
+|-
+| DF ||''' 3'''|| [[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+| DF ||'''15 '''|| [[Maurice Norman]]
+|-
+| DF ||'''16'''|| [[Bobby Moore]]
+|-
+| MF ||'''6'''|| [[Ron Flowers]]
+|-
+| FW ||'''8'''|| [[Jimmy Greaves]] 
+|-
+| FW ||'''9'''|| [[Gerry Hitchens]]
+|-
+| FW ||'''10'''|| [[Johnny Haynes]]
+|-
+| FW ||'''11'''|| [[Bobby Charlton]]
+|-
+| FW ||'''17'''|| [[Bryan Douglas]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Walter Winterbottom]]
+|}
+{{col-end}}
+
+===England vs Argentina===
+{{see also|Argentina–England football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1962|6|2|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|ENG}}
+|score={{score link|1962 FIFA World Cup Group 4#England vs Argentina|3–1}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Ron Flowers|Flowers]] {{goal|17|pen.}}
+*[[Bobby Charlton|Charlton]] {{goal|42}}
+*[[Jimmy Greaves|Greaves]] {{goal|67}}
+|goals2=
+*[[José Sanfilippo|Sanfilippo]] {{goal|81}}
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=9,794
+|referee=[[Nikolay Latyshev]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1450 |title=England vs Argentina {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1450/index.html |title=1962 FIFA World Cup Chile – Matches – England v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170503135758/http://www.fifa.com/worldcup/matches/round=231/match=1450/index.html |archive-date=3 May 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _eng66h
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = 
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = England
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollar
+ | pattern_ra = _whiteborder
+ | pattern_sh =
+ | pattern_so = 
+ | leftarm    = 000099
+ | body       = 000099
+ | rightarm   = 000099
+ | shorts     = 000000
+ | socks      = 999999
+ | title      = Argentina
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Ron Springett]]
+|-
+| RB ||'''2'''|| [[Jimmy Armfield]]
+|-
+| LB ||'''3'''|| [[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+| RH ||'''16'''|| [[Bobby Moore]]
+|-
+| CH ||'''15'''|| [[Maurice Norman]]
+|-
+| LH || '''6''' || [[Ron Flowers]]
+|-
+| OR ||'''17'''|| [[Bryan Douglas]]
+|-
+| IR ||'''8'''|| [[Jimmy Greaves]]
+|-
+| CF ||'''19'''|| [[Alan Peacock]]
+|-
+| IL ||'''10'''|| [[Johnny Haynes]]
+|-
+| OL ||'''11'''|| [[Bobby Charlton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Walter Winterbottom]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Antonio Roma]]
+|-
+| RB ||'''18'''|| [[Vladislao Cap]]
+|-
+| CB ||'''15'''|| [[Rubén Marino Navarro|Rubén Navarro]]
+|-
+| CB ||'''6'''|| [[Raúl Páez]]
+|-
+| LB ||'''3'''|| [[Silvio Marzolini]]
+|-
+| MF ||'''5'''|| [[Federico Sacchi]]
+|-
+| MF || '''16''' || [[Antonio Rattín]]
+|-
+| OR ||'''20'''|| [[Juan Carlos Oleniak]]
+|-
+| IR ||'''19'''|| [[Rubén Héctor Sosa|Rubén H. Sosa]]
+|-
+| IL ||'''10'''|| [[José Sanfilippo]]
+|-
+| OL ||'''11'''|| [[Raúl Belén]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| [[Juan Carlos Lorenzo]]
+|}
+{{col-end}}
+
+===Hungary vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1962|6|3|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|HUN}}
+|score={{score link|1962 FIFA World Cup Group 4#Hungary vs Bulgaria|6–1}}
+|team2={{fb|BUL|1948}}
+|goals1=
+*[[Flórián Albert|Albert]] {{goal|1||6||53}}
+*[[Lajos Tichy|Tichy]] {{goal|8||70}}
+*[[Ernő Solymosi|Solymosi]] {{goal|12}}
+|goals2=
+*[[Georgi Sokolov|Sokolov]] {{goal|64}}{{efn|RSSSF credits this goal to [[Georgi Asparuhov]].<ref name="RSSSF">{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/62f.html |title=World Cup 1962 (Chile, May 30 – June 17) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>}}
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=7,442
+|referee=[[Juan Gardeazábal|Juan Gardeazábal Garay]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1470 |title=Hungary vs Bulgaria {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1470/index.html |title=1962 FIFA World Cup Chile – Matches – Hungary v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226182201/http://www.fifa.com/worldcup/matches/round=231/match=1470/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _hun_1949_1956_home
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = CE1126
+| body                 = CE1126
+| rightarm              = CE1126
+| shorts               = ffffff
+| socks                 = 008751
+ | title           = Hungary
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _vneckwhite
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             = ffffff
+| socks              = ffffff
+|title            = Bulgaria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''22 '''|| [[István Ilku]]
+|-
+| DF ||'''2'''|| [[Sándor Mátrai]]
+|-
+| DF ||'''3'''|| [[Kálmán Mészöly]]
+|-
+| DF ||'''4'''|| [[László Sárosi (footballer)|László Sárosi]]
+|-
+| DF ||'''5'''|| [[Ernő Solymosi]]
+|-
+| MF ||'''6'''|| [[Ferenc Sipos]]
+|-
+| MF ||'''8'''|| [[János Göröcs]]
+|-
+| FW ||'''7'''|| [[Károly Sándor]]
+|-
+| FW ||'''9'''|| [[Flórián Albert]]
+|-
+| FW ||''' 10'''|| [[Lajos Tichy]]
+|-
+| FW ||'''11'''|| [[Máté Fenyvesi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|  {{flagicon|HUN}} [[Lajos Baróti]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Georgi Naydenov (footballer, born 1936)|Georgi Naydenov]]
+|-
+| DF ||'''2'''|| [[Kiril Rakarov]]
+|-
+| DF ||'''3'''|| [[Ivan Dimitrov (footballer)|Ivan Dimitrov]]
+|-
+| DF ||'''4'''|| [[Stoyan Kitov]]
+|-
+| DF ||'''5'''|| [[Dimitar Kostov]]
+|-
+| MF ||'''6'''|| [[Nikola Kovachev]]
+|-
+| FW || '''14''' || [[Georgi Sokolov]]
+|-
+| FW ||'''13'''|| [[Petar Velichkov]]
+|-
+| FW ||'''15'''|| [[Georgi Asparuhov]]
+|-
+| FW ||'''19'''|| [[Dinko Dermendzhiev]]
+|-
+| FW ||'''10'''|| [[Ivan Kolev (footballer, born 1930)|Ivan Kolev]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| {{flagicon|BUL|1948}} [[Georgi Pachedzhiev]]
+|}
+{{col-end}}
+
+===Hungary vs Argentina===
+<onlyinclude>{{#invoke:Football box|main|section=4-5
+|date={{Start date|1962|6|6|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|HUN}}
+|score={{score link|1962 FIFA World Cup Group 4#Hungary vs Argentina|0–0}}
+|team2={{fb|ARG|1861}}
+|goals1=
+|goals2=
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=7,945
+|referee=[[Arturo Yamasaki Maldonado]] ([[Federación Peruana de Fútbol|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1451 |title=Hungary vs Argentina {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1451/index.html |title=1962 FIFA World Cup Chile – Matches – Hungary v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170727093425/http://www.fifa.com/worldcup/matches/round=231/match=1451/index.html |archive-date=27 July 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _hun_1949_1956_home
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = CE1126
+| body                 = CE1126
+| rightarm              = CE1126
+| shorts               = ffffff
+| socks                 = 008751
+ | title           = Hungary
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _arg3757h
+ | pattern_b  = _arg6265h
+ | pattern_ra = _arg3757h
+ | pattern_sh =
+ | pattern_so = 
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 000000
+ | socks      = 999999
+ | title      = Argentina
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1 '''|| [[Gyula Grosics]]
+|-
+| DF ||'''2'''|| [[Sándor Mátrai]]
+|-
+| DF ||'''3'''|| [[Kálmán Mészöly]]
+|-
+| DF ||'''4'''|| [[László Sárosi (footballer)|László Sárosi]]
+|-
+| DF ||'''5'''|| [[Ernő Solymosi]]
+|-
+| MF ||'''6'''|| [[Ferenc Sipos]]
+|-
+| MF ||'''8'''|| [[János Göröcs]]
+|-
+| FW ||''' 10'''|| [[Lajos Tichy]]
+|-
+| FW ||'''17'''|| [[Gyula Rákosi]]
+|-
+| FW ||'''18'''|| [[Tivadar Monostori]]
+|-
+| FW ||'''19'''|| [[Béla Kuharszki]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|  {{flagicon|HUN}} [[Lajos Baróti]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''12'''|| [[Rogelio Dominguez]]
+|-
+| DF ||'''4'''|| [[Alberto Sainz]]
+|-
+| DF ||'''2'''|| [[José Ramos Delgado]]
+|-
+| DF ||'''18'''|| [[Vladislao Cap]]
+|-
+| DF ||'''3'''|| [[Silvio Marzolini]]
+|-
+| MF ||'''5'''|| [[Federico Sacchi]]
+|-
+| FW || '''8''' || [[Martín Pando]]
+|-
+| FW ||'''7'''|| [[Héctor Facundo]]
+|-
+| FW ||'''9'''|| [[Marcelo Pagani]]
+|-
+| FW ||'''20'''|| [[Juan Carlos Oleniak]]
+|-
+| FW ||'''22'''|| [[Alberto Mario González]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| {{flagicon|ARG|1861}} [[Juan Carlos Lorenzo]]
+|}
+{{col-end}}
+
+===England vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=4-6
+|date={{Start date|1962|6|7|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|ENG}}
+|score={{score link|1962 FIFA World Cup Group 4#England vs Bulgaria|0–0}}
+|team2={{fb|BUL|1948}}
+|goals1=
+|goals2=
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=5,700
+|referee=[[Antoine Blavier]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1464 |title=England vs Bulgaria {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1464/index.html |title=1962 FIFA World Cup Chile – Matches – England v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226182415/http://www.fifa.com/worldcup/matches/round=231/match=1464/index.html |archive-date=26 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _collar
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _white_midband
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              = ff0000
+| shorts               = ff0000
+| socks                 = ff0000
+ | title           = England
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _vneckwhite
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = 
+| body             = 
+| rightarm           = 
+| shorts             = 
+| socks              = 
+|title            = Bulgaria
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Ron Springett]]
+|-
+| DF ||''' 2'''|| [[Jimmy Armfield]]
+|-
+| DF ||''' 3'''|| [[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+| DF ||'''15 '''|| [[Maurice Norman]]
+|-
+| DF ||'''16'''|| [[Bobby Moore]]
+|-
+| MF ||'''6'''|| [[Ron Flowers]]
+|-
+| FW ||'''8'''|| [[Jimmy Greaves]]
+|-
+| FW ||'''10'''|| [[Johnny Haynes]]
+|-
+| FW ||'''11'''|| [[Bobby Charlton]]
+|-
+| FW ||'''17'''|| [[Bryan Douglas]]
+|-
+| FW ||'''19'''|| [[Alan Peacock]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Walter Winterbottom]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Georgi Naydenov (footballer, born 1931)|Georgi Naydenov]]
+|-
+| DF ||''' 3'''|| [[Ivan Dimitrov (footballer)|Ivan Dimitrov]]
+|-
+| DF ||'''5'''|| [[Dimitar Kostov]]
+|-
+| DF ||'''8 '''|| [[Dimitar Dimov (footballer)|Dimitar Dimov]]
+|-
+| DF ||'''12'''|| [[Dobromir Zhechev]]
+|-
+| MF ||'''6'''|| [[Nikola Kovachev]]
+|-
+| MF ||'''16'''|| [[Aleksandar Kostov]]
+|-
+| FW ||'''10'''|| [[Ivan Kolev (footballer, born 1930)|Ivan Kolev]]
+|-
+| FW ||'''13'''|| [[Petar Velichkov]]
+|-
+| FW ||'''14'''|| [[Georgi Sokolov]]
+|-
+| FW ||'''19'''|| [[Dinko Dermendzhiev]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| {{flagicon|BUL|1948}} [[Georgi Pachedzhiev]]
+|}
+{{col-end}}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Bulgaria at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[Hungary at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1962chile 1962 FIFA World Cup archive]
+
+{{1962 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 4}}
+[[Category:1962 FIFA World Cup group stage|4]]
+[[Category:Argentina at the 1962 FIFA World Cup]]
+[[Category:England at the 1962 FIFA World Cup]]
+[[Category:Hungary at the 1962 FIFA World Cup]]
+[[Category:Bulgaria at the 1962 FIFA World Cup]]
+[[Category:Rancagua]]
+[[Category:Sport in O'Higgins Region]]
+[[Category:History of O'Higgins Region]]

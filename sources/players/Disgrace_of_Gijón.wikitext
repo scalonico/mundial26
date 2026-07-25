@@ -1,0 +1,280 @@
+{{short description|1982 association football match}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox football match
+| title = West Germany v Austria
+| other_titles     = ''Disgrace of Gijón'' ({{Lang|de|Schande von Gijón}})<br/>''Scandal of Gijón'' ({{Lang|ar|فضيحة خيخون}})<br/>''The Match of Shame'' ({{Lang|fr|le Match de la honte}})
+| image = Germany v austria wc1982 01.jpg
+| caption = A moment of the match
+| event = [[1982 FIFA World Cup]]
+| team1 = [[Germany national football team|West Germany]]
+| team1association = {{flagicon|West Germany|size=30px}}
+| team1score = 1
+| team2 = [[Austria national football team|Austria]]
+| team2association = {{flagicon|AUT|size=30px}}
+| team2score = 0
+| details = Both teams advance to second round <br> [[Algeria national football team|Algeria]] eliminated from 1982 FIFA World Cup on goal difference
+| date = {{start date and age|1982|06|25|df=yes}}
+| stadium = [[El Molinón]]
+| city = [[Gijón]]
+| man_of_the_match1a =
+| man_of_the_match1atitle =
+| referee = [[Bob Valentine (referee)|Bob Valentine]] ([[Scottish Football Association|Scotland]])
+| attendance = 41,000
+| weather =
+}}
+
+The '''Disgrace of Gijón''' ({{Langx|es|Desgracia de Gijón}}) is one of many names given in hindsight to the [[1982 FIFA World Cup]] football match played at the [[El Molinón|El Molinón stadium]] in [[Gijón]], Spain, on 25 June 1982, in which [[West Germany national football team|West Germany]] beat [[Austria national football team|Austria]] 1–0. Both teams advanced to the next round while [[Algeria national football team|Algeria]] was eliminated by having the lowest goal difference. Algeria had played its last game a day earlier, unable to achieve the four-goal victory margin that would have seen them through regardless of what happened in this match. In [[German language|German]], the match is known as {{lang|de|Nichtangriffspakt von Gijón}} ({{literal translation}} "[[Non-aggression pact]] of Gijón") or {{lang|de|Schande von Gijón}} ({{literal translation}} "Disgrace of Gijón"),<ref name="GuardianWorldCup">{{cite news |last=Smyth |first=Rob |date=25 February 2014 |title=No3: West Germany 1–0 Austria in 1982 |url=https://www.theguardian.com/football/blog/2014/feb/25/world-cup-25-stunning-moments-no3-germany-austria-1982-rob-smyth |access-date=23 June 2014 |newspaper=The Guardian |archive-date=27 February 2019 |archive-url=https://web.archive.org/web/20190227072056/https://www.theguardian.com/football/blog/2014/feb/25/world-cup-25-stunning-moments-no3-germany-austria-1982-rob-smyth |url-status=live }}</ref> while in [[Algeria]] it is called {{lang|ar|فضيحة خيخون}} ({{transliteration|ar|faḍīḥat Khīkhūn}}, "Scandal of Gijón"), and in [[French language|French]] {{lang|fr|le Match de la honte}} (lit. "The Shameful Match"); it has also been satirically referred to as the {{lang|de|[[Anschluss]]}} (a reference to the [[Nazi German]] annexation of Austria in 1938).<ref>{{cite book |last=Spurling |first=Jon |title=Death or Glory The Dark History of the World Cup |publisher=Vision Sports |year=2010 |isbn=978-1905326-80-8 |page=67}}</ref>
+
+The Algerian team had beaten two-time World Champions and reigning European Champions West Germany 2–1 in the first round, then had lost to Austria 2–0, before beating Chile 3–2. As the last game of the first-round [[1982 FIFA World Cup Group 2|Group 2]] was scheduled a day later, the two German-speaking teams had an advantage in knowing that a West German win by fewer than three goals would qualify both, while any other result would see either Austria or West Germany eliminated. After a German goal early in the game, the match remained competitive before the teams started to "defend" the 1–0 score in the second half, as there was little benefit for either side to try harder. Many spectators, mostly Algerians, were unhappy with the perceived lack of effort, and accused the West German and Austrian teams of manipulation.<ref name="GuardianWorldCup"/>
+
+Despite widespread condemnation and a formal complaint lodged by Algeria – who were consequently eliminated – [[FIFA]] ruled that neither team had broken any rules. Following the tournament – with similar controversy regarding [[Argentina v Peru (1978 FIFA World Cup)|Argentina vs Peru]] in the [[1978 FIFA World Cup|previous World Cup]] – FIFA revised the group system for future competitions so that the final two games in each group would be played simultaneously.<ref>{{cite news|last1=Booth|first1=Lawrence|last2=Smyth|first2=Rob|title=What's the dodgiest game in football history?|url=https://www.theguardian.com/football/2004/aug/11/theknowledge.sport|newspaper=[[The Guardian]]|location=London|date=11 August 2004|access-date=16 June 2018|archive-date=14 December 2013|archive-url=https://web.archive.org/web/20131214113736/http://www.theguardian.com/football/2004/aug/11/theknowledge.sport|url-status=live}}</ref> This change made it highly impractical for teams to engage in any form of [[Match fixing in association football|match-fixing]], since they would not know what result was required ahead of time.
+
+==Background==
+*Note: 2 points for a win, 1 for a draw, first tie-breaker is [[goal difference]].
+{{#invoke:Sports table|main|style=WDL
+|teamwidth=180
+
+|update=24 June 1982
+|winpoints=2
+|source=FIFA
+
+|team1=AUT |team2=ALG |team3=FRG |team4=CHI
+|result1=A |result2=B |result3=A |result4=C
+
+|win_FRG=1 |draw_FRG=0 |loss_FRG=1 |gf_FRG=5 |ga_FRG=3 |status_FRG=Y
+|win_AUT=2 |draw_AUT=0 |loss_AUT=0 |gf_AUT=3 |ga_AUT=0 |status_AUT=Y
+|win_ALG=2 |draw_ALG=0 |loss_ALG=1 |gf_ALG=5 |ga_ALG=5 |status_ALG=X
+|win_CHI=0 |draw_CHI=0 |loss_CHI=3 |gf_CHI=3 |ga_CHI=8 |status_CHI=Z
+|col_A=yellow1
+|col_B=blue1
+|name_AUT={{fb|AUT}}
+|name_CHI={{fb|CHI}}
+|name_FRG={{fb|FRG}}
+|name_ALG={{fb|ALG}}
+|res_col_header= Q
+|text_A=One match left
+|text_B=Undecided (Matches finished)
+|text_C=Eliminated
+|status_text_X=Qualification to the knockout stage undecided
+|status_text_Y=One match left to play
+|status_text_Z=Could not qualify for the Knockout stage
+}}
+
+Algeria began their campaign by recording a surprising 2–1 win over West Germany on the opening day, described as the "greatest World Cup upset since [[North Korea national football team|North Korea]] beat [[Italy national football team|Italy]] in [[1966 FIFA World Cup|1966]]",<ref name = "Pittsburgh">{{cite news|last=Vecsey|first=George|author-link=George Vecsey|title=When West Germany and Austria danced a Vienna waltz|url=https://news.google.com/newspapers?id=ldJaAAAAIBAJ&sjid=k20DAAAAIBAJ&pg=6963%2C6311110|newspaper=[[Pittsburgh Post-Gazette]]|date=29 June 1982|access-date=24 July 2014|page=12|archive-date=24 September 2024|archive-url=https://web.archive.org/web/20240924032120/https://news.google.com/newspapers?id=ldJaAAAAIBAJ&sjid=k20DAAAAIBAJ&pg=6963,6311110|url-status=live}}</ref> and as "one of the biggest shocks in World Cup history".<ref name="Day of the Match">{{cite book|title=Day of the Match|page=[https://archive.org/details/dayofmatchhistor0000murr/page/183 183]|first1=Scott|last1=Murray|first2=Rowan|last2=Walker|year=2008|publisher=Boxtree|chapter=June 25 – West Germany 1–0 Austria: 'El Anchluss' (1982)|isbn=978-0-7522-2678-1|chapter-url=https://archive.org/details/dayofmatchhistor0000murr/page/183}}</ref> Algeria became the first African or Arab team to defeat a European team at the [[FIFA World Cup]]. They then went on to lose 2–0 to Austria before beating Chile 3–2 in their final match. Algeria's victory over Chile made them the first ever African team to win twice at a World Cup.<ref name="Day of the Match" />
+
+As Algeria played that final match the day before West Germany met Austria, the two European teams knew what result they needed in order to qualify for the next round. An Austrian victory or a draw would result in Austria and Algeria advancing. West Germany could only advance by winning, which would leave all three teams on four points, at which point tiebreaker rules would come into effect. A West German win by either one or two goals would allow both West Germany and Austria to qualify based on goal difference. A West German victory by four or more goals would make West Germany and Algeria qualify. With a West German win by exactly three goals, West Germany would qualify and leave Austria and Algeria to be separated by the next tiebreaker (goals scored).  In this scenario, Austria would need to have scored at least two goals in defeat (e.g., lose 5&ndash;2, 6&ndash;3, etc.) to advance.
+
+==Match==
+
+===Summary===
+[[File:Interior de El Molinón.JPG|thumb|200px|[[El Molinón]], the venue for the match]]
+After ten minutes of furious attack, West Germany succeeded in scoring through a goal by [[Horst Hrubesch]] after a cross from the left. After the goal was scored, the team in possession of the ball often passed between themselves in their own half until an opposition player came into the vicinity of the ball, then the ball was passed back to the goalkeeper. Isolated long balls were played into the opposition's half, with little consequence. There were few tackles, and both sets of players flamboyantly missed with apparently no attempt at accuracy whenever they shot on goal. The only Austrian player who seemed to make any effort at livening the game up was [[Walter Schachner]], although he had little success, while one of the few serious attempts on net was made by [[Wolfgang Dremmler]] of West Germany.<ref name="GuardianWorldCup" />
+
+This performance was widely deplored by all observers. West German [[ARD (broadcaster)|ARD]] commentator Eberhard Stanjek at one point refused to commentate on the game any longer. Austrian commentator Robert Seeger bemoaned the spectacle, and asked viewers to turn off their television sets. [[George Vecsey]], a ''[[New York Times]]'' journalist, stated that the teams "seemed to work in concert", although he added that proving such would be impossible.<ref name="Pittsburgh" /> ''[[El Comercio (Spain)|El Comercio]]'', the local newspaper, printed the match report in its crime section.<ref name=espnfc>{{cite news|last1=Honigstein|first1=Raphael|title=Germany won't repeat 1982 mistakes|url=http://www.espnfc.com/fifa-world-cup/4/blog/post/1922852/germany-wont-repeat-1982-mistakes|publisher=ESPN Internet Ventures, LLC|website=ESPNFC.com|date=29 June 2014|archive-url=https://web.archive.org/web/20140725115118/http://www.espnfc.com/fifa-world-cup/4/blog/post/1922852/germany-wont-repeat-1982-mistakes|access-date=16 July 2014|archive-date=25 July 2014}} Original link location: http://www.espnfc.com/fifa-world-cup/4/blog/post/1922852/germany-wont-repeat-1982-mistakes {{Webarchive|url=https://web.archive.org/web/20140725115118/http://www.espnfc.com/fifa-world-cup/4/blog/post/1922852/germany-wont-repeat-1982-mistakes |date=25 July 2014 }}</ref>
+
+Likewise, many spectators were not impressed and voiced their disgust with the players. Chants of "{{lang|es|¡Fuera, fuera!}}" ("Out, out!"), "{{lang|es|¡Argelia, Argelia!}}" ("Algeria, Algeria!"), and "{{lang|es|¡Que se besen, que se besen!}}" ("Let them kiss, let them kiss!", which is commonly used at weddings) were shouted by the Spanish crowd,<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211205/PosNh9VGMPI Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20120219015724/http://www.youtube.com/watch?v=PosNh9VGMPI Wayback Machine]{{cbignore}}: {{cite web| url = https://www.youtube.com/watch?t=290&v=PosNh9VGMPI| title = Estafa en el molinón | website=[[YouTube]]| date = 5 July 2007 }}{{cbignore}}</ref> while angry Algerian supporters waved banknotes at the players. The match was criticized even by West German and Austrian fans who had hoped for an exciting rematch of the [[1978 FIFA World Cup|1978 World Cup]] match, the "[[Miracle of Córdoba]]", in which Austria had beaten West Germany.  One West German fan was so disgusted at the effort that he burned the national flag in protest.<ref>{{cite news|url=http://www.twohundredpercent.net/?p=6088|title=World Cup Tales: The Shame Of Gijon, 1982|date=9 May 2010|work=twohundredpercent.net|access-date=30 December 2010|location=London|archive-date=19 September 2015|archive-url=https://web.archive.org/web/20150919022725/http://twohundredpercent.net/?p=6088|url-status=dead}}</ref><ref>{{cite news|last=Doyle|first=Paul|title=The day in 1982 when the world wept for Algeria|url=https://www.theguardian.com/football/2010/jun/13/1982-world-cup-algeria|newspaper=The Guardian|location=London|date=13 June 2010|access-date=30 December 2011|archive-date=16 June 2010|archive-url=https://web.archive.org/web/20100616212348/http://www.guardian.co.uk/football/2010/jun/13/1982-world-cup-algeria|url-status=live}}</ref>
+
+===Details===
+<section begin=2-6 />{{Football box
+|date={{Start date|1982|6|25|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1982 FIFA World Cup Group 2#West Germany vs Austria|1–0|Disgrace of Gijón}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Horst Hrubesch|Hrubesch]] {{goal|10}}
+|goals2=
+|stadium=[[El Molinón]], [[Gijón]]
+|attendance=41,000
+|referee=[[Bob Valentine (referee)|Bob Valentine]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/770 |title=Germany FR vs Austria {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=770/index.html |title=1982 FIFA World Cup Spain – Matches – Germany FR v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226132326/http://www.fifa.com/worldcup/matches/round=293/match=770/index.html |archive-date=26 December 2017}} }}</ref>
+}}<section end=2-6 />
+<section begin=Line-ups />
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _westgermany1980
+ | pattern_b  = _shoulder stripes_black stripes_collar
+ | pattern_ra = _westgermany1980
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = {{nowrap|West Germany<ref name="FRG-AUT lineups">{{cite web |url=https://www.kicker.de/oesterreich-gegen-deutschland-1982-weltmeisterschaft-567815/aufstellung |title=Aufstellung {{!}} Österreich – Deutschland 0:1 {{!}} Vorrunde, 3. Spieltag {{!}} Weltmeisterschaft 1982 |trans-title=Line-ups {{!}} Austria 0–1 Germany {{!}} First round, matchday 3 {{!}} 1982 World Cup |work=[[Kicker (magazine)|kicker]] |access-date=12 April 2026 |language=de |archive-date=20 April 2026 |archive-url=https://web.archive.org/web/20260420124303/https://www.kicker.de/oesterreich-gegen-deutschland-1982-weltmeisterschaft-567815/aufstellung |url-status=live }}</ref>}}
+ }}
+|{{Football kit
+ | pattern_la = _whiteshoulders
+ | pattern_b  = _austria82a
+ | pattern_ra = _whiteshoulders
+ | pattern_sh = _redsides
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Austria<ref name="FRG-AUT lineups"/>
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Toni Schumacher]]
+|-
+|SW ||'''15'''||[[Uli Stielike]]
+|-
+|CB ||'''20'''||[[Manfred Kaltz]]
+|-
+|CB ||'''4''' ||[[Karlheinz Förster]]
+|-
+|CB ||'''2''' ||[[Hans-Peter Briegel]]
+|-
+|RM ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]]) || || {{suboff|66}}
+|-
+|CM ||'''6''' ||[[Wolfgang Dremmler]]
+|-
+|CM ||'''3''' ||[[Paul Breitner]]
+|-
+|LM ||'''14'''||[[Felix Magath]]
+|-
+|CF ||'''9''' ||[[Horst Hrubesch]] || || {{suboff|69}}
+|-
+|CF ||'''7''' ||[[Pierre Littbarski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||[[Eike Immel]]
+|-
+|DF ||'''5''' ||[[Bernd Förster]]
+|-
+|MF ||'''18'''||[[Lothar Matthäus]] || || {{subon|66}}
+|-
+|FW ||'''8''' ||[[Klaus Fischer]] || || {{subon|69}}
+|-
+|FW ||'''13'''||[[Uwe Reinders]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Jupp Derwall]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Friedrich Koncilia]]
+|-
+|SW ||'''3''' ||[[Erich Obermayer]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Bernd Krauss]]
+|-
+|CB ||'''5''' ||[[Bruno Pezzey]]
+|-
+|CB ||'''4''' ||[[Josef Degeorgi]]
+|-
+|RM ||'''6''' ||[[Roland Hattenberger]]
+|-
+|CM ||'''19'''||[[Heribert Weber]]
+|-
+|CM ||'''8''' ||[[Herbert Prohaska]]
+|-
+|LM ||'''10'''||[[Reinhold Hintermaier]] || {{yel|32}}
+|-
+|CF ||'''7''' ||[[Walter Schachner]] || {{yel|73}}{{efn|Schachner was booked in the 73rd minute,<ref>{{cite web |url=https://www.austriasoccer.at/data/spiele/1982/19820625brd_oste1.htm |title=Spielbericht: BRD 1:0 (1:0) Österreich, WM-Endrunde Phase 1/Gruppe 2 1982 |trans-title=Match report: West Germany 1–0 (1–0) Austria, 1982 World Cup final tournament first round/Group 2 |website=Austriasoccer.at |access-date=12 April 2026 |url-status=dead |archive-url=https://web.archive.org/web/20200407180738/https://www.austriasoccer.at/data/spiele/1982/19820625brd_oste1.htm |archive-date=7 April 2020 |language=de}}</ref> though the FIFA report mistakenly lists this as the 32nd minute.}}
+|-
+|CF ||'''9''' ||[[Hans Krankl]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''22'''||[[Klaus Lindenberger]]
+|-
+|DF ||'''12'''||[[Anton Pichler (footballer)|Anton Pichler]]
+|-
+|DF ||'''13'''||[[Max Hagmayr]]
+|-
+|MF ||'''14'''||[[Ernst Baumeister]]
+|-
+|FW ||'''20'''||[[Kurt Welzl]]
+|-
+|colspan=4|'''Managers:'''
+|-
+|colspan="4"|[[Felix Latzke]]<br>[[Georg Schmidt (football coach)|Georg Schmidt]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Ebrahim Al Doy]] ([[Bahrain Football Association|Bahrain]])
+<br />[[Arnaldo Cézar Coelho]] ([[Brazilian Football Confederation|Brazil]])
+|}<section end=Line-ups />
+
+==Aftermath==
+{{:1982 FIFA World Cup Group 2|transcludesection=standings}}
+With West Germany's 1–0 victory, they joined Austria and Algeria with four points in three matches. The teams were separated by goal difference, with West Germany and Austria progressing to the next round of the tournament at the expense of Algeria. The [[match-fixing]] saw Austria give up their opportunity to be first in the group (by winning or drawing the match) in exchange for a sure opportunity to advance. The bargaining positions of the two teams were affected by West Germany being in danger of elimination if they failed to win, but also being the better team.<ref>{{citation|url=http://mpra.ub.uni-muenchen.de/3085/1/MPRA_paper_3085.pdf|title=The Economics of Match-Fixing|first=R|last=Caruso|date=2007|access-date=23 June 2010|archive-date=11 April 2018|archive-url=https://web.archive.org/web/20180411114019/https://mpra.ub.uni-muenchen.de/3085/1/MPRA_paper_3085.pdf|url-status=live}}</ref> By coming second in the group, Austria's second-stage group was France and Northern Ireland. West Germany's opponents were hosts Spain and England who had previously beaten France. Also, for three of the starting players ([[Horst Hrubesch]] for West Germany, [[Josef Degeorgi]] and [[Roland Hattenberger]] for Austria), an additional incentive to avoid aggressive play was that they had been previously booked in their respective teams' first two games. Under the rules then in force, an additional yellow card for any of them in the final group match would have resulted in them serving an automatic one-match ban to start the second round.
+
+After the match, the West German team went back to their hotel where they were met by furious spectators who threw eggs and other projectiles at them; the West Germans returned fire with water bombs.<ref>{{cite news|title=The Disgrace of Gijon: West Germany and Austria's match of shame at 1982 World Cup|url=https://www.nytimes.com/athletic/3643998/2022/11/15/west-germany-austria-disgrace-of-gijon-world-cup/|publisher=[[The Athletic]]|date=15 November 2022|access-date=26 April 2024|archive-date=20 June 2024|archive-url=https://web.archive.org/web/20240620234024/https://www.nytimes.com/athletic/3643998/2022/11/15/west-germany-austria-disgrace-of-gijon-world-cup/|url-status=live}}</ref> German and Austrian television commentators were so appalled at the match that they urged viewers on live television to stop watching the match and watch something else. The Algerian football officials lodged an official protest. In addition, the president of the [[Algerian Football Federation]] opined that referee [[Bob Valentine (referee)|Bob Valentine]] should have intervened and his failure to do so was worthy of complaint;<ref>{{cite news|title=Cup game labeled as 'fix'|url=https://news.google.com/newspapers?id=jvVVAAAAIBAJ&sjid=W-IDAAAAIBAJ&pg=6088%2C6157584|newspaper=[[The Register-Guard]]|location=Eugene|date=26 June 1982|access-date=24 July 2014|archive-date=24 September 2024|archive-url=https://web.archive.org/web/20240924032119/https://news.google.com/newspapers?id=jvVVAAAAIBAJ&sjid=W-IDAAAAIBAJ&pg=6088,6157584|url-status=live}}</ref> however, FIFA considered that no rules were broken as a result of the match, and declined to take any action. Both teams denied any collusion during the match.<ref name="CBCWorldCup">{{cite news|last=Molinaro|first=John|title=No agreement between Germany and Austria this time around|url=https://www.cbc.ca/sports/soccer/no-agreement-between-germany-and-austria-this-time-around-1.766773|publisher=[[CBC Sports]]|date=16 June 2008|access-date=15 September 2009}}</ref> West Germany manager [[Jupp Derwall]] defended his team from the criticism, pointing out that Uli Stielike and Karl-Heinz Rummenigge were both unfit.<ref>{{cite news|title=German victory in World Cup stirs controversy|url=https://news.google.com/newspapers?id=4h8qAAAAIBAJ&sjid=4CkEAAAAIBAJ&pg=4793%2C2674558|archive-url=https://archive.today/20180711112248/https://news.google.com/newspapers?id=4h8qAAAAIBAJ&sjid=4CkEAAAAIBAJ&pg=4793,2674558|url-status=dead|archive-date=11 July 2018|agency=Associated Press; United Press International|newspaper=[[Milwaukee Journal]]|date=26 June 1982|access-date=24 July 2014|page=10}}</ref> The West Germans made it to [[1982 FIFA World Cup Final|the final]], where they lost to [[Italy national football team|Italy]] 3–1. Austria fell at the next group stage, to the benefit of eventual fourth-place finishers [[France national football team|France]]. As a result of the game, from the [[1986 FIFA World Cup|World Cup 1986]] onward, the final pair of group matches in World Cups always start simultaneously.<ref>{{cite web|url=http://www.algeria.com/blog/the-game-that-changed-the-world-cup-algeria|title=The Game that Changed the World Cup&nbsp;— Algeria|work=algeria.com|access-date=15 September 2009|archive-date=10 September 2015|archive-url=https://web.archive.org/web/20150910220511/http://www.algeria.com/blog/the-game-that-changed-the-world-cup-algeria|url-status=live}}</ref>
+
+Later journalists took another look at the match, wondering if claims of "non-aggression" are exaggerated. In ''[[The Irish Times]]'', Rob Smyth wrote: "The 10 minutes after Hrubesch's goal would even be described as exhilarating in some cultures, with [[Wolfgang Dremmler]] forcing a fine save from [[Friedrich Koncilia]] (the second and final shot on target in the match) and [[Paul Breitner]] missing two good chances. The game slows down towards half-time, principally because the hitherto dominant Germany start to play on the [[counterattack]]. Hrubesch would have had a clear shooting chance in the 57th minute had he not hopelessly miscontrolled [[Felix Magath]]’s expert chip. As late as the 77th minute, when the game was losing what edge it had, [[Bernd Krauss]] broke into the box and forced a desperate clearance from [[Hans-Peter Briegel]]. A goal then would have put West Germany out."<ref name="smyth">{{Cite news|url=https://www.irishtimes.com/sport/soccer/international/world-cup-moments-1982-s-disgrace-of-gij%C3%B3n-1.3479123|title=World Cup moments: 1982's 'Disgrace of Gijón'|newspaper=[[The Irish Times]]|archive-date=24 September 2024|access-date=6 January 2020|archive-url=https://web.archive.org/web/20240924032119/https://www.irishtimes.com/sport/soccer/international/world-cup-moments-1982-s-disgrace-of-gij%C3%B3n-1.3479123|url-status=live}}</ref> Almost all participants denied an outright agreement to fix the match. Austrian player Reinhold Hintermaier described the situation on the pitch as follows: "It somehow took on a life of its own – everyone just thought that they wanted to get ahead."<ref name="Hintermaier">{{Cite web |date=2022-06-05 |title="Schande von Gijon": Lasst uns das nach Hause schaukeln |trans-title="Disgrace of Gijón": Let's Drive This Home |last=Münchrath |first=Manfred |url=https://www.kicker.de/schande-von-gijon_lasst-uns-das-nach-hause-schaukeln-700331/artikel |access-date=2023-07-01 |website=kicker |language=de |archive-date=19 March 2021 |archive-url=https://web.archive.org/web/20210319233108/https://www.kicker.de/schande-von-gijon_lasst-uns-das-nach-hause-schaukeln-700331/artikel |url-status=live }}</ref>
+
+==Similar cases in football==
+* [[Coventry City 2–2 Bristol City (1977)|Coventry City 2–2 Bristol City]], the final match for both sides in the [[1976–77 Football League|1976–77]] season of [[The Football League|English First Division]]. With five minutes remaining, players received news of a [[Sunderland A.F.C.|Sunderland]] defeat which meant a draw would save both Coventry and Bristol City from relegation. Both sides stopped attempting to score for those final five minutes.<ref>[https://www.bristolpost.co.uk/sport/football/football-news/day-bristol-city-game-led-66455 The day a Bristol City game led to claims of match fixing, a bitter 40-year feud and a reprimand for a famous football personality] {{Webarchive|url=https://web.archive.org/web/20210507204506/https://www.bristolpost.co.uk/sport/football/football-news/day-bristol-city-game-led-66455 |date=7 May 2021 }} by Philippa Jenkins
+05:00, 19 May 2017 at bristolpost.co.uk. 19 May 2017</ref>
+
+* [[2002 FIFA World Cup qualification (CONMEBOL)#Matchday 18|Uruguay 1–1 Argentina]], played during the final matchday of CONMEBOL's qualification for the [[2002 FIFA World Cup]]. Argentina had already secured qualification well in advance. On November 14, 2001, the national team visited the [[Estadio Centenario]] to play against [[Uruguay national football team|Uruguay]], who needed to earn a point and hope that [[Colombia national football team|Colombia]] did not beat [[Paraguay national football team|Paraguay]] by a margin of five goals or more in order to be in the playoff that would allow them to access the World Cup. The match ended 1–1 and Uruguay therefore secured their place in the next round against [[Australia men's national soccer team|Australia]], despite Colombia's 4–0 victory over Paraguay.<ref name=tyc1/> The match was repeatedly accused by some of being fixed, as there were few attacks from either side in the final fifteen minutes.<ref name=tyc1>[https://www.tycsports.com/eliminatorias/el-argentina-uruguay-sospechado-de-arregla-en-las-eliminatorias-que-enfurecio-a-bielsa-id512079.html El Argentina - Uruguay sospechado de arreglo en las Eliminatorias que enfureció a Bielsa] at tycsports.com.ar</ref> In 2004, Uruguayan [[Juan Ramón Carrasco]] confirmed a pact between both sides to allow Uruguay qualify to the World Cup, saying "it's common knowledge. Everyone here knows that they fixed the match to draw because Argentina had already qualified".<ref name=infob1>[https://www.infobae.com/2004/10/06/144250-confirman-partido-arreglado-argentina-y-uruguay/ Confirman partido arreglado entre Argentina y Uruguay] {{Webarchive|url=https://web.archive.org/web/20260605211540/https://www.infobae.com/2004/10/06/144250-confirman-partido-arreglado-argentina-y-uruguay/ |date=5 June 2026 }} at infobae.com. 6 Oct 2004</ref>
+
+* [[2018 FIFA World Cup qualification (CONMEBOL)#Matchday 18|Peru 1–1 Colombia]], also known as the ''Pact of Lima'', played during the final matchday of CONMEBOL's qualification for the [[2018 FIFA World Cup]]. After reaching the 1–1 scoreline and learning that Chile (a rival for both in qualifying hopes) was losing 2–0 in Brazil, Peruvians and Colombians stopped attempting to score for the last fifteen minutes of the match.<ref>{{cite news |title=El recuerdo del 'Pacto de Lima' en Perú vs Colombia por las Eliminatorias al Mundial 2018 |url=https://www.espn.co.cr/futbol/mundial/nota/_/id/14128835/el-recuerdo-del-pacto-de-lima-en-peru-vs-colombia-por-las-eliminatorias-al-mundial-2018 |access-date=7 December 2025 |work=ESPN Costa Rica |date=4 September 2024 |language=es}}</ref> Colombia qualified directly, and Peru advanced to the [[2018 FIFA World Cup qualification (OFC–CONMEBOL play-off)|inter-confederation play-offs]], where they defeated New Zealand to qualify. Chile, who conceded a third goal by the Brazilians, were eliminated.
+* [[2018 FIFA World Cup Group H#Japan vs Poland|Japan 0–1 Poland]] — In the third group stage match of the [[2018 FIFA World Cup]], [[Japan national football team|Japan]] was losing 0–1 with 10 minutes to go. After seeing the situation in the other group stage match being held simultaneously, Senegal vs. Colombia, they realized that they could advance to the next round if they lost by the same score. At that point, Japan abandoned any attempt to equalize or win, and simply passed the ball around at the back. Poland also stopped trying to win the ball back and played listless football. They were booed in anger by the crowd.<ref>{{Cite news |date=2018-06-28 |title=World Cup 2018: Japan go through but final group game ends in 'mind-boggling farce' |url=https://www.bbc.com/sport/football/44649668 |access-date=2026-06-12 |work=BBC Sport |language=en-GB |archive-date=5 July 2018 |archive-url=https://web.archive.org/web/20180705152823/https://www.bbc.com/sport/football/44649668 |url-status=live }}</ref>
+
+* The [[2024 AFC Women's Olympic Qualifying Tournament]] match between [[Uzbekistan women's national football team|Uzbekistan]] and [[Japan women's national football team|Japan]], which ended in a 0–2 result, drew controversy due to allegations of match manipulation. Both teams, led by Japanese coaches, appeared to benefit from the outcome: Japan avoided a potential playoff against [[Australia women's national soccer team|Australia]], a formidable opponent, while Uzbekistan maintained a chance for a playoff berth due to the low scoreline. Japan scored two goals within the first 15 minutes, after which both teams exhibited notably passive play for the remaining 75 minutes, with no shots attempted by either side. This result effectively eliminated [[China women's national football team|China]] from contention. Japan subsequently qualified for the [[2024 Summer Olympics]] by defeating [[North Korea women's national football team|North Korea]] in a playoff match.<ref>{{cite web |url=https://news.jsports.co.jp/football/article/20190310226081/ |title=ウズベキスタン相手に75分間の無気力サッカー なでしこジャパンの将来に、どんな意味があったのか |website=J SPORTS |language=ja |access-date=2024-08-31 |archive-date=31 August 2024 |archive-url=https://web.archive.org/web/20240831171042/https://news.jsports.co.jp/football/article/20190310226081/ |url-status=live }}</ref> {{cns|Japan set a new world record for passes in this match: 1,466.|date=July 2026}} This significantly surpasses the previous record of 1,033 passes, set by [[Bayern Munich]] in a [[Bundesliga]] match in 2014.<ref name=guard_pass>{{Cite news |last=sport |first=Guardian |date=2019-09-04 |title=Which football team have completed the most passes in a match? |url=https://www.theguardian.com/football/2019/sep/04/which-football-team-have-completed-the-most-passes-in-a-match |access-date=2026-05-20 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> The crowd demanded that both teams stop the match-fixing. However, both teams ignored them and continued playing listless football. When the second half started, both teams continued playing listless football without any change. As a result, the crowd became angry and began to leave in droves within the first few minutes of the second half, with 1500 out of 2000 leaving.<ref>{{Cite web |title=サッカー日本代表 - 女子五輪2次予選 第2節 ウズベキスタン vs. 日本 - 試合テキスト速報 |url=https://soccer.yahoo.co.jp/japan/category/women/game/2023102917/text?gk=32 |access-date=2026-05-20 |website=スポーツナビ |language=ja}}</ref>
+* [[2026 FIFA World Cup Group J#Algeria vs Austria|Algeria 3–3 Austria]]. Two of the teams involved in the original Disgrace of Gijón next met in the final set of games of the group stage of [[2026 FIFA World Cup|2026 World Cup]], 44 years later. Due to the results of the other groups, both teams entered the game knowing that a draw would see them both qualify, with Austria in second place and Algeria as one of the eight best third-placed teams, at the expense of [[Iran national football team]]; had either team lost, Iran would have qualified in the place of the loser.<ref>{{Cite news |last=Mezahi |first=Maher |date=2026-06-26 |title=Algeria eye revenge in first match against Austria since ‘shame of Gijón’ |url=https://www.theguardian.com/football/2026/jun/26/algeria-austria-1982-world-cup-shame-of-gijon-west-germany |access-date=2026-06-28 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Despite the spectre of Gijón — the media had been concerned about a potential "Disgrace of Kansas City" before the match<ref>{{Cite web |title= 'Disgrace of Kansas City' loading? Austria-Algeria clash set to expose World Cup's unfair format - and that could play straight into Gianni Infantino's hands |url= https://www.goal.com/en-gb/lists/disgrace-kansas-city-austria-algeria-expose-unfair-world-cup-format-fifa-gianni-infantino/blt6eca28fc7d7c2381 |access-date= 2026-06-28 |website= Goal.com |language= en |archive-date= 30 June 2026 |archive-url= https://web.archive.org/web/20260630140225/https://www.goal.com/en-gb/lists/disgrace-kansas-city-austria-algeria-expose-unfair-world-cup-format-fifa-gianni-infantino/blt6eca28fc7d7c2381 |url-status= live }}</ref><ref>{{cite web|title=Is the World Cup About to Witness the ‘Disgrace of Kansas City’?|URL=https://www.wsj.com/sports/soccer/is-the-world-cup-about-to-witness-the-disgrace-of-kansas-city-981dd863|website=[[WSJ]]|access-date=2026-06-28|archive-date=28 June 2026|archive-url=https://web.archive.org/web/20260628134210/https://www.wsj.com/sports/soccer/is-the-world-cup-about-to-witness-the-disgrace-of-kansas-city-981dd863|url-status=live}}</ref> — Austria and Algeria played to a spirited 3–3 draw. The score was tied at 2–2 in the second half, with the teams starting to play more cautiously, before a goal for each team in [[injury time]] proving decisive for both countries' further qualification.<ref>{{Cite news |last=Tansley |first=Eduardo |date=2026-06-28 |title=The goal that sparked chaos: 110 passes, Mahrez’s finish, Austria panic, Iran woe |url=https://www.nytimes.com/athletic/7403358/2026/06/28/world-cup-algeria-mahrez-austria-iran/ |access-date=2026-06-30 |work=The New York Times |language=en-US |issn=0362-4331 |archive-date=16 July 2026 |archive-url=https://web.archive.org/web/20260716052619/https://www.nytimes.com/athletic/7403358/2026/06/28/world-cup-algeria-mahrez-austria-iran/ |url-status=live }}</ref><ref>{{Cite news |last=Abnos |first=Alexander |date=2026-06-28 |title=Late drama sends Austria and Algeria into World Cup knockouts to break Iran hearts |url=https://www.theguardian.com/football/2026/jun/28/algeria-austria-world-cup-group-j-match-report |access-date=2026-06-28 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> In post-match interviews, both coaches denied there had been any collusion.<ref>{{Cite web |date=2026-06-28 |title=World Cup 2026: Algeria & Austria defend 'unexpected' draw amid conspiracy theories |url=https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo |access-date=2026-06-30 |website=BBC Sport |language=en-GB |archive-date=30 June 2026 |archive-url=https://web.archive.org/web/20260630144450/https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo |url-status=live }}</ref>
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.bbc.co.uk/sport/av/football/26708385 Video highlights of the game] on [[BBC Sport]] (UK only)
+
+{{1982 FIFA World Cup}}
+{{Germany national football team matches}}
+{{Austria national football team matches}}
+{{Algeria national football team}}
+
+{{DEFAULTSORT:Disgrace of Gijon}}
+[[Category:1982 FIFA World Cup]]
+[[Category:Football matches in Spain]]
+[[Category:FIFA World Cup matches|D]]
+[[Category:Austria national football team matches|1982]]
+[[Category:Germany national football team matches|1982A]]
+[[Category:FIFA World Cup controversies|D]]
+[[Category:Austria–Germany sports relations]]
+[[Category:Austria at the 1982 FIFA World Cup|D]]
+[[Category:West Germany at the 1982 FIFA World Cup|Aus]]
+[[Category:Algeria at the 1982 FIFA World Cup|D]]
+[[Category:1982 controversies]]
+[[Category:Sport in Gijón]]
+[[Category:Controversies in Germany]]
+[[Category:Controversies in Austria]]
+[[Category:June 1982 sports events in Europe]]
+[[Category:Nicknamed sporting events]]
+[[Category:1982 in Asturias]]
+[[Category:Football in Asturias]]
+[[Category:Austria–West Germany relations|1982]]
+[[Category:Men's international association football matches in Europe]]

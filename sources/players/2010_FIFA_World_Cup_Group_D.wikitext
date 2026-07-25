@@ -1,0 +1,986 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group D of the [[2010 FIFA World Cup]]''' began on 13 June and ended on 23 June 2010.<ref>{{cite press release |title=Match Schedule 2010 FIFA World Cup South Africa |website=FIFA.com|publisher=Fédération Internationale de Football Association |url=https://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |archive-url=https://web.archive.org/web/20091228213032/http://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |url-status=dead |archive-date=28 December 2009 |access-date=6 December 2009 }}</ref> The group consisted of [[Germany national football team|Germany]], [[Australia men's national soccer team|Australia]], [[Serbia national football team|Serbia]] and [[Ghana national football team|Ghana]]. Along with [[2010 FIFA World Cup Group G|Group G]], it was considered to be a [[group of death]].<ref>{{cite news |title=Germany face early test of mettle |website=FIFA.com |publisher=Fédération Internationale de Football Association |url=https://www.fifa.com/worldcup/standings/group=249726/analysis.html |access-date=20 April 2010 |archive-url=https://web.archive.org/web/20100417082223/http://www.fifa.com/worldcup/standings/group%3D249726/analysis.html |archive-date=17 April 2010 |url-status=dead }}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/southafrica2010/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=GER
+|team2=GHA
+|team3=AUS
+|team4=SRB
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2010 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_GER=2 |draw_GER=0 |loss_GER=1 |gf_GER=5 |ga_GER=1
+|win_GHA=1 |draw_GHA=1 |loss_GHA=1 |gf_GHA=2 |ga_GHA=2
+|win_AUS=1 |draw_AUS=1 |loss_AUS=1 |gf_AUS=3 |ga_AUS=6
+|win_SRB=1 |draw_SRB=0 |loss_SRB=2 |gf_SRB=2 |ga_SRB=3
+
+|name_GER={{fb|GER}}
+|name_GHA={{fb|GHA}}
+|name_AUS={{fb|AUS}}
+|name_SRB={{fb|SRB|2004}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2010 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+*Germany advanced to play England (runners-up of [[2010 FIFA World Cup Group C|Group C]]) in the [[2010 FIFA World Cup knockout stage#Germany vs England|round of 16]].
+*Ghana advanced to play United States (winners of [[2010 FIFA World Cup Group C|Group C]]) in the [[2010 FIFA World Cup knockout stage#United States vs Ghana|round of 16]].
+
+==Matches==
+''All times local ([[UTC+02:00|UTC+2]])''
+
+===Serbia vs Ghana===
+Ghana headed into their opening fixture against Serbia as the youngest team in the tournament.<ref name="NYTimesSerbiaGhana">{{Cite web |website=The New York Times |last=Witz |first=Billy |date=13 June 2010 |title=Ghana Gets Helping Hand From Serbia |url=https://archive.nytimes.com/goal.blogs.nytimes.com/2010/06/13/live-analysis-serbia-vs-ghana}}</ref> Serbia were touted as a potential [[dark horse]] for the tournament,<ref name="NYTimesSerbiaGhana"/> and were looking to improve on their previous [[2006 FIFA World Cup|2006]] appearance at the World Cup as Serbia & Montenegro, where they lost all three of their group games and had the worst goal difference of [[2006 FIFA World Cup Group C|minus 8]] in that tournament.<ref name="NYTimesSerbiaGhana"/>
+
+In the opening half, [[Kwadwo Asamoah]] came closest to opening the scoring for Ghana on 15 minutes but [[Nikola Žigić]] to deflected the shot to go wide.<ref name="UEFASerbiaGhana">{{Cite web |website=UEFA |date=13 June 2010 |title=Gyan on the spot for victorious Ghana |url=https://www.uefa.com/european-qualifiers/news/01e6-0e74b2fd01f7-2263599f1674-1000--gyan-on-the-spot-for-victorious-ghana/}}</ref> Serbia created little from open play, but their main threat seemed to be from set pieces.<ref name="UEFASerbiaGhana"/> After half-time, [[Asamoah Gyan|Asamoah Gyan's]] headed the ball towards the Serbia goal from close-range, but it struck the post.<ref name="UEFASerbiaGhana"/>
+
+Serbia were reduced to 10 men when [[Aleksandar Luković]] was sent off for holding back Gyan on the half-way line, which was his second bookable offence.<ref name="BBCGhanaSerbia">{{Cite web |website=BBC Sport |last=Soneji |first=Pranav |date=2002 |title=Serbia 0-1 Ghana |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_07/default.stm}}</ref>
+
+Late in the second half, Serbia substitute [[Zdravko Kuzmanović]] handballed in the box whilst attempting to clear a cross. Gyan converted the resultant penalty kick, giving Ghana a 1–0 lead. Deep into stoppage time, Gyan almost had a second goal, but his strike hit the post of the Serbia goal.<ref name="BBCGhanaSerbia"/>
+
+The victory for Ghana was the first in four games for African countries at the tournament, since South Africa drew with Mexico and Algeria and Nigeria both lost their opening games.<ref name="NYTimesSerbiaGhana"/>
+<onlyinclude>{{#invoke:Football box|main|section=d1
+|date={{Start date|2010|6|13|df=y}}
+|time=16:00
+|team1={{fb-rt|SRB|2004}}
+|score={{score link|2010 FIFA World Cup Group D#Serbia vs Ghana|0–1}}
+|team2={{fb|GHA}}
+|goals1=
+|goals2=
+*[[Asamoah Gyan|Gyan]] {{goal|85|pen.}}
+|stadium=[[Loftus Versfeld Stadium]], [[Pretoria]]
+|attendance=38,833
+|referee=[[Héctor Baldassi]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061471 |title=Serbia vs Ghana {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061471/report.html |title=2010 FIFA World Cup South Africa – Matches – Serbia v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204175020/http://www.fifa.com/worldcup/matches/round=249722/match=300061471/report.html |archive-date=4 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/386a726b4615eeca/original/e8kv1iebarxfr74hxatl-pdf.pdf |title=Match Report – Group D – Serbia v Ghana |publisher=[[FIFA]] |date=13 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055404/https://digitalhub.fifa.com/m/386a726b4615eeca/original/e8kv1iebarxfr74hxatl-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _ser10h
+ |pattern_b  = _srb10h
+ |pattern_ra = _ser10h
+ |pattern_sh = _ned10a
+ |pattern_so = _nike_2010_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = Serbia<ref name="srb-gha_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7d2d9b8db473f76c/original/irxz6t8oo1d4hnogfxno-pdf.pdf |title=Tactical Line-up – Group D – Serbia v Ghana |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=13 June 2010 |access-date=13 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172006/https://digitalhub.fifa.com/m/7d2d9b8db473f76c/original/irxz6t8oo1d4hnogfxno-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _gan1012h
+ |pattern_b  = _gan1012h
+ |pattern_ra = _gan1012h
+ |pattern_sh = _gan1012h
+ |pattern_so = _gha10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ghana<ref name="srb-gha_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Vladimir Stojković]]
+|-
+|RB ||'''6''' ||[[Branislav Ivanović]]
+|-
+|CB ||'''13'''||[[Aleksandar Luković]] || {{sent off|2|54|74}}
+|-
+|CB ||'''5''' ||[[Nemanja Vidić]]
+|-
+|LB ||'''3''' ||[[Aleksandar Kolarov]]
+|-
+|CM ||'''11'''||[[Nenad Milijaš]] || || {{suboff|62}}
+|-
+|CM ||'''10'''||[[Dejan Stanković]] ([[Captain (association football)|c]])
+|-
+|RW ||'''17'''||[[Miloš Krasić]]
+|-
+|LW ||'''14'''||[[Milan Jovanović (footballer, born 1981)|Milan Jovanović]] || || {{suboff|76}}
+|-
+|CF ||'''9''' ||[[Marko Pantelić]]
+|-
+|CF ||'''15'''||[[Nikola Žigić]] || {{yel|19}} || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Zdravko Kuzmanović]] || {{yel|83}} || {{subon|62}}
+|-
+|FW ||'''8''' ||[[Danko Lazović]] || || {{subon|69}}
+|-
+|DF ||'''20'''||[[Neven Subotić]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Radomir Antić]]
+|}
+|valign="top"|[[File:SRB-GHA 2010-06-13.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|RB ||'''4''' ||[[John Paintsil]]
+|-
+|CB ||'''15'''||[[Isaac Vorsah]] || {{yel|26}}
+|-
+|CB ||'''5''' ||[[John Mensah]] ([[Captain (association football)|c]])
+|-
+|LB ||'''2''' ||[[Hans Sarpei]]
+|-
+|CM ||'''6''' ||[[Anthony Annan]]
+|-
+|CM ||'''23'''||[[Kevin-Prince Boateng]] || || {{suboff|90+1}}
+|-
+|RW ||'''12'''||[[Prince Tagoe]] || {{yel|89}}
+|-
+|AM ||'''21'''||[[Kwadwo Asamoah]] || || {{suboff|73}}
+|-
+|LW ||'''13'''||[[André Ayew]]
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] || || {{suboff|90+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Stephen Appiah]] || || {{subon|73}}
+|-
+|DF ||'''19'''||[[Lee Addy]] || || {{subon|90+1}}
+|-
+|MF ||'''20'''||[[Quincy Owusu-Abeyie]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SRB|2004}} [[Milovan Rajevac]]
+|}
+|}
+[[File:FIFA World Cup 2010 Serbia Ghana.jpg|thumb|Serbia vs Ghana]]
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Asamoah Gyan]] (Ghana)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf |title=2010 FIFA World Cup South Africa Match Appointments |date=24 June 2010 |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100705072219/http://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf| archive-date= 5 July 2010 | url-status= dead}}</ref>
+<br />Ricardo Casas ([[Argentine Football Association|Argentina]])
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />'''[[Fourth official]]:'''
+<br />[[Subkhiddin Mohd Salleh]] ([[Football Association of Malaysia|Malaysia]])
+<br />'''[[Fifth official]]:'''
+<br />Jeffrey Goh Gek Pheng ([[Football Association of Singapore|Singapore]])
+|}
+
+===Germany vs Australia===
+Veteran Germany skipper [[Michael Ballack]] was ruled out of the tournament with injury, and coach Joachim Loew opted for the second-youngest squad in the competition.<ref >{{Cite web |website=BBC News|last=Lyon |first=Sam |date=2010 |title=Germany 4-0 Australia |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_08/default.stm}}</ref>
+
+Prior to the game, Australia coach Pim Verbeek made the surprising decision to bench veteran players [[Harry Kewell]], [[Mark Bresciano]] and [[Joshua Kennedy]], instead opting to put [[Tim Cahill]] in a lone striker role with [[Richard Garcia]] in support.<ref name="ABC1">{{Cite web |website=ABC News |date=14 Jun 2010 |title=Australia on the ropes against Germany |url=https://www.abc.net.au/news/2010-06-14/australia-on-the-ropes-against-germany/865776}}</ref>
+
+Australia had the chance to score an early goal from a corner in the third minute, but Tim Cahill's header was blocked by Lucas Neill, and Richard Garcia failed to score from the follow up.<ref name="ABC1"/>
+
+[[Lukas Podolski]] opened the scoring for Germany in the eighth minute and [[Miroslav Klose]] put Germany 2–0 up in the 26th minute. After half-time, Tim Cahill was given a straight red card for a challenge on [[Bastian Schweinsteiger]], and [[Thomas Müller]] and substitute [[Cacau]] both scored, completing the 4–0 victory for Germany,<ref >{{Cite web |website=ABC News |last=Paine |first=Chris |date=14 Jun 2010 |title=Socceroos slump to Durban disaster |url=https://www.abc.net.au/news/2010-06-14/socceroos-slump-to-durban-disaster/865848}}</ref> which marked its sixth successive opening match victory at the World Cup.<ref >{{Cite web |website=The Guardian| last=Taylor |first=Daniel |date=14 Jun 2010 |title=World Cup 2010: Miroslav Klose helps Germany put four past Australia |url=https://www.theguardian.com/football/2010/jun/13/germany-australia-world-cup-match-report|quote=This is the sixth successive tournament in which they have won their opening game and they did so in a manner that suggests they must be immune to the nerves that have afflicted other teams in the opening days of the event.}}</ref>
+
+After the match, despite the heavy defeat, Australia coach Pim Verbeek stood by his tactics to keep his veteran players benched.<ref >{{Cite web |website=ABC News |date=14 Jun 2010 |title=Pim takes rap for German blitz |url=https://www.abc.net.au/news/2010-06-14/pim-takes-rap-for-german-blitz/866340}}</ref> Germany coach Joachim Loew described the victory as "a good warm-up" for his team.<ref >{{Cite web |website=ABC News |date=14 Jun 2010 |title=Socceroos reel after German masterclass |url=https://www.abc.net.au/news/2010-06-14/socceroos-reel-after-german-masterclass/866044}}</ref>
+
+In 2011, [[Special Broadcasting Service|SBS]] (Australia's World Cup broadcaster) soccer analyst [[Les Murray (broadcaster)|Les Murray]] published a book titled ''The World Game: The Story of How Football Went Global'', in which Murray cited an undisclosed source in alleging that [[Lucas Neill]], the captain of Australia, had instigated a mutiny just before kick-off.<ref>{{cite web |title=Les Murray: When SBS commentator claimed Lucas Neill led a Socceroos mutiny during World Cup |url=https://www.abc.net.au/news/2017-07-31/when-les-murray-claimed-lucas-neill-led-a-socceroos-mutiny/8760358 |website=ABC News |publisher=Australian Broadcasting Corporation |access-date=4 January 2026}}</ref> Murray alleged that Neill had asked the coach, Pim Verbeek, to leave the room, before describing Verbeek's game-plan as "bullshit" and erasing what the Dutchman had written on a whiteboard, telling the team to play like they normally do.<ref>{{cite web |title=Murray claims Socceroos World Cup revolt |url=https://www.abc.net.au/news/2011-06-22/murray-claims-socceroos-world-cup-revolt/2768120 |website=ABC News |publisher=Australian Broadcasting Corporation |access-date=4 January 2026}}</ref> Neill protested that before the Germany game it was [[Mark Schwarzer]], and not Neill himself, who had given the team pep talk.<ref>{{cite web |last1=Gatt |first1=Ray |title=Furious Lucas Neill denies Les Murray's mutiny claims |url=https://www.theaustralian.com.au/sport/furious-lucas-neill-denies-les-murrays-mutiny-claims/news-story/9a636b211207c574421e1d7375ec358d |website=The Australian |publisher=News Corp |access-date=4 January 2026}}</ref> A few days after the allegations hit the news, Murray retracted his allegations with a full apology, with an undertaking that future editions of his book would have the relevant portion deleted.<ref>{{cite web |title=Neill accepts apology over mutiny allegations |url=https://www.foxsports.com/stories/soccer/neill-accepts-apology-over-mutiny-allegations |website=Fox Sports |access-date=4 January 2026}}</ref><ref>{{cite web |last1=Weiner |first1=David |title=Les Murray retracts allegations about Lucas Neill's leadership, Socceroos captain accepts his apology |url=https://www.foxsports.com.au/football/socceroos/veteran-broadcaster-les-murray-says/news-story/8258d4b28507e3684b428a82ef8f56aa |website=Fox Sports Australia |publisher=News Corp |access-date=4 January 2026}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=d2
+|date={{Start date|2010|6|13|df=y}}
+|time=20:30
+|team1={{fb-rt|GER}}
+|score={{score link|2010 FIFA World Cup Group D#Germany vs Australia|4–0}}
+|team2={{fb|AUS}}
+|goals1=
+*[[Lukas Podolski|Podolski]] {{goal|8}}
+*[[Miroslav Klose|Klose]] {{goal|26}}
+*[[Thomas Müller|Müller]] {{goal|68}}
+*[[Cacau]] {{goal|70}}
+|goals2=
+|stadium=[[Moses Mabhida Stadium]], [[Durban]]
+|attendance=62,660
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300111116 |title=Germany vs Australia {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300111116/report.html |title=2010 FIFA World Cup South Africa – Matches – Germany v Australia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210105317/http://www.fifa.com/worldcup/matches/round=249722/match=300111116/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/584045869d0f050b/original/r5w5gfittbylh4p6m8tm-pdf.pdf |title=Match Report – Group D – Germany v Australia |publisher=[[FIFA]] |date=13 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055419/https://digitalhub.fifa.com/m/584045869d0f050b/original/r5w5gfittbylh4p6m8tm-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _ger10h2
+ |pattern_b  = _ger10h2
+ |pattern_ra = _ger10h2
+ |pattern_sh = _ger10h2
+ |pattern_so = _ger10h2
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 100000
+ |socks      = FFFFFF
+ |title      = Germany<ref name="ger-aus_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7cb6061b24aec882/original/icsj3ame0lumom3kma5n-pdf.pdf |title=Tactical Line-up – Group D – Germany v Australia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=13 June 2010 |access-date=13 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522180936/https://digitalhub.fifa.com/m/7cb6061b24aec882/original/icsj3ame0lumom3kma5n-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _aus10a
+ |pattern_b  = _aus10A
+ |pattern_ra = _aus10a
+ |pattern_sh = _aus10a
+ |pattern_so = _aus10a
+ |leftarm    = 0000FF
+ |body       = 000040
+ |rightarm   = 0000FF
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = Australia<ref name="ger-aus_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Arne Friedrich]]
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|LB ||'''14'''||[[Holger Badstuber]]
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]]
+|-
+|CM ||'''6''' ||[[Sami Khedira]]
+|-
+|RW ||'''13'''||[[Thomas Müller]]
+|-
+|AM ||'''8''' ||[[Mesut Özil]] || {{yel|12}} || {{suboff|74}}
+|-
+|LW ||'''10'''||[[Lukas Podolski]] || || {{suboff|81}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Cacau]] || {{yel|90+2}} || {{subon|68}}
+|-
+|FW ||'''23'''||[[Mario Gómez]] || || {{subon|74}}
+|-
+|MF ||'''21'''||[[Marko Marin]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-AUS 2010-06-13.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mark Schwarzer]]
+|-
+|RB ||'''8''' ||[[Luke Wilkshire]]
+|-
+|CB ||'''3''' ||[[Craig Moore]] || {{yel|24}}
+|-
+|CB ||'''2''' ||[[Lucas Neill]] ([[Captain (association football)|c]]) || {{yel|46}}
+|-
+|LB ||'''11'''||[[Scott Chipperfield]]
+|-
+|CM ||'''16'''||[[Carl Valeri]] || {{yel|58}}
+|-
+|CM ||'''13'''||[[Vince Grella]] || || {{suboff|46}}
+|-
+|RW ||'''7''' ||[[Brett Emerton]] || || {{suboff|74}}
+|-
+|AM ||'''5''' ||[[Jason Culina]]
+|-
+|LW ||'''19'''||[[Richard Garcia]] || || {{suboff|64}}
+|-
+|CF ||'''4''' ||[[Tim Cahill]] || {{sent off|0|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Brett Holman]] || || {{subon|46}}
+|-
+|FW ||'''17'''||[[Nikita Rukavytsya]] || || {{subon|64}}
+|-
+|MF ||'''15'''||[[Mile Jedinak]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Pim Verbeek]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Lukas Podolski]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />José Luis Camargo ([[Mexican Football Federation|Mexico]])
+<br />Alberto Morín ([[Mexican Football Federation|Mexico]])
+<br />'''[[Fourth official]]:'''
+<br />[[Martin Hansson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Fifth official]]:'''
+<br />Henrik Andrén ([[Swedish Football Association|Sweden]])
+|}
+
+===Germany vs Serbia===
+Germany striker [[Miroslav Klose]] was sent off in the first half, and Serbia went ahead shortly afterwards with a goal from winger [[Milan Jovanović (footballer, born 1981)|Milan Jovanović]].
+
+In the 59th minute, Serbia centre-back [[Nemanja Vidić]] was booked for a handball in the penalty box, but the ensuing penalty kick from [[Lukas Podolski]] was saved by goalkeeper [[Vladimir Stojković]].<ref>{{cite web |title=Play-by-Play |url=https://www.fifa.com/tournaments/archive/worldcup/southafrica2010/matches/round=249722/match=300061470/playbyplay.html |archive-url=https://web.archive.org/web/20140427152606/http://www.fifa.com/tournaments/archive/worldcup/southafrica2010/matches/round=249722/match=300061470/playbyplay.html |url-status=dead |archive-date=27 April 2014 |website=FIFA.com |publisher=FIFA |access-date=11 July 2014}}</ref>
+
+This was Germany's first loss in the group stage of a World Cup since [[1986 FIFA World Cup Group E|the 1986 edition of the tournament]],<ref >{{Cite web |website=MLS Soccer |date=2010 |title=Serbia stun 10-man Germany, blow group open |url=https://www.mlssoccer.com/news/serbia-stun-10-man-germany-blow-group-open}}</ref> and their first penalty miss in a World Cup (excluding penalty shoot-outs) since 1974.<ref >{{Cite web |website=BBC Sport|last=Lyon |first=Sam |date=2010 |title=Germany 0-1 Serbia |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_21/default.stm}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=d3
+|date={{Start date|2010|6|18|df=y}}
+|time=13:30
+|team1={{fb-rt|GER}}
+|score={{score link|2010 FIFA World Cup Group D#Germany vs Serbia|0–1}}
+|team2={{fb|SRB|2004}}
+|goals1=
+|goals2=
+*[[Milan Jovanović (footballer, born 1981)|Jovanović]] {{goal|38}}
+|stadium=[[Nelson Mandela Bay Stadium]], [[Port Elizabeth]]
+|attendance=38,294
+|referee=[[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061470 |title=Germany vs Serbia {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061470/report.html |title=2010 FIFA World Cup South Africa – Matches – Germany v Serbia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210094949/http://www.fifa.com/worldcup/matches/round=249722/match=300061470/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/36a953132c8e30ff/original/sw8dt38wglmlt7chzvew-pdf.pdf |title=Match Report – Group D – Germany v Serbia |publisher=[[FIFA]] |date=18 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055728/https://digitalhub.fifa.com/m/36a953132c8e30ff/original/sw8dt38wglmlt7chzvew-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _ger10h2
+ |pattern_b  = _ger10h2
+ |pattern_ra = _ger10h2
+ |pattern_sh = _ger10h2
+ |pattern_so = _ger10h2
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 100000
+ |socks      = FFFFFF
+ |title      = Germany<ref name="ger-srb_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4752d69ab7afb9f0/original/suxjulzrwehztontvfz7-pdf.pdf |title=Tactical Line-up – Group D – Germany v Serbia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 June 2010 |access-date=18 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172236/https://digitalhub.fifa.com/m/4752d69ab7afb9f0/original/suxjulzrwehztontvfz7-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ser10h
+ |pattern_b  = _srb10h
+ |pattern_ra = _ser10h
+ |pattern_sh = _shorts
+ |pattern_so = _nike_2010_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Serbia<ref name="ger-srb_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]]) || {{yel|32}}
+|-
+|CB ||'''3''' ||[[Arne Friedrich]]
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|LB ||'''14'''||[[Holger Badstuber]] || ||{{suboff|77}}
+|-
+|CM ||'''6''' ||[[Sami Khedira]] || {{yel|22}}
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]] || {{yel|73}}
+|-
+|RW ||'''13'''||[[Thomas Müller]] || ||{{suboff|70}}
+|-
+|AM ||'''8''' ||[[Mesut Özil]] || ||{{suboff|70}}
+|-
+|LW ||'''10'''||[[Lukas Podolski]]
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || {{sent off|2|12|37}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Cacau]] || ||{{subon|70}}
+|-
+|MF ||'''21'''||[[Marko Marin]] || ||{{subon|70}}
+|-
+|FW ||'''23'''||[[Mario Gómez]]|| ||{{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-SRB 2010-06-18.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vladimir Stojković]]
+|-
+|RB ||'''6''' ||[[Branislav Ivanović]] || {{yel|18}}
+|-
+|CB ||'''20'''||[[Neven Subotić]] || {{yel|57}}
+|-
+|CB ||'''5''' ||[[Nemanja Vidić]] || {{yel|59}}
+|-
+|LB ||'''3''' ||[[Aleksandar Kolarov]] || {{yel|19}}
+|-
+|DM ||'''22'''||[[Zdravko Kuzmanović]] || ||{{suboff|75}}
+|-
+|CM ||'''18'''||[[Miloš Ninković]] || ||{{suboff|70}}
+|-
+|CM ||'''10'''||[[Dejan Stanković]] ([[Captain (association football)|c]])
+|-
+|RW ||'''17'''||[[Miloš Krasić]]
+|-
+|LW ||'''14'''||[[Milan Jovanović (footballer, born 1981)|Milan Jovanović]] || ||{{suboff|79}}
+|-
+|CF ||'''15'''||[[Nikola Žigić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4''' ||[[Gojko Kačar]] || ||{{subon|70}}
+|-
+|MF ||'''19'''||[[Radosav Petrović]] || ||{{subon|75}}
+|-
+|FW ||'''8''' ||[[Danko Lazović]] || ||{{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Radomir Antić]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Vladimir Stojković]] (Serbia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Fermín Martínez ([[Royal Spanish Football Federation|Spain]])
+<br />Juan Carlos Yuste Jiménez ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Fourth official]]:'''
+<br />[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Fifth official]]:'''
+<br />Carlos Pastorino ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Ghana vs Australia===
+With Tim Cahill serving a one match suspension after his red card against Germany, Pim Verbeek opted to start veteran forward [[Harry Kewell]]. Australia took an early lead when a freekick from [[Mark Bresciano]] was fumbled by Ghana goalkeeper [[Richard Kingson]] into the path of [[Brett Holman]], who clipped the ball into the top corner of the Ghana goal.<ref name="BBCGhanaAust">{{Cite web | website=BBC Sport| last=Sheringham |first=Sam |date=2010 |title=Ghana 1-1 Australia |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_25/default.stm}}</ref>
+
+Later in the first half, [[Jonathan Mensah]] struck a powerful shot towards the Australia goal which was blocked on the goal line by Harry Kewell's upper arm. Kewell was shown a straight red card and a penalty was awarded to Ghana. [[Asamoah Gyan]] converted the penalty kick, sending Australia goalkeeper [[Mark Schwarzer]] the wrong way.<ref name="BBCGhanaAust"/> It was Gyan's second successful penalty of the tournament.
+
+Ghana made the most of their man advantage after Kewell's dismissal and applied pressure on Australia. [[Kevin-Prince Boateng]] made his way into the Australia penalty box and unleashed a powerful right-footed shot that was parried around the post by Schwarzer, and shortly after the half-time break, Schwarzer parried a curling shot from Gyan.<ref name="BBCGhanaAust"/>
+
+As the second half continued, Ghana appeared to lack creativity and instead resorted to long range shots. Out of the 22 shots taken, only six were on target.<ref name="BackPageAUSGHANA">{{Cite web |website=Backpage Football| last=Sherwin |first=Neil |date=9 June 2010 |title=Talking Points: Australia 1-1 Ghana |url=https://backpagefootball.com/talking-points-australia-1-1-ghana/6810/}}</ref> Australia substitute [[Scott Chipperfield]] headed over the bar from a [[Luke Wilkshire]] cross, then shortly afterwards, Wilkshire himself found himself one on one with the Ghana goalkeepr, but his weak shot was smothered by Kingson. Josh Kennedy was unable to make solid contact with the rebound, and the ball was subsequently saved and cleared.<ref name="BackPageAUSGHANA"/>
+
+Late in the second half, Ghana had the opportunity to take the lead when [[Quincy Owusu-Abeyie]] took a fine strike towards the Australia goal which was saved by Schwarzer, and the game finished 1–1 shortly afterwards.<ref name="BackPageAUSGHANA"/>
+
+After the match, Australia coach Pim Verbeek praised his team's efforts for getting a draw with a man sent off, but felt the red card against Harry Kewell was harsh and there was nothing Kewell could've done other than cutting his arm off.<ref>{{Cite web |website=ABC News|last=Maasdorp |first=James |date=20 Jun 2010 |title=Spirited Socceroos keep Ghana at bay |url=https://www.abc.net.au/news/2010-06-20/spirited-socceroos-keep-ghana-at-bay/873216}}</ref> Kewell watched the match from the team dressing room after his dismissal and later stated that the referee had killed his World Cup tournament.<ref >{{Cite web |website=ABC News |date=20 Jun 2010 |title=Referee has killed my tournament: Kewell |url=https://www.abc.net.au/news/2010-06-20/referee-has-killed-my-tournament-kewell/873380}}</ref> 
+
+<onlyinclude>{{#invoke:Football box|main|section=d4
+|date={{Start date|2010|6|19|df=y}}
+|time=16:00
+|team1={{fb-rt|GHA}}
+|score={{score link|2010 FIFA World Cup Group D#Ghana vs Australia|1–1}}
+|team2={{fb|AUS}}
+|goals1=
+*[[Asamoah Gyan|Gyan]] {{goal|25|pen.}}
+|goals2=
+*[[Brett Holman|Holman]] {{goal|11}}
+|stadium=[[Royal Bafokeng Stadium]], [[Rustenburg, North West|Rustenburg]]
+|attendance=34,812
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061469 |title=Ghana vs Australia {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061469/report.html |title=2010 FIFA World Cup South Africa – Matches – Ghana v Australia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171208055931/http://www.fifa.com/worldcup/matches/round=249722/match=300061469/report.html |archive-date=8 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/906c9f7226a70df/original/jfnyjdxaltjlbvbfheim-pdf.pdf |title=Match Report – Group D – Ghana v Australia |publisher=[[FIFA]] |date=19 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055822/https://digitalhub.fifa.com/m/906c9f7226a70df/original/jfnyjdxaltjlbvbfheim-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _gan1012h
+ |pattern_b  = _gan1012h
+ |pattern_ra = _gan1012h
+ |pattern_sh = _gan1012h
+ |pattern_so = _gha10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ghana<ref name="gha-aus_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4a913a2e36cc9138/original/tgse8icukk4fwudha2nt-pdf.pdf |title=Tactical Line-up – Group D – Ghana v Australia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 June 2010 |access-date=19 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172305/https://digitalhub.fifa.com/m/4a913a2e36cc9138/original/tgse8icukk4fwudha2nt-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _aus10h
+ |pattern_b  = _aus10H
+ |pattern_ra = _aus10h
+ |pattern_sh = _aus10h
+ |pattern_so = _aus10h
+ |leftarm    = 004044
+ |body       = FFBB00
+ |rightarm   = 004044
+ |shorts     = 004044
+ |socks      = FFBB00
+ |title      = Australia<ref name="gha-aus_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Richard Kingson]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[John Paintsil]]
+|-
+|CB ||'''8''' ||[[Jonathan Mensah]] || {{yel|79}}
+|-
+|CB ||'''19'''||[[Lee Addy]] || {{yel|40}}
+|-
+|LB ||'''2''' ||[[Hans Sarpei]]
+|-
+|DM ||'''6''' ||[[Anthony Annan]] || {{yel|84}}
+|-
+|CM ||'''23'''||[[Kevin-Prince Boateng]] || || {{suboff|87}}
+|-
+|RW ||'''12'''||[[Prince Tagoe]] || || {{suboff|56}}
+|-
+|AM ||'''21'''||[[Kwadwo Asamoah]] || || {{suboff|77}}
+|-
+|LW ||'''13'''||[[André Ayew]]
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Quincy Owusu-Abeyie]] || || {{subon|56}}
+|-
+|MF ||'''11'''||[[Sulley Muntari]] || || {{subon|77}}
+|-
+|FW ||'''14'''||[[Matthew Amoah]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|SRB|2004}} [[Milovan Rajevac]]
+|}
+|valign="top"|[[File:GHA-AUS 2010-06-19.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Mark Schwarzer]]
+|-
+|RB ||'''8''' ||[[Luke Wilkshire]] || || {{suboff|84}}
+|-
+|CB ||'''2''' ||[[Lucas Neill]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Craig Moore]] || {{yel|85}}
+|-
+|LB ||'''21'''||[[David Carney]]
+|-
+|CM ||'''5''' ||[[Jason Culina]]
+|-
+|CM ||'''16'''||[[Carl Valeri]]
+|-
+|RW ||'''7''' ||[[Brett Emerton]]
+|-
+|AM ||'''14'''||[[Brett Holman]] || || {{suboff|68}}
+|-
+|LW ||'''23'''||[[Mark Bresciano]] || || {{suboff|66}}
+|-
+|CF ||'''10'''||[[Harry Kewell]] || {{sent off|0|24}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''11'''||[[Scott Chipperfield]] || || {{subon|66}}
+|-
+|FW ||'''9''' ||[[Joshua Kennedy]] || || {{subon|68}}
+|-
+|FW ||'''17'''||[[Nikita Rukavytsya]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Pim Verbeek]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Asamoah Gyan]] (Ghana)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Paolo Calcagno ([[Italian Football Federation|Italy]])
+<br />Stefano Ayroldi ([[Italian Football Federation|Italy]])
+<br />'''[[Fourth official]]:'''
+<br />[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Fifth official]]:'''
+<br />Altemir Hausmann ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===Ghana vs Germany===
+This was the first fixture in World Cup history to feature two brothers on opposing sides - [[Jérôme Boateng]] for Germany, and [[Kevin-Prince Boateng]] for Ghana.<ref name="BBCghger">{{Cite web |last=Stevenson |first=Jonathan |date=2010 |website=BBC Sport |title=Ghana 0-1 Germany |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_39}}</ref> Striker [[Cacau]] started the game in place of veteran scorer [[Miroslav Klose]], who was suspended for the game after picking up a red card in Germany's loss to Serbia.<ref name="abcnewsGhGer">{{Cite web |website=ABC News |date=24 Jun 2010 |title=Ozil goal fires Germany into last 16 |url=https://www.abc.net.au/news/2010-06-24/ozil-goal-fires-germany-into-last-16/878804}}</ref>
+ 
+Both teams had chances to score in the first half - [[André Ayew]] managed a shot within the Germany penalty area, and [[Mesut Özil]] was denied by Ghana goalkeeper [[Richard Kingson]].<ref >{{Cite web |website=CNN |date=23 June 2010 |title=Germany and Ghana go through from Group D |url=https://edition.cnn.com/2010/SPORT/football/06/23/germany.ghana.serbia.australia/index.html}}</ref>
+
+After 60 minutes, Germany took the lead when Özil's long-range strike from outside the penalty box went into the top corner of the Ghana goal. Moments later, Ghana almost found an instant equalizer when Boateng cleared [[Prince Tagoe|Prince Tagoe's]] header off the line.<ref name="BBCghger"/>
+
+When the game finished 1–0 to Germany, Ghana waited for the result from Nelspruit, where Australia was playing Serbia. With Australia winning 2–1, they finished on equal points as Ghana, but Ghana pipped them to second spot due to having a superior goal difference, thereby qualifying for the round of 16 as the sole team representing Africa.<ref name="abcnewsGhGer"/>
+<onlyinclude>{{#invoke:Football box|main|section=d5
+|date={{Start date|2010|6|23|df=y}}
+|time=20:30
+|team1={{fb-rt|GHA}}
+|score={{score link|2010 FIFA World Cup Group D#Ghana vs Germany|0–1}}
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Mesut Özil|Özil]] {{goal|60}}
+|stadium=[[Soccer City]], [[Johannesburg]]
+|attendance=83,391
+|referee=[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061468 |title=Ghana vs Germany {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061468/report.html |title=2010 FIFA World Cup South Africa – Matches – Ghana v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210105214/http://www.fifa.com/worldcup/matches/round=249722/match=300061468/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/e4d4d327d23fd05/original/mjde6qfqf9yuypxc67fh-pdf.pdf |title=Match Report – Group D – Ghana v Germany |publisher=[[FIFA]] |date=23 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060227/https://digitalhub.fifa.com/m/e4d4d327d23fd05/original/mjde6qfqf9yuypxc67fh-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _gan1012h
+ |pattern_b  = _gan1012h
+ |pattern_ra = _gan1012h
+ |pattern_sh = _gan1012h
+ |pattern_so = _gha10h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ghana<ref name="gha-ger_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/bc0777eb3f4e08f/original/j5kddnoqgtgbsc6kwxul-pdf.pdf |title=Tactical Line-up – Group D – Ghana v Germany |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=23 June 2010 |access-date=23 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522181239/https://digitalhub.fifa.com/m/bc0777eb3f4e08f/original/j5kddnoqgtgbsc6kwxul-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ger10a2
+ |pattern_b  = _ger10a2
+ |pattern_ra = _ger10a2
+ |pattern_sh = _ger10h2
+ |pattern_so = _ger10al
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Germany<ref name="gha-ger_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|RB ||'''4''' ||[[John Paintsil]]
+|-
+|CB ||'''5''' ||[[John Mensah]] ([[Captain (association football)|c]])
+|-
+|CB ||'''8''' ||[[Jonathan Mensah]]
+|-
+|LB ||'''2''' ||[[Hans Sarpei]]
+|-
+|DM ||'''6''' ||[[Anthony Annan]]
+|-
+|CM ||'''23'''||[[Kevin-Prince Boateng]]
+|-
+|CM ||'''21'''||[[Kwadwo Asamoah]]
+|-
+|RW ||'''12'''||[[Prince Tagoe]] || ||{{suboff|64}}
+|-
+|LW ||'''13'''||[[André Ayew]] || {{yel|40}} || {{suboff|90+2}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] || ||{{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Sulley Muntari]] || || {{subon|64}}
+|-
+|FW ||'''14'''||[[Matthew Amoah]] || || {{subon|82}}
+|-
+|FW ||'''18'''||[[Dominic Adiyiah]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|SRB|2004}} [[Milovan Rajevac]]
+|}
+|valign="top"|[[File:GER-GHA 2010-06-23.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''3''' ||[[Arne Friedrich]]
+|-
+|LB ||'''20'''||[[Jérôme Boateng]] || || {{suboff|73}}
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]] || || {{suboff|81}}
+|-
+|CM ||'''6''' ||[[Sami Khedira]]
+|-
+|RW ||'''13'''||[[Thomas Müller]] || {{yel|43}} || {{suboff|67}}
+|-
+|AM ||'''8''' ||[[Mesut Özil]]
+|-
+|LW ||'''10'''||[[Lukas Podolski]]
+|-
+|CF ||'''19'''||[[Cacau]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Piotr Trochowski]] || || {{subon|67}}
+|-
+|MF ||'''2''' ||[[Marcell Jansen]] || || {{subon|73}}
+|-
+|MF ||'''18'''||[[Toni Kroos]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Mesut Özil]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Altemir Hausmann ([[Brazilian Football Confederation|Brazil]])
+<br />Roberto Braatz ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Fourth official]]:'''
+<br />[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Fifth official]]:'''
+<br />Carlos Pastorino ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Australia vs Serbia===
+Australia came into the fixture seeking their first win of the tournament. Serbia, having defeated Germany in their previous fixture, only required a draw to progress to the knockout stage.
+
+[[Harry Kewell]], serving a suspension after his sending off against Ghana, was replaced by [[Joshua Kennedy]]. This was the first time Kennedy was included in the starting line-up at this World Cup.<ref name="WestAustAUSSER">{{Cite web |website=The West Australian |last=COOK |first=JONATHAN |date=24 June 2010 |title=Socceroos out despite win over Serbia |url=https://thewest.com.au/sport/soccer/socceroos-out-despite-win-over-serbia-ng-ya-207737}}</ref>
+
+In the opening minutes, Serbia had the better of the chances, with [[Miloš Krasić]] getting into Australia's penalty area and tumbling following his shirt being pulled by [[Carl Valeri]], but appeals for a penalty were waved away. Minutes later, Krasić found himself one-on-one with Australia goalkeeper [[Mark Schwarzer]], but was forced to shoot wide.<ref name="WestAustAUSSER"/>
+
+In the second half, Australia showed more attacking intent, with Mark Bresciano drawing a fine save from Serbia goalkeeper [[Vladimir Stojković]]. After 69 minutes, [[Luke Wilkshire|Luke Wilkshire's]] cross into the penalty box was headed into the Serbia goal by [[Tim Cahill]]. Four minutes later, [[Brett Holman]] doubled the advantage for Australia with a long-range strike.<ref name="WestAustAUSSER"/>
+
+Substitute [[Marko Pantelić]] pulled a goal back for Serbia in the 84th minute after Schwarzer spilled a shot from [[Zoran Tošić]]. Moments later, Pantelić scored what looked like an equalizing goal, but it was cancelled for offside.<ref >{{Cite web |website=Sky Sports |date=23 June 2010 |title=Serbia pay the price |url=https://www.skysports.com/football/australia-vs-serbia/211308}}</ref> At the end of the match, Serbia were denied claims for a penalty when Cahill handballed in his own penalty area after rising for a header.<ref >{{Cite web |last=Hall |first=Matthew | website=The Guardian |date=24 Jun 2010 |title=World Cup 2010: Tim Cahill inspires Australia to victory over Serbia |url=https://www.theguardian.com/football/2010/jun/23/australia-serbia-world-cup-match-report}}</ref>
+
+With the game finishing 2–1 to Australia and Ghana losing to Germany 1–0, Australia ended their campaign third in the group due to their inferior goal difference. Germany topped the group to face [[2010 FIFA World Cup knockout stage#Germany vs England|England in the round of 16]], and Ghana went on to face [[2010 FIFA World Cup knockout stage#United States vs Ghana|the United States]].
+
+This match was coach [[Pim Verbeek|Pim Verbeek's]] last in charge of Australia.<ref name="WestAustAUSSER"/>
+<onlyinclude>{{#invoke:Football box|main|section=d6
+|date={{Start date|2010|6|23|df=y}}
+|time=20:30
+|team1={{fb-rt|AUS}}
+|score={{score link|2010 FIFA World Cup Group D#Australia vs Serbia|2–1}}
+|team2={{fb|SRB|2004}}
+|goals1=
+*[[Tim Cahill|Cahill]] {{goal|69}}
+*[[Brett Holman|Holman]] {{goal|73}}
+|goals2=
+*[[Marko Pantelić|Pantelić]] {{goal|84}}
+|stadium=[[Mbombela Stadium]], [[Nelspruit]]
+|attendance=37,836
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061467 |title=Australia vs Serbia {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061467/report.html |title=2010 FIFA World Cup South Africa – Matches – Australia v Serbia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210095441/http://www.fifa.com/worldcup/matches/round=249722/match=300061467/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7538f9b3e1787180/original/xswbt7wyivwywu5vv87n-pdf.pdf |title=Match Report – Group D – Australia v Serbia |publisher=[[FIFA]] |date=23 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060214/https://digitalhub.fifa.com/m/7538f9b3e1787180/original/xswbt7wyivwywu5vv87n-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la = _aus10h
+ |pattern_b  = _aus10H
+ |pattern_ra = _aus10h
+ |pattern_sh = _aus10h
+ |pattern_so = _aus10h
+ |leftarm    = 004044
+ |body       = FFBB00
+ |rightarm   = 004044
+ |shorts     = 004044
+ |socks      = FFBB00
+ |title      = Australia<ref name="aus-srb_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7f8aac42dd8d9cc5/original/qfwca1smrzy5gppsmh2p-pdf.pdf |title=Tactical Line-up – Group D – Australia v Serbia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=23 June 2010 |access-date=23 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172625/https://digitalhub.fifa.com/m/7f8aac42dd8d9cc5/original/qfwca1smrzy5gppsmh2p-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ser10h
+ |pattern_b  = _srb10h
+ |pattern_ra = _ser10h
+ |pattern_sh = _ned10a
+ |pattern_so = _nike_2010_red
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Serbia<ref name="aus-srb_line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mark Schwarzer]]
+|-
+|RB ||'''8''' ||[[Luke Wilkshire]] || {{yel|50}} || {{suboff|82}}
+|-
+|CB ||'''6''' ||[[Michael Beauchamp]] || {{yel|49}}
+|-
+|CB ||'''2''' ||[[Lucas Neill]] ([[Captain (association football)|c]])
+|-
+|LB ||'''21'''||[[David Carney]]
+|-
+|CM ||'''5''' ||[[Jason Culina]]
+|-
+|CM ||'''16'''||[[Carl Valeri]] || || {{suboff|66}}
+|-
+|RW ||'''7''' ||[[Brett Emerton]] || {{yel|67}}
+|-
+|AM ||'''4''' ||[[Tim Cahill]]
+|-
+|LW ||'''23'''||[[Mark Bresciano]] || || {{suboff|66}}
+|-
+|CF ||'''9''' ||[[Joshua Kennedy]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''11'''||[[Scott Chipperfield]] || || {{subon|66}}
+|-
+|FW ||'''14'''||[[Brett Holman]] || || {{subon|66}}
+|-
+|MF ||'''19'''||[[Richard Garcia]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NED}} [[Pim Verbeek]]
+|}
+|valign="top"|[[File:AUS-SRB 2010-06-23.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vladimir Stojković]]
+|-
+|RB ||'''6''' ||[[Branislav Ivanović]]
+|-
+|CB ||'''5''' ||[[Nemanja Vidić]]
+|-
+|CB ||'''13'''||[[Aleksandar Luković]] || {{yel|18}}
+|-
+|LB ||'''16'''||[[Ivan Obradović]]
+|-
+|DM ||'''22'''||[[Zdravko Kuzmanović]] || || {{suboff|77}}
+|-
+|CM ||'''10'''||[[Dejan Stanković]] ([[Captain (association football)|c]])
+|-
+|CM ||'''18'''||[[Miloš Ninković]] || {{yel|59}}
+|-
+|RW ||'''17'''||[[Miloš Krasić]] || || {{suboff|62}}
+|-
+|LW ||'''14'''||[[Milan Jovanović (footballer, born 1981)|Milan Jovanović]]
+|-
+|CF ||'''15'''||[[Nikola Žigić]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Zoran Tošić]] || || {{subon|62}}
+|-
+|FW ||'''9''' ||[[Marko Pantelić]] || || {{subon|67}}
+|-
+|FW ||'''8''' ||[[Danko Lazović]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Radomir Antić]]
+|}
+|}
+{| style="width:50%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Tim Cahill]] (Australia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Pablo Fandino ([[Uruguayan Football Association|Uruguay]])
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Fourth official]]:'''
+<br />[[Carlos Batres]] ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Fifth official]]:'''
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+|}
+
+==See also==
+*[[Australia at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Ghana at the FIFA World Cup]]
+*[[Serbia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Group D}}
+[[Category:2010 FIFA World Cup group stage|D]]
+[[Category:Germany at the 2010 FIFA World Cup|Group]]
+[[Category:Australia at the 2010 FIFA World Cup]]
+[[Category:Ghana at the 2010 FIFA World Cup|Group]]
+[[Category:Serbia at the 2010 FIFA World Cup]]
+[[Category:Sports competitions in Pretoria]]
+[[Category:Sports competitions in Durban]]
+[[Category:Sports competitions in Gqeberha]]
+[[Category:Rustenburg]]
+[[Category:Sports competitions in North West (South African province)]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Mbombela]]
+[[Category:Sport in Mpumalanga]]

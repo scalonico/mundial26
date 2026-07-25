@@ -1,0 +1,2560 @@
+{{Short description|None}}
+{{Use British English|date=July 2018}}
+{{Use dmy dates|date=November 2017}}
+
+The knockout stage of the [[2018 FIFA World Cup]] was the second and final stage of the competition, following the group stage. It began on 30 June with the round of 16 and ended on 15 July with the [[2018 FIFA World Cup Final|final match]], held at the [[Luzhniki Stadium]] in [[Moscow]].<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |url-status=dead |archive-url=https://web.archive.org/web/20180624041527/https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |archive-date=24 June 2018}}</ref> The top two teams from each group (16 in total) advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament. A [[#Match for third place|match for third place]] was also played between the two losing teams of the semi-finals.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017 |url-status=live |archive-url=https://web.archive.org/web/20170712134322/http://resources.fifa.com/mm/document/tournament/competition/02/84/35/19/regulationsfwc2018en_neutral.pdf |archive-date=12 July 2017}}</ref>
+
+[[France national football team|France]] won the final 4–2 against [[Croatia national football team|Croatia]] for their second title,<ref>{{cite news |url=https://www.fifa.com/worldcup/news/formidable-france-secure-second-title |title=Formidable France secure second title |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 July 2018 |access-date=15 July 2018}}</ref> while [[Belgium national football team|Belgium]] won the match for third place 2–0 over [[England national football team|England]].
+
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+==Format==
+In the knockout stage, if a match was level at the end of 90 minutes of normal playing time, [[Overtime (sports)#Association football|extra time]] was played (two periods of 15 minutes each), where each team was allowed to make a fourth [[Substitute (association football)|substitution]].<ref>{{cite news |url=https://www.fifa.com/about-fifa/news/y=2018/m=3/news=fifa-council-decides-on-key-steps-for-the-future-of-international-competitions.html |title=FIFA Council decides on key steps for the future of international competitions |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 March 2018 |access-date=4 July 2018 |url-status=dead |archive-url=https://web.archive.org/web/20180331053615/http://www.fifa.com/about-fifa/news/y=2018/m=3/news=fifa-council-decides-on-key-steps-for-the-future-of-international-competitions.html |archive-date=31 March 2018}}</ref> If still tied after extra time, the match was decided by a [[Penalty shoot-out (association football)|penalty shoot-out]] to determine the winners.<ref name="regulations"/>
+
+==Qualified teams==
+The top two placed teams from each of the eight groups qualified for the knockout stage.<ref name="regulations"/>
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[2018 FIFA World Cup Group A|A]]
+| {{fb|URU}}
+| {{fb|RUS}}
+|-
+! [[2018 FIFA World Cup Group B|B]]
+| {{fb|ESP}}
+| {{fb|POR}}
+|-
+! [[2018 FIFA World Cup Group C|C]]
+| {{fb|FRA|1974}}
+| {{fb|DEN}}
+|-
+! [[2018 FIFA World Cup Group D|D]]
+| {{fb|CRO}}
+| {{fb|ARG}}
+|-
+! [[2018 FIFA World Cup Group E|E]]
+| {{fb|BRA}}
+| {{fb|SUI}}
+|-
+! [[2018 FIFA World Cup Group F|F]]
+| {{fb|SWE}}
+| {{fb|MEX}}
+|-
+! [[2018 FIFA World Cup Group G|G]]
+| {{fb|BEL}}
+| {{fb|ENG}}
+|-
+! [[2018 FIFA World Cup Group H|H]]
+| {{fb|COL}}
+| {{fb|JPN}}
+|}
+
+==Bracket==
+<section begin=bracket />{{#invoke:RoundN|N16
+|style=white-space:nowrap|3rdplace=yes|bold_winner=high|widescore=yes
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!--Date-Place|Team 1|Score 1|Team 2|Score 2-->
+<!--Round of 16-->
+|30 June – [[Sochi]]|{{fb|URU}}|2|{{fb|POR}}|1
+|30 June – [[Kazan]]|{{fb|FRA|1974}}|4|{{fb|ARG}}|3
+|2 July – [[Samara]]|{{fb|BRA}}|2|{{fb|MEX}}|0
+|2 July – [[Rostov-on-Don]]|{{fb|BEL}}|3|{{fb|JPN}}|2
+|1 July – [[Moscow]] ([[Luzhniki Stadium|Luzhniki]])|{{fb|ESP}}|1 (3)|{{fb|RUS}} {{pso}}|1 (4)
+|1 July – [[Nizhny Novgorod]]|{{fb|CRO}} {{pso}}|1 (3)|{{fb|DEN}}|1 (2)
+|3 July – [[Saint Petersburg]]|{{fb|SWE}}|1|{{fb|SUI}}|0
+|3 July – [[Moscow]] ([[Otkritie Arena|Otkritie]])|{{fb|COL}}|1 (3)|{{fb|ENG}} {{pso}}|1 (4)
+<!--Quarter-finals-->
+|6 July – [[Nizhny Novgorod]]|{{fb|URU}}|0|{{fb|FRA|1974}}|2
+|6 July – [[Kazan]]|{{fb|BRA}}|1|{{fb|BEL}}|2
+|7 July – [[Sochi]]|{{fb|RUS}}|2 (3)|{{fb|CRO}} {{pso}}|2 (4)
+|7 July – [[Samara]]|{{fb|SWE}}|0|{{fb|ENG}}|2
+<!--Semi-finals-->
+|10 July – [[Saint Petersburg]]|{{fb|FRA|1974}}|1|{{fb|BEL}}|0
+|11 July – [[Moscow]] ([[Luzhniki Stadium|Luzhniki]])|{{fb|CRO}} {{aet}}|2|{{fb|ENG}}|1
+<!--Final-->
+|15 July – [[Moscow]] ([[Luzhniki Stadium|Luzhniki]])|{{fb|FRA|1974}}|4|{{fb|CRO}}|2
+<!--3rd Place-->
+|14 July – [[Saint Petersburg]]|{{fb|BEL}}|2|{{fb|ENG}}|0
+}}<section end=bracket />
+
+==Round of 16==
+
+===France vs Argentina===
+[[File:FRA-ARG (21).jpg|thumb|Match referee [[Alireza Faghani]] presents one of eight [[Penalty card|yellow cards]] during the match.]]
+The teams had faced each other in 11 previous matches, including two World Cup group stage matches, both won by Argentina ([[1930 FIFA World Cup Group 1#Argentina vs France|1–0]] in 1930, and [[1978 FIFA World Cup Group 1#Argentina vs France|2–1]] in 1978).<ref name="statistical kit">{{cite web |url=https://digitalhub.fifa.com/m/34cfdea0e0f99b9c/original/yordczhbifo8h92guz7u-pdf.pdf |title=Statistical Kit for the FIFA World Cup |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=2 July 2018}}</ref>
+
+After nine minutes, [[Antoine Griezmann]]'s 25-yard free-kick crashed back off [[Franco Armani]]'s crossbar. After picking the ball up deep inside his own half, [[Kylian Mbappé]] set off on a run that was halted when [[Marcos Rojo]] hauled him down just inside the area. Griezmann stepped up and converted from the spot, sending the ball low to Armani's right. Four minutes before the interval, [[Ángel Di María]] shot from distance with his left foot to beat [[Hugo Lloris]] into the top right corner of the net. Three minutes after the restart, [[Éver Banega]]'s free-kick was headed out towards [[Lionel Messi]] whose effort towards goal from the right was diverted past Lloris by [[Gabriel Mercado]] with his left leg. Nine minutes later, [[Lucas Hernandez]]'s cross from the left found [[Benjamin Pavard]], who shot a half-volley from outside the area, sending it into Armani's top-right corner. Pavard’s goal was later voted the best [[FIFA World Cup awards#Goal of the Tournament|goal of the tournament]].<ref>{{Cite web |date=2018-07-25 |title=2018 FIFA World Cup Russia™ - News - Pavard's stunner voted Hyundai Goal of the Tournament - FIFA.com |url=https://www.fifa.com/worldcup/news/pavard-s-stunner-voted-hyundai-goal-of-the-tournament |access-date=2025-04-25 |archive-url=https://web.archive.org/web/20180725163638/https://www.fifa.com/worldcup/news/pavard-s-stunner-voted-hyundai-goal-of-the-tournament |archive-date=25 July 2018 }}</ref> Mbappé put France ahead again in the 64th minute when he picked up a loose ball in the left of the area, found a yard of space and fired in low with his left foot under Armani. His second – a first-time low finish from the right of the penalty area with his right foot – followed just four minutes later.<ref name="Goal France v Argentina">{{cite web |last1=Atkinson |first1=Guy |title=Mbappe turns on the style to dump out Messi's men |url=http://www.goal.com/en-in/match/france-v-argentina/66pdxwjvvzjy3f5r6fqcy7d9l |publisher=Goal.com |date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180710090326/http://www.goal.com/en-in/match/france-v-argentina/66pdxwjvvzjy3f5r6fqcy7d9l |archive-date=10 July 2018}}</ref> [[Sergio Agüero]] nodded home in the third minute of stoppage time from a Messi cross from the right.<ref>{{cite web |last1=Jennings |first1=Patrick |title=BBC France 4 Argentina 3 |url=https://www.bbc.co.uk/sport/football/44439354 |publisher=BBC Sport |date=30 June 2018 }}</ref> Argentina, however, was unable to equalize to send the match to extra-time from being eliminated of the tournament .<ref>{{cite web |last1=Steinberg |first1=Jacob |title=Guardian France 4 Argentina 3 |url=https://www.theguardian.com/football/live/2018/jun/30/world-cup-2018-france-v-argentina-live?page=with:block-5b37a6c1e4b0c089ab2b8052#block-5b37a6c1e4b0c089ab2b8052 |work=The Guardian |date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180710090326/https://www.theguardian.com/football/live/2018/jun/30/world-cup-2018-france-v-argentina-live?page=with:block-5b37a6c1e4b0c089ab2b8052#block-5b37a6c1e4b0c089ab2b8052 |archive-date=10 July 2018}}</ref> This game was hailed as "one of the greatest World Cup games of all time" by ''[[The Independent]]''.<ref>{{cite web |last1=Liew |first1=Jonathan |title=Why France vs Argentina was one of the greatest World Cup games of all time |url=https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-france-vs-argentina-great-games-of-all-time-kylian-mbappe-lionel-messi-a8425386.html |work=The Independent |date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180710090326/https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-france-vs-argentina-great-games-of-all-time-kylian-mbappe-lionel-messi-a8425386.html |archive-date=10 July 2018}}</ref>
+
+With this match, [[Didier Deschamps]] became the longest-serving coach in the history of the France national team with his 80th game in charge of France, moving ahead of his predecessor [[Raymond Domenech]].<ref name="FRA-ARG recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-france--argentina-2978977 |title=France into quarter-finals after seven-goal thriller |publisher=FIFA |date=30 June 2018 |access-date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520053317/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-france--argentina-2978977 |archive-date=20 May 2026}}</ref> Mbappé became the first teenager to score at least twice in a World Cup tournament since [[Michael Owen]] in 1998, and the first teenager to score at least twice in a single World Cup match since [[Pelé]] netted twice for Brazil against Sweden in the [[1958 FIFA World Cup final|1958 final]]. Argentina became the first team to score at least three goals but still lose a World Cup match since the [[1986 FIFA World Cup knockout stage#Soviet Union vs Belgium|Soviet Union vs Belgium]] in 1986, and was also the first time that Argentina had been eliminated in the round of 16 since [[1994 FIFA World Cup knockout stage#Romania vs Argentina|1994]], when they were defeated by [[Romania national football team|Romania]].<ref name="Goal France v Argentina"/>
+
+<section begin=r16-1 />{{Football box
+|date={{Start date|2018|6|30|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2018 FIFA World Cup knockout stage#France vs Argentina|4–3}}
+|team2={{fb|ARG}}
+|goals1=
+*[[Antoine Griezmann|Griezmann]] {{goal|13|pen.}}
+*[[Benjamin Pavard|Pavard]] {{goal|57}}
+*[[Kylian Mbappé|Mbappé]] {{goal|64||68}}
+|goals2=
+*[[Ángel Di María|Di María]] {{goal|41}}
+*[[Gabriel Mercado|Mercado]] {{goal|48}}
+*[[Sergio Agüero|Agüero]] {{goal|90+3}}
+|stadium=[[Kazan Arena]], [[Kazan]]
+|attendance=42,873
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331537 |title=France vs Argentina {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/65f2f46f0e31393f/original/l8h65vfw78efsgdhw6rh-pdf.pdf |title=Match report – Round of 16 – France v Argentina |publisher=[[FIFA]] |date=30 June 2018 |access-date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063819/https://digitalhub.fifa.com/m/65f2f46f0e31393f/original/l8h65vfw78efsgdhw6rh-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _frank18h
+ |pattern_b  = _fra18ho
+ |pattern_ra = _frank18h
+ |pattern_sh = _POR18A
+ |pattern_so = _fra18H
+ |leftarm    = 112855
+ |body       = 112855
+ |rightarm   = 112855
+ |shorts     = 112855
+ |socks      = F1030A
+ |title      = France<ref name="FRA-ARG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/541a6c15d3985282/original/miumldifqrl12r0z6iac-pdf.pdf |title=Tactical Line-up – Round of 16 – France v Argentina |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=30 June 2018 |access-date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175828/https://digitalhub.fifa.com/m/541a6c15d3985282/original/miumldifqrl12r0z6iac-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _arg18H
+ |pattern_ra =
+ |pattern_sh = _arg18h
+ |pattern_so = _arg18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina<ref name="FRA-ARG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Benjamin Pavard]] || {{yel|73}}
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Samuel Umtiti]]
+|-
+|LB ||'''21'''||[[Lucas Hernandez]]
+|-
+|CM ||'''13'''||[[N'Golo Kanté]]
+|-
+|CM ||'''6''' ||[[Paul Pogba]]
+|-
+|RW ||'''10'''||[[Kylian Mbappé]] || || {{suboff|89}}
+|-
+|AM ||'''7''' ||[[Antoine Griezmann]] || || {{suboff|83}}
+|-
+|LW ||'''14'''||[[Blaise Matuidi]] || {{yel|72}} || {{suboff|75}}
+|-
+|CF ||'''9''' ||[[Olivier Giroud]] || {{yel|90+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''12'''||[[Corentin Tolisso]] || || {{subon|75}}
+|-
+|FW ||'''18'''||[[Nabil Fekir]] || || {{subon|83}}
+|-
+|FW ||'''20'''||[[Florian Thauvin]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-ARG 2018-06-30.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Franco Armani]]
+|-
+|RB ||'''2''' ||[[Gabriel Mercado]]
+|-
+|CB ||'''17'''||[[Nicolás Otamendi]] || {{yel|90+3}}
+|-
+|CB ||'''16'''||[[Marcos Rojo]] || {{yel|11}} || {{suboff|46}}
+|-
+|LB ||'''3''' ||[[Nicolás Tagliafico]] || {{yel|19}}
+|-
+|CM ||'''15'''||[[Enzo Pérez]] || || {{suboff|66}}
+|-
+|CM ||'''14'''||[[Javier Mascherano]] || {{yel|43}}
+|-
+|CM ||'''7''' ||[[Éver Banega]] || {{yel|50}}
+|-
+|RF ||'''22'''||[[Cristian Pavón]] || || {{suboff|75}}
+|-
+|CF ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|LF ||'''11'''||[[Ángel Di María]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Federico Fazio]] || || {{subon|46}}
+|-
+|FW ||'''19'''||[[Sergio Agüero]] || || {{subon|66}}
+|-
+|MF ||'''13'''||[[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jorge Sampaoli]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Kylian Mbappé]] (France)<ref name="FRA-ARG recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="FRA-ARG line-ups"/>
+<br />Reza Sokhandan ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />[[Mohammadreza Mansouri]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Christian Schiemann ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===Uruguay vs Portugal===
+[[File:URU-POR (17).jpg|thumb|The Uruguayan team celebrates after [[Edinson Cavani]] scores his team's second goal in the 62nd minute.]]
+The teams had met in two previous matches, most recently in [[Brazil Independence Cup]] in 1972, the match ending in a 1–1 draw.<ref name="statistical kit"/>
+
+In the seventh minute, [[Edinson Cavani]] switched play from right to left with a sweeping pass out to [[Luis Suárez]], who delivered a cross which the former crashed home at the back post from six yards out. In the 55th minute, [[Raphaël Guerreiro]] delivered a cross from a short corner on the left, which [[Pepe (footballer, born 1983)|Pepe]] finished with a downward header. Just seven minutes later, [[Rodrigo Bentancur]] collected the ball around 30 yards out and slipped a pass out to Cavani on the left side of the penalty area, Cavani then shot a [[Curl (football)|curling]] right-foot strike into the right corner of the net to reclaim the lead for Uruguay. [[Bernardo Silva]] shot off-target with the goal gaping after [[Fernando Muslera]]'s mistake, with Cavani seeming to pick up an injury in the scramble.<ref>{{cite web |last1=Smith |first1=Jamie |title=Cavani brace sends tearful Ronaldo home early |url=http://www.goal.com/en/match/uruguay-v-portugal/66lsube18siy28cytac5ja8kp |publisher=Goal.com |date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20180701164901/http://www.goal.com/en/match/uruguay-v-portugal/66lsube18siy28cytac5ja8kp |archive-date=1 July 2018}}</ref>
+
+Pepe, aged 35 years and 124 days, became Portugal's oldest goal-scorer at a FIFA World Cup.<ref name="URU-POR recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/cavani-fires-la-celeste-past-european-champions-2979265 |title=Cavani fires La Celeste past European champions |publisher=FIFA |date=30 June 2018 |access-date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520053354/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/cavani-fires-la-celeste-past-european-champions-2979265 |archive-date=20 May 2026}}</ref> This was the first time Uruguay won their opening four games at a World Cup tournament since 1930, with the fourth game in that run being their [[1930 FIFA World Cup Final|4–2]] victory over Argentina in the final.<ref>{{cite web |last1=Rose |first1=Gary |title=Uruguay 2 Portugal 1 |url=https://www.bbc.co.uk/sport/football/44439361 |publisher=BBC Sport |date=30 June 2018 }}</ref>
+
+<section begin=r16-2 />{{Football box
+|date={{Start date|2018|6|30|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|URU}}
+|score={{score link|2018 FIFA World Cup knockout stage#Uruguay vs Portugal|2–1}}
+|team2={{fb|POR}}
+|goals1=
+*[[Edinson Cavani|Cavani]] {{goal|7||62}}
+|goals2=
+*[[Pepe (footballer, born 1983)|Pepe]] {{goal|55}}
+|stadium=[[Fisht Olympic Stadium]], [[Sochi]]
+|attendance=44,287
+|referee=[[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331544 |title=Uruguay vs Portugal {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/7407a64c04797b24/original/a7jclf27zzuzjo520mpz-pdf.pdf |title=Match report – Round of 16 – Uruguay v Portugal |publisher=[[FIFA]] |date=30 June 2018 |access-date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063833/https://digitalhub.fifa.com/m/7407a64c04797b24/original/a7jclf27zzuzjo520mpz-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _uru18H
+ |pattern_b  = _uru18H
+ |pattern_ra = _uru18H
+ |pattern_sh =
+ |pattern_so = _urug18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay<ref name="URU-POR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4b69f41dcfcc074a/original/datc0fn4ilg9aertqdff-pdf.pdf |title=Tactical Line-up – Round of 16 – Uruguay v Portugal |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=30 June 2018 |access-date=30 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175840/https://digitalhub.fifa.com/m/4b69f41dcfcc074a/original/datc0fn4ilg9aertqdff-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _portugal18a
+ |pattern_b  = _por18A
+ |pattern_ra = _portugal18a
+ |pattern_sh = _POR18A
+ |pattern_so = _por18A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Portugal<ref name="URU-POR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''22'''||[[Martín Cáceres]]
+|-
+|CB ||'''2''' ||[[José María Giménez|José Giménez]]
+|-
+|CB ||'''3''' ||[[Diego Godín]] ([[Captain (association football)|c]])
+|-
+|LB ||'''17'''||[[Diego Laxalt]]
+|-
+|RM ||'''8''' ||[[Nahitan Nández]] || || {{suboff|81}}
+|-
+|CM ||'''14'''||[[Lucas Torreira]]
+|-
+|CM ||'''15'''||[[Matías Vecino]]
+|-
+|LM ||'''6''' ||[[Rodrigo Bentancur]] || || {{suboff|63}}
+|-
+|CF ||'''9''' ||[[Luis Suárez]]
+|-
+|CF ||'''21'''||[[Edinson Cavani]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Cristian Rodríguez]] || || {{subon|63}}
+|-
+|FW ||'''11'''||[[Cristhian Stuani]] || || {{subon|74}}
+|-
+|MF ||'''5''' ||[[Carlos Sánchez (Uruguayan footballer)|Carlos Sánchez]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|valign="top"|[[File:URU-POR 2018-06-30.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Rui Patrício]]
+|-
+|RB ||'''15'''||[[Ricardo Pereira (footballer, born 1993)|Ricardo Pereira]]
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]]
+|-
+|CB ||'''6''' ||[[José Fonte]]
+|-
+|LB ||'''5''' ||[[Raphaël Guerreiro]]
+|-
+|RM ||'''11'''||[[Bernardo Silva]]
+|-
+|CM ||'''14'''||[[William Carvalho]]
+|-
+|CM ||'''23'''||[[Adrien Silva]] || || {{suboff|65}}
+|-
+|LM ||'''10'''||[[João Mário (footballer, born January 1993)|João Mário]] || || {{suboff|84}}
+|-
+|CF ||'''17'''||[[Gonçalo Guedes]] || || {{suboff|74}}
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]]) || {{yel|90+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Ricardo Quaresma]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||[[André Silva (footballer, born 1995)|André Silva]] || || {{subon|74}}
+|-
+|MF ||'''4''' ||[[Manuel Fernandes (footballer, born 1986)|Manuel Fernandes]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Edinson Cavani]] (Uruguay)<ref name="URU-POR recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="URU-POR line-ups"/>
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />Miguel Hernández ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Corey Rockwell ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Spain vs Russia===
+[[File:ESP-RUS (4).jpg|thumb|[[Marco Asensio]] (left) and [[Roman Zobnin]] (right) challenge for possession of the ball.]]
+The teams had met in six previous games, most recently in a friendly in 2017, which ended in a 3–3 draw. Playing as the [[Soviet Union national football team|Soviet Union]], the teams had faced each other five times.<ref name="statistical kit"/> Russia only had one victory over Spain.
+
+In the 12th minute, [[Marco Asensio]]'s free-kick from deep on the right saw [[Sergei Ignashevich]] grappling with [[Sergio Ramos]] at the back post, the ball bouncing past [[Igor Akinfeev]] off the defender's heel. Russia were then awarded a penalty when the ball bounced off [[Artem Dzyuba]]’s head onto [[Gerard Piqué]]’s arm in the box after a corner from the right. [[Artem Dzyuba]] shot home to the right of the net from 12 yards to send the sides into half-time level. In the 85th minute, Akinfeev got down low to his right to save a shot from [[Andrés Iniesta]], the goalkeeper then denied [[Iago Aspas]] on the rebound. Piqué and Ramos both appeared to be held from a set-piece but, after a VAR check, the referee waved away Spain's appeals. In the penalty shoot-out, Akinfeev kept out a [[Koke (footballer, born 1992)|Koke]] effort and saw Aspas' effort diverted away by his leg to give Russia the win; as all Russia's penalty kicks ended up successful.<ref>{{cite web |last1=Smith |first1=Jamie |title=Akinfeev the shoot-out hero in huge World Cup shock |url=http://www.goal.com/en-za/match/spain-v-russia/676bo6djvlsm6uduf8evk7jzd |publisher=Goal.com |date=1 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180702011131/http://www.goal.com/en-za/match/spain-v-russia/676bo6djvlsm6uduf8evk7jzd |archive-date=2 July 2018}}</ref>
+
+This result meant Spain lost three of their four World Cup penalty shoot-outs (after losing to [[1986 FIFA World Cup knockout stage#Spain vs Belgium|Belgium in 1986]], beating the [[2002 FIFA World Cup knockout stage#Spain vs Republic of Ireland|Republic of Ireland in 2002]] and losing to [[2002 FIFA World Cup knockout stage#Spain vs South Korea|South Korea in 2002]]), and had still never defeated a host nation at the FIFA World Cup, after losing to Italy [[1934 FIFA World Cup final tournament#Italy vs Spain|0–1]] in 1934, Brazil [[1950 FIFA World Cup final round#Brazil vs Spain|1–6]] in 1950, and South Korea [[2002 FIFA World Cup knockout stage#Spain vs South Korea|after penalties]] in 2002.<ref name="ESP-RUS recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/heroic-hosts-shock-spain-in-shootout |title=Heroic hosts shock Spain in shootout |publisher=FIFA |date=1 July 2018 |access-date=1 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520053546/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/heroic-hosts-shock-spain-in-shootout |archive-date=20 May 2026}}</ref> Russia reached the quarter-final of the World Cup for the first time since the [[Dissolution of the Soviet Union|break-up of the Soviet Union]]. Also was the first win of Russia in a knockout stage of World Cup since [[1966 FIFA World Cup knockout stage#Soviet Union vs Hungary|1966]], still like [[Soviet Union national football team|Soviet Union]]. Ignashevich became the oldest player to score an [[List of FIFA World Cup own goals|own goal at the World Cup]], aged 38 years and 352 days.<ref>{{cite web |last1=Bevan |first1=Chris |title=Spain 1 Russia 1 |url=https://www.bbc.co.uk/sport/football/44591345 |publisher=BBC Sport |date=1 July 2018 }}</ref> The match marked the first time in the history of the FIFA World Cup in which a fourth substitution was made during extra time, after [[Aleksandr Yerokhin]] of Russia entered the pitch in the 97th minute.<ref>{{cite web |url=https://www.eurosport.com/football/russia-s-aleksandr-yerokhin-makes-history-becomes-first-fourth-sub-at-world-cup_sto6828911/story.shtml |title=Russia's Aleksandr Yerokhin makes history, becomes first 'fourth sub' at World Cup |publisher=[[Eurosport]] |date=1 July 2018 |access-date=4 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180704092853/https://www.eurosport.com/football/russia-s-aleksandr-yerokhin-makes-history-becomes-first-fourth-sub-at-world-cup_sto6828911/story.shtml |archive-date=4 July 2018}}</ref>
+
+<section begin=r16-3 />{{Football box
+|date={{Start date|2018|7|1|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|ESP}}
+|score={{score link|2018 FIFA World Cup knockout stage#Spain vs Russia|1–1}}
+|aet=yes
+|team2={{fb|RUS}}
+|goals1=
+*[[Sergei Ignashevich|Ignashevich]] {{goal|12|o.g.}}
+|goals2=
+*[[Artem Dzyuba|Dzyuba]] {{goal|41|pen.}}
+|stadium=[[Luzhniki Stadium]], [[Moscow]]
+|attendance=78,011
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|penalties1=
+*[[Andrés Iniesta|Iniesta]] {{pengoal}}
+*[[Gerard Piqué|Piqué]] {{pengoal}}
+*[[Koke (footballer, born 1992)|Koke]] {{penmiss}}
+*[[Sergio Ramos|Ramos]] {{pengoal}}
+*[[Iago Aspas|Aspas]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2=
+*{{pengoal}} [[Fyodor Smolov|Smolov]]
+*{{pengoal}} [[Sergei Ignashevich|Ignashevich]]
+*{{pengoal}} [[Aleksandr Golovin (footballer)|Golovin]]
+*{{pengoal}} [[Denis Cheryshev|Cheryshev]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331517 |title=Spain vs Russia {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/15da28168fdb2153/original/rix0h2ufiablhohc1hsj-pdf.pdf |title=Match report – Round of 16 – Spain v Russia |publisher=[[FIFA]] |date=1 July 2018 |access-date=1 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063852/https://digitalhub.fifa.com/m/15da28168fdb2153/original/rix0h2ufiablhohc1hsj-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp18h
+ |pattern_b  = _esp18h
+ |pattern_ra = _esp18h
+ |pattern_sh = _spanje18h
+ |pattern_so = _esp18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 164697
+ |socks      = 000000
+ |title      = Spain<ref name="ESP-RUS line-ups">{{cite web |url=https://digitalhub.fifa.com/m/74a5acf3a2bc3f44/original/cjisihytk6zmh7qcqggt-pdf.pdf |title=Tactical Line-up – Round of 16 – Spain v Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=1 July 2018 |access-date=1 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175852/https://digitalhub.fifa.com/m/74a5acf3a2bc3f44/original/cjisihytk6zmh7qcqggt-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _rus18a
+ |pattern_b  = _rus18a
+ |pattern_ra = _rus18a
+ |pattern_sh = _rus18A
+ |pattern_so = _rus18A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Russia<ref name="ESP-RUS line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David de Gea]]
+|-
+|RB ||'''4''' ||[[Nacho (footballer, born 1990)|Nacho]] || || {{suboff|70}}
+|-
+|CB ||'''3''' ||[[Gerard Piqué]] || {{yel|40}}
+|-
+|CB ||'''15'''||[[Sergio Ramos]] ([[Captain (association football)|c]])
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|CM ||'''8''' ||[[Koke (footballer, born 1992)|Koke]]
+|-
+|CM ||'''5''' ||[[Sergio Busquets]]
+|-
+|RW ||'''21'''||[[David Silva]] || || {{suboff|67}}
+|-
+|AM ||'''22'''||[[Isco]]
+|-
+|LW ||'''20'''||[[Marco Asensio]] || || {{suboff|104}}
+|-
+|CF ||'''19'''||[[Diego Costa]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Andrés Iniesta]] || || {{subon|67}}
+|-
+|DF ||'''2''' ||[[Dani Carvajal]] || || {{subon|70}}
+|-
+|FW ||'''17'''||[[Iago Aspas]] || || {{subon|80}}
+|-
+|FW ||'''9''' ||[[Rodrigo (footballer, born 1991)|Rodrigo]] || || {{subon|104}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Hierro]]
+|}
+|valign="top"|[[File:ESP-RUS 2018-07-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Igor Akinfeev]] ([[Captain (association football)|c]])
+|-
+|SW ||'''4''' ||[[Sergei Ignashevich]]
+|-
+|CB ||'''3''' ||[[Ilya Kutepov]] || {{yel|54}}
+|-
+|CB ||'''13'''||[[Fyodor Kudryashov]]
+|-
+|RWB||'''2''' ||[[Mário Fernandes (footballer)|Mário Fernandes]]
+|-
+|LWB||'''18'''||[[Yuri Zhirkov]] || || {{suboff|46}}
+|-
+|CM ||'''19'''||[[Aleksandr Samedov]] || || {{suboff|61}}
+|-
+|CM ||'''11'''||[[Roman Zobnin]] || {{yel|71}}
+|-
+|CM ||'''7''' ||[[Daler Kuzyayev]] || || {{suboff|97}}
+|-
+|CF ||'''22'''||[[Artem Dzyuba]] || || {{suboff|65}}
+|-
+|CF ||'''17'''||[[Aleksandr Golovin (footballer)|Aleksandr Golovin]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''14'''||[[Vladimir Granat]] || || {{subon|46}}
+|-
+|MF ||'''6''' ||[[Denis Cheryshev]] || || {{subon|61}}
+|-
+|FW ||'''10'''||[[Fyodor Smolov]] || || {{subon|65}}
+|-
+|MF ||'''21'''||[[Aleksandr Yerokhin]] || || {{subon|97}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stanislav Cherchesov]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Igor Akinfeev]] (Russia)<ref name="ESP-RUS recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="ESP-RUS line-ups"/>
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Nicolas Danos ([[French Football Federation|France]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+|}
+
+===Croatia vs Denmark===
+The teams had met in five matches, which included two matches played in [[1998 FIFA World Cup qualification – UEFA Group 1|1998 FIFA World Cup qualification]], the first fixture ending in a 1–1 draw and the reverse fixture a 3–1 Denmark win.<ref name="statistical kit"/>
+
+In the first minute, a long throw into the Croatia penalty area by [[Jonas Knudsen]], allowed a run to [[Thomas Delaney]] who touched the ball on to [[Mathias Jørgensen]], who side-footed it into the net via deflections off goalkeeper [[Danijel Subašić]] and the post. After three minutes, [[Šime Vrsaljko]]'s ball into the box reached [[Henrik Dalsgaard]], whose clearance hit [[Andreas Christensen]] in the face and saw [[Mario Mandžukić]] tucking the ball between [[Kasper Schmeichel]] and the left post with a shot on the turn from six yards. During extra time, [[Ante Rebić]] burst clear of the Denmark defence and was felled by Mathias Jørgensen when he was clean through on goal, only for Schmeichel to save [[Luka Modrić]]'s spot-kick by diving down to his left and clutching the ball to his chest. In the shoot-out, Subašić tipped off [[Christian Eriksen]]'s penalty onto the post but Schmeichel saved from [[Milan Badelj]] to bring the sides level. [[Lasse Schöne]]'s shot was saved by Subašić and [[Josip Pivarić]] was denied by an acrobatic Schmeichel stop. On the final spot kicks for both the teams, [[Nicolai Jørgensen]] took a shot from a staggered run-up which Subašić saved with his feet, before [[Ivan Rakitić]] slotted the ball into the bottom left corner of the net.<ref name="CRO-DEN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/subasic-the-hero-as-croatia-claim-shootout-win-2980134 |title=Subasic the hero as Croatia claim shootout win |publisher=FIFA |date=1 July 2018 |access-date=1 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520053633/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/subasic-the-hero-as-croatia-claim-shootout-win-2980134 |archive-date=20 May 2026}}</ref><ref>{{cite web |last1=Creek |first1=Stephen |title=Rakitic spares Modric blushes with winning spot-kick |url=http://www.goal.com/en-au/match/croatia-v-denmark/67f81tejl9nadlfbrlnp3xuqx |publisher=Goal.com |date=1 July 2018}}</ref>
+
+Croatia qualified for their first World Cup quarter-final since 1998.<ref>{{cite web |last1=Fletcher |first1=Paul |title=Croatia 1 Denmark 1 |url=https://www.bbc.co.uk/sport/football/44591346 |publisher=BBC Sport |date=1 July 2018 }}</ref>
+
+<section begin=r16-4 />{{Football box
+|date={{Start date|2018|7|1|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|CRO}}
+|score={{score link|2018 FIFA World Cup knockout stage#Croatia vs Denmark|1–1}}
+|aet=yes
+|team2={{fb|DEN}}
+|goals1=
+*[[Mario Mandžukić|Mandžukić]] {{goal|4}}
+|goals2=
+*[[Mathias Jørgensen|M. Jørgensen]] {{goal|1}}
+|stadium=[[Nizhny Novgorod Stadium]], [[Nizhny Novgorod]]
+|attendance=40,851
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|penalties1=
+*[[Milan Badelj|Badelj]] {{penmiss}}
+*[[Andrej Kramarić|Kramarić]] {{pengoal}}
+*[[Luka Modrić|Modrić]] {{pengoal}}
+*[[Josip Pivarić|Pivarić]] {{penmiss}}
+*[[Ivan Rakitić|Rakitić]] {{pengoal}}
+|penaltyscore=3–2
+|penalties2=
+*{{penmiss}} [[Christian Eriksen|Eriksen]]
+*{{pengoal}} [[Simon Kjær|Kjær]]
+*{{pengoal}} [[Michael Krohn-Dehli|Krohn-Dehli]]
+*{{penmiss}} [[Lasse Schöne|Schöne]]
+*{{penmiss}} [[Nicolai Jørgensen|N. Jørgensen]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331498 |title=Croatia vs Denmark {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/193f5af501c6b2a5/original/jq9prvpwlrv6snvywypi-pdf.pdf |title=Match report – Round of 16 – Croatia v Denmark |publisher=[[FIFA]] |date=1 July 2018 |access-date=1 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063926/https://digitalhub.fifa.com/m/193f5af501c6b2a5/original/jq9prvpwlrv6snvywypi-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cro18A
+ |pattern_b  = _cro18aw
+ |pattern_ra = _cro18A
+ |pattern_sh = _cro18a
+ |pattern_so = _cro18a1
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Croatia<ref name="CRO-DEN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3fe0a6703c4945da/original/q5u9ydu7veyhmuwhudko-pdf.pdf |title=Tactical Line-up – Round of 16 – Croatia v Denmark |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=1 July 2018 |access-date=1 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175929/https://digitalhub.fifa.com/m/3fe0a6703c4945da/original/q5u9ydu7veyhmuwhudko-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _dene18a
+ |pattern_b  = _den18A
+ |pattern_ra = _dene18a
+ |pattern_sh = _dene18a
+ |pattern_so = _dene18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Denmark<ref name="CRO-DEN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Danijel Subašić]]
+|-
+|RB ||'''2''' ||[[Šime Vrsaljko]]
+|-
+|CB ||'''6''' ||[[Dejan Lovren]]
+|-
+|CB ||'''21'''||[[Domagoj Vida]]
+|-
+|LB ||'''3''' ||[[Ivan Strinić]] || || {{suboff|81}}
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]]
+|-
+|CM ||'''11'''||[[Marcelo Brozović]] || || {{suboff|71}}
+|-
+|RW ||'''18'''||[[Ante Rebić]]
+|-
+|AM ||'''10'''||[[Luka Modrić]] ([[Captain (association football)|c]])
+|-
+|LW ||'''4''' ||[[Ivan Perišić]] || || {{suboff|97}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]] || || {{suboff|108}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Mateo Kovačić]] || || {{subon|71}}
+|-
+|DF ||'''22'''||[[Josip Pivarić]] || || {{subon|81}}
+|-
+|FW ||'''9''' ||[[Andrej Kramarić]] || || {{subon|97}}
+|-
+|MF ||'''19'''||[[Milan Badelj]] || || {{subon|108}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Zlatko Dalić]]
+|}
+|valign="top"|[[File:CRO-DEN 2018-07-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Kasper Schmeichel]]
+|-
+|RB ||'''5''' ||[[Jonas Knudsen]]
+|-
+|CB ||'''4''' ||[[Simon Kjær]] ([[Captain (association football)|c]])
+|-
+|CB ||'''13'''||[[Mathias Jørgensen]] || {{yel|115}}
+|-
+|LB ||'''14'''||[[Henrik Dalsgaard]]
+|-
+|CM ||'''6''' ||[[Andreas Christensen]] || || {{suboff|46}}
+|-
+|CM ||'''8''' ||[[Thomas Delaney]] || || {{suboff|98}}
+|-
+|CM ||'''10'''||[[Christian Eriksen]]
+|-
+|RF ||'''20'''||[[Yussuf Poulsen]]
+|-
+|CF ||'''21'''||[[Andreas Cornelius]] || || {{suboff|66}}
+|-
+|LF ||'''11'''||[[Martin Braithwaite]] || || {{suboff|106}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Lasse Schöne]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Nicolai Jørgensen]] || || {{subon|66}}
+|-
+|MF ||'''2''' ||[[Michael Krohn-Dehli]] || || {{subon|98}}
+|-
+|FW ||'''23'''||[[Pione Sisto]] || || {{subon|106}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NOR}} [[Åge Hareide]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Kasper Schmeichel]] (Denmark)<ref name="CRO-DEN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="CRO-DEN line-ups"/>
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Eduardo Cardozo ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|}
+
+===Brazil vs Mexico===
+The teams had met in 40 previous matches including two games at [[CONCACAF Gold Cup]] finals ([[1996 CONCACAF Gold Cup|1996]] and [[2003 CONCACAF Gold Cup|2003]], both won by Mexico), the [[1999 FIFA Confederations Cup Final]] (won 4–3 by Mexico), and four times in the FIFA World Cup group stage, three won by Brazil and one ending in a draw ([[1950 FIFA World Cup Group 1#Brazil vs Mexico|4–0]] in 1950, [[1954 FIFA World Cup Group 1#Brazil vs Mexico|5–0]] in 1954, [[1962 FIFA World Cup Group 3#Brazil vs Mexico|2–0]] in 1962 and [[2014 FIFA World Cup Group A#Brazil vs Mexico|0–0]] in 2014).<ref name="statistical kit"/>
+
+[[Hirving Lozano]]'s half-volley was well blocked by [[Miranda (footballer, born 1984)|Miranda]], while at the other end, [[Guillermo Ochoa]] saved [[Neymar]]'s drive from just outside the penalty area. After 25 minutes, Neymar raced past [[Edson Álvarez]] in the area and forced Ochoa into a save with his left hand. [[Gabriel Jesus]] went close in the 33rd minute, finding space in a crowded area and drilling in a left-footed strike that Ochoa palmed away. In the 51st minute, Neymar's back-heel on the edge of the area teed up [[Willian (footballer, born 1988)|Willian]] for a burst into the box and his scuffed cross from the left was slid into an empty net by Neymar from close range. With two minutes remaining, Neymar powered through on the left and his low effort was diverted by Ochoa's foot into the path of [[Roberto Firmino]], who tapped the ball into an empty net from close range.<ref name="BRA-MEX recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/neymar-leads-brazil-to-last-eight |title=Neymar leads Brazil to the last eight |publisher=FIFA |date=2 July 2018 |access-date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520053829/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/neymar-leads-brazil-to-last-eight |archive-date=20 May 2026}}</ref><ref>{{cite web |last1=Atkinson |first1=Guy |title=Neymar and Firmino book Selecao's quarter-final spot |url=http://www.goal.com/en-in/match/brazil-v-mexico/67m6apzl9xpgeh0ronhe2aqy1 |publisher=Goal.com |date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180710090326/http://www.goal.com/en-in/match/brazil-v-mexico/67m6apzl9xpgeh0ronhe2aqy1 |archive-date=10 July 2018}}</ref>
+
+Since the introduction of the round of 16 in 1986, Mexico were eliminated at this stage of the World Cup seven times – more than twice as many as any other nation. [[2022 FIFA World Cup|4 years later]] they were eliminated from the group stages for the first time since [[1978 FIFA World Cup|1978]].<ref>{{cite web |last1=Jennings |first1=Patrick |title=Brazil 2 Mexico 0 |url=https://www.bbc.co.uk/sport/football/44597762 |publisher=BBC Sport |date=2 July 2018 }}</ref> They were eliminated at this stage once again on home soil in [[2026 FIFA World Cup|2026.]] This was also Mexico's fourth defeat at the hands of Brazil. In addition, with Neymar's and Firmino's goals, Brazil have now finally surpassed the record of all-time World Cup goals by any team with 228 goals (after being tied to Germany with 226 goals prior to this match) after constantly tying up the record with Germany in the group stage of this World Cup.
+
+<section begin=r16-5 />{{Football box
+|date={{Start date|2018|7|2|df=y}}
+|time=18:00 [[Samara Time|SAMT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2018 FIFA World Cup knockout stage#Brazil vs Mexico|2–0}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Neymar]] {{goal|51}}
+*[[Roberto Firmino|Firmino]] {{goal|88}}
+|goals2=
+|stadium=[[Cosmos Arena]], [[Samara]]
+|attendance=41,970
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331535 |title=Brazil vs Mexico {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/50064e55e2d82bdb/original/vnzih2otqmj4utrtypmc-pdf.pdf |title=Match report – Round of 16 – Brazil v Mexico |publisher=[[FIFA]] |date=2 July 2018 |access-date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063937/https://digitalhub.fifa.com/m/50064e55e2d82bdb/original/vnzih2otqmj4utrtypmc-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra18h
+ |pattern_b  = _bra18h
+ |pattern_ra = _bra18h
+ |pattern_sh = _bra18h
+ |pattern_so = _bra18H
+ |leftarm    = FFE400
+ |body       = FFE400
+ |rightarm   = FFE400
+ |shorts     = 003CFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-MEX line-ups">{{cite web |url=https://digitalhub.fifa.com/m/75c2e7d03f3fc4db/original/hfbp33weswb9v6iwldsz-pdf.pdf |title=Tactical Line-up – Round of 16 – Brazil v Mexico |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=2 July 2018 |access-date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175939/https://digitalhub.fifa.com/m/75c2e7d03f3fc4db/original/hfbp33weswb9v6iwldsz-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex18h
+ |pattern_b  = _mex18h
+ |pattern_ra = _mex18h
+ |pattern_sh = _mex18h
+ |pattern_so = _mex18h
+ |leftarm    = 1A4D3E
+ |body       = 1A4D3E
+ |rightarm   = 1A4D3E
+ |shorts     = FFFFFF
+ |socks      = 960000
+ |title      = Mexico<ref name="BRA-MEX line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alisson]]
+|-
+|RB ||'''22'''||[[Fagner (footballer, born 1989)|Fagner]]
+|-
+|CB ||'''2''' ||[[Thiago Silva]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Miranda (footballer, born 1984)|Miranda]]
+|-
+|LB ||'''6''' ||[[Filipe Luís]] || {{yel|43}}
+|-
+|CM ||'''15'''||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|80}}
+|-
+|CM ||'''5''' ||[[Casemiro]] || {{yel|59}}
+|-
+|RW ||'''19'''||[[Willian (footballer, born 1988)|Willian]] || || {{suboff|90+1}}
+|-
+|AM ||'''11'''||[[Philippe Coutinho]] || || {{suboff|86}}
+|-
+|LW ||'''10'''||[[Neymar]]
+|-
+|CF ||'''9''' ||[[Gabriel Jesus]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || || {{subon|80}}
+|-
+|FW ||'''20'''||[[Roberto Firmino]] || || {{subon|86}}
+|-
+|DF ||'''13'''||[[Marquinhos]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Tite (football manager)|Tite]]
+|}
+|valign="top"|[[File:BRA-MEX 2018-07-02.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|RB ||'''21'''||[[Edson Álvarez]] || {{yel|38}} || {{suboff|55}}
+|-
+|CB ||'''2''' ||[[Hugo Ayala]]
+|-
+|CB ||'''3''' ||[[Carlos Salcedo]] || {{yel|77}}
+|-
+|LB ||'''23'''||[[Jesús Gallardo]]
+|-
+|CM ||'''16'''||[[Héctor Herrera]] || {{yel|55}}
+|-
+|CM ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CM ||'''18'''||[[Andrés Guardado]] || {{yel|90+2}}
+|-
+|RF ||'''11'''||[[Carlos Vela]]
+|-
+|CF ||'''14'''||[[Javier Hernández]] || || {{suboff|60}}
+|-
+|LF ||'''22'''||[[Hirving Lozano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Miguel Layún]] || || {{subon|46}}
+|-
+|MF ||'''6''' ||[[Jonathan dos Santos]] || || {{subon|55}}
+|-
+|FW ||'''9''' ||[[Raúl Jiménez]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Juan Carlos Osorio]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Neymar]] (Brazil)<ref name="BRA-MEX recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BRA-MEX line-ups"/>
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />Mauro Tonolini ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Pau Cebrián Devís ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|}
+
+===Belgium vs Japan===
+[[File:Jan Vertonghen 2018.jpg|thumb|Belgium center back [[Jan Vertonghen]] in possession of the ball during the match.]]
+The teams had faced each other in 5 previous matches, including one World Cup group stage match in 2002, which ended in a [[2002 FIFA World Cup Group H#Japan vs Belgium|2–2]] draw. Their most recent meeting came in a friendly in 2017, a 1–0 Belgium win and also Belgium's first victory over Japan.<ref name="statistical kit"/>
+
+In the 48th minute, [[Gaku Shibasaki]] slipped a pass through to [[Genki Haraguchi]], who rifled a shot across [[Thibaut Courtois]] from the right which went into the left corner of the net. After 4 minutes, Japan scored a second, [[Shinji Kagawa]] collecting a loose ball and feeding [[Takashi Inui]], the midfielder working himself a yard of space before arrowing home from 25-yards into the bottom right corner of the net. [[Jan Vertonghen]]'s looping header from the left eluded goalkeeper [[Eiji Kawashima]] and landed in the right corner of the net after a corner caused chaos in the Japan penalty area – and five minutes later they were back on level terms. [[Eden Hazard]] twisted and turned to create space on the left wing, his cross delivered for [[Marouane Fellaini]] to climb above his marker and crash in a downward header. In the last minute of stoppage time, Courtois found [[Kevin De Bruyne]] with a long throw, who freed [[Thomas Meunier]] with a pass, Meunier squared a low cross from the right and, when [[Romelu Lukaku]] dummied the ball, substitute [[Nacer Chadli]] was on hand to complete the comeback for Belgium with a low finish.<ref name="BEL-JPN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-dig-deep-edge-japan-2980668 |title=Belgium dig deep to edge out Japan |publisher=FIFA |date=2 July 2018 |access-date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520053957/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/belgium-dig-deep-edge-japan-2980668 |archive-date=20 May 2026}}</ref><ref>{{cite web |last1=Smith |first1=Jamie |title=Last-gasp Chadli completes comeback |url=http://www.goal.com/en-za/match/belgium-v-japan/report/67vfocg4olmkcvjn9tggcey95 |publisher=Goal.com |date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180703075548/http://www.goal.com/en-za/match/belgium-v-japan/report/67vfocg4olmkcvjn9tggcey95 |archive-date=3 July 2018}}</ref>
+
+Belgium became the first team to come from two or more goals down to win a World Cup knockout stage match within 90 minutes since Portugal beat North Korea in the [[1966 FIFA World Cup knockout stage#Portugal vs North Korea|1966 quarter-final]] (3–0 down, 5–3 win). Japan scored six goals at Russia 2018, their highest ever tally in a single World Cup tournament. Belgium reached the World Cup quarter-finals in successive tournaments for the first time.<ref>{{cite web |last1=Begley |first1=Emlyn |title=Belgium 3 Japan 2 |url=https://www.bbc.co.uk/sport/football/44597759 |publisher=BBC Sport |date=2 July 2018 }}</ref>
+
+<section begin=r16-6 />{{Football box
+|date={{Start date|2018|7|2|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|BEL}}
+|score={{score link|2018 FIFA World Cup knockout stage#Belgium vs Japan|3–2}}
+|team2={{fb|JPN}}
+|goals1=
+*[[Jan Vertonghen|Vertonghen]] {{goal|69}}
+*[[Marouane Fellaini|Fellaini]] {{goal|74}}
+*[[Nacer Chadli|Chadli]] {{goal|90+4}}
+|goals2=
+*[[Genki Haraguchi|Haraguchi]] {{goal|48}}
+*[[Takashi Inui|Inui]] {{goal|52}}
+|stadium=[[Rostov Arena]], [[Rostov-on-Don]]
+|attendance=41,466
+|referee=[[Malang Diedhiou]] ([[Senegalese Football Federation|Senegal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331551 |title=Belgium vs Japan {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/365ecc81a6bf6a33/original/ugv6xpyriwiy95zo8izr-pdf.pdf |title=Match report – Round of 16 – Belgium v Japan |publisher=[[FIFA]] |date=2 July 2018 |access-date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063951/https://digitalhub.fifa.com/m/365ecc81a6bf6a33/original/ugv6xpyriwiy95zo8izr-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _belgica1819h
+ |pattern_ra =
+ |pattern_sh = _belg18h
+ |pattern_so = _belg18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="BEL-JPN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/83064f61b4c8ca6/original/yevjv3kq9gbnzoh9qka9-pdf.pdf |title=Tactical Line-up – Round of 16 – Belgium v Japan |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=2 July 2018 |access-date=2 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522180009/https://digitalhub.fifa.com/m/83064f61b4c8ca6/original/yevjv3kq9gbnzoh9qka9-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _jpn18h
+ |pattern_b  = _jpn18h
+ |pattern_ra = _jpn18h
+ |pattern_sh = _jpn18h
+ |pattern_so = _jpn18h
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="BEL-JPN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''4''' ||[[Vincent Kompany]]
+|-
+|CB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|RM ||'''15'''||[[Thomas Meunier]]
+|-
+|CM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|LM ||'''11'''||[[Yannick Carrasco]] || || {{suboff|65}}
+|-
+|RF ||'''14'''||[[Dries Mertens]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]]
+|-
+|LF ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Marouane Fellaini]] || || {{subon|65}}
+|-
+|MF ||'''22'''||[[Nacer Chadli]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Roberto Martínez]]
+|}
+|valign="top"|[[File:BEL-JPN 2018-07-02.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eiji Kawashima]]
+|-
+|RB ||'''19'''||[[Hiroki Sakai]]
+|-
+|CB ||'''22'''||[[Maya Yoshida]]
+|-
+|CB ||'''3''' ||[[Gen Shoji]]
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|CM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]])
+|-
+|CM ||'''7''' ||[[Gaku Shibasaki]] || {{yel|40}} || {{suboff|81}}
+|-
+|RW ||'''8''' ||[[Genki Haraguchi]] || || {{suboff|81}}
+|-
+|AM ||'''10'''||[[Shinji Kagawa]]
+|-
+|LW ||'''14'''||[[Takashi Inui]]
+|-
+|CF ||'''15'''||[[Yuya Osako]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Hotaru Yamaguchi]] || || {{subon|81}}
+|-
+|MF ||'''4''' ||[[Keisuke Honda]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Akira Nishino (footballer)|Akira Nishino]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Eden Hazard]] (Belgium)<ref name="BEL-JPN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BEL-JPN line-ups"/>
+<br />Djibril Camara ([[Senegalese Football Federation|Senegal]])
+<br />El Hadji Samba ([[Senegalese Football Federation|Senegal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Bakary Gassama]] ([[Gambia Football Federation|Gambia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Jean Claude Birumushahu ([[Football Federation of Burundi|Burundi]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Sweden vs Switzerland===
+[[File:SWE-SWI (15).jpg|thumb|[[Marcus Berg]] (left) attempts to take possession of the ball away from [[Johan Djourou]] (right).]]
+The teams had faced each other in 28 previous matches, which included three matches in [[1962 FIFA World Cup qualification (UEFA – Group 1)|1962 FIFA World Cup qualification]], Switzerland winning twice (3–2 and 2–1) and Sweden winning once (4–0), and also twice in [[1978 FIFA World Cup qualification (UEFA)|1978 FIFA World Cup qualification]], both matches ending in a 2–1 Sweden win.<ref name="statistical kit"/>
+
+[[Stephan Lichtsteiner]] and [[Fabian Schär]] were both ruled out through suspension. [[Albin Ekdal]]'s volley missed the target prior to the break from a [[Mikael Lustig]] cross. [[Ola Toivonen]] fired over when well positioned inside the penalty area before [[Emil Forsberg]] finally broke the deadlock, his right foot shot from just outside the penalty area clipping [[Manuel Akanji]] to beat [[Yann Sommer]]. Switzerland sent on forwards [[Breel Embolo]] and [[Haris Seferovic]], and the latter tested Sweden goalkeeper [[Robin Olsen]] with a header in the closing stages. Sweden were denied the chance to double their lead from the spot following [[Michael Lang (footballer, born 1991)|Michael Lang]]'s late dismissal for taking out [[Martin Olsson]], with Sommer beating away Toivonen's driven free-kick after a lengthy delay.<ref name="SWE-SUI recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/headline-swedes-squeeze-into-the-last-eight |title=Swedes squeeze into the last eight |publisher=FIFA |date=3 July 2018 |access-date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520054145/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/headline-swedes-squeeze-into-the-last-eight |archive-date=20 May 2026}}</ref><ref>{{cite web |last1=Lancaster |first1=Rob |title=Swedes dream thanks to Forsberg's moment of fortune |url=http://www.goal.com/en-us/match/sweden-v-switzerland/report/687o9dkklut4zf00dqwcr95ux |publisher=Goal.com |date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180703220454/http://www.goal.com/en-us/match/sweden-v-switzerland/report/687o9dkklut4zf00dqwcr95ux |archive-date=3 July 2018}}</ref>
+
+Sweden qualified for their first World Cup quarter-final since 1994. Sweden won back-to-back World Cup matches for the first time since 1958, when they won the quarter-final and semi-final on their way to the [[1958 FIFA World Cup Final|final as host nation that year]]. Olsen kept his third clean sheet of the 2018 World Cup, a joint-record for a Swedish goalkeeper in World Cup finals history (also three clean sheets for [[Ronnie Hellström]] in 1974 and [[Kalle Svensson]] in 1958).<ref>{{cite web |last1=Fletcher |first1=Paul |title=Sweden 1 Switzerland 0 |url=https://www.bbc.co.uk/sport/football/44610243 |publisher=BBC Sport |date=3 July 2018 }}</ref>
+
+<section begin=r16-7 />{{Football box
+|date={{Start date|2018|7|3|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|SWE}}
+|score={{score link|2018 FIFA World Cup knockout stage#Sweden vs Switzerland|1–0}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Emil Forsberg|Forsberg]] {{goal|66}}
+|goals2=
+|stadium=[[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance=64,042
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331514 |title=Sweden vs Switzerland {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/7be1fca01ff0832e/original/x8euhzw50bbr0wy1voyg-pdf.pdf |title=Match report – Round of 16 – Sweden v Switzerland |publisher=[[FIFA]] |date=3 July 2018 |access-date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064008/https://digitalhub.fifa.com/m/7be1fca01ff0832e/original/x8euhzw50bbr0wy1voyg-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-7 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _swe1719h
+ |pattern_b  = _zwed18h
+ |pattern_ra = _swe1719h
+ |pattern_sh = _zwed18h
+ |pattern_so = _zwed18h
+ |leftarm    = FFEC00
+ |body       = FFEC00
+ |rightarm   = FFEC00
+ |shorts     = 0000DD
+ |socks      = FFEC00
+ |title      = Sweden<ref name="SWE-SUI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/183cef9478d82cce/original/llqogr845x5tgvqjhnor-pdf.pdf |title=Tactical Line-up – Round of 16 – Sweden v Switzerland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 July 2018 |access-date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522180019/https://digitalhub.fifa.com/m/183cef9478d82cce/original/llqogr845x5tgvqjhnor-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _sui18h
+ |pattern_b  = _sui18h
+ |pattern_ra = _sui18h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = {{nowrap|Switzerland}}<ref name="SWE-SUI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Robin Olsen]]
+|-
+|RB ||'''2''' ||[[Mikael Lustig]] || {{yel|31}} || {{suboff|82}}
+|-
+|CB ||'''3''' ||[[Victor Lindelöf]]
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Ludwig Augustinsson]]
+|-
+|RM ||'''17'''||[[Viktor Claesson]]
+|-
+|CM ||'''13'''||[[Gustav Svensson]]
+|-
+|CM ||'''8''' ||[[Albin Ekdal]]
+|-
+|LM ||'''10'''||[[Emil Forsberg]] || || {{suboff|82}}
+|-
+|CF ||'''9''' ||[[Marcus Berg]] || || {{suboff|90+1}}
+|-
+|CF ||'''20'''||[[Ola Toivonen]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Martin Olsson]] || || {{subon|82}}
+|-
+|DF ||'''16'''||[[Emil Krafth]] || || {{subon|82}}
+|-
+|FW ||'''22'''||[[Isaac Kiese Thelin]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Janne Andersson]]
+|}
+|valign="top"|[[File:SWE-SUI 2018-07-03.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Yann Sommer]]
+|-
+|RB ||'''6''' ||[[Michael Lang (footballer, born 1991)|Michael Lang]] || {{sent off|0|90+4}}
+|-
+|CB ||'''20'''||[[Johan Djourou]]
+|-
+|CB ||'''5''' ||[[Manuel Akanji]]
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|CM ||'''11'''||[[Valon Behrami]] ([[Captain (association football)|c]]) || {{yel|61}}
+|-
+|CM ||'''10'''||[[Granit Xhaka]] || {{yel|68}}
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]]
+|-
+|AM ||'''15'''||[[Blerim Džemaili]] || || {{suboff|73}}
+|-
+|LW ||'''14'''||[[Steven Zuber]] || || {{suboff|73}}
+|-
+|CF ||'''19'''||[[Josip Drmić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Breel Embolo]] || || {{subon|73}}
+|-
+|FW ||'''9''' ||[[Haris Seferovic]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimir Petković]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Emil Forsberg]] (Sweden)<ref name="SWE-SUI recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="SWE-SUI line-ups"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />Robert Vukan ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Yaser Tulefat ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+|}
+
+===Colombia vs England===
+[[File:FWC 2018 - Round of 16 - COL v ENG - Photo 132.jpg|thumb|right|[[Eric Dier]] scores the winning goal in England's first [[List of FIFA World Cup penalty shoot-outs|World Cup penalty shoot-out]] victory, having lost thrice before.]]
+The teams had faced each other in five previous matches, including one World Cup group stage match in 1998, a [[1998 FIFA World Cup Group G#Colombia vs England|2–0]] England win. Their most recent meeting came in a friendly in 2005, a 3–2 England win.<ref name="statistical kit"/>
+
+In the 16th minute, [[Harry Kane]] arrived beyond the back post to meet a [[Kieran Trippier]] cross, but was unable to direct his header on target. [[Wilmar Barrios]] was booked when he appeared to headbutt [[Jordan Henderson]] in the build-up to a free-kick Trippier bent narrowly wide. Colombia gave away a penalty early in the second half when [[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]] dragged Kane down in the box after a corner from the right. Kane scored from 12 yards, shooting down the middle to give England the lead. Colombia forced their way into extra time, [[Yerry Mina]] scoring a downward header from a [[Juan Cuadrado]] corner from the right in injury time. [[Eric Dier]] scored the final penalty in the shoot-out, with England coming back from 3–2 down after [[Mateus Uribe]] and [[Carlos Bacca]] failed to convert their spot-kicks.<ref name="COL-ENG recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/england-into-quarter-finals-after-penalty-shootout-2981878 |title=England into quarter-finals after penalty shootout |publisher=FIFA |date=3 July 2018 |access-date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520063003/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/england-into-quarter-finals-after-penalty-shootout-2981878 |archive-date=20 May 2026}}</ref><ref>{{cite web |last1=Smith |first1=Jamie |title=Dier seals shoot-out glory for Three Lions |url=http://www.goal.com/en/match/colombia-v-england/68fhe8lgzak2gx5tn74k8kusp |publisher=Goal.com |date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180704024209/http://www.goal.com/en/match/colombia-v-england/68fhe8lgzak2gx5tn74k8kusp |archive-date=4 July 2018}}</ref>
+
+This was the first time that England had won a [[List of FIFA World Cup penalty shoot-outs|penalty shoot-out]] at the FIFA World Cup, and only the second time they had won on penalties at any major tournament (the previous occasion being [[UEFA Euro 1996 knockout stage#Spain vs England|against Spain at Euro 1996]]). Kane became the first player to score in six consecutive England appearances since [[Tommy Lawton]] did so in 1939. England conceded in injury time at the end of the second half for the first time in World Cup history, with Mina's goal coming after 92 minutes and 33 seconds.<ref>{{cite web |last1=McNulty |first1=Phil |title=England beat Colombia 4–3 on penalties |url=https://www.bbc.co.uk/sport/football/44610244 |website=BBC Sport |publisher=BBC |access-date=3 July 2018 |date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180703210750/https://www.bbc.co.uk/sport/football/44610244 |archive-date=3 July 2018}}</ref>
+
+<section begin=r16-8 />{{Football box
+|date={{Start date|2018|7|3|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|COL}}
+|score={{score link|2018 FIFA World Cup knockout stage#Colombia vs England|1–1}}
+|aet=yes
+|team2={{fb|ENG}}
+|goals1=
+*[[Yerry Mina|Mina]] {{goal|90+3}}
+|goals2=
+*[[Harry Kane|Kane]] {{goal|57|pen.}}
+|stadium=[[Otkritie Arena]], [[Moscow]]
+|attendance=44,190
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|penalties1=
+*[[Radamel Falcao|Falcao]] {{pengoal}}
+*[[Juan Cuadrado|Ju. Cuadrado]] {{pengoal}}
+*[[Luis Muriel|Muriel]] {{pengoal}}
+*[[Mateus Uribe|Uribe]] {{penmiss}}
+*[[Carlos Bacca|Bacca]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2=
+*{{pengoal}} [[Harry Kane|Kane]]
+*{{pengoal}} [[Marcus Rashford|Rashford]]
+*{{penmiss}} [[Jordan Henderson|Henderson]]
+*{{pengoal}} [[Kieran Trippier|Trippier]]
+*{{pengoal}} [[Eric Dier|Dier]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331542 |title=Colombia vs England {{!}} Round of 16 {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/41953861f3672259/original/clvyozknxzlgjbbaqrui-pdf.pdf |title=Match report – Round of 16 – Colombia v England |publisher=[[FIFA]] |date=3 July 2018 |access-date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064024/https://digitalhub.fifa.com/m/41953861f3672259/original/clvyozknxzlgjbbaqrui-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=r16-8 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _col18h
+ |pattern_b  = _col18h
+ |pattern_ra = _col18h
+ |pattern_sh = _col18h2
+ |pattern_so = _col18h2
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Colombia<ref name="COL-ENG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3f48252a548a5532/original/sz5v4igmsjufwpg723jk-pdf.pdf |title=Tactical Line-up – Round of 16 – Colombia v England |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 July 2018 |access-date=3 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522180034/https://digitalhub.fifa.com/m/3f48252a548a5532/original/sz5v4igmsjufwpg723jk-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _eng18a
+ |pattern_b  = _eng18a
+ |pattern_ra = _eng18a
+ |pattern_sh = _eng18a2
+ |pattern_so = _eng18a
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = England<ref name="COL-ENG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''4''' ||[[Santiago Arias]] || {{yel|52}} || {{suboff|116}}
+|-
+|CB ||'''13'''||[[Yerry Mina]]
+|-
+|CB ||'''23'''||[[Davinson Sánchez]]
+|-
+|LB ||'''17'''||[[Johan Mojica]]
+|-
+|CM ||'''5''' ||[[Wilmar Barrios]] || {{yel|41}}
+|-
+|CM ||'''6''' ||[[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]] || {{yel|54}} || {{suboff|79}}
+|-
+|CM ||'''16'''||[[Jefferson Lerma]] || || {{suboff|61}}
+|-
+|AM ||'''11'''||[[Juan Cuadrado]] || {{yel|118}}
+|-
+|AM ||'''20'''||[[Juan Fernando Quintero]] || || {{suboff|88}}
+|-
+|CF ||'''9''' ||[[Radamel Falcao]] ([[Captain (association football)|c]]) || {{yel|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Carlos Bacca]] || {{yel|64}} || {{subon|61}}
+|-
+|MF ||'''15'''||[[Mateus Uribe]] || || {{subon|79}}
+|-
+|FW ||'''14'''||[[Luis Muriel]] || || {{subon|88}}
+|-
+|DF ||'''2''' ||[[Cristián Zapata]] || || {{subon|116}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|valign="top"|[[File:COL-ENG 2018-07-03.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jordan Pickford]]
+|-
+|CB ||'''2''' ||[[Kyle Walker]] || || {{suboff|113}}
+|-
+|CB ||'''5''' ||[[John Stones]]
+|-
+|CB ||'''6''' ||[[Harry Maguire]]
+|-
+|DM ||'''8''' ||[[Jordan Henderson]] || {{yel|56}}
+|-
+|RM ||'''12'''||[[Kieran Trippier]]
+|-
+|CM ||'''20'''||[[Dele Alli]] || || {{suboff|81}}
+|-
+|CM ||'''7''' ||[[Jesse Lingard]] || {{yel|69}}
+|-
+|LM ||'''18'''||[[Ashley Young]] || || {{suboff|102}}
+|-
+|CF ||'''10'''||[[Raheem Sterling]] || || {{suboff|88}}
+|-
+|CF ||'''9''' ||[[Harry Kane]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4''' ||[[Eric Dier]] || || {{subon|81}}
+|-
+|FW ||'''11'''||[[Jamie Vardy]] || || {{subon|88}}
+|-
+|DF ||'''3''' ||[[Danny Rose (footballer, born 1990)|Danny Rose]] || || {{subon|102}}
+|-
+|FW ||'''19'''||[[Marcus Rashford]] || || {{subon|113}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Gareth Southgate]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Harry Kane]] (England)<ref name="COL-ENG recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="COL-ENG line-ups"/>
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />Frank Anderson ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Matthew Conger]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Tevita Makasini ([[Tonga Football Association|Tonga]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+|}
+
+==Quarter-finals==
+
+===Uruguay vs France===
+The teams had met in eight previous matches including three times in the FIFA World Cup group stage, one won by Uruguay and the other two ending in a draw ([[1966 FIFA World Cup Group 1#Uruguay vs France|2–1]] in 1966, [[2002 FIFA World Cup Group A#France vs Uruguay|0–0]] in 2002 and [[2010 FIFA World Cup Group A#Uruguay vs France|0–0]] in 2010).<ref name="statistical kit"/>
+
+In the 15th minute, after latching on to [[Olivier Giroud]]'s knockdown in the box, [[Kylian Mbappé]] headed the ball over [[Fernando Muslera]]'s crossbar. Five minutes before the break, [[Antoine Griezmann]]'s inswinging free kick from the right was met by [[Raphaël Varane]], who headed the ball into the bottom left corner. Four minutes later, [[Martín Cáceres]]' header was saved by [[Hugo Lloris]] low to his right and [[Diego Godín]] shot the rebound over. In the 61st minute, Griezmann's left footed shot from outside the penalty area slipped through Muslera's hands and into the net as France doubled their lead.<ref name="URU-FRA recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/clinical-bleus-end-uruguays-dream-2982443 |title=Clinical Bleus end Uruguay's dream |publisher=FIFA |date=6 July 2018 |access-date=6 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520063155/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/clinical-bleus-end-uruguays-dream-2982443 |archive-date=20 May 2026}}</ref> Mbappé went down softly under a challenge from [[Cristian Rodríguez]], prompting angry confrontations involving Godín, [[Nahitan Nández]] and [[Paul Pogba]]. In the 73rd minute, [[Corentin Tolisso]]'s shot curled over, while Griezmann also flashed a late free-kick over the top.<ref>{{cite web |last1=Fisher |first1=Jon |title=Varane and Griezmann send Les Bleus through |url=http://www.goal.com/en-gh/match/uruguay-v-france/evranbwqk8hpltm0m9vamsgkp |publisher=Goal.com |date=6 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180707011444/http://www.goal.com/en-gh/match/uruguay-v-france/evranbwqk8hpltm0m9vamsgkp |archive-date=7 July 2018}}</ref>
+
+France became only the second team to beat three different South American sides in a single World Cup tournament, after the Netherlands in 1974. This victory marked France's 10th game unbeaten in World Cup matches against South American sides (6 wins and 4 draws), since a [[1978 FIFA World Cup Group 1#Argentina vs France|2–1]] loss against Argentina in 1978 – the joint longest run alongside Italy (1982 to 2010).<ref>{{cite web |last1=Bevan |first1=Chris |title=France beat Uruguay 2–0 to reach semi-final |url=https://www.bbc.co.uk/sport/football/44652179 |publisher=BBC Sport |date=6 July 2018}}</ref>
+
+<section begin=qf1 />{{Football box
+|date={{Start date|2018|7|6|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|URU}}
+|score={{score link|2018 FIFA World Cup knockout stage#Uruguay vs France|0–2}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Raphaël Varane|Varane]] {{goal|40}}
+*[[Antoine Griezmann|Griezmann]] {{goal|61}}
+|stadium=[[Nizhny Novgorod Stadium]], [[Nizhny Novgorod]]
+|attendance=43,319
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275095/300331543 |title=Uruguay vs France {{!}} Quarter-final {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/68edfa0b8c2c5b50/original/zu6peytpxtyyzlqkmxcu-pdf.pdf |title=Match report – Quarter-final – Uruguay v France |publisher=[[FIFA]] |date=6 July 2018 |access-date=6 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064037/https://digitalhub.fifa.com/m/68edfa0b8c2c5b50/original/zu6peytpxtyyzlqkmxcu-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=qf1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _uru18H
+ |pattern_b  = _uru18H
+ |pattern_ra = _uru18H
+ |pattern_sh =
+ |pattern_so = _urug18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay<ref name="URU-FRA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/d55afeefc3125e0/original/rilnmmj4yferohrh740s-pdf.pdf |title=Tactical Line-up – Quarter-final – Uruguay v France |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=6 July 2018 |access-date=6 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522180047/https://digitalhub.fifa.com/m/d55afeefc3125e0/original/rilnmmj4yferohrh740s-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _frank18a
+ |pattern_b  = _frank18a
+ |pattern_ra = _frank18a
+ |pattern_sh = _POR18A
+ |pattern_so = _fra18A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = France<ref name="URU-FRA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''22'''||[[Martín Cáceres]]
+|-
+|CB ||'''2''' ||[[José María Giménez|José Giménez]]
+|-
+|CB ||'''3''' ||[[Diego Godín]] ([[Captain (association football)|c]])
+|-
+|LB ||'''17'''||[[Diego Laxalt]]
+|-
+|RM ||'''8''' ||[[Nahitan Nández]] || || {{suboff|73}}
+|-
+|CM ||'''14'''||[[Lucas Torreira]]
+|-
+|CM ||'''15'''||[[Matías Vecino]]
+|-
+|LM ||'''6''' ||[[Rodrigo Bentancur]] || {{yel|38}} || {{suboff|59}}
+|-
+|CF ||'''9''' ||[[Luis Suárez]]
+|-
+|CF ||'''11'''||[[Cristhian Stuani]] || || {{suboff|59}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Maxi Gómez]] || || {{subon|59}}
+|-
+|MF ||'''7''' ||[[Cristian Rodríguez]] || {{yel|69}} || {{subon|59}}
+|-
+|FW ||'''20'''||[[Jonathan Urretaviscaya]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|valign="top"|[[File:URU-FRA 2018-07-06.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Benjamin Pavard]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Samuel Umtiti]]
+|-
+|LB ||'''21'''||[[Lucas Hernandez]] || {{yel|33}}
+|-
+|CM ||'''6''' ||[[Paul Pogba]]
+|-
+|CM ||'''13'''||[[N'Golo Kanté]]
+|-
+|RW ||'''10'''||[[Kylian Mbappé]] || {{yel|69}} || {{suboff|88}}
+|-
+|AM ||'''7''' ||[[Antoine Griezmann]] || || {{suboff|90+3}}
+|-
+|LW ||'''12'''||[[Corentin Tolisso]] || || {{suboff|80}}
+|-
+|CF ||'''9''' ||[[Olivier Giroud]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Steven Nzonzi]] || || {{subon|80}}
+|-
+|FW ||'''11'''||[[Ousmane Dembélé]] || || {{subon|88}}
+|-
+|FW ||'''18'''||[[Nabil Fekir]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Antoine Griezmann]] (France)<ref name="URU-FRA recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="URU-FRA line-ups"/>
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Reza Sokhandan ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===Brazil vs Belgium===
+[[File:Kevin De Bruyne celebrating Belgium's 2–1 win over Brazil.jpg|thumb|Belgium forward [[Kevin De Bruyne]] celebrating after the conclusion of the match.]]
+The teams had met in four previous matches, including once in a World Cup knockout stage match in 2002 with Brazil winning [[2002 FIFA World Cup knockout stage#Brazil vs Belgium|2–0]] to advance to the quarter-finals, which was the last time the two sides had previously met.<ref name="statistical kit"/>
+
+[[Thiago Silva]] hit the post with his right thigh for Brazil after a corner in the 8th minute. It was Belgium who scored from their first corner of the game in the 13th minute; [[Vincent Kompany]] flicked on [[Nacer Chadli]]'s delivery, but the decisive touch came from [[Fernandinho (footballer, born May 1985)|Fernandinho]], who turned the ball past [[Alisson]] via his arm. Belgium doubled their lead by breaking from a Brazil corner in the 31st minute, after [[Romelu Lukaku]] collected the ball, turned, and embarked on a 40-yard run with a pass at the end to free [[Kevin De Bruyne]]. De Bruyne, from the edge of the penalty area, arrowed a right foot drive across Alisson and into the left corner of the net. Brazil's third change yielded a goal three minutes and 14 seconds after his introduction, [[Renato Augusto]] gliding between two Belgium defenders to nod a flicked header past [[Thibaut Courtois]] from a [[Philippe Coutinho]] cross. Coutinho's first-time shot flew wide and yet another [[Neymar]] penalty appeal was rejected, before he drew a fingertip save from Courtois in the 94th minute.<ref name="Goal Brazil v Belgium">{{cite web |last1=Smith |first1=Jamie |title=Selecao out as Martinez's men advance |url=http://www.goal.com/en-ng/match/brazil-v-belgium/report/evwz5z8cmbkqasbfcqxrb9pm1 |publisher=Goal.com |date=6 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180707123848/http://www.goal.com/en-ng/match/brazil-v-belgium/report/evwz5z8cmbkqasbfcqxrb9pm1 |archive-date=7 July 2018}}</ref>
+
+De Bruyne became the 100th player to score at the 2018 World Cup (excluding own goals).<ref name="BRA-BEL recap">{{cite web |url=https://www.fifa.com/worldcup/news/belgium-brazil-reach-semis-2982717 |title=Red Devils see off Brazil to reach semis |publisher=FIFA |date=6 July 2018 |access-date=6 July 2018 |url-status=dead |archive-url=https://web.archive.org/web/20201102105348/https://www.fifa.com/worldcup/news/belgium-brazil-reach-semis-2982717 |archive-date=2 November 2020}}</ref> Belgium reached the World Cup semi-finals for only the second time, with them losing out to eventual winners Argentina in 1986. Belgium's victory was only their second ever against Brazil, and first since a 1963 friendly match in Brussels.<ref>{{cite web |last1=Johnston |first1=Neil |title=Belgium produce masterclass to knock out Brazil with 2–1 win |url=https://www.bbc.co.uk/sport/football/44652178 |publisher=BBC Sport |date=6 July 2018 }}</ref> This was the first time in 30 matches in all competitions that Brazil had conceded more than once in a game, since a 2–2 draw with Paraguay in March 2016.<ref name="Goal Brazil v Belgium"/> Despite Brazil's loss, with Renato Augusto's goal, Brazil have now topped the [[List of FIFA World Cup records and statistics#All time 2|all-time record of World Cup goals by any team]] with a total of 229 goals.
+
+<section begin=qf2 />{{Football box
+|date={{Start date|2018|7|6|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2018 FIFA World Cup knockout stage#Brazil vs Belgium|1–2}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Renato Augusto]] {{goal|76}}
+|goals2=
+*[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{goal|13|o.g.}}
+*[[Kevin De Bruyne|De Bruyne]] {{goal|31}}
+|stadium=[[Kazan Arena]], [[Kazan]]
+|attendance=42,873
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275095/300331538 |title=Brazil vs Belgium {{!}} Quarter-final {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/7767b42ae969b7bb/original/lmitcdvz2nsoapxx5bxq-pdf.pdf |title=Match report – Quarter-final – Brazil v Belgium |publisher=[[FIFA]] |date=6 July 2018 |access-date=6 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064050/https://digitalhub.fifa.com/m/7767b42ae969b7bb/original/lmitcdvz2nsoapxx5bxq-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=qf2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra18h
+ |pattern_b  = _bra18h
+ |pattern_ra = _bra18h
+ |pattern_sh = _bra18h
+ |pattern_so = _bra18H
+ |leftarm    = FFE400
+ |body       = FFE400
+ |rightarm   = FFE400
+ |shorts     = 003CFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-BEL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/43b6eea86341aad/original/ahulmjximpr087ewsjzr-pdf.pdf |title=Tactical Line-up – Quarter-final – Brazil v Belgium |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=6 July 2018 |access-date=6 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182425/https://digitalhub.fifa.com/m/43b6eea86341aad/original/ahulmjximpr087ewsjzr-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _belgica1819h
+ |pattern_ra =
+ |pattern_sh = _belg18h
+ |pattern_so = _belg18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="BRA-BEL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alisson]]
+|-
+|RB ||'''22'''||[[Fagner (footballer, born 1989)|Fagner]] || {{yel|90}}
+|-
+|CB ||'''2''' ||[[Thiago Silva]]
+|-
+|CB ||'''3''' ||[[Miranda (footballer, born 1984)|Miranda]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||[[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''15'''||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|73}}
+|-
+|CM ||'''17'''||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || {{yel|85}}
+|-
+|RW ||'''19'''||[[Willian (footballer, born 1988)|Willian]] || || {{suboff|46}}
+|-
+|AM ||'''11'''||[[Philippe Coutinho]]
+|-
+|LW ||'''10'''||[[Neymar]]
+|-
+|CF ||'''9''' ||[[Gabriel Jesus]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Roberto Firmino]] || || {{subon|46}}
+|-
+|FW ||'''7''' ||[[Douglas Costa]] || || {{subon|58}}
+|-
+|MF ||'''8''' ||[[Renato Augusto]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Tite (football manager)|Tite]]
+|}
+|valign="top"|[[File:BRA-BEL 2018-07-06.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]] || {{yel|47}}
+|-
+|CB ||'''4''' ||[[Vincent Kompany]]
+|-
+|CB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|RM ||'''15'''||[[Thomas Meunier]] || {{yel|71}}
+|-
+|CM ||'''8''' ||[[Marouane Fellaini]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|LM ||'''22'''||[[Nacer Chadli]] || || {{suboff|83}}
+|-
+|RF ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|87}}
+|-
+|LF ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Thomas Vermaelen]] || || {{subon|83}}
+|-
+|MF ||'''17'''||[[Youri Tielemans]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Roberto Martínez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Kevin De Bruyne]] (Belgium)<ref name="BRA-BEL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BRA-BEL line-ups"/>
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Corey Rockwell ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+|}
+
+===Sweden vs England===
+The teams had faced each other in 23 previous matches, including two times in the group stage of the World Cup, both matches ending in a draw ([[2002 FIFA World Cup Group F#England vs Sweden|1–1]] in 2002 and [[2006 FIFA World Cup Group B#Sweden vs England|2–2]] in 2006). Their most recent meeting came in a friendly in 2012, a 4–2 Sweden win.<ref name="statistical kit"/>
+
+England took the lead in the 30th minute, [[Ashley Young]]'s outswinging corner from the left finding [[Harry Maguire]], goalkeeper [[Robin Olsen]] and [[Ola Toivonen]] on the line unable to stop the defender's downward header. Olsen did well with a strong hand to deny [[Raheem Sterling]], who dallied with the rebound and allowed [[Andreas Granqvist]] to make a vital block. Shortly after the restart, [[Jordan Pickford]] dived to his left to palm away a header from [[Marcus Berg]], who climbed above Young at the back post. In the 58th minute, another England set-piece caused chaos and, although Sweden initially cleared their lines when [[Jesse Lingard]] delivered a cross from the right to the back post, [[Dele Alli]] was there to double his side's advantage with a header. [[John Guidetti]] teed up strike partner Berg in the 71st minute, but Pickford tipped the effort over the crossbar.<ref>{{cite web |last1=Smith |first1=Jamie |title=Maguire and Alli head Southgate's side into World Cup semi-final |url=http://www.goal.com/en-za/match/sweden-v-england/report/ew4sysp1wwqp325vru0np58tl |publisher=Goal.com |date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180708074733/http://www.goal.com/en-za/match/sweden-v-england/report/ew4sysp1wwqp325vru0np58tl |archive-date=8 July 2018}}</ref>
+
+Alli's goal was England's 11th at the 2018 World Cup, equalling the country's record of most goals at a single World Cup set in 1966.<ref name="SWE-ENG recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/dele-maguire-head-england-into-first-semi-final-in-28-years |title=Dele, Maguire head England into first semi-final in 28 years |publisher=FIFA |date=7 July 2018 |access-date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520063302/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/dele-maguire-head-england-into-first-semi-final-in-28-years |archive-date=20 May 2026}}</ref> Alli became the second youngest player to score for England at the World Cup (22 years and 87 days), behind only [[Michael Owen]] (18 years and 190 days [[1998 FIFA World Cup Group G#Romania vs England|against Romania]] in 1998). Maguire became the first defender to score the opening England goal in a World Cup knockout match since [[Rio Ferdinand]] in 2002 [[2002 FIFA World Cup knockout stage#Denmark vs England|against Denmark]]. Pickford made three saves in the match and became the youngest England goalkeeper to keep a clean sheet in a World Cup match (24 years and 122 days).<ref>{{cite web |last1=McNulty |first1=Phil |title=Sweden 0 England 2 |url=https://www.bbc.co.uk/sport/football/44665445 |publisher=BBC Sport |date=7 July 2018 }}</ref> England qualified for their first World Cup semi-final since 1990.<ref>{{cite web |title=Dele Alli and Harry Maguire send Three Lions into World Cup 2018 semi-finals |url=https://www.mirror.co.uk/sport/football/match-reports/england-sweden-world-cup-live-12579387 |publisher=[[Daily Mirror]] |date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180708162209/https://www.mirror.co.uk/sport/football/match-reports/england-sweden-world-cup-live-12579387 |archive-date=8 July 2018}}</ref>
+
+<section begin=qf3 />{{Football box
+|date={{Start date|2018|7|7|df=y}}
+|time=18:00 [[Samara Time|SAMT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|SWE}}
+|score={{score link|2018 FIFA World Cup knockout stage#Sweden vs England|0–2}}
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+*[[Harry Maguire|Maguire]] {{goal|30}}
+*[[Dele Alli|Alli]] {{goal|59}}
+|stadium=[[Cosmos Arena]], [[Samara]]
+|attendance=39,991
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275095/300331541 |title=Sweden vs England {{!}} Quarter-final {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/61b9e836e1a7831a/original/o3awaoyalf7gwxwfu0z9-pdf.pdf |title=Match report – Quarter-final – Sweden v England |publisher=[[FIFA]] |date=7 July 2018 |access-date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064104/https://digitalhub.fifa.com/m/61b9e836e1a7831a/original/o3awaoyalf7gwxwfu0z9-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=qf3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _swe1719h
+ |pattern_b  = _zwed18h
+ |pattern_ra = _swe1719h
+ |pattern_sh = _zwed18h
+ |pattern_so = _zwed18h
+ |leftarm    = FFEC00
+ |body       = FFEC00
+ |rightarm   = FFEC00
+ |shorts     = 0000DD
+ |socks      = FFEC00
+ |title      = Sweden<ref name="SWE-ENG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/735dda336f72b557/original/ayo0czkutbahniytrzwz-pdf.pdf |title=Tactical Line-up – Quarter-final – Sweden v England |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 July 2018 |access-date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522180107/https://digitalhub.fifa.com/m/735dda336f72b557/original/ayo0czkutbahniytrzwz-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _eng18a
+ |pattern_b  = _eng18a
+ |pattern_ra = _eng18a
+ |pattern_sh = _eng18a2
+ |pattern_so = _eng18a
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = England<ref name="SWE-ENG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Robin Olsen]]
+|-
+|RB ||'''16'''||[[Emil Krafth]] || || {{suboff|85}}
+|-
+|CB ||'''3''' ||[[Victor Lindelöf]]
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Ludwig Augustinsson]]
+|-
+|RM ||'''17'''||[[Viktor Claesson]]
+|-
+|CM ||'''7''' ||[[Sebastian Larsson]] || {{yel|90+4}}
+|-
+|CM ||'''8''' ||[[Albin Ekdal]]
+|-
+|LM ||'''10'''||[[Emil Forsberg]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||[[Marcus Berg]]
+|-
+|CF ||'''20'''||[[Ola Toivonen]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[John Guidetti]] || {{yel|87}} || {{subon|65}}
+|-
+|DF ||'''5''' ||[[Martin Olsson]] || || {{subon|65}}
+|-
+|DF ||'''18'''||[[Pontus Jansson]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Janne Andersson]]
+|}
+|valign="top"|[[File:SWE-ENG 2018-07-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jordan Pickford]]
+|-
+|CB ||'''2''' ||[[Kyle Walker]]
+|-
+|CB ||'''5''' ||[[John Stones]]
+|-
+|CB ||'''6''' ||[[Harry Maguire]] || {{yel|87}}
+|-
+|DM ||'''8''' ||[[Jordan Henderson]] || || {{suboff|85}}
+|-
+|RM ||'''12'''||[[Kieran Trippier]]
+|-
+|CM ||'''20'''||[[Dele Alli]] || || {{suboff|77}}
+|-
+|CM ||'''7''' ||[[Jesse Lingard]]
+|-
+|LM ||'''18'''||[[Ashley Young]]
+|-
+|CF ||'''10'''||[[Raheem Sterling]] || || {{suboff|90+1}}
+|-
+|CF ||'''9''' ||[[Harry Kane]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''17'''||[[Fabian Delph]] || || {{subon|77}}
+|-
+|MF ||'''4''' ||[[Eric Dier]] || || {{subon|85}}
+|-
+|FW ||'''19'''||[[Marcus Rashford]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Gareth Southgate]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Jordan Pickford]] (England)<ref name="SWE-ENG recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="SWE-ENG line-ups"/>
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Pau Cebrián Devís ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+|}
+
+===Russia vs Croatia===
+[[File:Марио Манджукич у ворот Игоря Акинфеева 2018.jpg|thumb|[[Mario Mandžukić]] (left) makes a cross to [[Andrej Kramarić]] (off screen to right), who would then head the ball into the goal to equalise in the 39th minute.]]
+The teams had faced each other in three previous matches. Their most recent meeting came in a friendly in 2015, a 3–1 Croatia win.<ref name="statistical kit"/>
+
+In the 31st minute, [[Denis Cheryshev]] came in from the left and, after a one-two with [[Artem Dzyuba]], skipped away from [[Luka Modrić]] to curl a left foot effort beyond [[Danijel Subašić]] and into the left of the net. Six minutes before half-time, [[Mario Mandžukić]] advanced down the left to set up the chance for [[Andrej Kramarić]] to head home the equaliser. In the first period of extra time, Croatia took the lead as [[Domagoj Vida]] nodded down past [[Igor Akinfeev]] and into the right corner of the net after a corner from the right. [[Mário Fernandes (footballer)|Mário Fernandes]] drew his team level, converting [[Alan Dzagoev]]'s free-kick with a glancing header to the left corner of the net after a free-kick from the right. Penalties were required and while [[Fyodor Smolov]]'s [[Panenka (penalty kick)|Panenka]] attempt with the first effort was foiled by Subašić, parity was restored when Akinfeev got down to his left to keep out [[Mateo Kovačić]]'s second kick for Croatia. After Fernandes' failure, Modrić's strike found the net, following touches off Akinfeev's glove and the post. The decisive penalty fell to [[Ivan Rakitić]], who rolled the ball into the bottom-left corner to give Croatia the win.<ref>{{cite web |last1=Webber |first1=Tom |title=Rakitic sets up England semi-final showdown |url=http://www.goal.com/en-ng/match/russia-v-croatia/report/ew1rtwpaw88s0xwe3q77erca1 |publisher=Goal.com |date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180708133419/http://www.goal.com/en-ng/match/russia-v-croatia/report/ew1rtwpaw88s0xwe3q77erca1 |archive-date=8 July 2018}}</ref>
+
+Russia became the first country in World Cup history to contest two shoot-outs while hosting the event.<ref name="RUS-CRO recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/rus-cro-match-report-541w-2983556 |title=Croatia through as hosts pay the penalty |publisher=FIFA |date=7 July 2018 |access-date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520063342/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/rus-cro-match-report-541w-2983556 |archive-date=20 May 2026}}</ref> There were three headed goals in this match – the most in a World Cup match since Germany's [[2002 FIFA World Cup Group E#Germany vs Saudi Arabia|8–0 win]] over Saudi Arabia in 2002 (5 headers).<ref>{{cite web |last1=Jennings |first1=Patrick |title=Russia 2 Croatia 2 |url=https://www.bbc.co.uk/sport/football/44665444 |publisher=BBC Sport |date=7 July 2018}}</ref> Croatia became the second team to win two penalty shoot-outs at a single World Cup tournament – the other was Argentina in 1990 (against Yugoslavia and Italy). Croatia qualified for the semi-final for the first time since 1998 (their first World Cup tournament).<ref>{{cite news |first1=Steven |last1=Goff |first2=Ava |last2=Wallace |title=Russia is knocked out of World Cup by Croatia, after showing fight no one imagined |url=https://www.washingtonpost.com/news/soccer-insider/wp/2018/07/07/russia-vs-croatia-2018-world-cup-quarterfinal/?noredirect=on |newspaper=The Washington Post |date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20180708133344/https://www.washingtonpost.com/news/soccer-insider/wp/2018/07/07/russia-vs-croatia-2018-world-cup-quarterfinal/?noredirect=on&utm_term=.16e31cc1e31c |archive-date=8 July 2018}}</ref>
+
+<section begin=qf4 />{{Football box
+|date={{Start date|2018|7|7|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|RUS}}
+|score={{score link|2018 FIFA World Cup knockout stage#Russia vs Croatia|2–2}}
+|aet=yes
+|team2={{fb|CRO}}
+|goals1=
+*[[Denis Cheryshev|Cheryshev]] {{goal|31}}
+*[[Mário Fernandes (footballer)|Fernandes]] {{goal|115}}
+|goals2=
+*[[Andrej Kramarić|Kramarić]] {{goal|39}}
+*[[Domagoj Vida|Vida]] {{goal|101}}
+|stadium=[[Fisht Olympic Stadium]], [[Sochi]]
+|attendance=44,287
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|penalties1=
+*[[Fyodor Smolov|Smolov]] {{penmiss}}
+*[[Alan Dzagoev|Dzagoev]] {{pengoal}}
+*[[Mário Fernandes (footballer)|Fernandes]] {{penmiss}}
+*[[Sergei Ignashevich|Ignashevich]] {{pengoal}}
+*[[Daler Kuzyayev|Kuzyayev]] {{pengoal}}
+|penaltyscore=3–4
+|penalties2=
+*{{pengoal}} [[Marcelo Brozović|Brozović]]
+*{{penmiss}} [[Mateo Kovačić|Kovačić]]
+*{{pengoal}} [[Luka Modrić|Modrić]]
+*{{pengoal}} [[Domagoj Vida|Vida]]
+*{{pengoal}} [[Ivan Rakitić|Rakitić]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275095/300331504 |title=Russia vs Croatia {{!}} Quarter-final {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/10b5e4abbc47a93/original/uno0nrkctywxiuups07n-pdf.pdf |title=Match report – Quarter-final – Russia v Croatia |publisher=[[FIFA]] |date=7 July 2018 |access-date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064117/https://digitalhub.fifa.com/m/10b5e4abbc47a93/original/uno0nrkctywxiuups07n-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=qf4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _russia1819h
+ |pattern_b  = _rus18h
+ |pattern_ra = _russia1819h
+ |pattern_sh = _rusl18h
+ |pattern_so = _rusl18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Russia<ref name="RUS-CRO line-ups">{{cite web |url=https://digitalhub.fifa.com/m/47add1e5b986f5c4/original/ze8dbw0ygeiigsuokz9g-pdf.pdf |title=Tactical Line-up – Quarter-final – Russia v Croatia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 July 2018 |access-date=7 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522180120/https://digitalhub.fifa.com/m/47add1e5b986f5c4/original/ze8dbw0ygeiigsuokz9g-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _cro18A
+ |pattern_b  = _cro18aw
+ |pattern_ra = _cro18A
+ |pattern_sh = _cro18a
+ |pattern_so = _cro18a2
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Croatia<ref name="RUS-CRO line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Igor Akinfeev]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Mário Fernandes (footballer)|Mário Fernandes]]
+|-
+|CB ||'''3''' ||[[Ilya Kutepov]]
+|-
+|CB ||'''4''' ||[[Sergei Ignashevich]]
+|-
+|LB ||'''13'''||[[Fyodor Kudryashov]]
+|-
+|CM ||'''11'''||[[Roman Zobnin]]
+|-
+|CM ||'''7''' ||[[Daler Kuzyayev]]
+|-
+|RW ||'''19'''||[[Aleksandr Samedov]] || || {{suboff|54}}
+|-
+|AM ||'''17'''||[[Aleksandr Golovin (footballer)|Aleksandr Golovin]] || || {{suboff|102}}
+|-
+|LW ||'''6''' ||[[Denis Cheryshev]] || || {{suboff|67}}
+|-
+|CF ||'''22'''||[[Artem Dzyuba]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Aleksandr Yerokhin]] || || {{subon|54}}
+|-
+|FW ||'''10'''||[[Fyodor Smolov]] || || {{subon|67}}
+|-
+|MF ||'''8''' ||[[Yury Gazinsky]] || {{yel|109}} || {{subon|79}}
+|-
+|MF ||'''9''' ||[[Alan Dzagoev]] || || {{subon|102}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stanislav Cherchesov]]
+|}
+|valign="top"|[[File:RUS-CRO 2018-07-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Danijel Subašić]]
+|-
+|RB ||'''2''' ||[[Šime Vrsaljko]] || || {{suboff|97}}
+|-
+|CB ||'''6''' ||[[Dejan Lovren]] || {{yel|35}}
+|-
+|CB ||'''21'''||[[Domagoj Vida]] || {{yel|101}}
+|-
+|LB ||'''3''' ||[[Ivan Strinić]] || {{yel|38}} || {{suboff|74}}
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]]
+|-
+|CM ||'''10'''||[[Luka Modrić]] ([[Captain (association football)|c]])
+|-
+|RW ||'''18'''||[[Ante Rebić]]
+|-
+|AM ||'''9''' ||[[Andrej Kramarić]] || || {{suboff|88}}
+|-
+|LW ||'''4''' ||[[Ivan Perišić]] || || {{suboff|63}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Marcelo Brozović]] || || {{subon|63}}
+|-
+|DF ||'''22'''||[[Josip Pivarić]] || {{yel|114}} || {{subon|74}}
+|-
+|MF ||'''8''' ||[[Mateo Kovačić]] || || {{subon|88}}
+|-
+|DF ||'''5''' ||[[Vedran Ćorluka]] || || {{subon|97}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Zlatko Dalić]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Luka Modrić]] (Croatia)<ref name="RUS-CRO recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="RUS-CRO line-ups"/>
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Jerson Dos Santos ([[Angolan Football Federation|Angola]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+==Semi-finals==
+For the first time since 1966, all multiple World Cup winners were eliminated before the semi-final stage.{{citation needed|date=October 2020}} With Uruguay and Brazil eliminated in the quarter-finals, an all-European semi-final line up was completed for the fifth time (after the [[1934 FIFA World Cup|1934]], [[1966 FIFA World Cup|1966]], [[1982 FIFA World Cup|1982]], and [[2006 FIFA World Cup|2006]] tournaments). This also ensured that a European side would win the World Cup for the fourth tournament in a row, and marked the first semi-final to not feature any one of Argentina, Brazil nor Germany, the only previous semi-final not featuring Brazil or Germany being the inaugural [[1930 FIFA World Cup|1930 tournament]] which had Argentina.<ref>{{cite news |title=Belgium holds off Brazil to reach first World Cup semis in 32 years|url=https://www.tsn.ca/belgium-eliminates-brazil-from-world-cup-wins-2-1-1.1132959 |access-date=9 July 2018 |publisher=[[The Sports Network]] |url-status=live |archive-url=https://web.archive.org/web/20180709065229/https://www.tsn.ca/belgium-eliminates-brazil-from-world-cup-wins-2-1-1.1132959 |archive-date=9 July 2018}}</ref>
+
+===France vs Belgium===
+The teams had faced each other in 73 previous matches, including two times in the World Cup, France winning both matches ([[1938 FIFA World Cup final tournament#France vs Belgium|3–1]] in the round of 16 in 1938 and [[1986 FIFA World Cup knockout stage#Match for third place|4–2]] in the match for third place in 1986). Their most recent meeting came in a friendly in 2015, a 4–3 Belgium win.<ref name="statistical kit"/>
+
+Eden Hazard twice went close, narrowly missing the target with a low, left-footed drive before seeing a curler with his right deflected over the crossbar by the head of [[Raphaël Varane]]. [[Hugo Lloris]]' full-length dive kept out a first-time strike on the turn from [[Toby Alderweireld]], while [[Thibaut Courtois]] blocked [[Benjamin Pavard]]'s attempt from a tight angle on the right at the other end. Six minutes after the break, [[Vincent Kompany]]'s block turned away [[Olivier Giroud]]'s shot, and [[Antoine Griezmann]]'s inswinging delivery from the right to the front post was turned in by [[Samuel Umtiti]], who outjumped his marker, [[Marouane Fellaini]], to head beyond Courtois. [[Dries Mertens]]'s cross from the right flank saw Fellaini narrowly miss the target with a header. [[Axel Witsel]]'s long-range drive was pushed away by Lloris as France secured their place in the final.<ref>{{cite web |last1=Lancaster |first1=Rob |title=Umtiti heads Les Bleus into World Cup final |url=http://www.goal.com/en/match/france-v-belgium/20a3lgme79hyoxguz247lr1ex |publisher=Goal.com |date=10 July 2018}}</ref>
+
+With this match, it meant [[Didier Deschamps]] managed more games for France at the World Cup than any other previous France manager, overtaking [[Raymond Domenech]] and [[Michel Hidalgo]].<ref name="FRA-BEL recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/umtiti-heads-france-into-the-final |title=Umtiti heads France into the Final |publisher=FIFA |date=10 July 2018 |access-date=10 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520063449/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/umtiti-heads-france-into-the-final |archive-date=20 May 2026}}</ref> This was Belgium's first defeat of any kind since a friendly loss against Spain in September 2016. France reached their third World Cup final, also doing so in 1998 and 2006. Only Germany (8) and Italy (6) had reached more among European nations.<ref>{{cite web |last1=Hafez |first1=Shamoon |title=France 1 Belgium 0 |url=https://www.bbc.co.uk/sport/football/44692297 |publisher=BBC Sport |date=10 July 2018}}</ref>
+
+<section begin=sf1 />{{Football box
+|date={{Start date|2018|7|10|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2018 FIFA World Cup knockout stage#France vs Belgium|1–0}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Samuel Umtiti|Umtiti]] {{goal|51}}
+|goals2=
+|stadium=[[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance=64,286
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275097/300331531 |title=France vs Belgium {{!}} Semi-final {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/46e0d92d776c903f/original/yq1a4jngeam17nxshqhl-pdf.pdf |title=Match report – Semi-final – France v Belgium |publisher=[[FIFA]] |date=10 July 2018 |access-date=10 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064133/https://digitalhub.fifa.com/m/46e0d92d776c903f/original/yq1a4jngeam17nxshqhl-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=sf1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _frank18h
+ |pattern_b  = _fra18ho
+ |pattern_ra = _frank18h
+ |pattern_sh = _fra18a
+ |pattern_so = _fra18H2
+ |leftarm    = 112855
+ |body       = 112855
+ |rightarm   = 112855
+ |shorts     = 112855
+ |socks      = 112855
+ |title      = France<ref name="FRA-BEL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7f026ff51d77dd9b/original/ilovavobczjqgqioqwn3-pdf.pdf |title=Tactical Line-up – Semi-final – France v Belgium |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=10 July 2018 |access-date=10 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522180133/https://digitalhub.fifa.com/m/7f026ff51d77dd9b/original/ilovavobczjqgqioqwn3-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _belgica1819h
+ |pattern_ra =
+ |pattern_sh = _belg18h
+ |pattern_so = _belg18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="FRA-BEL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Benjamin Pavard]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Samuel Umtiti]]
+|-
+|LB ||'''21'''||[[Lucas Hernandez]]
+|-
+|CM ||'''6''' ||[[Paul Pogba]]
+|-
+|CM ||'''13'''||[[N'Golo Kanté]] || {{yel|87}}
+|-
+|RW ||'''10'''||[[Kylian Mbappé]] || {{yel|90+3}}
+|-
+|AM ||'''7''' ||[[Antoine Griezmann]]
+|-
+|LW ||'''14'''||[[Blaise Matuidi]] || || {{suboff|86}}
+|-
+|CF ||'''9''' ||[[Olivier Giroud]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Steven Nzonzi]] || || {{subon|85}}
+|-
+|MF ||'''12'''||[[Corentin Tolisso]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-BEL 2018-07-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]] || {{yel|71}}
+|-
+|CB ||'''4''' ||[[Vincent Kompany]]
+|-
+|CB ||'''5''' ||[[Jan Vertonghen]] || {{yel|90+4}}
+|-
+|DM ||'''6''' ||[[Axel Witsel]]
+|-
+|CM ||'''19'''||[[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]] || || {{suboff|60}}
+|-
+|CM ||'''8''' ||[[Marouane Fellaini]] || || {{suboff|80}}
+|-
+|RM ||'''22'''||[[Nacer Chadli]] || || {{suboff|90+1}}
+|-
+|LM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]]
+|-
+|CF ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]]) || {{yel|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|60}}
+|-
+|MF ||'''11'''||[[Yannick Carrasco]] || || {{subon|80}}
+|-
+|FW ||'''21'''||[[Michy Batshuayi]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Roberto Martínez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Samuel Umtiti]] (France)<ref name="FRA-BEL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="FRA-BEL line-ups"/>
+<br />Nicolás Taran ([[Uruguayan Football Association|Uruguay]])
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===Croatia vs England===
+[[File:England Croatia match 2018.jpg|thumb|The Croatian team and their supporters celebrate after [[Ivan Perišić]]'s equalising goal in the 68th minute.]]
+The teams had faced each other in seven previous matches, which included two matches played in the [[2010 FIFA World Cup qualification – UEFA Group 6|2010 FIFA World Cup qualification]], England winning on both occasions (4–1 and 5–1).<ref name="statistical kit"/>
+
+[[Luka Modrić]] stopped a [[Dele Alli]] run, by fouling him at the edge of the area. [[Kieran Trippier]] found the top right corner of the net from the resulting free kick with his right foot. [[Harry Kane]] nearly doubled England's lead, but his close range shot deflected off [[Danijel Subašić]]'s foot and onto the post. After half-time, [[Ivan Perišić]] met [[Šime Vrsaljko]]'s deep cross from the right at head height with a flying, left-footed finish to the left of the net. Soon after, Perišić shot against the right-hand post from the left before [[Ante Rebić]] put the rebound into [[Jordan Pickford]]'s hands. In extra-time, [[John Stones]] had a header cleared off the line by Vrsaljko in the 98th minute. Pickford at the other end, denied [[Mario Mandžukić]] at point-blank range after the striker met Perišić's cross from the left. But Mandžukić came out on top soon after the break, latching on to Perišić's headed pass on the left and sending a left-footed effort across Pickford to find the bottom-right corner, securing Croatia's entrance into their first ever World Cup final.<ref>{{cite web |last1=Benson |first1=Ryan |title=Mandzukic strike sets up World Cup final with France |url=http://www.goal.com/en/match/croatia-v-england/20nfps1vaxy0ctnvjlvh9qmeh |publisher=Goal.com |date=11 July 2018}}</ref>
+ 
+Croatia became the first team to avoid defeat after trailing in three knockout matches at a single World Cup. They became the 13th different nation to reach a World Cup final. Their first since the establishment of the country's team and the former Yugoslav country since [[Breakup of Yugoslavia]] in 1989.<ref name="CRO-ENG recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/history-maker-mandzukic-sends-croatia-into-first-final |title=History-maker Mandzukic sends Croatia into first Final |publisher=FIFA |date=11 July 2018 |access-date=11 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520063604/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/history-maker-mandzukic-sends-croatia-into-first-final |archive-date=20 May 2026}}</ref> Trippier became the first player to score a direct free-kick for England at the World Cup since [[David Beckham]] in 2006 [[2006 FIFA World Cup knockout stage#England vs Ecuador|against Ecuador]]. Trippier's goal after four minutes and 44 seconds was the fastest goal scored in a World Cup semi-final since 1958 ([[Vavá]] after two minutes for [[1958 FIFA World Cup knockout stage#Brazil vs France|Brazil v France]]) and was England's 12th goal in Russia, their most in a single World Cup. Croatia became the first team to play extra time in three consecutive World Cup matches since England in 1990. England scored nine goals from set-pieces at the 2018 World Cup – the most by a team in a single World Cup tournament since 1966.<ref>{{cite web |last1=McNulty |first1=Phil |title=Croatia 2 England 1 |url=https://www.bbc.co.uk/sport/football/44706648 |publisher=BBC Sport |date=11 July 2018}}</ref>
+
+<section begin=sf2 />{{Football box
+|date={{Start date|2018|7|11|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|CRO}}
+|score={{score link|2018 FIFA World Cup knockout stage#Croatia vs England|2–1}}
+|aet=yes
+|team2={{fb|ENG}}
+|goals1=
+*[[Ivan Perišić|Perišić]] {{goal|68}}
+*[[Mario Mandžukić|Mandžukić]] {{goal|109}}
+|goals2=
+*[[Kieran Trippier|Trippier]] {{goal|5}}
+|stadium=[[Luzhniki Stadium]], [[Moscow]]
+|attendance=78,011
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275097/300331522 |title=Croatia vs England {{!}} Semi-final {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/43aa874d64d3c3e2/original/wokewexwh4sfkhzk8qwz-pdf.pdf |title=Match report – Semi-final – Croatia v England |publisher=[[FIFA]] |date=11 July 2018 |access-date=11 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064145/https://digitalhub.fifa.com/m/43aa874d64d3c3e2/original/wokewexwh4sfkhzk8qwz-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=sf2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cro18A
+ |pattern_b  = _cro18aw
+ |pattern_ra = _cro18A
+ |pattern_sh = _cro18a
+ |pattern_so = _cro18a1
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Croatia<ref name="CRO-ENG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/1583a222c821b927/original/jwrydllsz1qzt8javctr-pdf.pdf |title=Tactical Line-up – Semi-final – Croatia v England |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 July 2018 |access-date=11 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182440/https://digitalhub.fifa.com/m/1583a222c821b927/original/jwrydllsz1qzt8javctr-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _eng18h
+ |pattern_b  = _eng18home
+ |pattern_ra = _eng18h
+ |pattern_sh = _usa18h
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = England<ref name="CRO-ENG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Danijel Subašić]]
+|-
+|RB ||'''2''' ||[[Šime Vrsaljko]]
+|-
+|CB ||'''6''' ||[[Dejan Lovren]]
+|-
+|CB ||'''21'''||[[Domagoj Vida]]
+|-
+|LB ||'''3''' ||[[Ivan Strinić]] || || {{suboff|95}}
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]]
+|-
+|CM ||'''11'''||[[Marcelo Brozović]]
+|-
+|RW ||'''18'''||[[Ante Rebić]] || {{yel|96}} || {{suboff|101}}
+|-
+|AM ||'''10'''||[[Luka Modrić]] ([[Captain (association football)|c]]) || || {{suboff|119}}
+|-
+|LW ||'''4''' ||[[Ivan Perišić]]
+|-
+|CF ||'''17'''||[[Mario Mandžukić]] || {{yel|48}} || {{suboff|115}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''22'''||[[Josip Pivarić]] || || {{subon|95}}
+|-
+|FW ||'''9''' ||[[Andrej Kramarić]] || || {{subon|101}}
+|-
+|DF ||'''5''' ||[[Vedran Ćorluka]] || || {{subon|115}}
+|-
+|MF ||'''19'''||[[Milan Badelj]] || || {{subon|119}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Zlatko Dalić]]
+|}
+|valign="top"|[[File:CRO-ENG 2018-07-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jordan Pickford]]
+|-
+|CB ||'''2''' ||[[Kyle Walker]] || {{yel|54}} || {{suboff|112}}
+|-
+|CB ||'''5''' ||[[John Stones]]
+|-
+|CB ||'''6''' ||[[Harry Maguire]]
+|-
+|DM ||'''8''' ||[[Jordan Henderson]] || || {{suboff|97}}
+|-
+|RM ||'''12'''||[[Kieran Trippier]]
+|-
+|CM ||'''20'''||[[Dele Alli]]
+|-
+|CM ||'''7''' ||[[Jesse Lingard]]
+|-
+|LM ||'''18'''||[[Ashley Young]] || || {{suboff|91}}
+|-
+|CF ||'''10'''||[[Raheem Sterling]] || || {{suboff|74}}
+|-
+|CF ||'''9''' ||[[Harry Kane]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Marcus Rashford]] || || {{subon|74}}
+|-
+|DF ||'''3''' ||[[Danny Rose (footballer, born 1990)|Danny Rose]] || || {{subon|91}}
+|-
+|MF ||'''4''' ||[[Eric Dier]] || || {{subon|97}}
+|-
+|FW ||'''11'''||[[Jamie Vardy]] || || {{subon|112}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Gareth Southgate]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Ivan Perišić]] (Croatia)<ref name="CRO-ENG recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="CRO-ENG line-ups"/>
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+|}
+
+==Match for third place==
+[[File:Belgium_2-0_England,_BEL_line-up.jpg|thumb|Belgium line-up before the start of the game]]
+[[Belgium national football team|Belgium]] and [[England national football team|England]] had previously met in 22 matches, including three matches at the World Cup, one round of 16 game at the [[1990 FIFA World Cup]] which ended in a [[1990 FIFA World Cup knockout stage#England vs Belgium|1–0]] victory for England, one group stage game at the [[1954 FIFA World Cup]] which ended in a [[1954 FIFA World Cup Group 4#England vs Belgium|4–4]] draw and their most recent encounter in Group G of this tournament which Belgium won [[2018 FIFA World Cup Group G#England vs Belgium|1–0]].<ref name="statistical kit"/> As both were European teams, this was already set pre-match as the [[European nations at the FIFA World Cup#Overview|10th consecutive World Cup in which European teams finished third]], stretching back to [[1982 FIFA World Cup knockout stage#Match for third place|1982]].
+
+After four minutes, [[Thomas Meunier]] raced into the box to get across [[Danny Rose (footballer, born 1990)|Danny Rose]] and tucked home [[Nacer Chadli]]'s low cross in from the left from six yards out. [[Harry Kane]] scuffed wide of the left post, from a [[Raheem Sterling]] lay-off. In the 70th minute, [[Eric Dier]] burst through for a one-on-one and dinked over [[Thibaut Courtois]], only to see a retreating [[Toby Alderweireld]] hack the ball off the line. [[Jordan Pickford]] made a one-handed save to deny Meunier in the 80th minute. [[Eden Hazard]] scored the second with a near-post finish with his right foot, having been sent clean through by [[Kevin De Bruyne]].<ref>{{cite web |last1=Dorman |first1=Matt |title=Meunier, Hazard make history for Martinez's entertainers |url=http://www.goal.com/en/match/belgium-v-england/3dm9d0sw90igwqwoqs2fbfi7d |publisher=Goal.com |date=14 July 2018}}</ref>
+
+Meunier was the 10th player to score for Belgium at the 2018 World Cup. No other team had more, equalling France in 1982 and Italy in 2006.<ref name="BEL-ENG recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/hazard-meunier-bag-bronze-for-belgium |title=Hazard, Meunier bag bronze for Belgium |publisher=FIFA |date=14 July 2018 |access-date=14 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520063745/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/hazard-meunier-bag-bronze-for-belgium |archive-date=20 May 2026}}</ref> This became Belgium's best finish at a World Cup, having previously finished fourth in 1986. This was England's 100th match at a major tournament – 69 at the World Cup and 31 at the European Championship. Since 1966, no player had been involved in more World Cup goals for Belgium than Hazard (seven – three goals and four assists), level with [[Jan Ceulemans]] (also four goals and three assists).<ref>{{cite web |last=McNulty |first=Phil |title=World Cup 2018: England finish fourth after Belgium defeat |url=https://www.bbc.co.uk/sport/football/44748604 |work=BBC Sport |date=14 July 2018}}</ref>
+
+<section begin=tpp />{{Football box
+|date={{Start date|2018|7|14|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|BEL}}
+|score={{score link|2018 FIFA World Cup knockout stage#Match for third place|2–0}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Thomas Meunier|Meunier]] {{goal|4}}
+*[[Eden Hazard|E. Hazard]] {{goal|82}}
+|goals2=
+|stadium=[[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance=64,406
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275099/300331536 |title=Belgium vs England {{!}} Play-off for third place {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/7104f9df6dcb1a3f/original/thmhafcmqb56v9scd67t-pdf.pdf |title=Match report – Play-off for third place – Belgium v England |publisher=[[FIFA]] |date=14 July 2018 |access-date=14 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413064159/https://digitalhub.fifa.com/m/7104f9df6dcb1a3f/original/thmhafcmqb56v9scd67t-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=tpp />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bel18a
+ |pattern_b  = _bel18a
+ |pattern_ra = _bel18a
+ |pattern_sh = _belg18a
+ |pattern_so = _belg18a
+ |leftarm    = FFD800
+ |body       = FFD800
+ |rightarm   = FFD800
+ |shorts     = 000000
+ |socks      = FFD800
+ |title      = Belgium<ref name="BEL-ENG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7ade1be32ba55a25/original/dldhpoqsvbdkebbwoicl-pdf.pdf |title=Tactical Line-up – Play-off for third place – Belgium v England |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 July 2018 |access-date=14 July 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522184120/https://digitalhub.fifa.com/m/7ade1be32ba55a25/original/dldhpoqsvbdkebbwoicl-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _eng18a
+ |pattern_b  = _eng18a
+ |pattern_ra = _eng18a
+ |pattern_sh = _usa18h
+ |pattern_so = _eng18a
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = England<ref name="BEL-ENG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''4''' ||[[Vincent Kompany]]
+|-
+|CB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|RM ||'''15'''||[[Thomas Meunier]]
+|-
+|CM ||'''17'''||[[Youri Tielemans]] || || {{suboff|78}}
+|-
+|CM ||'''6''' ||[[Axel Witsel]] || {{yel|90+3}}
+|-
+|LM ||'''22'''||[[Nacer Chadli]] || || {{suboff|39}}
+|-
+|RF ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|60}}
+|-
+|LF ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Thomas Vermaelen]] || || {{subon|39}}
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|60}}
+|-
+|MF ||'''19'''||[[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Roberto Martínez]]
+|}
+|valign="top"|[[File:BEL-ENG 2018-07-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jordan Pickford]]
+|-
+|CB ||'''16'''||[[Phil Jones (footballer, born 1992)|Phil Jones]]
+|-
+|CB ||'''5''' ||[[John Stones]] || {{yel|52}}
+|-
+|CB ||'''6''' ||[[Harry Maguire]] || {{yel|76}}
+|-
+|DM ||'''4''' ||[[Eric Dier]]
+|-
+|CM ||'''21'''||[[Ruben Loftus-Cheek]] || || {{suboff|84}}
+|-
+|CM ||'''17'''||[[Fabian Delph]]
+|-
+|RM ||'''12'''||[[Kieran Trippier]]
+|-
+|LM ||'''3''' ||[[Danny Rose (footballer, born 1990)|Danny Rose]] || || {{suboff|46}}
+|-
+|CF ||'''10'''||[[Raheem Sterling]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Harry Kane]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Jesse Lingard]] || || {{subon|46}}
+|-
+|FW ||'''19'''||[[Marcus Rashford]] || || {{subon|46}}
+|-
+|MF ||'''20'''||[[Dele Alli]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Gareth Southgate]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Eden Hazard]] (Belgium)<ref name="BEL-ENG recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BEL-ENG line-ups"/>
+<br />Reza Sokhandan ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />[[Mohammadreza Mansouri]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Malang Diedhiou]] ([[Senegalese Football Federation|Senegal]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Djibril Camara ([[Senegalese Football Federation|Senegal]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+==Final==
+{{main|2018 FIFA World Cup final}}
+
+The match was the sixth meeting between France and Croatia, with France undefeated in the previous fixtures with three wins and two draws. The two sides first met in the [[1998 FIFA World Cup knockout stage#France vs Croatia|1998 World Cup semi-final]], with hosts France winning 2–1. Their only other competitive meeting was during the [[UEFA Euro 2004 Group B#Croatia vs France|group stage of Euro 2004]], which finished as a 2–2 draw. Their next and most recent meeting was in a March 2011 [[Exhibition game#Association football|friendly match]], which finished as a 0–0 draw.<ref name="statistical kit"/>
+
+{{#lst:2018 FIFA World Cup final|final}}
+{{#lst:2018 FIFA World Cup final|Lineups}}
+
+==See also==
+*[[2022 FIFA World Cup knockout stage]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.fifa.com/worldcup/archive/russia2018/}}
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:2018 FIFA World Cup]]
+[[Category:2018 in Kazan]]
+[[Category:2018 in Moscow]]
+[[Category:2018 in Nizhny Novgorod]]
+[[Category:2018 in Rostov-on-Don]]
+[[Category:2018 in Saint Petersburg]]
+[[Category:2018 in Sochi]]
+[[Category:Argentina at the 2018 FIFA World Cup]]
+[[Category:Belgium at the 2018 FIFA World Cup]]
+[[Category:Brazil at the 2018 FIFA World Cup]]
+[[Category:Colombia at the 2018 FIFA World Cup]]
+[[Category:Croatia at the 2018 FIFA World Cup]]
+[[Category:Denmark at the 2018 FIFA World Cup]]
+[[Category:England at the 2018 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|2018]]
+[[Category:Football in Moscow]]
+[[Category:Football in Saint Petersburg]]
+[[Category:France at the 2018 FIFA World Cup]]
+[[Category:Japan at the 2018 FIFA World Cup]]
+[[Category:Mexico at the 2018 FIFA World Cup]]
+[[Category:Portugal at the 2018 FIFA World Cup]]
+[[Category:Russia at the 2018 FIFA World Cup]]
+[[Category:Spain at the 2018 FIFA World Cup]]
+[[Category:Sport in Nizhny Novgorod]]
+[[Category:Sport in Rostov-on-Don]]
+[[Category:Sport in Samara]]
+[[Category:Sports competitions in Kazan]]
+[[Category:Sports competitions in Sochi]]
+[[Category:Sports competitions in Volgograd]]
+[[Category:Sweden at the 2018 FIFA World Cup]]
+[[Category:Switzerland at the 2018 FIFA World Cup]]
+[[Category:Uruguay at the 2018 FIFA World Cup]]

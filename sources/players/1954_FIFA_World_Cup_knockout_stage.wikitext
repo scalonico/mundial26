@@ -1,0 +1,684 @@
+{{Short description|Final stage of the competition}}
+{{Use dmy dates|date=May 2018}}
+The knockout stage of the [[1954 FIFA World Cup]] was the second and final stage of the competition, following the group stage. The knockout stage began on 26 June with the quarter-finals and ended on 4 July 1954 with the [[1954 FIFA World Cup final|final match]], held at the [[Wankdorf Stadium]] in [[Bern]]. The top two teams from each group (eight in total) advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament. A match for third place also was played between the two losing teams of the semi-finals.
+
+[[Germany national football team|West Germany]] won the final 3–2 against [[Hungary national football team|Hungary]] for their first World Cup title.<ref>{{cite web |url=http://www.thehardtackle.com/2012/a-game-that-changed-germany-and-hungary-forever-the-miracle-of-bern//|title=The miracle of Bern – a game that changed Germany and Hungary forever|first=Amlan|last=Majundar|publisher=theHardTackle|date=11 October 2012|access-date=7 December 2016}}</ref>
+
+==Qualified teams==
+The top two placed teams from each of the four groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[1954 FIFA World Cup Group 1|1]]
+| {{fb|BRA|1889}}
+| {{fb|YUG}}
+|-
+! [[1954 FIFA World Cup Group 2|2]]
+| {{fb|HUN|1949}}
+| {{fb|FRG}}
+|-
+! [[1954 FIFA World Cup Group 3|3]]
+| {{fb|URU}}
+| {{fb|AUT}}
+|-
+! [[1954 FIFA World Cup Group 4|4]]
+| {{fb|ENG}}
+| {{fb|SUI|civil}}
+|}
+
+==Bracket==
+
+For each of the first two quarter-finals, one team progressing from group 1 was drawn against one team progressing from group 2. For the remaining two quarter-finals, this procedure was repeated for groups 3 and 4.<ref name="jura">{{cite news |work=[[Journal du Jura]] |date=1954-06-16 |page=5 |title=Aujourd'hui commence le tour final de la Coupe du Monde de football |url=https://www.e-newspaperarchives.ch/?a=d&d=JDJ19540616-01.2.22 |location=Bienne, Switzerland |language=fr|via=[[e-newspaperarchives.ch]]}}</ref>
+
+For the semi-finals, a further draw was held, with each semi-final featuring one team from groups 1–2 against one team from groups 3–4.<ref name="jura"/>
+
+<section begin=Bracket />{{Round8|style=white-space:nowrap
+|RD1=[[#Quarter-finals|Quarter-finals]]
+|RD2=[[#Semi-finals|Semi-finals]]
+|RD3=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+<!-- quarter-finals -->
+|27 June – [[Geneva]] |'''{{fb|FRG}}'''|'''2'''|{{fb|YUG}}|0
+|26 June – [[Lausanne]] |'''{{fb|AUT}}'''|'''7'''|{{fb|SUI}}|5
+|27 June – [[Bern]] |'''{{fb|HUN|1949}}'''|'''4'''|{{fb|BRA|1889}}|2
+|26 June – [[Basel]] |'''{{fb|URU}}'''|'''4'''|{{fb|ENG}}|2
+<!-- semi-finals -->
+|30 June – [[Basel]] |'''{{fb|FRG}}'''|'''6'''|{{fb|AUT}}|1
+|30 June – [[Lausanne]] |'''{{fb|HUN|1949}}''' {{aet}}|'''4'''|{{fb|URU}}|2
+<!-- final -->
+|4 July – [[Bern]] |'''{{fb|FRG}}'''|'''3'''|{{fb|HUN|1949}}|2
+<!-- third place -->
+|3 July – [[Zürich]] |'''{{fb|AUT}}'''|'''3'''|{{fb|URU}}|1
+|consol=Third|3rdplace=yes
+}}<section end=Bracket />
+
+==Quarter-finals==
+
+===Austria vs Switzerland===
+{{Main|Austria v Switzerland (1954 FIFA World Cup)}}
+<section begin=QF1 />{{#lst:Austria v Switzerland (1954 FIFA World Cup)|QF1}}<section end=QF1 />
+{{#lst:Austria v Switzerland (1954 FIFA World Cup)|Line-ups}}
+
+===Uruguay vs England===
+<section begin=QF2 />{{Football box
+|date={{Start date|1954|6|26|df=y}}
+|time=17:00 [[Central European Time|CET]]
+|team1={{fb-rt|URU}}
+|score={{score link|1954 FIFA World Cup knockout stage#Uruguay vs England|4–2}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Carlos Borges|Borges]] {{goal|5}}
+*[[Obdulio Varela|Varela]] {{goal|39}}
+*[[Juan Alberto Schiaffino|Schiaffino]] {{goal|46}}
+*[[Javier Ambrois|Ambrois]] {{goal|78}}
+|goals2=
+*[[Nat Lofthouse|Lofthouse]] {{goal|16}}
+*[[Tom Finney|Finney]] {{goal|67}}
+|stadium=[[St. Jakob Stadium]], [[Basel]]
+|attendance=28,000
+|referee=Carl Erich Steiner ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/212/1264 |title=Uruguay vs England {{!}} Quarter-final {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=212/match=1264/index.html |title=1954 FIFA World Cup Switzerland – Matches – Uruguay v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201075040/http://www.fifa.com/worldcup/matches/round=212/match=1264/index.html |archive-date=1 December 2017}} }}</ref>
+}}<section end=QF2 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  _whiteborder
+| pattern_b             = _vneckwhite
+| pattern_ra            = _whiteborder
+| pattern_sh            =
+| pattern_so            = _skybluetop 
+| leftarm               = 99ccff
+| body                 =  99ccff
+| rightarm              = 99ccff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Uruguay
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _collar_buttons
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              =ffffff 
+| shorts               =000066 
+| socks                 = ff0000
+ | title           = England
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|
+|-
+| GK ||'''1'''|| [[Roque Máspoli]]
+|-
+| RB ||'''4'''|| [[Víctor Rodríguez Andrade|Rodríguez Andrade]]
+|-
+| CB ||'''2'''|| [[José Santamaría]]
+|-
+| CB ||'''3'''|| [[William Martínez (footballer)|William Martínez]]
+|-
+| LWB ||'''17'''|| [[Luis Cruz (Uruguayan footballer)|Luis Cruz]]
+|-
+| CH ||'''5'''|| [[Obdulio Varela]] ([[Captain (association football)|c]])
+|-
+| OR ||'''7'''|| [[Julio Abbadie]]
+|-
+| IR ||'''19'''|| [[Javier Ambrois]]
+|-
+| CF ||'''9'''|| [[Oscar Míguez]]
+|-
+| IL ||'''10'''|| [[Juan Alberto Schiaffino|Juan Schiaffino]]
+|-
+| OL ||'''11'''|| [[Carlos Borges]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|URU}} [[Juan López Fontana|Juan López]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Gil Merrick]]
+|-
+| RB ||''' 2'''|| [[Ron Staniforth]]
+|-
+| LB ||''' 3'''|| [[Roger Byrne]]
+|-
+| RH ||''' 14'''|| [[Bill McGarry (footballer)|Bill McGarry]]
+|-
+| CH ||''' 4'''|| [[Billy Wright (footballer, born 1924)|Billy Wright]] ([[Captain (association football)|c]])
+|-
+| LH ||''' 6'''|| [[Jimmy Dickinson]]
+|-
+| OR ||'''7'''|| [[Stanley Matthews]]
+|-
+| IR ||'''8'''|| [[Ivor Broadis]]
+|-
+| CF ||'''9'''|| [[Nat Lofthouse]]
+|-
+| IL ||'''15'''|| [[Dennis Wilshaw]]
+|-
+| OL ||'''11'''|| [[Tom Finney]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ENG}} [[Walter Winterbottom]]
+|}
+{{col-end}}
+
+===West Germany vs Yugoslavia===
+<section begin=QF3 />{{Football box
+|date={{Start date|1954|6|27|df=y}}
+|time=17:00 [[Central European Time|CET]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1954 FIFA World Cup knockout stage#West Germany vs Yugoslavia|2–0}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Ivica Horvat|Horvat]] {{goal|9|o.g.}}
+*[[Helmut Rahn|Rahn]] {{goal|85}}
+|goals2=
+|stadium=[[Charmilles Stadium]], [[Geneva]]
+|attendance=17,000
+|referee=Istvan Zsolt ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/212/1285 |title=Germany FR vs Yugoslavia {{!}} Quarter-final {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=212/match=1285/index.html |title=1954 FIFA World Cup Switzerland – Matches – Germany FR v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212021549/http://www.fifa.com/worldcup/matches/round=212/match=1285/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=QF3 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _blackborder 
+| pattern_b             = _ger54h
+| pattern_ra            =_blackborder 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = ffffff
+| body                 =  
+| rightarm              =ffffff 
+| shorts               = 000000
+| socks                 = 000000
+ | title           = West Germany
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _yugoslavia1962h
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = 0261BF
+| body                 = 0261BF 
+| rightarm              = 0261BF
+| shorts               =ffffff 
+| socks                 = 0261BF
+ | title           = Yugoslavia
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Toni Turek]]
+|-
+|RB ||'''2''' ||[[Fritz Laband]]
+|-
+|CH ||'''10'''||[[Werner Liebrich]]
+|-
+|LB ||'''3''' ||[[Werner Kohlmeyer]]
+|-
+|RH ||'''6''' ||[[Horst Eckel]]
+|-
+|LH ||'''8''' ||[[Karl Mai]]
+|-
+|OR ||'''12'''||[[Helmut Rahn]]
+|-
+|IR ||'''13'''||[[Max Morlock]]
+|-
+|CF ||'''15'''||[[Ottmar Walter]]
+|-
+|IL ||'''16'''||[[Fritz Walter]] ([[Captain (association football)|c]])
+|-
+|OL ||'''20'''||[[Hans Schäfer]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|FRG}} [[Sepp Herberger]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Vladimir Beara]]
+|-
+| RB ||''' 2'''|| [[Branko Stanković]]
+|-
+| CH ||''' 5'''|| [[Ivica Horvat]]
+|-
+| LB ||''' 3'''|| [[Tomislav Crnković (footballer)|Tomislav Crnković]]
+|-
+| RH ||''' 4'''|| [[Zlatko Čajkovski]]
+|-
+| LH ||''' 6'''|| [[Vujadin Boškov]]
+|-
+| FW ||'''18'''|| [[Miloš Milutinović]]
+|-
+| IF ||'''8'''|| [[Rajko Mitić]] ([[Captain (association football)|c]])
+|-
+| CF ||'''9'''|| [[Bernard Vukas]]
+|-
+| IF ||'''10'''|| [[Stjepan Bobek]]
+|-
+| FW ||'''11'''|| [[Branko Zebec]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|YUG}} [[Aleksandar Tirnanić]]
+|}
+{{col-end}}
+
+===Hungary vs Brazil===
+{{main|Battle of Berne (1954 FIFA World Cup)}}
+<section begin=QF4 />{{#lst:Battle of Berne (1954 FIFA World Cup)|QF4}}<section end=QF4 />
+{{#lst:Battle of Berne (1954 FIFA World Cup)|Line-ups}}
+
+==Semi-finals==
+
+===West Germany vs Austria===
+<section begin=SF1 />{{Football box
+|date={{Start date|1954|6|30|df=y}}
+|time=18:00 [[Central European Time|CET]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1954 FIFA World Cup knockout stage#West Germany vs Austria|6–1}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Hans Schäfer|Schäfer]] {{goal|31}}
+*[[Max Morlock|Morlock]] {{goal|47}}
+*[[Fritz Walter|F. Walter]] {{goal|54|pen.|64|pen.}}
+*[[Ottmar Walter|O. Walter]] {{goal|61||89}}
+|goals2=
+*[[Erich Probst|Probst]] {{goal|51}}
+|stadium=[[St. Jakob Stadium]], [[Basel]]
+|attendance=58,000
+|referee=Vincenzo Orlandini ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/462/1233 |title=Germany FR vs Austria {{!}} Semi-final {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=462/match=1233/index.html |title=1954 FIFA World Cup Switzerland – Matches – Germany FR v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213013733/http://www.fifa.com/worldcup/matches/round=462/match=1233/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=SF1 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _whiteborder 
+| pattern_b             = _ger54a
+| pattern_ra            =_whiteborder 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = 007F0E
+| body                 = 007F0E
+| rightarm              = 007F0E
+| shorts               = ffffff
+| socks                 = 007F0E
+ | title           = West Germany
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _vneck
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Austria
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Toni Turek]]
+|-
+|RB ||'''7''' ||[[Josef Posipal]]
+|-
+|CH ||'''10'''||[[Werner Liebrich]]
+|-
+|LB ||'''3''' ||[[Werner Kohlmeyer]]
+|-
+|RH ||'''6''' ||[[Horst Eckel]]
+|-
+|LH ||'''8''' ||[[Karl Mai]]
+|-
+|OR ||'''12'''||[[Helmut Rahn]]
+|-
+|IR ||'''13'''||[[Max Morlock]]
+|-
+|CF ||'''15'''||[[Ottmar Walter]]
+|-
+|IL ||'''16'''||[[Fritz Walter]] ([[Captain (association football)|c]])
+|-
+|OL ||'''20'''||[[Hans Schäfer]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|FRG}} [[Sepp Herberger]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 16'''|| [[Walter Zeman]]
+|-
+| DF ||''' 2'''|| [[Gerhard Hanappi]]
+|-
+| DF ||''' 3'''|| [[Ernst Happel]]
+|-
+| MF ||''' 8'''|| [[Walter Schleger]]
+|-
+| MF ||''' 5'''|| [[Ernst Ocwirk]] ([[Captain (association football)|c]])
+|-
+| MF ||''' 6'''|| [[Karl Koller (footballer)|Karl Koller]]
+|-
+| FW ||'''7'''|| [[Robert Körner]]
+|-
+| FW ||'''9'''|| [[Theodor Wagner]]
+|-
+| FW ||'''21'''|| [[Ernst Stojaspal]]
+|-
+| FW ||'''10'''|| [[Erich Probst]]
+|-
+| FW ||'''11'''|| [[Alfred Körner]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|AUT}} [[Walter Nausch]]
+|}
+{{col-end}}
+
+===Hungary vs Uruguay===
+<section begin=SF2 />{{Football box
+|date={{Start date|1954|6|30|df=y}}
+|time=18:00 ([[Central European Time|CET]])
+|team1={{fb-rt|HUN|1949}}
+|score={{score link|1954 FIFA World Cup knockout stage#Hungary vs Uruguay|4–2}}
+|aet=yes
+|team2={{fb|URU}}
+|goals1=
+*[[Zoltán Czibor|Czibor]] {{goal|13}}
+*[[Nándor Hidegkuti|Hidegkuti]] {{goal|46}}
+*[[Sándor Kocsis|Kocsis]] {{goal|111||116}}
+|goals2=
+*[[Juan Hohberg|Hohberg]] {{goal|75||86}}
+|stadium=[[Stade Olympique de la Pontaise]], [[Lausanne]]
+|attendance=45,000
+|referee=Benjamin Griffiths ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/462/1295 |title=Hungary vs Uruguay {{!}} Semi-final {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=462/match=1295/index.html |title=1954 FIFA World Cup Switzerland – Matches – Hungary v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228094935/http://www.fifa.com/worldcup/matches/round=462/match=1295/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end=SF2 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _hun_1949_1956_home
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = cc0000
+| body                 = cc0000 
+| rightarm              =cc0000 
+| shorts               =ffffff 
+| socks                 = 339900
+ | title           = Hungary
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  _whiteborder
+| pattern_b             = _vneckwhite
+| pattern_ra            = _whiteborder
+| pattern_sh            =
+| pattern_so            = _skybluetop 
+| leftarm               = 99ccff
+| body                 =  99ccff
+| rightarm              = 99ccff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Uruguay
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Gyula Grosics]]
+|-
+| RB ||''' 2'''|| [[Jenő Buzánszky]]
+|-
+| CH ||''' 3'''|| [[Gyula Lóránt]]
+|-
+| LB ||''' 4'''|| [[Mihály Lantos]]
+|-
+| RH ||''' 5'''|| [[József Bozsik]] ([[Captain (association football)|c]])
+|-
+| LH ||''' 6'''|| [[József Zakariás]]
+|-
+| OR ||'''16'''|| [[László Budai]]
+|-
+| IR ||'''8'''|| [[Sándor Kocsis]]
+|-
+| CF ||'''19'''|| [[Péter Palotás]]
+|-
+| IL ||'''9'''|| [[Nándor Hidegkuti]]
+|-
+| OL ||'''11'''|| [[Zoltán Czibor]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4|  {{flagicon|HUN}} [[Gusztáv Sebes]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Roque Máspoli]]
+|-
+| RB ||'''4'''|| [[Víctor Rodríguez Andrade|Rodríguez Andrade]]
+|-
+| CB ||'''2'''|| [[José Santamaría]]
+|-
+| CB ||'''3'''|| [[William Martínez (footballer)|William Martínez]] ([[Captain (association football)|c]])
+|-
+| LWB ||'''17'''|| [[Luis Cruz (Uruguayan footballer)|Luis Cruz]]
+|-
+| CH ||'''16'''|| [[Néstor Carballo]]
+|-
+| OR ||'''18'''|| [[Rafael Souto]]
+|-
+| IR ||'''19'''|| [[Javier Ambrois]]
+|-
+| CF ||'''8'''|| [[Juan Hohberg]]
+|-
+| IL ||'''10'''|| [[Juan Alberto Schiaffino|Juan Schiaffino]]
+|-
+| OL ||'''11'''|| [[Carlos Borges]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|URU}} [[Juan López Fontana|Juan López]]
+|}
+{{col-end}}
+
+==Match for third place==
+<section begin=TPP />{{Football box
+|date={{Start date|1954|7|3|df=y}}
+|time=17:00 ([[Central European Time|CET]])
+|team1={{fb-rt|AUT}}
+|score={{score link|1954 FIFA World Cup knockout stage#Match for third place|3–1}}
+|team2={{fb|URU}}
+|goals1=
+*[[Ernst Stojaspal|Stojaspal]] {{goal|16|pen.}}
+*[[Luis Cruz (Uruguayan footballer)|Cruz]] {{goal|59|o.g.}}
+*[[Ernst Ocwirk|Ocwirk]] {{goal|89}}
+|goals2=
+*[[Juan Hohberg|Hohberg]] {{goal|22}}
+|stadium=[[Hardturm|Hardturm Stadium]], [[Zürich]]
+|attendance=32,000
+|referee=Raymon Wyssling ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/3485/1239 |title=Austria vs Uruguay {{!}} Match for third place {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3485/match=1239/index.html |title=1954 FIFA World Cup Switzerland – Matches – Austria v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202071019/http://www.fifa.com/worldcup/matches/round=3485/match=1239/index.html |archive-date=2 December 2017}} }}</ref>
+}}<section end=TPP />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _collarwhite_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = ff0000
+| body                 = ff0000 
+| rightarm              =ff0000 
+| shorts               =ffffff 
+| socks                 = ff0000
+ | title           = Austria
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  _whiteborder
+| pattern_b             = _vneckwhite
+| pattern_ra            = _whiteborder
+| pattern_sh            =
+| pattern_so            = _skybluetop 
+| leftarm               = 99ccff
+| body                 =  99ccff
+| rightarm              = 99ccff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Uruguay
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' 1'''|| [[Kurt Schmied]]
+|-
+| DF ||''' 2'''|| [[Gerhard Hanappi]]
+|-
+| DF ||''' 4'''|| [[Leopold Barschandt]]
+|-
+| MF ||''' 13'''|| [[Walter Kollmann]]
+|-
+| MF ||''' 5'''|| [[Ernst Ocwirk]] ([[Captain (association football)|c]])
+|-
+| MF ||''' 6'''|| [[Karl Koller (footballer)|Karl Koller]]
+|-
+| FW ||'''7'''|| [[Robert Körner]]
+|-
+| FW ||'''9'''|| [[Theodor Wagner]]
+|-
+| FW ||'''10'''|| [[Erich Probst]]
+|-
+| FW ||'''19'''|| [[Robert Dienst]]
+|-
+| FW ||'''21'''|| [[Ernst Stojaspal]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|AUT}} [[Walter Nausch]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Roque Máspoli]]
+|-
+| RB ||'''4'''|| [[Víctor Rodríguez Andrade|Rodríguez Andrade]]
+|-
+| CB ||'''2'''|| [[José Santamaría]]
+|-
+| CB ||'''3'''|| [[William Martínez (footballer)|William Martínez]] ([[Captain (association football)|c]])
+|-
+| LWB ||'''17'''|| [[Luis Cruz (Uruguayan footballer)|Luis Cruz]]
+|-
+| CH ||'''16'''|| [[Néstor Carballo]]
+|-
+| OR ||'''7'''|| [[Julio Abbadie]]
+|-
+| IR ||'''20'''|| [[Omar Méndez]]
+|-
+| CF ||'''8'''|| [[Juan Hohberg]]
+|-
+| IL ||'''10'''|| [[Juan Alberto Schiaffino|Juan Schiaffino]]
+|-
+| OL ||'''11'''|| [[Carlos Borges]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|URU}} [[Juan López Fontana|Juan López]]
+|}
+{{col-end}}
+
+==Final==
+{{Main|1954 FIFA World Cup final}}
+
+{{#lst:1954 FIFA World Cup final|Final}}
+{{#lst:1954 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==Bibliography==
+* {{Cite book |last=Sebes |first=Gusztáv |title=A magyar labdarúgás |year=1955 |publisher=Sport Lap- és Könyvkiadó |location=Budapest |language=Hungarian |asin=B0018CL3XW }}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1954switzerland 1954 FIFA World Cup archive]
+
+{{1954 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:1954 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1954]]
+[[Category:Switzerland at the 1954 FIFA World Cup]]
+[[Category:Brazil at the 1954 FIFA World Cup]]
+[[Category:England at the 1954 FIFA World Cup]]
+[[Category:West Germany at the 1954 FIFA World Cup]]
+[[Category:Yugoslavia at the 1954 FIFA World Cup]]
+[[Category:Hungary at the 1954 FIFA World Cup]]
+[[Category:Austria at the 1954 FIFA World Cup]]
+[[Category:Uruguay at the 1954 FIFA World Cup]]
+[[Category:Sports competitions in Bern]]
+[[Category:Sports competitions in Basel]]
+[[Category:Sports competitions in Geneva]]
+[[Category:Sports competitions in Lausanne]]
+[[Category:Sports competitions in Zurich]]
+[[Category:20th century in Bern]]
+[[Category:20th century in Basel]]
+[[Category:20th century in Geneva]]
+[[Category:20th century in Lausanne]]
+[[Category:20th century in Zurich]]

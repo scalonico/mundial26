@@ -1,0 +1,1012 @@
+{{Short description|Football tournament group stage}}
+{{Expand Portuguese|topic=sport|Copa do Mundo FIFA de 2014 – Grupo A|date=February 2026}}
+{{Use British English|date=July 2014}}
+{{Use dmy dates|date=July 2014}}
+The 32 teams at the [[2014 FIFA World Cup]] were split into eight groups of four, labelled A–H. Group A comprised [[Brazil national football team|Brazil]], [[Croatia national football team|Croatia]], [[Mexico national football team|Mexico]] and [[Cameroon national football team|Cameroon]]. The first match was played on 12 June 2014, with the last two played concurrently on 23 June. The top two teams, Brazil and Mexico, advanced to the round of 16.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2013{{refn|group=nb|The rankings of October 2013 were used for [[2014 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2014
+|-
+| A1 ''(seed)'' || style=white-space:nowrap | {{fb|BRA}} || [[CONMEBOL]] || {{hs|*}} Hosts || 30 October 2007 || data-sort-value="20" | 20th || [[2010 FIFA World Cup|2010]] || data-sort-value="7.5" | '''Winners''' ([[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]]) || 11 || 3
+|-
+| A2 || style=white-space:nowrap | {{fb|CRO}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA second round|UEFA play-off]] winners || 19 November 2013 || data-sort-value="4" | 4th || [[2006 FIFA World Cup|2006]] || data-sort-value="5.1" | Third place ([[1998 FIFA World Cup|1998]]) || 18 || 18
+|-
+| A3 || style=white-space:nowrap | {{fb|MEX}} || [[CONCACAF]] || [[2014 FIFA World Cup qualification (CONCACAF–OFC play-off)|CONCACAF vs OFC play-off]] winners || 20 November 2013 || data-sort-value="15" | 15th || [[2010 FIFA World Cup|2010]] || data-sort-value="3.3" | Quarter-finals ([[1970 FIFA World Cup|1970]], [[1986 FIFA World Cup|1986]]) || 24 || 20
+|-
+| A4 || style=white-space:nowrap | {{fb|CMR}} || [[Confederation of African Football|CAF]] || [[2014 FIFA World Cup qualification – CAF third round|CAF third round]] winners || 17 November 2013 || data-sort-value="7" | 7th || [[2010 FIFA World Cup|2010]] || data-sort-value="3.1" | Quarter-finals ([[1990 FIFA World Cup|1990]]) || 59 || 56
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/brazil2014/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=BRA |team2=MEX |team3=CRO |team4=CMR
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2014 FIFA World Cup#Format|Tie-breaking criteria]]
+
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=7 |ga_BRA=2 |status_BRA=H
+|win_MEX=2 |draw_MEX=1 |loss_MEX=0 |gf_MEX=4 |ga_MEX=1
+|win_CRO=1 |draw_CRO=0 |loss_CRO=2 |gf_CRO=6 |ga_CRO=6
+|win_CMR=0 |draw_CMR=0 |loss_CMR=3 |gf_CMR=1 |ga_CMR=9
+
+|name_BRA={{fb|BRA}}
+|name_MEX={{fb|MEX}}
+|name_CRO={{fb|CRO}}
+|name_CMR={{fb|CMR}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2014 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*[[Brazil national football team|Brazil]] advanced to play [[Chile national football team|Chile]] (runner-up of [[2014 FIFA World Cup Group B|Group B]]) in the [[2014 FIFA World Cup knockout stage#Brazil vs Chile|round of 16]].
+*[[Mexico national football team|Mexico]] advanced to play [[Netherlands national football team|Netherlands]] (winner of [[2014 FIFA World Cup Group B|Group B]]) in the [[2014 FIFA World Cup knockout stage#Netherlands vs Mexico|round of 16]].
+
+==Matches==
+===Brazil vs Croatia===
+{{further|List of 2014 FIFA World Cup controversies#Brazil vs Croatia}}
+{{commons category|2014 FIFA World Cup Match 1, Brazil v Croatia}}
+The two teams had met in two previous matches, including in the [[2006 FIFA World Cup]] group stage, won by Brazil [[2006 FIFA World Cup Group F#Brazil vs Croatia|1–0]].<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=7 |title=2014 FIFA World Cup – Statistical Kit |publisher=FIFA.com |page=7 |url-status=dead |archive-url=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archive-date=29 June 2014 }}</ref> Croatia forward [[Mario Mandžukić]] was suspended for the match, after being sent off in the team's final qualifier against [[Iceland national football team|Iceland]].<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=2/news=match-suspensions-served-the-final-competition-the-fifa-world-cup-2282433.html|archive-url=https://web.archive.org/web/20140414075701/http://www.fifa.com/worldcup/news/y=2014/m=2/news=match-suspensions-served-the-final-competition-the-fifa-world-cup-2282433.html|url-status=dead|archive-date=14 April 2014|title=Match suspensions to be served at the final competition of the FIFA World Cup|publisher=FIFA.com|date=24 February 2014}}</ref>
+
+Croatia opened the scoring in the 11th minute through a [[Marcelo (footballer, born 1988)|Marcelo]] own goal, as the ball bounced off him into the net after [[Nikica Jelavić]] deflected [[Ivica Olić]]'s cross.<ref>{{cite web|title=Neymar fires Brazil to comeback victory|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=neymar-fires-brazil-to-comeback-victory-2368620.html|archive-url=https://web.archive.org/web/20140614052850/http://www.fifa.com/worldcup/news/y=2014/m=6/news=neymar-fires-brazil-to-comeback-victory-2368620.html|url-status=dead|archive-date=14 June 2014|publisher=FIFA|access-date=12 June 2014}}</ref> [[Neymar]] equalized for the hosts with a {{convert|25|yard||adj=mid}} shot after receiving a pass from [[Oscar (footballer, born 1991)|Oscar]].<ref name="BBC 3-1">{{cite web|url=https://www.bbc.co.uk/sport/football/25285029|title=Brazil 3 Croatia 1|publisher=BBC Sport|date=12 June 2014|url-status=live|archive-url=https://web.archive.org/web/20140708110046/http://www.bbc.co.uk/sport/0/football/25285029|archive-date=8 July 2014}}</ref> In the second half, Brazil took the lead with Neymar's penalty after [[Dejan Lovren]] was controversially judged to have fouled [[Fred (footballer, born 1983)|Fred]] in the penalty area.<ref name="BBC 3-1"/> Croatia had a potential equalizer disallowed, after a foul was again controversially called on the Brazilian goalkeeper, [[Júlio César (football goalkeeper, born 1979)|Júlio César]].<ref name="The Guardian live Brazil Croatia">{{cite web |url=https://www.theguardian.com/football/2014/jun/12/brazil-v-croatia-world-cup-2014-live-report |title=Brazil 3–1 Croatia: World Cup 2014 – as it happened |work=[[The Guardian]] |last=Glendenning |first=Barry |date=12 June 2014 |access-date=16 June 2014}}</ref><ref name="Eurosport 1 Brazil Croatia">{{cite web|url=https://uk.eurosport.yahoo.com/blogs/desmond-kane/forget-neymar-brazil-national-hero-yuichi-nishimura-225207798.html |title=Forget Neymar, Brazil's new national hero is Yuichi Nishimura |work=[[Eurosport]] |last=Kane |first=Desmond |date=12 June 2014 |access-date=16 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140613185312/https://uk.eurosport.yahoo.com/blogs/desmond-kane/forget-neymar-brazil-national-hero-yuichi-nishimura-225207798.html |archive-date=13 June 2014 }}</ref><ref name="Goal summary Brazil Croatia">{{cite web |url=http://www.goal.com/en-gb/match/brazil-vs-croatia/1220070/report |title=Brazil 3 - 1 Croatia Match report - Goal.com |work=Goal.com |date=12 June 2014 |access-date=16 June 2014}}</ref> In added time, Oscar sealed the win, toe-poking the third goal for Brazil from {{convert|22|yards}} after receiving a pass from [[Ramires]].<ref name="BBC 3-1"/>
+
+Post-match, FIFA referees chief [[Massimo Busacca]] defended the officials for awarding the penalty and insisted there had been some contact between Lovren and Fred, even if it was minimal.<ref name="Busacca">{{cite news |url=https://www.independent.co.uk/sport/football/worldcup/brazil-3-croatia-1-fifa-defend-underfire-referee-yuichi-nishimura-as-japanese-official-caught-up-in-diving-row-during-opening-world-cup-match-9535713.html |title=Brazil 3 Croatia 1: Fifa defend under-fire referee Yuichi Nishimura as Japanese official caught up in diving row during opening World Cup match |work=The Independent |date=13 June 2014 |access-date=14 June 2014 |archive-url=https://web.archive.org/web/20140613182458/http://www.independent.co.uk/sport/football/worldcup/brazil-3-croatia-1-fifa-defend-underfire-referee-yuichi-nishimura-as-japanese-official-caught-up-in-diving-row-during-opening-world-cup-match-9535713.html |archive-date=13 June 2014}}</ref> However, former top-level FIFA referee [[Markus Merk]] criticized FIFA for having [[Yuichi Nishimura]] as the referee in the opening match, labelling the refereeing in the match as "embarrassing".<ref name="Merk Brazil Croatia">{{cite web |url=http://www.goal.com/en-us/news/67/world-cup-2014/2014/06/13/4879900/former-fifa-referee-refereeing-for-world-cup-opener-was |title=Former FIFA referee: Refereeing for World Cup opener was "embarrassing" |work=Goal.com |last1=Haji Talib |last2=Chotpibulsap |first1=Hassan |first2=Pitisak |date=13 June 2014 |access-date=16 June 2014}}</ref>
+
+The game was notable for a number of pioneering events. This was the first occasion in FIFA World Cup history on which an own goal (which was also the first ever own goal scored by Brazil in World Cup finals) opened scoring in the tournament. As the first game played at this World Cup, the match also saw the first use of [[vanishing spray]] to mark free kick spots, and the advent of [[goal-line technology]], two innovations introduced during the tournament.<ref>{{cite web|url=https://www.standard.co.uk/sport/football/marcelos-own-goal-vanishing-spray-and-goaline-technology--the-world-cup-firsts-at-brazil-2014-9533617.html|title=Marcelo's own goal, vanishing spray and goaline technology – the World Cup firsts at Brazil 2014|publisher=Der Standard|date=12 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=a1
+|date={{Start date|2014|6|12|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2014 FIFA World Cup Group A#Brazil vs Croatia|3–1}}
+|team2={{fb|CRO}}
+|goals1=
+*[[Neymar]] {{goal|29||71|pen.}}
+*[[Oscar (footballer, born 1991)|Oscar]] {{goal|90+1}}
+|goals2=
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|12|o.g.}}
+|stadium=[[Arena Corinthians|Arena de São Paulo]], [[São Paulo]]
+|attendance=62,103
+|referee=[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186456 |title=Brazil vs Croatia {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186456/report.html |title=2014 FIFA World Cup Brazil – Matches – Brazil v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171207100727/http://www.fifa.com/worldcup/matches/round=255931/match=300186456/report.html |archive-date=7 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/15cd0d79b6b7cf24/original/utxjmcknhb0vamghf3tj-pdf.pdf |title=Match report – Group A – Brazil v Croatia |publisher=[[FIFA]] |date=12 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060854/https://digitalhub.fifa.com/m/15cd0d79b6b7cf24/original/utxjmcknhb0vamghf3tj-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _brazil1415h
+ |pattern_b  = _brazil1415h
+ |pattern_ra = _brazil1415h
+ |pattern_sh = _colchester0809h
+ |pattern_so = _brazil1415h
+ |leftarm    = FFCC00
+ |body       = FFCC00
+ |rightarm   = FFCC00
+ |shorts     = 0000BB
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-CRO line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6a959426c310558d/original/omxavllr8ga5i3y5t4mq-pdf.pdf |title=Tactical Line-up – Group A – Brazil v Croatia |publisher=[[FIFA]] |date=12 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173130/https://digitalhub.fifa.com/m/6a959426c310558d/original/omxavllr8ga5i3y5t4mq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _croatia14h
+ |pattern_ra = _whiteborder
+ |pattern_sh = _croatia14h
+ |pattern_so = _croatia14h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Croatia<ref name="BRA-CRO line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Dani Alves]]
+|-
+|CB ||'''3''' ||[[Thiago Silva]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[David Luiz]]
+|-
+|LB ||'''6''' ||[[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|DM ||'''8''' ||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|63}}
+|-
+|DM ||'''17'''||[[Luiz Gustavo]] || {{yel|88}}
+|-
+|RW ||'''7''' ||[[Hulk (footballer)|Hulk]] || || {{suboff|68}}
+|-
+|AM ||'''11'''||[[Oscar (footballer, born 1991)|Oscar]]
+|-
+|LW ||'''10'''||[[Neymar]] || {{yel|27}} || {{suboff|88}}
+|-
+|CF ||'''9''' ||[[Fred (footballer, born 1983)|Fred]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Hernanes]] || || {{subon|63}}
+|-
+|MF ||'''20'''||[[Bernard (footballer)|Bernard]] || || {{subon|68}}
+|-
+|MF ||'''16'''||[[Ramires]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:BRA-CRO 2014-06-12.svg|300px]]
+| style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|RB ||'''11'''||[[Darijo Srna]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]] || {{yel|65}}
+|-
+|CB ||'''6''' ||[[Dejan Lovren]] || {{yel|69}}
+|-
+|LB ||'''2''' ||[[Šime Vrsaljko]]
+|-
+|CM ||'''10'''||[[Luka Modrić]]
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]]
+|-
+|RW ||'''4''' ||[[Ivan Perišić]]
+|-
+|AM ||'''20'''||[[Mateo Kovačić]] || || {{suboff|61}}
+|-
+|LW ||'''18'''||[[Ivica Olić]]
+|-
+|CF ||'''9''' ||[[Nikica Jelavić]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Marcelo Brozović]] || || {{subon|61}}
+|-
+|FW ||'''16'''||[[Ante Rebić]] || || {{subon|78}}
+|-
+| &nbsp;
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Niko Kovač]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Neymar]] (Brazil)<ref>{{cite web |title=Brazil 3–1 Croatia – Man of the Match |url=https://www.fifa.com/worldcup/matches/round=255931/match=300186456/man-of-the-match.html |archive-url=https://web.archive.org/web/20140608003625/http://www.fifa.com/worldcup/matches/round=255931/match=300186456/man-of-the-match.html |url-status=dead |archive-date=8 June 2014 |publisher=FIFA.com (Fédération Internationale de Football Association) |date=12 June 2014 |access-date=12 June 2014 }}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />Toshiyuki Nagi ([[Japan Football Association|Japan]])
+<br />'''[[Fourth official]]:'''
+<br />[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Fifth official]]:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|}
+
+===Mexico vs Cameroon===
+{{further|List of 2014 FIFA World Cup controversies#Mexico vs Cameroon}}
+The two teams had met in one previous match, in a friendly in 1993, won by Mexico 1–0.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=8|archive-url=https://web.archive.org/web/20140519222312/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=8|url-status=dead|archive-date=19 May 2014|title=2014 FIFA World Cup – Statistical Kit|publisher=FIFA.com|page=8}}</ref>
+
+Mexico's [[Giovani dos Santos]] had two goals disallowed for offside in the first half.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/13/mexico-cameroon-world-cup-group-a-match-report|title=Mexico's Peralta finally sees off Cameroon after referee fluffs his lines|date=13 June 2014 |work=The Guardian|access-date=30 October 2014}}</ref>
+However, replays showed that he was in line with the last defender for the first case, while the ball came from a Cameroon player for the second.<ref>{{cite web |url=https://metro.co.uk/2014/06/13/world-cup-2014-mexicos-giovani-dos-santos-has-two-goals-wrongly-ruled-out-for-offside-in-first-half-against-cameroon-4760966/ |title=World Cup 2014: Mexico's Giovani Dos Santos has TWO goals WRONGLY ruled out for offside in first-half against Cameroon |publisher=Metro |date=13 June 2014 |access-date=15 June 2014}}</ref> In the second half, dos Santos had a shot saved by the Cameroon goalkeeper, [[Charles Itandje]], but the ball rebounded into the path of [[Oribe Peralta]], who slotted the ball into the empty net with his left foot.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/25285036 |title=World Cup: Mexico 1–0 Cameroon |publisher=BBC Sport |date=13 June 2014 |access-date=13 June 2014}}</ref>
+
+Mexico captain [[Rafael Márquez]] made history by becoming the first player to captain his nation in four different World Cups.<ref>{{cite news|last1=Keh|first1=Andrew|title=Despite a Wayward Journey, Márquez Is a Rock for Mexico|url=https://www.nytimes.com/2014/06/17/sports/worldcup/world-cup-2014-rafael-marquez-sets-mark-as-mexicos-captain.html|access-date=1 July 2014|work=The New York Times|date=16 June 2014}}</ref> [[Samuel Eto'o]] also appeared in his fourth World Cup, joining fellow Cameroonians [[Jacques Songo'o]] and [[Rigobert Song]] as the only African players to have achieved the feat.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/23/samuel-etoo-cameroon-world-cup-2018|title=Samuel Eto'o could play at 2018 World Cup, says Cameroon coach|work=The Guardian|date=23 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=a2
+|date={{Start date|2014|6|13|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|MEX}}
+|score={{score link|2014 FIFA World Cup Group A#Mexico vs Cameroon|1–0}}
+|team2={{fb|CMR}}
+|goals1=
+*[[Oribe Peralta|Peralta]] {{goal|61}}
+|goals2=
+|stadium=[[Arena das Dunas]], [[Natal, Rio Grande do Norte|Natal]]
+|attendance=39,216
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186492 |title=Mexico vs Cameroon {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186492/report.html |title=2014 FIFA World Cup Brazil – Matches – Mexico v Cameroon |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202043641/http://www.fifa.com/worldcup/matches/round=255931/match=300186492/report.html |archive-date=2 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5357aa302f51e26f/original/evkxwugsqziiozlvfvl2-pdf.pdf |title=Match report – Group A – Mexico v Cameroon |publisher=[[FIFA]] |date=13 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060908/https://digitalhub.fifa.com/m/5357aa302f51e26f/original/evkxwugsqziiozlvfvl2-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _mex14h
+ |pattern_b  = _mex14h
+ |pattern_ra = _mex14h
+ |pattern_sh = _adidasonwhite
+ |pattern_so = _mex14h
+ |leftarm    = 006000
+ |body       = 006000
+ |rightarm   = 006000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Mexico<ref name="MEX-CMR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/47f69d6e8410c6f2/original/m9jznzbsd2irlpajundi-pdf.pdf |title=Tactical Line-up – Group A – Mexico v Cameroon |publisher=[[FIFA]] |date=13 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173139/https://digitalhub.fifa.com/m/47f69d6e8410c6f2/original/m9jznzbsd2irlpajundi-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _cameroon14a
+ |pattern_b  = _cameroon14a
+ |pattern_ra = _cameroon14a
+ |pattern_sh = _cameroon14a2
+ |pattern_so = _long_cameroon14h
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFF00
+ |socks      = FFFF00
+ |title      = Cameroon<ref name="MEX-CMR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez|Francisco Rodríguez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||[[Héctor Moreno]] || {{yel|57}}
+|-
+|RWB||'''22'''||[[Paul Aguilar]]
+|-
+|LWB||'''7''' ||[[Miguel Layún]]
+|-
+|DM ||'''23'''||[[José Juan Vázquez]]
+|-
+|CM ||'''6''' ||[[Héctor Herrera]] || || {{suboff|90+1}}
+|-
+|CM ||'''18'''||[[Andrés Guardado]] || || {{suboff|69}}
+|-
+|SS ||'''10'''||[[Giovani dos Santos]]
+|-
+|CF ||'''19'''||[[Oribe Peralta]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Marco Fabián]] || || {{subon|69}}
+|-
+|FW ||'''14'''||[[Javier Hernández]] || || {{subon|74}}
+|-
+|DF ||'''3''' ||[[Carlos Salcido]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miguel Herrera]]
+|}
+|valign="top"|[[File:MEX-CMR 2014-06-13.svg|300px]]
+| style="vertical-align:top; width:50%;"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Charles Itandje]]
+|-
+|RB ||'''4''' ||[[Cédric Djeugoué]] || || {{suboff|46}}
+|-
+|CB ||'''3''' ||[[Nicolas N'Koulou]]
+|-
+|CB ||'''14'''||[[Aurélien Chedjou]]
+|-
+|LB ||'''2''' ||[[Benoît Assou-Ekotto]]
+|-
+|DM ||'''6''' ||[[Alex Song]] || || {{suboff|79}}
+|-
+|RM ||'''17'''||[[Stéphane Mbia]]
+|-
+|LM ||'''18'''||[[Eyong Enoh]]
+|-
+|AM ||'''8''' ||[[Benjamin Moukandjo]]
+|-
+|AM ||'''13'''||[[Eric Maxim Choupo-Moting]]
+|-
+|CF ||'''9''' ||[[Samuel Eto'o]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Dany Nounkeu]] || {{yel|77}} || {{subon|46}}
+|-
+|FW ||'''15'''||[[Pierre Webó]] || || {{subon|79}}
+|-
+| &nbsp;
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Volker Finke]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Giovani dos Santos]] (Mexico)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Humberto Clavijo ([[Colombian Football Federation|Colombia]])
+<br />Eduardo Díaz ([[Colombian Football Federation|Colombia]])
+<br />'''[[Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Fifth official]]:'''
+<br />Aden Marwa ([[Football Kenya Federation|Kenya]])
+|}
+
+===Brazil vs Mexico===
+{{commons category|2014 FIFA World Cup Match 17, Brazil v Mexico|Brazil vs Mexico}}
+The two teams had met in 38 previous matches, including three times in the FIFA World Cup group stage, all won by Brazil ([[1950 FIFA World Cup|1950]]: 4–0; [[1954 FIFA World Cup|1954]]: 5–0; [[1962 FIFA World Cup|1962]]: 2–0).<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=24|archive-url=https://web.archive.org/web/20140519222312/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=24|url-status=dead|archive-date=19 May 2014|title=2014 FIFA World Cup – Statistical Kit|publisher=FIFA.com|page=24}}</ref> Their most recent meeting was in the [[2013 FIFA Confederations Cup]] group stage, won by Brazil [[2013 FIFA Confederations Cup Group A#Brazil v Mexico|2–0]].
+
+Mexican goalkeeper [[Guillermo Ochoa]] made four outstanding saves to deny Brazil.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/17/brazil-mexico-world-cup-2014-group-a-match-report|title=Brazil fail to find a way past marvellous Mexico|date=17 June 2014 |work=The Guardian|access-date=30 October 2014}}</ref> In the first half, he saved a header from [[Neymar]] tight to his right to push the ball around the post, and blocked a close-range effort from [[Paulinho (footballer, born July 1988)|Paulinho]]. In the second half, he saved a low shot from Neymar and a late point-blank header from [[Thiago Silva]].<ref>{{cite web |url=https://www.bbc.com/sport/0/football/25285134 |title=Brazil 0–0 Mexico |date=17 June 2014 |work=BBC Sport |access-date=18 June 2014 }}</ref>
+
+This was the first time since the [[1970 FIFA World Cup]] that the host team drew 0–0 in the group stage (in the case, the own Mexico, in the opening match of the respective tournament, an [[1970 FIFA World Cup Group 1#Mexico vs Soviet Union|0-0 draw with Soviet Union]]).{{Citation needed|date=June 2014}} Mexico became the first team from outside [[UEFA]] or [[CONMEBOL]] to take a point from Brazil in the World Cup.<ref>{{cite web|url=https://fivethirtyeight.com/features/world-cup-crib-notes-day-7/|archive-url=https://web.archive.org/web/20190819065908/https://fivethirtyeight.com/features/world-cup-crib-notes-day-7/|url-status=dead|archive-date=19 August 2019|title=World Cup Crib Notes: Day 7|publisher=FiveThirtyEight|date=18 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=a3
+|date={{Start date|2014|6|17|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2014 FIFA World Cup Group A#Brazil vs Mexico|0–0}}
+|team2={{fb|MEX}}
+|goals1=
+|goals2=
+|stadium=[[Castelão (Ceará)|Estádio Castelão]], [[Fortaleza]]
+|attendance=60,342
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186509 |title=Brazil vs Mexico {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186509/report.html |title=2014 FIFA World Cup Brazil – Matches – Brazil v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170711081635/http://www.fifa.com/worldcup/matches/round=255931/match=300186509/report.html |archive-date=11 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/62343b409c9802d9/original/olf39rwfhn2vgdpnsorm-pdf.pdf |title=Match report – Group A – Brazil v Mexico |publisher=[[FIFA]] |date=17 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061323/https://digitalhub.fifa.com/m/62343b409c9802d9/original/olf39rwfhn2vgdpnsorm-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _brazil1415h
+ |pattern_b  = _brazil1415h
+ |pattern_ra = _brazil1415h
+ |pattern_sh = _colchester0809h
+ |pattern_so = _brazil1415h
+ |leftarm    = FFCC00
+ |body       = FFCC00
+ |rightarm   = FFCC00
+ |shorts     = 0000BB
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-MEX line-ups">{{cite web |url=https://digitalhub.fifa.com/m/587903e8d0855e9/original/omqgk8jcaax0fhq9pm6f-pdf.pdf |title=Tactical Line-up – Group A – Brazil v Mexico |publisher=[[FIFA]] |date=17 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522183921/https://digitalhub.fifa.com/m/587903e8d0855e9/original/omqgk8jcaax0fhq9pm6f-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex13a
+ |pattern_b  = _mex14a
+ |pattern_ra = _mex13a
+ |pattern_sh = _mex14a
+ |pattern_so = _mex14a
+ |leftarm    = F16252
+ |body       = FFFFFF
+ |rightarm   = F16252
+ |shorts     = F16252
+ |socks      = FF0000
+ |title      = Mexico<ref name="BRA-MEX line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Dani Alves]]
+|-
+|CB ||'''3''' ||[[Thiago Silva]] ([[Captain (association football)|c]]) || {{yel|79}}
+|-
+|CB ||'''4''' ||[[David Luiz]]
+|-
+|LB ||'''6''' ||[[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|DM ||'''8''' ||[[Paulinho (footballer, born July 1988)|Paulinho]]
+|-
+|DM ||'''17'''||[[Luiz Gustavo]]
+|-
+|CM ||'''11'''||[[Oscar (footballer, born 1991)|Oscar]] || || {{suboff|84}}
+|-
+|RW ||'''16'''||[[Ramires]] || {{yel|45}} || {{suboff|46}}
+|-
+|LW ||'''10'''||[[Neymar]]
+|-
+|CF ||'''9''' ||[[Fred (footballer, born 1983)|Fred]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Bernard (footballer)|Bernard]] || || {{subon|46}}
+|-
+|FW ||'''21'''||[[Jô]] || || {{subon|68}}
+|-
+|MF ||'''19'''||[[Willian (footballer, born 1988)|Willian]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:BRA-MEX 2014-06-17.svg|300px]]
+| style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez|Francisco Rodríguez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||[[Héctor Moreno]]
+|-
+|RWB||'''22'''||[[Paul Aguilar]] || {{yel|59}}
+|-
+|LWB||'''7''' ||[[Miguel Layún]]
+|-
+|DM ||'''23'''||[[José Juan Vázquez]] || {{yel|62}}
+|-
+|CM ||'''6''' ||[[Héctor Herrera]] || || {{suboff|76}}
+|-
+|CM ||'''18'''||[[Andrés Guardado]]
+|-
+|SS ||'''10'''||[[Giovani dos Santos]] || || {{suboff|84}}
+|-
+|CF ||'''19'''||[[Oribe Peralta]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''14'''||[[Javier Hernández]] || || {{subon|74}}
+|-
+|MF ||'''8''' ||[[Marco Fabián]] || || {{subon|76}}
+|-
+|FW ||'''9''' ||[[Raúl Jiménez]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miguel Herrera]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Guillermo Ochoa]] (Mexico)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''[[Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Cameroon vs Croatia===
+{{commons category|2014 FIFA World Cup Match 18, Cameroon v Croatia|Cameroon vs Croatia}}
+The two teams had never met before.<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=26|archive-url=https://web.archive.org/web/20140519222312/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=26|url-status=dead|archive-date=19 May 2014|title=2014 FIFA World Cup – Statistical Kit|publisher=FIFA.com|page=26}}</ref>
+
+In a match where both teams needed at least a point to stay alive in the competition, Croatia opened scoring when [[Ivica Olić]] scored from close range from [[Ivan Perišić]]'s pass. Just before half time, Cameroon was reduced to 10 men when [[Alex Song]] was dismissed for an off the ball incident with [[Mario Mandžukić]]. Perišić scored at the beginning of the second half when he intercepted Cameroonian goalkeeper [[Charles Itandje]]'s goal kick and ran 50 yards before slotting in at the near post.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/19/croatia-cameroon-world-cup-group-b-match-report|title=Mario Mandzukic hits double as classy Croatia sink sorry Cameroon|date=19 June 2014 |work=The Guardian|access-date=30 October 2014}}</ref> Mandžukić scored the last two goals, the first a header from [[Danijel Pranjić]]'s corner and the second a tap in after Itandje parried [[Eduardo da Silva|Eduardo]]'s shot into his path.<ref>{{cite web|url=https://www.telegraph.co.uk/sport/football/world-cup/10909837/Cameroon-vs-Croatia-World-Cup-2014-as-it-happened.html |title=Cameroon v Croatia, World Cup 2014: as it happened |first=Mehreen |last=Khan |work=The Telegraph |date=19 June 2014 |access-date=19 June 2014}}</ref> The result confirmed Cameroon's elimination from the tournament.
+
+In a case of infighting, Cameroonian defender [[Benoît Assou-Ekotto]] was caught on camera head-butting teammate [[Benjamin Moukandjo]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285162|title=Cameroon 0 Croatia 4|publisher=BBC Sport|date=18 June 2014}}</ref><ref>{{cite web|url=https://sports.yahoo.com/blogs/soccer-dirty-tackle/alex-song-elbows-mario-mandzukic-in-the-back-for-some-reason--gets-sent-off-233143661.html|title=Alex Song elbows Mario Mandzukic in the back for some reason, gets sent off|publisher=Yahoo Sports|date=18 June 2014|access-date=19 June 2014 |first=Brooks |last=Peck}}</ref> Song later apologised to Mandžukić and his country for his ejection, while Cameroonian coach [[Volker Finke]] said he was very disappointed with their performance.<ref>{{cite web|url=http://www.espnfc.com/fifa-world-cup/story/1893099/cameroon-coach-volker-finke-stunned-by-benoit-assou-ekotto-head-butt |title=Assou-Ekotto head-butt stuns Finke |first=Mehreen |last=Khan |work=[[ESPN]] |date=19 June 2014 |access-date=19 June 2014}}</ref><ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=finke-red-card-no-reason-to-lose-it-2377068.html |title=Finke: Card no reason to see red |work=[[FIFA.com]] |date=19 June 2014 |access-date=19 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140622030905/http://www.fifa.com/worldcup/news/y%3D2014/m%3D6/news%3Dfinke-red-card-no-reason-to-lose-it-2377068.html |archive-date=22 June 2014 }}</ref><ref>{{cite web |url=https://www.theguardian.com/football/2014/jun/19/world-cup-cameroon-coach-disgusting |title=World Cup: Cameroon coach slams 'disgusting' player behavior in loss |work=The Guardian |date=19 June 2014 |access-date=20 June 2014}}</ref>
+
+On 1 July 2014, Cameroon officials announced that they had opened an investigation on claims that seven of the Cameroon's players were involved in fixing the result.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28102841|title=World Cup 2014: Cameroon investigates match-fixing claims|publisher=BBC Sport|date=1 July 2014}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/0/football/28114493|title=World Cup 2014: Match-fixer denies predicting Cameroon result|publisher=BBC Sport|date=1 July 2014}}</ref> However, FIFA said there was no evidence that there were any match fixing in any of Cameroon's matches.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28132691|title=World Cup 2014: Fifa says no proof of Cameroon match-fixing|publisher=BBC Sport|date=2 July 2014}}</ref>
+
+Olić, who previously scored a goal in the 2002 World Cup, became the second player to have a 12-year gap between World Cup goals, after [[Michael Laudrup]] in 1986 and 1998.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=olic-twelve-years-and-still-going-strong-2376962.html|archive-url=https://web.archive.org/web/20140620132828/http://www.fifa.com/worldcup/news/y=2014/m=6/news=olic-twelve-years-and-still-going-strong-2376962.html|url-status=dead|archive-date=20 June 2014|title=Olic: Twelve years and still going strong|publisher=FIFA.com|date=19 June 2014}}</ref> Mandžukić became the first Croatian player to score a brace in a World Cup game. The 4–0 scoreline was also the biggest win by Croatia in the World Cup.<ref>{{Cite news|url=http://sunnewsonline.com/new/?p=68607 |location=Lagos, Nigeria|title=Eagles down, but not out -Ameobi |date=20 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140714120629/http://sunnewsonline.com/new/?p=68607 |archive-date=14 July 2014 |newspaper=[[The Sun (Nigeria)|The Sun]]}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=a4
+|date={{Start date|2014|6|18|df=y}}
+|time=18:00 [[Time in Brazil|AMT]] ([[UTC−04:00|UTC−4]])<!--Kick-off time adjusted by FIFA: https://www.fifa.com/worldcup/news/newsid=2240950/index.html-->
+|team1={{fb-rt|CMR}}
+|score={{score link|2014 FIFA World Cup Group A#Cameroon vs Croatia|0–4}}
+|team2={{fb|CRO}}
+|goals1=
+|goals2=
+*[[Ivica Olić|Olić]] {{goal|11}}
+*[[Ivan Perišić|Perišić]] {{goal|48}}
+*[[Mario Mandžukić|Mandžukić]] {{goal|61||73}}
+|stadium=[[Arena da Amazônia]], [[Manaus]]
+|attendance=39,982
+|referee=[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186453 |title=Cameroon vs Croatia {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186453/report.html |title=2014 FIFA World Cup Brazil – Matches – Cameroon v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170709062024/http://www.fifa.com/worldcup/matches/round=255931/match=300186453/report.html |archive-date=9 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7f98f589b27d57c0/original/chgnlk3xproslrtxqci0-pdf.pdf |title=Match report – Group A – Cameroon v Croatia |publisher=[[FIFA]] |date=18 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061439/https://digitalhub.fifa.com/m/7f98f589b27d57c0/original/chgnlk3xproslrtxqci0-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _cameroon14h
+ |pattern_b  = _cameroon14h
+ |pattern_ra = _cameroon14h
+ |pattern_sh = _cameroon14h2
+ |pattern_so = _long_cameroon14h
+ |leftarm    = 17603E
+ |body       = 17603E
+ |rightarm   = 17603E
+ |shorts     = D01124
+ |socks      = FFFF00
+ |title      = Cameroon<ref name="CMR-CRO line-ups">{{cite web |url=https://digitalhub.fifa.com/m/314c552295c2ba65/original/v74cmu7ohybsrmysccye-pdf.pdf |title=Tactical Line-up – Group A – Cameroon v Croatia |publisher=[[FIFA]] |date=18 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181653/https://digitalhub.fifa.com/m/314c552295c2ba65/original/v74cmu7ohybsrmysccye-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _croatia14h
+ |pattern_ra = _whiteborder
+ |pattern_sh = _croatia14h
+ |pattern_so = _croatia14h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Croatia<ref name="CMR-CRO line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Charles Itandje]]
+|-
+|RB ||'''17'''||[[Stéphane Mbia]]
+|-
+|CB ||'''14'''||[[Aurélien Chedjou]] || || {{suboff|46}}
+|-
+|CB ||'''3''' ||[[Nicolas N'Koulou]] ([[Captain (association football)|c]])
+|-
+|LB ||'''2''' ||[[Benoît Assou-Ekotto]]
+|-
+|DM ||'''21'''||[[Joël Matip]]
+|-
+|CM ||'''6''' ||[[Alex Song]] || {{sent off|0|40}}
+|-
+|CM ||'''18'''||[[Eyong Enoh]]
+|-
+|RW ||'''13'''||[[Eric Maxim Choupo-Moting]] || || {{suboff|75}}
+|-
+|LW ||'''8''' ||[[Benjamin Moukandjo]]
+|-
+|CF ||'''10'''||[[Vincent Aboubakar]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Dany Nounkeu]] || || {{subon|46}}
+|-
+|FW ||'''15'''||[[Pierre Webó]] || || {{subon|70}}
+|-
+|MF ||'''20'''||[[Edgar Salli]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Volker Finke]]
+|}
+|valign="top"|[[File:CMR-CRO 2014-06-18.svg|300px]]
+| style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|RB ||'''11'''||[[Darijo Srna]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]]
+|-
+|CB ||'''6''' ||[[Dejan Lovren]]
+|-
+|LB ||'''3''' ||[[Danijel Pranjić]]
+|-
+|CM ||'''10'''||[[Luka Modrić]]
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]]
+|-
+|RW ||'''4''' ||[[Ivan Perišić]] || || {{suboff|78}}
+|-
+|AM ||'''19'''||[[Sammir]] || || {{suboff|72}}
+|-
+|LW ||'''18'''||[[Ivica Olić]] || || {{suboff|69}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''22'''||[[Eduardo da Silva|Eduardo]] || {{yel|89}} || {{subon|69}}
+|-
+|MF ||'''20'''||[[Mateo Kovačić]] || || {{subon|72}}
+|-
+|FW ||'''16'''||[[Ante Rebić]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Niko Kovač]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Mario Mandžukić]] (Croatia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Bertino Cunha ([[Portuguese Football Federation|Portugal]])
+<br />Tiago Trigo ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Fourth official]]:'''
+<br />Walter López ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Fifth official]]:'''
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+|}
+
+===Cameroon vs Brazil===
+The two teams had met in four previous matches, including in the [[1994 FIFA World Cup]] group stage, won by Brazil [[1994 FIFA World Cup Group B#Brazil vs Cameroon|3–0]].<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=39|archive-url=https://web.archive.org/web/20140519222312/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=39|url-status=dead|archive-date=19 May 2014|title=2014 FIFA World Cup – Statistical Kit|publisher=FIFA.com|page=39}}</ref> Their most recent meeting was in the [[2003 FIFA Confederations Cup]] group stage, won by Cameroon 1–0. Cameroon midfielder [[Alex Song]] was suspended for the match (first match of a three-match ban), after being sent off in the previous match against Croatia.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/27975534|title=World Cup 2014: Cameroon's Alex Song given three-match ban|publisher=BBC Sport|date=23 June 2014}}</ref>
+
+Brazil, where a draw would guarantee their qualification to the knockout stage, opened the scoring in the 17th minute when [[Luiz Gustavo]] crossed from the left for [[Neymar]] to beat the goalkeeper with a first time low side-footed finish to the corner.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/23/cameroon-brazil-world-cup-2014-match-report|title=Neymar scores twice to ease Brazil past Cameroon into final stages|date=23 June 2014|work=The Guardian|access-date=24 June 2014}}</ref> Already-eliminated Cameroon equalised when [[Allan Nyom]] beat [[Dani Alves]] on the left before crossing for [[Joël Matip]] to finish from close range. Neymar put Brazil back in front when he collected the ball from [[Marcelo (footballer, born 1988)|Marcelo]] and ran at goal before finishing with a low right foot shot that wrong footed the goalkeeper from just inside the penalty area.<ref>{{cite news|url=https://www.nytimes.com/2014/06/24/sports/worldcup/world-cup-2014-2-neymar-goals-carry-brazil-past-cameroon.html|title=Brazil Romps Past Cameroon and Into Knockout Rounds|date=23 June 2014|work=New York Times|access-date=24 June 2014}}</ref> In the second half [[David Luiz]] crossed from the left for [[Fred (footballer, born 1983)|Fred]] to extend Brazil's lead with a close range header before half-time substitute [[Fernandinho (footballer, born May 1985)|Fernandinho]] completed the scoring when he collected a pass from [[Oscar (footballer, born 1991)|Oscar]] before finishing with a low right footed shot.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285277|title=Cameroon 1 Brazil 4|date=23 June 2014|work=BBC Sport|access-date=24 June 2014}}</ref> The result assured that Brazil pipped Mexico on goal difference to qualify to the knockout stage as group winners.
+
+The match was Brazil's 100th in the World Cup, and they followed Germany (which played their 100th match in their first game of the 2014 World Cup) to become the second team to reach the milestone.<ref>{{Cite news|url=https://www.reuters.com/article/us-soccer-world-century/neymar-scores-100th-goal-of-world-cup-in-brazils-100th-game-idUSKBN0EY2O220140623|title=Neymar scores 100th goal of World Cup in Brazil's 100th game|work=Reuters|date=23 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=a5
+|date={{Start date|2014|6|23|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|CMR}}
+|score={{score link|2014 FIFA World Cup Group A#Cameroon vs Brazil|1–4}}
+|team2={{fb|BRA}}
+|goals1=
+*[[Joël Matip|Matip]] {{goal|26}}
+|goals2=
+*[[Neymar]] {{goal|17||35}}
+*[[Fred (footballer, born 1983)|Fred]] {{goal|49}}
+*[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{goal|84}}
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=69,112
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186472 |title=Cameroon vs Brazil {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186472/report.html |title=2014 FIFA World Cup Brazil – Matches – Cameroon v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171101115036/http://www.fifa.com/worldcup/matches/round=255931/match=300186472/report.html |archive-date=1 November 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/446a05a792833d10/original/gbuhk3awgoefxiy4gcso-pdf.pdf |title=Match report – Group A – Cameroon v Brazil |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061817/https://digitalhub.fifa.com/m/446a05a792833d10/original/gbuhk3awgoefxiy4gcso-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _cameroon14h
+ |pattern_b  = _cameroon14h
+ |pattern_ra = _cameroon14h
+ |pattern_sh = _cameroon14h2
+ |pattern_so = _long_cameroon14a
+ |leftarm    = 17603E
+ |body       = 17603E
+ |rightarm   = 17603E
+ |shorts     = D01124
+ |socks      = D01124
+ |title      = Cameroon<ref name="CMR-BRA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/61ad2c9dfc47a94a/original/xhhkwyhwdtiwvfaesiad-pdf.pdf |title=Tactical Line-up – Group A – Cameroon v Brazil |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181707/https://digitalhub.fifa.com/m/61ad2c9dfc47a94a/original/xhhkwyhwdtiwvfaesiad-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _brazil1415h
+ |pattern_b  = _brazil1415h
+ |pattern_ra = _brazil1415h
+ |pattern_sh = _colchester0809t
+ |pattern_so = 
+ |leftarm    = FFCC00
+ |body       = FFCC00
+ |rightarm   = FFCC00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="CMR-BRA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Charles Itandje]]
+|-
+|RB ||'''22'''||[[Allan Nyom]]
+|-
+|CB ||'''3''' ||[[Nicolas N'Koulou]] ([[Captain (association football)|c]])
+|-
+|CB ||'''21'''||[[Joël Matip]]
+|-
+|LB ||'''12'''||[[Henri Bedimo]]
+|-
+|DM ||'''7''' ||[[Landry N'Guémo]]
+|-
+|CM ||'''17'''||[[Stéphane Mbia]] || {{yel|80}}
+|-
+|CM ||'''18'''||[[Eyong Enoh]] || {{yel|11}}
+|-
+|RW ||'''13'''||[[Eric Maxim Choupo-Moting]] || || {{suboff|81}}
+|-
+|LW ||'''8''' ||[[Benjamin Moukandjo]] || || {{suboff|58}}
+|-
+|CF ||'''10'''||[[Vincent Aboubakar]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Edgar Salli]] || {{yel|76}} || {{subon|58}}
+|-
+|FW ||'''15'''||[[Pierre Webó]] || || {{subon|72}}
+|-
+|MF ||'''11'''||[[Jean Makoun]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Volker Finke]]
+|}
+|valign="top"|[[File:CMR-BRA 2014-06-23.svg|300px]]
+| style="vertical-align:top; width:50%;"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Dani Alves]]
+|-
+|CB ||'''3''' ||[[Thiago Silva]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[David Luiz]]
+|-
+|LB ||'''6''' ||[[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|DM ||'''17'''||[[Luiz Gustavo]]
+|-
+|RM ||'''8''' ||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|46}}
+|-
+|LM ||'''11'''||[[Oscar (footballer, born 1991)|Oscar]]
+|-
+|RW ||'''7''' ||[[Hulk (footballer)|Hulk]] || || {{suboff|63}}
+|-
+|LW ||'''10'''||[[Neymar]] || || {{suboff|71}}
+|-
+|CF ||'''9''' ||[[Fred (footballer, born 1983)|Fred]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || || {{subon|46}}
+|-
+|MF ||'''16'''||[[Ramires]] || || {{subon|63}}
+|-
+|MF ||'''19'''||[[Willian (footballer, born 1988)|Willian]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luiz Felipe Scolari]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Neymar]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+<br />Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+<br />'''[[Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Croatia vs Mexico===
+{{further|List of 2014 FIFA World Cup controversies#Croatia vs Mexico}}
+The two teams had met in three previous matches, including in the [[2002 FIFA World Cup]] group stage, won by Mexico [[2002 FIFA World Cup Group G#Croatia vs Mexico|1–0]].<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=40|archive-url=https://web.archive.org/web/20140519222312/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=40|url-status=dead|archive-date=19 May 2014|title=2014 FIFA World Cup – Statistical Kit|publisher=FIFA.com|page=40}}</ref>
+
+Coming into the final round of matches, Croatia needed to win to guarantee qualification to the knockout stage regardless of the result of Cameroon vs Brazil, while Mexico only needed a draw to do so. The game was goalless for the first 70 minutes, until a [[Héctor Herrera]] corner to the back post allowed [[Rafael Márquez]] to score from a header, outleaping the Croatian defenders.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/23/croatia-mexico-world-cup-2014-match-report|title=Mexico qualify from Group A with three late goals against Croatia|date=23 June 2014|work=The Guardian|access-date=24 June 2014}}</ref> With Croatia progressing only by way of a win, they were caught out on a break a short time later where [[Andrés Guardado]] scored after receiving a pass from [[Oribe Peralta]]. Mexico scored their third goal when Márquez flicked on Guardado's corner with substitute [[Javier Hernández]] scoring at the back post. [[Ivan Perišić]] scored in his second consecutive World Cup match after a neat back pass from [[Ivan Rakitić]] to get a consolation goal for Croatia in the closing minutes of the game, before Croatia's [[Ante Rebić]] was sent off for a foul on [[Carlos Alberto Peña|Carlos Peña]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/25285326|title=Croatia 1 Mexico 3|date=23 June 2014|work=BBC Sport|access-date=24 June 2014}}</ref> Mexico qualified as group runners-up (behind Brazil on goal difference) on virtue of the win, while Croatia were eliminated.
+
+With his goal, Márquez joined [[Cuauhtémoc Blanco]] as the only Mexican player to score in three World Cups.<ref>{{cite web|url=https://bleacherreport.com/articles/2107456-why-rafael-marquez-will-be-key-for-mexico-in-the-clash-against-netherlands|title=Why Rafael Marquez Will Be Key for Mexico in the Clash Against Netherlands|publisher=Bleacher Report|date=23 June 2014}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=a6
+|date={{Start date|2014|6|23|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|CRO}}
+|score={{score link|2014 FIFA World Cup Group A#Croatia vs Mexico|1–3}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Ivan Perišić|Perišić]] {{goal|87}}
+|goals2=
+*[[Rafael Márquez|Márquez]] {{goal|72}}
+*[[Andrés Guardado|Guardado]] {{goal|75}}
+*[[Javier Hernández|Hernández]] {{goal|82}}
+|stadium=[[Itaipava Arena Pernambuco]], [[Recife]]
+|attendance=41,212
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186452 |title=Croatia vs Mexico {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186452/report.html |title=2014 FIFA World Cup Brazil – Matches – Croatia v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171123183437/http://www.fifa.com/worldcup/matches/round=255931/match=300186452/report.html |archive-date=23 November 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/15aa4902f90a6164/original/iksafm4u7o9uibgntl3e-pdf.pdf |title=Match report – Group A – Croatia v Mexico |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061804/https://digitalhub.fifa.com/m/15aa4902f90a6164/original/iksafm4u7o9uibgntl3e-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _croatia14h
+ |pattern_ra = _whiteborder
+ |pattern_sh = _croatia14h
+ |pattern_so = _croatia14h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Croatia<ref name="CRO-MEX line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3ee48bffbe6d2c94/original/krjx3hstkbpelbgnjnyt-pdf.pdf |title=Tactical Line-up – Group A – Croatia v Mexico |publisher=[[FIFA]] |date=23 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174003/https://digitalhub.fifa.com/m/3ee48bffbe6d2c94/original/krjx3hstkbpelbgnjnyt-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex14h
+ |pattern_b  = _mex14h
+ |pattern_ra = _mex14h
+ |pattern_sh = _mex14a
+ |pattern_so = _mex14a
+ |leftarm    = 006000
+ |body       = 006000
+ |rightarm   = 006000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Mexico<ref name="CRO-MEX line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|RB ||'''11'''||[[Darijo Srna]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]]
+|-
+|CB ||'''6''' ||[[Dejan Lovren]]
+|-
+|LB ||'''2''' ||[[Šime Vrsaljko]] || || {{suboff|58}}
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]] || {{yel|9}}
+|-
+|CM ||'''3''' ||[[Danijel Pranjić]] || || {{suboff|74}}
+|-
+|RW ||'''4''' ||[[Ivan Perišić]]
+|-
+|AM ||'''10'''||[[Luka Modrić]]
+|-
+|LW ||'''18'''||[[Ivica Olić]] || || {{suboff|69}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Mateo Kovačić]] || || {{subon|58}}
+|-
+|FW ||'''16'''||[[Ante Rebić]] || {{sent off|0|89}} || {{subon|69}}
+|-
+|FW ||'''9''' ||[[Nikica Jelavić]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Niko Kovač]]
+|}
+|valign="top"|[[File:CRO-MEX 2014-06-23.svg|300px]]
+| style="vertical-align:top; width:50%;"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez|Francisco Rodríguez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]]) || {{yel|39}}
+|-
+|CB ||'''15'''||[[Héctor Moreno]]
+|-
+|RWB||'''22'''||[[Paul Aguilar]]
+|-
+|LWB||'''7''' ||[[Miguel Layún]]
+|-
+|DM ||'''23'''||[[José Juan Vázquez]] || {{yel|66}}
+|-
+|CM ||'''6''' ||[[Héctor Herrera]]
+|-
+|CM ||'''18'''||[[Andrés Guardado]] || || {{suboff|84}}
+|-
+|SS ||'''10'''||[[Giovani dos Santos]] || || {{suboff|62}}
+|-
+|CF ||'''19'''||[[Oribe Peralta]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Javier Hernández]] || || {{subon|62}}
+|-
+|MF ||'''21'''||[[Carlos Peña (Mexican footballer)|Carlos Peña]] || || {{subon|79}}
+|-
+|MF ||'''8''' ||[[Marco Fabián]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miguel Herrera]]
+|}
+|}
+
+{| style="width:50%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Rafael Márquez]] (Mexico)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Abdukhamidullo Rasulov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bakhadyr Kochkarov ([[Football Federation of the Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Fourth official]]:'''
+<br />Néant Alioum ([[Cameroonian Football Federation|Cameroon]])
+<br />'''[[Fifth official]]:'''
+<br />Djibril Camara ([[Senegalese Football Federation|Senegal]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Cameroon at the FIFA World Cup]]
+*[[Croatia at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20140413011902/http://www.fifa.com/worldcup/groups/group=255933/index.html 2014 FIFA World Cup Group A], FIFA.com
+
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:2014 FIFA World Cup group stage|A]]
+[[Category:Brazil at the 2014 FIFA World Cup|Group]]
+[[Category:Mexico at the 2014 FIFA World Cup|Group]]
+[[Category:Croatia at the 2014 FIFA World Cup|A]]
+[[Category:Cameroon at the 2014 FIFA World Cup]]
+[[Category:International sports competitions in São Paulo]]
+[[Category:Football competitions in São Paulo (city)]]
+[[Category:2010s in São Paulo]]
+[[Category:Natal, Rio Grande do Norte]]
+[[Category:Football in Rio Grande do Norte]]
+[[Category:Sport in Fortaleza]]
+[[Category:Football in Ceará]]
+[[Category:International sports competitions in Manaus]]
+[[Category:Football in Amazonas (Brazilian state)]]
+[[Category:Football in Brasília]]
+[[Category:21st century in Brasília|2014 FIFA World Cup Group A]]
+[[Category:Sport in Recife]]
+[[Category:Football in Pernambuco]]

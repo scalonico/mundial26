@@ -1,0 +1,498 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Group B was one of four groups of national teams competing in the second stage of the [[1982 FIFA World Cup]]. The group's three matches were staged at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]] in [[Madrid]]. The group consisted of three teams advancing from the first group stage: Group 2 winners [[Germany national football team|West Germany]], Group 5 runners-up, the host nation [[Spain national football team|Spain]], and Group 4 winners [[England national football team|England]].<ref>{{cite web |url=https://www.rsssf.org/tables/82full.html |title=World Cup 1982 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> England finished the group without scoring or conceding a single goal, the only time that has ever happened in any kind of group in FIFA World Cup history. Like [[Scotland national football team|Scotland]] in [[1974 FIFA World Cup|'74]] and [[Brazil national football team|Brazil]] in [[1978 FIFA World Cup|'78]], [[England national football team|''Three Lions'' of '82]] stayed unbeaten but were eliminated before the semi-finals. Their elimination was the result of only managing a goalless draw against already-eliminated Spain in the final group match, though even a win would not have kept England in the competition unless it was by at least two clear goals.
+
+West Germany topped the group and advanced to the semi-finals.
+
+==Qualified teams==
+The winners of Group 2 and 4 and the runner-up of Group 5 qualified for Group B of the second round.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+|-
+! [[1982 FIFA World Cup Group 2|2]]
+| {{fb|FRG}}
+|-
+! [[1982 FIFA World Cup Group 4|4]]
+| {{fb|ENG}}
+|-
+! Group
+! width="150" | Runners-up
+|-
+! [[1982 FIFA World Cup Group 5|5]]
+| {{fb|ESP}}
+|}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/spain1982/groups/index.html FIFA]
+
+|team1=FRG |team2=ENG |team3=ESP
+|result1=KO
+|status_ESP=H
+
+|win_FRG=1 |draw_FRG=1 |loss_FRG=0 |gf_FRG=2 |ga_FRG=1
+|win_ENG=0 |draw_ENG=2 |loss_ENG=0 |gf_ENG=0 |ga_ENG=0
+|win_ESP=0 |draw_ESP=1 |loss_ESP=1 |gf_ESP=1 |ga_ESP=2
+
+|name_ESP={{fb|ESP}}
+|name_ENG={{fb|ENG}}
+|name_FRG={{fb|FRG}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1982 FIFA World Cup#Knockout stage|knockout stage]]}} 
+}}</onlyinclude>
+
+==Matches==
+
+===West Germany vs England===
+{{see also|England–Germany football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|1982|6|29|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1982 FIFA World Cup Group B#West Germany vs England|0–0}}
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=75,000
+|referee=[[Arnaldo Cézar Coelho]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/294/879 |title=Germany FR vs England {{!}} Second Round {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=294/match=879/index.html |title=1982 FIFA World Cup Spain – Matches – Germany FR v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229212842/http://www.fifa.com/worldcup/matches/round=294/match=879/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _westgermany1980
+ | pattern_b =  _shoulder stripes_black stripes_collar
+ | pattern_ra = _westgermany1980
+ | pattern_so = _3_stripes_black
+ | leftarm = FFFFFF
+ | body = FFFFFF
+ | rightarm = FFFFFF
+ | shorts = 000000
+ | socks = FFFFFF
+ | title = West Germany
+}}
+|{{Football kit
+ | pattern_la = _england1980a
+ | pattern_b  = _england1980a
+ | pattern_ra = _england1980a
+ | pattern_sh = _england1980a
+ | pattern_so = _england1980a
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Harald Schumacher|Toni Schumacher]]
+|-
+|SW ||'''15''' ||[[Uli Stielike]] || {{yel|68}}
+|-
+|DF ||'''20''' ||[[Manfred Kaltz]]
+|-
+|DF ||'''4''' ||[[Karlheinz Förster]]
+|-
+|DF ||'''2'''||[[Hans-Peter Briegel]]
+|-
+|MF ||'''6''' ||[[Wolfgang Dremmler]]
+|-
+|MF ||'''5''' ||[[Bernd Förster]]
+|-
+|MF ||'''3'''||[[Paul Breitner]]
+|-
+|MF ||'''10'''||[[Hansi Müller]] || || {{suboff|73}}
+|-
+|FW ||'''13'''||[[Uwe Reinders]] || || {{suboff|62}}
+|-
+|FW ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''7''' ||[[Pierre Littbarski]] || || {{subon|62}}
+|-
+|FW ||'''8'''||[[Klaus Fischer]] || || {{subon|73}}
+|-
+|DF ||'''12'''||[[Wilfried Hannes]]
+|-
+|MF ||'''18'''||[[Lothar Matthäus]]
+|-
+|GK ||'''21'''||[[Bernd Franke]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jupp Derwall]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Peter Shilton]]
+|-
+|RB ||'''12'''||[[Mick Mills]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Terry Butcher]]
+|-
+|DF ||'''18'''||[[Phil Thompson]]
+|-
+|LB ||'''17'''||[[Kenny Sansom]]
+|-
+|RM ||'''5''' ||[[Steve Coppell]]
+|-
+|MF ||'''16'''||[[Bryan Robson]]
+|-
+|MF ||'''19'''||[[Ray Wilkins]]
+|-
+|LM ||'''15'''||[[Graham Rix]]
+|-
+|FW ||'''8''' ||[[Trevor Francis]] || || {{suboff|76}}
+|-
+|FW ||'''11'''||[[Paul Mariner]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1'''||[[Ray Clemence]]
+|-
+|MF ||'''9'''||[[Glenn Hoddle]]
+|-
+|DF ||'''14'''||[[Phil Neal]]
+|-
+|FW ||'''20'''||[[Peter Withe]]
+|-
+|FW ||'''21'''||[[Tony Woodcock (footballer)|Tony Woodcock]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Ron Greenwood]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Héctor Ortiz (referee)|Héctor Ortiz]] ([[Paraguayan Football Association|Paraguay]])
+<br />[[Rómulo Méndez]] ([[National Football Federation of Guatemala|Guatemala]])
+|}
+
+===West Germany vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|1982|7|2|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1982 FIFA World Cup Group B#West Germany vs Spain|2–1}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Pierre Littbarski|Littbarski]] {{goal|50}}
+*[[Klaus Fischer|Fischer]] {{goal|75}}
+|goals2=
+*[[Jesús María Zamora|Zamora]] {{goal|82}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=90,089
+|referee=[[Paolo Casarin]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/294/900 |title=Germany FR vs Spain {{!}} Second Round {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=294/match=900/index.html |title=1982 FIFA World Cup Spain – Matches – Germany FR v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230041340/http://www.fifa.com/worldcup/matches/round=294/match=900/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _westgermany1980
+ | pattern_b =  _shoulder stripes_black stripes_collar
+ | pattern_ra = _westgermany1980
+ | pattern_so = _color_3_stripes_black
+ | leftarm = FFFFFF
+ | body = FFFFFF
+ | rightarm = FFFFFF
+ | shorts = 000000
+ | socks = FFFFFF
+ | title = West Germany
+}}
+|{{Football kit
+ |pattern_la  = _esp1982
+ |pattern_b   = _esp1982h
+ |pattern_ra  = _esp1982
+ |pattern_sh  = _esp_08
+ |pattern_so  = _esp1986
+ |leftarm     = ED1C24
+ |body        = ED1C24
+ |rightarm    = ED1C24
+ |shorts      = 0000CD
+ |socks       = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Harald Schumacher|Toni Schumacher]]
+|-
+|SW ||'''15''' ||[[Uli Stielike]]
+|-
+|RB ||'''20'''||[[Manfred Kaltz]]
+|-
+|CB ||'''4''' ||[[Karlheinz Förster]]
+|-
+|LB ||'''5''' ||[[Bernd Förster]]
+|-
+|RM ||'''6''' ||[[Wolfgang Dremmler]]
+|-
+|CM ||'''3''' ||[[Paul Breitner]]
+|-
+|LM ||'''2''' ||[[Hans-Peter Briegel]] || {{yel|84}}
+|-
+|CF ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|FW ||'''8''' ||[[Klaus Fischer]] || {{yel|10}}
+|-
+|LW ||'''7''' ||[[Pierre Littbarski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Horst Hrubesch]]
+|-
+|DF ||'''12'''||[[Wilfried Hannes]]
+|-
+|FW ||'''13'''||[[Uwe Reinders]] || || {{subon|46}}
+|-
+|MF ||'''14'''||[[Felix Magath]]
+|-
+|GK ||'''22'''||[[Eike Immel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jupp Derwall]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Luis Arconada]] ([[Captain (association football)|c]])
+|-
+|SW ||'''6''' ||[[José Ramón Alexanko]] || {{yel|9}}
+|-
+|RB ||'''12'''||[[Santiago Urquiaga]]
+|-
+|CB ||'''5''' ||[[Miguel Tendillo]]
+|-
+|LB ||'''3''' ||[[Rafael Gordillo]]
+|-
+|RW ||'''7''' ||[[Juanito (footballer, born 1954)|Juanito]] || || {{suboff|46}}
+|-
+|CM ||'''2''' ||[[José Antonio Camacho]] || {{yel|83}}
+|-
+|CM ||'''4''' ||[[Miguel Ángel Alonso|Periko Alonso]]
+|-
+|LM ||'''10'''||[[Jesús María Zamora]]
+|-
+|CF ||'''19'''||[[Santillana (footballer)|Santillana]]
+|-
+|FW ||'''20'''||[[Quini]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9'''||[[Jesús María Satrústegui]]
+|-
+|FW ||'''11'''||[[Roberto López Ufarte]] || || {{subon|46}}
+|-
+|DF ||'''14'''||[[Antonio Maceda]]
+|-
+|MF ||'''16'''||[[José Vicente Sánchez|Tente Sánchez]]  || {{yel|84}} || {{subon|65}}
+|-
+|GK ||'''22'''||[[Miguel Ángel González Suárez|Miguel Ángel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Santamaría]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Franz Wöhrer]] ([[Austrian Football Association|Austria]])
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Spain vs England===
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|1982|7|5|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ESP}}
+|score={{score link|1982 FIFA World Cup Group B#Spain vs England|0–0}}
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=75,000
+|referee=[[Alexis Ponnet]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/294/877 |title=Spain vs England {{!}} Second Round {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=294/match=877/index.html |title=1982 FIFA World Cup Spain – Matches – Spain v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202032309/http://www.fifa.com/worldcup/matches/round=294/match=877/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la  = _esp1982
+ |pattern_b   = _esp1982h
+ |pattern_ra  = _esp1982
+ |pattern_sh  = _esp_08
+ |pattern_so  = _esp1986
+ |leftarm     = ED1C24
+ |body        = ED1C24
+ |rightarm    = ED1C24
+ |shorts      = 0000CD
+ |socks       = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _england1980
+ | pattern_b  = _england1980
+ | pattern_ra = _england1980
+ | pattern_sh = _england1980
+ | pattern_so = _england1980
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 0000FF
+ | socks      = 
+ | title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Arconada]] ([[Captain (association football)|c]])
+|-
+|DF ||'''12'''||[[Santiago Urquiaga]]
+|-
+|DF ||'''5''' ||[[Miguel Tendillo]]  || || {{suboff|72}}
+|-
+|DF ||'''6''' ||[[José Ramón Alexanko]]
+|-
+|DF ||'''2''' ||[[José Antonio Camacho]]
+|-
+|MF ||'''4''' ||[[Miguel Ángel Alonso|Periko Alonso]]
+|-
+|MF ||'''10'''||[[Jesús María Zamora]]
+|-
+|MF ||'''15'''||[[Enrique Saura]]  || || {{suboff|67}}
+|-
+|MF ||'''3''' ||[[Rafael Gordillo]]
+|-
+|FW ||'''9'''||[[Jesús María Satrústegui]]
+|-
+|FW ||'''19'''||[[Santillana (footballer)|Santillana]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''11'''||[[Roberto López Ufarte]]
+|-
+|DF ||'''13'''||[[Manuel Jiménez Abalo|Manuel Jiménez]]
+|-
+|DF ||'''14'''||[[Antonio Maceda]] || || {{subon|72}}
+|-
+|FW ||'''18'''||[[Pedro Uralde]] || || {{subon|67}}
+|-
+|GK ||'''22'''||[[Miguel Ángel González Suárez|Miguel Ángel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Santamaría]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Peter Shilton]]
+|-
+|RB ||'''12'''||[[Mick Mills]] ([[Captain (association football)|c]])
+|-
+|DF ||'''18'''||[[Phil Thompson]]
+|-
+|DF ||'''4''' ||[[Terry Butcher]]
+|-
+|LB ||'''17'''||[[Kenny Sansom]]
+|-
+|RM ||'''8''' ||[[Trevor Francis]]
+|-
+|MF ||'''16'''||[[Bryan Robson]]
+|-
+|MF ||'''19'''||[[Ray Wilkins]] || {{yel|15}}
+|-
+|LM ||'''15'''||[[Graham Rix]]  || || {{suboff|63}}
+|-
+|FW ||'''11'''||[[Paul Mariner]]
+|-
+|FW ||'''21'''||[[Tony Woodcock (footballer)|Tony Woodcock]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Ray Clemence]]
+|-
+|AM ||'''3''' ||[[Trevor Brooking]] || || {{subon|63}}
+|-
+|FW ||'''7''' ||[[Kevin Keegan]]  || || {{subon|64}}
+|-
+|MF ||'''9''' ||[[Glenn Hoddle]]
+|-
+|DF ||'''14'''||[[Phil Neal]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Ron Greenwood]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Michel Vautrot]] ([[French Football Federation|France]])
+<br />[[Belaïd Lacarne]] ([[Algerian Football Federation|Algeria]])
+|}
+
+==See also==
+*[[England at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/2602c368daaad887/original/bn1ocpuvccw3txzmiut3-pdf.pdf Spain 1982 FIFA Technical Report: Statistical Details of the Matches pp. 137-140]
+
+{{1982 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1982 FIFA World Cup group stage|Group B]]
+[[Category:West Germany at the 1982 FIFA World Cup|Group B]]
+[[Category:England at the 1982 FIFA World Cup|Group B]]
+[[Category:Spain at the 1982 FIFA World Cup|Group B]]
+[[Category:Football competitions in Madrid]]
+[[Category:1980s in Madrid]]

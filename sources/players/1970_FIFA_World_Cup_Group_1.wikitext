@@ -1,0 +1,832 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 1 of the [[1970 FIFA World Cup]]''' was contested in [[Mexico City]]'s [[Estadio Azteca]] between 31 May and 11 June 1970. The [[Soviet Union national football team|Soviet Union]] and [[Mexico national football team|Mexico]] finished level on both points and goal difference, meaning a drawing of lots was required under the tournament rules to determine the placings of the teams. The Soviet Union was drawn out and therefore were ranked as group winner, with Mexico ranked in second place. [[Belgium national football team|Belgium]] and [[El Salvador national football team|El Salvador]] both failed to advance.<ref>{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1970mexico|title=1970 FIFA World Cup Mexico|publisher=fifa.com|accessdate=6 March 2016}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/70full.html |title=World Cup 1970 |accessdate=10 August 2014 |url-status=live |website=[[RSSSF]] |archiveurl=https://web.archive.org/web/20160701154217/http://www.rsssf.com/tables/70full.html |archivedate=1 July 2016 }}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150224145302/http://www.fifa.com/worldcup/archive/mexico1970/groups/index.html FIFA]
+
+|team1=URS|team2=MEX |team3=BEL |team4=SLV
+|result1=A |result2=A
+
+|win_URS=2 |draw_URS=1 |loss_URS=0 |gf_URS=6 |ga_URS=1
+|win_MEX=2 |draw_MEX=1 |loss_MEX=0 |gf_MEX=5 |ga_MEX=0
+|win_BEL=1 |draw_BEL=0 |loss_BEL=2 |gf_BEL=4 |ga_BEL=5
+|win_SLV=0 |draw_SLV=0 |loss_SLV=3 |gf_SLV=0 |ga_SLV=9
+
+|name_SLV={{fb|SLV}}
+|name_BEL={{fb|BEL}}
+|name_MEX={{fb|MEX}}
+|name_URS={{fb|URS|1955}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1970 FIFA World Cup#Knockout stage|knockout stage]]}}
+|hth_URS=Having finished level on both points and goal difference, the Soviet Union and Mexico were separated by the drawing of lots.|hth_MEX=URS
+}}</onlyinclude>
+
+==Matches==
+''All times listed are local ([[Central Time Zone|UTC−6]])''
+
+===Mexico vs Soviet Union===
+<onlyinclude>{{#invoke:Football box|main|section=1-1
+|date={{Start date|1970|5|31|df=y}}
+|time=12:00
+|team1={{fb-rt|MEX}}
+|score={{score link|1970 FIFA World Cup Group 1#Mexico vs Soviet Union|0–0}}
+|team2={{fb|URS|1955}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=107,160
+|referee=[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1902 |title=Mexico vs Soviet Union {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1902/index.html |title=1970 FIFA World Cup Mexico – Matches – Mexico v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231212055/http://www.fifa.com/worldcup/matches/round=250/match=1902/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la =  _whiteborder
+ |pattern_b  =  _vneckwhiti
+ |pattern_ra = _whiteborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 0F7D5C
+ |body       = 0F7D5C
+ |rightarm   = 0F7D5C
+ |shorts     = FFFFFF
+ |socks      = 0F7D5C
+ |title      = Mexico
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _sovietunion70
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _standard1213h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Soviet Union
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ignacio Calderón]]
+|-
+|DF ||'''13'''||[[José Vantolrá]]
+|-
+|DF ||'''3''' ||[[Gustavo Peña]] ([[Captain (association football)|c]])|| {{yel|60}}
+|-
+|DF ||'''14'''||[[Javier Guzmán]]
+|-
+|DF ||'''5''' ||[[Mario Pérez (footballer born 1946)|Mario Pérez]]
+|-
+|MF ||'''6''' ||[[Guillermo Hernández (footballer, born 1942)|Guillermo Hernández]]
+|-
+|MF ||'''15'''||[[Héctor Pulido]]
+|-
+|MF ||'''18'''||[[Mario Velarde (footballer, born 1940)|Mario Velarde]] || || {{suboff|67}}
+|-
+|FW ||'''19'''||[[Javier Valdivia]] 
+|-
+|FW ||'''21'''||[[Javier Fragoso]]
+|-
+|FW ||'''10'''||[[Horacio López Salgado]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Antonio Munguía]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raúl Cárdenas]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Anzor Kavazashvili]]
+|-
+|DF ||'''7''' ||[[Gennady Logofet]]|| {{yel|72}}
+|-
+|DF ||'''9''' ||[[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Vladimir Kaplichny]]
+|-
+|DF ||'''6''' ||[[Evgeny Lovchev]]|| {{yel|34}}
+|-
+|MF ||'''15'''||[[Viktor Serebryanikov]]|| || {{suboff|46}}
+|-
+|MF ||'''11'''||[[Kakhi Asatiani]]|| {{yel|30}}
+|-
+|MF ||'''14'''||[[Vladimir Muntyan]] 
+|-
+|FW ||'''19'''||[[Givi Nodia]]|| {{yel|31}}|| {{suboff|66}}
+|-
+|FW ||'''16'''||[[Anatoliy Byshovets]]
+|-
+|FW ||'''17'''||[[Gennady Yevryuzhikhin]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Anatoliy Puzach]] || || {{subon|46}}
+|-
+|FW ||'''21'''||[[Vitaly Khmelnitsky]]  || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Gavril Kachalin]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Keith Dunstan (referee)|Keith Dunstan]] ([[Bermuda Football Association|Bermuda]])
+<br />[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|}
+
+===Belgium vs El Salvador===
+<onlyinclude>{{#invoke:Football box|main|section=1-2
+|date={{Start date|1970|6|3|df=y}}
+|time=16:00
+|team1={{fb-rt|BEL}}
+|score={{score link|1970 FIFA World Cup Group 1#Belgium vs El Salvador|3–0}}
+|team2={{fb|SLV}}
+|goals1=
+*[[Wilfried Van Moer|Van Moer]] {{goal|12||54}}
+*[[Raoul Lambert|Lambert]] {{goal|79|pen.}}
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=92,205
+|referee=[[Andrei Rădulescu (footballer)|Andrei Rădulescu]] ([[Romanian Football Federation|Romania]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1747 |title=Belgium vs El Salvador {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1747/index.html |title=1970 FIFA World Cup Mexico – Matches – Belgium v El Salvador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230172322/http://www.fifa.com/worldcup/matches/round=250/match=1747/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _belgium1982h
+ |pattern_b  = _belgium1970h
+ |pattern_ra = _belgium1982h
+ |pattern_sh = 
+ |pattern_so = _belgium1970h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Belgium
+}}
+|{{Football kit
+ |pattern_la = _blueborder
+ |pattern_b  = _els68a
+ |pattern_ra = _blueborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = El Salvador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Christian Piot]]
+|-
+|DF ||'''2''' ||[[Georges Heylens]]
+|-
+|DF ||'''4''' ||[[Nicolas Dewalque]]
+|-
+|DF ||'''6''' ||[[Jean Dockx]]
+|-
+|DF ||'''3''' ||[[Jean Thissen]]
+|-
+|MF ||'''7''' ||[[Léon Semmeling]]|| || {{suboff|79}}
+|-
+|MF ||'''8''' ||[[Wilfried Van Moer]] 
+|-
+|MF ||'''9''' ||[[Johan Devrindt]]
+|-
+|MF ||'''10'''||[[Paul Van Himst]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Raoul Lambert]]
+|-
+|FW ||'''11'''||[[Wilfried Puis]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Odilon Polleunis]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raymond Goethals]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Raúl Magaña]]
+|-
+|DF ||'''2''' ||[[Roberto Rivas (footballer)|Roberto Rivas]]
+|-
+|DF ||'''3''' ||[[Salvador Mariona]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Saturnino Osorio]]
+|-
+|DF ||'''14'''||[[Mauricio Manzano]] || || {{suboff|67}}
+|-
+|MF ||'''6''' ||[[José Quintanilla (footballer)|José Quintanilla]]
+|-
+|MF ||'''8''' ||[[Jorge Vásquez (Salvadoran footballer)|Jorge Vásquez]]
+|-
+|MF ||'''10'''||[[Salvador Cabezas]]
+|-
+|MF ||'''7''' ||[[Mauricio Alonso Rodríguez|Pipo Rodríguez]]|| || {{suboff|80}}
+|-
+|FW ||'''9''' ||[[Juan Ramón Martínez (footballer)|Juan Ramón Martínez]] 
+|-
+|FW ||'''11'''||[[Ernesto Aparicio]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Santiago Cortés (footballer)|Santiago Cortés]] || || {{subon|67}}
+|-
+|MF ||'''16'''||[[Genaro Sermeño]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CHI}} [[Hernán Carrasco Vivanco|Hernán Carrasco]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Rudi Glöckner]] ([[German Football Association|East Germany]])
+<br />[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+|}
+
+===Soviet Union vs Belgium===
+<onlyinclude>{{#invoke:Football box|main|section=1-3
+|date={{Start date|1970|6|6|df=y}}
+|time=16:00
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1970 FIFA World Cup Group 1#Soviet Union vs Belgium|4–1}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Anatoliy Byshovets|Byshovets]] {{goal|14||63}}
+*[[Kakhi Asatiani|Asatiani]] {{goal|57}}
+*[[Vitaliy Khmelnytskyi|Khmelnytskyi]] {{goal|76}}
+|goals2=
+*[[Raoul Lambert|Lambert]] {{goal|86}}
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=95,261
+|referee=[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1753 |title=Soviet Union vs Belgium {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1753/index.html |title=1970 FIFA World Cup Mexico – Matches – Soviet Union v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230225828/http://www.fifa.com/worldcup/matches/round=250/match=1753/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _sovietunion70
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _standard1213h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 090370
+ |socks      = FF0000
+ |title      = Soviet Union
+}}
+|{{Football kit
+ |pattern_la = _belgium1982a
+ |pattern_b  = _belgium1970a
+ |pattern_ra = _belgium1982a
+ |pattern_sh = 
+ |pattern_so = _belgium1970a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Belgium
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Anzor Kavazashvili]]
+|-
+|DF ||'''5''' ||[[Vladimir Kaplichny]]|| || {{suboff|34}}
+|-
+|DF ||'''3''' ||[[Valentin Afonin]]
+|-
+|DF ||'''9''' ||[[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|MF ||'''11'''||[[Kakhi Asatiani]]
+|-
+|MF ||'''14'''||[[Vladimir Muntyan]] 
+|-
+|DF ||'''4''' ||[[Revaz Dzodzuashvili]]|| || {{suboff|73}}
+|-
+|FW ||'''16'''||[[Anatoliy Byshovets]]
+|-
+|FW ||'''17'''||[[Gennady Yevriuzhikin]]
+|-
+|DF ||'''8''' ||[[Murtaz Khurtsilava]]
+|-
+|FW ||'''21'''||[[Vitaliy Khmelnytskyi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Evgeny Lovchev]] || || {{subon|34}}
+|-
+|MF ||'''12'''||[[Nikolay Kiselyov (footballer)|Nikolay Kiselyov]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Gavril Kachalin]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Christian Piot]]
+|-
+|DF ||'''2''' ||[[Georges Heylens]]
+|-
+|DF ||'''4''' ||[[Nicolas Dewalque]]
+|-
+|DF ||'''6''' ||[[Jean Dockx]]
+|-
+|DF ||'''3''' ||[[Jean Thissen]]
+|-
+|MF ||'''7''' ||[[Léon Semmeling]]
+|-
+|MF ||'''8''' ||[[Wilfried Van Moer]]
+|-
+|MF ||'''5''' ||[[Léon Jeck]]
+|-
+|MF ||'''10'''||[[Paul Van Himst]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Raoul Lambert]]
+|-
+|FW ||'''11'''||[[Wilfried Puis]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raymond Goethals]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Henry Landauer]] ([[United States Soccer Federation|United States]])
+<br />[[Bobby Davidson]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Mexico vs El Salvador===
+<onlyinclude>{{#invoke:Football box|main|section=1-4
+|date={{Start date|1970|6|7|df=y}}
+|time=12:00
+|team1={{fb-rt|MEX}}
+|score={{score link|1970 FIFA World Cup Group 1#Mexico vs El Salvador|4–0}}
+|team2={{fb|SLV}}
+|goals1=
+*[[Javier Valdivia|Valdivia]] {{goal|45||46}}
+*[[Javier Fragoso|Fragoso]] {{goal|58}}
+*[[Juan Ignacio Basaguren|Basaguren]] {{goal|83}}
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=103,058
+|referee=[[Ali Kandil]] ([[Egyptian Football Association|United Arab Republic]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1820 |title=Mexico vs El Salvador {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1820/index.html |title=1970 FIFA World Cup Mexico – Matches – Mexico v El Salvador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171215013523/http://www.fifa.com/worldcup/matches/round=250/match=1820/index.html |archive-date=15 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _vneckwhiti
+ |pattern_ra = _whiteborder
+ |pattern_sh = 
+ |pattern_so = _
+ |leftarm    = 0F7D5C
+ |body       = 0F7D5C
+ |rightarm   = 0F7D5C
+ |shorts     = FFFFFF
+ |socks      = 0F7D5C
+ |title      = Mexico
+}}
+|{{Football kit
+ |pattern_la = _blueborder
+ |pattern_b  = _els68a
+ |pattern_ra = _blueborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = El Salvador
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ignacio Calderón]]
+|-
+|DF ||'''13'''||[[José Vantolrá]]
+|-
+|DF ||'''3''' ||[[Gustavo Peña]] ([[Captain (association football)|c]])
+|-
+|DF ||'''14'''||[[Javier Guzmán]]
+|-
+|DF ||'''5''' ||[[Mario Pérez (footballer born 1946)|Mario Pérez]]
+|-
+|MF ||'''8''' ||[[Antonio Munguía]]
+|-
+|MF ||'''17'''||[[José Luis González Dávila|José Luis González]]
+|-
+|FW ||'''9''' ||[[Enrique Borja]]|| || {{suboff|46}}
+|-
+|FW ||'''11'''||[[Aarón Padilla Gutiérrez|Aarón Padilla]]
+|-
+|FW ||'''19'''||[[Javier Valdivia]] 
+|-
+|FW ||'''21'''||[[Javier Fragoso]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Horacio López Salgado]] || || {{subon|46}}|| {{suboff|76}}
+|-
+|MF ||'''20'''||[[Juan Ignacio Basaguren]] || || ||{{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raúl Cárdenas]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Raúl Magaña]]|| {{yel|45}}
+|-
+|DF ||'''2''' ||[[Roberto Rivas (footballer)|Roberto Rivas]]
+|-
+|DF ||'''3''' ||[[Salvador Mariona]] ([[Captain (association football)|c]])|| {{yel|33}}
+|-
+|DF ||'''5''' ||[[Saturnino Osorio]]
+|-
+|DF ||'''4''' ||[[Santiago Cortés (footballer)|Santiago Cortés]]|| {{yel|13}}|| {{suboff|68}}
+|-
+|MF ||'''6''' ||[[José Quintanilla (footballer)|José Quintanilla]]
+|-
+|MF ||'''8''' ||[[Jorge Vásquez (Salvadoran footballer)|Jorge Vásquez]]
+|-
+|MF ||'''10'''||[[Salvador Cabezas]]|| {{yel|57}}
+|-
+|MF ||'''7''' ||[[Mauricio Alonso Rodríguez|Pipo Rodríguez]]
+|-
+|FW ||'''9''' ||[[Juan Ramón Martínez (footballer)|Juan Ramón Martínez]] 
+|-
+|FW ||'''11'''||[[Ernesto Aparicio]]|| || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||[[Mario Monge]] || || {{subon|68}}
+|-
+|MF ||'''19'''||[[Sergio Méndez]]|| || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CHI}} [[Hernán Carrasco Vivanco|Hernán Carrasco]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Keith Dunstan (referee)|Keith Dunstan]] ([[Bermuda Football Association|Bermuda]])
+<br />[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|}
+
+===Soviet Union vs El Salvador===
+<onlyinclude>{{#invoke:Football box|main|section=1-5
+|date={{Start date|1970|6|10|df=y}}
+|time=16:00
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1970 FIFA World Cup Group 1#Soviet Union vs El Salvador|2–0}}
+|team2={{fb|SLV}}
+|goals1=
+*[[Anatoliy Byshovets|Byshovets]] {{goal|51||74}}
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=89,979
+|referee=[[Rafael Hormazábal Díaz]] ([[Chilean Football Federation|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1823 |title=Soviet Union vs El Salvador {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1823/index.html |title=1970 FIFA World Cup Mexico – Matches – Soviet Union v El Salvador |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231212032/http://www.fifa.com/worldcup/matches/round=250/match=1823/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _sovietunion70
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _standard1213h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Soviet Union
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _els68a
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = El Salvador
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Anzor Kavazashvili]]
+|-
+|DF ||'''3''' ||[[Valentin Afonin]]
+|-
+|DF ||'''9''' ||[[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|MF ||'''15'''||[[Viktor Serebryanikov]] 
+|-
+|MF ||'''14'''||[[Vladimir Muntyan]] 
+|-
+|DF ||'''4''' ||[[Revaz Dzodzuashvili]]
+|-
+|MF ||'''12'''||[[Nikolay Kiselyov (footballer)|Nikolay Kiselyov]]|| || {{suboff|81}}
+|-
+|FW ||'''16'''||[[Anatoliy Byshovets]]
+|-
+|FW ||'''20'''||[[Anatoliy Puzach]]|| || {{suboff|46}}
+|-
+|DF ||'''8''' ||[[Murtaz Khurtsilava]]
+|-
+|FW ||'''21'''||[[Vitaliy Khmelnytskyi]]|| {{yel|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Kakhi Asatiani]]|| || {{subon|81}}
+|-
+|FW ||'''17'''||[[Gennady Yevriuzhikin]]|| || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Gavril Kachalin]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Raúl Magaña]]
+|-
+|DF ||'''2''' ||[[Roberto Rivas (footballer)|Roberto Rivas]]
+|-
+|DF ||'''3''' ||[[Salvador Mariona]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Saturnino Osorio]]
+|-
+|DF ||'''18'''||[[Guillermo Castro (Salvadoran footballer)|Guillermo Castro]]
+|-
+|MF ||'''12'''||[[Mario Monge]]
+|-
+|MF ||'''17'''||[[Jaime Portillo]]
+|-
+|MF ||'''8''' ||[[Jorge Vásquez (Salvadoran footballer)|Jorge Vásquez]]
+|-
+|MF ||'''10'''||[[Salvador Cabezas]]|| || {{suboff|82}}
+|-
+|FW ||'''7''' ||[[Mauricio Alonso Rodríguez|Pipo Rodríguez]]|| || {{suboff|86}}
+|-
+|FW ||'''19'''||[[Sergio Méndez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Ernesto Aparicio]]|| || {{subon|82}}
+|-
+|MF ||'''16'''||[[Genaro Sermeño]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CHI}} [[Hernán Carrasco Vivanco|Hernán Carrasco]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Ángel Norberto Coerezza]] ([[Argentine Football Association|Argentina]])
+<br />[[Ayrton Vieira de Moraes]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===Mexico vs Belgium===
+<onlyinclude>{{#invoke:Football box|main|section=1-6
+|date={{Start date|1970|6|11|df=y}}
+|time=16:00
+|team1={{fb-rt|MEX}}
+|score={{score link|1970 FIFA World Cup Group 1#Mexico vs Belgium|1–0}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Gustavo Peña|Peña]] {{goal|14|pen.}}
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=108,192
+|referee=[[Ángel Norberto Coerezza]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1752 |title=Mexico vs Belgium {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1752/index.html |title=1970 FIFA World Cup Mexico – Matches – Mexico v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230225719/http://www.fifa.com/worldcup/matches/round=250/match=1752/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _mexh70
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _socks
+ |leftarm    = 660000
+ |body       = 660000
+ |rightarm   = 660000
+ |shorts     = 000033
+ |socks      = 000033
+ |title      = Mexico
+}}
+|{{Football kit
+ |pattern_la = _belgium1982a
+ |pattern_b  = _belgium1970a
+ |pattern_ra = _belgium1982a
+ |pattern_sh = 
+ |pattern_so = _belgium1970a
+ |leftarm    = 
+ |body       = 
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Belgium
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ignacio Calderón]]
+|-
+|DF ||'''3''' ||[[Gustavo Peña]] ([[Captain (association football)|c]])|| {{yel|29}}
+|-
+|DF ||'''13'''||[[José Vantolrá]]
+|-
+|DF ||'''14'''||[[Javier Guzmán]]
+|-
+|DF ||'''5''' ||[[Mario Pérez (footballer born 1946)|Mario Pérez]]
+|-
+|MF ||'''15'''||[[Héctor Pulido]]
+|-
+|MF ||'''17'''||[[José Luis González Dávila|José Luis González]]
+|-
+|MF ||'''8''' ||[[Antonio Munguía]]
+|-
+|FW ||'''19'''||[[Javier Valdivia]]|| {{yel|19}}||{{suboff|46}} 
+|-
+|FW ||'''21'''||[[Javier Fragoso]]
+|-
+|FW ||'''11'''||[[Aarón Padilla Gutiérrez|Aarón Padilla]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Juan Ignacio Basaguren]] || ||{{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raúl Cárdenas]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Christian Piot]]
+|-
+|DF ||'''2''' ||[[Georges Heylens]]
+|-
+|DF ||'''4''' ||[[Nicolas Dewalque]]
+|-
+|DF ||'''6''' ||[[Jean Dockx]]
+|-
+|DF ||'''3''' ||[[Jean Thissen]]|| {{yel|29}}
+|-
+|MF ||'''7''' ||[[Léon Semmeling]]
+|-
+|MF ||'''8''' ||[[Wilfried Van Moer]]
+|-
+|MF ||'''5''' ||[[Léon Jeck]]
+|-
+|MF ||'''10'''||[[Paul Van Himst]] ([[Captain (association football)|c]])|| {{yel|15}}
+|-
+|FW ||'''16'''||[[Odilon Polleunis]]|| {{yel|62}}|| {{suboff|65}}
+|-
+|FW ||'''11'''||[[Wilfried Puis]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Johan Devrindt]] || ||{{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Raymond Goethals]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Henry Landauer]] ([[United States Soccer Federation|United States]])
+<br />[[Rafael Hormazábal Díaz]] ([[Chilean Football Federation|Chile]])
+|}
+
+==See also==
+*[[Belgium at the FIFA World Cup]]
+*[[El Salvador at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Soviet Union at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1970 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 1}}
+[[Category:1970 FIFA World Cup group stage|1]]
+[[Category:Soviet Union at the 1970 FIFA World Cup]]
+[[Category:Mexico at the 1970 FIFA World Cup]]
+[[Category:Belgium at the 1970 FIFA World Cup]]
+[[Category:El Salvador at the 1970 FIFA World Cup|Group]]
+[[Category:Football competitions in Mexico City]]
+[[Category:1970s in Mexico City]]

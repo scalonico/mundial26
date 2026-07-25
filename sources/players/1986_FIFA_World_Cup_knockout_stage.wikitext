@@ -1,0 +1,2523 @@
+{{Short description|1986 Tournament knockout stage}}
+{{Use dmy dates|date=June 2018}}
+The '''1986 FIFA World Cup knockout stage''' was the second and final stage of the [[1986 FIFA World Cup]] finals in [[Mexico]]. The stage began on 15 June 1986, and ended with the [[1986 FIFA World Cup final|final]] at the [[Estadio Azteca]] in [[Mexico City]] on 29 June 1986.<ref>{{cite web |url=https://www.rsssf.org/tables/86full.html |title=World Cup 1986 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+Sixteen teams advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament: The top two teams from each of the six groups, as well as the [[1986 FIFA World Cup#Ranking of third-placed teams|best four third-placed teams]]. In the round of 16, the four third-placed teams played against four of the group winners from group A-D, with the remaining two group winners from group E and F taking on two of the group runners-up; the remaining four runners-up were paired off against each other. The winners of the eight round of 16 matches were then paired together in the quarter-finals, the winners of which played against each other in the semi-finals.
+
+The ties in each round were played over a single match; in the event that scores were level after 90 minutes, the teams would play an additional 30 minutes of [[Overtime (sports)#Association football|extra time]], divided into two 15-minute halves, to determine the winner. If the scores remained level after extra time, the teams would contest a [[penalty shoot-out (association football)|penalty shoot-out]].
+
+A [[#Match for third place|match for third place]] was also held on the day before the final, between the two losing teams of the semi-finals.
+
+==Qualified teams==
+The top two placed teams from each of the six groups, plus the four best-placed third teams, qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+! width="150" | {{nowrap|Third-placed teams<br/>([[1986 FIFA World Cup#Ranking of third-placed teams|best four]] qualify)}}
+|-
+! [[1986 FIFA World Cup Group A|A]]
+| {{fb|ARG|1861}}
+| {{fb|ITA|1946}}
+| {{fb|BUL|1971}}
+|-
+! [[1986 FIFA World Cup Group B|B]]
+| {{fb|MEX}}
+| {{fb|PAR|1954}}
+| {{fb|BEL}}
+|-
+! [[1986 FIFA World Cup Group C|C]]
+| {{fb|URS|1955}}
+| {{fb|FRA|1974}}
+| {{N/a}}
+|-
+! [[1986 FIFA World Cup Group D|D]]
+| {{fb|BRA|1968}}
+| {{fb|ESP}}
+| {{N/a}}
+|-
+! [[1986 FIFA World Cup Group E|E]]
+| {{fb|DEN}}
+| {{fb|FRG}}
+| {{fb|URU}}
+|-
+! [[1986 FIFA World Cup Group F|F]]
+| {{fb|MAR}}
+| {{fb|ENG}}
+| {{fb|POL}}
+|}
+
+Based on group results, the matches would be the following in Round of 16:
+{| class="wikitable" style="text-align:center; font-size:95%" 
+|-
+!Round of 16 !! Teams per qualified<br> group positions!! Teams identified
+|-
+|'''Match 1:''' || A1 &ndash; C3/D3/''E3'' || Argentina &ndash; Uruguay 
+|-
+|'''Match 2:''' || B2 &ndash; F2 || Paraguay &ndash; England
+|-
+|'''Match 3:''' || E1 &ndash; D2 || Denmark &ndash; Spain
+|-
+|'''Match 4:''' || C1 &ndash; A3/''B3''/F3 || USSR &ndash; Belgium
+|-
+|'''Match 5:''' || D1 &ndash; B3/E3/''F3'' || Brazil &ndash; Poland
+|-
+|'''Match 6:''' || A2 &ndash; C2 || Italy &ndash; France
+|-
+|'''Match 7:''' || F1 &ndash; E2 || Morocco &ndash; West Germany
+|-
+|'''Match 8:''' || B1 &ndash; ''A3''/C3/D3 || Mexico &ndash; Bulgaria
+|-
+|}
+
+The pairings for matches 1, 4, 5, and 8 depend on who the best third places are that qualify for the round of 16. The following table published in Section 28 of the tournament regulations, shows the 15 different options to define the rivals of the winners of groups A, B, C and D.
+
+{{legend|#ccffcc|Combination used according to the four qualified teams}}
+
+{| class="wikitable" width="520" style="text-align:center; font-size:95%" 
+|-
+! Third teams qualify from groups: !! Argentina (A1) plays vs.: !! Mexico (B1) plays vs.: !! USSR (C1) plays vs.: !! Brazil (D1) plays vs.:
+|-
+| A B C D || C3 || D3 || A3 || B3
+|-
+| A B C E || C3 || A3 || B3 || E3
+|-
+| A B C F || C3 || A3 || B3 || F3
+|-
+| A B D E || D3 || A3 || B3 || E3
+|-
+| A B D F || D3 || A3 || B3 || F3
+|-bgcolor=#ccffcc
+| A B E F || E3 || A3 || B3 || F3
+|-
+| A C D E || C3 || D3 || A3 || E3
+|-
+| A C D F || C3 || D3 || A3 || F3
+|-
+| A C E F || C3 || A3 || F3 || E3
+|-
+| A D E F || D3 || A3 || F3 || E3
+|-
+| B C D E || C3 || D3 || B3 || E3
+|-
+| B C D F || C3 || D3 || B3 || F3
+|-
+| B C E F || E3 || C3 || B3 || F3
+|-
+| B D E F || E3 || D3 || B3 || F3
+|-
+| C D E F || C3 || D3 || F3 || E3
+|}
+
+==Bracket==
+<section begin=Bracket />
+{{Round16|style=white-space:nowrap
+<!--Date–Place/Team 1/Score 1/Team 2/Score 2 -->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- round of 16 -->
+|16 June – [[Puebla]]|'''{{fb|ARG|1861}}'''|'''1'''|{{fb|URU}}|0
+|18 June – [[Mexico City]] ([[Estadio Azteca|Azteca]])|'''{{fb|ENG}}'''|'''3'''|{{fb|PAR|1954}}|0
+|18 June – [[Santiago de Querétaro|Querétaro]]|{{fb|DEN}}|1|'''{{fb|ESP}}'''|'''5'''
+|15 June – [[León, Mexico|León]]|{{fb|URS|1955}}|3|'''{{fb|BEL}}''' {{aet}}|'''4'''
+|16 June – [[Guadalajara]]|'''{{fb|BRA|1968}}'''|'''4'''|{{fb|POL}}|0
+|17 June – [[Mexico City]] ([[Estadio Olimpico Universitario|Olímpico]])|{{fb|ITA|1946}}|0|'''{{fb|FRA|1974}}'''|'''2'''
+|{{nowrap|17 June – [[San Nicolás de los Garza]]}}|{{fb|MAR}}|0|'''{{fb|FRG}}'''|'''1'''
+|15 June – [[Mexico City]] ([[Estadio Azteca|Azteca]])|'''{{fb|MEX}}'''|'''2'''|{{fb|BUL|1971}}|0
+<!-- quarter-finals -->
+|22 June – [[Mexico City]] ([[Estadio Azteca|Azteca]])|'''{{fb|ARG|1861}}'''|'''2'''|{{fb|ENG}}|1
+|22 June – [[Puebla]]|{{fb|ESP}}|1 (4)|'''{{fb|BEL}}''' {{pso}}|'''1 (5)'''
+|21 June – [[Guadalajara]]|{{fb|BRA|1968}}|1 (3)|'''{{fb|FRA|1974}}''' {{pso}}|'''1 (4)'''
+|{{nowrap|21 June – [[San Nicolás de los Garza]]}}|'''{{fb|FRG}}''' {{pso}}|'''0 (4)'''|{{fb|MEX}}|0 (1)
+<!-- semi-finals -->
+|25 June – [[Mexico City]] ([[Estadio Azteca|Azteca]])|'''{{fb|ARG|1861}}'''|'''2'''|{{fb|BEL}}|0
+|25 June – [[Guadalajara]]|{{fb|FRA|1974}}|0|'''{{fb|FRG}}'''|'''2'''
+<!-- final -->
+|29 June – [[Mexico City]] ([[Estadio Azteca|Azteca]])|'''{{fb|ARG|1861}}'''|'''3'''|{{fb|FRG}}|2
+<!-- third place -->
+|28 June – [[Puebla]]|{{fb|BEL}}|2|'''{{fb|FRA|1974}}''' {{aet}}|'''4'''
+}}<section end=Bracket />
+
+==Round of 16==
+
+===Mexico vs Bulgaria===
+<section begin="R16-1" />{{Football box
+|date={{Start date|1986|6|15|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|MEX}}
+|score={{score link|1986 FIFA World Cup knockout stage#Mexico vs Bulgaria|2–0}}
+|team2={{fb|BUL|1971}}
+|goals1=
+*[[Manuel Negrete Arias|Negrete]] {{goal|34}}
+*[[Raúl Servín|Servín]] {{goal|61}}
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=114,580
+|referee=[[Romualdo Arppi Filho]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/463 |title=Mexico vs Bulgaria {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=463/index.html |title=1986 FIFA World Cup Mexico – Matches – Mexico v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214180459/http://www.fifa.com/worldcup/matches/round=309/match=463/index.html |archive-date=14 December 2017}} }}</ref>
+}}<section end="R16-1" />
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _mex86a 
+|pattern_b = _mex86a 
+|pattern_ra = _mex86a 
+|pattern_sh = _mex86h 
+|pattern_so = _mex86a 
+|leftarm = FFFFFF 
+|body = FFFFFF 
+|rightarm = FFFFFF 
+|shorts = FFFFFF 
+|socks = FFFFFF
+ | title      = Mexico
+}}
+|{{Football kit
+| pattern_la            = _bul86a
+| pattern_b             = _bul86a
+| pattern_ra            = _bul86a
+| pattern_sh            = _bul86h
+| pattern_so            = _3_stripes_white
+| leftarm               = E61414
+| body                  = E61414
+| rightarm              = E61414
+| shorts                = FF0000
+| socks                 = E61414
+| title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Pablo Larios]]
+|-
+|RB ||'''18'''||[[Rafael Amador]]
+|-
+|CB ||'''14'''||[[Félix Cruz]]
+|-
+|CB ||'''3''' ||[[Fernando Quirarte]]
+|-
+|LB ||'''17'''||[[Raúl Servín]]
+|-
+|RM ||'''7''' ||[[Miguel España]]
+|-
+|DM ||'''16'''||[[Carlos Muñoz (Mexican footballer)|Carlos Muñoz]]
+|-
+|CM ||'''10'''||[[Tomás Boy]] ([[Captain (association football)|c]]) || || {{suboff|79}}
+|-
+|LM ||'''13'''||[[Javier Aguirre]]
+|-
+|AM ||'''22'''||[[Manuel Negrete Arias|Manuel Negrete]]
+|-
+|CF ||'''9''' ||[[Hugo Sánchez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''20'''
+|[[Olaf Heredia]]
+|
+|
+|-
+|MF
+|'''8'''
+|[[Alejandro Domínguez (Mexican footballer)|Alejandro Domínguez]]
+|
+|
+|-
+|MF ||'''6''' ||[[Carlos de los Cobos]] || || {{subon|79}}
+|-
+|FW
+|'''5'''
+|[[Francisco Javier Cruz]]
+|
+|
+|-
+|FW
+|'''11'''
+|[[Carlos Hermosillo]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|{{flagicon|YUG}} [[Bora Milutinović]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]]
+|-
+|RB ||'''12'''||[[Radoslav Zdravkov]]
+|-
+|CB ||'''3''' ||[[Nikolay Arabov]] || {{yel|58}}
+|-
+|CB ||'''5''' ||[[Georgi Dimitrov (footballer, born 1959)|Georgi Dimitrov]] ([[Captain (association football)|c]])
+|-
+|LB ||'''4''' ||[[Petar Petrov (footballer, born 1961)|Petar Petrov]]
+|-
+|RM ||'''11'''||[[Plamen Getov]] || || {{suboff|59}}
+|-
+|DM ||'''15'''||[[Georgi Yordanov]]
+|-
+|CM ||'''8''' ||[[Ayan Sadakov]]
+|-
+|LM ||'''19'''||[[Atanas Pashev]] || || {{suboff|70}}
+|-
+|AM ||'''10'''||[[Zhivko Gospodinov]]
+|-
+|CF ||'''20'''||[[Kostadin Kostadinov (footballer)|Kostadin Kostadinov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Iliya Valov]]
+|
+|
+|-
+|MF ||'''2''' ||[[Nasko Sirakov]] || || {{subon|59}}
+|-
+|MF
+|'''14'''
+|[[Plamen Markov]]
+|
+|
+|-
+|FW
+|'''16'''
+|[[Vasil Dragolov]]
+|
+|
+|-
+|FW ||'''7''' ||[[Bozhidar Iskrenov]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ivan Vutsov]]
+|}
+|}
+
+===Soviet Union vs Belgium===
+<section begin="R16-2" />{{Football box
+|date={{Start date|1986|6|15|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1986 FIFA World Cup knockout stage#Soviet Union vs Belgium|3–4}}
+|aet=yes
+|team2={{fb|BEL}}
+|goals1=
+*[[Igor Belanov|Belanov]] {{goal|27||70||111|pen.}}
+|goals2=
+*[[Enzo Scifo|Scifo]] {{goal|56}}
+*[[Jan Ceulemans|Ceulemans]] {{goal|77}}
+*[[Stéphane Demol|Demol]] {{goal|102}}
+*[[Nico Claesen|Claesen]] {{goal|110}}
+|stadium=[[Estadio Nou Camp]], [[León, Guanajuato|León]]
+|attendance=32,277
+|referee=[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/432 |title=Soviet Union vs Belgium {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=432/index.html |title=1986 FIFA World Cup Mexico – Matches – Soviet Union v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220071756/http://www.fifa.com/worldcup/matches/round=309/match=432/index.html |archive-date=20 December 2017}} }}</ref>
+}}<section end="R16-2" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _ussr86a
+| pattern_b             = _ussr86a
+| pattern_ra            = _ussr86a
+| pattern_sh            = _ussr86h
+| pattern_so            = _ussr86a
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+| title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = _bel86h
+ | pattern_b  = _bel86h
+ | pattern_ra = _bel86h
+ | pattern_sh = _belgium1986h
+ | pattern_so = _bel86h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rinat Dasayev]]
+|-
+|DF ||'''2''' ||[[Volodymyr Bezsonov]]
+|-
+|DF ||'''5''' ||[[Anatoliy Demyanenko]] ([[Captain (association football)|c]])
+|-
+|DF ||'''10'''||[[Oleh Kuznetsov]]
+|-
+|DF ||'''21'''||[[Vasiliy Rats]]
+|-
+|MF ||'''12'''||[[Andriy Bal]]
+|-
+|MF ||'''7''' ||[[Ivan Yaremchuk]]
+|-
+|MF ||'''8''' ||[[Pavel Yakovenko]] || || {{suboff|79}}
+|-
+|MF ||'''9''' ||[[Aleksandr Zavarov]] || || {{suboff|72}}
+|-
+|MF ||'''20'''||[[Sergei Aleinikov]]
+|-
+|FW ||'''19'''||[[Ihor Belanov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''16'''
+|[[Viktor Chanov]]
+|
+|
+|-
+|DF
+|'''3'''
+|[[Aleksandre Chivadze|Aleksandr Chivadze]]
+|
+|
+|-
+|FW ||'''14'''||[[Sergey Rodionov]] || || {{subon|72}}
+|-
+|FW
+|'''11'''
+|[[Oleg Blokhin|Oleh Blokhin]]
+|
+|
+|-
+|MF ||'''17'''||[[Vadym Yevtushenko]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Valeri Lobanovsky]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jean-Marie Pfaff]]
+|-
+|DF ||'''2''' ||[[Eric Gerets]] || || {{suboff|112}}
+|-
+|DF ||'''5''' ||[[Michel Renquin]] || {{yel|65}}
+|-
+|DF ||'''13'''||[[Georges Grün]] || || {{suboff|99}}
+|-
+|DF ||'''22'''||[[Patrick Vervoort]]
+|-
+|MF ||'''21'''||[[Stéphane Demol]]
+|-
+|MF ||'''6''' ||[[Franky Vercauteren]]
+|-
+|MF ||'''8''' ||[[Enzo Scifo]]
+|-
+|MF ||'''11'''||[[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Daniel Veyt]]
+|-
+|FW ||'''16'''||[[Nico Claesen]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jacky Munaron]]
+|
+|
+|-
+|DF ||'''14'''||[[Lei Clijsters]] || || {{subon|99}}
+|-
+|DF ||'''15'''||[[Leo Van Der Elst]] || || {{subon|112}}
+|-
+|DF
+|'''19'''
+|[[Hugo Broos]]
+|
+|
+|-
+|MF
+|'''3'''
+|[[Franky Van der Elst|Franky Van Der Elst]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Guy Thys]]
+|}
+|}
+
+===Brazil vs Poland===
+<section begin="R16-3" />{{Football box
+|date={{Start date|1986|6|16|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1986 FIFA World Cup knockout stage#Brazil vs Poland|4–0}}
+|team2={{fb|POL}}
+|goals1=
+*[[Sócrates]] {{goal|30|pen.}}
+*[[Josimar (footballer, born 1961)|Josimar]] {{goal|55}}
+*[[Edino Nazareth Filho|Edinho]] {{goal|79}}
+*[[Careca]] {{goal|83|pen.}}
+|goals2=
+|stadium=[[Estadio Jalisco]], [[Guadalajara, Jalisco|Guadalajara]]
+|attendance=45,000
+|referee=[[Volker Roth]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/444 |title=Brazil vs Poland {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=444/index.html |title=1986 FIFA World Cup Mexico – Matches – Brazil v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228210751/http://www.fifa.com/worldcup/matches/round=309/match=444/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="R16-3" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra86h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0047AB
+ | socks      = ffffff
+ | title      = Brazil
+}}
+|{{Football kit
+| pattern_la            = _ussr86h
+| pattern_b             = _pol86a1
+| pattern_ra            = _ussr86h
+| pattern_sh            = _por86a1
+| pattern_so            = _pol86a1
+| leftarm               = F20000
+| body                  = F20000
+| rightarm              = F20000
+| shorts                = FFFFFF
+| socks                 = F20000
+| title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Carlos Roberto Gallo|Carlos]]
+|-
+|RB ||'''13'''||[[Josimar (footballer, born 1961)|Josimar]]
+|-
+|CB ||'''4''' ||[[Edinho (footballer, born 1955)|Edinho]] ([[Captain (association football)|c]]) || {{yel|83}}
+|-
+|CB ||'''14'''||[[Júlio César da Silva|Júlio César]]
+|-
+|LB ||'''17'''||[[Branco (footballer)|Branco]]
+|-
+|DM ||'''15'''||[[Alemão (footballer, born 1961)|Alemão]]
+|-
+|DM ||'''19'''||[[Elzo Coelho|Elzo]]
+|-
+|AM ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]]
+|-
+|AM ||'''18'''||[[Sócrates]] || || {{suboff|69}}
+|-
+|SS ||'''7''' ||[[Müller (footballer, born 1966)|Müller]] || || {{suboff|73}}
+|-
+|CF ||'''9''' ||[[Careca]] || {{yel|36}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Paulo Vítor (footballer, born 1957)|Paulo Vítor]]
+|
+|
+|-
+|CB
+|'''3'''
+|[[Oscar (footballer, born 1954)|Oscar]]
+|
+|
+|-
+|AM ||'''10'''||[[Zico (footballer)|Zico]] || || {{subon|69}}
+|-
+|AM ||'''20'''||[[Paulo Silas|Silas]] || || {{subon|73}}
+|-
+|CF
+|'''8'''
+|[[Walter Casagrande|Casagrande]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Telê Santana]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Józef Młynarczyk]]
+|-
+|RB ||'''2''' ||[[Kazimierz Przybyś]] || || {{suboff|59}}
+|-
+|CB ||'''5''' ||[[Roman Wójcicki]]
+|-
+|CB ||'''10'''||[[Stefan Majewski]]
+|-
+|LB ||'''4''' ||[[Marek Ostrowski]]
+|-
+|CM ||'''7''' ||[[Ryszard Tarasiewicz]]
+|-
+|RW ||'''9''' ||[[Jan Karaś]]
+|-
+|AM ||'''11'''||[[Włodzimierz Smolarek]] || {{yel|32}}
+|-
+|LW ||'''20'''||[[Zbigniew Boniek]] ([[Captain (association football)|c]]) || {{yel|30}}
+|-
+|CF ||'''21'''||[[Dariusz Dziekanowski]] || {{yel|13}}
+|-
+|CF ||'''8''' ||[[Jan Urban]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jacek Kazimierski]]
+|
+|
+|-
+|MF
+|'''6'''
+|[[Waldemar Matysik]]
+|
+|
+|-
+|FW ||'''22'''||[[Jan Furtok]] || || {{subon|59}}
+|-
+|MF
+|'''16'''
+|[[Andrzej Pałasz]]
+|
+|
+|-
+|DF ||'''3''' ||[[Władysław Żmuda (born 1954)|Władysław Żmuda]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Antoni Piechniczek]]
+|}
+|}
+
+===Argentina vs Uruguay===
+{{see also|Argentina–Uruguay football rivalry}}
+<section begin="R16-4" />{{Football box
+|date={{Start date|1986|6|16|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1986 FIFA World Cup knockout stage#Argentina vs Uruguay|1–0}}
+|team2={{fb|URU}}
+|goals1=
+*[[Pedro Pasculli|Pasculli]] {{goal|42}}
+|goals2=
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=26,000
+|referee=[[Luigi Agnolin]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/398 |title=Argentina vs Uruguay {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=398/index.html |title=1986 FIFA World Cup Mexico – Matches – Argentina v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220142647/http://www.fifa.com/worldcup/matches/round=309/match=398/index.html |archive-date=20 December 2017}} }}</ref>
+}}<section end="R16-4" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _whiteborder
+| pattern_b  = _vneckwhite
+| pattern_ra = _whiteborder
+| pattern_sh = _argentina1986
+| pattern_so = _argentina1986
+| leftarm    = 4169E1
+| body       = 4169E1
+| rightarm   = 4169E1
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _uruguay1986a
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _uru86a
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Nery Pumpido]] || {{yel|83}}
+|-
+|SW ||'''5''' ||[[José Luis Brown]] || {{yel|49}}
+|-
+|CB ||'''19'''||[[Oscar Ruggeri]]
+|-
+|CB ||'''9''' ||[[José Luis Cuciuffo]]
+|-
+|DM ||'''14'''||[[Ricardo Giusti]]
+|-
+|DM ||'''2''' ||[[Sergio Batista]] || || {{suboff|85}}
+|-
+|AM ||'''7''' ||[[Jorge Burruchaga]]
+|-
+|LWB ||'''13'''||[[Oscar Garré]] || {{yel|30}}
+|-
+|SS ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|CF ||'''17'''||[[Pedro Pasculli]]
+|-
+|CF ||'''11'''||[[Jorge Valdano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''15'''
+|[[Luis Islas]]
+|
+|
+|-
+|DF
+|'''8'''
+|[[Néstor Clausen]]
+|
+|
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]] || || {{subon|85}}
+|-
+|MF
+|'''12'''
+|[[Héctor Enrique]]
+|
+|
+|-
+|FW
+|'''1'''
+|[[Sergio Omar Almirón|Sergio Almirón]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Carlos Bilardo]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Fernando Álvez]]
+|-
+|DF ||'''2''' ||[[Nelson Gutiérrez]]
+|-
+|DF ||'''3''' ||[[Eduardo Mario Acevedo]] || {{yel|58}} || {{suboff|61}}
+|-
+|DF ||'''14'''||[[Darío Pereyra]]
+|-
+|DF ||'''15'''||[[Eliseo Rivero]]
+|-
+|MF ||'''5''' ||[[Miguel Bossio]]
+|-
+|MF ||'''8''' ||[[Jorge Barrios (footballer)|Jorge Barrios]] ([[Captain (association football)|c]])
+|-
+|MF ||'''11'''||[[Sergio Santín]] || {{yel|68}}
+|-
+|MF ||'''10'''||[[Enzo Francescoli]] || {{yel|35}}
+|-
+|FW ||'''21'''||[[Wilmar Cabrera]] || || {{suboff|46}}
+|-
+|FW ||'''19'''||[[Venancio Ramos]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|1
+|[[Rodolfo Rodríguez (Uruguayan footballer)|Rodolfo Rodríguez]]
+|
+|
+|-
+|MF
+|16
+|[[Mario Saralegui]]
+|
+|
+|-
+|FW
+|7
+|[[Antonio Alzamendi]]
+|
+|
+|-
+|FW ||'''9''' ||[[Jorge Orosmán da Silva|Jorge da Silva]] || {{yel|85}} || {{subon|46}}
+|-
+|MF ||'''18'''||[[Rubén Paz]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Omar Borrás]]
+|}
+|}
+
+===Italy vs France===
+{{see also|France–Italy football rivalry}}
+<section begin="R16-5" />{{Football box
+|date={{Start date|1986|6|17|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1986 FIFA World Cup knockout stage#Italy vs France|0–2}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Michel Platini|Platini]] {{goal|15}}
+*[[Yannick Stopyra|Stopyra]] {{goal|57}}
+|stadium=[[Estadio Olímpico Universitario]], [[Mexico City]]
+|attendance=70,000
+|referee=[[Carlos Espósito]] ([[Asociación del Fútbol Argentino|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/568 |title=Italy vs France {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=568/index.html |title=1986 FIFA World Cup Mexico – Matches – Italy v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201042750/http://www.fifa.com/worldcup/matches/round=309/match=568/index.html |archive-date=1 December 2017}} }}</ref>
+}}<section end="R16-5" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italy1982-90
+ | pattern_b  = _ita90
+ | pattern_ra = _italy1982-90
+ | pattern_sh = 
+ | pattern_so = _italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = ffffff
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+| pattern_la            = _fra86a
+| pattern_b             = _fra86a
+| pattern_ra            = _fra86a
+| pattern_sh            = _fra86a
+| pattern_so            = _fra86a
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = 0030BF
+| socks                 = FFFFFF 
+| title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Giovanni Galli]]
+|-
+|DF ||'''2''' ||[[Giuseppe Bergomi]]
+|-
+|DF ||'''3''' ||[[Antonio Cabrini]]
+|-
+|DF ||'''6''' ||[[Gaetano Scirea]] ([[Captain (association football)|c]]) 
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]]
+|-
+|MF ||'''11'''||[[Giuseppe Baresi]] || || {{suboff|46}}
+|-
+|MF ||'''10'''||[[Salvatore Bagni]]
+|-
+|MF ||'''13'''||[[Fernando De Napoli]] || {{yel|16}}
+|-
+|MF ||'''16'''||[[Bruno Conti]]
+|-
+|FW ||'''19'''||[[Giuseppe Galderisi]] || || {{suboff|58}}
+|-
+|FW ||'''18'''||[[Alessandro Altobelli]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Franco Tancredi]]
+|
+|
+|-
+|DF
+|'''5'''
+|[[Sebastiano Nela]]
+|
+|
+|-
+|MF ||'''14'''||[[Antonio Di Gennaro]] || {{yel|67}} || {{subon|46}}
+|-
+|MF
+|'''15'''
+|[[Marco Tardelli]]
+|
+|
+|-
+|FW ||'''17'''||[[Gianluca Vialli]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Enzo Bearzot]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Joël Bats]]
+|-
+|RB ||'''3''' ||[[William Ayache]] || {{yel|40}}
+|-
+|CB ||'''6''' ||[[Maxime Bossis]]
+|-
+|CB ||'''4''' ||[[Patrick Battiston]]
+|-
+|LB ||'''2''' ||[[Manuel Amoros]]
+|-
+|DM ||'''9''' ||[[Luis Fernández]] || || {{suboff|73}}
+|-
+|CM ||'''12'''||[[Alain Giresse]]
+|-
+|CM ||'''14'''||[[Jean Tigana]]
+|-
+|AM ||'''10'''||[[Michel Platini]] ([[Captain (association football)|c]]) || || {{suboff|85}}
+|-
+|FW ||'''18'''||[[Dominique Rocheteau]]
+|-
+|FW ||'''19'''||[[Yannick Stopyra]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Albert Rust (footballer)|Albert Rust]]
+|
+|
+|-
+|DF
+|'''7'''
+|[[Yvon Le Roux]]
+|
+|
+|-
+|MF ||'''8''' ||[[Thierry Tusseau]] || || {{subon|73}}
+|-
+|MF ||'''11'''||[[Jean-Marc Ferreri]] || || {{subon|85}}
+|-
+|FW
+|'''16'''
+|[[Bruno Bellone]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Henri Michel]]
+|}
+|}
+
+===Morocco vs West Germany===
+<section begin="R16-6" />{{Football box
+|date={{Start date|1986|6|17|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|MAR}}
+|score={{score link|1986 FIFA World Cup knockout stage#Morocco vs West Germany|0–1}}
+|team2={{fb|FRG}}
+|goals1=
+|goals2=
+*[[Lothar Matthäus|Matthäus]] {{goal|88}}
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=19,800
+|referee=[[Zoran Petrović (referee)|Zoran Petrović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/574 |title=Morocco vs Germany FR {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=574/index.html |title=1986 FIFA World Cup Mexico – Matches – Morocco v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214172007/http://www.fifa.com/worldcup/matches/round=309/match=574/index.html |archive-date=14 December 2017}} }}</ref>
+}}<section end="R16-6" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _mar86h
+| pattern_b             = _mar86h
+| pattern_ra            = _mar86h
+| pattern_sh            = _mar86h
+| pattern_so            = _mar86h
+| leftarm               = F20000
+| body                  = F20000
+| rightarm              = F20000
+| shorts                = F20000
+| socks                 = F20000
+| title      = Morocco
+}}
+|{{Football kit
+ | pattern_la = _westgermany1986h
+ | pattern_b  = _westgermany1986h
+ | pattern_ra = _westgermany1986h
+ | pattern_sh = _ger90h
+ | pattern_so =_color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Badou Zaki]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Labid Khalifa]] || {{yel|65}}
+|-
+|DF ||'''3''' ||[[Abdelmajid Lamriss]] || {{yel|29}}
+|-
+|DF ||'''5''' ||[[Noureddine Bouyahyaoui]]
+|-
+|DF ||'''14'''||[[Lahcen Ouadani]]
+|-
+|MF ||'''6''' ||[[Abdelmajid Dolmy]]
+|-
+|MF ||'''7''' ||[[Mustafa El Haddaoui]]
+|-
+|MF ||'''8''' ||[[Aziz Bouderbala]]
+|-
+|MF ||'''10'''||[[Mohammed Timoumi]]
+|-
+|FW ||'''9''' ||[[Abdelkrim Merry]]
+|-
+|FW ||'''17'''||[[Abderrazak Khairi]]
+|-
+|'''Substitutions:'''
+|
+|
+|-
+|GK
+|'''12'''
+|[[Salahdine Hmied]]
+|-
+|MF
+|'''16'''
+|[[Azzedine Amanallah]]
+|-
+|MF
+|'''19'''
+|[[Fadel Jilal]]
+|-
+|MF
+|'''21'''
+|[[Abdelaziz Souleimani]]
+|-
+|FW
+|'''11'''
+|[[Mustafa Merry]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA|1968}} [[José Faria]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Harald Schumacher]]
+|-
+|SW ||'''17'''||[[Ditmar Jakobs]]
+|-
+|CB ||'''4''' ||[[Karlheinz Förster]]
+|-
+|CB ||'''6''' ||[[Norbert Eder]]
+|-
+|RWB ||'''14'''||[[Thomas Berthold]]
+|-
+|CM ||'''10'''||[[Felix Magath]]
+|-
+|CM ||'''8''' ||[[Lothar Matthäus]]
+|-
+|AM ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]])
+|-
+|LWB ||'''2''' ||[[Hans-Peter Briegel]]
+|-
+|CF ||'''19'''||[[Klaus Allofs]]
+|-
+|CF ||'''9''' ||[[Rudi Völler]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Eike Immel]]
+|
+|
+|-
+|DF
+|'''3'''
+|[[Andreas Brehme]]
+|
+|
+|-
+|DF
+|'''5'''
+|[[Matthias Herget]]
+|
+|
+|-
+|MF ||'''7''' ||[[Pierre Littbarski]] || || {{subon|46}}
+|-
+|FW
+|'''20'''
+|[[Dieter Hoeneß]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Franz Beckenbauer]]
+|}
+|}
+
+===England vs Paraguay===
+<section begin="R16-7" />{{Football box
+|date={{Start date|1986|6|18|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1986 FIFA World Cup knockout stage#England vs Paraguay|3–0}}
+|team2={{fb|PAR|1954}}
+|goals1=
+*[[Gary Lineker|Lineker]] {{goal|31||73}}
+*[[Peter Beardsley|Beardsley]] {{goal|56}}
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=98,728
+|referee=[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/536 |title=England vs Paraguay {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=536/index.html |title=1986 FIFA World Cup Mexico – Matches – England v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211093338/http://www.fifa.com/worldcup/matches/round=309/match=536/index.html |archive-date=11 December 2017}} }}</ref>
+}}<section end="R16-7" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _eng86h
+ | pattern_b  = _eng86H
+ | pattern_ra = _eng86h
+ | pattern_sh = _eng86h
+ | pattern_so = _eng86hl
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 
+ | socks      = ffffff
+ | title      = England
+}}
+|{{Football kit
+ | pattern_la = _paraguay86
+ | pattern_b  = _paraguay86
+ | pattern_ra = _paraguay86
+ | pattern_sh = _adidas_red
+ | pattern_so = 
+ | leftarm    = DD0000
+ | body       = DD0000
+ | rightarm   = DD0000
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Shilton]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|CB ||'''5''' ||[[Alvin Martin]] || {{yel|37}}
+|-
+|CB ||'''6''' ||[[Terry Butcher]]
+|-
+|LB ||'''3''' ||[[Kenny Sansom]]
+|-
+|RM ||'''17'''||[[Trevor Steven]]
+|-
+|CM ||'''16'''||[[Peter Reid]] || || {{suboff|58}}
+|-
+|CM ||'''4''' ||[[Glenn Hoddle]]
+|-
+|LM ||'''18'''||[[Steve Hodge]] || {{yel|67}}
+|-
+|SS ||'''20'''||[[Peter Beardsley]] || || {{suboff|80}}
+|-
+|CF ||'''10'''||[[Gary Lineker]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''13'''
+|[[Chris Woods]]
+|
+|
+|-
+|DF ||'''15'''||[[Gary Stevens (footballer, born 1962)|Gary A. Stevens]] || || {{subon|58}}
+|-
+|DF
+|'''12'''
+|[[Viv Anderson]]
+|
+|
+|-
+|FW ||'''9''' ||[[Mark Hateley]] || || {{subon|80}}
+|-
+|FW
+|'''19'''
+|[[John Barnes (footballer)|John Barnes]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Bobby Robson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Roberto Fernández (footballer, born 1954)|Roberto Fernández]]
+|-
+|DF ||'''2''' ||[[Juan Torales]] || || {{suboff|64}}
+|-
+|DF ||'''3''' ||[[César Zabala]]
+|-
+|DF ||'''4''' ||[[Vladimiro Schettina]]
+|-
+|DF ||'''5''' ||[[Rogelio Delgado]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6''' ||[[Jorge Amado Nunes]] || {{yel|60}}
+|-
+|MF ||'''10'''||[[Adolfino Cañete]]
+|-
+|MF ||'''8''' ||[[Julio César Romero]]
+|-
+|FW ||'''7''' ||[[Buenaventura Ferreira]]
+|-
+|FW ||'''11'''||[[Alfredo Mendoza]]
+|-
+|FW ||'''9''' ||[[Roberto Cabañas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jorge Battaglia]]
+|
+|
+|-
+|DF
+|'''13'''
+|[[Virginio Cáceres]]
+|
+|
+|-
+|DF
+|'''14'''
+|[[Luis Caballero (footballer)|Luis Caballero]]
+|
+|
+|-
+|MF ||'''16'''||[[Jorge Guasch]] || || {{subon|64}}
+|-
+|FW
+|'''20'''
+|[[Ramón Hicks]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Cayetano Ré]]
+|}
+|}
+
+===Denmark vs Spain===
+<section begin="R16-8" />{{Football box
+|date={{Start date|1986|6|18|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|DEN}}
+|score={{score link|1986 FIFA World Cup knockout stage#Denmark vs Spain|1–5}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Jesper Olsen|J. Olsen]] {{goal|33|pen.}}
+|goals2=
+*[[Emilio Butragueño|Butragueño]] {{goal|43||56||80||88|pen.}}
+*[[Andoni Goikoetxea Olaskoaga|Goikoetxea]] {{goal|68|pen.}}
+|stadium=[[Estadio La Corregidora]], [[Santiago de Querétaro|Querétaro]]
+|attendance=38,500
+|referee=[[Jan Keizer (referee)|Jan Keizer]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/309/511 |title=Denmark vs Spain {{!}} Round of 16 {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=309/match=511/index.html |title=1986 FIFA World Cup Mexico – Matches – Denmark v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228013341/http://www.fifa.com/worldcup/matches/round=309/match=511/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="R16-8" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la  = _den86a
+| pattern_b   = _den86a
+| pattern_ra  = _den86h
+| pattern_sh  = _den86h
+| pattern_so = _denmark_1986
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = ffffff
+| socks      = FFFFFF
+| title      = Denmark
+}}
+|{{Football kit
+ | pattern_la = _esp8690h
+ | pattern_b  = _esp86
+ | pattern_ra = _esp8690h
+ | pattern_sh = _spain86
+ | pattern_so = _esp1986
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000CD
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Lars Høgh]]
+|-
+|SW ||'''4''' ||[[Morten Olsen]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[Søren Busk]]
+|-
+|DF ||'''5''' ||[[Ivan Nielsen]]
+|-
+|RWB ||'''9''' ||[[Klaus Berggreen]]
+|-
+|DM ||'''12'''||[[Jens Jørn Bertelsen]]
+|-
+|CM ||'''8''' ||[[Jesper Olsen]] || || {{suboff|71}}
+|-
+|CM ||'''6''' ||[[Søren Lerby]]
+|-
+|LWB ||'''21'''||[[Henrik Andersen]] || {{yel|26}} || {{suboff|60}}
+|-
+|FW ||'''11'''||[[Michael Laudrup]]
+|-
+|FW ||'''10'''||[[Preben Elkjær]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''16'''
+|[[Ole Qvist]]
+|
+|
+|-
+|DF
+|'''2'''
+|[[John Sivebæk]]
+|
+|
+|-
+|FW ||'''19'''||[[John Eriksen]] || || {{subon|60}}
+|-
+|MF
+|'''20'''
+|[[Jan Bartram]]
+|
+|
+|-
+|MF ||'''7''' ||[[Jan Mølby]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Sepp Piontek]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|RB ||'''2''' ||[[Tomás Reñones|Tomás]]
+|-
+|CB ||'''3''' ||[[José Antonio Camacho]] ([[Captain (association football)|c]]) || {{yel|32}}
+|-
+|CB ||'''8''' ||[[Andoni Goikoetxea]] || {{yel|27}}
+|-
+|LB ||'''11'''||[[Julio Alberto]]
+|-
+|RM ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]] || {{yel|60}} || {{suboff|83}}
+|-
+|CM ||'''5''' ||[[Víctor Muñoz (footballer, born 1957)|Víctor]]
+|-
+|CM ||'''14'''||[[Ricardo Gallego]]
+|-
+|LM ||'''18'''||[[Ramón Calderé]]
+|-
+|-
+|FW ||'''19'''||[[Julio Salinas]] || || {{suboff|46}}
+|-
+|FW ||'''9''' ||[[Emilio Butragueño]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Juan Carlos Ablanedo]]
+|
+|
+|-
+|DF
+|'''15'''
+|[[Chendo]]
+|
+|
+|-
+|MF
+|'''7'''
+|[[Juan Antonio Señor]]
+|
+|
+|-
+|FW ||'''20'''||[[Eloy Olaya|Eloy]] || || {{subon|46}}
+|-
+|MF ||'''17'''||[[Francisco López Alfaro|Francisco]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miguel Muñoz]]
+|}
+|}
+
+==Quarter-finals==
+
+===Brazil vs France===
+<section begin="QF1" />{{Football box
+|date={{Start date|1986|6|21|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1986 FIFA World Cup knockout stage#Brazil vs France|1–1}}
+|aet=yes
+|team2={{fb|FRA|1974}}
+|goals1=
+*[[Careca]] {{goal|17}}
+|goals2=
+*[[Michel Platini|Platini]] {{goal|40}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara, Jalisco|Guadalajara]]
+|attendance=65,000
+|referee=[[Ioan Igna]] ([[Romanian Football Federation|Romania]])
+|penalties1=
+*[[Sócrates]] {{penmiss}}
+*[[Alemão (footballer, born 1961)|Alemão]] {{pengoal}}
+*[[Zico (footballer)|Zico]] {{pengoal}}
+*[[Cláudio Ibrahim Vaz Leal|Branco]] {{pengoal}}
+*[[Júlio César da Silva|Júlio César]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2=
+*{{pengoal}} [[Yannick Stopyra|Stopyra]]
+*{{pengoal}} [[Manuel Amoros|Amoros]]
+*{{pengoal}} [[Bruno Bellone|Bellone]]
+*{{penmiss}} [[Michel Platini|Platini]]
+*{{pengoal}} [[Luis Fernández|Fernández]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/714/440 |title=Brazil vs France {{!}} Quarter-final {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=714/match=440/index.html |title=1986 FIFA World Cup Mexico – Matches – Brazil v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220145958/http://www.fifa.com/worldcup/matches/round=714/match=440/index.html |archive-date=20 December 2017}} }}</ref>
+}}<section end="QF1" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _bra86h
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0047AB
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+| pattern_la = _fra86h
+| pattern_b  = _fra86h
+| pattern_ra = _fra86h
+| pattern_sh = _fra86h
+| pattern_so = _fra86h
+| leftarm    = 0000C0
+| body       = 0000C0
+| rightarm   = 0000C0
+| shorts     = 0000C0
+| socks      = FF0000
+| title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Carlos Roberto Gallo|Carlos]]
+|-
+|RB ||'''13'''||[[Josimar (footballer, born 1961)|Josimar]]
+|-
+|CB ||'''14'''||[[Júlio César da Silva|Júlio César]]
+|-
+|CB ||'''4''' ||[[Edino Nazareth Filho|Edinho]] ([[Captain (association football)|c]]) || 
+|-
+|LB ||'''17'''||[[Branco (footballer)|Branco]]
+|-
+|MF ||'''15'''||[[Alemão (footballer, born 1961)|Alemão]]
+|-
+|DM ||'''19'''||[[Elzo Coelho|Elzo]]
+|-
+|AM ||'''18'''||[[Sócrates]]
+|-
+|MF ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]] || || {{suboff|91}}
+|-
+|SS ||'''7''' ||[[Müller (footballer, born 1966)|Müller]] || || {{suboff|71}}
+|-
+|CF ||'''9''' ||[[Careca]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Émerson Leão|Leão]]
+|
+|
+|-
+|CB
+|'''3'''
+|[[Oscar (footballer, born 1954)|Oscar]]
+|
+|
+|-
+|CF
+|'''8'''
+|[[Walter Casagrande|Casagrande]]
+|
+|
+|-
+|AM ||'''10'''||[[Zico (footballer)|Zico]] || || {{subon|71}}
+|-
+|AM ||'''20'''||[[Paulo Silas|Silas]] || || {{subon|91}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Telê Santana]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Joël Bats]]
+|-
+|RB ||'''2''' ||[[Manuel Amoros]]
+|-
+|CB ||'''6''' ||[[Maxime Bossis]]
+|-
+|CB ||'''4''' ||[[Patrick Battiston]]
+|-
+|LB ||'''8''' ||[[Thierry Tusseau]]
+|-
+|DM ||'''9''' ||[[Luis Fernández]]
+|-
+|CM ||'''12'''||[[Alain Giresse]] || || {{suboff|84}}
+|-
+|CM ||'''14'''||[[Jean Tigana]]
+|-
+|AM ||'''10'''||[[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Dominique Rocheteau]] || || {{suboff|99}}
+|-
+|FW ||'''19'''||[[Yannick Stopyra]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Jean-Marc Ferreri]] || || {{subon|84}}
+|-
+|FW ||'''16'''||[[Bruno Bellone]] || || {{subon|99}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Henri Michel]]
+|}
+|}
+
+===West Germany vs Mexico===
+<section begin="QF2" />{{Football box
+|date={{Start date|1986|6|21|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1986 FIFA World Cup knockout stage#West Germany vs Mexico|0–0}}
+|aet=yes
+|team2={{fb|MEX}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Universitario (UANL)|Estadio Universitario]], [[San Nicolás de los Garza]]
+|attendance=41,700
+|referee=[[Jesús Díaz (football referee)|Jesús Díaz]] ([[Federación Colombiana de Fútbol|Colombia]])
+|penalties1=
+*[[Klaus Allofs|Allofs]] {{pengoal}}
+*[[Andreas Brehme|Brehme]] {{pengoal}}
+*[[Lothar Matthäus|Matthäus]] {{pengoal}}
+*[[Pierre Littbarski|Littbarski]] {{pengoal}}
+|penaltyscore=4–1
+|penalties2=
+*{{pengoal}} [[Manuel Negrete Arias|Negrete]]
+*{{penmiss}} [[Fernando Quirarte|Quirarte]]
+*{{penmiss}} [[Raúl Servín|Servín]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/714/575 |title=Germany FR vs Mexico {{!}} Quarter-final {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=714/match=575/index.html |title=1986 FIFA World Cup Mexico – Matches – Germany FR v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227071012/http://www.fifa.com/worldcup/matches/round=714/match=575/index.html |archive-date=27 December 2017}} }}</ref>
+}}<section end="QF2" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _westgermany1986h
+| pattern_b  = _westgermany1986h
+| pattern_ra = _westgermany1986h
+| pattern_sh = _ger90h
+| pattern_so =_color_3_stripes_black
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = West Germany
+}}
+|{{Football kit
+|pattern_la = _ger86a
+|pattern_b = _mex86h
+|pattern_ra = _ger86a
+|pattern_sh = _mex86h
+|pattern_so = _3_stripes_white
+|leftarm = 008000
+|body = 008000
+|rightarm = 008000
+|shorts = FFFFFF
+|socks = F20000
+|title = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Harald Schumacher]]
+|-
+|SW ||'''17'''||[[Ditmar Jakobs]]
+|-
+|CB ||'''4''' ||[[Karlheinz Förster]] || {{yel|56}}
+|-
+|CB ||'''6''' ||[[Norbert Eder]] || || {{suboff|116}}
+|-
+|RWB ||'''14'''||[[Thomas Berthold]] || {{sent off|0|65}}
+|-
+|CM ||'''8''' ||[[Lothar Matthäus]] || {{yel|86}}
+|-
+|CM ||'''3''' ||[[Andreas Brehme]]
+|-
+|AM ||'''10'''||[[Felix Magath]]
+|-
+|LWB ||'''2''' ||[[Hans-Peter Briegel]]
+|-
+|CF ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]]) || || {{suboff|59}}
+|-
+|CF ||'''19'''||[[Klaus Allofs]] || {{yel|27}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Eike Immel]]
+|
+|
+|-
+|DF
+|'''5'''
+|[[Matthias Herget]]
+|
+|
+|-
+|MF
+|'''13'''
+|[[Karl Allgöwer]]
+|
+|
+|-
+|CF ||'''20'''||[[Dieter Hoeneß]] || || {{subon|59}}
+|-
+|MF ||'''7''' ||[[Pierre Littbarski]] || || {{subon|116}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Franz Beckenbauer]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pablo Larios]]
+|-
+|DF ||'''18'''||[[Rafael Amador]] || || {{suboff|69}}
+|-
+|DF ||'''3''' ||[[Fernando Quirarte]] || {{yel|27}}
+|-
+|DF ||'''14'''||[[Félix Cruz]]
+|-
+|DF ||'''17'''||[[Raúl Servín]] || {{yel|83}}
+|-
+|MF ||'''7''' ||[[Miguel España]]
+|-
+|MF ||'''16'''||[[Carlos Muñoz (Mexican footballer)|Carlos Muñoz]]
+|-
+|MF ||'''10'''||[[Tomás Boy]] ([[Captain (association football)|c]]) || || {{suboff|32}}
+|-
+|MF ||'''13'''||[[Javier Aguirre]] || {{sent off|1|20|100}}
+|-
+|FW ||'''22'''||[[Manuel Negrete Arias|Manuel Negrete]]
+|-
+|FW ||'''9''' ||[[Hugo Sánchez]] || {{yel|94}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''20'''
+|[[Olaf Heredia]]
+|
+|
+|-
+|MF
+|'''8'''
+|[[Alejandro Domínguez (Mexican footballer)|Alejandro Domínguez]]
+|
+|
+|-
+|FW
+|'''15'''
+|[[Luis Flores (Mexican footballer)|Luis Flores]]
+|
+|
+|-
+|MF ||'''6''' ||[[Carlos de los Cobos]] || {{yel|75}} || {{subon|32}}
+|-
+|FW ||'''5''' ||[[Francisco Javier Cruz]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|{{flagicon|YUG}} [[Bora Milutinović]]
+|}
+|}
+
+===Argentina vs England===
+{{Main|Argentina v England (1986 FIFA World Cup)}}
+<section begin=QF3 />{{#lst:Argentina v England (1986 FIFA World Cup)|QF3}}<section end=QF3 />
+{{#lst:Argentina v England (1986 FIFA World Cup)|Line-ups}}
+
+===Spain vs Belgium===
+In the 35th minute, [[Jan Ceulemans]] put Belgium into the lead with a diving header from six yards out to the right corner after a cross from the left. [[Juan Antonio Señor]] made it 1–1 in the 85th minute with a swerving shot from outside the penalty area. The match went to extra-time and then to [[List of FIFA World Cup penalty shoot-outs|penalties]]. The only miss during the shoot-out was from [[Eloy Olaya]] when [[Jean-Marie Pfaff]] saved down low to his right as Belgium won 5–4.<ref>{{cite web|url=https://goalscorner.com/blogs/guides/spain-vs-belgium-1986-world-cup-quarterfinal/|title=Spain vs Belgium 1986 World Cup Quarterfinal: The Night Puebla Broke Spanish Hearts|date=7 July 2026|work=Goalscorner.com|accessdate=8 July 2026}}</ref>
+
+<section begin="QF4" />{{Football box
+|date={{Start date|1986|6|22|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ESP}}
+|score={{score link|1986 FIFA World Cup knockout stage#Spain vs Belgium|1–1}}
+|aet=yes
+|team2={{fb|BEL}}
+|goals1=
+*[[Juan Antonio Señor|Señor]] {{goal|85}}
+|goals2=
+*[[Jan Ceulemans|Ceulemans]] {{goal|35}}
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=45,000
+|referee=[[Siegfried Kirschen]] ([[German Football Association of the GDR|East Germany]])
+|penalties1=
+*[[Juan Antonio Señor|Señor]] {{pengoal}}
+*[[Eloy (footballer)|Eloy]] {{penmiss}}
+*[[Chendo]] {{pengoal}}
+*[[Emilio Butragueño|Butragueño]] {{pengoal}}
+*[[Víctor Muñoz (footballer, born 1957)|Víctor]] {{pengoal}}
+|penaltyscore=4–5
+|penalties2=
+*{{pengoal}} [[Nico Claesen|Claesen]]
+*{{pengoal}} [[Enzo Scifo|Scifo]]
+*{{pengoal}} [[Hugo Broos|Broos]]
+*{{pengoal}} [[Patrick Vervoort|Vervoort]]
+*{{pengoal}} [[Leo Van der Elst|L. Van der Elst]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/714/421 |title=Spain vs Belgium {{!}} Quarter-final {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=714/match=421/index.html |title=1986 FIFA World Cup Mexico – Matches – Spain v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228033130/http://www.fifa.com/worldcup/matches/round=714/match=421/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="QF4" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _esp8690h
+ | pattern_b  = _esp86
+ | pattern_ra = _esp8690h
+ | pattern_sh = _spain86
+ | pattern_so = _esp1986
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000CD
+ | socks      = 000000
+ | title      = Spain
+}}
+|{{Football kit
+| pattern_la            = _bel86a
+| pattern_b             = _bel86a
+| pattern_ra            = _bel86a
+| pattern_sh            = _bel86a
+| pattern_so            = _bel86a
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+| title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|RB ||'''15'''||[[Chendo]]
+|-
+|CB ||'''3''' ||[[José Antonio Camacho]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||[[Ricardo Gallego]]
+|-
+|LB ||'''11'''||[[Julio Alberto]]
+|-
+|RM ||'''2''' ||[[Tomás Reñones|Tomás]] || {{yel|39}} || {{suboff|46}}
+|-
+|CM ||'''5''' ||[[Víctor Muñoz (footballer, born 1957)|Víctor]]
+|-
+|CM ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]]
+|-
+|LM ||'''18'''||[[Ramón Calderé]] || {{yel|44}}
+|-
+|CF ||'''19'''||[[Julio Salinas]] || || {{suboff|63}}
+|-
+|CF ||'''9''' ||[[Emilio Butragueño]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''13'''
+|[[Urruti]]
+|
+|
+|-
+|MF
+|'''17'''
+|[[Francisco Javier López Alfaro|Francisco]]
+|
+|
+|-
+|MF
+|'''10'''
+|[[Francisco José Carrasco]]
+|
+|
+|-
+|MF ||'''7''' ||[[Juan Antonio Señor]] || || {{subon|46}}
+|-
+|FW ||'''20'''||[[Eloy Olaya|Eloy]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miguel Muñoz]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jean-Marie Pfaff]]
+|-
+|DF ||'''2''' ||[[Eric Gerets]]
+|-
+|DF ||'''5''' ||[[Michel Renquin]]
+|-
+|DF ||'''13'''||[[Georges Grün]] || {{yel|115}}
+|-
+|MF ||'''21'''||[[Stéphane Demol]] || {{yel|24}}
+|-
+|MF ||'''22'''||[[Patrick Vervoort]]
+|-
+|MF ||'''6''' ||[[Franky Vercauteren]] || || {{suboff|106}}
+|-
+|MF ||'''8''' ||[[Enzo Scifo]]
+|-
+|MF ||'''11'''||[[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Daniel Veyt]] || || {{suboff|82}}
+|-
+|FW ||'''16'''||[[Nico Claesen]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jacky Munaron]]
+|
+|
+|-
+|DF ||'''19'''||[[Hugo Broos]] || || {{subon|82}}
+|-
+|DF ||'''15'''||[[Leo Van Der Elst]] || || {{subon|106}}
+|-
+|DF
+|'''14'''
+|[[Leo Clijsters]]
+|
+|
+|-
+|MF
+|'''3'''
+|[[Franky Van der Elst|Franky Van Der Elst]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Guy Thys]]
+|}
+|}
+
+==Semi-finals==
+
+===France vs West Germany===
+{{see also|France–Germany football rivalry}}
+<section begin="SF1" />{{Football box
+|date={{Start date|1986|6|25|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1986 FIFA World Cup knockout stage#France vs West Germany|0–2}}
+|team2={{fb|FRG}}
+|goals1=
+|goals2=
+*[[Andreas Brehme|Brehme]] {{goal|9}}
+*[[Rudi Völler|Völler]] {{goal|90}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara, Jalisco|Guadalajara]]
+|attendance=45,000
+|referee=[[Luigi Agnolin]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/3469/564 |title=France vs Germany FR {{!}} Semi-final {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3469/match=564/index.html |title=1986 FIFA World Cup Mexico – Matches – France v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231160042/http://www.fifa.com/worldcup/matches/round=3469/match=564/index.html |archive-date=31 December 2017}} }}</ref>
+}}<section end="SF1" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _fra86h
+| pattern_b  = _fra86h
+| pattern_ra = _fra86h
+| pattern_sh = _fra86h
+| pattern_so = _fra86h
+| leftarm    = 0000C0
+| body       = 0000C0
+| rightarm   = 0000C0
+| shorts     = 0000C0
+| socks      = FF0000
+| title      = France
+}}
+|{{Football kit
+ | pattern_la = _westgermany1986h
+ | pattern_b  = _westgermany1986h
+ | pattern_ra = _westgermany1986h
+ | pattern_sh = _ger90h
+ | pattern_so =_color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Joël Bats]]
+|-
+|RB ||'''3''' ||[[William Ayache]]
+|-
+|CB ||'''6''' ||[[Maxime Bossis]]
+|-
+|CB ||'''4''' ||[[Patrick Battiston]]
+|-
+|LB ||'''2''' ||[[Manuel Amoros]]
+|-
+|DM ||'''9''' ||[[Luis Fernández]] || {{yel|89}}
+|-
+|CM ||'''12'''||[[Alain Giresse]] || || {{suboff|72}}
+|-
+|CM ||'''14'''||[[Jean Tigana]]
+|-
+|AM ||'''10'''||[[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|CF||'''16'''||[[Bruno Bellone]] || || {{suboff|66}}
+|-
+|CF||'''19'''||[[Yannick Stopyra]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Albert Rust (footballer)|Albert Rust]]
+|
+|
+|-
+|DF
+|'''7'''
+|[[Yvon Le Roux]]
+|
+|
+|-
+|FW ||'''20'''||[[Daniel Xuereb]] || || {{subon|66}}
+|-
+|MF ||'''15'''||[[Philippe Vercruysse]] || || {{subon|72}}
+|-
+|MF
+|'''13'''
+|[[Bernard Genghini]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Henri Michel]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Harald Schumacher]]
+|-
+|SW ||'''17'''||[[Ditmar Jakobs]]
+|-
+|CB ||'''4''' ||[[Karlheinz Förster]]
+|-
+|CB ||'''6''' ||[[Norbert Eder]]
+|-
+|RWB ||'''3''' ||[[Andreas Brehme]]
+|-
+|CM ||'''8''' ||[[Lothar Matthäus]]
+|-
+|CM ||'''21'''||[[Wolfgang Rolff]]
+|-
+|AM ||'''10'''||[[Felix Magath]] || {{yel|59}}
+|-
+|LWB ||'''2''' ||[[Hans-Peter Briegel]]
+|-
+|CF ||'''11'''||[[Karl-Heinz Rummenigge]] ([[Captain (association football)|c]]) || || {{suboff|57}}
+|-
+|CF ||'''19'''||[[Klaus Allofs]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''22'''
+|[[Eike Immel]]
+|
+|
+|-
+|DF
+|'''5'''
+|[[Matthias Herget]]
+|
+|
+|-
+|FW
+|'''7'''
+|[[Pierre Littbarski]]
+|
+|
+|-
+|FW
+|'''20'''
+|[[Dieter Hoeneß]]
+|
+|
+|-
+|FW ||'''9''' ||[[Rudi Völler]] || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Franz Beckenbauer]]
+|}
+|}
+
+===Argentina vs Belgium===
+<section begin="SF2" />{{Football box
+|date={{Start date|1986|6|25|df=y}}
+|time=16:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1986 FIFA World Cup knockout stage#Argentina vs Belgium|2–0}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Diego Maradona|Maradona]] {{goal|51||63}}
+|goals2=
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=114,500
+|referee=[[Antonio Márquez Ramírez]] ([[Federación Mexicana de Fútbol Asociación|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/3469/388 |title=Argentina vs Belgium {{!}} Semi-final {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3469/match=388/index.html |title=1986 FIFA World Cup Mexico – Matches – Argentina v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228214838/http://www.fifa.com/worldcup/matches/round=3469/match=388/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="SF2" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1986
+ | pattern_b  = _argentina1986
+ | pattern_ra = _argentina1986
+ | pattern_sh = _argentina1986
+ | pattern_so = _argentina1986
+ | leftarm    = 
+ | body       = 42A0FF
+ | rightarm   = 
+ | shorts     = 000000
+ | socks      = ffffff
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _bel86h
+ | pattern_b  = _bel86h
+ | pattern_ra = _bel86h
+ | pattern_sh = _belgium1986h
+ | pattern_so = _bel86h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Nery Pumpido]]
+|-
+|SW ||'''5''' ||[[José Luis Brown]]
+|-
+|CB ||'''9''' ||[[José Luis Cuciuffo]]
+|-
+|CB ||'''19'''||[[Oscar Ruggeri]]
+|-
+|DM ||'''2''' ||[[Sergio Batista]]
+|-
+|RM ||'''14'''||[[Ricardo Giusti]]
+|-
+|CM ||'''7''' ||[[Jorge Burruchaga]] || || {{suboff|85}}
+|-
+|CM ||'''12'''||[[Héctor Enrique]]
+|-
+|LM ||'''16'''||[[Julio Olarticoechea]]
+|-
+|SS ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|CF ||'''11'''||[[Jorge Valdano]] || {{yel|33}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''15'''
+|[[Luis Islas]]
+|
+|
+|-
+|DF
+|'''13'''
+|[[Oscar Garré]]
+|
+|
+|-
+|MF ||'''3'''||[[Ricardo Bochini]]||  ||{{subon|85}}
+|-
+|MF
+|'''21'''
+|[[Marcelo Trobbiani]]
+|
+|
+|-
+|FW
+|'''17'''
+|[[Pedro Pasculli]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Carlos Bilardo]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jean-Marie Pfaff]]
+|-
+|SW ||'''21'''||[[Stéphane Demol]]
+|-
+|RB ||'''2''' ||[[Eric Gerets]]
+|-
+|CB ||'''13'''||[[Georges Grün]]
+|-
+|CB ||'''5''' ||[[Michel Renquin]] || || {{suboff|54}}
+|-
+|LB ||'''22'''||[[Patrick Vervoort]]
+|-
+|RM ||'''8''' ||[[Enzo Scifo]]
+|-
+|CM ||'''11'''||[[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|LM ||'''6''' ||[[Franky Vercauteren]]
+|-
+|CF ||'''16'''||[[Nico Claesen]]
+|-
+|CF ||'''18'''||[[Daniel Veyt]] || {{yel|27}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jacky Munaron]]
+|
+|
+|-
+|DF
+|'''14'''
+|[[Leo Clijsters]]
+|
+|
+|-
+|MF ||'''10'''||[[Philippe Desmet]] || || {{subon|54}}
+|-
+|MF
+|'''3'''
+|[[Franky Van der Elst|Franky Van Der Elst]]
+|
+|
+|-
+|MF
+|'''15'''
+|[[Leo Van der Elst|Leo Van Der Elst]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Guy Thys]]
+|}
+|}
+
+==Match for third place==
+As both were European teams, this was already set pre-match as the [[European nations at the FIFA World Cup#Overview|second consecutive World Cup in which European teams finished third]].
+<section begin="3rd" />{{Football box
+|date={{Start date|1986|6|28|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|BEL}}
+|score={{score link|1986 FIFA World Cup knockout stage#Match for third place|2–4}}
+|aet=yes
+|team2={{fb|FRA|1974}}
+|goals1=
+*[[Jan Ceulemans|Ceulemans]] {{goal|11}}
+*[[Nico Claesen|Claesen]] {{goal|73}}
+|goals2=
+*[[Jean-Marc Ferreri|Ferreri]] {{goal|27}}
+*[[Jean-Pierre Papin|Papin]] {{goal|43}}
+*[[Bernard Genghini|Genghini]] {{goal|104}}
+*[[Manuel Amoros|Amoros]] {{goal|111|pen.}}
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=21,000
+|referee=[[George Courtney]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/3468/422 |title=France vs Belgium {{!}} Match for third place {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3468/match=422/index.html |title=1986 FIFA World Cup Mexico – Matches – France v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213000425/http://www.fifa.com/worldcup/matches/round=3468/match=422/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end="3rd" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _bel86a
+| pattern_b             = _bel86a
+| pattern_ra            = _bel86a
+| pattern_sh            = _bel86a
+| pattern_so            = _bel86a
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+| title      = Belgium
+}}
+|{{Football kit
+| pattern_la = _fra86h
+| pattern_b  = _fra86h
+| pattern_ra = _fra86h
+| pattern_sh = _fra86h
+| pattern_so = _fra86h
+| leftarm    = 0000C0
+| body       = 0000C0
+| rightarm   = 0000C0
+| shorts     = 0000C0
+| socks      = FF0000
+| title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jean-Marie Pfaff]] || {{yel|63}}
+|-
+|SW ||'''21'''||[[Stéphane Demol]]
+|-
+|RB ||'''2''' ||[[Eric Gerets]]
+|-
+|CB ||'''5''' ||[[Michel Renquin]] || || {{suboff|46}}
+|-
+|CB ||'''13'''||[[Georges Grün]]
+|-
+|LB||'''22'''||[[Patrick Vervoort]]
+|-
+|RM ||'''8''' ||[[Enzo Scifo]] || || {{suboff|64}}
+|-
+|CM ||'''11'''||[[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|LM ||'''17'''||[[Raymond Mommens]]
+|-
+|CF ||'''18'''||[[Daniel Veyt]]
+|-
+|CF ||'''16'''||[[Nico Claesen]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''20'''
+|[[Gilbert Bodart]]
+|
+|
+|-
+|DF ||'''3''' ||[[Franky Van Der Elst]] || || {{subon|46}}
+|-
+|DF ||'''15'''||[[Leo Van Der Elst]] || || {{subon|64}}
+|-
+|DF
+|'''14'''
+|[[Leo Clijsters]]
+|
+|
+|-
+|MF
+|'''6'''
+|[[Franky Vercauteren]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Guy Thys]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Albert Rust (footballer)|Albert Rust]]
+|-
+|RB ||'''5''' ||[[Michel Bibard]]
+|-
+|CB ||'''4''' ||[[Patrick Battiston]] ([[Captain (association football)|c]])
+|-
+|CB ||'''7''' ||[[Yvon Le Roux]] || || {{suboff|56}}
+|-
+|LB ||'''2''' ||[[Manuel Amoros]]
+|-
+|DM ||'''14'''||[[Jean Tigana]] || || {{suboff|84}}
+|-
+|CM ||'''15'''||[[Philippe Vercruysse]]
+|-
+|CM ||'''13'''||[[Bernard Genghini]]
+|-
+|AM ||'''11'''||[[Jean-Marc Ferreri]]
+|-
+|CF ||'''16'''||[[Bruno Bellone]]
+|-
+|CF ||'''17'''||[[Jean-Pierre Papin]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''21'''
+|[[Philippe Bergeroo]]
+|
+|
+|-
+|DF ||'''6''' ||[[Maxime Bossis]] || || {{subon|56}}
+|-
+|MF ||'''8''' ||[[Thierry Tusseau]] || || {{subon|84}}
+|-
+|FW
+|'''19'''
+|[[Yannick Stopyra]]
+|
+|
+|-
+|FW
+|'''20'''
+|[[Daniel Xuereb]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Henri Michel]]
+|}
+|}
+
+==Final==
+{{Main|1986 FIFA World Cup final}}
+{{#lst:1986 FIFA World Cup final|Final}}
+{{#lst:1986 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*{{youTube|IZ6pRNMS4KE|Brazil v France (Mexico 1986) Full match}}
+
+{{1986 FIFA World Cup}}
+
+[[Category:1986 FIFA World Cup|Knockout Stage]]
+[[Category:FIFA World Cup knockout stages|1986]]
+[[Category:Mexico at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Argentina at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Italy at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Brazil at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Paraguay at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:England at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Morocco at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Denmark at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Spain at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:West Germany at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:France at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Uruguay at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Bulgaria at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Belgium at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Soviet Union at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Poland at the 1986 FIFA World Cup|Knockout stage]]
+[[Category:Argentina–Uruguay football rivalry|1986]]
+[[Category:France–Italy football rivalry|FIFA World Cup 1986]]
+[[Category:Sport in San Nicolás de los Garza]]
+[[Category:Sport in Puebla (city)]]
+[[Category:History of Puebla]]
+[[Category:Football in Puebla]]
+[[Category:Sport in Guadalajara, Jalisco]]
+[[Category:Football in Jalisco]]
+[[Category:20th century in Guadalajara, Jalisco]]
+[[Category:Football in Nuevo León]]
+[[Category:Querétaro (city)]]
+[[Category:History of Nuevo León]]
+[[Category:Football in Querétaro]]
+[[Category:History of Querétaro]]
+[[Category:Football competitions in Mexico City]]
+[[Category:1980s in Mexico City]]

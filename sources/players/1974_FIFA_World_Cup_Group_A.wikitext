@@ -1,0 +1,855 @@
+{{Short description|Football tournament details}}
+{{distinguish|1974 FIFA World Cup Group 1}}
+{{more citations needed|date=March 2026}}
+{{Use dmy dates|date=May 2018}}
+Group A was one of two groups in the second group stage of the [[1974 FIFA World Cup]] finals. It was the first time that this stage of the competition (equivalent to the quarter-finals) was played in a group format.<ref>{{cite journal |last1=Csató |first1=László |last2=Kiss |first2=László Marcell |last3=Szádoczki |first3=Zsombor |title=The allocation of FIFA World Cup slots based on the ranking of confederations |journal=Annals of Operations Research |date=12 June 2024 |volume=344 |issue=1 |pages=153–173 |doi=10.1007/s10479-024-06091-5 |url=https://link.springer.com/article/10.1007/s10479-024-06091-5 |language=en |issn=1572-9338}}</ref> Matches were played in three cities ([[Dortmund]], [[Gelsenkirchen]] and [[Hanover]]) between 26 June and 3 July 1974. The group was composed of the winners of [[1974 FIFA World Cup Group 1|Groups 1]] and [[1974 FIFA World Cup Group 3|3]] from the first group stage ([[East Germany national football team|East Germany]] and [[Netherlands national football team|Netherlands]]), and the runners-up of [[1974 FIFA World Cup Group 2|Groups 2]] and [[1974 FIFA World Cup Group 4|4]] ([[Brazil national football team|Brazil]] and [[Argentina national football team|Argentina]]).<ref>{{cite web |url=https://www.rsssf.org/tables/74full.html |title=World Cup 1974 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+The Netherlands won the group after winning all three of their matches to qualify for the [[1974 FIFA World Cup Final|final]], while Brazil won their matches against East Germany and Argentina to finish in second place and qualify for the match for third place. East Germany and Argentina drew their match to finish level on one point, but East Germany's superior goal difference meant they finished the higher of the two.<ref name="fifastudy">{{cite web |title=FIFA World Cup 1974 Final Competition Technical Study |url=http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/65/wc_74_tr_312.pdf |publisher=FIFA |access-date=3 March 2026 |archive-url=https://web.archive.org/web/20111220060217/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/65/wc%5f74%5ftr%5f312.pdf |archive-date=20 December 2011 |pages=57–62}}</ref>
+
+==Qualified teams==
+The winners of Group 1 and 3 and the runners-up of Group 2 and 4 qualified for Group A of the second round.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+|-
+! [[1974 FIFA World Cup Group 1|1]]
+| {{fb|GDR}}
+|-
+! [[1974 FIFA World Cup Group 3|3]]
+| {{fb|NED}}
+|-
+! Group
+! width="150" | Runners-up
+|-
+! [[1974 FIFA World Cup Group 2|2]]
+| {{fb|BRA|1968}}
+|-
+! [[1974 FIFA World Cup Group 4|4]]
+| {{fb|ARG|1861}}
+|}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407142357/http://www.fifa.com/worldcup/archive/germany1974/groups/index.html FIFA]
+
+|team1=NED |team2=BRA |team3=GDR |team4=ARG
+|result1=F |result2=TP
+
+|win_NED=3 |draw_NED=0 |loss_NED=0 |gf_NED=8 |ga_NED=0
+|win_BRA=2 |draw_BRA=0 |loss_BRA=1 |gf_BRA=3 |ga_BRA=3
+|win_GDR=0 |draw_GDR=1 |loss_GDR=2 |gf_GDR=1 |ga_GDR=4
+|win_ARG=0 |draw_ARG=1 |loss_ARG=2 |gf_ARG=2 |ga_ARG=7
+
+|name_GDR={{fb|GDR}}
+|name_BRA={{fb|BRA|1968}}
+|name_NED={{fb|NED}}
+|name_ARG={{fb|ARG|1861}}
+
+|res_col_header=Q
+|col_F=green1 |text_F=Advance to [[1974 FIFA World Cup#Final|final]]
+
+|col_TP=blue1 |text_TP=Advance to {{nowrap|[[1974 FIFA World Cup#Match for third place|match for third place]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times listed are local ([[Central European Time|CET]])''
+
+===Netherlands vs Argentina===
+{{see also|Argentina–Netherlands football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=A1
+|date={{Start date|1974|6|26|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|NED}}
+|score={{score link|1974 FIFA World Cup Group A#Netherlands vs Argentina|4–0}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Johan Cruyff|Cruyff]] {{goal|11||90}}
+*[[Ruud Krol|Krol]] {{goal|25}}
+*[[Johnny Rep|Rep]] {{goal|73}}
+|goals2=
+|stadium=[[Parkstadion]], [[Gelsenkirchen]]
+|attendance=56,548
+|referee=[[Bob Davidson (referee)|Bob Davidson]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/1948 |title=Netherlands vs Argentina {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=1948/index.html |title=1974 FIFA World Cup Germany – Matches – Netherlands v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228012955/http://www.fifa.com/worldcup/matches/round=263/match=1948/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _ned74h
+| pattern_ra = _netherlands80h
+ |pattern_sh = _orange stripes
+ |pattern_so = _color_3_stripes_orange
+ |leftarm    = FF6000
+ |body       = FF6000
+ |rightarm   = FF6000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Netherlands
+}}
+|{{Football kit
+ |pattern_la =_arg3757h
+ |pattern_b  =_arg7475h
+ |pattern_ra =_arg3757h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _arg6669h
+ |leftarm    = 75AADB 
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = 707070
+ |title      = Argentina
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|DF ||'''6''' ||[[Wim Jansen]]
+|-
+|DF ||'''12'''||[[Ruud Krol]]
+|-
+|DF ||'''17'''||[[Wim Rijsbergen]]
+|-
+|DF ||'''20'''||[[Wim Suurbier]] || {{yel|58}} || {{suboff|84}}
+|-
+|MF ||'''2''' ||[[Arie Haan]]
+|-
+|MF ||'''3''' ||[[Willem van Hanegem]]
+|-
+|MF ||'''13'''||[[Johan Neeskens]] || {{yel|22}}
+|-
+|FW ||'''14'''||[[Johan Cruyff]] ([[Captain (association football)|c]])
+|-
+|FW ||'''15'''||[[Rob Rensenbrink]]
+|-
+|FW ||'''16'''||[[Johnny Rep]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Rinus Israël]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rinus Michels]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Daniel Carnevali]]
+|-
+|DF ||'''10'''||[[Ramón Heredia]]
+|-
+|DF ||'''14'''||[[Roberto Perfumo]] ([[Captain (association football)|c]]) || {{yel|35}}
+|-
+|DF ||'''16'''||[[Francisco Sá]]
+|-
+|MF ||'''20'''||[[Enrique Wolff]] || || {{suboff|46}}
+|-
+|MF ||'''11'''||[[René Houseman]] || || {{suboff|46}}
+|-
+|MF ||'''17'''||[[Carlos Squeo]]
+|-
+|FW ||'''18'''||[[Roberto Telch]]
+|-
+|FW ||'''2''' ||[[Rubén Ayala]]
+|-
+|FW ||'''4''' ||[[Agustín Balbuena]]
+|-
+|FW ||'''22'''||[[Héctor Yazalde]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''9''' ||[[Rubén Glaria]] || || {{subon|46}}
+|-
+|FW ||'''13'''||[[Mario Kempes]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Vladislao Cap]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+<br />[[Pavel Kazakov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|}
+
+===Brazil vs East Germany===
+<onlyinclude>{{#invoke:Football box|main|section=A2
+|date={{Start date|1974|6|26|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1974 FIFA World Cup Group A#Brazil vs East Germany|1–0}}
+|team2={{fb|GDR}}
+|goals1=
+*[[Rivellino]] {{goal|60}}
+|goals2=
+|stadium=[[AWD-Arena|Niedersachsenstadion]], [[Hanover]]
+|attendance=59,863
+|referee=[[Clive Thomas (football)|Clive Thomas]] ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/1982 |title=Brazil vs German DR {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=1982/index.html |title=1974 FIFA World Cup Germany – Matches – Brazil v German DR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001639/http://www.fifa.com/worldcup/matches/round=263/match=1982/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _greenborder
+| pattern_b  = _greencollar
+| pattern_ra = _greenborder
+| pattern_sh = _white_stripes
+| pattern_so = _BRAhome0710
+| leftarm    = FDE910
+| body       = FDE910
+| rightarm   = FDE910
+| shorts     = 0047AB
+| socks      = FFFFFF
+ |title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = _whiteborder 
+ |pattern_b  = _collarwhite
+ |pattern_ra = _whiteborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 0000A0
+ |body       = 0000A0
+ |rightarm   = 0000A0
+ |shorts     = FFFFFF
+ |socks      = 0000A0
+ |title      = East Germany
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Émerson Leão|Leão]]
+|-
+|DF ||'''2''' ||[[Luís Pereira]]
+|-
+|DF ||'''3''' ||[[Marinho Peres]]
+|-
+|DF ||'''4''' ||[[Zé Maria (footballer, born 1949)|Zé Maria]]
+|-
+|DF ||'''6''' ||[[Marinho Chagas]]
+|-
+|MF ||'''10'''||[[Rivellino]]
+|-
+|MF ||'''11'''||[[Caju (footballer, born 1949)|Caju]]
+|-
+|MF ||'''17'''||[[Paulo César Carpegiani|Carpegiani]] || {{yel|28}}
+|-
+|MF ||'''7''' ||[[Jairzinho]] || {{yel|27}}
+|-
+|FW ||'''13'''||[[Valdomiro Vaz Franco|Valdomiro]]
+|-
+|FW ||'''21'''||[[Dirceu]] || {{yel|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jürgen Croy]]
+|-
+|DF ||'''3''' ||[[Bernd Bransch]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Konrad Weise]]
+|-
+|DF ||'''12'''||[[Siegmar Wätzlich]]
+|-
+|DF ||'''18'''||[[Gerd Kische]]
+|-
+|MF ||'''2''' ||[[Lothar Kurbjuweit]]
+|-
+|MF ||'''13'''||[[Reinhard Lauck]] || || {{suboff|64}}
+|-
+|MF ||'''17'''||[[Erich Hamann]] || {{yel|11}} || {{suboff|46}}
+|-
+|FW ||'''11'''||[[Joachim Streich]] || {{yel|84}}
+|-
+|FW ||'''14'''||[[Jürgen Sparwasser]]
+|-
+|FW ||'''20'''||[[Martin Hoffmann (footballer)|Martin Hoffmann]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Harald Irmscher]] || || {{subon|46}}
+|-
+|FW ||'''8''' ||[[Wolfram Löwe]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Buschner]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Doğan Babacan]] ([[Turkish Football Federation|Turkey]])
+<br />[[Tony Boskovic]] ([[Football Federation Australia|Australia]])
+|}
+
+===Argentina vs Brazil===
+{{see also|Argentina–Brazil football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=A3
+|date={{Start date|1974|6|30|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1974 FIFA World Cup Group A#Argentina vs Brazil|1–2}}
+|team2={{fb|BRA|1968}}
+|goals1=
+*[[Miguel Ángel Brindisi|Brindisi]] {{goal|35}}
+|goals2=
+*[[Rivellino]] {{goal|32}}
+*[[Jairzinho]] {{goal|49}}
+|stadium=[[AWD-Arena|Niedersachsenstadion]], [[Hanover]]
+|attendance=39,400
+|referee=[[Vital Loraux]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/1945 |title=Argentina vs Brazil {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=1945/index.html |title=1974 FIFA World Cup Germany – Matches – Argentina v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228105708/http://www.fifa.com/worldcup/matches/round=263/match=1945/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la =_arg3757h
+ |pattern_b  =_arg7475h
+ |pattern_ra =_arg3757h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _arg6669h
+ |leftarm    = 75AADB 
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = 707070
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _whitecollar
+ |pattern_ra = _whiteborder
+ |pattern_sh = _blue stripes
+ |pattern_so = _BRAhome0710
+ |leftarm    = 0000C6
+ |body       = 0000C6
+ |rightarm   = 0000C6
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Daniel Carnevali]]
+|-
+|DF ||'''5''' ||[[Ángel Bargas]]
+|-
+|DF ||'''9''' ||[[Rubén Glaria]]
+|-
+|DF ||'''10'''||[[Ramón Heredia]]
+|-
+|DF ||'''16'''||[[Francisco Sá]] || || {{suboff|46}}
+|-
+|MF ||'''3''' ||[[Carlos Babington]]
+|-
+|MF ||'''6''' ||[[Miguel Ángel Brindisi]] ([[Captain (association football)|c]]) 
+|-
+|MF ||'''17'''||[[Carlos Squeo]]
+|-
+|FW ||'''2''' ||[[Rubén Ayala]]
+|-
+|FW ||'''4''' ||[[Agustín Balbuena]]
+|-
+|FW ||'''13'''||[[Mario Kempes]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''7''' ||[[Jorge Carrascosa]] || || {{subon|46}}
+|-
+|MF ||'''11'''||[[René Houseman]] || {{yel|72}} || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Vladislao Cap]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Émerson Leão|Leão]]
+|-
+|DF ||'''2''' ||[[Luís Pereira]]
+|-
+|DF ||'''3''' ||[[Marinho Peres]]
+|-
+|DF ||'''4''' ||[[Zé Maria (footballer, born 1949)|Zé Maria]]
+|-
+|DF ||'''6''' ||[[Marinho Chagas]]
+|-
+|MF ||'''10'''||[[Rivellino]]
+|-
+|MF ||'''11'''||[[Caju (footballer, born 1949)|Caju]]
+|-
+|MF ||'''17'''||[[Paulo César Carpegiani|Carpegiani]]
+|-
+|FW ||'''7''' ||[[Jairzinho]] 
+|-
+|FW ||'''13'''||[[Valdomiro Vaz Franco|Valdomiro]]
+|-
+|FW ||'''21'''||[[Dirceu]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Youssou N'Diaye]] ([[Senegalese Football Federation|Sénégal]])
+<br />[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|}
+
+===East Germany vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=A4
+|date={{Start date|1974|6|30|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|GDR}}
+|score={{score link|1974 FIFA World Cup Group A#East Germany vs Netherlands|0–2}}
+|team2={{fb|NED}}
+|goals1=
+|goals2=
+*[[Johan Neeskens|Neeskens]] {{goal|7}}
+*[[Rob Rensenbrink|Rensenbrink]] {{goal|59}}
+|stadium=[[Parkstadion]], [[Gelsenkirchen]]
+|attendance=68,348
+|referee=[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/2067 |title=German DR vs Netherlands {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=2067/index.html |title=1974 FIFA World Cup Germany – Matches – German DR v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001644/http://www.fifa.com/worldcup/matches/round=263/match=2067/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _blueborder
+ |pattern_b  = _vneckblue
+ |pattern_ra = _blueborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000A0
+ |socks      = FFFFFF
+ |title      = East Germany
+}}
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _ned74h
+| pattern_ra = _netherlands80h
+ |pattern_sh = _orange stripes
+ |pattern_so = _color_3_stripes_black
+ |leftarm    = FF6000
+ |body       = FF6000
+ |rightarm   = FF6000
+ |shorts     = FFFFFF
+ |socks      = FF6000
+ |title      = Netherlands
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jürgen Croy]]
+|-
+|DF ||'''2''' ||[[Lothar Kurbjuweit]]
+|-
+|DF ||'''3''' ||[[Bernd Bransch]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Konrad Weise]]
+|-
+|DF ||'''18'''||[[Gerd Kische]]
+|-
+|MF ||'''6''' ||[[Rüdiger Schnuphase]]
+|-
+|MF ||'''7''' ||[[Jürgen Pommerenke]]
+|-
+|MF ||'''13'''||[[Reinhard Lauck]] || || {{suboff|64}}
+|-
+|FW ||'''8''' ||[[Wolfram Löwe]] || || {{suboff|54}}
+|-
+|FW ||'''14'''||[[Jürgen Sparwasser]]
+|-
+|FW ||'''20'''||[[Martin Hoffmann (footballer)|Martin Hoffmann]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Peter Ducke]] || || {{subon|54}}
+|-
+|FW ||'''10'''||[[Hans-Jürgen Kreische]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Buschner]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|DF ||'''6''' ||[[Wim Jansen]]
+|-
+|DF ||'''12'''||[[Ruud Krol]]
+|-
+|DF ||'''17'''||[[Wim Rijsbergen]]
+|-
+|DF ||'''20'''||[[Wim Suurbier]] 
+|-
+|MF ||'''2''' ||[[Arie Haan]]
+|-
+|MF ||'''3''' ||[[Willem van Hanegem]]
+|-
+|MF ||'''13'''||[[Johan Neeskens]] 
+|-
+|FW ||'''14'''||[[Johan Cruyff]] ([[Captain (association football)|c]])
+|-
+|FW ||'''15'''||[[Rob Rensenbrink]]
+|-
+|FW ||'''16'''||[[Johnny Rep]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rinus Michels]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Erich Linemayr]] ([[Austrian Football Association|Austria]])
+<br />[[Omar Delgado Gómez]] ([[Colombian Football Federation|Colombia]])
+|}
+
+===Argentina vs East Germany===
+<onlyinclude>{{#invoke:Football box|main|section=A5
+|date={{Start date|1974|7|3|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1974 FIFA World Cup Group A#Argentina vs East Germany|1–1}}
+|team2={{fb|GDR}}
+|goals1=
+*[[René Houseman|Houseman]] {{goal|20}}
+|goals2=
+*[[Joachim Streich|Streich]] {{goal|14}}
+|stadium=[[Parkstadion]], [[Gelsenkirchen]]
+|attendance=54,254
+|referee=[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/1946 |title=Argentina vs German DR {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=1946/index.html |title=1974 FIFA World Cup Germany – Matches – Argentina v German DR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001634/http://www.fifa.com/worldcup/matches/round=263/match=1946/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la =_arg7475a
+ |pattern_b  =_arg7475a
+ |pattern_ra =_arg7475a
+ |pattern_sh = _adidaswhite
+ |pattern_so = _arg6669h
+ |leftarm    = 75AADB 
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = 707070
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _blueborder
+ |pattern_b  = _vneckblue
+ |pattern_ra = _blueborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = East Germany
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Ubaldo Fillol]]
+|-
+|DF ||'''5''' ||[[Ángel Bargas]] || {{yel|68}}
+|-
+|DF ||'''7''' ||[[Jorge Carrascosa]]
+|-
+|DF ||'''10'''||[[Ramón Heredia]]
+|-
+|DF ||'''20'''||[[Enrique Wolff]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6''' ||[[Miguel Ángel Brindisi]]
+|-
+|MF ||'''11'''||[[René Houseman]]
+|-
+|MF ||'''18'''||[[Roberto Telch]]
+|-
+|FW ||'''2''' ||[[Rubén Ayala]]
+|-
+|FW ||'''3''' ||[[Carlos Babington]]
+|-
+|FW ||'''13'''||[[Mario Kempes]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Vladislao Cap]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jürgen Croy]]
+|-
+|DF ||'''2''' ||[[Lothar Kurbjuweit]]
+|-
+|DF ||'''3''' ||[[Bernd Bransch]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Konrad Weise]]
+|-
+|DF ||'''18'''||[[Gerd Kische]]
+|-
+|MF ||'''6''' ||[[Rüdiger Schnuphase]]
+|-
+|MF ||'''7''' ||[[Jürgen Pommerenke]]
+|-
+|MF ||'''8''' ||[[Wolfram Löwe]] || || {{suboff|65}}
+|-
+|MF ||'''11'''||[[Joachim Streich]] || || {{suboff|80}}
+|-
+|FW ||'''14'''||[[Jürgen Sparwasser]] || {{yel|23}}
+|-
+|FW ||'''20'''||[[Martin Hoffmann (footballer)|Martin Hoffmann]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Eberhard Vogel]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||[[Peter Ducke]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Buschner]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Mahmoud Mustafa Kamel]] ([[Egyptian Football Association|Egypt]])
+<br />[[Clive Thomas (football)|Clive Thomas]] ([[Football Association of Wales|Wales]])
+|}
+
+===Netherlands vs Brazil===
+<onlyinclude>{{#invoke:Football box|main|section=A6
+|date={{Start date|1974|7|3|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|NED}}
+|score={{score link|1974 FIFA World Cup Group A#Netherlands vs Brazil|2–0}}
+|team2={{fb|BRA|1968}}
+|goals1=
+*[[Johan Neeskens|Neeskens]] {{goal|50}}
+*[[Johan Cruyff|Cruyff]] {{goal|65}}
+|goals2=
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=53,700
+|referee=[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/1983 |title=Netherlands vs Brazil {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=1983/index.html |title=1974 FIFA World Cup Germany – Matches – Netherlands v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228033111/http://www.fifa.com/worldcup/matches/round=263/match=1983/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+| pattern_la = _netherlands80a
+| pattern_b  = _ned74a
+| pattern_ra = _netherlands80a
+ |pattern_sh = _orange stripes
+ |pattern_so = _color_3_stripes_black
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FF9933
+ |title      = Netherlands
+}}
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _whitecollar
+ |pattern_ra = _whiteborder
+ |pattern_sh = _white_stripes
+ |pattern_so = _BRAhome0710
+ |leftarm    = 0000C6
+ |body       = 0000C6
+ |rightarm   = 0000C6
+ |shorts     = 0047AB
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|DF ||'''6''' ||[[Wim Jansen]]
+|-
+|DF ||'''12'''||[[Ruud Krol]]
+|-
+|DF ||'''17'''||[[Wim Rijsbergen]]
+|-
+|DF ||'''20'''||[[Wim Suurbier]] || {{yel|29}} 
+|-
+|MF ||'''2''' ||[[Arie Haan]]
+|-
+|MF ||'''3''' ||[[Willem van Hanegem]]
+|-
+|MF ||'''13'''||[[Johan Neeskens]] || || {{suboff|85}}
+|-
+|FW ||'''14'''||[[Johan Cruyff]] ([[Captain (association football)|c]])
+|-
+|FW ||'''15'''||[[Rob Rensenbrink]] || || {{suboff|67}}
+|-
+|FW ||'''16'''||[[Johnny Rep]] || {{yel|69}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Theo de Jong]] || || {{subon|67}}
+|-
+|DF ||'''5''' ||[[Rinus Israel]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rinus Michels]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Émerson Leão|Leão]]
+|-
+|DF ||'''2''' ||[[Luís Pereira]] || {{sent off|1|29|84}}
+|-
+|DF ||'''3''' ||[[Marinho Peres]] || {{yel|44}}
+|-
+|DF ||'''4''' ||[[Zé Maria (footballer, born 1949)|Zé Maria]] || {{yel|37}}
+|-
+|DF ||'''6''' ||[[Marinho Chagas]]
+|-
+|MF ||'''10'''||[[Rivellino]]
+|-
+|MF ||'''11'''||[[Caju (footballer, born 1949)|Caju]] || || {{suboff|61}}
+|-
+|MF ||'''17'''||[[Paulo César Carpegiani|Carpegiani]]
+|-
+|MF ||'''7''' ||[[Jairzinho]] 
+|-
+|MF ||'''13'''||[[Valdomiro Vaz Franco|Valdomiro]]
+|-
+|FW ||'''21'''||[[Dirceu]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Mirandinha (footballer, born 1952)|Mirandinha]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Bobby Davidson]] ([[Scottish Football Association|Scotland]])
+<br />[[Govindasamy Suppiah]] ([[Football Association of Singapore|Singapore]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Brazil at the FIFA World Cup]]
+*[[East Germany at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:1974 FIFA World Cup group stage|Group A]]
+[[Category:Argentina at the 1974 FIFA World Cup]]
+[[Category:Brazil at the 1974 FIFA World Cup]]
+[[Category:Netherlands at the 1974 FIFA World Cup]]
+[[Category:East Germany at the 1974 FIFA World Cup]]
+[[Category:Argentina–Brazil football rivalry]]
+[[Category:Sports competitions in Dortmund]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:Sports competitions in Hanover]]
+[[Category:Football competitions in North Rhine-Westphalia]]
+[[Category:Football competitions in Lower Saxony]]
+[[Category:1970s in North Rhine-Westphalia]]
+[[Category:20th century in Gelsenkirchen]]
+[[Category:20th century in Dortmund]]
+[[Category:20th century in Hanover]]

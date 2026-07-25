@@ -1,0 +1,859 @@
+{{Short description|Football tournament group stage}}
+{{distinguish|1974 FIFA World Cup Group 2}}
+{{more citations needed|date=January 2021}}
+{{Use dmy dates|date=May 2018}}
+Group B was one of two groups in the second group stage of the [[1974 FIFA World Cup]] finals. It was the first time that this stage of the competition (equivalent to the quarter-finals) was played in a group format.<ref>{{cite journal |last1=Csató |first1=László |last2=Kiss |first2=László Marcell |last3=Szádoczki |first3=Zsombor |title=The allocation of FIFA World Cup slots based on the ranking of confederations |journal=Annals of Operations Research |date=12 June 2024 |volume=344 |issue=1 |pages=153–173 |doi=10.1007/s10479-024-06091-5 |url=https://link.springer.com/article/10.1007/s10479-024-06091-5 |language=en |issn=1572-9338}}</ref> Matches were played between 26 June and 3 July 1974 at venues in [[Düsseldorf]], [[Frankfurt]] and [[Stuttgart]]. Group B was made up of the winners of [[1974 FIFA World Cup Group 2|Groups 2]] and [[1974 FIFA World Cup Group 4|Groups 4]] ([[Yugoslavia national football team|Yugoslavia]] and [[Poland national football team|Poland]]), and the runners-up from [[1974 FIFA World Cup Group 1|Groups 1]] and [[1974 FIFA World Cup Group 3|Groups 3]] ([[Germany national football team|West Germany]] and [[Sweden men's national football team|Sweden]]).<ref>{{cite web |url=https://www.rsssf.org/tables/74full.html |title=World Cup 1974 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+Having each won both of their first two matches, West Germany and Poland went into their final match level on points with a place in the [[1974 FIFA World Cup Final|final]] at stake. West Germany won the match 1–0 and qualified to play against the [[Netherlands national football team|Netherlands]], while Poland finished second and went on to play in the match for third place against [[Brazil national football team|Brazil]].<ref name="fifastudy">{{cite web |title=FIFA World Cup 1974 Final Competition Technical Study |url=http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/65/wc_74_tr_312.pdf |publisher=FIFA |access-date=3 March 2026 |archive-url=https://web.archive.org/web/20111220060217/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/65/wc%5f74%5ftr%5f312.pdf |archive-date=20 December 2011 |pages=57–62}}</ref>
+
+==Qualified teams==
+The winners of Group 2 and 4 and the runners-up of Group 1 and 3 qualified for Group B of the second round.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+|-
+! [[1974 FIFA World Cup Group 2|2]]
+| {{fb|YUG}}
+|-
+! [[1974 FIFA World Cup Group 4|4]]
+| {{fb|POL|1928}}
+|-
+! Group
+! width="150" | Runners-up
+|-
+! [[1974 FIFA World Cup Group 1|1]]
+| {{fb|FRG}}
+|-
+! [[1974 FIFA World Cup Group 3|3]]
+| {{fb|SWE}}
+|}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407142357/http://www.fifa.com/worldcup/archive/germany1974/groups/index.html FIFA]
+
+|team1=FRG |team2=POL |team3=SWE |team4=YUG
+|result1=F |result2=TP
+
+|win_FRG=3 |draw_FRG=0 |loss_FRG=0 |gf_FRG=7 |ga_FRG=2
+|win_POL=2 |draw_POL=0 |loss_POL=1 |gf_POL=3 |ga_POL=2
+|win_SWE=1 |draw_SWE=0 |loss_SWE=2 |gf_SWE=4 |ga_SWE=6
+|win_YUG=0 |draw_YUG=0 |loss_YUG=3 |gf_YUG=2 |ga_YUG=6
+
+|name_POL={{fb|POL|1928}}
+|name_SWE={{fb|SWE}}
+|name_FRG={{fb|FRG}}
+|name_YUG={{fb|YUG}}
+|res_col_header=Q
+|col_F=green1 |text_F=Advance to [[1974 FIFA World Cup#Final|final]]
+
+|col_TP=blue1 |text_TP=Advance to {{nowrap|[[1974 FIFA World Cup#Match for third place|match for third place]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===West Germany vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|1974|6|26|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|YUG}}
+|score={{score link|1974 FIFA World Cup Group B#West Germany vs Yugoslavia|0–2}}
+|team2={{fb|FRG}}
+|goals1=
+|goals2=
+*[[Paul Breitner|Breitner]] {{goal|39}}
+*[[Gerd Müller|Müller]] {{goal|82}}
+|stadium=[[Rheinstadion]], [[Düsseldorf]]
+|attendance=67,385
+|referee=[[Armando Marques (referee)|Armando Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/2066 |title=Yugoslavia vs Germany FR {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=2066/index.html |title=1974 FIFA World Cup Germany – Matches – Yugoslavia v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228031046/http://www.fifa.com/worldcup/matches/round=263/match=2066/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _red stripes
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Yugoslavia
+}}
+|{{Football kit
+ |pattern_la = _blackborder 
+ |pattern_b  = _vneckblack
+ |pattern_ra = _blackborder 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = West Germany
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enver Marić]]
+|-
+|DF ||'''2''' ||[[Ivan Buljan]] || {{yel|36}}
+|-
+|DF ||'''3''' ||[[Enver Hadžiabdić]] || {{yel|61}}
+|-
+|DF ||'''4''' ||[[Dražen Mužinić]]
+|-
+|DF ||'''5''' ||[[Josip Katalinski]]
+|-
+|MF ||'''8''' ||[[Branko Oblak]] || || {{suboff|84}}
+|-
+|MF ||'''10'''||[[Jovan Aćimović]]
+|-
+|FW ||'''9''' ||[[Ivica Šurjak]]
+|-
+|FW ||'''11'''||[[Dragan Džajić]] ([[Captain (association football)|c]]) || || {{suboff|84}}
+|-
+|FW ||'''17'''||[[Danilo Popivoda]]
+|-
+|FW ||'''18'''||[[Stanislav Karasi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Ilija Petković]] || || {{subon|84}}
+|-
+|MF ||'''12''' ||[[Jurica Jerković]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Miljan Miljanić]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|DF ||'''2''' ||[[Berti Vogts]] || {{yel|35}}
+|-
+|DF ||'''3''' ||[[Paul Breitner]]
+|-
+|DF ||'''4''' ||[[Hans-Georg Schwarzenbeck]]
+|-
+|DF ||'''5''' ||[[Franz Beckenbauer]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Herbert Wimmer]] || || {{suboff|73}}
+|-
+|MF ||'''12'''||[[Wolfgang Overath]] || {{yel|16}}
+|-
+|MF ||'''16'''||[[Rainer Bonhof]]
+|-
+|MF ||'''17'''||[[Bernd Hölzenbein]] || || {{suboff|78}}
+|-
+|FW ||'''18'''||[[Dieter Herzog]]
+|-
+|FW ||'''13'''||[[Gerd Müller]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Uli Hoeneß]] || || {{subon|73}}
+|-
+|MF ||'''15'''||[[Heinz Flohe]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Aurelio Angonese]] ([[Italian Football Federation|Italy]])
+<br />[[Edison Peréz Núñez]] ([[Peruvian Football Federation|Peru]])
+|}
+
+===Sweden vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|1974|6|26|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|SWE}}
+|score={{score link|1974 FIFA World Cup Group B#Sweden vs Poland|0–1}}
+|team2={{fb|POL|1928}}
+|goals1=
+|goals2=
+*[[Grzegorz Lato|Lato]] {{goal|43}}
+|stadium=[[MHPArena|Neckarstadion]], [[Stuttgart]]
+|attendance=44,955
+|referee=[[Ramón Barreto]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/2167 |title=Sweden vs Poland {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=2167/index.html |title=1974 FIFA World Cup Germany – Matches – Sweden v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001649/http://www.fifa.com/worldcup/matches/round=263/match=2167/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _shoulder_stripes_vneck_blue
+ | pattern_ra = _blueborder
+ | pattern_sh = _yellow_stripes_adidas
+ | pattern_so = _bluehorizontal 
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ |title      = Sweden
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _red_stripes_adidas
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = ffffff
+ |socks      = FF0000
+ |title      = Poland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ronnie Hellström]]
+|-
+|DF ||'''3''' ||[[Kent Karlsson]]
+|-
+|DF ||'''4''' ||[[Björn Nordqvist]]
+|-
+|DF ||'''5''' ||[[Björn Andersson (footballer, born 1951)|Björn Andersson]] || || {{suboff|60}}
+|-
+|DF ||'''13'''||[[Roland Grip]]
+|-
+|MF ||'''8''' ||[[Conny Torstensson]]
+|-
+|MF ||'''14'''||[[Staffan Tapper]] || || {{suboff|80}}
+|-
+|FW ||'''6''' ||[[Ove Grahn]]
+|-
+|FW ||'''7''' ||[[Bo Larsson]] ([[Captain (association football)|c]])
+|-
+|FW ||'''10'''||[[Ralf Edström]]
+|-
+|FW ||'''11'''||[[Roland Sandberg]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''18''' ||[[Jörgen Augustsson]] || || {{subon|60}}
+|-
+|MF ||'''22''' ||[[Thomas Ahlström]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Ericson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Jan Tomaszewski]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF ||'''5''' ||[[Zbigniew Gut]]
+|-
+|DF ||'''6''' ||[[Jerzy Gorgoń]] || {{yel|49}}
+|-
+|DF ||'''9''' ||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|MF ||'''12'''||[[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|MF ||'''13'''||[[Henryk Kasperczak]]
+|-
+|MF ||'''14'''||[[Zygmunt Maszczyk]]
+|-
+|FW ||'''16'''||[[Grzegorz Lato]]
+|-
+|FW ||'''17'''||[[Andrzej Szarmach]] || {{yel|44}} || {{suboff|62}}
+|-
+|FW ||'''18'''||[[Robert Gadocha]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21''' ||[[Kazimierz Kmiecik]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kazimierz Górski]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Alfonso González Archundia]] ([[Mexican Football Federation|Mexico]])
+<br />[[Luis Pestarino]] ([[Argentina Football Association|Argentina]])
+|}
+
+===Poland vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|1974|6|30|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|POL|1928}}
+|score={{score link|1974 FIFA World Cup Group B#Poland vs Yugoslavia|2–1}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Kazimierz Deyna|Deyna]] {{goal|24|pen.}}
+*[[Grzegorz Lato|Lato]] {{goal|62}}
+|goals2=
+*[[Stanislav Karasi|Karasi]] {{goal|43}}
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=58,000
+|referee=[[Rudi Glöckner]] ([[German Football Association of the GDR|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/2170 |title=Poland vs Yugoslavia {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=2170/index.html |title=1974 FIFA World Cup Germany – Matches – Poland v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001654/http://www.fifa.com/worldcup/matches/round=263/match=2170/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_red_stripes
+ |pattern_b  = _shoulder_stripes_red_stripes
+ |pattern_ra = _shoulder_stripes_red_stripes
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_red
+ |leftarm    = ffffff 
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ff0000
+ |socks      = ffffff
+ |title      = Poland
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _red stripes
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Yugoslavia
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Jan Tomaszewski]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF ||'''6''' ||[[Jerzy Gorgoń]]
+|-
+|DF ||'''9'''||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF||'''10'''||[[Adam Musiał]]
+|-
+|MF ||'''12'''||[[Kazimierz Deyna]] ([[Captain (association football)|c]]) || || {{suboff|80}}
+|-
+|MF ||'''13'''||[[Henryk Kasperczak]]
+|-
+|MF ||'''14'''||[[Zygmunt Maszczyk]]
+|-
+|FW ||'''16'''||[[Grzegorz Lato]]
+|-
+|FW ||'''17'''||[[Andrzej Szarmach]] || || {{suboff|57}}
+|-
+|FW ||'''18'''||[[Robert Gadocha]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Lesław Ćmikiewicz]] || || {{subon|57}}
+|-
+|FW ||'''19'''||[[Jan Domarski]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kazimierz Górski]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enver Marić]]
+|-
+|DF ||'''2''' ||[[Ivan Buljan]]
+|-
+|DF ||'''3''' ||[[Enver Hadžiabdić]]
+|-
+|DF ||'''5''' ||[[Josip Katalinski]]
+|-
+|MF ||'''6'''||[[Vladislav Bogićević]]
+|-
+|MF ||'''7'''||[[Ilija Petković]] || || {{suboff|81}}
+|-
+|MF ||'''8'''||[[Branko Oblak]] || || {{suboff|16}}
+|-
+|MF ||'''10'''||[[Jovan Aćimović]] ([[Captain (association football)|c]])
+|-
+|FW ||'''9'''||[[Ivica Šurjak]]
+|-
+|FW ||'''18'''||[[Stanislav Karasi]]
+|-
+|FW ||'''19'''||[[Dušan Bajević]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''12''' ||[[Jurica Jerković]] || || {{subon|16}}
+|-
+|MF ||'''20''' ||[[Vladimir Petrović]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Miljan Miljanić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Armando Marques (referee)|Armando Marques]] ([[Brazilian Football Confederation|Brazil]])
+<br />[[Werner Winsemann]] ([[Canadian Soccer Association|Canada]])
+|}
+
+===West Germany vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|1974|6|30|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1974 FIFA World Cup Group B#West Germany vs Sweden|4–2}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Wolfgang Overath|Overath]] {{goal|51}}
+*[[Rainer Bonhof|Bonhof]] {{goal|52}}
+*[[Jürgen Grabowski|Grabowski]] {{goal|76}}
+*[[Uli Hoeneß|Hoeneß]] {{goal|89|pen.}}
+|goals2=
+*[[Ralf Edström|Edström]] {{goal|24}}
+*[[Roland Sandberg|Sandberg]] {{goal|53}}
+|stadium=[[Rheinstadion]], [[Düsseldorf]]
+|attendance=67,800
+|referee=[[Pavel Kazakov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/2065 |title=Germany FR vs Sweden {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=2065/index.html |title=1974 FIFA World Cup Germany – Matches – Germany FR v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201091419/http://www.fifa.com/worldcup/matches/round=263/match=2065/index.html |archive-date=1 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _whiteborder 
+ |pattern_b  = _whitecollar 
+ |pattern_ra = _whiteborder
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 008020
+ |body       = 008020
+ |rightarm   = 008020
+ |shorts     = FFFFFF
+ |socks      = 008020
+ |title      = West Germany
+}}
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _shoulder_stripes_vneck_blue
+ | pattern_ra = _blueborder
+ | pattern_sh = _yellow_stripes_adidas
+ | pattern_so = _bluehorizontal 
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ |title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|RB ||'''2''' ||[[Berti Vogts]]
+|-
+|CB ||'''5''' ||[[Franz Beckenbauer]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Hans-Georg Schwarzenbeck]]
+|-
+|LB ||'''3''' ||[[Paul Breitner]]
+|-
+|DM ||'''16'''||[[Rainer Bonhof]]
+|-
+|RM ||'''14'''||[[Uli Hoeneß]]
+|-
+|CM ||'''12'''||[[Wolfgang Overath]]
+|-
+|CM ||'''17'''||[[Bernd Hölzenbein]] || || {{suboff|83}}
+|-
+|LM ||'''18'''||[[Dieter Herzog]] || || {{suboff|64}}
+|-
+|CF ||'''13'''||[[Gerd Müller]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Jürgen Grabowski]] || || {{subon|64}}
+|-
+|MF ||'''15'''||[[Heinz Flohe]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ronnie Hellström]]
+|-
+|RB ||'''2''' ||[[Jan Olsson (footballer, born 1942)|Jan Olsson]]
+|-
+|CB ||'''3''' ||[[Kent Karlsson]]
+|-
+|CB ||'''4''' ||[[Björn Nordqvist]]
+|-
+|LB ||'''18'''||[[Jörgen Augustsson]]
+|-
+|CM ||'''14'''||[[Staffan Tapper]]
+|-
+|RW ||'''10'''||[[Ralf Edström]]
+|-
+|AM ||'''8''' ||[[Conny Torstensson]]
+|-
+|LW ||'''11'''||[[Roland Sandberg]]
+|-
+|CF ||'''7''' ||[[Bo Larsson]] ([[Captain (association football)|c]]) || || {{suboff|32}}
+|-
+|CF ||'''6''' ||[[Ove Grahn]] || {{yel|45}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Inge Ejderstedt]] || || {{subon|32}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Ericson]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Nicolae Rainea]] ([[Romanian Football Federation|Romania]])
+<br />[[Pablo Sánchez Ibáñez]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+===Poland vs West Germany===
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|1974|7|3|df=y}}
+|time=16:35 [[Central European Time|CET]]{{efn|Originally scheduled for 16:00, the kick-off was delayed due to heavy rain, which created puddles on the pitch.<ref>{{cite news |archiveurl=https://web.archive.org/web/20180517043505/http://www.fifa.com/worldcup/news/schon-s-west-germans-in-stats-2837201 |archivedate=17 May 2018 |title=Schon's West Germans in numbers |url=http://www.fifa.com/worldcup/news/schon-s-west-germans-in-stats-2837201 |website=FIFA.com |date=28 September 2016 |accessdate=20 July 2022 }}</ref>}}
+|team1={{fb-rt|POL|1928}}
+|score={{score link|1974 FIFA World Cup Group B#Poland vs West Germany|0–1}}
+|team2={{fb|FRG}}
+|goals1=
+|goals2=
+*[[Gerd Müller|Müller]] {{goal|76}}
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=62,000
+|referee=[[Erich Linemayr]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/2064 |title=Poland vs Germany FR {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=2064/index.html |title=1974 FIFA World Cup Germany – Matches – Poland v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201075050/http://www.fifa.com/worldcup/matches/round=263/match=2064/index.html |archive-date=1 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = ff0000
+ |body       = ff0000
+ |rightarm   = ff0000
+ |shorts     = ff0000
+ |socks      = ff0000
+ |title      = Poland
+}}
+|{{Football kit
+ |pattern_la = _blackborder 
+ |pattern_b  = _blackcollar
+ |pattern_ra = _blackborder 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFF
+ |socks      = FFFFFF
+ |title      = West Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Jan Tomaszewski]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF ||'''6''' ||[[Jerzy Gorgoń]]
+|-
+|DF ||'''9'''||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF||'''10'''||[[Adam Musiał]]
+|-
+|MF ||'''12'''||[[Kazimierz Deyna]] ([[Captain (association football)|c]])
+|-
+|MF ||'''13'''||[[Henryk Kasperczak]]  || || {{suboff|80}}
+|-
+|MF ||'''14'''||[[Zygmunt Maszczyk]] || || {{suboff|80}}
+|-
+|FW ||'''16'''||[[Grzegorz Lato]]
+|-
+|FW ||'''18'''||[[Robert Gadocha]]
+|-
+|FW ||'''19'''||[[Jan Domarski]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11''' ||[[Lesław Ćmikiewicz]] || || {{subon|80}}
+|-
+|FW ||'''21''' ||[[Kazimierz Kmiecik]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kazimierz Górski]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sepp Maier]]
+|-
+|DF ||'''2''' ||[[Berti Vogts]]
+|-
+|DF ||'''3''' ||[[Paul Breitner]]
+|-
+|DF ||'''4''' ||[[Hans-Georg Schwarzenbeck]]
+|-
+|DF ||'''5''' ||[[Franz Beckenbauer]] ([[Captain (association football)|c]])
+|-
+|MF ||'''12'''||[[Wolfgang Overath]]
+|-
+|MF ||'''16'''||[[Rainer Bonhof]]
+|-
+|MF ||'''17'''||[[Bernd Hölzenbein]]
+|-
+|FW ||'''9''' ||[[Jürgen Grabowski]]
+|-
+|FW ||'''13'''||[[Gerd Müller]]
+|-
+|FW ||'''14'''||[[Uli Hoeneß]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Helmut Schön]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+<br />[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+|}
+
+===Sweden vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=B6
+|date={{Start date|1974|7|3|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|SWE}}
+|score={{score link|1974 FIFA World Cup Group B#Sweden vs Yugoslavia|2–1}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Ralf Edström|Edström]] {{goal|29}}
+*[[Conny Torstensson|Torstensson]] {{goal|85}}
+|goals2=
+*[[Ivica Šurjak|Šurjak]] {{goal|27}}
+|stadium=[[Rheinstadion]], [[Düsseldorf]]
+|attendance=41,300
+|referee=[[Luis Pestarino]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/263/2182 |title=Sweden vs Yugoslavia {{!}} Second Round {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=263/match=2182/index.html |title=1974 FIFA World Cup Germany – Matches – Sweden v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001659/http://www.fifa.com/worldcup/matches/round=263/match=2182/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _shoulder_stripes_vneck_blue
+ | pattern_ra = _blueborder
+ | pattern_sh = _yellow_stripes_adidas
+ | pattern_so = _bluehorizontal 
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ |title      = Sweden
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_white_stripes_alt
+ |pattern_b  = _shoulder_stripes_white_stripes
+ |pattern_ra = _shoulder_stripes_white_stripes_alt
+ |pattern_sh = _red stripes
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Yugoslavia
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ronnie Hellström]]
+|-
+|DF ||'''2''' ||[[Jan Olsson (footballer, born 1942)|Jan Olsson]]
+|-
+|DF ||'''3''' ||[[Kent Karlsson]]
+|-
+|DF ||'''4''' ||[[Björn Nordqvist]] ([[Captain (association football)|c]])
+|-
+|DF ||'''18'''||[[Jörgen Augustsson]]
+|-
+|MF ||'''8''' ||[[Conny Torstensson]]
+|-
+|MF ||'''14'''||[[Staffan Tapper]]
+|-
+|MF ||'''21'''||[[Örjan Persson]]
+|-
+|FW ||'''6''' ||[[Ove Grahn]]
+|-
+|FW ||'''10'''||[[Ralf Edström]]
+|-
+|FW ||'''11'''||[[Roland Sandberg]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Ericson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enver Marić]]
+|-
+|DF ||'''2''' ||[[Ivan Buljan]]
+|-
+|DF ||'''3''' ||[[Enver Hadžiabdić]]
+|-
+|DF ||'''5''' ||[[Josip Katalinski]] || {{yel|26}}
+|-
+|MF ||'''6''' ||[[Vladislav Bogićević]]
+|-
+|MF ||'''10'''||[[Jovan Aćimović]]
+|-
+|MF ||'''12'''||[[Jurica Jerković]]
+|-
+|MF ||'''13'''||[[Miroslav Pavlović]] || || {{suboff|78}}
+|-
+|MF ||'''20'''||[[Vladimir Petrović]] || || {{suboff|70}}
+|-
+|FW ||'''9''' ||[[Ivica Šurjak]]
+|-
+|FW ||'''11'''||[[Dragan Džajić]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Stanislav Karasi]] || {{yel|86}} || {{subon|70}}
+|-
+|DF ||'''14'''||[[Luka Peruzović]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Miljan Miljanić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Linesmen:'''
+<br />[[Ramón Barreto]] ([[Uruguayan Football Association|Uruguay]])
+<br />[[Vincente Llobregat]] ([[Venezuelan Football Federation|Venezuela]])
+|}
+
+==See also==
+*[[Germany at the FIFA World Cup]]
+*[[Poland at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+*[[Yugoslavia at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:1974 FIFA World Cup group stage|Group A]]
+[[Category:West Germany at the 1974 FIFA World Cup]]
+[[Category:Yugoslavia at the 1974 FIFA World Cup]]
+[[Category:Sweden at the 1974 FIFA World Cup]]
+[[Category:Poland at the 1974 FIFA World Cup]]
+[[Category:Sports competitions in Düsseldorf]]
+[[Category:1970s in Düsseldorf]]
+[[Category:Football competitions in North Rhine-Westphalia]]
+[[Category:Football in Stuttgart]]
+[[Category:Football competitions in Baden-Württemberg]]
+[[Category:1970s in Baden-Württemberg]]
+[[Category:20th century in Stuttgart]]
+[[Category:Football competitions in Frankfurt]]
+[[Category:1970s in Frankfurt]]

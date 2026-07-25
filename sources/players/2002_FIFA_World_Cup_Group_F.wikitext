@@ -1,0 +1,889 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+The '''Group F of the [[2002 FIFA World Cup]]''' lasted from 2 to 12 June 2002. [[Sweden men's national football team|Sweden]] won the group, and advanced to the second round, along with [[England national football team|England]].<ref>{{cite web |last=Manaschev |first=Erlan |url=https://www.rsssf.org/tables/2002full.html |title=World Cup 2002 – Match Details |publisher=[[RSSSF]] |date=3 July 2008 |access-date=30 April 2026}}</ref> The two sides were level on points, but Sweden won the tie-break on goals scored, and so won the group with England in second place. [[Argentina national football team|Argentina]] and [[Nigeria national football team|Nigeria]] failed to advance. Group F was considered by several commentators to be a 'group of death' due to the high rankings, and World Cup records of the teams in the group.<ref>BBC SPORT | WORLD CUP | Argentina v England | England's sweet revenge http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/argentina_v_england/default.stm</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/4395?date=2002-06-14&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=SWE
+|team2=ENG
+|team3=ARG
+|team4=NGA
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2002 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_SWE=1 |draw_SWE=2 |loss_SWE=0 |gf_SWE=4 |ga_SWE=3
+|win_ENG=1 |draw_ENG=2 |loss_ENG=0 |gf_ENG=2 |ga_ENG=1
+|win_ARG=1 |draw_ARG=1 |loss_ARG=1 |gf_ARG=2 |ga_ARG=2
+|win_NGA=0 |draw_NGA=1 |loss_NGA=2 |gf_NGA=1 |ga_NGA=3
+
+|name_SWE={{fb|SWE}}
+|name_ENG={{fb|ENG}}
+|name_ARG={{fb|ARG|1861}}
+|name_NGA={{fb|NGA}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2002 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+*[[Sweden men's national football team|Sweden]] advanced to play [[Senegal national football team|Senegal]] (runner-up of [[2002 FIFA World Cup Group A|Group A]]) in the [[2002 FIFA World Cup knockout stage#Sweden vs Senegal|round of 16]].
+*[[England national football team|England]] advanced to play [[Denmark national football team|Denmark]] (winner of [[2002 FIFA World Cup Group A|Group A]]) in the [[2002 FIFA World Cup knockout stage#Denmark vs England|round of 16]].
+
+==Matches==
+''All times local ([[Japan Standard Time|UTC+9]])''
+
+===Argentina vs Nigeria===
+<onlyinclude>{{#invoke:Football box|main|section=F1
+|date={{Start date|2002|6|2|df=y}}
+|time=14:30
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|2002 FIFA World Cup Group F#Argentina vs Nigeria|1–0}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Gabriel Batistuta|Batistuta]] {{goal|63}}
+|goals2=
+|stadium=[[Kashima Soccer Stadium]], [[Ibaraki, Ibaraki|Ibaraki]]
+|attendance=34,050
+|referee=[[Gilles Veissière]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950007 |title=Argentina vs Nigeria {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950007/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Argentina v Nigeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228031106/http://www.fifa.com/worldcup/matches/round=43950100/match=43950007/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/07_0602_IBA_ARG-NGA_Fulltime.pdf |title=Match Report – Group F – Argentina v Nigeria |publisher=[[FIFA]] |date=2 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060717080105/http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/07_0602_IBA_ARG-NGA_Fulltime.pdf |archive-date=17 July 2006}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=_arg02a2
+|pattern_b=_arg02a2
+|pattern_ra=_arg02a2
+|pattern_sh=_arg02h
+|pattern_so=
+|leftarm=000040
+|body=000040
+|rightarm=000040
+|shorts=000000
+|socks=000040
+|title=Argentina}}
+|{{Football kit|
+ |pattern_la = _whitesmalllower
+ |pattern_b  = _nig02h
+ |pattern_ra = _whitesmalllower
+ |pattern_sh = _nig02h
+ |pattern_so = _nig02h
+ |leftarm    = 00FF00
+ |body       = 00FF00
+ |rightarm   = 00FF00
+ |shorts     = 00FF00
+ |socks      = 00FF00
+ |title      = Nigeria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Pablo Cavallero]]
+|-
+|CB ||'''4''' ||[[Mauricio Pochettino]]
+|-
+|CB ||'''6''' ||[[Walter Samuel]] || {{yel|51}}
+|-
+|CB ||'''13'''||[[Diego Placente]]
+|-
+|RWB ||'''8''' ||[[Javier Zanetti]]
+|-
+|LWB ||'''3''' ||[[Juan Pablo Sorín]]
+|-
+|CM ||'''14'''||[[Diego Simeone]] || {{yel|90}}
+|-
+|CM ||'''11'''||[[Juan Sebastián Verón]] ([[Captain (association football)|c]]) || || {{suboff|78}}
+|-
+|RF ||'''10'''||[[Ariel Ortega]]
+|-
+|CF ||'''9''' ||[[Gabriel Batistuta]] || || {{suboff|81}}
+|-
+|LF ||'''7''' ||[[Claudio López (footballer)|Claudio López]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Kily González]] || || {{subon|46}}
+|-
+|MF ||'''16'''||[[Pablo Aimar]] || || {{subon|78}}
+|-
+|FW ||'''19'''||[[Hernán Crespo]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcelo Bielsa]]
+|}
+|valign="top"|[[File:ARG-NGA 2002-06-02.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ike Shorunmu]]
+|-
+|RB ||'''2''' ||[[Joseph Yobo]]
+|-
+|CB ||'''6''' ||[[Taribo West]]
+|-
+|CB ||'''5''' ||[[Isaac Okoronkwo]]
+|-
+|LB ||'''3''' ||[[Celestine Babayaro]]
+|-
+|DM ||'''16'''||[[Efe Sodje]] || {{yel|73}} || {{suboff|73}}
+|-
+|RM ||'''10'''||[[Jay-Jay Okocha]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Garba Lawal]]
+|-
+|SS ||'''4''' ||[[Nwankwo Kanu]] || || {{suboff|48}}
+|-
+|CF ||'''17'''||[[Julius Aghahowa]]
+|-
+|CF ||'''9''' ||[[Bartholomew Ogbeche]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Pius Ikedia]] || || {{subon|48}}
+|-
+|MF ||'''15'''||[[Justice Christopher]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Festus Onigbinde]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Juan Sebastián Verón]] (Argentina)
+
+'''Assistant referees:'''
+<br />Frédéric Arnault ([[French Football Federation|France]])
+<br />Heiner Müller ([[German Football Association|Germany]])
+<br />'''Fourth official:'''
+<br />[[Markus Merk]] ([[German Football Association|Germany]])
+|}
+
+===England vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=F2
+|date={{Start date|2002|6|2|df=y}}
+|time=18:30
+|team1={{fb-rt|ENG}}
+|score={{score link|2002 FIFA World Cup Group F#England vs Sweden|1–1}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Sol Campbell|Campbell]] {{goal|24}}
+|goals2=
+*[[Niclas Alexandersson|Alexandersson]] {{goal|59}}
+|stadium=[[Saitama Stadium]], [[Saitama, Saitama|Saitama]]
+|attendance=52,721
+|referee=[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950005 |title=England vs Sweden {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950005/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – England v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230120101/http://www.fifa.com/worldcup/matches/round=43950100/match=43950005/index.html |archive-date=30 December 2017}} | {{cite web |url=http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/05_0602_SAI_ENG-SWE_Fulltime.pdf |title=Match Report – Group F – England v Sweden |publisher=[[FIFA]] |date=2 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050514112526/http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/05_0602_SAI_ENG-SWE_Fulltime.pdf |archive-date=14 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _eng02h
+| pattern_ra = 
+| pattern_sh = _englandh0103
+| pattern_so = _eng02h
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000080
+| socks      = FFFFFF
+ |title = England
+}}
+|{{Football kit|
+pattern_la = _swe02a2|
+pattern_b = _swe02a2|
+pattern_ra =_swe02a2|
+pattern_sh =_swe02a|
+pattern_so = |
+leftarm = 0000E6|
+body = 0000E6|
+rightarm = 0000E6|
+shorts = FFFFFF|
+socks = 0000E6|
+title = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Seaman]]
+|-
+|RB ||'''2''' ||[[Danny Mills]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[Sol Campbell]] || {{yel|12}}
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]]) || || {{suboff|63}}
+|-
+|CM ||'''18'''||[[Owen Hargreaves]]
+|-
+|CM ||'''8''' ||[[Paul Scholes]]
+|-
+|LM ||'''20'''||[[Darius Vassell]] || || {{suboff|74}}
+|-
+|CF ||'''11'''||[[Emile Heskey]]
+|-
+|CF ||'''10'''||[[Michael Owen]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''23'''||[[Kieron Dyer]] || || {{subon|63}}
+|-
+|MF ||'''19'''||[[Joe Cole]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|valign="top"|[[File:ENG-SWE 2002-06-02.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Magnus Hedman]]
+|-
+|RB ||'''2''' ||[[Olof Mellberg]]
+|-
+|CB ||'''15'''||[[Andreas Jakobsson]] || {{yel|73}}
+|-
+|CB ||'''4''' ||[[Johan Mjällby]] ([[Captain (association football)|c]])
+|-
+|LB ||'''16'''||[[Teddy Lučić]]
+|-
+|RM ||'''7''' ||[[Niclas Alexandersson]]
+|-
+|CM ||'''6''' ||[[Tobias Linderoth]]
+|-
+|CM ||'''17'''||[[Magnus Svensson (footballer)|Magnus Svensson]] || || {{suboff|56}}
+|-
+|LM ||'''9''' ||[[Freddie Ljungberg]]
+|-
+|CF ||'''10'''||[[Marcus Allbäck]] || {{yel|45+2}} || {{suboff|80}}
+|-
+|CF ||'''11'''||[[Henrik Larsson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Anders Svensson (footballer, born 1976)|Anders Svensson]] || || {{subon|56}}
+|-
+|FW ||'''22'''||[[Andreas Andersson (footballer, born 1974)|Andreas Andersson]] || || {{subon|80}}
+|-
+|colspan=6|'''Managers:'''
+|-
+|colspan="6"|[[Lars Lagerbäck]]<br />[[Tommy Söderberg]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Sol Campbell]] (England)
+
+'''Assistant referees:'''
+<br />Jorge Oliveira ([[Brazilian Football Confederation|Brazil]])
+<br />Yury Dupanov ([[Football Federation of Belarus|Belarus]])
+<br />'''Fourth official:'''
+<br />[[Mark Shield]] ([[Football Federation Australia|Australia]])
+|}
+
+===Sweden vs Nigeria===
+<onlyinclude>{{#invoke:Football box|main|section=F3
+|date={{Start date|2002|6|7|df=y}}
+|time=15:30
+|team1={{fb-rt|SWE}}
+|score={{score link|2002 FIFA World Cup Group F#Sweden vs Nigeria|2–1}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Henrik Larsson|Larsson]] {{goal|35||63|pen.}}
+|goals2=
+*[[Julius Aghahowa|Aghahowa]] {{goal|27}}
+|stadium=[[Wing Stadium]], [[Kobe]]
+|attendance=36,194
+|referee=[[René Ortubé]] ([[Bolivian Football Federation|Bolivia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950021 |title=Sweden vs Nigeria {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950021/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Sweden v Nigeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230171933/http://www.fifa.com/worldcup/matches/round=43950100/match=43950021/index.html |archive-date=30 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/21_0607_KOB_SWE-NGA_Fulltime.pdf |title=Match Report – Group F – Sweden v Nigeria |publisher=[[FIFA]] |date=7 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030410073530/http://fifaworldcup.yahoo.com/releases/21_0607_KOB_SWE-NGA_Fulltime.pdf |archive-date=10 April 2003}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit|
+pattern_la = _swe02a2|
+pattern_b = _swe02a2|
+pattern_ra =_swe02a2|
+pattern_sh = _swe02h|
+pattern_so = |
+leftarm = 0000E6|
+body = 0000E6|
+rightarm = 0000E6|
+shorts = FFFFFF|
+socks = 0000E6|
+title = Sweden
+}}
+|{{Football kit
+|pattern_la = _whiteupper
+|pattern_b =_nig02A
+|pattern_ra =_whiteupper
+|pattern_sh = _nig02a
+|pattern_so = _nig02a
+|leftarm =00FF00
+|body = FFFFFF
+|rightarm =00FF00
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = Nigeria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Magnus Hedman]]
+|-
+|RB ||'''2''' ||[[Olof Mellberg]]
+|-
+|CB ||'''15'''||[[Andreas Jakobsson]]
+|-
+|CB ||'''4''' ||[[Johan Mjällby]] ([[Captain (association football)|c]]) || {{yel|31}}
+|-
+|LB ||'''16'''||[[Teddy Lučić]]
+|-
+|RM ||'''7''' ||[[Niclas Alexandersson]] || {{yel|69}}
+|-
+|CM ||'''6''' ||[[Tobias Linderoth]]
+|-
+|CM ||'''8''' ||[[Anders Svensson (footballer, born 1976)|Anders Svensson]] || || {{suboff|83}}
+|-
+|LM ||'''9''' ||[[Freddie Ljungberg]]
+|-
+|CF ||'''10'''||[[Marcus Allbäck]] || || {{suboff|64}}
+|-
+|CF ||'''11'''||[[Henrik Larsson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''22'''||[[Andreas Andersson (footballer, born 1974)|Andreas Andersson]] || || {{subon|64}}
+|-
+|MF ||'''17'''||[[Magnus Svensson (footballer)|Magnus Svensson]] || || {{subon|83}}
+|-
+|colspan=3|'''Managers:'''
+|-
+|colspan="4"|[[Lars Lagerbäck]]<br />[[Tommy Söderberg]]
+|}
+|valign="top"|[[File:SWE-NGA 2002-06-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ike Shorunmu]]
+|-
+|RB ||'''2''' ||[[Joseph Yobo]]
+|-
+|CB ||'''6''' ||[[Taribo West]] || {{yel|80}}
+|-
+|CB ||'''5''' ||[[Isaac Okoronkwo]]
+|-
+|LB ||'''14'''||[[Ifeanyi Udeze]]
+|-
+|RM ||'''10'''||[[Jay-Jay Okocha]] ([[Captain (association football)|c]])
+|-
+|CM ||'''15'''||[[Justice Christopher]]
+|-
+|LM ||'''3''' ||[[Celestine Babayaro]] || || {{suboff|65}}
+|-
+|AM ||'''21'''||[[John Utaka]]
+|-
+|CF ||'''17'''||[[Julius Aghahowa]]
+|-
+|CF ||'''9''' ||[[Bartholomew Ogbeche]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''4''' ||[[Nwankwo Kanu]] || || {{subon|65}}
+|-
+|MF ||'''7''' ||[[Pius Ikedia]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Festus Onigbinde]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Henrik Larsson]] (Sweden)
+
+'''Assistant referees:'''
+<br />Miguel Giacomuzzi ([[Paraguayan Football Association|Paraguay]])
+<br />Mat Lazim Awang Hamat ([[Football Association of Malaysia|Malaysia]])
+<br />'''Fourth official:'''
+<br />[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+|}
+
+===Argentina vs England===
+{{see also|Argentina–England football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=F4
+|date={{Start date|2002|6|7|df=y}}
+|time=20:30
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|2002 FIFA World Cup Group F#Argentina vs England|0–1}}
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+*[[David Beckham|Beckham]] {{goal|44|pen.}}
+|stadium=[[Sapporo Dome]], [[Sapporo]]
+|attendance=35,927
+|referee=[[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950023 |title=Argentina vs England {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950023/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Argentina v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230120139/http://www.fifa.com/worldcup/matches/round=43950100/match=43950023/index.html |archive-date=30 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/23_0607_SAP_ARG-ENG_Fulltime.pdf |title=Match Report – Group F – Argentina v England |publisher=[[FIFA]] |date=7 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060717041259/http://fifaworldcup.yahoo.com/releases/23_0607_SAP_ARG-ENG_Fulltime.pdf |archive-date=17 July 2006}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=_arg02h2
+|pattern_b=_arg02h2
+|pattern_ra=_arg02h2
+|pattern_sh=_arg02h
+|pattern_so=
+|leftarm=80BFFF
+|body=80BFFF
+|rightarm=80BFFF
+|shorts=000000
+|socks=FFFFFF
+|title=Argentina
+}}
+|{{Football kit
+| pattern_la=_enga0204
+|pattern_b=_enga0204
+|pattern_ra=_enga0204
+|pattern_sh=_enga0204
+|pattern_so=_enga0204
+| leftarm=FF0000
+|body=FF0000
+|rightarm=FF0000
+|shorts=FFFFFF
+|socks=FF0000
+|title=England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Pablo Cavallero]]
+|-
+|CB ||'''4''' ||[[Mauricio Pochettino]]
+|-
+|CB ||'''6''' ||[[Walter Samuel]]
+|-
+|CB ||'''13'''||[[Diego Placente]]
+|-
+|RWB ||'''8''' ||[[Javier Zanetti]]
+|-
+|LWB ||'''3''' ||[[Juan Pablo Sorín]]
+|-
+|CM ||'''14'''||[[Diego Simeone]]
+|-
+|CM ||'''11'''||[[Juan Sebastián Verón]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|RF ||'''10'''||[[Ariel Ortega]]
+|-
+|CF ||'''9''' ||[[Gabriel Batistuta]] || {{yel|13}} || {{suboff|60}}
+|-
+|LF ||'''18'''||[[Kily González]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Pablo Aimar]] || || {{subon|46}}
+|-
+|FW ||'''19'''||[[Hernán Crespo]] || || {{subon|60}}
+|-
+|FW ||'''7''' ||[[Claudio López (footballer)|Claudio López]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcelo Bielsa]]
+|}
+|valign="top"|[[File:ARG-ENG 2002-06-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Seaman]]
+|-
+|RB ||'''2''' ||[[Danny Mills]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[Sol Campbell]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]] || {{yel|29}}
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]])
+|-
+|CM ||'''18'''||[[Owen Hargreaves]] || || {{suboff|19}}
+|-
+|CM ||'''21'''||[[Nicky Butt]]
+|-
+|LM ||'''8''' ||[[Paul Scholes]]
+|-
+|CF ||'''10'''||[[Michael Owen]] || || {{suboff|80}}
+|-
+|CF ||'''11'''||[[Emile Heskey]] || {{yel|50}} || {{suboff|54}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4''' ||[[Trevor Sinclair]] || || {{subon|19}}
+|-
+|FW ||'''17'''||[[Teddy Sheringham]] || || {{subon|54}}
+|-
+|DF ||'''14'''||[[Wayne Bridge]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Paul Scholes]] (England)
+
+'''Assistant referees:'''
+<br />Héctor Vergara ([[Canadian Soccer Association|Canada]])
+<br />Mohamed Saeed ([[Football Association of Maldives|Maldives]])
+<br />'''Fourth official:'''
+<br />[[Brian Hall (referee)|Brian Hall]] ([[United States Soccer Federation|United States]])
+|}
+
+===Sweden vs Argentina===
+<onlyinclude>{{#invoke:Football box|main|section=F5
+|date={{Start date|2002|6|12|df=y}}
+|time=15:30
+|team1={{fb-rt|SWE}}
+|score={{score link|2002 FIFA World Cup Group F#Sweden vs Argentina|1–1}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Anders Svensson (footballer, born 1976)|A. Svensson]] {{goal|59}}
+|goals2=
+*[[Hernán Crespo|Crespo]] {{goal|88}}
+|stadium=[[Miyagi Stadium]], [[Miyagi Prefecture|Miyagi]]
+|attendance=45,777
+|referee=[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950037 |title=Sweden vs Argentina {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950037/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Sweden v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230120136/http://www.fifa.com/worldcup/matches/round=43950100/match=43950037/index.html |archive-date=30 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/37_0612_MIY_SWE-ARG_Fulltime.pdf |title=Match Report – Group F – Sweden v Argentina |publisher=[[FIFA]] |date=12 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040201234036/http://fifaworldcup.yahoo.com/releases/37_0612_MIY_SWE-ARG_Fulltime.pdf |archive-date=1 February 2004}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _swe02h2
+ | pattern_b  = _swe02h2
+ | pattern_ra = _swe02h2
+ | pattern_sh = _swe02h
+ | pattern_so = 
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 0000E6
+ | socks      = FFFF00
+ | title      = Sweden
+}}
+|{{Football kit
+|pattern_la=_arg02a2
+|pattern_b=_arg02a2
+|pattern_ra=_arg02a2
+|pattern_sh=_arg02a2
+|pattern_so=
+|leftarm=000040
+|body=000040
+|rightarm=000040
+|shorts=FFFFFF
+|socks=FFFFFF
+|title=Argentina
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Magnus Hedman]]
+|-
+|RB ||'''2''' ||[[Olof Mellberg]]
+|-
+|CB ||'''15'''||[[Andreas Jakobsson]]
+|-
+|CB ||'''4''' ||[[Johan Mjällby]] ([[Captain (association football)|c]])
+|-
+|LB ||'''16'''||[[Teddy Lučić]]
+|-
+|RM ||'''7''' ||[[Niclas Alexandersson]]
+|-
+|CM ||'''8''' ||[[Anders Svensson (footballer, born 1976)|Anders Svensson]] || || {{suboff|68}}
+|-
+|CM ||'''6''' ||[[Tobias Linderoth]]
+|-
+|LM ||'''17'''||[[Magnus Svensson (footballer)|Magnus Svensson]] || {{yel|65}}
+|-
+|CF ||'''11'''||[[Henrik Larsson]] || {{yel|78}} || {{suboff|88}}
+|-
+|CF ||'''10'''||[[Marcus Allbäck]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''22'''||[[Andreas Andersson (footballer, born 1974)|Andreas Andersson]] || || {{subon|46}}
+|-
+|MF ||'''18'''||[[Mattias Jonson]] || || {{subon|68}}
+|-
+|FW ||'''21'''||[[Zlatan Ibrahimović]] || || {{subon|88}}
+|-
+|colspan=6|'''Managers:'''
+|-
+|colspan="6"|[[Lars Lagerbäck]]<br />[[Tommy Söderberg]]
+|}
+|valign="top"|[[File:SWE-ARG 2002-06-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Pablo Cavallero]]
+|-
+|CB ||'''22'''||[[José Chamot]] || {{yel|55}}
+|-
+|CB ||'''6''' ||[[Walter Samuel]]
+|-
+|CB ||'''4''' ||[[Mauricio Pochettino]]
+|-
+|RWB ||'''8''' ||[[Javier Zanetti]]
+|-
+|LWB ||'''3''' ||[[Juan Pablo Sorín]] || || {{suboff|63}}
+|-
+|DM ||'''5''' ||[[Matías Almeyda]] || {{yel|58}} || {{suboff|63}}
+|-
+|AM ||'''16'''||[[Pablo Aimar]]
+|-
+|RF ||'''10'''||[[Ariel Ortega]]
+|-
+|CF ||'''9''' ||[[Gabriel Batistuta]] ([[Captain (association football)|c]]) || || {{suboff|58}}
+|-
+|LF ||'''7''' ||[[Claudio López (footballer)|Claudio López]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Hernán Crespo]] || || {{subon|58}}
+|-
+|MF ||'''11'''||[[Juan Sebastián Verón]] || || {{subon|63}}
+|-
+|MF ||'''18'''||[[Kily González]] || {{yel|75}} || {{subon|63}}
+|-
+|FW ||'''21'''||[[Claudio Caniggia]] || {{sent off|0|45+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcelo Bielsa]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Johan Mjällby]] (Sweden)
+
+'''Assistant referees:'''
+<br />Heiner Müller ([[German Football Association|Germany]])
+<br />Michael Raggonath ([[Trinidad and Tobago Football Federation|Trinidad and Tobago]])
+<br />'''Fourth official:'''
+<br />[[Peter Prendergast (referee)|Peter Prendergast]] ([[Jamaica Football Federation|Jamaica]])
+|}
+
+===Nigeria vs England===
+<onlyinclude>{{#invoke:Football box|main|section=F6
+|date={{Start date|2002|6|12|df=y}}
+|time=15:30
+|team1={{fb-rt|NGA}}
+|score={{score link|2002 FIFA World Cup Group F#Nigeria vs England|0–0}}
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+|stadium=[[Nagai Stadium]], [[Osaka]]
+|attendance=44,864
+|referee=[[Brian Hall (referee)|Brian Hall]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950038 |title=Nigeria vs England {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950038/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Nigeria v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230120103/http://www.fifa.com/worldcup/matches/round=43950100/match=43950038/index.html |archive-date=30 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/38_0612_OSA_NGA-ENG_Fulltime.pdf |title=Match Report – Group F – Nigeria v England |publisher=[[FIFA]] |date=12 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050504022923/http://fifaworldcup.yahoo.com/releases/38_0612_OSA_NGA-ENG_Fulltime.pdf |archive-date=4 May 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _whitesmalllower
+|pattern_b = _nig02h
+|pattern_ra = _whitesmalllower
+|pattern_sh = _nig02h
+|pattern_so = _nig02h
+|leftarm = 00FF00
+|body = 00FF00
+|rightarm = 00FF00
+|shorts = 00FF00
+|socks = 00FF00
+|title = Nigeria
+}}
+|{{Football kit
+|pattern_la=_enga0204
+|pattern_b=_enga0204
+|pattern_ra=_enga0204
+|pattern_sh=_enga0204
+|pattern_so=_enga0204
+| leftarm=FF0000
+|body=FF0000
+|rightarm=FF0000
+|shorts=FFFFFF
+|socks=FF0000
+|title=England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Vincent Enyeama]]
+|-
+|RB ||'''16'''||[[Efe Sodje]]
+|-
+|CB ||'''2''' ||[[Joseph Yobo]]
+|-
+|CB ||'''5''' ||[[Isaac Okoronkwo]]
+|-
+|LB ||'''14'''||[[Ifeanyi Udeze]]
+|-
+|DM ||'''15'''||[[Justice Christopher]]
+|-
+|RM ||'''10'''||[[Jay-Jay Okocha]] ([[Captain (association football)|c]])
+|-
+|LM ||'''23'''||[[Femi Opabunmi]] || || {{suboff|86}}
+|-
+|AM ||'''20'''||[[James Obiorah]]
+|-
+|CF ||'''17'''||[[Julius Aghahowa]]
+|-
+|CF ||'''18'''||[[Benedict Akwuegbu]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Pius Ikedia]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Festus Onigbinde]]
+|}
+|valign="top"|[[File:NGA-ENG 2002-06-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Seaman]]
+|-
+|RB ||'''2''' ||[[Danny Mills]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[Sol Campbell]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]] || || {{suboff|85}}
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]])
+|-
+|CM ||'''21'''||[[Nicky Butt]]
+|-
+|CM ||'''8''' ||[[Paul Scholes]]
+|-
+|LM ||'''4''' ||[[Trevor Sinclair]]
+|-
+|CF ||'''11'''||[[Emile Heskey]] || || {{suboff|69}}
+|-
+|CF ||'''10'''||[[Michael Owen]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Teddy Sheringham]] || || {{subon|69}}
+|-
+|FW ||'''20'''||[[Darius Vassell]] || || {{subon|77}}
+|-
+|DF ||'''14'''||[[Wayne Bridge]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jay-Jay Okocha]] (Nigeria)
+
+'''Assistant referees:'''
+<br />Héctor Vergara ([[Canadian Soccer Association|Canada]])
+<br />Evzen Amler ([[Football Association of the Czech Republic|Czech Republic]])
+<br />'''Fourth official:'''
+<br />[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[Nigeria at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2002 FIFA World Cup}}
+
+{{DEFAULTSORT:Group}}
+[[Category:2002 FIFA World Cup group stage|F]]
+[[Category:England at the 2002 FIFA World Cup]]
+[[Category:Sweden at the 2002 FIFA World Cup]]
+[[Category:Argentina at the 2002 FIFA World Cup]]
+[[Category:Nigeria at the 2002 FIFA World Cup]]
+[[Category:Sports competitions in Ibaraki Prefecture]]
+[[Category:Sports competitions in Saitama (city)]]
+[[Category:Sports competitions in Kobe]]
+[[Category:Sports competitions in Sapporo]]
+[[Category:Sports competitions in Miyagi Prefecture]]
+[[Category:Football in Osaka]]
+[[Category:21st century in Osaka]]

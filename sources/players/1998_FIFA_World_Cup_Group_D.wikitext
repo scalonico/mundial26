@@ -1,0 +1,882 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group D''' of the [[1998 FIFA World Cup]] was played from 12 to 24 June 1998.<ref>{{cite web |url=https://www.rsssf.org/tables/98full.html |title=World Cup 1998 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Nigeria won their first two games while Paraguay drew their first two games 0–0, which meant that Nigeria were certain of qualifying in first place with a game to spare. In their final game, Spain got their only victory after scoring six against Bulgaria, but were still eliminated in third place after Paraguay beat Nigeria. Thus, Spain were the only top seed not to advance to the second round, while all others topped their respective groups. On the other hand, Bulgaria could not repeat their surprise performance from the previous tournament, finishing last in the group with a single point.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/france1998/groups/ FIFA]
+|teamwidth=200
+
+|team1=NGA|team2=PAR|team3=ESP|team4=BUL
+|result1=KO|result2=KO
+
+|win_NGA=2 |draw_NGA=0 |loss_NGA=1 |gf_NGA=5 |ga_NGA=5
+|win_PAR=1 |draw_PAR=2 |loss_PAR=0 |gf_PAR=3 |ga_PAR=1
+|win_ESP=1 |draw_ESP=1 |loss_ESP=1 |gf_ESP=8 |ga_ESP=4
+|win_BUL=0 |draw_BUL=1 |loss_BUL=2 |gf_BUL=1 |ga_BUL=7
+
+|name_NGA={{fb|NGA}}|name_PAR={{fb|PAR|1990}}|name_ESP={{fb|ESP}}|name_BUL={{fb|BUL}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1998 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Nigeria advanced to play Denmark (runner-up of [[1998 FIFA World Cup Group C|Group C]]) in the [[1998 FIFA World Cup knockout stage#Nigeria vs Denmark|round of 16]].
+*Paraguay advanced to play France (winner of [[1998 FIFA World Cup Group C|Group C]]) in the [[1998 FIFA World Cup knockout stage#France vs Paraguay|round of 16]].
+
+==Matches==
+
+===Paraguay vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=D1
+|date={{Start date|1998|6|12|df=y}}
+|time=14:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|PAR|1990}}
+|score={{score link|1998 FIFA World Cup Group D#Paraguay vs Bulgaria|0–0}}
+|team2={{fb|BUL}}
+|goals1=
+|goals2=
+|stadium=[[Stade de la Mosson]], [[Montpellier]]
+|attendance=29,800
+|referee=[[Abdul Rahman Al-Zeid]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8728 |title=Paraguay vs Bulgaria {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8728/index.html |title=1998 FIFA World Cup France – Matches – Paraguay v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229065835/http://www.fifa.com/worldcup/matches/round=1014/match=8728/index.html |archive-date=29 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8893.htm |title=Match Statistics – Group D – Paraguay v Bulgaria |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=12 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418004605/http://www.france98.com/english/competition/matchstat8893.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _par98a
+ | pattern_b  = _par98a
+ | pattern_ra = _par98a
+ | pattern_sh = _whitebottom
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Paraguay
+}}
+|{{Football kit
+ | pattern_la = _bul98A
+ | pattern_b  = _bul98A
+ | pattern_ra = _bul98A
+ | pattern_sh = _bul98A
+ | pattern_so = _bul98A
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Luis Chilavert]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]]
+|-
+|CB ||'''5''' ||[[Celso Ayala]]
+|-
+|CB ||'''11'''||[[Pedro Sarabia]]
+|-
+|RWB ||'''19'''||[[Carlos Morales (footballer, born 1968)|Carlos Morales]] || || {{suboff|43}}
+|-
+|LWB ||'''21'''||[[Jorge Luis Campos]] || || {{suboff|78}}
+|-
+|CM ||'''10'''||[[Roberto Acuña]]
+|-
+|CM ||'''13'''||[[Carlos Paredes (footballer)|Carlos Paredes]]
+|-
+|CM ||'''16'''||[[Julio César Enciso (footballer, born 1974)|Julio César Enciso]]
+|-
+|SS ||'''15'''||[[Miguel Ángel Benítez Pavón|Miguel Ángel Benítez]] || {{yel|45}}
+|-
+|CF ||'''9''' ||[[José Cardozo]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''20'''||[[Denis Caniza]] || || {{subon|43}}
+|-
+|FW ||'''18'''||[[César Augusto Ramírez|César Ramírez]] || || {{subon|70}}
+|-
+|MF ||'''7''' ||[[Julio César Yegros]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Paulo César Carpegiani]]
+|}
+|valign="top"|<!-- [[File:PAR-BUL 1998-06-12.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Zdravko Zdravkov]]
+|-
+|RB ||'''2''' ||[[Radostin Kishishev]]
+|-
+|CB ||'''3''' ||[[Trifon Ivanov]] ([[Captain (association football)|c]]) || {{yel|73}}
+|-
+|CB ||'''5''' ||[[Ivaylo Yordanov]]
+|-
+|LB ||'''4''' ||[[Ivaylo Petkov]]
+|-
+|RM ||'''16'''||[[Anatoli Nankov]] || {{sent off|2|27|89}}
+|-
+|CM ||'''6''' ||[[Zlatko Yankov]]
+|-
+|CM ||'''11'''||[[Ilian Iliev]] || || {{suboff|77}}
+|-
+|LM ||'''10'''||[[Krasimir Balakov]]
+|-
+|FW ||'''8''' ||[[Hristo Stoichkov]] || {{yel|45}}
+|-
+|FW ||'''9''' ||[[Lyuboslav Penev]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Emil Kostadinov]] || || {{subon|68}}
+|-
+|MF ||'''18'''||[[Daniel Borimirov]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Hristo Bonev]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Achmat Salie ([[South African Football Association|South Africa]])
+<br />Hussain Ghadanfari ([[Kuwait Football Association|Kuwait]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Nikolai Levnikov]] ([[Russian Football Union|Russia]])
+|}
+
+===Spain vs Nigeria===
+<onlyinclude>{{#invoke:Football box|main|section=D2
+|date={{Start date|1998|6|13|df=y}}
+|time=14:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ESP}}
+|score={{score link|1998 FIFA World Cup Group D#Spain vs Nigeria|2–3}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Fernando Hierro|Hierro]] {{goal|21}}
+*[[Raúl (footballer)|Raúl]] {{goal|47}}
+|goals2=
+*[[Mutiu Adepoju|Adepoju]] {{goal|24}}
+*[[Andoni Zubizarreta|Zubizarreta]] {{goal|73|o.g.}}
+*[[Sunday Oliseh|Oliseh]] {{goal|78}}
+|stadium=[[Stade de la Beaujoire]], [[Nantes]]
+|attendance=35,500
+|referee=[[Esfandiar Baharmast]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8731 |title=Spain vs Nigeria {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8731/index.html |title=1998 FIFA World Cup France – Matches – Spain v Nigeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171111095215/http://www.fifa.com/worldcup/matches/round=1014/match=8731/index.html |archive-date=11 November 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8896.htm |title=Match Statistics – Group D – Spain v Nigeria |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=13 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418004927/http://www.france98.com/english/competition/matchstat8896.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _esp9800a
+ | pattern_b  = _esp9800a
+ | pattern_ra = _esp9800a
+ | pattern_sh = _esp9800a
+ | pattern_so = _esp98a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _nga98h
+ | pattern_b  = _vneck_nga98h
+ | pattern_ra = _nga98h
+ | pattern_sh = _nig98h
+ | pattern_so = _nig98h
+ | leftarm    = 008751
+ | body       = 008751
+ | rightarm   = 008751
+ | shorts     = 008751
+ | socks      = 008751
+ | title      = Nigeria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Albert Ferrer]] || || {{suboff|45}}
+|-
+|CB ||'''14'''||[[Iván Campo]] || {{yel|75}}
+|-
+|CB ||'''4''' ||[[Rafael Alkorta]]
+|-
+|LB ||'''12'''||[[Sergi Barjuán|Sergi]]
+|-
+|DM ||'''20'''||[[Miguel Ángel Nadal]] || {{yel|59}} || {{suboff|77}}
+|-
+|DM ||'''6''' ||[[Fernando Hierro]]
+|-
+|AM ||'''21'''||[[Luis Enrique]]
+|-
+|LF ||'''10'''||[[Raúl (footballer)|Raúl]]
+|-
+|RF ||'''11'''||[[Alfonso Pérez|Alfonso]] || || {{suboff|58}}
+|-
+|CF ||'''19'''||[[Kiko (footballer, born 1972)|Kiko]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Guillermo Amor]] || {{yel|56}} || {{subon|45}}
+|-
+|FW ||'''17'''||[[Joseba Etxeberria]] || || {{subon|58}}
+|-
+|MF ||'''16'''||[[Albert Celades]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Clemente]]
+|}
+|valign="top"|<!-- [[File:ESP-NGA 1998-06-13.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]]
+|-
+|RB ||'''2''' ||[[Mobi Oparaku]] || || {{suboff|70}}
+|-
+|CB ||'''5''' ||[[Uche Okechukwu]] ([[Captain (association football)|c]]) || {{yel|62}}
+|-
+|CB ||'''6''' ||[[Taribo West]]
+|-
+|LB ||'''3''' ||[[Celestine Babayaro]]
+|-
+|DM ||'''15'''||[[Sunday Oliseh]]
+|-
+|RM ||'''7''' ||[[Finidi George]]
+|-
+|CM ||'''8''' ||[[Mutiu Adepoju]]
+|-
+|CM ||'''10'''||[[Jay-Jay Okocha]]
+|-
+|LM ||'''11'''||[[Garba Lawal]] || || {{suboff|90+3}}
+|-
+|CF ||'''20'''||[[Victor Ikpeba]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Rashidi Yekini]] || || {{subon|70}}
+|-
+|MF ||'''13'''||[[Tijani Babangida]] || || {{subon|83}}
+|-
+|DF ||'''21'''||[[Godwin Okpara]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Luis Torres Zúñiga ([[Costa Rican Football Federation|Costa Rica]])
+<br />Yuri Dupanov ([[Football Federation of Belarus|Belarus]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ian McLeod (referee)|Ian McLeod]] ([[South African Football Association|South Africa]])
+|}
+
+===Nigeria vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=D3
+|date={{Start date|1998|6|19|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NGA}}
+|score={{score link|1998 FIFA World Cup Group D#Nigeria vs Bulgaria|1–0}}
+|team2={{fb|BUL}}
+|goals1=
+*[[Victor Ikpeba|Ikpeba]] {{goal|28}}
+|goals2=
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=45,500
+|referee=[[Mario Sánchez Yantén]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8747 |title=Nigeria vs Bulgaria {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8747/index.html |title=1998 FIFA World Cup France – Matches – Nigeria v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171111095141/http://www.fifa.com/worldcup/matches/round=1014/match=8747/index.html |archive-date=11 November 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8909.htm |title=Match Statistics – Group D – Nigeria v Bulgaria |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=19 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419012120/http://www.france98.com/english/competition/matchstat8909.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _nga98h
+ | pattern_b  = _vneck_nga98h
+ | pattern_ra = _nga98h
+ | pattern_sh = _nig98h
+ | pattern_so = _nig98h
+ | leftarm    = 008751
+ | body       = 008751
+ | rightarm   = 008751
+ | shorts     = 008751
+ | socks      = 008751
+ | title      = Nigeria
+}}
+|{{Football kit
+ | pattern_la = _bul98H
+ | pattern_b  = _bul98H
+ | pattern_ra = _bul98H
+ | pattern_sh = _bul98A
+ | pattern_so = _red_midband_color
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]]
+|-
+|RB ||'''8''' ||[[Mutiu Adepoju]] || {{yel|20}}
+|-
+|CB ||'''5''' ||[[Uche Okechukwu]] ([[Captain (association football)|c]]) || {{yel|44}}
+|-
+|CB ||'''6''' ||[[Taribo West]]
+|-
+|LB ||'''3''' ||[[Celestine Babayaro]]
+|-
+|DM ||'''15'''||[[Sunday Oliseh]]
+|-
+|RM ||'''7''' ||[[Finidi George]] || || {{suboff|84}}
+|-
+|AM ||'''10'''||[[Jay-Jay Okocha]] || {{yel|70}}
+|-
+|LM ||'''11'''||[[Garba Lawal]]
+|-
+|CF ||'''14'''||[[Daniel Amokachi]] || || {{suboff|67}}
+|-
+|CF ||'''20'''||[[Victor Ikpeba]] || {{yel|49}} || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''4''' ||[[Nwankwo Kanu]] || || {{subon|67}}
+|-
+|FW ||'''9''' ||[[Rasheed Yekini]] || || {{subon|75}}
+|-
+|MF ||'''13'''||[[Tijani Babangida]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|valign="top"|<!-- [[File:NGA-BUL 1998-06-19.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Zdravko Zdravkov]]
+|-
+|DF ||'''2''' ||[[Radostin Kishishev]] || {{yel|78}}
+|-
+|DF ||'''3''' ||[[Trifon Ivanov]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Ivaylo Petkov]]
+|-
+|MF ||'''6''' ||[[Zlatko Yankov]] || || {{suboff|84}}
+|-
+|FW ||'''7''' ||[[Emil Kostadinov]]
+|-
+|FW ||'''8''' ||[[Hristo Stoichkov]]
+|-
+|MF ||'''10'''||[[Krasimir Balakov]]
+|-
+|MF ||'''11'''||[[Ilian Iliev]] || {{yel|66}} || {{suboff|66}}
+|-
+|DF ||'''13'''||[[Gosho Ginchev]]
+|-
+|MF ||'''14'''||[[Marian Hristov]] || || {{suboff|45}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Daniel Borimirov]] || || {{subon|45}}
+|-
+|FW ||'''9''' ||[[Lyuboslav Penev]] || || {{subon|66}}
+|-
+|FW ||'''19'''||[[Georgi Bachev]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Hristo Bonev]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jorge Díaz Gálvez ([[Football Federation of Chile|Chile]])
+<br />Arnaldo Pinto ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Marcio Rezende]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===Spain vs Paraguay===
+<onlyinclude>{{#invoke:Football box|main|section=D4
+|date={{Start date|1998|6|19|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ESP}}
+|score={{score link|1998 FIFA World Cup Group D#Spain vs Paraguay|0–0}}
+|team2={{fb|PAR|1990}}
+|goals1=
+|goals2=
+|stadium=[[Stade Geoffroy-Guichard]], [[Saint-Étienne]]
+|attendance=30,600
+|referee=[[Ian McLeod (referee)|Ian McLeod]] ([[South African Football Association|South Africa]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8748 |title=Spain vs Paraguay {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8748/index.html |title=1998 FIFA World Cup France – Matches – Spain v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204173444/http://www.fifa.com/worldcup/matches/round=1014/match=8748/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8910.htm |title=Match Statistics – Group D – Spain v Paraguay |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=19 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419012248/http://www.france98.com/english/competition/matchstat8910.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _esp9800
+ | pattern_b  = _esp9800h
+ | pattern_ra = _esp9800
+ | pattern_sh = _esp9800
+ | pattern_so = _esp98h
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 003060
+ | socks      = 003060
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _par98a
+ | pattern_b  = _par98a
+ | pattern_ra = _par98a
+ | pattern_sh = _bluebottom
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Carlos Aguilera (Spanish footballer)|Carlos Aguilera]]
+|-
+|CB ||'''5''' ||[[Abelardo Fernández|Abelardo]] || || {{suboff|56}}
+|-
+|CB ||'''4''' ||[[Rafael Alkorta]]
+|-
+|LB ||'''12'''||[[Sergi Barjuán|Sergi]] || {{yel|8}}
+|-
+|RM ||'''17'''||[[Joseba Etxeberria]]
+|-
+|CM ||'''6''' ||[[Fernando Hierro]]
+|-
+|CM ||'''18'''||[[Guillermo Amor]]
+|-
+|LM ||'''21'''||[[Luis Enrique]]
+|-
+|SS ||'''10'''||[[Raúl (footballer)|Raúl]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||[[Juan Antonio Pizzi]] || || {{suboff|52}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7'''||[[Fernando Morientes]] || || {{subon|52}}
+|-
+|MF ||'''16'''||[[Albert Celades]] || || {{subon|56}}
+|-
+|FW ||'''19'''||[[Kiko (footballer, born 1972)|Kiko]] || {{yel|87}} || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Clemente]]
+|}
+|valign="top"|<!-- [[File:ESP-PAR 1998-06-19.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Luis Chilavert]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Francisco Arce]] || {{yel|76}}
+|-
+|DF ||'''4''' ||[[Carlos Gamarra]]
+|-
+|DF ||'''5''' ||[[Celso Ayala]] || {{yel|30}}
+|-
+|FW ||'''8''' ||[[Arístides Rojas]] || || {{suboff|83}}
+|-
+|MF ||'''10'''||[[Roberto Acuña]] || {{suboff|73}}
+|-
+|DF ||'''11'''||[[Pedro Sarabia]]
+|-
+|FW ||'''15'''||[[Miguel Ángel Benítez Pavón|Miguel Ángel Benítez]]
+|-
+|MF ||'''16'''||[[Julio César Enciso (footballer, born 1974)|Julio César Enciso]]
+|-
+|DF ||'''20'''||[[Denis Caniza]]
+|-
+|MF ||'''21'''||[[Jorge Luis Campos]] || || {{suboff|45}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Carlos Paredes (footballer)|Carlos Paredes]] || || {{subon|45}}
+|-
+|MF ||'''7''' ||[[Julio César Yegros]] || || {{subon|73}}
+|-
+|FW ||'''18'''||[[César Augusto Ramírez|César Ramírez]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Paulo César Carpegiani]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Aristidis Chris Soldatos ([[South African Football Association|South Africa]])
+<br />Owen Powell ([[Jamaica Football Federation|Jamaica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Esfandiar Baharmast]] ([[United States Soccer Federation|United States]])
+|}
+
+===Nigeria vs Paraguay===
+<onlyinclude>{{#invoke:Football box|main|section=D5
+|date={{Start date|1998|6|24|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NGA}}
+|score={{score link|1998 FIFA World Cup Group D#Nigeria vs Paraguay|1–3}}
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Wilson Oruma|Oruma]] {{goal|11}}
+|goals2=
+*[[Celso Ayala|Ayala]] {{goal|1}}
+*[[Miguel Ángel Benítez Pavón|Benítez]] {{goal|58}}
+*[[José Cardozo|Cardozo]] {{goal|86}}
+|stadium=[[Stadium Municipal|Stade de Toulouse]], [[Toulouse]]
+|attendance=33,500
+|referee=[[Pirom Un-prasert]] ([[Football Association of Thailand|Thailand]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8763 |title=Nigeria vs Paraguay {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8763/index.html |title=1998 FIFA World Cup France – Matches – Nigeria v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231153654/http://www.fifa.com/worldcup/matches/round=1014/match=8763/index.html |archive-date=31 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8861.htm |title=Match Statistics – Group D – Nigeria v Paraguay |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=24 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419011751/http://www.france98.com/english/competition/matchstat8861.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _nga98h
+ | pattern_b  = _vneck_nga98h
+ | pattern_ra = _nga98h
+ | pattern_sh = _nig98a
+ | pattern_so = _nig98a
+ | leftarm    = 008751
+ | body       = 008751
+ | rightarm   = 008751
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Nigeria
+}}
+|{{Football kit
+ | pattern_la = _par98h
+ | pattern_b  = _par98h
+ | pattern_ra = _par98h
+ | pattern_sh = _whitebottom
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]] ([[Captain (association football)|c]])
+|-
+|RB ||'''17'''||[[Augustine Eguavoen]] || {{yel|25}}
+|-
+|CB ||'''6''' ||[[Taribo West]]
+|-
+|CB ||'''16'''||[[Uche Okafor]]
+|-
+|LB ||'''19'''||[[Benedict Iroha|Ben Iroha]] || {{yel|38}}
+|-
+|RM ||'''13'''||[[Tijani Babangida]]
+|-
+|CM ||'''15'''||[[Sunday Oliseh]] || || {{suboff|45}}
+|-
+|CM ||'''18'''||[[Wilson Oruma]] || || {{suboff|68}}
+|-
+|LM ||'''11'''||[[Garba Lawal]]
+|-
+|CF ||'''9''' ||[[Rasheed Yekini]]
+|-
+|CF ||'''4''' ||[[Nwankwo Kanu]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Godwin Okpara]] || || {{subon|45}}
+|-
+|MF ||'''7''' ||[[Finidi George]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|valign="top"|<!-- [[File:NGA-PAR 1998-06-24.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Luis Chilavert]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Francisco Arce]]
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]]
+|-
+|CB ||'''5''' ||[[Celso Ayala]]
+|-
+|LB ||'''11'''||[[Pedro Sarabia]]
+|-
+|CM ||'''13'''||[[Carlos Paredes (footballer)|Carlos Paredes]]
+|-
+|CM ||'''16'''||[[Julio César Enciso (footballer, born 1974)|Julio César Enciso]]
+|-
+|CM ||'''20'''||[[Denis Caniza]] || || {{suboff|55}}
+|-
+|RF ||'''17'''||[[Hugo Brizuela]] || || {{suboff|77}}
+|-
+|CF ||'''9''' ||[[José Cardozo]]
+|-
+|LF ||'''15'''||[[Miguel Ángel Benítez Pavón|Miguel Ángel Benítez]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Julio César Yegros]] || || {{subon|55}}
+|-
+|MF ||'''10'''||[[Roberto Acuña]] || || {{subon|67}}
+|-
+|FW ||'''8''' ||[[Arístides Rojas]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Paulo César Carpegiani]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mohamed Al Musawi ([[Oman Football Association|Oman]])
+<br />Mikael Nilsson ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Masayoshi Okada]] ([[Japan Football Association|Japan]])
+|}
+
+===Spain vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=D6
+|date={{Start date|1998|6|24|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ESP}}
+|score={{score link|1998 FIFA World Cup Group D#Spain vs Bulgaria|6–1}}
+|team2={{fb|BUL}}
+|goals1=
+*[[Fernando Hierro|Hierro]] {{goal|6|pen.}}
+*[[Luis Enrique]] {{goal|18}}
+*[[Fernando Morientes|Morientes]] {{goal|55||81}}
+*[[Georgi Bachev|Bachev]] {{goal|88|o.g.}}
+*[[Kiko (footballer, born 1972)|Kiko]] {{goal|90+4}}
+|goals2=
+*[[Emil Kostadinov|Kostadinov]] {{goal|58}}
+|stadium=[[Stade Félix-Bollaert]], [[Lens, Pas-de-Calais|Lens]]
+|attendance=38,100
+|referee=[[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8761 |title=Spain vs Bulgaria {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8761/index.html |title=1998 FIFA World Cup France – Matches – Spain v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204192546/http://www.fifa.com/worldcup/matches/round=1014/match=8761/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8859.htm |title=Match Statistics – Group D – Spain v Bulgaria |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=24 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418031404/http://www.france98.com/english/competition/matchstat8859.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _esp9800
+ | pattern_b  = _esp9800h
+ | pattern_ra = _esp9800
+ | pattern_sh = _esp9800
+ | pattern_so = _esp98h
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 003060
+ | socks      = 003060
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _bul98H
+ | pattern_b  = _bul98H
+ | pattern_ra = _bul98H
+ | pattern_sh = _bul98H
+ | pattern_so = _red_midband_color
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||[[Juan Carlos Aguilera|Carlos Aguilera]] || {{yel|16}}
+|-
+|CB ||'''20'''||[[Miguel Ángel Nadal]]
+|-
+|CB ||'''4''' ||[[Rafael Alkorta]]
+|-
+|LB ||'''12'''||[[Sergi Barjuán|Sergi]]
+|-
+|RM ||'''17'''||[[Joseba Etxeberria]] || || {{suboff|50}}
+|-
+|CM ||'''6''' ||[[Fernando Hierro]]
+|-
+|CM ||'''18'''||[[Guillermo Amor]]
+|-
+|LM ||'''21'''||[[Luis Enrique]] || || {{suboff|69}}
+|-
+|SS ||'''11'''||[[Alfonso Pérez|Alfonso]] || || {{suboff|65}}
+|-
+|CF ||'''7''' ||[[Fernando Morientes]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Raúl (footballer)|Raúl]] || || {{subon|50}}
+|-
+|FW ||'''19'''||[[Kiko (footballer, born 1972)|Kiko]] || || {{subon|65}}
+|-
+|MF ||'''8''' ||[[Julen Guerrero]] || {{yel|73}} || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Clemente]]
+|}
+|valign="top"|<!-- [[File:ESP-BUL 1998-06-24.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Zdravko Zdravkov]]
+|-
+|DF ||'''2''' ||[[Radostin Kishishev]]
+|-
+|DF ||'''3''' ||[[Trifon Ivanov]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Ivaylo Yordanov]]
+|-
+|FW ||'''7''' ||[[Emil Kostadinov]]
+|-
+|FW ||'''8''' ||[[Hristo Stoichkov]] || || {{suboff|45}}
+|-
+|MF ||'''10'''||[[Krasimir Balakov]] || || {{suboff|61}}
+|-
+|DF ||'''13'''||[[Gosho Ginchev]]
+|-
+|MF ||'''16'''||[[Anatoli Nankov]] || || {{suboff|28}}
+|-
+|MF ||'''18'''||[[Daniel Borimirov]]
+|-
+|FW ||'''19'''||[[Georgi Bachev]] || {{yel|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Lyuboslav Penev]] || {{yel|45}} || {{subon|28}}
+|-
+|MF ||'''11'''||[[Ilian Iliev]] || || {{subon|45}}
+|-
+|MF ||'''14'''||[[Marian Hristov]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Hristo Bonev]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Nicolae Grigorescu ([[Romanian Football Federation|Romania]])
+<br />Claudio Rossi ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Nikolai Levnikov]] ([[Russian Football Union|Russia]])
+|}
+
+==See also==
+*[[Bulgaria at the FIFA World Cup]]
+*[[Nigeria at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:Group D}}
+[[Category:1998 FIFA World Cup group stage|D]]
+[[Category:Spain at the 1998 FIFA World Cup|Group]]
+[[Category:Bulgaria at the 1998 FIFA World Cup]]
+[[Category:Nigeria at the 1998 FIFA World Cup|Group]]
+[[Category:Paraguay at the 1998 FIFA World Cup|Group]]
+[[Category:Sport in Saint-Étienne]]
+[[Category:20th century in Auvergne-Rhône-Alpes]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Sport in Lens, Pas-de-Calais]]
+[[Category:Football in Hauts-de-France]]
+[[Category:Sport in Nantes]]
+[[Category:Football in Pays de la Loire]]
+[[Category:International football competitions in Paris]]
+[[Category:Sport in Montpellier]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Sport in Toulouse]]
+[[Category:1998 in Paris]]

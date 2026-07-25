@@ -1,0 +1,744 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group F at the [[1998 FIFA World Cup]]''' comprised [[Germany national football team|Germany]] and the [[Serbia and Montenegro national football team|Federal Republic of Yugoslavia]] of [[UEFA]], [[Iran national football team|Iran]] of the [[Asian Football Confederation]] and the [[United States national men's soccer team|United States]] from the [[CONCACAF]] region.<ref>{{cite web |url=https://www.rsssf.org/tables/98full.html |title=World Cup 1998 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+Germany and Yugoslavia both started well by beating the United States and Iran respectively. The United States was then eliminated with a match to spare after losing to Iran, while Germany drew with Yugoslavia. Iran needed to win their final game against Germany to qualify but was defeated, which meant that Yugoslavia would still have qualified even without their victory over the United States. Germany's two goals against both the United States and Iran put them top on goal difference.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/france1998/groups/ FIFA]
+|teamwidth=200
+
+|team1=GER|team2=YUG|team3=IRN|team4=USA
+|result1=KO|result2=KO
+
+|win_GER=2 |draw_GER=1 |loss_GER=0 |gf_GER=6 |ga_GER=2
+|win_YUG=2 |draw_YUG=1 |loss_YUG=0 |gf_YUG=4 |ga_YUG=2
+|win_IRN=1 |draw_IRN=0 |loss_IRN=2 |gf_IRN=2 |ga_IRN=4
+|win_USA=0 |draw_USA=0 |loss_USA=3 |gf_USA=1 |ga_USA=5
+
+|name_GER={{fb|GER}}|name_YUG={{fb|FRY}}|name_IRN={{fb|IRN}}|name_USA={{fb|USA}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1998 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Germany advanced to play Mexico (runner-up of [[1998 FIFA World Cup Group E|Group E]]) in the [[1998 FIFA World Cup knockout stage#Germany vs Mexico|round of 16]].
+*Yugoslavia advanced to play Netherlands (winner of [[1998 FIFA World Cup Group E|Group E]]) in the [[1998 FIFA World Cup knockout stage#Netherlands vs Yugoslavia|round of 16]].
+
+==Matches==
+
+===FR Yugoslavia vs Iran===
+<onlyinclude>{{#invoke:Football box|main|section=F1
+|date={{Start date|1998|6|14|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|FR Yugoslavia|name=FR Yugoslavia}}
+|score={{score link|1998 FIFA World Cup Group F#FR Yugoslavia vs Iran|1–0}}
+|team2={{fb|IRN}}
+|goals1=
+*[[Siniša Mihajlović|Mihajlović]] {{goal|73}}
+|goals2=
+|stadium=[[Stade Geoffroy-Guichard]], [[Saint-Étienne]]
+|attendance=30,600
+|referee=[[Alberto Tejada Noriega|Alberto Tejada]] ([[Peruvian Football Federation|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8735 |title=Yugoslavia vs Iran {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8735/index.html |title=1998 FIFA World Cup France – Matches – Yugoslavia v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202042141/http://www.fifa.com/worldcup/matches/round=1014/match=8735/index.html |archive-date=2 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8898.htm |title=Match Statistics – Group F – Yugoslavia v Iran |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=14 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010417035334/http://www.france98.com/english/competition/matchstat8898.htm |archive-date=17 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _yug98h
+| pattern_b = _yug98h
+| pattern_ra = _yug98h
+| pattern_sh = _yug98h
+| pattern_so = _yug98h
+| leftarm = 00196E
+| body = 00196E
+| rightarm = 00196E
+| shorts = 00196E
+| socks = ED2939
+| title      = {{nowrap|FR Yugoslavia}}
+}}
+|{{Football kit
+ | pattern_la = _ira98h
+ | pattern_b  = _ira98h
+ | pattern_ra = _ira98h
+ | pattern_sh = _ira98h
+ | pattern_so = _ira98h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Iran
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ivica Kralj]]
+|-
+|RB ||'''2''' ||[[Zoran Mirković]]
+|-
+|CB ||'''3''' ||[[Goran Đorović]]
+|-
+|CB ||'''11'''||[[Siniša Mihajlović]]
+|-
+|LB ||'''16'''||[[Željko Petrović]] || {{yel|42}}
+|-
+|CM ||'''6''' ||[[Branko Brnović]] || || {{suboff|50}}
+|-
+|CM ||'''4''' ||[[Slaviša Jokanović]]
+|-
+|RM ||'''10'''||[[Dragan Stojković]] ([[Captain (association football)|c]]) || {{yel|60}} || {{suboff|68}}
+|-
+|LM ||'''7''' ||[[Vladimir Jugović]]
+|-
+|SS ||'''9''' ||[[Predrag Mijatović]]
+|-
+|CF ||'''17'''||[[Savo Milošević]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Dejan Stanković]] || || {{subon|50}}
+|-
+|FW ||'''21'''||[[Perica Ognjenović]] || || {{subon|58}}
+|-
+|FW ||'''22'''||[[Darko Kovačević]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Slobodan Santrač]]
+|}
+|valign="top"|<!-- [[File:YUG-IRN 1998-06-14.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Nima Nakisa]]
+|-
+|DF ||'''4''' ||[[Mohammad Khakpour]]
+|-
+|DF ||'''14'''||[[Nader Mohammadkhani]] ([[Captain (association football)|c]])
+|-
+|DF ||'''17'''||[[Javad Zarincheh]]
+|-
+|DF ||'''20'''||[[Mehdi Pashazadeh]]
+|-
+|MF ||'''2''' ||[[Mehdi Mahdavikia]]
+|-
+|MF ||'''6''' ||[[Karim Bagheri]]
+|-
+|MF ||'''9''' ||[[Hamid Estili]] || || {{suboff|68}}
+|-
+|MF ||'''21'''||[[Mehrdad Minavand]]
+|-
+|FW ||'''10'''||[[Ali Daei]]
+|-
+|FW ||'''11'''||[[Khodadad Azizi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Alireza Mansourian]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jalal Talebi]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Owen Powell ([[Jamaica Football Federation|Jamaica]])
+<br />Jacek Pociegel ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Rune Pedersen (referee)|Rune Pedersen]] ([[Norwegian Football Federation|Norway]])
+|}
+
+===Germany vs United States===
+<onlyinclude>{{#invoke:Football box|main|section=F2
+|date={{Start date|1998|6|15|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|GER}}
+|score={{score link|1998 FIFA World Cup Group F#Germany vs United States|2–0}}
+|team2={{fb|US|1960}}
+|goals1=
+*[[Andreas Möller|Möller]] {{goal|9}}
+*[[Jürgen Klinsmann|Klinsmann]] {{goal|65}}
+|goals2=
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=45,500
+|referee=[[Said Belqola]] ([[Royal Moroccan Football Federation|Morocco]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8738 |title=Germany vs United States {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8738/index.html |title=1998 FIFA World Cup France – Matches – Germany v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204192536/http://www.fifa.com/worldcup/matches/round=1014/match=8738/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8900.htm |title=Match Statistics – Group F – Germany v USA |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=15 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010417035853/http://www.france98.com/english/competition/matchstat8900.htm |archive-date=17 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger98h
+ |pattern_b  = _ger98h2
+ |pattern_ra = _ger98h
+ | pattern_sh = _ger98h
+ | pattern_so = _ger98h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Germany
+}}
+|{{Football kit
+ | pattern_la = _usa98a
+ | pattern_b  = _usa98a
+ | pattern_ra = _usa98a
+ | pattern_sh = _nikemls1998
+ | pattern_so = _usa98a
+ | leftarm    = ED1B24
+ | body       = ED1B24
+ | rightarm   = ED1B24
+ | shorts     = 000066
+ | socks      = 000066
+ | title      = United States<ref>[https://www.nytimes.com/1998/06/07/sports/world-cup-98-the-3-6-1-america-s-secret-formula.html WORLD CUP '98; The 3-6-1: America's Secret Formula]</ref>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Köpke]]
+|-
+|CB ||'''2''' ||[[Christian Wörns]]
+|-
+|CB ||'''6''' ||[[Olaf Thon]]
+|-
+|CB ||'''4''' ||[[Jürgen Kohler]]
+|-
+|RWB ||'''19'''||[[Stefan Reuter]] || || {{suboff|70}}
+|-
+|LWB ||'''3''' ||[[Jörg Heinrich]] || {{yel|84}}
+|-
+|DM ||'''13'''||[[Jens Jeremies]] || {{yel|30}}
+|-
+|AM ||'''10'''||[[Thomas Häßler]] || || {{suboff|50}}
+|-
+|AM ||'''7''' ||[[Andreas Möller]] || || {{suboff|89}}
+|-
+|CF ||'''18'''||[[Jürgen Klinsmann]] ([[Captain (association football)|c]])
+|-
+|CF ||'''20'''||[[Oliver Bierhoff]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Dietmar Hamann]] || {{yel|77}} || {{subon|50}}
+|-
+|DF ||'''17'''||[[Christian Ziege]] || || {{subon|70}}
+|-
+|DF ||'''14''' ||[[Markus Babbel]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Berti Vogts]]
+|}
+|valign="top"|<!-- [[File:GER-USA 1998-06-15.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Kasey Keller]]
+|-
+|CB ||'''6''' ||[[David Regis]]
+|-
+|CB ||'''5''' ||[[Thomas Dooley]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Eddie Pope]] || {{yel|85}}
+|-
+|DM ||'''15'''||[[Chad Deering]] || || {{suboff|72}}
+|-
+|DM ||'''19'''||[[Brian Maisonneuve]]
+|-
+|RW ||'''4''' ||[[Mike Burns (soccer)|Mike Burns]] || || {{suboff|46}}
+|-
+|CM ||'''21'''||[[Claudio Reyna]]
+|-
+|LW ||'''13'''||[[Cobi Jones]]
+|-
+|AM ||'''8''' ||[[Earnie Stewart]]
+|-
+|CF ||'''11'''||[[Eric Wynalda]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''2''' ||[[Frankie Hejduk]] || {{yel|50}} || {{subon|46}}
+|-
+|FW ||'''7''' ||[[Roy Wegerle]] || || {{subon|65}}
+|-
+|MF ||'''10'''||[[Tab Ramos]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Steve Sampson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mohamed Mansri ([[Tunisian Football Federation|Tunisia]])
+<br />Mikael Nilsson ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+===Germany vs FR Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=F3
+|date={{Start date|1998|6|21|df=y}}
+|time=14:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|GER}}
+|score={{score link|1998 FIFA World Cup Group F#Germany vs FR Yugoslavia|2–2}}
+|team2={{fb|FR Yugoslavia|name=FR Yugoslavia}}
+|goals1=
+*[[Siniša Mihajlović|Mihajlović]] {{goal|72|o.g.}}
+*[[Oliver Bierhoff|Bierhoff]] {{goal|78}}
+|goals2=
+*[[Predrag Mijatović|Mijatović]] {{goal|13}}
+*[[Dragan Stojković|Stojković]] {{goal|52}}
+|stadium=[[Stade Félix-Bollaert]], [[Lens, Pas-de-Calais|Lens]]
+|attendance=38,100
+|referee=[[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8753 |title=Germany vs Yugoslavia {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8753/index.html |title=1998 FIFA World Cup France – Matches – Germany v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211182011/http://www.fifa.com/worldcup/matches/round=1014/match=8753/index.html |archive-date=11 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8851.htm |title=Match Statistics – Group F – Germany v Yugoslavia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=21 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010417042449/http://www.france98.com/english/competition/matchstat8851.htm |archive-date=17 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger98h
+ |pattern_b  = _ger98h2
+ |pattern_ra = _ger98h
+ | pattern_sh = _ger98h
+ | pattern_so = _ger98h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Germany
+}}
+|{{Football kit
+| pattern_la = _yug98h
+| pattern_b = _yug98h
+| pattern_ra = _yug98h
+| pattern_sh = _yug98h
+| pattern_so = _yug98h
+| leftarm = 00196E
+| body = 00196E
+| rightarm = 00196E
+| shorts = 00196E
+| socks = ED2939
+| title = {{nowrap|FR Yugoslavia}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Köpke]]
+|-
+|SW ||'''6''' ||[[Olaf Thon]]
+|-
+|CB ||'''2''' ||[[Christian Wörns]]
+|-
+|CB ||'''4''' ||[[Jürgen Kohler]]
+|-
+|RWB ||'''3''' ||[[Jörg Heinrich]]
+|-
+|LWB ||'''17'''||[[Christian Ziege]] || || {{suboff|66}}
+|-
+|CM ||'''13'''||[[Jens Jeremies]]
+|-
+|CM ||'''16'''||[[Dietmar Hamann]] || || {{suboff|46}}
+|-
+|AM ||'''7''' ||[[Andreas Möller]] || || {{suboff|57}}
+|-
+|CF ||'''18'''||[[Jürgen Klinsmann]] ([[Captain (association football)|c]])
+|-
+|CF ||'''20'''||[[Oliver Bierhoff]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Lothar Matthäus]] || {{yel|75}} || {{subon|46}}
+|-
+|FW ||'''9'''||[[Ulf Kirsten]] || || {{subon|57}}
+|-
+|DF ||'''21'''||[[Michael Tarnat]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Berti Vogts]]
+|}
+|valign="top"|<!-- [[File:GER-YUG 1998-06-21.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ivica Kralj]]
+|-
+|RB ||'''13'''||[[Slobodan Komljenović]]
+|-
+|CB ||'''3''' ||[[Goran Đorović]]
+|-
+|CB ||'''11'''||[[Siniša Mihajlović]]
+|-
+|LB ||'''16'''||[[Željko Petrović]] || || {{suboff|74}}
+|-
+|DM ||'''4''' ||[[Slaviša Jokanović]]
+|-
+|RM ||'''20'''||[[Dejan Stanković]] || || {{suboff|66}}
+|-
+|CM ||'''10'''||[[Dragan Stojković]] ([[Captain (association football)|c]])
+|-
+|LM ||'''7''' ||[[Vladimir Jugović]]
+|-
+|SS ||'''9''' ||[[Predrag Mijatović]]
+|-
+|CF ||'''22'''||[[Darko Kovačević]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Perica Ognjenović]] || || {{subon|57}}
+|-
+|MF ||'''18'''||[[Dejan Govedarica]] || || {{subon|66}}
+|-
+|MF ||'''19'''||[[Miroslav Stević]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Slobodan Santrač]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Emanuel Zammit ([[Malta Football Association|Malta]])
+<br />Marc Van den Broeck ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Masayoshi Okada]] ([[Japan Football Association|Japan]])
+|}
+
+===United States vs Iran===
+{{Main|United States v Iran (1998 FIFA World Cup)}}
+<onlyinclude>{{#invoke:transcludable section|main|section=F4|text={{#lst:United States v Iran (1998 FIFA World Cup)|F4}}}}</onlyinclude>
+{{#lst:United States v Iran (1998 FIFA World Cup)|Lineups}}
+
+===Germany vs Iran===
+<onlyinclude>{{#invoke:Football box|main|section=F5
+|date={{Start date|1998|6|25|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|GER}}
+|score={{score link|1998 FIFA World Cup Group F#Germany vs Iran|2–0}}
+|team2={{fb|IRN}}
+|goals1=
+*[[Oliver Bierhoff|Bierhoff]] {{goal|50}}
+*[[Jürgen Klinsmann|Klinsmann]] {{goal|57}}
+|goals2=
+|stadium=[[Stade de la Mosson]], [[Montpellier]]
+|attendance=29,800
+|referee=[[Epifanio González]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8767 |title=Germany vs Iran {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8767/index.html |title=1998 FIFA World Cup France – Matches – Germany v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171111095151/http://www.fifa.com/worldcup/matches/round=1014/match=8767/index.html |archive-date=11 November 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8865.htm |title=Match Statistics – Group F – Germany v Iran |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=25 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010417034606/http://www.france98.com/english/competition/matchstat8865.htm |archive-date=17 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger98h
+ |pattern_b  = _ger98h2
+ |pattern_ra = _ger98h
+ | pattern_sh = _ger98h
+ | pattern_so = _ger98h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Germany
+}}
+|{{Football kit
+ | pattern_la = _ira98a
+ | pattern_b  = _ira98A
+ | pattern_ra = _ira98a
+ | pattern_sh = _ira98a
+ | pattern_so = _white_band_color
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Iran
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Köpke]]
+|-
+|CB ||'''4''' ||[[Jürgen Kohler]]
+|-
+|CB ||'''2''' ||[[Christian Wörns]]
+|-
+|CB ||'''6''' ||[[Olaf Thon]] || || {{suboff|46}}
+|-
+|SW ||'''8''' ||[[Lothar Matthäus]]
+|-
+|RWB ||'''3''' ||[[Jörg Heinrich]]
+|-
+|CM ||'''5''' ||[[Thomas Helmer]]
+|-
+|CM ||'''10'''||[[Thomas Häßler]] || {{yel|45}} || {{suboff|69}}
+|-
+|LWB ||'''21'''||[[Michael Tarnat]] || || {{suboff|76}}
+|-
+|CF ||'''18'''||[[Jürgen Klinsmann]] ([[Captain (association football)|c]]) || {{yel|31}}
+|-
+|CF ||'''20'''||[[Oliver Bierhoff]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Dietmar Hamann]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Ulf Kirsten]] || || {{subon|69}}
+|-
+|DF ||'''17'''||[[Christian Ziege]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Berti Vogts]]
+|}
+|valign="top"|<!-- [[File:GER-IRN 1998-06-25.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ahmad Reza Abedzadeh]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Mohammad Khakpour]]
+|-
+|DF ||'''14'''||[[Nader Mohammadkhani]]
+|-
+|DF ||'''17'''||[[Javad Zarincheh]] || || {{suboff|70}}
+|-
+|DF ||'''20'''||[[Mehdi Pashazadeh]]
+|-
+|MF ||'''2''' ||[[Mehdi Mahdavikia]]
+|-
+|MF ||'''6''' ||[[Karim Bagheri]]
+|-
+|MF ||'''9''' ||[[Hamid Estili]]
+|-
+|MF ||'''21'''||[[Mehrdad Minavand]]
+|-
+|FW ||'''10'''||[[Ali Daei]] || {{yel|47}}
+|-
+|FW ||'''11'''||[[Khodadad Azizi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Sirous Dinmohammadi]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jalal Talebi]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Celestino Galván ([[Paraguayan Football Association|Paraguay]])
+<br />Jorge Díaz Gálvez ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Javier Castrilli]] ([[Argentine Football Association|Argentina]])
+|}
+
+===United States vs FR Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=F6
+|date={{Start date|1998|6|25|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|US|1960}}
+|score={{score link|1998 FIFA World Cup Group F#United States vs FR Yugoslavia|0–1}}
+|team2={{fb|FR Yugoslavia|name=FR Yugoslavia}}
+|goals1=
+|goals2=
+*[[Slobodan Komljenović|Komljenović]] {{goal|4}}
+|stadium=[[Stade de la Beaujoire]], [[Nantes]]
+|attendance=35,500
+|referee=[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8768 |title=United States vs Yugoslavia {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8768/index.html |title=1998 FIFA World Cup France – Matches – USA v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229072419/http://www.fifa.com/worldcup/matches/round=1014/match=8768/index.html |archive-date=29 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8866.htm |title=Match Statistics – Group F – USA v Yugoslavia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=25 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010210050337/http://www.france98.com/english/competition/matchstat8866.htm |archive-date=10 February 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _usa98H
+ | pattern_b  = _usa98H
+ | pattern_ra = _usa98H
+ | pattern_sh = _usa98h
+ | pattern_so = _usa98h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = United States
+}}
+|{{Football kit
+| pattern_la = _yug98h
+| pattern_b = _yug98h
+| pattern_ra = _yug98h
+| pattern_sh = _yug98h
+| pattern_so = _yug98h
+| leftarm = 00196E
+| body = 00196E
+| rightarm = 00196E
+| shorts = 00196E
+| socks = ED2939
+| title = {{nowrap|FR Yugoslavia}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Brad Friedel]]
+|-
+|DF ||'''2''' ||[[Frankie Hejduk]] || || {{suboff|64}}
+|-
+|DF ||'''4''' ||[[Mike Burns (soccer)|Mike Burns]]
+|-
+|DF ||'''5''' ||[[Thomas Dooley]] ([[Captain (association football)|c]]) || || {{suboff|81}}
+|-
+|DF ||'''6''' ||[[David Regis|David Régis]]
+|-
+|MF ||'''8''' ||[[Earnie Stewart]]
+|-
+|MF ||'''13'''||[[Cobi Jones]]
+|-
+|MF ||'''19'''||[[Brian Maisonneuve]]
+|-
+|MF ||'''21'''||[[Claudio Reyna]] || {{yel|13}}
+|-
+|FW ||'''9''' ||[[Joe-Max Moore]] || || {{suboff|58}}
+|-
+|FW ||'''20'''||[[Brian McBride]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Preki]] || || {{subon|58}}
+|-
+|FW ||'''11'''||[[Eric Wynalda]] || || {{subon|64}}
+|-
+|DF ||'''17'''||[[Marcelo Balboa]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Steve Sampson]]
+|}
+|valign="top"|<!-- [[File:USA-YUG 1998-06-25.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ivica Kralj]]
+|-
+|RB ||'''13'''||[[Slobodan Komljenović]]
+|-
+|CB ||'''3''' ||[[Goran Đorović]]
+|-
+|CB ||'''11'''||[[Siniša Mihajlović]]
+|-
+|LB ||'''16'''||[[Željko Petrović]]
+|-
+|DM ||'''4''' ||[[Slaviša Jokanović]]
+|-
+|RM ||'''20'''||[[Dejan Stanković]] || {{yel|41}} || {{suboff|54}}
+|-
+|CM ||'''10'''||[[Dragan Stojković]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|LM ||'''7''' ||[[Vladimir Jugović]]
+|-
+|SS ||'''9''' ||[[Predrag Mijatović]] || || {{suboff|30}}
+|-
+|CF ||'''17'''||[[Savo Milošević]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Perica Ognjenović]] || {{yel|61}} || {{subon|30}}
+|-
+|MF ||'''6''' ||[[Branko Brnović]] || || {{subon|54}}
+|-
+|MF ||'''8''' ||[[Dejan Savićević]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Slobodan Santrač]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Achmat Salie ([[South African Football Association|South Africa]])
+<br />[[Mark Warren (referee)|Mark Warren]] ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ian McLeod (referee)|Ian McLeod]] ([[South African Football Association|South Africa]])
+|}
+
+==See also==
+*[[Germany at the FIFA World Cup]]
+*[[Iran at the FIFA World Cup]]
+*[[Serbia and Montenegro at the FIFA World Cup]]
+*[[United States at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:Group F}}
+[[Category:1998 FIFA World Cup group stage|F]]
+[[Category:Germany at the 1998 FIFA World Cup|Group]]
+[[Category:United States at the 1998 FIFA World Cup|Group]]
+[[Category:Serbia and Montenegro at the 1998 FIFA World Cup|Group]]
+[[Category:Iran at the 1998 FIFA World Cup|Group]]
+[[Category:Sport in Saint-Étienne]]
+[[Category:20th century in Auvergne-Rhône-Alpes]]
+[[Category:Sports competitions in Lyon]]
+[[Category:20th century in Lyon]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:International football competitions in Paris]]
+[[Category:Sport in Montpellier]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Sport in Toulouse]]
+[[Category:Sport in Lens, Pas-de-Calais]]
+[[Category:Football in Hauts-de-France]]
+[[Category:1998 in Paris]]

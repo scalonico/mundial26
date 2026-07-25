@@ -1,0 +1,855 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 4 of the [[1974 FIFA World Cup]]''' was contested  between 15 and 23 June 1974.  This group is played on two sites: [[Munich]] and [[Stuttgart]].<ref>{{cite web |url=https://www.rsssf.org/tables/74full.html |title=World Cup 1974 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+The pool is seeded by [[Italy national football team|Italy]] (''Pot 1-Western Europe'') accompanied by [[Poland national football team|Poland]] (''Pot 2-Eastern Europe''), [[Argentina national football team|Argentina]] (''Pot 3-South America''), and [[Haiti national football team|Haiti]] (''Pot 4-Rest of the world'').
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407142357/http://www.fifa.com/worldcup/archive/germany1974/groups/index.html FIFA]
+
+|team1=POL |team2=ARG |team3=ITA |team4=HAI
+|result1=A |result2=A
+
+|win_POL=3 |draw_POL=0 |loss_POL=0 |gf_POL=12 |ga_POL=3
+|win_ARG=1 |draw_ARG=1 |loss_ARG=1 |gf_ARG=7 |ga_ARG=5
+|win_ITA=1 |draw_ITA=1 |loss_ITA=1 |gf_ITA=5 |ga_ITA=4
+|win_HAI=0 |draw_HAI=0 |loss_HAI=3 |gf_HAI=2 |ga_HAI=14
+
+|name_ARG={{fb|ARG|1861}}
+|name_HAI={{fb|HAI|1964}}
+|name_ITA={{fb|ITA|1946}}
+|name_POL={{fb|POL|1928}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1974 FIFA World Cup#Second round|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times listed are local ([[Central European Time|CET]])''
+
+===Italy vs Haiti===
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1974|6|15|df=y}}
+|time=18:00 [[Central European Time|CET]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1974 FIFA World Cup Group 4#Italy vs Haiti|3–1}}
+|team2={{fb|HAI|1964}}
+|goals1=
+*[[Gianni Rivera|Rivera]] {{goal|52}}
+*[[Romeo Benetti|Benetti]] {{goal|66}}
+*[[Pietro Anastasi|Anastasi]] {{goal|79}}
+|goals2=
+*[[Emmanuel Sanon|Sanon]] {{goal|46}}
+|stadium=[[Olympic Stadium (Munich)|Olympiastadion]], [[Munich]]
+|attendance=53,000
+|referee=[[Vicente Llobregat]] ([[Federación Venezolana de Fútbol|Venezuela]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2083 |title=Italy vs Haiti {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2083/index.html |title=1974 FIFA World Cup Germany – Matches – Italy v Haiti |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228004833/http://www.fifa.com/worldcup/matches/round=262/match=2083/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la =  
+ |pattern_b  = _ita70a
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _top_on_white
+ |leftarm    = 
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = 0000bb
+ |title      = Italy
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_black_stripes_alt
+ |pattern_b  = _shoulder_stripes_black_stripes
+ |pattern_ra = _shoulder_stripes_black_stripes_alt
+ |pattern_sh = _red_stripes_adidas
+ |pattern_so = _3_stripes_black
+ |leftarm    = ff0000
+ |body       = ff0000
+ |rightarm   = ff0000
+ |shorts     = 000000
+ |socks      = ff0000
+ |title      = Haiti
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dino Zoff]]
+|-
+|DF ||'''2''' ||[[Luciano Spinosi]]
+|-
+|DF ||'''3''' ||[[Giacinto Facchetti]] [[captain (association football)|(c)]]
+|-
+|DF ||'''5'''||[[Francesco Morini]]
+|-
+|DF ||'''6'''||[[Tarcisio Burgnich]]
+|-
+|MF ||'''4''' ||[[Romeo Benetti]]
+|-
+|MF ||'''7'''||[[Sandro Mazzola]]
+|-
+|MF ||'''8'''||[[Fabio Capello]]
+|-
+|MF ||'''10'''||[[Gianni Rivera]]
+|-
+|FW ||'''9'''||[[Giorgio Chinaglia]] ||||{{suboff|70}}
+|-
+|FW ||'''11'''||[[Gigi Riva]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19''' ||[[Pietro Anastasi]] ||||{{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ferruccio Valcareggi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Henri Françillon]]
+|-
+|DF ||'''3''' ||[[Arsène Auguste]]
+|-
+|DF ||'''6''' ||[[Pierre Bayonne]] ||{{yel|65}}
+|-
+|DF ||'''12''' ||[[Ernst Jean-Joseph]]
+|-
+|DF ||'''14''' ||[[Wilner Nazaire]] [[captain (association football)|(c)]]
+|-
+|MF ||'''7'''||[[Philippe Vorbe]]
+|-
+|MF ||'''8'''||[[Jean-Claude Désir]]
+|-
+|MF ||'''9'''||[[Eddy Antoine]]
+|-
+|FW ||'''10'''||[[Guy François (footballer)|Guy François]]
+|-
+|FW ||'''11'''||[[Guy Saint-Vil]] || ||{{suboff|46}}
+|-
+|FW ||'''20'''||[[Emmanuel Sanon]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18''' ||[[Claude Barthélemy (footballer)|Claude Barthélemy]]|| ||{{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Antoine Tassy]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Armando Marques (referee)|Armando Marques]] (Brazil)
+<br />[[Jafar Namdar]] (Iran)
+|}
+
+===Poland vs Argentina===
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1974|6|15|df=y}}
+|time=18:00 [[Central European Time|CET]]
+|team1={{fb-rt|POL|1928}}
+|score={{score link|1974 FIFA World Cup Group 4#Poland vs Argentina|3–2}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Grzegorz Lato|Lato]] {{goal|7||62}}
+*[[Andrzej Szarmach|Szarmach]] {{goal|8}}
+|goals2=
+*[[Ramón Heredia|Heredia]] {{goal|60}}
+*[[Carlos Babington|Babington]] {{goal|66}}
+|stadium=[[MHPArena|Neckarstadion]], [[Stuttgart]]
+|attendance=32,700
+|referee=[[Clive Thomas (football)|Clive Thomas]] ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1952 |title=Poland vs Argentina {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1952/index.html |title=1974 FIFA World Cup Germany – Matches – Poland v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220151052/http://www.fifa.com/worldcup/matches/round=262/match=1952/index.html |archive-date=20 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_red_stripes
+ |pattern_b  = _shoulder_stripes_red_stripes
+ |pattern_ra = _shoulder_stripes_red_stripes
+ |pattern_sh = _red_stripes_adidas
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = ffffff 
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = FF0000
+ |title      = Poland
+}}
+|{{Football kit
+ |pattern_la =_arg3757h
+ |pattern_b  =_arg7475h
+ |pattern_ra =_arg3757h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _arg6669h
+ |leftarm    = 75AADB 
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = 707070
+ |title      = Argentina
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Jan Tomaszewski]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF ||'''6''' ||[[Jerzy Gorgoń]]
+|-
+|DF ||'''9''' ||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF ||'''10'''||[[Adam Musiał]]
+|-
+|MF ||'''12'''||[[Kazimierz Deyna]] [[captain (association football)|(c)]]
+|-
+|MF ||'''13'''||[[Henryk Kasperczak]]
+|-
+|MF ||'''14'''||[[Zygmunt Maszczyk]]
+|-
+|MF ||'''16'''||[[Grzegorz Lato]]
+|-
+|FW ||'''17'''||[[Andrzej Szarmach]] || ||{{suboff|70}}
+|-
+|FW ||'''18'''||[[Robert Gadocha]]|| ||{{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19''' ||[[Jan Domarski]] || ||{{subon|70}}
+|-
+|MF ||'''11''' ||[[Lesław Ćmikiewicz]] || ||{{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kazimierz Górski]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Daniel Carnevali]]
+|-
+|DF ||'''5''' ||[[Ángel Bargas]] || ||{{suboff|67}}
+|-
+|DF ||'''14'''||[[Roberto Perfumo]] [[captain (association football)|(c)]] ||{{yel|21}}
+|-
+|DF||'''16'''||[[Francisco Sá]]
+|-
+|DF ||'''20'''||[[Enrique Wolff]]
+|-
+|MF ||'''3'''||[[Carlos Babington]]||{{yel|47}}
+|-
+|MF ||'''6'''||[[Miguel Ángel Brindisi]] || ||{{suboff|46}}
+|-
+|MF ||'''10''' ||[[Ramón Heredia]]
+|-
+|FW ||'''2''' ||[[Rubén Ayala]]
+|-
+|FW ||'''4'''||[[Agustín Balbuena]]
+|-
+|FW ||'''13'''||[[Mario Kempes]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11''' ||[[René Houseman]]|| ||{{subon|46}}
+|-
+|MF ||'''18''' ||[[Roberto Telch]] || ||{{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Vladislao Cap]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Tony Boskovic]] ([[Football Federation Australia|Australia]])
+<br />[[Hans-Joachim Weyland]] ([[German Football Association|Germany]])
+|}
+
+===Argentina vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1974|6|19|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1974 FIFA World Cup Group 4#Argentina vs Italy|1–1}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[René Houseman|Houseman]] {{goal|20}}
+|goals2=
+*[[Roberto Perfumo|Perfumo]] {{goal|35|o.g.}}
+|stadium=[[MHPArena|Neckarstadion]], [[Stuttgart]]
+|attendance=70,100
+|referee=[[Pavel Kazakov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1949 |title=Argentina vs Italy {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1949/index.html |title=1974 FIFA World Cup Germany – Matches – Argentina v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220142627/http://www.fifa.com/worldcup/matches/round=262/match=1949/index.html |archive-date=20 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la =_arg3757h
+ |pattern_b  =_arg7475h
+ |pattern_ra =_arg3757h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _arg6669h
+ |leftarm    = 75AADB 
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = 707070
+ |title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b=_ita70h
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _3_stripes_white
+ | leftarm    = 3120CC
+ | body       = 3120CC
+ | rightarm   = 3120CC
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ |title      = Italy
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Daniel Carnevali]]
+|-
+|DF||'''10'''||[[Ramón Heredia]]
+|-
+|DF ||'''14''' ||[[Roberto Perfumo]] [[captain (association football)|(c)]]
+|-
+|DF ||'''16''' ||[[Francisco Sá]]
+|-
+|DF ||'''20'''||[[Enrique Wolff]]|| ||{{suboff|60}}
+|-
+|MF ||'''3'''||[[Carlos Babington]] ||{{yel|54}}
+|-
+|MF ||'''11'''||[[René Houseman]]
+|-
+|MF ||'''18'''||[[Roberto Telch]]
+|-
+|FW ||'''2'''||[[Rubén Ayala]]
+|-
+|FW||'''13'''||[[Mario Kempes]]
+|-
+|FW ||'''22'''||[[Héctor Yazalde]] || ||{{suboff|78}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''9''' ||[[Rubén Glaria]]|| ||{{subon|60}}
+|-
+|MF ||'''8''' ||[[Enrique Chazarreta]]|| ||{{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Vladislao Cap]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dino Zoff]]
+|-
+|DF ||'''2''' ||[[Luciano Spinosi]]
+|-
+|DF ||'''3''' ||[[Giacinto Facchetti]] [[captain (association football)|(c)]]
+|-
+|DF||'''5'''||[[Francesco Morini]] ||||{{suboff|66}}
+|-
+|DF ||'''6'''||[[Tarcisio Burgnich]]
+|-
+|MF ||'''4''' ||[[Romeo Benetti]] ||{{yel|48}}
+|-
+|MF ||'''7'''||[[Sandro Mazzola]]
+|-
+|MF ||'''8'''||[[Fabio Capello]]
+|-
+|MF||'''10'''||[[Gianni Rivera]]  ||||{{suboff|66}}
+|-
+|FW ||'''11'''||[[Gigi Riva]]
+|-
+|FW ||'''19'''||[[Pietro Anastasi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''15''' ||[[Giuseppe Wilson]]  ||||{{subon|66}}
+|-
+|MF ||'''18''' ||[[Franco Causio]]  ||||{{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ferruccio Valcareggi]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Vincente Llobregat]] ([[Venezuelan Football Federation|Venezuela]])
+<br />[[Ramón Barreto]] ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Haiti vs Poland===
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1974|6|19|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|HAI|1964}}
+|score={{score link|1974 FIFA World Cup Group 4#Haiti vs Poland|0–7}}
+|team2={{fb|POL|1928}}
+|goals1=
+|goals2=
+*[[Grzegorz Lato|Lato]] {{goal|17||87}}
+*[[Kazimierz Deyna|Deyna]] {{goal|18}}
+*[[Andrzej Szarmach|Szarmach]] {{goal|30||34||50}}
+*[[Jerzy Gorgoń|Gorgoń]] {{goal|31}}
+|stadium=[[Olympic Stadium (Munich)|Olympiastadion]], [[Munich]]
+|attendance=25,300
+|referee=[[Govindasamy Suppiah]] ([[Football Association of Singapore|Singapore]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2085 |title=Haiti vs Poland {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2085/index.html |title=1974 FIFA World Cup Germany – Matches – Haiti v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223091509/http://www.fifa.com/worldcup/matches/round=262/match=2085/index.html |archive-date=23 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_black_stripes_alt
+ |pattern_b  = _shoulder_stripes_black_stripes
+ |pattern_ra = _shoulder_stripes_black_stripes_alt
+ |pattern_sh = _red_stripes_adidas
+ |pattern_so = _3_stripes_red
+ |leftarm    = ff0000
+ |body       = ff0000
+ |rightarm   = ff0000
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Haiti
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_red_stripes
+ |pattern_b  = _shoulder_stripes_red_stripes
+ |pattern_ra = _shoulder_stripes_red_stripes
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_red
+ |leftarm    = ffffff 
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ff0000
+ |socks      = ffffff
+ |title      = Poland
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Henri Françillon]]
+|-
+|DF ||'''3''' ||[[Arsène Auguste]]
+|-
+|DF ||'''4''' ||[[Fritz André]]|| ||{{suboff|37}}
+|-
+|DF ||'''6''' ||[[Pierre Bayonne]] ||{{yel|71}}
+|-
+|DF ||'''14'''||[[Wilner Nazaire]] [[captain (association football)|(c)]]
+|-
+|MF ||'''7'''||[[Philippe Vorbe]]
+|-
+|MF ||'''8'''||[[Jean-Claude Désir]]
+|-
+|MF ||'''9'''||[[Eddy Antoine]]
+|-
+|MF ||'''10'''||[[Guy François (footballer)|Guy François]]
+|-
+|FW ||'''15'''||[[Roger Saint-Vil]] || ||{{suboff|46}}
+|-
+|FW ||'''20'''||[[Emmanuel Sanon]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW||'''18'''||[[Claude Barthélemy (footballer)|Claude Barthélemy]]|| ||{{subon|37}}
+|-
+|DF ||'''13''' ||[[Serge Racine]]|| ||{{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Antoine Tassy]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Jan Tomaszewski]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF ||'''6''' ||[[Jerzy Gorgoń]]
+|-
+|DF ||'''9''' ||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF ||'''10'''||[[Adam Musiał]]|| ||{{suboff|71}}
+|-
+|MF ||'''12'''||[[Kazimierz Deyna]] [[captain (association football)|(c)]]
+|-
+|MF ||'''13'''||[[Henryk Kasperczak]]
+|-
+|MF ||'''14'''||[[Zygmunt Maszczyk]]|| ||{{suboff|65}}
+|-
+|MF ||'''16'''||[[Grzegorz Lato]]
+|-
+|FW ||'''17'''||[[Andrzej Szarmach]] 
+|-
+|FW ||'''18'''||[[Robert Gadocha]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11''' ||[[Lesław Ćmikiewicz]]|| ||{{subon|65}}
+|-
+|DF ||'''5''' ||[[Zbigniew Gut]]|| ||{{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kazimierz Górski]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+<br />[[Erich Linemayr]] ([[Austrian Football Association|Austria]])
+|}
+
+===Argentina vs Haiti===
+<onlyinclude>{{#invoke:Football box|main|section=4-5
+|date={{Start date|1974|6|23|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1974 FIFA World Cup Group 4#Argentina vs Haiti|4–1}}
+|team2={{fb|HAI|1964}}
+|goals1=
+*[[Héctor Yazalde|Yazalde]] {{goal|15||68}}
+*[[René Houseman|Houseman]] {{goal|18}}
+*[[Rubén Ayala|Ayala]] {{goal|55}}
+|goals2=
+*[[Emmanuel Sanon|Sanon]] {{goal|63}}
+|stadium=[[Olympic Stadium (Munich)|Olympiastadion]], [[Munich]]
+|attendance=25,900
+|referee=[[Pablo Sánchez Ibáñez]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1947 |title=Argentina vs Haiti {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1947/index.html |title=1974 FIFA World Cup Germany – Matches – Argentina v Haiti |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202043645/http://www.fifa.com/worldcup/matches/round=262/match=1947/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la =_arg3757h
+ |pattern_b  =_arg7475h
+ |pattern_ra =_arg3757h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _arg6669h
+ |leftarm    = 75AADB 
+ |body       = 75AADB
+ |rightarm   = 75AADB
+ |shorts     = 000000
+ |socks      = 707070
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _shoulder_stripes_black_stripes_alt
+ |pattern_b  = _shoulder_stripes_black_stripes
+ |pattern_ra = _shoulder_stripes_black_stripes_alt
+ |pattern_sh = _red_stripes_adidas
+ |pattern_so = _3_stripes_red
+ |leftarm    = ff0000
+ |body       = ff0000
+ |rightarm   = ff0000
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Haiti
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Daniel Carnevali]]
+|-
+|DF||'''10'''||[[Ramón Heredia]]||{{yel|60}}
+|-
+|DF ||'''14''' ||[[Roberto Perfumo]] [[Captain (association football)|(c)]]
+|-
+|DF ||'''16''' ||[[Francisco Sá]]
+|-
+|DF ||'''20'''||[[Enrique Wolff]]
+|-
+|MF ||'''3'''||[[Carlos Babington]] ||{{yel|26}}
+|-
+|MF ||'''11'''||[[René Houseman]]|| ||{{suboff|57}}
+|-
+|MF ||'''18'''||[[Roberto Telch]]
+|-
+|FW ||'''2'''||[[Rubén Ayala]]
+|-
+|FW||'''13'''||[[Mario Kempes]]|| ||{{suboff|52}}
+|-
+|FW ||'''22'''||[[Héctor Yazalde]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''4''' ||[[Agustín Balbuena]] || ||{{subon|52}}
+|-
+|MF ||'''6''' ||[[Miguel Ángel Brindisi]] || ||{{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Vladislao Cap]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Henri Françillon]]
+|-
+|DF ||'''21'''||[[Wilfried Louis]]
+|-
+|DF ||'''5''' ||[[Serge Ducosté]]
+|-
+|DF ||'''6''' ||[[Pierre Bayonne]]
+|-
+|DF||'''13'''||[[Serge Racine]]
+|-
+|DF ||'''14''' ||[[Wilner Nazaire]] [[captain (association football)|(c)]]|| ||{{suboff|25}}
+|-
+|MF ||'''7'''||[[Philippe Vorbe]]
+|-
+|MF ||'''8'''||[[Jean-Claude Désir]]
+|-
+|MF ||'''9'''||[[Eddy Antoine]]
+|-
+|FW ||'''11'''||[[Guy Saint-Vil]] || ||{{suboff|52}}
+|-
+|FW ||'''20'''||[[Emmanuel Sanon]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17''' ||[[Joseph-Marion Leandré]]|| ||{{subon|25}}
+|-
+|FW ||'''16''' ||[[Fritz Leandré]]|| {{yel|85}}||{{subon|52}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Antoine Tassy]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+<br />[[Rudi Glöckner]] ([[German Football Association of the GDR|East Germany]])
+|}
+
+===Poland vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=4-6
+|date={{Start date|1974|6|23|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|POL|1928}}
+|score={{score link|1974 FIFA World Cup Group 4#Poland vs Italy|2–1}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Andrzej Szarmach|Szarmach]] {{goal|38}}
+*[[Kazimierz Deyna|Deyna]] {{goal|44}}
+|goals2=
+*[[Fabio Capello|Capello]] {{goal|85}}
+|stadium=[[MHPArena|Neckarstadion]], [[Stuttgart]]
+|attendance=70,100
+|referee=[[Hans-Joachim Weyland]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2129 |title=Poland vs Italy {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2129/index.html |title=1974 FIFA World Cup Germany – Matches – Poland v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001624/http://www.fifa.com/worldcup/matches/round=262/match=2129/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _shoulder_stripes_red_stripes
+ |pattern_b  = _shoulder_stripes_red_stripes
+ |pattern_ra = _shoulder_stripes_red_stripes
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_red
+ |leftarm    = ffffff 
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ff0000
+ |socks      = ffffff
+ |title      = Poland
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b=_ita70h
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _3_stripes_white
+ | leftarm    = 3120CC
+ | body       = 3120CC
+ | rightarm   = 3120CC
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ |title      = Italy
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Jan Tomaszewski]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF ||'''6''' ||[[Jerzy Gorgoń]]
+|-
+|DF ||'''9''' ||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF ||'''10'''||[[Adam Musiał]]||{{yel|84}}
+|-
+|MF ||'''12'''||[[Kazimierz Deyna]] [[captain (association football)|(c)]]
+|-
+|MF ||'''13'''||[[Henryk Kasperczak]] ||{{yel|25}}
+|-
+|MF ||'''14'''||[[Zygmunt Maszczyk]]
+|-
+|MF ||'''16'''||[[Grzegorz Lato]]
+|-
+|FW ||'''17'''||[[Andrzej Szarmach]] || ||{{suboff|78}}
+|-
+|FW ||'''18'''||[[Robert Gadocha]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11''' ||[[Lesław Ćmikiewicz]]|| ||{{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kazimierz Górski]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dino Zoff]]
+|-
+|DF ||'''2''' ||[[Luciano Spinosi]]
+|-
+|DF ||'''3''' ||[[Giacinto Facchetti]] [[captain (association football)|(c)]]
+|-
+|DF||'''5'''||[[Francesco Morini]]
+|-
+|DF ||'''6'''||[[Tarcisio Burgnich]] ||||{{suboff|33}}
+|-
+|MF ||'''4''' ||[[Romeo Benetti]]
+|-
+|MF ||'''7'''||[[Sandro Mazzola]]
+|-
+|MF ||'''8'''||[[Fabio Capello]]
+|-
+|MF||'''18'''||[[Franco Causio]]
+|-
+|FW ||'''9'''||[[Giorgio Chinaglia]] ||||{{suboff|46}}
+|-
+|FW ||'''19'''||[[Pietro Anastasi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''15''' ||[[Giuseppe Wilson]] || || {{subon|33}}
+|-
+|FW ||'''20''' ||[[Roberto Boninsegna]]|| {{yel|71}} || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"| [[Ferruccio Valcareggi]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Werner Winsemann]] ([[Canadian Soccer Association|Canada]])
+<br />[[Garhard Schulenburg]] ([[German Football Association|West Germany]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Haiti at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Poland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 4}}
+[[Category:1974 FIFA World Cup group stage]]
+[[Category:Italy at the 1974 FIFA World Cup]]
+[[Category:Argentina at the 1974 FIFA World Cup]]
+[[Category:Haiti at the 1974 FIFA World Cup]]
+[[Category:Poland at the 1974 FIFA World Cup]]
+[[Category:Football competitions in Munich]]
+[[Category:Football in Stuttgart]]
+[[Category:1970s in Munich]]
+[[Category:Football competitions in Baden-Württemberg]]
+[[Category:1970s in Baden-Württemberg]]
+[[Category:20th century in Stuttgart]]

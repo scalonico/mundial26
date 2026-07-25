@@ -1,0 +1,916 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group 6''' was one of six groups of national teams competing in the First group stage of the [[1982 FIFA World Cup]]. Play began on 14 June and ended on 23 June 1982.<ref>{{cite web |url=https://www.rsssf.org/tables/82full.html |title=World Cup 1982 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The group consisted of four teams: Seeded team [[Brazil national football team|Brazil]], the [[Soviet Union national football team|Soviet Union]], [[Scotland national football team|Scotland]] and World Cup debutants [[New Zealand men's national football team|New Zealand]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/spain1982/groups/ |archive-url=https://web.archive.org/web/20180521170139/http://www.fifa.com/worldcup/archive/spain1982/groups/ |url-status=dead |archive-date=21 May 2018 |title=World Cup 1982 Spain » Groups |accessdate=3 May 2020 |work=FIFA.com}}</ref><ref>{{cite web|url=https://www.worldfootball.net/competition/ro9329/md0/results-and-standings/ |title=World Cup 1982 Spain » Group 6 |access-date=3 May 2020 |work=WorldFootball.net}}</ref><ref>{{cite web|url=https://books.google.com/books?id=ibqbuTkY8w0C&q=1982+FIFA+World+Cup+Group+6&pg=PA262 |title=World Cup 1982 Spain - Group 6 |accessdate=3 May 2020 |work=Google Books}}</ref><ref>{{cite web|url=http://www.planetworldcup.com/CUPS/1982/wc82index.html|title=World Cup 1982 |accessdate=3 May 2020 |work=Planet World Cup}}</ref>
+
+Brazil won the group with three consecutive victories and advanced to the second round, along with the Soviet Union, who finished ahead of Scotland by virtue of goal difference.<ref>{{cite web|url=http://www.historicalkits.co.uk/international/tournaments/fifa-world-cup/1982/1982-group-6.html |title=1982 FIFA World Cup Group 6 |accessdate=3 May 2020 |work=Historical Football Kits}}</ref><ref>{{cite web|url=https://globalsportsarchive.com/competition/soccer/fifa-world-cup-1982-spain/group-stage/301/ |title=1982 FIFA World Cup Group 6 |accessdate=3 May 2020 |work=Global Sports Archive}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/spain1982/groups/index.html FIFA]
+
+|team1=BRA |team2=URS |team3=SCO |team4=NZL
+|result1=A |result2=A
+
+|win_BRA=3 |draw_BRA=0 |loss_BRA=0 |gf_BRA=10 |ga_BRA=2
+|win_URS=1 |draw_URS=1 |loss_URS=1 |gf_URS=6 |ga_URS=4
+|win_SCO=1 |draw_SCO=1 |loss_SCO=1 |gf_SCO=8 |ga_SCO=8
+|win_NZL=0 |draw_NZL=0 |loss_NZL=3 |gf_NZL=2 |ga_NZL=12
+
+|name_SCO={{fb|SCO}}
+|name_URS={{fb|URS|1955}}
+|name_NZL={{fb|NZL}}
+|name_BRA={{fb|BRA|1968}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1982 FIFA World Cup#Second group stage|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Brazil vs Soviet Union===
+<onlyinclude>{{#invoke:Football box|main|section=6-1
+|date={{Start date|1982|6|14|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1982 FIFA World Cup Group 6#Brazil vs Soviet Union|2–1}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Sócrates]] {{goal|75}}
+*[[Éder Aleixo de Assis|Éder]] {{goal|88}}
+|goals2=
+*[[Andriy Bal|Bal]] {{goal|34}}
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance=68,000
+|referee=[[Augusto Lamo Castillo]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/791 |title=Brazil vs Soviet Union {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=791/index.html |title=1982 FIFA World Cup Spain – Matches – Brazil v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211173324/http://www.fifa.com/worldcup/matches/round=293/match=791/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _greencollar
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0070F9
+ | socks      = 
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _sovietunion82h
+ | pattern_b  = _sovietunion82h
+ | pattern_ra = _sovietunion82h
+ | pattern_sh = _adidasred
+ | pattern_so = _3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = EE0000
+ | title      = Soviet Union
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Waldir Peres]]
+|-
+|DF ||'''2''' ||[[José Leandro Ferreira|Leandro]]
+|-
+|DF ||'''3''' ||[[Oscar (footballer, born 1954)|Oscar]]
+|-
+|DF ||'''4''' ||[[Luiz Carlos Ferreira|Luizinho]]
+|-
+|DF ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]]
+|-
+|MF ||'''8''' ||[[Sócrates]] ([[Captain (association football)|c]])
+|-
+|MF ||'''15'''||[[Paulo Roberto Falcão|Falcão]]
+|-
+|MF ||'''21'''||[[Dirceu]] || || {{suboff|46}}
+|-
+|MF ||'''10'''||[[Zico (footballer)|Zico]]
+|-
+|FW ||'''9''' ||[[Serginho Chulapa|Serginho]]
+|-
+|FW ||'''11'''||[[Éder Aleixo de Assis|Éder]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''7''' ||[[Paulo Isidoro]] || || {{subon|46}}
+|-
+|GK ||'''12'''||[[Paulo Sérgio de Oliveira Lima|Paulo Sérgio]]
+|-
+|DF ||'''13'''||[[Edevaldo de Freitas|Edevaldo]]
+|-
+|DF ||'''16'''||[[Edinho (footballer, born 1955)|Edinho]]
+|-
+|MF ||'''19'''||[[Carlos Renato Frederico|Renato]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Telê Santana]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Rinat Dasayev]]
+|-
+|DF ||'''2''' ||[[Tengiz Sulakvelidze]]
+|-
+|DF ||'''3''' ||[[Aleksandre Chivadze]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Sergei Pavlovich Baltacha|Sergei Baltacha]]
+|-
+|DF ||'''6''' ||[[Anatoliy Demyanenko]]
+|-
+|MF ||'''12'''||[[Andriy Bal]]
+|-
+|MF ||'''8''' ||[[Volodymyr Bezsonov]]
+|-
+|MF ||'''13'''||[[Vitaly Daraselia]]
+|-
+|MF ||'''9''' ||[[Yuri Gavrilov (footballer, born 1953)|Yuri Gavrilov]] || || {{suboff|74}}
+|-
+|FW ||'''11'''||[[Oleh Blokhin]]
+|-
+|FW ||'''7''' ||[[Ramaz Shengelia]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''10'''||[[Khoren Oganesian]]
+|-
+|DF ||'''14'''||[[Sergei Borovsky]]
+|-
+|FW ||'''15'''||[[Sergey Andreyev]] || || {{subon|89}}
+|-
+|DF ||'''18'''||[[Yuri Susloparov]] || || {{subon|74}}
+|-
+|GK ||'''22'''||[[Vyacheslav Chanov]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Konstantin Beskov]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Victoriano Sánchez Arminio]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[José Luis García Carrión]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+===Scotland vs New Zealand===
+<onlyinclude>{{#invoke:Football box|main|section=6-2
+|date={{Start date|1982|6|15|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|SCO}}
+|score={{score link|1982 FIFA World Cup Group 6#Scotland vs New Zealand|5–2}}
+|team2={{fb|NZL}}
+|goals1=
+*[[Kenny Dalglish|Dalglish]] {{goal|18}}
+*[[John Wark|Wark]] {{goal|29||32}}
+*[[John Robertson (footballer, born 1953)|Robertson]] {{goal|73}}
+*[[Steve Archibald|Archibald]] {{goal|79}}
+|goals2=
+*[[Steve Sumner|Sumner]] {{goal|54}}
+*[[Steve Wooddin|Wooddin]] {{goal|64}}
+|stadium=[[La Rosaleda Stadium]], [[Málaga]]
+|attendance=36,000
+|referee=[[David Socha]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/1051 |title=Scotland vs New Zealand {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=1051/index.html |title=1982 FIFA World Cup Spain – Matches – Scotland v New Zealand |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211182052/http://www.fifa.com/worldcup/matches/round=293/match=1051/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sco8284h
+ | pattern_b  = _sco8284h
+ | pattern_ra = _sco8284h
+ | pattern_sh =
+ | pattern_so = _whitestripe
+ | leftarm    = 1A2D69
+ | body       = 1A2D69
+ | rightarm   = 1A2D69
+ | shorts     = FFFFFF
+ | socks      = CD2626
+ | title      = Scotland
+}}
+|{{Football kit
+ | pattern_la = _nz1982h
+ | pattern_b  = _nz1982h
+ | pattern_ra = _nz1982h
+ | pattern_sh = _adidas_black
+ | pattern_so = _3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = New Zealand
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Alan Rough]]
+|-
+|DF ||'''2''' ||[[Danny McGrain]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Alan Hansen]]
+|-
+|DF ||'''17'''||[[Allan Evans (footballer)|Allan Evans]]
+|-
+|DF ||'''3''' ||[[Frank Gray]]
+|-
+|MF ||'''7''' ||[[Gordon Strachan]] || || {{suboff|83}}
+|-
+|MF ||'''4''' ||[[Graeme Souness]]
+|-
+|MF ||'''10'''||[[John Wark]]
+|-
+|FW ||'''9''' ||[[Alan Brazil]] || || {{suboff|53}}
+|-
+|FW ||'''8''' ||[[Kenny Dalglish]]
+|-
+|FW ||'''11'''||[[John Robertson (footballer, born 1953)|John Robertson]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[Willie Miller]]
+|-
+|GK ||'''12'''||[[George Wood (footballer)|George Wood]]
+|-
+|DF ||'''14'''||[[David Narey]] || || {{subon|83}}
+|-
+|FW ||'''15'''||[[Joe Jordan]]
+|-
+|FW ||'''18'''||[[Steve Archibald]] || || {{subon|53}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jock Stein]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Frank van Hattum]]
+|-
+|DF ||'''15'''||[[John Hill (New Zealand footballer)|John Hill]]
+|-
+|DF ||'''6''' ||[[Bobby Almond]] || || {{suboff|66}}
+|-
+|DF ||'''14'''||[[Adrian Elrick]]
+|-
+|DF ||'''11'''||[[Sam Malcolmson]] || || {{suboff|77}}
+|-
+|MF ||'''12'''||[[Keith Mackay]]
+|-
+|MF ||'''17'''||[[Allan Boath]]
+|-
+|MF ||'''13'''||[[Kenny Cresswell]]
+|-
+|MF ||'''10'''||[[Steve Sumner]] ([[Captain (association football)|c]])
+|-
+|FW ||'''7''' ||[[Wynton Rufer]]
+|-
+|FW ||'''9''' ||[[Steve Wooddin]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Richard Wilson (footballer, born 1956)|Richard Wilson]]
+|-
+|DF ||'''2''' ||[[Glenn Dods]]
+|-
+|DF ||'''3''' ||[[Ricki Herbert]] || || {{subon|66}}
+|-
+|MF ||'''4''' ||[[Brian Turner (footballer, born 1949)|Brian Turner]]
+|-
+|MF ||'''8''' ||[[Duncan Cole]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|England}} [[John Adshead]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Thomson Chan]] ([[Hong Kong Football Association|Hong Kong]])
+<br />[[Yousef Alghoul]] ([[Libyan Football Federation|Libya]])
+|}
+
+===Brazil vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=6-3
+|date={{Start date|1982|6|18|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1982 FIFA World Cup Group 6#Brazil vs Scotland|4–1}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Zico (footballer)|Zico]] {{goal|33}}
+*[[Oscar (footballer, born 1954)|Oscar]] {{goal|48}}
+*[[Éder Aleixo de Assis|Éder]] {{goal|63}}
+*[[Paulo Roberto Falcão|Falcão]] {{goal|87}}
+|goals2=
+*[[David Narey|Narey]] {{goal|18}}
+|stadium=[[Estadio Benito Villamarín]], [[Seville]]
+|attendance=47,379
+|referee=[[Luis Paulino Siles]] ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/790 |title=Brazil vs Scotland {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=790/index.html |title=1982 FIFA World Cup Spain – Matches – Brazil v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211171136/http://www.fifa.com/worldcup/matches/round=293/match=790/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _greencollar
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0070F9
+ | socks      = 
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _sco8284h
+ | pattern_b  = _sco8284h
+ | pattern_ra = _sco8284h
+ | pattern_sh =
+ | pattern_so = _whitestripe
+ | leftarm    = 1A2D69
+ | body       = 1A2D69
+ | rightarm   = 1A2D69
+ | shorts     = FFFFFF
+ | socks      = CD2626
+ | title      = Scotland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Waldir Peres]]
+|-
+|DF ||'''2''' ||[[José Leandro Ferreira|Leandro]]
+|-
+|DF ||'''3''' ||[[Oscar (footballer, born 1954)|Oscar]]
+|-
+|DF ||'''4''' ||[[Luiz Carlos Ferreira|Luizinho]]
+|-
+|DF ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]]
+|-
+|MF ||'''15'''||[[Paulo Roberto Falcão|Falcão]]
+|-
+|MF ||'''8''' ||[[Sócrates]] ([[Captain (association football)|c]])
+|-
+|MF ||'''5''' ||[[Toninho Cerezo]]
+|-
+|MF ||'''10'''||[[Zico (footballer)|Zico]]
+|-
+|FW ||'''9''' ||[[Serginho Chulapa|Serginho]] || || {{suboff|80}}
+|-
+|FW ||'''11'''||[[Éder Aleixo de Assis|Éder]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''7''' ||[[Paulo Isidoro]] || || {{subon|80}}
+|-
+|GK ||'''12'''||[[Paulo Sérgio de Oliveira Lima|Paulo Sérgio]]
+|-
+|DF ||'''13'''||[[Edevaldo de Freitas|Edevaldo]]
+|-
+|DF ||'''16'''||[[Edinho (footballer, born 1955)|Edinho]]
+|-
+|MF ||'''19'''||[[Carlos Renato Frederico|Renato]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Telê Santana]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alan Rough]]
+|-
+|DF ||'''14'''||[[David Narey]]
+|-
+|DF ||'''6''' ||[[Willie Miller]]
+|-
+|DF ||'''5''' ||[[Alan Hansen]]
+|-
+|DF ||'''3''' ||[[Frank Gray]]
+|-
+|MF ||'''4''' ||[[Graeme Souness]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[John Wark]]
+|-
+|MF ||'''7''' ||[[Gordon Strachan]] || || {{suboff|65}}
+|-
+|MF ||'''16'''||[[Asa Hartford]] || || {{suboff|68}}
+|-
+|FW ||'''18'''||[[Steve Archibald]]
+|-
+|FW ||'''11'''||[[John Robertson (footballer, born 1953)|John Robertson]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[Danny McGrain]]
+|-
+|FW ||'''8''' ||[[Kenny Dalglish]] || || {{subon|65}}
+|-
+|GK ||'''12'''||[[George Wood (footballer)|George Wood]]
+|-
+|DF ||'''13'''||[[Alex McLeish]] || || {{subon|68}}
+|-
+|FW ||'''19'''||[[Paul Sturrock]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jock Stein]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Thomson Chan]] ([[Hong Kong Football Association|Hong Kong]])
+<br />[[Adolf Prokop]] ([[Deutscher Fußball-Verband der DDR|East Germany]])
+|}
+
+===Soviet Union vs New Zealand===
+<onlyinclude>{{#invoke:Football box|main|section=6-4
+|date={{Start date|1982|6|19|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1982 FIFA World Cup Group 6#Soviet Union vs New Zealand|3–0}}
+|team2={{fb|NZL}}
+|goals1=
+*[[Yuri Gavrilov (footballer, born 1953)|Gavrilov]] {{goal|24}}
+*[[Oleh Blokhin|Blokhin]] {{goal|48}}
+*[[Sergei Pavlovich Baltacha|Baltacha]] {{goal|68}}
+|goals2=
+|stadium=[[La Rosaleda Stadium]], [[Málaga]]
+|attendance=19,000
+|referee=[[Yousef Alghoul]] ([[Libyan Football Federation|Libya]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/1054 |title=Soviet Union vs New Zealand {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=1054/index.html |title=1982 FIFA World Cup Spain – Matches – Soviet Union v New Zealand |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211171126/http://www.fifa.com/worldcup/matches/round=293/match=1054/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sovietunion82h
+ | pattern_b  = _sovietunion82h
+ | pattern_ra = _sovietunion82h
+ | pattern_sh = _adidas_red
+ | pattern_so = _3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = _nz1982h
+ | pattern_b  = _nz1982h
+ | pattern_ra = _nz1982h
+ | pattern_sh = _adidas_black
+ | pattern_so = _3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = New Zealand
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rinat Dasayev]]
+|-
+|DF ||'''6''' ||[[Anatoliy Demyanenko]]
+|-
+|DF ||'''3''' ||[[Aleksandre Chivadze]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Sergei Pavlovich Baltacha|Sergei Baltacha]]
+|-
+|DF ||'''2''' ||[[Tengiz Sulakvelidze]]
+|-
+|MF ||'''8''' ||[[Volodymyr Bezsonov]]
+|-
+|MF ||'''13'''||[[Vitaly Daraselia]] || || {{suboff|46}}
+|-
+|MF ||'''12'''||[[Andriy Bal]]
+|-
+|MF ||'''9''' ||[[Yuri Gavrilov (footballer, born 1953)|Yuri Gavrilov]] || || {{suboff|79}}
+|-
+|FW ||'''7''' ||[[Ramaz Shengelia]]
+|-
+|FW ||'''11'''||[[Oleh Blokhin]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''10'''||[[Khoren Oganesian]] || || {{subon|46}}
+|-
+|DF ||'''14'''||[[Sergei Borovsky]]
+|-
+|FW ||'''15'''||[[Sergey Andreyev]]
+|-
+|DF ||'''16'''||[[Sergey Rodionov]] || || {{subon|79}}
+|-
+|GK ||'''22'''||[[Vyacheslav Chanov]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Konstantin Beskov]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Frank van Hattum]]
+|-
+|DF ||'''2''' ||[[Glenn Dods]]
+|-
+|DF ||'''17'''||[[Allan Boath]]
+|-
+|DF ||'''3''' ||[[Ricki Herbert]]
+|-
+|DF ||'''14'''||[[Adrian Elrick]]
+|-
+|MF ||'''12'''||[[Keith Mackay]]
+|-
+|MF ||'''10'''||[[Steve Sumner]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Duncan Cole]]
+|-
+|MF ||'''13'''||[[Kenny Cresswell]]
+|-
+|FW ||'''7''' ||[[Wynton Rufer]]
+|-
+|FW ||'''9''' ||[[Steve Wooddin]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Richard Wilson (footballer, born 1956)|Richard Wilson]]
+|-
+|MF ||'''4''' ||[[Brian Turner (footballer, born 1949)|Brian Turner]]
+|-
+|DF ||'''11'''||[[Sam Malcolmson]]
+|-
+|DF ||'''15'''||[[John Hill (New Zealand footballer)|John Hill]]
+|-
+|MF ||'''19'''||[[Billy McClure]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|England}} [[John Adshead]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Emilio Soriano Aladrén]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Clive White]] ([[The Football Association|England]])
+|}
+
+===Soviet Union vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=6-5
+|date={{Start date|1982|6|22|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1982 FIFA World Cup Group 6#Soviet Union vs Scotland|2–2}}
+|team2={{fb|SCO}}
+|goals1=
+*[[Aleksandre Chivadze|Chivadze]] {{goal|59}}
+*[[Ramaz Shengelia|Shengelia]] {{goal|84}}
+|goals2=
+*[[Joe Jordan|Jordan]] {{goal|15}}
+*[[Graeme Souness|Souness]] {{goal|86}}
+|stadium=[[La Rosaleda Stadium]], [[Málaga]]
+|attendance=45,000
+|referee=[[Nicolae Rainea]] ([[Romanian Football Federation|Romania]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/1071 |title=Soviet Union vs Scotland {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=1071/index.html |title=1982 FIFA World Cup Spain – Matches – Soviet Union v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211175406/http://www.fifa.com/worldcup/matches/round=293/match=1071/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sovietunion82a
+ | pattern_b  = _sovietunion82a
+ | pattern_ra = _sovietunion82a
+ | pattern_sh = _adidas_red
+ | pattern_so = _3_stripes_red
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = _sco8284h
+ | pattern_b  = _sco8284h
+ | pattern_ra = _sco8284h
+ | pattern_sh =
+ | pattern_so = _whitestripe
+ | leftarm    = 1A2D69
+ | body       = 1A2D69
+ | rightarm   = 1A2D69
+ | shorts     = FFFFFF
+ | socks      = CD2626
+ | title      = Scotland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rinat Dasayev]]
+|-
+|SW ||'''3''' ||[[Aleksandre Chivadze]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Anatoliy Demyanenko]]
+|-
+|DF ||'''5''' ||[[Sergei Pavlovich Baltacha|Sergei Baltacha]]
+|-
+|DF ||'''2''' ||[[Tengiz Sulakvelidze]]
+|-
+|MF ||'''8''' ||[[Volodymyr Bezsonov]]
+|-
+|MF ||'''14'''||[[Sergei Borovsky]]
+|-
+|MF ||'''12'''||[[Andriy Bal]]
+|-
+|FW ||'''7''' ||[[Ramaz Shengelia]] || || {{suboff|88}}
+|-
+|FW ||'''9''' ||[[Yuri Gavrilov (footballer, born 1953)|Yuri Gavrilov]]
+|-
+|FW ||'''11'''||[[Oleh Blokhin]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''10'''||[[Khoren Hovhannisyan]]
+|-
+|MF ||'''13'''||[[Vitaly Daraselia]]
+|-
+|FW ||'''15'''||[[Sergey Andreyev]] || || {{subon|88}}
+|-
+|DF ||'''18'''||[[Yuri Susloparov]]
+|-
+|GK ||'''22'''||[[Vyacheslav Chanov]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Konstantin Beskov]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alan Rough]]
+|-
+|SW ||'''6''' ||[[Willie Miller]]
+|-
+|DF ||'''14'''||[[David Narey]]
+|-
+|DF ||'''5''' ||[[Alan Hansen]]
+|-
+|DF ||'''3''' ||[[Frank Gray]]
+|-
+|MF ||'''7''' ||[[Gordon Strachan]] || || {{suboff|71}}
+|-
+|MF ||'''4''' ||[[Graeme Souness]] ([[Captain (association football)|c]]) || {{yel|5}}
+|-
+|MF ||'''10'''||[[John Wark]]
+|-
+|FW ||'''18'''||[[Steve Archibald]]
+|-
+|FW ||'''15'''||[[Joe Jordan]] || || {{suboff|71}}
+|-
+|FW ||'''11'''||[[John Robertson (footballer, born 1953)|John Robertson]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[Danny McGrain]] || || {{subon|71}}
+|-
+|FW ||'''9''' ||[[Alan Brazil]] || || {{subon|71}}
+|-
+|GK ||'''12'''||[[George Wood (footballer)|George Wood]]
+|-
+|DF ||'''13'''||[[Alex McLeish]]
+|-
+|FW ||'''19'''||[[Paul Sturrock]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jock Stein]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Alojzy Jarguz]] ([[Polish Football Association|Poland]])
+<br />[[Alexis Ponnet]] ([[Royal Belgian Football Association|Belgium]])
+|}
+
+===Brazil vs New Zealand===
+<onlyinclude>{{#invoke:Football box|main|section=6-6
+|date={{Start date|1982|6|23|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1982 FIFA World Cup Group 6#Brazil vs New Zealand|4–0}}
+|team2={{fb|NZL}}
+|goals1=
+*[[Zico (footballer)|Zico]] {{goal|28||31}}
+*[[Paulo Roberto Falcão|Falcão]] {{goal|64}}
+*[[Serginho Chulapa|Serginho]] {{goal|70}}
+|goals2=
+|stadium=[[Estadio Benito Villamarín]], [[Seville]]
+|attendance=43,000
+|referee=[[Damir Matovinović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/789 |title=Brazil vs New Zealand {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=789/index.html |title=1982 FIFA World Cup Spain – Matches – Brazil v New Zealand |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201084444/http://www.fifa.com/worldcup/matches/round=293/match=789/index.html |archive-date=1 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _greencollar
+ | pattern_ra = _greenborder
+ | pattern_sh = _bra82h
+ | pattern_so = _brasil1982
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0070F9
+ | socks      = 
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _nz1982h
+ | pattern_b  = _nz1982h
+ | pattern_ra = _nz1982h
+ | pattern_sh = _adidas_black
+ | pattern_so = _3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = New Zealand
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Waldir Peres]]
+|-
+|DF ||'''2''' ||[[José Leandro Ferreira|Leandro]]
+|-
+|DF ||'''3''' ||[[Oscar (footballer, born 1954)|Oscar]] || || {{suboff|75}}
+|-
+|DF ||'''4''' ||[[Luiz Carlos Ferreira|Luizinho]]
+|-
+|DF ||'''6''' ||[[Leovegildo Lins da Gama Júnior|Júnior]]
+|-
+|MF ||'''15'''||[[Paulo Roberto Falcão|Falcão]]
+|-
+|MF ||'''8''' ||[[Sócrates]] ([[Captain (association football)|c]])
+|-
+|MF ||'''5''' ||[[Toninho Cerezo]]
+|-
+|MF ||'''10'''||[[Zico (footballer)|Zico]]
+|-
+|FW ||'''9''' ||[[Serginho Chulapa|Serginho]] || || {{suboff|75}}
+|-
+|FW ||'''11'''||[[Éder Aleixo de Assis|Éder]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''7''' ||[[Paulo Isidoro]] || || {{subon|75}}
+|-
+|GK ||'''12'''||[[Paulo Sérgio de Oliveira Lima|Paulo Sérgio]]
+|-
+|DF ||'''13'''||[[Edevaldo de Freitas|Edevaldo]]
+|-
+|DF ||'''16'''||[[Edinho (footballer, born 1955)|Edinho]] || || {{subon|75}}
+|-
+|MF ||'''19'''||[[Carlos Renato Frederico|Renato]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Telê Santana]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Frank van Hattum]]
+|-
+|DF ||'''2''' ||[[Glenn Dods]]
+|-
+|DF ||'''3''' ||[[Ricki Herbert]]
+|-
+|DF ||'''6''' ||[[Bobby Almond]]
+|-
+|DF ||'''14'''||[[Adrian Elrick]]
+|-
+|MF ||'''17'''||[[Allan Boath]]
+|-
+|MF ||'''12'''||[[Keith Mackay]]
+|-
+|MF ||'''13'''||[[Kenny Cresswell]] || || {{suboff|78}}
+|-
+|MF ||'''10'''||[[Steve Sumner]] ([[Captain (association football)|c]])
+|-
+|FW ||'''9''' ||[[Steve Wooddin]]
+|-
+|FW ||'''7''' ||[[Wynton Rufer]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Richard Wilson (footballer, born 1956)|Richard Wilson]]
+|-
+|MF ||'''4''' ||[[Brian Turner (footballer, born 1949)|Brian Turner]] || || {{subon|78}}
+|-
+|MF ||'''8''' ||[[Duncan Cole]] || || {{subon|78}}
+|-
+|DF ||'''15'''||[[John Hill (New Zealand footballer)|John Hill]]
+|-
+|DF ||'''16'''||[[Glen Adam]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|England}} [[John Adshead]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Abraham Klein (referee)|Abraham Klein]] ([[Israel Football Association|Israel]])
+<br />[[Charles Corver]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[New Zealand at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+*[[Soviet Union at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/2602c368daaad887/original/bn1ocpuvccw3txzmiut3-pdf.pdf Spain 1982 FIFA Technical Report: Statistical Details of the Matches pp. 129-133]
+
+{{1982 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 6}}
+[[Category:1982 FIFA World Cup group stage]]
+[[Category:Brazil at the 1982 FIFA World Cup|Group]]
+[[Category:Scotland at the 1982 FIFA World Cup|Group]]
+[[Category:Soviet Union at the 1982 FIFA World Cup]]
+[[Category:New Zealand at the 1982 FIFA World Cup]]
+[[Category:Football competitions in Seville]]
+[[Category:Sport in Málaga]]
+[[Category:1982 in Andalusia]]
+[[Category:1980s in Seville]]

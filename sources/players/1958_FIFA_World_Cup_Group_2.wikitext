@@ -1,0 +1,751 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 2 of the [[1958 FIFA World Cup]]''' took place from 8 to 15 June 1958. The group consisted of [[France national football team|France]], [[Paraguay national football team|Paraguay]], [[Scotland national football team|Scotland]], and [[Yugoslavia national football team|Yugoslavia]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/58f.html |title=World Cup 1958 (Sweden, June 8–29) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|teamwidth=180
+|section=Standings
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150407144248/http://www.fifa.com/worldcup/archive/sweden1958/groups/index.html FIFA]
+
+|team1=FRA|team2=YUG 
+|team3=PAR |team4=SCO
+|hth_FRA=France finished ahead of Yugoslavia on goal average. |hth_YUG=FRA
+
+|result1=A |result2=A
+
+|win_FRA=2 |draw_FRA=0 |loss_FRA=1 |gf_FRA=11 |ga_FRA=7
+|win_YUG=1 |draw_YUG=2 |loss_YUG=0 |gf_YUG=7 |ga_YUG=6
+|win_PAR=1 |draw_PAR=1 |loss_PAR=1 |gf_PAR=9 |ga_PAR=12
+|win_SCO=0 |draw_SCO=1 |loss_SCO=2 |gf_SCO=4 |ga_SCO=6
+
+|name_SCO={{fb|SCO|1542}}
+|name_PAR={{fb|PAR|1954}}
+|name_YUG={{fb|YUG}}
+|name_FRA={{fb|FRA|1794}}
+
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1958 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===France vs Paraguay===
+<onlyinclude>{{#invoke:Football box|main|section=2-1
+|date={{Start date|1958|6|8|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|FRA|1794}}
+|score={{score link|1958 FIFA World Cup Group 2#France vs Paraguay|7–3}}
+|team2={{fb|PAR|1954}}
+|goals1=
+*[[Just Fontaine|Fontaine]] {{goal|24||30||67}}
+*[[Roger Piantoni|Piantoni]] {{goal|52}}
+*[[Maryan Wisnieski|Wisnieski]] {{goal|61}}
+*[[Raymond Kopa|Kopa]] {{goal|70}}
+*[[Jean Vincent|Vincent]] {{goal|83}}
+|goals2=
+*[[Florencio Amarilla|Amarilla]] {{goal|20||44|pen.}}
+*[[Jorge Lino Romero|Romero]] {{goal|50}}
+|stadium=[[Nya Parken|Idrottsparken]], [[Norrköping]]
+|attendance=16,518
+|referee=[[Juan Gardeazábal|Juan Gardeazábal Garay]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1386 |title=France vs Paraguay {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1386/index.html |title=1958 FIFA World Cup Sweden – Matches – France v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171203191555/http://www.fifa.com/worldcup/matches/round=220/match=1386/index.html |archive-date=3 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collarblue_laced
+| pattern_ra = 
+| pattern_sh =  
+| pattern_so = _2_stripes_white
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = France
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _red_lower
+| pattern_b  = _whitestripes2
+| pattern_ra = _red_lower
+| pattern_sh =  
+| pattern_so = _top_on_white
+| leftarm    = FFFFFF
+| body       = FF0000
+| rightarm   = FFFFFF
+| shorts     = 0000AA
+| socks      = 0000AA
+| title      = Paraguay
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''3'''|| [[François Remetter]]
+|-
+| DF ||'''4'''|| [[Raymond Kaelbel]]
+|-
+| DF ||'''5'''|| [[André Lerond]]
+|-
+| DF ||'''13'''|| [[Armand Penverne]]
+|-
+| MF ||'''10'''|| [[Robert Jonquet]] ([[Captain (association football)|c]])
+|-
+| MF ||'''12'''|| [[Jean-Jacques Marcel]]
+|-
+| FW ||'''22'''|| [[Maryan Wisnieski]]
+|-
+| FW ||'''18'''|| [[Raymond Kopa]]
+|-
+| FW ||'''17'''|| [[Just Fontaine]]
+|-
+| FW ||'''20'''|| [[Roger Piantoni]]
+|-
+| FW ||'''21'''|| [[Jean Vincent]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Albert Batteux]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Ramon Mayeregger]]
+|-
+| DF ||'''2'''|| [[Edelmiro Arévalo]]
+|-
+| DF ||'''17'''|| [[Agustín Miranda (footballer, born 1930)|Agustín Miranda]]
+|-
+| DF ||'''4'''|| [[Ignacio Achúcarro]]
+|-
+| MF ||'''3'''|| [[Juan Vicente Lezcano]]
+|-
+| MF ||'''5'''|| [[Salvador Villalba]]  
+|-
+| FW ||'''7'''|| [[Juan Bautista Agüero]] ([[Captain (association football)|c]])
+|-
+| FW ||'''8'''|| [[José Parodi]]
+|-
+| FW ||'''9'''|| [[Jorge Lino Romero]]
+|-
+| FW ||'''21'''|| [[Cayetano Ré]] 
+|-
+| FW ||'''11'''|| [[Florencio Amarilla]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Aurelio González (footballer)|Aurelio González]]
+|}
+{{col-end}}
+
+===Yugoslavia vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=2-2
+|date={{Start date|1958|6|8|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|YUG}}
+|score={{score link|1958 FIFA World Cup Group 2#Yugoslavia vs Scotland|1–1}}
+|team2={{fb|SCO|1542}}
+|goals1=
+*[[Aleksandar Petaković|Petaković]] {{goal|6}}
+|goals2=
+*[[Jimmy Murray (footballer born 1933)|Murray]] {{goal|49}}
+|stadium=[[Arosvallen]], [[Västerås]]
+|attendance=9,591
+|referee=Raymond Wyssling ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1434 |title=Yugoslavia vs Scotland {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1434/index.html |title=1958 FIFA World Cup Sweden – Matches – Yugoslavia v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213020828/http://www.fifa.com/worldcup/matches/round=220/match=1434/index.html |archive-date=13 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = _yugoslavia1962h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitestripe
+ | leftarm    = 0261BF
+ | body       = 0261BF 
+ | rightarm   = 0261BF
+ | shorts     = FFFFFF
+ | socks      = 0261BF
+ | title      = Yugoslavia
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000088
+ | socks      = FF0000
+ | title      = Scotland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Vladimir Beara]]
+|-
+| DF ||'''3'''|| [[Vasilije Šijaković]]
+|-
+| DF ||'''4'''|| [[Tomislav Crnković (footballer)|Tomislav Crnković]]
+|-
+| DF ||'''6'''|| [[Branko Zebec]] ([[Captain (association football)|c]])
+|-
+| MF ||'''8'''|| [[Dobrosav Krstić]]
+|-
+| MF ||'''9'''|| [[Vujadin Boškov]]
+|-
+| FW ||'''12'''|| [[Aleksandar Petaković]]
+|-
+| FW ||'''13'''|| [[Todor Veselinović]]
+|-
+| FW ||'''7'''|| [[Miloš Milutinović]]
+|-
+| FW ||'''15'''|| [[Dragoslav Šekularac]]
+|-
+| FW ||'''17'''|| [[Zdravko Rajkov]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Aleksandar Tirnanić]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Tommy Younger]] ([[Captain (association football)|c]])
+|-
+| DF ||'''4'''|| [[Eric Caldow]]
+|-
+| DF ||'''5'''|| [[John Hewie]]
+|-
+| DF ||'''9'''|| [[Bobby Evans (footballer)|Bobby Evans]]
+|-
+| MF ||'''8'''|| [[Eddie Turnbull]]
+|-
+| MF ||'''12'''|| [[Doug Cowie (footballer)|Doug Cowie]]  
+|-
+| FW ||'''14'''|| [[Graham Leggat]]
+|-
+| FW ||'''16'''|| [[Jimmy Murray (footballer, born 1933)|Jimmy Murray]]
+|-
+| FW ||'''17'''|| [[Jackie Mudie]]
+|-
+| FW ||'''19'''|| [[Bobby Collins (footballer)|Bobby Collins]] 
+|-
+| FW ||'''21'''|| [[Stewart Imlach]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Dawson Walker]]
+|}
+{{col-end}}
+
+===Yugoslavia vs France===
+<onlyinclude>{{#invoke:Football box|main|section=2-3
+|date={{Start date|1958|6|11|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|YUG}}
+|score={{score link|1958 FIFA World Cup Group 2#Yugoslavia vs France|3–2}}
+|team2={{fb|FRA|1794}}
+|goals1=
+*[[Aleksandar Petaković|Petaković]] {{goal|16}}
+*[[Todor Veselinović|Veselinović]] {{goal|63||88}}
+|goals2=
+*[[Just Fontaine|Fontaine]] {{goal|4||85}}
+|stadium=[[Arosvallen]], [[Västerås]]
+|attendance=12,217
+|referee=[[Sandy Griffiths|Benjamin Griffiths]] ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1388 |title=Yugoslavia vs France {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1388/index.html |title=1958 FIFA World Cup Sweden – Matches – Yugoslavia v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031021459/http://www.fifa.com/worldcup/matches/round=220/match=1388/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = _yugoslavia1962h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitestripe
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Yugoslavia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collarblue_laced
+| pattern_ra = 
+| pattern_sh =  
+| pattern_so = _2_stripes_white
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = France
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Vladimir Beara]]
+|-
+| DF ||'''5'''|| [[Novak Tomić]]
+|-
+| DF ||'''4'''|| [[Tomislav Crnković (footballer)|Tomislav Crnković]]
+|-
+| DF ||'''6'''|| [[Branko Zebec]] ([[Captain (association football)|c]])
+|-
+| MF ||'''8'''|| [[Dobrosav Krstić]]
+|-
+| MF ||'''9'''|| [[Vujadin Boškov]]
+|-
+| FW ||'''12'''|| [[Aleksandar Petaković]]
+|-
+| FW ||'''13'''|| [[Todor Veselinović]]
+|-
+| FW ||'''7'''|| [[Miloš Milutinović]]
+|-
+| FW ||'''15'''|| [[Dragoslav Šekularac]]
+|-
+| FW ||'''17'''|| [[Zdravko Rajkov]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Aleksandar Tirnanić]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''3'''|| [[François Remetter]]
+|-
+| DF ||'''4'''|| [[Raymond Kaelbel]]
+|-
+| DF ||'''6'''|| [[Roger Marche]] ([[Captain (association football)|c]])
+|-
+| DF ||'''13'''|| [[Armand Penverne]]
+|-
+| MF ||'''10'''|| [[Robert Jonquet]]
+|-
+| MF ||'''5'''|| [[André Lerond]]
+|-
+| FW ||'''22'''|| [[Maryan Wisnieski]]
+|-
+| FW ||'''18'''|| [[Raymond Kopa]]
+|-
+| FW ||'''17'''|| [[Just Fontaine]]
+|-
+| FW ||'''20'''|| [[Roger Piantoni]]
+|-
+| FW ||'''21'''|| [[Jean Vincent]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Albert Batteux]]
+|}
+{{col-end}}
+
+===Paraguay vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=2-4
+|date={{Start date|1958|6|11|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|PAR|1954}}
+|score={{score link|1958 FIFA World Cup Group 2#Paraguay vs Scotland|3–2}}
+|team2={{fb|SCO|1542}}
+|goals1=
+*[[Juan Bautista Agüero|Agüero]] {{goal|4}}
+*[[Cayetano Ré|Ré]] {{goal|45}}
+*[[José Parodi|Parodi]] {{goal|73}}
+|goals2=
+*[[Jackie Mudie|Mudie]] {{goal|24}}
+*[[Bobby Collins (footballer)|Collins]] {{goal|74}}
+|stadium=[[Nya Parken|Idrottsparken]], [[Norrköping]]
+|attendance=11,665
+|referee=[[Vincenzo Orlandini]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1423 |title=Paraguay vs Scotland {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1423/index.html |title=1958 FIFA World Cup Sweden – Matches – Paraguay v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031015456/http://www.fifa.com/worldcup/matches/round=220/match=1423/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = _red_lower
+| pattern_b  = _whitestripes2
+| pattern_ra = _red_lower
+| pattern_sh =  
+| pattern_so = _top_on_white
+| leftarm    = FFFFFF
+| body       = FF0000
+| rightarm   = FFFFFF
+| shorts     = 0000AA
+| socks      = 0000AA
+| title      = Paraguay
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = _redtop
+ | leftarm    = 000088
+ | body       = 000088
+ | rightarm   = 000088
+ | shorts     = FFFFFF
+ | socks      = 000088
+ | title      = Scotland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''12'''|| [[Samuel Aguilar]]
+|-
+| DF ||'''2'''|| [[Edelmiro Arévalo]]
+|-
+| DF ||'''6'''|| [[Eligio Echagüe]]
+|-
+| DF ||'''4'''|| [[Ignacio Achúcarro]]
+|-
+| MF ||'''3'''|| [[Juan Vicente Lezcano]]
+|-
+| MF ||'''5'''|| [[Salvador Villalba]]  
+|-
+| FW ||'''7'''|| [[Juan Bautista Agüero]] ([[Captain (association football)|c]])
+|-
+| FW ||'''8'''|| [[José Parodi]]
+|-
+| FW ||'''9'''|| [[Jorge Lino Romero]]
+|-
+| FW ||'''21'''|| [[Cayetano Ré]] 
+|-
+| FW ||'''11'''|| [[Florencio Amarilla]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Aurelio González (footballer)|Aurelio González]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Tommy Younger]] ([[Captain (association football)|c]])
+|-
+| DF ||'''3'''|| [[Alex Parker]]
+|-
+| DF ||'''4'''|| [[Eric Caldow]]
+|-
+| DF ||'''9'''|| [[Bobby Evans (footballer)|Bobby Evans]]
+|-
+| MF ||'''8'''|| [[Eddie Turnbull]]
+|-
+| MF ||'''12'''|| [[Doug Cowie (footballer)|Doug Cowie]]  
+|-
+| FW ||'''14'''|| [[Graham Leggat]]
+|-
+| FW ||'''17'''|| [[Jackie Mudie]]
+|-
+| FW ||'''19'''|| [[Bobby Collins (footballer)|Bobby Collins]] 
+|-
+| FW ||'''20'''|| [[Archie Robertson (footballer)|Archie Robertson]]
+|-
+| FW ||'''22'''|| [[Willie Fernie (footballer)|Willie Fernie]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Dawson Walker]]
+|}
+{{col-end}}
+
+===France vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=2-5
+|date={{Start date|1958|6|15|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|FRA|1794}}
+|score={{score link|1958 FIFA World Cup Group 2#France vs Scotland|2–1}}
+|team2={{fb|SCO|1542}}
+|goals1=
+*[[Raymond Kopa|Kopa]] {{goal|22}}
+*[[Just Fontaine|Fontaine]] {{goal|44}}
+|goals2=
+*[[Sammy Baird|Baird]] {{goal|58}}
+|stadium=[[Behrn Arena|Eyravallen]], [[Örebro]]
+|attendance=13,554
+|referee=[[Juan Regis Brozzi]] ([[Asociación del Fútbol Argentino|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1387 |title=France vs Scotland {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1387/index.html |title=1958 FIFA World Cup Sweden – Matches – France v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031010747/http://www.fifa.com/worldcup/matches/round=220/match=1387/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collarblue_laced
+| pattern_ra = 
+| pattern_sh =  
+| pattern_so = _2_stripes_white
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = France
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _redtop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000088
+ | socks      = 000088
+ | title      = Scotland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Claude Abbes]]
+|-
+| DF ||'''4'''|| [[Raymond Kaelbel]]
+|-
+| DF ||'''5'''|| [[André Lerond]]
+|-
+| DF ||'''13'''|| [[Armand Penverne]]
+|-
+| MF ||'''10'''|| [[Robert Jonquet]] ([[Captain (association football)|c]])
+|-
+| MF ||'''12'''|| [[Jean-Jacques Marcel]]
+|-
+| FW ||'''22'''|| [[Maryan Wisnieski]]
+|-
+| FW ||'''18'''|| [[Raymond Kopa]]
+|-
+| FW ||'''17'''|| [[Just Fontaine]]
+|-
+| FW ||'''20'''|| [[Roger Piantoni]]
+|-
+| FW ||'''21'''|| [[Jean Vincent]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Albert Batteux]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''2'''|| [[Bill Brown (footballer, born 1931)|Bill Brown]]
+|-
+| DF ||'''4'''|| [[Eric Caldow]]
+|-
+| DF ||'''5'''|| [[John Hewie]]
+|-
+| DF ||'''9'''|| [[Bobby Evans (footballer)|Bobby Evans]] ([[Captain (association football)|c]])
+|-
+| MF ||'''8'''|| [[Eddie Turnbull]]
+|-
+| MF ||'''11'''|| [[Dave Mackay]]  
+|-
+| FW ||'''19'''|| [[Bobby Collins (footballer)|Bobby Collins]] 
+|-
+| FW ||'''16'''|| [[Jimmy Murray (footballer, born 1933)|Jimmy Murray]]
+|-
+| FW ||'''17'''|| [[Jackie Mudie]]
+|-
+| FW ||'''13'''|| [[Sammy Baird]]
+|-
+| FW ||'''21'''|| [[Stewart Imlach]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Dawson Walker]]
+|}
+{{col-end}}
+
+===Paraguay vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=2-6
+|date={{Start date|1958|6|15|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|PAR|1954}}
+|score={{score link|1958 FIFA World Cup Group 2#Paraguay vs Yugoslavia|3–3}}
+|team2={{fb|YUG}}
+|goals1=
+*[[José Parodi|Parodi]] {{goal|20}}
+*[[Juan Bautista Agüero|Agüero]] {{goal|52}}
+*[[Jorge Lino Romero|Romero]] {{goal|80}}
+|goals2=
+*[[Radivoje Ognjanović|Ognjanović]] {{goal|18}}
+*[[Todor Veselinović|Veselinović]] {{goal|21}}
+*[[Zdravko Rajkov|Rajkov]] {{goal|73}}
+|stadium=[[Tunavallen]], [[Eskilstuna]]
+|attendance=13,103
+|referee=Martin Macko ([[Czechoslovak Football Association|Czechoslovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1426 |title=Paraguay vs Yugoslavia {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1426/index.html |title=1958 FIFA World Cup Sweden – Matches – Paraguay v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031011201/http://www.fifa.com/worldcup/matches/round=220/match=1426/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = _red_lower
+| pattern_b  = _whitestripes2
+| pattern_ra = _red_lower
+| pattern_sh =  
+| pattern_so = _top_on_white
+| leftarm    = FFFFFF
+| body       = FF0000
+| rightarm   = FFFFFF
+| shorts     = 0000AA
+| socks      = 0000AA
+| title      = Paraguay
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = _yugoslavia1962h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitestripe
+ | leftarm    = 0261BF
+ | body       = 0261BF 
+ | rightarm   = 0261BF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Yugoslavia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''12'''|| [[Samuel Aguilar]]
+|-
+| DF ||'''2'''|| [[Edelmiro Arévalo]]
+|-
+| DF ||'''6'''|| [[Eligio Echagüe]]
+|-
+| DF ||'''4'''|| [[Ignacio Achúcarro]]
+|-
+| MF ||'''3'''|| [[Juan Vicente Lezcano]]
+|-
+| MF ||'''5'''|| [[Salvador Villalba]]  
+|-
+| FW ||'''7'''|| [[Juan Bautista Agüero]] ([[Captain (association football)|c]])
+|-
+| FW ||'''8'''|| [[José Parodi]]
+|-
+| FW ||'''9'''|| [[Jorge Lino Romero]]
+|-
+| FW ||'''21'''|| [[Cayetano Ré]] 
+|-
+| FW ||'''11'''|| [[Florencio Amarilla]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Aurelio González (footballer)|Aurelio González]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Vladimir Beara]]
+|-
+| DF ||'''5'''|| [[Novak Tomić]]
+|-
+| DF ||'''4'''|| [[Tomislav Crnković (footballer)|Tomislav Crnković]]
+|-
+| DF ||'''6'''|| [[Branko Zebec]] ([[Captain (association football)|c]])
+|-
+| MF ||'''8'''|| [[Dobrosav Krstić]]
+|-
+| MF ||'''9'''|| [[Vujadin Boškov]]
+|-
+| FW ||'''12'''|| [[Aleksandar Petaković]]
+|-
+| FW ||'''13'''|| [[Todor Veselinović]]
+|-
+| FW ||'''19'''|| [[Radivoje Ognjanović]]
+|-
+| FW ||'''15'''|| [[Dragoslav Šekularac]]
+|-
+| FW ||'''17'''|| [[Zdravko Rajkov]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Aleksandar Tirnanić]]
+|}
+{{col-end}}
+
+==See also==
+*[[France at the FIFA World Cup]]
+*[[Paraguay at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+*[[Yugoslavia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1958sweden 1958 FIFA World Cup archive]
+
+{{1958 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 2}}
+[[Category:1958 FIFA World Cup group stage|2]]
+[[Category:France at the 1958 FIFA World Cup]]
+[[Category:Yugoslavia at the 1958 FIFA World Cup]]
+[[Category:Scotland at the 1958 FIFA World Cup]]
+[[Category:Paraguay at the 1958 FIFA World Cup]]
+[[Category:Sports competitions in Norrköping]]
+[[Category:Sports competitions in Västerås]]
+[[Category:Sports competitions in Eskilstuna]]
+[[Category:Sports competitions in Örebro County]]
+[[Category:20th century in Östergötland County]]
+[[Category:Sport in Örebro]]
+[[Category:20th century in Västmanland County]]
+[[Category:20th century in Örebro County]]
+[[Category:20th century in Södermanland County]]
+[[Category:Football in Östergötland County]]
+[[Category:Football in Västmanland County]]
+[[Category:Football in Örebro County]]
+[[Category:Football in Södermanland County]]

@@ -1,0 +1,891 @@
+{{Short description|International football tournament stage}}
+{{Use dmy dates|date=May 2018}}
+The knockout stage of the [[1966 FIFA World Cup]] was the second and final stage of the competition, following the group stage. The knockout stage began on 23 July with the quarter-finals and ended on 30 July 1966 with the [[1966 FIFA World Cup final|final match]], held at [[Wembley Stadium (1923)|Wembley Stadium]] in [[London]]. The top two teams from each group (eight in total) advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament. A match for third place also was played between the two losing teams of the semi-finals.
+
+[[England national football team|England]] won the final 4–2 against [[Germany national football team|West Germany]] for their first, and still only, World Cup title.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/worldcup/england1966/index.html |title=Hurst the hero for England in the home of football |website=FIFA.com |archiveurl=https://web.archive.org/web/20131220190138/http://www.fifa.com/tournaments/archive/worldcup/england1966/index.html |archivedate=20 December 2013}}</ref>
+
+==Qualified teams==
+The top two placed teams from each of the four groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[1966 FIFA World Cup Group 1|1]]
+| {{fb|ENG}}
+| {{fb|URU}}
+|-
+! [[1966 FIFA World Cup Group 2|2]]
+| {{fb|FRG}}
+| {{fb|ARG}}
+|-
+! [[1966 FIFA World Cup Group 3|3]]
+| {{fb|POR}}
+| {{fb|HUN}}
+|-
+! [[1966 FIFA World Cup Group 4|4]]
+| {{fb|URS|1955}}
+| {{fb|PRK|1948}}
+|}
+
+==Bracket==
+<section begin=Bracket />{{Round8
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+|RD1=[[#Quarter-finals|Quarter-finals]]
+|RD2=[[#Semi-finals|Semi-finals]]
+|RD3=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+
+<!-- quarter-finals -->
+|23 July – [[London]] ([[Wembley Stadium (1923)|Wembley]])|'''{{fb|ENG}}'''|'''1'''|{{fb|ARG|1861}}|0
+|23 July – [[Liverpool]]|'''{{fb|POR}}'''|'''5'''|{{fb|PRK|1948}}|3
+|23 July – [[Sheffield]] ([[Hillsborough Stadium|Hillsborough]])|'''{{fb|FRG}}'''|'''4'''|{{fb|URU}}|0
+|23 July – [[Sunderland]]|'''{{fb|URS|1955}}'''|'''2'''|{{fb|HUN}}|1
+
+<!-- semi-finals -->
+|26 July – [[London]] ([[Wembley Stadium (1923)|Wembley]]) |'''{{fb|ENG}}'''|'''2'''|{{fb|POR}}|1
+|25 July – [[Liverpool]]|'''{{fb|FRG}}'''|'''2'''|{{fb|URS|1955}}|1
+
+<!-- final -->
+|30 July – [[London]] ([[Wembley Stadium (1923)|Wembley]]) |'''{{fb|ENG}}''' {{aet}}|'''4'''|{{fb|FRG}}|2
+<!-- third place -->
+|28 July – [[London]] ([[Wembley Stadium (1923)|Wembley]]) |'''{{fb|POR}}'''|'''2'''|{{fb|URS|1955}}|1
+|consol=Third|3rdplace=yes
+|style=white-space:nowrap
+}}<section end=Bracket />
+
+==Quarter-finals==
+
+===England vs Argentina===
+{{see also|Argentina–England football rivalry}}
+<section begin=QF1 />{{Football box
+|date={{Start date|1966|7|23|df=y}}
+|time=15:00 [[British Summer Time|BST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1966 FIFA World Cup knockout stage#England vs Argentina|1–0}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Geoff Hurst|Hurst]] {{goal|78}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=90,584
+|referee=[[Rudolf Kreitlein]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/239/1577 |title=England vs Argentina {{!}} Quarter-final {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=239/match=1577/index.html |title=1966 FIFA World Cup England – Matches – England v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170525074744/http://www.fifa.com/worldcup/matches/round=239/match=1577/index.html |archive-date=25 May 2017}} }}</ref>
+}}<section end=QF1 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= 
+|pattern_b= _eng66h 
+|pattern_ra=  
+|pattern_sh= 
+|pattern_so= 
+|leftarm= ffffff
+|body= ffffff
+|rightarm=  ffffff
+|shorts= ffffff
+|socks= ffffff 
+|title = England
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= _arg6669h
+|pattern_b= _arg6669H 
+|pattern_ra= _arg6669h 
+|pattern_sh= _whitesides 
+|pattern_so= _arg6669h 
+|leftarm=  
+|body=  
+|rightarm= 
+|shorts= 000000
+|socks= 707070
+| title   = Argentina
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Gordon Banks]]
+|-
+|RB || '''2''' || [[George Cohen]]
+|-
+|CB || '''5''' || [[Jack Charlton]]
+|-
+|CB || '''6''' || [[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|LB || '''3''' || [[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+|RM || '''7''' || [[Alan Ball Jr.|Alan Ball]]
+|-
+|DM || '''4''' || [[Nobby Stiles]]
+|-
+|AM || '''9''' || [[Bobby Charlton]]
+|-
+|LM || '''16''' || [[Martin Peters]]
+|-
+|CF || '''10''' || [[Geoff Hurst]]
+|-
+|CF || '''21''' || [[Roger Hunt]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alf Ramsey]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Antonio Roma]]
+|-
+|RB || '''8''' || [[Roberto Ferreiro]]
+|-
+|CB || '''4''' || [[Roberto Perfumo]]
+|-
+|CB || '''12''' || [[Rafael Albrecht]]
+|-
+|LB || '''7''' || [[Silvio Marzolini]]
+|-
+|RM || '''10''' || [[Antonio Rattín]] ([[Captain (association football)|c]]) || {{sent off|0|35}}
+|-
+|CM || '''15''' || [[Jorge Solari]] || {{yel|24}}
+|-
+|LM || '''16''' || [[Alberto Mario González|Alberto González]]
+|-
+|RF || '''20''' || [[Ermindo Onega]]
+|-
+|CF || '''19''' || [[Luis Artime]] || {{yel|45}}
+|-
+|LF || '''21''' || [[Oscar Más]] || {{yel|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Juan Carlos Lorenzo]]
+|}
+{{col-end}}
+
+===West Germany vs Uruguay===
+<section begin=QF2 />{{Football box
+|date={{Start date|1966|7|23|df=y}}
+|time=15:00 [[British Summer Time|BST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1966 FIFA World Cup knockout stage#West Germany vs Uruguay|4–0}}
+|team2={{fb|URU}}
+|goals1=
+*[[Helmut Haller|Haller]] {{goal|11||83}}
+*[[Franz Beckenbauer|Beckenbauer]] {{goal|70}}
+*[[Uwe Seeler|Seeler]] {{goal|75}}
+|goals2=
+|stadium=[[Hillsborough Stadium]], [[Sheffield]]
+|attendance=40,007
+|referee=[[Jim Finney]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/239/1660 |title=Germany FR vs Uruguay {{!}} Quarter-final {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=239/match=1660/index.html |title=1966 FIFA World Cup England – Matches – Germany FR v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170503155159/http://www.fifa.com/worldcup/matches/round=239/match=1660/index.html |archive-date=3 May 2017}} }}</ref>
+}}<section end=QF2 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la = _blackborder
+|pattern_b  = _vneckblack
+|pattern_ra = _blackborder
+|pattern_sh =
+|pattern_so =
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = 000000
+|socks      = FFFFFF
+|title      = West Germany
+}}
+{{col-2}}
+{{Football kit
+|pattern_la = _whiteborder
+|pattern_b  = _vneckwhite
+|pattern_ra = _whiteborder
+|pattern_sh = 
+|pattern_so = _sky_blue_on_top
+|leftarm    = 5dc2ff
+|body       = 5dc2ff
+|rightarm   = 5dc2ff
+|shorts     = ffffff
+|socks      = 000000
+|title      = Uruguay
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Hans Tilkowski]]
+|-
+|RB || '''2''' || [[Horst-Dieter Höttges]]
+|-
+|CB || '''5''' || [[Willi Schulz]]
+|-
+|CB || '''6''' || [[Wolfgang Weber]] || {{yel|86}}
+|-
+|LB || '''3''' || [[Karl-Heinz Schnellinger]]
+|-
+|MF || '''4''' || [[Franz Beckenbauer]]
+|-
+|MF || '''12''' || [[Wolfgang Overath]]
+|-
+|RW || '''8''' || [[Helmut Haller]]
+|-
+|CF || '''9''' || [[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|CF || '''10''' || [[Siggi Held]]
+|-
+|LW || '''11''' || [[Lothar Emmerich]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Schön]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Ladislao Mazurkiewicz]]
+|-
+|RB || '''15''' || [[Luis Ubiña]]
+|-
+|CB || '''3''' || [[Jorge Manicera]]
+|-
+|CB || '''2''' || [[Horacio Troche]] ([[Captain (association football)|c]]) || {{sent off|0|49}}
+|-
+|LB || '''5''' || [[Néstor Gonçalves]]
+|-
+|MF || '''17''' || [[Héctor Salva]] || {{yel|86}}
+|-
+|MF || '''6''' || [[Omar Caetano]]
+|-
+|RW || '''7''' || [[Julio César Cortés]]
+|-
+|CF || '''19''' || [[Héctor Silva (Uruguayan footballer)|Héctor Silva]] || {{yel|20}} || {{sent off|0|54}}
+|-
+|CF || '''10''' || [[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|LW || '''11''' || [[Domingo Pérez (footballer)|Domingo Pérez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ondino Viera]]
+|}
+{{col-end}}
+
+===Soviet Union vs Hungary===
+<section begin=QF3 />{{Football box
+|date={{Start date|1966|7|23|df=y}}
+|time=15:00 [[British Summer Time|BST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1966 FIFA World Cup knockout stage#Soviet Union vs Hungary|2–1}}
+|team2={{fb|HUN}}
+|goals1=
+*[[Igor Chislenko|Chislenko]] {{goal|5}}
+*[[Valeriy Porkujan|Porkuyan]] {{goal|46}}
+|goals2=
+*[[Ferenc Bene|Bene]] {{goal|57}}
+|stadium=[[Roker Park]], [[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=26,844
+|referee=[[Juan Gardeazábal Garay]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/239/1676 |title=Soviet Union vs Hungary {{!}} Quarter-final {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=239/match=1676/index.html |title=1966 FIFA World Cup England – Matches – Soviet Union v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171018011056/http://www.fifa.com/worldcup/matches/round=239/match=1676/index.html |archive-date=18 October 2017}} }}</ref>
+}}<section end=QF3 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _sovietunion70
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so =  _band_white
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Soviet Union
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _1949_1956_away
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _redtop
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             =  ffffff
+| socks              = ffffff
+|title            = Hungary
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Lev Yashin]]
+|-
+|RB || '''4''' || [[Vladimir Ponomaryov (footballer, born 1940)|Vladimir Ponomaryov]]
+|-
+|CB || '''6''' || [[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|CB || '''12''' || [[Valery Voronin]]
+|-
+|LB || '''10''' || [[Vasiliy Danilov]]
+|-
+|MF || '''8''' || [[Yozhef Sabo]]
+|-
+|MF || '''15''' || [[Galimzyan Khusainov]]
+|-
+|RW || '''11''' || [[Igor Chislenko]]
+|-
+|CF || '''18''' || [[Anatoliy Banishevskiy]]
+|-
+|CF || '''19''' || [[Eduard Malofeyev]]
+|-
+|LW || '''17''' || [[Valeriy Porkuyan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Nikolai Petrovich Morozov|Nikolai Morozov]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''21''' || [[József Gelei]]
+|-
+|RB || '''2''' || [[Benő Káposzta]]
+|-
+|CB || '''17''' || [[Gusztáv Szepesi]] 
+|-
+|CB || '''5''' || [[Kálmán Mészöly]]
+|-
+|LB || '''3''' || [[Sándor Mátrai]]
+|-
+|MF || '''6''' || [[Ferenc Sipos]] ([[Captain (association football)|c]])
+|-
+|MF || '''14''' || [[István Nagy (footballer, born 1939)|István Nagy]]
+|-
+|RW || '''7''' || [[Ferenc Bene]]
+|-
+|CF || '''9''' || [[Flórián Albert]]
+|-
+|CF || '''10''' || [[János Farkas]]
+|-
+|LW || '''11''' || [[Gyula Rákosi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Lajos Baróti]]
+|}
+{{col-end}}
+
+===Portugal vs North Korea===
+<section begin=QF4 />{{Football box
+|date={{Start date|1966|7|23|df=y}}
+|time=15:00 [[British Summer Time|BST]]
+|team1={{fb-rt|POR}}
+|score={{score link|1966 FIFA World Cup knockout stage#Portugal vs North Korea|5–3}}
+|team2={{fb|PRK|1948}}
+|goals1=
+*[[Eusébio]] {{goal|27||43|pen.|56||59|pen.}}
+*[[José Augusto (footballer)|José Augusto]] {{goal|80}}
+|goals2=
+*[[Pak Seung-zin]] {{goal|1}}
+*[[Li Dong-woon]] {{goal|22}}
+*[[Yang Seung-kook]] {{goal|25}}
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=40,248
+|referee=[[Menachem Ashkenazi]] ([[Israel Football Association|Israel]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/239/1702 |title=Portugal vs Korea DPR {{!}} Quarter-final {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=239/match=1702/index.html |title=1966 FIFA World Cup England – Matches – Portugal v Korea DPR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220071751/http://www.fifa.com/worldcup/matches/round=239/match=1702/index.html |archive-date=20 December 2017}} }}</ref>
+}}<section end=QF4 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder
+| pattern_b             = _greencollar
+| pattern_ra            = _greenborder
+| pattern_sh            = _redsides
+| pattern_so            = 
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              = ff0000
+| shorts               = ffffff
+| socks                 = 008751
+ | title           = Portugal
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _blueborder
+| pattern_b         = _vneckblue
+| pattern_ra        = _blueborder
+| pattern_sh        = 
+| pattern_so        = _skystripe
+| leftarm           = ffffff
+| body              = ffffff
+| rightarm          = ffffff
+| shorts            = ffffff
+| socks             = BB0000
+| title             = North Korea
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''3''' || [[José Pereira (footballer)|José Pereira]]
+|-
+|RB || '''17''' || [[João Morais|Morais]]
+|-
+|CB || '''20''' || [[Alexandre Baptista]]
+|-
+|CB || '''4''' || [[Vicente Lucas|Vicente]]
+|-
+|LB || '''9''' || [[Hilário (footballer, born 1939)|Hilário]]
+|-
+|CM || '''16''' || [[Jaime Graça]]
+|-
+|CM || '''10''' || [[Mário Coluna]] ([[Captain (association football)|c]]) || {{yel|41}}
+|-
+|RW || '''12''' || [[José Augusto (footballer)|José Augusto]]
+|-
+|SS || '''13''' || [[Eusébio]]
+|-
+|CF || '''18''' || [[José Torres (footballer, born 1938)|José Torres]]
+|-
+|LW || '''11''' || [[António Simões]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BRA|1960}} [[Otto Glória]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Li Chan-myung]]
+|-
+|RB || '''5''' || [[Lim Zoong-sun]]
+|-
+|CB || '''3''' || [[Shin Yung-kyoo]] ([[Captain (association football)|c]])
+|-
+|CB || '''14''' || [[Ha Jung-won]]
+|-
+|LB || '''13''' || [[Oh Yoon-kyung]]
+|-
+|MF || '''8''' || [[Pak Seung-zin]] 
+|-
+|MF || '''6''' || [[Im Seung-hwi]]
+|-
+|RW || '''11''' || [[Han Bong-zin]]
+|-
+|CF || '''7''' || [[Pak Doo-ik]]
+|-
+|CF || '''16''' || [[Li Dong-woon]]
+|-
+|LW || '''15''' || [[Yang Seung-kook]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Myung Rye-hyun]]
+|}
+{{col-end}}
+
+==Semi-finals==
+
+===West Germany vs Soviet Union===
+<section begin=SF1 />{{Football box
+|date={{Start date|1966|7|25|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1966 FIFA World Cup knockout stage#West Germany vs Soviet Union|2–1}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Helmut Haller|Haller]] {{goal|43}}
+*[[Franz Beckenbauer|Beckenbauer]] {{goal|67}}
+|goals2=
+*[[Valeriy Porkujan|Porkuyan]] {{goal|88}}
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=38,273
+|referee=[[Concetto Lo Bello]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/536/1659 |title=Germany FR vs Soviet Union {{!}} Semi-final {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=536/match=1659/index.html |title=1966 FIFA World Cup England – Matches – Germany FR v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220142657/http://www.fifa.com/worldcup/matches/round=536/match=1659/index.html |archive-date=20 December 2017}} }}</ref>
+}}<section end=SF1 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la = _blackborder
+|pattern_b  = _vneckblack
+|pattern_ra = _blackborder
+|pattern_sh =
+|pattern_so =
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = 000000
+|socks      = FFFFFF
+|title      = West Germany
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _sovietunion70
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so =  _band_white
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Soviet Union
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Hans Tilkowski]]
+|-
+|RB || '''14''' || [[Friedel Lutz]]
+|-
+|CB || '''5''' || [[Willi Schulz]]
+|-
+|CB || '''6''' || [[Wolfgang Weber]]
+|-
+|LB || '''3''' || [[Karl-Heinz Schnellinger]]
+|-
+|MF || '''4''' || [[Franz Beckenbauer]] || {{yel|72}}
+|-
+|MF || '''8''' || [[Helmut Haller]]
+|-
+|RW || '''9''' || [[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|CF || '''10''' || [[Siggi Held]]
+|-
+|CF || '''12''' || [[Wolfgang Overath]]
+|-
+|LW || '''11''' || [[Lothar Emmerich]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Helmut Schön]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Lev Yashin]]
+|-
+|RB || '''4''' || [[Vladimir Ponomaryov (footballer, born 1940)|Vladimir Ponomaryov]]
+|-
+|CB || '''6''' || [[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|CB || '''10''' || [[Vasiliy Danilov]]
+|-
+|LB || '''12''' || [[Valery Voronin]] || {{yel|20}}
+|-
+|MF || '''8''' || [[Yozhef Sabo]]
+|-
+|MF || '''15''' || [[Galimzyan Khusainov]]
+|-
+|RW || '''11''' || [[Igor Chislenko]] || {{sent off|0|44}}
+|-
+|CF || '''18''' || [[Anatoliy Banishevskiy]]
+|-
+|CF || '''19''' || [[Eduard Malofeyev]]
+|-
+|LW || '''17''' || [[Valeriy Porkuyan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Nikolai Petrovich Morozov|Nikolai Morozov]]
+|}
+{{col-end}}
+
+===England vs Portugal===
+<section begin=SF2 />{{Football box
+|date={{Start date|1966|7|26|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1966 FIFA World Cup knockout stage#England vs Portugal|2–1}}
+|team2={{fb|POR}}
+|goals1=
+*[[Bobby Charlton|B. Charlton]] {{goal|30||80}}
+|goals2=
+*[[Eusébio]] {{goal|82|pen.}}
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=94,493
+|referee=[[Pierre Schwinte]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/536/1635 |title=England vs Portugal {{!}} Semi-final {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=536/match=1635/index.html |title=1966 FIFA World Cup England – Matches – England v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170822210441/http://www.fifa.com/worldcup/matches/round=536/match=1635/index.html |archive-date=22 August 2017}} }}</ref>
+}}<section end=SF2 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= 
+|pattern_b= _eng66h 
+|pattern_ra=  
+|pattern_sh= 
+|pattern_so= 
+|leftarm= ffffff
+|body= ffffff
+|rightarm=  ffffff
+|shorts= 000066
+|socks= ffffff 
+|title = England
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _greenborder
+| pattern_b             = _greencollar
+| pattern_ra            = _greenborder
+| pattern_sh            = _redsides
+| pattern_so            = 
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              = ff0000
+| shorts               = ffffff
+| socks                 = 008751
+ | title           = Portugal
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Gordon Banks]]
+|-
+|RB || '''2''' || [[George Cohen]]
+|-
+|CB || '''5''' || [[Jack Charlton]]
+|-
+|CB || '''6''' || [[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|LB || '''3''' || [[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+|RM || '''7''' || [[Alan Ball Jr.|Alan Ball]]
+|-
+|DM || '''4''' || [[Nobby Stiles]]
+|-
+|AM || '''9''' || [[Bobby Charlton]]
+|-
+|LM || '''16''' || [[Martin Peters]]
+|-
+|CF || '''10''' || [[Geoff Hurst]]
+|-
+|CF || '''21''' || [[Roger Hunt]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alf Ramsey]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''3''' || [[José Pereira (footballer)|José Pereira]]
+|-
+|RB || '''22''' || [[Alberto Festa]]
+|-
+|CB || '''20''' || [[Alexandre Baptista]]
+|-
+|CB || '''21''' || [[José Carlos (footballer, born 1941)|José Carlos]]
+|-
+|LB || '''9''' || [[Hilário (footballer, born 1939)|Hilário]]
+|-
+|CM || '''16''' || [[Jaime Graça]]
+|-
+|CM || '''10''' || [[Mário Coluna]] ([[Captain (association football)|c]])
+|-
+|RW || '''12''' || [[José Augusto (footballer)|José Augusto]]
+|-
+|SS || '''13''' || [[Eusébio]]
+|-
+|CF || '''18''' || [[José Torres (footballer, born 1938)|José Torres]]
+|-
+|LW || '''11''' || [[António Simões]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BRA|1960}} [[Otto Glória]]
+|}
+{{col-end}}
+
+==Match for third place==
+<section begin=TPP />{{Football box
+|date={{Start date|1966|7|28|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|POR}}
+|score={{score link|1966 FIFA World Cup knockout stage#Match for third place|2–1}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Eusébio]] {{goal|12|pen.}}
+*[[José Augusto Torres|Torres]] {{goal|89}}
+|goals2=
+*[[Eduard Malofeyev|Malofeyev]] {{goal|43}}{{efn|Goal also credited to [[Anatoliy Banishevskiy|Banishevskiy]].<ref>[http://www.rusteam.permian.ru/players/banishevsky.html]</ref><ref>[http://rusteam.permian.ru/players/malofeev.html]</ref>}}
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=87,696
+|referee=[[Ken Dagnall]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/3479/1709 |title=Portugal vs Soviet Union {{!}} Match for third place {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3479/match=1709/index.html |title=1966 FIFA World Cup England – Matches – Portugal v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213024056/http://www.fifa.com/worldcup/matches/round=3479/match=1709/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=TPP />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _redborder 
+| pattern_b             = _redcollar
+| pattern_ra            = _redborder 
+| pattern_sh            = 
+| pattern_so            = 
+| leftarm               = ffffff
+| body                 = ffffff
+| rightarm              = ffffff 
+| shorts               = 2E2EE3
+| socks                 = 2E2EE3
+ | title           = Portugal
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _sovietunion70
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so =  _band_white
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Soviet Union
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''3''' || [[José Pereira (footballer)|José Pereira]]
+|-
+|RB || '''22''' || [[Alberto Festa]]
+|-
+|CB || '''20''' || [[Alexandre Baptista]]
+|-
+|CB || '''21''' || [[José Carlos (footballer, born 1941)|José Carlos]]
+|-
+|LB || '''9''' || [[Hilário (footballer, born 1939)|Hilário]]
+|-
+|CM || '''16''' || [[Jaime Graça]]
+|-
+|CM || '''10''' || [[Mário Coluna]] ([[Captain (association football)|c]])
+|-
+|RW || '''12''' || [[José Augusto (footballer)|José Augusto]]
+|-
+|SS || '''13''' || [[Eusébio]]
+|-
+|CF || '''18''' || [[José Torres (footballer, born 1938)|José Torres]]
+|-
+|LW || '''11''' || [[António Simões]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BRA}} [[Otto Glória]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Lev Yashin]] ([[Captain (association football)|c]])
+|-
+|RB || '''4''' || [[Vladimir Ponomaryov (footballer, born 1940)|Vladimir Ponomaryov]]
+|-
+|CB || '''13''' || [[Alexey Korneyev]]
+|-
+|CB || '''7''' || [[Murtaz Khurtsilava]]
+|-
+|LB || '''10''' || [[Vasiliy Danilov]]
+|-
+|MF || '''12''' || [[Valery Voronin]]
+|-
+|MF || '''14''' || [[Georgi Sichinava]]
+|-
+|RW || '''16''' || [[Slava Metreveli]]
+|-
+|FW || '''19''' || [[Eduard Malofeyev]]
+|-
+|FW || '''18''' || [[Anatoliy Banishevskiy]]
+|-
+|LW || '''2''' || [[Viktor Serebryanikov]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Nikolai Petrovich Morozov|Nikolai Morozov]]
+|}
+{{col-end}}
+
+==Final==
+{{Main|1966 FIFA World Cup final}}
+
+{{#lst:1966 FIFA World Cup final|Final}}
+{{#lst:1966 FIFA World Cup final|Lineups}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1966england 1966 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/70a56d66c7725ca2/original/mum7m7twoxdrbcwvfks8-pdf.pdf FIFA World Cup 1966 Technical Study]
+
+{{1966 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:1966 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1966]]
+[[Category:England at the 1966 FIFA World Cup]]
+[[Category:Uruguay at the 1966 FIFA World Cup]]
+[[Category:West Germany at the 1966 FIFA World Cup]]
+[[Category:Argentina at the 1966 FIFA World Cup]]
+[[Category:Portugal at the 1966 FIFA World Cup]]
+[[Category:Hungary at the 1966 FIFA World Cup]]
+[[Category:Soviet Union at the 1966 FIFA World Cup]]
+[[Category:North Korea at the 1966 FIFA World Cup]]
+[[Category:International football competitions in London]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:1966 in sport in London]]
+[[Category:Sport in the City of Sunderland]]
+[[Category:20th century in Tyne and Wear]]
+[[Category:Football in Tyne and Wear]]
+[[Category:Sports competitions in Sheffield]]
+[[Category:1960s in Sheffield]]
+[[Category:Football in South Yorkshire]]
+[[Category:Football competitions in Yorkshire]]
+[[Category:International sports competitions in Liverpool]]
+[[Category:1960s in Liverpool]]
+[[Category:Football competitions in Liverpool]]

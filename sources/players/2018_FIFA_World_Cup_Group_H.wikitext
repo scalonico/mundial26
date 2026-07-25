@@ -1,0 +1,1090 @@
+{{Short description|none}}
+{{Use dmy dates|date=November 2017}}
+[[File:Russia stamp 2018 № 2352.jpg|thumb|2018 [[postage stamp]] from [[Russia]] depicting Group H of the [[2018 FIFA World Cup]] group stage.]]
+Group H of the [[2018 FIFA World Cup]] took place from 19 to 28 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |archive-date=28 December 2017 |archive-url=https://web.archive.org/web/20171228234846/http://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |url-status=dead }}</ref> The group consisted of [[Poland national football team|Poland]], [[Senegal national football team|Senegal]], [[Colombia national football team|Colombia]], and [[Japan national football team|Japan]]. The top two teams, Colombia and Japan, advanced to the round of 16.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017}}</ref> For the first time in World Cup history, the "fair play" rule was invoked to break a tie. Japan and Senegal finished with identical scores and goal differences to tie for second behind Colombia. Japan were awarded the place in the round of 16 based on receiving fewer yellow cards in their three matches.<ref>{{Cite web|url=https://www.fifa.com/worldcup/archive/russia2018/matches/match/300331553/|title=2018 FIFA World Cup Russia - Matches - Senegal - Colombia |website=www.fifa.com}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2018/jun/28/japan-poland-world-cup-group-h-match-report |title = Japan sneak through to World Cup last 16 despite Poland defeat|date=28 June 2018|work=Guardian|accessdate=29 June 2018}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| H1 || style=white-space:nowrap | {{fb|POL}} || 1 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group E|UEFA Group E]] winners || 8 October 2017 || 8th || [[2006 FIFA World Cup|2006]] || data-sort-value="6.2" | Third place ([[1974 FIFA World Cup|1974]], [[1982 FIFA World Cup|1982]]) || 6 || 8
+|-
+| H2 || style=white-space:nowrap | {{fb|SEN}} || 3 || [[Confederation of African Football|CAF]] || [[2018 FIFA World Cup qualification – CAF third round#Group D|CAF third round group D]] winners || 10 November 2017 || 2nd || [[2002 FIFA World Cup|2002]] || data-sort-value="4.1" | Quarter-finals ([[2002 FIFA World Cup|2002]]) || 32 || 27
+|-
+| H3 || style=white-space:nowrap | {{fb|COL}} || 2 || [[CONMEBOL]] || [[2018 FIFA World Cup qualification (CONMEBOL)|CONMEBOL Round Robin]] fourth place || 10 October 2017 || 6th || [[2014 FIFA World Cup|2014]] || data-sort-value="4.1" | Quarter-finals ([[2014 FIFA World Cup|2014]]) || 13 || 16
+|-
+| H4 || style=white-space:nowrap | {{fb|JPN}} || 4 || [[Asian Football Confederation|AFC]] || [[2018 FIFA World Cup qualification – AFC third round#Group B|AFC third round group B]] winners || 31 August 2017 || 6th || [[2014 FIFA World Cup|2014]] || data-sort-value="3.2" | Round of 16 ([[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]]) || 44 || 61
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+|class_rules=[[2018 FIFA World Cup#Tiebreakers|Group stage tiebreakers]]
+|source=[https://www.fifa.com/worldcup/groups/index.html FIFA]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_POL=1 |draw_POL=0 |loss_POL=2 |gf_POL=2 |ga_POL=5
+|win_SEN=1 |draw_SEN=1 |loss_SEN=1 |gf_SEN=4 |ga_SEN=4
+|win_COL=2 |draw_COL=0 |loss_COL=1 |gf_COL=5 |ga_COL=2
+|win_JPN=1 |draw_JPN=1 |loss_JPN=1 |gf_JPN=4 |ga_JPN=4
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=COL |team2=JPN |team3=SEN |team4=POL
+|hth_JPN=[[2018 FIFA World Cup Group H#Discipline|Fair play points]]: Japan −4, Senegal −6. |hth_SEN=JPN
+
+<!--Country definitions-->
+|name_POL={{fb|POL}}
+|name_SEN={{fb|SEN}}
+|name_COL={{fb|COL}}
+|name_JPN={{fb|JPN}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2018 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+*The winners of Group H, [[Colombia national football team|Colombia]], advanced to play the runners-up of [[2018 FIFA World Cup Group G|Group G]], [[England national football team|England]].
+*The runners-up of Group H, [[Japan national football team|Japan]], advanced to play the winners of [[2018 FIFA World Cup Group G|Group G]], [[Belgium national football team|Belgium]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===Colombia vs Japan===
+The two teams had met in three previous matches, most recently in a [[2014 FIFA World Cup Group C|2014 FIFA World Cup]] group stage game, won by Colombia [[2014 FIFA World Cup Group C#Japan vs Colombia|4–1]].<ref name=Kit16>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=16}}</ref>
+
+In the third minute, [[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]] blocked [[Shinji Kagawa]]'s 20-yard shot with his arm, denying an obvious goal scoring opportunity and the referee pointed to the penalty spot before showing the midfielder a straight red card.<ref>{{cite web|url=https://www.theguardian.com/football/2018/jun/19/colombia-japan-world-cup-group-h-match-report|title =Yuya Osako snatches shock victory for Japan against 10-man Colombia|date=19 June 2018|work=Guardian|accessdate=20 June 2018}}</ref> After lengthy protests, Sánchez eventually left the field and Kagawa slotted the penalty into the bottom right corner of the net. [[José Pékerman]] then replaced [[Juan Cuadrado]] with [[Wílmar Barrios]] at the half-hour mark, and an equaliser arrived nine minutes later, from a [[Juan Fernando Quintero]] free kick, shot low under the jumping wall which the goalkeeper failed to keep out.<ref name="BBC Colombia v Japan">{{cite web |last=Jennings |first=Patrick |title=Colombia 1 Japan 2 |url=https://www.bbc.com/sport/football/44439048 |work=BBC Sport |date=19 June 2018}}</ref> In the second half, [[David Ospina]] dived full length to his left to stop [[Takashi Inui]]'s curling 20-yard shot. [[Yuya Osako]] then headed the ball into the far corner of the net from a [[Keisuke Honda]] corner from the left. With 13 minutes left, [[James Rodríguez]]'s strike from inside the box was turned over the crossbar by the outstretched leg of Osako.<ref name="Goal Colombia v Japan">{{cite web |last=Creek |first=Stephen |title=Sanchez red spoils Pekerman's plans |url=http://www.goal.com/en-in/match/colombia-v-japan/5fziks1z3ijc26z3y0f9l2i21 |website=Goal.com |date=19 June 2018}}</ref>
+
+Quintero became the first Colombian player in history to score at two World Cups. Japan became the first Asian team to beat a side from South America in the competition's history.<ref name="COL-JPN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/col-v-jpn-review |title=Japan stun Colombia to earn historic win |publisher=FIFA |date=19 June 2018 |access-date=19 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044708/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/col-v-jpn-review |archive-date=20 May 2026}}</ref> Honda became the first player from an Asian nation to provide an assist in three different World Cup tournaments since 1966. [[Eiji Kawashima]] (35 years, 91 days) became the oldest player to appear for Japan in a World Cup finals match.<ref name="BBC Colombia v Japan"/><ref name="Goal Colombia v Japan"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=h1
+|date={{Start date|2018|6|19|df=y}}
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|COL}}
+|score={{score link|2018 FIFA World Cup Group H#Colombia vs Japan|1–2}}
+|team2={{fb|JPN}}
+|goals1=
+*[[Juan Fernando Quintero|Quintero]] {{goal|39}}
+|goals2=
+*[[Shinji Kagawa|Kagawa]] {{goal|6|pen.}}
+*[[Yuya Osako|Osako]] {{goal|73}}
+|stadium=[[Mordovia Arena]], [[Saransk]]
+|attendance=40,842
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331550 |title=Colombia vs Japan {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/c60b799a2e4d88/original/blplwfzviahclhgi8ye0-pdf.pdf |title=Match report – Group H – Colombia v Japan |publisher=[[FIFA]] |date=19 June 2018 |access-date=19 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062954/https://digitalhub.fifa.com/m/c60b799a2e4d88/original/blplwfzviahclhgi8ye0-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _col18h
+ |pattern_b  = _col18h
+ |pattern_ra = _col18h
+ |pattern_sh = _col18h2
+ |pattern_so = _col18h2
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Colombia<ref name="COL-JPN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/523b5ba84aa9afe3/original/j6xkdvgknfxdzay14jwo-pdf.pdf |title=Tactical Line-up – Group H – Colombia v Japan |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 June 2018 |access-date=19 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522184343/https://digitalhub.fifa.com/m/523b5ba84aa9afe3/original/j6xkdvgknfxdzay14jwo-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _jpn18h
+ |pattern_b  = _jpn18h
+ |pattern_ra = _jpn18h
+ |pattern_sh = _jpn18h
+ |pattern_so = _jpn18h
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="COL-JPN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''4''' ||[[Santiago Arias]]
+|-
+|CB ||'''23'''||[[Davinson Sánchez]]
+|-
+|CB ||'''3''' ||[[Óscar Murillo]]
+|-
+|LB ||'''17'''||[[Johan Mojica]]
+|-
+|CM ||'''6''' ||[[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]] || {{sent off|0|3}}
+|-
+|CM ||'''16'''||[[Jefferson Lerma]]
+|-
+|RW ||'''11'''||[[Juan Cuadrado]] || || {{suboff|31}}
+|-
+|AM ||'''20'''||[[Juan Fernando Quintero]] || || {{suboff|59}}
+|-
+|LW ||'''21'''||[[José Izquierdo (footballer, born 1992)|José Izquierdo]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||[[Radamel Falcao]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Wílmar Barrios]] || {{yel|64}} || {{subon|31}}
+|-
+|MF ||'''10'''||[[James Rodríguez]] || {{yel|86}} || {{subon|59}}
+|-
+|FW ||'''7''' ||[[Carlos Bacca]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|valign="top"|[[File:COL-JPN 2018-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eiji Kawashima]] || {{yel|90+4}}
+|-
+|RB ||'''19'''||[[Hiroki Sakai]]
+|-
+|CB ||'''22'''||[[Maya Yoshida]]
+|-
+|CB ||'''3''' ||[[Gen Shoji]]
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|CM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]])
+|-
+|CM ||'''7''' ||[[Gaku Shibasaki]] || || {{suboff|80}}
+|-
+|RW ||'''8''' ||[[Genki Haraguchi]]
+|-
+|AM ||'''10'''||[[Shinji Kagawa]] || || {{suboff|70}}
+|-
+|LW ||'''14'''||[[Takashi Inui]]
+|-
+|CF ||'''15'''||[[Yuya Osako]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4''' ||[[Keisuke Honda]] || || {{subon|70}}
+|-
+|MF ||'''16'''||[[Hotaru Yamaguchi]] || || {{subon|80}}
+|-
+|FW ||'''9''' ||[[Shinji Okazaki]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Akira Nishino (footballer)|Akira Nishino]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Yuya Osako]] (Japan)<ref name="COL-JPN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="COL-JPN line-ups"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />Robert Vukan ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mehdi Abid Charef]] ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Anouar Hmila ([[Tunisian Football Federation|Tunisia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+|}
+
+===Poland vs Senegal===
+The two teams had never met before.<ref>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association}}</ref>
+
+Senegal had the first clear chance in the 18th minute, [[M'Baye Niang]] dragging an effort wide after a break. Senegal took the lead when [[Idrissa Gueye]]'s 20-yard shot took a huge deflection off [[Thiago Cionek]] to flick in Poland goalkeeper [[Wojciech Szczęsny]]'s goal and give Senegal the lead. [[Robert Lewandowski]] stepped up to float a 25-yard free-kick over the wall, [[Khadim N'Diaye]] dived to turn the ball away. [[Grzegorz Krychowiak]] hooked a high ball back towards his own goal from inside the Senegal half and with Szczesny attempting to intercept by coming out of his penalty area, Niang knocked the ball past him before side footing into an unguarded goal.<ref>{{cite web|url=https://www.theguardian.com/football/2018/jun/19/poland-senegal-world-cup-group-h-match-report|title =M'Baye Niang pounces to secure Senegal victory after Poland mix-up|date=19 June 2018|work=Guardian|accessdate=20 June 2018}}</ref> [[Arkadiusz Milik]] slotted a [[Łukasz Piszczek]] cross wide at the near post. [[Dawid Kownacki]]'s headed attempt was saved late on by N'Diaye but the goalkeeper was beaten by Krychowiak's header with five minutes to go after a free kick from the right.<ref>{{cite web |last=Smith |first=Jamie |title=Good fortune and bad errors hand Africans Group H win |url=http://www.goal.com/en-in/match/poland-v-senegal/4lauop4gmvlckv4ws0uotts6h |website=Goal.com |date=19 June 2018}}</ref><ref name="POL-SEN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/teranga-lions-roar-to-first-african-win-at-russia-2018 |title=Teranga Lions roar to first African win at Russia 2018 |publisher=FIFA |date=19 June 2018 |access-date=19 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044735/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/teranga-lions-roar-to-first-african-win-at-russia-2018 |archive-date=20 May 2026}}</ref>
+
+Cionek became the first Polish player to score an own goal in a World Cup match. Cionek's own goal was only the second time an African nation has benefited from an own goal in a World Cup match, after [[Andoni Zubizarreta]] for [[1998 FIFA World Cup Group D#Spain vs Nigeria|Spain against Nigeria]] in 1998.<ref>{{cite web |last=Fletcher |first=Paul |title=Poland 1 Senegal 2 |url=https://www.bbc.com/sport/football/44439055 |work=BBC Sport |date=19 June 2018}}</ref> Senegal continued their impressive undefeated run in an opening World Cup match, having beaten [[France national football team|France]] 1–0 in 2002.
+
+<onlyinclude>{{#invoke:Football box|main|section=h2
+|date={{Start date|2018|6|19|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|POL}}
+|score={{score link|2018 FIFA World Cup Group H#Poland vs Senegal|1–2}}
+|team2={{fb|SEN}}
+|goals1=
+*[[Grzegorz Krychowiak|Krychowiak]] {{goal|86}}
+|goals2=
+*[[Thiago Cionek|Cionek]] {{goal|37|o.g.}}
+*[[M'Baye Niang|Niang]] {{goal|60}}
+|stadium=[[Otkritie Arena]], [[Moscow]]
+|attendance=44,190
+|referee=[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331545 |title=Poland vs Senegal {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/7da3423eab8f7730/original/ctebjrsvctebfxq4fvjw-pdf.pdf |title=Match report – Group H – Poland v Senegal |publisher=[[FIFA]] |date=19 June 2018 |access-date=19 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063006/https://digitalhub.fifa.com/m/7da3423eab8f7730/original/ctebjrsvctebfxq4fvjw-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _pole18a
+ |pattern_b  = _pole18a
+ |pattern_ra = _pole18a
+ |pattern_sh = _poland18h
+ |pattern_so = _poland18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = F9001C
+ |socks      = FFFFFF
+ |title      = Poland<ref name="POL-SEN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/574b95bffa2a8e26/original/qbtiu1wathyko9kkudff-pdf.pdf |title=Tactical Line-up – Group H – Poland v Senegal |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 June 2018 |access-date=19 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522184106/https://digitalhub.fifa.com/m/574b95bffa2a8e26/original/qbtiu1wathyko9kkudff-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _sen18h
+ |pattern_b  = _sen18H
+ |pattern_ra = _sen18h
+ |pattern_sh = _sen18H
+ |pattern_so =
+ |leftarm    = 168E5D
+ |body       = 168E5D
+ |rightarm   = 168E5D
+ |shorts     = 168E5D
+ |socks      = 168E5D
+ |title      = Senegal<ref name="POL-SEN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Wojciech Szczęsny]]
+|-
+|RB ||'''20'''||[[Łukasz Piszczek]] || || {{suboff|83}}
+|-
+|CB ||'''4''' ||[[Thiago Cionek]]
+|-
+|CB ||'''2''' ||[[Michał Pazdan]]
+|-
+|LB ||'''13'''||[[Maciej Rybus]]
+|-
+|CM ||'''10'''||[[Grzegorz Krychowiak]] || {{yel|12}}
+|-
+|CM ||'''19'''||[[Piotr Zieliński]]
+|-
+|RW ||'''16'''||[[Jakub Błaszczykowski]] || || {{suboff|46}}
+|-
+|AM ||'''7''' ||[[Arkadiusz Milik]] || || {{suboff|73}}
+|-
+|LW ||'''11'''||[[Kamil Grosicki]]
+|-
+|CF ||'''9''' ||[[Robert Lewandowski]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Jan Bednarek]] || || {{subon|46}}
+|-
+|FW ||'''23'''||[[Dawid Kownacki]] || || {{subon|73}}
+|-
+|DF ||'''18'''||[[Bartosz Bereszyński]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Adam Nawałka]]
+|}
+|valign="top"|[[File:POL-SEN 2018-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Khadim N'Diaye]]
+|-
+|RB ||'''22'''||[[Moussa Wagué]]
+|-
+|CB ||'''3''' ||[[Kalidou Koulibaly]]
+|-
+|CB ||'''6''' ||[[Salif Sané]] || {{yel|49}}
+|-
+|LB ||'''12'''||[[Youssouf Sabaly]]
+|-
+|RM ||'''10'''||[[Sadio Mané]] ([[Captain (association football)|c]])
+|-
+|CM ||'''13'''||[[Alfred N'Diaye]] || || {{suboff|87}}
+|-
+|CM ||'''5''' ||[[Idrissa Gueye]] || {{yel|72}}
+|-
+|LM ||'''18'''||[[Ismaïla Sarr]]
+|-
+|CF ||'''9''' ||[[Mame Biram Diouf]] || || {{suboff|62}}
+|-
+|CF ||'''19'''||[[M'Baye Niang]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Cheikh N'Doye]] || || {{subon|62}}
+|-
+|FW ||'''14'''||[[Moussa Konaté (footballer)|Moussa Konaté]] || || {{subon|75}}
+|-
+|MF ||'''8''' ||[[Cheikhou Kouyaté]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Aliou Cissé]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[M'Baye Niang]] (Senegal)<ref name="POL-SEN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="POL-SEN line-ups"/>
+<br />Yaser Tulefat ([[Bahrain Football Association|Bahrain]])
+<br />Taleb Al Maari ([[Qatar Football Association|Qatar]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Mohamed Al Hammadi ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===Japan vs Senegal===
+The two teams had faced each other three times, most recently in a friendly in 2003, won by Senegal 1–0.<ref name=Kit16/>
+
+Senegal took the lead in the 11th minute when Japanese goalkeeper [[Eiji Kawashima]] spilled a [[Youssouf Sabaly]] shot into the path of [[Sadio Mané]], who hit the ball in from close range. Japan responded in the 34th minute when [[Yuto Nagatomo]] received a ball over the top and sent it to [[Takashi Inui]], who curled a shot into the bottom corner past the Senegalese defenders. [[Yuya Osako]] missed a close chance in front of the Senegal net and Inui's shot struck the crossbar, before Senegal retook the lead in the 71st minute, when [[Moussa Wagué]] finished a low Sabaly cross into the top corner. Japan equalised again just seven minutes later, when Senegal goalkeeper [[Khadim N'Diaye]] failed to collect an Osako cross, leading to Inui sending the ball to Japanese substitute [[Keisuke Honda]], who finished at the near post.<ref>{{cite web|url=https://www.theguardian.com/football/2018/jun/24/japan-senegal-world-cup-match-report|title=Senegal and Japan keep World Cup knockout hopes alive with 2-2 draw|date=24 June 2018|work=Guardian|accessdate=24 June 2018}}</ref><ref name="JPN-SEN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/group-leaders-japan-and-senegal-share-spoils |title=Group leaders Japan and Senegal share spoils |publisher=FIFA |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520050934/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/group-leaders-japan-and-senegal-share-spoils |archive-date=20 May 2026}}</ref>
+
+Wagué became the youngest African goalscorer at a World Cup, at the age of 19 years and 268 days. With his goal, Honda became the first Japanese player to score at three different World Cups, as well as the top scoring Asian player in World Cup history with four goals. Japan equalled their best points tally of four after two group games at a World Cup, just as they did as co-hosts in [[2002 FIFA World Cup|2002]].<ref>{{cite web|url=https://www.thesouthafrican.com/2018-world-cup-moussa-wague-youngest-scorer-goal-video/|title=Moussa Wague becomes the youngest African World Cup scorer|date=24 June 2018|work=The South African|accessdate=24 June 2018}}</ref><ref>{{cite web|url=http://www.skysports.com/football/japan-vs-senegal/report/385196|title=Match Report - Japan 2-2 Senegal|date=24 June 2018|work=Sky Sports|accessdate=24 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h3
+|date={{Start date|2018|6|24|df=y}}
+|time=20:00 [[Yekaterinburg Time|YEKT]] ([[UTC+05:00|UTC+5]])
+|team1={{fb-rt|JPN}}
+|score={{score link|2018 FIFA World Cup Group H#Japan vs Senegal|2–2}}
+|team2={{fb|SEN}}
+|goals1=
+*[[Takashi Inui|Inui]] {{goal|34}}
+*[[Keisuke Honda|Honda]] {{goal|78}}
+|goals2=
+*[[Sadio Mané|Mané]] {{goal|11}}
+*[[Moussa Wagué|Wagué]] {{goal|71}}
+|stadium=[[Central Stadium (Yekaterinburg)|Central Stadium]], [[Yekaterinburg]]
+|attendance=32,572
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331505 |title=Japan vs Senegal {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/c9269b45f30c16c/original/ngieplzzfhiy4qtbdvmm-pdf.pdf |title=Match report – Group H – Japan v Senegal |publisher=[[FIFA]] |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063355/https://digitalhub.fifa.com/m/c9269b45f30c16c/original/ngieplzzfhiy4qtbdvmm-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jpn18h
+ |pattern_b  = _jpn18h
+ |pattern_ra = _jpn18h
+ |pattern_sh = _jpn18h
+ |pattern_so = _jpn18h
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="JPN-SEN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6e615fde7ab5e1c0/original/oudypkncduzpl2wlxvrd-pdf.pdf |title=Tactical Line-up – Group H – Japan v Senegal |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182409/https://digitalhub.fifa.com/m/6e615fde7ab5e1c0/original/oudypkncduzpl2wlxvrd-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _sen18a
+ |pattern_b  = _sen18A
+ |pattern_ra = _sen18a
+ |pattern_sh = _sen18A
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Senegal<ref name="JPN-SEN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eiji Kawashima]]
+|-
+|RB ||'''19'''||[[Hiroki Sakai]]
+|-
+|CB ||'''22'''||[[Maya Yoshida]]
+|-
+|CB ||'''3''' ||[[Gen Shoji]]
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|CM ||'''17'''||[[Makoto Hasebe]] ([[Captain (association football)|c]]) || {{yel|90+4}}
+|-
+|CM ||'''7''' ||[[Gaku Shibasaki]]
+|-
+|RW ||'''8''' ||[[Genki Haraguchi]] ||  || {{suboff|75}}
+|-
+|AM ||'''10'''||[[Shinji Kagawa]] ||  || {{suboff|72}}
+|-
+|LW ||'''14'''||[[Takashi Inui]] || {{yel|68}} || {{suboff|87}}
+|-
+|CF ||'''15'''||[[Yuya Osako]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4'''||[[Keisuke Honda]] ||  || {{subon|72}}
+|-
+|FW ||'''9'''||[[Shinji Okazaki]] ||  || {{subon|75}}
+|-
+|MF ||'''11'''||[[Takashi Usami]] ||  || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Akira Nishino (footballer)|Akira Nishino]]
+|}
+|valign="top"|[[File:JPN-SEN 2018-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Khadim N'Diaye]]
+|-
+|RB ||'''12'''||[[Youssouf Sabaly]] || {{yel|90}}
+|-
+|CB ||'''3''' ||[[Kalidou Koulibaly]]
+|-
+|CB ||'''6''' ||[[Salif Sané]]
+|-
+|LB ||'''22'''||[[Moussa Wagué]]
+|-
+|CM ||'''17'''||[[Badou Ndiaye]] ||  || {{suboff|81}}
+|-
+|CM ||'''13'''||[[Alfred N'Diaye]] ||  || {{suboff|65}}
+|-
+|CM ||'''5''' ||[[Idrissa Gueye]]
+|-
+|RF ||'''18'''||[[Ismaïla Sarr]]
+|-
+|CF ||'''19'''||[[M'Baye Niang]] || {{yel|59}} || {{suboff|86}}
+|-
+|LF ||'''10'''||[[Sadio Mané]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8'''||[[Cheikhou Kouyaté]] ||  || {{subon|65}}
+|-
+|MF ||'''11'''||[[Cheikh N'Doye]] || {{yel|90+1}} || {{subon|81}}
+|-
+|FW ||'''9'''||[[Mame Biram Diouf]] ||  || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Aliou Cissé]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Sadio Mané]] (Senegal)<ref name="JPN-SEN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="JPN-SEN line-ups"/>
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />Mauro Tonolini ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Taleb Al Maari ([[Qatar Football Association|Qatar]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===Poland vs Colombia===
+The two teams had met in five matches, most recently in a 2006 friendly, won by Colombia 2–1.<ref name=Kit16/>
+
+[[Abel Aguilar]] was taken from the field on a stretcher in the 32nd minute and was replaced by [[Mateus Uribe]]. Shortly after, a cross by [[James Rodríguez]] from the right was met by the head of [[Yerry Mina]], who lost his marker to head over [[Wojciech Szczęsny]]'s outstretched arms and into the net. [[Juan Fernando Quintero]] fired wide from 25 yards at the start of the second half. Juan Cuadrado then squared to [[Radamel Falcao]] on the edge of the box who lifted his shot well over the crossbar. In the 58th minute, [[Robert Lewandowski]] controlled a long pass only to shoot straight into [[David Ospina]]'s midriff as Poland attempted their first shot on target of the game. Quintero's slide-rule pass presented Falcao with a one-on-one situation and he guided the ball past Szczęsny with the outside of his right foot to double his side's lead. With 15 minutes left on the clock, James' pass from the left found Cuadrado in space through the middle and he took a touch before finishing it into the bottom-right corner of the net.<ref name="POL-COL recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-poland--colombia-2967752 |title=Colombia's second-half surge sends Poland packing |publisher=FIFA |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520051009/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-poland--colombia-2967752 |archive-date=20 May 2026}}</ref><ref>{{cite web |last=Creek |first=Stephen |title=Falcao's maiden World Cup goal revitalises Pekerman's side |url=http://www.goal.com/en-in/match/poland-v-colombia/65qfbuojayd9q6fg0q82kf7qh |website=Goal.com |date=24 June 2018}}</ref>
+
+Poland were the first European nation to be eliminated from the 2018 World Cup. Including Colombia's victory against Poland, there were 14 World Cup goals scored on 24 June 2018 - the most on a single day of action in the competition (maximum 3 games) since 10 June 1990 (also 14).<ref>{{cite web |last=Rose |first=Gary |title=Poland 0 Colombia 3 |url=https://www.bbc.com/sport/football/44439197 |work=BBC Sport |date=24 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h4
+|date={{Start date|2018|6|24|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|POL}}
+|score={{score link|2018 FIFA World Cup Group H#Poland vs Colombia|0–3}}
+|team2={{fb|COL}}
+|goals1=
+|goals2=
+*[[Yerry Mina|Mina]] {{goal|40}}
+*[[Radamel Falcao|Falcao]] {{goal|70}}
+*[[Juan Cuadrado|Ju. Cuadrado]] {{goal|75}}
+|stadium=[[Kazan Arena]], [[Kazan]]
+|attendance=42,873
+|referee=[[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331508 |title=Poland vs Colombia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/1d31ea9173c6e7d1/original/rn1rau23bfjhzi9clze9-pdf.pdf |title=Match report – Group H – Poland v Colombia |publisher=[[FIFA]] |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063413/https://digitalhub.fifa.com/m/1d31ea9173c6e7d1/original/rn1rau23bfjhzi9clze9-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _pole18a
+ |pattern_b  = _pole18a
+ |pattern_ra = _pole18a
+ |pattern_sh = _poland18h
+ |pattern_so = _poland18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = F9001C
+ |socks      = FFFFFF
+ |title      = Poland<ref name="POL-COL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/38b87ab4aedda729/original/ciquv4wthef1e1dtbnkj-pdf.pdf |title=Tactical Line-up – Group H – Poland v Colombia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 June 2018 |access-date=24 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175707/https://digitalhub.fifa.com/m/38b87ab4aedda729/original/ciquv4wthef1e1dtbnkj-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _col18A
+ |pattern_b  = _col18A
+ |pattern_ra = _col18A
+ |pattern_sh = _col18A2
+ |pattern_so = _col18A
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Colombia<ref name="POL-COL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Wojciech Szczęsny]]
+|-
+|CB ||'''20'''||[[Łukasz Piszczek]]
+|-
+|CB ||'''5''' ||[[Jan Bednarek]] || {{yel|61}}
+|-
+|CB ||'''2''' ||[[Michał Pazdan]] || || {{suboff|80}}
+|-
+|RM ||'''18'''||[[Bartosz Bereszyński]] || || {{suboff|72}}
+|-
+|CM ||'''10'''||[[Grzegorz Krychowiak]]
+|-
+|CM ||'''6''' ||[[Jacek Góralski]] || {{yel|85}}
+|-
+|LM ||'''13'''||[[Maciej Rybus]]
+|-
+|RF ||'''19'''||[[Piotr Zieliński]]
+|-
+|CF ||'''9''' ||[[Robert Lewandowski]] ([[Captain (association football)|c]])
+|-
+|LF ||'''23'''||[[Dawid Kownacki]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Kamil Grosicki]] || || {{subon|57}}
+|-
+|FW ||'''14'''||[[Łukasz Teodorczyk]] || || {{subon|72}}
+|-
+|DF ||'''15'''||[[Kamil Glik]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Adam Nawałka]]
+|}
+|valign="top"|[[File:POL-COL 2018-06-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''4''' ||[[Santiago Arias]]
+|-
+|CB ||'''23'''||[[Davinson Sánchez]]
+|-
+|CB ||'''13'''||[[Yerry Mina]]
+|-
+|LB ||'''17'''||[[Johan Mojica]]
+|-
+|CM ||'''8''' ||[[Abel Aguilar]] || || {{suboff|32}}
+|-
+|CM ||'''5''' ||[[Wílmar Barrios]]
+|-
+|RW ||'''11'''||[[Juan Cuadrado]]
+|-
+|AM ||'''20'''||[[Juan Fernando Quintero]] || || {{suboff|73}}
+|-
+|LW ||'''10'''||[[James Rodríguez]]
+|-
+|CF ||'''9''' ||[[Radamel Falcao]] ([[Captain (association football)|c]]) || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Mateus Uribe]] || || {{subon|32}}
+|-
+|MF ||'''16'''||[[Jefferson Lerma]] || || {{subon|73}}
+|-
+|FW ||'''7''' ||[[Carlos Bacca]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[James Rodríguez]] (Colombia)<ref name="POL-COL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="POL-COL line-ups"/>
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />Miguel Hernández ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Christian Schiemann ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br />Roberto Díaz Pérez ([[Royal Spanish Football Federation|Spain]])
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|}
+
+===Japan vs Poland===
+The two teams had met twice, most recently in a friendly game in 2002, won by Japan 2–0.<ref name=Kit16/>
+
+[[Yoshinori Muto]]'s drive forced [[Łukasz Fabiański]] to parry, before the goalkeeper smothered a [[Gōtoku Sakai]] effort. [[Eiji Kawashima]] scooped [[Kamil Grosicki]]'s header clear. With just over half an hour remaining, [[Rafał Kurzawa]]'s free-kick from the left picked out [[Jan Bednarek]], who volleyed it into the net from six yards out. [[Maya Yoshida]] headed well wide from a left-wing corner. [[Robert Lewandowski]] steered Grosicki's pin-point pass over the top.<ref name="JPN-POL recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/jpn-pol-review-364-words-2972833 |title=Japan progress despite defeat |publisher=FIFA |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520052747/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/jpn-pol-review-364-words-2972833 |archive-date=20 May 2026}}</ref><ref>{{cite web |last=Spratt |first=Ben |title=Fair play history made as Nishino's men scrape through |url=http://www.goal.com/en/news/8/main/2018/06/28/45933682/japan-0-poland-1-fair-play-history-made-as-nishinos-men |website=Goal.com |date=28 June 2018}}</ref>
+
+Poland beat Japan for the first time in an official match, having defeated Japan in four unofficial matches. Poland won each of their 14 games in which they scored first in World Cup finals. Poland  kept a clean sheet at the World Cup for the first time since winning [[1986 FIFA World Cup Group F#Poland vs Portugal|1–0]] against Portugal in 1986.<ref>{{cite web |last=Hafez |first=Shamoon |title=Japan 0 Poland 1 |url=https://www.bbc.com/sport/football/44439298 |work=BBC Sport |date=28 June 2018}}</ref> On another side, since the new millennium, Poland had repeated their poor performances in 2002 and 2006 World Cups, eliminated after losing two opening matches before grabbing a late victory in the final match.
+
+There was some criticism of the final minutes in the game, as both sides appeared to settle for the 1–0 scoreline.<ref>[https://www.bbc.co.uk/sport/football/44649668 Japan go through but final group game ends in 'mind-boggling farce']</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h5
+|date={{Start date|2018|6|28|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|JPN}}
+|score={{score link|2018 FIFA World Cup Group H#Japan vs Poland|0–1}}
+|team2={{fb|POL}}
+|goals1=
+|goals2=
+*[[Jan Bednarek|Bednarek]] {{goal|59}}
+|stadium=[[Volgograd Arena]], [[Volgograd]]
+|attendance=42,189
+|referee=[[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331507 |title=Japan vs Poland {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/198ad01d400a38b9/original/b2z2iuctcjm6sercac5f-pdf.pdf |title=Match report – Group H – Japan v Poland |publisher=[[FIFA]] |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063709/https://digitalhub.fifa.com/m/198ad01d400a38b9/original/b2z2iuctcjm6sercac5f-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jpn18h
+ |pattern_b  = _jpn18h
+ |pattern_ra = _jpn18h
+ |pattern_sh = _jpn18h
+ |pattern_so = _jpn18h
+ |leftarm    = 000080
+ |body       = 000080
+ |rightarm   = 000080
+ |shorts     = 000080
+ |socks      = 000080
+ |title      = Japan<ref name="JPN-POL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7e25a33d9c76b099/original/kjviooph2klzdqpujdw2-pdf.pdf |title=Tactical Line-up – Group H – Japan v Poland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175720/https://digitalhub.fifa.com/m/7e25a33d9c76b099/original/kjviooph2klzdqpujdw2-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _pole18a
+ |pattern_b  = _pole18a
+ |pattern_ra = _pole18a
+ |pattern_sh = _pol18h
+ |pattern_so = _poland18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Poland<ref name="JPN-POL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Eiji Kawashima]] ([[Captain (association football)|c]])
+|-
+|RB ||'''19'''||[[Hiroki Sakai]]
+|-
+|CB ||'''22'''||[[Maya Yoshida]]
+|-
+|CB ||'''20'''||[[Tomoaki Makino]] || {{yel|66}}
+|-
+|LB ||'''5''' ||[[Yuto Nagatomo]]
+|-
+|CM ||'''16'''||[[Hotaru Yamaguchi]]
+|-
+|CM ||'''7''' ||[[Gaku Shibasaki]]
+|-
+|RW ||'''21'''||[[Gōtoku Sakai]]
+|-
+|AM ||'''9''' ||[[Shinji Okazaki]] || || {{suboff|47}}
+|-
+|LW ||'''11'''||[[Takashi Usami]] || || {{suboff|65}}
+|-
+|CF ||'''13'''||[[Yoshinori Muto]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Yuya Osako]] || || {{subon|47}}
+|-
+|MF ||'''14'''||[[Takashi Inui]] || || {{subon|65}}
+|-
+|MF ||'''17'''||[[Makoto Hasebe]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Akira Nishino (footballer)|Akira Nishino]]
+|}
+|valign="top"|[[File:JPN-POL 2018-06-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Łukasz Fabiański]]
+|-
+|CB ||'''18'''||[[Bartosz Bereszyński]]
+|-
+|CB ||'''15'''||[[Kamil Glik]]
+|-
+|CB ||'''5''' ||[[Jan Bednarek]]
+|-
+|RM ||'''21'''||[[Rafał Kurzawa]] || || {{suboff|79}}
+|-
+|CM ||'''10'''||[[Grzegorz Krychowiak]]
+|-
+|CM ||'''6''' ||[[Jacek Góralski]]
+|-
+|LM ||'''3''' ||[[Artur Jędrzejczyk]]
+|-
+|RF ||'''19'''||[[Piotr Zieliński]] || || {{suboff|79}}
+|-
+|CF ||'''9''' ||[[Robert Lewandowski]] ([[Captain (association football)|c]])
+|-
+|LF ||'''11'''||[[Kamil Grosicki]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Łukasz Teodorczyk]] || || {{subon|79}}
+|-
+|MF ||'''17'''||[[Sławomir Peszko]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Adam Nawałka]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Jan Bednarek]] (Poland)<ref name="JPN-POL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="JPN-POL line-ups"/>
+<br />Jerson Dos Santos ([[Angolan Football Federation|Angola]])
+<br />Zakhele Siwela ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ricardo Montero (referee)|Ricardo Montero]] ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Juan Carlos Mora ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===Senegal vs Colombia===
+The two teams had met only once, a 2014 friendly game which ended in a 2–2 draw.<ref name=Kit16/>
+
+The referee awarded Senegal a penalty in the 17th minute. After consulting VAR, he judged that defender [[Davinson Sánchez]] had won the ball before making any contact with [[Sadio Mané]]. After half an hour, [[James Rodríguez]] was substituted with what appeared to be a recurrence of the injury that kept him out of Colombia's 2–1 loss to Japan. Mané took a free-kick in the 64th minute which he shot off-target. [[Kalidou Koulibaly]] got a touch on a [[Luis Muriel]] drive to deflect the ball narrowly wide. And in the 74th minute Colombia scored the decisive goal of the game, [[Juan Fernando Quintero|Juan Quintero]]'s corner from the right found [[Yerry Mina]] who rose and crashed home a header that went through goalkeeper [[Khadim N'Diaye]].<ref>{{cite web |last=Smith |first=Jamie |title=Mina header dumps unlucky Africans out in fair play first |url=http://www.goal.com/en-us/match/senegal-v-colombia/report/970kuscu5xzn5zx9k2l4508o9 |website=Goal.com |date=28 June 2018}}</ref>
+
+With Senegal being the last African team to be knocked out of Russia 2018, there were no teams from Africa in the round of 16 for the first time since the stage was introduced in 1986.<ref name="SEN-COL recap">{{cite web |url=https://www.fifa.com/worldcup/news/colombia-advance-to-last-16-senegal-eliminated |title=Colombia advance to last 16, Senegal eliminated |publisher=FIFA |date=28 June 2018 |access-date=28 June 2018 |url-status=dead |archive-url=https://web.archive.org/web/20200806225019/https://www.fifa.com/worldcup/news/colombia-advance-to-last-16-senegal-eliminated |archive-date=6 August 2020}}</ref> Colombia were the only team to reach the knockout stage despite losing their opening match of the tournament. Senegal became the third team to be eliminated despite winning their opening game of the tournament (also Iran and Serbia); and even moreover, this was the first time Senegal got eliminated from the group stage, despite owning a huge advantage prior to the match against Colombia. The last time as many as three teams failed to get through the group stage despite winning their opener was in 2002 (Argentina, Costa Rica, and Russia).<ref>{{cite web |last=Mullen |first=Andrew |title=Senegal 0 Colombia 1 |url=https://www.bbc.com/sport/football/44439305 |work=BBC Sport |date=28 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=h6
+|date={{Start date|2018|6|28|df=y}}
+|time=18:00 [[Samara Time|SAMT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|SEN}}
+|score={{score link|2018 FIFA World Cup Group H#Senegal vs Colombia|0–1}}
+|team2={{fb|COL}}
+|goals1=
+|goals2=
+*[[Yerry Mina|Mina]] {{goal|74}}
+|stadium=[[Cosmos Arena]], [[Samara]]
+|attendance=41,970
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331553 |title=Senegal vs Colombia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/271859edaff376b/original/znvdbrgoa6r8tekeoayu-pdf.pdf |title=Match report – Group H – Senegal v Colombia |publisher=[[FIFA]] |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063722/https://digitalhub.fifa.com/m/271859edaff376b/original/znvdbrgoa6r8tekeoayu-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sen18h
+ |pattern_b  = _sen18H
+ |pattern_ra = _sen18h
+ |pattern_sh = _sen18H
+ |pattern_so =
+ |leftarm    = 168E5D
+ |body       = 168E5D
+ |rightarm   = 168E5D
+ |shorts     = 168E5D
+ |socks      = 168E5D
+ |title      = Senegal<ref name="SEN-COL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7a26d3deb0ba0ab4/original/d8mq7ekaiywtsn9vb81c-pdf.pdf |title=Tactical Line-up – Group H – Senegal v Colombia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 June 2018 |access-date=28 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175757/https://digitalhub.fifa.com/m/7a26d3deb0ba0ab4/original/d8mq7ekaiywtsn9vb81c-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _col18h
+ |pattern_b  = _col18h
+ |pattern_ra = _col18h
+ |pattern_sh = _col18h2
+ |pattern_so = _col18h2
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Colombia<ref name="SEN-COL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||[[Khadim N'Diaye]]
+|-
+|RB ||'''21'''||[[Lamine Gassama]]
+|-
+|CB ||'''6''' ||[[Salif Sané]]
+|-
+|CB ||'''3''' ||[[Kalidou Koulibaly]]
+|-
+|LB ||'''12'''||[[Youssouf Sabaly]] || || {{suboff|74}}
+|-
+|RM ||'''18'''||[[Ismaïla Sarr]]
+|-
+|CM ||'''8''' ||[[Cheikhou Kouyaté]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||[[Idrissa Gueye]]
+|-
+|LM ||'''10'''||[[Sadio Mané]]
+|-
+|CF ||'''20'''||[[Keita Baldé]] || || {{suboff|80}}
+|-
+|CF ||'''19'''||[[M'Baye Niang]] || {{yel|51}} || {{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''22'''||[[Moussa Wagué]] || || {{subon|74}}
+|-
+|FW ||'''14'''||[[Moussa Konaté (footballer)|Moussa Konaté]] || || {{subon|80}}
+|-
+|FW ||'''15'''||[[Diafra Sakho]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Aliou Cissé]]
+|}
+|valign="top"|[[File:SEN-COL 2018-06-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''4''' ||[[Santiago Arias]]
+|-
+|CB ||'''23'''||[[Davinson Sánchez]]
+|-
+|CB ||'''13'''||[[Yerry Mina]]
+|-
+|LB ||'''17'''||[[Johan Mojica]] || {{yel|45}}
+|-
+|CM ||'''15'''||[[Mateus Uribe]] || || {{suboff|83}}
+|-
+|CM ||'''6''' ||[[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]]
+|-
+|RW ||'''11'''||[[Juan Cuadrado]]
+|-
+|AM ||'''20'''||[[Juan Fernando Quintero]]
+|-
+|LW ||'''10'''||[[James Rodríguez]] || || {{suboff|31}}
+|-
+|CF ||'''9''' ||[[Radamel Falcao]] ([[Captain (association football)|c]]) || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Luis Muriel]] || || {{subon|31}}
+|-
+|MF ||'''16'''||[[Jefferson Lerma]] || || {{subon|83}}
+|-
+|FW ||'''19'''||[[Miguel Borja]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Yerry Mina]] (Colombia)<ref name="SEN-COL recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="SEN-COL line-ups"/>
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Bamlak Tessema Weyesa]] ([[Ethiopian Football Federation|Ethiopia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Hasan Al Mahri ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|}
+
+==Discipline==
+Fair play points were used as tiebreakers because the overall and head-to-head records of two teams were tied. These were calculated based on yellow and red cards received in all group matches as follows:<ref name="regulations"/>
+*first yellow card: minus 1 point;
+*indirect red card (second yellow card): minus 3 points;
+*direct red card: minus 4 points;
+*yellow card and direct red card: minus 5 points;
+
+Only one of the above deductions were applied to a player in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Points
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{fb|POL}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+!style="border-left:3px solid gray"| −3
+|-
+|align=left|{{fb|JPN}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+!style="border-left:3px solid gray"| −4
+|-
+|align=left|{{fb|SEN}}
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+!style="border-left:3px solid gray"| −6
+|-
+|align=left|{{fb|COL}}
+|style="border-left:3px solid gray"| 2 ||  || 1 || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+!style="border-left:3px solid gray"| −7
+|}
+
+==See also==
+*[[Colombia at the FIFA World Cup]]
+*[[Japan at the FIFA World Cup]]
+*[[Poland at the FIFA World Cup]]
+*[[Senegal at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20171202100611/http://www.fifa.com/worldcup/groups/group=275089/index.html 2018 FIFA World Cup Group H], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group H}}
+[[Category:2018 FIFA World Cup group stage|H]]
+[[Category:Poland at the 2018 FIFA World Cup]]
+[[Category:Senegal at the 2018 FIFA World Cup]]
+[[Category:Colombia at the 2018 FIFA World Cup]]
+[[Category:Japan at the 2018 FIFA World Cup]]
+[[Category:Sport in Saransk]]
+[[Category:Football in Moscow]]
+[[Category:2018 in Moscow]]
+[[Category:Sport in Yekaterinburg]]
+[[Category:Sports competitions in Kazan]]
+[[Category:2018 in Kazan]]
+[[Category:Sports competitions in Volgograd]]
+[[Category:Sport in Samara]]

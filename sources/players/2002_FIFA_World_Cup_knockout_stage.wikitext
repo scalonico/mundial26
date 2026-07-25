@@ -1,0 +1,2260 @@
+{{Short description|Second and final stage of the 2002 FIFA World Cup}}
+{{Use dmy dates|date=February 2020}}
+At the [[2002 FIFA World Cup]], the [[Single-elimination tournament|knockout stage]] was the second and final stage of the tournament, following the group stage. The top two teams from each group (16 in total) advanced to the knockout stage to compete in a single-elimination tournament. A match for third place was also played between the two losing semi-finalists.<ref>{{cite web |last=Manaschev |first=Erlan |url=https://www.rsssf.org/tables/2002full.html |title=World Cup 2002 – Match Details |publisher=[[RSSSF]] |date=3 July 2008 |access-date=30 April 2026}}</ref>
+
+<small>Note: Match kickoff times are given in local (South Korea and Japan) time; this is [[Time in South Korea|KST]] and [[Japan Standard Time|JST]] (UTC+9) during summer time.</small>
+
+==Qualified teams==
+The top two placed teams from each of the eight groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[2002 FIFA World Cup Group A|A]]
+| {{fb|DEN}}
+| {{fb|SEN}}
+|-
+! [[2002 FIFA World Cup Group B|B]]
+| {{fb|ESP}}
+| {{fb|PAR|1990}}
+|-
+! [[2002 FIFA World Cup Group C|C]]
+| {{fb|BRA}}
+| {{fb|TUR}}
+|-
+! [[2002 FIFA World Cup Group D|D]]
+| {{fb|KOR|1997}}
+| {{fb|USA}}
+|-
+! [[2002 FIFA World Cup Group E|E]]
+| {{fb|GER}}
+| {{fb|IRL}}
+|-
+! [[2002 FIFA World Cup Group F|F]]
+| {{fb|SWE}}
+| {{fb|ENG}}
+|-
+! [[2002 FIFA World Cup Group G|G]]
+| {{fb|MEX}}
+| {{fb|ITA|1946}}
+|-
+! [[2002 FIFA World Cup Group H|H]]
+| {{fb|JPN}}
+| {{fb|BEL}}
+|}
+
+==Bracket==
+{{Round16|widescore=yes
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+
+<!-- round of 16 -->
+|15 June – [[Seogwipo]]|'''{{fb|GER}}'''|'''1'''|{{fb|PAR|1990}}|0
+|17 June – [[Jeonju]]|{{fb|MEX}}|0|'''{{fb|USA}}'''|'''2'''
+|16 June – [[Suwon]]|'''{{fb|ESP}}''' {{pso}}|'''1 (3)'''|{{fb|IRL}}|1 (2)
+|18 June – [[Daejeon]]|{{nowrap|'''{{fb|KOR|1997}}''' {{gg}}}}|'''2'''|{{fb|ITA}}|1
+|15 June – [[Niigata (city)|Niigata]]|{{fb|DEN}}|0|'''{{fb|ENG}}'''|'''3'''
+|17 June – [[Noevir Stadium Kobe|Kobe]]|'''{{fb|BRA}}'''|'''2'''|{{fb|BEL}}|0
+|16 June – [[Ōita (city)|Ōita]]|{{fb|SWE}}|1|'''{{fb|SEN}}''' {{gg}}|'''2'''
+|18 June – [[Rifu]]|{{fb|JPN}}|0|'''{{fb|TUR}}'''|'''1'''
+
+<!-- quarter-finals -->
+|21 June – [[Ulsan]]|'''{{fb|GER}}'''|'''1'''|{{fb|USA}}|0
+|22 June – [[Gwangju]]|{{fb|ESP}}|0 (3)|{{nowrap|'''{{fb|KOR|1997}}''' {{pso}}}}|'''0 (5)'''
+|21 June – [[Fukuroi, Shizuoka|Fukuroi]]|{{fb|ENG}}|1|'''{{fb|BRA}}'''|'''2'''
+|22 June – [[Osaka]]|{{fb|SEN}}|0|'''{{fb|TUR}}''' {{gg}}|'''1'''
+
+<!-- semi-finals -->
+|25 June – [[Seoul]]|'''{{fb|GER}}'''|'''1'''|{{nowrap|{{fb|KOR|1997}}}}|0
+|26 June – [[Saitama (city)|Saitama]]|'''{{fb|BRA}}'''|'''1'''|{{fb|TUR}}|0
+<!-- final -->
+|30 June – [[Yokohama]]|{{fb|GER}}|0|'''{{fb|BRA}}'''|'''2'''
+<!-- third place -->
+|29 June – [[Daegu]]|{{nowrap|{{fb|KOR|1997}}}}|2|'''{{fb|TUR}}'''|'''3'''
+|style=white-space:nowrap}}
+
+==Round of 16==
+
+===Germany vs Paraguay===
+Two minutes from the end of regulation time, [[Oliver Kahn]] sent a goal kick down the field, which was received by [[Michael Ballack]]. Ballack passed to [[Bernd Schneider (footballer)|Bernd Schneider]] whose cross from the right was turned in by [[Oliver Neuville]] on the half volley at the near post from six yards out. In the 92nd minute, [[Roberto Acuña]] was sent off after punching Ballack.<ref>{{Cite web|url=https://www.theguardian.com/football/2002/jun/16/worldcupfootball2002.sport14|title = Germany 1 - 0 Paraguay|date = 16 June 2002}}</ref>
+<section begin="R16-1" />{{Football box
+|date={{Start date|2002|6|15|df=y}}
+|time=15:30
+|team1={{fb-rt|GER}}
+|score={{score link|2002 FIFA World Cup knockout stage#Germany vs Paraguay|1–0}}
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Oliver Neuville|Neuville]] {{goal|88}}
+|goals2=
+|stadium=[[Jeju World Cup Stadium]], [[Seogwipo]]
+|attendance=25,176
+|referee=[[Carlos Batres|Carlos Alberto Batres]] ([[National Football Federation of Guatemala|Guatemala]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950049 |title=Germany vs Paraguay {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950049/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Germany v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181536/http://www.fifa.com/worldcup/matches/round=43950200/match=43950049/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/49_0615_SEG_GER-PAR_Fulltime.pdf |title=Match Report – Round of 16 – Germany v Paraguay |publisher=[[FIFA]] |date=15 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20051227200907/http://fifaworldcup.yahoo.com/releases/49_0615_SEG_GER-PAR_Fulltime.pdf |archive-date=27 December 2005}} }}</ref>
+}}<section end="R16-1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger02h
+ |pattern_b  = _ger02h
+ |pattern_ra = _ger02h
+ |pattern_sh = _adidaswhite2002
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany
+}}
+|{{Football kit
+ |pattern_la = _par02H
+ |pattern_b  = _par02H
+ |pattern_ra = _par02H
+ |pattern_sh = _par02H
+ |pattern_so = _whiteline
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oliver Kahn]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Marko Rehmer]] || || {{suboff|46}}
+|-
+|CB ||'''2''' ||[[Thomas Linke]]
+|-
+|CB ||'''21'''||[[Christoph Metzelder]] || || {{suboff|60}}
+|-
+|RM ||'''19'''||[[Bernd Schneider (footballer)|Bernd Schneider]] || {{yel|35}}
+|-
+|CM ||'''22'''||[[Torsten Frings]]
+|-
+|CM ||'''16'''||[[Jens Jeremies]]
+|-
+|LM ||'''17'''||[[Marco Bode]]
+|-
+|AM ||'''13'''||[[Michael Ballack]] || {{yel|90+2}}
+|-
+|CF ||'''7''' ||[[Oliver Neuville]] || || {{suboff|90+2}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Sebastian Kehl]] || || {{subon|46}}
+|-
+|DF ||'''4''' ||[[Frank Baumann (footballer)|Frank Baumann]] || {{yel|71}} || {{subon|60}}
+|-
+|FW ||'''14'''||[[Gerald Asamoah]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rudi Völler]]
+|}
+|<!-- [[Image:GER-PAR 2002-06-15.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Luis Chilavert]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Francisco Arce]]
+|-
+|CB ||'''18'''||[[Julio César Cáceres]]
+|-
+|CB ||'''5''' ||[[Celso Ayala]]
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]]
+|-
+|LB ||'''21'''||[[Denis Caniza]]
+|-
+|CM ||'''15'''||[[Carlos Bonet]] || || {{suboff|84}}
+|-
+|CM ||'''10'''||[[Roberto Acuña]] || {{sent off|1|26|90+2}}
+|-
+|CM ||'''6''' ||[[Estanislao Struway]] || || {{suboff|90+1}}
+|-
+|CF ||'''20'''||[[José Cardozo]] || {{yel|50}}
+|-
+|CF ||'''9''' ||[[Roque Santa Cruz]] || || {{suboff|29}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Jorge Campos (Paraguayan footballer)|Jorge Campos]] || || {{subon|29}}
+|-
+|MF ||'''14'''||[[Diego Gavilán]] || || {{subon|84}}
+|-
+|FW ||'''23'''||[[Nelson Cuevas]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ITA|1946}} [[Cesare Maldini]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jens Jeremies]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Curtis Charles ([[Antigua and Barbuda Football Association|Antigua and Barbuda]])
+<br />Dramane Dante ([[Malian Football Federation|Mali]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Denmark vs England===
+After five minutes, [[David Beckham]] launched a corner towards [[Rio Ferdinand]], whose header was fumbled by [[Thomas Sørensen]] into the net.<ref name="news.bbc.co.uk">{{Cite web|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/denmark_v_england/default.stm|title = BBC SPORT &#124; WORLD CUP &#124; Denmark v England &#124; England brush Danes aside}}</ref> [[Michael Owen]] doubled England's advantage after [[Trevor Sinclair]]'s pass was flicked to him by [[Nicky Butt]].<ref name="news.bbc.co.uk"/> England made it 3-0 one minute before half-time when a throw-in by [[Danny Mills]] was missed by [[Niclas Jensen]], with Beckham passing to [[Emile Heskey]] who swept the ball home.<ref>{{Cite web|url=https://www.theguardian.com/football/2002/jun/16/worldcupfootball2002.sport13|title = Denmark 0 - 3 England|date = 16 June 2002}}</ref> In the second half, England appeared to take their foot off the pedal, possibly with a view to conserving energy for the next round: but were easily able to snuff out any rare Danish attacks, neither side coming particularly close to scoring again.
+<section begin="R16-2" />{{Football box
+|date={{Start date|2002|6|15|df=y}}
+|time=20:30
+|team1={{fb-rt|DEN}}
+|score={{score link|2002 FIFA World Cup knockout stage#Denmark vs England|0–3}}
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+*[[Rio Ferdinand|Ferdinand]] {{goal|5}}
+*[[Michael Owen|Owen]] {{goal|22}}
+*[[Emile Heskey|Heskey]] {{goal|44}}
+|stadium=[[Denka Big Swan Stadium|Big Swan Stadium]], [[Niigata (city)|Niigata]]
+|attendance=40,582
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950050 |title=Denmark vs England {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950050/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Denmark v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182301/http://www.fifa.com/worldcup/matches/round=43950200/match=43950050/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/50_0615_NII_DEN-ENG_Fulltime.pdf |title=Match Report – Round of 16 – Denmark v England |publisher=[[FIFA]] |date=15 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060720210015/http://fifaworldcup.yahoo.com/releases/50_0615_NII_DEN-ENG_Fulltime.pdf |archive-date=20 July 2006}} }}</ref>
+}}<section end="R16-2" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _den02h
+| pattern_b  = _den02h
+| pattern_ra = _den02h
+| pattern_sh = _denmark84h
+| pattern_so = _kalmar16h
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Denmark
+}}
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _englandh0103
+| pattern_ra = 
+| pattern_sh = _englandh0103
+| pattern_so = _enga0204
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000080
+| socks      = FFFFFF
+| title      = England
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Sørensen]]
+|-
+|RB ||'''6''' ||[[Thomas Helveg]] || || {{suboff|7}}
+|-
+|CB ||'''4''' ||[[Martin Laursen]]
+|-
+|CB ||'''3''' ||[[René Henriksen]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||[[Niclas Jensen]]
+|-
+|CM ||'''2''' ||[[Stig Tøfting]] || {{yel|24}} || {{suboff|58}}
+|-
+|CM ||'''7''' ||[[Thomas Gravesen]]
+|-
+|RW ||'''19'''||[[Dennis Rommedahl]]
+|-
+|AM ||'''9''' ||[[Jon Dahl Tomasson]]
+|-
+|LW ||'''8''' ||[[Jesper Grønkjær]]
+|-
+|CF ||'''11'''||[[Ebbe Sand]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''20'''||[[Kasper Bøgelund]] || || {{subon|7}}
+|-
+|MF ||'''14'''||[[Claus Jensen]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Morten Olsen]]
+|}
+|<!-- [[Image:DEN-ENG 2002-06-15.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Seaman]]
+|-
+|RB ||'''2''' ||[[Danny Mills]] || {{yel|50}}
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||[[Sol Campbell]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]]
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||[[Paul Scholes]] || || {{suboff|49}}
+|-
+|CM ||'''21'''||[[Nicky Butt]]
+|-
+|LM ||'''4''' ||[[Trevor Sinclair]]
+|-
+|CF ||'''11'''||[[Emile Heskey]] || || {{suboff|69}}
+|-
+|CF ||'''10'''||[[Michael Owen]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Robbie Fowler]] || || {{subon|46}}
+|-
+|MF ||'''23'''||[[Kieron Dyer]] || || {{subon|49}}
+|-
+|FW ||'''17'''||[[Teddy Sheringham]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Rio Ferdinand]] (England)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Heiner Müller (referee)|Heiner Müller]] ([[German Football Association|Germany]])
+<br />Evzen Amler ([[Football Association of the Czech Republic|Czech Republic]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mourad Daami]] ([[Tunisian Football Federation|Tunisia]])
+|}
+
+===Sweden vs Senegal===
+On 11 minutes, a Sweden corner was headed in by [[Henrik Larsson]].<ref name="theguardian.com">{{Cite news|url=https://www.theguardian.com/football/2002/jun/16/minutebyminute.worldcupfootball2002|title=Sweden 1 - 2 Senegal|newspaper=The Guardian|date=16 June 2002|last1=Murray|first1=Scott}}</ref> Eight minutes before half-time, [[Henri Camara]] equalised for Senegal by shooting into the bottom-left corner.<ref name="theguardian.com"/> Camara scored the golden goal on 104 minutes, from a similar position shooting low in off the left post. Senegal became the second African nation to reach the quarter-finals, after Cameroon in 1990.
+
+<section begin="R16-3" />{{Football box
+|date={{Start date|2002|6|16|df=y}}
+|time=15:30
+|team1={{fb-rt|SWE}}
+|score={{score link|2002 FIFA World Cup knockout stage#Sweden vs Senegal|1–2}}
+|agget=yes
+|team2={{fb|SEN}}
+|goals1=
+*[[Henrik Larsson|Larsson]] {{goal|11}}
+|goals2=
+*[[Henri Camara|Camara]] {{goal|37}}, {{golden goal|104}}
+|stadium=[[Resonac Dome Oita|Big Eye Stadium]], [[Ōita (city)|Ōita]]
+|attendance=39,747
+|referee=[[Ubaldo Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950051 |title=Sweden vs Senegal {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950051/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Sweden v Senegal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182306/http://www.fifa.com/worldcup/matches/round=43950200/match=43950051/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/51_0616_OIT_SWE-SEN_Fulltime.pdf |title=Match Report – Round of 16 – Sweden v Senegal |publisher=[[FIFA]] |date=16 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030406040732/http://fifaworldcup.yahoo.com/releases/51_0616_OIT_SWE-SEN_Fulltime.pdf |archive-date=6 April 2003}} }}</ref>
+}}<section end="R16-3" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _swe02h
+| pattern_b  = _swe02h
+| pattern_ra = _swe02h
+| pattern_sh = _swe02h
+| pattern_so = 
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFF00
+| title      = Sweden
+}}
+|{{Football kit
+| pattern_la = _sen02_away
+| pattern_b  = _sen02_away
+| pattern_ra = _sen02_away
+| pattern_sh = _sen02h
+| pattern_so = _sen02a
+| leftarm    = 008000
+| body       = 008000
+| rightarm   = 008000
+| shorts     = FFFFFF
+| socks      = 008000
+| title      = Senegal
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Magnus Hedman]]
+|-
+|RB ||'''2''' ||[[Olof Mellberg]]
+|-
+|CB ||'''15'''||[[Andreas Jakobsson]]
+|-
+|CB ||'''4''' ||[[Johan Mjällby]] ([[Captain (association football)|c]])
+|-
+|LB ||'''16'''||[[Teddy Lučić]]
+|-
+|RM ||'''7''' ||[[Niclas Alexandersson]] || || {{suboff|76}}
+|-
+|CM ||'''8''' ||[[Anders Svensson]]
+|-
+|CM ||'''6''' ||[[Tobias Linderoth]]
+|-
+|LM ||'''17'''||[[Magnus Svensson (footballer)|Magnus Svensson]] || || {{suboff|99}}
+|-
+|CF ||'''10'''||[[Marcus Allbäck]] || || {{suboff|65}}
+|-
+|CF ||'''11'''||[[Henrik Larsson]]
+|-
+|colspan=5|'''Substitutions:'''
+|-
+|FW ||'''22'''||[[Andreas Andersson (footballer, born 1974)|Andreas Andersson]] || || {{subon|65}}
+|-
+|FW ||'''21'''||[[Zlatan Ibrahimović]] || || {{subon|76}}
+|-
+|MF ||'''18'''||[[Mattias Jonson]] || || {{subon|99}}
+|-
+|colspan=5|'''Managers:'''
+|-
+|colspan="5"|[[Lars Lagerbäck]] & [[Tommy Söderberg]]
+|}
+|<!-- [[Image:SWE-SEN 2002-06-16.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Sylva]]
+|-
+|RB ||'''17'''||[[Ferdinand Coly]] || {{yel|73}}
+|-
+|CB ||'''13'''||[[Lamine Diatta]]
+|-
+|CB ||'''4''' ||[[Pape Malick Diop]] || || {{suboff|66}}
+|-
+|LB ||'''2''' ||[[Omar Daf]]
+|-
+|CM ||'''19'''||[[Papa Bouba Diop]]
+|-
+|CM ||'''6''' ||[[Aliou Cissé]] ([[Captain (association football)|c]])
+|-
+|CM ||'''12'''||[[Amdy Faye]]
+|-
+|RF ||'''7''' ||[[Henri Camara]]
+|-
+|CF ||'''18'''||[[Pape Thiaw]] || {{yel|94}}
+|-
+|LF ||'''11'''||[[El Hadji Diouf]]
+|-
+|colspan=5|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Habib Beye]] || || {{subon|66}}
+|-
+|colspan=5|'''Manager:'''
+|-
+|colspan="5"|{{flagicon|FRA}} [[Bruno Metsu]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Henri Camara]] (Senegal)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Miguel Giacomuzzi ([[Paraguayan Football Association|Paraguay]])
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===Spain vs Republic of Ireland===
+Spain took the lead in the 8th minute with a goal from [[Fernando Morientes]], a header to the left corner of the net after a cross from the right. In the 62nd minute, [[Ian Harte]] missed a penalty after a foul on [[Damien Duff]]. Spain managed to hold out until the very last minute, when a foul by Captain [[Fernando Hierro]] on saw a penalty converted by [[Robbie Keane]] low to the left corner of the net to make it 1-1. After extra time ended goalless, Spain triumphed 3–2 on penalties with goalkeeper [[Iker Casillas]] emerging a hero by saving two attempts. 
+<section begin="R16-4" />{{Football box
+|date={{Start date|2002|6|16|df=y}}
+|time=20:30
+|team1={{fb-rt|ESP}}
+|score={{score link|2002 FIFA World Cup knockout stage#Spain vs Republic of Ireland|1–1}}
+|aet=yes
+|team2={{fb|IRL}}
+|goals1=
+*[[Fernando Morientes|Morientes]] {{goal|8}}
+|goals2=
+*[[Robbie Keane|Rob. Keane]] {{goal|90|pen.}}
+|stadium=[[Suwon World Cup Stadium]], [[Suwon]]
+|attendance=38,926
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|penalties1=
+*[[Fernando Hierro|Hierro]] {{pengoal}}
+*[[Rubén Baraja|Baraja]] {{pengoal}}
+*[[Juanfran (footballer, born 1976)|Juanfran]] {{penmiss}}
+*[[Juan Carlos Valerón|Valerón]] {{penmiss}}
+*[[Gaizka Mendieta|Mendieta]] {{pengoal}}
+|penaltyscore=3–2
+|penalties2=
+*{{pengoal}} [[Robbie Keane|Rob. Keane]]
+*{{penmiss}} [[Matt Holland|Holland]]
+*{{penmiss}} [[David Connolly|Connolly]]
+*{{penmiss}} [[Kevin Kilbane|Kilbane]]
+*{{pengoal}} [[Steve Finnan|Finnan]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950052 |title=Spain vs Republic of Ireland {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950052/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Spain v Republic of Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171009234942/http://www.fifa.com/worldcup/matches/round=43950200/match=43950052/index.html |archive-date=9 October 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/52_0616_SUW_ESP-IRL_Fulltime.pdf |title=Match Report – Round of 16 – Spain v Republic of Ireland |publisher=[[FIFA]] |date=16 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030917200753/http://fifaworldcup.yahoo.com/releases/52_0616_SUW_ESP-IRL_Fulltime.pdf |archive-date=17 September 2003}} }}</ref>
+}}<section end="R16-4" />
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _esp0204h
+|pattern_b  = _esp0204h
+|pattern_ra = _esp0204h
+|pattern_sh = _esp0204
+|pattern_so =_esp0204h 
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = 003060
+| title      = Spain
+}}
+|{{Football kit
+| pattern_la = _irl02 away
+| pattern_b  = _irl02 away
+| pattern_ra = _irl02 away
+| pattern_sh = _irl02a
+| pattern_so = _irl02a
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 008000
+| socks      = FFFFFF
+| title      = {{nowrap|Republic of Ireland}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]]
+|-
+|RB ||'''5''' ||[[Carles Puyol]]
+|-
+|CB ||'''6''' ||[[Fernando Hierro]] ([[Captain (association football)|c]]) || {{yel|89}}
+|-
+|CB ||'''4''' ||[[Iván Helguera]]
+|-
+|LB ||'''3''' ||[[Juanfran (footballer, born 1976)|Juanfran]] || {{yel|62}}
+|-
+|RM ||'''21'''||[[Luis Enrique]]
+|-
+|CM ||'''8''' ||[[Rubén Baraja]] || {{yel|87}}
+|-
+|CM ||'''17'''||[[Juan Carlos Valerón]]
+|-
+|LM ||'''11'''||[[Javier de Pedro]] || || {{suboff|66}}
+|-
+|CF ||'''7''' ||[[Raúl (footballer)|Raúl]] || || {{suboff|80}}
+|-
+|CF ||'''9''' ||[[Fernando Morientes]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Gaizka Mendieta]] || || {{subon|66}}
+|-
+|MF ||'''14'''||[[David Albelda]] || || {{subon|72}}
+|-
+|FW ||'''12'''||[[Albert Luque]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Antonio Camacho]]
+|}
+|<!-- [[Image:ESP-IRL 2002-06-16.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Shay Given]]
+|-
+|RB ||'''2''' ||[[Steve Finnan]]
+|-
+|CB ||'''14'''||[[Gary Breen]]
+|-
+|CB ||'''5''' ||[[Steve Staunton]] ([[Captain (association football)|c]]) || || {{suboff|50}}
+|-
+|LB ||'''3''' ||[[Ian Harte]] || || {{suboff|82}}
+|-
+|RM ||'''18'''||[[Gary Kelly (footballer, born 1974)|Gary Kelly]] || || {{suboff|55}}
+|-
+|CM ||'''12'''||[[Mark Kinsella]]
+|-
+|CM ||'''8''' ||[[Matt Holland]]
+|-
+|LM ||'''11'''||[[Kevin Kilbane]]
+|-
+|CF ||'''9''' ||[[Damien Duff]]
+|-
+|CF ||'''10'''||[[Robbie Keane]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Kenny Cunningham]] || || {{subon|50}}
+|-
+|FW ||'''17'''||[[Niall Quinn]] || || {{subon|55}}
+|-
+|FW ||'''13'''||[[David Connolly]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mick McCarthy]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Iker Casillas]] (Spain)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Leif Lindberg ([[Swedish Football Association|Sweden]])
+<br />Igor Šramka ([[Slovak Football Association|Slovakia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|}
+
+===Mexico vs United States===
+{{see also|Mexico–United States soccer rivalry}}
+After eight minutes, [[Claudio Reyna]] managed to run through the right-hand side before sending the ball to [[Josh Wolff]], who then switched the ball over to [[Brian McBride]] who struck the ball into the net.<ref>{{Cite web|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/mexico_v_usa/default.stm|title = BBC SPORT &#124; WORLD CUP &#124; Mexico v USA &#124; USA see off sorry Mexico}}</ref> [[Landon Donovan]] doubled the United States' advantage midway through the second half after [[Eddie Lewis (American soccer)|Eddie Lewis]] ran through the left-hand side before sending the ball towards Donovan who headed the ball home.<ref>{{Cite web|url=https://www.theguardian.com/football/2002/jun/17/minutebyminute.worldcupfootball20021|title = Mexico 0 - 2 USA|date = 17 June 2002}}</ref> A frustrated Mexico also saw captain [[Rafael Márquez]] sent off late on by referee [[Vítor Melo Pereira]] for a dangerous tackle on [[Cobi Jones]].
+<section begin="R16-5" />{{Football box
+|date={{Start date|2002|6|17|df=y}}
+|time=15:30
+|team1={{fb-rt|MEX}}
+|score={{score link|2002 FIFA World Cup knockout stage#Mexico vs United States|0–2}}
+|team2={{fb|USA}}
+|goals1=
+|goals2=
+*[[Brian McBride|McBride]] {{goal|8}}
+*[[Landon Donovan|Donovan]] {{goal|65}}
+|stadium=[[Jeonju World Cup Stadium]], [[Jeonju]]
+|attendance=36,380
+|referee=[[Vítor Melo Pereira]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950053 |title=Mexico vs United States {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950053/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Mexico v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181541/http://www.fifa.com/worldcup/matches/round=43950200/match=43950053/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/53_0617_JEO_MEX-USA_Fulltime.pdf |title=Match Report – Round of 16 – Mexico v USA |publisher=[[FIFA]] |date=17 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060720210029/http://fifaworldcup.yahoo.com/releases/53_0617_JEO_MEX-USA_Fulltime.pdf |archive-date=20 July 2006}} }}</ref>
+}}<section end="R16-5" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _thinredborder
+| pattern_b  = _mex02
+| pattern_ra = _thinredborder
+| pattern_sh = _uru02a
+| pattern_so = _whitestripe
+| leftarm    = 005F1E
+| body       = 005F1E
+| rightarm   = 005F1E
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Mexico
+}}
+|{{Football kit
+| pattern_la = _usa02h
+| pattern_b  = _usa02H
+| pattern_ra = _usa02h
+| pattern_sh = _mex04o1
+| pattern_so = _usa02h
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000080
+| socks      = FFFFFF
+| title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Pérez (footballer, born 1973)|Óscar Pérez]]
+|-
+|RB ||'''16'''||[[Salvador Carmona]] || {{yel|84}}
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]]) || {{sent off|0|88}}
+|-
+|CB ||'''5''' ||[[Manuel Vidrio]] || {{yel|37}} || {{suboff|46}}
+|-
+|LB ||'''11'''||[[Braulio Luna]]
+|-
+|RM ||'''21'''||[[Jesús Arellano]]
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]] || || {{suboff|78}}
+|-
+|CM ||'''18'''||[[Johan Rodríguez]]
+|-
+|LM ||'''7''' ||[[Ramón Morales]] || || {{suboff|28}}
+|-
+|SS ||'''10'''||[[Cuauhtémoc Blanco]] || {{yel|70}}
+|-
+|CF ||'''9''' ||[[Jared Borgetti]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Luis Hernández (footballer, born 1968)|Luis Hernández]] || {{yel|67}} || {{subon|28}}
+|-
+|CM ||'''13'''||[[Sigifredo Mercado]] || || {{subon|46}}
+|-
+|CM ||'''8''' ||[[Alberto García Aspe]] || {{yel|81}} || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Aguirre]]
+|}
+|<!-- [[Image:MEX-USA 2002-06-17.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Brad Friedel]] || {{yel|83}}
+|-
+|CB ||'''22'''||[[Tony Sanneh]]
+|-
+|CB ||'''23'''||[[Eddie Pope]] || {{yel|26}}
+|-
+|CB ||'''3''' ||[[Gregg Berhalter]] || {{yel|53}}
+|-
+|RM ||'''10'''||[[Claudio Reyna]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||[[Pablo Mastroeni]] || {{yel|47}} || {{suboff|90}}
+|-
+|CM ||'''21'''||[[Landon Donovan]]
+|-
+|CM ||'''5''' ||[[John O'Brien (soccer)|John O'Brien]]
+|-
+|LM ||'''7''' ||[[Eddie Lewis (American soccer)|Eddie Lewis]]
+|-
+|CF ||'''15'''||[[Josh Wolff]] || {{yel|50}} || {{suboff|59}}
+|-
+|CF ||'''20'''||[[Brian McBride]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Earnie Stewart]] || || {{subon|59}}
+|-
+|MF ||'''13'''||[[Cobi Jones]] || || {{subon|79}}
+|-
+|DF ||'''16'''||[[Carlos Llamosa]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Landon Donovan]] (United States)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Carlos Matos ([[Portuguese Football Federation|Portugal]])
+<br />Egon Bereuter ([[Austrian Football Association|Austria]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jan Wegereef]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Brazil vs Belgium===
+The match saw fight and resilience from both sides. Belgium had a first half goal from [[Marc Wilmots]] ruled out after he was adjudged to have pushed [[Roque Júnior]] by referee [[Peter Prendergast (referee)|Peter Prendergast]]. Goalkeepers [[Marcos (footballer, born 1973)|Marcos]] and [[Geert De Vlieger]] were both forced into making multiple saves to contain each side from taking the lead. Despite Belgium's best efforts, Brazil took the lead on 67 minutes after [[Ronaldinho]] managed to find [[Rivaldo]] on the edge of the Belgian penalty area who controlled the ball before firing an effort, which deflected off of defender [[Daniel Van Buyten]], into the net.<ref>{{Cite web|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/brazil_v_belgium/default.stm|title = BBC SPORT &#124; WORLD CUP &#124; Brazil v Belgium &#124; Brazil edge past brave Belgium}}</ref> Belgium continued their persistent efforts in finding a goal, but ultimately fell short and [[Ronaldo (Brazilian footballer)|Ronaldo]] sealed the win for Brazil in the 87th minute after [[José Kléberson|Kléberson]] found him unmarked in the centre, and the Brazilian striker was left to finish from 12 yards.<ref>{{Cite web|url=https://www.theguardian.com/football/2002/jun/17/minutebyminute.worldcupfootball20022|title = Brazil 2 - 0 Belgium|date = 17 June 2002}}</ref>
+<section begin="R16-6" />{{Football box
+|date={{Start date|2002|6|17|df=y}}
+|time=20:30
+|team1={{fb-rt|BRA}}
+|score={{score link|2002 FIFA World Cup knockout stage#Brazil vs Belgium|2–0}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Rivaldo]] {{goal|67}}
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|87}}
+|goals2=
+|stadium=[[Noevir Stadium Kobe|Kobe Wing Stadium]], [[Kobe]]
+|attendance=40,440
+|referee=[[Peter Prendergast (referee)|Peter Prendergast]] ([[Jamaica Football Federation|Jamaica]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950054 |title=Brazil vs Belgium {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950054/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Brazil v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182311/http://www.fifa.com/worldcup/matches/round=43950200/match=43950054/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/54_0617_KOB_BRA-BEL_Fulltime.pdf |title=Match Report – Round of 16 – Brazil v Belgium |publisher=[[FIFA]] |date=17 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040324125437/http://fifaworldcup.yahoo.com/releases/54_0617_KOB_BRA-BEL_Fulltime.pdf |archive-date=24 March 2004}} }}</ref>
+}}<section end="R16-6" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _brasil2002
+ |pattern_b  = _bra02h
+ |pattern_ra = _brasil2002
+ |pattern_sh = _bra02h
+ |pattern_so = _bra02H
+ |leftarm    = FFDA00
+ |body       = FFDA00
+ |rightarm   = FFDA00
+ |shorts     = 003399
+ |socks      = FFFFFF
+| title      = Brazil
+}}
+|{{Football kit
+ |pattern_la = _bel02h
+ |pattern_b  = _bel02h
+ |pattern_ra = _bel02h
+ |pattern_sh = _bel02h
+ |pattern_so = _bel02h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+| title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcos (footballer, born 1973)|Marcos]]
+|-
+|CB ||'''3''' ||[[Lúcio]]
+|-
+|CB ||'''4''' ||[[Roque Júnior]]
+|-
+|CB ||'''5''' ||[[Edmílson]]
+|-
+|RWB||'''2''' ||[[Cafu]] ([[Captain (association football)|c]])
+|-
+|LWB||'''6''' ||[[Roberto Carlos]] || {{yel|28}}
+|-
+|CM ||'''19'''||[[Juninho Paulista]] || || {{suboff|57}}
+|-
+|CM ||'''8''' ||[[Gilberto Silva]]
+|-
+|AM ||'''11'''||[[Ronaldinho]] || || {{suboff|81}}
+|-
+|SS ||'''10'''||[[Rivaldo]] || || {{suboff|90}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Denílson (footballer, born 1977)|Denílson]] || || {{subon|57}}
+|-
+|MF ||'''15'''||[[José Kléberson|Kléberson]] || || {{subon|81}}
+|-
+|MF ||'''7''' ||[[Ricardinho (footballer, born May 1976)|Ricardinho]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luiz Felipe Scolari]]
+|}
+|<!-- [[Image:BRA-BEL 2002-06-17.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Geert De Vlieger]]
+|-
+|RB ||'''15'''||[[Jacky Peeters]] || || {{suboff|72}}
+|-
+|CB ||'''16'''||[[Daniel Van Buyten]]
+|-
+|CB ||'''6''' ||[[Timmy Simons]]
+|-
+|LB ||'''5''' ||[[Nico Van Kerckhoven]]
+|-
+|RM ||'''22'''||[[Mbo Mpenza]]
+|-
+|CM ||'''18'''||[[Yves Vanderhaeghe]] || {{yel|24}}
+|-
+|CM ||'''10'''||[[Johan Walem]]
+|-
+|LM ||'''8''' ||[[Bart Goor]]
+|-
+|CF ||'''11'''||[[Gert Verheyen]]
+|-
+|CF ||'''7''' ||[[Marc Wilmots]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Wesley Sonck]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Robert Waseige]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Rivaldo]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Yury Dupanov ([[Football Federation of Belarus|Belarus]])
+<br />Mohamed Saeed ([[Football Association of Maldives|Maldives]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+|}
+
+===Japan vs Turkey===
+In the 12th minute, [[Ergün Penbe]] sent in a corner for Turkey where [[Ümit Davala]] managed to head the ball beyond goalkeeper [[Seigo Narazaki]] in what would be the only goal of the match.<ref>{{Cite web|url=https://www.theguardian.com/football/2002/jun/18/minutebyminute.worldcupfootball2002|title = Japan 0 - 1 Turkey|date = 18 June 2002}}</ref>
+<section begin="R16-7" />{{Football box
+|date={{Start date|2002|6|18|df=y}}
+|time=15:30
+|team1={{fb-rt|JPN}}
+|score={{score link|2002 FIFA World Cup knockout stage#Japan vs Turkey|0–1}}
+|team2={{fb|TUR}}
+|goals1=
+|goals2=
+*[[Ümit Davala|Davala]] {{goal|12}}
+|stadium=[[Miyagi Stadium]], [[Rifu]]
+|attendance=45,666
+|referee=[[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950055 |title=Japan vs Turkey {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950055/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Japan v Turkey |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217030151/http://www.fifa.com/worldcup/matches/round=43950200/match=43950055/index.html |archive-date=17 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/55_0618_MIY_JPN-TUR_Fulltime.pdf |title=Match Report – Round of 16 – Japan v Turkey |publisher=[[FIFA]] |date=18 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20031212223031/http://fifaworldcup.yahoo.com/releases/55_0618_MIY_JPN-TUR_Fulltime.pdf |archive-date=12 December 2003}} }}</ref>
+}}<section end="R16-7" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _JFA_02h
+| pattern_b  = _JFA_02h
+| pattern_ra = _JFA_02h
+| pattern_sh = _adidasonwhite2002
+| pattern_so = _whiteline
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 0000AA
+| socks      = 0000AA
+| title      = Japan
+}}
+|{{Football kit
+ |pattern_la = _esp02a
+ |pattern_b  = _tur02a
+ |pattern_ra = _esp02a
+ |pattern_sh = _adidaswhite2002
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FF0000
+| title      = Turkey
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Seigo Narazaki]]
+|-
+|CB ||'''3''' ||[[Naoki Matsuda]]
+|-
+|CB ||'''17'''||[[Tsuneyasu Miyamoto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''16'''||[[Kōji Nakata]]
+|-
+|RM ||'''20'''||[[Tomokazu Myojin]]
+|-
+|CM ||'''21'''||[[Kazuyuki Toda]] || {{yel|45}}
+|-
+|CM ||'''7''' ||[[Hidetoshi Nakata]]
+|-
+|CM ||'''5''' ||[[Junichi Inamoto]] || || {{suboff|46}}
+|-
+|LM ||'''18'''||[[Shinji Ono]]
+|-
+|CF ||'''9''' ||[[Akinori Nishizawa]]
+|-
+|CF ||'''14'''||[[Alessandro Santos|Alex]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Takayuki Suzuki]] || || {{subon|46}}
+|-
+|MF ||'''22'''||[[Daisuke Ichikawa]] || || {{subon|46}} || {{suboff|86}}
+|-
+|MF ||'''8''' ||[[Hiroaki Morishima]] || || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Philippe Troussier]]
+|}
+|<!-- [[Image:JPN-TUR 2002-06-18.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rüştü Reçber]]
+|-
+|RB ||'''5''' ||[[Alpay Özalan]] || {{yel|21}}
+|-
+|CB ||'''3''' ||[[Bülent Korkmaz]]
+|-
+|LB ||'''20'''||[[Hakan Ünsal]]
+|-
+|CM ||'''4''' ||[[Fatih Akyel]]
+|-
+|CM ||'''8''' ||[[Tugay Kerimoğlu]]
+|-
+|CM ||'''18'''||[[Ergün Penbe]] || {{yel|44}}
+|-
+|RW ||'''22'''||[[Ümit Davala]] || || {{suboff|74}}
+|-
+|AM ||'''10'''||[[Yıldıray Baştürk]] || || {{suboff|90}}
+|-
+|LW ||'''11'''||[[Hasan Şaş]] || || {{suboff|85}}
+|-
+|CF ||'''9''' ||[[Hakan Şükür]] ([[Captain (association football)|c]]) || {{yel|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Nihat Kahveci]] || || {{subon|74}}
+|-
+|FW ||'''14'''||[[Tayfur Havutçu]] || || {{subon|85}}
+|-
+|FW ||'''17'''||[[İlhan Mansız]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Şenol Güneş]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Alpay Özalan]] (Turkey)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Maciej Wierzbowski ([[Polish Football Association|Poland]])
+<br />Paul Smith ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Graham Poll]] ([[The Football Association|England]])
+|}
+
+===South Korea vs Italy===
+The 2002 FIFA World Cup round of 16 match between [[Italy national football team|Italy]] and co-hosts [[South Korea national football team|South Korea]] was played on 18 June in Daejon. In the first round, South Korea had topped their group with victories over [[Poland national football team|Poland]] and [[Portugal national football team|Portugal]], and a draw against the [[United States men's national soccer team|United States]], while Italy struggled to advance to the second round with a victory against [[Ecuador national football team|Ecuador]], a defeat against [[Croatia national football team|Croatia]], and a draw against [[Mexico national football team|Mexico]], while also having several goals ruled out for offside. In the lead-up to the match, the press saw the in-form South Koreans as the favourites to win, in particular as Italy's usual starting defensive pair, [[Alessandro Nesta]] and [[Fabio Cannavaro]], were both unavailable – the first due to injury and the latter due to suspension. The pre-game choreography by the Korean fans also saw supporters hold up red and white cards spelling out the words "Again 1966", a reference to Italy's elimination at the hands of [[North Korea national football team|North Korea]] in the first round of the [[1966 FIFA World Cup#Group 4|1966 World Cup]].<ref name="The tragic tale of Byron Moreno">{{cite news|url=https://beta.theglobeandmail.com/sports/soccer/world-cup/the-tragic-tale-of-byron-moreno-the-worst-referee-ever/article19110587/?ref=https://www.theglobeandmail.com&|title=The tragic tale of Byron Moreno, "the worst referee, ever"|work=The Globe and Mail|author1=John Doyle|date=10 June 2014|access-date=12 November 2017}}</ref><ref name="25 stunning moments">{{cite web|url=https://www.theguardian.com/football/2014/jun/01/world-cup-25-stunning-moments-italy-south-korea|title=World Cup: 25 stunning moments … No21: Italy lose to South Korea in 2002|work=The Guardian|author1=Paolo Bandini|date=1 June 2014|access-date=12 November 2017}}</ref>
+
+In the fifth minute of play, Ecuadorian referee [[Byron Moreno]] awarded a controversial penalty for South Korea after judging [[Christian Panucci]] to have pulled down [[Seol Ki-hyeon]] in the box, but Italian goalkeeper [[Gianluigi Buffon]] saved [[Ahn Jung-hwan]]'s spot kick, putting the ball out for a corner. Italy took the lead in the 19th minute after [[Christian Vieri]] headed in a [[Francesco Totti]] corner. The second half became increasingly physical, which saw several players on both teams sustain minor injuries, including Christian Vieri breaking the nose of [[Kim Tae-young (footballer, born 1970)|Kim Tae-young]] who continued on famously in subsequent matches with a protective face mask. [[Gianluca Zambrotta]] and [[Kim Nam-il]] were later forced off. [[Seol Ki-hyeon]] eventually managed to equalise in the 89th minute to send the match into extra-time. In the first half of extra-time, Italy were reduced to ten men after Moreno showed Totti a second yellow card for an alleged dive in South Korea's penalty area, while Moreno was 30 yards away from the play, and in the second half, [[Damiano Tommasi]] appeared to score a golden goal for Italy, but it was ruled out for offside; Ahn later scored the golden goal in the 118th minute to give the co-hosts a 2–1 victory, which allowed them to progress to the quarter-finals of the competition, the first time an Asian team had done so since their North Korean counterparts in 1966.<ref name="25 stunning moments" /><ref name="Fifa investigates Moreno" /><ref>{{cite news|url=http://www.repubblica.it/diretta/online/coreita/|title=Corea del Sud-Italia 2–1|work=la Repubblica|language=Italian|last1=Tonelli|first1=Matteo|date=18 June 2002|access-date=29 January 2015}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2002/jun/18/minutebyminute.worldcupfootball20021|title=South Korea 2 - 1 Italy|work=The Guardian|first=Sean|last=Ingle|date=18 June 2002|access-date=12 November 2017}}</ref><ref name="Referees on Run">{{cite web|url=https://www.nytimes.com/2002/06/21/sports/sports-of-the-times-soccer-referees-on-run-and-they-can-t-hide.html|title=Soccer Referees on Run, and They Can't Hide|work=The New York Times|date=21 June 2002}}</ref><ref>{{cite news|url=http://www.repubblica.it/online/mondiali2002/murauno/murauno/murauno.html?ref=search|title=Gli errori degli azzurri|work=la Repubblica|language=Italian|last1=Mura|first1=Gianni|date=19 June 2002|access-date=20 January 2018}}</ref>
+
+Following Italy's elimination from the tournament, Moreno's performance was criticised by members of the Italian team – most notably attacking midfielder Totti and coach [[Giovanni Trapattoni]] – for several contentious decisions he had made throughout the match.<ref name="Fifa investigates Moreno">{{cite news| url=https://news.bbc.co.uk/sport2/hi/football/2255952.stm | work=BBC News | title=Fifa investigates Moreno | date=13 September 2002}}</ref> Some team members even suggested a conspiracy to eliminate Italy from the competition,<ref>{{cite web|url=http://worldcup.espnsoccernet.com/story?id=217887&lang=us |title=Angry Italy blame 'conspiracy' |access-date=6 August 2006 |date=19 June 2002 |publisher=[[Soccernet]] |url-status=dead |archiveurl=https://web.archive.org/web/20061123140949/http://worldcup.espnsoccernet.com/story?id=217887&lang=us |archivedate=23 November 2006 }}</ref> while Trapattoni even obliquely accused FIFA of ordering the official to ensure a Korean victory so that one of the two host nations would remain in the tournament.<ref>{{cite news|url=http://www.time.com/time/magazine/article/0,9171,265485,00.html|work=Time|title=Lay Off the Refs|date=24 June 2002|access-date=28 April 2010|first=Bobby|last=Ghosh|archive-date=10 February 2010|archive-url=https://web.archive.org/web/20100210141434/http://www.time.com/time/magazine/article/0,9171,265485,00.html|url-status=dead}}</ref> [[FIFA]] President [[Sepp Blatter]] stated that the linesmen had been a "disaster" and admitted that Italy suffered from bad offside calls from the group matches, but he denied conspiracy allegations. While he criticised Totti's sending off by Moreno, Blatter refused to blame Italy's loss on the officials, stating: "Italy's elimination is not only down to referees and linesmen who made human not premeditated errors&nbsp;... Italy made mistakes both in defense and in attack."<ref name="Referees on Run" /><ref name="autogenerated1">{{cite news|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/other_news/newsid_2055000/2055828.stm|work=BBC News|title=Blatter condemns officials|date=20 June 2002}}</ref> The following day, [[AC Perugia Calcio|Perugia]]'s owner [[Luciano Gaucci]] controversially terminated Ahn's contract, citing the goal against Italy as the reason. This decision was widely condemned as discriminatory in the media, and Gaucci later retracted his decision, but Ahn rejected the club's offer and ultimately left Perugia.<ref>{{cite news |title=Ahn sacked by bitter Perugia |url=https://www.theguardian.com/football/2002/jun/19/worldcupfootball2002.sport19 |access-date=30 June 2025 |work=The Guardian |date=19 June 2002}}</ref><ref>{{cite news |title=Ahn 'rejects Perugia return' |url=https://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/south_korea/newsid_2064000/2064069.stm |access-date=30 June 2025 |work=BBC Sport |date=26 June 2002}}</ref>
+
+<section begin="R16-8" />{{Football box
+|date={{Start date|2002|6|18|df=y}}
+|time=20:30
+|team1={{fb-rt|KOR|1997}}
+|score={{score link|2002 FIFA World Cup knockout stage#South Korea vs Italy|2–1}}
+|agget=yes
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Seol Ki-hyeon]] {{goal|88}}
+*[[Ahn Jung-hwan]] {{golden goal|117}}
+|goals2=
+*[[Christian Vieri|Vieri]] {{goal|18}}
+|stadium=[[Daejeon World Cup Stadium]], [[Daejeon]]
+|attendance=38,588
+|referee=[[Byron Moreno]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5941/43950056 |title=Korea Republic vs Italy {{!}} Round of 16 {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950200/match=43950056/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Korea Republic v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210005326/http://www.fifa.com/worldcup/matches/round=43950200/match=43950056/index.html |archive-date=10 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/56_0618_DAJ_KOR-ITA_Fulltime.pdf |title=Match Report – Round of 16 – Korea Republic v Italy |publisher=[[FIFA]] |date=18 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060717041319/http://fifaworldcup.yahoo.com/releases/56_0618_DAJ_KOR-ITA_Fulltime.pdf |archive-date=17 July 2006}} }}</ref>
+}}<section end="R16-8" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _kor02A
+| pattern_ra = 
+| pattern_sh = _white stripes
+| pattern_so = _kor02A
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FE2D4C
+| socks      = FFFFFF
+| title      = South Korea
+}}
+|{{Football kit
+| pattern_la = _torinohome2009
+| pattern_b  = _ita02h
+| pattern_ra = _torinohome2009
+| pattern_sh = _ita02h
+| pattern_so = _kappa_white
+| leftarm    = 0040FF
+| body       = 0040FF
+| rightarm   = 0040FF
+| shorts     = FFFFFF
+| socks      = 0040FF
+| title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lee Woon-jae]]
+|-
+|CB ||'''4''' ||[[Choi Jin-cheul]] || {{yel|115}}
+|-
+|CB ||'''20'''||[[Hong Myung-bo]] ([[Captain (association football)|c]]) || || {{suboff|83}}
+|-
+|CB ||'''7''' ||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]] || {{yel|17}} || {{suboff|63}}
+|-
+|RM ||'''22'''||[[Song Chong-gug]] || {{yel|80}}
+|-
+|CM ||'''6''' ||[[Yoo Sang-chul]]
+|-
+|CM ||'''5''' ||[[Kim Nam-il]] || || {{suboff|68}}
+|-
+|LM ||'''10'''||[[Lee Young-pyo]]
+|-
+|RF ||'''21'''||[[Park Ji-sung]]
+|-
+|CF ||'''19'''||[[Ahn Jung-hwan]]
+|-
+|LF ||'''9''' ||[[Seol Ki-hyeon]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Hwang Sun-hong]] || || {{subon|63}}
+|-
+|FW ||'''14'''||[[Lee Chun-soo]] || {{yel|99}} || {{subon|68}}
+|-
+|FW ||'''16'''||[[Cha Du-ri]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|<!-- [[Image:KOR-ITA 2002-06-18.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''2''' ||[[Christian Panucci]]
+|-
+|CB ||'''15'''||[[Mark Iuliano]]
+|-
+|CB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|LB ||'''4''' ||[[Francesco Coco]] || {{yel|4}}
+|-
+|RM ||'''17'''||[[Damiano Tommasi]] || {{yel|55}}
+|-
+|CM ||'''6''' ||[[Cristiano Zanetti]] || {{yel|59}}
+|-
+|LM ||'''19'''||[[Gianluca Zambrotta]] || || {{suboff|72}}
+|-
+|AM ||'''7''' ||[[Alessandro Del Piero]] || || {{suboff|61}}
+|-
+|AM ||'''10'''||[[Francesco Totti]] || {{sent off|2|22|103}}
+|-
+|CF ||'''21'''||[[Christian Vieri]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Gennaro Gattuso]] || || {{subon|61}}
+|-
+|MF ||'''16'''||[[Angelo Di Livio]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Giovanni Trapattoni]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Ahn Jung-hwan]] (South Korea)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jorge Rattalino ([[Argentine Football Association|Argentina]])
+<br />Ferenc Szekely ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+|}
+
+==Quarter-finals==
+
+===England vs Brazil===
+<section begin="QF1" />{{Football box
+|date={{Start date|2002|6|21|df=y}}
+|time=15:30
+|team1={{fb-rt|ENG}}
+|score={{score link|2002 FIFA World Cup knockout stage#England vs Brazil|1–2}}
+|team2={{fb|BRA}}
+|goals1=
+*[[Michael Owen|Owen]] {{goal|23}}
+|goals2=
+*[[Rivaldo]] {{goal|45+2}}
+*[[Ronaldinho]] {{goal|50}}
+|stadium=[[Shizuoka Stadium|Stadium Ecopa]], [[Fukuroi, Shizuoka|Fukuroi]]
+|attendance=47,436
+|referee=[[Felipe Ramos Rizo|Felipe Ramos]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5942/43950057 |title=England vs Brazil {{!}} Quarter-final {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950300/match=43950057/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – England v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212131454/http://www.fifa.com/worldcup/matches/round=43950300/match=43950057/index.html |archive-date=12 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/57_0621_SHI_ENG-BRA_Fulltime.pdf |title=Match Report – Quarter-final – England v Brazil |publisher=[[FIFA]] |date=21 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050504030205/http://fifaworldcup.yahoo.com/releases/57_0621_SHI_ENG-BRA_Fulltime.pdf |archive-date=4 May 2005}} }}</ref>
+}}<section end="QF1" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _englandh0103
+| pattern_ra = 
+| pattern_sh = _englandh0103
+| pattern_so = _enga0204
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000080
+| socks      = FFFFFF
+| title      = England
+}}
+|{{Football kit
+| pattern_la = _bra02a
+| pattern_b  = _bra02A
+| pattern_ra = _bra02a
+| pattern_sh = _bra02a
+| pattern_so = _bra02A
+| leftarm    = 003399
+| body       = 003399
+| rightarm   = 003399
+| shorts     = FFFFFF
+| socks      = 003399
+| title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Seaman]]
+|-
+|RB ||'''2''' ||[[Danny Mills]]
+|-
+|CB ||'''5''' ||[[Rio Ferdinand]] || {{yel|86}}
+|-
+|CB ||'''6''' ||[[Sol Campbell]]
+|-
+|LB ||'''3''' ||[[Ashley Cole]] || || {{suboff|80}}
+|-
+|RM ||'''7''' ||[[David Beckham]] ([[Captain (association football)|c]])
+|-
+|CM ||'''21'''||[[Nicky Butt]]
+|-
+|CM ||'''8''' ||[[Paul Scholes]] || {{yel|75}}
+|-
+|LM ||'''4''' ||[[Trevor Sinclair]] || || {{suboff|56}}
+|-
+|CF ||'''10'''||[[Michael Owen]] || || {{suboff|79}}
+|-
+|CF ||'''11'''||[[Emile Heskey]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''23'''||[[Kieron Dyer]] || || {{subon|56}}
+|-
+|FW ||'''20'''||[[Darius Vassell]] || || {{subon|79}}
+|-
+|FW ||'''17'''||[[Teddy Sheringham]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|<!-- [[Image:ENG-BRA 2002-06-21.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcos (footballer, born 1973)|Marcos]]
+|-
+|CB ||'''3''' ||[[Lúcio]]
+|-
+|CB ||'''5''' ||[[Edmílson]]
+|-
+|CB ||'''4''' ||[[Roque Júnior]]
+|-
+|RWB||'''2''' ||[[Cafu]] ([[Captain (association football)|c]])
+|-
+|LWB||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''15'''||[[José Kléberson|Kléberson]]
+|-
+|CM ||'''8''' ||[[Gilberto Silva]]
+|-
+|AM ||'''11'''||[[Ronaldinho]] || {{sent off|0|57}}
+|-
+|SS ||'''10'''||[[Rivaldo]]
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Edílson]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luiz Felipe Scolari]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Rivaldo]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />Mohamed Saeed ([[Football Association of Maldives|Maldives]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|}
+
+===Germany vs United States===
+<section begin="QF2" />{{Football box
+|date={{Start date|2002|6|21|df=y}}
+|time=20:30
+|team1={{fb-rt|GER}}
+|score={{score link|2002 FIFA World Cup knockout stage#Germany vs United States|1–0}}
+|team2={{fb|USA}}
+|goals1=
+*[[Michael Ballack|Ballack]] {{goal|39}}
+|goals2=
+|stadium=[[Ulsan Munsu Football Stadium|Munsu Cup Stadium]], [[Ulsan]]
+|attendance=37,337
+|referee=[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5942/43950058 |title=Germany vs United States {{!}} Quarter-final {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950300/match=43950058/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Germany v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212013238/http://www.fifa.com/worldcup/matches/round=43950300/match=43950058/index.html |archive-date=12 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/58_0621_ULS_GER-USA_Fulltime.pdf |title=Match Report – Quarter-final – Germany v USA |publisher=[[FIFA]] |date=21 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040822114906/http://fifaworldcup.yahoo.com/releases/58_0621_ULS_GER-USA_Fulltime.pdf |archive-date=22 August 2004}} }}</ref>
+}}<section end="QF2" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _ger02h
+| pattern_b  = _ger02H
+| pattern_ra = _ger02h
+| pattern_sh = _adidaswhite2002
+| pattern_so = 
+| leftarm    = 000000
+| body       = 000000
+| rightarm   = 000000
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = Germany
+}}
+|{{Football kit
+| pattern_la = _usa02a
+| pattern_b  = _usa02a
+| pattern_ra = _usa02a
+| pattern_sh = _usa02a
+| pattern_so = _usa02a
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = 000080
+| title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oliver Kahn]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Thomas Linke]]
+|-
+|CB ||'''15'''||[[Sebastian Kehl]] || {{yel|66}}
+|-
+|CB ||'''21'''||[[Christoph Metzelder]]
+|-
+|RM ||'''22'''||[[Torsten Frings]]
+|-
+|CM ||'''19'''||[[Bernd Schneider (footballer)|Bernd Schneider]] || || {{suboff|60}}
+|-
+|CM ||'''8''' ||[[Dietmar Hamann]]
+|-
+|LM ||'''6''' ||[[Christian Ziege]]
+|-
+|AM ||'''13'''||[[Michael Ballack]]
+|-
+|CF ||'''7''' ||[[Oliver Neuville]] || || {{suboff|80}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Jens Jeremies]] || {{yel|68}} || {{subon|60}}
+|-
+|MF ||'''17'''||[[Marco Bode]] || || {{subon|80}}
+|-
+|FW ||'''20'''||[[Oliver Bierhoff]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rudi Völler]]
+|}
+|<!-- [[Image:GER-USA 2002-06-21.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Brad Friedel]]
+|-
+|CB ||'''22'''||[[Tony Sanneh]]
+|-
+|CB ||'''23'''||[[Eddie Pope]] || {{yel|41}}
+|-
+|CB ||'''3''' ||[[Gregg Berhalter]] || {{yel|70}}
+|-
+|DM ||'''4''' ||[[Pablo Mastroeni]] || {{yel|69}} || {{suboff|80}}
+|-
+|RM ||'''2''' ||[[Frankie Hejduk]] || || {{suboff|65}}
+|-
+|CM ||'''10'''||[[Claudio Reyna]] ([[Captain (association football)|c]]) || {{yel|68}}
+|-
+|CM ||'''5''' ||[[John O'Brien (soccer)|John O'Brien]]
+|-
+|LM ||'''7''' ||[[Eddie Lewis (American soccer)|Eddie Lewis]] || {{yel|40}}
+|-
+|CF ||'''20'''||[[Brian McBride]] || || {{suboff|58}}
+|-
+|CF ||'''21'''||[[Landon Donovan]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Clint Mathis]] || || {{subon|58}}
+|-
+|MF ||'''13'''||[[Cobi Jones]] || || {{subon|65}}
+|-
+|MF ||'''8''' ||[[Earnie Stewart]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Claudio Reyna]] (United States)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Philip Sharp (referee)|Philip Sharp]] ([[The Football Association|England]])
+<br />Ali Al Traifi ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mark Shield]] ([[Football Australia|Australia]])
+|}
+
+===Spain vs South Korea===
+Co-hosts South Korea faced [[Spain national football team|Spain]] in the 2002 World Cup quarter-finals on 22 June, in Gwangju. South Korea had progressed to the quarter-finals after defeating Italy with a golden goal, while Spain overcame [[Republic of Ireland national football team|Ireland]] in the round of 16 in a penalty shoot-out victory. In the second half of regulation time, Spanish midfielder [[Rubén Baraja]] scored from a header, but it was disallowed by referee [[Gamal Al-Ghandour]] because of alleged shirt pulling and pushing in the penalty area; a 0–0 deadlock saw the match go into extra-time. In the first half of extra-time, Spanish striker [[Fernando Morientes]] appeared to score the golden goal with a header, but the referee disallowed it after the linesman raised his flag, as he erroneously felt that the ball had gone out of play for a goal kick before being crossed in by winger [[Joaquín (footballer, born 1981)|Joaquín]]; later on in the half, Morientes came close to scoring again when he hit the post with a first-time half-volley following a throw-in. With both sides still failing to score, the match went to a penalty shoot-out; South Korea's goalkeeper [[Lee Woon-jae]] saved Joaquín's spot kick – who had been carrying an injury – while South Korea converted all of their penalties – with [[Hong Myung-bo]] scoring the decisive spot-kick – to win the shoot-out 5–3, becoming the first Asian side ever to reach the semi-finals of the World Cup. However, following prior criticism in the media over the quality of officiating in South Korea's win over Italy in the round of 16, there was further controversy surrounding the contentious decisions made by the officials in South Korea's quarter-final victory, as the referee had disallowed both of Spain's goals after his linesmen Ali Tomusange and Michael Ragoonath had raised their flags. Spanish midfielder [[Iván Helguera]], who had to be restrained after the match when he attempted to confront the referee, was particularly vocal in his criticism of the officials' decisions, stating afterwards: "What happened here was robbery. Everyone saw two perfectly good goals. If Spain didn't win, it's because they didn't want us to win. I feel terrible about this game."<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/international/3029872/Korean-miracle-spoilt-by-refereeing-farce.html |title=Korean miracle spoilt by refereeing farce |work=[[The Daily Telegraph]]| location=London| first=Paul| last=Hayward |date=23 June 2006 |access-date=13 November 2017}}</ref><ref>{{cite news|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/spain_v_south_korea/default.stm|title=Korean dream lives on|publisher=[[BBC Sport]]|date=22 June 2002|access-date=13 November 2017}}</ref>
+
+<section begin="QF3" />{{Football box
+|date={{Start date|2002|6|22|df=y}}
+|time=15:30
+|team1={{fb-rt|ESP}}
+|score={{score link|2002 FIFA World Cup knockout stage#Spain vs South Korea|0–0}}
+|aet=yes
+|team2={{fb|KOR|1997}}
+|goals1=
+|goals2=
+|stadium=[[Gwangju World Cup Stadium]], [[Gwangju]]
+|attendance=42,114
+|referee=[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|penalties1=
+*[[Fernando Hierro|Hierro]] {{pengoal}}
+*[[Rubén Baraja|Baraja]] {{pengoal}}
+*[[Xavi (footballer, born 1980)|Xavi]] {{pengoal}}
+*[[Joaquín (footballer, born 1981)|Joaquín]] {{penmiss}}
+|penaltyscore=3–5
+|penalties2=
+*{{pengoal}} [[Hwang Sun-hong]]
+*{{pengoal}} [[Park Ji-sung]]
+*{{pengoal}} [[Seol Ki-hyeon]]
+*{{pengoal}} [[Ahn Jung-hwan]]
+*{{pengoal}} [[Hong Myung-bo]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5942/43950059 |title=Spain vs Korea Republic {{!}} Quarter-final {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950300/match=43950059/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Spain v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214060217/http://www.fifa.com/worldcup/matches/round=43950300/match=43950059/index.html |archive-date=14 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/59_0622_GWA_ESP-KOR_Fulltime.pdf |title=Match Report – Quarter-final – Spain v Korea Republic |publisher=[[FIFA]] |date=22 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030408062109/http://fifaworldcup.yahoo.com/releases/59_0622_GWA_ESP-KOR_Fulltime.pdf |archive-date=8 April 2003}} }}</ref>
+}}<section end="QF3" />
+
+{| width=92%
+|-
+|{{Football kit  
+ |pattern_la = _esp0204h
+ |pattern_b  = _esp0204h
+ |pattern_ra = _esp0204h
+ |pattern_sh = _esp0204
+ |pattern_so =_esp0204h 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 003060
+| title      = Spain
+}}
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _kor02A
+| pattern_ra = 
+| pattern_sh = _white stripes
+| pattern_so = _kor02A
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FE2D4C
+| socks      = FFFFFF
+| title      = South Korea
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]]
+|-
+|RB ||'''5''' ||[[Carles Puyol]]
+|-
+|CB ||'''6''' ||[[Fernando Hierro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||[[Miguel Ángel Nadal]]
+|-
+|LB ||'''15'''||[[Enrique Romero]]
+|-
+|RM ||'''22'''||[[Joaquín (footballer, born 1981)|Joaquín]]
+|-
+|DM ||'''4''' ||[[Iván Helguera]] || || {{suboff|93}}
+|-
+|CM ||'''17'''||[[Juan Carlos Valerón]] || || {{suboff|80}}
+|-
+|CM ||'''8''' ||[[Rubén Baraja]]
+|-
+|LM ||'''11'''||[[Javier de Pedro]] || {{yel|53}} || {{suboff|70}}
+|-
+|CF ||'''9''' ||[[Fernando Morientes]] || {{yel|111}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Gaizka Mendieta]] || || {{subon|70}}
+|-
+|MF ||'''21'''||[[Luis Enrique]] || || {{subon|80}}
+|-
+|MF ||'''19'''||[[Xavi (footballer, born 1980)|Xavi]] || || {{subon|93}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[José Antonio Camacho]]
+|}
+|<!-- [[Image:ESP-KOR 2002-06-22.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lee Woon-jae]]
+|-
+|CB ||'''4''' ||[[Choi Jin-cheul]]
+|-
+|CB ||'''20'''||[[Hong Myung-bo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''7''' ||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]] || || {{suboff|90}}
+|-
+|RM ||'''22'''||[[Song Chong-gug]]
+|-
+|CM ||'''5''' ||[[Kim Nam-il]] || || {{suboff|32}}
+|-
+|CM ||'''6''' ||[[Yoo Sang-chul]] || {{yel|52}} || {{suboff|60}}
+|-
+|LM ||'''10'''||[[Lee Young-pyo]]
+|-
+|RF ||'''21'''||[[Park Ji-sung]]
+|-
+|CF ||'''19'''||[[Ahn Jung-hwan]]
+|-
+|LF ||'''9''' ||[[Seol Ki-hyeon]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Lee Eul-yong]] || || {{subon|32}}
+|-
+|FW ||'''14'''||[[Lee Chun-soo]] || || {{subon|60}}
+|-
+|FW ||'''18'''||[[Hwang Sun-hong]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Lee Woon-jae]] (South Korea)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ali Tomusange ([[Federation of Uganda Football Associations|Uganda]])
+<br />Michael Ragoonath ([[Trinidad and Tobago Football Association|Trinidad and Tobago]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Saad Kamil Al-Fadhli|Saad Mane]] ([[Kuwait Football Association|Kuwait]])
+|}
+
+===Senegal vs Turkey===
+<section begin="QF4" />{{Football box
+|date={{Start date|2002|6|22|df=y}}
+|time=20:30
+|team1={{fb-rt|SEN}}
+|score={{score link|2002 FIFA World Cup knockout stage#Senegal vs Turkey|0–1}}
+|agget=yes
+|team2={{fb|TUR}}
+|goals1=
+|goals2=
+*[[İlhan Mansız|Mansız]] {{golden goal|94}}
+|stadium=[[Nagai Stadium]], [[Osaka]]
+|attendance=44,233
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5942/43950060 |title=Senegal vs Turkey {{!}} Quarter-final {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950300/match=43950060/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Senegal v Turkey |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228010133/http://www.fifa.com/worldcup/matches/round=43950300/match=43950060/index.html |archive-date=28 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/60_0622_OSA_SEN-TUR_Fulltime.pdf |title=Match Report – Quarter-final – Senegal v Turkey |publisher=[[FIFA]] |date=22 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030408074936/http://fifaworldcup.yahoo.com/releases/60_0622_OSA_SEN-TUR_Fulltime.pdf |archive-date=8 April 2003}} }}</ref>
+}}<section end="QF4" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _senegal2002
+| pattern_b  = _sen02
+| pattern_ra = _senegal2002
+| pattern_sh = _sen02h
+| pattern_so = _sen02h
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Senegal
+}}
+|{{Football kit
+ |pattern_la = _tur02h
+ |pattern_b  = _tur02h
+ |pattern_ra = _tur02h
+ |pattern_sh = _adidaswhite2002
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FFFFFF
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+| title      = Turkey
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Sylva]]
+|-
+|RB ||'''17'''||[[Ferdinand Coly]]
+|-
+|CB ||'''13'''||[[Lamine Diatta]]
+|-
+|CB ||'''4''' ||[[Pape Malick Diop]]
+|-
+|LB ||'''2''' ||[[Omar Daf]] || {{yel|12}}
+|-
+|CM ||'''19'''||[[Papa Bouba Diop]]
+|-
+|CM ||'''6''' ||[[Aliou Cissé]] ([[Captain (association football)|c]]) || {{yel|63}}
+|-
+|CM ||'''15'''||[[Salif Diao]]
+|-
+|RF ||'''7''' ||[[Henri Camara]]
+|-
+|CF ||'''11'''||[[El Hadji Diouf]]
+|-
+|LF ||'''10'''||[[Khalilou Fadiga]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Bruno Metsu]]
+|}
+|<!-- [[Image:SEN-TUR 2002-06-22.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rüştü Reçber]]
+|-
+|RB ||'''4''' ||[[Fatih Akyel]]
+|-
+|CB ||'''5''' ||[[Alpay Özalan]]
+|-
+|CB ||'''3''' ||[[Bülent Korkmaz]]
+|-
+|LB ||'''18'''||[[Ergün Penbe]]
+|-
+|RM ||'''22'''||[[Ümit Davala]]
+|-
+|CM ||'''8''' ||[[Tugay Kerimoğlu]]
+|-
+|LM ||'''21'''||[[Emre Belözoğlu]] || {{yel|22}} || {{suboff|91}}
+|-
+|AM ||'''10'''||[[Yıldıray Baştürk]]
+|-
+|AM ||'''11'''||[[Hasan Şaş]]
+|-
+|CF ||'''9''' ||[[Hakan Şükür]] ([[Captain (association football)|c]]) || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[İlhan Mansız]] || {{yel|87}} || {{subon|67}}
+|-
+|FW ||'''6''' ||[[Arif Erdem]] || || {{subon|91}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Şenol Güneş]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Hasan Şaş]] (Turkey)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jorge Rattalino ([[Argentine Football Association|Argentina]])
+<br />Miguel Giacomuzzi ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Gilles Veissière]] ([[French Football Federation|France]])
+|}
+
+==Semi-finals==
+
+===Germany vs South Korea===
+<section begin="SF1" />{{Football box
+|date={{Start date|2002|6|25|df=y}}
+|time=20:30
+|team1={{fb-rt|GER}}
+|score={{score link|2002 FIFA World Cup knockout stage#Germany vs South Korea|1–0}}
+|team2={{fb|KOR|1997}}
+|goals1=
+*[[Michael Ballack|Ballack]] {{goal|75}}
+|goals2=
+|stadium=[[Seoul World Cup Stadium]], [[Seoul]]
+|attendance=65,256
+|referee=[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5943/43950061 |title=Germany vs Korea Republic {{!}} Semi-final {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950400/match=43950061/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Germany v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20160912014753/http://www.fifa.com/worldcup/matches/round=43950400/match=43950061/index.html |archive-date=12 September 2016}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/61_0625_SEO_GER-KOR_Fulltime.pdf |title=Match Report – Semi-final – Germany v Korea Republic |publisher=[[FIFA]] |date=25 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030408174531/http://fifaworldcup.yahoo.com/releases/61_0625_SEO_GER-KOR_Fulltime.pdf |archive-date=8 April 2003}} }}</ref>
+}}<section end="SF1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger02h
+ |pattern_b  = _ger02h
+ |pattern_ra = _ger02h
+ |pattern_sh = _adidaswhite2002
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = FFFFFF
+| title      = Germany
+}}
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _kor2002h
+| pattern_ra = 
+| pattern_sh = _white stripes
+| pattern_so = _kor02H
+| leftarm    = FE2D4C
+| body       = FE2D4C
+| rightarm   = FE2D4C
+| shorts     = 004488
+| socks      = FE2D4C
+| title      = South Korea
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oliver Kahn]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Thomas Linke]]
+|-
+|CB ||'''5''' ||[[Carsten Ramelow]]
+|-
+|CB ||'''21'''||[[Christoph Metzelder]]
+|-
+|RWB ||'''22'''||[[Torsten Frings]]
+|-
+|LWB ||'''17'''||[[Marco Bode]]
+|-
+|CM ||'''19'''||[[Bernd Schneider (footballer)|Bernd Schneider]] || || {{suboff|85}}
+|-
+|CM ||'''8''' ||[[Dietmar Hamann]]
+|-
+|AM ||'''13'''||[[Michael Ballack]] || {{yel|71}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|70}}
+|-
+|CF ||'''7''' ||[[Oliver Neuville]] || {{yel|85}} || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Oliver Bierhoff]] || || {{subon|70}}
+|-
+|MF ||'''16'''||[[Jens Jeremies]] || || {{subon|85}}
+|-
+|FW ||'''14'''||[[Gerald Asamoah]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rudi Völler]]
+|}
+|
+|<!-- [[Image:GER-KOR 2002-06-25.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lee Woon-jae]]
+|-
+|CB ||'''4''' ||[[Choi Jin-cheul]] || || {{suboff|56}}
+|-
+|CB ||'''20'''||[[Hong Myung-bo]] ([[Captain (association football)|c]]) || || {{suboff|80}}
+|-
+|CB ||'''7''' ||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]]
+|-
+|RM ||'''22'''||[[Song Chong-gug]]
+|-
+|CM ||'''6''' ||[[Yoo Sang-chul]]
+|-
+|CM ||'''21'''||[[Park Ji-sung]]
+|-
+|LM ||'''10'''||[[Lee Young-pyo]]
+|-
+|RF ||'''16'''||[[Cha Du-ri]]
+|-
+|CF ||'''18'''||[[Hwang Sun-hong]] || || {{suboff|54}}
+|-
+|LF ||'''14'''||[[Lee Chun-soo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Ahn Jung-hwan]] || || {{subon|54}}
+|-
+|DF ||'''15'''||[[Lee Min-sung]] || {{yel|90}} || {{subon|56}}
+|-
+|FW ||'''9''' ||[[Seol Ki-hyeon]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Michael Ballack]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Frédéric Arnault ([[French Football Federation|France]])
+<br />Evzen Amler ([[Football Association of the Czech Republic|Czech Republic]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Gilles Veissière]] ([[French Football Federation|France]])
+|}
+
+===Brazil vs Turkey===
+<section begin="SF2" />{{Football box
+|date={{Start date|2002|6|26|df=y}}
+|time=20:30
+|team1={{fb-rt|BRA}}
+|score={{score link|2002 FIFA World Cup knockout stage#Brazil vs Turkey|1–0}}
+|team2={{fb|TUR}}
+|goals1=
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|49}}
+|goals2=
+|stadium=[[Saitama Stadium 2002|Saitama Stadium]], [[Saitama (city)|Saitama]]
+|attendance=61,058
+|referee=[[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5943/43950062 |title=Brazil vs Turkey {{!}} Semi-final {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950400/match=43950062/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Brazil v Turkey |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227083624/http://www.fifa.com/worldcup/matches/round=43950400/match=43950062/index.html |archive-date=27 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/62_0626_SAI_BRA-TUR_Fulltime.pdf |title=Match Report – Semi-final – Brazil v Turkey |publisher=[[FIFA]] |date=26 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20050818235032/http://fifaworldcup.yahoo.com/releases/62_0626_SAI_BRA-TUR_Fulltime.pdf |archive-date=18 August 2005}} }}</ref>
+}}<section end="SF2" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _brasil2002
+ |pattern_b  = _bra02h
+ |pattern_ra = _brasil2002
+ |pattern_sh = _bra02h
+ |pattern_so = _bra02H
+ |leftarm    = FFDA00
+ |body       = FFDA00
+ |rightarm   = FFDA00
+ |shorts     = 003399
+ |socks      = FFFFFF
+| title      = Brazil
+}}
+|{{Football kit
+| pattern_la = _tur02h
+| pattern_b  = _tur02h
+| pattern_ra = _tur02h
+| pattern_sh = _adidaswhite2002
+| pattern_so = 
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FF0000
+| socks      = FF0000
+| title      = Turkey
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marcos (footballer, born 1973)|Marcos]]
+|-
+|CB ||'''3''' ||[[Lúcio]]
+|-
+|CB ||'''4''' ||[[Roque Júnior]]
+|-
+|CB ||'''5''' ||[[Edmílson]]
+|-
+|RM ||'''2''' ||[[Cafu]] ([[Captain (association football)|c]])
+|-
+|CM ||'''15'''||[[José Kléberson|Kléberson]] || || {{suboff|85}}
+|-
+|CM ||'''8''' ||[[Gilberto Silva]] || {{yel|41}}
+|-
+|LM ||'''6''' ||[[Roberto Carlos]]
+|-
+|RF ||'''20'''||[[Edílson]] || || {{suboff|75}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]] || || {{suboff|68}}
+|-
+|LF ||'''10'''||[[Rivaldo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Luizão (footballer, born 1975)|Luizão]] || || {{subon|68}}
+|-
+|MF ||'''17'''||[[Denílson (footballer, born 1977)|Denílson]] || || {{subon|75}}
+|-
+|DF ||'''13'''||[[Juliano Belletti|Belletti]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luiz Felipe Scolari]]
+|}
+|<!-- [[Image:BRA-TUR 2002-06-26.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rüştü Reçber]]
+|-
+|RB ||'''4''' ||[[Fatih Akyel]]
+|-
+|CB ||'''5''' ||[[Alpay Özalan]]
+|-
+|CB ||'''3''' ||[[Bülent Korkmaz]]
+|-
+|LB ||'''18'''||[[Ergün Penbe]]
+|-
+|DM ||'''8''' ||[[Tugay Kerimoğlu]] || {{yel|59}}
+|-
+|RM ||'''22'''||[[Ümit Davala]] || || {{suboff|74}}
+|-
+|CM ||'''10'''||[[Yıldıray Baştürk]] || || {{suboff|88}}
+|-
+|LM ||'''21'''||[[Emre Belözoğlu]] || || {{suboff|62}}
+|-
+|CF ||'''11'''||[[Hasan Şaş]] || {{yel|90}}
+|-
+|CF ||'''9''' ||[[Hakan Şükür]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[İlhan Mansız]] || || {{subon|62}}
+|-
+|MF ||'''13'''||[[Muzzy Izzet]] || || {{subon|74}}
+|-
+|FW ||'''6''' ||[[Arif Erdem]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Şenol Güneş]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Ronaldo (Brazilian footballer)|Ronaldo]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Maciej Wierzbowski ([[Polish Football Association|Poland]])
+<br />Igor Šramka ([[Slovak Football Association|Slovakia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Brian Hall (referee)|Brian Hall]] ([[United States Soccer Federation|United States]])
+|}
+
+==Match for third place==
+<section begin="3rd" />{{Football box
+|date={{Start date|2002|6|29|df=y}}
+|time=20:00
+|team1={{fb-rt|KOR|1997}}
+|score={{score link|2002 FIFA World Cup knockout stage#Match for third place|2–3}}
+|team2={{fb|TUR}}
+|goals1=
+*[[Lee Eul-yong]] {{goal|9}}
+*[[Song Chong-gug]] {{goal|90+3}}
+|goals2=
+*[[Hakan Şükür|Şükür]] {{goal|1}}
+*[[İlhan Mansız|Mansız]] {{goal|13||32}}
+|stadium=[[Daegu Stadium|Daegu World Cup Stadium]], [[Daegu]]
+|attendance=63,483
+|referee=[[Saad Kamil Al-Fadhli|Saad Mane]] ([[Kuwait Football Association|Kuwait]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5944/43950063 |title=Korea Republic vs Turkey {{!}} Match for third place {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950500/match=43950063/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Korea Republic v Turkey |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212003338/http://www.fifa.com/worldcup/matches/round=43950500/match=43950063/index.html |archive-date=12 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/63_0629_DAG_KOR-TUR_Fulltime.pdf |title=Match Report – Third Place – Korea Republic v Turkey |publisher=[[FIFA]] |date=29 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20040202015055/http://fifaworldcup.yahoo.com/releases/63_0629_DAG_KOR-TUR_Fulltime.pdf |archive-date=2 February 2004}} }}</ref>
+}}<section end="3rd" />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _kor02H
+| pattern_ra = 
+| pattern_sh = _white stripes
+| pattern_so = _kor02H
+| leftarm    = FE2D4C
+| body       = FE2D4C
+| rightarm   = FE2D4C
+| shorts     = 004488
+| socks      = FE2D4C
+| title      = South Korea
+}}
+|{{Football kit 
+ |pattern_la = _esp02a
+ |pattern_b  = _tur02a
+ |pattern_ra = _esp02a
+ |pattern_sh = _adidasonwhite2002
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FFFFFF
+| title      = Turkey
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lee Woon-jae]]
+|-
+|CB ||'''6''' ||[[Yoo Sang-chul]]
+|-
+|CB ||'''20'''||[[Hong Myung-bo]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CB ||'''15'''||[[Lee Min-sung]]
+|-
+|RM ||'''22'''||[[Song Chong-gug]]
+|-
+|CM ||'''21'''||[[Park Ji-sung]]
+|-
+|CM ||'''10'''||[[Lee Young-pyo]]
+|-
+|LM ||'''13'''||[[Lee Eul-yong]] || {{yel|23}} || {{suboff|65}}
+|-
+|RF ||'''9''' ||[[Seol Ki-hyeon]] || || {{suboff|79}}
+|-
+|CF ||'''19'''||[[Ahn Jung-hwan]]
+|-
+|LF ||'''14'''||[[Lee Chun-soo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''7''' ||[[Kim Tae-young (footballer, born 1970)|Kim Tae-young]] || || {{subon|46}}
+|-
+|FW ||'''16'''||[[Cha Du-ri]] || || {{subon|65}}
+|-
+|MF ||'''8''' ||[[Choi Tae-uk]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|<!-- [[Image:KOR-TUR 2002-06-29.svg|300px]] -->
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rüştü Reçber]] || {{yel|83}}
+|-
+|RB ||'''4''' ||[[Fatih Akyel]]
+|-
+|CB ||'''5''' ||[[Alpay Özalan]]
+|-
+|CB ||'''3''' ||[[Bülent Korkmaz]]
+|-
+|LB ||'''18'''||[[Ergün Penbe]]
+|-
+|RM ||'''22'''||[[Ümit Davala]] || || {{suboff|76}}
+|-
+|CM ||'''8''' ||[[Tugay Kerimoğlu]] || {{yel|50}}
+|-
+|CM ||'''10'''||[[Yıldıray Baştürk]] || || {{suboff|86}}
+|-
+|LM ||'''21'''||[[Emre Belözoğlu]] || || {{suboff|41}}
+|-
+|CF ||'''9''' ||[[Hakan Şükür]] ([[Captain (association football)|c]])
+|-
+|CF ||'''17'''||[[İlhan Mansız]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Hakan Ünsal]] || || {{subon|41}}
+|-
+|MF ||'''7''' ||[[Okan Buruk]] || || {{subon|76}}
+|-
+|MF ||'''14'''||[[Tayfur Havutçu]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Şenol Güneş]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Hakan Şükür]] (Turkey)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ali Al Traifi ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Felipe Ramos Rizo|Felipe Ramos]] ([[Mexican Football Federation|Mexico]])
+|}
+
+==Final==
+{{main|2002 FIFA World Cup final}}
+{{#lst:2002 FIFA World Cup final|Final}}
+{{#lst:2002 FIFA World Cup final|Lineups}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2002 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:2002 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|2002]]
+[[Category:Mexico at the 2002 FIFA World Cup]]
+[[Category:United States at the 2002 FIFA World Cup]]
+[[Category:Spain at the 2002 FIFA World Cup]]
+[[Category:Denmark at the 2002 FIFA World Cup]]
+[[Category:Brazil at the 2002 FIFA World Cup]]
+[[Category:Republic of Ireland at the 2002 FIFA World Cup]]
+[[Category:Italy at the 2002 FIFA World Cup]]
+[[Category:Germany at the 2002 FIFA World Cup]]
+[[Category:England at the 2002 FIFA World Cup]]
+[[Category:Paraguay at the 2002 FIFA World Cup]]
+[[Category:Sweden at the 2002 FIFA World Cup]]
+[[Category:South Korea at the 2002 FIFA World Cup]]
+[[Category:Japan at the 2002 FIFA World Cup]]
+[[Category:Turkey at the 2002 FIFA World Cup]]
+[[Category:Senegal at the 2002 FIFA World Cup]]
+[[Category:Belgium at the 2002 FIFA World Cup]]
+[[Category:Mexico–United States soccer rivalry|2002 FIFA]]
+[[Category:Seogwipo]]
+[[Category:Sport in Jeju Province]]
+[[Category:Sports competitions in Jeonju]]
+[[Category:Sports competitions in Suwon]]
+[[Category:Sports competitions in Daejeon]]
+[[Category:Sports competitions in Ulsan]]
+[[Category:Sports competitions in Gwangju]]
+[[Category:Football in Seoul]]
+[[Category:Sports competitions in Daegu]]
+[[Category:Sport in Niigata (city)]]
+[[Category:Sports competitions in Kobe]]
+[[Category:Sport in Ōita (city)]]
+[[Category:Sports competitions in Miyagi Prefecture]]
+[[Category:Sports competitions in Shizuoka Prefecture]]
+[[Category:Football in Osaka]]
+[[Category:Sports competitions in Saitama (city)]]
+[[Category:2000s in Seoul]]
+[[Category:21st century in Osaka]]

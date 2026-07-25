@@ -1,0 +1,887 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+At the [[1998 FIFA World Cup]], the 32 teams were divided into eight groups of four, labelled A–H. Group C was composed of [[Saudi Arabia national football team|Saudi Arabia]], [[South Africa national football team|South Africa]], [[Denmark national football team|Denmark]] and host nation and eventual world champion [[France national football team|France]].<ref>{{cite web |url=https://www.rsssf.org/tables/98full.html |title=World Cup 1998 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+Denmark and France started well, defeating Saudi Arabia and South Africa respectively. Next, France scored four to eliminate Saudi Arabia and qualify with a match to spare, while Denmark and South Africa drew. Needing a big win in their final game, against Saudi Arabia, South Africa conceded two penalties and could only draw, so Denmark still qualified despite losing their final game to France.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/france1998/groups/ FIFA]
+|teamwidth=200
+
+|team1=FRA|team2=DEN|team3=RSA|team4=KSA
+|result1=KO|result2=KO
+
+|win_FRA=3 |draw_FRA=0 |loss_FRA=0 |gf_FRA=9 |ga_FRA=1 |status_FRA=H
+|win_DEN=1 |draw_DEN=1 |loss_DEN=1 |gf_DEN=3 |ga_DEN=3
+|win_RSA=0 |draw_RSA=2 |loss_RSA=1 |gf_RSA=3 |ga_RSA=6
+|win_KSA=0 |draw_KSA=1 |loss_KSA=2 |gf_KSA=2 |ga_KSA=7
+
+|name_FRA={{fb|FRA|1974}}|name_DEN={{fb|DEN}}|name_RSA={{fb|RSA}}|name_KSA={{fb|KSA}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1998 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*France advanced to play Paraguay (runner-up of [[1998 FIFA World Cup Group D|Group D]]) in the [[1998 FIFA World Cup knockout stage#France vs Paraguay|round of 16]].
+*Denmark advanced to play Nigeria (winner of [[1998 FIFA World Cup Group D|Group D]]) in the [[1998 FIFA World Cup knockout stage#Nigeria vs Denmark|round of 16]].
+
+==Matches==
+
+===Saudi Arabia vs Denmark===
+<onlyinclude>{{#invoke:Football box|main|section=C1
+|date={{Start date|1998|6|12|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|KSA}}
+|score={{score link|1998 FIFA World Cup Group C#Saudi Arabia vs Denmark|0–1}}
+|team2={{fb|DEN}}
+|goals1=
+|goals2=
+*[[Marc Rieper|Rieper]] {{goal|69}}
+|stadium=[[Stade Bollaert-Delelis|Stade Félix-Bollaert]], [[Lens, Pas-de-Calais|Lens]]
+|attendance=38,100
+|referee=[[Javier Castrilli]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8729 |title=Saudi Arabia vs Denmark {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8729/index.html |title=1998 FIFA World Cup France – Matches – Saudi Arabia v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204175005/http://www.fifa.com/worldcup/matches/round=1014/match=8729/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8891.htm |title=Match Statistics – Group C – Saudi Arabia v Denmark |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=12 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010417112927/http://www.france98.com/english/competition/matchstat8891.htm |archive-date=17 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _saudiarabia1998h
+ | pattern_ra = 
+ | pattern_sh = _ksa_wc98h
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Saudi Arabia
+}}
+|{{Football kit
+ | pattern_la = _den1998h
+ | pattern_b  = _den1998h
+ | pattern_ra = _den1998h
+ | pattern_sh = _den98h
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Denmark
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mohamed Al-Deayea]]
+|-
+|DF ||'''2''' ||[[Mohammed Sheliah]]
+|-
+|DF ||'''3''' ||[[Mohammed Al-Khilaiwi]]
+|-
+|DF ||'''4''' ||[[Abdullah Sulaiman Zubromawi]]
+|-
+|DF ||'''13'''||[[Hussein Abdulghani]]
+|-
+|MF ||'''6''' ||[[Fuad Anwar]] ([[Captain (association football)|c]]) || || {{suboff|78}}
+|-
+|MF ||'''7''' ||[[Ibrahim Suwayed]]
+|-
+|MF ||'''14'''||[[Khaled Massad]] || {{yel|11}}
+|-
+|MF ||'''16'''||[[Khamis Al-Owairan]]
+|-
+|FW ||'''9''' ||[[Sami Al-Jaber]] || || {{suboff|84}}
+|-
+|FW ||'''10'''||[[Saeed Al-Owairan]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Hamzah Saleh]] || || {{subon|78}}
+|-
+|FW ||'''8''' ||[[Obeid Al-Dosari]] || || {{subon|79}}
+|-
+|FW ||'''15'''||[[Yousuf Al-Thunayan]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Carlos Alberto Parreira]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Schmeichel]]
+|-
+|DF ||'''2''' ||[[Michael Schjønberg]]
+|-
+|DF ||'''3''' ||[[Marc Rieper]] || {{yel|60}}
+|-
+|DF ||'''4''' ||[[Jes Høgh]]
+|-
+|DF ||'''6''' ||[[Thomas Helveg]]
+|-
+|DF ||'''12'''||[[Søren Colding]]
+|-
+|MF ||'''10'''||[[Michael Laudrup]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14'''||[[Morten Wieghorst]] || {{yel|12}} || {{suboff|65}}
+|-
+|MF ||'''21'''||[[Martin Jørgensen]] || || {{suboff|73}}
+|-
+|FW ||'''11'''||[[Brian Laudrup]] || || {{suboff|84}}
+|-
+|FW ||'''19'''||[[Ebbe Sand]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Allan Nielsen]] || {{yel|73}} || {{subon|65}}
+|-
+|MF ||'''8''' ||[[Per Frandsen]] || || {{subon|73}}
+|-
+|DF ||'''5''' ||[[Jan Heintze]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Bo Johansson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Claudio Rossi ([[Argentine Football Association|Argentina]])
+<br />Jorge Diaz Garcia ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|}
+
+===France vs South Africa===
+<onlyinclude>{{#invoke:Football box|main|section=C2
+|date={{Start date|1998|6|12|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1998 FIFA World Cup Group C#France vs South Africa|3–0}}
+|team2={{fb|RSA|1994}}
+|goals1=
+*[[Christophe Dugarry|Dugarry]] {{goal|36}}
+*[[Pierre Issa|Issa]] {{goal|77|o.g.}}
+*[[Thierry Henry|Henry]] {{goal|90+2}}
+|goals2=
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=55,000
+|referee=[[Márcio Rezende de Freitas]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8730 |title=France vs South Africa {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8730/index.html |title=1998 FIFA World Cup France – Matches – France v South Africa |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204172936/http://www.fifa.com/worldcup/matches/round=1014/match=8730/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8892.htm |title=Match Statistics – Group C – France v South Africa |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=12 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010210045307/http://www.france98.com/english/competition/matchstat8892.htm |archive-date=10 February 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _france1998h
+ | pattern_b  = _france1998h
+ | pattern_ra = _france1998h
+ | pattern_sh = _france1998a
+ | pattern_so = _fra98h
+ | leftarm    = 0000C0
+ | body       = 0000C0
+ | rightarm   = 0000C0
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = France
+}}
+|{{Football kit
+|pattern_la = _afs98h
+|pattern_b = _afs98h
+|pattern_ra = _afs98h
+|pattern_so =_afs98h
+|pattern_sh =_afs98h
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = 008800
+|socks = FFFFFF
+|title      = South Africa
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''8''' ||[[Marcel Desailly]]
+|-
+|CB ||'''5''' ||[[Laurent Blanc]]
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]]
+|-
+|CM ||'''7''' ||[[Didier Deschamps]] ([[Captain (association football)|c]]) || {{yel|53}}
+|-
+|CM ||'''17'''||[[Emmanuel Petit]] || {{yel|28}} || {{suboff|73}}
+|-
+|RW ||'''6''' ||[[Youri Djorkaeff]] || || {{suboff|84}}
+|-
+|AM ||'''10'''||[[Zinedine Zidane]] || {{yel|75}}
+|-
+|LW ||'''12'''||[[Thierry Henry]]
+|-
+|CF ||'''9''' ||[[Stéphane Guivarc'h]] || || {{suboff|26}}
+|-
+
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Christophe Dugarry]] || || {{subon|26}}
+|-
+|MF ||'''14'''||[[Alain Boghossian]] || || {{subon|73}}
+|-
+|FW ||'''20'''||[[David Trezeguet]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Aimé Jacquet]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans Vonk (soccer)|Hans Vonk]]
+|-
+|DF ||'''3''' ||[[David Nyathi]]
+|-
+|DF ||'''4''' ||[[Willem Jackson]] || {{yel|39}}
+|-
+|DF ||'''5''' ||[[Mark Fish]]
+|-
+|DF ||'''19'''||[[Lucas Radebe]] ([[Captain (association football)|c]])
+|-
+|DF ||'''21'''||[[Pierre Issa]]
+|-
+|MF ||'''7''' ||[[Quinton Fortune]]
+|-
+|MF ||'''10'''||[[John Moshoeu]]
+|-
+|FW ||'''6''' ||[[Phil Masinga]]
+|-
+|FW ||'''12'''||[[Brendan Augustine]] || || {{suboff|56}}
+|-
+|FW ||'''17'''||[[Benni McCarthy]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Helman Mkhalele]] || || {{subon|56}}
+|-
+|FW ||'''9''' ||[[Shaun Bartlett]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Philippe Troussier]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Arnaldo Pinto ([[Brazilian Football Confederation|Brazil]])
+<br />Merere Gonzales ([[Trinidad and Tobago Football Federation|Trinidad and Tobago]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mario Sánchez Yanten]] ([[Football Federation of Chile|Chile]])
+|}
+
+===South Africa vs Denmark===
+<onlyinclude>{{#invoke:Football box|main|section=C3
+|date={{Start date|1998|6|18|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|RSA}}
+|score={{score link|1998 FIFA World Cup Group C#South Africa vs Denmark|1–1}}
+|team2={{fb|DEN}}
+|goals1=
+*[[Benni McCarthy|McCarthy]] {{goal|51}}
+|goals2=
+*[[Allan Nielsen|Nielsen]] {{goal|12}}
+|stadium=[[Stadium de Toulouse|Stade de Toulouse]], [[Toulouse]]
+|attendance=33,500
+|referee=[[John Toro Rendón]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8746 |title=South Africa vs Denmark {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8746/index.html |title=1998 FIFA World Cup France – Matches – South Africa v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204172224/http://www.fifa.com/worldcup/matches/round=1014/match=8746/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8908.htm |title=Match Statistics – Group C – South Africa v Denmark |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=18 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419010912/http://www.france98.com/english/competition/matchstat8908.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _afs98h
+ |pattern_b = _afs98h
+ |pattern_ra = _afs98h
+ |pattern_so =_afs98h
+ | pattern_sh =_afs98h
+ |leftarm = FFFFFF
+ |body = FFFFFF
+ |rightarm = FFFFFF
+ |shorts = 008800
+ |socks = FFFFFF
+ | title = South Africa
+}}
+|{{Football kit
+ | pattern_la = _den1998h
+ | pattern_b  = _den1998h
+ | pattern_ra = _den1998h
+ | pattern_sh = _den98h
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Denmark
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans Vonk (footballer)|Hans Vonk]]
+|-
+|DF ||'''3''' ||[[David Nyathi]] || {{yel|28}} || {{suboff|88}}
+|-
+|DF ||'''5''' ||[[Mark Fish]]
+|-
+|DF ||'''19'''||[[Lucas Radebe]] ([[Captain (association football)|c]]) || {{yel|73}}
+|-
+|DF ||'''21'''||[[Pierre Issa]] || {{yel|63}}
+|-
+|MF ||'''7''' ||[[Quinton Fortune]]
+|-
+|MF ||'''10'''||[[John Moshoeu]]
+|-
+|MF ||'''11'''||[[Helman Mkhalele]]
+|-
+|FW ||'''9''' ||[[Shaun Bartlett]] || || {{suboff|77}}
+|-
+|FW ||'''12'''||[[Brendan Augustine]] || || {{suboff|46}}
+|-
+|FW ||'''17'''||[[Benni McCarthy]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Alfred Phiri]] || {{sent off|1|65|68}} || {{subon|46}}
+|-
+|FW ||'''6''' ||[[Phil Masinga]] || || {{subon|77}}
+|-
+|FW ||'''13'''||[[Delron Buckley]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Philippe Troussier]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Schmeichel]] || {{yel|57}}
+|-
+|DF ||'''2''' ||[[Michael Schjønberg]] || {{yel|23}} || {{suboff|82}}
+|-
+|DF ||'''3''' ||[[Marc Rieper]]
+|-
+|DF ||'''4''' ||[[Jes Høgh]] || {{yel|56}}
+|-
+|DF ||'''6''' ||[[Thomas Helveg]]
+|-
+|DF ||'''12'''||[[Søren Colding]]
+|-
+|MF ||'''7''' ||[[Allan Nielsen]]
+|-
+|MF ||'''10'''||[[Michael Laudrup]] ([[Captain (association football)|c]]) || || {{suboff|58}}
+|-
+|MF ||'''21'''||[[Martin Jørgensen]]
+|-
+|FW ||'''11'''||[[Brian Laudrup]]
+|-
+|FW ||'''19'''||[[Ebbe Sand]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Jan Heintze]] || || {{subon|58}}
+|-
+|FW ||'''9''' ||[[Miklos Molnar]] || {{sent off|0|66}} || {{subon|58}}
+|-
+|MF ||'''14'''||[[Morten Wieghorst]] || {{sent off|0|85}} || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Bo Johansson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jorge Luis Arango ([[Colombian Football Federation|Colombia]])
+<br />Celestino Galván ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Epifanio González]] ([[Paraguayan Football Association|Paraguay]])
+|}
+
+===France vs Saudi Arabia===
+[[Mohammed Al-Khilaiwi]] was sent off in the 19th minute after tripping [[Bixente Lizarazu]] from behind. [[Zinedine Zidane]] was ejected at the 71st minute when he appeared to plant his studs into the side of Saudi captain [[Fuad Anwar]] after they collided going for a ball.<ref>{{cite news|first=Bonnie|last=DeSimone|title=France 4, Saudi Arabia 0|website=chicagotribune.com|publisher=[[Chicago Tribune]]|date=19 June 1998}}</ref>
+<onlyinclude>{{#invoke:Football box|main|section=C4
+|date={{Start date|1998|6|18|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1998 FIFA World Cup Group C#France vs Saudi Arabia|4–0}}
+|team2={{fb|KSA}}
+|goals1=
+*[[Thierry Henry|Henry]] {{goal|37||78}}
+*[[David Trezeguet|Trezeguet]] {{goal|68}}
+*[[Bixente Lizarazu|Lizarazu]] {{goal|85}}
+|goals2=
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=80,000
+|referee=[[Arturo Brizio Carter]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8745 |title=France vs Saudi Arabia {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8745/index.html |title=1998 FIFA World Cup France – Matches – France v Saudi Arabia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204172218/http://www.fifa.com/worldcup/matches/round=1014/match=8745/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8907.htm |title=Match Statistics – Group C – France v Saudi Arabia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=18 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010417113219/http://www.france98.com/english/competition/matchstat8907.htm |archive-date=17 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _france1998h
+ | pattern_b  = _france1998h
+ | pattern_ra = _france1998h
+ | pattern_sh = _france1998a
+ | pattern_so = _fra98h
+ | leftarm    = 0000C0
+ | body       = 0000C0
+ | rightarm   = 0000C0
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = France
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _saudiarabia1998h
+ | pattern_ra = 
+ | pattern_sh = _ksa_wc98h
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Saudi Arabia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''5''' ||[[Laurent Blanc]] || {{yel|36}}
+|-
+|CB ||'''8''' ||[[Marcel Desailly]]
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]] || {{yel|50}}
+|-
+|CM ||'''7''' ||[[Didier Deschamps]] ([[Captain (association football)|c]])
+|-
+|CM ||'''14'''||[[Alain Boghossian]]
+|-
+|RW ||'''12'''||[[Thierry Henry]] || || {{suboff|79}}
+|-
+|AM ||'''10'''||[[Zinedine Zidane]] || {{sent off|0|71}}
+|-
+|LW ||'''13'''||[[Bernard Diomède]] || || {{suboff|58}}
+|-
+|CF ||'''21'''||[[Christophe Dugarry]] || || {{suboff|30}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[David Trezeguet]] || || {{subon|30}}
+|-
+|MF ||'''6''' ||[[Youri Djorkaeff]] || || {{subon|58}}
+|-
+|MF ||'''11'''||[[Robert Pires]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Aimé Jacquet]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mohamed Al-Deayea]]
+|-
+|DF ||'''2''' ||[[Mohammed Al-Jahani]] || {{yel|7}} || {{suboff|76}}
+|-
+|DF ||'''3''' ||[[Mohammed Al-Khilaiwi]] || {{sent off|0|19}}
+|-
+|DF ||'''4''' ||[[Abdullah Zubromawi]]
+|-
+|DF ||'''13'''||[[Hussein Abdulghani]]
+|-
+|MF ||'''6''' ||[[Fuad Anwar]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Ibrahim Suwayed]]
+|-
+|MF ||'''16'''||[[Khamis Al-Owairan]]
+|-
+|MF ||'''20'''||[[Hamzah Saleh]]
+|-
+|FW ||'''9''' ||[[Sami Al-Jaber]] || {{yel|82}}
+|-
+|FW ||'''10'''||[[Saeed Al-Owairan]] || || {{suboff|33}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''12'''||[[Ibrahim Mater]] || || {{subon|33}} || {{suboff|65}}
+|-
+|MF ||'''14'''||[[Khaled Massad]] || || || {{subon|65}}
+|-
+|DF ||'''17'''||[[Ahmed Al-Dokhi]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Carlos Alberto Parreira]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Reynaldo Salinas ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />Luis Torres Zuniga ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alberto Tejada Noriega]] ([[Peruvian Football Federation|Peru]])
+|}
+
+===France vs Denmark===
+<onlyinclude>{{#invoke:Football box|main|section=C5
+|date={{Start date|1998|6|24|df=y}}
+|time=16:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1998 FIFA World Cup Group C#France vs Denmark|2–1}}
+|team2={{fb|DEN}}
+|goals1=
+*[[Youri Djorkaeff|Djorkaeff]] {{goal|12|pen.}}
+*[[Emmanuel Petit|Petit]] {{goal|56}}
+|goals2=
+*[[Michael Laudrup|M. Laudrup]] {{goal|42|pen.}}
+|stadium=[[Stade de Gerland]], [[Lyon]]
+|attendance=39,100
+|referee=[[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8762 |title=France vs Denmark {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8762/index.html |title=1998 FIFA World Cup France – Matches – France v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210005933/http://www.fifa.com/worldcup/matches/round=1014/match=8762/index.html |archive-date=10 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8860.htm |title=Match Statistics – Group C – France v Denmark |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=24 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418032121/http://www.france98.com/english/competition/matchstat8860.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _france1998h
+ | pattern_b  = _france1998h
+ | pattern_ra = _france1998h
+ | pattern_sh = _france1998a
+ | pattern_so = _fra98h
+ | leftarm    = 0000C0
+ | body       = 0000C0
+ | rightarm   = 0000C0
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = France
+}}
+|{{Football kit
+ | pattern_la = _den1998a
+ | pattern_b  = _den1998a
+ | pattern_ra = _den1998a
+ | pattern_sh = _den98a
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FF0000
+ | socks      = FFFFFF
+ | title      = Denmark
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|DF ||'''2''' ||[[Vincent Candela]]
+|-
+|DF ||'''8''' ||[[Marcel Desailly]] ([[Captain (association football)|c]])
+|-
+|DF ||'''18'''||[[Frank Leboeuf]]
+|-
+|MF ||'''4''' ||[[Patrick Vieira]] || {{yel|62}}
+|-
+|MF ||'''6''' ||[[Youri Djorkaeff]]
+|-
+|MF ||'''11'''||[[Robert Pires]] || || {{suboff|71}}
+|-
+|MF ||'''13'''||[[Bernard Diomède]] || {{yel|53}}
+|-
+|MF ||'''17'''||[[Emmanuel Petit]] || || {{suboff|64}}
+|-
+|MF ||'''19'''||[[Christian Karembeu]]
+|-
+|FW ||'''20'''||[[David Trezeguet]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Alain Boghossian]] || || {{subon|64}}
+|-
+|FW ||'''12'''||[[Thierry Henry]] || || {{subon|71}}
+|-
+|FW ||'''9''' ||[[Stéphane Guivarc'h]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Aimé Jacquet]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Schmeichel]] || 
+|-
+|DF ||'''2''' ||[[Michael Schjønberg]] || 
+|-
+|DF ||'''3''' ||[[Marc Rieper]]
+|-
+|DF ||'''4''' ||[[Jes Høgh]]
+|-
+|DF ||'''5''' ||[[Jan Heintze]]
+|-
+|DF ||'''6''' ||[[Thomas Helveg]]
+|-
+|DF ||'''13'''||[[Jacob Laursen]] || || {{suboff|46}}
+|-
+|MF ||'''7''' ||[[Allan Nielsen]]
+|-
+|MF ||'''10'''||[[Michael Laudrup]] ([[Captain (association football)|c]])
+|-
+|MF ||'''21'''||[[Martin Jørgensen]] || || {{suboff|54}}
+|-
+|FW ||'''11'''||[[Brian Laudrup]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''12'''||[[Søren Colding]] || {{yel|65}} || {{subon|46}}
+|-
+|FW ||'''19'''||[[Ebbe Sand]] || || {{subon|54}}
+|-
+|MF ||'''15'''||[[Stig Tøfting]] || {{yel|78}} || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Bo Johansson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Marc Van den Broeck ([[Royal Belgian Football Association|Belgium]])
+<br />Emanuel Zammit ([[Malta Football Association|Malta]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Vítor Melo Pereira]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===South Africa vs Saudi Arabia===
+<onlyinclude>{{#invoke:Football box|main|section=C6
+|date={{Start date|1998|6|24|df=y}}
+|time=16:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|RSA}}
+|score={{score link|1998 FIFA World Cup Group C#South Africa vs Saudi Arabia|2–2}}
+|team2={{fb|KSA}}
+|goals1=
+*[[Shaun Bartlett|Bartlett]] {{goal|18||90+3|pen.}}
+|goals2=
+*[[Sami Al-Jaber|Al-Jaber]] {{goal|45+2|pen.}}
+*[[Yousuf Al-Thunayan|Al-Thunayan]] {{goal|74|pen.}}
+|stadium=[[Stade Chaban-Delmas|Parc Lescure]], [[Bordeaux]]
+|attendance=31,800
+|referee=[[Mario Sánchez Yantén|Mario Sánchez]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8764 |title=South Africa vs Saudi Arabia {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8764/index.html |title=1998 FIFA World Cup France – Matches – South Africa v Saudi Arabia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204175009/http://www.fifa.com/worldcup/matches/round=1014/match=8764/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8862.htm |title=Match Statistics – Group C – South Africa v Saudi Arabia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=24 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010417112929/http://www.france98.com/english/competition/matchstat8862.htm |archive-date=17 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _afs98h
+ |pattern_b = _afs98h
+ |pattern_ra = _afs98h
+ |pattern_sh =_afs98a
+ |pattern_so =_afs98h
+ |leftarm = FFFFFF
+ |body = FFFFFF
+ |rightarm = FFFFFF
+ |shorts = 008800
+ |socks = FFFFFF
+ |title = South Africa
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _saudiarabia1998a
+ | pattern_ra = 
+ | pattern_sh = _ksa_wc98h
+ | pattern_so = 
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = 008000
+ | socks      = 008000
+ | title      = Saudi Arabia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans Vonk (footballer)|Hans Vonk]]
+|-
+|DF ||'''3''' ||[[David Nyathi]]
+|-
+|DF ||'''4''' ||[[Willem Jackson]] || || {{suboff|46}}
+|-
+|DF ||'''5''' ||[[Mark Fish]]
+|-
+|DF ||'''19'''||[[Lucas Radebe]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|DF ||'''21'''||[[Pierre Issa]]
+|-
+|MF ||'''7''' ||[[Quinton Fortune]] || {{yel|38}} || {{suboff|67}}
+|-
+|MF ||'''10'''||[[John Moshoeu]]
+|-
+|MF ||'''11'''||[[Helman Mkhalele]]
+|-
+|FW ||'''9''' ||[[Shaun Bartlett]]
+|-
+|FW ||'''17'''||[[Benni McCarthy]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Delron Buckley]] || || {{subon|46}}
+|-
+|FW ||'''14'''||[[Jerry Sikhosana]] || || {{subon|46}}
+|-
+|MF ||'''15'''||[[Doctor Khumalo]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Philippe Troussier]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mohamed Al-Deayea]]
+|-
+|DF ||'''2''' ||[[Mohammed Al-Jahani]]
+|-
+|DF ||'''4''' ||[[Abdullah Zubromawi]]
+|-
+|DF ||'''13'''||[[Hussein Abdulghani]]
+|-
+|MF ||'''6''' ||[[Fuad Anwar]]
+|-
+|MF ||'''16'''||[[Khamis Al-Owairan]] || {{yel|30}}
+|-
+|MF ||'''18'''||[[Nawaf Al-Temyat]]
+|-
+|MF ||'''20'''||[[Hamzah Saleh]]
+|-
+|FW ||'''9''' ||[[Sami Al-Jaber]]
+|-
+|FW ||'''11'''||[[Fahad Al-Mehallel]] || || {{suboff|64}}
+|-
+|FW ||'''15'''||[[Yousuf Al-Thunayan]] ([[Captain (association football)|c]])|| || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Ibrahim Suwayed]] || || {{subon|64}}
+|-
+|MF ||'''12'''||[[Ibrahim Mater]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mohammed Al-Kharashy]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Owen Powell ([[Jamaica Football Federation|Jamaica]])
+<br />Eddie Foley ([[Football Association of Ireland|Republic of Ireland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alberto Tejada Noriega]] ([[Peruvian Football Federation|Peru]])
+|}
+
+==See also==
+*[[Denmark at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Saudi Arabia at the FIFA World Cup]]
+*[[South Africa at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1998 FIFA World Cup group stage|C]]
+[[Category:France at the 1998 FIFA World Cup|Group]]
+[[Category:South Africa at the 1998 FIFA World Cup]]
+[[Category:Saudi Arabia at the 1998 FIFA World Cup]]
+[[Category:Denmark at the 1998 FIFA World Cup|Group]]
+[[Category:Sport in Lens, Pas-de-Calais]]
+[[Category:Football in Hauts-de-France]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:Sports competitions in Marseille]]
+[[Category:20th century in Marseille]]
+[[Category:Football in Provence-Alpes-Côte d'Azur]]
+[[Category:Sport in Toulouse]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:Football in Île-de-France]]
+[[Category:Sports competitions in Lyon]]
+[[Category:20th century in Lyon]]
+[[Category:Football in Auvergne-Rhône-Alpes]]

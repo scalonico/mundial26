@@ -1,0 +1,831 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 3 of the [[1970 FIFA World Cup]]''' was contested in [[Guadalajara]]'s [[Estadio Jalisco]] between 2 and 11 June 1970. [[Brazil national football team|Brazil]] won the group, and advanced to the quarter-finals, along with World Cup holders [[England national football team|England]]. [[Romania national football team|Romania]] and [[Czechoslovakia national football team|Czechoslovakia]] failed to advance.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/mexico1970/index.html|archive-url=https://web.archive.org/web/20131220185153/http://www.fifa.com/tournaments/archive/worldcup/mexico1970/index.html|url-status=dead|archive-date=20 December 2013|title=1970 FIFA World Cup Mexico|publisher=fifa.com|accessdate=10 August 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/70full.html |title=World Cup 1970 |accessdate=10 August 2014 |url-status=live |archiveurl=https://web.archive.org/web/20160701154217/http://www.rsssf.com/tables/70full.html |archivedate=1 July 2016 |website=[[RSSSF]] |df= }}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150224145302/http://www.fifa.com/worldcup/archive/mexico1970/groups/index.html FIFA]
+
+
+|team1=BRA |team2=ENG |team3=ROU |team4=TCH
+|result1=A |result2=A
+
+|win_BRA=3 |draw_BRA=0 |loss_BRA=0 |gf_BRA=8 |ga_BRA=3
+|win_ENG=2 |draw_ENG=0 |loss_ENG=1 |gf_ENG=2 |ga_ENG=1
+|win_ROU=1 |draw_ROU=0 |loss_ROU=2 |gf_ROU=4 |ga_ROU=5
+|win_TCH=0 |draw_TCH=0 |loss_TCH=3 |gf_TCH=2 |ga_TCH=7
+
+|name_BRA={{fb|BRA|1968}}
+|name_ENG={{fb|ENG}}
+|name_TCH={{fb|TCH}}
+|name_ROU={{fb|ROU|1965}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1970 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times local ([[Central Time Zone|UTC−6]])
+
+===England vs Romania===
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1970|6|2|df=y}}
+|time=16:00
+|team1={{fb-rt|ENG}}
+|score={{score link|1970 FIFA World Cup Group 3#England vs Romania|1–0}}
+|team2={{fb|ROU|1965}}
+|goals1=
+*[[Geoff Hurst|Hurst]] {{goal|65}}
+|goals2=
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=50,560
+|referee=[[Vital Loraux]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1812 |title=England vs Romania {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1812/index.html |title=1970 FIFA World Cup Mexico – Matches – England v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228220902/http://www.fifa.com/worldcup/matches/round=250/match=1812/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+ |pattern_b  = _eng66h
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = England
+}}
+|{{Football kit
+| pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = _white_stripes
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 000099
+ | socks      = FF0000
+ | title      = Romania
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gordon Banks]]
+|-
+|RB ||'''2''' ||[[Keith Newton (footballer)|Keith Newton]]|| || {{suboff|51}} 
+|-
+|CB ||'''5''' ||[[Brian Labone]]
+|-
+|CB ||'''6''' ||[[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Terry Cooper (footballer, born 1944)|Terry Cooper]]
+|-
+|DM ||'''4''' ||[[Alan Mullery]]
+|-
+|CM ||'''8''' ||[[Alan Ball Jr.|Alan Ball]]
+|-
+|AM ||'''9''' ||[[Bobby Charlton]]
+|-
+|CM ||'''11'''||[[Martin Peters]] 
+|-
+|CF ||'''10'''||[[Geoff Hurst]] 
+|-
+|CF ||'''7''' ||[[Francis Lee (footballer)|Francis Lee]]|| || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''14'''||[[Tommy Wright (footballer, born 1944)|Tommy Wright]] || || {{subon|51}}
+|-
+|FW ||'''20'''||[[Peter Osgood]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alf Ramsey]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Stere Adamache]]
+|-
+|RB ||'''2''' ||[[Lajos Sătmăreanu]]
+|-
+|CB ||'''3''' ||[[Nicolae Lupescu]]
+|-
+|CB ||'''5''' ||[[Cornel Dinu]]
+|-
+|LB ||'''4''' ||[[Mihai Mocanu]]
+|-
+|CM ||'''15'''||[[Ion Dumitru]]
+|-
+|CM ||'''10'''||[[Radu Nunweiller]] 
+|-
+|RW ||'''17'''||[[Gheorghe Tătaru]]|| || {{suboff|73}}
+|-
+|SS ||'''7''' ||[[Emerich Dembrovschi]]
+|-
+|CF ||'''9''' ||[[Florea Dumitrache]] 
+|-
+|LW ||'''11'''||[[Mircea Lucescu]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''16'''||[[Alexandru Neagu]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Angelo Niculescu]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Roger Machin]] ([[French Football Federation|France]])
+<br />[[Diego De Leo (referee)|Diego De Leo]] ([[Italian Football Federation|Italy]])
+|}
+
+===Brazil vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=3-2
+|date={{Start date|1970|6|3|df=y}}
+|time=16:00
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1970 FIFA World Cup Group 3#Brazil vs Czechoslovakia|4–1}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Rivellino]] {{goal|24}}
+*[[Pelé]] {{goal|59}}
+*[[Jairzinho]] {{goal|61||83}}
+|goals2=
+*[[Ladislav Petráš|Petráš]] {{goal|11}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=52,897
+|referee=[[Ramón Barreto]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1770 |title=Brazil vs Czechoslovakia {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1770/index.html |title=1970 FIFA World Cup Mexico – Matches – Brazil v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228230507/http://www.fifa.com/worldcup/matches/round=250/match=1770/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _greenborder
+ |pattern_b  = _greencollar
+ |pattern_ra = _greenborder
+ |pattern_sh = _white_stripes
+ |pattern_so = _bra74hl
+ |leftarm    = FDE910
+ |body       = FDE910
+ |rightarm   = FDE910
+ |shorts     = 0070F9
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|{{Football kit
+| pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = _white_stripes
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 29459B
+ | title      = Czechoslovakia
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Félix (footballer)|Félix]]
+|-
+|RB ||'''4''' ||[[Carlos Alberto Torres|Carlos Alberto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Wilson Piazza|Piazza]]
+|-
+|CB ||'''2''' ||[[Brito (footballer, born 1939)|Brito]]
+|-
+|LB ||'''16'''||[[Everaldo (footballer, born 1944)|Everaldo]]
+|-
+|CM ||'''5''' ||[[Clodoaldo]]
+|-
+|CM ||'''8''' ||[[Gérson]] ||{{yel|31}}|| {{suboff|62}}
+|-
+|RW ||'''7''' ||[[Jairzinho]]
+|-
+|LW ||'''11'''||[[Rivellino]]
+|-
+|SS ||'''10'''||[[Pelé]]
+|-
+|CF ||'''9''' ||[[Tostão]]||{{yel|10}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Caju (footballer, born 1949)|Caju]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ivo Viktor]]
+|-
+|RB ||'''2''' ||[[Karol Dobiaš]]
+|-
+|CB ||'''5''' ||[[Alexander Horváth]] ([[Captain (association football)|c]])||{{yel|10}} 
+|-
+|CB ||'''3''' ||[[Václav Migas]]
+|-
+|LB ||'''4''' ||[[Vladimír Hagara]] 
+|-
+|CM ||'''16'''||[[Ivan Hrdlička]]|| || {{suboff|46}}
+|-
+|RCM ||'''9''' ||[[Ladislav Kuna]]
+|-
+|LCM ||'''18'''||[[František Veselý]]|| || {{suboff|75}}
+|-
+|CM ||'''8''' ||[[Ladislav Petráš]]
+|-
+|SS ||'''10'''||[[Jozef Adamec]]
+|-
+|CF ||'''11'''||[[Karol Jokl]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Andrej Kvašňák]] || || {{subon|46}}
+|-
+|MF ||'''7''' ||[[Bohumil Veselý]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Marko]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Abraham Klein (referee)|Abraham Klein]] ([[Israel Football Association|Israel]])
+<br />[[Arturo Yamasaki]] ([[Mexican Football Federation|Mexico]])
+|}
+
+===Romania vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1970|6|6|df=y}}
+|time=16:00
+|team1={{fb-rt|ROU|1965}}
+|score={{score link|1970 FIFA World Cup Group 3#Romania vs Czechoslovakia|2–1}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Alexandru Neagu|Neagu]] {{goal|52}}
+*[[Florea Dumitrache|Dumitrache]] {{goal|75|pen.}}
+|goals2=
+*[[Ladislav Petráš|Petráš]] {{goal|5}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=56,818
+|referee=[[Diego De Leo (referee)|Diego De Leo]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1919 |title=Romania vs Czechoslovakia {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1919/index.html |title=1970 FIFA World Cup Mexico – Matches – Romania v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228220907/http://www.fifa.com/worldcup/matches/round=250/match=1919/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+ |pattern_b  = 
+ |pattern_ra = 
+ |pattern_sh = _white_stripes
+ |pattern_so = 
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = 000099
+ |socks      = FF0000
+ |title      = Romania
+}}
+|{{Football kit
+| pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = _white_stripes
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Stere Adamache]]
+|-
+|RB ||'''2''' ||[[Lajos Sătmăreanu]]
+|-
+|CB ||'''3''' ||[[Nicolae Lupescu]]
+|-
+|CB ||'''5''' ||[[Cornel Dinu]]
+|-
+|LB ||'''4''' ||[[Mihai Mocanu]]
+|-
+|CM ||'''15'''||[[Ion Dumitru]]|| || {{suboff|81}}
+|-
+|CM ||'''10'''||[[Radu Nunweiller]]||{{yel|82}} 
+|-
+|RW ||'''16'''||[[Alexandru Neagu]]
+|-
+|SS ||'''7''' ||[[Emerich Dembrovschi]]
+|-
+|CF ||'''9''' ||[[Florea Dumitrache]] 
+|-
+|LW ||'''11'''||[[Mircea Lucescu]] ([[Captain (association football)|c]])|| || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Vasile Gergely]]|| || {{subon|81}}
+|-
+|FW ||'''17'''||[[Gheorghe Tătaru]]|| || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Angelo Niculescu]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Alexander Vencel (footballer, born 1944)|Alexander Vencel]]
+|-
+|RB ||'''2''' ||[[Karol Dobiaš]]
+|-
+|CB ||'''3''' ||[[Václav Migas]]
+|-
+|CB ||'''5''' ||[[Alexander Horváth]] ([[Captain (association football)|c]]) 
+|-
+|LB ||'''15'''||[[Ján Zlocha]] 
+|-
+|CM ||'''7''' ||[[Bohumil Veselý]]
+|-
+|CM ||'''6''' ||[[Andrej Kvašňák]]||{{yel|82}}
+|-
+|CM ||'''9''' ||[[Ladislav Kuna]]
+|-
+|RF ||'''8''' ||[[Ladislav Petráš]]
+|-
+|CF ||'''19'''||[[Josef Jurkanin]]|| || {{suboff|46}}
+|-
+|LF ||'''11'''||[[Karol Jokl]]|| || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Jozef Adamec]]|| || {{subon|46}}
+|-
+|FW ||'''18'''||[[František Veselý]]|| || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Marko]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />Gyula Emsberger ([[Hungarian Football Federation|Hungary]])
+<br />[[Vital Loraux]] ([[Royal Belgian Football Association|Belgium]])
+|}
+
+===Brazil vs England===
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1970|6|7|df=y}}
+|time=12:00
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1970 FIFA World Cup Group 3#Brazil vs England|1–0}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Jairzinho]] {{goal|59}}
+|goals2=
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=66,843
+|referee=[[Abraham Klein (referee)|Abraham Klein]] ([[Israel Football Association|Israel]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1764 |title=Brazil vs England {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1764/index.html |title=1970 FIFA World Cup Mexico – Matches – Brazil v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231015229/http://www.fifa.com/worldcup/matches/round=250/match=1764/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _greenborder
+ |pattern_b  = _greencollar
+ |pattern_ra = _greenborder
+ |pattern_sh = _white_stripes
+ |pattern_so = 
+ |leftarm    = FDE910
+ |body       = FDE910
+ |rightarm   = FDE910
+ |shorts     = 0070F9
+ |socks      = CCCCCC
+ |title      = Brazil
+}}
+|{{Football kit
+| pattern_la = 
+ |pattern_b  = _eng66h
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = England
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Félix (footballer)|Félix]]
+|-
+|RB ||'''4''' ||[[Carlos Alberto Torres|Carlos Alberto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Wilson Piazza|Piazza]]
+|-
+|CB ||'''2''' ||[[Brito (footballer, born 1939)|Brito]]
+|-
+|LB ||'''16'''||[[Everaldo (footballer, born 1944)|Everaldo]]
+|-
+|CM ||'''5''' ||[[Clodoaldo]]
+|-
+|CM ||'''11'''||[[Rivellino]]
+|-
+|RW ||'''7''' ||[[Jairzinho]]
+|-
+|LW ||'''18'''||[[Caju (footballer, born 1949)|Caju]]
+|-
+|SS ||'''10'''||[[Pelé]]
+|-
+|CF ||'''9''' ||[[Tostão]]|| || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Roberto Miranda|Roberto]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gordon Banks]]
+|-
+|RB ||'''14'''||[[Tommy Wright (footballer, born 1944)|Tommy Wright]]
+|-
+|CB ||'''5''' ||[[Brian Labone]]
+|-
+|CB ||'''6''' ||[[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Terry Cooper (footballer, born 1944)|Terry Cooper]]
+|-
+|DM ||'''4''' ||[[Alan Mullery]]
+|-
+|RCM ||'''8''' ||[[Alan Ball Jr.|Alan Ball]]
+|-
+|AM ||'''9''' ||[[Bobby Charlton]]|| || {{suboff|63}}
+|-
+|LCM ||'''11'''||[[Martin Peters]] 
+|-
+|CF ||'''10'''||[[Geoff Hurst]] 
+|-
+|CF ||'''7''' ||[[Francis Lee (footballer)|Francis Lee]]||{{yel|30}}|| {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Colin Bell (footballer, born 1946)|Colin Bell]] || || {{subon|63}}
+|-
+|FW ||'''22'''||[[Jeff Astle]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alf Ramsey]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Arturo Yamasaki]] ([[Mexican Football Federation|Mexico]])
+<br />[[Roger Machin]] ([[French Football Federation|France]])
+|}
+
+===Brazil vs Romania===
+<onlyinclude>{{#invoke:Football box|main|section=3-5
+|date={{Start date|1970|6|10|df=y}}
+|time=16:00
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1970 FIFA World Cup Group 3#Brazil vs Romania|3–2}}
+|team2={{fb|ROU|1965}}
+|goals1=
+*[[Pelé]] {{goal|19||67}}
+*[[Jairzinho]] {{goal|22}}
+|goals2=
+*[[Florea Dumitrache|Dumitrache]] {{goal|34}}
+*[[Emerich Dembrovschi|Dembrovschi]] {{goal|84}}
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=50,804
+|referee=[[Ferdinand Marschall]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1769 |title=Brazil vs Romania {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1769/index.html |title=1970 FIFA World Cup Mexico – Matches – Brazil v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231153700/http://www.fifa.com/worldcup/matches/round=250/match=1769/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _greenborder
+ |pattern_b  = _greencollar
+ |pattern_ra = _greenborder
+ |pattern_sh = _white_stripes
+ |pattern_so = _bra74hl
+ |leftarm    = FDE910
+ |body       = FDE910
+ |rightarm   = FDE910
+ |shorts     = 0070F9
+ |socks      = FFFFFF
+ |title      = Brazil
+}}
+|{{Football kit
+| pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = 
+ | leftarm    = 87CEFA
+ | body       = 87CEFA
+ | rightarm   = 87CEFA
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Romania
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Félix (footballer)|Félix]]
+|-
+|RB ||'''4''' ||[[Carlos Alberto Torres|Carlos Alberto]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Brito (footballer, born 1939)|Brito]]
+|-
+|CB ||'''15'''||[[Fontana (footballer)|Fontana]]
+|-
+|LB ||'''16'''||[[Everaldo (footballer, born 1944)|Everaldo]]|| || {{suboff|60}}
+|-
+|CM ||'''3''' ||[[Wilson Piazza|Piazza]]
+|-
+|CM ||'''5''' ||[[Clodoaldo]]|| || {{suboff|74}}
+|-
+|RW ||'''7''' ||[[Jairzinho]]
+|-
+|LW ||'''18'''||[[Caju (footballer, born 1949)|Caju]]
+|-
+|SS ||'''10'''||[[Pelé]]
+|-
+|CF ||'''9''' ||[[Tostão]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Marco Antônio (footballer, born 1951)|Marco Antônio]]|| || {{subon|60}}
+|-
+|FW ||'''19'''||[[Edu (footballer, born 1949)|Edu]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Stere Adamache]]|| || {{suboff|27}}
+|-
+|RB ||'''2''' ||[[Lajos Sătmăreanu]]
+|-
+|CB ||'''3''' ||[[Nicolae Lupescu]]
+|-
+|CB ||'''5''' ||[[Cornel Dinu]]
+|-
+|LB ||'''4''' ||[[Mihai Mocanu]]||{{yel|78}} 
+|-
+|CM ||'''15'''||[[Ion Dumitru]]||{{yel|44}} 
+|-
+|CM ||'''10'''||[[Radu Nunweiller]]
+|-
+|RW ||'''16'''||[[Alexandru Neagu]]
+|-
+|SS ||'''7''' ||[[Emerich Dembrovschi]]
+|-
+|CF ||'''9''' ||[[Florea Dumitrache]]|| || {{suboff|72}} 
+|-
+|LW ||'''11'''||[[Mircea Lucescu]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''1''' ||[[Necula Răducanu]]|| || {{subon|27}}
+|-
+|FW ||'''17'''||[[Gheorghe Tătaru]]|| || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Angelo Niculescu]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Ramón Barreto]] ([[Uruguayan Football Association|Uruguay]])
+<br />[[Vital Loraux]] ([[Royal Belgian Football Association|Belgium]])
+|}
+
+===England vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=3-6
+|date={{Start date|1970|6|11|df=y}}
+|time=16:00
+|team1={{fb-rt|ENG}}
+|score={{score link|1970 FIFA World Cup Group 3#England vs Czechoslovakia|1–0}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Allan Clarke (footballer)|Clarke]] {{goal|50|pen.}}
+|goals2=
+|stadium=[[Estadio Jalisco]], [[Guadalajara]]
+|attendance=49,292
+|referee=[[Roger Machin]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1813 |title=England vs Czechoslovakia {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1813/index.html |title=1970 FIFA World Cup Mexico – Matches – England v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228224832/http://www.fifa.com/worldcup/matches/round=250/match=1813/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+ |pattern_b  = _eng70t
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = a3c9ff
+ |body       = a3c9ff
+ |rightarm   = a3c9ff
+ |shorts     = a3c9ff
+ |socks      = a3c9ff
+ |title      = England
+}}
+|{{Football kit
+| pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gordon Banks]]
+|-
+|DF ||'''2''' ||[[Keith Newton (footballer)|Keith Newton]] 
+|-
+|DF ||'''17'''||[[Jack Charlton]] 
+|-
+|DF ||'''6''' ||[[Bobby Moore]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[Terry Cooper (footballer, born 1944)|Terry Cooper]]
+|-
+|MF ||'''4''' ||[[Alan Mullery]]
+|-
+|MF ||'''19'''||[[Colin Bell (footballer, born 1946)|Colin Bell]] 
+|-
+|MF ||'''9''' ||[[Bobby Charlton]]|| || {{suboff|65}}
+|-
+|MF ||'''11'''||[[Martin Peters]] 
+|-
+|FW ||'''21'''||[[Allan Clarke (footballer)|Allan Clarke]]
+|-
+|FW ||'''22'''||[[Jeff Astle]]|| || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Alan Ball Jr.|Alan Ball]]|| || {{subon|65}}
+|-
+|FW ||'''20'''||[[Peter Osgood]]|| || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alf Ramsey]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ivo Viktor]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Karol Dobiaš]]||{{yel|78}}
+|-
+|DF ||'''3''' ||[[Václav Migas]]
+|-
+|DF ||'''14'''||[[Vladimír Hrivnák]]
+|-
+|DF ||'''4''' ||[[Vladimír Hagara]]
+|-
+|MF ||'''17'''||[[Jaroslav Pollák]]
+|-
+|MF ||'''9''' ||[[Ladislav Kuna]]
+|-
+|MF ||'''18'''||[[František Veselý]]
+|-
+|MF ||'''8''' ||[[Ladislav Petráš]]
+|-
+|FW ||'''10'''||[[Jozef Adamec]]
+|-
+|FW ||'''21'''||[[Ján Čapkovič]]|| || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Karol Jokl]]|| || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Marko]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />Gyula Emsberger ([[Hungarian Football Federation|Hungary]])
+<br />[[Ferdinand Marschall]] ([[Austrian Football Association|Austria]])
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Czech Republic at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[Romania at the FIFA World Cup]]
+*[[Slovakia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1970 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1970 FIFA World Cup group stage|3]]
+[[Category:Brazil at the 1970 FIFA World Cup|Group]]
+[[Category:Czechoslovakia at the 1970 FIFA World Cup]]
+[[Category:Romania at the 1970 FIFA World Cup|Group]]
+[[Category:England at the 1970 FIFA World Cup|Group]]
+[[Category:Football in Guadalajara, Jalisco]]
+[[Category:20th century in Guadalajara, Jalisco]]

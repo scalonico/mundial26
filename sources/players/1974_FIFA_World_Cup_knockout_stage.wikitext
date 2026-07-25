@@ -1,0 +1,175 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=May 2018}}
+The knockout stage of [[1974 FIFA World Cup]] was a [[single-elimination tournament]] involving the four teams that qualified from [[1974 FIFA World Cup#Second round|the second group stage of the tournament]]. There were two matches: a match for third place contested by the group runners-up, and the final to decide the champions, contested by the group winners.<ref>{{cite web |url=https://www.rsssf.org/tables/74full.html |title=World Cup 1974 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The knockout stage began with the match for third place on 6 July and ended with the [[1974 FIFA World Cup final|final]] on 7 July 1974, both at the [[Olympiastadion (Munich)|Olympiastadion]] in [[Munich]]. [[Germany national football team|West Germany]] won the tournament with a 2–1 victory over the [[Netherlands national football team|Netherlands]].<ref>{{cite web |url = http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4850426.stm |title = World Cup history - West Germany 1974 |work = BBC Sport |publisher = British Broadcasting Corporation |date = 4 May 2006 |accessdate = 27 July 2012}}</ref>
+
+==Qualified teams==
+The top two placed teams from each of the two groups of the second round qualified for the knockout stage.
+
+{| class=wikitable
+|-
+! Group
+!width="275"| Winners<br />(qualification for final)
+!width="275"| Runners-up<br />(qualification for match for third place)
+|-
+! [[1974 FIFA World Cup Group A|A]]
+| {{fb|NED}}
+| {{fb|BRA|1968}}
+|-
+! [[1974 FIFA World Cup Group B|B]]
+| {{fb|FRG}}
+| {{fb|POL|1928}}
+|}
+
+==Match for third place==
+<section begin=TPP />{{Football box
+|date={{Start date|1974|7|6|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1974 FIFA World Cup knockout stage#Match for third place|0–1}}
+|team2={{fb|POL|1928}}
+|goals1=
+|goals2=
+*[[Grzegorz Lato|Lato]] {{goal|76}}
+|stadium=[[Olympiastadion (Munich)|Olympiastadion]], [[Munich]]
+|attendance=77,100
+|referee=[[Aurelio Angonese]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/264/1984 |title=Brazil vs Poland {{!}} Match for third place {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=264/match=1984/index.html |title=1974 FIFA World Cup Germany – Matches – Brazil v Poland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212132822/http://www.fifa.com/worldcup/matches/round=264/match=1984/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=TPP />
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _greencollar
+ | pattern_ra = _greenborder
+ | pattern_sh = _blue stripes
+ | pattern_so = _BRAhome0710
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Brazil
+ }}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_alt
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes_alt
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_white
+ | leftarm    = ff0000
+ | body       = ff0000
+ | rightarm   = ff0000
+ | shorts     = ff0000
+ | socks      = ff0000
+ | title      = Poland
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Émerson Leão]]
+|-
+|DF ||'''3''' ||[[Marinho Peres]]
+|-
+|DF ||'''4''' ||[[Zé Maria (footballer, born 1949)|Zé Maria]]
+|-
+|DF ||'''6''' ||[[Marinho Chagas]]
+|-
+|DF ||'''15'''||[[Alfredo (footballer, born 1946)|Alfredo]]
+|-
+|MF ||'''10'''||[[Rivellino]]
+|-
+|MF ||'''17'''||[[Paulo César Carpegiani|Carpegiani]]
+|-
+|MF ||'''18'''||[[Ademir da Guia]]|| ||{{suboff|66}}
+|-
+|MF ||'''7''' ||[[Jairzinho]] ||{{yel|76}}
+|-
+|FW ||'''13'''||[[Valdomiro (footballer, born 1946)|Valdomiro]]
+|-
+|FW ||'''21'''||[[Dirceu]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Mirandinha (footballer, born 1952)|Mirandinha]] || ||{{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Jan Tomaszewski]]
+|-
+|DF ||'''4''' ||[[Antoni Szymanowski]]
+|-
+|DF ||'''6''' ||[[Jerzy Gorgoń]]
+|-
+|DF |||'''9'''||[[Władysław Żmuda (born 1954)|Władysław Żmuda]]
+|-
+|DF ||'''10'''||[[Adam Musiał]]
+|-
+|MF ||'''12'''||[[Kazimierz Deyna]]
+|-
+|MF ||'''13'''||[[Henryk Kasperczak]] || {{yel|71}} || {{suboff|73}}
+|-
+|MF ||'''14'''||[[Zygmunt Maszczyk]]
+|-
+|MF ||'''16'''||[[Grzegorz Lato]]
+|-
+|FW ||'''17'''||[[Andrzej Szarmach]] || || {{suboff|75}}
+|-
+|FW ||'''18'''||[[Robert Gadocha]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Lesław Ćmikiewicz]] || || {{subon|73}}
+|-
+|FW ||'''20'''||[[Zdzisław Kapka]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Kazimierz Górski]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Jafar Namdar]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />[[Youssou N'Diaye]] ([[Senegalese Football Federation|Sénégal]])
+|}
+
+==Final==
+{{main|1974 FIFA World Cup final}}
+
+{{#lst:1974 FIFA World Cup final|Final}}
+{{#lst:1974 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1974germany 1974 FIFA World Cup archive]
+
+{{1974 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:1974 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1974]]
+[[Category:Netherlands at the 1974 FIFA World Cup]]
+[[Category:West Germany at the 1974 FIFA World Cup]]
+[[Category:Brazil at the 1974 FIFA World Cup]]
+[[Category:Poland at the 1974 FIFA World Cup]]
+[[Category:Football competitions in Munich]]
+[[Category:1970s in Munich]]

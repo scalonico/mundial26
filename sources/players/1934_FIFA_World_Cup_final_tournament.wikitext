@@ -1,0 +1,2110 @@
+{{Short description|1934 single-elimination tournament}}
+{{Use dmy dates|date=May 2018}}
+The final tournament of the [[1934 FIFA World Cup]] was a [[single-elimination tournament]] involving the 16 teams which qualified for the tournament. The tournament began with the round of 16 on 27 May and concluded with the [[1934 FIFA World Cup final|final]] on 10 June 1934. [[Italy national football team|Italy]] won the final 2–1 for their first World Cup title.<ref>{{cite news |last=Molinaro |first=John F. |url=http://www.cbc.ca/sports/soccer/1934-world-cup-italy-wins-for-il-duce-1.845220 |title=1934 World Cup: Italy wins for Il Duce |website=[[CBC Sports]] |publisher=[[Canadian Broadcasting Corporation]] |date=24 November 2009 |access-date=21 May 2018}}</ref>
+
+==Bracket==
+<section begin=Bracket />
+{{Round16 
+|style=white-space:nowrap|widescore=yes
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!--Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+<!-- first round -->
+|27 May – [[Rome]] |'''{{fb|ITA|1861}}'''|'''7'''|{{fb|USA|1912}}|1
+|27 May – [[Genoa]] |'''{{fb|ESP|1931}}'''|'''3'''|{{fb|BRA|1889}}|1
+|27 May – [[Turin]] |'''{{fb|AUT}}''' {{aet}}|'''3'''|{{fb|FRA|1794}}|2
+|27 May – [[Naples]] |'''{{fb|HUN|1920}}'''|'''4'''|{{fb|EGY|1922}}|2
+|27 May – [[Trieste]] |'''{{fb|CSK}}'''|'''2'''|{{fb|ROU}}|1
+|27 May – [[Milan]] |'''{{fb|SUI}}'''|'''3'''|{{fb|NED}}|2
+|27 May – [[Florence]] |'''{{fb|GER|1933}}'''|'''5'''|{{fb|BEL}}|2
+|27 May – [[Bologna]] |'''{{fb|SWE}}'''|'''3'''|{{fb|ARG|1861}}|2
+
+<!-- quarter-finals -->
+|31 May / 1 June – [[Florence]] |'''{{fb|ITA|1861}}''' ([[Replay (sports)|replay]])|'''1 / 1'''|{{fb|ESP|1931}}|1 / 0
+|31 May – [[Bologna]] |'''{{fb|AUT}}'''|'''2'''|{{fb|HUN|1920}}|1
+|31 May – [[Turin]] |'''{{fb|CSK}}'''|'''3'''|{{fb|SUI}}|2
+|31 May – [[Milan]] |'''{{fb|GER|1933}}'''|'''2'''|{{fb|SWE}}|1
+
+<!-- semi-finals -->
+|3 June – [[Milan]] |'''{{fb|ITA|1861}}'''|'''1'''|{{fb|AUT}}|0
+|3 June – [[Rome]] |'''{{fb|CSK}}'''|'''3'''|{{fb|GER|1933}}|1
+
+<!-- final -->
+|10 June – [[Rome]] |'''{{fb|ITA|1861}}''' {{aet}}|'''2'''|{{fb|CSK}}|1
+<!-- third place -->
+|7 June – [[Naples]] |'''{{fb|GER|1933}}'''|'''3'''|{{fb|AUT}}|2
+}}<section end=Bracket />
+
+==Round of 16==
+
+===Spain vs Brazil===
+Brazil – who had only kept [[Carvalho Leite]] from the squad participating in the [[1930 FIFA World Cup|previous edition of the World Cup]] – were outclassed by Spain in the first half, who scored thrice. In the second half, Spanish players played more complacently. [[Leônidas (footballer, born 1913)|Leônidas]] pulled one back for Brazil, then he scored again moments later, but the goal was disallowed for offside. Later, [[Ricardo Zamora]] saved a penalty from [[Waldemar de Brito]].<ref name="fiedler" />
+
+<section begin=R16-1 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|ESP|1931}}
+|score={{score link|1934 FIFA World Cup final tournament#Spain vs Brazil|3–1}}
+|team2={{fb|BRA|1889}}
+|goals1=
+*[[José Iraragorri|Iraragorri]] {{goal|18|pen.|25}}
+*[[Isidro Lángara|Lángara]] {{goal|29}}
+|goals2=
+*[[Leônidas (footballer, born 1913)|Leônidas]] {{goal|55}}
+|stadium=[[Stadio Luigi Ferraris]], [[Genoa]]
+|attendance=21,000
+|referee=[[Alfred Birlem]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1111 |title=Spain vs Brazil {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1111/index.html |title=1934 FIFA World Cup Italy – Matches – Spain v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212131334/http://www.fifa.com/worldcup/matches/round=204/match=1111/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=R16-1 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _esp3138
+ | pattern_ra =
+ | pattern_so = _esp2124
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 003060
+ | socks      = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _bluecollar_2
+ | pattern_ra = _blueborder
+ | pattern_so = _brasil1930
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 0000FF
+ | socks      = 000000
+ | title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Ricardo Zamora]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Ciriaco Errasti|Ciriaco]]
+|-
+|LB ||[[Jacinto Quincoces]]
+|-
+|RH ||[[Leonardo Cilaurren]]
+|-
+|CH ||[[José Muguerza]]
+|-
+|LH ||[[Martín Marculeta]]
+|-
+|OR ||[[Ramón de la Fuente Leal|Lafuente]]
+|-
+|IR ||[[José Iraragorri]]
+|-
+|IL ||[[Simón Lecue]]
+|-
+|OL ||[[Guillermo Gorostiza]]
+|-
+|CF ||[[Isidro Lángara]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Amadeo García]]
+|}
+|valign="top"|[[File:ESP-BRA 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Roberto Gomes Pedrosa]]
+|-
+|RB ||[[Sylvio Hoffmann]]
+|-
+|LB ||[[Luiz Luz]]
+|-
+|RH ||[[Alfredo Alves Tinoco]]
+|-
+|CH ||[[Martim Silveira]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Heitor Canalli]]
+|-
+|OR ||[[Luís Mesquita de Oliveira|Luisinho]]
+|-
+|IR ||[[Waldemar de Brito]]
+|-
+|IL ||[[Leônidas (footballer, born 1913)|Leônidas]]
+|-
+|OL ||[[Rodolpho Barteczko|Patesko]]
+|-
+|CF ||[[Armandinho (footballer)|Armandinho]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Luiz Vinhaes]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Ettore Carminati]] ([[Italian Football Federation|Italy]])
+<br />[[Mihály Ivanicsics]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Hungary vs Egypt===
+Hungary scored twice in 31 minutes. Rather than being disheartened, Egypt showed a positive attitude and leveled with two goals from [[Abdulrahman Fawzi]]. In the second half, Hungary played better and dictated the tempo, scoring two more goals and deserving to reach the quarter-finals.<ref name="fiedler" />
+
+<section begin=R16-2 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|HUN|1920}}
+|score={{score link|1934 FIFA World Cup final tournament#Hungary vs Egypt|4–2}}
+|team2={{fb|EGY|1922}}
+|goals1=
+*[[Pál Teleki (footballer)|Teleki]] {{goal|11}}
+*[[Géza Toldi|Toldi]] {{goal|31||61}}
+*[[Jenő Vincze|Vincze]] {{goal|53}}
+|goals2=
+*[[Abdulrahman Fawzi|Fawzi]] {{goal|35||39}}
+|stadium=[[Stadio Giorgio Ascarelli]], [[Naples]]
+|attendance=9,000
+|referee=[[Rinaldo Barlassina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1119 |title=Hungary vs Egypt {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1119/index.html |title=1934 FIFA World Cup Italy – Matches – Hungary v Egypt |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212234234/http://www.fifa.com/worldcup/matches/round=204/match=1119/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=R16-2 />
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=
+|pattern_b=_vneck transparent
+|pattern_ra=
+|pattern_so =_band_DarkRed
+|pattern_sh = 
+|leftarm=8B0000
+|body=8B0000
+|rightarm=8B0000
+|shorts=8B0000
+|socks=008000
+ | title      = Hungary
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _collarwhite
+ | pattern_ra = 
+ | pattern_so = _band_black
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Egypt
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Antal Szabó]]
+|-
+|RB ||[[Gyula Futó]]
+|-
+|LB ||[[László Sternberg]] ([[Captain (association football)|c]])
+|-
+|RH ||[[István Palotás]]
+|-
+|CH ||[[György Szűcs]]
+|-
+|LH ||[[Gyula Lázár]]
+|-
+|OR ||[[Imre Markos]]
+|-
+|IR ||[[Jenő Vincze]]
+|-
+|IL ||[[Géza Toldi]]
+|-
+|OL ||[[Gábor P. Szabó]]
+|-
+|CF ||[[Pál Teleki (footballer)|Pál Teleki]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Ödön Nádas]]
+|}
+|valign="top"|[[File:HUN-EGY 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Mustafa Mansour]]
+|-
+|RB ||[[Ali El-Kaf]]
+|-
+|LB ||[[Ibrahim Abdel Hamidu Sharli]]
+|-
+|RH ||[[Hassan El-Far]]
+|-
+|CH ||[[Ismail Rafaat]]
+|-
+|LH ||[[Hassan Raghab]]
+|-
+|OR ||[[Mohamed Latif]]
+|-
+|IR ||[[Abdulrahman Fawzi]]
+|-
+|IL ||[[Mostafa Taha]]
+|-
+|OL ||[[Mohammed Hassan (footballer, born 1905)|Mohammed Hassan]]
+|-
+|CF ||[[Mahmoud Mokhtar El-Tetsh]] ([[Captain (association football)|c]])
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[James McCrae (footballer)|James McCrae]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Generoso Dattilo]] ([[Italian Football Federation|Italy]])
+<br />[[Otello Sassi]] ([[Italian Football Federation|Italy]])
+|}
+
+===Switzerland vs Netherlands===
+Netherlands were narrowly defeated by Switzerland. Switzerland took an early lead thanks to [[Leopold Kielholz]] finishing off a good piece of play from [[André Abegglen]]. Netherlands equalised with [[Kick Smit]], who converted a free-kick by [[Puck van Heel]]. Kielholz restored the Swiss advantage before half-time with a long-range effort. After the interval, the lead was extended thanks to Abegglen's goal. Netherlands frequently threatened the Swiss goal, scoring one from a free-kick, but Switzerland held on for the victory.<ref name="fiedler" />
+
+<section begin=R16-3 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|SUI}}
+|score={{score link|1934 FIFA World Cup final tournament#Switzerland vs Netherlands|3–2}}
+|team2={{fb|NED}}
+|goals1=
+*[[Leopold Kielholz|Kielholz]] {{goal|7||43}}
+*[[André Abegglen|Abegglen]] {{goal|66}}
+|goals2=
+*[[Kick Smit|Smit]] {{goal|29}}
+*[[Leen Vente|Vente]] {{goal|69}}
+|stadium=[[Stadio Giuseppe Meazza|Stadio San Siro]], [[Milan]]
+|attendance=33,000
+|referee=[[Ivan Eklind]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1133 |title=Switzerland vs Netherlands {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1133/index.html |title=1934 FIFA World Cup Italy – Matches – Switzerland v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170801224428/http://www.fifa.com/worldcup/matches/round=204/match=1133/index.html |archive-date=1 August 2017}} }}</ref>
+}}<section end=R16-3 />
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=
+|pattern_b=_vneck transparent
+|pattern_ra=
+|pattern_so =_band_red
+|pattern_sh = 
+|leftarm=FF0000
+|body=FF0000
+|rightarm=FF0000
+|shorts=FFFFFF
+|socks=000000
+ | title      = Switzerland
+}}
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _collar
+| pattern_ra = 
+| pattern_sh =
+| pattern_so = _band_white
+| leftarm=000080
+|body=000080
+|rightarm=000080
+|shorts=000080
+|socks=87CEFA
+ | title      = Netherlands
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Frank Séchehaye]]
+|-
+|RB ||[[Severino Minelli]] ([[Captain (association football)|c]])
+|-
+|LB ||[[Walter Weiler]]
+|-
+|RH ||[[Albert Guinchard]]
+|-
+|CH ||[[Fernand Jaccard]]
+|-
+|LH ||[[Ernst Hufschmid (footballer)|Ernst Hufschmid]]
+|-
+|OR ||[[Willy von Känel]]
+|-
+|IR ||[[Raymond Passello]]
+|-
+|IL ||[[André Abegglen]]
+|-
+|OL ||[[Joseph Bossi]]
+|-
+|CF ||[[Leopold Kielholz]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Heinrich Müller (footballer, born 1888)|Heinrich Müller]]
+|}
+|valign="top"|[[File:SUI-NED 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Gejus van der Meulen]]
+|-
+|RB ||[[Mauk Weber]]
+|-
+|LB ||[[Sjef van Run]]
+|-
+|RH ||[[Henk Pellikaan]]
+|-
+|CH ||[[Wim Anderiesen]]
+|-
+|LH ||[[Puck van Heel]] ([[Captain (association football)|c]])
+|-
+|OR ||[[Frank Wels]]
+|-
+|IR ||[[Leen Vente]]
+|-
+|IL ||[[Kick Smit]]
+|-
+|OL ||[[Joop van Nellen]]
+|-
+|CF ||[[Beb Bakhuys]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Bob Glendenning]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Alois Beranek]] ([[Austrian Football Association|Austria]])
+<br />[[Ferruccio Bonivento]] ([[Italian Football Federation|Italy]])
+|}
+
+===Italy vs United States===
+A superior Italian team had a comfortable victory against the United States, which had played against Mexico in the qualifying just three days earlier. Schiavio scored two goals in the first half, one of which was from more than 30 yards out. A good performance from the US goalkeeper [[Julius Hjulian]] did not prevent Italy scoring seven goals before the final whistle.<ref name="fiedler" >{{Cite book |title=The Complete History of the World Cup |last=Fielder |first=Robert |publisher=Kindle Edition |year=2018}}</ref>
+
+<section begin=R16-4 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1934 FIFA World Cup final tournament#Italy vs United States|7–1}}
+|team2={{fb|USA|1912}}
+|goals1=
+*[[Angelo Schiavio|Schiavio]] {{goal|18||29||64}}
+*[[Raimundo Orsi|Orsi]] {{goal|20||69}}
+*[[Giovanni Ferrari|Ferrari]] {{goal|63}}
+*[[Giuseppe Meazza|Meazza]] {{goal|90}}
+|goals2=
+*[[Aldo Donelli|Donelli]] {{goal|57}}
+|stadium=[[Stadio Nazionale PNF]], [[Rome]]
+|attendance=25,000
+|referee=[[René Mercet]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1135 |title=Italy vs United States {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1135/index.html |title=1934 FIFA World Cup Italy – Matches – Italy v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211073517/http://www.fifa.com/worldcup/matches/round=204/match=1135/index.html |archive-date=11 December 2017}} }}</ref>
+}}<section end=R16-4 />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la =_Italia1927-1943h
+ | pattern_b  = _colour vneck
+| pattern_ra =_Italia1927-1943h
+| pattern_sh =_Italiah
+| pattern_so =_Italia1927-1943h
+ | leftarm    = 426DA5
+ | body       = 426DA5
+ | rightarm   = 426DA5
+ | shorts     = ffffff
+ | socks      = 000000
+ | title      = Italy
+}}
+|{{Football kit
+| pattern_la = _whiteborder
+| pattern_b = _vneckwhite
+| pattern_ra = _whiteborder
+| pattern_sh = _shorts
+ | pattern_so = _band_blue
+ | leftarm    = DB000D
+ | body       = DB000D
+ | rightarm   = DB000D
+ | shorts     = ffffff
+ | socks      = DB000D
+ | title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Gianpiero Combi]] 
+|-
+|RB ||[[Virginio Rosetta]] ([[Captain (association football)|c]])
+|-
+|LB ||[[Luigi Allemandi]]
+|-
+|RH ||[[Mario Pizziolo]]
+|-
+|CH ||[[Luis Monti]]
+|-
+|LH ||[[Luigi Bertolini]]
+|-
+|OR ||[[Anfilogino Guarisi]]
+|-
+|IR ||[[Giuseppe Meazza]]
+|-
+|IL ||[[Giovanni Ferrari]]
+|-
+|OL ||[[Raimundo Orsi]]
+|-
+|CF ||[[Angelo Schiavio]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-USA 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Julius Hjulian]]
+|-
+|RB ||[[Ed Czerkiewicz]]
+|-
+|LB ||[[George Moorhouse]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Peter Pietras]]
+|-
+|CH ||[[Billy Gonsalves]]
+|-
+|LH ||[[Tom Florie]]
+|-
+|OR ||[[Francis Ryan]]
+|-
+|IR ||[[Werner Nilsen]]
+|-
+|IL ||[[Walter Dick]]
+|-
+|OL ||[[Willie McLean (soccer, born 1904)|Willie McLean]]
+|-
+|CF ||[[Aldo Donelli]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{Flagdeco|Scotland|1542}} [[David Gould]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Pedro Escartín]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Bohumil Ženišek]] ([[Czechoslovak Football Association|Czechoslovakia]])
+|}
+
+===Czechoslovakia vs Romania===
+Romania were the underdogs, yet they went ahead after just 11 minutes with a close range goal from [[Ștefan Dobay]]. After [[Silviu Bindea]] missed an opportunity to double Romania's advantage, Czechoslovakia scored twice and held on for the victory.<ref name="fiedler" />
+
+<section begin=R16-5 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|CSK}}
+|score={{score link|1934 FIFA World Cup final tournament#Czechoslovakia vs Romania|2–1}}
+|team2={{fb|ROU}}
+|goals1=
+*[[Antonín Puč|Puč]] {{goal|50}}
+*[[Oldřich Nejedlý|Nejedlý]] {{goal|67}}
+|goals2=
+*[[Ștefan Dobay|Dobay]] {{goal|11}}
+|stadium=[[Stadio Giuseppe Grezar|Stadio Littorio]], [[Trieste]]
+|attendance=9,000
+|referee=[[John Langenus]] ([[Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1141 |title=Czechoslovakia vs Romania {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1141/index.html |title=1934 FIFA World Cup Italy – Matches – Czechoslovakia v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213022419/http://www.fifa.com/worldcup/matches/round=204/match=1141/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=R16-5 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _vneck
+ | pattern_ra =
+ | pattern_so = _band_white
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = A93226
+ | socks      = 0000FF
+ | title      = Czechoslovakia
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | pattern_so = _band_red
+ | leftarm    = DB000D
+ | body       = DB000D
+ | rightarm   = DB000D
+ | shorts     = 0000FF
+ | socks      = 000000
+ | title      = Romania
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[František Plánička]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Ladislav Ženíšek]]
+|-
+|LB ||[[Josef Čtyřoký]]
+|-
+|RH ||[[Josef Košťálek]]
+|-
+|CH ||[[Štefan Čambal]]
+|-
+|LH ||[[Rudolf Krčil]]
+|-
+|OR ||[[František Junek]]
+|-
+|IR ||[[Josef Silný]]
+|-
+|IL ||[[Oldřich Nejedlý]]
+|-
+|OL ||[[Antonín Puč]]
+|-
+|CF ||[[Jiří Sobotka]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Karel Petrů]]
+|}
+|valign="top"|[[File:TCH-ROU 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Vilmos Zombori]]
+|-
+|RB ||[[Emerich Vogl]] ([[Captain (association football)|c]])
+|-
+|LB ||[[Gheorghe Albu]]
+|-
+|RH ||[[Vasile Deheleanu]]
+|-
+|CH ||[[Rudolf Kotormány]]
+|-
+|LH ||[[József Moravetz]]
+|-
+|OR ||[[Silviu Bindea]]
+|-
+|IR ||[[Nicolae Kovács]]
+|-
+|IL ||[[Iuliu Bodola]]
+|-
+|OL ||[[Ștefan Dobay]]
+|-
+|CF ||[[Grațian Sepi]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Josef Uridil]] and [[Constantin Rădulescu (footballer, born 1896)|Costel Rădulescu]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Giuseppe Scarpi]] ([[Italian Football Federation|Italy]])
+<br />[[Raffaele Scorzoni]] ([[Italian Football Federation|Italy]])
+|}
+
+===Sweden vs Argentina===
+Argentina proved a shadow of the team that was finalist in the [[1930 FIFA World Cup|1930 World Cup]]. In fact, they presented a roster of newcomers as only [[Alfredo Devincenzi]] and [[Arcadio López]] were previously capped by the team. Argentina took the lead with a 25-yard free kick by [[Ernesto Belis]]. A more organised Sweden team soon equalized with [[Sven Jonasson]]. Argentina showed an excellent attacking prowess and went ahead again with an individual effort from [[Alberto Galateo]]. However, an efficient Sweden team took advantage of the defensive weakness of Argentina to score twice before the final whistle and hold on for the victory.<ref name="fiedler" />
+
+<section begin=R16-6 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|SWE|1906}}
+|score={{score link|1934 FIFA World Cup final tournament#Sweden vs Argentina|3–2}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Sven Jonasson|Jonasson]] {{goal|9||67}}
+*[[Knut Kroon|Kroon]] {{goal|79}}
+|goals2=
+*[[Ernesto Belis|Belis]] {{goal|4}}
+*[[Alberto Galateo|Galateo]] {{goal|48}}
+|stadium=[[Stadio Renato Dall'Ara|Stadio Littoriale]], [[Bologna]]
+|attendance=14,000
+|referee=[[Eugen Braun]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1102 |title=Sweden vs Argentina {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1102/index.html |title=1934 FIFA World Cup Italy – Matches – Sweden v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211223520/http://www.fifa.com/worldcup/matches/round=204/match=1102/index.html |archive-date=11 December 2017}} }}</ref>
+}}<section end=R16-6 />
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=
+|pattern_b=  _swe34h
+|pattern_ra=
+|pattern_sh = 
+|pattern_so = _2_gold_stripes
+|leftarm  =FFDD33
+|body  = FFDD33
+|rightarm = FFDD33
+|shorts   = 8383FF
+|socks   = 000000
+ | title      = Sweden
+}}
+|{{Football kit
+ | pattern_la = _white_stripes
+ | pattern_b  = _3stripesonwhite
+ | pattern_ra = _white_stripes
+ | pattern_sh =
+ | pattern_so = _white_bands
+ | leftarm    = 99CCFF
+ | body       = 99CCFF
+ | rightarm   = 99CCFF
+ | shorts     = 999999
+ | socks      = 000000
+ | title      = Argentina
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Anders Rydberg]]
+|-
+|RB ||[[Nils Axelsson]]
+|-
+|LB ||[[Sven Andersson (footballer, born 1907)|Sven Andersson]]
+|-
+|RH ||[[Rune Carlsson]]
+|-
+|CH ||[[Nils Rosén (footballer)|Nils Rosén]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Ernst Andersson]]
+|-
+|OR ||[[Gösta Dunker]]
+|-
+|IR ||[[Ragnar Gustavsson]]
+|-
+|IL ||[[Tore Keller]]
+|-
+|OL ||[[Knut Kroon]]
+|-
+|CF ||[[Sven Jonasson]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[József Nagy (footballer, born 1892)|József Nagy]]
+|}
+|valign="top"|[[File:SWE-ARG 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Héctor Freschi]]
+|-
+|RB ||[[Juan Pedevilla]]
+|-
+|LB ||[[Ernesto Belis]]
+|-
+|RH ||[[José Nehin]]
+|-
+|CH ||[[Constantino Urbieta Sosa]]
+|-
+|LH ||[[Arcadio López]]
+|-
+|OR ||[[Francisco Rúa]]
+|-
+|IR ||[[Federico Wilde]]
+|-
+|IL ||[[Alberto Galateo]]
+|-
+|OL ||[[Roberto Irañeta]]
+|-
+|CF ||[[Alfredo Devincenzi]] ([[Captain (association football)|c]])
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Felipe Pascucci]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Albino Carraro]] ([[Italian Football Federation|Italy]])
+<br />[[Giuseppe Turbiani]] ([[Italian Football Federation|Italy]])
+|}
+
+===Austria vs France===
+France took the lead with a goal from [[Jean Nicolas]], who had suffered a head injury in the early stages of the match. Austria drew level on the brink of half time thanks to a goal from the star [[Matthias Sindelar]]. An uneventful second half followed, so the match became the first in the history of World Cup to go to extra time. In the extra time, Austria prevailed and scored twice before France got a late second goal from the spot.<ref name="fiedler"/>
+
+<section begin=R16-7 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|AUT}}
+|score={{score link|1934 FIFA World Cup final tournament#Austria vs France|3–2}}
+|aet=yes
+|team2={{fb|FRA|1794}}
+|goals1=
+*[[Matthias Sindelar|Sindelar]] {{goal|44}}
+*[[Anton Schall|Schall]] {{goal|93}}
+*[[Josef Bican|Bican]] {{goal|109}}
+|goals2=
+*[[Jean Nicolas|Nicolas]] {{goal|18}}
+*[[Georges Verriest|Verriest]] {{goal|116|pen.}}
+|stadium=[[Stadio Grande Torino|Stadio Benito Mussolini]], [[Turin]]
+|attendance=16,000
+|referee=[[Johannes van Moorsel]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1104 |title=Austria vs France {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1104/index.html |title=1934 FIFA World Cup Italy – Matches – Austria v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219065945/http://www.fifa.com/worldcup/matches/round=204/match=1104/index.html |archive-date=19 December 2017}} }}</ref>
+}}<section end=R16-7 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _vneck
+ | pattern_ra =
+ | pattern_so = _band_white
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | pattern_so = 
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = ffffff
+ | socks      = DB000D
+ | title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Peter Platzer]]
+|-
+|RB ||[[Franz Cisar]]
+|-
+|LB ||[[Karl Sesta]]
+|-
+|RH ||[[Franz Wagner (footballer)|Franz Wagner]]
+|-
+|CH ||[[Josef Smistik]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Johann Urbanek]]
+|-
+|OR ||[[Karl Zischek]]
+|-
+|IR ||[[Josef Bican]]
+|-
+|IL ||[[Anton Schall]]
+|-
+|OL ||[[Rudolf Viertl]]
+|-
+|CF ||[[Matthias Sindelar]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Hugo Meisl]]
+|}
+|valign="top"|[[File:AUT-FRA 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Alex Thépot]]
+|-
+|RB ||[[Jacques Mairesse (footballer)|Jacques Mairesse]]
+|-
+|LB ||[[Étienne Mattler]]
+|-
+|RH ||[[Edmond Delfour]]
+|-
+|CH ||[[Georges Verriest]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Noël Liétaer]]
+|-
+|OR ||[[Fritz Keller]]
+|-
+|IR ||[[Joseph Alcazar]]
+|-
+|IL ||[[Roger Rio]]
+|-
+|OL ||[[Alfred Aston]]
+|-
+|CF ||[[Jean Nicolas]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Sid Kimpton]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Camillo Caironi]] ([[Italian Football Federation|Italy]])
+<br />[[Louis Baert]] ([[Royal Belgian Football Association|Belgium]])
+|}
+
+===Germany vs Belgium===
+A clinical Germany took their chance to achieve a scoreline that did not reflect the balance of the game. Belgium closed the first half in the lead, however, Germany came out stronger from the dressing room and overturned the results. [[Edmund Conen]] scored a [[hat-trick]].<ref name="fiedler" />
+
+<section begin=R16-8 />{{Football box
+|date={{Start date|1934|5|27|df=y}}
+|time=16:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|GER|1933}}
+|score={{score link|1934 FIFA World Cup final tournament#Germany vs Belgium|5–2}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Stanislaus Kobierski|Kobierski]] {{goal|25}}
+*[[Otto Siffling|Siffling]] {{goal|49}}
+*[[Edmund Conen|Conen]] {{goal|66||70||87}}
+|goals2=
+*[[Bernard Voorhoof|Voorhoof]] {{goal|29||43}}
+|stadium=[[Stadio Artemio Franchi (Florence)|Stadio Giovanni Berta]], [[Florence]]
+|attendance=8,000
+|referee=[[Francesco Mattea]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/204/1108 |title=Germany vs Belgium {{!}} Preliminary Round {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=204/match=1108/index.html |title=1934 FIFA World Cup Italy – Matches – Germany v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228095957/http://www.fifa.com/worldcup/matches/round=204/match=1108/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end=R16-8 />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _germany1934
+| pattern_ra = _blackborder
+| pattern_so  = _germany1934
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 000000
+ | title      = Germany
+}}
+|{{Football kit
+| pattern_la = _belgium1934
+| pattern_b  = _belgium1934
+| pattern_ra = _belgium1934
+| pattern_sh = 
+| pattern_so  = _belgium1934
+| leftarm    = F00000
+| body       = F00000
+| rightarm   = F00000
+| shorts     = 000000
+| socks      = 000000
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Willibald Kreß]]
+|-
+|RB ||[[Sigmund Haringer]]
+|-
+|LB ||[[Hans Schwartz]]
+|-
+|RH ||[[Paul Janes]]
+|-
+|CH ||[[Fritz Szepan]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Paul Zielinski]]
+|-
+|OR ||[[Ernst Lehner]]
+|-
+|IR ||[[Karl Hohmann]]
+|-
+|IL ||[[Otto Siffling]]
+|-
+|OL ||[[Stanislaus Kobierski]]
+|-
+|CF ||[[Edmund Conen]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Otto Nerz]]
+|}
+|valign="top"|[[File:GER-BEL 1934-05-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[André Vandewyer]]
+|-
+|RB ||[[Philibert Smellinckx]]
+|-
+|LB ||[[Constant Joacim]]
+|-
+|RH ||[[Frans Peeraer]]
+|-
+|CH ||[[Félix Welkenhuysen]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Jean Claessens]]
+|-
+|OR ||[[François Devries]]
+|-
+|IR ||[[Bernard Voorhoof]]
+|-
+|IL ||[[Laurent Grimmonprez]]
+|-
+|OL ||[[Albert Heremans]]
+|-
+|CF ||[[Jean Capelle (footballer)|Jean Capelle]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Hector Goetinck]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Ermenegildo Melandri]] ([[Italian Football Federation|Italy]])
+<br />[[Jacques Baert]] ([[French Football Federation|France]])
+|}
+
+==Quarter-finals==
+
+===Austria vs Hungary===
+{{see also|Austria–Hungary football rivalry}}
+An extremely tough game prevented the two teams from truly showing the technical skills they possessed. Austria took an early lead with [[Johann Horvath]], who finished a well-organised team move. Austria doubled their lead in the early stages of the second half. Shortly after, Hungary got one back thanks to a penalty caused by [[Karl Sesta]]. The match hung in the balance until Hungary lost two players: [[Imre Markos]] was red carded and [[István Avar]] got injured. After that, Austria comfortably cruised to the victory.<ref name="fiedler" />
+
+<section begin=QF1 />{{Football box
+|date={{Start date|1934|5|31|df=y}}
+|time=16:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|AUT}}
+|score={{score link|1934 FIFA World Cup final tournament#Austria vs Hungary|2–1}}
+|team2={{fb|HUN|1920}}
+|goals1=
+*[[Johann Horvath|Horvath]] {{goal|8}}
+*[[Karl Zischek|Zischek]] {{goal|51}}
+|goals2=
+*[[György Sárosi|Sárosi]] {{goal|60|pen.}}
+|stadium=[[Stadio Renato Dall'Ara|Stadio Littoriale]], [[Bologna]]
+|attendance=23,000
+|referee=[[Francesco Mattea]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/418/1106 |title=Austria vs Hungary {{!}} Quarter-final {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=418/match=1106/index.html |title=1934 FIFA World Cup Italy – Matches – Austria v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211234243/http://www.fifa.com/worldcup/matches/round=418/match=1106/index.html |archive-date=11 December 2017}} }}</ref>
+}}<section end=QF1 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _vneck
+ | pattern_ra =
+ | pattern_so = _band_white
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+|{{Football kit
+|pattern_la=
+|pattern_b=_vneck transparent
+|pattern_ra=
+|pattern_so =_band_DarkRed
+|pattern_sh = 
+|leftarm=8B0000
+|body=8B0000
+|rightarm=8B0000
+|shorts=8B0000
+|socks=008000
+ | title      = Hungary
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Peter Platzer]]
+|-
+|RB ||[[Franz Cisar]]
+|-
+|LB ||[[Karl Sesta]]
+|-
+|RH ||[[Franz Wagner (footballer)|Franz Wagner]]
+|-
+|CH ||[[Josef Smistik]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Johann Urbanek]]
+|-
+|OR ||[[Karl Zischek]]
+|-
+|IR ||[[Josef Bican]]
+|-
+|IL ||[[Johann Horvath]]
+|-
+|OL ||[[Rudolf Viertl]]
+|-
+|CF ||[[Matthias Sindelar]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Hugo Meisl]]
+|}
+|valign="top"|[[File:AUT-HUN 1934-05-31.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Antal Szabó]]
+|-
+|RB ||[[József Vágó]]
+|-
+|LB ||[[László Sternberg]] ([[Captain (association football)|c]])
+|-
+|RH ||[[István Palotás]]
+|-
+|CH ||[[György Szűcs]]
+|-
+|LH ||[[Antal Szalay]]
+|-
+|OR ||[[Imre Markos]]
+|-
+|IR ||[[István Avar]]
+|-
+|IL ||[[Géza Toldi]]
+|-
+|OL ||[[Tibor Kemény]]
+|-
+|CF ||[[György Sárosi]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Ödön Nádas]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Pedro Escartín]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Alfred Birlem]] ([[German Football Association|Germany]])
+|}
+
+===Italy vs Spain===
+{{see also|Italy–Spain football rivalry}}
+The first game between Italy and Spain was one of the most contentious and marred by several poor refereeing decisions, especially seeing Italy players challenging roughly the goalkeeper [[Ricardo Zamora]]. Spain went ahead with [[Luis Regueiro]], but their lead did not last long. Italy equalized when [[Giovanni Ferrari]] knocked in a rebound, while Zamora was blocked off by Schiavio. The tie required a replay to settle.<ref name="fiedler" />
+
+<section begin=QF2 />{{Football box
+|date={{Start date|1934|5|31|df=y}}
+|time=16:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1934 FIFA World Cup final tournament#Italy vs Spain|1–1}}
+|aet=yes
+|team2={{fb|ESP|1931}}
+|goals1=
+*[[Giovanni Ferrari|Ferrari]] {{goal|44}}
+|goals2=
+*[[Luis Regueiro|Regueiro]] {{goal|30}}
+|stadium=[[Stadio Artemio Franchi (Florence)|Stadio Giovanni Berta]], [[Florence]]
+|attendance=35,000
+|referee=[[Louis Baert]] ([[Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/418/1122 |title=Italy vs Spain {{!}} Quarter-final {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=418/match=1122/index.html |title=1934 FIFA World Cup Italy – Matches – Italy v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212013233/http://www.fifa.com/worldcup/matches/round=418/match=1122/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=QF2 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _band_blue
+ | leftarm    = 79BBFE
+ | body       = 79BBFE
+ | rightarm   = 79BBFE
+ | shorts     = ffffff
+ | socks      = 000000
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _esp3138
+ | pattern_ra =
+ | pattern_so = _esp2124
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 003060
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Gianpiero Combi]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Eraldo Monzeglio]]
+|-
+|LB ||[[Luigi Allemandi]]
+|-
+|RH ||[[Mario Pizziolo]]
+|-
+|CH ||[[Luis Monti]]
+|-
+|LH ||[[Armando Castellazzi]]
+|-
+|OR ||[[Enrique Guaita]]
+|-
+|IR ||[[Giuseppe Meazza]]
+|-
+|IL ||[[Giovanni Ferrari]]
+|-
+|OL ||[[Raimundo Orsi]]
+|-
+|CF ||[[Angelo Schiavio]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-ESP 1934-05-31.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Ricardo Zamora]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Ciriaco Errasti|Ciriaco]]
+|-
+|LB ||[[Jacinto Quincoces]]
+|-
+|RH ||[[Leonardo Cilaurren]]
+|-
+|CH ||[[José Muguerza]]
+|-
+|LH ||[[Federico Sáiz|Fede]]
+|-
+|OR ||[[Ramón de la Fuente Leal|Lafuente]]
+|-
+|IR ||[[José Iraragorri]]
+|-
+|IL ||[[Luis Regueiro]]
+|-
+|OL ||[[Guillermo Gorostiza]]
+|-
+|CF ||[[Isidro Lángara]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Amadeo García]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Bohumil Ženišek]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<br />[[Mihály Ivanicsics]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Germany vs Sweden===
+Pouring rain influenced the match, which saw very few notable moments in the first half. In the second half, [[Ernst Andersson]] suffered a head injury, and Germany took the lead with [[Karl Hohmann]] while the Swedish player was off. Hohmann scored again three minutes later. Sweden managed to get a goal back, but their subsequent efforts were not enough and Germany progressed to the first of many semi-finals.<ref name="fiedler" />
+
+<section begin=QF3 />{{Football box
+|date={{Start date|1934|5|31|df=y}}
+|time=16:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|GER|1933}}
+|score={{score link|1934 FIFA World Cup final tournament#Germany vs Sweden|2–1}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Karl Hohmann|Hohmann]] {{goal|60||63}}
+|goals2=
+*[[Gösta Dunker|Dunker]] {{goal|82}}
+|stadium=[[Stadio Giuseppe Meazza|Stadio San Siro]], [[Milan]]
+|attendance=3,000
+|referee=[[Rinaldo Barlassina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/418/1129 |title=Germany vs Sweden {{!}} Quarter-final {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=418/match=1129/index.html |title=1934 FIFA World Cup Italy – Matches – Germany v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171020134509/http://www.fifa.com/worldcup/matches/round=418/match=1129/index.html |archive-date=20 October 2017}} }}</ref>
+}}<section end=QF3 />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _germany1934
+| pattern_ra = _blackborder
+| pattern_so  = _germany1934
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 000000
+ | title      = Germany
+}}
+|{{Football kit
+|pattern_la=
+|pattern_b=_swe34h 
+|pattern_ra=
+|pattern_so =_2 gold stripes
+|pattern_sh = 
+|leftarm=FFDD33
+|body=FFDD33
+|rightarm=FFDD33
+|shorts=0000FF
+|socks=000000
+ | title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Willibald Kreß]]
+|-
+|RB ||[[Sigmund Haringer]]
+|-
+|LB ||[[Willy Busch]]
+|-
+|RH ||[[Rudolf Gramlich]]
+|-
+|CH ||[[Fritz Szepan]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Paul Zielinski]]
+|-
+|OR ||[[Ernst Lehner]]
+|-
+|IR ||[[Karl Hohmann]]
+|-
+|IL ||[[Otto Siffling]]
+|-
+|OL ||[[Stanislaus Kobierski]]
+|-
+|CF ||[[Edmund Conen]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Otto Nerz]]
+|}
+|valign="top"|[[File:GER-SWE 1934-05-31.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Anders Rydberg]]
+|-
+|RB ||[[Nils Axelsson]]
+|-
+|LB ||[[Sven Andersson (footballer, born 1907)|Sven Andersson]]
+|-
+|RH ||[[Rune Carlsson]]
+|-
+|CH ||[[Nils Rosén (footballer)|Nils Rosén]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Ernst Andersson]]
+|-
+|OR ||[[Gösta Dunker]]
+|-
+|IR ||[[Ragnar Gustavsson]]
+|-
+|IL ||[[Tore Keller]]
+|-
+|OL ||[[Knut Kroon]]
+|-
+|CF ||[[Sven Jonasson]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[József Nagy (footballer, born 1892)|József Nagy]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[René Mercet]] ([[Swiss Football Association|Switzerland]])
+<br />[[Johannes van Moorsel]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Czechoslovakia vs Switzerland===
+In a well-balanced game, Switzerland took the lead with [[Leopold Kielholz|Kielholz]] thanks to a counter-attacking play. Czechoslovakia equalized soon after with [[František Svoboda]], who turned a chance created by [[Jiří Sobotka]] into a goal. In the second half, although Switzerland dominated the ball possession, it was Czechoslovakia scoring twice and holding on for the victory.<ref name="fiedler" />
+
+<section begin=QF4 />{{Football box
+|date={{Start date|1934|5|31|df=y}}
+|time=16:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|CSK}}
+|score={{score link|1934 FIFA World Cup final tournament#Czechoslovakia vs Switzerland|3–2}}
+|team2={{fb|SUI}}
+|goals1=
+*[[František Svoboda|Svoboda]] {{goal|24}}
+*[[Jiří Sobotka|Sobotka]] {{goal|49}}
+*[[Oldřich Nejedlý|Nejedlý]] {{goal|82}}
+|goals2=
+*[[Leopold Kielholz|Kielholz]] {{goal|18}}
+*[[Willy Jäggi|Jäggi]] {{goal|78}}
+|stadium=[[Stadio Grande Torino|Stadio Benito Mussolini]], [[Turin]]
+|attendance=12,000
+|referee=[[Alois Beranek]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/418/1143 |title=Czechoslovakia vs Switzerland {{!}} Quarter-final {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=418/match=1143/index.html |title=1934 FIFA World Cup Italy – Matches – Czechoslovakia v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171123182131/http://www.fifa.com/worldcup/matches/round=418/match=1143/index.html |archive-date=23 November 2017}} }}</ref>
+}}<section end=QF4 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _vneck
+ | pattern_ra =
+ | pattern_so = _band_white
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = A93226
+ | socks      = 0000FF
+ | title      = Czechoslovakia
+}}
+|{{Football kit
+|pattern_la=
+|pattern_b=_vneck transparent
+|pattern_ra=
+|pattern_so =_band_red
+|pattern_sh = 
+|leftarm=FF0000
+|body=FF0000
+|rightarm=FF0000
+|shorts=FFFFFF
+|socks=000000
+ | title      = Switzerland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[František Plánička]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Ladislav Ženíšek]]
+|-
+|LB ||[[Josef Čtyřoký]]
+|-
+|RH ||[[Josef Košťálek]]
+|-
+|CH ||[[Štefan Čambal]]
+|-
+|LH ||[[Rudolf Krčil]]
+|-
+|OR ||[[František Junek]]
+|-
+|IR ||[[František Svoboda]]
+|-
+|IL ||[[Oldřich Nejedlý]]
+|-
+|OL ||[[Antonín Puč]]
+|-
+|CF ||[[Jiří Sobotka]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Karel Petrů]]
+|}
+|valign="top"|[[File:TCH-SUI 1934-05-31.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Frank Séchehaye]]
+|-
+|RB ||[[Severino Minelli]] ([[Captain (association football)|c]])
+|-
+|LB ||[[Walter Weiler]]
+|-
+|RH ||[[Albert Guinchard]]
+|-
+|CH ||[[Fernand Jaccard]]
+|-
+|LH ||[[Ernst Hufschmid (footballer)|Ernst Hufschmid]]
+|-
+|OR ||[[Willy von Känel]]
+|-
+|IR ||[[Willy Jäggi]]
+|-
+|IL ||[[André Abegglen]]
+|-
+|OL ||[[Alfred Jäck]]
+|-
+|CF ||[[Leopold Kielholz]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Heinrich Müller (footballer, born 1888)|Heinrich Müller]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Youssuf Mohamed]] ([[Egyptian Football Association|Egypt]])
+<br />[[Jacques Baert]] ([[French Football Federation|France]])
+|}
+
+===Replay: Italy vs Spain===
+The replay was played the day after the first game. The exhaustion and the injuries resulting from the first tie forced Italy and Spain to make four and seven changes respectively. Most notably, the experienced Zamora had to give way to the uncapped goalkeeper [[Juan José Nogués]]. Once again, the game was marred by controversial refereeing decisions. In the first five minutes, [[Crisant Bosch]] was hacked down by [[Eraldo Monzeglio]] in the penalty box. The penalty was not given, but the tackle resulted in the injury of Bosch. With no substitutes available, Spain had to play the remainder of the game with 10 men. [[Giuseppe Meazza]] scored soon after from a corner kick situation. In the second half, two Spanish goals were disallowed: one for offside and the other for a foul on a Spanish player. The referee, [[René Mercet]], was suspended in the aftermath of the tournament.<ref name="fiedler" />
+
+<section begin=QF2r />{{Football box
+|date={{Start date|1934|6|1|df=y}}
+|time=16:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1934 FIFA World Cup final tournament#Replay: Italy vs Spain|1–0}}
+|team2={{fb|ESP|1931}}
+|goals1=
+*[[Giuseppe Meazza|Meazza]] {{goal|11}}
+|goals2=
+|stadium=[[Stadio Artemio Franchi (Florence)|Stadio Giovanni Berta]], [[Florence]]
+|attendance=43,000
+|referee=[[René Mercet]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/418/1123 |title=Italy vs Spain {{!}} Quarter-final {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=418/match=1123/index.html |title=1934 FIFA World Cup Italy – Matches – Italy v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212122506/http://www.fifa.com/worldcup/matches/round=418/match=1123/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=QF2r />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _band_blue
+ | leftarm    = 79BBFE
+ | body       = 79BBFE
+ | rightarm   = 79BBFE
+ | shorts     = ffffff
+ | socks      = 000000
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _esp3138
+ | pattern_ra =
+ | pattern_so = _esp2124
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 003060
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Gianpiero Combi]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Eraldo Monzeglio]]
+|-
+|LB ||[[Luigi Allemandi]]
+|-
+|RH ||[[Attilio Ferraris]]
+|-
+|CH ||[[Luis Monti]]
+|-
+|LH ||[[Luigi Bertolini]]
+|-
+|OR ||[[Enrique Guaita]]
+|-
+|IR ||[[Giuseppe Meazza]]
+|-
+|IL ||[[Attilio Demaría]]
+|-
+|OL ||[[Raimundo Orsi]]
+|-
+|CF ||[[Felice Borel]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-ESP 1934-06-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Juan José Nogués]]
+|-
+|RB ||[[Ramón Zabalo]]
+|-
+|LB ||[[Jacinto Quincoces]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Leonardo Cilaurren]]
+|-
+|CH ||[[José Muguerza]]
+|-
+|LH ||[[Simón Lecue]]
+|-
+|OR ||[[Martí Ventolrà]]
+|-
+|IR ||[[Luis Regueiro]]
+|-
+|IL ||[[Eduardo González Valiño|Chacho]]
+|-
+|OL ||[[Crisant Bosch]]
+|-
+|CF ||[[Campanal I]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Amadeo García]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Bohumil Ženišek]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<br />[[Mihály Ivanicsics]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+==Semi-finals==
+
+===Italy vs Austria===
+A torrential downpour hampered the Austrians' passing game while benefiting the more varied Italian game. Italy took the lead when a ball broke free from the Austrian goalkeeper because of an intervention by [[Giuseppe Meazza]]. The ball then hit the post and was turned into goal by a perfectly positioned [[Enrique Guaita]]. In the second half, Austrian efforts to equalize were stopped by [[Gianpiero Combi]], and Italy managed to hold on for the victory.<ref name="fiedler" />
+
+<section begin=SF1 />{{Football box
+|date={{Start date|1934|6|3|df=y}}
+|time=16:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1934 FIFA World Cup final tournament#Italy vs Austria|1–0}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Enrique Guaita|Guaita]] {{goal|19}}
+|goals2=
+|stadium=[[Stadio Giuseppe Meazza|Stadio San Siro]], [[Milan]]
+|attendance=35,000
+|referee=[[Ivan Eklind]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/3492/1107 |title=Italy vs Austria {{!}} Semi-final {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3492/match=1107/index.html |title=1934 FIFA World Cup Italy – Matches – Italy v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171123183442/http://www.fifa.com/worldcup/matches/round=3492/match=1107/index.html |archive-date=23 November 2017}} }}</ref>
+}}<section end=SF1 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _band_blue
+ | leftarm    = 79BBFE
+ | body       = 79BBFE
+ | rightarm   = 79BBFE
+ | shorts     = ffffff
+ | socks      = 000000
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _vneck
+ | pattern_ra =
+ | pattern_so = _band_white
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Gianpiero Combi]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Eraldo Monzeglio]]
+|-
+|LB ||[[Luigi Allemandi]]
+|-
+|RH ||[[Attilio Ferraris]]
+|-
+|CH ||[[Luis Monti]]
+|-
+|LH ||[[Luigi Bertolini]]
+|-
+|OR ||[[Enrique Guaita]]
+|-
+|IR ||[[Giuseppe Meazza]]
+|-
+|IL ||[[Giovanni Ferrari]]
+|-
+|OL ||[[Raimundo Orsi]]
+|-
+|CF ||[[Angelo Schiavio]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-AUT 1934-06-03.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Peter Platzer]]
+|-
+|RB ||[[Franz Cisar]]
+|-
+|LB ||[[Karl Sesta]]
+|-
+|RH ||[[Franz Wagner (footballer)|Franz Wagner]]
+|-
+|CH ||[[Josef Smistik]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Johann Urbanek]]
+|-
+|OR ||[[Karl Zischek]]
+|-
+|IR ||[[Josef Bican]]
+|-
+|IL ||[[Anton Schall]]
+|-
+|OL ||[[Rudolf Viertl]]
+|-
+|CF ||[[Matthias Sindelar]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Hugo Meisl]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Louis Baert]] ([[Royal Belgian Football Association|Belgium]])
+<br />[[Bohumil Ženišek]] ([[Czechoslovak Football Association|Czechoslovakia]])
+|}
+
+===Czechoslovakia vs Germany===
+The game proved to be a clash of styles, with a more technical Czechoslovakia facing a  physical German side. Czechoslovakia took the lead in the first half, but Germany drew level in the second half when [[František Plánička]] could not keep out a tame shot by [[Rudolf Noack]]. The Germany goal stimulated the Czechoslovak side. Czechoslovakia took advantage of their finesse and attacking prowess to score twice with [[Oldřich Nejedlý]], who completed a hat-trick.<ref name="fiedler" />
+
+<section begin=SF2 />{{Football box
+|date={{Start date|1934|6|3|df=y}}
+|time=16:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|CSK}}
+|score={{score link|1934 FIFA World Cup final tournament#Czechoslovakia vs Germany|3–1}}
+|team2={{fb|GER|1933}}
+|goals1=
+*[[Oldřich Nejedlý|Nejedlý]] {{goal|21||69||80}}
+|goals2=
+*[[Rudolf Noack|Noack]] {{goal|62}}
+|stadium=[[Stadio Nazionale PNF]], [[Rome]]
+|attendance=15,000
+|referee=[[Rinaldo Barlassina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/3492/1130 |title=Czechoslovakia vs Germany {{!}} Semi-final {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3492/match=1130/index.html |title=1934 FIFA World Cup Italy – Matches – Czechoslovakia v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213003409/http://www.fifa.com/worldcup/matches/round=3492/match=1130/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=SF2 />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _vneck
+ | pattern_ra =
+ | pattern_so = _whitetop
+ | leftarm = A93226
+ | body = A93226
+ | rightarm = A93226
+ | shorts = ffffff
+ | socks = 0000FF
+ | title      = Czechoslovakia
+}}
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _germany1934
+| pattern_ra = _blackborder
+| pattern_so  = _germany1934
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 000000
+ | title      = Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[František Plánička]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Jaroslav Burgr]]
+|-
+|LB ||[[Josef Čtyřoký]]
+|-
+|RH ||[[Josef Košťálek]]
+|-
+|CH ||[[Štefan Čambal]]
+|-
+|LH ||[[Rudolf Krčil]]
+|-
+|OR ||[[František Junek]]
+|-
+|IR ||[[František Svoboda]]
+|-
+|IL ||[[Oldřich Nejedlý]]
+|-
+|OL ||[[Antonín Puč]]
+|-
+|CF ||[[Jiří Sobotka]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Karel Petrů]]
+|}
+|valign="top"|[[File:TCH-GER 1934-06-03.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Willibald Kreß]]
+|-
+|RB ||[[Willy Busch]]
+|-
+|LB ||[[Sigmund Haringer]]
+|-
+|RH ||[[Paul Zielinski]]
+|-
+|CH ||[[Fritz Szepan]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Jakob Bender]]
+|-
+|OR ||[[Ernst Lehner]]
+|-
+|IR ||[[Otto Siffling]]
+|-
+|IL ||[[Rudolf Noack]]
+|-
+|OL ||[[Stanislaus Kobierski]]
+|-
+|CF ||[[Edmund Conen]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Otto Nerz]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Alois Beranek]] ([[Austrian Football Association|Austria]])
+<br />[[Pedro Escartín]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+==Match for third place==
+Both teams changed their usual line-ups, resting several players. Austrian players wore an unusual light blue jersey borrowed from [[S.S.C. Napoli|Napoli]] because of the clash of colours between the two traditional jerseys. Germany took the lead inside 25 seconds with the fastest goal of the tournament, scored by [[Ernst Lehner]]. They doubled the lead with [[Edmund Conen]], but Austria got one back immediately after with [[Johann Horvath]]. Germany's third goal came after [[Karl Sesta]] attempted to sit on the ball to ridicule a German player; the ball was stolen by Conen, who crossed to Lehner. Sesta then scored a goal, but Germany held on for the victory.<ref name="fiedler" />
+
+<section begin=TPP />{{Football box
+|date={{Start date|1934|6|7|df=y}}
+|time=18:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1={{fb-rt|GER|1933}}
+|score={{score link|1934 FIFA World Cup final tournament#Match for third place|3–2}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Ernst Lehner|Lehner]] {{goal|1||42}}
+*[[Edmund Conen|Conen]] {{goal|27}}
+|goals2=
+*[[Johann Horvath|Horvath]] {{goal|28}}
+*[[Karl Sesta|Sesta]] {{goal|54}}
+|stadium=[[Stadio Giorgio Ascarelli]], [[Naples]]
+|attendance=7,000
+|referee=[[Albino Carraro]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/3/3491/1105 |title=Germany vs Austria {{!}} Match for third place {{!}} 1934 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3491/match=1105/index.html |title=1934 FIFA World Cup Italy – Matches – Germany v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212132847/http://www.fifa.com/worldcup/matches/round=3491/match=1105/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=TPP />
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _germany1934
+| pattern_ra = _blackborder
+| pattern_so  = _germany1934
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 000000
+ | title      = Germany
+}}
+|{{Football kit
+| pattern_la = 
+| pattern_b  = 
+| pattern_ra = 
+| pattern_so  = 
+| leftarm    = 99ccff
+| body       = 99ccff
+| rightarm   = 99ccff
+| shorts     = 000000
+| socks      = 000000
+ | title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Hans Jakob (footballer)|Hans Jakob]]
+|-
+|RB ||[[Paul Janes]]
+|-
+|LB ||[[Willy Busch]]
+|-
+|RH ||[[Paul Zielinski]]
+|-
+|CH ||[[Reinhold Münzenberg]]
+|-
+|LH ||[[Jakob Bender]]
+|-
+|OR ||[[Ernst Lehner]]
+|-
+|IR ||[[Otto Siffling]]
+|-
+|IL ||[[Fritz Szepan]] ([[Captain (association football)|c]])
+|-
+|OL ||[[Matthias Heidemann]]
+|-
+|CF ||[[Edmund Conen]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Otto Nerz]]
+|}
+|valign="top"|[[File:GER-AUT 1934-06-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"|
+|-
+|GK ||[[Peter Platzer]]
+|-
+|RB ||[[Franz Cisar]]
+|-
+|LB ||[[Karl Sesta]]
+|-
+|RH ||[[Franz Wagner (footballer)|Franz Wagner]]
+|-
+|CH ||[[Josef Smistik]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Johann Urbanek]]
+|-
+|OR ||[[Karl Zischek]]
+|-
+|IR ||[[Georg Braun (footballer)|Georg Braun]]
+|-
+|IL ||[[Johann Horvath]]
+|-
+|OL ||[[Rudolf Viertl]]
+|-
+|CF ||[[Josef Bican]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Hugo Meisl]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Camillo Caironi]] ([[Italian Football Federation|Italy]])
+<br />[[Pedro Escartín]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+==Final==
+{{main|1934 FIFA World Cup final}}
+
+{{#lst:1934 FIFA World Cup final|Final}}
+{{#lst:1934 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://web.archive.org/web/20180517043354/http://www.fifa.com/worldcup/archive/italy1934/ 1934 FIFA World] at FIFA.com
+*[https://www.rsssf.org/tables/34full.html 1934 FIFA World] at RSSSF.com
+
+{{1934 FIFA World Cup}}
+
+[[Category:1934 FIFA World Cup|Final tournament]]
+[[Category:FIFA World Cup knockout stages|1934]]
+[[Category:Argentina at the 1934 FIFA World Cup|tournament]]
+[[Category:Austria at the 1934 FIFA World Cup|tournament]]
+[[Category:Belgium at the 1934 FIFA World Cup|tournament]]
+[[Category:Brazil at the 1934 FIFA World Cup|tournament]]
+[[Category:Czechoslovakia at the 1934 FIFA World Cup|tournament]]
+[[Category:Egypt at the 1934 FIFA World Cup|tournament]]
+[[Category:France at the 1934 FIFA World Cup|tournament]]
+[[Category:Germany at the 1934 FIFA World Cup|tournament]]
+[[Category:Hungary at the 1934 FIFA World Cup|tournament]]
+[[Category:Italy at the 1934 FIFA World Cup|tournament]]
+[[Category:Netherlands at the 1934 FIFA World Cup|tournament]]
+[[Category:Romania at the 1934 FIFA World Cup|tournament]]
+[[Category:Spain at the 1934 FIFA World Cup|tournament]]
+[[Category:Sweden at the 1934 FIFA World Cup|tournament]]
+[[Category:Switzerland at the 1934 FIFA World Cup|tournament]]
+[[Category:United States at the 1934 FIFA World Cup|tournament]]
+[[Category:Argentina–Sweden sports relations|1934]]
+[[Category:Austria–France sports relations|1934]]
+[[Category:Austria–Germany sports relations|1934]]
+[[Category:Austria–Hungary sports relations|1934]]
+[[Category:Belgium–Germany sports relations|1934]]
+[[Category:Brazil–Spain sports relations|1934]]
+[[Category:Czechoslovakia–Germany relations|1934]]
+[[Category:Czech Republic–Germany sports relations|1934]]
+[[Category:Germany–Slovakia sports relations|1934]]
+[[Category:Czechoslovakia–Romania relations|1934]]
+[[Category:Czech Republic–Romania sports relations|1934]]
+[[Category:Romania–Slovakia sports relations|1934]]
+[[Category:Czechoslovakia–Switzerland relations|1934]]
+[[Category:Czech Republic–Switzerland sports relations|1934]]
+[[Category:Slovakia–Switzerland sports relations|1934]]
+[[Category:Egypt–Hungary sports relations|1934]]
+[[Category:Germany–Sweden sports relations|1934]]
+[[Category:Italy–Spain sports relations|1934]]
+[[Category:Italy–United States sports relations|1934]]
+[[Category:Netherlands–Switzerland sports relations|1934]]
+[[Category:Football competitions in Rome]]
+[[Category:Football competitions in Florence]]
+[[Category:Football in Genoa]]
+[[Category:Sports competitions in Genoa]]
+[[Category:Football competitions in Milan]]
+[[Category:Football competitions in Turin]]
+[[Category:Sport in Bologna]]
+[[Category:Football in Naples]]
+[[Category:Sports competitions in Naples]]
+[[Category:Sport in Trieste]]
+[[Category:1930s in Rome]]
+[[Category:1930s in Milan]]
+[[Category:1930s in Turin]]
+[[Category:20th century in Genoa]]
+[[Category:20th century in Florence]]
+[[Category:20th century in Naples]]
+[[Category:20th century in Bologna]]
+[[Category:History of Trieste]]

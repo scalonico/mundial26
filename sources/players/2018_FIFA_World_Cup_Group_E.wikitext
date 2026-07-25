@@ -1,0 +1,1092 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=November 2017}}
+[[File:Russia stamp 2018 № 2349.jpg|thumb|2018 [[postage stamp]] from [[Russia]] depicting Group E of the [[2018 FIFA World Cup]] group stage.]]
+Group E of the 2018 FIFA World Cup took place from 17 to 27 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |archive-date=24 June 2018 |archive-url=https://web.archive.org/web/20180624041527/https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |url-status=dead }}</ref> The group consisted of [[Brazil national football team|Brazil]], [[Switzerland national football team|Switzerland]], [[Costa Rica national football team|Costa Rica]], and [[Serbia national football team|Serbia]]. The top two teams, Brazil and Switzerland, advanced to the round of 16.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017}}</ref>
+
+Brazil, Serbia, and Switzerland played in the [[2022 FIFA World Cup Group G|same group at the following FIFA World Cup]].<ref>{{Cite web |last=Gastelum |first=Andrew |date=2022-11-14 |title=2022 World Cup Group G Preview: Brazil's Title Quest Begins in Familiar Group |url=https://www.si.com/soccer/2022/11/14/world-cup-group-g-preview-brazil-serbia-switzerland-cameroon |access-date=2024-06-27 |website=Sports Illustrated |language=en-us}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| E1 || style=white-space:nowrap | {{fb|BRA}} || 1 || [[CONMEBOL]] || [[2018 FIFA World Cup qualification (CONMEBOL)|CONMEBOL Round Robin]] winners || 28 March 2017 || 21st || [[2014 FIFA World Cup|2014]] (fourth place) || data-sort-value="8.5" | '''Winners''' ([[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]]) || 2 || 2
+|-
+| E2 || style=white-space:nowrap | {{fb|SUI}} || 2 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA second round|UEFA second round]] winners || 12 November 2017 || 11th || [[2014 FIFA World Cup|2014]] (round of 16) || data-sort-value="4.3" | Quarter-finals ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]]) || 11 || 6
+|-
+| E3 || style=white-space:nowrap | {{fb|CRC}} || 3 || [[CONCACAF]] || [[2018 FIFA World Cup qualification – CONCACAF fifth round|CONCACAF fifth round]] runners-up || 7 October 2017 || 5th || [[2014 FIFA World Cup|2014]] (quarter-finals) || data-sort-value="4.1" | Quarter-finals ([[2014 FIFA World Cup|2014]]) || 22 || 23
+|-
+| E4 || style=white-space:nowrap | {{fb|SRB}} || 4 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group D|UEFA Group D]] winners || 9 October 2017 || 12th{{refn|group=nb|This is the 2nd appearance of Serbia at the FIFA World Cup. However, FIFA considers Serbia as the successor team of [[Yugoslavia national football team|Yugoslavia]], who qualified on 8 occasions, and [[Serbia and Montenegro national football team|Serbia and Montenegro]], who qualified on 2 occasions.}} || [[2010 FIFA World Cup|2010]] (group stage) || data-sort-value="5.2" | Fourth place ([[1930 FIFA World Cup|1930]], [[1962 FIFA World Cup|1962]]){{refn|group=nb|Serbia's best result is group stage in [[2010 FIFA World Cup|2010]]. However, FIFA considers Serbia as the successor team of [[Yugoslavia national football team|Yugoslavia]].}} || 38 || 34
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+|class_rules=[[2018 FIFA World Cup#Tiebreakers|Group stage tiebreakers]]
+|source=[https://www.fifa.com/worldcup/groups/index.html FIFA]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_BRA=2 |draw_BRA=1 |loss_BRA=0 |gf_BRA=5 |ga_BRA=1
+|win_SUI=1 |draw_SUI=2 |loss_SUI=0 |gf_SUI=5 |ga_SUI=4
+|win_CRC=0 |draw_CRC=1 |loss_CRC=2 |gf_CRC=2 |ga_CRC=5
+|win_SRB=1 |draw_SRB=0 |loss_SRB=2 |gf_SRB=2 |ga_SRB=4
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=BRA |team2=SUI |team3=SRB |team4=CRC
+
+<!--Country definitions-->
+|name_BRA={{fb|BRA}}
+|name_SUI={{fb|SUI}}
+|name_CRC={{fb|CRC}}
+|name_SRB={{fb|SRB}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2018 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+*The winners of Group E, [[Brazil national football team|Brazil]], advanced to play the runners-up of [[2018 FIFA World Cup Group F|Group F]], [[Mexico national football team|Mexico]].
+*The runners-up of Group E, [[Switzerland national football team|Switzerland]], advanced to play the winners of [[2018 FIFA World Cup Group F|Group F]], [[Sweden men's national football team|Sweden]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===Costa Rica vs Serbia===
+[[File:Cos-Serb (6).jpg|thumb|right|Aleksandar Kolarov scored the lone goal and won the Man of the Match award]]The two teams had never met before.<ref>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association}}</ref>
+
+Both defences were tested in the opening moments - [[Aleksandar Mitrović (footballer)|Aleksandar Mitrović]] seeing an effort hooked off the line before [[Giancarlo González]] headed straight at [[Vladimir Stojković]] at the other end. The Serbian team was almost punished for their lack of penetration when [[Francisco Calvo]] dragged a strike wide as Costa Rica enjoyed a short spell of possession just before the break. [[Aleksandar Kolarov]]’s left-footed free kick from the right flew into the top right corner.<ref name="CRC-SRB recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/kolarov-stunner-seals-serbia-win |title=Kolarov stunner seals Serbia win |publisher=FIFA |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044031/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/kolarov-stunner-seals-serbia-win |archive-date=20 May 2026}}</ref><ref name="Goal Costa Rica v Serbia">{{cite web |last=Ridge |first=Patric |title=Kolarov stunner seals points |url=http://www.goal.com/en-au/news/4016/main/2018/06/17/45601672/costa-rica-0-serbia-1-kolarov-stunner-seals-points |website=Goal.com |date=17 June 2018}}</ref> Serbia's [[Nemanja Matić]], meanwhile, was involved in a confrontation with a member of the Costa Rica coaching staff in injury time as he tried to retrieve the ball after it went out of play.<ref name="BBC Costa Rica v Serbia">{{cite web |last=Abraham |first=Timothy |title=Costa Rica 0 Serbia 1 |url=https://www.bbc.com/sport/football/44427970 |work=BBC Sport |date=17 June 2018}}</ref>
+
+Serbia have won their opening game at a World Cup tournament for the first time since 1998, when they did so as Yugoslavia against Iran ([[1998 FIFA World Cup Group F#Yugoslavia vs Iran|1–0]]). Costa Rica suffered their first defeat at the World Cup since 2006 ([[2006 FIFA World Cup Group A#Costa Rica vs Poland|1–2]] v Poland), ending a run of five games unbeaten in the competition (W2 D3). Kolarov's strike was the first direct free-kick scored by a Serbia/Yugoslavia player at a World Cup tournament since 1998, when [[Siniša Mihajlović]] netted against Iran. Kolarov's goal for Serbia was the third direct free-kick scored at this year's World Cup (after Russia's [[Aleksandr Golovin (footballer)|Aleksandr Golovin]] and Portugal's [[Cristiano Ronaldo]]), which is already as many as there were in the entire 2014 tournament in Brazil.<ref name="Goal Costa Rica v Serbia"/><ref name="BBC Costa Rica v Serbia"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=e1
+|date={{Start date|2018|6|17|df=y}}
+|time=16:00 [[Samara Time|SAMT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|CRC}}
+|score={{score link|2018 FIFA World Cup Group E#Costa Rica vs Serbia|0–1}}
+|team2={{fb|SRB}}
+|goals1=
+|goals2=
+*[[Aleksandar Kolarov|Kolarov]] {{goal|56}}
+|stadium=[[Cosmos Arena]], [[Samara]]
+|attendance=41,432
+|referee=[[Malang Diedhiou]] ([[Senegalese Football Federation|Senegal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331529 |title=Costa Rica vs Serbia {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/113477bb61b7ce42/original/op3dxw8ohx2n9rvgc7ka-pdf.pdf |title=Match report – Group E – Costa Rica v Serbia |publisher=[[FIFA]] |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062757/https://digitalhub.fifa.com/m/113477bb61b7ce42/original/op3dxw8ohx2n9rvgc7ka-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _crc18h
+ |pattern_b  = _crc18h
+ |pattern_ra = _crc18h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = {{nowrap|Costa Rica}}<ref name="CRC-SRB line-ups">{{cite web |url=https://digitalhub.fifa.com/m/d4d96cfeaf4266b/original/qzwtvl8dyyorynvow7ys-pdf.pdf |title=Tactical Line-up – Group E – Costa Rica v Serbia |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175307/https://digitalhub.fifa.com/m/d4d96cfeaf4266b/original/qzwtvl8dyyorynvow7ys-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _srb18a
+ |pattern_b  = _srb18a
+ |pattern_ra = _srb18a
+ |pattern_sh = _srb18a
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Serbia<ref name="CRC-SRB line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Keylor Navas]]
+|-
+|SW ||'''3''' ||[[Giancarlo González]]
+|-
+|CB ||'''2''' ||[[Jhonny Acosta]]
+|-
+|CB ||'''6''' ||[[Óscar Duarte (Costa Rican footballer)|Óscar Duarte]]
+|-
+|RWB||'''16'''||[[Cristian Gamboa]]
+|-
+|LWB||'''15'''||[[Francisco Calvo]] || {{yel|22}}
+|-
+|CM ||'''20'''||[[David Guzmán]] || {{yel|56}} || {{suboff|73}}
+|-
+|CM ||'''5''' ||[[Celso Borges]]
+|-
+|RW ||'''11'''||[[Johan Venegas]] || || {{suboff|60}}
+|-
+|LW ||'''10'''||[[Bryan Ruiz]] ([[Captain (association football)|c]])
+|-
+|CF ||'''21'''||[[Marco Ureña]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Christian Bolaños]] || || {{subon|60}}
+|-
+|FW ||'''12'''||[[Joel Campbell]] || || {{subon|66}}
+|-
+|MF ||'''9''' ||[[Daniel Colindres]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Ramírez (footballer, born 1964)|Óscar Ramírez]]
+|}
+|valign="top"|[[File:CRC-SRB 2018-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vladimir Stojković]]
+|-
+|RB ||'''6''' ||[[Branislav Ivanović]] || {{yel|59}}
+|-
+|CB ||'''15'''||[[Nikola Milenković]]
+|-
+|CB ||'''3''' ||[[Duško Tošić]]
+|-
+|LB ||'''11'''||[[Aleksandar Kolarov]] ([[Captain (association football)|c]])
+|-
+|CM ||'''21'''||[[Nemanja Matić]]
+|-
+|CM ||'''4''' ||[[Luka Milivojević]]
+|-
+|RW ||'''10'''||[[Dušan Tadić]] || || {{suboff|83}}
+|-
+|AM ||'''20'''||[[Sergej Milinković-Savić]]
+|-
+|LW ||'''22'''||[[Adem Ljajić]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||[[Aleksandar Mitrović (footballer)|Aleksandar Mitrović]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Filip Kostić]] || || {{subon|70}}
+|-
+|DF ||'''2''' ||[[Antonio Rukavina]] || || {{subon|83}}
+|-
+|FW ||'''8''' ||[[Aleksandar Prijović]] || {{yel|90+8}} || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Mladen Krstajić]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Aleksandar Kolarov]] (Serbia)<ref name="CRC-SRB recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="CRC-SRB line-ups"/>
+<br />Djibril Camara ([[Senegalese Football Federation|Senegal]])
+<br />El Hadji Samba ([[Senegalese Football Federation|Senegal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Bamlak Tessema Weyesa]] ([[Ethiopian Football Federation|Ethiopia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Tikhon Kalugin ([[Russian Football Union|Russia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Cyril Gringore ([[French Football Federation|France]])
+<br />[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===Brazil vs Switzerland===
+The two teams had met in eight matches, including one game at the [[1950 FIFA World Cup]] group stage, a [[1950 FIFA World Cup Group 1#Brazil vs Switzerland|2–2]] draw.<ref name=Kit11>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=11}}</ref>
+
+[[Paulinho (footballer, born July 1988)|Paulinho]]'s close-range effort forced [[Yann Sommer]] into a save. The first goal was scored shortly after when [[Philippe Coutinho]] scored from outside the penalty area with a right foot shot. Brazil also came close before the break as [[Thiago Silva]] headed inches over the crossbar. Five minutes into the second half, [[Steven Zuber]] equalised with a controversial header after a corner from the right decided by VAR review when he appeared to push [[Miranda (footballer, born 1984)|Miranda]] in the back. More controversy was caused in the 73rd minute, after [[Gabriel Jesus]] was denied a penalty after being hacked down by [[Manuel Akanji]] in the penalty area.<ref>{{cite web|url=https://www.mirror.co.uk/sport/football/news/brazil-left-furious-refereeing-decisions-12731526|title=Brazil left furious with refereeing decisions - but Switzerland deserved a point from World Cup 2018 clash|work=The Mirror|first=Steve|last=Bates|date=17 June 2018|access-date=17 June 2018}}</ref> Brazil came close several times during the closing minutes, but [[Neymar]], [[Roberto Firmino]], and [[Miranda (footballer, born 1984)|Miranda]] were unable to garner goals.<ref>{{cite web|url=http://www.skysports.com/football/brazil-vs-switzerland/report/385173|title=Brazil 1-1 Switzerland: Philippe Coutinho stunner not enough for favourites|work=Sky Sports|date=17 June 2018|access-date=17 June 2018}}</ref><ref name="BBC Brazil v Switzerland">{{cite web |title=Brazil 1 Switzerland 1 |url=https://www.bbc.com/sport/football/44427968|work=BBC|first=Luke|last=Reddy|date=17 June 2018|access-date=17 June 2018}}</ref>
+
+Brazil have failed to win any of their last three World Cup matches (D1 L2), their worst winless run since June 1978, when they went four games without a win.<ref name="BBC Brazil v Switzerland"/> [[Valon Behrami]] is the first Switzerland player in history to appear at four World Cups.<ref name="BRA-SUI recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/match-review-bra--sui-2960044 |title=Stubborn Swiss stifle Brazil |publisher=FIFA |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520044343/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/match-review-bra--sui-2960044 |archive-date=20 May 2026}}</ref> Brazil failed to win their opening match at the World Cup for the first time since 1978, when they drew [[1978 FIFA World Cup Group 3#Brazil vs Sweden|1–1]] with Sweden.<ref>{{cite web |last=Creek |first=Stephen |title=Zuber pegs back below-par Selecao |url=http://www.goal.com/en-us/match/brazil-v-switzerland/report/q7wvknitqgyev7lr2go3444p |website=Goal.com |date=17 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=e2
+|date={{Start date|2018|6|17|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2018 FIFA World Cup Group E#Brazil vs Switzerland|1–1}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Philippe Coutinho|Coutinho]] {{goal|20}}
+|goals2=
+*[[Steven Zuber|Zuber]] {{goal|50}}
+|stadium=[[Rostov Arena]], [[Rostov-on-Don]]
+|attendance=43,109
+|referee=[[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331525 |title=Brazil vs Switzerland {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/726bca67a3ee437d/original/getncykenyfws1fen58f-pdf.pdf |title=Match report – Group E – Brazil v Switzerland |publisher=[[FIFA]] |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062828/https://digitalhub.fifa.com/m/726bca67a3ee437d/original/getncykenyfws1fen58f-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra18h
+ |pattern_b  = _bra18h
+ |pattern_ra = _bra18h
+ |pattern_sh = _bra18h
+ |pattern_so = _bra18H
+ |leftarm    = FFE400
+ |body       = FFE400
+ |rightarm   = FFE400
+ |shorts     = 003CFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-SUI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6a1147824e009d66/original/o5yylofkofk11s4f85yy-pdf.pdf |title=Tactical Line-up – Group E – Brazil v Switzerland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 June 2018 |access-date=17 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175321/https://digitalhub.fifa.com/m/6a1147824e009d66/original/o5yylofkofk11s4f85yy-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+| pattern_la = _suica1819h
+| pattern_b  = _suica1819h
+| pattern_ra = _suica1819h
+| pattern_sh =
+| pattern_so =
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = {{nowrap|Switzerland}}<ref name="BRA-SUI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alisson]]
+|-
+|RB ||'''14'''||[[Danilo (footballer, born July 1991)|Danilo]]
+|-
+|CB ||'''2''' ||[[Thiago Silva]]
+|-
+|CB ||'''3''' ||[[Miranda (footballer, born 1984)|Miranda]]
+|-
+|LB ||'''12'''||[[Marcelo (footballer, born 1988)|Marcelo]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||[[Casemiro]] || {{yel|47}} || {{suboff|60}}
+|-
+|CM ||'''15'''||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|67}}
+|-
+|RW ||'''19'''||[[Willian (footballer, born 1988)|Willian]]
+|-
+|AM ||'''11'''||[[Philippe Coutinho]]
+|-
+|LW ||'''10'''||[[Neymar]]
+|-
+|CF ||'''9''' ||[[Gabriel Jesus]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || || {{subon|60}}
+|-
+|MF ||'''8''' ||[[Renato Augusto]] || || {{subon|67}}
+|-
+|FW ||'''20'''||[[Roberto Firmino]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Tite (football manager)|Tite]]
+|}
+|valign="top"|[[File:BRA-SUI 2018-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Yann Sommer]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]] ([[Captain (association football)|c]]) || {{yel|31}} || {{suboff|87}}
+|-
+|CB ||'''22'''||[[Fabian Schär]] || {{yel|65}}
+|-
+|CB ||'''5''' ||[[Manuel Akanji]]
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|CM ||'''11'''||[[Valon Behrami]] || {{yel|68}} || {{suboff|71}}
+|-
+|CM ||'''10'''||[[Granit Xhaka]]
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]]
+|-
+|AM ||'''15'''||[[Blerim Džemaili]]
+|-
+|LW ||'''14'''||[[Steven Zuber]]
+|-
+|CF ||'''9''' ||[[Haris Seferovic]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Denis Zakaria]] || || {{subon|71}}
+|-
+|FW ||'''7''' ||[[Breel Embolo]] || || {{subon|80}}
+|-
+|DF ||'''6''' ||[[Michael Lang (footballer, born 1991)|Michael Lang]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimir Petković]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Philippe Coutinho]] (Brazil)<ref name="BRA-SUI recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BRA-SUI line-ups"/>
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />Miguel Hernández ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[John Pitti]] ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Gabriel Victoria ([[Panamanian Football Federation|Panama]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|}
+
+===Brazil vs Costa Rica===
+[[File:Bra-Cos (17).jpg|thumb|right|Goalscorer and Man of the Match Philippe Coutinho, followed by Johnny Acosta]]The two teams had met in ten matches, including two games at the FIFA World Cup's group stages, in [[1990 FIFA World Cup|1990]] and [[2002 FIFA World Cup|2002]], with both ending in a victory for Brazil's (1–0 and 5–2, respectively).<ref name=Kit10>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=10}}</ref>
+
+[[Celso Borges]] shot an effort wide of the target from a [[Cristian Gamboa]] cutback after 13 minutes. [[Gabriel Jesus]] shot into the back of the net from an offside position in the 25th minute. [[Marcelo (footballer, born 1988)|Marcelo]] shot a low drive five minutes from the break, which [[Keylor Navas]] stopped. After the break, Jesus headed against the crossbar before Navas diverted [[Philippe Coutinho]]'s follow-up wide. [[Neymar]] curled around the right-hand post from 18 yards in the 72nd minute, before the officials arrived at the correct decision via VAR to deny him a penalty. Coutinho gave Brazil the lead in the 91st minute, when he burst into the box to get on the end of a [[Roberto Firmino]] nod down and a touch from Jesus before poking the ball low to the net. Neymar then tapped home [[Douglas Costa]]'s chipped cross from the right from close range deeper into the stoppage time.<ref>{{cite web |last=Davies |first=Jack |title=Coutinho and Neymar score in stoppage time to snatch win |url=http://www.goal.com/en-om/match/brazil-v-costa-rica/report/2a6wbz2u0zvjx1y9pr882icbt |website=Goal.com |date=22 June 2018}}</ref>
+
+Neymar's strike seven minutes into stoppage time was the latest ever at a World Cup in regular time.<ref name="BRA-CRC recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/late-show-revives-brazil-eliminates-costa-rica |title=Late show revives Brazil, eliminates Costa Rica |publisher=FIFA |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045729/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/late-show-revives-brazil-eliminates-costa-rica |archive-date=20 May 2026}}</ref> This was Brazil's first World Cup victory thanks to a goal scored in the 90th minute.<ref>{{cite web |last=Chowdhury |first=Saj |title=Brazil 2 Costa Rica 0 |url=https://www.bbc.com/sport/football/44439131 |work=BBC Sport |date=22 June 2018}}</ref> Costa Rica were knocked out of the tournament after this game for the first time since 2006, with a game to play. In addition, with Germany having won the all-time record of most World Cup goals by any team with 224 goals after their [[2014 FIFA World Cup#Final|win against Argentina in the final of the previous World Cup]], Neymar's goal successfully tied up the record with Germany.
+
+<onlyinclude>{{#invoke:Football box|main|section=e3
+|date={{Start date|2018|6|22|df=y}}
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2018 FIFA World Cup Group E#Brazil vs Costa Rica|2–0}}
+|team2={{fb|CRC}}
+|goals1=
+*[[Philippe Coutinho|Coutinho]] {{goal|90+1}}
+*[[Neymar]] {{goal|90+7}}
+|goals2=
+|stadium=[[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance=64,468
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331540 |title=Brazil vs Costa Rica {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/2efa6f9d397ca548/original/wjscgoxelaxw7jmmd3xj-pdf.pdf |title=Match report – Group E – Brazil v Costa Rica |publisher=[[FIFA]] |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063202/https://digitalhub.fifa.com/m/2efa6f9d397ca548/original/wjscgoxelaxw7jmmd3xj-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra18a
+ |pattern_b  = _bra18a
+ |pattern_ra = _bra18a
+ |pattern_sh = _bra18h
+ |pattern_so = _bra18A
+ |leftarm    = 003CFF
+ |body       = 003CFF
+ |rightarm   = 003CFF
+ |shorts     = 003CFF
+ |socks      = 003CFF
+ |title      = Brazil<ref name="BRA-CRC line-ups">{{cite web |url=https://digitalhub.fifa.com/m/a69a7d1922edc0d/original/wqkez5qn5blenzdkf0i3-pdf.pdf |title=Tactical Line-up – Group E – Brazil v Costa Rica |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175333/https://digitalhub.fifa.com/m/a69a7d1922edc0d/original/wqkez5qn5blenzdkf0i3-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _crc18a
+ |pattern_b  = _crc18a
+ |pattern_ra = _crc18a
+ |pattern_sh =
+ |pattern_so = _crc18h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Costa Rica}}<ref name="BRA-CRC line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alisson]]
+|-
+|RB ||'''22'''||[[Fagner Conserva Lemos|Fagner]]
+|-
+|CB ||'''2''' ||[[Thiago Silva]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Miranda (footballer, born 1984)|Miranda]]
+|-
+|LB ||'''12'''||[[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''5''' ||[[Casemiro]]
+|-
+|CM ||'''15'''||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|68}}
+|-
+|RW ||'''19'''||[[Willian (footballer, born 1988)|Willian]] || || {{suboff|46}}
+|-
+|AM ||'''11'''||[[Philippe Coutinho]] || {{yel|81}}
+|-
+|LW ||'''10'''||[[Neymar]] || {{yel|81}}
+|-
+|CF ||'''9''' ||[[Gabriel Jesus]] || || {{suboff|90+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Douglas Costa]] || || {{subon|46}}
+|-
+|FW ||'''20'''||[[Roberto Firmino]] || || {{subon|68}}
+|-
+|MF ||'''17'''||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Tite (football manager)|Tite]]
+|}
+|valign="top"|[[File:BRA-CRC 2018-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Keylor Navas]]
+|-
+|SW ||'''2''' ||[[Jhonny Acosta]] || {{yel|84}}
+|-
+|CB ||'''3''' ||[[Giancarlo González]]
+|-
+|CB ||'''6''' ||[[Óscar Duarte (Costa Rican footballer)|Óscar Duarte]]
+|-
+|RWB||'''16'''||[[Cristian Gamboa]] || || {{suboff|75}}
+|-
+|LWB||'''8''' ||[[Bryan Oviedo]]
+|-
+|CM ||'''20'''||[[David Guzmán]] || || {{suboff|83}}
+|-
+|CM ||'''5''' ||[[Celso Borges]]
+|-
+|RW ||'''11'''||[[Johan Venegas]]
+|-
+|LW ||'''10'''||[[Bryan Ruiz]] ([[Captain (association football)|c]])
+|-
+|CF ||'''21'''||[[Marco Ureña]] || || {{suboff|54}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Christian Bolaños]] || || {{subon|54}}
+|-
+|DF ||'''15'''||[[Francisco Calvo]] || || {{subon|75}}
+|-
+|MF ||'''17'''||[[Yeltsin Tejeda]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Ramírez (footballer, born 1964)|Óscar Ramírez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Philippe Coutinho]] (Brazil)<ref name="BRA-CRC recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="BRA-CRC line-ups"/>
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|}
+
+===Serbia vs Switzerland===
+{{further|List of 2018 FIFA World Cup controversies#Swiss celebrations against Serbia}}
+[[File:Swiss fans Russia 2018.jpg|thumb|right|Swiss players and fans celebrating Shaqiri's goal]]
+The two teams had never met. Playing as [[Yugoslavia national football team|Yugoslavia]], the two teams met 13 times, including one game at the [[1950 FIFA World Cup]] group stage, a [[1950 FIFA World Cup Group 1#Yugoslavia vs Switzerland|3–0]] victory for Yugoslavia.<ref name=Kit11/>
+
+[[Dušan Tadić]] checked back onto his left foot to send in a cross from the right that [[Aleksandar Mitrović (footballer)|Aleksandar Mitrović]] met with a header into the left side of the net. [[Blerim Džemaili]] shot wide from inside the penalty area. Serbia pressed and [[Sergej Milinković-Savić]] shot narrowly wide with a rising 20-yard drive. With almost half an hour played [[Steven Zuber]] passed the ball to Džemaili who drew a one-handed save from [[Vladimir Stojković]] down to the goalkeeper's right. After 52 minutes, [[Xherdan Shaqiri]]'s shot rebounded back to [[Granit Xhaka]] and the midfielder curled a right-footed shot into the far corner of the net from 25 yards. Shaqiri hit the frame of the goal with a bending effort from the right. Switzerland substitute [[Mario Gavranović]] was flagged offside as he hit the side-netting. And, in the final minute of normal time, Gavranović played a throughball to Shaqiri, who outpaced [[Duško Tošić]] and ran from near the half-way line into the box before nutmegging Stojković with a low finish from the left.<ref>{{cite web |last=Henry |first=Matthew |title=Serbia 1 Switzerland 2 |url=https://www.bbc.com/sport/football/44439145 |work=BBC Sport |date=22 June 2018}}</ref><ref>{{cite web |last=Creek |first=Stephen |title=Shaqiri strikes late to clinch crucial comeback victory |url=http://www.goal.com/en-om/match/serbia-v-switzerland/report/2ziirq41dmiglgulpqxztlq7d |website=Goal.com |date=22 June 2018}}</ref>
+
+[[Stephan Lichtsteiner]] made his ninth World Cup appearance for Switzerland in this game, breaking the national record held by [[Charles Antenen]] since 1962.<ref name="SRB-SUI recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/shaqiri-stuns-serbia-to-give-swiss-hope |title=Shaqiri stuns Serbia to give Swiss hope |publisher=FIFA |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045950/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/shaqiri-stuns-serbia-to-give-swiss-hope |archive-date=20 May 2026}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=e4
+|date={{Start date|2018|6|22|df=y}}
+|time=20:00 [[Kaliningrad Time|KALT]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|SRB}}
+|score={{score link|2018 FIFA World Cup Group E#Serbia vs Switzerland|1–2}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Aleksandar Mitrović (footballer)|Mitrović]] {{goal|5}}
+|goals2=
+*[[Granit Xhaka|Xhaka]] {{goal|52}}
+*[[Xherdan Shaqiri|Shaqiri]] {{goal|90}}
+|stadium=[[Kaliningrad Stadium]], [[Kaliningrad]]
+|attendance=33,167
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300340183 |title=Serbia vs Switzerland {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/226ad9bd618789bd/original/zyqenzopkz1grhakwd1q-pdf.pdf |title=Match report – Group E – Serbia v Switzerland |publisher=[[FIFA]] |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063236/https://digitalhub.fifa.com/m/226ad9bd618789bd/original/zyqenzopkz1grhakwd1q-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _srb18h
+ |pattern_b  = _srb18H
+ |pattern_ra = _srb18h
+ |pattern_sh = _srb18h
+ |pattern_so =
+ |leftarm    = FF0005
+ |body       = FF0005
+ |rightarm   = FF0005
+ |shorts     = FF0005
+ |socks      = FF0005
+ |title      = Serbia<ref name="SRB-SUI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/3ff08361099d82a9/original/vojcu1bzkrsppctwpkpz-pdf.pdf |title=Tactical Line-up – Group E – Serbia v Switzerland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 June 2018 |access-date=22 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182233/https://digitalhub.fifa.com/m/3ff08361099d82a9/original/vojcu1bzkrsppctwpkpz-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _sui18a
+ |pattern_b  = _sui18a
+ |pattern_ra = _sui18a
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Switzerland}}<ref name="SRB-SUI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vladimir Stojković]]
+|-
+|RB ||'''6''' ||[[Branislav Ivanović]]
+|-
+|CB ||'''15'''||[[Nikola Milenković]]
+|-
+|CB ||'''3''' ||[[Duško Tošić]]
+|-
+|LB ||'''11'''||[[Aleksandar Kolarov]] ([[Captain (association football)|c]])
+|-
+|CM ||'''21'''||[[Nemanja Matić]] || {{yel|45+2}}
+|-
+|CM ||'''4''' ||[[Luka Milivojević]] || {{yel|39}} || {{suboff|81}}
+|-
+|RW ||'''10'''||[[Dušan Tadić]]
+|-
+|AM ||'''20'''||[[Sergej Milinković-Savić]] || {{yel|34}}
+|-
+|LW ||'''17'''||[[Filip Kostić]] || || {{suboff|64}}
+|-
+|CF ||'''9''' ||[[Aleksandar Mitrović (footballer)|Aleksandar Mitrović]] || {{yel|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Adem Ljajić]] || || {{subon|64}}
+|-
+|FW ||'''18'''||[[Nemanja Radonjić]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Mladen Krstajić]]
+|}
+|valign="top"|[[File:SRB-SUI 2018-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Yann Sommer]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]] ([[Captain (association football)|c]])
+|-
+|CB ||'''22'''||[[Fabian Schär]]
+|-
+|CB ||'''5''' ||[[Manuel Akanji]]
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|CM ||'''11'''||[[Valon Behrami]]
+|-
+|CM ||'''10'''||[[Granit Xhaka]]
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]] || {{yel|90+1}}
+|-
+|AM ||'''15'''||[[Blerim Džemaili]] || || {{suboff|73}}
+|-
+|LW ||'''14'''||[[Steven Zuber]] || || {{suboff|90+4}}
+|-
+|CF ||'''9''' ||[[Haris Seferovic]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Mario Gavranović]] || || {{subon|46}}
+|-
+|FW ||'''7''' ||[[Breel Embolo]] || || {{subon|73}}
+|-
+|FW ||'''19'''||[[Josip Drmić]] || || {{subon|90+4}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimir Petković]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Xherdan Shaqiri]] (Switzerland)<ref name="SRB-SUI recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="SRB-SUI line-ups"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />Stefan Lupp ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Yaser Tulefat ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+|}
+
+===Serbia vs Brazil===
+The two teams had met once, a 2014 friendly won by Brazil 1–0. Playing as [[Yugoslavia national football team|Yugoslavia]], the two teams met 18 times, including four times at FIFA World Cup's group stages in [[1930 FIFA World Cup|1930]], [[1950 FIFA World Cup|1950]], [[1954 FIFA World Cup|1954]] and [[1974 FIFA World Cup|1974]], with one victory each and two draws.<ref name=Kit10/>
+
+[[Marcelo (footballer, born 1988)|Marcelo]] was replaced with [[Filipe Luís]] in the 10th minute, due to a back [[spasm]]. [[Gabriel Jesus]] created a chance for [[Neymar]], whose cross-goal strike was pushed away by [[Vladimir Stojković]]. Jesus cut inside of [[Miloš Veljković]] and saw his shot blocked behind by [[Nikola Milenković]]. In the 36th minute, [[Paulinho (footballer, born July 1988)|Paulinho]] raced between two defenders and poked [[Philippe Coutinho]]'s delivery beyond the onrushing Stojković. Neymar had a low drive kept out by Stojković at the near post five minutes into the second period. [[Aleksandar Mitrović (footballer)|Aleksandar Mitrović]] headed a cross from [[Antonio Rukavina]] straight at the feet of the keeper in the 65th minute. [[Thiago Silva]] headed home at the near post from Neymar's left-wing corner in the 68th minute.<ref name="SRB-BRA recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/brazil-see-off-serbia-to-top-group |title=Brazil see off Serbia to top group |publisher=FIFA |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520052612/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/brazil-see-off-serbia-to-top-group |archive-date=20 May 2026}}</ref><ref>{{cite web |last=Webber |first=Tom |title=Paulinho and Silva clinch top spot |url=http://www.goal.com/en/match/serbia-v-brazil/3pph5gvc9o8ktikm2w5066gvd?ICID=AR |website=Goal.com |date=27 June 2018}}</ref>
+
+Brazil have qualified from the group stage of the World Cup for the 13th consecutive tournament, a run stretching back to 1970. Brazil have now won back-to-back World Cup matches for the first time since 2010, when they won their opening two group matches.<ref>{{cite web |last=Fletcher |first=Paul |title=Serbia 0 Brazil 2 |url=https://www.bbc.com/sport/football/44439284 |work=BBC Sport |date=27 June 2018}}</ref> For Serbia, this was the second consecutive elimination from the group stage in their World Cup history as an independent nation. Also, after Germany's previous match with Sweden where Germany initially managed to restore the all-time record of World Cup goals by any team with 226 goals, just as Brazil have managed to tie up the record of 224 goals after Neymar's goal in the match against Costa Rica, they have done it again in this match with Thiago Silva's goal that has now brought them to 226 goals with Germany.
+
+<onlyinclude>{{#invoke:Football box|main|section=e5
+|date={{Start date|2018|6|27|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|SRB}}
+|score={{score link|2018 FIFA World Cup Group E#Serbia vs Brazil|0–2}}
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+*[[Paulinho (footballer, born July 1988)|Paulinho]] {{goal|36}}
+*[[Thiago Silva]] {{goal|68}}
+|stadium=[[Otkritie Arena]], [[Moscow]]
+|attendance=44,190
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331521 |title=Serbia vs Brazil {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/31e84ac538f76e78/original/cht1mq9imq3gfvd7ulgg-pdf.pdf |title=Match report – Group E – Serbia v Brazil |publisher=[[FIFA]] |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063655/https://digitalhub.fifa.com/m/31e84ac538f76e78/original/cht1mq9imq3gfvd7ulgg-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _srb18h
+ |pattern_b  = _srb18H
+ |pattern_ra = _srb18h
+ |pattern_sh = _srb18h
+ |pattern_so =
+ |leftarm    = FF0005
+ |body       = FF0005
+ |rightarm   = FF0005
+ |shorts     = FF0005
+ |socks      = FF0005
+ |title      = Serbia<ref name="SRB-BRA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/20d17e2fc6f122fe/original/x5eadmfjerb6odbattw0-pdf.pdf |title=Tactical Line-up – Group E – Serbia v Brazil |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522184033/https://digitalhub.fifa.com/m/20d17e2fc6f122fe/original/x5eadmfjerb6odbattw0-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _bra18h
+ |pattern_b  = _bra18h
+ |pattern_ra = _bra18h
+ |pattern_sh = _bra18h
+ |pattern_so = _bra18H
+ |leftarm    = FFE400
+ |body       = FFE400
+ |rightarm   = FFE400
+ |shorts     = 003CFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="SRB-BRA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vladimir Stojković]]
+|-
+|RB ||'''2''' ||[[Antonio Rukavina]]
+|-
+|CB ||'''15'''||[[Nikola Milenković]]
+|-
+|CB ||'''13'''||[[Miloš Veljković]]
+|-
+|LB ||'''11'''||[[Aleksandar Kolarov]] ([[Captain (association football)|c]])
+|-
+|CM ||'''21'''||[[Nemanja Matić]] || {{yel|48}}
+|-
+|CM ||'''20'''||[[Sergej Milinković-Savić]]
+|-
+|RW ||'''10'''||[[Dušan Tadić]]
+|-
+|AM ||'''22'''||[[Adem Ljajić]] || {{yel|33}} || {{suboff|75}}
+|-
+|LW ||'''17'''||[[Filip Kostić]] || || {{suboff|82}}
+|-
+|CF ||'''9''' ||[[Aleksandar Mitrović (footballer)|Aleksandar Mitrović]] || {{yel|70}} || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Andrija Živković]] || || {{subon|75}}
+|-
+|FW ||'''18'''||[[Nemanja Radonjić]] || || {{subon|82}}
+|-
+|FW ||'''19'''||[[Luka Jović]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Mladen Krstajić]]
+|}
+|valign="top"|[[File:SRB-BRA 2018-06-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alisson]]
+|-
+|RB ||'''22'''||[[Fagner Conserva Lemos|Fagner]]
+|-
+|CB ||'''2''' ||[[Thiago Silva]]
+|-
+|CB ||'''3''' ||[[Miranda (footballer, born 1984)|Miranda]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||[[Marcelo (footballer, born 1988)|Marcelo]] || || {{suboff|10}}
+|-
+|CM ||'''15'''||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|66}}
+|-
+|CM ||'''5''' ||[[Casemiro]]
+|-
+|RW ||'''19'''||[[Willian (footballer, born 1988)|Willian]]
+|-
+|AM ||'''11'''||[[Philippe Coutinho]] || || {{suboff|80}}
+|-
+|LW ||'''10'''||[[Neymar]]
+|-
+|CF ||'''9''' ||[[Gabriel Jesus]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Filipe Luís]] || || {{subon|10}}
+|-
+|MF ||'''17'''||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || || {{subon|66}}
+|-
+|MF ||'''8''' ||[[Renato Augusto]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Tite (football manager)|Tite]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Paulinho (footballer, born July 1988)|Paulinho]] (Brazil)<ref name="SRB-BRA recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="SRB-BRA line-ups"/>
+<br />Reza Sokhandan ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />[[Mohammadreza Mansouri]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Anouar Hmila ([[Tunisian Football Federation|Tunisia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===Switzerland vs Costa Rica===
+[[File:Kendall Waston 2018 World Cup.jpg|thumb|right|The Costa Ricans celebrating Waston's goal]]The two teams had faced each other twice, most recently in a 2010 friendly won by Costa Rica 1–0.<ref name=Kit11/>
+
+Two Costa Rican shots hit the woodwork, one of which was tipped on to the post by Sommer, before [[Stephan Lichtsteiner]]'s right-wing cross was headed back across goal by [[Breel Embolo]], and the unmarked [[Blerim Džemaili]] lashed home from eight yards. [[Keylor Navas]] blocked Embolo's effort at his near post, before [[Kendall Waston]] headed [[Joel Campbell]]'s outswinging corner from six yards after 56 minutes. [[Josip Drmić]] slotted into the bottom corner from [[Denis Zakaria]]'s low cross. Switzerland then hit the frame of the goal in the 78th minute. Referee awarded a spot-kick after [[Bryan Ruiz]] had been bundled over in the area, only for the decision to be reversed after replays showed that he had strayed into an offside position when he received the ball.<ref>{{cite web |last=Atkinson |first=Guy |title=Petkovic's men set up Sweden last 16 clash |url=http://www.goal.com/en-tz/match/815022/switzerland-vs-costa-rica/report |website=Goal.com |date=27 June 2018}}</ref> Ruiz did get a chance from the spot in the third minute of stoppage time when Campbell was felled in the box, his penalty hit the bar and then bounced in the net off of [[Yann Sommer]]'s head as an own goal.<ref name="BBC Switzerland v Costa Rica">{{cite web |last=Poole |first=Harry |title=Switzerland 2 Costa Rica 2 |url=https://www.bbc.com/sport/football/44439291 |work=BBC Sport |date=27 June 2018}}</ref>
+
+Waston's goal for Costa Rica was their first in 424 minutes of play in World Cup matches (not including penalty shoot-outs), with their previous goal scored by Ruiz in the last 16 of the 2014 tournament [[2014 FIFA World Cup knockout stage#Costa Rica vs Greece|against Greece]].<ref name="SUI-CRC recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/switzerland-make-their-point-against-costa-rica-2971976 |title=Switzerland make their point against Costa Rica |publisher=FIFA |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520052428/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/switzerland-make-their-point-against-costa-rica-2971976 |archive-date=20 May 2026}}</ref> Switzerland have avoided defeat in each of their three group stage matches at the World Cup for the first time since 2006. Costa Rica became the last side to score a goal at Russia 2018. Sommer is just the third goalkeeper to score an own goal at the World Cup, after Honduras' [[Noel Valladares]] [[2014 FIFA World Cup Group E#France vs Honduras|against France]] in 2014 and Spain's [[Andoni Zubizarreta]] [[1998 FIFA World Cup Group D#Spain vs Nigeria|against Nigeria]] in 1998.<ref name="BBC Switzerland v Costa Rica"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=e6
+|date={{Start date|2018|6|27|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|SUI}}
+|score={{score link|2018 FIFA World Cup Group E#Switzerland vs Costa Rica|2–2}}
+|team2={{fb|CRC}}
+|goals1=
+*[[Blerim Džemaili|Džemaili]] {{goal|31}}
+*[[Josip Drmić|Drmić]] {{goal|88}}
+|goals2=
+*[[Kendall Waston|Waston]] {{goal|56}}
+*[[Yann Sommer|Sommer]] {{goal|90+3|o.g.}}
+|stadium=[[Nizhny Novgorod Stadium]], [[Nizhny Novgorod]]
+|attendance=43,319
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331534 |title=Switzerland vs Costa Rica {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/56ffefe5ab36c90/original/fjtda2meel6sryckq68r-pdf.pdf |title=Match report – Group E – Switzerland v Costa Rica |publisher=[[FIFA]] |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063642/https://digitalhub.fifa.com/m/56ffefe5ab36c90/original/fjtda2meel6sryckq68r-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _suica1819h
+ |pattern_b  = _suica1819h
+ |pattern_ra = _suica1819h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland<ref name="SUI-CRC line-ups">{{cite web |url=https://digitalhub.fifa.com/m/58089d9fb9d7106f/original/ikrd4ex3x0p9qzbnqq6d-pdf.pdf |title=Tactical Line-up – Group E – Switzerland v Costa Rica |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=27 June 2018 |access-date=27 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522184327/https://digitalhub.fifa.com/m/58089d9fb9d7106f/original/ikrd4ex3x0p9qzbnqq6d-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _crc18a
+ |pattern_b  = _crc18a
+ |pattern_ra = _crc18a
+ |pattern_sh =
+ |pattern_so = _crc18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 02030D
+ |title      = {{nowrap|Costa Rica}}<ref name="SUI-CRC line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Yann Sommer]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]] ([[Captain (association football)|c]]) || {{yel|37}}
+|-
+|CB ||'''22'''||[[Fabian Schär]] || {{yel|83}}
+|-
+|CB ||'''5''' ||[[Manuel Akanji]]
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|CM ||'''11'''||[[Valon Behrami]] || || {{suboff|60}}
+|-
+|CM ||'''10'''||[[Granit Xhaka]]
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]] || || {{suboff|81}}
+|-
+|AM ||'''15'''||[[Blerim Džemaili]]
+|-
+|LW ||'''7''' ||[[Breel Embolo]]
+|-
+|CF ||'''18'''||[[Mario Gavranović]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Denis Zakaria]] || {{yel|75}} || {{subon|60}}
+|-
+|FW ||'''19'''||[[Josip Drmić]] || || {{subon|69}}
+|-
+|DF ||'''6''' ||[[Michael Lang (footballer, born 1991)|Michael Lang]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimir Petković]]
+|}
+|valign="top"|[[File:SUI-CRC 2018-06-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Keylor Navas]]
+|-
+|SW ||'''3''' ||[[Giancarlo González]]
+|-
+|CB ||'''2''' ||[[Jhonny Acosta]]
+|-
+|CB ||'''19'''||[[Kendall Waston]] || {{yel|89}}
+|-
+|RWB||'''16'''||[[Cristian Gamboa]] || {{yel|11}} || {{suboff|90+3}}
+|-
+|LWB||'''8''' ||[[Bryan Oviedo]]
+|-
+|CM ||'''5''' ||[[Celso Borges]]
+|-
+|CM ||'''20'''||[[David Guzmán]] || || {{suboff|90+1}}
+|-
+|RW ||'''9''' ||[[Daniel Colindres]] || || {{suboff|81}}
+|-
+|LW ||'''10'''||[[Bryan Ruiz]] ([[Captain (association football)|c]])
+|-
+|CF ||'''12'''||[[Joel Campbell]] || {{yel|29}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Rodney Wallace (footballer)|Rodney Wallace]] || || {{subon|81}}
+|-
+|MF ||'''14'''||[[Randall Azofeifa]] || || {{subon|90+1}}
+|-
+|DF ||'''4''' ||[[Ian Smith (footballer, born 1998)|Ian Smith]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Ramírez (footballer, born 1964)|Óscar Ramírez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Blerim Džemaili]] (Switzerland)<ref name="SUI-CRC recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="SUI-CRC line-ups"/>
+<br />Nicolas Danos ([[French Football Federation|France]])
+<br />Cyril Gringore ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Bertrand Brial ([[New Caledonian Football Federation|New Caledonia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|}
+
+==Discipline==
+Fair play points would have been used as tiebreakers if the overall and head-to-head records of teams were tied. These were calculated based on yellow and red cards received in all group matches as follows:<ref name="regulations"/>
+*first yellow card: minus 1 point;
+*indirect red card (second yellow card): minus 3 points;
+*direct red card: minus 4 points;
+*yellow card and direct red card: minus 5 points;
+
+Only one of the above deductions were applied to a player in a single match.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Points
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{fb|BRA}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+!style="border-left:3px solid gray"| −3
+|-
+|align=left|{{fb|CRC}}
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+!style="border-left:3px solid gray"| −6
+|-
+|align=left|{{fb|SUI}}
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+!style="border-left:3px solid gray"| −7
+|-
+|align=left|{{fb|SRB}}
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 4 ||  ||  || 
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+!style="border-left:3px solid gray"| −9
+|}
+
+==See also==
+*[[Brazil at the FIFA World Cup]]
+*[[Costa Rica at the FIFA World Cup]]
+*[[Serbia at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20171202100544/http://www.fifa.com/worldcup/groups/group=275083/index.html 2018 FIFA World Cup Group E], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:2018 FIFA World Cup group stage|E]]
+[[Category:Brazil at the 2018 FIFA World Cup]]
+[[Category:Switzerland at the 2018 FIFA World Cup]]
+[[Category:Costa Rica at the 2018 FIFA World Cup]]
+[[Category:Serbia at the 2018 FIFA World Cup]]
+[[Category:Sport in Samara]]
+[[Category:Sport in Rostov-on-Don]]
+[[Category:Football in Saint Petersburg]]
+[[Category:2018 in Saint Petersburg]]
+[[Category:Sport in Kaliningrad]]
+[[Category:Football in Moscow]]
+[[Category:2018 in Moscow]]
+[[Category:Sport in Nizhny Novgorod]]
+[[Category:2018 in Rostov-on-Don]]
+[[Category:2018 in Nizhny Novgorod]]

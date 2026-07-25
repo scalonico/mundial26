@@ -1,0 +1,899 @@
+{{Short description|Football teams}}
+{{Use dmy dates|date=June 2018}}
+Group A was one of eight groups at the [[2002 FIFA World Cup]]. It consisted of defending champions [[France national football team|France]], two-time winners [[Uruguay national football team|Uruguay]], [[Denmark national football team|Denmark]] and debutants [[Senegal national football team|Senegal]]. The group's first match was played on 31 May 2002 and the last on 11 June 2002.<ref>{{cite web |last=Manaschev |first=Erlan |url=https://www.rsssf.org/tables/2002full.html |title=World Cup 2002 – Match Details |publisher=[[RSSSF]] |date=3 July 2008 |access-date=30 April 2026}}</ref>
+
+From the outset, it was apparent that the group would not pan out as expected, as Senegal beat France 1–0 in the [[List of FIFA World Cup opening matches|opening match]] of the tournament. France followed this with a goalless draw against Uruguay, in a match in which their star striker [[Thierry Henry]] was sent off, before rounding out the group with another defeat to Denmark. Senegal's other two matches finished as draws, including a well-earned point against Denmark and a bad-tempered game against Uruguay, in which 12 players were booked.
+
+Denmark started the group well, beating Uruguay in [[Ulsan Munsu Football Stadium|Ulsan]], before a late Senegalese equaliser in [[Daegu Stadium|Daegu]] prevented them from qualifying for the round of 16 with a match to spare. Instead, they were forced to play France, knowing that a draw would see them through to the next round. They won 2–0 and finished top of the group thanks to Senegal's draw with Uruguay.
+
+Dark horses Uruguay never really got going, with their high point being a goalless draw with a sub-par French side. They did manage to put three goals past Senegal in a high-scoring draw, but their loss to Denmark in their opening match had dashed any hopes they may have had of reaching the next round.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/4395?date=2002-06-14&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=DEN |team2=SEN |team3=URU |team4=FRA
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2002 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_DEN=2 |draw_DEN=1 |loss_DEN=0 |gf_DEN=5 |ga_DEN=2
+|win_SEN=1 |draw_SEN=2 |loss_SEN=0 |gf_SEN=5 |ga_SEN=4
+|win_URU=0 |draw_URU=2 |loss_URU=1 |gf_URU=4 |ga_URU=5
+|win_FRA=0 |draw_FRA=1 |loss_FRA=2 |gf_FRA=0 |ga_FRA=3
+
+|name_DEN={{fb|DEN}}
+|name_SEN={{fb|SEN}}
+|name_URU={{fb|URU}}
+|name_FRA={{fb|FRA|1974}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2002 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+*Denmark advanced to play England (runner-up of [[2002 FIFA World Cup Group F|Group F]]) in the [[2002 FIFA World Cup knockout stage#Denmark vs England|round of 16]].
+*Senegal advanced to play Sweden (winner of [[2002 FIFA World Cup Group F|Group F]]) in the [[2002 FIFA World Cup knockout stage#Sweden vs Senegal|round of 16]].
+
+==Matches==
+''All times are local ([[Korea Standard Time|UTC+9]])''
+
+===France vs Senegal===
+<onlyinclude>{{#invoke:Football box|main|section=A1
+|date={{Start date|2002|5|31|df=y}}
+|time=20:30
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2002 FIFA World Cup Group A#France vs Senegal|0–1}}
+|team2={{fb|SEN}}
+|goals1=
+|goals2=
+*[[Papa Bouba Diop|Bouba Diop]] {{goal|30}}
+|stadium=[[Seoul World Cup Stadium]], [[Seoul]]
+|attendance=62,561
+|referee=[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950001 |title=France vs Senegal {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950001/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – France v Senegal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229173519/http://www.fifa.com/worldcup/matches/round=43950100/match=43950001/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/01_0531_SEO_FRA-SEN_Fulltime.pdf |title=Match Report – Group A – France v Senegal |publisher=[[FIFA]] |date=31 May 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20051028175009/http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/01_0531_SEO_FRA-SEN_Fulltime.pdf |archive-date=28 October 2005}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _france2002h
+ |pattern_b  = _france2002h
+ |pattern_ra = _france2002h
+ |pattern_sh = _france2002a
+ |pattern_so = 
+ |leftarm    = 002CD6
+ |body       = 002CD6
+ |rightarm   = 002CD6
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = France
+}}
+|{{Football kit
+ |pattern_la = _senegal2002
+ |pattern_b  = _sen02
+ |pattern_ra = _senegal2002
+ |pattern_sh = _sen02a
+ |pattern_so = _sen02h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 008000
+ |socks      = FFFFFF
+ |title      = Senegal
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''18'''||[[Frank Leboeuf]]
+|-
+|CB ||'''8''' ||[[Marcel Desailly]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]]
+|-
+|CM ||'''4''' ||[[Patrick Vieira]]
+|-
+|CM ||'''17'''||[[Emmanuel Petit]] || {{yel|45+2}}
+|-
+|RW ||'''11'''||[[Sylvain Wiltord]] || || {{suboff|81}}
+|-
+|AM ||'''6''' ||[[Youri Djorkaeff]] || || {{suboff|60}}
+|-
+|LW ||'''12'''||[[Thierry Henry]]
+|-
+|CF ||'''20'''||[[David Trezeguet]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Christophe Dugarry]] || || {{subon|60}}
+|-
+|FW ||'''9''' ||[[Djibril Cissé]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Roger Lemerre]]
+|}
+|valign="top"|[[File:FRA-SEN_2002-05-31.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Sylva]]
+|-
+|RB ||'''17'''||[[Ferdinand Coly]]
+|-
+|CB ||'''13'''||[[Lamine Diatta]]
+|-
+|CB ||'''4''' ||[[Pape Malick Diop]]
+|-
+|LB ||'''2''' ||[[Omar Daf]]
+|-
+|DM ||'''6''' ||[[Aliou Cissé]] ([[Captain (association football)|c]]) || {{yel|51}}
+|-
+|RM ||'''14'''||[[Moussa N'Diaye (footballer, born 1979)|Moussa N'Diaye]]
+|-
+|CM ||'''19'''||[[Papa Bouba Diop]]
+|-
+|CM ||'''15'''||[[Salif Diao]]
+|-
+|LM ||'''10'''||[[Khalilou Fadiga]]
+|-
+|CF ||'''11'''||[[El Hadji Diouf]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Bruno Metsu]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[El Hadji Diouf]] (Senegal)
+
+'''Assistant referees:'''
+<br />Ali Al-Traifi ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />Jorge Rattalino ([[Argentine Football Association|Argentina]])
+<br />'''Fourth official:'''
+<br />[[Felipe Ramos]] ([[Mexican Football Federation|Mexico]])
+|}
+
+===Uruguay vs Denmark===
+<onlyinclude>{{#invoke:Football box|main|section=A2
+|date={{Start date|2002|6|1|df=y}}
+|time=18:00
+|team1={{fb-rt|URU}}
+|score={{score link|2002 FIFA World Cup Group A#Uruguay vs Denmark|1–2}}
+|team2={{fb|DEN}}
+|goals1=
+*[[Darío Rodríguez (Uruguayan footballer)|Rodríguez]] {{goal|47}}
+|goals2=
+*[[Jon Dahl Tomasson|Tomasson]] {{goal|45||83}}
+|stadium=[[Munsu Cup Stadium]], [[Ulsan]]
+|attendance=30,157
+|referee=[[Saad Kamil Al-Fadhli|Saad Mane]] ([[Kuwait Football Association|Kuwait]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950003 |title=Uruguay vs Denmark {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950003/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Uruguay v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229172315/http://www.fifa.com/worldcup/matches/round=43950100/match=43950003/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/03_0601_ULS_URU-DEN_Fulltime.pdf |title=Match Report – Group A – Uruguay v Denmark |publisher=[[FIFA]] |date=1 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060516025910/http://us.ent4.yimg.com/fifaworldcup.yahoo.com/releases/03_0601_ULS_URU-DEN_Fulltime.pdf |archive-date=16 May 2006}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _thinwhiteborder
+ |pattern_b  = _uru02h
+ |pattern_ra = _thinwhiteborder
+ |pattern_sh = _uru02h
+ |pattern_so = _whiteline
+ |leftarm    = 80C0FF
+ |body       = AACCFF
+ |rightarm   = 80C0FF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay
+}}
+|{{Football kit
+ | pattern_la = _den02h
+ | pattern_b = _den02h
+ | pattern_ra  = _den02h
+ | pattern_sh = _denmark84h
+ | pattern_so = _hummel1718wr
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ |title      = Denmark
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fabián Carini]]
+|-
+|RB ||'''2''' ||[[Gustavo Méndez]] || {{yel|25}}
+|-
+|CB ||'''14'''||[[Gonzalo Sorondo]]
+|-
+|CB ||'''4''' ||[[Paolo Montero]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Darío Rodríguez (Uruguayan footballer)|Darío Rodríguez]] || || {{suboff|87}}
+|-
+|RM ||'''8''' ||[[Gustavo Varela (footballer, born 1978)|Gustavo Varela]]
+|-
+|CM ||'''5''' ||[[Pablo Gabriel García|Pablo García]]
+|-
+|LM ||'''7''' ||[[Gianni Guigou]]
+|-
+|AM ||'''20'''||[[Álvaro Recoba]] || || {{suboff|80}}
+|-
+|CF ||'''9''' ||[[Darío Silva]]
+|-
+|CF ||'''13'''||[[Sebastián Abreu]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Mario Regueiro]] || || {{subon|80}}
+|-
+|FW ||'''11'''||[[Federico Magallanes]] || || {{subon|87}}
+|-
+|FW ||'''18'''||[[Richard Morales]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Víctor Púa]]
+|}
+|valign="top"|[[File:URU-DEN_2002-06-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Sørensen]]
+|-
+|RB ||'''6''' ||[[Thomas Helveg]]
+|-
+|CB ||'''4''' ||[[Martin Laursen]] || {{yel|51}}
+|-
+|CB ||'''3''' ||[[René Henriksen]]
+|-
+|LB ||'''5''' ||[[Jan Heintze]] ([[Captain (association football)|c]]) || {{yel|34}} || {{suboff|58}}
+|-
+|CM ||'''2''' ||[[Stig Tøfting]]
+|-
+|CM ||'''7''' ||[[Thomas Gravesen]]
+|-
+|RW ||'''19'''||[[Dennis Rommedahl]]
+|-
+|AM ||'''9''' ||[[Jon Dahl Tomasson]]
+|-
+|LW ||'''8''' ||[[Jesper Grønkjær]] || || {{suboff|70}}
+|-
+|CF ||'''11'''||[[Ebbe Sand]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''12'''||[[Niclas Jensen]] || || {{subon|58}}
+|-
+|FW ||'''10'''||[[Martin Jørgensen]] || || {{subon|70}}
+|-
+|MF ||'''17'''||[[Christian Poulsen]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Morten Olsen]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Jon Dahl Tomasson]] (Denmark)
+
+'''Assistant referees:'''
+<br />Awni Hassouneh ([[Jordan Football Association|Jordan]])
+<br />Dramane Dante ([[Malian Football Federation|Mali]])
+<br />'''Fourth official:'''
+<br />[[Byron Moreno]] ([[Ecuadorian Football Federation|Ecuador]])
+|}
+
+===Denmark vs Senegal===
+<onlyinclude>{{#invoke:Football box|main|section=A3
+|date={{Start date|2002|6|6|df=y}}
+|time=15:30
+|team1={{fb-rt|DEN}}
+|score={{score link|2002 FIFA World Cup Group A#Denmark vs Senegal|1–1}}
+|team2={{fb|SEN}}
+|goals1=
+*[[Jon Dahl Tomasson|Tomasson]] {{goal|16|pen.}}
+|goals2=
+*[[Salif Diao|Diao]] {{goal|52}}
+|stadium=[[Daegu World Cup Stadium]], [[Daegu]]
+|attendance=43,500
+|referee=[[Carlos Batres]] ([[National Football Federation of Guatemala|Guatemala]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950020 |title=Denmark vs Senegal {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950020/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Denmark v Senegal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182214/http://www.fifa.com/worldcup/matches/round=43950100/match=43950020/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/20_0606_DAG_DEN-SEN_Fulltime.pdf |title=Match Report – Group A – Denmark v Senegal |publisher=[[FIFA]] |date=6 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060518185104/http://fifaworldcup.yahoo.com/releases/20_0606_DAG_DEN-SEN_Fulltime.pdf |archive-date=18 May 2006}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _den02h
+ | pattern_b  = _den02h
+ | pattern_ra = _den02h
+ | pattern_sh = _den84a
+ | pattern_so = _kalmar16h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ |title       = Denmark
+}}
+|{{Football kit
+ |pattern_la = _senegal2002
+ |pattern_b  = _sen02
+ |pattern_ra = _senegal2002
+ |pattern_sh = _sen02h
+ |pattern_so = _sen02h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Senegal
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Sørensen]]
+|-
+|RB ||'''6''' ||[[Thomas Helveg]] || {{yel|82}}
+|-
+|CB ||'''4''' ||[[Martin Laursen]]
+|-
+|CB ||'''3''' ||[[Rene Henriksen]]
+|-
+|LB ||'''5''' ||[[Jan Heintze]] ([[Captain (association football)|c]])
+|-
+|CM ||'''2''' ||[[Stig Tøfting]]
+|-
+|CM ||'''7''' ||[[Thomas Gravesen]] || || {{suboff|62}}
+|-
+|RW ||'''19'''||[[Dennis Rommedahl]] || || {{suboff|89}}
+|-
+|AM ||'''9''' ||[[Jon Dahl Tomasson]] || {{yel|20}}
+|-
+|LW ||'''8''' ||[[Jesper Grønkjær]] || || {{suboff|50}}
+|-
+|CF ||'''11'''||[[Ebbe Sand]] || {{yel|7}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Martin Jørgensen]] || || {{subon|50}}
+|-
+|MF ||'''17'''||[[Christian Poulsen]] || {{yel|84}} || {{subon|62}}
+|-
+|FW ||'''18'''||[[Peter Løvenkrands]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Morten Olsen]]
+|}
+|valign="top"|[[File:DEN-SEN_2002-06-06.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Sylva]]
+|-
+|RB ||'''17'''||[[Ferdinand Coly]]
+|-
+|CB ||'''13'''||[[Lamine Diatta]]
+|-
+|CB ||'''4''' ||[[Pape Malick Diop]] ([[Captain (association football)|c]])
+|-
+|LB ||'''2''' ||[[Omar Daf]]
+|-
+|RM ||'''14'''||[[Moussa N'Diaye (footballer, born 1979)|Moussa N'Diaye]] || || {{suboff|46}}
+|-
+|CM ||'''3''' ||[[Pape Sarr]] || || {{suboff|46}}
+|-
+|CM ||'''15'''||[[Salif Diao]] || {{sent off|1|62|80}}
+|-
+|CM ||'''19'''||[[Papa Bouba Diop]]
+|-
+|LM ||'''10'''||[[Khalilou Fadiga]] || {{yel|10}}
+|-
+|CF ||'''11'''||[[El Hadji Diouf]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Henri Camara]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Souleymane Camara]] || || {{subon|46}} || {{suboff|83}}
+|-
+|DF ||'''21'''||[[Habib Beye]] || || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Bruno Metsu]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Khalilou Fadiga]] (Senegal)
+
+'''Assistant referees:'''
+<br />Ferenc Szekely ([[Hungarian Football Federation|Hungary]])
+<br />Visva Krishnan ([[Football Association of Singapore|Singapore]])
+<br />'''Fourth official:'''
+<br />Kim Young-Soo ([[Korea Football Association|South Korea]])
+|}
+
+===France vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=A4
+|date={{Start date|2002|6|6|df=y}}
+|time=20:30
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2002 FIFA World Cup Group A#France vs Uruguay|0–0}}
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+|stadium=[[Busan Asiad Stadium|Busan Asiad Main Stadium]], [[Busan]]
+|attendance=38,289
+|referee=[[Felipe Ramos]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950018 |title=France vs Uruguay {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950018/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – France v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219181434/http://www.fifa.com/worldcup/matches/round=43950100/match=43950018/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/18_0606_BUS_FRA-URU_Fulltime.pdf |title=Match Report – Group A – France v Uruguay |publisher=[[FIFA]] |date=6 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20060720205956/http://fifaworldcup.yahoo.com/releases/18_0606_BUS_FRA-URU_Fulltime.pdf |archive-date=20 July 2006}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _france2002a
+ |pattern_b  = _france2002a
+ |pattern_ra = _france2002a
+ |pattern_sh = _france2002a
+ |pattern_so = _
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = France
+}}
+|{{Football kit
+ |pattern_la = _thinwhiteborder
+ |pattern_b  = _uru02h
+ |pattern_ra = _thinwhiteborder
+ |pattern_sh = _uru02h
+ |pattern_so = _whiteline
+ |leftarm    = 80C0FF
+ |body       = AACCFF
+ |rightarm   = 80C0FF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''18'''||[[Frank Leboeuf]] || || {{suboff|16}}
+|-
+|CB ||'''8''' ||[[Marcel Desailly]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]]
+|-
+|CM ||'''4''' ||[[Patrick Vieira]]
+|-
+|CM ||'''17'''||[[Emmanuel Petit]] || {{yel|45+2}}
+|-
+|RW ||'''11'''||[[Sylvain Wiltord]] || || {{suboff|90+3}}
+|-
+|AM ||'''22'''||[[Johan Micoud]]
+|-
+|LW ||'''12'''||[[Thierry Henry]] || {{sent off|0|25}}
+|-
+|CF ||'''20'''||[[David Trezeguet]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Vincent Candela]] || || {{subon|16}}
+|-
+|FW ||'''9''' ||[[Djibril Cissé]] || || {{subon|81}}
+|-
+|FW ||'''21'''||[[Christophe Dugarry]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Roger Lemerre]]
+|}
+|valign="top"|[[File:FRA-URU_2002-06-06.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fabián Carini]]
+|-
+|RB ||'''3''' ||[[Alejandro Lembo]]
+|-
+|CB ||'''4''' ||[[Paolo Montero]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||[[Gonzalo Sorondo]]
+|-
+|LB ||'''6''' ||[[Darío Rodríguez (Uruguayan footballer)|Darío Rodríguez]] || || {{suboff|73}}
+|-
+|RM ||'''8''' ||[[Gustavo Varela (footballer, born 1978)|Gustavo Varela]]
+|-
+|CM ||'''5''' ||[[Pablo Gabriel García|Pablo García]] || {{yel|11}}
+|-
+|LM ||'''16'''||[[Marcelo Romero]] || {{yel|45+3}} || {{suboff|71}}
+|-
+|AM ||'''20'''||[[Álvaro Recoba]]
+|-
+|CF ||'''9''' ||[[Darío Silva]] || {{yel|47}} || {{suboff|60}}
+|-
+|CF ||'''13'''||[[Sebastián Abreu]] || {{yel|45+2}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Federico Magallanes]] || || {{subon|60}}
+|-
+|MF ||'''22'''||[[Gonzalo de los Santos]] || || {{subon|71}}
+|-
+|MF ||'''7''' ||[[Gianni Guigou]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Víctor Púa]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Fabien Barthez]] (France)
+
+'''Assistant referees:'''
+<br />Vladimir Fernández ([[Salvadoran Football Association|El Salvador]])
+<br />Curtis Charles ([[Antigua and Barbuda Football Association|Antigua and Barbuda]])
+<br />'''Fourth official:'''
+<br />[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|}
+
+===Denmark vs France===
+<onlyinclude>{{#invoke:Football box|main|section=A5
+|date={{Start date|2002|6|11|df=y}}
+|time=15:30
+|team1={{fb-rt|DEN}}
+|score={{score link|2002 FIFA World Cup Group A#Denmark vs France|2–0}}
+|team2={{fb|FRA|1974}}
+|goals1=
+*[[Dennis Rommedahl|Rommedahl]] {{goal|22}}
+*[[Jon Dahl Tomasson|Tomasson]] {{goal|67}}
+|goals2=
+|stadium=[[Incheon Munhak Stadium|Incheon World Cup Stadium]], [[Incheon]]
+|attendance=48,100
+|referee=[[Vítor Melo Pereira]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950033 |title=Denmark vs France {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950033/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Denmark v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227083623/http://www.fifa.com/worldcup/matches/round=43950100/match=43950033/index.html |archive-date=27 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/en/t/m/mr/33.html |title=Match Report – Group A – Denmark v France |publisher=[[FIFA]] |date=11 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030404072135/http://fifaworldcup.yahoo.com/en/t/m/mr/33.html |archive-date=4 April 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _den02h
+ | pattern_b = _den02h
+ | pattern_ra  = _den02h
+ | pattern_sh = _denmark84h
+ | pattern_so = _kalmar16h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ |title      = Denmark
+}}
+|{{Football kit
+ |pattern_la = _france2002a
+ |pattern_b  = _france2002a
+ |pattern_ra = _france2002a
+ |pattern_sh = _france2002h
+ |pattern_so = _francea0608
+ |leftarm    = 00288E 
+ |body       = 00288E 
+ |rightarm   = 00288E 
+ |shorts     = FFFFFF 
+ |socks      = FFFFFF
+ |title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Sørensen]]
+|-
+|RB ||'''6''' ||[[Thomas Helveg]]
+|-
+|CB ||'''4''' ||[[Martin Laursen]]
+|-
+|CB ||'''3''' ||[[Rene Henriksen]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||[[Niclas Jensen]] || {{yel|71}}
+|-
+|CM ||'''2''' ||[[Stig Tøfting]] || || {{suboff|79}}
+|-
+|CM ||'''17'''||[[Christian Poulsen]] || {{yel|27}} || {{suboff|76}}
+|-
+|CM ||'''7''' ||[[Thomas Gravesen]]
+|-
+|RW ||'''19'''||[[Dennis Rommedahl]]
+|-
+|LW ||'''10'''||[[Martin Jørgensen]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Jon Dahl Tomasson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''8''' ||[[Jesper Grønkjær]] || || {{subon|46}}
+|-
+|DF ||'''20'''||[[Kasper Bøgelund]] || || {{subon|76}}
+|-
+|MF ||'''23'''||[[Brian Steen Nielsen]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Morten Olsen]]
+|}
+|valign="top"|[[File:DEN-FRA_2002-06-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''2''' ||[[Vincent Candela]]
+|-
+|CB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''8''' ||[[Marcel Desailly]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]]
+|-
+|CM ||'''4''' ||[[Patrick Vieira]] || || {{suboff|71}}
+|-
+|CM ||'''7''' ||[[Claude Makélélé]]
+|-
+|RW ||'''11'''||[[Sylvain Wiltord]] || || {{suboff|83}}
+|-
+|AM ||'''10'''||[[Zinedine Zidane]]
+|-
+|LW ||'''21'''||[[Christophe Dugarry]] || {{yel|8}} || {{suboff|54}}
+|-
+|CF ||'''20'''||[[David Trezeguet]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Djibril Cissé]] || || {{subon|54}}
+|-
+|MF ||'''22'''||[[Johan Micoud]] || || {{subon|71}}
+|-
+|MF ||'''6''' ||[[Youri Djorkaeff]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Roger Lemerre]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Zinedine Zidane]] (France)
+
+'''Assistant referees:'''
+<br />Carlos Matos ([[Portuguese Football Federation|Portugal]])
+<br />Elise Doriri ([[Vanuatu Football Federation|Vanuatu]])
+<br />'''Fourth official:'''
+<br />[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|}
+
+===Senegal vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=A6
+|date={{Start date|2002|6|11|df=y}}
+|time=15:30
+|team1={{fb-rt|SEN}}
+|score={{score link|2002 FIFA World Cup Group A#Senegal vs Uruguay|3–3}}
+|team2={{fb|URU}}
+|goals1=
+*[[Khalilou Fadiga|Fadiga]] {{goal|20|pen.}}
+*[[Papa Bouba Diop|Bouba Diop]] {{goal|26||38}}
+|goals2=
+*[[Richard Morales|Morales]] {{goal|46}}
+*[[Diego Forlán|Forlán]] {{goal|69}}
+*[[Álvaro Recoba|Recoba]] {{goal|88|pen.}}
+|stadium=[[Suwon World Cup Stadium]], [[Suwon]]
+|attendance=33,681
+|referee=[[Jan Wegereef]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/4395/5928/43950034 |title=Senegal vs Uruguay {{!}} Group Stage {{!}} 2002 FIFA World Cup Korea/Japan |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950034/index.html |title=2002 FIFA World Cup Korea/Japan – Matches – Senegal v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219182239/http://www.fifa.com/worldcup/matches/round=43950100/match=43950034/index.html |archive-date=19 December 2017}} | {{cite web |url=http://fifaworldcup.yahoo.com/releases/34_0611_SUW_SEN-URU_Fulltime.pdf |title=Match Report – Group A – Senegal v Uruguay |publisher=[[FIFA]] |date=11 June 2002 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20030423233859/http://fifaworldcup.yahoo.com/releases/34_0611_SUW_SEN-URU_Fulltime.pdf |archive-date=23 April 2003}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sen02_away
+ |pattern_b  = _sen02_away
+ |pattern_ra = _sen02_away
+ |pattern_sh = _sen02a
+ |pattern_so = _sen02a
+ |leftarm    = 008000
+ |body       = 009530
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 008000
+ |title      = Senegal
+}}
+|{{Football kit
+ |pattern_la = _thinwhiteborder
+ |pattern_b  = _uru02h
+ |pattern_ra = _thinwhiteborder
+ |pattern_sh = _uru02h
+ |pattern_so = _whiteline
+ |leftarm    = 80C0FF
+ |body       = AACCFF
+ |rightarm   = 80C0FF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Sylva]]
+|-
+|RB ||'''17'''||[[Ferdinand Coly]] || {{yel|39}} || {{suboff|63}}
+|-
+|CB ||'''13'''||[[Lamine Diatta]]
+|-
+|CB ||'''4''' ||[[Pape Malick Diop]]
+|-
+|LB ||'''2''' ||[[Omar Daf]] || {{yel|4}}
+|-
+|RM ||'''19'''||[[Papa Bouba Diop]] || {{yel|69}}
+|-
+|CM ||'''6''' ||[[Aliou Cissé]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||[[Alassane N'Dour]] || || {{suboff|76}}
+|-
+|LM ||'''10'''||[[Khalilou Fadiga]] || {{yel|87}}
+|-
+|CF ||'''7''' ||[[Henri Camara]] || {{yel|2}} || {{suboff|67}}
+|-
+|CF ||'''11'''||[[El Hadji Diouf]] || {{yel|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Habib Beye]] || {{yel|87}} || {{subon|63}}
+|-
+|MF ||'''14'''||[[Moussa N'Diaye (footballer, born 1979)|Moussa N'Diaye]] || || {{subon|67}}
+|-
+|MF ||'''12'''||[[Amdy Faye]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Bruno Metsu]]
+|}
+|valign="top"|[[File:SEN-URU_2002-06-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fabián Carini]] || {{yel|19}}
+|-
+|RB ||'''3''' ||[[Alejandro Lembo]]
+|-
+|CB ||'''4''' ||[[Paolo Montero]] ([[Captain (association football)|c]]) || {{yel|82}}
+|-
+|CB ||'''14'''||[[Gonzalo Sorondo]] || || {{suboff|32}}
+|-
+|LB ||'''8''' ||[[Gustavo Varela (footballer, born 1978)|Gustavo Varela]]
+|-
+|RM ||'''16'''||[[Marcelo Romero]] || {{yel|8}} || {{suboff|46}}
+|-
+|CM ||'''5''' ||[[Pablo Gabriel García|Pablo García]] || {{yel|35}}
+|-
+|LM ||'''6''' ||[[Darío Rodríguez (Uruguayan footballer)|Darío Rodríguez]] || {{yel|40}}
+|-
+|AM ||'''20'''||[[Álvaro Recoba]]
+|-
+|CF ||'''9''' ||[[Darío Silva]]
+|-
+|CF ||'''13'''||[[Sebastián Abreu]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Mario Regueiro]] || || {{subon|32}}
+|-
+|FW ||'''18'''||[[Richard Morales]] || || {{subon|46}}
+|-
+|FW ||'''21'''||[[Diego Forlán]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Víctor Púa]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Papa Bouba Diop]] (Senegal)
+
+'''Assistant referees:'''
+<br />Jaap Pool ([[Royal Dutch Football Association|Netherlands]])
+<br />Ferenc Szekely ([[Hungarian Football Federation|Hungary]])
+<br />'''Fourth official:'''
+<br />[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|}
+
+==See also==
+*[[Denmark at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Senegal at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2002 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:2002 FIFA World Cup group stage|A]]
+[[Category:France at the 2002 FIFA World Cup]]
+[[Category:Denmark at the 2002 FIFA World Cup]]
+[[Category:Uruguay at the 2002 FIFA World Cup]]
+[[Category:Senegal at the 2002 FIFA World Cup]]
+[[Category:Football in Seoul]]
+[[Category:2000s in Seoul]]
+[[Category:Sports competitions in Ulsan]]
+[[Category:Sports competitions in Daegu]]
+[[Category:Sports competitions in Busan]]
+[[Category:Sports competitions in Incheon]]
+[[Category:Sports competitions in Suwon]]

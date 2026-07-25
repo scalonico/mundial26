@@ -1,0 +1,500 @@
+{{short description|Football tournament group}}
+{{Use dmy dates|date=June 2018}}
+Group D was one of four groups of national teams competing in the second stage of the [[1982 FIFA World Cup]]. The group's three matches were staged at the [[Vicente Calderón Stadium|Estadio Vicente Calderón]] in [[Madrid]]. The group consisted of three teams advancing from the first group stage: Group 2 runners-up [[Austria national football team|Austria]], Group 5 winners [[Northern Ireland national football team|Northern Ireland]] and Group 4 runners-up [[France national football team|France]].<ref>{{cite web |url=https://www.rsssf.org/tables/82full.html |title=World Cup 1982 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+France topped the group and advanced to the semi-finals.
+
+==Qualified teams==
+The winner of Group 5 and the runners-up of Group 2 and 4 qualified for Group D of the second round.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+|-
+! [[1982 FIFA World Cup Group 5|5]]
+| {{fb|NIR}}
+|-
+! Group
+! width="150" | Runners-up
+|-
+! [[1982 FIFA World Cup Group 2|2]]
+| {{fb|AUT}}
+|-
+! [[1982 FIFA World Cup Group 4|4]]
+| {{fb|FRA|1974}}
+|}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/spain1982/groups/index.html FIFA]
+
+|team1=FRA |team2=AUT |team3=NIR
+|result1=KO
+
+|win_FRA=2 |draw_FRA=0 |loss_FRA=0 |gf_FRA=5 |ga_FRA=1
+|win_AUT=0 |draw_AUT=1 |loss_AUT=1 |gf_AUT=2 |ga_AUT=3
+|win_NIR=0 |draw_NIR=1 |loss_NIR=1 |gf_NIR=3 |ga_NIR=6
+
+|name_NIR={{fb|NIR}}
+|name_AUT={{fb|AUT}}
+|name_FRA={{fb|FRA|1974}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1982 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Austria vs France===
+<onlyinclude>{{#invoke:Football box|main|section=D1
+|date={{Start date|1982|6|28|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|AUT}}
+|score={{score link|1982 FIFA World Cup Group D#Austria vs France|0–1}}
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Bernard Genghini|Genghini]] {{goal|39}}
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=37,000
+|referee=[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/294/767 |title=Austria vs France {{!}} Second Round {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=294/match=767/index.html |title=1982 FIFA World Cup Spain – Matches – Austria v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230041335/http://www.fifa.com/worldcup/matches/round=294/match=767/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _blackshoulders
+| pattern_b  = _austria82h
+| pattern_ra = _blackshoulders
+| pattern_sh = _whitesides
+| pattern_so = _band_red
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 000000
+ | title      = Austria
+}}
+|{{Football kit
+ | pattern_la = _France 1978-1982
+ | pattern_b  = _France 1982
+ | pattern_ra = _France 1978-1982
+ | pattern_sh = _france home adidas
+ | pattern_so = _france90h
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = FFFFFF
+ | socks      = FF0000
+| title      = France}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Friedrich Koncilia]]
+|-
+|SW ||'''3''' ||[[Erich Obermayer]] ([[Captain (association football)|c]]) || {{yel|60}}
+|-
+|DF ||'''2''' ||[[Bernd Krauss]]
+|-
+|DF ||'''5''' ||[[Bruno Pezzey]]
+|-
+|DF ||'''4''' ||[[Josef Degeorgi]] || || {{suboff|46}}
+|-
+|MF ||'''6''' ||[[Roland Hattenberger]]
+|-
+|MF ||'''8''' ||[[Herbert Prohaska]]
+|-
+|MF ||'''10'''||[[Reinhold Hintermaier]]
+|-
+|FW ||'''11'''||[[Kurt Jara]] || || {{suboff|46}}
+|-
+|FW ||'''7''' ||[[Walter Schachner]]
+|-
+|FW ||'''9''' ||[[Hans Krankl]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''14'''||[[Ernst Baumeister]] || || {{subon|46}}
+|-
+|FW ||'''18'''||[[Gernot Jurtin]]
+|-
+|DF ||'''19'''||[[Heribert Weber]]
+|-
+|FW ||'''20'''||[[Kurt Welzl]] || || {{subon|46}}
+|-
+|GK ||'''22'''||[[Klaus Lindenberger]]
+|-
+|colspan=3|'''Managers:'''
+|-
+|colspan=3|[[Felix Latzke]] & [[Georg Schmidt (footballer)|Georg Schmidt]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Jean-Luc Ettori]]
+|-
+|SW ||'''8''' ||[[Marius Trésor]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Gérard Janvion]]
+|-
+|DF ||'''4''' ||[[Maxime Bossis]]
+|-
+|DF ||'''3''' ||[[Patrick Battiston]]
+|-
+|MF ||'''9''' ||[[Bernard Genghini]] || || {{suboff|85}}
+|-
+|MF ||'''12'''||[[Alain Giresse]]
+|-
+|MF ||'''14'''||[[Jean Tigana]]
+|-
+|FW ||'''20'''||[[Gérard Soler]]
+|-
+|FW ||'''17'''||[[Bernard Lacombe]] || || {{suboff|15}}
+|-
+|FW ||'''19'''||[[Didier Six]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Dominique Baratelli]]
+|-
+|DF ||'''6''' ||[[Christian Lopez (footballer)|Christian Lopez]]
+|-
+|MF ||'''11'''||[[René Girard (footballer)|René Girard]] || || {{subon|85}}
+|-
+|MF ||'''13'''||[[Jean-François Larios]]
+|-
+|FW ||'''18'''||[[Dominique Rocheteau]] || || {{subon|15}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Michel Hidalgo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Vojtech Christov]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<br />[[Damir Matovinović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|}
+
+===Austria vs Northern Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=D2
+|date={{Start date|1982|7|1|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|AUT}}
+|score={{score link|1982 FIFA World Cup Group D#Austria vs Northern Ireland|2–2}}
+|team2={{fb|NIR}}
+|goals1=
+*[[Bruno Pezzey|Pezzey]] {{goal|50}}
+*[[Reinhold Hintermaier|Hintermaier]] {{goal|68}}
+|goals2=
+*[[Billy Hamilton (footballer)|Hamilton]] {{goal|27||75}}
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=20,000
+|referee=[[Adolf Prokop]] ([[Deutscher Fußball-Verband der DDR|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/294/771 |title=Austria vs Northern Ireland {{!}} Second Round {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=294/match=771/index.html |title=1982 FIFA World Cup Spain – Matches – Austria v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171029192059/http://www.fifa.com/worldcup/matches/round=294/match=771/index.html |archive-date=29 October 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _blackshoulders
+| pattern_b  = _austria82h
+| pattern_ra = _blackshoulders
+| pattern_sh = _whitesides
+| pattern_so = _band_red
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = 000000
+ | title      = Austria
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes
+ | pattern_sh = _adidas_green
+ | pattern_so = _3_stripes_white
+ | leftarm    = 008020
+ | body       = 008020
+ | rightarm   = 008020
+ | shorts     = 
+ | socks      = 008020
+ | title      = Northern Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Friedrich Koncilia]]
+|-
+|SW ||'''3''' ||[[Erich Obermayer]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Bernd Krauss]]
+|-
+|DF ||'''5''' ||[[Bruno Pezzey]]
+|-
+|DF ||'''17'''||[[Johann Pregesbauer]] || || {{suboff|46}}
+|-
+|MF ||'''12'''||[[Anton Pichler (footballer)|Anton Pichler]] || {{yel|86}}
+|-
+|MF ||'''8''' ||[[Herbert Prohaska]]
+|-
+|MF ||'''14'''||[[Ernst Baumeister]]
+|-
+|FW ||'''7''' ||[[Walter Schachner]]
+|-
+|FW ||'''13'''||[[Max Hagmayr]] || || {{suboff|46}}
+|-
+|FW ||'''18'''||[[Gernot Jurtin]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''10'''||[[Reinhold Hintermaier]] || || {{subon|46}}
+|-
+|MF ||'''15'''||[[Johann Dihanich]]
+|-
+|DF ||'''16'''||[[Gerald Messlender]]
+|-
+|FW ||'''20'''||[[Kurt Welzl]] || || {{subon|46}}
+|-
+|GK ||'''22'''||[[Klaus Lindenberger]]
+|-
+|colspan=3|'''Managers:'''
+|-
+|colspan=3|[[Felix Latzke]] & [[Georg Schmidt (footballer)|Georg Schmidt]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''17'''||[[Jim Platt]]
+|-
+|DF ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''5''' ||[[Chris Nicholl]]
+|-
+|DF ||'''12'''||[[John McClelland (footballer, born 1955)|John McClelland]]
+|-
+|DF ||'''13'''||[[Sammy Nelson]]
+|-
+|MF ||'''8''' ||[[Martin O'Neill]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Sammy McIlroy]]
+|-
+|MF ||'''4''' ||[[David McCreery]]
+|-
+|MF ||'''9''' ||[[Gerry Armstrong (footballer)|Gerry Armstrong]]
+|-
+|FW ||'''16'''||[[Norman Whiteside]]|| || {{suboff|68}}
+|-
+|FW ||'''11'''||[[Billy Hamilton (footballer)|Billy Hamilton]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[John O'Neill (footballer, born 1958)|John O'Neill]]
+|-
+|MF ||'''7''' ||[[Noel Brotherston]] || || {{subon|68}}
+|-
+|MF ||'''14'''||[[Tommy Cassidy]]
+|-
+|MF ||'''20'''||[[Jim Cleary (Northern Irish footballer)|Jim Cleary]]
+|-
+|GK ||'''22'''||[[George Dunlop (footballer)|George Dunlop]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Billy Bingham]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+<br />[[Walter Eschweiler]] ([[German Football Association|West Germany]])
+|}
+
+===France vs Northern Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=D3
+|date={{Start date|1982|7|4|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1982 FIFA World Cup Group D#France vs Northern Ireland|4–1}}
+|team2={{fb|NIR}}
+|goals1=
+*[[Alain Giresse|Giresse]] {{goal|33||80}}
+*[[Dominique Rocheteau|Rocheteau]] {{goal|46||68}}
+|goals2=
+*[[Gerry Armstrong (footballer)|Armstrong]] {{goal|75}}
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=37,000
+|referee=[[Alojzy Jarguz]] ([[Polish Football Association|Poland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/294/920 |title=France vs Northern Ireland {{!}} Second Round {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=294/match=920/index.html |title=1982 FIFA World Cup Spain – Matches – France v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231153704/http://www.fifa.com/worldcup/matches/round=294/match=920/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _France 1978-1982
+ | pattern_b  = _France 1982
+ | pattern_ra = _France 1978-1982
+ | pattern_sh = _france home adidas
+ | pattern_so = _france90h
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = France}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_green_stripes
+ | pattern_b  = _adidas_greenshoulder
+ | pattern_ra = _shoulder_stripes_green_stripes
+ | pattern_sh = _adidas_white
+ | pattern_so = _3_stripes_green
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 008020
+ | socks      = 
+ | title      = Northern Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Jean-Luc Ettori]]
+|-
+|DF ||'''2''' ||[[Manuel Amoros]]
+|-
+|DF ||'''8''' ||[[Marius Trésor]]
+|-
+|DF ||'''5''' ||[[Gérard Janvion]]
+|-
+|DF ||'''4''' ||[[Maxime Bossis]]
+|-
+|MF ||'''9''' ||[[Bernard Genghini]]
+|-
+|MF ||'''12'''||[[Alain Giresse]]
+|-
+|MF ||'''10'''||[[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14'''||[[Jean Tigana]] || {{yel|57}}
+|-
+|FW ||'''18'''||[[Dominique Rocheteau]] || || {{suboff|83}}
+|-
+|FW ||'''20'''||[[Gérard Soler]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''3''' ||[[Patrick Battiston]]
+|-
+|DF ||'''6''' ||[[Christian Lopez (footballer)|Christian Lopez]]
+|-
+|FW ||'''16'''||[[Alain Couriol]] || || {{subon|83}}
+|-
+|MF ||'''19'''||[[Didier Six]] || || {{subon|63}}
+|-
+|GK ||'''21'''||[[Jean Castaneda]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Michel Hidalgo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pat Jennings]]
+|-
+|DF ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''5''' ||[[Chris Nicholl]]
+|-
+|DF ||'''12'''||[[John McClelland (footballer, born 1955)|John McClelland]]
+|-
+|DF ||'''3''' ||[[Mal Donaghy]]
+|-
+|MF ||'''8''' ||[[Martin O'Neill]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Sammy McIlroy]]
+|-
+|MF ||'''4''' ||[[David McCreery]] || || {{suboff|86}}
+|-
+|MF ||'''9''' ||[[Gerry Armstrong (footballer)|Gerry Armstrong]]
+|-
+|FW ||'''11'''||[[Billy Hamilton (footballer)|Billy Hamilton]] || {{yel|59}}
+|-
+|FW ||'''16'''||[[Norman Whiteside]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[John O'Neill (footballer, born 1958)|John O'Neill]] || || {{subon|86}}
+|-
+|MF ||'''14'''||[[Tommy Cassidy]]
+|-
+|MF ||'''15'''||[[Tommy Finney]]
+|-
+|GK ||'''17'''||[[Jim Platt]]
+|-
+|MF ||'''20'''||[[Jim Cleary (Northern Irish footballer)|Jim Cleary]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Billy Bingham]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Nicolae Rainea]] ([[Romanian Football Federation|Romania]])
+<br />[[Yousef Alghoul]] ([[Libyan Football Federation|Libya]])
+|}
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Northern Ireland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/2602c368daaad887/original/bn1ocpuvccw3txzmiut3-pdf.pdf Spain 1982 FIFA Technical Report: Statistical Details of the Matches pp. 146-149]
+
+{{1982 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1982 FIFA World Cup group stage|Group D]]
+[[Category:France at the 1982 FIFA World Cup|Group D]]
+[[Category:Austria at the 1982 FIFA World Cup|Group D]]
+[[Category:Northern Ireland at the 1982 FIFA World Cup|Group D]]
+[[Category:1980s in Madrid]]
+[[Category:Football competitions in Madrid]]

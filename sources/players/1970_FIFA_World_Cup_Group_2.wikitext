@@ -1,0 +1,822 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 2 of the [[1970 FIFA World Cup]]''' was contested in the [[Estadio Cuauhtémoc]] and [[Estadio Nemesio Díez]] between 2 and 11 June 1970. [[Italy national football team|Italy]] won the group, and advanced to the quarter-finals, along with [[Uruguay national football team|Uruguay]], who finished second by virtue of goal difference. [[Sweden men's national football team|Sweden]] and [[Israel national football team|Israel]] failed to advance.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/mexico1970/index.html|archive-url=https://web.archive.org/web/20131220185153/http://www.fifa.com/tournaments/archive/worldcup/mexico1970/index.html|url-status=dead|archive-date=20 December 2013|title=1970 FIFA World Cup Mexico|publisher=fifa.com|accessdate=10 August 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/70full.html |title=World Cup 1970 |accessdate=10 August 2014 |url-status=live |website=[[RSSSF]] |archiveurl=https://web.archive.org/web/20160701154217/http://www.rsssf.com/tables/70full.html |archivedate=1 July 2016 }}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150224145302/http://www.fifa.com/worldcup/archive/mexico1970/groups/index.html FIFA]
+
+|team1=ITA |team2=URU |team3=SWE |team4=ISR
+|result1=A |result2=A
+
+|win_ITA=1 |draw_ITA=2 |loss_ITA=0 |gf_ITA=1 |ga_ITA=0
+|win_URU=1 |draw_URU=1 |loss_URU=1 |gf_URU=2 |ga_URU=1
+|win_SWE=1 |draw_SWE=1 |loss_SWE=1 |gf_SWE=2 |ga_SWE=2
+|win_ISR=0 |draw_ISR=2 |loss_ISR=1 |gf_ISR=1 |ga_ISR=3
+
+|name_ITA={{fb|ITA}}
+|name_ISR={{fb|ISR}}
+|name_URU={{fb|URU}}
+|name_SWE={{fb|SWE}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1970 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times local ([[Central Time Zone|UTC−6]])
+
+===Uruguay vs Israel===
+<onlyinclude>{{#invoke:Football box|main|section=2-1
+|date={{Start date|1970|6|2|df=y}}
+|time=16:00
+|team1={{fb-rt|URU}}
+|score={{score link|1970 FIFA World Cup Group 2#Uruguay vs Israel|2–0}}
+|team2={{fb|ISR}}
+|goals1=
+*[[Ildo Maneiro|Maneiro]] {{goal|23}}
+*[[Juan Mujica|Mujica]] {{goal|50}}
+|goals2=
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=20,654
+|referee=[[Bobby Davidson]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1881 |title=Uruguay vs Israel {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1881/index.html |title=1970 FIFA World Cup Mexico – Matches – Uruguay v Israel |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229070811/http://www.fifa.com/worldcup/matches/round=250/match=1881/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _vneckwhite
+ |pattern_ra = _whiteborder
+ |pattern_sh = _shorts
+ |pattern_so = _skytop
+ |leftarm    = 93bef8
+ |body       = 93bef8
+ |rightarm   = 93bef8
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay
+}}
+|{{Football kit
+| pattern_la = _borderonwhite
+ |pattern_b  = _collaronwhite
+ |pattern_ra = _borderonwhite
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 7EC0EE
+ |body       = 7EC0EE
+ |rightarm   = 7EC0EE
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Israel
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]]
+|-
+|DF ||'''4''' ||[[Luis Ubiña]] 
+|-
+|DF ||'''2''' ||[[Atilio Ancheta]]
+|-
+|DF ||'''3''' ||[[Roberto Matosas]]
+|-
+|DF ||'''6''' ||[[Juan Mujica]]
+|-
+|MF ||'''7''' ||[[Luis Cubilla]]
+|-
+|MF ||'''5''' ||[[Julio Montero Castillo]]
+|-
+|MF ||'''10'''||[[Ildo Maneiro]] 
+|-
+|MF ||'''8''' ||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]] ([[Captain (association football)|c]])|| || {{suboff|12}}
+|-
+|MF ||'''21'''||[[Julio Losada]]
+|-
+|FW ||'''9''' ||[[Víctor Espárrago]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Julio César Cortés]] || || {{subon|12}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Juan Hohberg]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Itzhak Vissoker]]
+|-
+|DF ||'''12'''||[[Yisha'ayahu Schwager]]
+|-
+|DF ||'''4''' ||[[David Primo]]
+|-
+|DF ||'''14'''||[[Danny Shmulevich-Rom]]|| || {{suboff|57}}
+|-
+|DF ||'''5''' ||[[Zvi Rosen]]
+|-
+|MF ||'''6''' ||[[Shmuel Rosenthal]]
+|-
+|MF ||'''8''' ||[[Giora Spiegel]] 
+|-
+|MF ||'''10'''||[[Mordechai Spiegler]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Itzhak Shum]]
+|-
+|FW ||'''9''' ||[[Yehoshua Feigenbaum]] 
+|-
+|FW ||'''15'''||[[Rachamim Talbi]]|| || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Shraga Bar]] || || {{subon|46}}
+|-
+|DF ||'''16'''||[[Yochanan Vollach]]  || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Emmanuel Scheffer]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+<br />[[Seyoum Tarekegn]] ([[Ethiopian Football Federation|Ethiopia]])
+|}
+
+===Italy vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=2-2
+|date={{Start date|1970|6|3|df=y}}
+|time=16:00
+|team1={{fb-rt|ITA}}
+|score={{score link|1970 FIFA World Cup Group 2#Italy vs Sweden|1–0}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Angelo Domenghini|Domenghini]] {{goal|10}}
+|goals2=
+|stadium=[[Estadio Nemesio Díez|Estadio Luis Dosal]], [[Toluca]]
+|attendance=13,433
+|referee=[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1883 |title=Italy vs Sweden {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1883/index.html |title=1970 FIFA World Cup Mexico – Matches – Italy v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229070258/http://www.fifa.com/worldcup/matches/round=250/match=1883/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{football kit
+ | pattern_la = 
+ | pattern_b=_ita70h
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = 3120CC
+ | body       = 3120CC
+ | rightarm   = 3120CC
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title     =  Italy
+}}
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _vneckblue
+ | pattern_ra = _blueborder
+ | pattern_so = _bluehorizontal
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ | title      = Sweden
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enrico Albertosi]]
+|-
+|DF ||'''2''' ||[[Tarcisio Burgnich]]
+|-
+|DF ||'''5''' ||[[Pierluigi Cera]]
+|-
+|DF ||'''7''' ||[[Comunardo Niccolai]]|| || {{suboff|37}}
+|-
+|DF ||'''3''' ||[[Giacinto Facchetti]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Mario Bertini]]
+|-
+|MF ||'''16'''||[[Giancarlo De Sisti]] 
+|-
+|MF ||'''15'''||[[Alessandro Mazzola]]
+|-
+|FW ||'''13'''||[[Angelo Domenghini]]
+|-
+|FW ||'''20'''||[[Roberto Boninsegna]]
+|-
+|FW ||'''11'''||[[Gigi Riva]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''8''' ||[[Roberto Rosato]] || || {{subon|37}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ferruccio Valcareggi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ronnie Hellström]]
+|-
+|DF ||'''13'''||[[Claes Cronqvist]]||{{yel|56}} 
+|-
+|DF ||'''3''' ||[[Kurt Axelsson]] 
+|-
+|DF ||'''4''' ||[[Björn Nordqvist]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Roland Grip]]
+|-
+|MF ||'''6''' ||[[Tommy Svensson]]
+|-
+|MF ||'''7''' ||[[Bo Larsson]]|| || {{suboff|80}}
+|-
+|MF ||'''20'''||[[Jan Olsson (footballer born 1944)|Jan Olsson]]
+|-
+|FW ||'''8''' ||[[Leif Eriksson (footballer)|Leif Eriksson]]|| || {{suboff|68}}
+|-
+|FW ||'''9''' ||[[Ove Kindvall]]
+|-
+|FW ||'''10'''||[[Ove Grahn]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Göran Nicklasson]] || || {{subon|80}}
+|-
+|FW ||'''21'''||[[Inge Ejderstedt]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Orvar Bergmark]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Rudolf Scheurer]] ([[Swiss Football Association|Switzerland]])
+<br />[[Ali Kandil]] ([[Egyptian Football Association|Egypt]])
+|}
+
+===Uruguay vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=2-3
+|date={{Start date|1970|6|6|df=y}}
+|time=16:00
+|team1={{fb-rt|URU}}
+|score={{score link|1970 FIFA World Cup Group 2#Uruguay vs Italy|0–0}}
+|team2={{fb|ITA}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=29,968
+|referee=[[Rudi Glöckner]] ([[German Football Association of the GDR|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1884 |title=Uruguay vs Italy {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1884/index.html |title=1970 FIFA World Cup Mexico – Matches – Uruguay v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229070816/http://www.fifa.com/worldcup/matches/round=250/match=1884/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{football kit
+ | pattern_la = 
+ | pattern_b=_vneckskyblue
+ | pattern_ra = 
+ | pattern_sh =_shorts
+ |pattern_so = _skytop
+ | leftarm    = FFFFFF
+ | cuerpo     = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF 
+ | shorts     = 000000
+ | socks      = 000000
+ | title     = Uruguay
+}}
+|{{football kit
+ | pattern_la = 
+ | pattern_b=_ita70h
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = 3120CC
+ | body       = 3120CC
+ | rightarm   = 3120CC
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title     = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]]
+|-
+|DF ||'''4''' ||[[Luis Ubiña]] ([[Captain (association football)|c]]) 
+|-
+|DF ||'''2''' ||[[Atilio Ancheta]]
+|-
+|DF ||'''3''' ||[[Roberto Matosas]]
+|-
+|DF ||'''6''' ||[[Juan Mujica]]
+|-
+|MF ||'''7''' ||[[Luis Cubilla]]
+|-
+|MF ||'''5''' ||[[Julio Montero Castillo]]
+|-
+|MF ||'''10'''||[[Ildo Maneiro]]
+|-
+|MF ||'''20'''||[[Julio César Cortés]]||{{yel|15}}
+|-
+|MF ||'''17'''||[[Rúben Bareño]]|| || {{suboff|70}}
+|-
+|FW ||'''9''' ||[[Víctor Espárrago]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Oscar Zubía]]|| || {{subon|70}} 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Juan Hohberg]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enrico Albertosi]]
+|-
+|DF ||'''2''' ||[[Tarcisio Burgnich]]
+|-
+|DF ||'''5''' ||[[Pierluigi Cera]]
+|-
+|DF ||'''8''' ||[[Roberto Rosato]]
+|-
+|DF ||'''3''' ||[[Giacinto Facchetti]] ([[Captain (association football)|c]])
+|-
+|MF ||'''13'''||[[Angelo Domenghini]]|| || {{suboff|46}}
+|-
+|MF ||'''10'''||[[Mario Bertini]]
+|-
+|MF ||'''15'''||[[Alessandro Mazzola]]
+|-
+|MF ||'''16'''||[[Giancarlo De Sisti]] 
+|-
+|FW ||'''20'''||[[Roberto Boninsegna]]
+|-
+|FW ||'''11'''||[[Gigi Riva]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Giuseppe Furino]]|| || {{subon|46}} 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ferruccio Valcareggi]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+<br />[[Josip-Drago Horvat]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|}
+
+===Sweden vs Israel===
+<onlyinclude>{{#invoke:Football box|main|section=2-4
+|date={{Start date|1970|6|7|df=y}}
+|time=12:00
+|team1={{fb-rt|SWE}}
+|score={{score link|1970 FIFA World Cup Group 2#Sweden vs Israel|1–1}}
+|team2={{fb|ISR}}
+|goals1=
+*[[Tom Turesson|Turesson]] {{goal|53}}
+|goals2=
+*[[Mordechai Spiegler|Spiegler]] {{goal|56}}
+|stadium=[[Estadio Nemesio Díez|Estadio Luis Dosal]], [[Toluca]]
+|attendance=9,624
+|referee=[[Seyoum Tarekegn]] ([[Ethiopian Football Federation|Ethiopia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1880 |title=Sweden vs Israel {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1880/index.html |title=1970 FIFA World Cup Mexico – Matches – Sweden v Israel |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228210721/http://www.fifa.com/worldcup/matches/round=250/match=1880/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _vneckblue
+ | pattern_ra = _blueborder
+ | pattern_sh =
+ | pattern_so = _bluehorizontal
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ | title      = Sweden
+}}
+|{{football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollar
+ | pattern_ra = _whiteborder
+ | pattern_sh =
+ | pattern_so = _sky_blue_on_top
+ | leftarm    = 7EC0EE
+ | body       = 7EC0EE
+ | rightarm   = 7EC0EE
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title     = Israel
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Sven-Gunnar Larsson]]
+|-
+|DF ||'''2''' ||[[Hans Selander]]
+|-
+|DF ||'''3''' ||[[Kurt Axelsson]] 
+|-
+|DF ||'''20'''||[[Jan Olsson (footballer born 1944)|Jan Olsson]]
+|-
+|DF ||'''5''' ||[[Roland Grip]]
+|-
+|MF ||'''6''' ||[[Tommy Svensson]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Bo Larsson]]
+|-
+|MF ||'''16'''||[[Thomas Nordahl]]
+|-
+|FW ||'''18'''||[[Tom Turesson]]
+|-
+|FW ||'''9''' ||[[Ove Kindvall]]
+|-
+|FW ||'''11'''||[[Örjan Persson]]||{{yel|72}}|| {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''22'''||[[Sten Pålsson]]|| || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Orvar Bergmark]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Itzhak Vissoker]]
+|-
+|DF ||'''2''' ||[[Shraga Bar]]||{{yel|38}}
+|-
+|DF ||'''4''' ||[[David Primo]]||{{yel|89}}
+|-
+|DF ||'''16'''||[[Yochanan Vollach]]|| || {{suboff|51}}
+|-
+|DF ||'''5''' ||[[Zvi Rosen]]
+|-
+|MF ||'''12'''||[[Yisha'ayahu Schwager]]
+|-
+|MF ||'''6''' ||[[Shmuel Rosenthal]]
+|-
+|MF ||'''7''' ||[[Itzhak Shum]]
+|-
+|FW ||'''10'''||[[Mordechai Spiegler]] ([[Captain (association football)|c]])
+|-
+|FW ||'''8''' ||[[Giora Spiegel]] 
+|-
+|FW ||'''9''' ||[[Yehoshua Feigenbaum]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Roni Shuruk]] || || {{subon|51}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Emmanuel Scheffer]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Andrei Rădulescu (footballer)|Andrei Rădulescu]] ([[Romanian Football Federation|Romania]])
+<br />[[Josip-Drago Horvat]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|}
+
+===Sweden vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=2-5
+|date={{Start date|1970|6|10|df=y}}
+|time=16:00
+|team1={{fb-rt|SWE}}
+|score={{score link|1970 FIFA World Cup Group 2#Sweden vs Uruguay|1–0}}
+|team2={{fb|URU}}
+|goals1=
+*[[Ove Grahn|Grahn]] {{goal|90}}
+|goals2=
+|stadium=[[Estadio Cuauhtémoc]], [[Puebla, Puebla|Puebla]]
+|attendance=18,163
+|referee=[[Henry Landauer]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1922 |title=Sweden vs Uruguay {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1922/index.html |title=1970 FIFA World Cup Mexico – Matches – Sweden v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229065319/http://www.fifa.com/worldcup/matches/round=250/match=1922/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _vneckblue
+ | pattern_ra = _blueborder
+ | pattern_sh =
+ | pattern_so = _bluehorizontal
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ | title      = Sweden
+}}
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _vneckwhite
+ |pattern_ra = _whiteborder
+ |pattern_sh = _shorts
+ |pattern_so = _skytop
+ |leftarm    = 93bef8
+ |body       = 93bef8
+ |rightarm   = 93bef8
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Sven-Gunnar Larsson]]
+|-
+|DF ||'''2''' ||[[Hans Selander]]
+|-
+|DF ||'''3''' ||[[Kurt Axelsson]] 
+|-
+|DF ||'''4''' ||[[Björn Nordqvist]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Roland Grip]]
+|-
+|MF ||'''6''' ||[[Tommy Svensson]]
+|-
+|MF ||'''7''' ||[[Bo Larsson]]
+|-
+|MF ||'''19'''||[[Göran Nicklasson]]|| || {{suboff|84}}
+|-
+|FW ||'''8''' ||[[Leif Eriksson (footballer)|Leif Eriksson]]
+|-
+|FW ||'''9''' ||[[Ove Kindvall]]|| || {{suboff|58}}
+|-
+|FW ||'''11'''||[[Örjan Persson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Ove Grahn]]|| || {{subon|84}}
+|-
+|FW ||'''18'''||[[Tom Turesson]]|| || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Orvar Bergmark]]  
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]]
+|-
+|DF ||'''4''' ||[[Luis Ubiña]] ([[Captain (association football)|c]]) 
+|-
+|DF ||'''6''' ||[[Juan Mujica]]
+|-
+|DF ||'''5''' ||[[Julio Montero Castillo]]
+|-
+|DF ||'''2''' ||[[Atilio Ancheta]]
+|-
+|MF ||'''3''' ||[[Roberto Matosas]]
+|-
+|MF ||'''9''' ||[[Víctor Espárrago]]|| || {{suboff|61}} 
+|-
+|MF ||'''10'''||[[Ildo Maneiro]]
+|-
+|MF ||'''20'''||[[Julio César Cortés]]
+|-
+|FW ||'''19'''||[[Oscar Zubía]]||
+|-
+|FW ||'''21'''||[[Julio Losada]]||
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''15'''||[[Dagoberto Fontes]]|| || {{subon|61}} 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Juan Hohberg]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+<br />[[Andrei Rădulescu (footballer)|Andrei Rădulescu]] ([[Romanian Football Federation|Romania]])
+|}
+
+===Italy vs Israel===
+<onlyinclude>{{#invoke:Football box|main|section=2-6
+|date={{Start date|1970|6|11|df=y}}
+|time=16:00
+|team1={{fb-rt|ITA}}
+|score={{score link|1970 FIFA World Cup Group 2#Italy vs Israel|0–0}}
+|team2={{fb|ISR}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Nemesio Díez|Estadio Luis Dosal]], [[Toluca]]
+|attendance=9,890
+|referee=[[Ayrton Vieira de Moraes]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/32/250/1877 |title=Italy vs Israel {{!}} Group Matches {{!}} 1970 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=250/match=1877/index.html |title=1970 FIFA World Cup Mexico – Matches – Italy v Israel |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229072016/http://www.fifa.com/worldcup/matches/round=250/match=1877/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+{| style="width:92%;"
+|-
+|{{football kit
+ | pattern_la = 
+ | pattern_b=_ita70a
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 3120CC
+ | socks      = 3120CC
+ | title     = Italy
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollar
+ | pattern_ra = _whiteborder
+ | pattern_sh =
+ | pattern_so = _sky_blue_on_top
+ | leftarm    = 7EC0EE
+ | body       = 7EC0EE
+ | rightarm   = 7EC0EE
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Israel
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enrico Albertosi]]
+|-
+|DF ||'''2''' ||[[Tarcisio Burgnich]]
+|-
+|DF ||'''5''' ||[[Pierluigi Cera]]
+|-
+|DF ||'''8''' ||[[Roberto Rosato]]
+|-
+|DF ||'''3''' ||[[Giacinto Facchetti]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Mario Bertini]]
+|-
+|MF ||'''16'''||[[Giancarlo De Sisti]] 
+|-
+|MF ||'''15'''||[[Alessandro Mazzola]]
+|-
+|FW ||'''13'''||[[Angelo Domenghini]]|| || {{suboff|46}}
+|-
+|FW ||'''20'''||[[Roberto Boninsegna]]||{{yel|90}}
+|-
+|FW ||'''11'''||[[Gigi Riva]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Gianni Rivera]]|| || {{subon|46}} 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Ferruccio Valcareggi]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Itzhak Vissoker]]
+|-
+|DF ||'''2''' ||[[Shraga Bar]]
+|-
+|DF ||'''4''' ||[[David Primo]]||{{yel|62}}
+|-
+|DF ||'''12'''||[[Yisha'ayahu Schwager]]
+|-
+|DF ||'''6''' ||[[Shmuel Rosenthal]]
+|-
+|MF ||'''5''' ||[[Zvi Rosen]]
+|-
+|MF ||'''3''' ||[[Menachem Bello]]||{{yel|67}}
+|-
+|MF ||'''7''' ||[[Itzhak Shum]]
+|-
+|FW ||'''10'''||[[Mordechai Spiegler]] ([[Captain (association football)|c]])
+|-
+|FW ||'''8''' ||[[Giora Spiegel]] 
+|-
+|FW ||'''9''' ||[[Yehoshua Feigenbaum]]|| || {{suboff|46}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Dani Shmulevich-Rom]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Emmanuel Scheffer]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Seyoum Tarekegn]] ([[Ethiopian Football Federation|Ethiopia]])
+<br />[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+|}
+
+==See also==
+*[[Israel at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1970 FIFA World Cup}}
+
+{{DEFAULTSORT:Group}}
+[[Category:1970 FIFA World Cup group stage|2]]
+[[Category:Sweden at the 1970 FIFA World Cup]]
+[[Category:Uruguay at the 1970 FIFA World Cup]]
+[[Category:Italy at the 1970 FIFA World Cup]]
+[[Category:Israel at the 1970 FIFA World Cup]]
+[[Category:Sport in Toluca]]
+[[Category:Sport in Puebla (city)]]
+[[Category:Football in the State of Mexico]]
+[[Category:Football in Puebla]]
+[[Category:History of the State of Mexico]]
+[[Category:History of Puebla]]

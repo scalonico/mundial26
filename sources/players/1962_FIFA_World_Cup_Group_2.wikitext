@@ -1,0 +1,636 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 2 of the [[1962 FIFA World Cup]]''' took place from 30 May to 7 June 1962. The group consisted of [[Chile national football team|Chile]], [[Italy national football team|Italy]], [[Switzerland national football team|Switzerland]], and [[Germany national football team|West Germany]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/62f.html |title=World Cup 1962 (Chile, May 30 – June 17) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150403174623/http://www.fifa.com/worldcup/archive/chile1962/groups/index.html FIFA]
+
+|team1=FRG |team2=CHI |team3=ITA |team4=SUI
+|result1=A |result2=A
+
+|win_FRG=2 |draw_FRG=1 |loss_FRG=0 |gf_FRG=4 |ga_FRG=1
+|win_CHI=2 |draw_CHI=0 |loss_CHI=1 |gf_CHI=5 |ga_CHI=3
+|win_ITA=1 |draw_ITA=1 |loss_ITA=1 |gf_ITA=3 |ga_ITA=2
+|win_SUI=0 |draw_SUI=0 |loss_SUI=3 |gf_SUI=2 |ga_SUI=8
+
+|name_FRG={{fb|FRG}}
+|name_SUI={{fb|SUI}}
+|name_CHI={{fb|CHI}}
+|name_ITA={{fb|ITA|1946}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1962 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Chile vs Switzerland===
+The game didn't start well for the hosts when in the sixth minute [[Rolf Wüthrich]] scored with a long-range shot taking advantage of a bad throw by [[Misael Escuti|Escuti]]. As Chileans increased the pressure after the goal [[Karl Elsener (footballer)|Elsener]] had to make some fine saves. [[Carlos Contreras (footballer, born 1938)|Contreras]] and [[Leonel Sánchez|Sánchez]] also hit the woodwork. Just before halftime the score was level when Sánchez's shot was deflected by [[Fritz Morf|Morf]]. Six minutes into the second half [[Jaime Ramírez (footballer, born 1931)|Jaime Ramírez]] put Chile ahead and soon after [[Leonel Sánchez]] scored his second goal and secured the victory for Chile.<ref name="lingua">{{usurped|1=[https://web.archive.org/web/20170509015505/http://www.linguasport.com/futbol/internacional/mundial/1962_CHILE_FS.htm World Cup 1962: Game Details]}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=2-1
+|date={{Start date|1962|5|30|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|CHI}}
+|score={{score link|1962 FIFA World Cup Group 2#Chile vs Switzerland|3–1}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Leonel Sanchez|L. Sánchez]] {{goal|44||55}}
+*[[Jaime Ramírez (footballer, born 1931)|Ramírez]] {{goal|51}}
+|goals2=
+*[[Rolf Wüthrich|Wüthrich]] {{goal|6}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=65,006
+|referee=[[Ken Aston|Kenneth Aston]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1473 |title=Chile vs Switzerland {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1473/index.html |title=1962 FIFA World Cup Chile – Matches – Chile v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171209232921/http://www.fifa.com/worldcup/matches/round=231/match=1473/index.html |archive-date=9 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| filetype = svg
+| pattern_la           = 
+| pattern_b             = _chile1962a
+| pattern_ra            = 
+| pattern_sh            = _whitesides
+| pattern_so            = 
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              =ffffff
+| shorts               = 000099
+| socks                 = ffffff
+ | title           = Chile
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2_white_stripes
+| leftarm           = ff0000
+| body             = ff0000
+| rightarm           = ff0000
+| shorts             = ffffff
+| socks              = 000000
+|title            =  Switzerland
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Misael Escuti]]
+|-
+|RB ||'''2'''||[[Luis Eyzaguirre]]
+|-
+|CB ||'''5'''||[[Carlos Contreras (footballer, born 1938)|Carlos Contreras]]
+|-
+|CB ||'''3'''||[[Raúl Sánchez (footballer, born 1933)|Raúl Sánchez]]
+|-
+|LB ||'''4'''||[[Sergio Navarro (footballer, born 1936)|Sergio Navarro]] ([[Captain (association football)|c]])
+|-
+|RH ||'''8'''||[[Jorge Toro]]
+|-
+|LH ||'''6'''||[[Eladio Rojas (footballer, born 1934)|Eladio Rojas]]
+|-
+|OR ||'''7'''||[[Jaime Ramírez (footballer, born 1931)|Jaime Ramírez]]
+|-
+|IR ||'''9'''||[[Honorino Landa]]
+|-
+|IL ||'''10'''||[[Alberto Fouilloux]]
+|-
+|OL ||'''11'''||[[Leonel Sánchez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Fernando Riera]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Karl Elsener (footballer)|Karl Elsener]]
+|-
+|RB ||'''9'''||[[André Grobéty]]
+|-
+|CB ||'''5'''||[[Fritz Morf]]
+|-
+|CB ||'''7'''||[[Heinz Schneiter]]
+|-
+|LB ||'''8'''||[[Ely Tacchella]]
+|-
+|RH ||'''21'''||[[Rolf Wüthrich]]
+|-
+|LH ||'''13'''||[[Hans Weber]]
+|-
+|OR ||'''15'''||[[Charles Antenen]] ([[Captain (association football)|c]])
+|-
+|IR ||'''17'''||[[Norbert Eschmann]]
+|-
+|IL ||'''18'''||[[Philippe Pottier (footballer)|Philippe Pottier]]
+|-
+|OL ||'''14'''||[[Anton Allemann]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Karl Rappan]]
+|}
+|}
+
+===West Germany vs Italy===
+{{see also|Germany–Italy football rivalry}}
+This game saw not so many scoring chances for both sides. In the first half [[Uwe Seeler]] hit the bar, [[Albert Brülls]] and [[Omar Sívori]] also had their chances. In the second half the game became more physical and sometimes brutal but in the end defences overcame attacks and no goals were scored.<ref name="lingua" /><ref>[https://www.youtube.com/watch?v=-VZYSVVgU1k West Germany vs Italy on YouTube]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=2-2
+|date={{Start date|1962|5|31|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|FRG}}
+|score={{score link|1962 FIFA World Cup Group 2#West Germany vs Italy|0–0}}
+|team2={{fb|ITA|1946}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=65,440
+|referee=[[Bob Davidson (referee)|Robert Holley Davidson]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1507 |title=Germany FR vs Italy {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1507/index.html |title=1962 FIFA World Cup Chile – Matches – Germany FR v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228210711/http://www.fifa.com/worldcup/matches/round=231/match=1507/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _blackborder
+| pattern_b  = _alemania1962h
+| filetype = svg
+| pattern_ra            =_blackborder
+| pattern_sh            = 
+| pattern_so            = 
+| leftarm               = ffffff
+| body                 =ffffff
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = ffffff
+ | title           = West Germany
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2_white_stripes
+| leftarm           = 0066ff
+| body             = 0066ff
+| rightarm           = 0066ff
+| shorts             = ffffff
+| socks              =0066ff
+|title            = Italy
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Wolfgang Fahrian]]
+|-
+|RB ||'''12'''||[[Hans Nowak]]
+|-
+|CB ||'''4'''||[[Willi Schulz]]
+|-
+|CB ||'''2'''||[[Herbert Erhardt]]
+|-
+|LB ||'''3'''||[[Karl-Heinz Schnellinger]]
+|-
+|RH ||'''16'''||[[Hans Sturm (footballer)|Hans Sturm]]
+|-
+|LH ||'''6'''||[[Horst Szymaniak]]
+|-
+|RW ||'''11'''||[[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9'''||[[Uwe Seeler]]
+|-
+|CF ||'''8'''||[[Helmut Haller]]
+|-
+|LW ||'''10'''||[[Albert Brülls]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Sepp Herberger]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Lorenzo Buffon]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2'''||[[Giacomo Losi]]
+|-
+|CB ||'''5'''||[[Cesare Maldini]]
+|-
+|CB ||'''4'''||[[Sandro Salvadore]]
+|-
+|LB ||'''16'''||[[Enzo Robotti]]
+|-
+|RH ||'''21'''||[[Giorgio Ferrini]]
+|-
+|LH ||'''3'''||[[Luigi Radice]]
+|-
+|RW ||'''14'''||[[Gianni Rivera]]
+|-
+|CF ||'''9'''||[[José Altafini]]
+|-
+|CF ||'''10'''||[[Omar Sívori]]
+|-
+|LW ||'''11'''||[[Giampaolo Menichelli]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Paolo Mazza]]
+|}
+|}
+
+===Chile vs Italy===
+{{Main|Battle of Santiago (1962 FIFA World Cup)}}
+The game was tough with much foul play. After only seven minutes Ferrini was sent off for kicking Landa and the game had to be interrupted for another eight minutes until the police escorted the Italian out of the field. Soon afterwards [[Leonel Sánchez]] responded to a series of kicks from [[Mario David (footballer)|Mario David]] by knocking him down with a punch in front of the linesman. The referee did nothing so David took revenge on Sánchez before halftime and was also sent off. Italians held out in the second half until [[Jaime Ramírez (footballer, born 1931)|Jaime Ramírez]] headed the ball into the net over two defenders after Sánchez's shot was punched away by [[Carlo Mattrel]]. In the last minutes [[Jorge Toro]] secured the Chilean victory with a long-range shot.<ref name="lingua" /><ref>[https://www.youtube.com/watch?v=5rZqRouIHJ0&t Chile vs Italy on YouTube]</ref>
+
+<onlyinclude>{{#invoke:transcludable section|main|section=2-3|text={{#lst:Battle of Santiago (1962 FIFA World Cup)|2-3}}}}</onlyinclude>
+{{#lst:Battle of Santiago (1962 FIFA World Cup)|Lineups}}
+
+===West Germany vs Switzerland===
+Switzerland were left with just 10 men early in the game when [[Norbert Eschmann]] suffered an ankle injury after a sliding tackle by [[Horst Szymaniak]]. [[Albert Brülls]] scored the first goal just before halftime with a low shot into the far corner. Fourteen minutes into the second half [[Uwe Seeler]] got a long pass from [[Hans Schäfer]] and beat the Swiss goalkeeper for the second time. Switzerland could answer only with a [[Heinz Schneiter|Schneiter]] goal after a corner<ref name="1962_final">{{usurped|1=[https://web.archive.org/web/20170509015505/http://www.linguasport.com/futbol/internacional/mundial/1962_CHILE_FS.htm World Cup 1962 Final Stage: Game Details]}}</ref> At the end of the game [[Albert Brülls|Brülls]] had another good chance but his first shot was parried by the goalkeeper and his second shot was cleared off the line by [[Heinz Schneiter|Schneiter]].<ref>[https://www.youtube.com/watch?v=5YYiZXNt8wc&t West Germany vs Switzerland on YouTube]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=2-4
+|date={{Start date|1962|6|3|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|FRG}}
+|score={{score link|1962 FIFA World Cup Group 2#West Germany vs Switzerland|2–1}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Albert Brülls|Brülls]] {{goal|45}}
+*[[Uwe Seeler|Seeler]] {{goal|59}}
+|goals2=
+*[[Heinz Schneiter|Schneiter]] {{goal|73}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=64,922
+|referee=[[Leo Horn]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1510 |title=Germany FR vs Switzerland {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1510/index.html |title=1962 FIFA World Cup Chile – Matches – Germany FR v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228010113/http://www.fifa.com/worldcup/matches/round=231/match=1510/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _blackborder
+| pattern_b  = _alemania1962h
+| filetype = svg
+| pattern_ra            =_blackborder
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = ffffff
+| body                 =ffffff
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = West Germany
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2_red_stripes
+| leftarm           = ff0000
+| body             = ff0000
+| rightarm           = ff0000
+| shorts             = ffffff
+| socks              =ffffff
+|title            =  Switzerland
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Wolfgang Fahrian]]
+|-
+|RB ||'''12'''||[[Hans Nowak]]
+|-
+|CB ||'''4'''||[[Willi Schulz]]
+|-
+|CB ||'''2'''||[[Herbert Erhardt]]
+|-
+|LB ||'''3'''||[[Karl-Heinz Schnellinger]]
+|-
+|RH ||'''7'''||[[Willi Koslowski]]
+|-
+|LH ||'''6'''||[[Horst Szymaniak]]
+|-
+|OR ||'''11'''||[[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+|IR ||'''9'''||[[Uwe Seeler]]
+|-
+|IL ||'''8'''||[[Helmut Haller]]
+|-
+|OL ||'''10'''||[[Albert Brülls]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Sepp Herberger]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Karl Elsener (footballer)|Karl Elsener]]
+|-
+|RB ||'''9'''||[[André Grobéty]]
+|-
+|CB ||'''7'''||[[Heinz Schneiter]]
+|-
+|LB ||'''8'''||[[Ely Tacchella]]
+|-
+|RH ||'''21'''||[[Rolf Wüthrich]]
+|-
+|LH ||'''13'''||[[Hans Weber]]
+|-
+|OR ||'''15'''||[[Charles Antenen]] ([[Captain (association football)|c]])
+|-
+|IR ||'''17'''||[[Norbert Eschmann]]
+|-
+|CF ||'''20'''||[[Roger Vonlanthen]]
+|-
+|IL ||'''16'''||[[Richard Dürr]]
+|-
+|OL ||'''14'''||[[Anton Allemann]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Karl Rappan]]
+|}
+|}
+
+===West Germany vs Chile===
+<onlyinclude>{{#invoke:Football box|main|section=2-5
+|date={{Start date|1962|6|6|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|FRG}}
+|score={{score link|1962 FIFA World Cup Group 2#West Germany vs Chile|2–0}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Horst Szymaniak|Szymaniak]] {{goal|21|pen.}}
+*[[Uwe Seeler|Seeler]] {{goal|82}}
+|goals2=
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=67,224
+|referee=[[Bob Davidson (referee)|Robert Holley Davidson]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1471 |title=Germany FR vs Chile {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1471/index.html |title=1962 FIFA World Cup Chile – Matches – Germany FR v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211223525/http://www.fifa.com/worldcup/matches/round=231/match=1471/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _blackborder
+| pattern_b  = _alemania1962h
+| filetype = svg
+| pattern_ra            =_blackborder
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = ffffff
+| body                 =ffffff
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = West Germany
+}}
+{{col-2}}
+{{Football kit
+| filetype = svg
+| pattern_b             = _chile1962h
+| pattern_ra            = 
+| pattern_sh            = _whitesides
+| pattern_so            = 
+| leftarm               = ff0000
+| body                 =  ff0000
+| rightarm              =ff0000
+| shorts               = 000099
+| socks                 = ffffff
+ | title           = Chile
+}}
+{{col-end}}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22''' ||[[Wolfgang Fahrian]]
+|-
+|SW ||'''3'''||[[Karl-Heinz Schnellinger]]
+|-
+|RB ||'''12''' ||[[Hans Nowak]]
+|-
+|CB ||'''4''' ||[[Willi Schulz]]
+|-
+|LB ||'''2''' ||[[Herbert Erhardt]]
+|-
+|RH ||'''6'''||[[Horst Szymaniak]]
+|-
+|LH ||'''15''' ||[[Willi Giesemann]]
+|-
+|OR ||'''17'''||[[Engelbert Kraus]]
+|-
+|CF ||'''9'''||[[Uwe Seeler]]
+|-
+|CF ||'''11''' ||[[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+|OL ||'''10''' ||[[Albert Brülls]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Sepp Herberger]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Misael Escuti]]
+|-
+|RB ||'''2''' ||[[Luis Eyzaguirre]]
+|-
+|CB ||'''5''' ||[[Carlos Contreras (footballer, born 1938)|Carlos Contreras]]
+|-
+|CB ||'''3''' ||[[Raúl Sánchez (footballer, born 1933)|Raúl Sánchez]]
+|-
+|LB ||'''4''' ||[[Sergio Navarro (footballer, born 1936)|Sergio Navarro]] ([[Captain (association football)|c]])
+|-
+|RH ||'''18''' ||[[Mario Moreno (footballer)|Mario Moreno]]
+|-
+|LH ||'''6''' ||[[Eladio Rojas (footballer, born 1934)|Eladio Rojas]]
+|-
+|OR ||'''7'''||[[Jaime Ramírez (footballer, born 1931)|Jaime Ramírez]]
+|-
+|IR ||'''9'''||[[Honorino Landa]]
+|-
+|IL ||'''21'''||[[Armando Tobar]]
+|-
+|OL ||'''11''' ||[[Leonel Sánchez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Fernando Riera]]
+|}
+|}
+
+===Italy vs Switzerland===
+Almost as soon as the game started [[Bruno Mora]] opened the score after [[Karl Elsener (footballer)|Elsener]] deflected a crossshot by [[Ezio Pascutti|Pascutti]]. In the second half [[Giacomo Bulgarelli]], a new member of the team, scored two consecutive goals thus securing Italy's victory, though it was unable to prevent an early Italian elimination.<ref name="1962_final" />
+<onlyinclude>{{#invoke:Football box|main|section=2-6
+|date={{Start date|1962|6|7|df=y}}
+|time=15:00 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1962 FIFA World Cup Group 2#Italy vs Switzerland|3–0}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Bruno Mora|Mora]] {{goal|2}}
+*[[Giacomo Bulgarelli|Bulgarelli]] {{goal|65||67}}
+|goals2=
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=59,828
+|referee=[[Nikolay Latyshev]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/231/1532 |title=Italy vs Switzerland {{!}} Group Matches {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=231/match=1532/index.html |title=1962 FIFA World Cup Chile – Matches – Italy v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228001235/http://www.fifa.com/worldcup/matches/round=231/match=1532/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2_white_stripes
+| leftarm           = 0066ff
+| body             = 0066ff
+| rightarm           = 0066ff
+| shorts             = ffffff
+| socks              =0066ff
+|title            = Italy
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _2 red stripes
+| leftarm           = ff0000
+| body             = ff0000
+| rightarm           = ff0000
+| shorts             = ff0000
+| socks              =ffffff
+|title            =  Switzerland
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lorenzo Buffon]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Giacomo Losi]]
+|-
+|CB ||'''5''' ||[[Cesare Maldini]]
+|-
+|CB ||'''4''' ||[[Sandro Salvadore]]
+|-
+|LB ||'''16'''||[[Enzo Robotti]]
+|-
+|RH ||'''7'''||[[Bruno Mora]]
+|-
+|LH ||'''3''' ||[[Luigi Radice]]
+|-
+|OR ||'''22''' ||[[Giacomo Bulgarelli]]
+|-
+|IR ||'''15'''||[[Angelo Sormani]]
+|-
+|IL ||'''10'''||[[Omar Sívori]]
+|-
+|OL ||'''17''' ||[[Ezio Pascutti]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Paolo Mazza]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Karl Elsener (footballer)|Karl Elsener]]
+|-
+|RB ||'''9''' ||[[André Grobéty]]
+|-
+|CB ||'''7''' ||[[Heinz Schneiter]]
+|-
+|LB ||'''8''' ||[[Ely Tacchella]]
+|-
+|RH ||'''21''' ||[[Rolf Wüthrich]]
+|-
+|LH ||'''13''' ||[[Hans Weber]]
+|-
+|OR ||'''15''' ||[[Charles Antenen]] ([[Captain (association football)|c]])
+|-
+|IR ||'''11'''||[[Eugen Meier (footballer)|Eugen Meier]]
+|-
+|CF ||'''20'''||[[Roger Vonlanthen]]
+|-
+|IL ||'''16'''||[[Richard Dürr]]
+|-
+|OL ||'''14''' ||[[Anton Allemann]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Karl Rappan]]
+|}
+|}
+
+==See also==
+*[[Chile at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1962chile 1962 FIFA World Cup archive]
+
+{{1962 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 2}}
+[[Category:1962 FIFA World Cup group stage|2]]
+[[Category:Italy at the 1962 FIFA World Cup]]
+[[Category:West Germany at the 1962 FIFA World Cup]]
+[[Category:Chile at the 1962 FIFA World Cup]]
+[[Category:Switzerland at the 1962 FIFA World Cup]]
+[[Category:Football competitions in Santiago, Chile]]
+[[Category:1960s in Santiago, Chile]]

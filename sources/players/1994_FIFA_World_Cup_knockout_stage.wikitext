@@ -1,0 +1,2098 @@
+{{Short description|Final stage of the 1994 FIFA World Cup}}
+{{Use mdy dates|date=April 2026}}
+{{Use American English|date=April 2024}}
+The '''1994 FIFA World Cup knockout stage''' was the second and final stage of the [[1994 FIFA World Cup]] finals in the United States. The stage began on July 2, 1994, and ended with the final at the [[Rose Bowl (stadium)|Rose Bowl]] in [[Pasadena, California]], on July 17, 1994.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|archive-url=https://web.archive.org/web/20131220184449/http://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|url-status=dead|archive-date=December 20, 2013|title=1994 FIFA World Cup USA|publisher=fifa.com|access-date=July 31, 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/94full.html|title=World Cup 1994|website=[[RSSSF]]|access-date=July 31, 2014}}</ref>
+
+Sixteen teams advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament: The top two teams from each of the six groups, as well as the [[1994 FIFA World Cup#Ranking of third-placed teams|best four third-placed teams]]. In the round of 16, the four third-placed teams played against four of the group winners from group A-D, with the remaining two group winners from group E and F taking on two of the group runners-up; the remaining four runners-up were paired off against each other. The winners of the eight round of 16 matches were then paired together in the quarterfinals, the winners of which played against each other in the semifinals.
+
+The ties in each round were played over a single match; in the event that scores were level after 90 minutes, the teams would play an additional 30 minutes of [[Overtime (sports)#Association football|extra time]], divided into two 15-minute halves, to determine the winner. If the scores remained level after extra time, the teams would contest a [[penalty shootout (association football)|penalty shootout]].
+
+A [[#Match for third place|match for third place]] was also held on the day before the final, between the two losing teams of the semifinals.
+
+==Qualified teams==
+The top two placed teams from each of the six groups, plus the four best-placed third teams, qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+! width="150" | {{nowrap|Third-placed teams<br/>([[1994 FIFA World Cup#Ranking of third-placed teams|Best four]] qualify}})
+|-
+! [[1994 FIFA World Cup Group A|A]]
+| {{fb|ROU}}
+| {{fb|SUI}}
+| {{fb|USA}}
+|-
+! [[1994 FIFA World Cup Group B|B]]
+| {{fb|BRA}}
+| {{fb|SWE}}
+| {{N/a}}
+|-
+! [[1994 FIFA World Cup Group C|C]]
+| {{fb|GER}}
+| {{fb|ESP}}
+| {{N/a}}
+|-
+! [[1994 FIFA World Cup Group D|D]]
+| {{fb|NGA}}
+| {{fb|BUL}}
+| {{fb|ARG|1861}}
+|-
+! [[1994 FIFA World Cup Group E|E]]
+| {{fb|MEX}}
+| {{fb|IRL}}
+| {{fb|ITA|1946}}
+|-
+! [[1994 FIFA World Cup Group F|F]]
+| {{fb|NED}}
+| {{fb|KSA}}
+| {{fb|BEL}}
+|}
+
+Based on group results, the matches would be the following in Round of 16:
+{| class="wikitable" style="text-align:center" 
+|-
+!Round of 16 !! Teams per qualified<br> group positions!! Teams identified
+|-
+|'''Match 1:''' || A1 &ndash; C3/''D3''/E3 || Romania &ndash; Argentina 
+|-
+|'''Match 2:''' || B2 &ndash; F2 || Sweden &ndash; Saudi Arabia
+|-
+|'''Match 3:''' || F1 &ndash; E2 || Netherlands &ndash; Ireland
+|-
+|'''Match 4:''' || B1 &ndash; ''A3''/C3/D3 || Brazil &ndash; United States
+|-
+|'''Match 5:''' || E1 &ndash; D2 || Mexico &ndash; Bulgaria 
+|-
+|'''Match 6:''' || C1 &ndash; A3/B3/''F3'' || Germany &ndash; Belgium
+|-
+|'''Match 7:''' || D1 &ndash; B3/''E3''/F3 || Nigeria &ndash; Italy
+|-
+|'''Match 8:''' || A2 &ndash; C2 || Switzerland &ndash; Spain 
+|-
+|}
+
+The pairings for matches 1, 4, 6 and 7 depended on who the best third places were that qualified for the round of 16. The following table, published in Section 28 of the tournament regulations, shows the 15 different options to define the rivals of the winners of groups A, B, C and D.
+
+{{legend|#ccffcc|Combination according to the four qualified teams}}
+
+{| class="wikitable" width="520" style="" 
+|-
+! Third teams qualify from groups: !! Romania (A1) plays vs.: !! Brazil (B1) plays vs.: !! Germany (C1) plays vs.: !! Nigeria (D1) plays vs.:
+|-
+| A B C D || C3 || D3 || A3 || B3
+|-
+| A B C E || C3 || A3 || B3 || E3
+|-
+| A B C F || C3 || A3 || B3 || F3
+|-
+| A B D E || D3 || A3 || B3 || E3
+|-
+| A B D F || D3 || A3 || B3 || F3
+|-
+| A B E F || E3 || A3 || B3 || F3
+|-
+| A C D E || C3 || D3 || A3 || E3
+|-
+| A C D F || C3 || D3 || A3 || F3
+|-
+| A C E F || C3 || A3 || F3 || E3
+|-bgcolor=#ccffcc
+| A D E F || D3 || A3 || F3 || E3
+|-
+| B C D E || C3 || D3 || B3 || E3
+|-
+| B C D F || C3 || D3 || B3 || F3
+|-
+| B C E F || E3 || C3 || B3 || F3
+|-
+| B D E F || E3 || D3 || B3 || F3
+|-
+| C D E F || C3 || D3 || F3 || E3
+|}
+
+==Bracket==
+<section begin=Bracket />{{Round16
+|widescore=yes|style=white-space:nowrap
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarterfinals|Quarterfinals]]
+|RD3=[[#Semifinals|Semifinals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+<!-- round of 16 -->
+|July 3 – [[Pasadena, California|Pasadena]]|'''{{fb|ROU}}'''|'''3'''|{{fb|ARG|1861}}|2
+|July 3 – [[Dallas]]|{{fb|KSA}}|1|'''{{fb|SWE}}'''|'''3'''
+|July 4 – [[Orlando, Florida|Orlando]]|'''{{fb|NED}}'''|'''2'''|{{fb|IRL}}|0
+|July 4 – [[Stanford, California|Stanford]]|'''{{fb|BRA}}'''|'''1'''|{{fb|USA}}|0
+|July 5 – [[East Rutherford]]|{{fb|MEX}}|1 (1)|'''{{fb|BUL}}''' {{pso}}|'''1 (3)'''
+|July 2 – [[Chicago]]|'''{{fb|GER}}'''|'''3'''|{{fb|BEL}}|2
+|July 5 – [[Foxborough]]|{{fb|NGA}}|1|'''{{fb|ITA|1946}}''' {{aet}}|'''2'''
+|July 2 – [[Washington, D.C.|Washington]]|'''{{fb|ESP}}'''|'''3'''|{{fb|SUI}}|0
+<!-- quarterfinals -->
+|July 10 – [[Stanford, California|Stanford]]|{{fb|ROU}}|2 (4)|'''{{fb|SWE}}''' {{pso}}|'''2 (5)'''
+|July 9 – [[Dallas]]|{{fb|NED}}|2|'''{{fb|BRA}}'''|'''3'''
+|July 10 – [[East Rutherford]]|'''{{fb|BUL}}'''|'''2'''|{{fb|GER}}|1
+|July 9 – [[Foxborough]]|'''{{fb|ITA|1946}}'''|'''2'''|{{fb|ESP}}|1
+<!-- semifinals -->
+|July 13 – [[Pasadena, California|Pasadena]]|{{fb|SWE}}|0|'''{{fb|BRA}}'''|'''1'''
+|July 13 – [[East Rutherford]]|{{fb|BUL}}|1|'''{{fb|ITA|1946}}'''|'''2'''
+<!-- final -->
+|July 17 – [[Pasadena, California|Pasadena]]|'''{{fb|BRA}}''' {{pso}}|'''0 (3)'''|{{fb|ITA|1946}}|0 (2)
+<!-- third place -->
+|July 16 – [[Pasadena, California|Pasadena]]|'''{{fb|SWE}}'''|'''4'''|{{fb|BUL}}|0
+}}<section end=Bracket />
+
+==Round of 16==
+
+===Germany vs Belgium===
+<section begin="R16-1" />{{Football box
+|date={{Start date|1994|7|2}}
+|time=12:00&nbsp;p.m. [[Central Time Zone (North America)|CDT]] ([[UTC−05:00|UTC–5]])
+|team1={{fb-rt|GER}}
+|score={{score link|1994 FIFA World Cup knockout stage#Germany vs Belgium|3–2}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Rudi Völler|Völler]] {{goal|6||38}}
+*[[Jürgen Klinsmann|Klinsmann]] {{goal|11}}
+|goals2=
+*[[Georges Grün|Grün]] {{goal|8}}
+*[[Philippe Albert|Albert]] {{goal|90}}
+|stadium=[[Soldier Field]], [[Chicago]]
+|attendance=60,246
+|referee=[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3085 |title=Germany vs Belgium {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3085/index.html |title=1994 FIFA World Cup USA – Matches – Germany v Belgium |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171206214817/http://www.fifa.com/worldcup/matches/round=338/match=3085/index.html |archive-date=December 6, 2017}} }}</ref>
+}}<section end="R16-1" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ger94h
+ | pattern_b  = _ger94H
+ | pattern_ra = _ger94h
+ | pattern_sh = _Germany_94_home
+ | pattern_so = _DFB_00h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Germany
+}}
+|{{Football kit
+ | pattern_la = _belgium1994h
+ | pattern_b  = _belgium1994h
+ | pattern_ra = _belgium1994h
+ | pattern_sh = 
+ | pattern_so = _belgium1994h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Bodo Illgner]]
+|-
+|DF ||'''4''' ||[[Jürgen Kohler]]
+|-
+|DF ||'''5''' ||[[Thomas Helmer]] || {{yel|13}}
+|-
+|DF ||'''6''' ||[[Guido Buchwald]]
+|-
+|MF ||'''8''' ||[[Thomas Häßler]]
+|-
+|MF ||'''10'''||[[Lothar Matthäus]] ([[Captain (association football)|c]]) || || {{suboff|45}}
+|-
+|FW ||'''13'''||[[Rudi Völler]]
+|-
+|DF ||'''14'''||[[Thomas Berthold]] 
+|-
+|MF ||'''16'''||[[Matthias Sammer]]
+|-
+|MF ||'''17'''||[[Martin Wagner (footballer, born 1968)|Martin Wagner]] || {{yel|37}}
+|-
+|FW ||'''18'''||[[Jürgen Klinsmann]] || || {{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''3''' ||[[Andreas Brehme]] || || {{subon|45}}
+|-
+|FW ||'''11'''||[[Stefan Kuntz]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Berti Vogts]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michel Preud'homme]]
+|-
+|DF ||'''4''' ||[[Philippe Albert]] || {{yel|38}}
+|-
+|DF ||'''5''' ||[[Rudi Smidts]] || || {{suboff|66}}
+|-
+|MF ||'''6''' ||[[Lorenzo Staelens]] 
+|-
+|MF ||'''7''' ||[[Franky Van der Elst]]
+|-
+|FW ||'''8''' ||[[Luc Nilis]] || || {{suboff|78}}
+|-
+|MF ||'''10'''||[[Enzo Scifo]] 
+|-
+|DF ||'''13'''||[[Georges Grün]] ([[Captain (association football)|c]])
+|-
+|DF ||'''14'''||[[Michel De Wolf]]
+|-
+|MF ||'''15'''||[[Marc Emmers]]
+|-
+|FW ||'''17'''||[[Josip Weber]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Danny Boffin]] || || {{subon|66}}
+|-
+|FW ||'''11'''||[[Alexandre Czerniatynski]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Paul Van Himst]]
+|}
+|}
+
+===Spain vs Switzerland===
+<section begin="R16-2" />{{Football box
+|date={{Start date|1994|7|2}}
+|time=4:30&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|ESP}}
+|score={{score link|1994 FIFA World Cup knockout stage#Spain vs Switzerland|3–0}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Fernando Hierro|Hierro]] {{goal|15}}
+*[[Luis Enrique (footballer)|Luis Enrique]] {{goal|74}}
+*[[Txiki Begiristain|Begiristain]] {{goal|86|pen.}}
+|goals2=
+|stadium=[[Robert F. Kennedy Memorial Stadium|RFK Stadium]], [[Washington, D.C.]]
+|attendance=53,121
+|referee=[[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3086 |title=Spain vs Switzerland {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3086/index.html |title=1994 FIFA World Cup USA – Matches – Spain v Switzerland |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229064024/http://www.fifa.com/worldcup/matches/round=338/match=3086/index.html |archive-date=December 29, 2017}} }}</ref>
+}}<section end="R16-2" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =_esp94h1
+ | pattern_b =_esp94h1
+ | pattern_ra = _esp94h1
+ | pattern_sh = _esp94h1
+ | pattern_so = _esp94h1
+ | rightarm   = ED1C24
+ | shorts     = 002448
+ | socks      = 002448
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sui94a
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _redtop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Switzerland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Albert Ferrer]] || {{yel|19}}
+|-
+|CB ||'''4''' ||[[Paco Camarasa]] || {{yel|22}}
+|-
+|CB ||'''5''' ||[[Abelardo Fernández|Abelardo]]
+|-
+|CB ||'''18'''||[[Rafael Alkorta]] 
+|-
+|LB ||'''12'''||[[Sergi Barjuán|Sergi]] 
+|-
+|MF ||'''6''' ||[[Fernando Hierro]] || || {{suboff|76}} 
+|-
+|MF ||'''7''' ||[[Ion Andoni Goikoetxea]] || {{yel|18}} || {{suboff|61}}
+|-
+|MF ||'''20'''||[[Miguel Ángel Nadal]]
+|-
+|AM ||'''10'''||[[José Mari Bakero]]
+|-
+|CF ||'''21'''||[[Luis Enrique (footballer)|Luis Enrique]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Txiki Begiristain]] || || {{subon|61}}
+|-
+|DF ||'''3''' ||[[Jorge Otero]] || {{yel|87}} || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Clemente]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marco Pascolo]] || {{yel|85}}
+|-
+|DF ||'''2''' ||[[Marc Hottiger]] || {{yel|23}}
+|-
+|DF ||'''3''' ||[[Yvan Quentin]] || || {{suboff|58}}
+|-
+|DF ||'''4''' ||[[Dominique Herr]]
+|-
+|DF ||'''5''' ||[[Alain Geiger]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6''' ||[[Georges Bregy]]
+|-
+|DF ||'''8''' ||[[Christophe Ohrel]] || || {{suboff|73}}
+|-
+|FW ||'''9''' ||[[Adrian Knup]]
+|-
+|MF ||'''10'''||[[Ciriaco Sforza]]
+|-
+|FW ||'''11'''||[[Stéphane Chapuisat]] 
+|-
+|MF ||'''16'''||[[Thomas Bickel]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''19'''||[[Jürg Studer]] || {{yel|69}} || {{subon|58}}
+|-
+|FW ||'''14'''||[[Nestor Subiat]] || {{yel|77}} || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Roy Hodgson]]
+|}
+|}
+
+===Saudi Arabia vs Sweden===
+
+Saudi Arabia suffered a major setback with the absence of captain [[Majed Abdullah]]. An early strike from [[Martin Dahlin]] in the first half and a second-half brace by [[Kennet Andersson]] saw Sweden go through to the quarterfinals. Substitute [[Fahad Al-Ghesheyan]] pulled one back for the Saudis five minutes from the end.<ref>[https://www.independent.co.uk/sport/football-world-cup-usa-94-andersson-sees-sweden-through-to-the-last-eight-1411576.html World Cup USA '94: Andersson sees Sweden through to the last eight]</ref>
+
+<section begin="R16-3" />{{Football box
+|date={{Start date|1994|7|3}}
+|time=12:00&nbsp;p.m. [[Central Time Zone (North America)|CDT]] ([[UTC−05:00|UTC–5]])
+|team1={{fb-rt|KSA}}
+|score={{score link|1994 FIFA World Cup knockout stage#Saudi Arabia vs Sweden|1–3}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Fahad Al-Ghesheyan|Al-Ghesheyan]] {{goal|85}}
+|goals2=
+*[[Martin Dahlin|Dahlin]] {{goal|6}}
+*[[Kennet Andersson|K. Andersson]] {{goal|51||88}}
+|stadium=[[Cotton Bowl (stadium)|Cotton Bowl]], [[Dallas, Texas|Dallas]]
+|attendance=60,277
+|referee=[[Renato Marsiglia]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3087 |title=Saudi Arabia vs Sweden {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3087/index.html |title=1994 FIFA World Cup USA – Matches – Saudi Arabia v Sweden |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213000420/http://www.fifa.com/worldcup/matches/round=338/match=3087/index.html |archive-date=December 13, 2017}} }}</ref>
+}}<section end="R16-3" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _saudiarabia1994
+ | pattern_b  = _saudiarabia1994
+ | pattern_ra = _saudiarabia1994
+ | pattern_sh = _saudiarabia1994a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 089621
+ | socks      = FFFFFF
+ | title      = Saudi Arabia
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _swe94h
+ |pattern_ra = 
+ |pattern_sh = _yellow_stripes
+ |pattern_so = _swe_wc_1994_h
+ |leftarm    = FFE000
+ |body       = FFFFFF
+ |rightarm   = FFE000
+ |shorts     = 1030BF
+ |socks      = FFE000
+ | title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Mohamed Al-Deayea]]
+|-
+|RB ||'''4''' ||[[Abdullah Zubromawi]]
+|-
+|CB ||'''5''' ||[[Ahmad Jamil Madani]]
+|-
+|CB ||'''3''' ||[[Mohammed Al-Khilaiwi]] 
+|-
+|LB ||'''13'''||[[Mohamed Al-Jawad]] ([[Captain (association football)|c]]) || || {{suboff|55}}
+|-
+|RM ||'''6''' ||[[Fuad Anwar]]
+|-
+|CM ||'''8''' ||[[Fahad Al-Bishi]] || || {{suboff|63}}
+|-
+|CM ||'''10'''||[[Saeed Al-Owairan]]
+|-
+|LM ||'''19'''||[[Hamzah Saleh]]
+|-
+|CF ||'''12'''||[[Sami Al-Jaber]]
+|-
+|CF ||'''20'''||[[Hamzah Idris]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Fahad Al-Ghesheyan]] || || {{subon|55}}
+|-
+|MF ||'''14'''||[[Khalid Al-Muwallid]] || {{yel|71}} || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG|1861}} [[Jorge Solari]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Ravelli]]
+|-
+|RB ||'''2''' ||[[Roland Nilsson]] || {{yel|74}}
+|-
+|CB ||'''3''' ||[[Patrik Andersson]]
+|-
+|CB ||'''4''' ||[[Joachim Björklund]] || || {{suboff|55}}
+|-
+|LB ||'''5''' ||[[Roger Ljung]] || {{yel|16}}
+|-
+|RM ||'''11'''||[[Tomas Brolin]] 
+|-
+|CM ||'''9''' ||[[Jonas Thern]] ([[Captain (association football)|c]]) || {{yel|67}} || {{suboff|70}}
+|-
+|CM ||'''6''' ||[[Stefan Schwarz]]
+|-
+|LM ||'''8''' ||[[Klas Ingesson]]
+|-
+|CF ||'''10'''||[[Martin Dahlin]]
+|-
+|CF ||'''19'''||[[Kennet Andersson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CB ||'''14'''||[[Pontus Kåmark]] || || {{subon|55}}
+|-
+|CM ||'''18'''||[[Håkan Mild]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Tommy Svensson]]
+|}
+|}
+
+===Romania vs Argentina===
+Two quick goals by Dumitrescu and one more by Hagi in the second half sealed the victory for Romanians. After Batistuta's penalty kick and Balbo's rebound Argentina attacked desperately but couldn't score for the third time.<ref>[https://www.theguardian.com/football/2018/jun/26/world-cup-best-game-argentina-romania-usa-94-hagi The best ever World Cup match? Romania 3-2 Argentina at USA 94]</ref><ref>[http://www.thehardtackle.com/2012/argentina-2-3-romania-hagi-dumitrescu-too-hot-to-handle-classic-clashes/ Hagi, Dumitrescu too hot to handle]</ref>
+
+<section begin="R16-4" />{{Football box
+|date={{Start date|1994|7|3}}
+|time=1:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|ROU}}
+|score={{score link|1994 FIFA World Cup knockout stage#Romania vs Argentina|3–2}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Ilie Dumitrescu|Dumitrescu]] {{goal|11||18}}
+*[[Gheorghe Hagi|Hagi]] {{goal|58}}
+|goals2=
+*[[Gabriel Batistuta|Batistuta]] {{goal|16|pen.}}
+*[[Abel Balbo|Balbo]] {{goal|75}}
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=90,469
+|referee=[[Pierluigi Pairetto]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3088 |title=Romania vs Argentina {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3088/index.html |title=1994 FIFA World Cup USA – Matches – Romania v Argentina |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219090430/http://www.fifa.com/worldcup/matches/round=338/match=3088/index.html |archive-date=December 19, 2017}} }}</ref>
+}}<section end="R16-4" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rom94h
+ | pattern_b  = _rom94h
+ | pattern_ra = _rom94h
+ | pattern_sh = _rom94h
+ | pattern_so = _adidas_thick_stripes_romania_home
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = FFFF00
+ | socks      = FFE601
+ | title      = Romania
+}}
+|{{Football kit
+ | pattern_la = _arg9495h
+ | pattern_b  = _arg9495h
+ | pattern_ra = _arg9495h
+ | pattern_sh  = _arg_94_home
+ | pattern_so = _arg_94_home
+ | leftarm    = 6BB6FF
+ | body       = FFFFFF
+ | rightarm   = 6BB6FF
+ | shorts     = 000000
+ | socks      = 6BB6FF
+ | title      = Argentina
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Florin Prunea]]
+|-
+|DF ||'''2''' ||[[Dan Petrescu]]
+|-
+|DF ||'''14'''||[[Gheorghe Mihali]]
+|-
+|DF ||'''4''' ||[[Miodrag Belodedici]]
+|-
+|DF ||'''3''' ||[[Daniel Prodan]]
+|-
+|DF ||'''13'''||[[Tibor Selymes]] || {{yel|68}}
+|-
+|MF ||'''5''' ||[[Ioan Lupescu]]
+|-
+|MF ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]] || {{yel|50}}
+|-
+|MF ||'''7''' ||[[Dorinel Munteanu]] 
+|-
+|AM ||'''10'''||[[Gheorghe Hagi]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|-
+|CF ||'''11'''||[[Ilie Dumitrescu]] || {{yel|84}} || {{suboff|89}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Constantin Gâlcă]] || || {{subon|86}}
+|-
+|MF ||'''19'''||[[Corneliu Papură]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Anghel Iordănescu]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Luis Islas]]
+|-
+|RB ||'''4''' ||[[Roberto Sensini]] || || {{suboff|63}}
+|-
+|CB ||'''13'''||[[Fernando Cáceres]] || {{yel|83}}
+|-
+|CB ||'''6''' ||[[Oscar Ruggeri]] ([[Captain (association football)|c]]) || {{yel|33}}
+|-
+|LB ||'''3''' ||[[José Chamot]] || {{yel|56}}
+|-
+|CM ||'''14'''||[[Diego Simeone]] 
+|-
+|CM ||'''5''' ||[[Fernando Redondo]] || {{yel|55}}
+|-
+|CM ||'''8''' ||[[José Basualdo]] 
+|-
+|AM ||'''17'''||[[Ariel Ortega]]
+|-
+|CF ||'''9''' ||[[Gabriel Batistuta]] 
+|-
+|CF ||'''19'''||[[Abel Balbo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Ramón Medina Bello]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Alfio Basile]]
+|}
+|}
+
+===Netherlands vs Republic of Ireland===
+[[File:FIFA WM Football (Soccer) 1994 03.jpg|thumb|Republic of Ireland in attack in the game against the Netherlands.]]
+<section begin="R16-5" />{{Football box
+|date={{Start date|1994|7|4}}
+|time=12:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|NED}}
+|score={{score link|1994 FIFA World Cup knockout stage#Netherlands vs Republic of Ireland|2–0}}
+|team2={{fb|IRL}}
+|goals1=
+*[[Dennis Bergkamp|Bergkamp]] {{goal|11}}
+*[[Wim Jonk|Jonk]] {{goal|41}}
+|goals2=
+|stadium=[[Citrus Bowl (stadium)|Citrus Bowl]], [[Orlando, Florida|Orlando]]
+|attendance=61,355
+|referee=[[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3089 |title=Netherlands vs Republic of Ireland {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3089/index.html |title=1994 FIFA World Cup USA – Matches – Netherlands v Republic of Ireland |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213005715/http://www.fifa.com/worldcup/matches/round=338/match=3089/index.html |archive-date=December 13, 2017}} }}</ref>
+}}<section end="R16-5" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1994h
+ | pattern_b  = _netherlands1994h
+ | pattern_ra = _netherlands1994h
+ | pattern_so = _netherlands96h
+ | leftarm    = FF9933
+ | body       = FF9933
+ | rightarm   = FF9933
+ | shorts     = FFFFFF
+ | socks      = FF6600
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _irl94a
+ | pattern_ra = 
+ | pattern_so = _irl94a
+ | leftarm    = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = {{nowrap|Republic of Ireland}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ed de Goey]]
+|-
+|CB ||'''18'''||[[Stan Valckx]]
+|-
+|CB ||'''4''' ||[[Ronald Koeman]] ([[Captain (association football)|c]]) || {{yel|72}}
+|-
+|CB ||'''2''' ||[[Frank de Boer]]
+|-
+|RM ||'''20'''||[[Aron Winter]]
+|-
+|CM ||'''3''' ||[[Frank Rijkaard]]
+|-
+|CM ||'''8''' ||[[Wim Jonk]]
+|-
+|LM ||'''5''' ||[[Rob Witschge]] || || {{suboff|79}}
+|-
+|RF ||'''7''' ||[[Marc Overmars]]
+|-
+|CF ||'''10'''||[[Dennis Bergkamp]]
+|-
+|LF ||'''19'''||[[Peter van Vossen]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Bryan Roy]] || || {{subon|70}}
+|-
+|DF ||'''16'''||[[Arthur Numan]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dick Advocaat]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''12'''||[[Gary Kelly (footballer, born 1974)|Gary Kelly]]
+|-
+|CB ||'''5''' ||[[Paul McGrath (footballer)|Paul McGrath]] 
+|-
+|CB ||'''14'''||[[Phil Babb]] 
+|-
+|LB ||'''3''' ||[[Terry Phelan]]
+|-
+|DM ||'''6''' ||[[Roy Keane]]
+|-
+|RM ||'''8''' ||[[Ray Houghton]]
+|-
+|CM ||'''10'''||[[John Sheridan (footballer)|John Sheridan]]
+|-
+|CM ||'''7''' ||[[Andy Townsend]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Steve Staunton]] || || {{suboff|63}}
+|-
+|CF ||'''15'''||[[Tommy Coyne]] || || {{suboff|74}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Jason McAteer]] || || {{subon|63}}
+|-
+|FW ||'''16'''||[[Tony Cascarino]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]]
+|}
+|}
+
+===Brazil vs United States===
+This was the third time that Brazil defeated the host nation of tournament, after [[Sweden men's national football team|Sweden]] in [[1958 FIFA World Cup final|1958]] and [[Chile national football team|Chile]] in [[1962 FIFA World Cup knockout stage#Brazil vs Chile|1962]] (coincidentally, on these three occasions Brazil became world champion).
+Since the kick off, Brazil set the pace, controlling ball possession and playing it on United States field. Left-back [[Leonardo Araújo|Leonardo]] was the main source of attacking, but during the last minute of the first half, after a ball dispute just by sideline, he threw his elbow at [[Tab Ramos]]' jaw, breaking it, knocking the North American down and being sent off. Later, Leonardo was handed a four-match suspension, keeping him out of the remainder of the tournament.
+
+In the second half, [[Carlos Alberto Parreira]] put right-back [[Cafu]] on the left-back, benching [[Zinho]]. Even with one man down, Brazil kept the pace. In the 72nd minute, [[Romário]] recovered the ball in midfield, ran to the American's box and delivered it to [[Bebeto]], who finished the play by shooting just between [[Tony Meola]] and the post. The United States were unable to respond, and Brazil held on for the win.
+
+<section begin="R16-6" />{{Football box
+|date={{Start date|1994|7|4}}
+|time=12:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1994 FIFA World Cup knockout stage#Brazil vs United States|1–0}}
+|team2={{fb|USA}}
+|goals1=
+*[[Bebeto]] {{goal|72}}
+|goals2=
+|stadium=[[Stanford Stadium]], [[Stanford, California|Stanford]]
+|attendance=84,147
+|referee=[[Joël Quiniou]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3090 |title=Brazil vs United States {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3090/index.html |title=1994 FIFA World Cup USA – Matches – Brazil v USA |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220153124/http://www.fifa.com/worldcup/matches/round=338/match=3090/index.html |archive-date=December 20, 2017}} }}</ref>
+}}<section end="R16-6" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra94h
+ | pattern_b  = _bra94h
+ | pattern_ra = _bra94h
+ | pattern_so = _brazil1994
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 0070F9
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _usa94h1
+ | pattern_b  = _usa94h1
+ | pattern_ra = _usa94h1
+ | pattern_so = _3_stripes_white
+ | leftarm    = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = BE0032
+ | socks      = 001050
+ | title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]] || {{yel|16}}
+|-
+|CB ||'''13'''||[[Aldair]]
+|-
+|CB ||'''15'''||[[Márcio Santos (footballer, born 1969)|Márcio Santos]] 
+|-
+|LB ||'''16'''||[[Leonardo Araújo|Leonardo]] || {{sent off|0|43}}
+|-
+|RM ||'''17'''||[[Mazinho]] || {{yel|8}}
+|-
+|CM ||'''5''' ||[[Mauro Silva]]
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]])
+|-
+|LM ||'''9''' ||[[Zinho]] || || {{suboff|69}} 
+|-
+|FW ||'''7''' ||[[Bebeto]] 
+|-
+|FW ||'''11'''||[[Romário]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LB ||'''14'''||[[Cafu]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Meola]] ([[Captain (association football)|c]])
+|-
+|DF ||'''17'''||[[Marcelo Balboa]]
+|-
+|DF ||'''20'''||[[Paul Caligiuri]] || {{yel|49}}
+|-
+|DF ||'''21'''||[[Fernando Clavijo]] || {{sent off|2|64|85}}
+|-
+|DF ||'''22'''||[[Alexi Lalas]] 
+|-
+|MF ||'''5''' ||[[Thomas Dooley]] || {{yel|80}}
+|-
+|MF ||'''7''' ||[[Hugo Pérez (soccer, born 1963)|Hugo Pérez]] || || {{suboff|66}}
+|-
+|MF ||'''9''' ||[[Tab Ramos]] || {{yel|43}} || {{suboff|45}}
+|-
+|MF ||'''13'''||[[Cobi Jones]]
+|-
+|MF ||'''16'''||[[Mike Sorber]] 
+|-
+|FW ||'''8''' ||[[Earnie Stewart]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Eric Wynalda]] || || {{subon|45}}
+|-
+|FW ||'''10'''||[[Roy Wegerle]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|}
+
+===Nigeria vs Italy===
+<section begin="R16-7" />{{Football box
+|date={{Start date|1994|7|5}}
+|time=1:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|NGA}}
+|score={{score link|1994 FIFA World Cup knockout stage#Nigeria vs Italy|1–2}}
+|aet=yes
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Emmanuel Amunike|Amunike]] {{goal|25}}
+|goals2=
+*[[Roberto Baggio|R. Baggio]] {{goal|88||102|pen.}}
+|stadium=[[Foxboro Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=54,367
+|referee=[[Arturo Brizio Carter]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3091 |title=Nigeria vs Italy {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3091/index.html |title=1994 FIFA World Cup USA – Matches – Nigeria v Italy |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213041751/http://www.fifa.com/worldcup/matches/round=338/match=3091/index.html |archive-date=December 13, 2017}} }}</ref>
+}}<section end="R16-7" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _nga94h1
+ | pattern_b  = _nga94
+ | pattern_ra = _nga94h1
+ | pattern_sh = _nga94h1
+ | pattern_so = _adidas_thick_stripes_white
+ | leftarm    = 009933
+ | body       = 009933
+ | rightarm   = 009933
+ | shorts     = 009933
+ | socks      = 009933
+ | title      = Nigeria
+}}
+|{{Football kit
+ | pattern_la = _italia_cm1994
+ | pattern_b  = _italia_cm1994_b
+ | pattern_ra = _italia_cm1994
+ | pattern_so = _italia_cm1994
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Augustine Eguavoen]]
+|-
+|DF ||'''5''' ||[[Uche Okechukwu]] 
+|-
+|DF ||'''6''' ||[[Chidi Nwanu]] || {{yel|58}}
+|-
+|MF ||'''7''' ||[[Finidi George]]
+|-
+|FW ||'''9''' ||[[Rashidi Yekini]]
+|-
+|MF ||'''10''' ||[[Jay Jay Okocha]] 
+|-
+|MF ||'''11'''||[[Emmanuel Amunike]] || || {{suboff|57}} 
+|-
+|FW ||'''14'''||[[Daniel Amokachi]] || || {{suboff|35}}
+|-
+|MF ||'''15'''||[[Sunday Oliseh]] || {{yel|53}}
+|-
+|DF ||'''19'''||[[Michael Emenalo]] || {{yel|2}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Mutiu Adepoju]] || {{yel|41}} || {{subon|35}}
+|-
+|MF ||'''8''' ||[[Thompson Oliha]] || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Clemens Westerhof]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Luca Marchegiani]]
+|-
+|RB ||'''8''' ||[[Roberto Mussi]]
+|-
+|CB ||'''3''' ||[[Antonio Benarrivo]]
+|-
+|CB ||'''4''' ||[[Alessandro Costacurta]] || {{yel|29}}
+|-
+|LB ||'''5''' ||[[Paolo Maldini]] ([[Captain (association football)|c]]) || {{yel|80}}
+|-
+|RM ||'''14'''||[[Nicola Berti]] || || {{suboff|45}}
+|-
+|CM ||'''11'''||[[Demetrio Albertini]] 
+|-
+|LM ||'''16'''||[[Roberto Donadoni]]
+|-
+|RF ||'''10'''||[[Roberto Baggio]] 
+|-
+|CF ||'''19'''||[[Daniele Massaro]] || {{yel|6}}
+|-
+|LF ||'''20'''||[[Giuseppe Signori]] || {{yel|60}} || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Dino Baggio]] || {{yel|62}} || {{subon|45}}
+|-
+|FW ||'''21'''||[[Gianfranco Zola]] || {{sent off|0|75}} || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Arrigo Sacchi]]
+|}
+|}
+
+===Mexico vs Bulgaria===
+<section begin="R16-8" />{{Football box
+|date={{Start date|1994|7|5}}
+|time=4:30&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|MEX}}
+|score={{score link|1994 FIFA World Cup knockout stage#Mexico vs Bulgaria|1–1}}
+|aet=yes
+|team2={{fb|BUL}}
+|goals1=
+*[[Alberto García Aspe|García Aspe]] {{goal|18|pen.}}
+|goals2=
+*[[Hristo Stoichkov|Stoichkov]] {{goal|6}}
+|stadium=[[Giants Stadium]], [[East Rutherford]]
+|attendance=71,030
+|referee=[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+|penalties1=
+*[[Alberto García Aspe|García Aspe]] {{penmiss}}
+*[[Marcelino Bernal|Bernal]] {{penmiss}}
+*[[Jorge Rodríguez (footballer, born 1968)|Rodríguez]] {{penmiss}}
+*[[Claudio Suárez|Suárez]] {{pengoal}}
+|penaltyscore=1–3
+|penalties2=
+*{{penmiss}} [[Krasimir Balakov|Balakov]]
+*{{pengoal}} [[Boncho Genchev|Genchev]]
+*{{pengoal}} [[Daniel Borimirov|Borimirov]]
+*{{pengoal}} [[Yordan Letchkov|Letchkov]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/338/3092 |title=Mexico vs Bulgaria {{!}} Round of 16 {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=338/match=3092/index.html |title=1994 FIFA World Cup USA – Matches – Mexico v Bulgaria |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229062541/http://www.fifa.com/worldcup/matches/round=338/match=3092/index.html |archive-date=December 29, 2017}} }}</ref>
+}}<section end="R16-8" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_b	= _mex94h
+ | pattern_sh	= _mexico94h
+ | pattern_so = _mex91h
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Mexico
+}}
+|{{Football kit
+ | pattern_la = _bul94h
+ | pattern_b  = _bul94h 
+ | pattern_ra = _bul94h
+ | pattern_sh = _nor94h
+ | pattern_so = _adidas_thick_stripes_green
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jorge Campos]]
+|-
+|RB ||'''20'''||[[Jorge Rodríguez (footballer, born 1968)|Jorge Rodríguez]] 
+|-
+|CB ||'''2''' ||[[Claudio Suárez]] || {{yel|14}}
+|-
+|CB ||'''3''' ||[[Juan de Dios Ramírez Perales|Juan Ramírez]]
+|-
+|LB ||'''5''' ||[[Ramón Ramírez (footballer)|Ramón Ramírez]] || {{yel|70}}
+|-
+|RM ||'''6''' ||[[Marcelino Bernal]]
+|-
+|CM ||'''4''' ||[[Ignacio Ambríz]] ([[Captain (association football)|c]]) 
+|-
+|CM ||'''8''' ||[[Alberto García Aspe]] || {{yel|76}}
+|-
+|LM ||'''17'''||[[Benjamín Galindo]]
+|-
+|RF ||'''10'''||[[Luis García Postigo|Luis García]] || {{sent off|2|28|57}} 
+|-
+|LF ||'''11'''||[[Luís Roberto Alves]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Miguel Mejía Barón]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Emil Kremenliev]] || {{sent off|2|12|50}}
+|-
+|CB ||'''5''' ||[[Petar Hubchev]]
+|-
+|CB ||'''13'''||[[Ivaylo Yordanov]] || {{yel|67}}
+|-
+|LB ||'''16'''||[[Iliyan Kiryakov]] || {{yel|34}}
+|-
+|CM ||'''9''' ||[[Yordan Letchkov]]
+|-
+|AM ||'''11'''||[[Daniel Borimirov]]
+|-
+|CM ||'''20'''||[[Krasimir Balakov]] 
+|-
+|RF ||'''7''' ||[[Emil Kostadinov]] || || {{suboff|119}}
+|-
+|CF ||'''10'''||[[Nasko Sirakov]] || {{yel|17}} || {{suboff|104}}
+|-
+|LF ||'''8''' ||[[Hristo Stoichkov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Boncho Genchev]] || || {{subon|104}}
+|-
+|MF ||'''17'''||[[Petar Mihtarski]] || || {{subon|119}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dimitar Penev]]
+|}
+|}
+
+== Quarterfinals ==
+
+===Italy vs Spain===
+{{see also|Italy–Spain football rivalry}}
+
+<section begin="QF1" />{{Football box
+|date={{Start date|1994|7|9}}
+|time=12:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1994 FIFA World Cup knockout stage#Italy vs Spain|2–1}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Dino Baggio|D. Baggio]] {{goal|25}}
+*[[Roberto Baggio|R. Baggio]] {{goal|88}}
+|goals2=
+*[[José Luis Caminero|Caminero]] {{goal|58}}
+|stadium=[[Foxboro Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+|attendance=53,400
+|referee=[[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/796/3097 |title=Italy vs Spain {{!}} Quarter-final {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=796/match=3097/index.html |title=1994 FIFA World Cup USA – Matches – Italy v Spain |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229071418/http://www.fifa.com/worldcup/matches/round=796/match=3097/index.html |archive-date=December 29, 2017}} }}</ref>
+}}<section end="QF1" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italia_cm1994
+ | pattern_b  = _italia_cm1994_b
+ | pattern_ra = _italia_cm1994
+ | pattern_so = _italia_cm1994
+ | leftarm    = 1004CE
+ | body       = 1004CE
+ | rightarm   = 1004CE
+ | shorts     = FFFFFF
+ | socks      = 1004CE
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _esp94a
+ | pattern_b  = _esp94a
+ | pattern_sh = _esp94a
+ | pattern_so = _spain
+ | rightarm   = FFFFFF
+ | socks      = FFFFFF
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluca Pagliuca]]
+|-
+|RB ||'''9''' ||[[Mauro Tassotti]] 
+|-
+|CB ||'''4''' ||[[Alessandro Costacurta]]
+|-
+|CB ||'''5''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Antonio Benarrivo]]
+|-
+|RM ||'''16'''||[[Roberto Donadoni]] 
+|-
+|CM ||'''11'''||[[Demetrio Albertini]] || || {{suboff|45}}
+|-
+|CM ||'''13'''||[[Dino Baggio]] 
+|-
+|LM ||'''15'''||[[Antonio Conte]] || || {{suboff|66}}
+|-
+|SS ||'''10'''||[[Roberto Baggio]] 
+|-
+|CF ||'''19'''||[[Daniele Massaro]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LF ||'''20'''||[[Giuseppe Signori]] || || {{subon|45}}
+|-
+|LM ||'''14'''||[[Nicola Berti]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Arrigo Sacchi]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Albert Ferrer]]
+|-
+|CB ||'''5''' ||[[Abelardo Fernández|Abelardo]] || {{yel|3}}
+|-
+|CB ||'''18'''||[[Rafael Alkorta]] 
+|-
+|LB ||'''3''' ||[[Jorge Otero]]
+|-
+|DM ||'''20'''||[[Miguel Ángel Nadal]]
+|-
+|DM ||'''12'''||[[Sergi Barjuán|Sergi]] || || {{suboff|60}}
+|-
+|RM ||'''7''' ||[[Ion Andoni Goikoetxea]]
+|-
+|AM ||'''10'''||[[José Mari Bakero]] || || {{suboff|65}}
+|-
+|LM ||'''15'''||[[José Luis Caminero]] || {{yel|19}}
+|-
+|FW ||'''21'''||[[Luis Enrique (footballer)|Luis Enrique]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Julio Salinas]] || || {{subon|60}}
+|-
+|DF ||'''6''' ||[[Fernando Hierro]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Javier Clemente]]
+|}
+|}
+
+===Netherlands vs Brazil===
+<section begin="QF2" />{{Football box
+|date={{Start date|1994|7|9}}
+|time=2:30&nbsp;p.m. [[Central Time Zone (North America)|CDT]] ([[UTC−05:00|UTC–5]])
+|team1={{fb-rt|NED}}
+|score={{score link|1994 FIFA World Cup knockout stage#Netherlands vs Brazil|2–3}}
+|team2={{fb|BRA}}
+|goals1=
+*[[Dennis Bergkamp|Bergkamp]] {{goal|64}}
+*[[Aron Winter|Winter]] {{goal|76}}
+|goals2=
+*[[Romário]] {{goal|53}}
+*[[Bebeto]] {{goal|63}}
+*[[Branco (footballer)|Branco]] {{goal|81}}
+|stadium=[[Cotton Bowl (stadium)|Cotton Bowl]], [[Dallas, Texas|Dallas]]
+|attendance=63,500
+|referee=[[Rodrigo Badilla]] ([[Costa Rican Football Federation|Costa Rica]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/796/3098 |title=Netherlands vs Brazil {{!}} Quarter-final {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=796/match=3098/index.html |title=1994 FIFA World Cup USA – Matches – Netherlands v Brazil |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228111031/http://www.fifa.com/worldcup/matches/round=796/match=3098/index.html |archive-date=December 28, 2017}} }}</ref>
+}}<section end="QF2" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1994a
+ | pattern_b  = _netherlands1994a
+ | pattern_ra = _netherlands1994a
+ | pattern_so = _netherlands1994a
+ | leftarm    = FFFFFF 
+ | body       = FFFFFF 
+ | rightarm   = FFFFFF 
+ | shorts     = FF6600
+ | socks      = FFFFFF 
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _bra94a
+ | pattern_b  = _bra94a
+ | pattern_ra = _bra94a
+ | pattern_sh = 
+ | pattern_so = _bra94a
+ | leftarm    = 0033CC
+ | body       = 0033CC
+ | rightarm   = 0033CC
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ed de Goey]]
+|-
+|CB ||'''6''' ||[[Jan Wouters]] || {{yel|89}}
+|-
+|SW ||'''4''' ||[[Ronald Koeman]] ([[Captain (association football)|c]])
+|-
+|CB ||'''18'''||[[Stan Valckx]]
+|-
+|RM ||'''20'''||[[Aron Winter]] || {{yel|40}}
+|-
+|CM ||'''3''' ||[[Frank Rijkaard]] || || {{suboff|65}}
+|-
+|CM ||'''8''' ||[[Wim Jonk]]
+|-
+|LM ||'''5''' ||[[Rob Witschge]]
+|-
+|RF ||'''7''' ||[[Marc Overmars]]
+|-
+|CF ||'''10'''||[[Dennis Bergkamp]]
+|-
+|LF ||'''19'''||[[Peter van Vossen]] || || {{suboff|54}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Bryan Roy]] || || {{subon|54}}
+|-
+|MF ||'''9''' ||[[Ronald de Boer]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dick Advocaat]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|CB ||'''13'''||[[Aldair]]
+|-
+|CB ||'''15'''||[[Márcio Santos (footballer, born 1969)|Márcio Santos]] 
+|-
+|LB ||'''6''' || [[Branco (footballer)|Branco]] || || {{suboff|90}}
+|-
+|RM ||'''17'''||[[Mazinho]] || || {{suboff|81}}
+|-
+|CM ||'''5''' ||[[Mauro Silva]]
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]]) || {{yel|74}}
+|-
+|LM ||'''9''' ||[[Zinho]]
+|-
+|FW ||'''7''' ||[[Bebeto]] 
+|-
+|FW ||'''11'''||[[Romário]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|RM ||'''10'''||[[Raí]] || || {{subon|81}}
+|-
+|LB ||'''14'''||[[Cafu]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|}
+
+===Bulgaria vs Germany===
+<section begin="QF3" />{{Football box
+|date={{Start date|1994|7|10}}
+|time=12:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|BUL}}
+|score={{score link|1994 FIFA World Cup knockout stage#Bulgaria vs Germany|2–1}}
+|team2={{fb|GER}}
+|goals1=
+*[[Hristo Stoichkov|Stoichkov]] {{goal|75}}
+*[[Yordan Letchkov|Letchkov]] {{goal|78}}
+|goals2=
+*[[Lothar Matthäus|Matthäus]] {{goal|47|pen.}}
+|stadium=[[Giants Stadium]], [[East Rutherford]]
+|attendance=72,000
+|referee=[[José Torres Cadena]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/796/3096 |title=Bulgaria vs Germany {{!}} Quarter-final {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=796/match=3096/index.html |title=1994 FIFA World Cup USA – Matches – Bulgaria v Germany |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219055152/http://www.fifa.com/worldcup/matches/round=796/match=3096/index.html |archive-date=December 19, 2017}} }}</ref>
+}}<section end="QF3" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bul94a
+ | pattern_b  = _bul94a
+ | pattern_ra = _bul94a
+ | pattern_sh = _nor94h
+ | pattern_so = _adidas_thick_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|{{Football kit
+ | pattern_la = _ger94h
+ | pattern_b  = _ger94H
+ | pattern_ra = _ger94h
+ | pattern_sh = _Germany_94_home
+ | pattern_so = _DFB_00h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Germany
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]] ([[Captain (association football)|c]]) || {{yel|85}}
+|-
+|RB ||'''16'''||[[Iliyan Kiryakov]]
+|-
+|CB ||'''3''' ||[[Trifon Ivanov]] || {{yel|22}}
+|-
+|CB ||'''5''' ||[[Petar Hubchev]]
+|-
+|LB ||'''4''' ||[[Tsanko Tsvetanov]]
+|-
+|DM ||'''6''' ||[[Zlatko Yankov]] 
+|-
+|CM ||'''9''' ||[[Yordan Letchkov]] 
+|-
+|CM ||'''20'''||[[Krasimir Balakov]] 
+|-
+|RF ||'''7''' ||[[Emil Kostadinov]] || || {{suboff|90}}
+|-
+|CF ||'''10'''||[[Nasko Sirakov]] 
+|-
+|LF ||'''8''' ||[[Hristo Stoichkov]] || {{yel|82}} || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Ivaylo Yordanov]] || || {{subon|85}}
+|-
+|FW ||'''14'''||[[Boncho Genchev]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dimitar Penev]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Bodo Illgner]]
+|-
+|CB ||'''5''' ||[[Thomas Helmer]] || {{yel|14}}
+|-
+|CB ||'''6''' ||[[Guido Buchwald]]
+|-
+|CB ||'''4''' ||[[Jürgen Kohler]]
+|-
+|RWB ||'''14'''||[[Thomas Berthold]] 
+|-
+|CM ||'''7''' ||[[Andreas Möller]]
+|-
+|CM ||'''10'''||[[Lothar Matthäus]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||[[Thomas Häßler]] || {{yel|49}} || {{suboff|83}}
+|-
+|LWB ||'''17'''||[[Martin Wagner (footballer, born 1968)|Martin Wagner]] || {{yel|15}} || {{suboff|59}}
+|-
+|CF ||'''13'''||[[Rudi Völler]] || {{yel|89}}
+|-
+|CF ||'''18'''||[[Jürgen Klinsmann]] || {{yel|50}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''2''' ||[[Thomas Strunz]] || || {{subon|59}}
+|-
+|DF ||'''3''' ||[[Andreas Brehme]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Berti Vogts]]
+|}
+|}
+
+===Romania vs Sweden===
+<section begin="QF4" />{{Football box
+|date={{Start date|1994|7|10}}
+|time=12:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC-07:00|UTC-7]])
+|team1={{fb-rt|ROU}}
+|score={{score link|1994 FIFA World Cup knockout stage#Romania vs Sweden|2–2}}
+|aet=yes
+|team2={{fb|SWE}}
+|goals1=
+*[[Florin Răducioiu|Răducioiu]] {{goal|88||101}}
+|goals2=
+*[[Tomas Brolin|Brolin]] {{goal|78}}
+*[[Kennet Andersson|K. Andersson]] {{goal|115}}
+|stadium=[[Stanford Stadium]], [[Stanford, California|Stanford]]
+|attendance=83,500
+|referee=[[Philip Don]] ([[The Football Association|England]])
+|penalties1=
+*[[Florin Răducioiu|Răducioiu]] {{pengoal}}
+*[[Gheorghe Hagi|Hagi]] {{pengoal}}
+*[[Ioan Lupescu|Lupescu]] {{pengoal}}
+*[[Dan Petrescu|Petrescu]] {{penmiss}}
+*[[Ilie Dumitrescu|Dumitrescu]] {{pengoal}}
+*[[Miodrag Belodedici|Belodedici]] {{penmiss}}
+|penaltyscore=4–5
+|penalties2=
+*{{penmiss}} [[Håkan Mild|Mild]]
+*{{pengoal}} [[Kennet Andersson|K. Andersson]]
+*{{pengoal}} [[Tomas Brolin|Brolin]]
+*{{pengoal}} [[Klas Ingesson|Ingesson]]
+*{{pengoal}} [[Roland Nilsson|R. Nilsson]]
+*{{pengoal}} [[Henrik Larsson|Larsson]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/796/3095 |title=Romania vs Sweden {{!}} Quarter-final {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=796/match=3095/index.html |title=1994 FIFA World Cup USA – Matches – Romania v Sweden |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229064029/http://www.fifa.com/worldcup/matches/round=796/match=3095/index.html |archive-date=December 29, 2017}} }}</ref>
+}}<section end="QF4" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rom94a
+ | pattern_b  = _romania1994a
+ | pattern_ra = _rom94a
+ | pattern_sh = _romania1994a
+ | pattern_so = _adidas_thick_stripes_sweden_away
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Romania
+}}
+|{{Football kit
+ | pattern_b  = _swe94a
+ | pattern_sh = _blue_stripes
+ | pattern_so = _swe_wc_1994_a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Florin Prunea]]
+|-
+|CB ||'''3''' ||[[Daniel Prodan]]
+|-
+|SW ||'''4''' ||[[Miodrag Belodedici]]
+|-
+|CB ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]] || {{yel|21}}
+|-
+|RWB ||'''2''' ||[[Dan Petrescu]]
+|-
+|CM ||'''5''' ||[[Ioan Lupescu]]
+|-
+|CM ||'''7''' ||[[Dorinel Munteanu]] || || {{suboff|84}}
+|-
+|LWB ||'''13'''||[[Tibor Selymes]] || {{yel|34}}
+|-
+|AM ||'''10'''||[[Gheorghe Hagi]] ([[Captain (association football)|c]])
+|-
+|SS ||'''11'''||[[Ilie Dumitrescu]]
+|-
+|CF ||'''9''' ||[[Florin Răducioiu]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Basarab Panduru]] || {{yel|108}} || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Anghel Iordănescu]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Ravelli]]
+|-
+|RB ||'''2''' ||[[Roland Nilsson]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Patrik Andersson]]
+|-
+|CB ||'''4''' ||[[Joachim Björklund]] || || {{suboff|84}}
+|-
+|LB ||'''5''' ||[[Roger Ljung]]
+|-
+|RM ||'''11'''||[[Tomas Brolin]] 
+|-
+|CM ||'''18'''||[[Håkan Mild]]
+|-
+|CM ||'''6''' ||[[Stefan Schwarz]] || {{sent off|2|43|101}}
+|-
+|LM ||'''8''' ||[[Klas Ingesson]] || {{yel|7}}
+|-
+|CF ||'''10'''||[[Martin Dahlin]] || || {{suboff|107}}
+|-
+|CF ||'''19'''||[[Kennet Andersson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CB ||'''14'''||[[Pontus Kåmark]] || || {{subon|84}}
+|-
+|CF ||'''7''' ||[[Henrik Larsson]] || || {{subon|107}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Tommy Svensson]]
+|}
+|}
+
+==Semifinals==
+
+===Bulgaria vs Italy===
+<section begin="SF1" />{{Football box
+|date={{Start date|1994|7|13}}
+|time=4:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|BUL}}
+|score={{score link|1994 FIFA World Cup knockout stage#Bulgaria vs Italy|1–2}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Hristo Stoichkov|Stoichkov]] {{goal|44|pen.}}
+|goals2=
+*[[Roberto Baggio|R. Baggio]] {{goal|21||25}}
+|stadium=[[Giants Stadium]], [[East Rutherford]]
+|attendance=74,110
+|referee=[[Joël Quiniou]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/3461/3100 |title=Bulgaria vs Italy {{!}} Semi-final {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3461/match=3100/index.html |title=1994 FIFA World Cup USA – Matches – Bulgaria v Italy |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228222208/http://www.fifa.com/worldcup/matches/round=3461/match=3100/index.html |archive-date=December 28, 2017}} }}</ref>
+}}<section end="SF1" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bul94h
+ | pattern_b  = _bul94h
+ | pattern_ra = _bul94h
+ | pattern_sh = _bul94h
+ | pattern_so = _adidas_thick_stripes_green
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Bulgaria
+}}
+|{{Football kit
+ | pattern_la = _italia_cm1994
+ | pattern_b  = _italia_cm1994_b
+ | pattern_ra = _italia_cm1994
+ | pattern_so = _italia_cm1994
+ | leftarm    = 1004CE
+ | body       = 1004CE
+ | rightarm   = 1004CE
+ | shorts     = FFFFFF
+ | socks      = 1004CE
+ | title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]] ([[Captain (association football)|c]])
+|-
+|RB ||'''16'''||[[Iliyan Kiryakov]]
+|-
+|CB ||'''3''' ||[[Trifon Ivanov]]
+|-
+|CB ||'''5''' ||[[Petar Hubchev]]
+|-
+|LB ||'''4''' ||[[Tsanko Tsvetanov]]
+|-
+|DM ||'''6''' ||[[Zlatko Yankov]] || {{yel|83}} 
+|-
+|CM ||'''9''' ||[[Yordan Letchkov]] || {{yel|65}}
+|- 
+|CM ||'''20'''||[[Krasimir Balakov]] 
+|-
+|AM ||'''10'''||[[Nasko Sirakov]] 
+|-
+|FW ||'''7''' ||[[Emil Kostadinov]] || {{yel|52}} || {{suboff|72}}
+|-
+|FW ||'''8''' ||[[Hristo Stoichkov]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''13'''||[[Ivaylo Yordanov]] || || {{subon|72}}
+|-
+|MF ||'''14'''||[[Boncho Genchev]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dimitar Penev]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluca Pagliuca]]
+|-
+|RB ||'''8''' ||[[Roberto Mussi]] 
+|-
+|CB ||'''4''' ||[[Alessandro Costacurta]] || {{yel|61}}
+|-
+|CB ||'''5''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Antonio Benarrivo]]
+|-
+|RM ||'''16'''||[[Roberto Donadoni]] 
+|-
+|CM ||'''11'''||[[Demetrio Albertini]] || {{yel|80}}
+|-
+|CM ||'''13'''||[[Dino Baggio]] || || {{suboff|56}}
+|-
+|LM ||'''14'''||[[Nicola Berti]]
+|-
+|SS ||'''10'''||[[Roberto Baggio]] || || {{suboff|71}}
+|-
+|CF ||'''18'''||[[Pierluigi Casiraghi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Antonio Conte]] || || {{subon|56}}
+|-
+|FW ||'''20'''||[[Giuseppe Signori]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Arrigo Sacchi]]
+|}
+|}
+
+===Sweden vs Brazil===
+<section begin="SF2" />{{Football box
+|date={{Start date|1994|7|13}}
+|time=4:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|SWE}}
+|score={{score link|1994 FIFA World Cup knockout stage#Sweden vs Brazil|0–1}}
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+*[[Romário]] {{goal|80}}
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=91,856
+|referee=[[José Torres Cadena]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/3461/3099 |title=Sweden vs Brazil {{!}} Semi-final {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3461/match=3099/index.html |title=1994 FIFA World Cup USA – Matches – Sweden v Brazil |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171208061940/http://www.fifa.com/worldcup/matches/round=3461/match=3099/index.html |archive-date=December 8, 2017}} }}</ref>
+}}<section end="SF2" />
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_b  = _swe94a
+ | pattern_sh = _blue_stripes
+ | pattern_so = _swe_wc_1994_a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Sweden
+}}
+|{{Football kit
+ | pattern_la = _bra94a
+ | pattern_b  = _bra94a
+ | pattern_ra = _bra94a
+ | pattern_so = _bra94a
+ | leftarm    = 0033CC
+ | body       = 0033CC
+ | rightarm   = 0033CC
+ | shorts     = 0070F9
+ | socks      = 0000FF
+ | title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Ravelli]]
+|-
+|RB ||'''2''' ||[[Roland Nilsson]]
+|-
+|CB ||'''3''' ||[[Patrik Andersson]]
+|-
+|CB ||'''4''' ||[[Joachim Björklund]]
+|-
+|LB ||'''5''' ||[[Roger Ljung]] || {{yel|29}}
+|-
+|RM ||'''11'''||[[Tomas Brolin]] || {{yel|86}}
+|-
+|CM ||'''18'''||[[Håkan Mild]]
+|-
+|CM ||'''9''' ||[[Jonas Thern]] ([[Captain (association football)|c]]) || {{sent off|0|63}}
+|-
+|LM ||'''8''' ||[[Klas Ingesson]]
+|-
+|CF ||'''10'''||[[Martin Dahlin]] || || {{suboff|68}}
+|-
+|CF ||'''19'''||[[Kennet Andersson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CM ||'''17'''||[[Stefan Rehn]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Tommy Svensson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Jorginho (footballer, born 1964)|Jorginho]]
+|-
+|CB ||'''13'''||[[Aldair]]
+|-
+|CB ||'''15'''||[[Márcio Santos (footballer, born 1969)|Márcio Santos]] 
+|-
+|LB ||'''6''' || [[Branco (footballer)|Branco]]
+|-
+|RM ||'''17'''||[[Mazinho]] || || {{suboff|45}}
+|-
+|CM ||'''5''' ||[[Mauro Silva]]
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]])
+|-
+|LM ||'''9''' ||[[Zinho]] || {{yel|3}}
+|-
+|FW ||'''7''' ||[[Bebeto]] 
+|-
+|FW ||'''11'''||[[Romário]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|RM ||'''10'''||[[Raí]] || || {{subon|45}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Alberto Parreira]]
+|}
+|}
+
+==Match for third place==
+<section begin="3rd" />{{Football box
+|date={{Start date|1994|7|16}}
+|time=12:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|SWE}}
+|score={{score link|1994 FIFA World Cup knockout stage#Match for third place|4–0}}
+|team2={{fb|BUL}}
+|goals1=
+*[[Tomas Brolin|Brolin]] {{goal|8}}
+*[[Håkan Mild|Mild]] {{goal|30}}
+*[[Henrik Larsson|Larsson]] {{goal|37}}
+*[[Kennet Andersson|K. Andersson]] {{goal|39}}
+|goals2=
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=91,500
+|referee=[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/3460/3103 |title=Sweden vs Bulgaria {{!}} Match for third place {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3460/match=3103/index.html |title=1994 FIFA World Cup USA – Matches – Sweden v Bulgaria |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219100452/http://www.fifa.com/worldcup/matches/round=3460/match=3103/index.html |archive-date=December 19, 2017}} }}</ref>
+}}<section end="3rd" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _swe94h
+ |pattern_ra = 
+ |pattern_sh = _yellow_stripes
+ |pattern_so = _swe_wc_1994_h
+ |leftarm    = FFE000
+ |body       = FFFFFF
+ |rightarm   = FFE000
+ |shorts     = 1030BF
+ |socks      = FFE000
+ | title      = Sweden
+}}
+|{{Football kit
+ | pattern_la = _bul94h
+ | pattern_b  = _bul94h
+ | pattern_ra = _bul94h
+ | pattern_sh = _bul94h
+ | pattern_so = _adidas_thick_stripes_green
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thomas Ravelli]]
+|-
+|RB ||'''2''' ||[[Roland Nilsson]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Patrik Andersson]]
+|-
+|CB ||'''4''' ||[[Joachim Björklund]]
+|-
+|LB ||'''14'''||[[Pontus Kåmark]]
+|-
+|RM ||'''11'''||[[Tomas Brolin]]
+|-
+|CM ||'''18'''||[[Håkan Mild]]
+|-
+|CM ||'''6''' ||[[Stefan Schwarz]]
+|-
+|LM ||'''8''' ||[[Klas Ingesson]]
+|-
+|CF ||'''7''' ||[[Henrik Larsson]] || || {{suboff|79}}
+|-
+|CF ||'''19'''||[[Kennet Andersson]] || {{yel|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Anders Limpar]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Tommy Svensson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Borislav Mihaylov]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|RB ||'''16'''||[[Iliyan Kiryakov]]
+|-
+|CB ||'''3''' ||[[Trifon Ivanov]] || || {{suboff|42}}
+|-
+|CB ||'''5''' ||[[Petar Hubchev]]
+|-
+|LB ||'''4''' ||[[Tsanko Tsvetanov]]
+|-
+|DM ||'''6''' ||[[Zlatko Yankov]] || {{yel|73}} 
+|-
+|CM ||'''9''' ||[[Yordan Letchkov]]
+|- 
+|CM ||'''20'''||[[Krasimir Balakov]] 
+|-
+|AM ||'''10'''||[[Nasko Sirakov]] || || {{suboff|46}}
+|-
+|FW ||'''7''' ||[[Emil Kostadinov]]
+|-
+|FW ||'''8''' ||[[Hristo Stoichkov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Emil Kremenliev]] || || {{subon|42}}
+|-
+|GK ||'''12'''||[[Plamen Nikolov (footballer, born 1961)|Plamen Nikolov]] || || {{subon|46}}
+|-
+|FW ||'''13'''||[[Ivaylo Yordanov]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Dimitar Penev]]
+|}
+|}
+
+==Final==
+{{main|1994 FIFA World Cup final}}
+{{#lst:1994 FIFA World Cup final|Final}}
+{{#lst:1994 FIFA World Cup final|Lineups}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1994 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout Stage}}
+[[Category:1994 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1994]]
+[[Category:Mexico at the 1994 FIFA World Cup]]
+[[Category:Brazil at the 1994 FIFA World Cup]]
+[[Category:Italy at the 1994 FIFA World Cup]]
+[[Category:Nigeria at the 1994 FIFA World Cup]]
+[[Category:Netherlands at the 1994 FIFA World Cup]]
+[[Category:Republic of Ireland at the 1994 FIFA World Cup]]
+[[Category:Spain at the 1994 FIFA World Cup]]
+[[Category:Argentina at the 1994 FIFA World Cup]]
+[[Category:United States at the 1994 FIFA World Cup]]
+[[Category:Germany at the 1994 FIFA World Cup]]
+[[Category:Switzerland at the 1994 FIFA World Cup]]
+[[Category:Sweden at the 1994 FIFA World Cup]]
+[[Category:Bulgaria at the 1994 FIFA World Cup]]
+[[Category:Belgium at the 1994 FIFA World Cup]]
+[[Category:Saudi Arabia at the 1994 FIFA World Cup]]
+[[Category:Soccer competitions in Los Angeles County, California]]
+[[Category:Soccer competitions in Massachusetts]]
+[[Category:Sports competitions in Pasadena, California]]
+[[Category:International sports competitions in California]]
+[[Category:1994 in sports in California]]
+[[Category:20th century in Pasadena, California]]
+[[Category:Sports in Stanford, California]]
+[[Category:Sports competitions in Santa Clara County, California]]
+[[Category:Soccer competitions in Chicago]]
+[[Category:1994 in sports in Illinois]]
+[[Category:1994 in Chicago]]
+[[Category:Sports competitions in Foxborough, Massachusetts]]
+[[Category:1994 in sports in Massachusetts]]
+[[Category:Soccer competitions in Texas]]
+[[Category:International sports competitions in Texas]]
+[[Category:Sports competitions in Dallas]]
+[[Category:1990s in Dallas]]
+[[Category:1994 in sports in Texas]]
+[[Category:Soccer competitions in Washington, D.C.]]
+[[Category:1994 in sports in Washington, D.C.]]
+[[Category:Soccer competitions in Orlando, Florida]]
+[[Category:1990s in Orlando, Florida]]
+[[Category:1994 in sports in Florida]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:1994 in sports in New Jersey]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]

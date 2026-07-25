@@ -1,0 +1,533 @@
+{{short description|1978 FIFA World Cup match}}
+{{Use British English|date=December 2025}}
+{{Infobox football match
+| title = Argentina v Peru
+| image = Elgrafico hazana argentina peru.jpg
+| caption  =  Cover of Argentine magazine ''[[El Gráfico (Argentina)|El Gráfico]]'' which<br>titled "Argentine achievement" to describe<br> the match
+| event = [[1978 FIFA World Cup]]
+| team1 = [[Argentina national football team|Argentina]]
+| team1association = {{fbicon|ARG|1861|size=30px}}
+| team1score = 6
+| team2 = [[Peru national football team|Peru]]
+| team2association = {{fbicon|PER|size=30px}}
+| team2score = 0
+| details = Argentina advances to the [[1978 FIFA World Cup final|final]]<br> Peru eliminated from the 1978 FIFA World Cup 
+| date = 21 June 1978
+| stadium = [[Estadio Gigante de Arroyito]]
+| city = [[Rosario, Santa Fe]], Argentina
+| man_of_the_match1a =
+| man_of_the_match1atitle =
+| man_of_the_match1b =
+| man_of_the_match1btitle =
+| referee = [[Robert Wurtz (referee)|Robert Wurtz]] ([[France Football Association|France]])
+| attendance = 37,315
+| weather =
+}}
+'''Argentina 6 – 0 Peru''' was a football match between [[Argentina national football team|Argentina]] and [[Peru national football team|Peru]] that took place on 21 June 1978 during the [[1978 FIFA World Cup]] within [[1978 FIFA World Cup Group B|Group B]]. In order to advance to the final ahead of [[Brazil national football team|Brazil]] by goal difference, host nation Argentina needed to win by four goals. The match ended in a 6–0 Argentine victory with two goals from [[Mario Kempes]], two goals from [[Leopoldo Luque]], one goal by [[Alberto Tarantini]] and one from [[René Houseman]]. The 1978 World Cup concluded with Argentina earning their first championship title after [[1978 FIFA World Cup final|beating the Netherlands 3–1]]. The match remains one of the most controversial in World Cup history as it has been speculated that there was some collusion in favour of Argentina, due to the tournament taking place during the military dictatorship of the [[National Reorganization Process]] under [[Jorge Rafael Videla]], which in turn led to suspicion that the World Cup was being used as an [[Sportswashing|attempt to appease the international community]] in the face of human rights violations.
+
+Over the years, players, journalists, and politicians have put forward a variety of interpretations regarding possible outside interference to benefit Argentina in the match, but none has gained widespread acceptance. The former Argentine Minister of Finance, [[Juan Alemann]], claimed that a bomb detonated when Argentina scored the fourth goal needed to qualify. Peruvian players have given different versions of what happened, with some alleging that irregularities occurred before and during the match, such as Videla's visit to their locker room, while others deny any type of arrangement and claim that Argentina was simply vastly superior to Peru during the match.
+
+[[FIFA]] arranged for the Brazil–[[Poland national football team|Poland]] match to be played before Argentina–Peru, citing television and ticket sales issues. Match times had been agreed long before the start of the World Cup. Brazil, [[Argentina–Brazil football rivalry|Argentina's arch-rival]], objected to the measure, since Argentina would know in advance the number of goals they had to score. FIFA generally held the matches of the same group on different days or times, but it was not unusual for matches of the same group to be played simultaneously. After the [[Disgrace of Gijón]] at the [[1982 FIFA World Cup|next World Cup]], the defining fixtures of each group have always been played simultaneously to remove any advantage that teams may get from playing at different times.
+
+==Background==
+===Argentina===
+Argentina was runner-up in the [[1930 FIFA World Cup]] held in Uruguay where the host country won the title 4–2. After that, the furthest Argentina had gone in a World Cup was the quarter-finals at the [[1966 World Cup]] held in England when Argentina lost 0–1 against [[England national football team|England]] when [[Antonio Ubaldo Rattín]] was sent off after insulting the referee despite the fact that he did not understand Spanish. Regardless, Argentina qualified in all World Cups except for the [[1970 FIFA World Cup|1970 tournament]] in Mexico and declined to participate in [[1938 FIFA World Cup|1938]], [[1950 FIFA World Cup|1950]] and [[1954 FIFA World Cup|1954]]. Due to being the hosts of the 1978 World Cup, Argentina did not have to qualify.
+
+Argentina had also won the Copa América in [[1921 South American Championship|1921]], [[1925 South American Championship|1925]], [[1927 South American Championship|1927]], [[1929 South American Championship|1929]], [[1937 South American Championship|1937]], [[1941 South American Championship|1941]], [[1945 South American Championship|1945]], [[1946 South American Championship|1946]], [[1947 South American Championship|1947]], [[1955 South American Championship|1955]], [[1957 South American Championship|1957]] and [[1957 South American Championship|1959]] and the champions of the [[1960 Panamerican Championship]] and runners-up in 1916, 1917, 1920, 1923, 1924, 1926, 1935, 1942, 1959 extra (South American championship) and 1967. At the [[Olympic Games]], the senior team achieved its greatest achievement at the [[1928 Summer Olympics]], winning the silver medal (after losing the gold medal also for the Uruguay).
+
+===Peru===
+{{See also|Peru at the 1970 FIFA World Cup|Peru at the 1978 FIFA World Cup}}
+
+Peru participated in the [[1930 World Cup]] but were eliminated in the first round. They wouldn't participate again until 1970 where they obtained the Fair Play Award<ref>{{Cite book |title=Milestones, facts & figures: Statistical Kit 7 – Status after the 2100 FIFA World Cup |date=March 26, 2013 |pages=18 |url=http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf |access-date=September 4, 2013 |author=FIFA |editor=Communications & Public Affairs Division|archive-url=https://web.archive.org/web/20130521092116/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/55/171012-statisticalkit-fifaworldcup-milestonesfactsfigures-statusafterfwc2010.pdf|archive-date=May 21, 2013}}</ref> and reached the quarter-finals, losing against the champion, Brazil, by 2–4. This would remain the furthest Peru has reached in a World Cup. In 1978, they qualified again for the World Cup finals, after failing to qualify for the 1974 edition.
+
+Peru was crowned champion of the Copa América in [[1939 South American Championship|1939]] and [[1975 Copa América|1975]].
+
+====Peruvian Qualification for the 1978 World Cup====
+{{Main|1978 FIFA World Cup qualification (CONMEBOL)}}
+{| class="wikitable" style="text-align: center;"
+|-
+!width=30|Rank
+!width=165 style="text-align:left;"|Team
+!width=20|{{Tooltip|Pts|Points}}
+!width=20|{{Tooltip|Pld|Matches played}}
+!width=20|{{Tooltip|W|Matches won}}
+!width=20|{{Tooltip|D|Matches drawn}}
+!width=20|{{Tooltip|L|Matches lost}}
+!width=20|{{Tooltip|GF|Goals for}}
+!width=20|{{Tooltip|GA|Goals against}}
+!width=20|{{Tooltip|GD|Goal difference}}
+|- style="background:#ccffcc;"
+|'''1'''
+|style="text-align:left;"|{{Fb|PER}}
+|'''6'''||4||2||2||0||8||2||+6
+|-
+|'''2'''
+|style="text-align:left;"|{{Fb|CHI}}
+|'''5'''||4||2||1||1||5||3||+2
+|-
+|'''3'''
+|style="text-align:left;"|{{Fb|ECU}}
+|'''1'''||4||0||1||3||1||9||−8
+|}
+
+{| align=center cellpadding="3" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=95%
+|- bgcolor=#006699 style="color:white;"
+!colspan=5|Score
+|'''Location'''
+|'''Stadium'''
+|'''Attendance'''
+|'''Date'''
+|-bgcolor=#ddeeff
+!{{Fb|ECU}}
+| align="center" |
+| align="center" |'''1–1'''
+| align="center" |
+!{{Fb|PER}}
+|[[Quito]]
+|[[Estadio Olímpico Atahualpa|Atahualpa]]
+|39,576
+|February 20, 1977
+|
+|-bgcolor=#F5FAFF
+!{{Fb|CHI}}
+| align="center" |
+| align="center" |'''1–1'''
+| align="center" |
+!{{Fb|PER}}
+|[[Santiago de Chile|Santiago]]
+|[[Estadio Nacional Julio Martínez Prádanos|Nacional]]
+|67,983
+|March 6, 1977
+|-bgcolor=#ddeeff
+!{{Fb|PER}}
+| align="center" |
+| align="center" |'''4–0'''
+| align="center" |
+!{{Fb|ECU}}
+|[[Lima]]
+|[[Estadio Nacional del Perú|Nacional]]
+|43,319
+|March 12, 1977
+|-bgcolor=#F5FAFF
+!{{Fb|PER}}
+| align="center" |
+| align="center" |'''2–0'''
+| align="center" |
+!{{Fb|CHI}}
+|[[Lima]]
+|[[Estadio Nacional del Perú|Nacional]]
+|62,000
+|March 26, 1977
+|}
+
+*Peru advances to the final round.
+
+In the final round of qualifications, Peru lost against Brazil by one goal but managed to beat [[Bolivia national football team|Bolivia]] 5–0, allowing Peru to reach second place and successfully qualify for the 1978 FIFA World Cup.
+
+{| class="wikitable" style="text-align: center;"
+|-
+!width=30|Rank
+!width=165 style="text-align:left;"|Team
+!width=20|{{Tooltip|Pts|Points}}
+!width=20|{{Tooltip|Pld|Matches played}}
+!width=20|{{Tooltip|W|Matches won}}
+!width=20|{{Tooltip|D|Matches drawn}}
+!width=20|{{Tooltip|L|Matches lost}}
+!width=20|{{Tooltip|GF|Goals for}}
+!width=20|{{Tooltip|GA|Goals against}}
+!width=20|{{Tooltip|GD|Goal difference}}
+|- style="background:#ccffcc;"
+|'''1'''
+|style="text-align:left;"|{{Fb|BRA|1968}}
+|'''4'''||2||2||0||0||9||0||+9
+|- style="background:#ccffcc;"
+|'''2'''
+|style="text-align:left;"|{{Fb|PER}}
+|'''2'''||2||1||0||1||5||1||+4
+|- style="background:#ffebad;"
+|'''3'''
+|style="text-align:left;"|{{Fb|BOL}}
+|'''0'''||2||0||0||2||0||13||−13
+|}
+
+{| align=center cellpadding="3" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=95%
+|- bgcolor=#006699 style="color:white;"
+!colspan=5|Score
+|'''Location'''
+|'''Stadium'''
+|'''Attendance'''
+|'''Date'''
+|-bgcolor=#F5FAFF
+!{{Fb|BRA|1968}}
+| align="center" |
+| align="center" |'''1–0'''
+| align="center" |
+!{{Fb|PER}}
+|[[Cali]]
+|[[Estadio Olímpico Pascual Guerrero|Pascual Guerrero]]
+|50,345
+|July 10, 1977
+|-bgcolor=#ddeeff
+!{{Fb|PER}}
+| align="center" |
+| align="center" |'''5–0'''
+| align="center" |
+!{{Fb|BOL}}
+|[[Cali]]
+|[[Estadio Olímpico Pascual Guerrero|Pascual Guerrero]]
+|32,511
+|July 17, 1977
+|}
+
+*Brazil and Peru qualified for the 1978 World Cup.
+*Bolivia went to the intercontinental playoffs.
+
+====Recent Match History Between Argentina and Peru====
+Matches prior to the World Cup stood out, with [[César Luis Menotti]] as technical director of Argentina. All of them ended in victory for the Argentines. These are four matches for the {{ill|Copa Mariscal Ramón Castilla|es}}, a friendly tournament that was played between the two teams.
+
+{| align=center cellpadding="3" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=95%
+|- bgcolor=#006699 style="color:white;"
+!colspan=5|Score
+|'''Location'''
+|'''Date'''
+|-bgcolor=#F5FAFF
+!{{Fb|PER}}
+| align="center" |
+| align="center" |'''1–3'''
+| align="center" |
+!{{Fb|ARG}}
+|[[Lima]]
+|October 28, 1976
+|-bgcolor=#ddeeff
+!{{Fb|ARG}}
+| align="center" |
+| align="center" |'''1–0'''
+| align="center" |
+!{{Fb|PER}}
+|[[Buenos Aires]]
+|November 10, 1976
+
+|-bgcolor=#F5FAFF
+!{{Fb|ARG}}
+| align="center" |
+| align="center" |'''2–1'''
+| align="center" |
+!{{Fb|PER}}
+|[[Buenos Aires]]
+|March 19, 1978
+
+|-bgcolor=#ddeeff
+!{{Fb|PER}}
+| align="center" |
+| align="center" |'''1–3'''
+| align="center" |
+!{{Fb|ARG}}
+|[[Lima]]
+|March 23, 1978
+|}
+
+==1978 FIFA World Cup==
+===Qualification for Group B===
+====Argentina====
+{{main|1978 FIFA World Cup Group 1}}
+
+Argentina qualified second in their group after beating [[Hungary national football team|Hungary]] and [[France national football team|France]] by 2–1 goal margin. By the time of the third game, Argentina was already qualified together with [[Italy national football team|Italy]]. The last game of the group was Italy-Argentina, which ended in a 1–0 victory for the Italians.
+
+{{:1978 FIFA World Cup Group 1|transcludesection=Standings|showteam=ARG}}
+{| style="width:100%" cellspacing="1"
+|-
+!width=25%|
+!width=10%|
+!width=25%|
+|-
+|June 2, 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|ITA|1946}}||align=center| '''2–1''' ||{{fb|FRA|1974}}|| [[Estadio José María Minella]], [[Mar del Plata]]
+|- style=font-size:90%
+|align=right|{{fb-rt|ARG}}||align=center| '''2–1''' ||{{fb|HUN}}|| [[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], [[Buenos Aires]]
+|-
+|June 6, 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|ITA|1946}}||align=center| '''3–1''' ||{{fb|HUN}}|| [[Estadio José María Minella]], [[Mar del Plata]]
+|- style=font-size:90%
+|align=right|{{fb-rt|ARG}}||align=center| '''2–1''' ||{{fb|FRA|1974}}|| [[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], [[Buenos Aires]]
+|-
+|-
+|June 10, 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|FRA|1974}}||align=center| '''3–1''' ||{{fb|HUN}}|| [[Estadio José María Minella]], [[Mar del Plata]]
+|- style=font-size:90%
+|align=right|{{fb-rt|ARG}}||align=center| '''0–1''' ||{{fb|ITA|1946}}|| [[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]], [[Buenos Aires]]
+|-
+|}
+
+====Peru====
+{{Main|1978 FIFA World Cup Group 4}}
+
+Peru qualified first in their group by getting a 3–1 victory against [[Scotland national football team|Scotland]], a 0–0 draw against [[Netherlands national football team|the Netherlands]] and a 4–1 victory against [[Iran national football team|Iran]].
+
+{{:1978 FIFA World Cup Group 4|transcludesection=Standings|showteam=PER}}
+{| style="width:100%" cellspacing="1"
+|-
+!width=25%|
+!width=10%|
+!width=25%|
+|-
+|June 3, 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|PER}}||align=center| '''3–1''' ||{{fb|SCO}}|| [[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|- style=font-size:90%
+|align=right|{{fb-rt|NED}}||align=center| '''3–0''' ||{{fb|IRN|1964}}|| [[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|-
+|June 7, 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|SCO}}||align=center| '''1–1''' ||{{fb|IRN|1964}}|| [[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|- style=font-size:90%
+|align=right|{{fb-rt|NED}}||align=center| '''0–0''' ||{{fb|PER}}|| [[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|-
+|June 11, 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|PER}}||align=center| '''4–1''' ||{{fb|IRN|1964}}|| [[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|- style=font-size:90%
+|align=right|{{fb-rt|SCO}}||align=center| '''3–2''' ||{{fb|NED}}|| [[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|}
+
+===Group B===
+{{Main|1978 FIFA World Cup Group B}}
+
+Argentina had qualified for the second group stage after obtaining second place in Group 1 behind Italy while Brazil had also obtained the second position of Group 3 after [[Austria national football team|Austria]]. Both Peru and [[Poland national football team|Poland]] had achieved first place in Group 4 and Group 2 respectively. The headquarters of this group were [[Mendoza, Argentina|Mendoza]] and [[Rosario]].
+
+The first game pitted Brazil against Peru, ending with a 3–0 victory for the Brazilians.<ref>{{cite web |url=http://es.fifa.com/worldcup/archive/edition=50/results/matches/match=2251/report.html |title=Match Report: Brasil – Perú |website=FIFA|access-date=July 11, 2010|archive-url=https://web.archive.org/web/20090202051036/http://es.fifa.com/worldcup/archive/edition%3D50/results/matches/match%3D2251/report.html|archive-date=February 2, 2009}}</ref> Argentina also beat Poland 2–0 in Rosario with two goals from [[Mario Kempes]].<ref>{{Cite web |url=http://es.fifa.com/worldcup/archive/edition=50/results/matches/match=2202/report.html |title=Match Report: Argentina – Polonia |author=FIFA|access-date=July 11, 2010|archive-url=https://web.archive.org/web/20111218061222/http://es.fifa.com/worldcup/archive/edition%3D50/results/matches/match%3D2202/report.html|archive-date=December 18, 2011}}</ref> The victory of Poland over Peru by 1–0<ref>{{Cite web |url=http://es.fifa.com/worldcup/archive/edition=50/results/matches/match=2450/report.html |title=Match Report: Polonia – Perú |website=FIFA|access-date=July 11, 2010|archive-url=https://web.archive.org/web/20111218064846/http://es.fifa.com/worldcup/archive/edition%3D50/results/matches/match%3D2450/report.html|archive-date=December 18, 2011}}</ref> and the goalless draw between Argentina and Brazil<ref>{{Cite web |url=http://es.fifa.com/worldcup/archive/edition=50/results/matches/match=2196/report.html |title=Match Report: Argentina – Brasil |website=FIFA|access-date=July 11, 2010|archive-url=https://web.archive.org/web/20110927074846/http://es.fifa.com/worldcup/archive/edition%3D50/results/matches/match%3D2196/report.html|archive-date=September 27, 2011}}</ref> left a group close in which, with the exception of Peru, the other three teams had a chance to reach the final. Argentina and Brazil reached the last game with 3 points, although the Brazilians had a greater goal difference. Poland arrived with 2 points but with chances to win the group if, after their victory, Argentina lost or tied without surpassing it in goal difference.<ref>{{Cite web |last=Sosa |first=Zaritzi |title=Mundial 1978: la verdadera historia de la sospechosa goleada de Argentina 6–0 vs Perú |url=https://www.tudn.com/futbol/mundial-qatar-2022/historia-mundiales/mundial-1978-la-verdadera-historia-de-la-sospechosa-goleada-de-argentina-6-0-vs-peru |date=May 25, 2022 |website=[[TUDN (Mexican TV channel)|TUDN]] |language=es|access-date=February 12, 2023|archive-url=https://web.archive.org/web/20221222021859/https://www.tudn.com/futbol/mundial-qatar-2022/historia-mundiales/mundial-1978-la-verdadera-historia-de-la-sospechosa-goleada-de-argentina-6-0-vs-peru|archive-date=December 22, 2022}}</ref>
+
+The matches were not played at the same time but Brazil and Poland played first at 16:45 while Argentina and Peru did so later, at 19:15. Brazil won their match 3–1, with two goals from [[Roberto Dinamite]] and one from [[Nelinho]].<ref>{{Cite web |url=http://es.fifa.com/worldcup/archive/edition=50/results/matches/match=2252/report.html |title=Match Report: Brasil – Polonia |author=FIFA|access-date=July 11, 2010|archive-url=https://web.archive.org/web/20111218063742/http://es.fifa.com/worldcup/archive/edition%3D50/results/matches/match%3D2252/report.html|archive-date=December 18, 2011}}</ref> With this result they finished with 5 points and +5 goal difference. In order to reach the final, Argentina had to win with a margin of four goals since they had a goal difference of +2.<ref name="Yahoo!">{{Cite web |title=Argentina's 1978 World Cup win against Peru was fixed in a brutal political deal, former senator says |url=https://sports.yahoo.com/ro-rogers_argentina_peru_fixing_scandal_world_cup_021012.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAmI_7MjQiiIaYPPiIrYecPDPQEjTQ9h6xFnHS6mutKre0_uw5nMms4nOwkxnX4AUiHfzxXN4yx2_oQbO7Hhve0rdUMWNKmlA9LCwYlUQrqAGn0qGZqkoJ3R2IYRUGDsVbZNL8fh4ufsIgVr-p95NitADypjGaiYMfbIz6HOzTby |website=[[Yahoo! Sports]] |date=11 February 2012 |language=en-us|access-date=February 12, 2023}}</ref><ref>{{Cite web |title=Exposing The Myth: Why The 1978 World Cup In Argentina Should Never Have Been Played |url=https://www.thesportsman.com/articles/exposing-the-myth-why-the-1978-world-cup-in-argentina-should-never-have-been-played |website=The Sportsman |date=25 June 2019 |language=en|access-date=February 12, 2022|archive-url=https://web.archive.org/web/20220908034621/https://www.thesportsman.com/articles/exposing-the-myth-why-the-1978-world-cup-in-argentina-should-never-have-been-played|archive-date=September 8, 2022}}</ref> Argentina managed to prevail over Peru by 6–0 and thus qualified for the final.<ref>{{Cite web |url=http://es.fifa.com/worldcup/archive/edition=50/results/matches/match=2201/report.html |title=Match Report: Argentina – Perú |author=FIFA|access-date=July 11, 2010|archive-url=https://web.archive.org/web/20090202042457/http://es.fifa.com/worldcup/archive/edition%3D50/results/matches/match%3D2201/report.html|archive-date=February 2, 2009}}</ref>
+
+{| style="width:100%" cellspacing="1"
+|-
+!width=25%|
+!width=10%|
+!width=25%|
+|-
+|14 June 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|PER}}||align=center| '''0–3''' ||{{fb|BRA|1968}}|| [[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|- style=font-size:90%
+|align=right|{{fb-rt|ARG}}||align=center| '''2–0''' ||{{fb|POL|1928}}|| [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|-
+|18 June 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|PER}}||align=center| '''0–1''' ||{{fb|POL|1928}}|| [[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|- style=font-size:90%
+|align=right|{{fb-rt|ARG}}||align=center| '''0–0''' ||{{fb|BRA|1968}}|| [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|-
+|21 June 1978
+|- style=font-size:90%
+|align=right|{{fb-rt|POL|1928}}||align=center| '''1–3''' ||{{fb|BRA|1968}}|| [[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|- style=font-size:90%
+|align=right|{{fb-rt|ARG}}||align=center| '''6–0''' ||{{fb|PER}}|| [[Estadio Gigante de Arroyito]], [[Rosario, Santa Fe|Rosario]]
+|}
+
+==Match==
+
+===Details===
+<section begin=B6 />{{Football box
+|date={{Start date|1978|6|21|df=y}}
+|time=19:15 [[Time in Argentina|ART]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1978 FIFA World Cup Group B#Argentina vs Peru|6–0|Argentina v Peru (1978 FIFA World Cup)}}
+|team2={{fb|PER}}
+|goals1=
+*[[Mario Kempes|Kempes]] {{goal|21||49}}
+*[[Alberto Tarantini|Tarantini]] {{goal|43}}
+*[[Leopoldo Luque|Luque]] {{goal|50||72}}
+*[[René Houseman|Houseman]] {{goal|67}}
+|goals2=
+|stadium=[[Estadio Gigante de Arroyito]], [[Rosario]]
+|attendance=37,315
+|referee=[[Robert Wurtz (referee)|Robert Wurtz]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/279/2201 |title=Argentina vs Peru {{!}} Second Round {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=279/match=2201/index.html |title=1978 FIFA World Cup Argentina – Matches – Argentina v Peru |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220144959/http://www.fifa.com/worldcup/matches/round=279/match=2201/index.html |archive-date=20 December 2017}} }}</ref>
+}}<section end=B6 />
+<section begin=Lineups />
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _arg7879h
+|pattern_b  = _arg7879h
+|pattern_ra = _arg7879h
+|pattern_sh = _arg7879h
+|pattern_so = 
+|leftarm    = 75aadb
+|body       = 75aadb
+|rightarm   = 75aadb
+|shorts     = 000000
+|socks      = 000000
+|title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_alt
+ | pattern_b  = _per78a
+ | pattern_ra = _shoulder_stripes_white_stripes_alt
+ | pattern_sh = _adidasred
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Peru
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''5''' || [[Ubaldo Fillol]]
+|-
+|DF || '''19''' || [[Daniel Passarella]] ([[Captain (association football)|c]])
+|-
+|DF || '''7''' || [[Luis Galván]]
+|-
+|DF || '''20''' || [[Alberto Tarantini]]
+|-
+|DF || '''15''' || [[Jorge Olguín]]
+|-
+|MF || '''6''' || [[Américo Gallego]] || || {{suboff|85}}
+|-
+|MF || '''12''' || [[Omar Larrosa]]
+|-
+|MF || '''10''' || [[Mario Kempes]]
+|-
+|FW || '''4''' || [[Daniel Bertoni]] || || {{suboff|64}}
+|-
+|FW || '''16''' || [[Oscar Alberto Ortiz]] 
+|-
+|FW || '''14''' || [[Leopoldo Luque]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''9''' || [[René Houseman]] || || {{subon|64}}
+|-
+|MF || '''17''' || [[Miguel Oviedo]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[César Luis Menotti]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21''' || [[Ramón Quiroga]]
+|-
+|DF ||'''4''' || [[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' || [[Rodulfo Manzo]]
+|-
+|DF ||'''2''' || [[Jaime Duarte]]
+|-
+|DF ||'''22''' || [[Roberto Rojas (Peruvian footballer)|Roberto Rojas]]
+|-
+|MF ||'''17''' || [[Alfredo Quesada]] ||{{yel|36}}
+|-
+|MF ||'''6''' ||[[José Velásquez (footballer, born 1952)|José Velásquez]] ||{{yel|48}} || {{suboff|51}}
+|-
+|MF ||'''8''' || [[César Cueto]]
+|-
+|FW ||'''7''' || [[Juan José Muñante|Juan Muñante]]
+|-
+|FW ||'''11''' || [[Juan Carlos Oblitas]]
+|-
+|FW ||'''10''' || [[Teófilo Cubillas]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|FW ||'''16''' || [[Raúl Gorriti]] || {{subon|51}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Marcos Calderón]]
+|}
+|}<section end=Lineups />
+
+== Controversy ==
+[[File:Argentina peru gol kempes.jpg|thumb|[[Mario Kempes]] scoring the 3rd. goal for Argentina]]
+The final round of Group B games were played on June 21. The winner of the group would proceed to the [[1978 FIFA World Cup final|World Cup Final]] against the winners of [[1978 FIFA World Cup Group B|Group A]]. Brazil and Argentina were level on three points, but Brazil had a superior goal difference of +3 compared to +2 for Argentina, so Brazil were top of Group B leading into the final round. 
+
+The Brazil-Poland game was to be played first, with the Argentina-Peru starting nearly three hours later at 7.15pm.<ref name="nytimes">{{Cite web |url=https://apnews.com/article/61903368e21f4c47949c1458380fe452 |title=WORLD CUP: Confetti Greets Argentina's 1st Triumph in 1978 |website=[[Associated Press]] |date=May 31, 2018|access-date=June 1, 2018}}</ref><ref name="jotdown">{{Cite web |url=http://www.jotdown.es/2014/06/futbol-paranoia-y-dolor-argentina-1978/ |title=Fútbol, paranoia y dolor: Argentina 1978 |author=[[Jot Down]] |date=21 June 2014 |access-date=June 1, 2018}}</ref> FIFA had decided prior to the tournament that Argentina would play its first and second round matches at 7:15&nbsp;p.m. while the other matches, except for the opening match and the final, would be played at either 1:00&nbsp;p.m. or 4:15&nbsp;p.m. This was because FIFA feared that there would be low attendance at matches not involving Argentina if played simultaneously with Argentina's matches, as most tickets had been bought by locals. At the time, no one had opposed this measure, which was also granted to [[Germany national football team|West Germany]] when they hosted the [[1974 FIFA World Cup]]. 
+
+When it came time for the decisive group matches however, the Brazilians pushed to play their game against Poland at the same time as Argentina v Peru, arguing that by playing second the Argentine team would have an advantage as they would know what result they needed to top the group.  FIFA objected to Brazil's request, arguing that it was impossible to change schedules on television.<ref name="infobae1">{{Cite web |last=Bauso |first=Matías |title=Argentina 6 – Perú 0, el partido más largo del mundo: todas las sospechas, las teorías y las acusaciones |url=https://www.infobae.com/deportes-2/2019/06/21/argentina-6-peru-0-el-partido-mas-largo-del-mundo-todas-las-sospechas-las-teorias-y-las-acusaciones/ |date=June 21, 2019 |website=[[Infobea]]|access-date=January 16, 2023}}</ref> Thus Brazil played its game first and won 3–1. Argentina subsequently started their match against Peru knowing they would need to win by at least four goals against Peru, who were bottom of group B with zero points. Minutes before the game, Argentinian President [[Jorge Rafael Videla]] visited the Peruvian locker room accompanied by former American Secretary of State and organiser of [[Operation Condor]], [[Henry Kissinger]]<ref name="espn">{{Cite web |url=http://espndeportes.espn.com/futbol/mundial/nota/_/id/4234800/argentina-6-0-peru-la-goleada-mas-polemica-de-la-historia |title=Argentina 6–0 Perú, la goleada más polémica de la historia |website=[[ESPN]] |language=es |date=April 26, 2018|access-date=June 1, 2018}}</ref> and read a message to the players from the Peruvian dictator [[Francisco Morales Bermúdez]] on the Argentine-Peruvian brotherhood.<ref name="P12-Sombras"/> Argentina subsequently won the match 6–0, rising above Brazil in the Group B table on goal difference, and advancing to the final against the Netherlands.
+
+[[File:Saludo_tarantini_videla.jpg|thumb|left|The Argentine dictator [[Jorge Rafael Videla]] visits [[Alberto Tarantini]] after the match. Videla would deny any arrangement and bribery years later]]
+Some years later, the result and some particular circumstances during the game raised suspicions about the legitimacy of the match. Upon returning to Lima, the Peruvian team met an angry mob who threw coins, tomatoes and other objects at them, as recounted by Peruvian player [[Guillermo La Rosa]].<ref>{{Cite web |title=Guillermo La Rosa y la añoranza de un tiempo que se fue… |url=https://www.conmebol.com/sin-categorizar/guillermo-la-rosa-y-la-anoranza-de-un-tiempo-que-se-fue/ |date=September 11, 2013 |website=[[CONMEBOL]]|access-date=February 12, 2023|archive-url=https://web.archive.org/web/20230212075451/https://www.conmebol.com/sin-categorizar/guillermo-la-rosa-y-la-anoranza-de-un-tiempo-que-se-fue/|archive-date=February 12, 2023}}</ref><ref>{{Cite book |url=http://www.tucumanalas7.com.ar/novedades/columnistas/2010/3/23/mundial-eduardo-galeano-7645.html |first=Eduardo |last=Galeano |chapter=El Mundial 78 |title=El fútbol a sol y sombra |date=1995 |edition=Siglo XXI |location=Buenos Aires}}</ref> Ten days after the end of the World Cup, on July 6, 1978, the Argentine dictatorship sanctioned Decree No. 1463/78 "granting an extraordinary non-refundable credit to the Republic of Peru."<ref>{{Cite AV media |title=Mundial 78: la historia paralela |url=https://www.youtube.com/watch?v=pwmF-aHuRkE |time=39:03 |language=es}}</ref> There were also allegations that Brazil had given an economic incentive to the Peruvian players to beat Argentina, a rumour that would be defended by the Argentine player [[Mario Kempes]] as well as by the Peruvian players [[Teófilo Cubillas]] and [[Héctor Chumpitaz]] who admitted that they were going to receive a $5,000 incentive each.<ref name="infobae1"/><ref name="infobae3"/> At the same time, there were rumours that local leaders gave Poland incentives to beat Brazil.<ref name="infobae1"/> Kempes denied that there could have been any agreement since Peru had some clear chances, including a vertical shot from the Argentine goal.<ref name="infobae3">{{Cite web |last=Cavallero |first=Pablo Antonio |title=Mario Kempes: "Como está jugando, a Argentina no le tengo ninguna fe para el Mundial" |url=https://www.infobae.com/deportes-2/2017/11/13/mario-kempes-como-esta-jugando-a-argentina-no-le-tengo-ninguna-fe-para-el-mundial/ |date=November 13, 2017 |website=Infobae |language=es|access-date=January 16, 2023}}</ref> Another factor of the Peruvian decline was that their matches were played every three days which wore out the Peruvian team, which was not used to the amount of playing. In addition to this, strife began to emerge in the Peruvian national football team between the players of [[Sporting Cristal]] and [[Alianza Lima]].<ref name="infobae1"/>
+
+Different people and players declared that part of the Peruvian team was pressured<ref name="argentinaperu1">{{Cite web |url=http://www.ar.terra.com/terramagazine/interna/0,,OI2936330-EI9085,00.html |title=La historia negra de Argentina – Perú en el Mundial 78 |last=Fernández Moores |first=Ezequiel |website=Terra |date=June 9, 2008|access-date=July 11, 2010}}</ref> or bribed<ref name="argentinaperu1"/><ref name="argentinaperu2">{{Cite web |url=http://www.ar.terra.com/terramagazine/interna/0,,EI9085-OI2141196,00.html|archive-url=https://archive.today/20130104224725/http://www.ar.terra.com/terramagazine/interna/0,,EI9085-OI2141196,00.html|url-status=dead|archive-date=January 4, 2013 |title=Argentina-Perú en el Mundial 78: un libro reflota sospechas de soborno |website=Terra |date=December 10, 2008|access-date=July 11, 2010 |last=Fernández Moores |first=Ezequiel}}</ref><ref name="argentinaperu3">{{Cite web |url=http://www.pagina12.com.ar/diario/deportes/8-96138-2007-12-14.html |title=La pista del posible arreglo del 6–0 llega hasta Lacoste |website=Página/12 |date=December 14, 2007|access-date=July 11, 2010}}</ref> to lose the game by a large sum. Others, based on recent investigations, suggest that there was an agreement between the two governments within the framework of Operation Condor.<ref>{{Cite web |url=http://www.jornada.unam.mx/2012/02/07/deportes/a13n1dep |title=Dictaduras negociaron triunfo de Argentina sobre Perú en 1978 |author=DPA |website=Diario La Jornada de México |date=February 7, 2012|access-date=February 7, 2012}}</ref> Years later Videla would deny any type of arrangement, stating: "I didn't take a peso out of my pocket. There was no talk of a possible arrangement before the game, neither in the Government, nor in the Junta."<ref name="infobae">{{Cite web |title=A 42 años del polémico 6–0 de Argentina a Perú en el Mundial de 1978: qué pasó en los vestuarios antes y después del partido |url=https://www.infobae.com/deportes/2020/06/21/a-42-anos-del-polemico-6-0-de-argentina-a-peru-en-el-mundial-de-1978-que-paso-en-los-vestuarios-antes-y-despues-del-partido/ |language=es |website=[[Infobae]]|archive-url=https://web.archive.org/web/20221006113418/https://www.infobae.com/deportes/2020/06/21/a-42-anos-del-polemico-6-0-de-argentina-a-peru-en-el-mundial-de-1978-que-paso-en-los-vestuarios-antes-y-despues-del-partido/|archive-date=October 6, 2022}}</ref>
+
+In the book ''How They Stole the Game'', British historian [[David Yallop]] maintained that Videla ordered Rear Admiral [[Carlos Alberto Lacoste]], in charge of the World Cup Organizing Committee, to take charge of arranging the result with the ruling dictatorship in Peru, led by General Morales Bermúdez, who decades later was sentenced to life imprisonment by the [[Corte d'Assise]] in Italy for his participation in [[Operation Condor]].<ref>{{Cite news |url=https://elcomercio.pe/politica/justicia/morales-bermudez-condenado-cadena-perpetua-plan-condor-401409 |title=Morales Bermúdez condenado a cadena perpetua por Plan Cóndor |website=El Comercio |date=January 17, 2017}}</ref> According to Yallop, Lacoste made contact with three officials who accompanied the Peruvian team and offered them a bribe of $50 million and a donation of 35,000 tons of grains.<ref name="Alabarces">{{Cite book |last=Alabarces |first=Pablo |title=Historia mínima del futbol en América Latina |url=https://books.google.com/books?id=MppYDwAAQBAJ&dq=donaci%C3%B3n+de+35+000+toneladas+de+granos&pg=PT224 |date=April 2, 2018 |publisher=[[El Colegio de México]] |location=Mexico City |language=es|access-date=February 12, 2023 |isbn=9786076282717}}</ref> After the World Cup, Argentine Treasury Secretary [[Juan Alemann]] confirmed the Argentine "donations" made to Peru and explained that they were a type of donations that were only made in cases of humanitarian catastrophes.<ref>{{Cite web |title=Un jugador de Perú asegura que su equipo se vendió en el 6–0 ante Argentina de 1978 |url=https://www.marca.com/futbol/america/2018/03/14/5aa9638622601d66648b456d.html |date=March 13, 2018 |website=Fútbol América |language=es|access-date=February 12, 2023|archive-url=https://web.archive.org/web/20221224194121/https://www.marca.com/futbol/america/2018/03/14/5aa9638622601d66648b456d.html|archive-date=December 24, 2022}}</ref>
+
+Alemann denounced in 1982 that Lacoste had been the mastermind of an attack with an explosive device at his home,<ref>{{Cite web |url=http://www.lanacion.com.ar/nota.asp?nota_id=613386 |title=Cruces entre Alemann y Lacoste |access-date=November 29, 2020|archive-date=April 22, 2009|archive-url=https://web.archive.org/web/20090422193758/http://www.lanacion.com.ar/nota.asp?nota_id=613386|url-status=dead}}</ref> when on June 21, 1978, at the precise moment in which Argentina scored the fourth goal against Peru that would see it qualify to the final, a bomb exploded in Alemann and Lacoste's houses for overpricing in the organisation of the tournament. Alemann blamed Massera himself for the attack:
+
+{{Blockquote
+|text=They planted a bomb in my house, just at the time of Argentina's fourth goal against Peru. At the bottom of this operation it was admitted that it was designed to score four goals, which was what Argentina needed to qualify. If they hadn't scored four goals, he would have gone home with the bomb... And this is a bit of this strange personality of Massera, who believed himself to be omnipotent, planted bombs, ordered people assassinated, but beyond all that was the anti-subversive fight.<ref name="Historia-Paralela-3830">{{Cite AV media |url=https://www.youtube.com/watch?v=tTyMCif-dT0 |title=Mundial 78: la historia paralela (documental) |first1=Ezequiel |last1=Fernández Moores |first2=Gonzalo |last2=Bonadeo |first3=Diego |last3=Guebel |first4=Mario |last4=Pergolini |location=Argentina |publisher=Ayer Nomás |date=2003 |time=38:30}}</ref>
+}}
+
+On December 12, 2007, Argentine journalist [[Ezequiel Fernández Moores]] interviewed [[Fernando Rodríguez Mondragón]], capo of the [[Cali Cartel]] led by his uncle [[Miguel Rodríguez Orejuela]], who gave a detailed account of the way in which the bribery would have been carried out. He recounted what his uncle revealed to him, as he served as a mediator with Peruvian officials at the request of the Argentine military. According to Rodríguez Mondragón, the Argentine and player representative Carlos Quieto told Rodríguez Orejuela that the Argentine military and the [[Argentine Football Association]] (AFA) wanted to meet in reserve with the authorities of the [[Peruvian Football Federation]] (FPF), with which the Colombian drug lord maintained close relations. The meeting would have been held in [[Miraflores, Lima]] the next day, two days before the game and the captain of the ship ''Lacoste'' and two other people participated on behalf of Argentina with the president and treasurer of the FPF representing Peru. According to Rodríguez Mondragón, there it was agreed to pay the bribes to the Peruvian players and leaders and the donation of wheat which had already been requested.<ref>{{Cite web |url=http://terramagazine.terra.com.br/interna/0,,OI2147502-EI6598,00.html |date=December 12, 2007 |title=Mondragón esmiúça Copa "comprada" em 78 (Entrevista a Fernando Rodríguez Mondragón) |first=Ezequiel |last=Fernández Moores |website=Terra |location=Brazil |language=pt-br}}</ref>
+
+Several players of the Peruvian team maintained that, in their opinion, suspicious irregularities or bribery had taken place. In 1986, [[Juan Carlos Oblitas]] declared to the press that he felt "ashamed", stating that he thought that "this match was not normal".<ref name="Alabarces"/><ref>{{Cite AV media |url=https://www.youtube.com/watch?v=tTyMCif-dT0 |title=Mundial 78: la historia paralela (documental) |first1=Ezequiel |last1=Fernández Moores |first2=Gonzalo |last2=Bonadeo |first3=Diego |last3=Guebel |first4=Mario |last4=Pergolini |location=Argentina |publisher=Ayer Nomás |date=2003 |time=33:40–33:51}}</ref> In 2003, Oblitas announced that the dictator Videla and Kissinger had been present in the Peruvian locker room, a few minutes before the start of the game.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=tTyMCif-dT0 |title=Mundial 78: la historia paralela (documental) |first1=Ezequiel |last1=Fernández Moores |first2=Gonzalo |last2=Bonadeo |first3=Diego |last3=Guebel |first4=Mario |last4=Pergolini |location=Argentina |publisher=Ayer Nomás |date=2003 |time=33:50–34:45}}</ref> In 2018, two starting players of the 1978 Peruvian team, [[José Velásquez (footballer, born 1952)|José Velásquez]] and [[Germán Leguía]] had also declared that Videla and Kissinger entered the Peruvian locker room and read a message from Morales Bermúdez to the players.<ref name="channel4">{{Cite web |url=https://www.channel4.com/news/dr-henry-kissinger-and-footballs-longest-unsolved-riddle |title=Henry Kissinger and football's longest unsolved riddle |website=[[Channel 4]] |language=en-uk |date=April 4, 2012|access-date=June 1, 2018}}</ref> Both former players declared that the visit was interpreted by the Peruvian team as a threat. Velásquez also said that although he lacked evidence, he knew several Peruvian managers and six players who participated to fix the match, naming [[Rodulfo Manzo]], [[Raúl Gorriti]], [[Juan José Muñante]] and goalkeeper [[Ramón Quiroga]], the latter being born Argentine.<ref name="P12-Sombras">{{Cite web |url=https://www.pagina12.com.ar/101368-videla-presiono-a-los-vendidos |date=March 14, 2018 |title=José Velásquez echó sombras sobre el 6–0 de Argentina sobre Perú. "Videla presionó a los vendidos" |quote=El ex jugador de la selección peruana que fue titular en la goleada que le permitió a Argentina avanzar a la final del Mundial 78 aseguró que los dirigentes se vendieron, al igual que seis jugadores. La versión fue ratificada por Germán Leguía. |first=Miguel |last=Hein |website=Pagina/12|access-date=March 15, 2018}}</ref> In an investigation carried out by Fernández Moores for Radio Continental, journalist [[Carlos Juvenal]] said that the captain of the Peruvian squad, [[Héctor Chumpitaz]] confessed to him about "additional money" but added that he would never admit it publicly.<ref>{{Cite web |url=http://www.ar.terra.com/terramagazine/interna/0,,EI9085-OI2141196,00.html |date=December 10, 2007 |title=La historia negra de Argentina – Perú en el Mundial 78 |first=Ezequiel |last=Fernández Moores |website=Terra |location=Brazil |language=es|access-date=July 15, 2020|archive-date=January 4, 2013|archive-url=https://archive.today/20130104224725/http://www.ar.terra.com/terramagazine/interna/0,,EI9085-OI2141196,00.html|url-status=dead}}</ref>
+
+[[File:RamónQuiroga1978.jpg|thumb|170px|[[Ramón Quiroga]], goalkeeper for Peru, was accused by his teammate [[José Velásquez (footballer, born 1952)|José Velásquez]] of receiving bribes. Quiroga responded to Velásquez's claims by stating he had a "lack of sanity" for his accusations]]
+
+The accused players have denied the claims, pointing out that they lacked evidence. Quiroga accused Velásquez of having a "lack of sanity" and responded with "I did not sell myself. If I'd taken money to go back, I could not walk through Lima today, and I do without any problems." He also added that:
+
+{{Blockquote
+|text=That day everything worked out for Argentina and nothing for us. For example, there is a goal by [[Alberto Tarantini|Tarantini]] in which Manzo bends over and leaves him alone. I also think there were two goals from Argentina that were offside, one from Luque and the other, I think, from Tarantini, and the referee, Frenchman Robert Wurtz, looked the other way. Then I played in another World Cup [in [[1982 FIFA World Cup|1982]]] and the Peruvian fans always treated me with respect. If I'd wanted to lose, as I said, I would not have been able to live another day in this country. But I've lived here for over 40 years.<ref>{{Cite web |url=https://www.lacapital.com.ar/ovacion/chupete-quiroga-tengo-la-conciencia-tranquila-porque-no-me-vendi-n1256867.html |title="Chupete" Quiroga: "Tengo la conciencia tranquila porque no me vendí" |website=Lacapital.com.ar |language=es |date=October 5, 2016}}</ref><ref>{{Cite web |url=https://www.clarin.com/deportes/vendi_0_BkE3M118nl.html |title=Yo no me vendí |website=Clarin |language=es |date=April 9, 1998}}</ref><ref>{{Cite web |url=http://www.elpopular.pe/deportes/2018-03-14-ramon-quiroga-le-responde-jose-velasquez-por-acusarlo-de-venderse-en-el-mundial-argentina-78 |title=Ramón Quiroga le responde a José Velásquez por acusarlo de venderse en el Mundial Argentina 78' |website=El Popular |date=March 14, 2018|access-date=July 15, 2020|archive-date=June 29, 2018|archive-url=https://web.archive.org/web/20180629022511/https://www.elpopular.pe/deportes/2018-03-14-ramon-quiroga-le-responde-jose-velasquez-por-acusarlo-de-venderse-en-el-mundial-argentina-78|url-status=dead}}</ref>
+}}
+
+Despite this, on another occasion Quiroga has pointed out that on that day, some of his teammates had acted "strange" in the game, such as Manzo who, as noted, ducked in the fourth Argentine goal, for which Quiroga adds that: "'Negro' Manzo didn't stop anything, neither he nor the defense. In Argentina's fourth goal, Manzo ducked and left the shooter alone." In addition, the unusual line-up of Peruvian coach [[Marcos Calderón]] left several notable and experienced players out of the match.<ref>{{Cite web |url=http://larepublica.pe/deportes/610797-fifa-anularia-titulo-de-argentina-en-mundial-de-1978 |title=FIFA anularía título de Argentina en Mundial de 1978 |website=Diario La República |date=February 14, 2012|access-date=March 13, 2018|archive-date=June 27, 2019|archive-url=https://web.archive.org/web/20190627034633/https://larepublica.pe/deportes/610797-fifa-anularia-titulo-de-argentina-en-mundial-de-1978/|url-status=dead}}</ref> In his response, Muñante stated that Velásquez was "delusional" and that Calderón didn't accept any bribes.<ref>{{Cite web |url=http://www.elpopular.pe/deportes/2018-03-13-juan-jose-munante-jose-velasquez-esta-delirando-nadie-se-echo |title=Juan José Muñante: "José Velásquez está delirando, nadie se echó" |website=El Popular |date=March 13, 2018 |language=es|archive-url=https://web.archive.org/web/20210622110256/https://elpopular.pe/deportes/2018-03-13-juan-jose-munante-jose-velasquez-esta-delirando-nadie-se-echo|archive-date=June 22, 2021}}</ref> Muñante also recounted that they didn't ask the Peruvian technical director not to line up goalkeeper Quiroga, an Argentine nationalised Peruvian,<ref name="bbc">{{Cite web |url=https://www.bbc.co.uk/blogs/jonathanstevenson/2010/05/the_story_of_the_1978_world_cu.html |title=The story of the 1978 World Cup |website=[[BBC]] |language=en-uk |date=May 18, 2010|access-date=June 1, 2018|url-status=live|archive-url=https://web.archive.org/web/20221030180155/https://www.bbc.co.uk/blogs/jonathanstevenson/2010/05/the_story_of_the_1978_world_cu.html|archive-date=October 30, 2022}}</ref> and clarified that there was a meeting in which Quiroga was asked if he wanted to save with his agreement. Muñante asserted that no player missed out since Peru was able to score two or three goals against Argentina in the first 15 minutes.<ref>{{Cite web |url=http://rpp.pe/futbol/futbol-mundial/juan-jose-munante-disparo-contra-jose-velasquez-esta-delirando-nadie-se-echo-noticia-1110150 |title=Juan José Muñante le respondió a José Velásquez: "Esta delirando, nadie se echó" |website=RPP Noticias |date=March 13, 2018}}</ref> Manzo maintained that neither he nor his teammates had received money for the result of the match and even though there have been speculations, there has never been any real proof of any fraud.<ref>{{Cite web |url=http://www.marca.com/2012/04/25/futbol/futbol_internacional/resto_de_america/1335388452.html |title=Videla niega el posible fraude en el mundial 78 |website=MARCA |date=April 30, 2012}}</ref> Katia Gorriti, Raúl Gorriti's daughter, stated that Velásquez's opinions were disrespectful and unfair as they stained her father's name, also indicating that she would take legal action.<ref>{{Cite web |url=https://depor.com/futbol-peruano/seleccion-peruana/seleccion-peruana-jose-velasquez-seria-denunciado-hija-raul-gorriti-66676 |title=José Velásquez sería denunciado por la hija de Raúl Gorriti |website=depor.com |date=March 14, 2018}}</ref>
+
+Other leading players in the match denied any bribery or match fixing and argued that there was no evidence to support the allegations.<ref>{{Cite web |url=http://espndeportes.espn.com/noticias/nota?s=fut&id=626200&type=story |title=No pasó nada malo |website=[[ESPN Deportes]] |date=December 5, 2007|archive-date=February 12, 2023|archive-url=https://web.archive.org/web/20230212073749/https://espndeportes.espn.com/noticias/nota?s=fut&id=626200&type=}}</ref><ref>{{Cite web |url=http://archivo.elcomercio.pe/deporte-total/seleccion/0-argentina-peru-1978-fue-tema-polemico-zurich-noticia-1568608 |title=El 6–0 de Argentina a Perú de 1978 fue tema polémico en Zúrich |website=El Comercio |language=es |date=April 25, 2013|archive-url=https://web.archive.org/web/20220407041350/http://archivo.elcomercio.pe/deporte-total/seleccion/0-argentina-peru-1978-fue-tema-polemico-zurich-noticia-1568608|archive-date=April 7, 2022}}</ref> Chumpitaz declared that his team was never sold.<ref>{{Cite web |url=http://www.elpopular.pe/deportes/2018-03-15-hector-chumpitaz-asegura-que-seleccion-de-peru-nunca-se-vendio-en-mundial-del-78 |title=Héctor Chumpitaz asegura que selección de Perú nunca se vendió en Mundial del 78 |website=El Popular |date=March 15, 2018|access-date=July 15, 2020|archive-date=June 29, 2018|archive-url=https://web.archive.org/web/20180629022207/https://www.elpopular.pe/deportes/2018-03-15-hector-chumpitaz-asegura-que-seleccion-de-peru-nunca-se-vendio-en-mundial-del-78|url-status=dead}}</ref> [[Jaime Duarte]] stated that "for 29 years they have been coming up with new stories and that there is no evidence to prove such bribes."<ref>{{Cite web |url=https://www.elespectador.com/deportes/futbolinternacional/articulo-jugadores-peruanos-niegan-haber-sido-sobornados-perder-mundial |title=Jugadores peruanos niegan haber sido sobornados para perder en Mundial 78 |website=El Espectador |language=es |date=December 6, 2007|archive-url=https://web.archive.org/web/20221006142724/https://www.elespectador.com/deportes/futbol-mundial/jugadores-peruanos-niegan-haber-sido-sobornados-para-perder-en-mundial-78-article-1727/|archive-date=October 6, 2022}}</ref> [[César Cueto]] declared that this match was legitimate, and that the defeat was due to poor physical preparation and fatigue after eleven days of competition, describing the accusations as "inventions from the press".<ref>{{Cite web |url=http://historico.elpais.com.co/paisonline/deportes2003/notas/Abril042009/dep8.html |title=César Cueto "El Perú del 78 fue el Colombia del 94" |website=El Pais |date=September 1, 2014|archive-url=https://web.archive.org/web/20221006115031/http://historico.elpais.com.co/paisonline/deportes2003/notas/Abril042009/dep8.html|archive-date=October 6, 2022}}</ref> [[Teófilo Cubillas]] declared that there was no arrangement and denied the rumours. He also stated that if they had played three times in those months, Argentina would have thrashed them again since shortly before [[Ecuador national football team|Ecuador]] had also scored six goals against them and that Argentina itself had easily beaten them in another friendly. According to Cubillas, Peru "was going down" after losing to Brazil and Poland and that although they had won their group in the first phase of the Cup, the team was not doing well, unlike the Argentine team, which he described as "a waterspout that came upon us". Finally, Cubillas considered it absurd to think that Argentina sent tons of wheat to Peru, repaying the fact.<ref>{{Cite web |url=https://www.clarin.com/ultimo-momento/teofilo-cubillas-arreglo-mundial-78_0_HkMmlhVkCFe.html |title=Teófilo Cubillas: "No hubo arreglo en el 6–0 del Mundial 78" |website=Clarín Noticias |date=June 12, 2006 |language=es|archive-url=https://web.archive.org/web/20221006122922/https://www.clarin.com/ultimo-momento/teofilo-cubillas-arreglo-mundial-78_0_HkMmlhVkCFe.html|archive-date=October 6, 2022}}</ref> He further added to his previous comments, stating that:
+{{Blockquote
+|text=That day, Argentina did everything possible to win the match. In the same World Cup, Mexico also lost 6–0 against Germany, so I don't understand why people keep saying it was a fix (...) Every game I played I did it 100 percent. There was nothing that people keep talking about.<ref>{{Cite web |title="No hubo nada", Teófilo Cubillas habla sobre el polémico Argentina – Perú del Mundial de 1978 |url=https://www.bbc.com/mundo/deportes-45510053 |website=[[BBC Mundo]] |language=es |date=September 13, 2018|archive-url=https://web.archive.org/web/20230117175951/http://www.bbc.com/mundo/deportes-45510053|archive-date=January 17, 2023}}</ref>
+}}
+
+Reactions from the Argentine players have been more aware of Videla's dictatorship with [[Leopoldo Luque]] stating: "With what I know now, I can't say I am proud of my victory... but I didn't realize, most of us didn't. We just played football." Similarly, [[Ricardo Villa]] commented: "There is no doubt we were used politically."<ref name="Yahoo!"/>
+
+In 2020, Dutch player [[Johnny Rep]] and Brazilian player [[Roberto Dinamite]] stated that the match had probably been arranged to "reassure the population".<ref>{{Cite web |title=Una estrella de Holanda sobre el Mundial 78: "Para nosotros, el 6–0 de la Argentina a Perú fue sobornado" |url=https://www.lanacion.com.ar/deportes/futbol/una-estrella-holanda-mundial-78-para-nosotros-nid2374281 |date=June 5, 2020 |website=La Nación |language=es|archive-url=https://web.archive.org/web/20221006131122/https://www.lanacion.com.ar/deportes/futbol/una-estrella-holanda-mundial-78-para-nosotros-nid2374281/|archive-date=October 6, 2022}}</ref>
+
+Former Peruvian senator [[Genaro Ledesma Izquieta]] denounced that the party's supposed arrangement was carried out during the Peruvian dictatorship under the condition that Videla would release 13 Peruvian political prisoners; this operation would have been part of Operation Condor.<ref name="Yahoo!"/><ref>{{Cite web |title=Argentina 6–0 Perú, la goleada más polémica de la historia |url=https://www.espn.com.ar/futbol/mundial/nota/_/id/4234800/argentina-6-0-peru-la-goleada-mas-polemica-de-la-historia |website=[[ESPN]] |language=es |date=April 26, 2018|archive-url=https://web.archive.org/web/20221006125811/https://www.espn.com.ar/futbol/mundial/nota/_/id/4234800/argentina-6-0-peru-la-goleada-mas-polemica-de-la-historia|archive-date=October 6, 2022}}</ref><ref>{{Cite web |last=Blanco |first=Jordi |title=1978: La operación Cóndor y el 6–0 a Perú |url=https://www.sport.es/es/noticias/mundial-futbol/1978-operacion-condor-6-0-peru-3307403 |date=June 16, 2014 |website=Sport |language=es|access-date=February 12, 2023|archive-url=https://web.archive.org/web/20210512235623/https://www.sport.es/es/noticias/mundial-futbol/1978-operacion-condor-6-0-peru-3307403|archive-date=May 12, 2021}}</ref><ref>{{Cite web |title=La FIFA podría anular el título que obtuvo Argentina en el mundial del 78 |url=https://www.elterritorio.com.ar/la-fifa-podria-anular-el-titulo-que-obtuvo-argentina-en-el-mundial-del-78-9875229408709431-et |date=February 15, 2012 |language=es |website=El Territorio|archive-url=https://web.archive.org/web/20221006130613/https://www.elterritorio.com.ar/noticias/2012/02/15/292005-la-fifa-podria-anular-el-titulo-que-obtuvo-argentina-en-el-mundial-del-78|archive-date=October 6, 2022}}</ref> In an article published in 2018, Peruvian journalist Valentín Ahón stated that he didn't believe that there were bribes or a pact between the dictatorships of Argentina and Peru.<ref>{{Cite web |quote=Al respecto de estas acusaciones se ha señalado que no pueden ser usadas como base alguna en el libro de Yallop, además de considerar como fábula, que Videla pactó con Morales Bermúdez la entrega de dos barcos llenos de trigo y hacerse cargo de 13 políticos peruanos deportados a Buenos Aires, al relacionar ello con la actuación de la selección peruana, tomándolas como anécdotas parte de otro cuento y con otros personajes. |url=http://libero.pe/futbol-peruano/1211524-jose-velasquez-el-patron-por-ahora-quedo-mal-opiniOn |title=José Velásquez: El 'patrón' por ahora quedó mal (OPINIÓN) |website=Líbero |date=March 14, 2018 |first=Valentín |last=Ahón|archive-url=https://web.archive.org/web/20221006131630/https://libero.pe/futbol-peruano/1211524-jose-velasquez-el-patron-por-ahora-quedo-mal-opiniOn|archive-date=October 6, 2022}}</ref>
+
+==In popular culture==
+The match is mentioned in the song "La argentinidad al palo" by Argentine rock band [[Bersuit Vergarabat]] in [[La argentinidad al palo|the eponymous album]], mentioning "the 6 to 0 at Peru" among Argentina's several "achievements" in the form of a critical parody.<ref>{{Cite web |title=Letras de Rock: "La argentinidad al palo" |url=https://revistakm0.com/2022/12/12/las-letras-del-rock-la-argentinidad-al-palo/ |date=December 12, 2022 |language=es |website=Revista KM0.com|access-date=February 12, 2023}}</ref>
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Peru at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+{{commons category}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1978 FIFA World Cup}}
+{{Peru national football team matches}}
+{{Argentina national football team matches}}
+
+[[Category:1978 FIFA World Cup]]
+[[Category:Argentina–Peru sports relations|1978]]
+[[Category:FIFA World Cup matches|Argentina v Peru]]
+[[Category:Peru national football team matches|1978]]
+[[Category:Argentina national football team matches|1978]]
+[[Category:FIFA World Cup controversies|Argentina v Peru]]
+[[Category:Peru at the 1978 FIFA World Cup|D]]
+[[Category:Argentina at the 1978 FIFA World Cup|Aus]]
+[[Category:1978 controversies]]
+[[Category:Football competitions in Rosario, Santa Fe]]
+[[Category:Controversies in Peru]]
+[[Category:Controversies in Argentina]]
+[[Category:June 1978 sports events in South America]]
+[[Category:Men's international association football matches in South America]]
+[[Category:Football matches in Argentina]]

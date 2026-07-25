@@ -1,0 +1,871 @@
+{{Short description|Football tournament group stage}}
+{{Use mdy dates|date=April 2026}}
+{{Use American English|date=April 2024}}
+'''Group A of the 1994 FIFA World Cup''' was one of six groups of four teams competing at the [[1994 FIFA World Cup|1994 World Cup]] in the United States. The first matches were played June 18, 1994, and the final games took place simultaneously on June 26, 1994.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|archive-url=https://web.archive.org/web/20131220184449/http://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|url-status=dead|archive-date=December 20, 2013|title=1994 FIFA World Cup USA|publisher=fifa.com|accessdate=July 31, 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/94full.html|title=World Cup 1994|website=[[RSSSF]]|accessdate=July 31, 2014}}</ref>
+
+The group consisted of one [[CONCACAF]] team, the host [[United States men's national soccer team|United States]]; two [[UEFA]] teams, [[Switzerland national football team|Switzerland]] and [[Romania national football team|Romania]]; and one [[CONMEBOL]] team, [[Colombia national football team|Colombia]]. Romania won the group, Switzerland finished second and also the United States advanced to the knockout stage as one of the best third-placed teams. Colombia finished last with only three points.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/usa1994/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=ROU
+|team2=SUI
+|team3=USA
+|team4=COL
+
+|result1=KO
+|result2=KO
+|result3=KO
+
+|win_ROU=2 |draw_ROU=0 |loss_ROU=1 |gf_ROU=5 |ga_ROU=5
+|win_SUI=1 |draw_SUI=1 |loss_SUI=1 |gf_SUI=5 |ga_SUI=4
+|win_USA=1 |draw_USA=1 |loss_USA=1 |gf_USA=3 |ga_USA=3 |status_USA=H
+|win_COL=1 |draw_COL=0 |loss_COL=2 |gf_COL=4 |ga_COL=5
+
+|name_ROU={{fb|ROU}}
+|name_SUI={{fb|SUI|civil}}
+|name_USA={{fb|USA}}
+|name_COL={{fb|COL}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1994 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are [[Time in the United States|local time]].
+
+===United States vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=A1
+|date={{Start date|1994|6|18}}
+|time=11:30&nbsp;a.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|USA}}
+|score={{score link|1994 FIFA World Cup Group A#United States vs Switzerland|1–1}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Eric Wynalda|Wynalda]] {{goal|45}}
+|goals2=
+*[[Georges Bregy|Bregy]] {{goal|39}}
+|stadium=[[Pontiac Silverdome]], [[Pontiac, Michigan|Pontiac]]
+|attendance=73,425
+|referee=[[Francisco Oscar Lamolina]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3051 |title=United States vs Switzerland {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3051/index.html |title=1994 FIFA World Cup USA – Matches – USA v Switzerland |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229065850/http://www.fifa.com/worldcup/matches/round=337/match=3051/index.html |archive-date=December 29, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _usa94a1
+ | pattern_b  = _usa94a1
+ | pattern_ra = _usa94a1
+ | pattern_sh =
+ | pattern_so =
+ | leftarm    = 37789F
+ | body       = 37789F
+ | rightarm   = 37789F
+ | shorts     = BE0032
+ | socks      = 1D2951
+ | title      = United States
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sui94a
+ | pattern_ra = 
+ | pattern_so = _redtop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Switzerland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Meola]] ([[Captain (association football)|c]])
+|-
+|SW ||'''17'''||[[Marcelo Balboa]]
+|-
+|RB ||'''4''' ||[[Cle Kooiman]]
+|-
+|CB ||'''22'''||[[Alexi Lalas]]
+|-
+|LB ||'''20'''||[[Paul Caligiuri]]
+|-
+|RM ||'''9''' ||[[Tab Ramos]]
+|-
+|CM ||'''16'''||[[Mike Sorber]]
+|-
+|CM ||'''5''' ||[[Thomas Dooley]]
+|-
+|LM ||'''6''' ||[[John Harkes]] || {{yel|89}}
+|-
+|CF ||'''8''' ||[[Earnie Stewart]] || || {{suboff|81}}
+|-
+|CF ||'''11'''||[[Eric Wynalda]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Roy Wegerle]] || || {{subon|58}}
+|-
+|FW ||'''13'''||[[Cobi Jones]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marco Pascolo]]
+|-
+|SW ||'''5''' ||[[Alain Geiger]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Marc Hottiger]]
+|-
+|CB ||'''4''' ||[[Dominique Herr]] || {{yel|26}}
+|-
+|LB ||'''3''' ||[[Yvan Quentin]]
+|-
+|CM ||'''6''' ||[[Georges Bregy]]
+|-
+|CM ||'''10'''||[[Ciriaco Sforza]] || || {{suboff|77}}
+|-
+|RW ||'''8''' ||[[Christophe Ohrel]]
+|-
+|AM ||'''16'''||[[Thomas Bickel]] || || {{suboff|72}}
+|-
+|LW ||'''7''' ||[[Alain Sutter]]
+|-
+|CF ||'''11'''||[[Stéphane Chapuisat]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Nestor Subiat]] || {{yel|82}} || {{subon|72}}
+|-
+|MF ||'''21'''||[[Thomas Wyss]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Roy Hodgson]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ernesto Taibi ([[Argentine Football Association|Argentina]])
+<br />Venancio Zarate ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ernesto Filippi]] ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Colombia vs Romania===
+<onlyinclude>{{#invoke:Football box|main|section=A2
+|date={{Start date|1994|6|18}}
+|time=4:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|COL}}
+|score={{score link|1994 FIFA World Cup Group A#Colombia vs Romania|1–3}}
+|team2={{fb|ROU}}
+|goals1=
+*[[Adolfo Valencia|Valencia]] {{goal|43}}
+|goals2=
+*[[Florin Răducioiu|Răducioiu]] {{goal|16||89}}
+*[[Gheorghe Hagi|Hagi]] {{goal|34}}
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=91,856
+|referee=[[Jamal Al Sharif]] ([[Syrian Football Association|Syria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3053 |title=Colombia vs Romania {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3053/index.html |title=1994 FIFA World Cup USA – Matches – Colombia v Romania |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170530144600/http://www.fifa.com/worldcup/matches/round=337/match=3053/index.html |archive-date=May 30, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _colombia_91_97_A
+ | pattern_b  = _colombia_91_97_A
+ | pattern_ra = _colombia_91_97_A
+ | pattern_sh = _colombia_91_97_A
+ | pattern_so = _colombia_91_97_H
+ | leftarm    = 0065BD
+ | body       = 0065BD
+ | rightarm   = 0065BD
+ | shorts     = FF0000
+ | socks      = CD0000
+ | title      = Colombia
+}}
+|{{Football kit
+ | pattern_la = _rom94h
+ | pattern_b  = _rom94h
+ | pattern_ra = _rom94h
+ | pattern_sh = _rom94h
+ | pattern_so = _adidas_thick_stripes_romania_home
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = FFFF00
+ | socks      = FFE601
+ | title      = Romania
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Córdoba]]
+|-
+|RB ||'''4''' ||[[Luis Herrera (footballer)|Luis Herrera]] || {{yel|36}}
+|-
+|CB ||'''2''' ||[[Andrés Escobar]]
+|-
+|CB ||'''15'''||[[Luis Carlos Perea]]
+|-
+|LB ||'''20'''||[[Wilson Pérez]]
+|-
+|CM ||'''6''' ||[[Gabriel Gómez (footballer, born 1959)|Gabriel Gómez]]
+|-
+|CM ||'''14'''||[[Leonel Álvarez (footballer, born 1965)|Leonel Álvarez]] || {{yel|70}}
+|-
+|AM ||'''10'''||[[Carlos Valderrama]] ([[Captain (association football)|c]]) || {{yel|53}}
+|-
+|AM ||'''19'''||[[Freddy Rincón]]
+|-
+|CF ||'''11'''||[[Adolfo Valencia]]
+|-
+|CF ||'''21'''||[[Faustino Asprilla]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Francisco Maturana]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Bogdan Stelea]]
+|-
+|SW ||'''4''' ||[[Miodrag Belodedici]]
+|-
+|CB ||'''3''' ||[[Daniel Prodan]]
+|-
+|CB ||'''14'''||[[Gheorghe Mihali]]
+|-
+|RM ||'''2''' ||[[Dan Petrescu]]
+|-
+|CM ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|CM ||'''5''' ||[[Ioan Lupescu]]
+|-
+|CM ||'''7''' ||[[Dorinel Munteanu]]
+|-
+|LM ||'''10'''||[[Gheorghe Hagi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Florin Răducioiu]] || {{yel|39}} || {{suboff|90}}
+|-
+|SS ||'''11'''||[[Ilie Dumitrescu]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Tibor Selymes]] || || {{subon|68}}
+|-
+|DF ||'''19'''||[[Corneliu Papură]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Anghel Iordănescu]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Yousif Abdullah Al Ghattan ([[Bahrain Football Association|Bahrain]])
+<br />Douglas Micael James ([[Trinidad and Tobago Football Federation|Trinidad and Tobago]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alberto Tejada Noriega]] ([[Peruvian Football Federation|Peru]])
+|}
+
+===Romania vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=A3
+|date={{Start date|1994|6|22}}
+|time=4:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|ROU}}
+|score={{score link|1994 FIFA World Cup Group A#Romania vs Switzerland|1–4}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Gheorghe Hagi|Hagi]] {{goal|35}}
+|goals2=
+*[[Alain Sutter|Sutter]] {{goal|16}}
+*[[Stéphane Chapuisat|Chapuisat]] {{goal|52}}
+*[[Adrian Knup|Knup]] {{goal|65||72}}
+|stadium=[[Pontiac Silverdome]], [[Pontiac, Michigan|Pontiac]]
+|attendance=61,428
+|referee=[[Neji Jouini]] ([[Tunisian Football Federation|Tunisia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3062 |title=Romania vs Switzerland {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3062/index.html |title=1994 FIFA World Cup USA – Matches – Romania v Switzerland |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228212458/http://www.fifa.com/worldcup/matches/round=337/match=3062/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rom94h
+ | pattern_b  = _rom94h
+ | pattern_ra = _rom94h
+ | pattern_sh = _rom94h
+ | pattern_so = _adidas_thick_stripes_romania_home
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = FFFF00
+ | socks      = FFE601
+ | title      = Romania
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _sui94h
+ | pattern_ra = _whiteborder
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Switzerland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Bogdan Stelea]]
+|-
+|SW ||'''4''' ||[[Miodrag Belodedici]] || {{yel|47}}
+|-
+|CB ||'''3''' ||[[Daniel Prodan]]
+|-
+|CB ||'''14'''||[[Gheorghe Mihali]] || {{yel|32}}
+|-
+|RM ||'''2''' ||[[Dan Petrescu]]
+|-
+|CM ||'''5''' ||[[Ioan Lupescu]] || {{yel|40}} || {{suboff|85}}
+|-
+|CM ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|LM ||'''7''' ||[[Dorinel Munteanu]]
+|-
+|AM ||'''10'''||[[Gheorghe Hagi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Florin Răducioiu]]
+|-
+|SS ||'''11'''||[[Ilie Dumitrescu]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Basarab Panduru]] || || {{subon|85}}
+|-
+|FW ||'''16'''||[[Ion Vlădoiu]] || {{sent off|0|73}} || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Anghel Iordănescu]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marco Pascolo]]
+|-
+|RB ||'''2''' ||[[Marc Hottiger]]
+|-
+|CB ||'''4''' ||[[Dominique Herr]]
+|-
+|CB ||'''5''' ||[[Alain Geiger]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Yvan Quentin]]
+|-
+|RM ||'''8''' ||[[Christophe Ohrel]] || || {{suboff|83}}
+|-
+|CM ||'''6''' ||[[Georges Bregy]]
+|-
+|CM ||'''10'''||[[Ciriaco Sforza]]
+|-
+|LM ||'''7''' ||[[Alain Sutter]] || || {{suboff|71}}
+|-
+|CF ||'''9''' ||[[Adrian Knup]]
+|-
+|CF ||'''11'''||[[Stéphane Chapuisat]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Thomas Bickel]] || || {{subon|71}}
+|-
+|MF ||'''20'''||[[Patrick Sylvestre]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Roy Hodgson]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Abdel-Magid Hassan ([[Egyptian Football Association|Egypt]])
+<br />Davoud Fanaei ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joël Quiniou]] ([[French Football Federation|France]])
+|}
+
+Note: Switzerland's fourth goal is also credited to [[Georges Bregy]].
+
+===United States vs Colombia===
+The match between the United States and Colombia saw the United States go ahead with just over 10 minutes to play in the first half, when Colombia defender [[Andrés Escobar]] turned a United States cross into his own net. The United States extended their lead early in the second half through [[Earnie Stewart]], while Colombia could only manage a last-minute consolation goal and ended up losing 2–1. The result was the first United States's win in a FIFA World Cup match since the historic [[United States v England (1950 FIFA World Cup)|United States vs. England in 1950]] and meant Colombia's chances of qualifying were no longer in their own hands; they would need to beat Switzerland and hope the United States would beat Romania to stand any chance of qualifying as one of the four best third-placed teams. Escobar was blamed for the result by Colombians and was murdered shortly after returning to the country.<ref>{{Cite web|url = https://www.90min.com/posts/6059408-andres-escobar-the-world-cup-own-goal-that-killed-the-colombia-defender|title = Andres Escobar: The World Cup Own Goal That Killed the Colombia Defender|date = May 13, 2018|access-date = August 12, 2020|archive-date = August 31, 2020|archive-url = https://web.archive.org/web/20200831074619/https://www.90min.com/posts/6059408-andres-escobar-the-world-cup-own-goal-that-killed-the-colombia-defender|url-status = dead}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=A4
+|date={{Start date|1994|6|22}}
+|time=4:30&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|USA}}
+|score={{score link|1994 FIFA World Cup Group A#United States vs Colombia|2–1}}
+|team2={{fb|COL}}
+|goals1=
+*[[Andrés Escobar|Escobar]] {{goal|35|o.g.}}
+*[[Earnie Stewart|Stewart]] {{goal|52}}
+|goals2=
+*[[Adolfo Valencia|Valencia]] {{goal|90}}
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=93,869
+|referee=[[Fabio Baldas]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3063 |title=United States vs Colombia {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3063/index.html |title=1994 FIFA World Cup USA – Matches – USA v Colombia |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217171945/http://www.fifa.com/worldcup/matches/round=337/match=3063/index.html |archive-date=December 17, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _usa94a1
+ | pattern_b  = _usa94a1
+ | pattern_ra = _usa94a1
+ | leftarm    = 37789F
+ | body       = 37789F
+ | rightarm   = 37789F
+ | shorts     = BE0032
+ | socks      = FFFFFF
+ | title      = United States
+}}
+|{{Football kit
+ | pattern_la = _colombia_91_97_H
+ | pattern_b  = _colombia_91_97_H
+ | pattern_ra = _colombia_91_97_H
+ | pattern_sh = _Colombia1993-1997h
+ | pattern_so = _colombia_91_97_H
+ | leftarm    = FFEF00
+ | body       = FFEF00
+ | rightarm   = FFEF00
+ | shorts     = 2346A3
+ | socks      = CD0000
+ | title      = Colombia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Meola]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||[[Fernando Clavijo]]
+|-
+|CB ||'''17'''||[[Marcelo Balboa]]
+|-
+|CB ||'''22'''||[[Alexi Lalas]] || {{yel|48}}
+|-
+|LB ||'''20'''||[[Paul Caligiuri]]
+|-
+|RM ||'''9''' ||[[Tab Ramos]]
+|-
+|CM ||'''16'''||[[Mike Sorber]]
+|-
+|CM ||'''5''' ||[[Thomas Dooley]]
+|-
+|LM ||'''6''' ||[[John Harkes]]
+|-
+|CF ||'''11'''||[[Eric Wynalda]] || || {{suboff|61}}
+|-
+|CF ||'''8''' ||[[Earnie Stewart]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Roy Wegerle]] || || {{subon|61}}
+|-
+|MF ||'''13'''||[[Cobi Jones]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Córdoba]]
+|-
+|RB ||'''4''' ||[[Luis Herrera (footballer)|Luis Herrera]]
+|-
+|CB ||'''2''' ||[[Andrés Escobar]]
+|-
+|CB ||'''15'''||[[Luis Carlos Perea]]
+|-
+|LB ||'''20'''||[[Wilson Pérez]]
+|-
+|RM ||'''19'''||[[Freddy Rincón]]
+|-
+|CM ||'''14'''||[[Leonel Álvarez (footballer, born 1965)|Leonel Álvarez]]
+|-
+|CM ||'''5''' ||[[Hernán Gaviria]]
+|-
+|LM ||'''10'''||[[Carlos Valderrama]] ([[Captain (association football)|c]])
+|-
+|CF ||'''21'''||[[Faustino Asprilla]] || || {{suboff|45}}
+|-
+|CF ||'''7''' ||[[Antony de Ávila]] || {{yel|24}} || {{suboff|45}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Iván Valenciano]] || || {{subon|45}}
+|-
+|FW ||'''11'''||[[Adolfo Valencia]] || || {{subon|45}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Francisco Maturana]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Domenico Ramicone ([[Italian Football Federation|Italy]])
+<br />El Jilali Rharib ([[Royal Moroccan Football Federation|Morocco]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Lim Kee Chong]] ([[Mauritius Football Association|Mauritius]])
+|}
+
+===Switzerland vs Colombia===
+To have any hope of finishing in third place and a potential spot in the round of 16, Colombia needed a victory against already-qualified Switzerland and also needed Romania to lose to the United States in the match played simultaneously. Colombia took the lead in the 44th minute through [[Hernán Gaviria]] with a header to the left of the net that Switzerland goalkeeper [[Marco Pascolo]]] got a hand to but failed to keep out. Gaviria was substituted late in the second half, and his replacement, [[Harold Lozano]], doubled Colombia's lead in the last minute of the game with a low shot to the left of the net from the right edge of the six yard box. Colombia had managed the win they needed, but were eliminated anyways because the United States lost 1-0 to Romania.
+
+<onlyinclude>{{#invoke:Football box|main|section=A5
+|date={{Start date|1994|6|26}}
+|time=1:00&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|SUI}}
+|score={{score link|1994 FIFA World Cup Group A#Switzerland vs Colombia|0–2}}
+|team2={{fb|COL}}
+|goals1=
+|goals2=
+*[[Hernán Gaviria|Gaviria]] {{goal|44}}
+*[[Harold Lozano|Lozano]] {{goal|90}}
+|stadium=[[Stanford Stadium]], [[Stanford, California|Stanford]]
+|attendance=83,401
+|referee=[[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3074 |title=Switzerland vs Colombia {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3074/index.html |title=1994 FIFA World Cup USA – Matches – Switzerland v Colombia |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230020434/http://www.fifa.com/worldcup/matches/round=337/match=3074/index.html |archive-date=December 30, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _sui94h
+ | pattern_ra = _whiteborder
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Switzerland
+}}
+|{{Football kit
+ | pattern_la = _colombia_91_97_H
+ | pattern_b  = _colombia_91_97_H
+ | pattern_ra = _colombia_91_97_H
+ | pattern_sh = _Colombia1993-1997h
+ | pattern_so = 
+ | leftarm    = FFEF00
+ | body       = FFEF00
+ | rightarm   = FFEF00
+ | shorts     = 2346A3
+ | socks      = EED202
+ | title      = Colombia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Marco Pascolo]]
+|-
+|RB ||'''2''' ||[[Marc Hottiger]]
+|-
+|CB ||'''4''' ||[[Dominique Herr]]
+|-
+|CB ||'''5''' ||[[Alain Geiger]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Yvan Quentin]]
+|-
+|RM ||'''8''' ||[[Christophe Ohrel]]
+|-
+|CM ||'''6''' ||[[Georges Bregy]] || {{yel|85}}
+|-
+|CM ||'''10'''||[[Ciriaco Sforza]]
+|-
+|LM ||'''7''' ||[[Alain Sutter]] || || {{suboff|82}}
+|-
+|CF ||'''9''' ||[[Adrian Knup]] || {{yel|39}} || {{suboff|82}}
+|-
+|CF ||'''11'''||[[Stéphane Chapuisat]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Nestor Subiat]] || || {{subon|82}}
+|-
+|FW ||'''15'''||[[Marco Grassi]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Roy Hodgson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Óscar Córdoba]]
+|-
+|RB ||'''4''' ||[[Luis Herrera (footballer)|Luis Herrera]]
+|-
+|CB ||'''2''' ||[[Andrés Escobar]]
+|-
+|CB ||'''3''' ||[[Alexis Mendoza]]
+|-
+|LB ||'''20'''||[[Wilson Pérez]]
+|-
+|RM ||'''14'''||[[Leonel Álvarez (footballer, born 1965)|Leonel Álvarez]] || {{yel|80}}
+|-
+|CM ||'''5''' ||[[Hernán Gaviria]] || {{yel|58}} || {{suboff|79}}
+|-
+|CM ||'''10'''||[[Carlos Valderrama (footballer)|Carlos Valderrama]] ([[Captain (association football)|c]]) || {{yel|62}}
+|-
+|LM ||'''19'''||[[Freddy Rincón]]
+|-
+|CF ||'''11'''||[[Adolfo Valencia]] || || {{suboff|64}}
+|-
+|CF ||'''21'''||[[Faustino Asprilla]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Antony de Ávila]] || || {{subon|64}}
+|-
+|MF ||'''8''' ||[[Harold Lozano]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Francisco Maturana]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Carl-Johan Meyer Christensen ([[Danish Football Association|Denmark]])
+<br />Douglas Micael James ([[Trinidad and Tobago Football Federation|Trinidad and Tobago]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Arturo Brizio Carter]] ([[Mexican Football Federation|Mexico]])
+|}
+
+===United States vs Romania===
+Starting the day in third place, Romania needed a win to guarantee progress to the knockout phase. The United States' qualification was already practically assured, but a win for the host nation would open the door for Colombia to qualify ahead of Romania with victory over Switzerland. That prospect was ended in the 18th minute, when [[Dan Petrescu]] scored the only goal of the game for Romania, giving them a 1–0 win. Combined with Switzerland's loss to Colombia, that meant Romania finished top of the group, followed by Switzerland, with the United States in third. The United States ultimately qualified as one of the four best third-placed teams.
+
+<onlyinclude>{{#invoke:Football box|main|section=A6
+|date={{Start date|1994|6|26}}
+|time=1:00&nbsp;p.m. [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC–7]])
+|team1={{fb-rt|USA}}
+|score={{score link|1994 FIFA World Cup Group A#United States vs Romania|0–1}}
+|team2={{fb|ROU}}
+|goals1=
+|goals2=
+*[[Dan Petrescu|Petrescu]] {{goal|18}}
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=93,869
+|referee=[[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3073 |title=United States vs Romania {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3073/index.html |title=1994 FIFA World Cup USA – Matches – USA v Romania |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229032829/http://www.fifa.com/worldcup/matches/round=337/match=3073/index.html |archive-date=December 29, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _usa94a1
+ | pattern_b  = _usa94a1
+ | pattern_ra = _usa94a1
+ | pattern_so = _3_stripes_white
+ | leftarm    = 37789F
+ | body       = 37789F
+ | rightarm   = 37789F
+ | shorts     = BE0032
+ | socks      = 001050
+ | title      = United States
+}}
+|{{Football kit
+ | pattern_la = _rom94h
+ | pattern_b  = _rom94h
+ | pattern_ra = _rom94h
+ | pattern_sh = _rom94h
+ | pattern_so = _adidas_thick_stripes_romania_home
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = FFFF00
+ | socks      = FFE601
+ | title      = Romania
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Meola]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||[[Fernando Clavijo]] || {{yel|48}}
+|-
+|CB ||'''22'''||[[Alexi Lalas]]
+|-
+|CB ||'''17'''||[[Marcelo Balboa]]
+|-
+|LB ||'''20'''||[[Paul Caligiuri]]
+|-
+|CM ||'''5''' ||[[Thomas Dooley]]
+|-
+|CM ||'''6''' ||[[John Harkes]] || {{yel|41}}
+|-
+|RM ||'''16'''||[[Mike Sorber]] || || {{suboff|75}}
+|-
+|LM ||'''9''' ||[[Tab Ramos]] || || {{suboff|64}}
+|-
+|CF ||'''8''' ||[[Earnie Stewart]]
+|-
+|CF ||'''11'''||[[Eric Wynalda]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Roy Wegerle]] || || {{subon|75}}
+|-
+|MF ||'''13'''||[[Cobi Jones]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Florin Prunea]]
+|-
+|SW ||'''4''' ||[[Miodrag Belodedici]] || || {{suboff|89}}
+|-
+|CB ||'''3''' ||[[Daniel Prodan]]
+|-
+|CB ||'''13'''||[[Tibor Selymes]]
+|-
+|RM ||'''2''' ||[[Dan Petrescu]] || {{yel|73}}
+|-
+|CM ||'''5''' ||[[Ioan Lupescu]]
+|-
+|CM ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|LM ||'''7''' ||[[Dorinel Munteanu]]
+|-
+|AM ||'''10'''||[[Gheorghe Hagi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Florin Răducioiu]] || {{yel|62}} || {{suboff|84}}
+|-
+|SS ||'''11'''||[[Ilie Dumitrescu]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''14'''||[[Gheorghe Mihali]] || || {{subon|89}}
+|-
+|MF ||'''18'''||[[Constantin Gâlcă]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Anghel Iordănescu]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jan Dolstra ([[Royal Dutch Football Association|Netherlands]])
+<br />Gordon Dunster ([[Football Federation Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jamal Al Sharif]] ([[Syrian Football Association|Syria]])
+|}
+
+==See also==
+*[[Colombia at the FIFA World Cup]]
+*[[Romania at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+*[[United States at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1994 FIFA World Cup}}
+
+[[Category:1994 FIFA World Cup group stage|A]]
+[[Category:United States at the 1994 FIFA World Cup|Group]]
+[[Category:Romania at the 1994 FIFA World Cup|Group]]
+[[Category:Switzerland at the 1994 FIFA World Cup|Group A]]
+[[Category:Colombia at the 1994 FIFA World Cup|Group]]
+[[Category:Sports competitions in Pasadena, California]]
+[[Category:Soccer competitions in Los Angeles County, California]]
+[[Category:International sports competitions in California]]
+[[Category:1994 in sports in California]]
+[[Category:20th century in Pasadena, California]]
+[[Category:Soccer competitions in Michigan]]
+[[Category:1994 in sports in Michigan]]
+[[Category:Sports in Pontiac, Michigan]]
+[[Category:Sports in Stanford, California]]
+[[Category:Sports competitions in Santa Clara County, California]]

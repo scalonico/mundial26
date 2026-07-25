@@ -1,0 +1,355 @@
+{{Short description|World Cup final in Brazil}}
+{{redirect|Maracanazo|the 1989 football match between Brazil and Chile|El Maracanazo}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox football match
+| title = Uruguay v Brazil
+| other_titles = The Maracanã Smash <br>(''O Maracanaço'')<br> (''El Maracanazo'')
+| image = Urug1950.jpg
+| caption = Uruguay team
+| event = [[1950 FIFA World Cup]]
+| team1 = [[Uruguay national football team|Uruguay]]
+| team1association = {{Flagdeco|URU|size=30px}}
+| team1score = 2
+| team2 = [[Brazil national football team|Brazil]]
+| team2association = {{Flagdeco|BRA|1889|size=30px}}
+| team2score = 1
+| date = 16 July 1950
+| stadium = [[Maracanã Stadium|Maracanã]]
+| city = [[Rio de Janeiro]]
+| referee = [[George Reader]] ([[The Football Association|England]])
+| attendance = 173,850<ref name="attendance"/>
+| weather = 
+| previous = [[1938 FIFA World Cup final|1938]]
+| next = [[1954 FIFA World Cup final|1954]]
+}}
+The match between [[Uruguay national football team|Uruguay]] and [[Brazil national football team|Brazil]] was the decisive match of the final stage at the [[1950 FIFA World Cup]]. It was played at the [[Maracanã Stadium]] in the then-capital of Brazil, [[Rio de Janeiro]], on 16 July 1950.
+
+Uniquely to this World Cup, as all other editions have concluded with a one-off [[List of FIFA World Cup finals|final]], the winner was the team with the most points after [[round-robin tournament|round-robin]] games between the top four teams. Going into the final round, second-placed Uruguay needed to beat Brazil, while Brazil, leading by a point, could get away with a draw. Thus, their matchup is often regarded as the ''de facto'' final.
+
+Soon into the second half, [[Friaça]] scored Brazil's first goal. [[Juan Alberto Schiaffino]] equalised some time later, and with eleven minutes remaining, [[Alcides Ghiggia]] put Uruguay ahead. Brazil was unable to score one more goal, and so, Uruguay won 2–1, hoisting the [[Jules Rimet Trophy]] for the second time.
+
+A victory of an underdog over a heavily favoured side, the result is considered one of the biggest upsets in the history of [[association football|football]].<ref>{{cite web |url=http://www.soccerphile.com/soccerphile/news/greatest-upsets.html |title=Football's 20 Greatest Upsets |work=Soccerphile |archiveurl=https://web.archive.org/web/20061113142039/http://www.soccerphile.com/soccerphile/news/greatest-upsets.html |archivedate=13 November 2006 }}</ref> The term '''''Maracanaço''''' (in Portuguese) or '''''Maracanazo''''' (in Spanish), roughly translated as "The Maracanã Smash", became synonymous with the match.
+
+Spectated officially by 173,850 people and possibly by over 200,000, the ''Maracanazo'' may have been the most highly attended football match ever played, challenged only by the [[1923 FA Cup final]].
+
+The last survivor of the game was Uruguay's [[Alcides Ghiggia]], who died on 16 July 2015 at the age of 88.
+
+==Background==
+{| class="wikitable" align="right" style="text-align:center"
+|-
+|+Standings before the final match
+!Team
+!width=20|{{tooltip|Pld|Matches played}}
+!width=20|{{tooltip|W|Matches won}}
+!width=20|{{tooltip|D|Matches drawn}}
+!width=20|{{tooltip|L|Matches lost}}
+!width=20|{{tooltip|GF|Goals for}}
+!width=20|{{tooltip|GA|Goals against}}
+<!-- Goal average and goal difference are both irrelevant as neither was used to separate tied teams in this tournament -->
+!width=20|{{tooltip|Pts|Points}}
+|- style="background:#ccffcc"
+|align="left"|{{fb|BRA|1889|size=23px}}
+|2||2||0||0||13||2||'''4'''
+|- style="background:#ccffcc"
+|align="left"|{{fb|URU|size=23px}}
+|2||1||1||0||5||4||'''3'''
+|-
+|align="left"|{{fb|ESP|1945|size=23px}}
+|2||0||1||1||3||8||'''1'''
+|-
+|align="left"|{{fb|SWE|size=23px}}
+|2||0||0||2||3||10||'''0'''
+|}
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right;clear:right;min-width:226px"
+|+ Brazil's games before deciding match
+|-
+!scope="col"|
+!scope="col"| Opponent
+!scope="col"| Result
+|- style="border-top:2px solid black"
+!scope="row" style="text-align:center"|{{abbr|1|First round, first group game}}
+|align="left"|[[Mexico national football team|Mexico]]
+|[[1950 FIFA World Cup Group 1#Brazil vs Mexico|4–0]]
+|-
+!scope="row" style="text-align:center"|{{abbr|2|First round, Second group game}}
+|align="left"|[[Switzerland national football team|Switzerland]]
+|[[1950 FIFA World Cup Group 1#Brazil vs Switzerland|2–2]]
+|-
+!scope="row" style="text-align:center"|{{abbr|3|First round, Third group game}}
+|align="left"|[[Yugoslavia national football team|Yugoslavia]]
+|[[1950 FIFA World Cup Group 1#Brazil vs Yugoslavia|2–0]]
+|- style="border-top:2px solid black"
+!scope="row" style="text-align:center"|{{abbr|F1|Final round, first group game}}
+|align="left"|[[Sweden men's national football team|Sweden]]
+|[[1950 FIFA World Cup final round#Brazil vs Sweden|7–1]]
+|-
+!scope="row" style="text-align:center"|{{abbr|F2|Final round, second group game}}
+|align="left"|[[Spain national football team|Spain]]
+|[[1950 FIFA World Cup final round#Brazil vs Spain|6–1]]
+|}
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right;clear:right;min-width:226px"
+|+ Uruguay's games before deciding match
+|-
+!scope="col"|
+!scope="col"| Opponent
+!scope="col"| Result
+|- style="border-top:2px solid black"
+!scope="row" style="text-align:center"|{{abbr|1|First round group game}}
+|align="left"|[[Bolivia national football team|Bolivia]]
+|[[1950 FIFA World Cup Group 4#Uruguay vs Bolivia|8–0]]
+|- style="border-top:2px solid black"
+!scope="row" style="text-align:center"|{{abbr|F1|Final round, first group game}}
+|align="left"|[[Spain national football team|Spain]]
+|[[1950 FIFA World Cup final round#Uruguay vs Spain|2–2]]
+|-
+!scope="row" style="text-align:center"|{{abbr|F2|Final round, second group game}}
+|align="left"|[[Sweden men's national football team|Sweden]]
+|[[1950 FIFA World Cup final round#Uruguay vs Sweden|3–2]]
+|}
+{{main|1950 FIFA World Cup final round}}
+The road to the title in the 1950 World Cup was unique; instead of a knockout stage, the preliminary group stage was followed by another [[round-robin tournament|round-robin]] group. Of the 16 teams slated to compete, only 13 arrived.<ref name=":0" /> The final four teams were [[Brazil national football team|Brazil]] (the host country and joint-top scorers from the group stage, coming from wins over [[Mexico national football team|Mexico]] and [[Yugoslavia national football team|Yugoslavia]] and a draw against [[Switzerland national football team|Switzerland]]), [[Uruguay national football team|Uruguay]] (who only had to play one match in their group, an 8–0 win over [[Bolivia national football team|Bolivia]]), [[Spain national football team|Spain]] (who won all three of their group matches, against [[England national football team|England]], [[Chile national football team|Chile]], and the [[United States men's national soccer team|United States]]), and [[Sweden men's national football team|Sweden]] (who qualified ahead of [[Paraguay national football team|Paraguay]] and the defending world champions, [[Italy national football team|Italy]]).
+
+Brazil won both of their first two matches convincingly, beating Sweden 7–1 and Spain 6–1 to go top of the group with four points going into the final match. With three points, Uruguay were close behind in second place, although they had to come back from 2–1 down to draw 2–2 with Spain and beat Sweden 3–2, the winning goal coming just five minutes before the end of the game. The match between Brazil and Uruguay, on the other hand, would decide the title; a victory or a draw would grant Brazil the title, whereas Uruguay had to win the match in order to win the championship. Brazil had scored 21 goals in five games before the match with Uruguay and had defeated both Spain and Sweden with larger margins than the Uruguayans had. As a result, Brazil was extremely confident of victory in the deciding match, and newspapers and politicians declared victory before the game even began.<ref name=":0" /> 
+
+The [[1950 FIFA World Cup]] was the only version of the tournament to be played with a [[round-robin tournament|round-robin]] final round; as such, is the only FIFA World Cup to date to not have a [[List of FIFA World Cup finals|deciding knock-out final]]. However, as the result of the match directly determined the champions, the match has come to be commonly referred to as the final, even by FIFA itself.<ref name=":0">{{Cite web |url=http://www.brazilmax.com/news4.cfm/tborigem/fe_sports/id/4 |title=Fateful Final: 1950 World Cup in Rio de Janeiro's Maracanã |first=Alex |last=Bellos |date=29 March 2004 |work=Futebol: The Brazilian Way of Life |publisher=brazilmax.com |access-date=20 May 2010 |archive-url=https://web.archive.org/web/20100918091744/http://www.brazilmax.com/news4.cfm/tborigem/fe_sports/id/4 |archive-date=18 September 2010 |url-status=dead}}</ref><ref>{{cite web |title=FIFA World Cup Finals since 1930|url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_09a_wc-finals_alltime_8864.pdf |archive-url=https://web.archive.org/web/20071129182236/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_09a_wc-finals_alltime_8864.pdf |archive-date=29 November 2007 |publisher=FIFA |access-date=31 January 2014 |url-status=dead}}</ref>
+
+==Anticipated celebration==
+The specialised press and the general public were so confident of victory, based on Brazil's almost indomitable form, that they had already started declaring Brazil the new world champions for days prior to the match. Newspapers such as the ''Gazeta Esportiva'' in [[São Paulo]] and ''O Mundo'' in Rio de Janeiro proclaimed victory the day before the game.<ref name=":0" /> Brazil had won their last two matches (Spain and Sweden) with a very successful attack-minded style of play. Uruguay, however, had encountered difficulties, managing only a draw against Spain and narrow victory over Sweden. The comparison of those results seemed to show that the Brazilians were set to defeat Uruguay as easily as they had defeated Spain and Sweden.
+
+Moreover, in the [[Copa América]], also [[1949 South American Championship|held in Brazil the previous year]], the hosts had won by scoring 46 goals in just eight matches. Ecuador was beaten 9–1, Bolivia 10–1, and runners-up Paraguay were defeated with a margin of 7–0. Further, Brazil beat Uruguay 5–1.
+
+Twenty-two gold medals were made with each player's name imprinted on them{{Citation needed|date=June 2018}} and the mayor of Rio, {{ill|Ângelo Mendes de Moraes|pt}}, delivered a speech on the day of the game with the words: "You, players, who in less than a few hours will be hailed as champions by millions of compatriots! You, who have no rivals in the entire hemisphere! You, who will overcome any other competitor! You, who I already salute as victors!"<ref name=":0" /> A victory song, "Brasil Os Vencedores" ("Brazil the Victors"), was composed and practised, ready to be played after the final.<ref>{{cite web |title=The Maracanã Blow: Brazil's Stunning World Cup Defeat |url=https://www.history.com/articles/the-maracana-blow-brazils-stunning-world-cup-defeat |website=History.com |access-date=23 October 2025 |archive-date=27 September 2025 |archive-url=https://web.archive.org/web/20250927110005/https://www.history.com/articles/the-maracana-blow-brazils-stunning-world-cup-defeat |url-status=live }}</ref>
+
+However, Paulo Machado de Carvalho, then a [[São Paulo FC]] leader, but later head of the Brazilian squad that won the World Cups of [[1958 FIFA World Cup|1958]] and [[1962 FIFA World Cup|1962]], opposed such premature claims of victory. During a visit to the training session at the [[Estádio São Januário]] on the eve of the game, Paulo found several politicians making impassioned speeches to the players, as well as journalists, photographers, and others arriving to join the "future champions". When he warned coach [[Flávio Costa]] about the risk of upsetting the players' concentration, Paulo was ignored. Frustrated, he told his son Tuta, who was with him, "we are going to lose".<ref>{{cite book |last1=Cardoso |first1=Tom |last2=Rockmann |first2=Roberto |title=O Marechal da Vitória: Uma História de Rádio, TV e Futebol |year=2005 |trans-title=The Marshall of Victory: A History of Radio, TV and Football |language=pt |location=[[São Paulo]] |publisher=A Girafa |publication-date=2005 |page=144 |isbn=9788589876759 }}</ref>
+
+On the morning of 16 July 1950, the streets of [[Rio de Janeiro]] were bustling with activity. An improvised carnival was organised, with thousands of signs celebrating the world title, and chants of "Brazil must win!". This spirit was maintained until the final minutes of the match. The officially recorded crowd of 173,850 people at the [[Maracanã Stadium]] is an all-time high in terms of number of paid spectators for a football game; the actual attendance, including the thousands who entered the stadium illegally, amounted to up to 220,000 by some estimates,<ref name="attendance">{{cite web|url=https://www.guinnessworldrecords.com/news/2018/6/world-cup-rewind-world-cup-rewind-largest-attendance-at-a-match-in-the-1950-brazil-final|title=World Cup Rewind: Largest attendance at a match in the 1950 Brazil final|date=12 June 2018|first=Mike|last=Janela|publisher=[[Guinness World Records]]|archive-url=https://web.archive.org/web/20240204073738/http://guinnessworldrecords.com/news/2018/6/world-cup-rewind-world-cup-rewind-largest-attendance-at-a-match-in-the-1950-brazil-final|archive-date=4 February 2024}}</ref><ref>{{Cite web|author1=Sambafoot |title=Sambafoot.com: Maracanã, the largest stadium of the world |work=Sambafoot |date=28 November 2005 |url=http://www.sambafoot.com/en/news/19321_maracana__the_largest_stadium_of_the_world.html |access-date=20 June 2014 |publisher=sambafoot.com |archive-url=https://web.archive.org/web/20141115004043/http://www.sambafoot.com/en/news/19321_maracana__the_largest_stadium_of_the_world.html |archive-date=15 November 2014 |url-status=live }}</ref> and may only have been surpassed by that of the [[1923 FA Cup final]] in England, which anywhere between 150,000 and over 300,000 people are believed to have attended. Those figures are unlikely to be approached in an era when practically all high-profile matches are held in [[all-seater stadium]]s; until its first great remodelling in 1999, the Maracanã was mostly concrete grandstands with no seats.
+
+==Uruguay's preparation==
+The Brazilian newspaper ''O Mundo'' printed an early edition on the day of the final containing a photograph of Brazil with the caption "These are the world champions". Disgusted with the premature assumption, Uruguay's captain, [[Obdulio Varela]], bought as many copies as he could, laid them on his bathroom floor and encouraged his teammates to [[Spitting|spit]] and [[urinate]] on them.<ref>{{cite news |last=Wilson |first=Jonathan |url=https://www.si.com/more-sports/2010/07/04/uruguay-history |work=CNN |title=Uruguay's 1950 World Cup triumph a testament to the spirit of garra |date=4 July 2010 |access-date=27 November 2022 |archive-date=27 November 2022 |archive-url=https://web.archive.org/web/20221127232529/https://www.si.com/more-sports/2010/07/04/uruguay-history |url-status=live }}</ref>
+
+In the moments prior to the match, coach [[Juan López (football manager, born 1908)|Juan López]] informed his team in Uruguay's dressing room that their best chance of surviving the powerful offensive line of Brazil would come through adopting a defensive strategy. After he left, Varela stood up and addressed the team himself, saying "Juancito is a good man, but today, he is wrong. If we play defensively against Brazil, our fate will be no different from Spain or Sweden."<ref name=":1">{{Cite news |last=Hughes |first=Rob |date=11 June 2014 |title=In Brazil, It's Time for the World to Play |url=https://www.nytimes.com/2014/06/12/sports/soccer/in-brazil-its-time-for-the-world-to-play.html |url-status=live |archive-url=https://web.archive.org/web/20160721072256/https://www.nytimes.com/2014/06/12/sports/soccer/in-brazil-its-time-for-the-world-to-play.html |archive-date=21 July 2016 |access-date=14 January 2024 |work=[[The New York Times]]}} {{subscription required}}</ref> Varela then delivered an emotional speech about how they should go against all odds and not be intimidated by the fans or the opposing team. The speech, as was later confirmed, played a huge part in the outcome of the game. In response to his squad's underdog status, the captain delivered the memorable line, "{{lang|es|Muchachos, los de afuera son de palo. Que comience la función.}}" ("Boys, outsiders are just stickdolls. Let's start the show." or "Outsiders don't play. Let the show begin.")<ref name=":1" /><ref>{{Cite magazine |last=Gill |first=A.A. |date=2010-06-10 |title=Playing for the World |url=https://www.vanityfair.com/culture/2010/06/world-cup-article-201006 |access-date=2024-01-14 |magazine=Vanity Fair |language=en-US |archive-date=10 August 2022 |archive-url=https://web.archive.org/web/20220810112524/https://www.vanityfair.com/culture/2010/06/world-cup-article-201006 |url-status=live }}</ref>
+
+==Match==
+
+===Summary===
+[[File:Gol ghiggia vs brasil.jpg|thumb|[[Alcides Ghiggia]] celebrates after scoring the 2nd goal.]]
+The game began as predicted, with Brazil attacking against the Uruguayan defensive line for the majority of the first half. Unlike Spain and Sweden, however, the Uruguayans managed to maintain their defence and the first half ended scoreless. Brazil scored the first goal of the match only two minutes after the interval, with [[São Paulo FC|São Paulo]] forward Friaça shooting low past goalkeeper [[Roque Máspoli]]. After the goal, Varela took the ball and disputed the validity of the goal to the referee, arguing that Friaça was [[Offside (association football)|offside]]. Varela drew out this argument, going so far as to demand that the referee listen to him through an interpreter.<ref>{{cite news |url=http://sports.ndtv.com/fifa-world-cup-2014/news/225467-in-brazil-it-s-time-for-the-world-to-play|title=In Brazil, It's Time For the World to Play|first=Rob|last=Hughes|newspaper=The New York Times|date=12 June 2014|access-date=20 June 2014|archive-url=https://web.archive.org/web/20140615182450/http://sports.ndtv.com/fifa-world-cup-2014/news/225467-in-brazil-it-s-time-for-the-world-to-play|archive-date=15 June 2014|url-status=dead}}</ref> By the time the conversation ended, the crowd had calmed down. Then, Varela took the ball to the center of the field, and shouted to his team, "Now, it's time to win!"{{citation needed|date=April 2014}}
+
+Uruguay managed to take control of the game. When faced with a capable Uruguayan attack, Brazil showed their frail defense, and [[Juan Alberto Schiaffino]] scored the equaliser in the 66th minute. Later, [[Alcides Ghiggia]], running down the right side of the field, scored another goal, with a low shot that went just under goalkeeper [[Moacir Barbosa]] (who, having anticipated a cross from Ghiggia's position, dived a moment too late to stop the ball from rolling under him), with only 11 minutes remaining on the clock. The crowd went virtually silent after the second Uruguayan goal until English referee [[George Reader]] signalled the end of the match, with the final score being 2–1 to Uruguay.
+
+===Details===
+<section begin="FR-6" />{{Football box
+|date={{Start date|1950|7|16|df=y}}
+|time=15:00 BRT ([[UTC-3]])
+|team1={{fb-rt|URU}}
+|score={{score link|1950 FIFA World Cup final round#Uruguay vs Brazil|2–1|Uruguay v Brazil (1950 FIFA World Cup)}}
+|team2={{fb|BRA|1889}}
+|goals1=
+*[[Juan Alberto Schiaffino|Schiaffino]] {{goal|66}}
+*[[Ghiggia]] {{goal|79}}
+|goals2=
+*[[Friaça]] {{goal|47}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=173,850
+|referee=[[George Reader]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/7/209/1190 |title=Uruguay vs Brazil {{!}} Final Round {{!}} 1950 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |archive-date=16 July 2026 |archive-url=https://web.archive.org/web/20260716022120/https://www.fifa.com/en/match-centre/match/17/7/209/1190 |url-status=live }} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=209/match=1190/index.html |title=1950 FIFA World Cup Brazil – Matches – Uruguay v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212004908/http://www.fifa.com/worldcup/matches/round=209/match=1190/index.html |archive-date=12 December 2017 }} }}</ref>
+}}<section end="FR-6" />
+<section begin=Lineups />
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _whiteborder
+| pattern_b  = _vneckwhite
+| pattern_ra = _whiteborder
+| pattern_sh = 
+| pattern_so = _skybluetop
+| leftarm    = 99ccff
+| body       = 99ccff
+| rightarm   = 99ccff
+| shorts     = 000000
+| socks      = 000000
+| title      = Uruguay
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _borderonwhite
+| pattern_b  = _bra1949h
+| pattern_ra = _borderonwhite
+| pattern_sh = 
+| pattern_so = _brasil1942
+| leftarm    = 004A99
+| body       = FFFFFF
+| rightarm   = 004A99
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Brazil
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Roque Máspoli]]
+|-
+|RB ||'''2''' ||[[Matías González (footballer, born 1925)|Matías González]]
+|-
+|LB ||'''3''' ||[[Eusebio Tejera]]
+|-
+|RH ||'''4''' ||[[Schubert Gambetta]]
+|-
+|CH ||'''5''' ||[[Obdulio Varela]] ([[Captain (association football)|c]])
+|-
+|LH ||'''6''' ||[[Víctor Rodríguez Andrade]]
+|-
+|OR ||'''7''' ||[[Alcides Ghiggia]]
+|-
+|IR ||'''8''' ||[[Julio Pérez (footballer, born 1926)|Julio Pérez]]
+|-
+|CF ||'''9''' ||[[Óscar Míguez]]
+|-
+|IL ||'''10'''||[[Juan Alberto Schiaffino]]
+|-
+|OL ||'''11'''||[[Rubén Morán]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Juan López Fontana]]
+|}
+|valign="top"|[[File:URU-BRA 1950-07-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Moacir Barbosa]]
+|-
+|RB ||'''2''' ||[[Augusto da Costa|Augusto]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Juvenal (footballer, born November 1923)|Juvenal]]
+|-
+|RH ||'''4''' ||[[Bauer (footballer)|Bauer]]
+|-
+|CH ||'''5''' ||[[Danilo Alvim|Danilo]]
+|-
+|LH ||'''6''' ||[[Bigode]]
+|-
+|OR ||'''7''' ||[[Friaça]]
+|-
+|IR ||'''8''' ||[[Zizinho]]
+|-
+|CF ||'''9''' ||[[Ademir de Menezes|Ademir]]
+|-
+|IL ||'''10'''||[[Jair (footballer, born 1921)|Jair]]
+|-
+|OL ||'''11'''||[[Chico (footballer, born 1922)|Chico]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Flávio Costa]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Arthur Edward Ellis]] ([[The Football Association|England]])
+<br />[[George Mitchell (referee)|George Mitchell]] ([[Scottish Football Association|Scotland]])
+<includeonly>|}</includeonly><section end="Lineups" />
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*No substitutions permitted
+|}
+
+==Aftermath==
+{| class="wikitable" align="right" style="text-align:center"
+|-
+|+ Final standings
+!Team
+!width=20|{{tooltip|Pld|Matches played}}
+!width=20|{{tooltip|W|Matches won}}
+!width=20|{{tooltip|D|Matches drawn}}
+!width=20|{{tooltip|L|Matches lost}}
+!width=20|{{tooltip|GF|Goals for}}
+!width=20|{{tooltip|GA|Goals against}}
+!width=20|{{tooltip|Pts|Points}}
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|URU}}
+|3||2||1||0||7||5||'''5'''
+|-
+|align="left"|{{fb|BRA|1889}}
+|3||2||0||1||14||4||'''4'''
+|-
+|align="left"|{{fb|SWE}}
+|3||1||0||2||6||11||'''2'''
+|-
+|align="left"|{{fb|ESP|1945}}
+|3||0||1||2||4||11||'''1'''
+|}
+When the match ended, the stadium was filled with "disturbing and traumatic absolute silence,"<ref>{{Cite web |last1=Galeano |first1=Eduardo |last2=Nogueira |first2=Armando |date=30 June 2009 |title=Silêncio no Maracanã |url=http://revistadehistoria.com.br/secao/artigos-revista/silencio-no-maracana |url-status=dead |archive-url=https://web.archive.org/web/20131204061417/http://revistadehistoria.com.br/secao/artigos-revista/silencio-no-maracana |archive-date=4 December 2013 |website=Revista de História |language=pt-BR}}</ref><ref>{{Cite web |last= |date=30 April 2013 |title=Jogos Eternos – Brasil 1x2 Uruguai 1950 |url=https://imortaisdofutebol.com/jogos-eternos-brasil-1x2-uruguai-1950/ |url-status=live |archive-url=https://web.archive.org/web/20131026080948/http://imortaisdofutebol.com/2013/04/30/jogos-eternos-brasil-1x2-uruguai-1950/ |archive-date=26 October 2013 |access-date=2024-01-14 |website=Imortais do Futebol |language=pt-BR}}</ref> and famous radio journalist [[Ary Barroso]] (briefly) retired after the match.{{Citation needed|date=January 2024|reason=Needs a contemporary source, preferably in Portuguese or Spanish.}} A group of Brazilian fans started a fight with Uruguayans in a hotel lobby,<ref>{{Cite news |date=18 July 1950 |title=Incidente desagradavel entre torcedores brasileiros e turistas uruguaios |url=https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=116408&pagfis=49406 |access-date=14 January 2024 |work=A Manhã |location=Rio de Janeiro |pages=14 |language=pt-BR}}</ref> and eight Uruguayans died as a result of celebrations in Uruguay.<ref>{{Cite news |date=18 July 1950 |title=A EMOÇÃO FOI FATAL PARA OITO URUGUAIOS |url=https://memoria.bn.gov.br/DocReader/docreader.aspx?bib=116408&pasta=ano%20195&pesq=&pagfis=49403 |access-date=14 January 2024 |work=A Manhã |location=Rio de Janeiro |pages=11 |language=pt-BR |archive-date=2 September 2024 |archive-url=https://web.archive.org/web/20240902083751/https://memoria.bn.gov.br/DocReader/docreader.aspx?bib=116408&pasta=ano%20195&pesq=&pagfis=49403 |url-status=live }}</ref> However, the players and most Brazilian fans behaved well in defeat; the Uruguayan newspaper ''El Dia'' declared Brazil "the other winner" and said "if before the match we respected the Brazilian sporting power, after the encounter our respect grew and we even more profoundly admired the great spirit demonstrated by the Brazilians in adversity."<ref>{{Cite news |date=23 July 1950 |title="Obdulio Varela para Presidente da República" |url=https://hemeroteca2.cultura.sc.gov.br/docreader/DocReader.aspx?bib=886440&pagfis=7290 |access-date=14 January 2024 |work=Correio do Povo |location=Santa Catarina |pages=4 |language=pt-BR |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114214118/https://hemeroteca2.cultura.sc.gov.br/docreader/DocReader.aspx?bib=886440&pagfis=7290 |url-status=live }}</ref> 
+
+Four members of the 1950 team—the captain [[Augusto da Costa|Augusto]], [[Juvenal (footballer, born November 1923)|Juvenal]], [[Bigode]] and [[Chico (footballer, born 1922)|Chico]]—never played for Brazil again. Two unused squad members of the 1950 team, [[Nílton Santos]] and [[Carlos Castilho]], were also members of the victorious Brazil squads that were to come, when Brazil won back-to-back World Cups in [[1958 FIFA World Cup|1958]] and [[1962 FIFA World Cup|1962]]. Santos played in both finals whereas Castilho only played in the 1954 FIFA World Cup and in 2007 was posthumously awarded the 1958 and 1962 winning medals as a squad member, having been [[Gilmar]]'s reserve in both tournaments. 
+
+{{Football kit box 
+| align      = left
+| pattern_la = _greenborder
+| pattern_b  = _collargreen
+| pattern_ra = _greenborder
+| pattern_sh = _white_stripes
+| pattern_so = _brasil1954
+| leftarm    = FDE910
+| body       = FDE910
+| rightarm   = FDE910
+| shorts     = 0070F9
+| socks      = FFFFFF
+| title      = Shortly before the [[1954 FIFA World Cup]], Brazil changed their kit to a yellow shirt with green trim, blue shorts and white socks, the colours of the [[flag of Brazil|national flag]].
+}}
+Brazil's white shirts with blue collars that were worn in the final game were, in the wake of the defeat, subject to criticism by the country's sports federation for being "unpatriotic", with pressure mounting to change the colours.<ref>{{cite web |url=https://www.independent.co.uk/sport/football/international/world-cup-2014-meet-the-uruguay-fan-who-designed-brazils-iconic-yellow-kit-9569511.html |title=World Cup 2014: Meet the Uruguay fan who designed Brazil's iconic yellow kit |last=Bellos |first=Alex |date=27 June 2014 |website=The Independent |access-date=8 July 2018 |archive-date=8 July 2018 |archive-url=https://web.archive.org/web/20180708220624/https://www.independent.co.uk/sport/football/international/world-cup-2014-meet-the-uruguay-fan-who-designed-brazils-iconic-yellow-kit-9569511.html |url-status=live }}</ref> In 1953 and with the support of the [[Brazilian Sports Confederation]],<ref name="NewYorker">{{cite magazine |last=Michaud |first=Jon |url=https://www.newyorker.com/books/page-turner/the-writer-who-designed-brazils-soccer-uniform |title=The Writer Who Designed Brazil's Soccer Uniform |date=2 June 2014 |magazine=The New Yorker |access-date=27 November 2022 |archive-date=28 November 2022 |archive-url=https://web.archive.org/web/20221128000931/https://www.newyorker.com/books/page-turner/the-writer-who-designed-brazils-soccer-uniform |url-status=live }}</ref> a competition was held by the newspaper ''[[Correio da Manhã (Brazil)|Correio da Manhã]]'' to design a new outfit,<ref name="AldyrGarciaSchlee">{{cite news |last=Garcia Schlee |first=Aldyr |authorlink=Aldyr Schlee |url=https://www.theguardian.com/sport/2009/mar/14/brazil-wear-yellow-first-time |title=14 March 1954: Brazil play in yellow for the first time |date=14 March 2009 |access-date=27 November 2022 |work=The Guardian}}</ref> with the rule being that it must incorporate the colours of the [[Flag of Brazil|national flag]]. Eventually, the competition was won by newspaper illustrator [[Aldyr Garcia Schlee]],<ref name="GoldenYears">{{cite web |last=Bellos |first=Alex |url=https://www.theguardian.com/observer/osm/story/0,,1123140,00.html |title=The golden years |date=18 January 2004 |work=The Guardian |access-date=27 November 2022}}</ref> who came up with the design of a yellow shirt with a green trim, blue shorts with white trim, and white socks.<ref name="AldyrGarciaSchlee"/> Schlee had initially been deterred from using all four colours, believing that yellow and white was too similar to the [[Holy See]].<ref name="NewYorker"/>
+
+The new kit was first used in March 1954 against [[Chile national football team|Chile]], and has been used ever since.<ref>{{cite news |last=Smith |first=Ben |url=https://www.bbc.co.uk/news/magazine-27809268 |title=The story of Brazil's 'sacred' yellow and green jersey |date=28 June 2014 |access-date=28 June 2014 |work=BBC News |archive-date=28 June 2014 |archive-url=https://web.archive.org/web/20140628030042/http://www.bbc.co.uk/news/magazine-27809268 |url-status=live }}</ref> The runner-up design was a green shirt, white shorts, and yellow socks.<ref name="GoldenYears"/> When Brazil first won the World Cup in 1958, they wore an improvised blue kit as the new colours clashed with those of hosts Sweden.<ref name="NewYorker"/>
+
+==="Phantom of '50"===
+The term "Phantom of '50" was later used to refer to the fear that Brazilians and [[Brazil national football team]] feel of the [[Uruguay national football team]] due to this loss. Each time Brazil and Uruguay play at Maracanã Stadium, the theme resurfaces.<ref>{{Cite web|url=https://oglobo.globo.com/esportes/copa-2014/apos-classificacao-do-uruguai-fantasma-de-50-ja-esta-no-brasil-10838153|title=Após classificação do Uruguai, 'fantasma de 50' já está no Brasil|date=21 November 2013|website=O Globo|access-date=4 December 2022|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204182904/https://oglobo.globo.com/esportes/copa-2014/apos-classificacao-do-uruguai-fantasma-de-50-ja-esta-no-brasil-10838153|url-status=live}}</ref><ref>{{Cite web|url=https://www.dn.pt/desporto/futebol-internacional/o-fantasma-de-50-ja-esta-no-brasil-3544473.html|title=O fantasma de 50 já está no Brasil|website=www.dn.pt|access-date=4 December 2022|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204182904/https://www.dn.pt/desporto/futebol-internacional/o-fantasma-de-50-ja-esta-no-brasil-3544473.html|url-status=dead}}</ref><ref>{{Cite web|url=https://www.terra.com.br/esportes/futebol/copa-2014/capitao-lugano-critica-fantasma-de-50-e-cita-ligacoes-do-brasil,e6293367ccf72410VgnVCM10000098cceb0aRCRD.html|title=Capitão, Lugano critica "Fantasma de 50" e cita ligações do Brasil|website=Terra|access-date=4 December 2022|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204182905/https://www.terra.com.br/esportes/futebol/copa-2014/capitao-lugano-critica-fantasma-de-50-e-cita-ligacoes-do-brasil,e6293367ccf72410VgnVCM10000098cceb0aRCRD.html|url-status=live}}</ref>
+
+In 1993, after losing points in important matches (two draws with [[Ecuador national football team|Ecuador]] and Uruguay themselves, and a loss to [[Bolivia national football team|Bolivia]] in first round of the qualifiers), Brazil was struggling to [[1994 FIFA World Cup qualification (CONMEBOL)|qualify]] for the [[1994 FIFA World Cup]]. The final match of the qualifying South American group between Brazil and Uruguay was tense, surrounded by fear, as Brazil needed to win the game to qualify. Brazil beat and eliminated Uruguay by 2–0, with two goals by [[Romário]] at the end of the second half, who had been ignored in the tournament and was urgently called in to save Brazil, who would go on to win the tournament.<ref>{{Cite web|url=http://infograficos.estadao.com.br/jogo_da_minha_vida/romario|title=Romário: O jogo da minha vida. Brasil 2 x 0 Uruguai. Eliminatória da Copa – 1993 – Especiais – Estadao.com.br|archive-url=https://web.archive.org/web/20131203121001/http://infograficos.estadao.com.br/jogo_da_minha_vida/romario|archive-date=3 December 2013|url-status=dead}}</ref>
+
+The theme reappeared in the Brazilian press as Uruguay qualified for the [[2014 FIFA World Cup]] hosted by Brazil.<ref>[http://www.gazetaesportiva.net/noticia/2013/11/copa-2014-brasil/felipao-ri-de-fantasma-de-50-e-usa-grupo-jovem-contra-assombracao.html Felipão ri de “fantasma de 50” e usa grupo jovem contra assombração | Gazeta Esportiva.Net] {{webarchive |url=https://web.archive.org/web/20131202042441/http://www.gazetaesportiva.net/noticia/2013/11/copa-2014-brasil/felipao-ri-de-fantasma-de-50-e-usa-grupo-jovem-contra-assombracao.html |date=2 December 2013 }}</ref> Uruguay often emphasized the theme, giving the team motivation and encouragement in matches against Brazil.<ref>{{Cite web|url=https://www.terra.com.br/esportes/futebol/copa-2014/fantasma-do-maracanazo-provoca-brasileiros-e-posta-foto-de-bumbuns,1d8546b2f4b72410VgnVCM5000009ccceb0aRCRD.html|title="Fantasma do Maracanazo" provoca brasileiros e posta foto de bumbuns|website=Terra|access-date=4 December 2022|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204182902/https://www.terra.com.br/esportes/futebol/copa-2014/fantasma-do-maracanazo-provoca-brasileiros-e-posta-foto-de-bumbuns,1d8546b2f4b72410VgnVCM5000009ccceb0aRCRD.html|url-status=live}}</ref> Ironically, however, Uruguay lost 2–0 and were eliminated by [[Colombia national football team|Colombia]] at the very same Maracanã Stadium in the [[2014 FIFA World Cup knockout stage#Colombia vs Uruguay|round of 16 of the tournament]].<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/29/colombia-uruguay-james-rodriguez|title=Colombia's James Rodríguez seeks top honours and sends warning to Brazil|date=29 June 2014 |work=Guardian|access-date=30 October 2014}}</ref> Brazil's path again had a hard defeat, this time a 1–7 humiliation in the semi-final with [[Germany national football team|Germany]] in [[Belo Horizonte]], the game was subsequently known as "[[Mineirazo]]", given it took place at the [[Mineirão]] stadium and echoed the same sense of defeat as in 1950.<ref name="FIFANumbers">{{cite web |title=The Mineirazo in numbers |url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=the-mineirazo-in-numbers-2402146.html |archive-url=https://web.archive.org/web/20140709023442/http://www.fifa.com//worldcup/news/y=2014/m=7/news=the-mineirazo-in-numbers-2402146.html |url-status=dead |archive-date=9 July 2014 |date=8 July 2014 |access-date=8 July 2014 |work=[[FIFA]]}}</ref><ref>{{cite web |language=es |url=http://www.pagina12.com.ar/diario/ultimas/20-250319-2014-07-08.html |title=Del Maracanazo al Mineirazo |trans-title=From Maracanazo to Mineirazo |newspaper=Página 12 |archive-url=https://web.archive.org/web/20140713202930/http://www.pagina12.com.ar/diario/ultimas/20-250319-2014-07-08.html |archive-date=13 July 2014 |url-status=live }}</ref> Tereza Borba, adoptive daughter of goalkeeper [[Moacir Barbosa]], who was scapegoated for the defeat for years, said the 2014 loss was enough to redeem her father's legacy, and most of the Brazilian media took the opportunity to contrast the 2014 semi-final as an embarrassment compared to the close defeat in the Maracanazo.<ref name=globe>{{cite web |url=https://www.theglobeandmail.com/sports/soccer/world-cup/brazil-losers-on-the-field-now-turn-to-the-blame-game/article19524752/ |title=Brazil, losers on the field, now turn to the blame game |last=Nolen |first=Stephanie |work=The Globe and Mail |date=9 July 2014 |access-date=1 September 2014 |archive-date=15 July 2015 |archive-url=https://web.archive.org/web/20150715055820/http://www.theglobeandmail.com/sports/soccer/world-cup/brazil-losers-on-the-field-now-turn-to-the-blame-game/article19524752/ |url-status=live }}</ref><ref>{{cite web |url=http://esportes.r7.com/futebol/copa-do-mundo-2014/jogadores-de-50-enfim-sao-perdoados-apos-mineirazo-09072014 |title=Jogadores de 50 enfim são perdoados após Mineirazo |publisher=R7 ([[Rede Record]]) |date=9 July 2014 |access-date= 5 September 2014 |language=pt |last=Avelar |first=André |work=R7.com |archive-url=https://web.archive.org/web/20140710144647/http://esportes.r7.com/futebol/copa-do-mundo-2014/jogadores-de-50-enfim-sao-perdoados-apos-mineirazo-09072014 |archive-date=10 July 2014 |url-status=live }}</ref> Ghiggia himself, the only player from either 1950 squad who lived to see the 2014 loss, stated that while both games were traumatic, they could not be compared as the 1950 game had more at stake.<ref>{{cite web|url=http://www.efe.com/efe/noticias/brasil/esportes/maracanazo-diferente-porque-foi-uma-final-afirma-ghiggia/3/18/2365675 |title="O Maracanazo é diferente porque foi uma final", afirma Ghiggia |publisher=Agência EFE |date=9 July 2014 |access-date=1 September 2014 |language=pt |archive-url=https://web.archive.org/web/20140903085428/http://www.efe.com/efe/noticias/brasil/esportes/maracanazo-diferente-porque-foi-uma-final-afirma-ghiggia/3/18/2365675 |archive-date=3 September 2014 |url-status=dead }}</ref>
+
+Ghiggia was the last surviving player from the game; he died on 16 July 2015, exactly 65 years after scoring the decisive goal, at the age of 88.<ref>{{cite web |title=Carrasco em 1950, Ghiggia morre no aniversário do Maracanazo |url=http://esportes.terra.com.br/futebol/ghiggia-morre-aos-88-anos-no-aniversario-do-maracanazo,369a73e90f7d334252b262f468cfd0013x0hRCRD.html |publisher=Terra |date=16 July 2015 |access-date=17 July 2015 |language=pt |archive-url=https://web.archive.org/web/20150717225841/http://esportes.terra.com.br/futebol/ghiggia-morre-aos-88-anos-no-aniversario-do-maracanazo,369a73e90f7d334252b262f468cfd0013x0hRCRD.html |archive-date=17 July 2015 |url-status=live }}</ref> Schlee died on 17 November 2018, aged 83.<ref>{{cite web |url=https://www.bbc.co.uk/news/world-latin-america-46243922 |title=Aldyr Schlee, designer of Brazil's famous yellow jersey, dies |date=17 November 2018 |work=BBC News |access-date=27 November 2022 |archive-date=28 November 2022 |archive-url=https://web.archive.org/web/20221128000931/https://www.bbc.co.uk/news/world-latin-america-46243922 |url-status=live }}</ref><ref>{{cite web |last=Garcia |first=Sandra |url=https://www.nytimes.com/2018/11/18/obituaries/aldyr-garcia-schlee-dead.html |title=Aldyr Schlee, 83, Dies; Created Brazil Soccer Team's Iconic Jersey |date=18 November 2018 |work=The New York Times |access-date=27 November 2022 |archive-date=28 November 2022 |archive-url=https://web.archive.org/web/20221128000952/https://www.nytimes.com/2018/11/18/obituaries/aldyr-garcia-schlee-dead.html |url-status=live }}</ref>
+
+==See also==
+* [[Brazil–Uruguay football rivalry]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{commons category}}
+* [http://www.historiadelmundial.com/2010/01/maracanazo.html El Maracanazo y la leyenda- Como explicar lo inexplicable] {{Webarchive|url=https://web.archive.org/web/20171127082430/http://www.historiadelmundial.com/2010/01/maracanazo.html |date=27 November 2017 }}
+
+{{1950 FIFA World Cup}}
+{{FIFA World Cup}}
+{{Brazil national football team matches}}
+{{Uruguay national football team matches}}
+
+[[Category:1950 FIFA World Cup|1]]
+[[Category:1950 in Rio de Janeiro (city)]]
+[[Category:Brazil national football team matches|1950]]
+[[Category:Uruguay national football team matches|1950]]
+[[Category:Uruguay at the 1950 FIFA World Cup|*]]
+[[Category:Brazil–Uruguay football rivalry|1950]]
+[[Category:Brazil at the 1950 FIFA World Cup|World]]
+[[Category:FIFA World Cup matches]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:July 1950 sports events in South America]]
+[[Category:Nicknamed sporting events]]
+[[Category:Men's international association football matches in South America]]
+[[Category:Men's football matches in Brazil]]
+[[Category:Guinness World Records holders]]
+[[Category:Association football matches at the Maracanã stadium]]

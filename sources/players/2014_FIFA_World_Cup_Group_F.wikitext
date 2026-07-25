@@ -1,0 +1,994 @@
+{{Short description|Football tournament group stage}}
+{{Use British English|date=July 2014}}
+{{Use dmy dates|date=July 2014}}
+Group F of the [[2014 FIFA World Cup]] consisted of [[Argentina national football team|Argentina]], [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]], [[Iran national football team|Iran]] and [[Nigeria national football team|Nigeria]]. Play began on 15 June and ended on 25 June 2014. The top two teams, Argentina and Nigeria, advanced to the round of 16.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2|Draw position
+!rowspan=2|Team
+!rowspan=2|Confederation
+!rowspan=2|Method of<br />qualification
+!rowspan=2|Date of<br />qualification
+!rowspan=2|Finals<br />appearance
+!rowspan=2|Last<br />appearance
+!rowspan=2|Previous best<br />performance
+!colspan=2|[[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2013{{refn|group=nb|The rankings of October 2013 were used for [[2014 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2014
+|-
+| F1 ''(seed)'' || style=white-space:nowrap | {{fb|ARG}} || [[CONMEBOL]] || [[2014 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]] <span style="display:none">1st</span> winners || 10 September 2013 || data-sort-value="16" | 16th || [[2010 FIFA World Cup|2010]] || data-sort-value="7.2" | '''Winners''' ([[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]]) || 3 || 5
+|-
+| F2 || style=white-space:nowrap | {{fb|BIH}} || [[UEFA]] || [[2014 FIFA World Cup qualification – UEFA Group G|UEFA Group G]] winners || 15 October 2013 || data-sort-value="1" | 1st || data-sort-value="2014" | — || data-sort-value="0.0" | — || 16 || 21
+|-
+| F3 || style=white-space:nowrap | {{fb|IRN}} || [[Asian Football Confederation|AFC]] || [[2014 FIFA World Cup qualification – AFC fourth round#Group A|AFC fourth round Group A]] <span style="display:none">1st</span> winners || 18 June 2013 || data-sort-value="4" | 4th || [[2006 FIFA World Cup|2006]] || data-sort-value="1.3" | Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]]) || 49 || 43
+|-
+| F4 || style=white-space:nowrap | {{fb|NGA}} || [[Confederation of African Football|CAF]] || [[2014 FIFA World Cup qualification – CAF third round|CAF third round]] winners || 16 November 2013 || data-sort-value="5" | 5th || [[2010 FIFA World Cup|2010]] || data-sort-value="2.2" | Round of 16 ([[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]]) || 33 || 44
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/brazil2014/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=ARG
+|team2=NGA
+|team3=BIH
+|team4=IRN
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2014 FIFA World Cup#Format|Tie-breaking criteria]]
+
+|win_ARG=3 |draw_ARG=0 |loss_ARG=0 |gf_ARG=6 |ga_ARG=3
+|win_NGA=1 |draw_NGA=1 |loss_NGA=1 |gf_NGA=3 |ga_NGA=3
+|win_BIH=1 |draw_BIH=0 |loss_BIH=2 |gf_BIH=4 |ga_BIH=4
+|win_IRN=0 |draw_IRN=1 |loss_IRN=2 |gf_IRN=1 |ga_IRN=4
+
+|name_ARG={{fb|ARG}}
+|name_NGA={{fb|NGA}}
+|name_BIH={{fb|BIH}}
+|name_IRN={{fb|IRN}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2014 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Argentina advanced to play [[Switzerland national football team|Switzerland]] (runner-up of [[2014 FIFA World Cup Group E|Group E]]) in the [[2014 FIFA World Cup knockout stage#Argentina vs Switzerland|round of 16]].
+*Nigeria advanced to play [[France national football team|France]] (winner of [[2014 FIFA World Cup Group E|Group E]]) in the [[2014 FIFA World Cup knockout stage#France vs Nigeria|round of 16]].
+
+==Matches==
+===Argentina vs Bosnia and Herzegovina===
+The two teams had met in two previous matches, both in friendlies, most recently in 2013, both won by Argentina.<ref>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=18 |website=FIFA.com |publisher=Fédération Internationale de Football Association |page=18 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+Bosnia and Herzegovina conceded three minutes into their World Cup debut, when [[Lionel Messi]]'s free kick from the left was flicked on by [[Marcos Rojo]] and bounced off [[Sead Kolašinac]] into the net for an own goal. In the second half, Messi played a one-two with substitute [[Gonzalo Higuaín]] and shot home from the edge of the penalty area with his left foot into the bottom-right corner.<ref>{{cite news |first=Jonathan |last=Wilson |title=Lionel Messi's sparkle returns to secure Argentina victory over Bosnia |url=https://www.theguardian.com/football/2014/jun/16/argentina-bosnia-herzegovina-world-cup-group-f-match-report |work=The Guardian |publisher=Guardian News and Media |date=16 June 2014 |accessdate=30 October 2014 }}</ref> With five minutes remaining in normal time, Bosnia and Herzegovina pulled one back, when [[Senad Lulić]]'s pass found substitute [[Vedad Ibišević]] to score the country's first ever World Cup goal, shooting under the goalkeeper with his left foot.<ref>{{cite web |first=Mandeep |last=Sanghera |title=World Cup: Argentina 2-1 Bosnia-Hercegovina |url=https://www.bbc.com/sport/0/football/25285099 |publisher=BBC Sport |date=15 June 2014 }}</ref>
+
+Kolašinac's own goal after two minutes and nine seconds broke the record for the fastest [[own goal]] in the history of the FIFA World Cup, surpassing [[Carlos Gamarra]]'s own goal (two minutes and 46 seconds) in [[Paraguay national football team|Paraguay's]] [[2006 FIFA World Cup Group B#England vs Paraguay|first group stage match]] against [[England national football team|England]] at the [[2006 FIFA World Cup]].<ref>{{cite news |first=Mike |last=Janela |title=World Cup records fall in Brazil as tournament reaches the quarterfinals |url=http://www.guinnessworldrecords.com/news/2014/7/notable-records-broken-at-the-world-cup-after-the-round-of-16-58497 |publisher=Guinness World Records |date=2 July 2014 |accessdate=28 December 2014 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=f1
+|date={{Start date|2014|6|15|df=y}}
+|time=19:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|ARG}}
+|score={{score link|2014 FIFA World Cup Group F#Argentina vs Bosnia and Herzegovina|2–1}}
+|team2={{fb|BIH}}
+|goals1=
+*[[Sead Kolašinac|Kolašinac]] {{goal|3|o.g.}}
+*[[Lionel Messi|Messi]] {{goal|65}}
+|goals2=
+*[[Vedad Ibišević|Ibišević]] {{goal|85}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=74,738
+|referee=[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186477 |title=Argentina vs Bosnia and Herzegovina {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186477/report.html |title=2014 FIFA World Cup Brazil – Matches – Argentina v Bosnia and Herzegovina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170808200249/http://www.fifa.com/worldcup/matches/round=255931/match=300186477/report.html |archive-date=8 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4dc7b09fbb079714/original/gaejwboh4u39hrkm5isi-pdf.pdf |title=Match report – Group F – Argentina v Bosnia and Herzegovina |publisher=[[FIFA]] |date=15 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061140/https://digitalhub.fifa.com/m/4dc7b09fbb079714/original/gaejwboh4u39hrkm5isi-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg2014h
+ |pattern_b  = _arg2014h
+ |pattern_ra = _arg2014h
+ |pattern_sh = _arg13h
+ |pattern_so = _arg2014h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina<ref name="ARG-BIH line-ups">{{cite web |url=https://digitalhub.fifa.com/m/58ab9dff3c0c1768/original/lpwouucl4xwjrn9tcxyh-pdf.pdf |title=Tactical Line-up – Group F – Argentina v Bosnia and Herzegovina |publisher=[[FIFA]] |date=15 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181519/https://digitalhub.fifa.com/m/58ab9dff3c0c1768/original/lpwouucl4xwjrn9tcxyh-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _bah1415a
+ |pattern_b  = _bah1415away
+ |pattern_ra = _bah1415a
+ |pattern_sh = _bah1415a
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000BB
+ |body       = 0000BB
+ |rightarm   = 0000BB
+ |shorts     = 0000BB
+ |socks      = 0000D9
+ |title      = Bosnia and Herzegovina<ref name="ARG-BIH line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Sergio Romero]]
+|-
+|CB ||'''3''' ||[[Hugo Campagnaro]] || || {{suboff|46}}
+|-
+|CB ||'''17'''||[[Federico Fernández (footballer)|Federico Fernández]]
+|-
+|CB ||'''2''' ||[[Ezequiel Garay]]
+|-
+|RWB||'''4''' ||[[Pablo Zabaleta]]
+|-
+|LWB||'''16'''||[[Marcos Rojo]] || {{yel|25}}
+|-
+|RM ||'''11'''||[[Maxi Rodríguez]] || || {{suboff|46}}
+|-
+|CM ||'''14'''||[[Javier Mascherano]]
+|-
+|LM ||'''7''' ||[[Ángel Di María]]
+|-
+|CF ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''20'''||[[Sergio Agüero]] || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Gonzalo Higuaín]] || || {{subon|46}}
+|-
+|MF ||'''5''' ||[[Fernando Gago]] || || {{subon|46}}
+|-
+|MF ||'''6''' ||[[Lucas Biglia]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alejandro Sabella]]
+|}
+|valign="top"|[[File:ARG-BIH 2014-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Asmir Begović]]
+|-
+|RB ||'''13'''||[[Mensur Mujdža]] || || {{suboff|69}}
+|-
+|CB ||'''3''' ||[[Ermin Bičakčić]]
+|-
+|CB ||'''4''' ||[[Emir Spahić]] ([[Captain (association football)|c]]) || {{yel|63}}
+|-
+|LB ||'''5''' ||[[Sead Kolašinac]]
+|-
+|CM ||'''7''' ||[[Muhamed Bešić]]
+|-
+|CM ||'''20'''||[[Izet Hajrović]] || || {{suboff|71}}
+|-
+|RW ||'''8''' ||[[Miralem Pjanić]]
+|-
+|AM ||'''10'''||[[Zvjezdan Misimović]] || || {{suboff|74}}
+|-
+|LW ||'''16'''||[[Senad Lulić]]
+|-
+|CF ||'''11'''||[[Edin Džeko]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Vedad Ibišević]] || || {{subon|69}}
+|-
+|MF ||'''19'''||[[Edin Višća]] || || {{subon|71}}
+|-
+|MF ||'''18'''||[[Haris Medunjanin]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Safet Sušić]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Lionel Messi]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />William Torres ([[Salvadoran Football Federation|El Salvador]])
+<br />Juan Zumba ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Djamel Haimoudi]] ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Abdelhalk Etchiali ([[Algerian Football Federation|Algeria]])
+|}
+
+===Iran vs Nigeria===
+The two teams had met in one previous match, in the 1998 [[Lunar New Year Cup]], won 1–0 by Nigeria.<ref>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=19 |website=FIFA.com |publisher=Fédération Internationale de Football Association |page=19 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+In a goalless game of few chances, Iran's [[Reza Ghoochannejhad]] forced a save from [[Vincent Enyeama]] in the first half, while Nigeria substitute [[Shola Ameobi]] headed wide in the second half.<ref>{{cite news |first=Saj |last=Chowdhury|title=Iran 0-0 Nigeria |url=https://www.bbc.com/sport/0/football/25285113 |publisher=BBC Sport (British Broadcasting Corporation) |date=16 June 2014 |accessdate=28 December 2014 }}</ref><ref>{{cite news |first=Sid |last=Lowe |title=Nigeria and Iran lower World Cup pulse with forgettable goalless draw |url=https://www.theguardian.com/football/2014/jun/16/iran-nigeria-world-cup-2014-group-f-match-report |work=The Guardian |publisher=Guardian News and Media |date=16 June 2014 |accessdate=30 October 2014 }}</ref>
+
+This was the first goalless match as well as the first draw of the tournament after the previous 12 matches all produced a winner, and was the longest wait for a draw in a single tournament since [[1930 FIFA World Cup|1930]], where there were no draws in the entire tournament.<ref>{{cite news |first=Fraser |last=Masefield |title=World Cup - Bore draw does nothing for Iran or Nigeria |url=https://uk.eurosport.yahoo.com/news/world-cup-iran-nigeria-matchpack-surprise-packages-142308534--sow.html |publisher=Yahoo! Sport |date=16 June 2014 |accessdate=28 December 2014 }}</ref> This was also the first clean sheet kept by Iran in the World Cup.<ref>{{cite web |title=Haghighi: Iran excel in tough situations |url=https://www.fifa.com/worldcup/news/haghighi-iran-excel-in-tough-situations-2379167 |website=FIFA |accessdate=27 October 2020 |date=21 June 2014}}</ref><ref>{{cite news |last1=Delaney |first1=Miguel |title=Iran 0 Nigeria 0 match report: Unlucky 13 for World Cup as Carlos Queiroz masterminds first stalemate of tournament |url=https://www.independent.co.uk/sport/football/international/iran-0-nigeria-0-match-report-unlucky-13-world-cup-carlos-queiroz-masterminds-first-stalemate-tournament-9541991.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/international/iran-0-nigeria-0-match-report-unlucky-13-world-cup-carlos-queiroz-masterminds-first-stalemate-tournament-9541991.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |accessdate=27 October 2020 |work=The Independent |date=17 June 2014}}{{cbignore}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=f2
+|date={{Start date|2014|6|16|df=y}}
+|time=16:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|IRN}}
+|score={{score link|2014 FIFA World Cup Group F#Iran vs Nigeria|0–0}}
+|team2={{fb|NGA}}
+|goals1=
+|goals2=
+|stadium=[[Arena da Baixada]], [[Curitiba]]
+|attendance=39,081
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186505 |title=Iran vs Nigeria {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186505/report.html |title=2014 FIFA World Cup Brazil – Matches – Iran v Nigeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210001304/http://www.fifa.com/worldcup/matches/round=255931/match=300186505/report.html |archive-date=10 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/21093ce50ea8fe21/original/bo7lr8lznvp5ptuirzai-pdf.pdf |title=Match report – Group F – Iran v Nigeria |publisher=[[FIFA]] |date=16 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061240/https://digitalhub.fifa.com/m/21093ce50ea8fe21/original/bo7lr8lznvp5ptuirzai-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _iran14h
+ |pattern_b  = _iran14h
+ |pattern_ra = _iran14h
+ |pattern_sh = _iran14h
+ |pattern_so = _long_iran1415h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iran<ref name="IRN-NGA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2bf4efe0981ddd1f/original/dill7nmlbczegygdgpbf-pdf.pdf |title=Tactical Line-up – Group F – Iran v Nigeria |publisher=[[FIFA]] |date=16 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181534/https://digitalhub.fifa.com/m/2bf4efe0981ddd1f/original/dill7nmlbczegygdgpbf-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _nigeria1415h
+ |pattern_b  = _nigeria1415h
+ |pattern_ra = _nigeria1415h
+ |pattern_sh = _nigeria1415h
+ |pattern_so = _nigeria1415h
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 58C655
+ |title      = Nigeria<ref name="IRN-NGA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Alireza Haghighi]]
+|-
+|RB ||'''4''' ||[[Jalal Hosseini]]
+|-
+|CB ||'''5''' ||[[Amir Hossein Sadeghi]]
+|-
+|CB ||'''15'''||[[Pejman Montazeri]]
+|-
+|LB ||'''23'''||[[Mehrdad Pooladi]]
+|-
+|CM ||'''2''' ||[[Khosro Heydari]] || || {{suboff|89}}
+|-
+|CM ||'''14'''||[[Andranik Teymourian]] || {{yel|75}}
+|-
+|AM ||'''6''' ||[[Javad Nekounam]] ([[Captain (association football)|c]])
+|-
+|RF ||'''21'''||[[Ashkan Dejagah]] || || {{suboff|73}}
+|-
+|CF ||'''16'''||[[Reza Ghoochannejhad]]
+|-
+|LF ||'''3''' ||[[Ehsan Hajsafi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Alireza Jahanbakhsh]] || || {{subon|73}}
+|-
+|MF ||'''7''' ||[[Masoud Shojaei]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Carlos Queiroz]]
+|}
+|valign="top"|[[File:IRN-NGA 2014-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Vincent Enyeama]] ([[Captain (association football)|c]])
+|-
+|RB ||'''5''' ||[[Efe Ambrose]]
+|-
+|CB ||'''13'''||[[Juwon Oshaniwa]]
+|-
+|CB ||'''14'''||[[Godfrey Oboabona]] || || {{suboff|29}}
+|-
+|LB ||'''22'''||[[Kenneth Omeruo]]
+|-
+|CM ||'''17'''||[[Ogenyi Onazi]]
+|-
+|CM ||'''15'''||[[Ramon Azeez]] || || {{suboff|69}}
+|-
+|CM ||'''10'''||[[John Obi Mikel]]
+|-
+|RW ||'''11'''||[[Victor Moses]] || || {{suboff|52}}
+|-
+|LW ||'''7''' ||[[Ahmed Musa]]
+|-
+|CF ||'''9''' ||[[Emmanuel Emenike]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Joseph Yobo]] || || {{subon|29}}
+|-
+|FW ||'''23'''||[[Shola Ameobi]] || || {{subon|52}}
+|-
+|FW ||'''8''' ||[[Peter Odemwingie]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stephen Keshi]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[John Obi Mikel]] (Nigeria)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Christian Lescano ([[Ecuadorian Football Federation|Ecuador]])
+<br />Byron Romero ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Humberto Clavijo ([[Colombian Football Federation|Colombia]])
+|}
+
+===Argentina vs Iran===
+{{further|List of 2014 FIFA World Cup controversies#Argentina vs Iran}}
+The two teams had met in one previous match, in a friendly in 1977, won on penalties by Argentina after a 1–1 draw .<ref>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=34 |website=FIFA.com |publisher=Fédération Internationale de Football Association |page=34 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+In a match where Argentina dominated in terms of possession and shots,<ref>{{cite web |first=David |last=Ornstein |title=World Cup: Argentina 1-0 Iran |url=https://www.bbc.com/sport/0/football/25285221 |publisher=BBC Sport (British Broadcasting Corporation) |date=21 June 2014 |accessdate=28 December 2014 }}</ref> they scored the only goal one minute into second half injury time when [[Lionel Messi]] received a pass from [[Ezequiel Lavezzi]] on the right wing, dribbled inside and curled a left-footed shot past the outstretched hands of the Iranian keeper [[Alireza Haghighi]].<ref>{{cite web |url=https://www.theguardian.com/football/2014/jun/21/argentina-iran-world-cup-2014-group-f-match-report|title=Argentina 1 Iran 0|publisher=theguardian.com}}</ref> Before the goal, Iran had chances to score, but Argentina goalkeeper [[Sergio Romero]] was able to save [[Ashkan Dejagah]]'s header and [[Reza Ghoochannejhad]]'s shot, and Dejagah also had a penalty appeal turned down when Argentina defender [[Pablo Zabaleta]] tackled him in the area but only just got his toe to the ball.<ref>{{cite web |url=http://metro.co.uk/2014/06/21/should-iran-have-had-a-penalty-for-pablo-zabaletas-foul-on-ashkan-dejagah-in-the-box-4770930/ |title=Should Iran have had a penalty for Pablo Zabaleta's foul on Ashkan Dejagah in the box?|publisher=metro.co.uk }}</ref> With the win, Argentina were guaranteed to advance to the knockout stage.
+
+<onlyinclude>{{#invoke:Football box|main|section=f3
+|date={{Start date|2014|6|21|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|ARG}}
+|score={{score link|2014 FIFA World Cup Group F#Argentina vs Iran|1–0}}
+|team2={{fb|IRN}}
+|goals1=
+*[[Lionel Messi|Messi]] {{goal|90+1}}
+|goals2=
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=57,698
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186466 |title=Argentina vs Iran {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186466/report.html |title=2014 FIFA World Cup Brazil – Matches – Argentina v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170808195845/http://www.fifa.com/worldcup/matches/round=255931/match=300186466/report.html |archive-date=8 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/3e544ff7599d5d53/original/crfrcox2bcrjiuhwlpua-pdf.pdf |title=Match report – Group F – Argentina v Iran |publisher=[[FIFA]] |date=21 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061618/https://digitalhub.fifa.com/m/3e544ff7599d5d53/original/crfrcox2bcrjiuhwlpua-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg2014h
+ |pattern_b  = _arg2014h
+ |pattern_ra = _arg2014h
+ |pattern_sh = _arg13h
+ |pattern_so = _arg2014h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina<ref name="ARG-IRN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/556cfce6b7d9e376/original/tfnzwztfjizowv2r0qae-pdf.pdf |title=Tactical Line-up – Group F – Argentina v Iran |publisher=[[FIFA]] |date=21 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173827/https://digitalhub.fifa.com/m/556cfce6b7d9e376/original/tfnzwztfjizowv2r0qae-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _iran14a
+ |pattern_b  = _iran14a
+ |pattern_ra = _iran14a
+ |pattern_sh = _iran14a
+ |pattern_so = _long_iran1415a
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Iran<ref name="ARG-IRN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Sergio Romero]]
+|-
+|RB ||'''4''' ||[[Pablo Zabaleta]]
+|-
+|CB ||'''17'''||[[Federico Fernández (footballer)|Federico Fernández]]
+|-
+|CB ||'''2''' ||[[Ezequiel Garay]]
+|-
+|LB ||'''16'''||[[Marcos Rojo]]
+|-
+|CM ||'''5''' ||[[Fernando Gago]]
+|-
+|CM ||'''14'''||[[Javier Mascherano]]
+|-
+|CM ||'''7''' ||[[Ángel Di María]] || || {{suboff|90+4}}
+|-
+|RF ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]] || || {{suboff|76}}
+|-
+|LF ||'''20'''||[[Sergio Agüero]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Rodrigo Palacio]] || || {{subon|76}}
+|-
+|FW ||'''22'''||[[Ezequiel Lavezzi]] || || {{subon|76}}
+|-
+|MF ||'''6''' ||[[Lucas Biglia]] || || {{subon|90+4}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alejandro Sabella]]
+|}
+|valign="top"|[[File:ARG-IRN 2014-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Alireza Haghighi]]
+|-
+|RB ||'''4''' ||[[Jalal Hosseini]]
+|-
+|CB ||'''5''' ||[[Amir Hossein Sadeghi]]
+|-
+|CB ||'''15'''||[[Pejman Montazeri]]
+|-
+|LB ||'''23'''||[[Mehrdad Pooladi]]
+|-
+|CM ||'''14'''||[[Andranik Teymourian]]
+|-
+|CM ||'''6''' ||[[Javad Nekounam]] ([[Captain (association football)|c]]) || {{yel|53}}
+|-
+|RW ||'''21'''||[[Ashkan Dejagah]] || || {{suboff|85}}
+|-
+|AM ||'''7''' ||[[Masoud Shojaei]] || {{yel|73}} || {{suboff|76}}
+|-
+|LW ||'''3''' ||[[Ehsan Hajsafi]] || || {{suboff|88}}
+|-
+|CF ||'''16'''||[[Reza Ghoochannejhad]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Khosro Heydari]] || || {{subon|76}}
+|-
+|MF ||'''9''' ||[[Alireza Jahanbakhsh]] || || {{subon|85}}
+|-
+|MF ||'''8''' ||[[Reza Haghighi]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Carlos Queiroz]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Lionel Messi]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Aden Range ([[Football Kenya Federation|Kenya]])
+|}
+
+===Nigeria vs Bosnia and Herzegovina===
+{{further|List of 2014 FIFA World Cup controversies#Nigeria vs Bosnia and Herzegovina}}
+
+The two teams had never met before.<ref>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=35 |website=FIFA.com |publisher=Fédération Internationale de Football Association |page=35 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+Bosnia and Herzegovina thought they had taken the lead when [[Edin Džeko]] put the ball into the net, but his effort was ruled out for offside, which replays later showed to be an incorrect decision.<ref>{{cite news |first=Jonathan |last=Wilson |title=Nigeria's Peter Odemwingie sends Bosnia-Herzegovina out of World Cup |url=https://www.theguardian.com/football/2014/jun/22/nigeria-bosnia-herzegovina-world-cup-group-f-match-report |work=The Observer |publisher=Guardian News and Media |date=22 June 2014 |accessdate=30 October 2014 }}</ref> Referee Peter O'Leary later admitted Džeko's goal was disallowed in error.<ref>{{cite news |first=Matthew |last=Theunissen |title=Death threat ref's international return |url=http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=11355527 |work=nzherald.co.nz |date=9 November 2014 |accessdate=9 November 2014 }}</ref> Seven minutes later, Nigeria took the lead when [[Emmanuel Emenike]] burst past [[Emir Spahić]] to cross for [[Peter Odemwingie]] to score, firing in through the legs of Asmir Begovic. Džeko came closest to scoring the equaliser to keep his team's qualification chances alive, but his shot in second-half stoppage time was deflected onto the post by Nigeria goalkeeper [[Vincent Enyeama]]. Nigeria held for the win and eliminated Bosnia and Herzegovina as a result.<ref>{{cite news |first=Tim |last=Oscroft |title=World Cup: Nigeria 1-0 Bosnia |url=https://www.bbc.com/sport/0/football/25285235 |publisher=BBC Sport (British Broadcasting Corporation) |date=21 June 2014 |accessdate=28 December 2014 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=f4
+|date={{Start date|2014|6|21|df=y}}
+|time=18:00 [[Time in Brazil|AMT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|NGA}}
+|score={{score link|2014 FIFA World Cup Group F#Nigeria vs Bosnia and Herzegovina|1–0}}
+|team2={{fb|BIH}}
+|goals1=
+*[[Peter Odemwingie|Odemwingie]] {{goal|29}}
+|goals2=
+|stadium=[[Arena Pantanal]], [[Cuiabá]]
+|attendance=40,499
+|referee=[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186511 |title=Nigeria vs Bosnia and Herzegovina {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186511/report.html |title=2014 FIFA World Cup Brazil – Matches – Nigeria v Bosnia and Herzegovina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228111927/http://www.fifa.com/worldcup/matches/round=255931/match=300186511/report.html |archive-date=28 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/c8820672235d09c/original/cztj4t6qqqa2xuecz6fl-pdf.pdf |title=Match report – Group F – Nigeria v Bosnia and Herzegovina |publisher=[[FIFA]] |date=21 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061643/https://digitalhub.fifa.com/m/c8820672235d09c/original/cztj4t6qqqa2xuecz6fl-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _nigeria1415h
+ |pattern_b  = _nigeria1415h
+ |pattern_ra = _nigeria1415h
+ |pattern_sh = _nigeria1415h
+ |pattern_so = _nigeria1415h
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 58C655
+ |title      = Nigeria<ref name="NGA-BIH line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2a246ade574d9ae8/original/ydh7bpx75vixykay3s4c-pdf.pdf |title=Tactical Line-up – Group F – Nigeria v Bosnia and Herzegovina |publisher=[[FIFA]] |date=21 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522173837/https://digitalhub.fifa.com/m/2a246ade574d9ae8/original/ydh7bpx75vixykay3s4c-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _bah1415h
+ |pattern_b  = _bah1415home
+ |pattern_ra = _bah1415h
+ |pattern_sh = _bah1415h
+ |pattern_so = _bah1415a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Bosnia and Herzegovina<ref name="NGA-BIH line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vincent Enyeama]]
+|-
+|RB ||'''5''' ||[[Efe Ambrose]]
+|-
+|CB ||'''2''' ||[[Joseph Yobo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''13'''||[[Juwon Oshaniwa]]
+|-
+|LB ||'''22'''||[[Kenneth Omeruo]]
+|-
+|CM ||'''17'''||[[Ogenyi Onazi]]
+|-
+|CM ||'''10'''||[[John Obi Mikel]] || {{yel|81}}
+|-
+|RW ||'''7''' ||[[Ahmed Musa]] || || {{suboff|65}}
+|-
+|AM ||'''8''' ||[[Peter Odemwingie]]
+|-
+|LW ||'''18'''||[[Michel Babatunde]] || || {{suboff|75}}
+|-
+|CF ||'''9''' ||[[Emmanuel Emenike]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''23'''||[[Shola Ameobi]] || || {{subon|65}}
+|-
+|MF ||'''3''' ||[[Ejike Uzoenyi]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stephen Keshi]]
+|}
+|valign="top"|[[File:NGA-BIH 2014-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Asmir Begović]]
+|-
+|RB ||'''13'''||[[Mensur Mujdža]]
+|-
+|CB ||'''15'''||[[Toni Šunjić]]
+|-
+|CB ||'''4''' ||[[Emir Spahić]] ([[Captain (association football)|c]])
+|-
+|LB ||'''18'''||[[Haris Medunjanin]] || {{yel|6}} ||{{suboff|64}}
+|-
+|CM ||'''8''' ||[[Miralem Pjanić]]
+|-
+|CM ||'''7''' ||[[Muhamed Bešić]]
+|-
+|RW ||'''20'''||[[Izet Hajrović]] || || {{suboff|57}}
+|-
+|AM ||'''10'''||[[Zvjezdan Misimović]]
+|-
+|LW ||'''16'''||[[Senad Lulić]] || || {{suboff|58}}
+|-
+|CF ||'''11'''||[[Edin Džeko]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Vedad Ibišević]] || ||{{subon|57}}
+|-
+|MF ||'''23'''||[[Sejad Salihović]] || || {{subon|58}}
+|-
+|MF ||'''14'''||[[Tino-Sven Sušić]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Safet Sušić]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Peter Odemwingie]] (Nigeria)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jan-Hendrik Hintz ([[New Zealand Football|New Zealand]])
+<br />Mark Rule ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Roberto Moreno ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Eric Boria ([[United States Soccer Federation|United States]])
+|}
+
+===Nigeria vs Argentina===
+The two teams had met in six previous matches, including three times in the FIFA World Cup group stage, all won by Argentina ([[1994 FIFA World Cup|1994]]: [[1994 FIFA World Cup Group D#Argentina vs Nigeria|2–1]]; [[2002 FIFA World Cup|2002]]: [[2002 FIFA World Cup Group F#Argentina vs Nigeria|1–0]]; [[2010 FIFA World Cup|2010]]: [[2010 FIFA World Cup Group B#Argentina vs Nigeria|1–0]]).<ref>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=46 |website=FIFA.com |publisher=Fédération Internationale de Football Association |page=46 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+Before the match, Nigeria were the only team yet to concede in the tournament, but their defence were breached inside three minutes when [[Ángel Di María]]'s shot hit the post and [[Lionel Messi]] slammed home the rebound. Nigeria, which would qualify for the knockout stage if they gained a point or if Iran failed to beat Bosnia and Herzegovina in the other match, equalised within a minute, when [[Michel Babatunde]] fed [[Ahmed Musa]], and he cut inside and curled the ball into the net.<ref>{{cite news |first=Sid |last=Lowe |title=Lionel Messi hits double in Argentina win but Nigeria go through too |url=https://www.theguardian.com/football/2014/jun/25/nigeria-argentina-world-cup-group-f-match-report |work=The Guardian |publisher=Guardian News and Media |date=25 June 2014 |accessdate=30 October 2014 }}</ref> Messi put Argentina in front in first half injury time with a direct free kick, but Musa equalised once again early in the second half, after playing a one-two with [[Emmanuel Emenike]] and scored. Argentina, which needed only a point to win the group, then scored the game winner when a corner from [[Ezequiel Lavezzi]] was flicked on by an [[Ezequiel Garay]] header and [[Marcos Rojo]] scored with his knee. Argentina won the group with a perfect record of three wins out of three, while Nigeria were able to qualify as group runners-up despite losing as Iran also lost to Bosnia and Herzegovina in the other match.<ref>{{cite news |first=Saj |last=Chowdhury |title=Nigeria 2-3 Argentina |url=https://www.bbc.com/sport/0/football/25285406 |publisher=BBC Sport (British Broadcasting Corporation) |date=25 June 2014 |accessdate=28 December 2014 }}</ref>
+
+Musa became the first Nigerian player to score more than once in a World Cup match.<ref>{{cite news |first=Oluwashina |last=Okeleji |title=World Cup 2104: Musa revels in Nigerian goals record |url=https://www.bbc.com/sport/0/football/28035927 |publisher=BBC Sport (British Broadcasting Corporation) |date=26 June 2014 |accessdate=28 December 2014 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=f5
+|date={{Start date|2014|6|25|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|NGA}}
+|score={{score link|2014 FIFA World Cup Group F#Nigeria vs Argentina|2–3}}
+|team2={{fb|ARG}}
+|goals1=
+*[[Ahmed Musa|Musa]] {{goal|4||47}}
+|goals2=
+*[[Lionel Messi|Messi]] {{goal|3||45+1}}
+*[[Marcos Rojo|Rojo]] {{goal|50}}
+|stadium=[[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=43,285
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186458 |title=Nigeria vs Argentina {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186458/report.html |title=2014 FIFA World Cup Brazil – Matches – Nigeria v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214042228/http://www.fifa.com/worldcup/matches/round=255931/match=300186458/report.html |archive-date=14 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4f3d3ecc1faf1c4b/original/p1caitaaygramokjoppp-pdf.pdf |title=Match report – Group F – Nigeria v Argentina |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061925/https://digitalhub.fifa.com/m/4f3d3ecc1faf1c4b/original/p1caitaaygramokjoppp-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _nigeria1415h
+ |pattern_b  = _nigeria1415h
+ |pattern_ra = _nigeria1415h
+ |pattern_sh = _nigeria1415h
+ |pattern_so = _nigeria1415h
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 58C655
+ |title      = Nigeria<ref name="NGA-ARG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2bb77ec21b74561d/original/a6om2epmuvqzm5qk68di-pdf.pdf |title=Tactical Line-up – Group F – Nigeria v Argentina |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174210/https://digitalhub.fifa.com/m/2bb77ec21b74561d/original/a6om2epmuvqzm5qk68di-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _arg2014h
+ |pattern_b  = _arg2014h
+ |pattern_ra = _arg2014h
+ |pattern_sh = _arg13h
+ |pattern_so = _arg13h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Argentina<ref name="NGA-ARG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vincent Enyeama]]
+|-
+|RB ||'''5''' ||[[Efe Ambrose]]
+|-
+|CB ||'''2''' ||[[Joseph Yobo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''13'''||[[Juwon Oshaniwa]] || {{yel|51}}
+|-
+|LB ||'''22'''||[[Kenneth Omeruo]] || {{yel|49}}
+|-
+|CM ||'''17'''||[[Ogenyi Onazi]]
+|-
+|CM ||'''10'''||[[John Obi Mikel]]
+|-
+|RW ||'''7''' ||[[Ahmed Musa]]
+|-
+|LW ||'''18'''||[[Michel Babatunde]] || || {{suboff|66}}
+|-
+|SS ||'''8''' ||[[Peter Odemwingie]] || || {{suboff|80}}
+|-
+|CF ||'''9''' ||[[Emmanuel Emenike]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Michael Uchebo]] || || {{subon|66}}
+|-
+|FW ||'''19'''||[[Uche Nwofor]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stephen Keshi]]
+|}
+|valign="top"|[[File:NGA-ARG 2014-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Sergio Romero]]
+|-
+|RB ||'''4''' ||[[Pablo Zabaleta]]
+|-
+|CB ||'''17'''||[[Federico Fernández (footballer)|Federico Fernández]]
+|-
+|CB ||'''2''' ||[[Ezequiel Garay]]
+|-
+|LB ||'''16'''||[[Marcos Rojo]]
+|-
+|DM ||'''14'''||[[Javier Mascherano]]
+|-
+|RM ||'''5''' ||[[Fernando Gago]]
+|-
+|LM ||'''7''' ||[[Ángel Di María]]
+|-
+|AM ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]]) || || {{suboff|63}}
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]] || || {{suboff|90}}
+|-
+|CF ||'''20'''||[[Sergio Agüero]] || || {{suboff|38}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''22'''||[[Ezequiel Lavezzi]] || || {{subon|38}}
+|-
+|MF ||'''19'''||[[Ricky Álvarez]] || || {{subon|63}}
+|-
+|MF ||'''6''' ||[[Lucas Biglia]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alejandro Sabella]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Lionel Messi]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Renato Faverani ([[Italian Football Federation|Italy]])
+<br />Andrea Stefani ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Bosnia and Herzegovina vs Iran===
+The two teams had met in five previous matches, all in friendlies, most recently in 2009.<ref>{{cite web|title=2014 FIFA World Cup – Statistical Kit |url=https://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf#page=47 |website=FIFA.com |publisher=Fédération Internationale de Football Association |page=47 |url-status=dead |archiveurl=https://web.archive.org/web/20140629232249/http://www.fifa.com/mm/document/fifafacts/mencompwc/51/97/38/2014fwc_kit_matches_neutral.pdf |archivedate=29 June 2014 }}</ref>
+
+Bosnia and Herzegovina, which had already been eliminated, led 1–0 at half-time through a goal by [[Edin Džeko]], shooting low with his left foot after he received a pass from [[Miralem Pjanić]]. Pjanić extended the lead in the second half when he slotted low past the goalkeeper, after receiving a through ball from [[Tino-Sven Sušić]]. Iran, which had to win and also hoped Nigeria lost to Argentina to have any chance for qualification to the knockout stage, reduced the deficit after [[Reza Ghoochannejhad]] tapped home from close range from a [[Javad Nekounam]] cross.<ref>{{cite news |first=Paul |last=Wilson |title=Iran slump out of World Cup with disappointing defeat to Bosnia |url=https://www.theguardian.com/football/2014/jun/25/bosnia-herzegovina-iran-world-cup-group-f-match-report |work=The Guardian |publisher=Guardian News and Media |date=25 June 2014 |accessdate=30 October 2014 }}</ref> However, Bosnia and Herzegovina scored a third goal when [[Avdija Vršajević]] slotted home with his right foot after [[Sejad Salihović]] played him in on the right, sealing their first win in World Cup finals history, and also confirming Iran's elimination, meaning that they failed to advance to the knockout stage for all four of their World Cup campaigns.<ref>{{cite web |first=Ian |last=Woodcock |title=World Cup: Bosnia-Hercegovina 3-1 Iran |url=https://www.bbc.com/sport/0/football/25285298 |publisher=BBC Sport (British Broadcasting Corporation) |date=25 June 2014 |accessdate=28 December 2014 }}</ref>
+
+With Ghoochannejhad's goal for Iran, the 2014 World Cup became the first since [[1998 FIFA World Cup|1998]] in which every participating team managed to score at least once.<ref>{{cite web |title=Copa do Mundo tem gols de todas seleções pela primeira vez desde 1998|url=http://copadomundo.uol.com.br/noticias/redacao/2014/06/25/ira-garante-gol-para-todas-as-selecoes-na-copa-pela-primeira-vez-desde-1998.htm |website=[[Universo Online|UOL Copa]] |publisher=[[Grupo Folha]] |location=São Paulo |language=Portuguese |date=25 June 2014 |accessdate=25 June 2014 }}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=f6
+|date={{Start date|2014|6|25|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BIH}}
+|score={{score link|2014 FIFA World Cup Group F#Bosnia and Herzegovina vs Iran|3–1}}
+|team2={{fb|IRN}}
+|goals1=
+*[[Edin Džeko|Džeko]] {{goal|23}}
+*[[Miralem Pjanić|Pjanić]] {{goal|59}}
+*[[Avdija Vršajević|Vršajević]] {{goal|83}}
+|goals2=
+*[[Reza Ghoochannejhad|Ghoochannejhad]] {{goal|82}}
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=48,011
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255931/300186464 |title=Bosnia and Herzegovina vs Iran {{!}} First stage {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186464/report.html |title=2014 FIFA World Cup Brazil – Matches – Bosnia and Herzegovina v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170822200509/http://www.fifa.com/worldcup/matches/round=255931/match=300186464/report.html |archive-date=22 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/2d7dea23c0361b4b/original/ufxxcxoyj0mnewafb5ss-pdf.pdf |title=Match report – Group F – Bosnia and Herzegovina v Iran |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413061940/https://digitalhub.fifa.com/m/2d7dea23c0361b4b/original/ufxxcxoyj0mnewafb5ss-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bah1415a
+ |pattern_b  = _bah1415away
+ |pattern_ra = _bah1415a
+ |pattern_sh = _bah1415a
+ |pattern_so = _color_3_stripes_white
+ |leftarm    = 0000BB
+ |body       = 0000BB
+ |rightarm   = 0000BB
+ |shorts     = 0000BB
+ |socks      = 0000BB
+ |title      = Bosnia and Herzegovina<ref name="BIH-IRN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2ba69a118afd6066/original/j8vcnc1mfsbjg6knjxim-pdf.pdf |title=Tactical Line-up – Group F – Bosnia and Herzegovina v Iran |publisher=[[FIFA]] |date=25 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174239/https://digitalhub.fifa.com/m/2ba69a118afd6066/original/j8vcnc1mfsbjg6knjxim-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _iran14h
+ |pattern_b  = _iran14h
+ |pattern_ra = _iran14h
+ |pattern_sh = _iran14h
+ |pattern_so = _long_iran1415h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iran<ref name="BIH-IRN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Asmir Begović]]
+|-
+|RB ||'''2''' ||[[Avdija Vršajević]]
+|-
+|CB ||'''15'''||[[Toni Šunjić]]
+|-
+|CB ||'''4''' ||[[Emir Spahić]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Sead Kolašinac]]
+|-
+|CM ||'''8''' ||[[Miralem Pjanić]]
+|-
+|CM ||'''7''' ||[[Muhamed Bešić]] || {{yel|78}}
+|-
+|RW ||'''21'''||[[Anel Hadžić]] || || {{suboff|61}}
+|-
+|LW ||'''14'''||[[Tino-Sven Sušić]] || || {{suboff|79}}
+|-
+|CF ||'''11'''||[[Edin Džeko]] || || {{suboff|85}}
+|-
+|CF ||'''9''' ||[[Vedad Ibišević]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''6''' ||[[Ognjen Vranješ]] || || {{subon|61}}
+|-
+|MF ||'''23'''||[[Sejad Salihović]] || || {{subon|79}}
+|-
+|FW ||'''19'''||[[Edin Višća]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Safet Sušić]]
+|}
+|valign="top"|[[File:BIH-IRN 2014-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Alireza Haghighi]]
+|-
+|RB ||'''4''' ||[[Jalal Hosseini]]
+|-
+|CB ||'''5''' ||[[Amir Hossein Sadeghi]]
+|-
+|CB ||'''15'''||[[Pejman Montazeri]]
+|-
+|LB ||'''23'''||[[Mehrdad Pooladi]]
+|-
+|CM ||'''6''' ||[[Javad Nekounam]] ([[Captain (association football)|c]])
+|-
+|CM ||'''14'''||[[Andranik Teymourian]]
+|-
+|RW ||'''21'''||[[Ashkan Dejagah]] || || {{suboff|68}}
+|-
+|AM ||'''7''' ||[[Masoud Shojaei]] || || {{suboff|46}}
+|-
+|LW ||'''3''' ||[[Ehsan Hajsafi]] || || {{suboff|63}}
+|-
+|CF ||'''16'''||[[Reza Ghoochannejhad]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''2''' ||[[Khosro Heydari]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Alireza Jahanbakhsh]] || || {{subon|63}}
+|-
+|FW ||'''10'''||[[Karim Ansarifard]] || {{yel|88}} || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Carlos Queiroz]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Edin Džeko]] (Bosnia and Herzegovina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Roberto Alonso ([[Royal Spanish Football Federation|Spain]])
+<br />Juan Carlos Yuste ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Bosnia and Herzegovina at the FIFA World Cup]]
+*[[Iran at the FIFA World Cup]]
+*[[Nigeria at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://web.archive.org/web/20140413000752/http://www.fifa.com/worldcup/groups/group=255943/index.html 2014 FIFA World Cup Group F], FIFA.com
+
+{{commons category}}
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Group F}}
+[[Category:2014 FIFA World Cup group stage|F]]
+[[Category:Argentina at the 2014 FIFA World Cup|Group]]
+[[Category:Bosnia and Herzegovina at the 2014 FIFA World Cup]]
+[[Category:Iran at the 2014 FIFA World Cup]]
+[[Category:Nigeria at the 2014 FIFA World Cup|Group]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in Rio de Janeiro (city)]]
+[[Category:2014 in Rio de Janeiro (city)]]
+[[Category:Sport in Curitiba]]
+[[Category:Football in Paraná (state)]]
+[[Category:21st century in Curitiba]]
+[[Category:Football competitions in Belo Horizonte]]
+[[Category:21st century in Belo Horizonte]]
+[[Category:Cuiabá]]
+[[Category:Football in Mato Grosso]]
+[[Category:Football competitions in Porto Alegre]]
+[[Category:21st century in Porto Alegre]]
+[[Category:Sport in Salvador, Bahia]]
+[[Category:Football in Bahia]]

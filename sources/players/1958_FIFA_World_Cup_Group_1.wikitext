@@ -1,0 +1,758 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+[[File:Northern Ireland vs Czechoslovakia FIFA World Cup 1958.jpg|thumb|right|The match between [[Northern Ireland national football team|Northern Ireland]] and [[Czechoslovakia national football team|Czechoslovakia]] on 8 June at [[Örjans Vall]], [[Halmstad]]. Northern Ireland won 1–0, and these two sides would face each other again in a play-off nine days later, which was also won by Northern Ireland.]]
+'''Group 1 of the [[1958 FIFA World Cup]]''' took place from 8 to 17 June 1958. The group consisted of [[Argentina national football team|Argentina]], [[Czechoslovakia national football team|Czechoslovakia]], [[Northern Ireland national football team|Northern Ireland]], and [[Germany national football team|West Germany]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/58f.html |title=World Cup 1958 (Sweden, June 8–29) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|teamwidth=180
+|section=Standings
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150407144248/http://www.fifa.com/worldcup/archive/sweden1958/groups/index.html FIFA]
+
+|team1=FRG|team2=NIR 
+|team3=TCH |team4=ARG
+|hth_NIR=Northern Ireland finished ahead of Czechoslovakia by winning a play-off. |hth_TCH=NIR
+
+|result1=A |result2=A
+
+|win_FRG=1 |draw_FRG=2 |loss_FRG=0 |gf_FRG=7 |ga_FRG=5
+|win_NIR=1 |draw_NIR=1 |loss_NIR=1 |gf_NIR=4 |ga_NIR=5
+|win_TCH=1 |draw_TCH=1 |loss_TCH=1 |gf_TCH=8 |ga_TCH=4
+|win_ARG=1 |draw_ARG=0 |loss_ARG=2 |gf_ARG=5 |ga_ARG=10
+
+|name_ARG={{fb|ARG|1861}}
+|name_TCH={{fb|TCH}}
+|name_NIR={{fb|NIR}}
+|name_FRG={{fb|FRG}}
+
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1958 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time.
+
+===Argentina vs West Germany===
+Argentina forgot to bring their change strip, and borrowed the yellow shirt of host team [[IFK Malmö]].<ref>{{cite book |last=Norlin |first=Arne |title=1958: När Folkhemmet Fick Fotbolls-VM |year=2008 |publisher=Ross & Tegner |location=Malmö |language=sv |isbn=978-91-976144-8-1 |page=57}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=1-1
+|date={{Start date|1958|6|8|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1958 FIFA World Cup Group 1#Argentina vs West Germany|1–3}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Omar Oreste Corbatta|Corbatta]] {{goal|3}}
+|goals2=
+*[[Helmut Rahn|Rahn]] {{goal|32||79}}
+*[[Uwe Seeler|Seeler]] {{goal|42}}
+|stadium=[[Malmö Stadion]], [[Malmö]]
+|attendance=31,156
+|referee=[[Reginald Leafe]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1323 |title=Argentina vs Germany FR {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1323/index.html |title=1958 FIFA World Cup Sweden – Matches – Argentina v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212122411/http://www.fifa.com/worldcup/matches/round=220/match=1323/index.html |archive-date=12 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _collar
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _whitestripe
+ | leftarm    = ffcc00
+ | body       = ffcc00
+ | rightarm   = ffcc00
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Argentina
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= _blackborder 
+|pattern_b= _blackcollar  
+|pattern_ra= _blackborder 
+|pattern_sh=  
+|pattern_so= _whitetop
+|leftarm= ffffff
+|body= ffffff
+|rightarm= ffffff 
+|shorts= 000000
+|socks= 000000
+| title   = West Germany
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Amadeo Carrizo]]
+|-
+| DF ||'''2'''|| [[Pedro Dellacha]] ([[Captain (association football)|c]])
+|-
+| DF ||'''3'''|| [[Federico Vairo]]
+|-
+| MF ||'''4'''|| [[Juan Francisco Lombardo|Francisco Lombardo]]
+|-
+| MF ||'''5'''|| [[Néstor Rossi]]
+|-
+| MF ||'''6'''|| [[José Varacka]]
+|-
+| FW ||'''7'''|| [[Omar Oreste Corbatta|Oreste Corbatta]]
+|-
+| FW ||'''8'''|| [[Eliseo Prado]]
+|-
+| FW ||'''9'''|| [[Norberto Menéndez]]
+|-
+| FW ||'''10'''|| [[Alfredo Rojas (Argentine footballer)|Alfredo Rojas]]
+|-
+| FW ||'''11'''|| [[Osvaldo Héctor Cruz|Osvaldo Cruz]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Guillermo Stábile]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Fritz Herkenrath]]
+|-
+| DF ||'''2'''|| [[Herbert Erhardt]]
+|-
+| DF ||'''3'''|| [[Erich Juskowiak]]
+|-
+| MF ||'''7'''||  [[Georg Stollenwerk]]
+|-
+| MF ||'''4'''|| [[Horst Eckel]]
+|-
+| MF ||'''6'''|| [[Horst Szymaniak]]
+|-
+| FW ||'''10'''|| [[Alfred Schmidt (footballer)|Alfred Schmidt]]
+|-
+| FW ||'''8'''|| [[Helmut Rahn]]
+|-
+| FW ||'''9'''|| [[Fritz Walter]]
+|-
+| FW ||'''11'''|| [[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+| FW ||'''12'''|| [[Uwe Seeler]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Sepp Herberger]]
+
+|}
+{{col-end}}
+
+===Northern Ireland vs Czechoslovakia===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-2
+|date={{Start date|1958|6|8|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|NIR}}
+|score={{score link|1958 FIFA World Cup Group 1#Northern Ireland vs Czechoslovakia|1–0}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Wilbur Cush|Cush]] {{goal|21}}
+|goals2=
+|stadium=[[Örjans Vall]], [[Halmstad]]
+|attendance=10,647
+|referee=Fritz Seipelt ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1421 |title=Northern Ireland vs Czechoslovakia {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1421/index.html |title=1958 FIFA World Cup Sweden – Matches – Northern Ireland v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031011156/http://www.fifa.com/worldcup/matches/round=220/match=1421/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= _whiteborder
+|pattern_b= _vneckwhite
+|pattern_ra= _whiteborder
+|pattern_sh=  
+|pattern_so= _whitetop
+|leftarm= 009900
+|body= 009900
+|rightarm= 009900
+|shorts= ffffff
+|socks= 009900
+| title   = {{nowrap|Northern Ireland}}
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _hoops_blue_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Harry Gregg]]
+|-
+| DF ||'''5'''|| [[Dick Keith]]
+|-
+| DF ||'''3'''|| [[Alf McMichael]]
+|-
+| DF ||'''2'''|| [[Willie Cunningham (Northern Irish footballer)|Willie Cunningham]]
+|-
+| MF ||'''4'''|| [[Danny Blanchflower]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Bertie Peacock]]
+|-
+| FW ||'''7'''|| [[Billy Bingham]]
+|-
+| FW ||'''8'''|| [[Wilbur Cush]]
+|-
+| FW ||'''16'''|| [[Derek Dougan]]
+|-
+| FW ||'''10'''|| [[Jimmy McIlroy]]
+|-
+| FW ||'''11'''|| [[Peter McParland]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Peter Doherty (footballer)|Peter Doherty]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''19'''|| [[Břetislav Dolejší]]
+|-
+| DF ||'''2'''|| [[Gustáv Mráz]]
+|-
+| DF ||'''4'''|| [[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+| DF ||'''6'''|| [[Svatopluk Pluskal]]
+|-
+| MF ||'''3'''|| [[Jiří Čadek]]
+|-
+| MF ||'''5'''||[[Josef Masopust]]  
+|-
+| FW ||'''13'''|| [[Vaclav Hovorka]]
+|-
+| FW ||'''8'''|| [[Milan Dvořák]] 
+|-
+| FW ||'''10'''|| [[Jaroslav Borovička]]
+|-
+| FW ||'''15'''|| [[Jan Hertl]]
+|-
+| FW ||'''11'''|| [[Tadeáš Kraus]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Karel Kolský]]
+
+|}
+{{col-end}}
+
+===West Germany vs Czechoslovakia===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-3
+|date={{Start date|1958|6|11|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|FRG}}
+|score={{score link|1958 FIFA World Cup Group 1#West Germany vs Czechoslovakia|2–2}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Hans Schäfer|Schäfer]] {{goal|60}}
+*[[Helmut Rahn|Rahn]] {{goal|71}}
+|goals2=
+*[[Milan Dvořák|Dvořák]] {{goal|24|pen.}}
+*[[Zdeněk Zikán|Zikán]] {{goal|42}}
+|stadium=[[Olympia (stadium)|Olympiastadion]], [[Helsingborg]]
+|attendance=25,000
+|referee=[[Arthur Edward Ellis]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1391 |title=Germany FR vs Czechoslovakia {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1391/index.html |title=1958 FIFA World Cup Sweden – Matches – Germany FR v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031045829/http://www.fifa.com/worldcup/matches/round=220/match=1391/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= _blackborder 
+|pattern_b= _blackcollar  
+|pattern_ra= _blackborder 
+|pattern_sh=  
+|pattern_so= _whitetop
+|leftarm= ffffff
+|body= ffffff
+|rightarm= ffffff 
+|shorts= 000000
+|socks= 000000
+| title   = West Germany
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = _hoops_blue_red
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Fritz Herkenrath]]
+|-
+| DF ||'''7'''||  [[Georg Stollenwerk]]
+|-
+| DF ||'''3'''|| [[Erich Juskowiak]]
+|-
+| DF ||'''17'''|| [[Karl-Heinz Schnellinger]]
+|-
+| DF ||'''2'''|| [[Herbert Erhardt]]
+|-
+| MF ||'''6'''|| [[Horst Szymaniak]]
+|-
+| FW ||'''8'''|| [[Helmut Rahn]]
+|-
+| FW ||'''9'''|| [[Fritz Walter]]
+|-
+| FW ||'''12'''|| [[Uwe Seeler]]
+|-
+| FW ||'''11'''|| [[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+| FW ||'''13'''|| [[Bernhard Klodt]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Sepp Herberger]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''19'''|| [[Břetislav Dolejší]]
+|-
+| DF ||'''2'''|| [[Gustáv Mráz]]
+|-
+| DF ||'''4'''|| [[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+| DF ||'''6'''|| [[Svatopluk Pluskal]]
+|-
+| DF ||'''16'''|| [[Ján Popluhár]]
+|-
+| MF ||'''5'''||[[Josef Masopust]]  
+|-
+| FW ||'''13'''|| [[Vaclav Hovorka]]
+|-
+| FW ||'''8'''|| [[Milan Dvořák]] 
+|-
+| FW ||'''9'''|| [[Pavol Molnár]]
+|-
+| FW ||'''14'''|| [[Jiří Feureisl]]
+|-
+| FW ||'''12'''|| [[Zdeněk Zikán]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Karel Kolský]]
+
+|}
+{{col-end}}
+
+===Argentina vs Northern Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=1-4
+|date={{Start date|1958|6|11|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1958 FIFA World Cup Group 1#Argentina vs Northern Ireland|3–1}}
+|team2={{fb|NIR}}
+|goals1=
+*[[Omar Oreste Corbatta|Corbatta]] {{goal|37|pen.}}
+*[[Norberto Menéndez|Menéndez]] {{goal|56}}
+*[[Ludovico Avio|Avio]] {{goal|60}}
+|goals2=
+*[[Peter McParland|McParland]] {{goal|4}}
+|stadium=[[Örjans Vall]], [[Halmstad]]
+|attendance=14,174
+|referee=Sten Ahlner ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1324 |title=Argentina vs Northern Ireland {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1324/index.html |title=1958 FIFA World Cup Sweden – Matches – Argentina v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171120040458/http://www.fifa.com/worldcup/matches/round=220/match=1324/index.html |archive-date=20 November 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _arg5861h
+ | pattern_b  = _arg2861h
+ | pattern_ra = _arg5861h
+ | pattern_sh =
+ | pattern_so = _whitestripe
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Argentina
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= _whiteborder
+|pattern_b= _vneckwhite
+|pattern_ra= _whiteborder
+|pattern_sh=  
+|pattern_so= _whitetop
+|leftarm= 009900
+|body= 009900
+|rightarm= 009900
+|shorts= ffffff
+|socks= 009900
+| title   = {{nowrap|Northern Ireland}}
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Amadeo Carrizo]]
+|-
+| DF ||'''2'''|| [[Pedro Dellacha]] ([[Captain (association football)|c]])
+|-
+| DF ||'''3'''|| [[Federico Vairo]]
+|-
+| MF ||'''4'''|| [[Juan Francisco Lombardo|Francisco Lombardo]]
+|-
+| MF ||'''5'''|| [[Néstor Rossi]]
+|-
+| MF ||'''6'''|| [[José Varacka]]
+|-
+| FW ||'''7'''|| [[Omar Oreste Corbatta|Oreste Corbatta]]
+|-
+| FW ||'''9'''|| [[Norberto Menéndez]]
+|-
+| FW ||'''11'''|| [[Ángel Labruna]]
+|-
+| FW ||'''18'''|| [[Norberto Boggio]]
+|-
+| FW ||'''19'''|| [[Ludovico Avio]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Guillermo Stábile]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Harry Gregg]]
+|-
+| DF ||'''2'''|| [[Willie Cunningham (Northern Irish footballer)|Willie Cunningham]]
+|-
+| DF ||'''3'''|| [[Alf McMichael]]
+|-
+| MF ||'''5'''|| [[Dick Keith]]
+|-
+| MF ||'''6'''|| [[Bertie Peacock]]
+|-
+| MF ||'''4'''|| [[Danny Blanchflower]] ([[Captain (association football)|c]])
+|-
+| FW ||'''10'''|| [[Jimmy McIlroy]]
+|-
+| FW ||'''7'''|| [[Billy Bingham]]
+|-
+| FW ||'''8'''|| [[Wilbur Cush]]
+|-
+| FW ||'''11'''|| [[Peter McParland]]
+|-
+| FW ||'''17'''|| [[Fay Coyle]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Peter Doherty (footballer)|Peter Doherty]]
+
+|}
+{{col-end}}
+
+===West Germany vs Northern Ireland===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-5
+|date={{Start date|1958|6|15|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|FRG}}
+|score={{score link|1958 FIFA World Cup Group 1#West Germany vs Northern Ireland|2–2}}
+|team2={{fb|NIR}}
+|goals1=
+*[[Helmut Rahn|Rahn]] {{goal|20}}
+*[[Uwe Seeler|Seeler]] {{goal|78}}
+|goals2=
+*[[Peter McParland|McParland]] {{goal|18||60}}
+|stadium=[[Malmö Stadion]], [[Malmö]]
+|attendance=21,990
+|referee=Joaquim Campos ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1389 |title=Germany FR vs Northern Ireland {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1389/index.html |title=1958 FIFA World Cup Sweden – Matches – Germany FR v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031023416/http://www.fifa.com/worldcup/matches/round=220/match=1389/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= _blackborder 
+|pattern_b= _blackcollar  
+|pattern_ra= _blackborder 
+|pattern_sh=  
+|pattern_so= _whitetop
+|leftarm= ffffff
+|body= ffffff
+|rightarm= ffffff 
+|shorts= 000000
+|socks= 000000
+| title   = West Germany
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= _whiteborder
+|pattern_b= _vneckwhite
+|pattern_ra= _whiteborder
+|pattern_sh=  
+|pattern_so= _whitetop
+|leftarm= 009900
+|body= 009900
+|rightarm= 009900
+|shorts= ffffff
+|socks= 009900
+| title   = {{nowrap|Northern Ireland}}
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Fritz Herkenrath]]
+|-
+| DF ||'''7'''||  [[Georg Stollenwerk]]
+|-
+| DF ||'''3'''|| [[Erich Juskowiak]]
+|-
+| DF ||'''2'''|| [[Herbert Erhardt]]
+|-
+| MF ||'''4'''|| [[Horst Eckel]]
+|-
+| MF ||'''6'''|| [[Horst Szymaniak]]
+|-
+| FW ||'''8'''|| [[Helmut Rahn]]
+|-
+| FW ||'''9'''|| [[Fritz Walter]]
+|-
+| FW ||'''12'''|| [[Uwe Seeler]]
+|-
+| FW ||'''11'''|| [[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+| FW ||'''13'''|| [[Bernhard Klodt]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Sepp Herberger]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Harry Gregg]]
+|-
+| DF ||'''5'''|| [[Dick Keith]]
+|-
+| DF ||'''3'''|| [[Alf McMichael]]
+|-
+| DF ||'''2'''|| [[Willie Cunningham (Northern Irish footballer)|Willie Cunningham]]
+|-
+| MF ||'''4'''|| [[Danny Blanchflower]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Bertie Peacock]]
+|-
+| FW ||'''7'''|| [[Billy Bingham]]
+|-
+| FW ||'''8'''|| [[Wilbur Cush]]
+|-
+| FW ||'''13'''|| [[Tommy Casey]]
+|-
+| FW ||'''10'''|| [[Jimmy McIlroy]]
+|-
+| FW ||'''11'''|| [[Peter McParland]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Peter Doherty (footballer)|Peter Doherty]]
+
+|}
+{{col-end}}
+
+===Czechoslovakia vs Argentina===
+{{main|Disaster of Sweden}}
+<onlyinclude>{{#invoke:transcludable section|main|section=1-6|text={{#lst:Disaster of Sweden|1-6}}}}</onlyinclude>
+{{#lst:Disaster of Sweden|Line-ups}}
+
+===Play-off: Northern Ireland vs Czechoslovakia===
+
+<onlyinclude>{{#invoke:Football box|main|section=1-PO
+|date={{Start date|1958|6|17|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|NIR}}
+|score={{score link|1958 FIFA World Cup Group 1#Play-off: Northern Ireland vs Czechoslovakia|2–1}}
+|aet=yes
+|team2={{fb|TCH}}
+|goals1=
+*[[Peter McParland|McParland]] {{goal|44||97}}
+|goals2=
+*[[Zdeněk Zikán|Zikán]] {{goal|18}}
+|stadium=[[Malmö Stadion]], [[Malmö]]
+|attendance=6,196
+|referee=[[Maurice Guigue]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/220/1422 |title=Northern Ireland vs Czechoslovakia {{!}} Group Matches {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1422/index.html |title=1958 FIFA World Cup Sweden – Matches – Northern Ireland v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031010301/http://www.fifa.com/worldcup/matches/round=220/match=1422/index.html |archive-date=31 October 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= _whiteborder
+|pattern_b= _vneckwhite
+|pattern_ra= _whiteborder
+|pattern_sh=  
+|pattern_so= _whitetop
+|leftarm= 009900
+|body= 009900
+|rightarm= 009900
+|shorts= ffffff
+|socks= 009900
+| title   = {{nowrap|Northern Ireland}}
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''12'''|| [[Norman Uprichard]]
+|-
+| DF ||'''5'''|| [[Dick Keith]]
+|-
+| DF ||'''3'''|| [[Alf McMichael]]
+|-
+| DF ||'''2'''|| [[Willie Cunningham (Northern Irish footballer)|Willie Cunningham]]
+|-
+| MF ||'''4'''|| [[Danny Blanchflower]] ([[Captain (association football)|c]])
+|-
+| MF ||'''6'''|| [[Bertie Peacock]]
+|-
+| FW ||'''7'''|| [[Billy Bingham]]
+|-
+| FW ||'''8'''|| [[Wilbur Cush]]
+|-
+| FW ||'''14'''|| [[Jackie Scott]]
+|-
+| FW ||'''10'''|| [[Jimmy McIlroy]]
+|-
+| FW ||'''11'''|| [[Peter McParland]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Peter Doherty (footballer)|Peter Doherty]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''19'''|| [[Břetislav Dolejší]]
+|-
+| DF ||'''2'''|| [[Gustáv Mráz]]
+|-
+| DF ||'''4'''|| [[Ladislav Novák]]
+|-
+| DF ||'''17'''|| [[Titus Buberník]] || {{sent off|0|100}}
+|-
+| MF ||'''16'''|| [[Ján Popluhár]]
+|-
+| MF ||'''5'''||[[Josef Masopust]]  
+|-
+| FW ||'''8'''|| [[Milan Dvořák]]
+|-
+| FW ||'''9'''|| [[Pavol Molnár]]
+|-
+| FW ||'''14'''|| [[Jiří Feureisl]]
+|-
+| FW ||'''10'''|| [[Jaroslav Borovička]] 
+|-
+| FW ||'''12'''|| [[Zdeněk Zikán]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Karel Kolský]]
+|}
+{{col-end}}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Czech Republic at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Northern Ireland at the FIFA World Cup]]
+*[[Slovakia at the FIFA World Cup]]
+*[[Disaster of Sweden]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1958sweden 1958 FIFA World Cup archive]
+
+{{1958 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 1}}
+[[Category:1958 FIFA World Cup group stage|1]]
+[[Category:Argentina at the 1958 FIFA World Cup]]
+[[Category:West Germany at the 1958 FIFA World Cup]]
+[[Category:Czechoslovakia at the 1958 FIFA World Cup]]
+[[Category:Northern Ireland at the 1958 FIFA World Cup]]
+[[Category:International sports competitions in Malmö]]
+[[Category:Sports competitions in Halmstad]]
+[[Category:Sports competitions in Helsingborg]]
+[[Category:20th century in Malmö]]
+[[Category:20th century in Halland County]]
+[[Category:20th century in Malmöhus County]]
+[[Category:Football in Helsingborg]]
+[[Category:Football in Halland County]]
+[[Category:Football in Malmö]]

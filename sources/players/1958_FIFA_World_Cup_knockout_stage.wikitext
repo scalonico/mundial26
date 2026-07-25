@@ -1,0 +1,919 @@
+{{Short description|none}}
+{{Use dmy dates|date=May 2018}}
+The '''knockout stage of the [[1958 FIFA World Cup]]''' was the second and final stage of the competition, following the group stage. The knockout stage began on 19 June with the quarter-finals and ended on 29 June 1958 with the [[1958 FIFA World Cup final|final match]], held at the [[Råsunda Stadium]] in [[Solna]]. The top two teams from each group (eight in total) advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament. A match for third place also was played between the two losing teams of the semi-finals.
+
+[[Brazil national football team|Brazil]] won the final 5–2 against hosts [[Sweden men's national football team|Sweden]] for their first World Cup title.<ref>{{cite news |last=Molinaro |first=John |url=https://www.sportsnet.ca/soccer/world-cup-2014/1958-world-cup-pele-a-star-is-born/ |title=1958 World Cup: Pele—A star is born |website=sportsnet.ca |publisher=[[Sportsnet]] |date=8 June 2014 |access-date=22 May 2018}}</ref>
+
+==Qualified teams==
+The top two placed teams from each of the four groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[1958 FIFA World Cup Group 1|1]]
+| {{fb|FRG}}
+| {{fb|NIR}}
+|-
+! [[1958 FIFA World Cup Group 2|2]]
+| {{fb|FRA|1794}}
+| {{fb|YUG}}
+|-
+! [[1958 FIFA World Cup Group 3|3]]
+| {{fb|SWE|1906}}
+| {{fb|WAL|1953}}
+|-
+! [[1958 FIFA World Cup Group 4|4]]
+| {{fb|BRA|1889}}
+| {{fb|URS|1955}}
+|}
+
+==Bracket==
+<section begin=Bracket />
+{{Round8|style=white-space:nowrap
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+|RD1=[[#Quarter-finals|Quarter-finals]]
+|RD2=[[#Semi-finals|Semi-finals]]
+|RD3=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- quarter finals -->
+| 19 June – [[Gothenburg]] |'''{{fb|BRA|1889}}'''|'''1'''|{{fb|WAL|1953}}|0
+| 19 June – [[Norrköping]] |'''{{fb|FRA|1794}}'''|'''4'''|{{fb|NIR}}|0
+| 19 June – [[Solna]] |'''{{fb|SWE|1906}}'''|'''2'''|{{fb|URS|1955}}|0
+| 19 June – [[Malmö]] |'''{{fb|FRG}}'''|'''1'''|{{fb|YUG}}|0
+<!-- semi finals -->
+| 24 June – [[Solna]] |'''{{fb|BRA|1889}}'''|'''5'''|{{fb|FRA|1794}}|2
+| 24 June – [[Gothenburg]] |'''{{fb|SWE|1906}}'''|'''3'''|{{fb|FRG}}|1
+<!-- final -->
+| 29 June – [[Solna]] |'''{{fb|BRA|1889}}'''|'''5'''|{{fb|SWE|1906}}|2
+<!-- third place -->
+| 28 June – [[Gothenburg]] |'''{{fb|FRA|1794}}'''|'''6'''|{{fb|FRG}}|3
+| consol=Third|3rdplace=yes
+}}<section end=Bracket />
+
+==Quarter-finals==
+
+===Brazil vs Wales===
+This was the first time both countries faced each other.<ref>{{cite web |title=Wales national football team: record v Brazil |url=https://www.11v11.com/teams/wales/tab/opposingTeams/opposition/Brazil/ |website=www.11v11.com |access-date=30 June 2026 |archive-url=https://web.archive.org/web/20240524125230/https://www.11v11.com/teams/wales/tab/opposingTeams/opposition/Brazil/ |archive-date=24 May 2024}}</ref> Wales were without [[John Charles]] for the match, as he had been injured in their [[1958 FIFA World Cup Group 3#Play-off: Wales vs Hungary|play-off match]] against [[Hungary national football team|Hungary]].<ref>{{cite web |title=World Cup finals 1958: the last time Wales qualified for a tournament |url=https://www.theguardian.com/football/2015/oct/11/wales-world-cup-finals-european-championship-brazil-pele |website=The Guardian |access-date=30 June 2026 |date=11 October 2015}}</ref>
+
+Wales were able to hold Brazil to a 0–0 draw for over an hour,<ref>{{cite web |last1=Thomas |first1=Andi |title=From the Jaws of Victory book: Wales at the 1958 World Cup |url=https://thesetpieces.com/latest-posts/jaws-victory-book-wales-1958-world-cup/ |website=The Set Pieces |access-date=30 June 2026 |date=9 June 2022}}</ref> until [[Pelé]] scored in the 66th minute, becoming both the youngest goal scorer in the tournament's history and the first player under the age of 18 to score at a World Cup.<ref>{{cite web |title=World Cup wonder goals: Pele makes history |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pele-goal-brazil-wales-1958 |website=www.fifa.com |access-date=30 June 2026 |date=20 May 2026}}</ref>
+
+<section begin=QF1 />{{Football box
+|date={{Start date|1958|6|19|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1958 FIFA World Cup knockout stage#Brazil vs Wales|1–0}}
+|team2={{fb|WAL|1953}}
+|goals1=
+*[[Pelé]] {{goal|66}}
+|goals2=
+|stadium=[[Ullevi]], [[Gothenburg]]
+|attendance=25,923
+|referee=[[Fritz Seipelt]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/221/1345 |title=Brazil vs Wales {{!}} Quarter-final {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=221/match=1345/index.html |title=1958 FIFA World Cup Sweden – Matches – Brazil v Wales |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223215802/http://www.fifa.com/worldcup/matches/round=221/match=1345/index.html |archive-date=23 December 2017}} }}</ref>
+}}<section end=QF1 />
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1954
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 62B0FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _red sides
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Wales
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''3'''|| [[Gilmar]]
+|-
+| RB ||'''14'''|| [[Nílton de Sordi|De Sordi]]
+|-
+| CB ||'''2'''|| [[Hilderaldo Bellini|Bellini]] ([[Captain (association football)|c]])
+|-
+| CB ||'''15'''|| [[Orlando Peçanha|Orlando]]
+|-
+| LB ||'''12'''|| [[Nílton Santos]]
+|-
+| DM ||'''19'''|| [[Zito (footballer, born 1932)|Zito]]
+|-
+| AM ||'''6'''|| [[Didi (footballer, born 1928)|Didi]]
+|-
+| OR ||'''11'''|| [[Garrincha]]
+|-
+| CF ||'''18'''|| [[José Altafini|Mazzola]]
+|-
+| CF ||'''10'''|| [[Pelé]]
+|-
+| OL ||'''7'''|| [[Mário Zagallo|Zagallo]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Vicente Feola]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Jack Kelsey]]
+|-
+| DF ||'''2'''|| [[Stuart Williams (footballer)|Stuart Williams]]
+|-
+| DF ||'''3'''|| [[Mel Hopkins]]
+|-
+| DF ||'''4'''|| [[Derrick Sullivan]]
+|-
+| MF ||'''5'''|| [[Mel Charles]]
+|-
+| MF ||'''6'''|| [[Dave Bowen]] ([[Captain (association football)|c]])
+|-
+| FW ||'''7'''|| [[Terry Medwin]]
+|-
+| FW ||'''8'''|| [[Ron Hewitt (footballer, born 1928)|Ron Hewitt]]
+|-
+| FW ||'''19'''|| [[Colin Webster]]
+|-
+| FW ||'''10'''|| [[Ivor Allchurch]] 
+|-
+| FW ||'''11'''|| [[Cliff Jones (Welsh footballer)|Cliff Jones]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Jimmy Murphy (footballer)|Jimmy Murphy]]
+|}
+{{col-end}}
+
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Maurice Guigue]] ([[French Football Federation|France]])
+<br />[[Albert Dusch]] ([[German Football Association|West Germany]])
+|}
+
+===France vs Northern Ireland===
+
+<section begin=QF2 />{{Football box
+|date={{Start date|1958|6|19|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|FRA|1794}}
+|score={{score link|1958 FIFA World Cup knockout stage#France vs Northern Ireland|4–0}}
+|team2={{fb|NIR}}
+|goals1=
+*[[Maryan Wisnieski|Wisnieski]] {{goal|44}}
+*[[Just Fontaine|Fontaine]] {{goal|55||63}}
+*[[Roger Piantoni|Piantoni]] {{goal|68}}
+|goals2=
+|stadium=[[Nya Parken|Idrottsparken]], [[Norrköping]]
+|attendance=11,800
+|referee=Juan Gardeazábal Garay ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/221/1385 |title=France vs Northern Ireland {{!}} Quarter-final {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=221/match=1385/index.html |title=1958 FIFA World Cup Sweden – Matches – France v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171224213727/http://www.fifa.com/worldcup/matches/round=221/match=1385/index.html |archive-date=24 December 2017}} }}</ref>
+}}<section end=QF2 />
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collarblue_laced
+| pattern_ra = 
+| pattern_sh =  
+| pattern_so = _2_stripes_white
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = France
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _whiteborder
+| pattern_b  = _vneckwhite
+| pattern_ra = _whiteborder
+| pattern_sh =  
+| pattern_so = _whitetop
+| leftarm    = 009900
+| body       = 009900
+| rightarm   = 009900
+| shorts     = FFFFFF
+| socks      = 009900
+| title      = {{nowrap|Northern Ireland}}
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Claude Abbes]]
+|-
+| RB ||'''4'''|| [[Raymond Kaelbel]]
+|-
+| CH ||'''10'''|| [[Robert Jonquet]] ([[Captain (association football)|c]])
+|-
+| LB ||'''5'''|| [[André Lerond]]
+|-
+| RH ||'''13'''|| [[Armand Penverne]]
+|-
+| LH ||'''12'''|| [[Jean-Jacques Marcel]]
+|-
+| OR ||'''22'''|| [[Maryan Wisnieski]]
+|-
+| IR ||'''17'''|| [[Just Fontaine]]
+|-
+| SS ||'''18'''|| [[Raymond Kopa]]
+|-
+| IL ||'''20'''|| [[Roger Piantoni]]
+|-
+| OL ||'''21'''|| [[Jean Vincent]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Albert Batteux]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Harry Gregg]]
+|-
+| DF ||'''5'''|| [[Dick Keith]]
+|-
+| DF ||'''3'''|| [[Alf McMichael]]
+|-
+| DF ||'''2'''|| [[Willie Cunningham (Northern Irish footballer)|Willie Cunningham]]
+|-
+| MF ||'''4'''|| [[Danny Blanchflower]] ([[Captain (association football)|c]])
+|-
+| MF ||'''8'''|| [[Wilbur Cush]]
+|-
+| FW ||'''7'''|| [[Billy Bingham]]
+|-
+| FW ||'''13'''|| [[Tommy Casey]]
+|-
+| FW ||'''14'''|| [[Jackie Scott]]
+|-
+| FW ||'''10'''|| [[Jimmy McIlroy]]
+|-
+| FW ||'''11'''|| [[Peter McParland]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Peter Doherty (footballer)|Peter Doherty]]
+|}
+{{col-end}}
+
+===Sweden vs Soviet Union===
+
+<section begin=QF3 />{{Football box
+|date={{Start date|1958|6|19|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|SWE|1906}}
+|score={{score link|1958 FIFA World Cup knockout stage#Sweden vs Soviet Union|2–0}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Kurt Hamrin|Hamrin]] {{goal|49}}
+*[[Agne Simonsson|Simonsson]] {{goal|88}}
+|goals2=
+|stadium=[[Råsunda Stadium]], [[Solna]]
+|attendance=31,900
+|referee=[[Reginald Leafe]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/221/1437 |title=Sweden vs Soviet Union {{!}} Quarter-final {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=221/match=1437/index.html |title=1958 FIFA World Cup Sweden – Matches – Sweden v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223215804/http://www.fifa.com/worldcup/matches/round=221/match=1437/index.html |archive-date=23 December 2017}} }}</ref>
+}}<section end=QF3 />
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _swe58h
+ | pattern_ra =  
+ | pattern_so = _yellowtop
+ | leftarm    = FFDD33
+ | body       = FFDD33
+ | rightarm   = FFDD33
+ | shorts     = 005AD8
+ | socks      = 005AD8
+ | title      = Sweden
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Kalle Svensson]]
+|-
+| RB ||'''2'''|| [[Orvar Bergmark]]
+|-
+| CH ||'''14'''|| [[Bengt Gustavsson]]
+|-
+| LB ||'''3'''|| [[Sven Axbom]]
+|-
+| RH ||'''15'''|| [[Reino Börjesson]]
+|-
+| LH ||'''6'''|| [[Sigge Parling]]
+|-
+| OR ||'''7'''|| [[Kurt Hamrin]]
+|-
+| IR ||'''8'''|| [[Gunnar Gren]]
+|-
+| CF ||'''9'''|| [[Agne Simonsson]]
+|-
+| IL ||'''4'''|| [[Nils Liedholm]] ([[Captain (association football)|c]])
+|-
+| OL ||'''11'''|| [[Lennart Skoglund]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ENG}} [[George Raynor]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Lev Yashin]]
+|-
+| DF ||'''2'''|| [[Vladimir Kesarev]]
+|-
+| DF ||'''4'''|| [[Boris Kuznetsov (footballer, born 1928)|Boris Kuznetsov]]
+|-
+| DF ||'''5'''|| [[Yuri Voinov]]
+|-
+| MF ||'''3'''|| [[Konstantin Krizhevsky]]
+|-
+| MF ||'''16'''|| [[Viktor Tsarev]]
+|-
+| FW ||'''17'''|| [[Aleksandr Ivanov (footballer, born 1928)|Aleksandr Ivanov]]
+|-
+| FW ||'''8'''|| [[Valentin Kozmich Ivanov|Valentin Ivanov]]
+|-
+| FW ||'''9'''|| [[Nikita Simonyan]] ([[Captain (association football)|c]])
+|-
+| FW ||'''10'''|| [[Sergei Salnikov]]
+|-
+| FW ||'''11'''|| [[Anatoli Ilyin]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Gavriil Kachalin]]
+|}
+{{col-end}}
+
+===West Germany vs Yugoslavia===
+
+<section begin=QF4 />{{Football box
+|date={{Start date|1958|6|19|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|FRG}}
+|score={{score link|1958 FIFA World Cup knockout stage#West Germany vs Yugoslavia|1–0}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Helmut Rahn|Rahn]] {{goal|12}}
+|goals2=
+|stadium=[[Malmö Stadion]], [[Malmö]]
+|attendance=20,055
+|referee=Raymond Wyssling ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/221/1392 |title=Germany FR vs Yugoslavia {{!}} Quarter-final {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=221/match=1392/index.html |title=1958 FIFA World Cup Sweden – Matches – Germany FR v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212123609/http://www.fifa.com/worldcup/matches/round=221/match=1392/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=QF4 />
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _blackborder 
+ | pattern_b  = _blackcollar  
+ | pattern_ra = _blackborder 
+ | pattern_sh =  
+ | pattern_so = _whitetop
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff 
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = West Germany
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = _yugoslavia1962h
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _whitestripe
+ | leftarm    = 0261BF
+ | body       = 0261BF 
+ | rightarm   = 0261BF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Yugoslavia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Fritz Herkenrath]]
+|-
+| RB ||'''7'''||  [[Georg Stollenwerk]]
+|-
+| CH ||'''2'''|| [[Herbert Erhardt]]
+|-
+| LB ||'''3'''|| [[Erich Juskowiak]]
+|-
+| RH ||'''4'''|| [[Horst Eckel]]
+|-
+| LH ||'''6'''|| [[Horst Szymaniak]]
+|-
+| OR ||'''8'''|| [[Helmut Rahn]]
+|-
+| IR ||'''9'''|| [[Fritz Walter]]
+|-
+| CF ||'''12'''|| [[Uwe Seeler]]
+|-
+| IL ||'''10'''|| [[Alfred Schmidt (footballer)|Alfred Schmidt]]
+|-
+| OL ||'''11'''|| [[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Sepp Herberger]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''2'''|| [[Srboljub Krivokuća]]
+|-
+| DF ||'''4'''|| [[Tomislav Crnković (footballer)|Tomislav Crnković]]
+|-
+| DF ||'''3'''|| [[Vasilije Šijaković]]
+|-
+| DF ||'''6'''|| [[Branko Zebec]] ([[Captain (association football)|c]])
+|-
+| MF ||'''8'''|| [[Dobrosav Krstić]]
+|-
+| MF ||'''9'''|| [[Vujadin Boškov]]
+|-
+| FW ||'''12'''|| [[Aleksandar Petaković]]
+|-
+| FW ||'''19'''|| [[Radivoje Ognjanović]]
+|-
+| FW ||'''7'''|| [[Miloš Milutinović]]
+|-
+| FW ||'''13'''|| [[Todor Veselinović]]
+|-
+| FW ||'''17'''|| [[Zdravko Rajkov]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Aleksandar Tirnanić]]
+|}
+{{col-end}}
+
+==Semi-finals==
+
+===Brazil vs France===
+This was only the second time Brazil and France had ever faced each other, and the first in an official competition,<ref>{{cite web |title=France’s semi-finals at the World Cup |url=https://www.fifa.com/en/articles/world-cup-qatar-2022-france-previous-6-semi-finals-croatia-brazil-germany-portugal-belgium |website=www.fifa.com |access-date=15 May 2026 |date=December 2022}}</ref> having previously faced each other in a [[exhibition match|friendly match]] in [[Rio de Janeiro]] shortly after the [[1930 FIFA World Cup]].<ref>{{cite web |title=Rivals for nearly a century, Brazil and France are evenly matched |url=https://sports.yahoo.com/articles/rivals-nearly-century-brazil-v-113400494.html |website=Yahoo Sports |access-date=15 May 2026 |date=26 March 2026 |archive-date=27 March 2026 |archive-url=https://web.archive.org/web/20260327050655/https://sports.yahoo.com/articles/rivals-nearly-century-brazil-v-113400494.html |url-status=live }}</ref>
+
+Early on in the match, French captain [[Robert Jonquet]] tried to make a short pass to [[André Lerond]], but was intercepted by [[Garrincha]]. After passing it to [[Zito (footballer, born 1932)|Zito]], he was able to get the ball to [[Vavá]], who scored Brazil's first goal in the first two minutes.<ref name="Scotsman">{{cite news |title=Brazil show form which made them favourites |work=The Scotsman |issue=35905 |date=25 June 1958 |page=14}}</ref> However, [[Just Fontaine]] was able to score an equalizer for France seven minutes later, which was the first goal Brazil had conceded all tournament.<ref>{{cite news |title=3-GOAL PELE K.O.s FRANCE |work=Daily Express |issue=18066 |date=25 June 1958 |page=14}}</ref> In the 35th minute, Jonquet collided with Brazilian forward [[Vavá]], causing a double fracture in his [[fibula]].<ref name="Jonquet"/> While Jonquet was off the pitch being treated,<ref name="Genius"/> [[Didi (footballer, born 1928)|Didi]] scored in the 39th minute from 22 yards out to make it 2–1, giving Brazil the lead again.<ref name="Scotsman"/> Brazil then scored a third goal just before half-time, but it was disallowed by referee [[Sandy Griffiths|Benjamin Griffiths]] after consulting the linesman.<ref>{{cite news |title=Pele slams three |work=Daily Herald |issue=13160 |date=25 June 1958 |page=10}}</ref>
+
+Despite his injury in the first half, Jonquet returned to the field for the second half as to not leave France with 10 men due to substitutes not being allowed.<ref name="Jonquet">{{cite web |title=Robert JONQUET |url=https://www.fff.fr/equipe-nationale/joueur/8765-jonquet-robert/fiche.html |website=[[Fédération Française de Football]] |access-date=15 May 2026 |archive-date=30 May 2023 |archive-url=https://web.archive.org/web/20230530140913/https://www.fff.fr/equipe-nationale/joueur/8765-jonquet-robert/fiche.html |url-status=live }}</ref> He was moved to the left side of the field, swapping positions with [[Jean-Jacques Marcel]].<ref name="FRAvBRA">{{cite web |title=FRANCE 2–5 (1–2) BRESIL |url=http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=245 |website=[[Fédération Française de Football]] |access-date=15 May 2026 |archive-url=https://web.archive.org/web/20061208013642/http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=245 |archive-date=8 December 2006}}</ref> However, he spent most of the match limping on the left wing,<ref name="Genius">{{cite web |title=1958: Boy genius boosts Brazil |url=https://www.uefa.com/european-qualifiers/news/019c-0e6adb9fdf80-0d1cf41ed13a-1000--1958-boy-genius-boosts-brazil/ |website=UEFA.com |access-date=15 May 2026 |language=en |date=29 April 2004 |archive-date=26 November 2022 |archive-url=https://web.archive.org/web/20221126012605/https://www.uefa.com/european-qualifiers/news/019c-0e6adb9fdf80-0d1cf41ed13a-1000--1958-boy-genius-boosts-brazil/ |url-status=live }}</ref> effectively making it so that France were down to 10 men.<ref>{{cite web |last1=Scheibe |first1=John |title=This day in sports: Brazil's Pelé strikes it big in 1958 World Cup |url=https://www.latimes.com/sports/story/2020-06-24/this-day-in-sports-brazils-pele-strikes-it-big-in-1958-world-cup |website=Los Angeles Times |access-date=16 May 2026 |date=24 June 2020 |archive-date=19 November 2025 |archive-url=https://web.archive.org/web/20251119002916/https://www.latimes.com/sports/story/2020-06-24/this-day-in-sports-brazils-pele-strikes-it-big-in-1958-world-cup |url-status=live }}</ref>
+
+Following Jonquet's injury, Brazil started dominating the match.<ref name="BDP">{{cite news |title=Brazil's Brilliance |work=Birmingham Daily Post |issue=31146 |page=11 |date=25 June 1958}}</ref> During the second half, [[Pelé]] scored a hat-trick, the first of his international career, in the span of 23 minutes.<ref>{{cite web |last1=Mamrud |first1=Roberto |title=Edson Arantes do Nascimento "Pelé" – Goals in International Matches |url=https://www.rsssf.org/miscellaneous/pele-intlg.html |website=www.rsssf.org |access-date=16 May 2026 |date=23 May 2004 |archive-date=27 June 2019 |archive-url=https://web.archive.org/web/20190627023832/https://www.rsssf.org/miscellaneous/pele-intlg.html |url-status=live }}</ref> [[Roger Piantoni]] scored a second goal for France in the 83rd minute.<ref name="FRAvBRA"/>
+
+<section begin=SF1 />{{Football box
+|date={{Start date|1958|6|24|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|BRA|1889}}
+|score=5–2
+|team2={{fb|FRA|1794}}
+|goals1=
+*[[Vavá]] {{goal|2}}
+*[[Didi (footballer, born 1928)|Didi]] {{goal|39}}
+*[[Pelé]] {{goal|52||64||75}}
+|goals2=
+*[[Just Fontaine|Fontaine]] {{goal|9}}
+*[[Roger Piantoni|Piantoni]] {{goal|83}}
+|stadium=[[Råsunda Stadium]], [[Solna]]
+|attendance=27,100
+|referee=[[Sandy Griffiths|Benjamin Griffiths]] ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/488/1340 |title=Brazil vs France {{!}} Semi-final {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=488/match=1340/index.html |title=1958 FIFA World Cup Sweden – Matches – Brazil v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226140651/http://www.fifa.com/worldcup/matches/round=488/match=1340/index.html |archive-date=26 December 2017}} }}</ref>
+}}<section end=SF1 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides
+ | pattern_so = _brasil1954
+ | leftarm    = FDE910
+ | body       = FDE910
+ | rightarm   = FDE910
+ | shorts     = 62B0FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collarblue_laced
+| pattern_ra = 
+| pattern_sh =  
+| pattern_so = _2_stripes_white
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = France
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''3'''|| [[Gilmar]]
+|-
+| RB ||'''14'''|| [[Nílton de Sordi|De Sordi]]
+|-
+| CB ||'''2'''|| [[Hilderaldo Bellini]] ([[Captain (association football)|c]])
+|- 
+| CB ||'''15'''|| [[Orlando Peçanha|Orlando]]
+|-
+| LB ||'''12'''|| [[Nílton Santos]]
+|-
+| RH ||'''19'''|| [[Zito (footballer, born 1932)|Zito]]
+|-
+| LH ||'''6'''|| [[Didi (footballer, born 1928)|Didi]]
+|-
+| OR ||'''11'''|| [[Garrincha]]
+|-
+| CF ||'''20'''|| [[Vavá]]
+|-
+| CF ||'''10'''|| [[Pelé]]
+|-
+| OL ||'''7'''|| [[Mário Zagallo]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Vicente Feola]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Claude Abbes]]
+|-
+| RB ||'''4'''|| [[Raymond Kaelbel]]
+|-
+| CH ||'''10'''|| [[Robert Jonquet]] ([[Captain (association football)|c]])
+|- 
+| LB ||'''5'''|| [[André Lerond]]
+|-
+| RH ||'''13'''|| [[Armand Penverne]]
+|-
+| LH ||'''12'''|| [[Jean-Jacques Marcel]]
+|-
+| OR ||'''22'''|| [[Maryan Wisniewski]]
+|-
+| IR ||'''17'''|| [[Just Fontaine]]
+|-
+| SS ||'''18'''|| [[Raymond Kopa]] 
+|-
+| IL ||'''20'''|| [[Roger Piantoni]]
+|-
+| OL ||'''21'''|| [[Jean Vincent]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Albert Batteux]]
+|}
+{{col-end}}
+
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Paul Wyssling]] ([[Swiss Football Association|Switzerland]])
+<br />[[Reg Leafe]] ([[The Football Association|England]])
+|}
+
+===Sweden vs West Germany===
+
+<section begin=SF2 />{{Football box
+|date={{Start date|1958|6|24|df=y}}
+|time=19:00 ([[Central European Time|CET]])
+|team1={{fb-rt|SWE|1906}}
+|score={{score link|1958 FIFA World Cup knockout stage#Sweden vs West Germany|3–1}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Lennart Skoglund|Skoglund]] {{goal|32}}
+*[[Gunnar Gren|Gren]] {{goal|81}}
+*[[Kurt Hamrin|Hamrin]] {{goal|88}}
+|goals2=
+*[[Hans Schäfer|Schäfer]] {{goal|24}}
+|stadium=[[Ullevi]], [[Gothenburg]]
+|attendance=49,471
+|referee=[[István Zsolt]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/488/1390 |title=Sweden vs Germany FR {{!}} Semi-final {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=488/match=1390/index.html |title=1958 FIFA World Cup Sweden – Matches – Sweden v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031020550/http://www.fifa.com/worldcup/matches/round=488/match=1390/index.html |archive-date=31 October 2017}} }}</ref>
+}}<section end=SF2 />
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _swe58h
+ | pattern_ra =  
+ | pattern_so = _yellowtop
+ | leftarm    = FFDD33
+ | body       = FFDD33
+ | rightarm   = FFDD33
+ | shorts     = 005AD8
+ | socks      = 005AD8
+ | title      = Sweden
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _blackborder 
+ | pattern_b  = _blackcollar  
+ | pattern_ra = _blackborder 
+ | pattern_sh =  
+ | pattern_so = _whitetop
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff 
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = West Germany
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Kalle Svensson]]
+|-
+| RB ||'''2'''|| [[Orvar Bergmark]]
+|-
+| CH ||'''14'''|| [[Bengt Gustavsson]]
+|-
+| LB ||'''3'''|| [[Sven Axbom]]
+|-
+| RH ||'''15'''|| [[Reino Börjesson]]
+|-
+| LH ||'''6'''|| [[Sigge Parling]]
+|-
+| OR ||'''7'''|| [[Kurt Hamrin]]
+|-
+| IR ||'''8'''|| [[Gunnar Gren]]
+|-
+| CF ||'''9'''|| [[Agne Simonsson]]
+|-
+| IL ||'''4'''|| [[Nils Liedholm]] ([[Captain (association football)|c]])
+|-
+| OL ||'''11'''|| [[Lennart Skoglund]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ENG}} [[George Raynor]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Fritz Herkenrath]]
+|-
+| RB ||'''7'''||  [[Georg Stollenwerk]]
+|-
+| CH ||'''2'''|| [[Herbert Erhardt]]
+|-
+| LB ||'''3'''|| [[Erich Juskowiak]] || {{sent off|0|58}}
+|-
+| RH ||'''4'''|| [[Horst Eckel]]
+|-
+| LH ||'''6'''|| [[Horst Szymaniak]]
+|-
+| OR ||'''8'''|| [[Helmut Rahn]]
+|-
+| IR ||'''9'''|| [[Fritz Walter]]
+|-
+| CF ||'''12'''|| [[Uwe Seeler]]
+|-
+| IL ||'''11'''|| [[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+| OL ||'''14'''|| [[Hans Cieslarczyk]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Sepp Herberger]]
+|}
+{{col-end}}
+
+==Match for third place==
+{{see also|France–Germany football rivalry}}
+<section begin=TPP />{{Football box
+|date={{Start date|1958|6|28|df=y}}
+|time=17:00 ([[Central European Time|CET]])
+|team1={{fb-rt|FRA|1794}}
+|score={{score link|1958 FIFA World Cup knockout stage#Match for third place|6–3}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Just Fontaine|Fontaine]] {{goal|16||36||78||89}}
+*[[Raymond Kopa|Kopa]] {{goal|27|pen.}}
+*[[Yvon Douis|Douis]] {{goal|50}}
+|goals2=
+*[[Hans Cieslarczyk|Cieslarczyk]] {{goal|18}}
+*[[Helmut Rahn|Rahn]] {{goal|52}}
+*[[Hans Schäfer|Schäfer]] {{goal|84}}
+|stadium=[[Ullevi]], [[Gothenburg]]
+|attendance=32,483
+|referee=[[Juan Regis Brozzi]] ([[Asociación del Fútbol Argentino|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/15/3483/1382 |title=France vs Germany FR {{!}} Match for third place {{!}} 1958 FIFA World Cup Sweden |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3483/match=1382/index.html |title=1958 FIFA World Cup Sweden – Matches – France v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171226140653/http://www.fifa.com/worldcup/matches/round=3483/match=1382/index.html |archive-date=26 December 2017}} }}</ref>
+}}<section end=TPP />
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collarblue_laced
+| pattern_ra = 
+| pattern_sh =  
+| pattern_so = _2_stripes_white
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = France
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _blackborder 
+ | pattern_b  = _blackcollar  
+ | pattern_ra = _blackborder 
+ | pattern_sh =  
+ | pattern_so = _whitetop
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff 
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = West Germany
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Claude Abbes]]
+|-
+| RB ||'''4'''|| [[Raymond Kaelbel]]
+|-
+| LB ||'''5'''|| [[André Lerond]]
+|-
+| MF ||'''13'''|| [[Armand Penverne]] ([[Captain (association football)|c]])
+|-
+| MF ||'''11'''|| [[Maurice Lafont]]
+|-
+| MF ||'''12'''|| [[Jean-Jacques Marcel]]
+|-
+| OR ||'''22'''|| [[Maryan Wisnieski]]
+|-
+| FW ||'''16'''|| [[Yvon Douis]]
+|-
+| FW ||'''17'''|| [[Just Fontaine]]
+|-
+| FW ||'''18'''|| [[Raymond Kopa]]
+|-
+| OL ||'''21'''|| [[Jean Vincent]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Albert Batteux]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''22'''|| [[Heinz Kwiatkowski]]
+|-
+| RB ||'''7'''||  [[Georg Stollenwerk]]
+|-
+| CH ||'''2'''|| [[Herbert Erhardt]]
+|-
+| LB ||'''14'''|| [[Karl-Heinz Schnellinger]]
+|-
+| RH ||'''5'''|| [[Heinz Wewers]]
+|-
+| LH ||'''6'''|| [[Horst Szymaniak]]
+|-
+| OR ||'''8'''|| [[Helmut Rahn]]
+|-
+| FW ||'''16'''|| [[Hans Sturm (footballer)|Hans Sturm]]
+|-
+| FW ||'''15'''|| [[Alfred Kelbassa]]
+|-
+| IL ||'''11'''|| [[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+| OL ||'''14'''|| [[Hans Cieslarczyk]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| [[Sepp Herberger]]
+|}
+{{col-end}}
+
+==Final==
+{{Main|1958 FIFA World Cup final}}
+
+{{#lst:1958 FIFA World Cup final|Final}}
+{{#lst:1958 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1958sweden 1958 FIFA World Cup archive]
+
+{{1958 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:1958 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1958]]
+[[Category:Sweden at the 1958 FIFA World Cup]]
+[[Category:West Germany at the 1958 FIFA World Cup]]
+[[Category:France at the 1958 FIFA World Cup]]
+[[Category:Yugoslavia at the 1958 FIFA World Cup]]
+[[Category:Brazil at the 1958 FIFA World Cup]]
+[[Category:Northern Ireland at the 1958 FIFA World Cup]]
+[[Category:Wales at the 1958 FIFA World Cup]]
+[[Category:Soviet Union at the 1958 FIFA World Cup]]
+[[Category:Football in Gothenburg]]
+[[Category:Football in Östergötland County]]
+[[Category:Football in Stockholm County]]
+[[Category:Football in Malmö]]
+[[Category:International sports competitions in Malmö]]
+[[Category:International sports competitions in Gothenburg]]
+[[Category:Sports competitions in Norrköping]]
+[[Category:Sports competitions in Solna]]
+[[Category:20th century in Malmö]]
+[[Category:20th century in Gothenburg]]
+[[Category:20th century in Stockholm County]]
+[[Category:20th century in Östergötland County]]

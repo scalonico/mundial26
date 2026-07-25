@@ -1,0 +1,931 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=June 2018}}
+Group D of the [[2006 FIFA World Cup]] began on 11 June and completed on 21 June 2006.<ref>{{cite web |last=Saaid |first=Hamdan |url=https://www.rsssf.org/tables/2006full.html |title=World Cup 2006 – Match Details |publisher=[[RSSSF]] |date=7 February 2007 |access-date=30 April 2026}}</ref> [[Portugal national football team|Portugal]] won the group, and advanced to the round of 16 (for the first time since [[1966 FIFA World Cup|1966]]), along with [[Mexico national football team|Mexico]]. [[Angola national football team|Angola]] and [[Iran national football team|Iran]] failed to advance.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/9741?date=2006-06-23&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=POR
+|team2=MEX
+|team3=ANG
+|team4=IRN
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2006 FIFA World Cup#Ranking criteria|Tie-breaking criteria]]
+
+|win_POR=3 |draw_POR=0 |loss_POR=0 |gf_POR=5 |ga_POR=1
+|win_MEX=1 |draw_MEX=1 |loss_MEX=1 |gf_MEX=4 |ga_MEX=3
+|win_ANG=0 |draw_ANG=2 |loss_ANG=1 |gf_ANG=1 |ga_ANG=2
+|win_IRN=0 |draw_IRN=1 |loss_IRN=2 |gf_IRN=2 |ga_IRN=6
+
+|name_POR={{fb|POR}}
+|name_MEX={{fb|MEX}}
+|name_ANG={{fb|ANG}}
+|name_IRN={{fb|IRN}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2006 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Portugal advanced to play the Netherlands (runners-up of [[2006 FIFA World Cup Group C|Group C]]) in the [[2006 FIFA World Cup knockout stage#Portugal vs Netherlands|round of 16]].
+*Mexico advanced to play Argentina (winners of [[2006 FIFA World Cup Group C|Group C]]) in the [[2006 FIFA World Cup knockout stage#Argentina vs Mexico|round of 16]].
+
+==Matches==
+''All times local ([[Central European Summer Time|CEST/UTC+2]])''
+
+===Mexico vs Iran===
+<onlyinclude>{{#invoke:Football box|main|section=D1
+|date={{Start date|2006|6|11|df=y}}
+|time=18:00
+|team1={{fb-rt|MEX}}
+|score={{score link|2006 FIFA World Cup Group D#Mexico vs Iran|3–1}}
+|team2={{fb|IRN}}
+|goals1=
+*[[Omar Bravo|Bravo]] {{goal|28||76}}
+*[[Sinha (footballer)|Sinha]] {{goal|79}}
+|goals2=
+*[[Yahya Golmohammadi|Golmohammadi]] {{goal|36}}
+|stadium=[[Max-Morlock-Stadion|Frankenstadion]], [[Nuremberg]]
+|attendance=41,000
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410007 |title=Mexico vs Iran {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410007/index.html |title=2006 FIFA World Cup Germany – Matches – Mexico v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212020741/http://www.fifa.com/worldcup/matches/round=97410100/match=97410007/index.html |archive-date=12 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/07_0611_nur_mex-irn_fulltime__1150048819.pdf |title=Match Report – Group D – Mexico v Iran |publisher=[[FIFA]] |date=11 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053804/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/07_0611_nur_mex-irn_fulltime__1150048819.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mexh06
+ |pattern_b  = _mexh06
+ |pattern_ra = _mexh06
+ |pattern_sh = _mexh06
+ |pattern_so = _mexa06
+ |leftarm    = 005F1E
+ |body       = 005F1E
+ |rightarm   = 005F1E
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Mexico
+}}
+|{{Football kit
+ |pattern_la = _thingreenborder
+ |pattern_b  = _irn06a
+ |pattern_ra = _thingreenborder
+ |pattern_sh = _puma06withgreen
+ |pattern_so = _puma_2006_green
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Iran
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oswaldo Sánchez]]
+|-
+|RB ||'''16'''||[[Mario Méndez (Mexican footballer)|Mario Méndez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|LB ||'''3''' ||[[Carlos Salcido]] || {{yel|90+1}}
+|-
+|RM ||'''8''' ||[[Pável Pardo]]
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]] || {{yel|18}} || {{suboff|46}}
+|-
+|LM ||'''14'''||[[Gonzalo Pineda]]
+|-
+|RF ||'''19'''||[[Omar Bravo]]
+|-
+|CF ||'''9''' ||[[Jared Borgetti]] || || {{suboff|52}}
+|-
+|LF ||'''10'''||[[Guillermo Franco]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Sinha (footballer)|Sinha]] || || {{subon|46}}
+|-
+|MF ||'''23'''||[[Luis Ernesto Pérez]] || || {{subon|46}}
+|-
+|FW ||'''17'''||[[Francisco Fonseca]] || || {{subon|52}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Ricardo La Volpe]]
+|}
+|valign="top"|[[File:MEX-IRN 2006-06-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ebrahim Mirzapour]]
+|-
+|RB ||'''13'''||[[Hossein Kaebi]]
+|-
+|CB ||'''4''' ||[[Yahya Golmohammadi]]
+|-
+|CB ||'''5''' ||[[Rahman Rezaei]]
+|-
+|LB ||'''20'''||[[Mohammad Nosrati]] || || {{suboff|81}}
+|-
+|RM ||'''2''' ||[[Mehdi Mahdavikia]]
+|-
+|CM ||'''6''' ||[[Javad Nekounam]] || {{yel|55}}
+|-
+|CM ||'''14'''||[[Andranik Teymourian]]
+|-
+|LM ||'''8''' ||[[Ali Karimi]] || || {{suboff|62}}
+|-
+|CF ||'''10'''||[[Ali Daei]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Vahid Hashemian]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Mehrzad Madanchi]] || || {{subon|62}}
+|-
+|FW ||'''15'''||[[Arash Borhani]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CRO}} [[Branko Ivanković]]
+|}
+|}
+{{wikinews|Mexico score three against Iran in Group D}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Omar Bravo]] (Mexico)
+
+'''Assistant referees:'''
+<br />Cristiano Copelli ([[Italian Football Federation|Italy]])
+<br />Alessandro Stagnoli ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''Fifth official:'''
+<br />Enock Molefe ([[South African Football Association|South Africa]])
+|}
+
+===Angola vs Portugal===
+<onlyinclude>{{#invoke:Football box|main|section=D2
+|date={{Start date|2006|6|11|df=y}}
+|time=21:00
+|team1={{fb-rt|ANG}}
+|score={{score link|2006 FIFA World Cup Group D#Angola vs Portugal|0–1}}
+|team2={{fb|POR}}
+|goals1=
+|goals2=
+*[[Pauleta]] {{goal|4}}
+|stadium=[[RheinEnergieStadion]], [[Cologne]]
+|attendance=45,000
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410008 |title=Angola vs Portugal {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410008/index.html |title=2006 FIFA World Cup Germany – Matches – Angola v Portugal |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228213409/http://www.fifa.com/worldcup/matches/round=97410100/match=97410008/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/08_0611_cgn_ang-por_fulltime__1150059397.pdf |title=Match Report – Group D – Angola v Portugal |publisher=[[FIFA]] |date=11 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053817/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/08_0611_cgn_ang-por_fulltime__1150059397.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _thinredborder
+ |pattern_b  = _ang0608a
+ |pattern_ra = _thinredborder
+ |pattern_sh = _puma06onwhite
+ |pattern_so = _puma_2006_black
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Angola
+}}
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _por0608h
+ |pattern_ra = _Brazil_home_2006
+ |pattern_so = _por0608h
+ |leftarm    = 900020
+ |body       = 900020
+ |rightarm   = 900020
+ |shorts     = 900020
+ |socks      = 900020
+ |title      = Portugal
+|pattern_sh=_por0608h}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[João Ricardo (footballer, born 1970)|João Ricardo]]
+|-
+|RB ||'''20'''||[[Locó (footballer)|Locó]] || {{yel|45+3}}
+|-
+|CB ||'''3''' ||[[Jamba (footballer)|Jamba]] || {{yel|28}}
+|-
+|CB ||'''5''' ||[[Kali (footballer)|Kali]]
+|-
+|LB ||'''21'''||[[Luís Manuel Ferreira Delgado|Luís Delgado]]
+|-
+|RM ||'''17'''||[[Zé Kalanga]] || || {{suboff|70}}
+|-
+|CM ||'''8''' ||[[André Macanga]] || {{yel|52}}
+|-
+|CM ||'''11'''||[[Mateus Galiano da Costa|Mateus]]
+|-
+|CM ||'''7''' ||[[Paulo Figueiredo]] || || {{suboff|80}}
+|-
+|LM ||'''14'''||[[António Mendonça]]
+|-
+|CF ||'''10'''||[[Akwá]] ([[Captain (association football)|c]]) || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Mantorras]] || || {{subon|60}}
+|-
+|MF ||'''13'''||[[Édson Nobre|Édson]] || || {{subon|70}}
+|-
+|MF ||'''6''' ||[[Miloy]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luís Oliveira Gonçalves]]
+|}
+|valign="top"|[[File:ANG-POR 2006-06-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ricardo (footballer, born 1976)|Ricardo]]
+|-
+|RB ||'''13'''||[[Miguel Monteiro|Miguel]]
+|-
+|CB ||'''5''' ||[[Fernando Meira]]
+|-
+|CB ||'''16'''||[[Ricardo Carvalho]]
+|-
+|LB ||'''14'''||[[Nuno Valente]] || {{yel|79}}
+|-
+|CM ||'''19'''||[[Tiago Mendes|Tiago]] || || {{suboff|83}}
+|-
+|CM ||'''8''' ||[[Petit (Portuguese footballer)|Petit]] || || {{suboff|72}}
+|-
+|RW ||'''17'''||[[Cristiano Ronaldo]] || {{yel|26}} || {{suboff|60}}
+|-
+|AM ||'''7''' ||[[Luís Figo]] ([[Captain (association football)|c]])
+|-
+|LW ||'''11'''||[[Simão Sabrosa|Simão]]
+|-
+|CF ||'''9''' ||[[Pauleta]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Costinha]] || || {{subon|60}}
+|-
+|MF ||'''18'''||[[Maniche]] || || {{subon|72}}
+|-
+|MF ||'''10'''||[[Hugo Viana]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Luiz Felipe Scolari]]
+|}
+|}
+{{wikinews|Portugal win against World Cup first timers in Group D}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Luís Figo]] (Portugal)
+
+'''Assistant referees:'''
+<br />Wálter Rial ([[Uruguayan Football Association|Uruguay]])
+<br />Pablo Fandino ([[Uruguayan Football Association|Uruguay]])
+<br />'''Fourth official:'''
+<br />[[Kevin Stott]] ([[United States Soccer Federation|United States]])
+<br />'''Fifth official:'''
+<br />Chris Strickland ([[United States Soccer Federation|United States]])
+|}
+
+===Mexico vs Angola===
+<onlyinclude>{{#invoke:Football box|main|section=D3
+|date={{Start date|2006|6|16|df=y}}
+|time=21:00
+|team1={{fb-rt|MEX}}
+|score={{score link|2006 FIFA World Cup Group D#Mexico vs Angola|0–0}}
+|team2={{fb|ANG}}
+|goals1=
+|goals2=
+|stadium=[[Niedersachsenstadion]], [[Hanover]]
+|attendance=43,000
+|referee=[[Shamsul Maidin]] ([[Football Association of Singapore|Singapore]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410023 |title=Mexico vs Angola {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410023/index.html |title=2006 FIFA World Cup Germany – Matches – Mexico v Angola |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170711041329/http://www.fifa.com/worldcup/matches/round=97410100/match=97410023/index.html |archive-date=11 July 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/23_0616_han_mex-ang_fulltime__1150491486.pdf |title=Match Report – Group D – Mexico v Angola |publisher=[[FIFA]] |date=16 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054223/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/23_0616_han_mex-ang_fulltime__1150491486.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _mexa06
+|pattern_b  = _mexa06
+|pattern_ra = _mexa06
+|pattern_sh = _mexa06
+|pattern_so = _mexa06
+|leftarm    = 005F1E
+|body       = 005F1E
+|rightarm   = 005F1E
+|shorts     = 005F1E
+|socks      = FFFFFF
+|title      = Mexico
+}}
+|{{Football kit
+ |pattern_la = _thinyellowborder
+ |pattern_b  = _ang0608h
+ |pattern_ra = _thinyellowborder
+ |pattern_sh = _puma06withwhite
+ |pattern_so = _puma_2006_yellow
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Angola
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oswaldo Sánchez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|CB ||'''3''' ||[[Carlos Salcido]]
+|-
+|RM ||'''16'''||[[Mario Méndez (Mexican footballer)|Mario Méndez]]
+|-
+|CM ||'''6''' ||[[Gerardo Torrado]]
+|-
+|CM ||'''7''' ||[[Sinha (footballer)|Sinha]] || || {{suboff|52}}
+|-
+|CM ||'''8''' ||[[Pável Pardo]]
+|-
+|LM ||'''14'''||[[Gonzalo Pineda]] || {{yel|59}} || {{suboff|78}}
+|-
+|CF ||'''19'''||[[Omar Bravo]]
+|-
+|CF ||'''10'''||[[Guillermo Franco]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Jesús Arellano]] || || {{subon|52}}
+|-
+|FW ||'''17'''||[[Francisco Fonseca]] || || {{subon|74}}
+|-
+|FW ||'''11'''||[[Ramón Morales]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Ricardo La Volpe]]
+|}
+|valign="top"|[[File:MEX-ANG 2006-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[João Ricardo (footballer, born 1970)|João Ricardo]] || {{yel|86}}
+|-
+|RB ||'''20'''||[[Locó (footballer)|Locó]]
+|-
+|CB ||'''3''' ||[[Jamba (footballer)|Jamba]]
+|-
+|CB ||'''5''' ||[[Kali (footballer)|Kali]]
+|-
+|LB ||'''21'''||[[Luís Manuel Ferreira Delgado|Luís Delgado]] || {{yel|13}}
+|-
+|RM ||'''8''' ||[[André Macanga]] || {{sent off|2|44|79}}
+|-
+|CM ||'''17'''||[[Zé Kalanga]] || {{yel|50}} || {{suboff|83}}
+|-
+|CM ||'''7''' ||[[Paulo Figueiredo]] || || {{suboff|73}}
+|-
+|CM ||'''11'''||[[Mateus Galiano da Costa|Mateus]] || || {{suboff|68}}
+|-
+|LM ||'''14'''||[[António Mendonça]]
+|-
+|CF ||'''10'''||[[Akwá]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Mantorras]] || || {{subon|68}}
+|-
+|DF ||'''15'''||[[Rui Marques]] || || {{subon|73}}
+|-
+|MF ||'''6''' ||[[Miloy]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luís Oliveira Gonçalves]]
+|}
+|}
+{{wikinews|Angola hold Mexico to 0-0 draw in Group D}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[João Ricardo (footballer, born 1970)|João Ricardo]] (Angola)
+
+'''Assistant referees:'''
+<br />Prachya Permpanich ([[Football Association of Thailand|Thailand]])
+<br />Eisa Gholoum ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''Fourth official:'''
+<br />Carlos Chandía ([[Football Federation of Chile|Chile]])
+<br />'''Fifth official:'''
+<br />Rodrigo González ([[Football Federation of Chile|Chile]])
+|}
+
+===Portugal vs Iran===
+<onlyinclude>{{#invoke:Football box|main|section=D4
+|date={{Start date|2006|6|17|df=y}}
+|time=15:00
+|team1={{fb-rt|POR}}
+|score={{score link|2006 FIFA World Cup Group D#Portugal vs Iran|2–0}}
+|team2={{fb|IRN}}
+|goals1=
+*[[Deco]] {{goal|63}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|80|pen.}}
+|goals2=
+|stadium=[[Waldstadion (Frankfurt)|Waldstadion]], [[Frankfurt]]
+|attendance=48,000
+|referee=[[Éric Poulat]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410024 |title=Portugal vs Iran {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410024/index.html |title=2006 FIFA World Cup Germany – Matches – Portugal v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227055742/http://www.fifa.com/worldcup/matches/round=97410100/match=97410024/index.html |archive-date=27 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/24_0617_frf_por-irn_fulltime__1150556625.pdf |title=Match Report – Group D – Portugal v Iran |publisher=[[FIFA]] |date=17 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054230/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/24_0617_frf_por-irn_fulltime__1150556625.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _por0608h
+ |pattern_ra = _Brazil_home_2006
+ |pattern_so = _por0608h
+ |leftarm    = 900020
+ |body       = 900020
+ |rightarm   = 900020
+ |shorts     = 900020
+ |socks      = 900020
+ |title      = Portugal
+|pattern_sh=_por0608h}}
+|{{Football kit
+ |pattern_la = _thinredborder
+ |pattern_b  = _irn06h
+ |pattern_ra = _thinredborder
+ |pattern_sh = _puma06onwhite
+ |pattern_so = _puma_2006_red
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = DD0000
+ |socks      = FFFFFF
+ |title      = Iran
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ricardo (footballer, born 1976)|Ricardo]]
+|-
+|RB ||'''13'''||[[Miguel Monteiro|Miguel]]
+|-
+|CB ||'''5''' ||[[Fernando Meira]]
+|-
+|CB ||'''16'''||[[Ricardo Carvalho]]
+|-
+|LB ||'''14'''||[[Nuno Valente]]
+|-
+|CM ||'''6''' ||[[Costinha]] || {{yel|61}}
+|-
+|CM ||'''18'''||[[Maniche]] || || {{suboff|66}}
+|-
+|RW ||'''7''' ||[[Luís Figo]] ([[Captain (association football)|c]]) || || {{suboff|88}}
+|-
+|AM ||'''20'''||[[Deco]] || {{yel|48}} || {{suboff|80}}
+|-
+|LW ||'''17'''||[[Cristiano Ronaldo]]
+|-
+|CF ||'''9''' ||[[Pauleta]] || {{yel|45+1}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Petit (Portuguese footballer)|Petit]] || || {{subon|66}}
+|-
+|MF ||'''19'''||[[Tiago Mendes|Tiago]] || || {{subon|80}}
+|-
+|FW ||'''11'''||[[Simão Sabrosa|Simão]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:POR-IRN 2006-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ebrahim Mirzapour]]
+|-
+|RB ||'''13'''||[[Hossein Kaebi]] || {{yel|73}}
+|-
+|CB ||'''4''' ||[[Yahya Golmohammadi]] ([[Captain (association football)|c]]) || {{yel|88}} || {{suboff|88}}
+|-
+|CB ||'''5''' ||[[Rahman Rezaei]]
+|-
+|LB ||'''20'''||[[Mohammad Nosrati]]
+|-
+|RM ||'''2''' ||[[Mehdi Mahdavikia]]
+|-
+|CM ||'''14'''||[[Andranik Teymourian]]
+|-
+|CM ||'''6''' ||[[Javad Nekounam]] || {{yel|20}}
+|-
+|LM ||'''21'''||[[Mehrzad Madanchi]] || {{yel|32}} || {{suboff|66}}
+|-
+|AM ||'''8''' ||[[Ali Karimi]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||[[Vahid Hashemian]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Ferydoon Zandi]] || || {{subon|65}}
+|-
+|FW ||'''11'''||[[Rasoul Khatibi]] || || {{subon|66}}
+|-
+|DF ||'''3''' ||[[Sohrab Bakhtiarizadeh]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CRO}} [[Branko Ivanković]]
+|}
+|}
+{{wikinews|Portugal beat Iran 2-0 in Group D}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Deco]] (Portugal)
+
+'''Assistant referees:'''
+<br />Lionel Dagorne ([[French Football Federation|France]])
+<br />Vincent Texier ([[French Football Federation|France]])
+<br />'''Fourth official:'''
+<br />[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+<br />'''Fifth official:'''
+<br />Brahim Djezzar ([[Algerian Football Federation|Algeria]])
+|}
+
+===Portugal vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=D5
+|date={{Start date|2006|6|21|df=y}}
+|time=16:00
+|team1={{fb-rt|POR}}
+|score={{score link|2006 FIFA World Cup Group D#Portugal vs Mexico|2–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Maniche]] {{goal|6}}
+*[[Simão Sabrosa|Simão]] {{goal|24|pen.}}
+|goals2=
+*[[Francisco Fonseca|Fonseca]] {{goal|29}}
+|stadium=[[Arena AufSchalke]], [[Gelsenkirchen]]
+|attendance=52,000
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410039 |title=Portugal vs Mexico {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410039/index.html |title=2006 FIFA World Cup Germany – Matches – Portugal v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229063016/http://www.fifa.com/worldcup/matches/round=97410100/match=97410039/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/39_0621_gel_por-mex_fulltime__1150905349.pdf |title=Match Report – Group D – Portugal v Mexico |publisher=[[FIFA]] |date=21 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054543/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/39_0621_gel_por-mex_fulltime__1150905349.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _Brazil_home_2006
+ |pattern_b  = _por0608h
+ |pattern_ra = _Brazil_home_2006
+ |pattern_so = _por0608h
+ |leftarm    = 900020
+ |body       = 900020
+ |rightarm   = 900020
+ |shorts     = 900020
+ |socks      = 900020
+ |title      = Portugal
+|pattern_sh=_por0608h}}
+|{{Football kit
+|pattern_la = _mexa06
+|pattern_b  = _mexa06
+|pattern_ra = _mexa06
+|pattern_sh = _mexa06
+|pattern_so = _mexa06
+|leftarm    = 005F1E
+|body       = 005F1E
+|rightarm   = 005F1E
+|shorts     = 005F1E
+|socks      = FFFFFF
+|title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ricardo (footballer, born 1976)|Ricardo]]
+|-
+|RB ||'''13'''||[[Miguel Monteiro|Miguel]] || {{yel|26}} || {{suboff|61}}
+|-
+|CB ||'''5''' ||[[Fernando Meira]]
+|-
+|CB ||'''16'''||[[Ricardo Carvalho]]
+|-
+|LB ||'''3''' ||[[Marco Caneira]]
+|-
+|CM ||'''19'''||[[Tiago Mendes|Tiago]]
+|-
+|CM ||'''8''' ||[[Petit (Portuguese footballer)|Petit]]
+|-
+|CM ||'''18'''||[[Maniche]] || {{yel|69}}
+|-
+|RW ||'''7''' ||[[Luís Figo]] ([[Captain (association football)|c]]) || || {{suboff|80}}
+|-
+|LW ||'''11'''||[[Simão Sabrosa|Simão]]
+|-
+|CF ||'''23'''||[[Hélder Postiga]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Paulo Ferreira]] || || {{subon|61}}
+|-
+|FW ||'''21'''||[[Nuno Gomes]] || {{yel|90+1}} || {{subon|69}}
+|-
+|FW ||'''15'''||[[Luís Boa Morte]] || {{yel|88}} || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:POR-MEX 2006-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Oswaldo Sánchez]]
+|-
+|CB ||'''22'''||[[Francisco Javier Rodríguez]] || {{yel|22}} || {{suboff|46}}
+|-
+|CB ||'''5''' ||[[Ricardo Osorio]]
+|-
+|CB ||'''3''' ||[[Carlos Salcido]]
+|-
+|RM ||'''16'''||[[Mario Méndez (Mexican footballer)|Mario Méndez]] || || {{suboff|80}}
+|-
+|CM ||'''8''' ||[[Pável Pardo]]
+|-
+|CM ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|CM ||'''23'''||[[Luis Ernesto Pérez]] || {{sent off|2|27|61}}
+|-
+|LM ||'''14'''||[[Gonzalo Pineda]] || || {{suboff|69}}
+|-
+|CF ||'''17'''||[[Francisco Fonseca]]
+|-
+|CF ||'''19'''||[[Omar Bravo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Sinha (footballer)|Sinha]] || {{yel|87}} || {{subon|46}}
+|-
+|MF ||'''15'''||[[José Antonio Castro]] || || {{subon|69}}
+|-
+|FW ||'''10'''||[[Guillermo Franco]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Ricardo La Volpe]]
+|}
+|}
+{{wikinews|Mexico lose 1-2 to Portugal but still qualify in Group D}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Francisco Fonseca]] (Mexico)
+
+'''Assistant referees:'''
+<br />Roman Slyško ([[Slovak Football Association|Slovakia]])
+<br />Martin Balko ([[Slovak Football Association|Slovakia]])
+<br />'''Fourth official:'''
+<br />[[Essam Abd El Fatah]] ([[Egyptian Football Association|Egypt]])
+<br />'''Fifth official:'''
+<br />Mamadou N'Doye ([[Senegalese Football Federation|Senegal]])
+|}
+
+===Iran vs Angola===
+<onlyinclude>{{#invoke:Football box|main|section=D6
+|date={{Start date|2006|6|21|df=y}}
+|time=16:00
+|team1={{fb-rt|IRN}}
+|score={{score link|2006 FIFA World Cup Group D#Iran vs Angola|1–1}}
+|team2={{fb|ANG}}
+|goals1=
+*[[Sohrab Bakhtiarizadeh|Bakhtiarizadeh]] {{goal|75}}
+|goals2=
+*[[Flávio Amado|Flávio]] {{goal|60}}
+|stadium=[[Red Bull Arena (Leipzig)|Zentralstadion]], [[Leipzig]]
+|attendance=38,000
+|referee=[[Mark Shield]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410040 |title=Iran vs Angola {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410040/index.html |title=2006 FIFA World Cup Germany – Matches – Iran v Angola |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171218051742/http://www.fifa.com/worldcup/matches/round=97410100/match=97410040/index.html |archive-date=18 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/40_0621_lei_irn-ang_fulltime__1150905570.pdf |title=Match Report – Group D – Iran v Angola |publisher=[[FIFA]] |date=21 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054530/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/40_0621_lei_irn-ang_fulltime__1150905570.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _thinredborder
+ |pattern_b  = _irn06h
+ |pattern_ra = _thinredborder
+ |pattern_sh = _puma06onwhite
+ |pattern_so = _puma_2006_red
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = DD0000
+ |socks      = FFFFFF
+ |title      = Iran
+}}
+|{{Football kit
+ |pattern_la = _thinyellowborder
+ |pattern_b  = _ang0608h
+ |pattern_ra = _thinyellowborder
+ |pattern_sh = _puma06withwhite
+ |pattern_so = _puma_2006_yellow
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Angola
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ebrahim Mirzapour]]
+|-
+|RB ||'''13'''||[[Hossein Kaebi]] || || {{suboff|67}}
+|-
+|CB ||'''5''' ||[[Rahman Rezaei]]
+|-
+|CB ||'''3''' ||[[Sohrab Bakhtiarizadeh]]
+|-
+|LB ||'''20'''||[[Mohammad Nosrati]] || || {{suboff|13}}
+|-
+|RM ||'''2''' ||[[Mehdi Mahdavikia]]
+|-
+|CM ||'''14'''||[[Andranik Teymourian]] || {{yel|55}}
+|-
+|CM ||'''7''' ||[[Ferydoon Zandi]] || {{yel|90+1}}
+|-
+|LM ||'''21'''||[[Mehrzad Madanchi]] || {{yel|37}}
+|-
+|CF ||'''9''' ||[[Vahid Hashemian]] || || {{suboff|39}}
+|-
+|CF ||'''10'''||[[Ali Daei]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''23'''||[[Masoud Shojaei]] || || {{subon|13}}
+|-
+|FW ||'''11'''||[[Rasoul Khatibi]] || || {{subon|39}}
+|-
+|FW ||'''15'''||[[Arash Borhani]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CRO}} [[Branko Ivanković]]
+|}
+|valign="top"|[[File:IRN-ANG 2006-06-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[João Ricardo (footballer, born 1970)|João Ricardo]]
+|-
+|RB ||'''20'''||[[Locó (footballer)|Locó]] || {{yel|22}}
+|-
+|CB ||'''3''' ||[[Jamba (footballer)|Jamba]]
+|-
+|CB ||'''5''' ||[[Kali (footballer)|Kali]]
+|-
+|LB ||'''21'''||[[Luís Manuel Ferreira Delgado|Luís Delgado]]
+|-
+|RM ||'''17'''||[[Zé Kalanga]] || {{yel|67}}
+|-
+|CM ||'''6''' ||[[Miloy]]
+|-
+|CM ||'''7''' ||[[Paulo Figueiredo]] || || {{suboff|73}}
+|-
+|CM ||'''11'''||[[Mateus Galiano da Costa|Mateus]] || || {{suboff|23}}
+|-
+|LM ||'''14'''||[[António Mendonça]] || {{yel|45+1}}
+|-
+|CF ||'''10'''||[[Akwá]] ([[Captain (association football)|c]]) || || {{suboff|51}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Love (footballer)|Love]] || || {{subon|23}}
+|-
+|FW ||'''16'''||[[Flávio Amado|Flávio]] || || {{subon|51}}
+|-
+|DF ||'''15'''||[[Rui Marques]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luís Oliveira Gonçalves]]
+|}
+|}
+{{wikinews|Angola draw 1-1 with Iran in Group D}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Zé Kalanga]] (Angola)
+
+'''Assistant referees:'''
+<br />Nathan Gibson ([[Football Federation Australia|Australia]])
+<br />Ben Wilson ([[Football Federation Australia|Australia]])
+<br />'''Fourth official:'''
+<br />[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+<br />'''Fifth official:'''
+<br />Aristeu Tavares ([[Brazilian Football Confederation|Brazil]])
+|}
+
+==See also==
+*[[Angola at the FIFA World Cup]]
+*[[Iran at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Portugal at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2006 FIFA World Cup}}
+
+{{DEFAULTSORT:Group D}}
+[[Category:2006 FIFA World Cup group stage|D]]
+[[Category:Portugal at the 2006 FIFA World Cup]]
+[[Category:Iran at the 2006 FIFA World Cup]]
+[[Category:Angola at the 2006 FIFA World Cup]]
+[[Category:Mexico at the 2006 FIFA World Cup]]
+[[Category:Football in Middle Franconia]]
+[[Category:Sports competitions in Nuremberg]]
+[[Category:21st century in Nuremberg]]
+[[Category:2006 in Bavaria]]
+[[Category:Sports competitions in Cologne]]
+[[Category:2000s in Cologne]]
+[[Category:Football in North Rhine-Westphalia]]
+[[Category:Sports competitions in Hanover]]
+[[Category:Football in Lower Saxony]]
+[[Category:21st century in Hanover]]
+[[Category:2000s in Lower Saxony]]
+[[Category:Football competitions in Frankfurt]]
+[[Category:2000s in Frankfurt]]
+[[Category:2000s in North Rhine-Westphalia]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:21st century in Gelsenkirchen]]
+[[Category:Sports competitions in Leipzig]]
+[[Category:Football in Saxony]]
+[[Category:21st century in Leipzig]]
+[[Category:2000s in Saxony]]

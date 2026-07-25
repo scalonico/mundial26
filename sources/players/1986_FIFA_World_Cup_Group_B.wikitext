@@ -1,0 +1,919 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group B of the 1986 FIFA  World Cup''' was one of the groups of nations competing at the [[1986 FIFA World Cup]]. The group's first round of matches began on 3 June and its last matches were played on 11 June. Matches were played at the [[Estadio Azteca]] in [[Mexico City]] and at the [[Estadio Nemesio Díez]] in [[Toluca]].<ref>{{cite web |url=https://www.rsssf.org/tables/86full.html |title=World Cup 1986 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Host [[Mexico national football team|Mexico]] topped the group, joined in the second round by [[Belgium national football team|Belgium]] and by [[Paraguay national football team|Paraguay]], who were making their first appearance in the finals since 1958. [[Iraq national football team|Iraq]], making their debut in the World Cup, lost all three of their matches and scored just one goal.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/mexico1986/groups/index.html FIFA]
+
+|team1=MEX |team2=PAR |team3=BEL |team4=IRQ
+|result1=KO |result2=KO |result3=KO
+
+|win_MEX=2 |draw_MEX=1 |loss_MEX=0 |gf_MEX=4 |ga_MEX=2  |status_MEX=H
+|win_PAR=1 |draw_PAR=2 |loss_PAR=0 |gf_PAR=4 |ga_PAR=3
+|win_BEL=1 |draw_BEL=1 |loss_BEL=1 |gf_BEL=5 |ga_BEL=5
+|win_IRQ=0 |draw_IRQ=0 |loss_IRQ=3 |gf_IRQ=1 |ga_IRQ=4
+
+|name_PAR={{fb|PAR|1954}}
+|name_IRQ={{fb|IRQ|1963}}
+|name_MEX={{fb|MEX}}
+|name_BEL={{fb|BEL}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1986 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Belgium vs Mexico===
+
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|1986|6|3|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|BEL}}
+|score={{score link|1986 FIFA World Cup Group B#Belgium vs Mexico|1–2}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Erwin Vandenbergh|Vandenbergh]] {{goal|45}}
+|goals2=
+*[[Fernando Quirarte|Quirarte]] {{goal|23}}
+*[[Hugo Sánchez|Sánchez]] {{goal|39}}
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=110,000
+|referee=[[Carlos Espósito]] ([[Asociación del Fútbol Argentino|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/428 |title=Belgium vs Mexico {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=428/index.html |title=1986 FIFA World Cup Mexico – Matches – Belgium v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228224837/http://www.fifa.com/worldcup/matches/round=308/match=428/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bel86a
+ | pattern_b  = _bel86a
+ | pattern_ra = _bel86a
+ | pattern_sh = _bel86h
+ | pattern_so = _belgium1990a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Belgium
+}}
+|{{Football kit
+|pattern_la = _ger86a
+|pattern_b = _mex86h
+|pattern_ra = _ger86a
+|pattern_sh = _mex86h
+|pattern_so = _3_stripes_white
+|leftarm = 008000
+|body = 008000
+|rightarm = 008000
+|shorts = FFFFFF
+|socks = F20000
+ | title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Jean-Marie Pfaff]]
+|-
+|DF || '''19''' || [[Hugo Broos]]
+|-
+|DF || '''2''' || [[Eric Gerets]]
+|-
+|DF || '''3''' || [[Franky Van Der Elst]] || {{yel|56}}
+|-
+|DF || '''4''' || [[Michel De Wolf]]
+|-
+|MF || '''6''' || [[Franky Vercauteren]]
+|-
+|MF || '''7''' || [[René Vandereycken]]
+|-
+|MF || '''10''' || [[Philippe Desmet]] || || {{suboff|60}}
+|-
+|MF || '''8''' || [[Enzo Scifo]]
+|-
+|MF || '''11''' || [[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|FW || '''9''' || [[Erwin Vandenbergh]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jacky Munaron]]
+|
+|
+|-
+|DF
+|'''13'''
+|[[Georges Grün]]
+|
+|
+|-
+|DF
+|'''5'''
+|[[Michel Renquin]]
+|
+|
+|-
+|FW || '''16''' || [[Nico Claesen]] || || {{subon|60}}
+|-
+|MF || '''21''' || [[Stéphane Demol]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BEL}} [[Guy Thys]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Pablo Larios]]
+|-
+|DF || '''2''' || [[Mario Trejo (footballer, born 1956)|Mario Trejo]]
+|-
+|DF || '''3''' || [[Fernando Quirarte]]
+|-
+|DF || '''14''' || [[Félix Cruz]]
+|-
+|DF || '''17''' || [[Raúl Servín]]
+|-
+|MF || '''16''' || [[Carlos Muñoz (Mexican footballer)|Carlos Muñoz]] || {{yel|83}}
+|-
+|MF || '''10''' || [[Tomás Boy]] ([[Captain (association football)|c]]) || || {{suboff|69}}
+|-
+|MF || '''13''' || [[Javier Aguirre]]
+|-
+|FW || '''22''' || [[Manuel Negrete Arias|Manuel Negrete]]
+|-
+|FW || '''15''' || [[Luis Flores (Mexican footballer)|Luis Flores]] || || {{suboff|79}}
+|-
+|FW || '''9''' || [[Hugo Sánchez]] || {{yel|23}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''20'''
+|[[Olaf Heredia]]
+|
+|
+|-
+|MF
+|'''8'''
+|[[Alejandro Domínguez (Mexican footballer)|Alejandro Domínguez]]
+|
+|
+|-
+|MF || '''7''' || [[Miguel España]] || || {{subon|69}}
+|-
+|FW || '''5''' || [[Francisco Javier Cruz]] || || {{subon|79}}
+|-
+|FW
+|'''11'''
+|[[Carlos Hermosillo]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|YUG}} [[Bora Milutinović]]
+|}
+|}
+
+===Paraguay vs Iraq===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|1986|6|4|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|PAR|1954}}
+|score={{score link|1986 FIFA World Cup Group B#Paraguay vs Iraq|1–0}}
+|team2={{fb|IRQ|1963}}
+|goals1=
+*[[Julio César Romero|Romero]] {{goal|35}}
+|goals2=
+|stadium=[[Estadio Nemesio Díez|Estadio Toluca 70–86]], [[Toluca]]
+|attendance=24,000
+|referee=[[Edwin Picon-Ackong]] ([[Mauritius Football Association|Mauritius]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/628 |title=Paraguay vs Iraq {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=628/index.html |title=1986 FIFA World Cup Mexico – Matches – Paraguay v Iraq |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228220917/http://www.fifa.com/worldcup/matches/round=308/match=628/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _paraguay86
+ | pattern_b  = _paraguay86
+ | pattern_ra = _paraguay86
+ | pattern_sh = _paraguay86
+ | pattern_so = 
+ | leftarm    = DD0000
+ | body       = DD0000
+ | rightarm   = DD0000
+ | shorts     = ff0000
+ | socks      = 0000ff
+ | title      = Paraguay
+}}
+|{{Football kit
+ | pattern_la = _irq86a
+ | pattern_b  = _irq86a
+ | pattern_ra = _irq86a
+ | pattern_sh = _irq86a
+ | pattern_so = _irq86a
+ | leftarm    = FFD020
+ | body       = FFD020
+ | rightarm   = FFD020
+ | shorts     = FFBB00
+ | socks      = FFBB00
+ | title      = Iraq
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Roberto Fernández (footballer, born 1954)|Roberto Fernández]]
+|-
+|DF || '''2''' || [[Juan Torales]]
+|-
+|DF || '''3''' || [[César Zabala]]
+|-
+|DF || '''4''' || [[Vladimiro Schettina]] || {{yel|45}}
+|-
+|DF || '''5''' || [[Rogelio Delgado]] ([[Captain (association football)|c]])
+|-
+|MF || '''6''' || [[Jorge Amado Nunes]]
+|-
+|MF || '''10''' || [[Adolfino Cañete]]
+|-
+|MF || '''8''' || [[Julio César Romero]]
+|-
+|FW || '''7''' || [[Buenaventura Ferreira]]
+|-
+|FW || '''11''' || [[Alfredo Mendoza]] || || {{suboff|88}}
+|-
+|FW || '''9''' || [[Roberto Cabañas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''16''' || [[Jorge Guasch]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|PAR|1954}} [[Cayetano Ré]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Raad Hammoudi]] ([[Captain (association football)|c]])
+|-
+|DF || '''3''' || [[Khalil Allawi]]
+|-
+|DF || '''4''' || [[Nadhim Shaker]]
+|-
+|DF || '''5''' || [[Samir Shaker]] || {{yel|29}}
+|-
+|DF || '''15''' || [[Natiq Hashim]]
+|-
+|DF || '''22''' || [[Ghanim Oraibi]]
+|-
+|MF || '''6''' || [[Ali Hussein Shihab]]
+|-
+|MF || '''7''' || [[Haris Mohammed]] || || {{suboff|67}}
+|-
+|MF || '''14''' || [[Basil Gorgis]] || || {{suboff|81}}
+|-
+|FW || '''10''' || [[Hussein Saeed]]
+|-
+|FW || '''8''' || [[Ahmed Radhi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11''' || [[Rahim Hameed]] || || {{subon|67}}
+|-
+|MF || '''19''' || [[Basim Qasim]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|BRA|1968}} [[Evaristo de Macedo]]
+|}
+|}
+
+===Mexico vs Paraguay===
+
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|1986|6|7|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|MEX}}
+|score={{score link|1986 FIFA World Cup Group B#Mexico vs Paraguay|1–1}}
+|team2={{fb|PAR|1954}}
+|goals1=
+*[[Luis Flores (Mexican footballer)|Flores]] {{goal|3}}
+|goals2=
+*[[Julio César Romero|Romero]] {{goal|85}}
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=114,600
+|referee=[[George Courtney]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/680 |title=Mexico vs Paraguay {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=680/index.html |title=1986 FIFA World Cup Mexico – Matches – Mexico v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228210746/http://www.fifa.com/worldcup/matches/round=308/match=680/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _mex86a 
+|pattern_b = _mex86a 
+|pattern_ra = _mex86a 
+|pattern_sh = _mex86h 
+|pattern_so = _mex86a 
+|leftarm = FFFFFF 
+|body = FFFFFF 
+|rightarm = FFFFFF 
+|shorts = FFFFFF 
+|socks = FFFFFF
+ | title      = Mexico
+}}
+|{{Football kit
+ | pattern_la = _paraguay86
+ | pattern_b  = _paraguay86
+ | pattern_ra = _paraguay86
+ | pattern_sh = _paraguay86
+ | pattern_so = 
+ | leftarm    = DD0000
+ | body       = DD0000
+ | rightarm   = DD0000
+ | shorts     = ff0000
+ | socks      = 0000ff
+ | title      = Paraguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Pablo Larios]]
+|-
+|DF || '''2''' || [[Mario Trejo (footballer, born 1956)|Mario Trejo]] || {{yel|80}}{{efn|Mistake in FIFA report. [https://footballia.net/matches/mexico-paraguay The footage] clearly shows that Trejo was booked for deliberate handball in the 49th minute.}}
+|-
+|DF || '''3''' || [[Fernando Quirarte]]
+|-
+|DF || '''14''' || [[Félix Cruz]]
+|-
+|DF || '''17''' || [[Raúl Servín]]
+|-
+|MF || '''16''' || [[Carlos Muñoz (Mexican footballer)|Carlos Muñoz]]
+|-
+|MF || '''10''' || [[Tomás Boy]] ([[Captain (association football)|c]]) || || {{suboff|58}}
+|-
+|MF || '''13''' || [[Javier Aguirre]]
+|-
+|FW || '''22''' || [[Manuel Negrete Arias|Manuel Negrete]] || {{yel|26}}
+|-
+|FW || '''15''' || [[Luis Flores (Mexican footballer)|Luis Flores]] || || {{suboff|77}}
+|-
+|FW || '''9''' || [[Hugo Sánchez]] || {{yel|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''7''' || [[Miguel España]] || || {{subon|58}}
+|-
+|FW || '''5''' || [[Francisco Javier Cruz]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|YUG}} [[Bora Milutinović]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Roberto Fernández (footballer, born 1954)|Roberto Fernández]]
+|-
+|DF || '''2''' || [[Juan Torales]] || || {{suboff|80}}
+|-
+|DF || '''3''' || [[César Zabala]]
+|-
+|DF || '''4''' || [[Vladimiro Schettina]] || {{yel|30}}
+|-
+|DF || '''5''' || [[Rogelio Delgado]] ([[Captain (association football)|c]])
+|-
+|MF || '''6''' || [[Jorge Amado Nunes]]
+|-
+|MF || '''10''' || [[Adolfino Cañete]]
+|-
+|MF || '''8''' || [[Julio César Romero]]
+|-
+|FW || '''7''' || [[Buenaventura Ferreira]]
+|-
+|FW || '''11''' || [[Alfredo Mendoza]] || {{yel|5}} || {{suboff|62}}
+|-
+|FW || '''9''' || [[Roberto Cabañas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''16''' || [[Jorge Guasch]] || || {{subon|62}}
+|-
+|FW || '''20''' || [[Ramón Hicks]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|PAR|1954}} [[Cayetano Ré]]
+|}
+|}
+
+===Iraq vs Belgium===
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|1986|6|8|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|IRQ|1963}}
+|score={{score link|1986 FIFA World Cup Group B#Iraq vs Belgium|1–2}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Ahmed Radhi|Radhi]] {{goal|59}}
+|goals2=
+*[[Enzo Scifo|Scifo]] {{goal|16}}
+*[[Nico Claesen|Claesen]] {{goal|21|pen.}}
+|stadium=[[Estadio Nemesio Díez|Estadio Toluca 70–86]], [[Toluca]]
+|attendance=20,000
+|referee=[[Jesús Díaz (football referee)|Jesús Díaz]] ([[Federación Colombiana de Fútbol|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/427 |title=Iraq vs Belgium {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=427/index.html |title=1986 FIFA World Cup Mexico – Matches – Iraq v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228223105/http://www.fifa.com/worldcup/matches/round=308/match=427/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _irq86h
+ |pattern_b  = _irq86h
+ |pattern_ra = _irq86h
+ |pattern_sh = _irq86h
+ |pattern_so = _irq86h
+ |leftarm    = 74ACE6
+ |body       = 74ACE6
+ |rightarm   = 74ACE6
+ |shorts     = 74ACE6
+ |socks      = 74ACE6
+ |title      = Iraq
+}}
+|{{Football kit
+ | pattern_la = _bel86h
+ | pattern_b  = _bel86h
+ | pattern_ra = _bel86h
+ | pattern_sh = _belgium1986h
+ | pattern_so = _bel86h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Raad Hammoudi]] ([[Captain (association football)|c]]) || {{yel|20}}
+|-
+|DF || '''3''' || [[Khalil Allawi]]
+|-
+|DF || '''4''' || [[Nadhim Shaker]] || {{yel|29}}
+|-
+|DF || '''5''' || [[Samir Shaker]] || {{yel|48}}
+|-
+|DF || '''15''' || [[Natiq Hashim]] || {{yel|65}}
+|-
+|DF || '''22''' || [[Ghanim Oraibi]]
+|-
+|MF || '''6''' || [[Ali Hussein Shihab]]
+|-
+|MF || '''7''' || [[Haris Mohammed]] || {{yel|42}}
+|-
+|MF || '''14''' || [[Basil Gorgis]] || {{sent off|1|52|52}}
+|-
+|FW || '''9''' || [[Karim Saddam]] || || {{suboff|81}}
+|-
+|FW || '''8''' || [[Ahmed Radhi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11''' || [[Rahim Hameed]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|BRA|1968}} [[Evaristo de Macedo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Jean-Marie Pfaff]]
+|-
+|DF || '''2''' || [[Eric Gerets]]
+|-
+|DF || '''3''' || [[Franky Van Der Elst]]
+|-
+|DF || '''4''' || [[Michel De Wolf]]
+|-
+|MF || '''21''' || [[Stéphane Demol]] || || {{suboff|69}}
+|-
+|MF || '''6''' || [[Franky Vercauteren]]
+|-
+|MF || '''7''' || [[René Vandereycken]]
+|-
+|MF || '''10''' || [[Philippe Desmet]]
+|-
+|MF || '''8''' || [[Enzo Scifo]] || || {{suboff|67}}
+|-
+|MF || '''11''' || [[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|FW || '''16''' || [[Nico Claesen]] || {{yel|16}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''14''' || [[Lei Clijsters]] || || {{subon|67}}
+|-
+|DF || '''13''' || [[Georges Grün]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BEL}} [[Guy Thys]]
+|}
+|}
+
+===Paraguay vs Belgium===
+
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|1986|6|11|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|PAR|1954}}
+|score={{score link|1986 FIFA World Cup Group B#Paraguay vs Belgium|2–2}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Roberto Cabañas|Cabañas]] {{goal|50||76}}
+|goals2=
+*[[Franky Vercauteren|Vercauteren]] {{goal|30}}
+*[[Daniel Veyt|Veyt]] {{goal|59}}
+|stadium=[[Estadio Nemesio Díez|Estadio Toluca 70–86]], [[Toluca]]
+|attendance=16,000
+|referee=[[Bogdan Dotchev]] ([[Bulgarian Football Union|Bulgaria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/429 |title=Paraguay vs Belgium {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=429/index.html |title=1986 FIFA World Cup Mexico – Matches – Paraguay v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229063002/http://www.fifa.com/worldcup/matches/round=308/match=429/index.html |archive-date=29 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _paraguay86
+ | pattern_b  = _paraguay86
+ | pattern_ra = _paraguay86
+ | pattern_sh = _paraguay86
+ | pattern_so = 
+ | leftarm    = DD0000
+ | body       = DD0000
+ | rightarm   = DD0000
+ | shorts     = ff0000
+ | socks      = 0000ff
+ | title      = Paraguay
+}}
+|{{Football kit
+ | pattern_la = _bel86a
+ | pattern_b  = _bel86a
+ | pattern_ra = _bel86a
+ | pattern_sh = _bel86h
+ | pattern_so = _belgium1990a
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Belgium
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Roberto Fernández (footballer, born 1954)|Roberto Fernández]]
+|-
+|DF || '''2''' || [[Juan Torales]]
+|-
+|DF || '''3''' || [[César Zabala]]
+|-
+|DF || '''5''' || [[Rogelio Delgado]] ([[Captain (association football)|c]])
+|-
+|MF || '''16''' || [[Jorge Guasch]]
+|-
+|MF || '''6''' || [[Jorge Amado Nunes]]
+|-
+|MF || '''10''' || [[Adolfino Cañete]]
+|-
+|MF || '''8''' || [[Julio César Romero]] || {{yel|55}}
+|-
+|FW || '''7''' || [[Buenaventura Ferreira]]
+|-
+|FW || '''11''' || [[Alfredo Mendoza]] || || {{suboff|68}}
+|-
+|FW || '''9''' || [[Roberto Cabañas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jorge Battaglia]]
+|
+|
+|-
+|DF
+|'''13'''
+|[[Virginio Cáceres]]
+|
+|
+|-
+|DF
+|'''14'''
+|[[Luis Caballero (footballer)|Luis Caballero]]
+|
+|
+|-
+|FW
+|'''18'''
+|[[Evaristo Isasi]]
+|
+|
+|-
+|FW || '''20''' || [[Ramón Hicks]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|PAR|1954}} [[Cayetano Ré]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Jean-Marie Pfaff]]
+|-
+|DF || '''5''' || [[Michel Renquin]]
+|-
+|DF || '''19''' || [[Hugo Broos]]
+|-
+|DF || '''13''' || [[Georges Grün]] || || {{suboff|89}}
+|-
+|MF || '''21''' || [[Stéphane Demol]]
+|-
+|MF || '''6''' || [[Franky Vercauteren]]
+|-
+|MF || '''22''' || [[Patrick Vervoort]]
+|-
+|MF || '''8''' || [[Enzo Scifo]]
+|-
+|MF || '''11''' || [[Jan Ceulemans]] ([[Captain (association football)|c]]) || {{yel|55}}
+|-
+|FW || '''16''' || [[Nico Claesen]]
+|-
+|FW || '''18''' || [[Daniel Veyt]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''12'''
+|[[Jacky Munaron]]
+|
+|
+|-
+|DF || '''3''' || [[Franky Van Der Elst]]
+|-
+|DF
+|'''14'''
+|[[Leo Clijsters]]
+|
+|
+|-
+|MF
+|'''15'''
+|[[Leo Van der Elst|Leo Van Der Elst]] || || {{subon|89}}
+|
+|
+|-
+|DF
+|'''4'''
+|[[Michel De Wolf|Michel de Wolf]]
+|
+|
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|BEL}} [[Guy Thys]]
+|}
+|}
+
+===Iraq vs Mexico===
+
+<onlyinclude>{{#invoke:Football box|main|section=B6
+|date={{Start date|1986|6|11|df=y}}
+|time=12:00 [[Central Time Zone|CST]]
+|team1={{fb-rt|IRQ|1963}}
+|score={{score link|1986 FIFA World Cup Group B#Iraq vs Mexico|0–1}}
+|team2={{fb|MEX}}
+|goals1=
+|goals2=
+*[[Fernando Quirarte|Quirarte]] {{goal|54}}
+|stadium=[[Estadio Azteca]], [[Mexico City]]
+|attendance=103,763
+|referee=[[Zoran Petrović (referee)|Zoran Petrović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/68/308/627 |title=Iraq vs Mexico {{!}} Group Matches {{!}} 1986 FIFA World Cup Mexico |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=308/match=627/index.html |title=1986 FIFA World Cup Mexico – Matches – Iraq v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210002309/http://www.fifa.com/worldcup/matches/round=308/match=627/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _irq86h
+ |pattern_b  = _irq86h
+ |pattern_ra = _irq86h
+ |pattern_sh = _irq86h
+ |pattern_so = _irq86h
+ |leftarm    = 74ACE6
+ |body       = 74ACE6
+ |rightarm   = 74ACE6
+ |shorts     = 74ACE6
+ |socks      = 74ACE6
+ |title      = Iraq
+}}
+|{{Football kit
+|pattern_la = _ger86a
+|pattern_b = _mex86h
+|pattern_ra = _ger86a
+|pattern_sh = _mex86h
+|pattern_so = _3_stripes_white
+|leftarm = 008000
+|body = 008000
+|rightarm = 008000
+|shorts = FFFFFF
+|socks = F20000
+ | title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''20''' || [[Fatah Nsaief]] ([[Captain (association football)|c]])
+|-
+|DF || '''2''' || [[Maad Ibrahim]]
+|-
+|DF || '''3''' || [[Khalil Allawi]]  || {{yel|73}}
+|-
+|DF || '''4''' || [[Nadhim Shaker]]
+|-
+|DF || '''15''' || [[Natiq Hashim]] || || {{suboff|60}}
+|-
+|DF || '''22''' || [[Ghanim Oraibi]]
+|-
+|MF || '''6''' || [[Ali Hussein Shihab]]
+|-
+|MF || '''17''' || [[Anad Abid]] || || {{suboff|70}}
+|-
+|MF || '''19''' || [[Basim Qasim]]
+|-
+|FW || '''9''' || [[Karim Saddam]] || {{yel|30}}
+|-
+|FW || '''8''' || [[Ahmed Radhi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''21'''
+|[[Ahmad Jassim]]
+|
+|
+|-
+|MF
+|'''12'''
+|[[Jamal Ali]]
+|
+|
+|-
+|MF
+|'''18'''
+|[[Ismail Mohammed Sharif|Ismail Mohammed]]
+|
+|
+|-
+|FW || '''11''' || [[Rahim Hameed]] || || {{subon|60}}
+|-
+|MF || '''16''' || [[Shaker Mahmoud]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|BRA|1968}} [[Evaristo de Macedo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Pablo Larios]]
+|-
+|DF || '''18''' || [[Rafael Amador]] || || {{suboff|62}}
+|-
+|DF || '''3''' || [[Fernando Quirarte]]
+|-
+|DF || '''14''' || [[Félix Cruz]]
+|-
+|DF || '''17''' || [[Raúl Servín]]
+|-
+|MF || '''6''' || [[Carlos de los Cobos]] || || {{suboff|79}}
+|-
+|MF || '''7''' || [[Miguel España]]
+|-
+|MF || '''10''' || [[Tomás Boy]] ([[Captain (association football)|c]])
+|-
+|MF || '''13''' || [[Javier Aguirre]]
+|-
+|FW || '''22''' || [[Manuel Negrete Arias|Manuel Negrete]]
+|-
+|FW || '''15''' || [[Luis Flores (Mexican footballer)|Luis Flores]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK
+|'''20'''
+|[[Olaf Heredia]]
+|
+|
+|-
+|DF
+|'''4'''
+|[[Armando Manzo]]
+|
+|
+|-
+|MF || '''8''' || [[Alejandro Domínguez (Mexican footballer)|Alejandro Domínguez]] || || {{subon|62}}
+|-
+|FW
+|'''11'''
+|[[Carlos Hermosillo]]
+|
+|
+|-
+|FW || '''5''' || [[Francisco Javier Cruz]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{Flagicon|YUG}} [[Bora Milutinović]]
+|}
+|}
+
+==See also==
+*[[Belgium at the FIFA World Cup]]
+*[[Iraq at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Paraguay at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1986 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:1986 FIFA World Cup group stage|B]]
+[[Category:Mexico at the 1986 FIFA World Cup|Group]]
+[[Category:Belgium at the 1986 FIFA World Cup]]
+[[Category:Iraq at the 1986 FIFA World Cup]]
+[[Category:Paraguay at the 1986 FIFA World Cup|Group]]
+[[Category:1980s in Mexico City]]
+[[Category:Football competitions in Mexico City]]
+[[Category:Sport in Toluca]]
+[[Category:Football in the State of Mexico]]
+[[Category:History of the State of Mexico]]

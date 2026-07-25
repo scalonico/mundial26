@@ -1,0 +1,2339 @@
+{{Short description|None}}
+{{Use British English|date=November 2014}}
+{{Use dmy dates|date=June 2018}}
+The knockout stage of the [[2014 FIFA World Cup]] was the second and final stage of the competition, following the group stage. It began on 28 June with the round of 16 and ended on 13 July with the final match of the tournament, held at [[Estádio do Maracanã]], [[Rio de Janeiro]]. The top two teams from each group (16 in total) advanced to the knockout stage to compete in a [[single-elimination tournament]]. A match for third place was played between the two losing teams of the semi-finals.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/world-cup/2014/schedule/knockout-stage |archive-url=https://web.archive.org/web/20140601054438/http://www.bbc.co.uk/sport/football/world-cup/2014/schedule/knockout-stage |url-status=dead |archive-date=1 June 2014 |title=Groups & Schedule |publisher=BBC Sport |access-date=14 June 2014 }}</ref>
+
+In all matches in the knockout stage, if the score was level at the end of 90 minutes, two 15-minute periods of [[extra time]] were played. If the score was still level after extra time, the match was decided by a [[Penalty shoot-out (association football)|penalty shoot-out]].<ref>[https://web.archive.org/web/20140505195504/http://resources.fifa.com/mm/document/tournament/competition/01/47/38/17/regulationsfwcbrazil2014_update_e_neutral.pdf Regulations 2014 FIFA World Cup Brazil] FIFA, 2014.</ref>
+
+''All times listed below are in [[Time in Brazil|Brasília official time]] ([[UTC−03:00|UTC−3]]).''
+
+==Qualified teams==
+The top two placed teams from each of the eight groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[2014 FIFA World Cup Group A|A]]
+| {{fb|BRA}}
+| {{fb|MEX}}
+|-
+! [[2014 FIFA World Cup Group B|B]]
+| {{fb|NED}}
+| {{fb|CHI}}
+|-
+! [[2014 FIFA World Cup Group C|C]]
+| {{fb|COL}}
+| {{fb|GRE}}
+|-
+! [[2014 FIFA World Cup Group D|D]]
+| {{fb|CRC}}
+| {{fb|URU}}
+|-
+! [[2014 FIFA World Cup Group E|E]]
+| {{fb|FRA|1974}}
+| {{fb|SUI}}
+|-
+! [[2014 FIFA World Cup Group F|F]]
+| {{fb|ARG}}
+| {{fb|NGA}}
+|-
+! [[2014 FIFA World Cup Group G|G]]
+| {{fb|GER}}
+| {{fb|USA}}
+|-
+! [[2014 FIFA World Cup Group H|H]]
+| {{fb|BEL}}
+| {{fb|ALG}}
+|}
+
+==Bracket==
+{{Round16|widescore=yes
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!--Date-Place/Team 1/Score 1/Team 2/Score 2 -->
+<!-- round of 16 -->
+|28 June – [[Belo Horizonte]]|'''{{fb|BRA}}''' {{pso}}|'''1 (3)'''|{{fb|CHI}}|1 (2) 
+|28 June – [[Rio de Janeiro]]|'''{{fb|COL}}'''|'''2'''|{{fb|URU}}|0
+|30 June – [[Brasília]]|'''{{fb|FRA|1974}}'''|'''2'''|{{fb|NGA}}|0 
+|30 June – [[Porto Alegre]]|'''{{fb|GER}}''' {{aet}}|'''2'''|{{fb|ALG}}|1
+|29 June – [[Fortaleza]]|'''{{fb|NED}}'''|'''2'''|{{fb|MEX}}|1
+|29 June – [[Recife]]|'''{{fb|CRC}}''' {{pso}}|'''1 (5)'''|{{fb|GRE}}|1 (3)
+|1 July – [[São Paulo]]|'''{{fb|ARG}}''' {{aet}}|'''1'''|{{fb|SUI}}|0
+|1 July – [[Salvador, Brazil|Salvador]]|'''{{fb|BEL}}''' {{aet}}|'''2'''|{{fb|USA}}|1
+<!-- quarter finals -->
+|4 July – [[Fortaleza]]|'''{{fb|BRA}}'''|'''2'''|{{fb|COL}}|1
+|4 July – [[Rio de Janeiro]]|{{fb|FRA|1974}}|0|'''{{fb|GER}}'''|'''1'''
+|5 July – [[Salvador, Brazil|Salvador]]|'''{{fb|NED}}''' {{pso}}|'''0 (4)'''|{{fb|CRC}}|0 (3)
+|5 July – [[Brasília]]|'''{{fb|ARG}}'''|'''1'''|{{fb|BEL}}|0
+<!--semi-finals -->
+|[[Brazil v Germany (2014 FIFA World Cup)|8 July]] – [[Belo Horizonte]]|{{fb|BRA}}|1|'''{{fb|GER}}''' |'''7'''
+|9 July – [[São Paulo]]|{{fb|NED}}|0 (2)|'''{{fb|ARG}}''' {{pso}}|'''0 (4)'''
+<!--final -->
+|[[2014 FIFA World Cup final|13 July]] – [[Rio de Janeiro]]|'''{{fb|GER}}''' {{aet}}|'''1'''|{{fb|ARG}}|0
+<!--match for third place-->
+|12 July – [[Brasília]]|{{fb|BRA}}|0|'''{{fb|NED}}'''|'''3'''
+|style=white-space:nowrap
+}}
+
+==Round of 16==
+
+===Brazil vs Chile===
+{{further|List of 2014 FIFA World Cup controversies#Brazil vs Chile}}
+The two teams had met in 68 previous matches,<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bra/team2=chi/code=-1/index.html |archive-url=https://web.archive.org/web/20100629204651/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bra/team2=chi/code=-1/index.html |url-status=dead |archive-date=29 June 2010 |title=Brazil – Chile |publisher=FIFA |access-date=28 June 2014 }}</ref> including three times in the FIFA World Cup knockout stage, all won by Brazil ([[1962 FIFA World Cup|1962]], semi-finals: 4–2; [[1998 FIFA World Cup|1998]], round of 16: [[1998 FIFA World Cup knockout stage#Brazil vs Chile|4–1]]; [[2010 FIFA World Cup|2010]], round of 16: [[2010 FIFA World Cup knockout stage#Brazil vs Chile|3–0]]).
+
+Brazil opened the scoring when [[Thiago Silva]] flicked on a corner kick before [[David Luiz]] turned the ball into the net with his thigh. While replays suggested that Chilean defender [[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]] may have had the last touch,<ref>{{cite web|title=Brazil progress as Chile pay penalty |url=http://www.espnfc.com/fifa-world-cup/match/383254/brazil-chile/report |publisher=ESPN |access-date=28 June 2014 }}</ref> FIFA later confirmed that the goal was scored by Luiz, not Jara.<ref>{{cite web|url=http://www.nydailynews.com/sports/soccer/fifa-confirms-brazil-goal-scored-david-luiz-article-1.1848397|title=FIFA confirms Brazil's goal vs. Chile in Round of 16 was scored by David Luiz, not ruled an own goal by Gonzalo Jara|work=New York Daily News|date=29 June 2014}}</ref> Chile equalised when [[Hulk (footballer)|Hulk]] lost possession after a throw-in in his own half; [[Eduardo Vargas]] stole the ball and passed to [[Alexis Sánchez]] to score.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/29/brazil-chile-world-cup-2014-last-16-match-report|title=Brazil struggle to recover from emotional shootout win over Chile|date=29 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+
+In the second half, Hulk's goal was disallowed as [[Howard Webb]] adjudged that the player used his arm in bringing down the ball and gave him a yellow card instead.<ref>{{cite web|title=Hulk revels in supporting act |url=http://www.espnfc.com/team/brazil/205/blog/post/1920246/hulk-revels-in-supporting-act |publisher=ESPN |first=John |last=Brewin |access-date=28 June 2014 }}</ref> Chances were few after that with Brazil dominating possession and Hulk forcing [[Claudio Bravo]] into a decent save, and the match went to extra time. The best chance of extra time came in the last seconds as [[Mauricio Pinilla]]'s shot hit the crossbar.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/27952759|title=Brazil 1 Chile 1 (Brazil win 3–2 on penalties)|publisher=BBC Sport|date=28 June 2014}}</ref> In the resulting penalty shoot-out, the score was tied 2–2 after four rounds, with Brazil goalkeeper [[Júlio César (football goalkeeper, born 1979)|Júlio César]] saving from Pinilla and Sánchez, while [[Willian (footballer, born 1988)|Willian]] missed and Hulk's shot was saved by Bravo. In the fifth round, [[Neymar]] scored his penalty, meaning Chile had to score, but Jara's shot hit the inside of the post.<ref>{{cite web |url=https://www.fifa.com/worldcup/matches/round=255951/match=300186487/match-report.html |archive-url=https://web.archive.org/web/20140628195726/http://www.fifa.com/worldcup/matches/round=255951/match=300186487/match-report.html |url-status=dead |archive-date=28 June 2014 |title=Brazil through as Chile pay the penalty |publisher=FIFA |access-date=28 June 2014 }}</ref> Brazil advanced to the quarter-finals to face [[#Brazil vs Colombia|Colombia]].
+
+The result meant that in all four World Cups where Chile qualified for the knockout stage, they were eliminated by Brazil.
+
+<section begin=i1 />{{Football box
+|date={{Start date|2014|6|28|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2014 FIFA World Cup knockout stage#Brazil vs Chile|1–1}}
+|aet=yes
+|team2={{fb|CHI}}
+|goals1=
+*[[David Luiz]] {{goal|18}}
+|goals2=
+*[[Alexis Sánchez|Sánchez]] {{goal|32}}
+|stadium=[[Mineirão|Estádio Mineirão]], [[Belo Horizonte]]
+|attendance=57,714
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|penalties1=
+*[[David Luiz]] {{pengoal}}
+*[[Willian (footballer, born 1988)|Willian]] {{penmiss}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{pengoal}}
+*[[Hulk (footballer)|Hulk]] {{penmiss}}
+*[[Neymar]] {{pengoal}}
+|penaltyscore=3–2
+|penalties2=
+*{{penmiss}} [[Mauricio Pinilla|Pinilla]]
+*{{penmiss}} [[Alexis Sánchez|Sánchez]]
+*{{pengoal}} [[Charles Aránguiz|Aránguiz]]
+*{{pengoal}} [[Marcelo Díaz|Díaz]]
+*{{penmiss}} [[Gonzalo Jara (footballer, born 1985)|Jara]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186487 |title=Brazil vs Chile {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186487/report.html |title=2014 FIFA World Cup Brazil – Matches – Brazil v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170802230046/http://www.fifa.com/worldcup/matches/round=255951/match=300186487/report.html |archive-date=2 August 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6fdc240a55775b3f/original/hbgex8abt7a9anftptut-pdf.pdf |title=Match report – Round of 16 – Brazil v Chile |publisher=[[FIFA]] |date=28 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062145/https://digitalhub.fifa.com/m/6fdc240a55775b3f/original/hbgex8abt7a9anftptut-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=i1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra14h
+ |pattern_b  = _bra14h1
+ |pattern_ra = _bra14h
+ |pattern_sh = _bra14A
+ |pattern_so = _bra14hl
+ |leftarm    = FFCC00
+ |body       = FFCC00
+ |rightarm   = FFCC00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-CHI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/35a76ec56ce9da53/original/npbzsovsv6qijfofupu5-pdf.pdf |title=Tactical Line-up – Round of 16 – Brazil v Chile |publisher=[[FIFA]] |date=28 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181816/https://digitalhub.fifa.com/m/35a76ec56ce9da53/original/npbzsovsv6qijfofupu5-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _chile14h
+ |pattern_b  = _chile14h
+ |pattern_ra = _chile14h
+ |pattern_sh = 
+ |pattern_so = _chile14a
+ |leftarm    = ED1C24
+ |body       = ED1C24
+ |rightarm   = ED1C24
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Chile<ref name="BRA-CHI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''2''' ||[[Dani Alves]] || {{yel|105+1}}
+|-
+|CB ||'''3''' ||[[Thiago Silva]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[David Luiz]]
+|-
+|LB ||'''6''' ||[[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|DM ||'''5''' ||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || || {{suboff|72}}
+|-
+|DM ||'''17'''||[[Luiz Gustavo]] || {{yel|60}}
+|-
+|RW ||'''7''' ||[[Hulk (footballer)|Hulk]] || {{yel|55}}
+|-
+|AM ||'''11'''||[[Oscar (footballer, born 1991)|Oscar]] || || {{suboff|106}}
+|-
+|LW ||'''10'''||[[Neymar]]
+|-
+|CF ||'''9''' ||[[Fred (footballer, born 1983)|Fred]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''21'''||[[Jô]] || {{yel|93}} || {{subon|64}}
+|-
+|MF ||'''16'''||[[Ramires]] || || {{subon|72}}
+|-
+|MF ||'''19'''||[[Willian (footballer, born 1988)|Willian]] || || {{subon|106}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:BRA-CHI 2014-06-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Claudio Bravo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Francisco Silva (footballer, born 1986)|Francisco Silva]] || {{yel|40}}
+|-
+|CB ||'''17'''||[[Gary Medel]] || || {{suboff|108}}
+|-
+|CB ||'''18'''||[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|-
+|RWB||'''4''' ||[[Mauricio Isla]]
+|-
+|LWB||'''2''' ||[[Eugenio Mena]] || {{yel|17}}
+|-
+|CM ||'''20'''||[[Charles Aránguiz]]
+|-
+|CM ||'''21'''||[[Marcelo Díaz]]
+|-
+|AM ||'''8''' ||[[Arturo Vidal]] || || {{suboff|87}}
+|-
+|CF ||'''7''' ||[[Alexis Sánchez]]
+|-
+|CF ||'''11'''||[[Eduardo Vargas]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''16'''||[[Felipe Gutiérrez]] || || {{subon|57}}
+|-
+|FW ||'''9''' ||[[Mauricio Pinilla]] || {{yel|102}} || {{subon|87}}
+|-
+|DF ||'''13'''||[[José Rojas (footballer, born 1983)|José Rojas]] || || {{subon|108}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Jorge Sampaoli]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Júlio César (football goalkeeper, born 1979)|Júlio César]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Michael Mullarkey ([[The Football Association|England]])
+<br />Darren Cann ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Felix Brych]] ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Mark Borsch ([[German Football Association|Germany]])
+|}
+
+===Colombia vs Uruguay===
+The two teams had met in 38 previous matches,<ref>{{cite web|url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=col/team2=uru/code=-1/index.html|archive-url=https://web.archive.org/web/20140708194845/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=col/team2=uru/code=-1/index.html|url-status=dead|archive-date=8 July 2014|title=Colombia – Uruguay|publisher=FIFA |access-date=28 June 2014 }}</ref> including in the [[1962 FIFA World Cup]] group stage, won 2–1 by Uruguay. Their most recent meetings were in the [[2014 FIFA World Cup qualification (CONMEBOL)|2014 FIFA World Cup qualifiers]], with both teams winning at home, Colombia winning [[2014 FIFA World Cup qualification (CONMEBOL)#Colombia v Uruguay|4–0]] and Uruguay winning [[2014 FIFA World Cup qualification (CONMEBOL)#Uruguay v Colombia|2–0]]. Uruguayan striker [[Luis Suárez]] was not in the line-up because of a nine-game ban imposed by FIFA due to a [[List of 2014 FIFA World Cup controversies#Uruguay vs Italy|biting incident]] involving Italian defender [[Giorgio Chiellini]] during their [[2014 FIFA World Cup Group D#Italy vs Uruguay|final group stage match]].<ref name="Suarez suspension">{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=luis-suarez-suspended-for-nine-matches-and-banned-for-four-months-from-2386354.html |title=Luis Suárez suspended for nine matches and banned for four months from any football-related activity |publisher=FIFA |date=26 June 2014 |access-date=26 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140703172739/http://www.fifa.com/worldcup/news/y%3D2014/m%3D6/news%3Dluis-suarez-suspended-for-nine-matches-and-banned-for-four-months-from-2386354.html |archive-date=3 July 2014 }}</ref> This was the first match of Uruguay in [[Maracanã Stadium]] in a World Cup since the historical [[Uruguay v Brazil (1950 FIFA World Cup)|Maracanazo]].
+
+Colombia won 2–0 with both goals from [[James Rodríguez]], the first in the 28th minute, where he controlled [[Abel Aguilar]]'s headed ball on his chest before volleying left-footed from 25 yards out with the ball going in off the underside of the crossbar,<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/29/colombia-uruguay-james-rodriguez|title=Colombia's James Rodríguez seeks top honours and sends warning to Brazil|date=29 June 2014 |work=Guardian|access-date=30 October 2014}}</ref> which won the [[FIFA Puskás Award#2014|2014 FIFA Puskás Award]] later in the year.<ref>{{cite web |url=http://resources.fifa.com/mm/document/ballon-dor/puskasaward/02/50/58/03/puskas_votes_1_neutral.pdf |title=FIFA Puskás award 2014 – results |publisher=FIFA |access-date=9 February 2015 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304114640/http://resources.fifa.com/mm/document/ballon-dor/puskasaward/02/50/58/03/puskas_votes_1_neutral.pdf |url-status=dead }}</ref>
+The second goal, in the 50th minute, was a close-range shot from six yards out after receiving the ball from a header by [[Juan Cuadrado]] on the right.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/27952760 |title=Colombia 2 Uruguay 0 |date=29 June 2014 |publisher=BBC Sport |access-date=3 July 2014 }}</ref>
+
+Colombia progressed through to the quarter-finals for the first time in their history, where they would face [[#Brazil vs Colombia|Brazil]].<ref>{{cite web |url=https://www.theguardian.com/football/2014/jun/28/colombia-uruguay-world-cup-2014-last-16-match-report |title=James Rodríguez sizzle ends Uruguay's World Cup saga |date=29 June 2014 |work=Guardian |access-date=3 July 2014 }}</ref>
+
+<section begin=i2 />{{Football box
+|date={{Start date|2014|6|28|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|COL}}
+|score={{score link|2014 FIFA World Cup knockout stage#Colombia vs Uruguay|2–0}}
+|team2={{fb|URU}}
+|goals1=
+*[[James Rodríguez|Rodríguez]] {{goal|28||50}}
+|goals2=
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=73,804
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186491 |title=Colombia vs Uruguay {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186491/report.html |title=2014 FIFA World Cup Brazil – Matches – Colombia v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171112074325/http://www.fifa.com/worldcup/matches/round=255951/match=300186491/report.html |archive-date=12 November 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7b41752be13190f9/original/zmnm5goihn6husldxdv2-pdf.pdf |title=Match report – Round of 16 – Colombia v Uruguay |publisher=[[FIFA]] |date=28 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062203/https://digitalhub.fifa.com/m/7b41752be13190f9/original/zmnm5goihn6husldxdv2-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=i2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _colombia14h
+ |pattern_b  = _colombia14h
+ |pattern_ra = _colombia14h
+ |pattern_sh = _colombia14h
+ |pattern_so = _colombia14h
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Colombia<ref name="COL-URU line-ups">{{cite web |url=https://digitalhub.fifa.com/m/1a2b0633bda9595f/original/wlhfxjm8jsbe8nljidqs-pdf.pdf |title=Tactical Line-up – Round of 16 – Colombia v Uruguay |publisher=[[FIFA]] |date=28 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522181831/https://digitalhub.fifa.com/m/1a2b0633bda9595f/original/wlhfxjm8jsbe8nljidqs-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _uru14h
+ |pattern_b  = _uru14h
+ |pattern_ra = _uru14h
+ |pattern_sh = 
+ |pattern_so = _uru14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay<ref name="COL-URU line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''18'''||[[Juan Camilo Zúñiga]]
+|-
+|CB ||'''2''' ||[[Cristián Zapata]]
+|-
+|CB ||'''3''' ||[[Mario Yepes]] ([[Captain (association football)|c]])
+|-
+|LB ||'''7''' ||[[Pablo Armero]] || {{yel|78}}
+|-
+|RM ||'''11'''||[[Juan Cuadrado]] || || {{suboff|81}}
+|-
+|CM ||'''8''' ||[[Abel Aguilar]]
+|-
+|CM ||'''6''' ||[[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]]
+|-
+|LM ||'''10'''||[[James Rodríguez]] || || {{suboff|85}}
+|-
+|CF ||'''9''' ||[[Teófilo Gutiérrez]] || || {{suboff|68}}
+|-
+|CF ||'''21'''||[[Jackson Martínez]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''15'''||[[Alexander Mejía]] || || {{subon|68}}
+|-
+|MF ||'''13'''||[[Fredy Guarín]] || || {{subon|81}}
+|-
+|FW ||'''19'''||[[Adrián Ramos]] || || {{subon|85}}
+|-
+|&nbsp;
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|valign="top"|[[File:COL-URU 2014-06-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''22'''||[[Martín Cáceres]]
+|-
+|CB ||'''13'''||[[José María Giménez|José Giménez]] || {{yel|55}}
+|-
+|CB ||'''3''' ||[[Diego Godín]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||[[Álvaro Pereira]] || || {{suboff|53}}
+|-
+|RM ||'''16'''||[[Maxi Pereira]]
+|-
+|CM ||'''20'''||[[Álvaro González (footballer, born 1984)|Álvaro González]] || || {{suboff|67}}
+|-
+|CM ||'''17'''||[[Egidio Arévalo]]
+|-
+|LM ||'''7''' ||[[Cristian Rodríguez]]
+|-
+|SS ||'''21'''||[[Edinson Cavani]]
+|-
+|CF ||'''10'''||[[Diego Forlán]] || || {{suboff|53}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''11'''||[[Cristhian Stuani]] || || {{subon|53}}
+|-
+|MF ||'''18'''||[[Gastón Ramírez]] || || {{subon|53}}
+|-
+|FW ||'''8''' ||[[Abel Hernández]] || || {{subon|67}}
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|DF ||'''2''' ||[[Diego Lugano]] || {{yel|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[James Rodríguez]] (Colombia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Netherlands vs Mexico===
+{{further|List of 2014 FIFA World Cup controversies#Netherlands vs Mexico}}
+The two teams had met in six previous matches,<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ned/team2=mex/code=-1/index.html |archive-url=https://web.archive.org/web/20140708194850/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ned/team2=mex/code=-1/index.html |url-status=dead |archive-date=8 July 2014 |title=Netherlands – Mexico |publisher=FIFA |access-date=28 June 2014 }}</ref> including in the [[1998 FIFA World Cup]] group stage, a [[1998 FIFA World Cup Group E#Netherlands vs Mexico|2–2]] draw. Mexico midfielder [[José Juan Vázquez]] was suspended for the match due to accumulation of yellow cards.<ref>{{cite news |last1=De Menezes |first1=Jack |title=Netherlands v Mexico team news: Robin van Persie returns to lead Dutch as Carlos Salcido replaces suspended José Juan Vázquez for Mexico |url=https://www.independent.co.uk/sport/football/international/netherlands-v-mexico-team-news-robin-van-persie-returns-to-lead-dutch-as-carlos-salcido-replaces-9571267.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/international/netherlands-v-mexico-team-news-robin-van-persie-returns-to-lead-dutch-as-carlos-salcido-replaces-9571267.html |archive-date=1 May 2022 |url-access=subscription |access-date=26 August 2020 |work=The Independent |date=29 June 2014}}{{cbignore}}</ref>
+
+[[Giovani dos Santos]] opened the scoring for Mexico early in the second half with a left-footed volley from outside the box after gathering a Dutch clearance.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/29/holland-mexico-world-cup-2014-last-16-match-report|title=Holland come from behind to snatch last-gasp victory against Mexico|date=29 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+Mexico led until the 88th minute, when a Dutch corner was headed back by substitute [[Klaas-Jan Huntelaar]] for [[Wesley Sneijder]] to equalise with a hard shot from 16 yards. Only a few minutes later, with stoppage time coming to a close, [[Arjen Robben]] drew a very controversial penalty <ref>{{cite web|url= https://bleacherreport.com/articles/2114007-world-cup-mexico-netherlands-reveals-flaws-in-rules-governing-penalty-kicks|title= World Cup: Mexico vs. Netherlands Reveals Flaws in Rules Governing Penalty Kicks|date=29 June 2014 |work=Bleacher Report}}</ref> for the Netherlands after being fouled by [[Rafael Márquez]] on the right of the penalty area, which Huntelaar converted to win the match for the Netherlands.<ref>{{cite news |last1=Smith |first1=Ben |title=Netherlands 2-1 Mexico |url=https://www.bbc.com/sport/football/27961190 |access-date=26 August 2020 |publisher=BBC Sport |date=29 June 2014}}</ref> Netherlands advanced to the quarter-finals to face [[#Netherlands vs Costa Rica|Costa Rica]], while Mexico were eliminated in the round of 16 for the sixth tournament in a row.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/27961190|title=Netherlands 2 Mexico 1|publisher=BBC Sport|date=29 June 2014}}</ref>
+
+The match was the first time in World Cup history where a cooling break was instituted, with temperatures at {{convert|32|°C|°F}} and humidity levels at 68%.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=a-cool-first-and-a-historic-triumph-2390305.html|archive-url=https://web.archive.org/web/20140701194754/http://www.fifa.com/worldcup/news/y=2014/m=6/news=a-cool-first-and-a-historic-triumph-2390305.html|url-status=dead|archive-date=1 July 2014|title=A cool first and a historic triumph|publisher=FIFA |date=30 June 2014}}</ref>
+
+<section begin=i3 />{{Football box
+|date={{Start date|2014|6|29|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|NED}}
+|score={{score link|2014 FIFA World Cup knockout stage#Netherlands vs Mexico|2–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Wesley Sneijder|Sneijder]] {{goal|88}}
+*[[Klaas-Jan Huntelaar|Huntelaar]] {{goal|90+4|pen.}}
+|goals2=
+*[[Giovani dos Santos|Dos Santos]] {{goal|48}}
+|stadium=[[Castelão (Ceará)|Estádio Castelão]], [[Fortaleza]]
+|attendance=58,817
+|referee=[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186508 |title=Netherlands vs Mexico {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186508/report.html |title=2014 FIFA World Cup Brazil – Matches – Netherlands v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171130164055/http://www.fifa.com/worldcup/matches/round=255951/match=300186508/report.html |archive-date=30 November 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/6fd3a7aa6b9cb957/original/kj1fwjclcjxillm33izf-pdf.pdf |title=Match report – Round of 16 – Netherlands v Mexico |publisher=[[FIFA]] |date=29 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062217/https://digitalhub.fifa.com/m/6fd3a7aa6b9cb957/original/kj1fwjclcjxillm33izf-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=i3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _netherlands2014h
+ |pattern_b  = _netherlands2014home
+ |pattern_ra = _netherlands2014h
+ |pattern_sh = _netherlands2014h
+ |pattern_so = _netherlands2014h
+ |leftarm    = FF6600
+ |body       = FF6600
+ |rightarm   = FF6600
+ |shorts     = FF6600
+ |socks      = FF6600
+ |title      = Netherlands<ref name="NED-MEX line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7e4f90eaee057e67/original/rfvhiznsdtmyvppcmvuk-pdf.pdf |title=Tactical Line-up – Round of 16 – Netherlands v Mexico |publisher=[[FIFA]] |date=29 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174427/https://digitalhub.fifa.com/m/7e4f90eaee057e67/original/rfvhiznsdtmyvppcmvuk-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _mex14h
+ |pattern_b  = _mex14h
+ |pattern_ra = _mex14h
+ |pattern_sh = _adidasonwhite
+ |pattern_so = _FEMEXFUT_14t
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Mexico<ref name="NED-MEX line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jasper Cillessen]]
+|-
+|RB ||'''12'''||[[Paul Verhaegh]] || || {{suboff|56}}
+|-
+|CB ||'''2''' ||[[Ron Vlaar]]
+|-
+|CB ||'''3''' ||[[Stefan de Vrij]]
+|-
+|LB ||'''5''' ||[[Daley Blind]]
+|-
+|CM ||'''6''' ||[[Nigel de Jong]] || || {{suboff|9}}
+|-
+|RM ||'''15'''||[[Dirk Kuyt]]
+|-
+|LM ||'''20'''||[[Georginio Wijnaldum]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]]
+|-
+|CF ||'''11'''||[[Arjen Robben]]
+|-
+|CF ||'''9''' ||[[Robin van Persie]] ([[Captain (association football)|c]]) || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Bruno Martins Indi]] || || {{subon|9}}
+|-
+|MF ||'''21'''||[[Memphis Depay]] || || {{subon|56}}
+|-
+|FW ||'''19'''||[[Klaas-Jan Huntelaar]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Louis van Gaal]]
+|}
+|valign="top"|[[File:NED-MEX 2014-06-29.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[Guillermo Ochoa]]
+|-
+|CB ||'''2''' ||[[Francisco Javier Rodríguez]]
+|-
+|CB ||'''4''' ||[[Rafael Márquez]] ([[Captain (association football)|c]]) || {{yel|90+2}}
+|-
+|CB ||'''15'''||[[Héctor Moreno]] || || {{suboff|46}}
+|-
+|RWB||'''22'''||[[Paul Aguilar]] || {{yel|69}}
+|-
+|LWB||'''7''' ||[[Miguel Layún]]
+|-
+|CM ||'''6''' ||[[Héctor Herrera]]
+|-
+|CM ||'''3''' ||[[Carlos Salcido]]
+|-
+|CM ||'''18'''||[[Andrés Guardado]] || {{yel|90+3}}
+|-
+|CF ||'''10'''||[[Giovani dos Santos]] || || {{suboff|61}}
+|-
+|CF ||'''19'''||[[Oribe Peralta]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''5''' ||[[Diego Antonio Reyes|Diego Reyes]] || || {{subon|46}}
+|-
+|MF ||'''20'''||[[Javier Aquino]] || || {{subon|61}}
+|-
+|FW ||'''14'''||[[Javier Hernández]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miguel Herrera]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Guillermo Ochoa]] (Mexico)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Bertino Cunha ([[Portuguese Football Federation|Portugal]])
+<br />Tiago Trigo ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Byron Romero ([[Ecuadorian Football Federation|Ecuador]])
+|}
+
+===Costa Rica vs Greece===
+The two teams had never met before.<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=crc/team2=gre/code=-1/index.html|archive-url=https://web.archive.org/web/20140708194854/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=crc/team2=gre/code=-1/index.html|url-status=dead|archive-date=8 July 2014|title=Costa Rica – Greece |publisher=FIFA |access-date=28 June 2014 }}</ref> This match was Greece's first ever in the FIFA World Cup knockout stage.
+
+[[Bryan Ruiz]] opened the scoring in the 52nd minute when [[Christian Bolaños]] passed to him and he shot low left-footed from outside the penalty area to the right corner of the net with Greek goalkeeper [[Orestis Karnezis]] not moving on his line. Costa Rica were then reduced to 10 men with [[Óscar Duarte (footballer, born 1989)|Óscar Duarte]] being sent off after picking up a second yellow card. [[Sokratis Papastathopoulos]] equalised in injury time shooting into the net from seven yards out after Costa Rica goalkeeper [[Keylor Navas]] had saved an initial shot from [[Theofanis Gekas]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/0/football/27961189 |archive-url=https://web.archive.org/web/20140630074654/http://www.bbc.co.uk/sport/0/football/27961189 |url-status=dead |archive-date=30 June 2014 |title=Costa Rica 1 Greece 1 (Costa Rica win 5–3 on penalties)|date=29 June 2014 |publisher=BBC Sport |access-date=3 July 2014 }}</ref> No goals were scored in extra time, and the match went to a penalty shoot-out. During the intermission before the penalty shoot-out, the Greek coach [[Fernando Santos (football coach)|Fernando Santos]] was sent off following a dispute with the referee.<ref>{{cite news|url=https://bleacherreport.com/articles/2113881-greece-manager-fernando-santos-sent-off-before-penalty-kicks-vs-costa-rica|title=Greece Manager Fernando Santos Sent off Before Penalty Kicks vs. Costa Rica|date=29 June 2014|access-date=2 July 2014|work=Bleacher Report}}</ref> In the penalty shoot-out, Navas saved Gekas' shot before [[Michael Umaña]] scored the winning penalty for Costa Rica hitting it high to the goalkeeper's right.<ref>{{cite web |url=https://www.theguardian.com/football/2014/jun/30/costa-rica-greece-world-cup-2014-last-16-match-report |title=Costa Rica beat Greece on penalties to meet Holland in quarter-finals|date=29 June 2014|work=Guardian |access-date=3 July 2014}}</ref>
+
+This marked the first time that Costa Rica progressed to the quarter-finals in a FIFA World Cup, where they faced the [[#Netherlands vs Costa Rica|Netherlands]].
+
+<section begin=i4 />{{Football box
+|date={{Start date|2014|6|29|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|CRC}}
+|score={{score link|2014 FIFA World Cup knockout stage#Costa Rica vs Greece|1–1}}
+|aet=yes
+|team2={{fb|GRE}}
+|goals1=
+*[[Bryan Ruiz|Ruiz]] {{goal|52}}
+|goals2=
+*[[Sokratis Papastathopoulos|Papastathopoulos]] {{goal|90+1}}
+|stadium=[[Itaipava Arena Pernambuco]], [[Recife]]
+|attendance=41,242
+|referee=[[Ben Williams (referee)|Ben Williams]] ([[Football Federation Australia|Australia]])
+|penalties1=
+*[[Celso Borges|Borges]] {{pengoal}}
+*[[Bryan Ruiz|Ruiz]] {{pengoal}}
+*[[Giancarlo González|González]] {{pengoal}}
+*[[Joel Campbell|Campbell]] {{pengoal}}
+*[[Michael Umaña|Umaña]] {{pengoal}}
+|penaltyscore=5–3
+|penalties2=
+*{{pengoal}} [[Konstantinos Mitroglou|Mitroglou]]
+*{{nowrap|{{pengoal}} [[Lazaros Christodoulopoulos|Christodoulopoulos]]}}
+*{{pengoal}} [[José Holebas|Holebas]]
+*{{penmiss}} [[Theofanis Gekas|Gekas]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186459 |title=Costa Rica vs Greece {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186459/report.html |title=2014 FIFA World Cup Brazil – Matches – Costa Rica v Greece |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170603071125/http://www.fifa.com/worldcup/matches/round=255951/match=300186459/report.html |archive-date=3 June 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/2ffc461ac7b3f1ec/original/bscsubxtyco6rir6lrcw-pdf.pdf |title=Match report – Round of 16 – Costa Rica v Greece |publisher=[[FIFA]] |date=29 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062233/https://digitalhub.fifa.com/m/2ffc461ac7b3f1ec/original/bscsubxtyco6rir6lrcw-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=i4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _costarica14a
+ |pattern_b  = _costarica1415a
+ |pattern_ra = _costarica14a
+ |pattern_sh = _costarica1415a
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 
+ |title      = Costa Rica<ref name="CRC-GRE line-ups">{{cite web |url=https://digitalhub.fifa.com/m/44dff676d0876080/original/nuab69ojrvyumsrgjski-pdf.pdf |title=Tactical Line-up – Round of 16 – Costa Rica v Greece |publisher=[[FIFA]] |date=29 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174500/https://digitalhub.fifa.com/m/44dff676d0876080/original/nuab69ojrvyumsrgjski-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _greece1415a
+ |pattern_b  = _greece1415away
+ |pattern_ra = _greece1415a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 2447D5
+ |body       = 2447D5
+ |rightarm   = 2447D5
+ |shorts     = 2447D5
+ |socks      = 2447D5
+ |title      = Greece<ref name="CRC-GRE line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Keylor Navas]] || {{yel|90}}
+|-
+|CB ||'''6''' ||[[Óscar Duarte (footballer, born 1989)|Óscar Duarte]] || {{sent off|2|42|66}}
+|-
+|CB ||'''3''' ||[[Giancarlo González]]
+|-
+|CB ||'''4''' ||[[Michael Umaña]]
+|-
+|RWB||'''16'''||[[Cristian Gamboa]] || || {{suboff|77}}
+|-
+|LWB||'''15'''||[[Júnior Díaz]]
+|-
+|CM ||'''5''' ||[[Celso Borges]]
+|-
+|CM ||'''17'''||[[Yeltsin Tejeda]] || {{yel|48}} || {{suboff|66}}
+|-
+|RW ||'''10'''||[[Bryan Ruiz]] ([[Captain (association football)|c]]) || {{yel|70}}
+|-
+|LW ||'''7''' ||[[Christian Bolaños]] || || {{suboff|83}}
+|-
+|CF ||'''9''' ||[[Joel Campbell]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[José Miguel Cubero]] || || {{subon|66}}
+|-
+|DF ||'''2''' ||[[Jhonny Acosta]] || || {{subon|77}}
+|-
+|FW ||'''14'''||[[Randall Brenes]] || || {{subon|83}}
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|MF ||'''13'''||[[Óscar Granados]] || {{yel|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Jorge Luis Pinto]]
+|}
+|valign="top"|[[File:CRC-GRE 2014-06-29.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Orestis Karnezis]]
+|-
+|RB ||'''15'''||[[Vasilis Torosidis]]
+|-
+|CB ||'''4''' ||[[Kostas Manolas]] || {{yel|72}}
+|-
+|CB ||'''19'''||[[Sokratis Papastathopoulos]]
+|-
+|LB ||'''20'''||[[José Holebas]]
+|-
+|DM ||'''10'''||[[Giorgos Karagounis]] ([[Captain (association football)|c]])
+|-
+|CM ||'''2''' ||[[Giannis Maniatis]] || || {{suboff|78}}
+|-
+|CM ||'''22'''||[[Andreas Samaris]] || {{yel|36}} || {{suboff|58}}
+|-
+|RW ||'''14'''||[[Dimitris Salpingidis]] || || {{suboff|69}}
+|-
+|LW ||'''16'''||[[Lazaros Christodoulopoulos]]
+|-
+|CF ||'''7''' ||[[Georgios Samaras]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Konstantinos Mitroglou|Kostas Mitroglou]] || || {{subon|58}}
+|-
+|FW ||'''17'''||[[Theofanis Gekas]] || || {{subon|69}}
+|-
+|MF ||'''21'''||[[Kostas Katsouranis]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Fernando Santos (football coach)|Fernando Santos]]{{refn|group=note|Santos was expelled by the referee in the 120+1st minute.}}
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Keylor Navas]] ([[Costa Rica national football team|Costa Rica]])
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Matthew Cream]] ([[Football Federation Australia|Australia]])
+<br />Hakan Anaz ([[Football Federation Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Yaser Tulefat ([[Bahrain Football Association|Bahrain]])
+|}
+
+===France vs Nigeria===
+{{further|List of 2014 FIFA World Cup controversies#France vs Nigeria}}
+The two teams had met in one previous match, in a friendly in 2009, won by Nigeria 1–0.<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=fra/team2=nga/code=-1/index.html|archive-url=https://web.archive.org/web/20140708194859/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=fra/team2=nga/code=-1/index.html|url-status=dead|archive-date=8 July 2014|title=France – Nigeria |publisher=FIFA |access-date=28 June 2014 }}</ref>
+
+[[Paul Pogba]] had the best chance in the first half but his right foot volley after a cross from the right was saved by [[Vincent Enyeama]]. In the second half [[Yohan Cabaye]] saw a shot come back off the bar.<ref>{{cite web |url=https://www.theguardian.com/football/2014/jun/30/france-nigeria-world-cup-2014-last-16-match-report |title=France's Paul Pogba rises to occasion to end Nigeria's World Cup hopes |date=30 June 2014 |work=Guardian |access-date=3 July 2014 }}</ref>	The opening goal came with 11 minutes to play when Pogba headed into the net after a mistake by Enyeama where he failed to hold onto a corner kick from the left by [[Mathieu Valbuena]]. In injury time, France got a second when [[Joseph Yobo]] put into his own net under pressure from [[Antoine Griezmann]] after a cross from the right by Valbuena.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/27969976 |title=France 2 Nigeria 0 |date=30 June 2014 |publisher=BBC Sport |access-date=3 July 2014 }}</ref>
+
+France advanced to the quarter-finals to face [[#France vs Germany|Germany]], while Nigeria were eliminated at the round of 16 in all three World Cups where they reached the knockout stage.
+
+<section begin=i5 />{{Football box
+|date={{Start date|2014|6|30|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2014 FIFA World Cup knockout stage#France vs Nigeria|2–0}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Paul Pogba|Pogba]] {{goal|79}}
+*[[Joseph Yobo|Yobo]] {{goal|90+2|o.g.}}
+|goals2=
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=67,882
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186462 |title=France vs Nigeria {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186462/report.html |title=2014 FIFA World Cup Brazil – Matches – France v Nigeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227083554/http://www.fifa.com/worldcup/matches/round=255951/match=300186462/report.html |archive-date=27 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/1cb500e60ae09dfd/original/hvts7ee8zdt4w9x2l1xu-pdf.pdf |title=Match report – Round of 16 – France v Nigeria |publisher=[[FIFA]] |date=30 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062255/https://digitalhub.fifa.com/m/1cb500e60ae09dfd/original/hvts7ee8zdt4w9x2l1xu-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end=i5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _france1415a
+ |pattern_b  = _france1415a
+ |pattern_ra = _france1415a
+ |pattern_sh = _white_stripes
+ |pattern_so = _france1415a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 123163
+ |socks      = FFFFFF
+ |title      = France<ref name="FRA-NGA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/acc3562308e4e44/original/flqqk10tdjbv4vpyqlnq-pdf.pdf |title=Tactical Line-up – Round of 16 – France v Nigeria |publisher=[[FIFA]] |date=30 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174516/https://digitalhub.fifa.com/m/acc3562308e4e44/original/flqqk10tdjbv4vpyqlnq-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _nigeria14h
+ |pattern_b  = _nigeria14h
+ |pattern_ra = _nigeria14h
+ |pattern_sh = _nigeria14h
+ |pattern_so = _nigeria14h
+ |leftarm    = 008800
+ |body       = 00CC00
+ |rightarm   = 008800
+ |shorts     = 00CC00
+ |socks      = 00CC00
+ |title      = Nigeria<ref name="FRA-NGA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Mathieu Debuchy]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''21'''||[[Laurent Koscielny]]
+|-
+|LB ||'''3''' ||[[Patrice Evra]]
+|-
+|DM ||'''6''' ||[[Yohan Cabaye]]
+|-
+|CM ||'''19'''||[[Paul Pogba]]
+|-
+|CM ||'''14'''||[[Blaise Matuidi]] || {{yel|54}}
+|-
+|RW ||'''8''' ||[[Mathieu Valbuena]] || || {{suboff|90+4}}
+|-
+|LW ||'''10'''||[[Karim Benzema]]
+|-
+|CF ||'''9''' ||[[Olivier Giroud]] || || {{suboff|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Antoine Griezmann]] || || {{subon|62}}
+|-
+|MF ||'''18'''||[[Moussa Sissoko]] || || {{subon|90+4}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-NGA 2014-06-30.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vincent Enyeama]]
+|-
+|RB ||'''5''' ||[[Efe Ambrose]]
+|-
+|CB ||'''2''' ||[[Joseph Yobo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''13'''||[[Juwon Oshaniwa]]
+|-
+|LB ||'''22'''||[[Kenneth Omeruo]]
+|-
+|RM ||'''7''' ||[[Ahmed Musa]]
+|-
+|CM ||'''17'''||[[Ogenyi Onazi]] || || {{suboff|59}}
+|-
+|CM ||'''10'''||[[John Obi Mikel]]
+|-
+|LM ||'''11'''||[[Victor Moses]] || || {{suboff|89}}
+|-
+|SS ||'''8''' ||[[Peter Odemwingie]]
+|-
+|CF ||'''9''' ||[[Emmanuel Emenike]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''4''' ||[[Reuben Gabriel]] || || {{subon|59}}
+|-
+|FW ||'''19'''||[[Uche Nwofor]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stephen Keshi]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Paul Pogba]] (France)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mark Hurd ([[United States Soccer Federation|United States]])
+<br />Joe Fletcher ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|}
+
+===Germany vs Algeria===
+The two teams had met in two previous matches,<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ger/team2=alg/code=-1/index.html |archive-url=https://web.archive.org/web/20140708194902/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ger/team2=alg/code=-1/index.html |url-status=dead |archive-date=8 July 2014 |title=Germany – Algeria |publisher=FIFA |access-date=28 June 2014 }}</ref> including in the [[1982 FIFA World Cup]] group stage, where Algeria defeated West Germany 2–1. This match was Algeria's first ever in the FIFA World Cup knockout stage.
+
+After a goalless 90 minutes when an Algerian goal was disallowed, Germany opened the scoring two minutes into extra time, when half-time substitute [[André Schürrle]] scored with a left foot back-heel from [[Thomas Müller]]'s cross from the left.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jun/30/germany-algeria-world-cup-last-16-match-report|title=Germany edge past Algeria as Schürrle and Özil end stalemate in extra time|date=30 June 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+Germany extended the lead in the 119th minute when [[Mesut Özil]] converted with his left foot high into the net after Schürrle's shot was blocked on the line, but Algeria pulled one back in injury time when substitute [[Abdelmoumene Djabou]] scored with his left foot from six yards after a cross from the right by [[Sofiane Feghouli]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/27969924|title=Germany 2 Algeria 1|publisher=BBC Sport|date=30 June 2014}}</ref>
+
+Germany advanced to the quarter-finals to face [[#Germany vs France|France]], continuing their streak of reaching the last eight in every World Cup since 1954.<ref>{{cite web|url=https://bleacherreport.com/articles/2115412-germany-have-no-need-to-panic-ahead-of-world-cup-quarter-final-with-france|title=Germany Have No Need to Panic Ahead of World Cup Quarter-Final with France|work=Bleacher Report|date=1 July 2014}}</ref> Djabou's goal, timed at 120 minutes and 51 seconds, was the latest goal in World Cup history, surpassing [[Alessandro Del Piero]]'s goal against Germany in 2006, timed at 120 minutes and 13 seconds, until [[Youri Tielemans]]'s penalty goal against [[Senegal national football team|Senegal]] in 2026, timed at 124 minutes and 44 seconds.<ref>{{cite web|url=https://it.eurosport.yahoo.com/blog/the-rio-report-it/djabou-cancella-record-alex-piero-021956670.html|title=Djabou cancella il record di Alex Del Piero|language=it|publisher=Yahoo! Sport Italia|date=1 July 2014|access-date=8 July 2014|archive-date=15 July 2014|archive-url=https://web.archive.org/web/20140715000936/https://it.eurosport.yahoo.com/blog/the-rio-report-it/djabou-cancella-record-alex-piero-021956670.html|url-status=dead}}</ref>
+
+<section begin=i6 />{{Football box
+| date = {{Start date|2014|6|30|df=y}}
+| time = 17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+| team1 = {{fb-rt|GER}}
+| score = {{score link|2014 FIFA World Cup knockout stage#Germany vs Algeria|2–1}}
+| aet = yes
+| team2 = {{fb|ALG}}
+| goals1 = *[[André Schürrle|Schürrle]] {{goal|92}}
+*[[Mesut Özil|Özil]] {{goal|119}}
+| goals2 = *[[Abdelmoumene Djabou|Djabou]] {{goal|120+1}}
+| stadium = [[Estádio Beira-Rio]], [[Porto Alegre]]
+| attendance = 43,063
+| referee = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+| report = <ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186460 |title=Germany vs Algeria {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186460/report.html |title=2014 FIFA World Cup Brazil – Matches – Germany v Algeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201073125/http://www.fifa.com/worldcup/matches/round=255951/match=300186460/report.html |archive-date=1 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/54a8eb6d08bc3879/original/dpc1v0dfuksviaiejscd-pdf.pdf |title=Match report – Round of 16 – Germany v Algeria |publisher=[[FIFA]] |date=30 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062305/https://digitalhub.fifa.com/m/54a8eb6d08bc3879/original/dpc1v0dfuksviaiejscd-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+<section end="i6" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _deutschland14h
+ |pattern_b  = _deutschland14h
+ |pattern_ra = _deutschland14h
+ |pattern_sh = _deutschland14h
+ |pattern_so = _DFB_14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Germany<ref name="GER-ALG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/195382ba65070e88/original/jhbwwe8tgsi29t1k6yok-pdf.pdf |title=Tactical Line-up – Round of 16 – Germany v Algeria |publisher=[[FIFA]] |date=30 June 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174531/https://digitalhub.fifa.com/m/195382ba65070e88/original/jhbwwe8tgsi29t1k6yok-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _algeria1415a
+ |pattern_b  = _algeria1415away
+ |pattern_ra = _algeria1415a
+ |pattern_sh = 
+ |pattern_so = _argelia14a
+ |leftarm    = 57C45C
+ |body       = 57C45C
+ |rightarm   = 57C45C
+ |shorts     = 57C45C
+ |socks      = 57C45C
+ |title      = Algeria<ref name="GER-ALG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''21'''||[[Shkodran Mustafi]] || || {{suboff|70}}
+|-
+|CB ||'''17'''||[[Per Mertesacker]]
+|-
+|CB ||'''20'''||[[Jérôme Boateng]]
+|-
+|LB ||'''4''' ||[[Benedikt Höwedes]]
+|-
+|DM ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]]) || {{yel|107}}
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]] || || {{suboff|109}}
+|-
+|CM ||'''18'''||[[Toni Kroos]]
+|-
+|RW ||'''8''' ||[[Mesut Özil]]
+|-
+|LW ||'''19'''||[[Mario Götze]] || || {{suboff|46}}
+|-
+|CF ||'''13'''||[[Thomas Müller]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''9''' ||[[André Schürrle]] || || {{subon|46}}
+|-
+|MF ||'''6''' ||[[Sami Khedira]] || || {{subon|70}}
+|-
+|MF ||'''23'''||[[Christoph Kramer]] || || {{subon|109}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-ALG 2014-06-30.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Raïs M'Bolhi]]
+|-
+|CB ||'''22'''||[[Mehdi Mostefa]]
+|-
+|CB ||'''4''' ||[[Essaïd Belkalem]]
+|-
+|CB ||'''5''' ||[[Rafik Halliche]] ([[Captain (association football)|c]]) || {{yel|42}} || {{suboff|97}}
+|-
+|RWB||'''20'''||[[Aïssa Mandi]]
+|-
+|LWB||'''3''' ||[[Faouzi Ghoulam]]
+|-
+|DM ||'''8''' ||[[Mehdi Lacen]]
+|-
+|RM ||'''19'''||[[Saphir Taïder]] || || {{suboff|78}}
+|-
+|CM ||'''10'''||[[Sofiane Feghouli]]
+|-
+|LM ||'''13'''||[[Islam Slimani]]
+|-
+|CF ||'''15'''||[[Hillal Soudani]] || || {{suboff|100}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''11'''||[[Yacine Brahimi]] || || {{subon|78}}
+|-
+|DF ||'''2''' ||[[Madjid Bougherra]] || || {{subon|97}}
+|-
+|MF ||'''18'''||[[Abdelmoumene Djabou]] || || {{subon|100}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BIH}} [[Vahid Halilhodžić]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Raïs M'Bolhi]] (Algeria)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Walter López ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+|}
+
+===Argentina vs Switzerland===
+The two teams had met in six previous matches,<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=arg/team2=sui/code=-1/index.html |archive-url=https://web.archive.org/web/20140708194905/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=arg/team2=sui/code=-1/index.html |url-status=dead |archive-date=8 July 2014 |title=Argentina – Switzerland |publisher=FIFA |access-date=28 June 2014 }}</ref> including in the [[1966 FIFA World Cup]] group stage, won by Argentina 2–0.
+
+The match went to extra time with [[Ángel Di María]] scoring the only goal with two minutes remaining with a side-foot finish from the right of the penalty area after a run and pass from [[Lionel Messi]].<ref>{{cite web |url=https://www.theguardian.com/football/2014/jul/01/argentina-switzerland-world-cup-2014-last-16-match-report |title=Argentina's Ángel di María breaks Switzerland's hearts at the death |date=1 July 2014 |work=Guardian |access-date=2 July 2014 }}</ref>
+Switzerland had a chance to equalise in injury time but [[Blerim Džemaili]] headed against the post then prodded the rebound wide.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/27990606 |title=Argentina 1 Switzerland 0 |date=1 July 2014 |publisher=BBC Sport |access-date=2 July 2014 }}</ref> Argentina advanced to the quarter-finals to face [[#Argentina vs Belgium|Belgium]].
+
+<section begin="i7" />{{Football box
+|date={{Start date|2014|7|1|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|ARG}}
+|score={{score link|2014 FIFA World Cup knockout stage#Argentina vs Switzerland|1–0}}
+|aet=yes
+|team2={{fb|SUI}}
+|goals1=
+*[[Ángel Di María|Di María]] {{goal|118}}
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=63,255
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186503 |title=Argentina vs Switzerland {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186503/report.html |title=2014 FIFA World Cup Brazil – Matches – Argentina v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171117070334/http://www.fifa.com/worldcup/matches/round=255951/match=300186503/report.html |archive-date=17 November 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/65b9de6f09e25b88/original/y8slyrywohcydesqcnpf-pdf.pdf |title=Match report – Round of 16 – Argentina v Switzerland |publisher=[[FIFA]] |date=1 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062319/https://digitalhub.fifa.com/m/65b9de6f09e25b88/original/y8slyrywohcydesqcnpf-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="i7" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg2014h
+ |pattern_b  = _arg2014h
+ |pattern_ra = _arg2014h
+ |pattern_sh = _arg13h
+ |pattern_so = _arg13h
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Argentina<ref name="ARG-SUI line-ups">{{cite web |url=https://digitalhub.fifa.com/m/180e0ca1cae5485/original/oz3caucwcpcss6r45mtt-pdf.pdf |title=Tactical Line-up – Round of 16 – Argentina v Switzerland |publisher=[[FIFA]] |date=1 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174559/https://digitalhub.fifa.com/m/180e0ca1cae5485/original/oz3caucwcpcss6r45mtt-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _switzerland1415h
+ |pattern_b  = _switzerland1415h
+ |pattern_ra = _switzerland1415h
+ |pattern_sh = _switzerland1415h
+ |pattern_so = _switzerland14h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland<ref name="ARG-SUI line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Sergio Romero]]
+|-
+|RB ||'''4''' ||[[Pablo Zabaleta]]
+|-
+|CB ||'''17'''||[[Federico Fernández (footballer)|Federico Fernández]]
+|-
+|CB ||'''2''' ||[[Ezequiel Garay]] || {{yel|120+4}}
+|-
+|LB ||'''16'''||[[Marcos Rojo]] || {{yel|90}} || {{suboff|105+1}}
+|-
+|CM ||'''5''' ||[[Fernando Gago]] || || {{suboff|106}}
+|-
+|CM ||'''14'''||[[Javier Mascherano]]
+|-
+|CM ||'''7''' ||[[Ángel Di María]] || {{yel|120}}
+|-
+|AM ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|SS ||'''9''' ||[[Gonzalo Higuaín]]
+|-
+|CF ||'''22'''||[[Ezequiel Lavezzi]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''18'''||[[Rodrigo Palacio]] || || {{subon|74}}
+|-
+|DF ||'''23'''||[[José María Basanta]] || || {{subon|105+1}}
+|-
+|MF ||'''6''' ||[[Lucas Biglia]] || || {{subon|106}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alejandro Sabella]]
+|}
+|valign="top"|[[File:ARG-SUI 2014-07-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Diego Benaglio]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]]
+|-
+|CB ||'''20'''||[[Johan Djourou]]
+|-
+|CB ||'''22'''||[[Fabian Schär]]
+|-
+|LB ||'''13'''||[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]
+|-
+|CM ||'''11'''||[[Valon Behrami]]
+|-
+|CM ||'''8''' ||[[Gökhan Inler]] ([[Captain (association football)|c]])
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]]
+|-
+|AM ||'''10'''||[[Granit Xhaka]] || {{yel|36}} || {{suboff|66}}
+|-
+|LW ||'''18'''||[[Admir Mehmedi]] || || {{suboff|113}}
+|-
+|CF ||'''19'''||[[Josip Drmić]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Gelson Fernandes]] || {{yel|73}} || {{subon|66}}
+|-
+|MF ||'''9''' ||[[Haris Seferovic]] || || {{subon|82}}
+|-
+|MF ||'''15'''||[[Blerim Džemaili]] || || {{subon|113}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Lionel Messi]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+<br />Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Belgium vs United States===
+The two teams had met in five previous matches,<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bel/team2=usa/index.html|archive-url=https://web.archive.org/web/20090805085943/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bel/team2=usa/index.html|url-status=dead|archive-date=5 August 2009|title=Belgium – USA |publisher=FIFA |access-date=28 June 2014 }}</ref> including one in the [[1930 FIFA World Cup]] group stage won by United States 3–0 and which was one of the two first FIFA World Cup matches to be played. An unofficial [[friendly match|friendly]] between the two teams was scheduled on 12 June 2014 in São Paulo,<ref name="Spza090514">{{cite web |url=http://sporza.be/cm/sporza/voetbal/Rode_Duivels/1.1961876 |title=Rode Duivels sparren op 12 juni tegen de VS |language=nl |publisher=Sporza |date=9 May 2014 |access-date=8 June 2014 |archive-date=14 July 2014 |archive-url=https://web.archive.org/web/20140714210035/http://sporza.be/cm/sporza/voetbal/Rode_Duivels/1.1961876 |url-status=dead }}</ref> but was cancelled because of traffic due to the opening ceremony and match.<ref name="Spza110614">{{cite web |url=http://sporza.be/cm/sporza/FIFAWK/Rode_Duivels/1.1994460 |title=De Rode Duivels sparren niet tegen de VS |language=nl |publisher=Sporza |date=11 June 2014 |access-date=27 June 2014 |archive-date=14 July 2014 |archive-url=https://web.archive.org/web/20140714152929/http://sporza.be/cm/sporza/FIFAWK/Rode_Duivels/1.1994460 |url-status=dead }}</ref> Belgium midfielder [[Steven Defour]] was suspended for the match,<ref>{{cite news|url=https://www.fifa.com/worldcup/matches/round=255931/match=300186480/match-report.html|archive-url=https://web.archive.org/web/20140627154108/http://www.fifa.com/worldcup/matches/round=255931/match=300186480/match-report.html|url-status=dead|archive-date=27 June 2014|title=Koreans crash to ten-man Belgium|publisher=FIFA |date=26 June 2014|access-date=27 June 2014 }}</ref> after being [[Fouls and misconduct (association football)|sent off]] in the last group stage match against South Korea.
+
+In a game dominated by the Belgians, but still goalless through the first 90 minutes thanks to U.S. goalkeeper [[Tim Howard]], U.S. striker [[Chris Wondolowski]] missed a great chance in stoppage time from less than five yards out. Thus, the game went to extra time and Belgium took the lead within two minutes. [[Romelu Lukaku]], who came off the bench at the start of extra time, crossed from the right into the penalty area, [[Matt Besler]] failed to clear the ball, and [[Kevin De Bruyne]] shot low into the far corner from the right of the penalty area. Near the end of extra time first half, De Bruyne's through ball from the right set up Lukaku to extend the lead with a left footed shot to the net.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jul/01/belgium-usa-world-cup-2014-last-16-match-report|title=Belgium edge into quarter-finals after De Bruyne and Lukaku sink USA|date=2 July 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+The United States pulled one back early in extra time second half, when substitute [[Julian Green]] volleyed in [[Michael Bradley (soccer)|Michael Bradley]]'s lobbed pass with his right foot from near the penalty spot. Minutes later, the U.S. nearly equalised on a set piece routine that saw [[Clint Dempsey]] through on goal, but his first touch was too hard and the ball was corralled by Belgian goalkeeper [[Thibaut Courtois]]. Belgium held on for the win, and advanced to the quarter-finals to face [[#Argentina vs Belgium|Argentina]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/27990605|title=Belgium 2 USA 1|publisher=BBC Sport|date=1 July 2014}}</ref>
+
+With Belgium's victory, the 2014 World Cup became the first tournament where all the top teams of the group stage advanced to the quarter-finals.<ref>{{cite web|title=Argentina and Belgium have completed the line-up for the World Cup quarter finals, following their last-16 wins over, respectively, Switzerland and USA.|url=http://www.thefa.com/news/2014/jul/world-cup-brazil-round-of-16-argentina-switzerland-belgium-usa|work=[[The Football Association]]|access-date=1 July 2014|date=1 July 2014}}</ref> U.S. goalkeeper Tim Howard recorded 15 saves<ref>{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/39/98/53/eng_56_0701_bel-usa_usa_playerstatistics_neutral.pdf |title=Official FIFA statistics, updated July 5, 2014 |date=5 July 2014 |access-date=29 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160701145714/http://resources.fifa.com/mm/document/tournament/competition/02/39/98/53/eng_56_0701_bel-usa_usa_playerstatistics_neutral.pdf |archive-date=1 July 2016 }}</ref>{{refn|group=note|FIFA's initial match statistics showed 16 saves, and many news sources continue to use this number. The official FIFA statistics were updated on 5 July 2014 to show 15 saves.}} in the match, which was the most saves recorded in a match since FIFA started to keep track of the number of saves in 1966.<ref>{{cite web |title=World Cup 2014: Tim Howard makes record number of saves |url=https://www.bbc.co.uk/sport/av/football/28122559 |publisher=BBC Sport |date=2 July 2014 |access-date=3 July 2014 }}</ref> Julian Green also became the youngest player to score a goal in the 2014 FIFA World Cup.
+The two would face each other in the [[2026 FIFA World Cup]] Where Belgium won 4-1 to get to the next round
+<section begin="i8" />{{Football box
+|date={{Start date|2014|7|1|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BEL}}
+|score={{score link|2014 FIFA World Cup knockout stage#Belgium vs United States|2–1}}
+|aet=yes
+|team2={{fb|USA}}
+|goals1=
+*[[Kevin De Bruyne|De Bruyne]] {{goal|93}}
+*[[Romelu Lukaku|Lukaku]] {{goal|105}}
+|goals2=
+*[[Julian Green|Green]] {{goal|107}}
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=51,227
+|referee=[[Djamel Haimoudi]] ([[Algerian Football Federation|Algeria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255951/300186497 |title=Belgium vs United States {{!}} Round of 16 {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255951/match=300186497/report.html |title=2014 FIFA World Cup Brazil – Matches – Belgium v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228025056/http://www.fifa.com/worldcup/matches/round=255951/match=300186497/report.html |archive-date=28 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/14a926d8a2e2355e/original/svvf6kc1q1xrjh6smwm2-pdf.pdf |title=Match report – Round of 16 – Belgium v USA |publisher=[[FIFA]] |date=1 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062337/https://digitalhub.fifa.com/m/14a926d8a2e2355e/original/svvf6kc1q1xrjh6smwm2-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="i8" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bel14h
+ |pattern_b  = _bel14h
+ |pattern_ra = _bel14h
+ |pattern_sh = _belgium1415h
+ |pattern_so = _long_belgium1415h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="BEL-USA line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2b18ca011ada0dc8/original/ry5exuybudex4a4wsqnr-pdf.pdf |title=Tactical Line-up – Round of 16 – Belgium v USA |publisher=[[FIFA]] |date=1 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174632/https://digitalhub.fifa.com/m/2b18ca011ada0dc8/original/ry5exuybudex4a4wsqnr-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _usa1415h
+ |pattern_b  = _usa1415h
+ |pattern_ra = _usa1415h
+ |pattern_sh = _usa1415h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = United States<ref name="BEL-USA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''15'''||[[Daniel Van Buyten]]
+|-
+|CB ||'''4''' ||[[Vincent Kompany]] ([[Captain (association football)|c]]) || {{yel|42}}
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|CM ||'''8''' ||[[Marouane Fellaini]]
+|-
+|RW ||'''14'''||[[Dries Mertens]] || || {{suboff|60}}
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|LW ||'''10'''||[[Eden Hazard]] || || {{suboff|111}}
+|-
+|CF ||'''17'''||[[Divock Origi]] || || {{suboff|91}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''11'''||[[Kevin Mirallas]] || || {{subon|60}}
+|-
+|FW ||'''9''' ||[[Romelu Lukaku]] || || {{subon|91}}
+|-
+|MF ||'''22'''||[[Nacer Chadli]] || || {{subon|111}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|valign="top"|[[File:BEL-USA 2014-07-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Tim Howard]]
+|-
+|RB ||'''20'''||[[Geoff Cameron]] || {{yel|18}}
+|-
+|CB ||'''3''' ||[[Omar Gonzalez]]
+|-
+|CB ||'''5''' ||[[Matt Besler]]
+|-
+|LB ||'''7''' ||[[DaMarcus Beasley]]
+|-
+|DM ||'''13'''||[[Jermaine Jones]]
+|-
+|CM ||'''19'''||[[Graham Zusi]] || || {{suboff|72}}
+|-
+|CM ||'''4''' ||[[Michael Bradley (soccer)|Michael Bradley]]
+|-
+|RW ||'''23'''||[[Fabian Johnson]] || || {{suboff|32}}
+|-
+|LW ||'''11'''||[[Alejandro Bedoya]] || || {{suboff|105+2}}
+|-
+|CF ||'''8''' ||[[Clint Dempsey]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[DeAndre Yedlin]] || || {{subon|32}}
+|-
+|FW ||'''18'''||[[Chris Wondolowski]] || || {{subon|72}}
+|-
+|MF ||'''16'''||[[Julian Green]] || || {{subon|105+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klinsmann]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Tim Howard]] (United States)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Rédouane Achik ([[Royal Moroccan Football Federation|Morocco]])
+<br />Abdelhak Etchiali ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Aden Range ([[Kenya Football Federation|Kenya]])
+|}
+
+==Quarter-finals==
+===France vs Germany===
+{{see also|France–Germany football rivalry}}
+The two teams had met in 25 previous matches, including three times in the FIFA World Cup ([[1958 FIFA World Cup|1958]], match for third place: France 6–3 West Germany; [[1982 FIFA World Cup|1982]] semi-finals: France 3–3 (aet) West Germany, West Germany won 5–4 on penalties; [[1986 FIFA World Cup|1986]], semi-finals: France [[1986 FIFA World Cup knockout stage#France vs West Germany|0–2]] West Germany).<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=fra/team2=ger/index.html|archive-url=https://web.archive.org/web/20070614055021/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=FRA/team2=GER/index.html|url-status=dead|archive-date=14 June 2007|title=France – Germany |publisher=FIFA |access-date=3 July 2014 }}</ref>
+
+The only goal came in the 13th minute when [[Mats Hummels]] got ahead of his marker [[Raphaël Varane]] to head Germany into the lead from ten yards out after a free-kick from [[Toni Kroos]] on the left.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28051800|title=France 0 Germany 1|date=4 July 2014|publisher=BBC Sport|access-date=8 July 2014}}</ref> [[Karim Benzema]] had a shot in second half injury time from the left which he hit straight at [[Manuel Neuer]].<ref>{{cite web |title=Germany reach World Cup semi-finals as Mats Hummels header sinks France |url=https://www.theguardian.com/football/2014/jul/04/france-germany-world-cup-2014-quarter-final-match-report |date=4 July 2014 |work=Guardian |access-date=8 July 2014 }}</ref>
+
+Germany advanced to the semi-finals where they would face [[#Brazil vs Germany|Brazil]]. They became the first team to reach four straight World Cup semi-finals, breaking the record of three shared by their predecessor West Germany (1966–1974 and 1982–1990) and Brazil (1970–1978 and 1994–2002). Germany was also guaranteed their 13th top four finish, the most by any nation.<ref>{{cite web|url=https://www.wsj.com/articles/germany-beats-france-to-move-on-to-fourth-straight-world-cup-semifinal-1404501569|title=Germany Beats France to Advance to Fourth Straight World Cup Semifinal|publisher=Wall Street Journal|date=4 July 2014}}</ref>
+
+<section begin="j1" />{{Football box
+|date={{Start date|2014|7|4|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|2014 FIFA World Cup knockout stage#France vs Germany|0–1}}
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Mats Hummels|Hummels]] {{goal|13}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=74,240
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255953/300186485 |title=France vs Germany {{!}} Quarter-final {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255953/match=300186485/report.html |title=2014 FIFA World Cup Brazil – Matches – France v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201083209/http://www.fifa.com/worldcup/matches/round=255953/match=300186485/report.html |archive-date=1 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/156382f90a404c7f/original/tsczidhm2bvplnbqbtkt-pdf.pdf |title=Match report – Quarter-final – France v Germany |publisher=[[FIFA]] |date=4 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062356/https://digitalhub.fifa.com/m/156382f90a404c7f/original/tsczidhm2bvplnbqbtkt-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="j1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _france1415h
+ |pattern_b  = _france1415home
+ |pattern_ra = _france1415h
+ |pattern_sh = _white_stripes
+ |pattern_so = _france1415h
+ |leftarm    = 123163
+ |body       = 123163
+ |rightarm   = 123163
+ |shorts     = 123163
+ |socks      = FF0000
+ |title      = France<ref name="FRA-GER line-ups">{{cite web |url=https://digitalhub.fifa.com/m/286b793bd7b4adb9/original/lo31i8v5p7nh5xemyswm-pdf.pdf |title=Tactical Line-up – Quarter-final – France v Germany |publisher=[[FIFA]] |date=4 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174743/https://digitalhub.fifa.com/m/286b793bd7b4adb9/original/lo31i8v5p7nh5xemyswm-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _deutschland14h
+ |pattern_b  = _deutschland14h
+ |pattern_ra = _deutschland14h
+ |pattern_sh = _deutschland14h
+ |pattern_so = _DFB_14h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Germany<ref name="FRA-GER line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Mathieu Debuchy]]
+|-
+|CB ||'''4''' ||[[Raphaël Varane]]
+|-
+|CB ||'''5''' ||[[Mamadou Sakho]] || || {{suboff|72}}
+|-
+|LB ||'''3''' ||[[Patrice Evra]]
+|-
+|CM ||'''19'''||[[Paul Pogba]]
+|-
+|CM ||'''6''' ||[[Yohan Cabaye]] || || {{suboff|74}}
+|-
+|CM ||'''14'''||[[Blaise Matuidi]]
+|-
+|RW ||'''8''' ||[[Mathieu Valbuena]] || || {{suboff|84}}
+|-
+|LW ||'''11'''||[[Antoine Griezmann]]
+|-
+|CF ||'''10'''||[[Karim Benzema]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Laurent Koscielny]] || || {{subon|72}}
+|-
+|FW ||'''20'''||[[Loïc Rémy]] || || {{subon|74}}
+|-
+|FW ||'''9''' ||[[Olivier Giroud]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-GER 2014-07-04.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''16'''||[[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||[[Jérôme Boateng]]
+|-
+|CB ||'''5''' ||[[Mats Hummels]]
+|-
+|LB ||'''4''' ||[[Benedikt Höwedes]]
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]] || {{yel|80}}
+|-
+|CM ||'''6''' ||[[Sami Khedira]] || {{yel|54}}
+|-
+|RW ||'''13'''||[[Thomas Müller]]
+|-
+|AM ||'''18'''||[[Toni Kroos]] || || {{suboff|90+3}}
+|-
+|LW ||'''8''' ||[[Mesut Özil]] || || {{suboff|83}}
+|-
+|CF ||'''11'''||[[Miroslav Klose]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[André Schürrle]] || || {{subon|68}}
+|-
+|MF ||'''19'''||[[Mario Götze]] || || {{subon|83}}
+|-
+|MF ||'''23'''||[[Christoph Kramer]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Mats Hummels]] (Germany)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Belatti ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+|}
+
+===Brazil vs Colombia===
+{{further|List of 2014 FIFA World Cup controversies#Brazil vs Colombia}}
+The two teams had met in 25 previous matches, but never in the FIFA World Cup.<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bra/team2=col/index.html|archive-url=https://web.archive.org/web/20080610015430/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=BRA/team2=COL/index.html|url-status=dead|archive-date=10 June 2008|title=Brazil – Colombia |publisher=FIFA |access-date=3 July 2014 }}</ref> This was the first time Colombia had reached the quarter-finals of the World Cup. Brazil midfielder [[Luiz Gustavo]] was suspended for the match due to accumulation of yellow cards.<ref>{{cite web|url=https://sports.yahoo.com/news/brazil-sweat-neymar-luis-gustavo-suspended-234348571--sow.html|title=Brazil sweat on Neymar, Luis Gustavo suspended|publisher=Yahoo! Sports|date=28 June 2014}}</ref>
+
+Brazil took the lead in the 7th minute, when [[Neymar]]'s corner from the left was turned in from close range by [[Thiago Silva]].<ref>{{cite web|url=https://www.theguardian.com/football/2014/jul/04/brazil-colombia-world-cup-quarter-final-match-report|title=Brazil sink Colombia after David Luiz thunderbolt proves decisive|date=4 July 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+Colombia appeared to have equalised through [[Mario Yepes]] in the 66th minute, but it was overturned for offside. Instead, Brazil doubled the lead in the 69th minute when [[David Luiz]] scored directly from a long-range free kick, side-footing the ball over the wall and into the top-right corner, despite [[David Ospina]] getting fingers on the ball. Colombia reduced the deficit with 10 minutes to go, when [[James Rodríguez]] converted a penalty kick low into the left corner and sent the goalkeeper the wrong way. The penalty was awarded after substitute [[Carlos Bacca]] was fouled by Brazil goalkeeper [[Júlio César (football goalkeeper, born 1979)|Júlio César]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28051801|title=Brazil 2 Colombia 1|publisher=BBC Sport|date=4 July 2014|archive-url=https://web.archive.org/web/20140712133308/http://www.bbc.com/sport/0/football/28051801|archive-date=12 July 2014}}</ref> Neymar was kneed in the back by Colombia defender [[Juan Camilo Zúñiga]] in the 88th minute, which resulted in the striker's withdrawal from the match. Subsequent medical evaluation discovered a [[bone fracture|fractured]] [[Vertebra (anatomy)|vertebra]], forcing the Brazilian to miss the remainder of the tournament.<ref name="Neymar out for the tournament">{{cite news |url=https://www.mirror.co.uk/sport/football/world-cup-2014/neymar-out-world-cup-fractured-3813866 |title=Neymar OUT of the World Cup with a 'fractured vertebrae' &#91;sic&#93; suffered in quarter-final win over Colombia |newspaper=[[Daily Mirror]] |last=Daly |first=Jim |date=4 July 2014 |access-date=5 July 2014 |archive-url=https://web.archive.org/web/20140705095855/http://www.mirror.co.uk/sport/football/world-cup-2014/neymar-out-world-cup-fractured-3813866 |archive-date=5 July 2014}}</ref> Brazil advanced to the semi-final, where they faced [[#Brazil vs Germany|Germany]].
+
+James's sixth goal of the tournament was enough for him to win the [[FIFA World Cup awards#Golden Boot|Golden Boot]] award.<ref>{{cite web|url=http://www.cbc.ca/sports/soccer/brazil2014/james-rodriguez-hangs-on-to-win-golden-boot-prize-1.2705741|title=James Rodriguez hangs on to win Golden Boot prize|publisher=CBC.ca|date=13 July 2014}}</ref> He also became the first player to score in his first five career World Cup matches since Peru's [[Teófilo Cubillas]] (across the 1970 and 1978 tournaments).<ref>{{cite web|url=http://www1.skysports.com/FIFA-World-Cup-2014/news/15241/9381719/world-cup-all-the-best-facts-figures-from-brazil-2014|title=World Cup: All the best facts & figures from Brazil 2014|publisher=Sky Sports|date=14 July 2014}}</ref>
+
+<section begin="j2" />{{Football box
+|date={{Start date|2014|7|4|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2014 FIFA World Cup knockout stage#Brazil vs Colombia|2–1}}
+|team2={{fb|COL}}
+|goals1=
+*[[Thiago Silva]] {{goal|7}}
+*[[David Luiz]] {{goal|69}}
+|goals2=
+*[[James Rodríguez|Rodríguez]] {{goal|80|pen.}}
+|stadium=[[Castelão (Ceará)|Estádio Castelão]], [[Fortaleza]]
+|attendance=60,342
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255953/300186461 |title=Brazil vs Colombia {{!}} Quarter-final {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255953/match=300186461/report.html |title=2014 FIFA World Cup Brazil – Matches – Brazil v Colombia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227073236/http://www.fifa.com/worldcup/matches/round=255953/match=300186461/report.html |archive-date=27 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/3c95f24a2ef6eb04/original/paqls2edlo6uwiizdui6-pdf.pdf |title=Match report – Quarter-final – Brazil v Colombia |publisher=[[FIFA]] |date=4 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062408/https://digitalhub.fifa.com/m/3c95f24a2ef6eb04/original/paqls2edlo6uwiizdui6-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="j2" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra14h
+ |pattern_b  = _bra14h1
+ |pattern_ra = _bra14h
+ |pattern_sh = _bra14A
+ |pattern_so = _bra14hl
+ |leftarm    = FFCC00
+ |body       = FFCC00
+ |rightarm   = FFCC00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-COL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4618ab7f98a7a885/original/cxmoog0w5r0gwh1q46wv-pdf.pdf |title=Tactical Line-up – Quarter-final – Brazil v Colombia |publisher=[[FIFA]] |date=4 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174708/https://digitalhub.fifa.com/m/4618ab7f98a7a885/original/cxmoog0w5r0gwh1q46wv-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _colombia14a
+ |pattern_b  = _colombia14a
+ |pattern_ra = _colombia14a
+ |pattern_sh = _colombia14a
+ |pattern_so = _colombia14a
+ |leftarm    = DF0000
+ |body       = DF0000
+ |rightarm   = DF0000
+ |shorts     = 192746
+ |socks      = DF0000
+ |title      = Colombia<ref name="BRA-COL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Júlio César (football goalkeeper, born 1979)|Júlio César]] || {{yel|78}}
+|-
+|RB ||'''23'''||[[Maicon Sisenando|Maicon]]
+|-
+|CB ||'''3''' ||[[Thiago Silva]] ([[Captain (association football)|c]]) || {{yel|64}}
+|-
+|CB ||'''4''' ||[[David Luiz]]
+|-
+|LB ||'''6''' ||[[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''5''' ||[[Fernandinho (footballer, born May 1985)|Fernandinho]]
+|-
+|CM ||'''8''' ||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|86}}
+|-
+|RW ||'''7''' ||[[Hulk (footballer)|Hulk]] || || {{suboff|82}}
+|-
+|AM ||'''11'''||[[Oscar (footballer, born 1991)|Oscar]]
+|-
+|LW ||'''10'''||[[Neymar]] || || {{suboff|88}}
+|-
+|CF ||'''9''' ||[[Fred (footballer, born 1983)|Fred]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''16'''||[[Ramires]] || || {{subon|82}}
+|-
+|MF ||'''18'''||[[Hernanes]] || || {{subon|86}}
+|-
+|DF ||'''15'''||[[Henrique (footballer, born October 1986)|Henrique]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:BRA-COL 2014-07-04.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David Ospina]]
+|-
+|RB ||'''18'''||[[Juan Camilo Zúñiga]]
+|-
+|CB ||'''2''' ||[[Cristián Zapata]]
+|-
+|CB ||'''3''' ||[[Mario Yepes]] ([[Captain (association football)|c]]) || {{yel|71}}
+|-
+|LB ||'''7''' ||[[Pablo Armero]]
+|-
+|RM ||'''11'''||[[Juan Cuadrado]] || || {{suboff|80}}
+|-
+|CM ||'''13'''||[[Fredy Guarín]]
+|-
+|CM ||'''6''' ||[[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]]
+|-
+|LM ||'''14'''||[[Víctor Ibarbo]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Teófilo Gutiérrez]] || || {{suboff|70}}
+|-
+|CF ||'''10'''||[[James Rodríguez]] || {{yel|67}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''19'''||[[Adrián Ramos]] || || {{subon|46}}
+|-
+|FW ||'''17'''||[[Carlos Bacca]] || || {{subon|70}}
+|-
+|MF ||'''20'''||[[Juan Fernando Quintero|Juan Quintero]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[José Pékerman]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[David Luiz]] (Brazil)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Roberto Alonso ([[Royal Spanish Football Federation|Spain]])
+<br />Juan Carlos Yuste ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Kim Haglund ([[Football Association of Norway|Norway]])
+|}
+
+===Argentina vs Belgium===
+The two teams had met in three previous matches, including twice in the FIFA World Cup ([[1982 FIFA World Cup|1982]], group stage: Argentina 0–1 Belgium; [[1986 FIFA World Cup|1986]], semi-finals: Argentina [[1986 FIFA World Cup knockout stage#Argentina vs Belgium|2–0]] Belgium).<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=arg/team2=bel/index.html|archive-url=https://web.archive.org/web/20071215002028/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ARG/team2=BEL/index.html|url-status=dead|archive-date=15 December 2007|title=Argentina – Belgium |publisher=FIFA |access-date=3 July 2014 }}</ref> Argentina defender [[Marcos Rojo]] was suspended for the match due to accumulation of yellow cards.<ref>{{cite web|url=https://sports.yahoo.com/news/argentinas-rojo-suspended-world-cup-quarters-223407026--sow.html|title=Argentina's Rojo suspended for World Cup quarters|publisher=Yahoo! Sports|date=1 July 2014}}</ref>
+
+The only goal of the match was scored by Argentina forward [[Gonzalo Higuaín]] in the eighth minute, a powerful shot with his right foot from just inside the penalty area after a pass from Di María was deflected to him by Belgium defender [[Jan Vertonghen]].<ref>{{cite web|url=https://www.theguardian.com/football/2014/jul/06/argentina-confidence-belgium-world-cup-2014-match-report|title=Argentina's confidence soars after teamwork triumphs over Belgium|date=6 July 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+Higuaín had a chance to extend the lead in the second half, but his shot hit the crossbar.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28069209|title=Argentina 1 Belgium 0|publisher=BBC Sport|date=5 July 2014}}</ref> Argentina won 1–0 to advance to the semi-finals, where they would face the [[#Netherlands vs Argentina|Netherlands]].
+
+<section begin="j3" />{{Football box
+|date={{Start date|2014|7|5|df=y}}
+|time=13:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|ARG}}
+|score={{score link|2014 FIFA World Cup knockout stage#Argentina vs Belgium|1–0}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Gonzalo Higuaín|Higuaín]] {{goal|8}}
+|goals2=
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=68,551
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255953/300186504 |title=Argentina vs Belgium {{!}} Quarter-final {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255953/match=300186504/report.html |title=2014 FIFA World Cup Brazil – Matches – Argentina v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171018101112/http://www.fifa.com/worldcup/matches/round=255953/match=300186504/report.html |archive-date=18 October 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/ef843e87702d39f/original/uv3kgp2wykud6lgzbbjj-pdf.pdf |title=Match report – Quarter-final – Argentina v Belgium |publisher=[[FIFA]] |date=5 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062422/https://digitalhub.fifa.com/m/ef843e87702d39f/original/uv3kgp2wykud6lgzbbjj-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="j3" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg13h
+ |pattern_b  = _arg2014h
+ |pattern_ra = _arg13h
+ |pattern_sh = _arg13h
+ |pattern_so = _arg13h
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Argentina<ref name="ARG-BEL line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7fc198b3e89e98a/original/oa5vszron7wmsfz1viru-pdf.pdf |title=Tactical Line-up – Quarter-final – Argentina v Belgium |publisher=[[FIFA]] |date=5 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174806/https://digitalhub.fifa.com/m/7fc198b3e89e98a/original/oa5vszron7wmsfz1viru-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _bel14h
+ |pattern_b  = _bel14h
+ |pattern_ra = _bel14h
+ |pattern_sh = _belgium1415h
+ |pattern_so = _long_belgium1415h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Belgium<ref name="ARG-BEL line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Sergio Romero]]
+|-
+|RB ||'''4''' ||[[Pablo Zabaleta]]
+|-
+|CB ||'''15'''||[[Martín Demichelis]]
+|-
+|CB ||'''2''' ||[[Ezequiel Garay]]
+|-
+|LB ||'''23'''||[[José María Basanta]]
+|-
+|CM ||'''6''' ||[[Lucas Biglia]] || {{yel|75}}
+|-
+|CM ||'''14'''||[[Javier Mascherano]]
+|-
+|RW ||'''22'''||[[Ezequiel Lavezzi]] || || {{suboff|71}}
+|-
+|LW ||'''7''' ||[[Ángel Di María]] || || {{suboff|33}}
+|-
+|CF ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''8''' ||[[Enzo Pérez]] || || {{subon|33}}
+|-
+|FW ||'''18'''||[[Rodrigo Palacio]] || || {{subon|71}}
+|-
+|MF ||'''5''' ||[[Fernando Gago]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alejandro Sabella]]
+|}
+|valign="top"|[[File:ARG-BEL 2014-07-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||[[Toby Alderweireld]] || {{yel|69}}
+|-
+|CB ||'''15'''||[[Daniel Van Buyten]]
+|-
+|CB ||'''4''' ||[[Vincent Kompany]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|CM ||'''8''' ||[[Marouane Fellaini]]
+|-
+|RW ||'''11'''||[[Kevin Mirallas]] || || {{suboff|60}}
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|LW ||'''10'''||[[Eden Hazard]] || {{yel|53}} || {{suboff|75}}
+|-
+|CF ||'''17'''||[[Divock Origi]] || || {{suboff|59}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Romelu Lukaku]] || || {{subon|59}}
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|60}}
+|-
+|MF ||'''22'''||[[Nacer Chadli]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Gonzalo Higuaín]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Renato Faverani ([[Italian Football Federation|Italy]])
+<br />Andrea Stefani ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ben Williams (referee)|Ben Williams]] ([[Football Federation Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />[[Matthew Cream]] ([[Football Federation Australia|Australia]])
+|}
+
+===Netherlands vs Costa Rica===
+The two teams had never met before.<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ned/team2=crc/index.html|archive-url=https://web.archive.org/web/20140707053051/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ned/team2=crc/index.html|url-status=dead|archive-date=7 July 2014|title=Netherlands – Costa Rica |publisher=FIFA |access-date=3 July 2014 }}</ref> This was the first time [[Costa Rica national football team|Costa Rica]] had reached the quarter-finals of the World Cup. Costa Rica defender [[Óscar Duarte (Costa Rican footballer)|Óscar Duarte]] was suspended for the match, after being sent off in the round of 16 match against Greece.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=miller-injury-doubt-for-costa-rica-2390645.html|archive-url=https://web.archive.org/web/20140630172816/http://www.fifa.com//worldcup/news/y=2014/m=6/news=miller-injury-doubt-for-costa-rica-2390645.html|url-status=dead|archive-date=30 June 2014|title=Miller injury doubt for Costa Rica|publisher=FIFA |date=30 June 2014}}</ref>
+
+After a goalless 90 minutes, which saw [[Wesley Sneijder]]'s free kick hit the post and [[Robin van Persie]]'s shot deflected onto the crossbar by Costa Rica defender [[Yeltsin Tejeda]], the match headed to extra time. In the second period, substitute [[Marco Ureña]] had a shot saved by Netherlands goalkeeper [[Jasper Cillessen]], while Sneijder had another shot hit the crossbar. In added time at the end of 120 minutes, Dutch manager [[Louis van Gaal]] brought on [[Tim Krul]] to replace Cillessen.<ref>{{cite web|url =https://www.theguardian.com/football/2014/jul/06/holland-coast-rica-world-cup-quarter-final-matchreport|title=Louis van Gaal shows golden touch as Tim Krul antics spook Costa Rica|date=6 July 2014 |work=Guardian|access-date=30 October 2014}}</ref>
+In the subsequent penalty shoot-out, Krul saved from [[Bryan Ruiz]] and [[Michael Umaña]], while the Netherlands scored all four of their kicks to advance to the semi-finals, where they would face [[#Netherlands vs Argentina|Argentina]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28069208|title=Netherlands 0 Costa Rica (Netherlands win 4–3 on penalties)|publisher=BBC Sport|date=5 July 2014}}</ref>
+
+Uzbek referee [[Ravshan Irmatov]] took charge of his ninth World Cup match, breaking the record of most World Cup games officiated, which he previously held jointly with [[Joël Quiniou]] of France, [[Benito Archundia]] of Mexico, and [[Jorge Larrionda]] of Uruguay.<ref>{{cite web|url=http://www.goal.com/en-sg/news/3999/world-cup-2014/2014/07/06/4939206/uzbekistan-referee-ravshan-irmatov-sets-world-cup-record|title=Uzbekistan referee Ravshan Irmatov sets World Cup record|website=Goal.com|date=5 July 2014}}</ref>
+
+<section begin="j4" />{{Football box
+|date={{Start date|2014|7|5|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|NED}}
+|score={{score link|2014 FIFA World Cup knockout stage#Netherlands vs Costa Rica|0–0}}
+|aet=yes
+|team2={{fb|CRC}}
+|goals1=
+|goals2=
+|stadium=[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance=51,179
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|penalties1=
+*[[Robin van Persie|Van Persie]] {{pengoal}}
+*[[Arjen Robben|Robben]] {{pengoal}}
+*[[Wesley Sneijder|Sneijder]] {{pengoal}}
+*[[Dirk Kuyt|Kuyt]] {{pengoal}}
+|penaltyscore=4–3
+|penalties2=
+*{{pengoal}} [[Celso Borges|Borges]]
+*{{penmiss}} [[Bryan Ruiz|Ruiz]]
+*{{pengoal}} [[Giancarlo González|González]]
+*{{pengoal}} [[Christian Bolaños|Bolaños]]
+*{{penmiss}} [[Michael Umaña|Umaña]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255953/300186488 |title=Netherlands vs Costa Rica {{!}} Quarter-final {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255953/match=300186488/report.html |title=2014 FIFA World Cup Brazil – Matches – Netherlands v Costa Rica |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220151042/http://www.fifa.com/worldcup/matches/round=255953/match=300186488/report.html |archive-date=20 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/62d9e7237aacf3fa/original/qncjdipcdvxkzg51rar0-pdf.pdf |title=Match report – Quarter-final – Netherlands v Costa Rica |publisher=[[FIFA]] |date=5 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062434/https://digitalhub.fifa.com/m/62d9e7237aacf3fa/original/qncjdipcdvxkzg51rar0-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="j4" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _netherlands2014h
+ |pattern_b  = _netherlands2014home
+ |pattern_ra = _netherlands2014h
+ |pattern_sh = _netherlands2014h
+ |pattern_so = _netherlands2014h
+ |leftarm    = FF6600
+ |body       = FF6600
+ |rightarm   = FF6600
+ |shorts     = FF6600
+ |socks      = FF6600
+ |title      = Netherlands<ref name="NED-CRC line-ups">{{cite web |url=https://digitalhub.fifa.com/m/169feac608e14f9f/original/s6wtbz1ctkuwl2lbmp7u-pdf.pdf |title=Tactical Line-up – Quarter-final – Netherlands v Costa Rica |publisher=[[FIFA]] |date=5 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174752/https://digitalhub.fifa.com/m/169feac608e14f9f/original/s6wtbz1ctkuwl2lbmp7u-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _costarica14a
+ |pattern_b  = _costarica1415a
+ |pattern_ra = _costarica14a
+ |pattern_sh = _costarica1415a
+ |pattern_so = _costarica1415a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Costa Rica<ref name="NED-CRC line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jasper Cillessen]] || || {{suboff|120+1}}
+|-
+|CB ||'''3''' ||[[Stefan de Vrij]]
+|-
+|CB ||'''2''' ||[[Ron Vlaar]]
+|-
+|CB ||'''4''' ||[[Bruno Martins Indi]] || {{yel|64}} || {{suboff|106}}
+|-
+|RWB||'''15'''||[[Dirk Kuyt]]
+|-
+|LWB||'''5''' ||[[Daley Blind]]
+|-
+|CM ||'''20'''||[[Georginio Wijnaldum]]
+|-
+|CM ||'''10'''||[[Wesley Sneijder]]
+|-
+|RW ||'''11'''||[[Arjen Robben]]
+|-
+|LW ||'''21'''||[[Memphis Depay]] || || {{suboff|76}}
+|-
+|CF ||'''9''' ||[[Robin van Persie]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Jeremain Lens]] || || {{subon|76}}
+|-
+|FW ||'''19'''||[[Klaas-Jan Huntelaar]] || {{yel|111}} || {{subon|106}}
+|-
+|GK ||'''23'''||[[Tim Krul]] || || {{subon|120+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Louis van Gaal]]
+|}
+|valign="top"|[[File:NED-CRC 2014-07-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Keylor Navas]]
+|-
+|CB ||'''2''' ||[[Jhonny Acosta]] || {{yel|107}}
+|-
+|CB ||'''3''' ||[[Giancarlo González]] || {{yel|81}}
+|-
+|CB ||'''4''' ||[[Michael Umaña]] || {{yel|52}}
+|-
+|RWB||'''16'''||[[Cristian Gamboa]] || || {{suboff|79}}
+|-
+|LWB||'''15'''||[[Júnior Díaz]] || {{yel|37}}
+|-
+|CM ||'''17'''||[[Yeltsin Tejeda]] || || {{suboff|97}}
+|-
+|CM ||'''5''' ||[[Celso Borges]]
+|-
+|RW ||'''10'''||[[Bryan Ruiz]] ([[Captain (association football)|c]])
+|-
+|LW ||'''7''' ||[[Christian Bolaños]]
+|-
+|CF ||'''9''' ||[[Joel Campbell]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''21'''||[[Marco Ureña]] || || {{subon|66}}
+|-
+|DF ||'''8''' ||[[David Myrie]] || || {{subon|79}}
+|-
+|MF ||'''22'''||[[José Miguel Cubero]] || || {{subon|97}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Jorge Luis Pinto]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Keylor Navas]] (Costa Rica)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Abdukhamidullo Rasulov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bahadyr Kochkarov ([[Football Federation of the Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Noumandiez Doué]] ([[Ivorian Football Federation|Ivory Coast]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Songuifolo Yeo ([[Ivorian Football Federation|Ivory Coast]])
+|}
+
+==Semi-finals==
+===Brazil vs Germany===
+{{main|Brazil v Germany (2014 FIFA World Cup)}}
+[[File:Brazil vs Germany, in Belo Horizonte 05.jpg|thumb|right|250px|[[Miroslav Klose]] (center) celebrating with teammates after scoring the second goal for Germany.]]
+The two teams had met in 21 previous matches, including in the [[2002 FIFA World Cup Final|final]] of the [[2002 FIFA World Cup]] (their only previous encounter in the tournament's history), won by Brazil 2–0.<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bra/team2=ger/index.html|archive-url=https://web.archive.org/web/20070613063056/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=BRA/team2=GER/index.html|url-status=dead|archive-date=13 June 2007|title=Brazil – Germany |publisher=FIFA |access-date=7 July 2014 }}</ref>
+
+While Germany kept the same starting line-up as their quarter-final against France, Brazil made two changes: defender and captain [[Thiago Silva]] was suspended for the match due to accumulation of yellow cards,<ref>{{cite web|url=https://www.theguardian.com/football/2014/jul/07/world-cup-2014-thiago-silva-brazil-germany|title=Brazil appeal against Thiago Silva's World Cup semi-final ban rejected|work=[[The Guardian]]|date=7 July 2014}}</ref> and was replaced by [[Dante (footballer)|Dante]], while forward [[Neymar]] was sidelined after suffering a [[Bone fracture|fractured]] [[Vertebra (anatomy)|vertebra]] in the quarter-final against Colombia,<ref name="Neymar out for the tournament" /> and was replaced by [[Bernard (footballer)|Bernard]].<ref>{{cite web|url=http://www.lavanguardia.com/deportes/20140708/54411712232/bernard-y-dante-por-neymar-y-thiago-silva-low-apuesta-por-klose.html|title=Bernard y Dante por Neymar y Thiago Silva; Low apuesta por Klose|publisher=La Vanguardia|date=8 July 2014}}</ref> Germany took the lead in the 11th minute, [[Thomas Müller]] volleying in [[Toni Kroos]]'s corner. [[Miroslav Klose]] scored Germany's second goal, after a passing move saw him set up by Kroos, his first shot was saved by Brazil goalkeeper [[Júlio César (football goalkeeper, born 1979)|Júlio César]], but he slotted in the rebound. Kroos then scored two quick goals in succession, the first one after [[Philipp Lahm]]'s cross was missed by Müller, the second one after stealing the ball from [[Fernandinho (footballer, born May 1985)|Fernandinho]] and playing a quick one-two with [[Sami Khedira]]. Khedira then scored Germany's fourth goal in six minutes, after exchanging passes with [[Mesut Özil]], to give Germany the 5–0 half-time lead. Substitute [[André Schürrle]] added two more goals in the second half, first slotting in from Lahm's cross, then scoring via the crossbar after a cut-back from Müller. Brazil scored a consolation goal in the 90th minute, as [[Oscar (footballer, born 1991)|Oscar]] received a pass from [[Marcelo (footballer, born 1988)|Marcelo]], dribbled inside and scored.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28102403|title=Brazil 1 Germany 7|publisher=BBC Sport|date=8 July 2014}}</ref> Germany reached their eighth World Cup [[2014 FIFA World Cup Final|final]], a record by any nation, where they would face [[#Final|Argentina]], while Brazil had to settle for the [[#Match for third place|match for third place against the Netherlands]].
+
+The game equalled Brazil's biggest margin of defeat, a [[1920 South American Championship#Matches|6–0 loss to Uruguay in 1920]], and it broke a 62-match home unbeaten streak in competitive matches going back to the [[1975 Copa América#Final round|1975 Copa América]], where they lost 3–1 to Peru in the same exact stadium of this match.<ref name="New York Times match summary">{{cite news|last1=Klein|first1=Jeff|title=World Cup 2014: Germany Defeats Brazil, 7–1|url=https://www.nytimes.com/interactive/2014/07/08/sports/worldcup/world-cup-brazil-vs-germany.html|access-date=8 July 2014|work=New York Times}}</ref> The match also broke many [[Brazil v Germany (2014 FIFA World Cup)#Records|World Cup records]]: It was Brazil's biggest World Cup defeat (eclipsing their [[1998 FIFA World Cup Final|1998 final]] loss to France), the biggest defeat by a World Cup host nation (previous record was by three goals), and the biggest margin of victory in a World Cup semi-final (three previous semi-finals ended in 6–1 scorelines).<ref>{{cite web|url=https://www.forbes.com/sites/chrissmith/2014/07/08/germany-embarrasses-brazil-in-worst-loss-on-home-soil-in-world-cup-history/|title=Germany Embarrasses Brazil In Worst Loss On Home Soil In World Cup History|work=Forbes|date=8 July 2014}}</ref>
+
+Klose's goal was his 16th at World Cup finals tournaments, allowing him to overtake Brazil's [[Ronaldo (Brazilian footballer)|Ronaldo]] as the [[FIFA World Cup top goalscorers|tournament's all-time top scorer]].<ref>{{Cite news|url=https://www.reuters.com/article/us-soccer-world-ger-klose-goals/miroslav-kloses-world-cup-goals-idUSKBN0FD2L520140709|title=Miroslav Klose's World Cup goals|newspaper=Reuters|date=9 July 2014}}</ref> Germany's seven goals took their total tally in World Cup history to 223, surpassing Brazil's 221 goals to first place overall.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=the-mineirazo-in-numbers-2402146.html|archive-url=https://web.archive.org/web/20140709023442/http://www.fifa.com//worldcup/news/y=2014/m=7/news=the-mineirazo-in-numbers-2402146.html|url-status=dead|archive-date=9 July 2014|title=The Mineirazo in numbers|publisher=FIFA |date=9 July 2014}}</ref>
+
+<section begin="k1" />{{#lst:Brazil v Germany (2014 FIFA World Cup)|k1}}<section end="k1" />
+{{#lst:Brazil v Germany (2014 FIFA World Cup)|Lineups}}
+
+===Netherlands vs Argentina===
+[[File:2014 FIFIA World Cup, Semi final, NED-ARG.jpg|thumb|Line-up of the teams before the match]]
+{{see also|Argentina–Netherlands football rivalry}}
+The two teams had met in eight previous matches, including four times in the FIFA World Cup: Netherlands won 4–0 in the second group stage of the [[1974 FIFA World Cup]] and 2–1 in the [[1998 FIFA World Cup knockout stage#Netherlands vs Argentina|quarter-finals]] of the [[1998 FIFA World Cup]], Argentina won 3–1 (after extra time) in the [[1978 FIFA World Cup Final|final]] of the [[1978 FIFA World Cup]], whereas a [[2006 FIFA World Cup Group C#Netherlands vs Argentina|group stage]] encounter of the [[2006 FIFA World Cup]] ended in a 0–0 draw.<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ned/team2=arg/index.html|archive-url=https://web.archive.org/web/20100608002107/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ned/team2=arg/index.html|url-status=dead|archive-date=8 June 2010|title=Netherlands – Argentina |publisher=FIFA |access-date=7 July 2014 }}</ref>
+
+The Netherlands made one change to their starting line-up from their quarter-final, with [[Nigel de Jong]] returning from injury to replace [[Memphis Depay]], while Argentina made two changes, with [[Marcos Rojo]] returning from suspension to replace [[José María Basanta]] and [[Enzo Pérez]] replacing the injured Di María.<ref>{{cite web|url=https://www.sbnation.com/soccer/2014/7/9/5884867/argentina-vs-netherlands-lineups-team-news-2014-world-cup|title=Nigel de Jong returns for the Netherlands, Enzo Perez replaces Ángel Di María|publisher=SB Nation|date=9 July 2014}}</ref> The match finished 0–0 after extra-time with very little chances as both sides cancelled each other out.<ref>{{cite web|url=https://www.theguardian.com/football/2014/jul/09/argentina-holland-world-cup-semi-final-match-report|title=Argentina win penalty prize to push past Holland and into World Cup final|date=9 July 2014|work=Guardian|access-date=9 July 2014}}</ref> In the penalty shoot-out, [[Sergio Romero]] saved the first penalty from [[Ron Vlaar]] diving to his left and the fifth penalty of the shoot-out from [[Wesley Sneijder]] when he dived high to his right. Argentina scored all of their four penalties to win 4–2.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28122293|title=Netherlands 0 Argentina 0 (Argentina win 4–2 on penalties)|date=9 July 2014|publisher=BBC Sport|access-date=9 July 2014}}</ref> [[Maxi Rodríguez]] scored the decisive fourth penalty, shooting to Dutch goalkeeper [[Jasper Cillessen]]'s right to send Argentina into the [[2014 FIFA World Cup Final|final]], where they would face [[#Final|Germany]], while the Netherlands had to settle for the [[#Match for third place|match for third place against Brazil]].
+
+This was the first World Cup semi-final to end in a goalless draw.{{citation needed|date=August 2020}} Argentina won their fourth [[List of FIFA World Cup penalty shoot-outs|World Cup penalty shoot-out]], tied with Germany for most wins, and were involved in their fifth World Cup shoot-out, a record for any nation.
+
+<section begin="k2" />{{Football box
+|date={{Start date|2014|7|9|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|NED}}
+|score={{score link|2014 FIFA World Cup knockout stage#Netherlands vs Argentina|0–0}}
+|aet=yes
+|team2={{fb|ARG}}
+|goals1=
+|goals2=
+|stadium=[[Arena Corinthians]], [[São Paulo]]
+|attendance=63,267
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|penalties1=
+*[[Ron Vlaar|Vlaar]] {{penmiss}}
+*[[Arjen Robben|Robben]] {{pengoal}}
+*[[Wesley Sneijder|Sneijder]] {{penmiss}}
+*[[Dirk Kuyt|Kuyt]] {{pengoal}}
+|penaltyscore=2–4
+|penalties2=
+*{{pengoal}} [[Lionel Messi|Messi]]
+*{{pengoal}} [[Ezequiel Garay|Garay]]
+*{{pengoal}} [[Sergio Agüero|Agüero]]
+*{{pengoal}} [[Maxi Rodríguez|Rodríguez]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255955/300186490 |title=Netherlands vs Argentina {{!}} Semi-final {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255955/match=300186490/report.html |title=2014 FIFA World Cup Brazil – Matches – Netherlands v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228092451/http://www.fifa.com/worldcup/matches/round=255955/match=300186490/report.html |archive-date=28 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/65e944d0b403e01f/original/troh3wrqcisfhm6qbfle-pdf.pdf |title=Match report – Semi-final – Netherlands v Argentina |publisher=[[FIFA]] |date=9 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062502/https://digitalhub.fifa.com/m/65e944d0b403e01f/original/troh3wrqcisfhm6qbfle-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="k2" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _netherlands2014h
+ |pattern_b  = _netherlands2014home
+ |pattern_ra = _netherlands2014h
+ |pattern_sh = _netherlands2014h
+ |pattern_so = _netherlands2014h
+ |leftarm    = FF6600
+ |body       = FF6600
+ |rightarm   = FF6600
+ |shorts     = FFFFFF
+ |socks      = FF6600
+ |title      = Netherlands<ref name="NED-ARG line-ups">{{cite web |url=https://digitalhub.fifa.com/m/20ff50180b90d9de/original/xv11fdgwlremcbqrnqqx-pdf.pdf |title=Tactical Line-up – Semi-final – Netherlands v Argentina |publisher=[[FIFA]] |date=9 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522174832/https://digitalhub.fifa.com/m/20ff50180b90d9de/original/xv11fdgwlremcbqrnqqx-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _arg13h
+ |pattern_b  = _arg2014h
+ |pattern_ra = _arg13h
+ |pattern_sh = _arg13h_alt
+ |pattern_so = _arg13h_alt
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Argentina<ref name="NED-ARG line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jasper Cillessen]]
+|-
+|CB ||'''3''' ||[[Stefan de Vrij]]
+|-
+|CB ||'''2''' ||[[Ron Vlaar]]
+|-
+|CB ||'''4''' ||[[Bruno Martins Indi]] || {{yel|45}} || {{suboff|46}}
+|-
+|RWB||'''15'''||[[Dirk Kuyt]]
+|-
+|LWB||'''5''' ||[[Daley Blind]]
+|-
+|CM ||'''6''' ||[[Nigel de Jong]] || || {{suboff|62}}
+|-
+|CM ||'''20'''||[[Georginio Wijnaldum]]
+|-
+|AM ||'''10'''||[[Wesley Sneijder]]
+|-
+|CF ||'''11'''||[[Arjen Robben]]
+|-
+|CF ||'''9''' ||[[Robin van Persie]] ([[Captain (association football)|c]]) || || {{suboff|96}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''7''' ||[[Daryl Janmaat]] || || {{subon|46}}
+|-
+|MF ||'''16'''||[[Jordy Clasie]] || || {{subon|62}}
+|-
+|FW ||'''19'''||[[Klaas-Jan Huntelaar]] || {{yel|105}} || {{subon|96}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Louis van Gaal]]
+|}
+|valign="top"| [[File:NED-ARG 2014-07-09.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Sergio Romero]]
+|-
+|RB ||'''4''' ||[[Pablo Zabaleta]]
+|-
+|CB ||'''15'''||[[Martín Demichelis]] || {{yel|49}}
+|-
+|CB ||'''2''' ||[[Ezequiel Garay]]
+|-
+|LB ||'''16'''||[[Marcos Rojo]]
+|-
+|CM ||'''6''' ||[[Lucas Biglia]]
+|-
+|CM ||'''14'''||[[Javier Mascherano]]
+|-
+|CM ||'''8''' ||[[Enzo Pérez]] || || {{suboff|81}}
+|-
+|AM ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]] || || {{suboff|82}}
+|-
+|CF ||'''22'''||[[Ezequiel Lavezzi]] || || {{suboff|101}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''18'''||[[Rodrigo Palacio]] || || {{subon|81}}
+|-
+|FW ||'''20'''||[[Sergio Agüero]] || || {{subon|82}}
+|-
+|MF ||'''11'''||[[Maxi Rodríguez]] || || {{subon|101}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Alejandro Sabella]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Sergio Romero]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+|}
+
+==Match for third place==
+The two teams had met in 11 previous meetings, including four times in the FIFA World Cup: Netherlands won 2–0 in the second group stage of the [[1974 FIFA World Cup]] and 2–1 in the [[2010 FIFA World Cup knockout stage#Netherlands vs Brazil|quarter-finals]] of the [[2010 FIFA World Cup]], and Brazil won 3–2 in the [[1994 FIFA World Cup knockout stage#Netherlands vs Brazil|quarter-finals]] of the [[1994 FIFA World Cup]] and 4–2 on penalties after a 1–1 draw (after extra time) in the [[1998 FIFA World Cup knockout stage#Brazil vs Netherlands|semi-finals]] of the [[1998 FIFA World Cup]].<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bra/team2=ned/index.html|archive-url=https://web.archive.org/web/20070618062458/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=bra/team2=ned/index.html|url-status=dead|archive-date=18 June 2007|title=Brazil – Netherlands |publisher=FIFA |access-date=11 July 2014 }}</ref>
+
+Brazil made six changes in their starting line-up from their semi-final, while the Netherlands made only two, with [[Wesley Sneijder]], who was originally part of the Dutch starting line-up, replaced by [[Jonathan de Guzmán]] after a hamstring injury during the pre-match warm-up prevented him from playing and [[Jordy Clasie]] replacing [[Nigel de Jong]] due to a groin injury.<ref>{{Cite web|url=https://www.sbnation.com/soccer/2014/7/12/5893901/wesley-sneijder-injured-netherlands-brazil|title = Sneijder ruled out, replaced by de Guzmán|date = 12 July 2014}}</ref>
+
+The Netherlands opened the scoring within three minutes, after Van Persie converted a penalty kick awarded for a foul on [[Arjen Robben]] by [[Thiago Silva]]. [[Daley Blind]] extended the lead in the 17th minute, scoring after a [[David Luiz]] headed clearance fell to him inside the penalty area. [[Georginio Wijnaldum]] completed the scoring in second half injury time as he shot home from substitute [[Daryl Janmaat]]'s cross from the right, the ball going in off the Brazilian goalkeeper’s foot.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/28173517 |title=Brazil 0 Netherlands 3 |publisher=BBC Sport |date=12 July 2014}}</ref>
+
+The Netherlands finished third for the first time in their World Cup history.<ref>{{cite web|url=https://bleacherreport.com/articles/2127609-brazil-vs-netherlands-world-cup-3rd-place-play-off-score-grades-and-reaction|title=Brazil vs. Netherlands: World Cup 3rd-Place Play-off Score, Grades and Reaction|work=Bleacher Report|date=12 July 2014}}</ref> With [[Michel Vorm]]'s participation (who was substituted into the match in second half injury time), the Netherlands became the first team to use all of their 23 players in a World Cup since the finals squads were expanded from 22 to 23 players in 2002.<ref>{{cite web|url=http://nos.nl/wk2014/artikel/674224-wissel-vorm-zorgt-voor-record.html |title=Wissel Vorm zorgt voor record |website=NOS.nl |date=12 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140715045526/http://nos.nl/wk2014/artikel/674224-wissel-vorm-zorgt-voor-record.html |archive-date=15 July 2014 }}</ref>
+
+Brazil, who finished fourth for the second time in World Cup history, conceded a total of 14 goals in the tournament, the most they had ever allowed in a World Cup and also the most conceded by any World Cup hosts.<ref>{{cite web|url=http://msn.foxsports.com/soccer/story/netherlands-claim-third-place-in-world-cup-add-brazil-misery-match-report-071214|title=Netherlands add to Brazil's misery, claim third place in World Cup|work=Fox Sports|date=12 July 2014}}</ref> Brazil also became the second team to concede 100 World Cup goals, after Germany.
+
+Van Persie's goal was the 100th goal that Brazil had conceded in the FIFA World Cup and made him the second highest Dutch goalscorer with six World Cup goals along with [[Wesley Sneijder]], [[Arjen Robben]], [[Dennis Bergkamp]], and [[Rob Rensenbrink]], all behind [[Johnny Rep]] on seven.
+
+Lastly, since the beginning of the 21st century, all four World Cups in [[2002 FIFA World Cup knockout stage#Match for third place|2002]], [[2006 FIFA World Cup knockout stage#Match for third place|2006]], [[2010 FIFA World Cup knockout stage#Match for third place|2010]] and 2014 involved the third-place victors scoring three goals.<ref>{{cite web|url=https://uk.eurosport.yahoo.com/news/world-cup-brazil-humiliated-dutch-take-third-190623389--sow.html |title=World Cup – Brazil humiliated again as Dutch take third |work=Yahoo! Sport |date=12 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141012045158/https://uk.eurosport.yahoo.com/news/world-cup-brazil-humiliated-dutch-take-third-190623389--sow.html |archive-date=12 October 2014 }}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2014/jul/12/brazilholland-world-cup-2014-third-place-play-off-match-report|title=Holland heap misery on Brazil with World Cup third-place play-off win|date=12 July 2014|work=Guardian |access-date=14 July 2014}}</ref>
+
+<section begin="l1" />{{Football box
+|date={{Start date|2014|7|12|df=y}}
+|time=17:00 [[Time in Brazil|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|BRA}}
+|score={{score link|2014 FIFA World Cup knockout stage#Match for third place|0–3}}
+|team2={{fb|NED}}
+|goals1=
+|goals2=
+*[[Robin van Persie|Van Persie]] {{goal|3|pen.}}
+*[[Daley Blind|Blind]] {{goal|17}}
+*[[Georginio Wijnaldum|Wijnaldum]] {{goal|90+1}}
+|stadium=[[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance=68,034
+|referee=[[Djamel Haimoudi]] ([[Algerian Football Federation|Algeria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/251164/255957/300186502 |title=Brazil vs Netherlands {{!}} Play-off for third place {{!}} 2014 FIFA World Cup Brazil |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=255957/match=300186502/report.html |title=2014 FIFA World Cup Brazil – Matches – Brazil v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212132817/http://www.fifa.com/worldcup/matches/round=255957/match=300186502/report.html |archive-date=12 December 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/25dcb290e6f02a4c/original/uybb9tmfxmj26f695san-pdf.pdf |title=Match report – Match for third place – Brazil v Netherlands |publisher=[[FIFA]] |date=12 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413062517/https://digitalhub.fifa.com/m/25dcb290e6f02a4c/original/uybb9tmfxmj26f695san-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}<section end="l1" />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bra14h
+ |pattern_b  = _bra14h1
+ |pattern_ra = _bra14h
+ |pattern_sh = _bra14A
+ |pattern_so = _bra14hl
+ |leftarm    = FFCC00
+ |body       = FFCC00
+ |rightarm   = FFCC00
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Brazil<ref name="BRA-NED line-ups">{{cite web |url=https://digitalhub.fifa.com/m/73984e39ca613f66/original/swmseuwzpcr7cqk14x5x-pdf.pdf |title=Tactical Line-up – Match for third place – Brazil v Netherlands |publisher=[[FIFA]] |date=12 July 2014 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260522183940/https://digitalhub.fifa.com/m/73984e39ca613f66/original/swmseuwzpcr7cqk14x5x-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _netherlands2014a
+ |pattern_b  = _netherlands2014away
+ |pattern_ra = _netherlands2014a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 00005C
+ |body       = 00005C
+ |rightarm   = 00005C
+ |shorts     = 00005C
+ |socks      = 00005C
+ |title      = Netherlands<ref name="BRA-NED line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''23'''||[[Maicon Sisenando|Maicon]]
+|-
+|CB ||'''3''' ||[[Thiago Silva]] ([[Captain (association football)|c]]) || {{yel|2}}
+|-
+|CB ||'''4''' ||[[David Luiz]]
+|-
+|LB ||'''14'''||[[Maxwell (footballer, born 1981)|Maxwell]]
+|-
+|CM ||'''8''' ||[[Paulinho (footballer, born July 1988)|Paulinho]] || || {{suboff|57}}
+|-
+|CM ||'''17'''||[[Luiz Gustavo]] || || {{suboff|46}}
+|-
+|RW ||'''16'''||[[Ramires]] || || {{suboff|73}}
+|-
+|AM ||'''11'''||[[Oscar (footballer, born 1991)|Oscar]] || {{yel|68}}
+|-
+|LW ||'''19'''||[[Willian (footballer, born 1988)|Willian]]
+|-
+|CF ||'''21'''||[[Jô]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''5''' ||[[Fernandinho (footballer, born May 1985)|Fernandinho]] || {{yel|54}} || {{subon|46}}
+|-
+|MF ||'''18'''||[[Hernanes]] || || {{subon|57}}
+|-
+|FW ||'''7''' ||[[Hulk (footballer)|Hulk]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Luiz Felipe Scolari]]
+|}
+|valign="top"|[[File:BRA-NED 2014-07-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Jasper Cillessen]] || || {{suboff|90+3}}
+|-
+|CB ||'''3''' ||[[Stefan de Vrij]]
+|-
+|CB ||'''2''' ||[[Ron Vlaar]]
+|-
+|CB ||'''4''' ||[[Bruno Martins Indi]]
+|-
+|RWB||'''15'''||[[Dirk Kuyt]]
+|-
+|LWB||'''5''' ||[[Daley Blind]] || || {{suboff|70}}
+|-
+|CM ||'''20'''||[[Georginio Wijnaldum]]
+|-
+|CM ||'''16'''||[[Jordy Clasie]] || || {{suboff|90}}
+|-
+|CM ||'''8'''||[[Jonathan de Guzmán]] || {{yel|36}}
+|-
+|CF ||'''9''' ||[[Robin van Persie]] ([[Captain (association football)|c]])
+|-
+|CF ||'''11'''||[[Arjen Robben]] || {{yel|9}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''7''' ||[[Daryl Janmaat]] || || {{subon|70}}
+|-
+|DF ||'''13'''||[[Joël Veltman]] || || {{subon|90}}
+|-
+|GK ||'''22'''||[[Michel Vorm]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Louis van Gaal]]
+|}
+|}
+
+{| width=50% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Arjen Robben]] (Netherlands)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Rédouane Achik ([[Royal Moroccan Football Federation|Morocco]])
+<br />Abdelhak Etchiali ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+|}
+
+==Final==
+{{Main|2014 FIFA World Cup final}}
+[[File:2014 FIFA World Cup Final, Germany vs Argentina lineup.jpeg|thumb|right|Germany–Argentina line-up before kick-off]]
+The two teams had met in 20 previous matches, including six times in the FIFA World Cup: [[1958 FIFA World Cup|1958]], group stage: West Germany 3–1 Argentina; [[1966 FIFA World Cup|1966]], group stage: West Germany 0–0 Argentina; [[1986 FIFA World Cup|1986]], [[1986 FIFA World Cup Final|final]]: West Germany 2–3 Argentina; [[1990 FIFA World Cup|1990]], [[1990 FIFA World Cup Final|final]]: West Germany 1–0 Argentina; [[2006 FIFA World Cup|2006]], [[2006 FIFA World Cup knockout stage#Germany vs Argentina|quarter-finals]]: Germany 1–1 Argentina (after extra time, Germany won 4–2 on penalties); [[2010 FIFA World Cup]], [[2010 FIFA World Cup knockout stage#Argentina vs Germany|quarter-finals]]: Germany 4–0 Argentina.<ref>{{cite web |url=https://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ger/team2=arg/index.html|archive-url=https://web.archive.org/web/20100530074813/http://www.fifa.com/worldfootball/statisticsandrecords/headtohead/team1=ger/team2=arg/index.html|url-status=dead|archive-date=30 May 2010|title=Germany – Argentina |publisher=FIFA |access-date=11 July 2014 }}</ref> Their third final meeting is the most ever in World Cup history, and also tied the record for the most frequent fixture in tournament history, as Brazil vs Sweden and Germany vs Serbia (including Yugoslavia) had also been played seven times in the World Cup.<ref>{{Cite news|url=http://sunnewsonline.com/new/?p=71900|location=Lagos, Nigeria|title=WORLD CUP FINAL: Argentina hopes for third win as Germany wants fourth|date=13 July 2014|newspaper=[[The Sun (Nigeria)|The Sun]]}}</ref>
+
+Both teams initially named unchanged starting line-ups from their semi-finals,<ref>{{cite web|url=https://www.sbnation.com/soccer/2014/7/13/5895799/germany-argentina-world-cup-2014-lineups|title=World Cup 2014 final lineups: Both Germany and Argentina unchanged|publisher=SB Nation|date=13 July 2014}}</ref> but Germany had to make a late change as [[Sami Khedira]] injured his calf and was replaced by [[Christoph Kramer]], who was himself substituted in the first half by [[André Schürrle]] after a blow to his head.<ref>{{cite web|url=https://www.sbnation.com/soccer/2014/7/13/5895921/christoph-kramer-replaces-sami-khedira-in-germany-lineup|title=Christoph Kramer replaces Sami Khedira in Germany lineup|publisher=SB Nation|date=13 July 2014}}</ref> In the first half, [[Gonzalo Higuaín]] shot wide after a [[Toni Kroos]]'s misplaced header fell to him, and also had a goal disallowed for offside. Later, [[Jérôme Boateng]] cleared off the line after a [[Lionel Messi]] run, and [[Benedikt Höwedes]]'s header hit the post. In the second half, Argentina's best chance fell to Messi, whose shot went just wide, while [[Toni Kroos]] also had a chance for Germany but could not convert. For the third World Cup final in a row, the match went to extra time. In the first half, Schürrle had a shot saved by [[Sergio Romero]], while [[Rodrigo Palacio]]'s lobbed shot was also unsuccessful. Germany scored the only goal in the second half, as Schürrle ran down the left wing and crossed for substitute [[Mario Götze]], who controlled the ball on his chest and volleyed past Romero.<ref>{{cite web|date=13 July 2014|title=Germany 1-0 Argentina|url=https://www.bbc.com/sport/0/football/28181689|publisher=BBC Sport}}</ref>
+
+Germany won their fourth World Cup title, and their first title since [[German reunification]] (they won as West Germany in [[1954 FIFA World Cup|1954]], [[1974 FIFA World Cup|1974]], and [[1990 FIFA World Cup|1990]]). It was the first time a European team won the tournament in the Americas. For the third tournament in a row, the World Cup was won by a European team, first time for any confederation. Argentina finished as the runners-up for the third time in their history.
+
+A total of 171 goals were scored in the tournament, a joint record along with the [[1998 FIFA World Cup]]. Götze's goal was the 32nd by a substitute, a World Cup record. Including the final, a total of eight matches went to extra time, a joint record along with the [[1990 FIFA World Cup]].<ref>{{cite web|url=http://www.fourfourtwo.com/sg/features/pass-move-and-take-your-chances-how-stats-zone-saw-germany-1-0-argentina|title=Pass, move and take your chances: how Stats Zone saw Germany 1–0 Argentina|work=FourFourTwo|date=13 July 2014|access-date=13 July 2014|archive-url=https://web.archive.org/web/20160619050421/http://www.fourfourtwo.com/sg/features/pass-move-and-take-your-chances-how-stats-zone-saw-germany-1-0-argentina|archive-date=19 June 2016|url-status=dead}}</ref>
+
+{{#lst:2014 FIFA World Cup final|Final}}
+{{#lst:2014 FIFA World Cup final|Lineups}}
+
+==Notes==
+{{reflist|group=note}}
+
+==See also==
+*[[2014 Gaza war beach bombings]] – attacks on football fans watching the 2014 FIFA World Cup knockout stage
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+* {{Official website|https://www.fifa.com/worldcup/index.html}}
+
+{{2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout Stage}}
+[[Category:2014 FIFA World Cup]]
+[[Category:2010s in São Paulo|2014 FIFA World Cup knockout stage]]
+[[Category:2014 in Rio de Janeiro (city)]]
+[[Category:21st century in Belo Horizonte|2014 FIFA World Cup knockout stage]]
+[[Category:21st century in Brasília|2014 FIFA World Cup knockout stage]]
+[[Category:21st century in Porto Alegre|2014 FIFA World Cup knockout stage]]
+[[Category:Algeria at the 2014 FIFA World Cup]]
+[[Category:Argentina at the 2014 FIFA World Cup]]
+[[Category:Belgium at the 2014 FIFA World Cup]]
+[[Category:Brazil at the 2014 FIFA World Cup]]
+[[Category:Chile at the 2014 FIFA World Cup]]
+[[Category:Colombia at the 2014 FIFA World Cup]]
+[[Category:Costa Rica at the 2014 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|2014]]
+[[Category:Football competitions in Belo Horizonte]]
+[[Category:Football competitions in Porto Alegre]]
+[[Category:Football competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in São Paulo (city)]]
+[[Category:Football in Bahia]]
+[[Category:Football in Brasília]]
+[[Category:Football in Ceará]]
+[[Category:Football in Pernambuco]]
+[[Category:France at the 2014 FIFA World Cup]]
+[[Category:Germany at the 2014 FIFA World Cup]]
+[[Category:Greece at the 2014 FIFA World Cup]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:International sports competitions in São Paulo]]
+[[Category:Mexico at the 2014 FIFA World Cup]]
+[[Category:Netherlands at the 2014 FIFA World Cup]]
+[[Category:Nigeria at the 2014 FIFA World Cup]]
+[[Category:Sport in Fortaleza]]
+[[Category:Sport in Recife]]
+[[Category:Sport in Salvador, Bahia]]
+[[Category:Switzerland at the 2014 FIFA World Cup]]
+[[Category:United States at the 2014 FIFA World Cup]]
+[[Category:Uruguay at the 2014 FIFA World Cup]]

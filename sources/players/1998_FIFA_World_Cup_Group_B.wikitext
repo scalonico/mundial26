@@ -1,0 +1,882 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group B''' of the [[1998 FIFA World Cup]] was played from 11 to 23 June 1998.<ref>{{cite web |url=https://www.rsssf.org/tables/98full.html |title=World Cup 1998 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Italy finished clear winners of this group with seven points. Injury-time equalisers for Austria, first against Cameroon and then against Chile, meant that all three of these teams could still qualify with one match to go. Austria were then eliminated after losing their final game to Italy (despite scoring once again in injury-time). Chile conceded equalisers in all their games, but their three draws were enough for them to qualify in second place and advance with a record-low three points.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/france1998/groups/ FIFA]
+|teamwidth=200
+
+|team1=ITA|team2=CHI|team3=AUT|team4=CMR
+|result1=KO|result2=KO
+
+|win_ITA=2 |draw_ITA=1 |loss_ITA=0 |gf_ITA=7 |ga_ITA=3
+|win_CHI=0 |draw_CHI=3 |loss_CHI=0 |gf_CHI=4 |ga_CHI=4
+|win_AUT=0 |draw_AUT=2 |loss_AUT=1 |gf_AUT=3 |ga_AUT=4
+|win_CMR=0 |draw_CMR=2 |loss_CMR=1 |gf_CMR=2 |ga_CMR=5
+
+|name_ITA={{fb|ITA|1946}}|name_CHI={{fb|CHI}}|name_AUT={{fb|AUT}}|name_CMR={{fb|CMR}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1998 FIFA World Cup knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+*Italy advanced to play Norway (runner-up of [[1998 FIFA World Cup Group A|Group A]]) in the [[1998 FIFA World Cup knockout stage#Italy vs Norway|round of 16]].
+*Chile advanced to play Brazil (winner of [[1998 FIFA World Cup Group A|Group A]]) in the [[1998 FIFA World Cup knockout stage#Brazil vs Chile|round of 16]].
+
+==Matches==
+
+===Italy vs Chile===
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|1998|6|11|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1998 FIFA World Cup Group B#Italy vs Chile|2–2}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Christian Vieri|Vieri]] {{goal|10}}
+*[[Roberto Baggio|R. Baggio]] {{goal|84|pen.}}
+|goals2=
+*[[Marcelo Salas|Salas]] {{goal|45+3||50}}
+|stadium=[[Stade Chaban-Delmas|Parc Lescure]], [[Bordeaux]]
+|attendance=31,800
+|referee=[[Lucien Bouchardeau]] ([[Nigerien Football Federation|Niger]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8726 |title=Italy vs Chile {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8726/index.html |title=1998 FIFA World Cup France – Matches – Italy v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201110103/http://www.fifa.com/worldcup/matches/round=1014/match=8726/index.html |archive-date=1 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8890.htm |title=Match Statistics – Group B – Italy v Chile |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=11 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418003818/http://www.france98.com/english/competition/matchstat8890.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ita98a
+ | pattern_b  = _ita98a
+ | pattern_ra = _ita98a
+ | pattern_sh = _ita98
+ | pattern_so = _ita1998a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _chi98H
+ | pattern_b  = _chi98H
+ | pattern_ra = _chi98H
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = CD0000
+ | body       = CD0000
+ | rightarm   = CD0000
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Chile
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Gianluca Pagliuca]]
+|-
+|RB ||'''5''' ||[[Alessandro Costacurta]]
+|-
+|CB ||'''6''' ||[[Alessandro Nesta]]
+|-
+|CB ||'''4''' ||[[Fabio Cannavaro]] || {{yel|31}}
+|-
+|LB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|RM ||'''15'''||[[Angelo Di Livio]] || {{yel|8}} || {{suboff|61}}
+|-
+|CM ||'''9''' ||[[Demetrio Albertini]]
+|-
+|CM ||'''16'''||[[Roberto Di Matteo]] || || {{suboff|57}}
+|-
+|LM ||'''11'''||[[Dino Baggio]]
+|-
+|SS ||'''18'''||[[Roberto Baggio]]
+|-
+|CF ||'''21'''||[[Christian Vieri]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Luigi Di Biagio]] || || {{subon|57}}
+|-
+|FW ||'''20'''||[[Enrico Chiesa]] || || {{subon|61}}
+|-
+|FW ||'''19'''||[[Filippo Inzaghi]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Cesare Maldini]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Nelson Tapia]]
+|-
+|RWB ||'''15'''||[[Moisés Villarroel (Chilean footballer)|Moisés Villarroel]]
+|-
+|CB ||'''3''' ||[[Ronald Fuentes]]
+|-
+|CB ||'''5''' ||[[Javier Margas]] || || {{suboff|63}}
+|-
+|CB ||'''6''' ||[[Pedro Reyes (footballer)|Pedro Reyes]]
+|-
+|LWB ||'''4''' ||[[Francisco Rojas Rojas|Francisco Rojas]] || {{yel|66}}
+|-
+|CM ||'''7''' ||[[Nelson Parraguez]] || {{yel|45}}
+|-
+|CM ||'''20'''||[[Fabián Estay]] || || {{suboff|81}}
+|-
+|CM ||'''8''' ||[[Clarence Acuña]] || {{yel|53}} || {{suboff|82}}
+|-
+|FW ||'''9''' ||[[Iván Zamorano]] ([[Captain (association football)|c]])
+|-
+|FW ||'''11'''||[[Marcelo Salas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''14'''||[[Miguel Ramírez (footballer, born 1970)|Miguel Ramírez]] || || {{subon|63}}
+|-
+|MF ||'''10'''||[[José Luis Sierra (footballer, born 1968)|José Luis Sierra]] || || {{subon|81}}
+|-
+|MF ||'''19'''||[[Fernando Cornejo (footballer, born 1969)|Fernando Cornejo]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Nelson Acosta]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br /> Dramane Danté ([[Malian Football Federation|Mali]])
+<br /> Mohamed Mansri ([[Tunisian Football Federation|Tunisia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Marc Batta]] ([[French Football Federation|France]])
+|}
+
+===Cameroon vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|1998|6|11|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|CMR}}
+|score={{score link|1998 FIFA World Cup Group B#Cameroon vs Austria|1–1}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Pierre Njanka|Njanka]] {{goal|77}}
+|goals2=
+*[[Toni Polster|Polster]] {{goal|90+1}}
+|stadium=[[Stadium de Toulouse|Stade de Toulouse]], [[Toulouse]]
+|attendance=33,500
+|referee=[[Epifanio González]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8727 |title=Cameroon vs Austria {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8727/index.html |title=1998 FIFA World Cup France – Matches – Cameroon v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171111095304/http://www.fifa.com/worldcup/matches/round=1014/match=8727/index.html |archive-date=11 November 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8889.htm |title=Match Statistics – Group B – Cameroon v Austria |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=11 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419013112/http://www.france98.com/english/competition/matchstat8889.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _cmr98H
+ | pattern_b  = _cmr98H
+ | pattern_ra = _cmr98H
+ | pattern_sh = 
+ | pattern_so =_cmr98H
+ | leftarm    = 006400
+ | body       = 008000
+ | rightarm   = 006400
+ | shorts     = FF0000
+ | socks      = FFDD00
+ | title      = Cameroon
+}}
+|{{Football kit
+ | pattern_la = _aut98H
+ | pattern_b  = _aut98H
+ | pattern_ra = _aut98H
+ | pattern_sh = _whitebottom
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jacques Songo'o]]
+|-
+|RB ||'''3''' ||[[Pierre Womé]]
+|-
+|CB ||'''4''' ||[[Rigobert Song]]
+|-
+|CB ||'''5''' ||[[Raymond Kalla]]
+|-
+|LB ||'''6''' ||[[Pierre Njanka]]
+|-
+|MF ||'''8''' ||[[Didier Angibeaud]]
+|-
+|MF ||'''14'''||[[Augustine Simo]] || || {{suboff|65}}
+|-
+|MF ||'''15'''||[[Joseph N'Do|Joseph Ndo]]
+|-
+|MF ||'''18'''||[[Samuel Ipoua]] || {{yel|30}} || {{suboff|65}}
+|-
+|FW ||'''10'''||[[Patrick Mboma]]
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] ([[Captain (association football)|c]]) || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Salomon Olembé]] || || {{subon|65}}
+|-
+|FW ||'''21'''||[[Joseph-Désiré Job]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||[[Alphonse Tchami]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Claude Le Roy]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michael Konsel]]
+|-
+|DF ||'''3''' ||[[Peter Schöttel]]
+|-
+|DF ||'''4''' ||[[Anton Pfeffer]] || {{yel|27}}
+|-
+|DF ||'''5''' ||[[Wolfgang Feiersinger]]
+|-
+|MF ||'''8''' ||[[Heimo Pfeifenberger]] || || {{suboff|82}}
+|-
+|MF ||'''10'''||[[Andreas Herzog]] || || {{suboff|82}}
+|-
+|MF ||'''13'''||[[Harald Cerny]] || || {{suboff|82}}
+|-
+|MF ||'''15'''||[[Arnold Wetl]]
+|-
+|MF ||'''17'''||[[Roman Mählich]]
+|-
+|FW ||'''19'''||[[Toni Polster]] ([[Captain (association football)|c]])
+|-
+|MF ||'''22'''||[[Dietmar Kühbauer]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Mario Haas]] || || {{subon|82}}
+|-
+|FW ||'''9''' ||[[Ivica Vastić]] || || {{subon|82}}
+|-
+|MF ||'''18'''||[[Peter Stöger]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Herbert Prohaska]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br /> Celestino Galván ([[Paraguayan Football Association|Paraguay]])
+<br /> Reynaldo Salinas ([[Football Federation of Honduras|Honduras]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Arturo Brizio Carter]] ([[Mexican Football Federation|Mexico]])
+|}
+
+===Chile vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|1998|6|17|df=y}}
+|time=17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|CHI}}
+|score={{score link|1998 FIFA World Cup Group B#Chile vs Austria|1–1}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Marcelo Salas|Salas]] {{goal|70}}
+|goals2=
+*[[Ivica Vastić|Vastić]] {{goal|90+2}}
+|stadium=[[Stade Geoffroy-Guichard]], [[Saint-Étienne]]
+|attendance=30,600
+|referee=[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8743 |title=Chile vs Austria {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8743/index.html |title=1998 FIFA World Cup France – Matches – Chile v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204194029/http://www.fifa.com/worldcup/matches/round=1014/match=8743/index.html |archive-date=4 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8905.htm |title=Match Statistics – Group B – Chile v Austria |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=17 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419005828/http://www.france98.com/english/competition/matchstat8905.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _chi98H
+ | pattern_b  = _chi98H
+ | pattern_ra = _chi98H
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = CD0000
+ | body       = CD0000
+ | rightarm   = CD0000
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Chile
+}}
+|{{Football kit
+ | pattern_la = _aut98H
+ | pattern_b  = _aut98H
+ | pattern_ra = _aut98H
+ | pattern_sh = _whitebottom
+ | pattern_so = _whitestripe
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FF0000
+ | title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Nelson Tapia]]
+|-
+|RWB ||'''15'''||[[Moisés Villarroel (Chilean footballer)|Moisés Villarroel]] || {{yel|16}} || {{suboff|69}}
+|-
+|CB ||'''6''' ||[[Pedro Reyes (footballer)|Pedro Reyes]]
+|-
+|CB ||'''3''' ||[[Ronald Fuentes]]
+|-
+|CB ||'''5''' ||[[Javier Margas]]
+|-
+|LWB ||'''4''' ||[[Francisco Rojas Rojas|Francisco Rojas]]
+|-
+|MF ||'''7''' ||[[Nelson Parraguez]]
+|-
+|MF ||'''8''' ||[[Clarence Acuña]]
+|-
+|MF ||'''20'''||[[Fabián Estay]] || {{yel|47}} || {{suboff|56}}
+|-
+|FW ||'''9''' ||[[Iván Zamorano]] ([[Captain (association football)|c]]) || {{yel|74}}
+|-
+|FW ||'''11'''||[[Marcelo Salas]] || {{yel|58}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[José Luis Sierra (footballer, born 1968)|José Luis Sierra]] || || {{subon|56}}
+|-
+|DF ||'''2''' ||[[Cristián Castañeda]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Nelson Acosta]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michael Konsel]]
+|-
+|CB ||'''5''' ||[[Wolfgang Feiersinger]]
+|-
+|CB ||'''3''' ||[[Peter Schöttel]] || {{yel|26}}
+|-
+|CB ||'''4''' ||[[Anton Pfeffer]]
+|-
+|RWB ||'''13'''||[[Harald Cerny]] || || {{suboff|45}}
+|-
+|MF ||'''22'''||[[Dietmar Kühbauer]] || || {{suboff|45}}
+|-
+|MF ||'''17'''||[[Roman Mählich]]
+|-
+|MF ||'''8''' ||[[Heimo Pfeifenberger]]
+|-
+|LWB ||'''15'''||[[Arnold Wetl]]
+|-
+|FW ||'''7''' ||[[Mario Haas]] || || {{suboff|73}}
+|-
+|FW ||'''19'''||[[Toni Polster]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Markus Schopp]] || || {{subon|45}}
+|-
+|MF ||'''10'''||[[Andreas Herzog]] || || {{subon|45}}
+|-
+|FW ||'''9''' ||[[Ivica Vastić]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Herbert Prohaska]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br /> Hussain Ghadanfari ([[Kuwait Football Association|Kuwait]])
+<br /> Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|}
+
+===Italy vs Cameroon===
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|1998|6|17|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1998 FIFA World Cup Group B#Italy vs Cameroon|3–0}}
+|team2={{fb|CMR}}
+|goals1=
+*[[Luigi Di Biagio|Di Biagio]] {{goal|7}}
+*[[Christian Vieri|Vieri]] {{goal|75||89}}
+|goals2=
+|stadium=[[Stade de la Mosson]], [[Montpellier]]
+|attendance=29,800
+|referee=[[Eddie Lennie]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8744 |title=Italy vs Cameroon {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8744/index.html |title=1998 FIFA World Cup France – Matches – Italy v Cameroon |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201092116/http://www.fifa.com/worldcup/matches/round=1014/match=8744/index.html |archive-date=1 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8906.htm |title=Match Statistics – Group B – Italy v Cameroon |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=17 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010419011356/http://www.france98.com/english/competition/matchstat8906.htm |archive-date=19 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ita98
+ | pattern_b  = _ita98
+ | pattern_ra = _ita98
+ | pattern_sh = _ita98
+ | pattern_so = _ita1998a
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _cmr98A
+ | pattern_b  = _cmr98A
+ | pattern_ra = _cmr98A
+ | pattern_sh = 
+ | pattern_so =_cmr98A
+ | leftarm    = FFD800
+ | body       = ffc600
+ | rightarm   = FFD800
+ | shorts     = 008000
+ | socks      = FF0000
+ | title      = Cameroon
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Gianluca Pagliuca]]
+|-
+|RB ||'''5''' ||[[Alessandro Costacurta]] || {{yel|26}}
+|-
+|CB ||'''6''' ||[[Alessandro Nesta]]
+|-
+|CB ||'''4''' ||[[Fabio Cannavaro]]
+|-
+|LB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|RM ||'''17'''||[[Francesco Moriero]] || || {{suboff|83}}
+|-
+|CM ||'''9''' ||[[Demetrio Albertini]] || || {{suboff|62}}
+|-
+|CM ||'''14'''||[[Luigi Di Biagio]] || {{yel|63}}
+|-
+|LM ||'''11'''||[[Dino Baggio]]
+|-
+|SS ||'''18'''||[[Roberto Baggio]] || || {{suboff|65}}
+|-
+|CF ||'''21'''||[[Christian Vieri]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Roberto Di Matteo]] || || {{subon|62}}
+|-
+|FW ||'''10'''||[[Alessandro Del Piero]] || || {{subon|65}}
+|-
+|MF ||'''15'''||[[Angelo Di Livio]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Cesare Maldini]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jacques Songo'o]]
+|-
+|RB ||'''3''' ||[[Pierre Womé]] || {{yel|6}}
+|-
+|CB ||'''4''' ||[[Rigobert Song]] || {{yel|85}}
+|-
+|CB ||'''5''' ||[[Raymond Kalla]] || {{sent off|0|42}}
+|-
+|LB ||'''6''' ||[[Pierre Njanka]] || {{yel|16}}
+|-
+|CM ||'''15'''||[[Joseph N'Do|Joseph Ndo]]
+|-
+|CM ||'''8''' ||[[Didier Angibeaud]] || {{yel|79}}
+|-
+|CM ||'''20'''||[[Salomon Olembé]]
+|-
+|FW ||'''18'''||[[Samuel Ipoua]] || || {{suboff|45}}
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] ([[Captain (association football)|c]]) || || {{suboff|66}}
+|-
+|FW ||'''10'''||[[Patrick Mboma]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''||[[Joseph-Désiré Job]] || || {{subon|45}}
+|-
+|FW ||'''9''' ||[[Alphonse Tchami]] || || {{subon|66}}
+|-
+|FW ||'''11'''||[[Samuel Eto'o]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Claude Le Roy]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br /> Lencie Fred ([[Vanuatu Football Federation|Vanuatu]])
+<br /> Claudio Rossi ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Pirom Un-Prasert]] ([[Football Association of Thailand|Thailand]])
+|}
+
+===Italy vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|1998|6|23|df=y}}
+|time=16:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1998 FIFA World Cup Group B#Italy vs Austria|2–1}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Christian Vieri|Vieri]] {{goal|48}}
+*[[Roberto Baggio|R. Baggio]] {{goal|90}}
+|goals2=
+*[[Andreas Herzog|Herzog]] {{goal|90+2|pen.}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=80,000
+|referee=[[Paul Durkin]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8757 |title=Italy vs Austria {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8757/index.html |title=1998 FIFA World Cup France – Matches – Italy v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229032759/http://www.fifa.com/worldcup/matches/round=1014/match=8757/index.html |archive-date=29 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8855.htm |title=Match Statistics – Group B – Italy v Austria |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=23 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418005121/http://www.france98.com/english/competition/matchstat8855.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ita98
+ | pattern_b  = _ita98
+ | pattern_ra = _ita98
+ | pattern_sh = _ita98
+ | pattern_so = _ita1998h
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = FFFFFF
+ | socks      = 0000CD
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _aut98H
+ | pattern_b  = _aut98H
+ | pattern_ra = _aut98H
+ | pattern_sh = _whitebottom
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Gianluca Pagliuca]]
+|-
+|RB ||'''5''' ||[[Alessandro Costacurta]]
+|-
+|CB ||'''4''' ||[[Fabio Cannavaro]]
+|-
+|CB ||'''6''' ||[[Alessandro Nesta]] || || {{suboff|4}}
+|-
+|LB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]]) || {{yel|87}}
+|-
+|RM ||'''17'''||[[Francesco Moriero]]
+|-
+|CM ||'''11'''||[[Dino Baggio]]
+|-
+|CM ||'''14'''||[[Luigi Di Biagio]]
+|-
+|LM ||'''7''' ||[[Gianluca Pessotto]]
+|-
+|FW ||'''10'''||[[Alessandro Del Piero]] || || {{suboff|72}}
+|-
+|FW ||'''21'''||[[Christian Vieri]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Giuseppe Bergomi]] || || {{subon|4}}
+|-
+|FW ||'''19'''||[[Filippo Inzaghi]] || || {{subon|60}}
+|-
+|FW ||'''18'''||[[Roberto Baggio]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Cesare Maldini]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michael Konsel]]
+|-
+|DF ||'''3''' ||[[Peter Schöttel]] || {{yel|43}}
+|-
+|DF ||'''4''' ||[[Anton Pfeffer]]
+|-
+|DF ||'''5''' ||[[Wolfgang Feiersinger]] || {{yel|3}}
+|-
+|RWB ||'''17'''||[[Roman Mählich]]
+|-
+|CM ||'''8''' ||[[Heimo Pfeifenberger]] || || {{suboff|80}}
+|-
+|CM ||'''14'''||[[Hannes Reinmayr]] || {{yel|88}}
+|-
+|CM ||'''22'''||[[Dietmar Kühbauer]] || || {{suboff|74}}
+|-
+|LWB ||'''15'''||[[Arnold Wetl]]
+|-
+|FW ||'''9''' ||[[Ivica Vastić]] || {{yel|35}}
+|-
+|FW ||'''19'''||[[Toni Polster]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Mario Haas]] || || {{subon|62}}
+|-
+|MF ||'''18'''||[[Peter Stöger]] || || {{subon|74}}
+|-
+|MF ||'''10'''||[[Andreas Herzog]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Herbert Prohaska]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Mark Warren (referee)|Mark Warren]] ([[The Football Association|England]])
+<br />Jeon Young-Hyun ([[Korea Football Association|South Korea]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Lim Kee Chong]] ([[Mauritius Football Association|Mauritius]])
+|}
+
+===Chile vs Cameroon===
+<onlyinclude>{{#invoke:Football box|main|section=B6
+|date={{Start date|1998|6|23|df=y}}
+|time=16:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|CHI}}
+|score={{score link|1998 FIFA World Cup Group B#Chile vs Cameroon|1–1}}
+|team2={{fb|CMR}}
+|goals1=
+*[[José Luis Sierra (footballer, born 1968)|Sierra]] {{goal|20}}
+|goals2=
+*[[Patrick Mboma|Mboma]] {{goal|56}}
+|stadium=[[Stade de la Beaujoire]], [[Nantes]]
+|attendance=35,500
+|referee=[[László Vágner]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1014/8760 |title=Chile vs Cameroon {{!}} Group Matches {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1014/match=8760/index.html |title=1998 FIFA World Cup France – Matches – Chile v Cameroon |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211182016/http://www.fifa.com/worldcup/matches/round=1014/match=8760/index.html |archive-date=11 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8858.htm |title=Match Statistics – Group B – Chile v Cameroon |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=23 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010418015953/http://www.france98.com/english/competition/matchstat8858.htm |archive-date=18 April 2001}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chi98A
+ |pattern_b  = _chi98A
+ |pattern_ra = _chi98A
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ | title      = Chile
+}}
+|{{Football kit
+ | pattern_la = _cmr98H
+ | pattern_b  = _cmr98H
+ | pattern_ra = _cmr98H
+ | pattern_sh = 
+ | pattern_so =_cmr98H
+ | leftarm    = 006400
+ | body       = 008000
+ | rightarm   = 006400
+ | shorts     = FF0000
+ | socks      = FFDD00
+ | title      = Cameroon
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Nelson Tapia]]
+|-
+|DF ||'''3''' ||[[Ronald Fuentes]]
+|-
+|DF ||'''4''' ||[[Francisco Rojas Rojas|Francisco Rojas]] || {{yel|55}} || {{suboff|77}}
+|-
+|DF ||'''5''' ||[[Javier Margas]]
+|-
+|DF ||'''6''' ||[[Pedro Reyes (footballer)|Pedro Reyes]]
+|-
+|MF ||'''7''' ||[[Nelson Parraguez]] || {{yel|50}}
+|-
+|MF ||'''8''' ||[[Clarence Acuña]]
+|-
+|FW ||'''9''' ||[[Iván Zamorano]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[José Luis Sierra (footballer, born 1968)|José Luis Sierra]] || || {{suboff|70}}
+|-
+|FW ||'''11'''||[[Marcelo Salas]]
+|-
+|DF ||'''15'''||[[Moisés Villarroel (Chilean footballer)|Moisés Villarroel]] || {{yel|66}} || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Fernando Cornejo (footballer, born 1969)|Fernando Cornejo]] || || {{subon|70}}
+|-
+|MF ||'''20'''||[[Fabián Estay]] || || {{subon|70}}
+|-
+|DF ||'''14'''||[[Miguel Ramírez (footballer, born 1970)|Miguel Ramírez]] || {{yel|89}} || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Nelson Acosta]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jacques Songo'o]]
+|-
+|RB ||'''3''' ||[[Pierre Womé]]
+|-
+|CB ||'''4''' ||[[Rigobert Song]] || {{yel|8}}{{sent off|0|51}}
+|-
+|CB ||'''17'''||[[Michel Pensée]]
+|-
+|LB ||'''6''' ||[[Pierre Njanka]]
+|-
+|RM ||'''19'''||[[Marcel Mahouvé]]
+|-
+|CM ||'''15'''||[[Joseph N'Do|Joseph Ndo]] || || {{suboff|82}}
+|-
+|CM ||'''20'''||[[Salomon Olembé]] || || {{suboff|68}}
+|-
+|LM ||'''21'''||[[Joseph-Désiré Job]] || || {{suboff|72}}
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] ([[Captain (association football)|c]])
+|-
+|FW ||'''10'''||[[Patrick Mboma]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Didier Angibeaud]] || || {{subon|68}}
+|-
+|FW ||'''9''' ||[[Alphonse Tchami]] || || {{subon|72}}
+|-
+|DF ||'''12'''||[[Lauren (Cameroonian footballer)|Lauren]] || {{sent off|0|88}} || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FRA|1974}} [[Claude Le Roy]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Nimal Wickramatunge ([[Football Federation of Sri Lanka|Sri Lanka]])
+<br />Halim Abdul Hamid ([[Football Association of Malaysia|Malaysia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Cameroon at the FIFA World Cup]]
+*[[Chile at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:1998 FIFA World Cup group stage|B]]
+[[Category:Italy at the 1998 FIFA World Cup|Group]]
+[[Category:Austria at the 1998 FIFA World Cup]]
+[[Category:Chile at the 1998 FIFA World Cup]]
+[[Category:Cameroon at the 1998 FIFA World Cup]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:Sport in Nantes]]
+[[Category:Football in Pays de la Loire]]
+[[Category:Sport in Toulouse]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Sport in Saint-Étienne]]
+[[Category:20th century in Auvergne-Rhône-Alpes]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Sport in Montpellier]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:Football in Île-de-France]]

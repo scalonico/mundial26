@@ -1,0 +1,913 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Group 4 was one of six groups of national teams competing in the group stage of the [[1982 FIFA World Cup]]. Play began on 16 June and ended on 25 June 1982.<ref>{{cite web |url=https://www.rsssf.org/tables/82full.html |title=World Cup 1982 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The group consisted of four teams: Seeded team [[England national football team|England]], [[France national football team|France]], [[Czechoslovakia national football team|Czechoslovakia]] and World Cup debutants [[Kuwait national football team|Kuwait]].
+
+England won the group after three successive victories and advanced to the second round, along with France.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/spain1982/groups/index.html FIFA]
+
+|team1=ENG |team2=FRA |team3=TCH |team4=KUW
+|result1=A |result2=A
+
+|win_ENG=3 |draw_ENG=0 |loss_ENG=0 |gf_ENG=6 |ga_ENG=1
+|win_FRA=1 |draw_FRA=1 |loss_FRA=1 |gf_FRA=6 |ga_FRA=5
+|win_TCH=0 |draw_TCH=2 |loss_TCH=1 |gf_TCH=2 |ga_TCH=4
+|win_KUW=0 |draw_KUW=1 |loss_KUW=2 |gf_KUW=2 |ga_KUW=6
+
+|name_FRA={{fb|FRA|1974}}
+|name_KUW={{fb|KUW}}
+|name_TCH={{fb|TCH}}
+|name_ENG={{fb|ENG}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1982 FIFA World Cup#Second group stage|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===England vs France===
+{{see also|England–France football rivalry}}
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1982|6|16|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1982 FIFA World Cup Group 4#England vs France|3–1}}
+|team2={{fb|FRA|1974}}
+|goals1=
+*[[Bryan Robson|Robson]] {{goal|1||67}}
+*[[Paul Mariner|Mariner]] {{goal|83}}
+|goals2=
+*[[Gérard Soler|Soler]] {{goal|24}}
+|stadium=[[San Mamés Stadium (1913)|San Mamés]], [[Bilbao]]
+|attendance=44,172
+|referee=[[António Garrido (referee)|António Garrido]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/878 |title=England vs France {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=878/index.html |title=1982 FIFA World Cup Spain – Matches – England v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231151104/http://www.fifa.com/worldcup/matches/round=293/match=878/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _england1980a
+ | pattern_b  = _england1980a
+ | pattern_ra = _england1980a
+ | pattern_sh = _england1980a
+ | pattern_so = _england1980
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = England
+}}
+|{{Football kit
+ | pattern_la  =_france82a
+ | pattern_b  = _france82a
+ | pattern_ra = _france82a
+ | pattern_sh = _fra10a
+ | pattern_so = _france90h
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 0000FF
+ | socks      = FF0000
+ | title      = France
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Peter Shilton]]
+|-
+|DF ||'''12'''||[[Mick Mills]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Terry Butcher]] || {{yel|34}}
+|-
+|DF ||'''18'''||[[Phil Thompson]]
+|-
+|DF ||'''17'''||[[Kenny Sansom]] || || {{suboff|90}}
+|-
+|MF ||'''5''' ||[[Steve Coppell]]
+|-
+|MF ||'''16'''||[[Bryan Robson]]
+|-
+|MF ||'''19'''||[[Ray Wilkins]]
+|-
+|MF ||'''15'''||[[Graham Rix]]
+|-
+|FW ||'''8''' ||[[Trevor Francis]]
+|-
+|FW ||'''11'''||[[Paul Mariner]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Ray Clemence]]
+|-
+|MF ||'''9''' ||[[Glenn Hoddle]]
+|-
+|DF ||'''14'''||[[Phil Neal]] || || {{subon|90}}
+|-
+|FW ||'''20'''||[[Peter Withe]]
+|-
+|FW ||'''21'''||[[Tony Woodcock (footballer)|Tony Woodcock]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ron Greenwood]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Jean-Luc Ettori]]
+|-
+|SW ||'''8''' ||[[Marius Trésor]]
+|-
+|DF ||'''3''' ||[[Patrick Battiston]]
+|-
+|DF ||'''6''' ||[[Christian Lopez (footballer)|Christian Lopez]]
+|-
+|DF ||'''4''' ||[[Maxime Bossis]]
+|-
+|MF ||'''11'''||[[René Girard (footballer)|René Girard]]
+|-
+|MF ||'''12'''||[[Alain Giresse]]
+|-
+|MF ||'''13'''||[[Jean-François Larios]] || || {{suboff|74}}
+|-
+|MF ||'''10'''||[[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Dominique Rocheteau]] || || {{suboff|71}}
+|-
+|FW ||'''20'''||[[Gérard Soler]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Dominique Baratelli]]
+|-
+|DF ||'''5''' ||[[Gérard Janvion]]
+|-
+|MF ||'''14'''||[[Jean Tigana]] || || {{subon|74}}
+|-
+|FW ||'''16'''||[[Alain Couriol]]
+|-
+|FW ||'''19'''||[[Didier Six]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Michel Hidalgo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Gastón Castro]] ([[Football Federation of Chile|Chile]])
+<br />[[Arnaldo Cézar Coelho]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===Czechoslovakia vs Kuwait===
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1982|6|17|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|TCH}}
+|score={{score link|1982 FIFA World Cup Group 4#Czechoslovakia vs Kuwait|1–1}}
+|team2={{fb|KUW}}
+|goals1=
+*[[Antonín Panenka|Panenka]] {{goal|21|pen.}}
+|goals2=
+*[[Faisal Al-Dakhil|Al-Dakhil]] {{goal|57}}
+|stadium=[[Estadio José Zorrilla]], [[Valladolid]]
+|attendance=25,000
+|referee=[[Benjamin Dwomoh]] ([[Ghana Football Association|Ghana]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/1012 |title=Czechoslovakia vs Kuwait {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=1012/index.html |title=1982 FIFA World Cup Spain – Matches – Czechoslovakia v Kuwait |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231145518/http://www.fifa.com/worldcup/matches/round=293/match=1012/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sovietunion86
+ | pattern_b  = _poland82
+ | pattern_ra = _sovietunion86
+ | pattern_sh = _adidas_red
+ | pattern_so = _3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _collarwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _bluesides
+ | pattern_so = _whitetop
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 
+ | socks      = 0000FF
+ | title      = Kuwait
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Zdeněk Hruška]]
+|-
+|SW ||'''4''' ||[[Ladislav Jurkemik]]
+|-
+|DF ||'''5''' ||[[Jozef Barmoš]]
+|-
+|DF ||'''3''' ||[[Jan Fiala]]
+|-
+|DF ||'''15'''||[[Jozef Kukučka]]
+|-
+|MF ||'''8''' ||[[Antonín Panenka]]
+|-
+|MF ||'''13'''||[[Jan Berger (footballer, born 1955)|Jan Berger]]
+|-
+|MF ||'''10'''||[[Tomáš Kříž]] || || {{suboff|61}}
+|-
+|FW ||'''18'''||[[Petr Janečka]] || || {{suboff|68}}
+|-
+|FW ||'''11'''||[[Zdeněk Nehoda]] ([[Captain (association football)|c]])
+|-
+|FW ||'''9''' ||[[Ladislav Vízek]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Stanislav Seman]]
+|-
+|MF ||'''12'''||[[Přemysl Bičovský]] || || {{subon|61}}
+|-
+|DF ||'''14'''||[[Libor Radimec]]
+|-
+|MF ||'''16'''||[[Pavel Chaloupka]]
+|-
+|FW ||'''20'''||[[Vlastimil Petržela]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jozef Vengloš]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ahmed Al-Tarabulsi]]
+|-
+|SW ||'''2''' ||[[Naeem Saad]]
+|-
+|DF ||'''3''' ||[[Mahboub Juma'a]]
+|-
+|DF ||'''14'''||[[Abdullah Mayouf]]
+|-
+|DF ||'''5''' ||[[Waleed Al-Jasem]]
+|-
+|MF ||'''8''' ||[[Abdullah Al-Buloushi]]
+|-
+|FW ||'''6''' ||[[Saad Al-Houti]] ([[Captain (association football)|c]])
+|-
+|MF ||'''18'''||[[Mohammed Karam]] || || {{suboff|57}}
+|-
+|FW ||'''10'''||[[Abdulaziz Al-Anberi]]
+|-
+|FW ||'''9''' ||[[Jasem Yaqoub]]
+|-
+|FW ||'''16'''||[[Faisal Al-Dakhil]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''4''' ||[[Jamal Al-Qabendi]]
+|-
+|FW ||'''7''' ||[[Fathi Kameel]] || || {{subon|57}}
+|-
+|MF ||'''12'''||[[Yussef Al-Suwayed]]
+|-
+|DF ||'''17'''||[[Hamoud Al-Shemmari]]
+|-
+|GK ||'''21'''||[[Adam Marjan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|Brazil|1968}} [[Carlos Alberto Parreira]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Rómulo Méndez]] ([[National Football Federation of Guatemala|Guatemala]])
+<br />[[Bob Valentine (referee)|Bob Valentine]] ([[Scottish Football Association|Scotland]])
+|}
+
+===England vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1982|6|20|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1982 FIFA World Cup Group 4#England vs Czechoslovakia|2–0}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Trevor Francis|Francis]] {{goal|62}}
+*[[Jozef Barmoš|Barmoš]] {{goal|66|o.g.}}
+|goals2=
+|stadium=[[San Mamés Stadium (1913)|San Mamés]], [[Bilbao]]
+|attendance=41,123
+|referee=[[Charles Corver]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/889 |title=England vs Czechoslovakia {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=889/index.html |title=1982 FIFA World Cup Spain – Matches – England v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231163208/http://www.fifa.com/worldcup/matches/round=293/match=889/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _england1980
+ | pattern_b  = _england1980
+ | pattern_ra = _england1980
+ | pattern_sh = _england1980
+ | pattern_so = _england1980
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 0000FF
+ | socks      = 
+ | title      = England
+}}
+|{{Football kit
+ |pattern_la  = _shoulder_stripes_white_stripes2
+ |pattern_b   = _czechosl80h
+ |pattern_ra  = _shoulder_stripes_white_stripes2
+ |pattern_sh  = _adidas_red
+ |pattern_so  = _3_stripes_white
+ |leftarm     = FF0000
+ |body        = FF0000
+ |rightarm    = FF0000
+ |shorts      = FFFFFF
+ |socks       = 0000AA
+ |title       = Czechoslovakia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Peter Shilton]]
+|-
+|RB ||'''12'''||[[Mick Mills]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Terry Butcher]]
+|-
+|CB ||'''18'''||[[Phil Thompson]]
+|-
+|LB ||'''17'''||[[Kenny Sansom]]
+|-
+|RM ||'''5''' ||[[Steve Coppell]]
+|-
+|CM ||'''19'''||[[Ray Wilkins]]
+|-
+|CM ||'''16'''||[[Bryan Robson]] || || {{suboff|46}}
+|-
+|LM ||'''15'''||[[Graham Rix]]
+|-
+|FW ||'''8''' ||[[Trevor Francis]]
+|-
+|FW ||'''11'''||[[Paul Mariner]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Ray Clemence]]
+|-
+|MF ||'''9''' ||[[Glenn Hoddle]] || || {{subon|46}}
+|-
+|DF ||'''14'''||[[Phil Neal]]
+|-
+|FW ||'''20'''||[[Peter Withe]]
+|-
+|FW ||'''21'''||[[Tony Woodcock (footballer)|Tony Woodcock]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ron Greenwood]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Stanislav Seman]] || || {{suboff|75}}
+|-
+|SW ||'''14'''||[[Libor Radimec]]
+|-
+|DF ||'''3''' ||[[Jan Fiala]]
+|-
+|DF ||'''6''' ||[[Rostislav Vojáček]]
+|-
+|DF ||'''5''' ||[[Jozef Barmoš]]
+|-
+|MF ||'''4''' ||[[Ladislav Jurkemik]]
+|-
+|MF ||'''16'''||[[Pavel Chaloupka]] || {{yel|40}}
+|-
+|MF ||'''13'''||[[Jan Berger (footballer, born 1955)|Jan Berger]]
+|-
+|FW ||'''9''' ||[[Ladislav Vízek]]
+|-
+|FW ||'''11'''||[[Zdeněk Nehoda]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Petr Janečka]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''8''' ||[[Antonín Panenka]]
+|-
+|MF ||'''17'''||[[František Štambachr]]
+|-
+|FW ||'''19'''||[[Marián Masný]] || || {{subon|77}}
+|-
+|FW ||'''20'''||[[Vlastimil Petržela]]
+|-
+|GK ||'''22'''||[[Karel Stromšík]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jozef Vengloš]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Bogdan Dochev]] ([[Bulgarian Football Union|Bulgaria]])
+<br />[[Gilberto Aristizábal]] ([[Colombian Football Federation|Colombia]])
+|}
+
+===France vs Kuwait===
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1982|6|21|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1982 FIFA World Cup Group 4#France vs Kuwait|4–1}}
+|team2={{fb|KUW}}
+|goals1=
+*[[Bernard Genghini|Genghini]] {{goal|31}}
+*[[Michel Platini|Platini]] {{goal|43}}
+*[[Didier Six|Six]] {{goal|48}}
+*[[Maxime Bossis|Bossis]] {{goal|89}}
+|goals2=
+*[[Abdullah Al-Buloushi|Abdull. Al-Buloushi]] {{goal|75}}
+|stadium=[[Estadio José Zorrilla]], [[Valladolid]]
+|attendance=30,043
+|referee=[[Myroslav Stupar]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/919 |title=France vs Kuwait {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=919/index.html |title=1982 FIFA World Cup Spain – Matches – France v Kuwait |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171203022506/http://www.fifa.com/worldcup/matches/round=293/match=919/index.html |archive-date=3 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+| pattern_la  =_france82a
+| pattern_b  = _france82a
+| pattern_ra = _france82a
+| pattern_sh = _fra10a
+| pattern_so = _france90h
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 00288E
+ | socks      = FF0000
+ | title      = France
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _collarwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _redsides
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 
+ | socks      = FF0000
+ | title      = Kuwait
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Jean-Luc Ettori]]
+|-
+|DF ||'''2''' ||[[Manuel Amoros]] || {{yel|68}}
+|-
+|DF ||'''8''' ||[[Marius Trésor]]
+|-
+|DF ||'''5''' ||[[Gérard Janvion]] || || {{suboff|59}}
+|-
+|DF ||'''4''' ||[[Maxime Bossis]]
+|-
+|MF ||'''9''' ||[[Bernard Genghini]]
+|-
+|MF ||'''10'''||[[Michel Platini]] ([[Captain (association football)|c]])  || || {{suboff|81}}
+|-
+|MF ||'''12'''||[[Alain Giresse]]
+|-
+|FW ||'''20'''||[[Gérard Soler]]
+|-
+|FW ||'''17'''||[[Bernard Lacombe]]
+|-
+|FW ||'''19'''||[[Didier Six]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[Christian Lopez (footballer)|Christian Lopez]] || || {{subon|59}}
+|-
+|MF ||'''11'''||[[René Girard (footballer)|René Girard]] || || {{subon|81}}
+|-
+|MF ||'''15'''||[[Bruno Bellone]]
+|-
+|FW ||'''16'''||[[Alain Couriol]]
+|-
+|GK ||'''21'''||[[Jean Castaneda]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Michel Hidalgo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ahmed Al-Tarabulsi]]
+|-
+|DF ||'''2''' ||[[Naeem Saad]]
+|-
+|DF ||'''14'''||[[Abdullah Mayouf]]
+|-
+|DF ||'''3''' ||[[Mahboub Juma'a]]
+|-
+|DF ||'''5''' ||[[Waleed Al-Jasem]] || || {{suboff|78}}
+|-
+|MF ||'''6''' ||[[Saad Al-Houti]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Abdullah Al-Buloushi]]
+|-
+|MF ||'''18'''||[[Mohammed Karam]] || || {{suboff|46}}
+|-
+|FW ||'''10'''||[[Abdulaziz Al-Anberi]] || {{yel|30}}
+|-
+|FW ||'''9''' ||[[Jasem Yaqoub]]
+|-
+|FW ||'''16'''||[[Faisal Al-Dakhil]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''4''' ||[[Jamal Al-Qabendi]]
+|-
+|FW ||'''7''' ||[[Fathi Kameel]] || {{yel|85}} || {{subon|46}}
+|-
+|MF ||'''12'''||[[Yussef Al-Suwayed]]
+|-
+|DF ||'''17'''||[[Hamoud Al-Shemmari]] || || {{subon|78}}
+|-
+|GK ||'''21'''||[[Adam Marjan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|Brazil|1968}} [[Carlos Alberto Parreira]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+<br />[[Damir Matovinović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|}
+
+===France vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=4-5
+|date={{Start date|1982|6|24|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1982 FIFA World Cup Group 4#France vs Czechoslovakia|1–1}}
+|team2={{fb|TCH}}
+|goals1=
+*[[Didier Six|Six]] {{goal|66}}
+|goals2=
+*[[Antonín Panenka|Panenka]] {{goal|84|pen.}}
+|stadium=[[Estadio José Zorrilla]], [[Valladolid]]
+|attendance=28,000
+|referee=[[Paolo Casarin]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/922 |title=France vs Czechoslovakia {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=922/index.html |title=1982 FIFA World Cup Spain – Matches – France v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230033918/http://www.fifa.com/worldcup/matches/round=293/match=922/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _France 1978-1982
+ | pattern_b  = _France 1982
+ | pattern_ra = _France 1978-1982
+ | pattern_sh = _france home adidas
+ | pattern_so = _france90h
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title     = France
+}}
+|{{Football kit
+ | pattern_la = _adidas_redstripes2
+ | pattern_b  = _poland82
+ | pattern_ra = _adidas_redstripes2
+ | pattern_sh = _adidas_red
+ | pattern_so = _3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Jean-Luc Ettori]]
+|-
+|DF ||'''2''' ||[[Manuel Amoros]] || {{yel|47}}
+|-
+|DF ||'''8''' ||[[Marius Trésor]]
+|-
+|DF ||'''5''' ||[[Gérard Janvion]]
+|-
+|DF ||'''4''' ||[[Maxime Bossis]]
+|-
+|MF ||'''9''' ||[[Bernard Genghini]]
+|-
+|MF ||'''12'''||[[Alain Giresse]]
+|-
+|MF ||'''10'''||[[Michel Platini]] ([[Captain (association football)|c]])
+|-
+|FW ||'''20'''||[[Gérard Soler]] || || {{suboff|89}}
+|-
+|FW ||'''17'''||[[Bernard Lacombe]] || || {{suboff|70}}
+|-
+|FW ||'''19'''||[[Didier Six]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[Christian Lopez (footballer)|Christian Lopez]]
+|-
+|MF ||'''11'''||[[René Girard (footballer)|René Girard]] || || {{subon|89}}
+|-
+|MF ||'''15'''||[[Bruno Bellone]]
+|-
+|FW ||'''16'''||[[Alain Couriol]] || || {{subon|70}}
+|-
+|GK ||'''21'''||[[Jean Castaneda]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Michel Hidalgo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Karel Stromšík]]
+|-
+|DF ||'''5''' ||[[Jozef Barmoš]]
+|-
+|DF ||'''6''' ||[[Rostislav Vojáček]]
+|-
+|DF ||'''3''' ||[[Jan Fiala]]
+|-
+|DF ||'''17'''||[[František Štambachr]]
+|-
+|MF ||'''12'''||[[Přemysl Bičovský]]
+|-
+|MF ||'''14'''||[[Libor Radimec]]
+|-
+|MF ||'''11'''||[[Zdeněk Nehoda]] ([[Captain (association football)|c]])
+|-
+|FW ||'''18'''||[[Petr Janečka]] || || {{suboff|70}}
+|-
+|FW ||'''9''' ||[[Ladislav Vízek]]|| {{sent off|0|87}}
+|-
+|FW ||'''10'''||[[Tomáš Kříž]] || || {{suboff|31}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''4''' ||[[Ladislav Jurkemik]]
+|-
+|MF ||'''8''' ||[[Antonín Panenka]] || {{yel|83}} || {{subon|70}}
+|-
+|DF ||'''15'''||[[Jozef Kukučka]]
+|-
+|FW ||'''19'''||[[Marián Masný]] || || {{subon|31}}
+|-
+|GK ||'''21'''||[[Zdeněk Hruška]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Jozef Vengloš]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Benjamin Dwomoh]] ([[Ghana Football Association|Ghana]])
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===England vs Kuwait===
+<onlyinclude>{{#invoke:Football box|main|section=4-6
+|date={{Start date|1982|6|25|df=y}}
+|time=17:15 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ENG}}
+|score={{score link|1982 FIFA World Cup Group 4#England vs Kuwait|1–0}}
+|team2={{fb|KUW}}
+|goals1=
+*[[Trevor Francis|Francis]] {{goal|27}}
+|goals2=
+|stadium=[[San Mamés Stadium (1913)|San Mamés]], [[Bilbao]]
+|attendance=39,700
+|referee=[[Gilberto Aristizábal]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/882 |title=England vs Kuwait {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=882/index.html |title=1982 FIFA World Cup Spain – Matches – England v Kuwait |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227080127/http://www.fifa.com/worldcup/matches/round=293/match=882/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _england1980
+ | pattern_b  = _england1980
+ | pattern_ra = _england1980
+ | pattern_sh = _england1980
+ | pattern_so = _england1980
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 0000FF
+ | socks      = 
+ | title      = England
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _collarwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _redsides
+ | pattern_so = _whitetop
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 
+ | socks      = FF0000
+ | title      = Kuwait
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Peter Shilton]]
+|-
+|DF ||'''14''' ||[[Phil Neal]]
+|-
+|DF ||'''18'''||[[Phil Thompson]]
+|-
+|DF ||'''6''' ||[[Steve Foster]]
+|-
+|DF ||'''12'''||[[Mick Mills]] ([[Captain (association football)|c]])
+|-
+|MF ||'''5''' ||[[Steve Coppell]]
+|-
+|MF ||'''9''' ||[[Glenn Hoddle]]
+|-
+|MF ||'''19'''||[[Ray Wilkins]]
+|-
+|MF ||'''15'''||[[Graham Rix]]
+|-
+|FW ||'''8''' ||[[Trevor Francis]]
+|-
+|FW ||'''11'''||[[Paul Mariner]] || {{yel|43}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Ray Clemence]]
+|-
+|DF ||'''2''' ||[[Viv Anderson]]
+|-
+|MF ||'''10'''||[[Terry McDermott]]
+|-
+|FW ||'''20'''||[[Peter Withe]]
+|-
+|FW ||'''21'''||[[Tony Woodcock (footballer)|Tony Woodcock]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ron Greenwood]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ahmed Al-Tarabulsi]]
+|-
+|DF ||'''2''' ||[[Naeem Saad]] || {{yel|44}}
+|-
+|DF ||'''14'''||[[Abdullah Mayouf]]
+|-
+|DF ||'''3''' ||[[Mahboub Juma'a]]
+|-
+|DF ||'''5''' ||[[Waleed Al-Jasem]] || || {{suboff|76}}
+|-
+|MF ||'''8''' ||[[Abdullah Al-Buloushi]]
+|-
+|MF ||'''6''' ||[[Saad Al-Houti]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Fathi Kameel]]
+|-
+|MF ||'''10'''||[[Abdulaziz Al-Anberi]]
+|-
+|FW ||'''16'''||[[Faisal Al-Dakhil]]
+|-
+|FW ||'''12'''||[[Yussef Al-Suwayed]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''4''' ||[[Jamal Al-Qabendi]]
+|-
+|DF ||'''17'''||[[Hamoud Al-Shemmari]] || || {{subon|76}}
+|-
+|MF ||'''18'''||[[Mohammed Karam]]
+|-
+|FW ||'''19'''||[[Muayad Al-Haddad]]
+|-
+|GK ||'''21'''||[[Adam Marjan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|Brazil|1968}} [[Carlos Alberto Parreira]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Henning Lund-Sørensen]] ([[Danish Football Association|Denmark]])
+<br />[[José Luis García Carrión]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+==See also==
+*[[Czech Republic at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[France at the FIFA World Cup]]
+*[[Kuwait at the FIFA World Cup]]
+*[[Slovakia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/2602c368daaad887/original/bn1ocpuvccw3txzmiut3-pdf.pdf Spain 1982 FIFA Technical Report: Statistical Details of the Matches pp. 116-123]
+
+{{1982 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 4}}
+[[Category:1982 FIFA World Cup group stage]]
+[[Category:England at the 1982 FIFA World Cup]]
+[[Category:France at the 1982 FIFA World Cup]]
+[[Category:Czechoslovakia at the 1982 FIFA World Cup]]
+[[Category:Kuwait at the 1982 FIFA World Cup]]
+[[Category:Football in the Basque Country (autonomous community)]]
+[[Category:Football in Castile and León]]
+[[Category:Sport in Bilbao]]
+[[Category:Sport in Valladolid]]
+[[Category:1982 in the Basque Country (autonomous community)]]
+[[Category:1980s in Castile and León]]

@@ -1,0 +1,2013 @@
+{{Short description|Football competition}}
+{{Use dmy dates|date=May 2018}}
+The final tournament of the [[1938 FIFA World Cup]] was a [[single-elimination tournament]] involving the 16 teams which qualified for [[1938 FIFA World Cup|the tournament]]. The tournament began with the round of 16 on 4 June and concluded with the [[1938 FIFA World Cup final|final]] on 19 June 1938. [[Italy national football team|Italy]] won the final 4–2 for their second World Cup title.<ref>{{cite news |last=Molinaro |first=John F. |url=http://www.cbc.ca/sports/soccer/1938-world-cup-italy-repeats-as-champions-1.853724 |title=1938 World Cup: Italy repeats as champions |website=[[CBC Sports]] |publisher=[[Canadian Broadcasting Corporation]] |date=24 November 2009 |access-date=8 April 2018}}</ref>
+
+Kick off times were scheduled at 17:00 for weekend matches (round of 16, quarter-finals and both finals), at 18:00 for matches in the middle of the week (semi-finals and replays).<ref>{{cite web |url=https://gallica.bnf.fr/ark:/12148/bpt6k46351370/f2.item|work=[[L'Auto]]|date=4 June 1938|title=Le tournoi final de la troisième Coupe du Monde|language=fr| location=Paris, France|via=Gallica|page=2}}</ref>
+
+==Bracket==
+<section begin=Bracket />{{Round16 |style=white-space:nowrap|widescore=yes
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- Date – Place|Team 1|Score 1|Team 2|Score 2 -->
+<!-- round of 16 -->
+|5 June – [[Marseille]] |'''{{fb|ITA|1861}}''' {{aet}}|'''2'''|{{fb|NOR}}|1
+|5 June – [[Colombes]] |'''{{fb|FRA|1794}}'''|'''3'''|{{fb|BEL}}|1
+|5 June – [[Strasbourg]] |'''{{fb|BRA|1889}}''' {{aet}}|'''6'''|{{fb|POL|1928}}|5
+|5 June – [[Le Havre]] |'''{{fb|CSK}}''' {{aet}}|'''3'''|{{fb|NED}}|0
+|5 June – [[Reims]] |'''{{fb|HUN|1920}}'''|'''6'''|{{flagicon|Dutch East India Company}} [[Indonesia national football team|Dutch East Indies]]|0
+|4 / 9 June – [[Paris]] |'''{{fb|SUI}}''' ([[Replay (sports)#Association football|rep.]])|'''1 / 4'''|{{fb|GER|1935}}|1 / 2
+|5 June – Lyon|'''{{fb|SWE}}'''|'''[[walkover|w/o]]'''|{{fb|AUT}}|
+|5 / 9 June – [[Toulouse]]|'''{{fb|CUB|1902}}''' ([[Replay (sports)#Association football|rep.]])|'''3 / 2'''|{{fb|ROU}}|3 / 1
+<!-- quarter-finals -->
+|12 June – [[Colombes]] |'''{{fb|ITA|1861}}'''|'''3'''|{{fb|FRA|1794}}|1
+|12 / 14 June – [[Bordeaux]] |'''{{fb|BRA|1889}}''' ([[Replay (sports)#Association football|rep.]])|'''1 / 2'''|{{fb|CSK}}|1 / 1
+|12 June – Lille|'''{{fb|HUN|1920}}'''|'''2'''|{{fb|SUI}}|0
+|12 June – [[Antibes]] |'''{{fb|SWE}}'''|'''8'''|{{fb|CUB|1902}}|0
+<!-- semi-finals -->
+|16 June – [[Marseille]] |'''{{fb|ITA|1861}}'''|'''2'''|{{fb|BRA|1889}}|1
+|16 June – [[Paris]] |'''{{fb|HUN|1920}}'''|'''5'''|{{fb|SWE}}|1
+<!-- final -->
+|19 June – [[Colombes]] |'''{{fb|ITA|1861}}'''|'''4'''|{{fb|HUN|1920}}|2
+<!-- third place -->
+|19 June – [[Bordeaux]] |'''{{fb|BRA|1889}}'''|'''4'''|{{fb|SWE}}|2
+}}<section end=Bracket />
+
+==Round of 16==
+
+===Switzerland vs Germany===
+[[file:Germany v Switzerland WC 1938 (2).jpg|thumb|230px|Germany v Switzerland]]
+Switzerland adopted a precursor version of the ''[[Catenaccio]]'' system to try stopping the talented German forwards. Thanks to this tactical system, the Swiss managed to frustrate the Germans despite going behind after a goal from [[Josef Gauchel|Gauchel]]. Switzerland drew level with [[André Abegglen|Abegglen]] after a mistake from [[Willibald Schmaus]]. Although the Germans pushed for the win, the game ended with a draw, forcing a replay.<ref name="fiedler" >{{Cite book |title=The Complete History of the World Cup |last=Fielder |first=Robert |publisher=Kindle Edition |year=2018}}</ref>
+
+<section begin=R16-1 />{{Football box
+|date={{Start date|1938|6|4|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|SUI}}
+|score={{score link|1938 FIFA World Cup final tournament#Switzerland vs Germany|1–1}}
+|aet=yes
+|team2={{fb|GER|1935}}
+|goals1=
+*[[André Abegglen|Abegglen]] {{goal|43}}
+|goals2=
+*[[Josef Gauchel|Gauchel]] {{goal|29}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=27,152
+|referee=[[John Langenus]] ([[Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1165 |title=Switzerland vs Germany {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1165/index.html |title=1938 FIFA World Cup France – Matches – Switzerland v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228171648/http://www.fifa.com/worldcup/matches/round=206/match=1165/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end=R16-1 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _redtop_2whitestripes
+| leftarm    = ff0000
+| body       = ff0000 
+| rightarm   = ff0000
+| shorts     = ffffff
+| socks      = 000000 
+| title      = Switzerland
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _ger1938H
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _whitetop
+| leftarm    = ffffff
+| body       = ffffff
+| rightarm   = ffffff
+| shorts     = 000000
+| socks      = 000000 
+| title      = Germany
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Willy Huber]]
+|-
+|RB ||[[Severino Minelli]] ([[Captain (association football)|c]])
+|-
+|LB ||[[August Lehmann]]
+|-
+|RH ||[[Hermann Springer]]
+|-
+|CH ||[[Sirio Vernati]]
+|-
+|LH ||[[Ernst Lörtscher]]
+|-
+|OR ||[[Lauro Amadò]]
+|-
+|IR ||[[André Abegglen]]
+|-
+|CF ||[[Alfred Bickel]]
+|-
+|IL ||[[Eugen Walaschek]]
+|-
+|OL ||[[Georges Aeby]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Karl Rappan]]
+|}
+|valign="top"|[[File:SUI-GER 1938-06-04.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Rudolf Raftl]]
+|-
+|RB ||[[Paul Janes]]
+|-
+|LB ||[[Willibald Schmaus]]
+|-
+|RH ||[[Andreas Kupfer]]
+|-
+|CH ||[[Hans Mock]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Albin Kitzinger]]
+|-
+|OR ||[[Ernst Lehner]]
+|-
+|IR ||[[Rudolf Gellesch]]
+|-
+|CF ||[[Josef Gauchel]]
+|-
+|IL ||[[Wilhelm Hahnemann]]
+|-
+|OL ||[[Hans Pesser]] || {{sent off|0|115}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Sepp Herberger]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Johannes van Moorsel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Paul Marenco]] ([[French Football Federation|France]])
+|}
+
+===Hungary vs Dutch East Indies===
+[[File:La Hongrie face aux Indes néerlandaises à Reims, 1938.jpg|thumb|230px|Hungary vs Dutch East Indies]]
+The difference in strength between the two teams was evident as the game resulted in a humiliation for the Dutch East Indies, which managed to hold out for just 13 minutes. In the second half, although Hungary relaxed their pressure, they were never truly troubled by the opponents.<ref name="fiedler" />
+
+<section begin=R16-2 />{{Football box
+|date={{Start date|1938|6|5|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|HUN|1920}}
+|score={{score link|1938 FIFA World Cup final tournament#Hungary vs Dutch East Indies|6–0}}
+|team2={{flagicon|Dutch East India Company}} [[Indonesia national football team|Dutch East Indies]]
+|goals1=
+*[[Vilmos Kohut|Kohut]] {{goal|13}}
+*[[Géza Toldi|Toldi]] {{goal|15}}
+*[[György Sárosi|G. Sárosi]] {{goal|25||89}}
+*[[Gyula Zsengellér|Zsengellér]] {{goal|30||76}}
+|goals2=
+|stadium=[[Stade Auguste Delaune|Vélodrome Municipal]], [[Reims]]
+|attendance=9,000
+|referee=Roger Conrié ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1173 |title=Hungary vs Dutch East Indies {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1173/index.html |title=1938 FIFA World Cup France – Matches – Hungary v Dutch East Indies |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213033753/http://www.fifa.com/worldcup/matches/round=206/match=1173/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=R16-2 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _1930_1949_away
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _whitehorizontal
+| leftarm    = ffffff
+| body       = ffffff
+| rightarm   = ffffff
+| shorts     = ffffff
+| socks      = 008800
+| title      = Hungary
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _whiteborder
+| pattern_b  = _collarwhite_laces 
+| pattern_ra = _whiteborder
+| pattern_sh = 
+| pattern_so = 
+| leftarm    = FF6600
+| body       = FF6600
+| rightarm   = FF6600
+| shorts     = FFFFFF
+| socks      = 99CCFF
+| title      = {{nowrap|Dutch East Indies}}
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[József Háda]]
+|-
+|RB ||[[Lajos Korányi]]
+|-
+|LB ||[[Sándor Bíró]]
+|-
+|RH ||[[Gyula Lázár]]
+|-
+|CH ||[[József Turay]]
+|-
+|LH ||[[István Balogh (footballer)|István Balogh]]
+|-
+|OR ||[[Ferenc Sas]]
+|-
+|IR ||[[Gyula Zsengellér]]
+|-
+|CF ||[[György Sárosi]] ([[Captain (association football)|c]])
+|-
+|IL ||[[Géza Toldi]]
+|-
+|OL ||[[Vilmos Kohut]]
+|-
+|colspan="4"|'''Managers:'''
+|-
+|colspan="4"|[[Károly Dietz]]<br>[[Alfréd Schaffer]]
+|}
+|valign="top"|[[File:HUN-DEI 1938-06-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Mo Heng Tan]]
+|-
+|RB ||[[Jack Samuels]]
+|-
+|LB ||[[Frans G. Hukom]]
+|-
+|RH ||[[Sutan Anwar]]
+|-
+|CH ||[[Frans Alfred Meeng]]
+|-
+|LH ||[[Achmad Nawir]] ([[Captain (association football)|c]])
+|-
+|OR ||[[M.J. Hans Taihuttu]]
+|-
+|IR ||[[Tjaak Pattiwael]]
+|-
+|CF ||[[Herman Zomers]]
+|-
+|IL ||[[Suvarte Soedarmadji]]
+|-
+|OL ||[[The Hong Djien]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Jan Mastenbroek]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Charles de la Salle]] ([[French Football Federation|France]])
+<br />[[Karl Weingärtner]] ([[German Football Federation|Germany]])
+|}
+
+===Sweden vs Austria===
+Austria did not participate due to the [[Anschluss]], so Sweden advanced directly to the quarter-finals.
+<section begin=R16-3 />{{Football box
+|date={{Start date|1938|6|5|df=y}}
+|time=
+|team1={{fb-rt|SWE}}
+|score={{score link|1938 FIFA World Cup final tournament#Sweden vs Austria|Cancelled}}
+|team2={{fb|AUT}}
+|goals1=
+|goals2=
+|stadium=[[Stade Gerland]], [[Lyon]]
+|attendance=
+|referee=
+|report=
+}}
+''Sweden advanced on [[walkover]].''<section end=R16-3 />
+
+===Cuba vs Romania===
+[[file:Romania v Cuba WC 1938 (1).jpg|thumb|230px|Cuba v Romania, first match]]
+Cuba, who had only qualified because other Latin American selections had withdrawn, impressed against Romania. Romania scored first through either [[Silviu Bindea]] or [[Nicolae Kovács]], depending on the source. Cuba drew level through [[Héctor Socorro]], who converted a cross from [[José Magriñá]] and then took the lead with a goal from Magriñá himself. However, equalisers from [[Iuliu Baratky]] and [[Ștefan Dobay]] forced a replay.<ref name="fiedler" />
+
+<section begin=R16-4 />{{Football box
+|date={{Start date|1938|6|5|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|CUB|1902}}
+|score={{score link|1938 FIFA World Cup final tournament#Cuba vs Romania|3–3}}
+|aet=yes
+|team2={{fb|ROU}}
+|goals1=
+*[[Héctor Socorro|Socorro]] {{goal|44||103}}
+*[[José Magriñá|Magriñá]] {{goal|69}}
+|goals2=
+*[[Silviu Bindea|Bindea]] {{goal|35}}
+*[[Iuliu Barátky|Barátky]] {{goal|88}}
+*[[Ștefan Dobay|Dobay]] {{goal|105}}
+|stadium=[[Stade Chapou|Stade du T.O.E.C.]], [[Toulouse]]
+|attendance=7,000
+|referee=Giuseppe Scarpi ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1156 |title=Cuba vs Romania {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1156/index.html |title=1938 FIFA World Cup France – Matches – Cuba v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213142158/http://www.fifa.com/worldcup/matches/round=206/match=1156/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=R16-4 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = _redsides
+| pattern_so = _2_white_stripes
+| leftarm    = ffffff
+| body       = ffffff 
+| rightarm   = ffffff
+| shorts     = 000066
+| socks      = 000066
+| title      = Cuba
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _goldborder
+| pattern_b  = _collargold_laced
+| pattern_ra = _goldborder
+| pattern_sh = 
+| pattern_so = _redtop_2whitestripes
+| leftarm    = ff0000
+| body       = ff0000
+| rightarm   = ff0000
+| shorts     = 0000ff 
+| socks      = 000000 
+| title      = Romania
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Benito Carvajales]]
+|-
+|RB ||[[Jacinto Barquín]]
+|-
+|LB ||[[Manuel Chorens]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Joaquín Arias (footballer)|Joaquín Arias]]
+|-
+|CH ||[[José Antonio Rodríguez (Cuban footballer)|José Antonio Rodríguez]]
+|-
+|LH ||[[Pedro Bergés]]
+|-
+|OR ||[[José Magriñá]]
+|-
+|IR ||[[Tomás Fernández (footballer, born 1915)|Tomás Fernández]]
+|-
+|CF ||[[Héctor Socorro]]
+|-
+|IL ||[[Juan Tuñas]]
+|-
+|OL ||[[Mario Sosa]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[José Tapia (football manager)|José Tapia]]
+|}
+|valign="top"|[[File:CUB-ROM 1938-06-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Dumitru Pavlovici]]
+|-
+|RB ||[[Rudolf Bürger]]
+|-
+|LB ||[[Vasile Chiroiu]]
+|-
+|RH ||[[Vintilă Cossini]]
+|-
+|CH ||[[Gheorghe Rășinaru]] ([[Captain (association football)|c]])
+|-
+|LH ||[[László Raffinsky]]
+|-
+|OR ||[[Silviu Bindea]]
+|-
+|IR ||[[Nicolae Kovács]]
+|-
+|CF ||[[Iuliu Baratky]]
+|-
+|IL ||[[Iuliu Bodola]]
+|-
+|OL ||[[Ștefan Dobay]]
+|-
+|colspan="4"|'''Managers:'''
+|-
+|colspan="4"|[[Alexandru Săvulescu (footballer)|Alexandru Săvulescu]]<br />[[Constantin Rădulescu (footballer, born 1896)|Costel Rădulescu]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Ferdinand Valprede]] ([[French Football Federation|France]])
+<br />[[Jean Merckx]] ([[French Football Federation|France]])
+|}
+
+===France vs Belgium===
+The hosts took the lead with only 35 seconds on the clock thanks to a shot from close range by winger [[Émile Veinante]]. France doubled their advantage soon after, but the lead was halved before the interval thanks to [[Hendrik Isemborghs]], who connected with a free kick from [[Bernard Voorhoof]]. In the second half, [[Jean Nicolas]] got his brace, sealing the victory for France.<ref name="fiedler" />
+
+<section begin=R16-5 />{{Football box
+|date={{Start date|1938|6|5|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|FRA|1794}}
+|score={{score link|1938 FIFA World Cup final tournament#France vs Belgium|3–1}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Émile Veinante|Veinante]] {{goal|1}}
+*[[Jean Nicolas|Nicolas]] {{goal|16||69}}
+|goals2=
+*[[Hendrik Isemborghs|Isemborghs]] {{goal|38}}
+|stadium=[[Stade Olympique Yves-du-Manoir|Stade Olympique de Colombes]], [[Colombes]]
+|attendance=30,454
+|referee=[[Hans Wüthrich]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1146 |title=France vs Belgium {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1146/index.html |title=1938 FIFA World Cup France – Matches – France v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227234505/http://www.fifa.com/worldcup/matches/round=206/match=1146/index.html |archive-date=27 December 2017}} }}</ref>
+}}<section end=R16-5 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collar_buttons_2
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = 
+| leftarm    = 0099ff
+| body       = 0099ff 
+| rightarm   = 0099ff 
+| shorts     = ffffff
+| socks      = ff0000
+| title      = France
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _belgium1934
+| pattern_b  = _belgium1934
+| pattern_ra = _belgium1934
+| pattern_sh = 
+| pattern_so = _belgium1934
+| leftarm    = E81111
+| body       = F00000
+| rightarm   = E81111
+| shorts     = 000000
+| socks      = 000000
+| title      = Belgium
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Laurent Di Lorto]]
+|-
+|RB ||[[Hector Cazenave]]
+|-
+|LB ||[[Étienne Mattler]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Jean Bastien]]
+|-
+|CH ||[[Auguste Jordan]]
+|-
+|LH ||[[Raoul Diagne]]
+|-
+|OR ||[[Alfred Aston]]
+|-
+|IR ||[[Oscar Heisserer]]
+|-
+|CF ||[[Jean Nicolas]]
+|-
+|IL ||[[Edmond Delfour]]
+|-
+|OL ||[[Émile Veinante]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Gaston Barreau]]
+|}
+|valign="top"|[[File:FRA-BEL 1938-06-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Arnold Badjou]]
+|-
+|RB ||[[Robert Paverick]]
+|-
+|LB ||[[Corneel Seys]]
+|-
+|RH ||[[John Van Alphen]]
+|-
+|CH ||[[Émile Stijnen]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Alfons De Winter]]
+|-
+|OR ||[[Charles Vanden Wouwer]]
+|-
+|IR ||[[Bernard Voorhoof]]
+|-
+|CF ||[[Hendrik Isemborghs]]
+|-
+|IL ||[[Raymond Braine]]
+|-
+|OL ||[[Fernand Buyle]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Jack Butler (footballer, born 1894)|Jack Butler]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Augustin Krist]] ([[Czechoslovak Football Association|Czechoslovakia]])
+<br />[[Alfred Birlem]] ([[German Football Federation|Germany]])
+|}
+
+===Italy vs Norway===
+Mindful of the game played against Norway at the semi-finals of the [[Football at the 1936 Summer Olympics|1936 Summer Olympics]], when Italy managed to scrap a win only during extra time, [[Vittorio Pozzo]] was not to be overconfident. Italy managed to grab an early lead with [[Pietro Ferraris]], but struggle to threaten Norway's goal further besides hitting the post once. In the second half, Norway was the better team, hitting the woodwork thrice and finally drawing level in the 83rd minute. Soon inside the extra time, [[Silvio Piola]] converted in goal a rebounded shot. Italy managed to hold out for the remaining time, reaching the quarter-finals.<ref name="fiedler" />
+
+<section begin=R16-6 />{{Football box
+|date={{Start date|1938|6|5|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1938 FIFA World Cup final tournament#Italy vs Norway|2–1}}
+|aet=yes
+|team2={{fb|NOR}}
+|goals1=
+*[[Pietro Ferraris|Ferraris]] {{goal|2}}
+*[[Silvio Piola|Piola]] {{goal|94}}
+|goals2=
+*[[Arne Brustad|Brustad]] {{goal|83}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=19,000
+|referee=[[Alois Beranek]] ([[German Football Association|Germany]]){{efn|name=fn1|Actually from [[Austria]], but representing the [[German Football Association]] because of the [[Anschluss]].}}
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1179 |title=Italy vs Norway {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1179/index.html |title=1938 FIFA World Cup France – Matches – Italy v Norway |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202051608/http://www.fifa.com/worldcup/matches/round=206/match=1179/index.html |archive-date=2 December 2017}} }}</ref>
+}}<section end=R16-6 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = _Italia1927-1943h
+| pattern_b  = _colour vneck
+| pattern_ra = _Italia1927-1943h
+| pattern_sh = _Italiah
+| pattern_so = _Italia1927-1943h
+| leftarm    = 426DA5
+| body       = 426DA5
+| rightarm   = 426DA5
+| shorts     = ffffff
+| socks      = 000000
+| title      = Italy
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _whitecollar
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _hoops_white
+| leftarm    = ff0000
+| body       = ff0000
+| rightarm   = ff0000
+| shorts     = ffffff
+| socks      = 000066 
+| title      = Norway
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Aldo Olivieri]]
+|-
+|RB ||[[Eraldo Monzeglio]]
+|-
+|LB ||[[Pietro Rava]]
+|-
+|RH ||[[Pietro Serantoni]]
+|-
+|CH ||[[Michele Andreolo]]
+|-
+|LH ||[[Ugo Locatelli]]
+|-
+|OR ||[[Piero Pasinati]]
+|-
+|IR ||[[Giuseppe Meazza]] ([[Captain (association football)|c]])
+|-
+|CF ||[[Silvio Piola]]
+|-
+|IL ||[[Giovanni Ferrari]]
+|-
+|OL ||[[Pietro Ferraris]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-NOR 1938-06-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Henry Johansen]]
+|-
+|RB ||[[Rolf Johannessen]]
+|-
+|LB ||[[Øivind Holmsen]]
+|-
+|RH ||[[Kristian Henriksen]]
+|-
+|CH ||[[Nils Eriksen]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Rolf Holmberg]]
+|-
+|OR ||[[Odd Frantzen]]
+|-
+|IR ||[[Reidar Kvammen]]
+|-
+|CF ||[[Knut Brynildsen]]
+|-
+|IL ||[[Magnar Isaksen]]
+|-
+|OL ||[[Arne Brustad]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Asbjørn Halvorsen]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Georges Boutoure]] ([[French Football Federation|France]])
+<br />[[Paul Tréhou]] ([[French Football Federation|France]])
+|}
+
+===Brazil vs Poland===
+{{main|Brazil v Poland (1938 FIFA World Cup)}}
+<section begin=R16-7 />{{#lst:Brazil v Poland (1938 FIFA World Cup)|R16-7}}<section end=R16-7 />
+{{#lst:Brazil v Poland (1938 FIFA World Cup)|Line-ups}}
+
+===Czechoslovakia vs Netherlands===
+[[File:Begroeting Nederlandse en Tsjechoslowaakse aanvoerder, WK 1938.jpg|thumb|230px|Both captains greeting]]
+Finalist at the [[1934 World Cup]], Czechoslovakia faced a modest Dutch team. Czechoslovakia dominated the ball but did not manage to convert their possession into clear-cut chances against a defensively sound Dutch team. In fact, Czechoslovakia managed to take the lead only in extra-time through a long-range effort, scoring a further two goals by the end of the game.<ref name="fiedler" />
+
+<section begin="R16-8" />{{Football box
+|date={{Start date|1938|6|5|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|CSK}}
+|score={{score link|1938 FIFA World Cup final tournament#Czechoslovakia vs Netherlands|3–0}}
+|aet=yes
+|team2={{fb|NED}}
+|goals1=
+*[[Josef Košťálek|Košťálek]] {{goal|96}}
+*[[Oldřich Nejedlý|Nejedlý]] {{goal|111}}
+*[[Josef Zeman (footballer)|Zeman]] {{goal|118}}
+|goals2=
+|stadium=[[Stade Jules Deschaseaux|Stade municipal]], [[Le Havre]]
+|attendance=11,000
+|referee=Lucien Leclerq ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1172 |title=Czechoslovakia vs Netherlands {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1172/index.html |title=1938 FIFA World Cup France – Matches – Czechoslovakia v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211224952/http://www.fifa.com/worldcup/matches/round=206/match=1172/index.html |archive-date=11 December 2017}} }}</ref>
+}}<section end="R16-8" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _2_white_stripes
+| leftarm    = ffffff
+| body       = ffffff 
+| rightarm   = ffffff 
+| shorts     = FF0000 
+| socks      = 0000ff
+| title      = Czechoslovakia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _whitestripe
+| leftarm    = FF6600
+| body       = FF6600
+| rightarm   = FF6600
+| shorts     = ffffff
+| socks      = 99ccff 
+| title      = Netherlands
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[František Plánička]] ([[Captain (association football)|c]])
+|-
+|RB ||[[Jaroslav Burgr]]
+|-
+|LB ||[[Ferdinand Daučík]]
+|-
+|RH ||[[Josef Košťálek]]
+|-
+|CH ||[[Jaroslav Bouček]]
+|-
+|LH ||[[Vlastimil Kopecký]]
+|-
+|OR ||[[Jan Říha]]
+|-
+|IR ||[[Ladislav Šimůnek]]
+|-
+|CF ||[[Josef Zeman (footballer)|Josef Zeman]]
+|-
+|IL ||[[Oldřich Nejedlý]]
+|-
+|OL ||[[Oldřich Rulc]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Josef Meissner]]
+|}
+|valign="top"|[[File:CZE-NED 1938-06-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Adri van Male]]
+|-
+|RB ||[[Mauk Weber]]
+|-
+|LB ||[[Bertus Caldenhove]]
+|-
+|RH ||[[Bas Paauwe]]
+|-
+|CH ||[[Wim Anderiesen]]
+|-
+|LH ||[[Puck van Heel]] ([[Captain (association football)|c]])
+|-
+|OR ||[[Frank Wels]]
+|-
+|IR ||[[Frans van der Veen]]
+|-
+|CF ||[[Leen Vente]]
+|-
+|IL ||[[Kick Smit]]
+|-
+|OL ||[[Bertus de Harder]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Bob Glendenning]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Eugené Olive]] ([[French Football Federation|France]])
+<br />[[Victor Sdez]] ([[French Football Federation|France]])
+|}
+
+===Replay: Switzerland vs Germany===
+This replay was five days later. Switzerland used the same line-ups as the first game, while Germany made a few changes. [[Georges Aeby]] was injured after a few minutes, forcing Switzerland to play with 10 men. Germany took soon advantage, scoring twice. However, Switzerland reacted well, and with Aeby back on the pitch in the second half, completed a remarkable comeback.<ref name="fiedler" />
+
+<section begin="R16-1r" />{{Football box
+|date={{Start date|1938|6|9|df=y}}
+|time=18:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|SUI}}
+|score={{score link|1938 FIFA World Cup final tournament#Replay: Switzerland vs Germany|4–2}}
+|team2={{fb|GER|1935}}
+|goals1=
+*[[Eugen Walaschek|Walaschek]] {{goal|42}}
+*[[Alfred Bickel|Bickel]] {{goal|64}}
+*[[André Abegglen|Abegglen]] {{goal|75||78}}
+|goals2=
+*[[Wilhelm Hahnemann|Hahnemann]] {{goal|8}}
+*[[Ernst Lörtscher|Lörtscher]] {{goal|22|o.g.}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=20,025
+|referee=[[Ivan Eklind]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1166 |title=Switzerland vs Germany {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1166/index.html |title=1938 FIFA World Cup France – Matches – Switzerland v Germany |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211175331/http://www.fifa.com/worldcup/matches/round=206/match=1166/index.html |archive-date=11 December 2017}} }}</ref>
+}}<section end="R16-1r" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _redtop_2whitestripes
+| leftarm    = ff0000
+| body       = ff0000 
+| rightarm   = ff0000
+| shorts     = ffffff
+| socks      = 000000 
+| title      = Switzerland
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _ger1938H
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _whitetop
+| leftarm    = ffffff
+| body       = ffffff
+| rightarm   = ffffff
+| shorts     = 000000
+| socks      = 000000 
+| title      = Germany
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Willy Huber]]
+|-
+|RB ||[[Severino Minelli]] ([[Captain (association football)|c]])
+|-
+|LB ||[[August Lehmann]]
+|-
+|RH ||[[Hermann Springer]]
+|-
+|CH ||[[Sirio Vernati]]
+|-
+|LH ||[[Ernst Lörtscher]]
+|-
+|OR ||[[Lauro Amadò]]
+|-
+|IR ||[[André Abegglen]]
+|-
+|CF ||[[Alfred Bickel]]
+|-
+|IL ||[[Eugen Walaschek]]
+|-
+|OL ||[[Georges Aeby]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Karl Rappan]]
+|}
+|valign="top"|[[File:SUI-GER 1938-06-09.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Rudolf Raftl]]
+|-
+|RB ||[[Paul Janes]]
+|-
+|LB ||[[Jakob Streitle]]
+|-
+|RH ||[[Andreas Kupfer]]
+|-
+|CH ||[[Ludwig Goldbrunner]]
+|-
+|LH ||[[Stefan Skoumal]]
+|-
+|OR ||[[Ernst Lehner]]
+|-
+|IR ||[[Josef Stroh]]
+|-
+|CF ||[[Fritz Szepan]] ([[Captain (association football)|c]])
+|-
+|IL ||[[Wilhelm Hahnemann]]
+|-
+|OL ||[[Leopold Neumer]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Sepp Herberger]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Johannes van Moorsel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Louis Baert]] ([[Royal Belgian Football Association|Belgium]])
+|}
+
+===Replay: Cuba vs Romania===
+The performance of Cuba's replacement goalkeeper [[Juan Ayra]] was equally exceptional as the one from [[Benito Carvajales]] in the original match. Romania took the lead with [[Ștefan Dobay]] in the first half, but Cuba fought back and scored two goals in rapid succession soon after the beginning of the second and managed to hold on to the score against all odds and reach the quarter-finals.<ref name="fiedler" />
+
+<section begin="R16-4r" />{{Football box
+|date={{Start date|1938|6|9|df=y}}
+|time=18:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|CUB|1902}}
+|score={{score link|1938 FIFA World Cup final tournament#Replay: Cuba vs Romania|2–1}}
+|team2={{fb|ROU}}
+|goals1=
+*[[Héctor Socorro|Socorro]] {{goal|51}}
+*[[Tomás Fernández (footballer, born 1915)|Fernández]] {{goal|57}}
+|goals2=
+*[[Ștefan Dobay|Dobay]] {{goal|35}}
+|stadium=[[Stade Chapou|Stade du T.O.E.C.]], [[Toulouse]]
+|attendance=8,000
+|referee=Alfred Birlem ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/206/1157 |title=Cuba vs Romania {{!}} 1st Round {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=206/match=1157/index.html |title=1938 FIFA World Cup France – Matches – Cuba v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213003259/http://www.fifa.com/worldcup/matches/round=206/match=1157/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end="R16-4r" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = _redsides
+| pattern_so = _2_white_stripes
+| leftarm    = ffffff
+| body       = ffffff 
+| rightarm   = ffffff
+| shorts     = 000066
+| socks      = 000066
+| title      = Cuba
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _goldborder
+| pattern_b  = _collargold_laced
+| pattern_ra = _goldborder
+| pattern_sh = 
+| pattern_so = _redtop_2whitestripes
+| leftarm    = ff0000
+| body       = ff0000
+| rightarm   = ff0000
+| shorts     = 0000ff 
+| socks      = 000000 
+| title      = Romania
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Juan Ayra]]
+|-
+|RB ||[[Jacinto Barquín]]
+|-
+|LB ||[[Manuel Chorens]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Joaquín Arias (footballer)|Joaquín Arias]]
+|-
+|CH ||[[José Antonio Rodríguez (Cuban footballer)|José Antonio Rodríguez]]
+|-
+|LH ||[[Pedro Bergés]]
+|-
+|OR ||[[José Magriñá]]
+|-
+|IR ||[[Tomás Fernández (footballer, born 1915)|Tomás Fernández]]
+|-
+|CF ||[[Héctor Socorro]]
+|-
+|IL ||[[Juan Tuñas]]
+|-
+|OL ||[[Mario Sosa]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[José Tapia (football manager)|José Tapia]]
+|}
+|valign="top"|[[File:CUB-ROM 1938-06-09.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Robert Sadowski]]
+|-
+|RB ||[[Rudolf Bürger]]
+|-
+|LB ||[[Iacob Felecan]]
+|-
+|RH ||[[Andrei Bărbulescu]]
+|-
+|CH ||[[Gheorghe Rășinaru]] ([[Captain (association football)|c]])
+|-
+|LH ||[[László Raffinsky]]
+|-
+|OR ||[[Ion Bogdan]]
+|-
+|IR ||[[Ioachim Moldoveanu]]
+|-
+|CF ||[[Iuliu Baratky]]
+|-
+|IL ||[[Gyula Prassler]]
+|-
+|OL ||[[Ștefan Dobay]]
+|-
+|colspan="4"|'''Managers:'''
+|-
+|colspan="4"|[[Alexandru Săvulescu (footballer)|Alexandru Săvulescu]]<br />[[Constantin Rădulescu (footballer, born 1896)|Costel Rădulescu]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Georges Capdeville]] ([[French Football Federation|France]])
+<br />[[Paul Marenco]] ([[French Football Federation|France]])
+|}
+
+==Quarter-finals==
+
+===Hungary vs Switzerland===
+Hungary looked like the stronger team as the Swiss were missing key players such as [[Georges Aeby]] and [[Severino Minelli]]. Hungary took the lead with a header from [[György Sárosi]]. The result was in doubt for most of the second half, until [[Gyula Zsengellér]] sealed the game with a long-range effort in the dying minutes. Switzerland's manager [[Karl Rappan]] resigned after the game.<ref name="fiedler" />
+
+<section begin="QF1" />{{Football box
+|date={{Start date|1938|6|12|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|HUN|1920}}
+|score={{score link|1938 FIFA World Cup final tournament#Hungary vs Switzerland|2–0}}
+|team2={{fb|SUI}}
+|goals1=
+*[[György Sárosi|G. Sárosi]] {{goal|40}}
+*[[Gyula Zsengellér|Zsengellér]] {{goal|89}}{{efn|[[RSSSF]] credits this goal as coming in the 90th minute.<ref name="rsssf" />}}
+|goals2=
+|stadium=[[Stade Victor Boucquey]], [[Lille]]
+|attendance=15,000
+|referee=[[Rinaldo Barlassina]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/429/1175 |title=Hungary vs Switzerland {{!}} Quarter-final {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=429/match=1175/index.html |title=1938 FIFA World Cup France – Matches – Hungary v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217183818/http://www.fifa.com/worldcup/matches/round=429/match=1175/index.html |archive-date=17 December 2017}} }}</ref>
+}}<section end="QF1" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _redtop_2whitestripes
+| leftarm    = cc0000
+| body       = cc0000
+| rightarm   = cc0000
+| shorts     = ffffff
+| socks      = 008800
+| title      = Hungary
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _redtop_2whitestripes
+| leftarm    = ffffff
+| body       = ffffff 
+| rightarm   = ffffff
+| shorts     = ffffff
+| socks      = 000000 
+| title      = Switzerland
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Antal Szabó]]
+|-
+|RB ||[[Lajos Korányi]]
+|-
+|LB ||[[Sándor Bíró]]
+|-
+|RH ||[[Antal Szalay]]
+|-
+|CH ||[[József Turay]]
+|-
+|LH ||[[Gyula Lázár]]
+|-
+|OR ||[[Ferenc Sas]]
+|-
+|IR ||[[Jenő Vincze]]
+|-
+|CF ||[[György Sárosi]] ([[Captain (association football)|c]])
+|-
+|IL ||[[Gyula Zsengellér]] 
+|-
+|OL ||[[Vilmos Kohut]]
+|-
+|colspan="4"|'''Managers:'''
+|-
+|colspan="4"|[[Károly Dietz]]<br>[[Alfréd Schaffer]]
+|}
+|valign="top"|[[File:HUN-SWI 1938-06-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Willy Huber]]
+|-
+|RB ||[[Adolf Stelzer]]
+|-
+|LB ||[[August Lehmann]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Hermann Springer]]
+|-
+|CH ||[[Sirio Vernati]]
+|-
+|LH ||[[Ernst Lörtscher]]
+|-
+|OR ||[[Lauro Amadò]]
+|-
+|IR ||[[André Abegglen]]
+|-
+|CF ||[[Alfred Bickel]]
+|-
+|IL ||[[Eugen Walaschek]]
+|-
+|OL ||[[Tullio Grassi]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Karl Rappan]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Alois Beranek]] ([[German Football Association|Germany]]){{efn|name=fn1}}
+<br />[[Georges Boutoure]] ([[French Football Federation|France]])
+|}
+
+===Sweden vs Cuba===
+[[File:Sweden vs cuba 1938 world cup.jpg|thumb|230px|Sweden v Cuba]]
+The result was never in doubt as Sweden was more accustomed to playing at this level. [[Gustav Wetterström]] netted a hat-trick before half-time, with the Cubans unable to deal with the relentless Swedish forward play, especially after [[Joaquín Arias (footballer)|Joaquín Arias]] was forced to leave the pitch injured. [[Tomás Fernández (footballer, born 1915)|Tomás Fernández]] missed a penalty for Cuba.<ref name="fiedler" />
+
+<section begin="QF2" />{{Football box
+|date={{Start date|1938|6|12|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|SWE}}
+|score={{score link|1938 FIFA World Cup final tournament#Sweden vs Cuba|8–0}}
+|team2={{fb|CUB|1902}}
+|goals1=
+*[[Harry Andersson|H. Andersson]] {{goal|9||81||89}}{{efn|RSSSF credits the 81st-minute goal as coming in the 61st minute.<ref name="rsssf">{{Cite web |title=World Cup 1938 finals |url=https://www.rsssf.org/tables/38full.html |access-date=7 July 2021 |website=[[RSSSF]]}}</ref>}}
+*[[Gustav Wetterström|Wetterström]] {{goal|22||37||44}}
+*[[Tore Keller|Keller]] {{goal|80}}{{efn|RSSSF credits goal in the 80th minute as coming in the 60th minute.<ref name="rsssf" />}}
+*[[Arne Nyberg|Nyberg]] {{goal|84}}{{efn|RSSSF credits this goal as coming in the 89th minute.<ref name="rsssf" />}}
+|goals2=
+|stadium=[[Stade du Fort Carré]], [[Antibes]]
+|attendance=7,000
+|referee=[[Augustin Krist]] ([[Czechoslovak Football Association|Czechoslovakia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/429/1158 |title=Sweden vs Cuba {{!}} Quarter-final {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=429/match=1158/index.html |title=1938 FIFA World Cup France – Matches – Sweden v Cuba |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228090732/http://www.fifa.com/worldcup/matches/round=429/match=1158/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="QF2" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _swe34h
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _2_gold_stripes
+| leftarm    = FFDD33
+| body       = FFDD33
+| rightarm   = FFDD33
+| shorts     = 0000cc
+| socks      = 000000
+| title      = Sweden
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = _red stripes
+| pattern_so = _2_white_stripes
+| leftarm    = ffffff
+| body       = ffffff 
+| rightarm   = ffffff
+| shorts     = 000066
+| socks      = 000066
+| title      = Cuba
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Henock Abrahamsson]]
+|-
+|RB ||[[Ivar Eriksson]]
+|-
+|LB ||[[Olle Källgren]]
+|-
+|RH ||[[Erik Almgren]]
+|-
+|CH ||[[Sven Jacobsson]]
+|-
+|LH ||[[Kurt Svanström]]
+|-
+|OR ||[[Arne Nyberg]]
+|-
+|IR ||[[Sven Jonasson]]
+|-
+|CF ||[[Harry Andersson]]
+|-
+|IL ||[[Tore Keller]] ([[Captain (association football)|c]])
+|-
+|OL ||[[Gustav Wetterström]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|HUN|1920}} [[József Nagy (footballer, born 1892)|József Nagy]]
+|}
+|valign="top"|[[File:SWE-CUB 1938-06-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Benito Carvajales]]
+|-
+|RB ||[[Jacinto Barquín]]
+|-
+|LB ||[[Manuel Chorens]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Joaquín Arias (footballer)|Joaquín Arias]]
+|-
+|CH ||[[José Antonio Rodríguez (Cuban footballer)|José Antonio Rodríguez]]
+|-
+|LH ||[[Pedro Bergés]]
+|-
+|OR ||[[Pedro Ferrer (footballer)|Pedro Ferrer]]
+|-
+|IR ||[[Tomás Fernández (footballer, born 1915)|Tomás Fernández]]
+|-
+|CF ||[[Héctor Socorro]]
+|-
+|IL ||[[Juan Tuñas]]
+|-
+|OL ||[[Juan Alonzo]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[José Tapia (football manager)|José Tapia]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Karl Weingärtner]] ([[German Football Federation|Germany]])
+<br />[[Victor Sedez]] ([[French Football Federation|France]])
+|}
+
+===Italy vs France===
+{{see also|France–Italy football rivalry}}
+Title-holders Italy met hosts France in what was considered one of the most enticing games of the tournament. Italy wore their Fascist affiliated black shirts despite the anti-Fascism protests that the team had received in France. Italy had a better start, scoring within the first nine minutes, but France levelled immediately. In the second half, France tried to control the ball but, in doing so, they left themselves open for the lethal Italian counter-attack. [[Silvio Piola]] scored a brace while unmarked, leading Italy to the semi-finals.<ref name="fiedler" />
+
+<section begin="QF3" />{{Football box
+|date={{Start date|1938|6|12|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1938 FIFA World Cup final tournament#Italy vs France|3–1}}
+|team2={{fb|FRA|1794}}
+|goals1=
+*[[Gino Colaussi|Colaussi]] {{goal|9}}
+*[[Silvio Piola|Piola]] {{goal|51||72}}
+|goals2=
+*[[Oscar Heisserer|Heisserer]] {{goal|10}}
+|stadium=[[Stade Olympique Yves-du-Manoir|Stade Olympique de Colombes]], [[Colombes]]
+|attendance=58,455
+|referee=[[Louis Baert]] ([[Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/429/1164 |title=Italy vs France {{!}} Quarter-final {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=429/match=1164/index.html |title=1938 FIFA World Cup France – Matches – Italy v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228033125/http://www.fifa.com/worldcup/matches/round=429/match=1164/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="QF3" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _band_white
+| leftarm    = 000000
+| body       = 000000
+| rightarm   = 000000
+| shorts     = 000000
+| socks      = 000000 
+| title      = Italy <!--- All-black uniform, source: https://www.theguardian.com/football/blog/2014/apr/01/world-cup-moments-1938-italy-benito-mussolini --->
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _collar_buttons_2
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = 
+| leftarm    = 0099ff
+| body       = 0099ff 
+| rightarm   = 0099ff 
+| shorts     = ffffff
+| socks      = ff0000
+| title      = France
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Aldo Olivieri]]
+|-
+|RB ||[[Alfredo Foni]]
+|-
+|LB ||[[Pietro Rava]]
+|-
+|RH ||[[Pietro Serantoni]]
+|-
+|CH ||[[Michele Andreolo]]
+|-
+|LH ||[[Ugo Locatelli]]
+|-
+|OR ||[[Amedeo Biavati]]
+|-
+|IR ||[[Giuseppe Meazza]] ([[Captain (association football)|c]])
+|-
+|CF ||[[Silvio Piola]]
+|-
+|IL ||[[Giovanni Ferrari]]
+|-
+|OL ||[[Gino Colaussi]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-FRA 1938-06-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Laurent Di Lorto]]
+|-
+|RB ||[[Hector Cazenave]]
+|-
+|LB ||[[Étienne Mattler]] ([[Captain (association football)|c]])
+|-
+|RH ||[[Jean Bastien]]
+|-
+|CH ||[[Auguste Jordan]]
+|-
+|LH ||[[Raoul Diagne]]
+|-
+|OR ||[[Alfred Aston]]
+|-
+|IR ||[[Oscar Heisserer]]
+|-
+|CF ||[[Jean Nicolas]]
+|-
+|IL ||[[Edmond Delfour]]
+|-
+|OL ||[[Émile Veinante]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Gaston Barreau]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Hans Wüthrich]] ([[Swiss Football Association|Switzerland]])
+<br />[[Ivan Eklind]] ([[Swedish Football Association|Sweden]])
+|}
+
+===Brazil vs Czechoslovakia===
+{{main|Battle of Bordeaux (1938 FIFA World Cup)}}
+<section begin=QF4 />{{#lst:Battle of Bordeaux (1938 FIFA World Cup)|QF4}}<section end=QF4 />
+{{#lst:Battle of Bordeaux (1938 FIFA World Cup)|Line-ups}}
+
+===Replay: Brazil vs Czechoslovakia===
+<section begin="QF4r" />{{Football box
+|date={{Start date|1938|6|14|df=y}}
+|time=18:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1938 FIFA World Cup final tournament#Replay: Brazil vs Czechoslovakia|2–1}}
+|team2={{fb|CSK}}
+|goals1=
+*[[Leônidas (footballer, born 1913)|Leônidas]] {{goal|57}}
+*[[Roberto (footballer, born 1912)|Roberto]] {{goal|62}}{{efn|FIFA initially credited this goal to Leônidas, but changed it to Roberto in 2006.<ref>{{Cite web |date=2006 |title=American Bert Patenaude credited with first hat trick in FIFA World Cup history |url=http://www.fifa.com/en/media/index/0,1369,125346,00.html |url-status=dead |archive-url=https://web.archive.org/web/20061116121146/http://www.fifa.com/en/media/index/0%2C1369%2C125346%2C00.html |archive-date=16 November 2006 |website=FIFA.com}}</ref>}}
+|goals2=
+*[[Vlastimil Kopecký|Kopecký]] {{goal|25}}
+|stadium=[[Stade Chaban-Delmas|Parc Lescure]], [[Bordeaux]]
+|attendance=18,141
+|referee=[[Georges Capdeville]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/429/1153 |title=Brazil vs Czechoslovakia {{!}} Quarter-final {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=429/match=1153/index.html |title=1938 FIFA World Cup France – Matches – Brazil v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228104828/http://www.fifa.com/worldcup/matches/round=429/match=1153/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="QF4r" />
+<section begin=Lineups QF4r />{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la =_blueborder
+| pattern_b  = _vneckblue
+| pattern_ra =_blueborder 
+| pattern_sh =
+| pattern_so = _brasil1930
+| leftarm    = ffffff
+| body       = ffffff
+| rightarm   = ffffff
+| shorts     = 01519F
+| socks      = 000000
+| title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _2_white_stripes
+| leftarm    = cc0000
+| body       = cc0000
+| rightarm   = cc0000
+| shorts     = ffffff 
+| socks      = 0000ff 
+| title      = Czechoslovakia
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Walter (footballer, born 1912)|Walter]]
+|-
+|RB ||[[Jaú (footballer)|Jaú]]
+|-
+|LB ||[[Nariz (footballer)|Nariz]]
+|-
+|RH ||[[Britto (footballer)|Britto]]
+|-
+|CH ||[[José Augusto Brandão|Brandão]]
+|-
+|LH ||[[Argemiro]]
+|-
+|OR ||[[Roberto (footballer, born 1912)|Roberto]]
+|-
+|IR ||[[Luisinho (footballer, born 1911)|Luisinho]]
+|-
+|CF ||[[Leônidas (footballer, born 1913)|Leônidas]] ([[Captain (association football)|c]])
+|-
+|IL ||[[Tim (footballer)|Tim]]
+|-
+|OL ||[[Patesko]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Adhemar Pimenta]]
+|}
+|valign="top"|[[File:BRA-CZE 1938-06-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Karel Burkert]]
+|-
+|RB ||[[Jaroslav Burgr]] ([[Captain (association football)|c]])
+|-
+|LB ||[[Ferdinand Daučík]]
+|-
+|RH ||[[Josef Košťálek]]
+|-
+|CH ||[[Jaroslav Bouček]]
+|-
+|LH ||[[Arnošt Kreuz]]
+|-
+|OR ||[[Václav Horák]]
+|-
+|IR ||[[Karel Senecký]]
+|-
+|CF ||[[Josef Ludl]]
+|-
+|IL ||[[Vlastimil Kopecký]]
+|-
+|OL ||[[Oldřich Rulc]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Josef Meissner]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ernest Kissenberger ([[French Football Federation|France]])
+<br />Paul Marenco ([[French Football Federation|France]])
+|}<section end=Lineups QF4r />
+
+==Semi-finals==
+===Hungary vs Sweden===
+Sweden took the lead after just 35 seconds, but that remained the only goal scored by them. Hungary quickly settled in control of the game, scoring thrice before half-time. Sweden, who had impressed in previous games, could not resist the vastly superior opponent, who scored two additional goals in the second half, cruising towards the final after a comfortable win.<ref name="fiedler" />
+
+<section begin="SF1" />{{Football box
+|date={{Start date|1938|6|16|df=y}}
+|time=18:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|HUN|1920}}
+|score={{score link|1938 FIFA World Cup final tournament#Hungary vs Sweden|5–1}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Sven Jacobsson|Jacobsson]] {{goal|19|o.g.}}
+*[[Pál Titkos|Titkos]] {{goal|37}}
+*[[Gyula Zsengellér|Zsengellér]] {{goal|39||85}}
+*[[György Sárosi|G. Sárosi]] {{goal|65}}
+|goals2=
+*[[Arne Nyberg|Nyberg]] {{goal|1}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=20,000
+|referee=Lucien Leclerq ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/3489/1176 |title=Hungary vs Sweden {{!}} Semi-final {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3489/match=1176/index.html |title=1938 FIFA World Cup France – Matches – Hungary v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228094123/http://www.fifa.com/worldcup/matches/round=3489/match=1176/index.html |archive-date=28 December 2017}} }}</ref>
+}}<section end="SF1" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _old_laced
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _redtop_2whitestripes
+| leftarm    = cc0000
+| body       = cc0000
+| rightarm   = cc0000
+| shorts     = ffffff
+| socks      = 008800
+| title      = Hungary
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _blueborder
+| pattern_b  = _swe34h
+| pattern_ra = _blueborder
+| pattern_sh = 
+| pattern_so = _2_gold_stripes
+| leftarm    = FFDD33
+| body       = FFDD33
+| rightarm   = FFDD33
+| shorts     = 0000CC
+| socks      = 000000
+| title      = Sweden
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Antal Szabó]]
+|-
+|RB ||[[Lajos Korányi]]
+|-
+|LB ||[[Sándor Bíró]]
+|-
+|RH ||[[Antal Szalay]]
+|-
+|CH ||[[József Turay]]
+|-
+|LH ||[[Gyula Lázár]]
+|-
+|OR ||[[Ferenc Sas]]
+|-
+|IR ||[[Gyula Zsengellér]]
+|-
+|CF ||[[György Sárosi]] ([[Captain (association football)|c]])
+|-
+|IL ||[[Géza Toldi]]
+|-
+|OL ||[[Pál Titkos]]
+|-
+|colspan="3"|'''Managers:'''
+|-
+|colspan="3"|[[Károly Dietz]]<br>[[Alfréd Schaffer]]
+|}
+|valign="top"|[[File:HUN-SWE 1938-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Henock Abrahamsson]]
+|-
+|RB ||[[Ivar Eriksson]]
+|-
+|LB ||[[Olle Källgren]]
+|-
+|RH ||[[Erik Almgren]]
+|-
+|CH ||[[Sven Jacobsson]]
+|-
+|LH ||[[Kurt Svanström]]
+|-
+|OR ||[[Arne Nyberg]]
+|-
+|IR ||[[Sven Jonasson]]
+|-
+|CF ||[[Harry Andersson]]
+|-
+|IL ||[[Tore Keller]] ([[Captain (association football)|c]])
+|-
+|OL ||[[Gustav Wetterström]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|HUN|1920}} [[József Nagy (footballer, born 1892)|József Nagy]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Giuseppe Scarpi ([[Italian Football Federation|Italy]])
+<br />Johannes van Moorsel ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Italy vs Brazil===
+{{see also|Brazil–Italy football rivalry}}
+The narrative leading to this highly anticipated match was built around an overconfident Brazil, who had impressed in the previous three matches. However, Italy had a better start to the game, creating the best chances but finding a well-positioned [[Walter (footballer, born 1912)|Walter]] stopping their attacks. In the second half, Italy soon found the net with [[Gino Colaussi|Colaussi]], before being awarded a penalty following a foul in the box by [[Domingos da Guia]], his third in the tournament. The penalty was calmly converted by [[Giuseppe Meazza|Meazza]]. At 2–0, Brazil pushed forward to break the Italian defence, but only managed to score a goal in the 87th minute with [[Romeu Pellicciari|Romeu]] scoring from a corner kick. Some tense moments followed, but Italy managed to hold out for the remaining time, reaching their second final in a row.<ref name="fiedler" />
+
+<section begin="SF2" />{{Football box
+|date={{Start date|1938|6|16|df=y}}
+|time=18:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|ITA|1861}}
+|score={{score link|1938 FIFA World Cup final tournament#Italy vs Brazil|2–1}}
+|team2={{fb|BRA|1889}}
+|goals1=
+*[[Gino Colaussi|Colaussi]] {{goal|51}}
+*[[Giuseppe Meazza|Meazza]] {{goal|60|pen.}}
+|goals2=
+*[[Romeu Pellicciari|Romeu]] {{goal|87}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=33,000
+|referee=[[Hans Wüthrich]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/3489/1149 |title=Italy vs Brazil {{!}} Semi-final {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3489/match=1149/index.html |title=1938 FIFA World Cup France – Matches – Italy v Brazil |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171204024606/http://www.fifa.com/worldcup/matches/round=3489/match=1149/index.html |archive-date=4 December 2017}} }}</ref>
+}}<section end="SF2" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la =_Italia1927-1943h
+| pattern_b  = _colour vneck
+| pattern_ra =_Italia1927-1943h
+| pattern_sh =_Italiah
+| pattern_so =_Italia1927-1943h
+| leftarm    = 426DA5
+| body       = 426DA5
+| rightarm   = 426DA5
+| shorts     = ffffff
+| socks      = 000000
+| title      = Italy
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _blueborder
+| pattern_b  = _vneckblue
+| pattern_ra = _blueborder 
+| pattern_sh =
+| pattern_so = _brasil1930
+| leftarm    = ffffff
+| body       = ffffff
+| rightarm   = ffffff
+| shorts     = 01519F
+| socks      = 000000
+| title      = Brazil
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Aldo Olivieri]]
+|-
+|RB ||[[Alfredo Foni]]
+|-
+|LB ||[[Pietro Rava]]
+|-
+|RH ||[[Pietro Serantoni]]
+|-
+|CH ||[[Michele Andreolo]]
+|-
+|LH ||[[Ugo Locatelli]]
+|-
+|OR ||[[Amedeo Biavati]]
+|-
+|IR ||[[Giuseppe Meazza]] ([[Captain (association football)|c]])
+|-
+|CF ||[[Silvio Piola]]
+|-
+|IL ||[[Giovanni Ferrari]]
+|-
+|OL ||[[Gino Colaussi]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Vittorio Pozzo]]
+|}
+|valign="top"|[[File:ITA-BRA 1938-06-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Walter (footballer, born 1912)|Walter]]
+|-
+|RB ||[[Domingos da Guia]]
+|-
+|LB ||[[Arthur Machado]]
+|-
+|RH ||[[Zezé Procópio]]
+|-
+|CH ||[[Martim Silveira|Martim]] ([[Captain (association football)|c]])
+|-
+|LH ||[[Afonsinho (footballer, born 1914)|Afonsinho]]
+|-
+|OR ||[[Zéca Lopes]]
+|-
+|IR ||[[Romeu Pellicciari|Romeu]]
+|-
+|CF ||[[Luisinho (footballer, born 1911)|Luisinho]]
+|-
+|IL ||[[José Perácio]]
+|-
+|OL ||[[Patesko]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Adhemar Pimenta]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Alois Beranek]] ([[German Football Association|Germany]]){{efn|name=fn1}}
+<br />[[Paul Marenco]] ([[French Football Federation|France]])
+|}
+
+==Match for third place==
+Sweden started on the front foot, taking a double lead inside 38 minutes. In the first half, Brazil looked uninspired until they got one back before half-time. In the second half, Brazil was reinvigorated and pushed for the comeback. In the second half, [[Leônidas (footballer, born 1913)|Leônidas]] scored twice, while [[Patesko]] missed a penalty. [[José Perácio]] secured the victory in the 80th minute.<ref name="fiedler" />
+
+<section begin="TPP" />{{Football box
+|date={{Start date|1938|6|19|df=y}}
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1={{fb-rt|BRA|1889}}
+|score={{score link|1938 FIFA World Cup final tournament#Match for third place|4–2}}
+|team2={{fb|SWE}}
+|goals1=
+*[[Romeu Pellicciari|Romeu]] {{goal|44}}
+*[[Leônidas (footballer, born 1913)|Leônidas]] {{goal|63||74}}
+*[[José Perácio|Perácio]] {{goal|80}}
+|goals2=
+*[[Sven Jonasson|Jonasson]] {{goal|28}}
+*[[Arne Nyberg|Nyberg]] {{goal|38}}
+|stadium=[[Stade Chaban-Delmas|Parc Lescure]], [[Bordeaux]]
+|attendance=12,000
+|referee=[[John Langenus]] ([[Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/5/3488/1151 |title=Brazil vs Sweden {{!}} Match for third place {{!}} 1938 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3488/match=1151/index.html |title=1938 FIFA World Cup France – Matches – Brazil v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171130171811/http://www.fifa.com/worldcup/matches/round=3488/match=1151/index.html |archive-date=30 November 2017}} }}</ref>
+}}<section end="TPP" />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la =
+| pattern_b  = _vneckblue
+| pattern_ra =
+| pattern_sh =
+| pattern_so = _brasil1930
+| leftarm    = ffffff
+| body       = ffffff
+| rightarm   = ffffff
+| shorts     = 01519F
+| socks      = 000000
+| title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+| pattern_la = _blueborder
+| pattern_b  = _swe34h
+| pattern_ra = _blueborder
+| pattern_sh = 
+| pattern_so = _2_gold_stripes
+| leftarm    = FFDD33
+| body       = FFDD33
+| rightarm   = FFDD33
+| shorts     = 0000CC
+| socks      = 000000
+| title      = Sweden
+}}
+{{col-end}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"|
+|-
+|GK ||[[Batatais (footballer)|Batatais]]
+|-
+|RB ||[[Domingos da Guia]]
+|-
+|LB ||[[Arthur Machado]]
+|-
+|RH ||[[Zezé Procópio]]
+|-
+|CH ||[[José Augusto Brandão|Brandão]]
+|-
+|LH ||[[Afonsinho (footballer, born 1914)|Afonsinho]]
+|-
+|OR ||[[Roberto (footballer, born 1912)|Roberto]]
+|-
+|IR ||[[Romeu Pellicciari|Romeu]]
+|-
+|CF ||[[Leônidas (footballer, born 1913)|Leônidas]] ([[Captain (association football)|c]])
+|-
+|IL ||[[José Perácio]]
+|-
+|OL ||[[Patesko]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|[[Adhemar Pimenta]]
+|}
+|valign="top"|[[File:BRA-SWE 1938-06-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"|
+|-
+|GK ||[[Henock Abrahamsson]]
+|-
+|RB ||[[Ivar Eriksson]]
+|-
+|LB ||[[Erik Nilsson]]
+|-
+|RH ||[[Erik Almgren]]
+|-
+|CH ||[[Arne Linderholm]]
+|-
+|LH ||[[Kurt Svanström]] ([[Captain (association football)|c]])
+|-
+|OR ||[[Arne Nyberg]]
+|-
+|IR ||[[Sven Jonasson]]
+|-
+|CF ||[[Harry Andersson]]
+|-
+|IL ||[[Åke Andersson (footballer, born 1917)|Åke Andersson]]
+|-
+|OL ||[[Erik Persson (footballer)|Erik Persson]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|HUN|1920}} [[József Nagy (footballer, born 1892)|József Nagy]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Ferdinand Valprede]] ([[French Football Federation|France]])
+<br />[[Eugené Olive]] ([[French Football Federation|France]])
+|}
+
+==Final==
+{{main|1938 FIFA World Cup final}}
+
+{{#lst:1938 FIFA World Cup final|Final}}
+{{#lst:1938 FIFA World Cup final|Lineups}}
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/worldcup/1938france 1938 FIFA World Cup] at FIFA.com
+
+{{1938 FIFA World Cup}}
+
+[[Category:1938 FIFA World Cup|Final tournament]]
+[[Category:FIFA World Cup knockout stages|1938]]
+[[Category:Austria–Sweden sports relations|1938]]
+[[Category:Belgium–France sports relations|1938]]
+[[Category:Brazil–Czechoslovakia relations|1938]]
+[[Category:Brazil–Italy sports relations|1938]]
+[[Category:Brazil–Poland sports relations|1938]]
+[[Category:Brazil–Sweden sports relations|1938]]
+[[Category:Cuba–Romania sports relations|1938]]
+[[Category:Cuba–Sweden sports relations|1938]]
+[[Category:Czechoslovakia–Netherlands relations|1938]]
+[[Category:Czech Republic–Netherlands sports relations|1938]]
+[[Category:Netherlands–Slovakia sports relations|1938]]
+[[Category:France–Italy football rivalry|1938 FIFA World Cup]]
+[[Category:Germany–Switzerland sports relations|1938]]
+[[Category:Hungary–Indonesia sports relations|1938]]
+[[Category:Hungary–Netherlands sports relations|1938]]
+[[Category:Hungary–Sweden sports relations|1938]]
+[[Category:Hungary–Switzerland sports relations|1938]]
+[[Category:Italy–Norway sports relations|1938]]
+[[Category:Belgium at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Brazil at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Cuba at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Czechoslovakia at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Dutch East Indies at the 1938 FIFA World Cup|Final tournament]]
+[[Category:France at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Germany at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Hungary at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Italy at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Netherlands at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Norway at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Poland at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Romania at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Sweden at the 1938 FIFA World Cup|Final tournament]]
+[[Category:Switzerland at the 1938 FIFA World Cup|Final tournament]]
+[[Category:International football competitions in Paris]]
+[[Category:1938 in Paris]]
+[[Category:Sport in Hauts-de-Seine]]
+[[Category:Sports competitions in Marseille]]
+[[Category:Sports competitions in Strasbourg]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Sport in Le Havre]]
+[[Category:Sport in Lille]]
+[[Category:Sports competitions in Reims]]
+[[Category:Sports competitions in Lyon]]
+[[Category:Sport in Antibes]]
+[[Category:Sport in Toulouse]]
+[[Category:Football in Provence-Alpes-Côte d'Azur]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:Football in Hauts-de-France]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Football in Grand Est]]
+[[Category:Football in Normandy]]
+[[Category:20th century in Marseille]]
+[[Category:20th century in Strasbourg]]
+[[Category:20th century in Lyon]]
+[[Category:History of Lille]]
+[[Category:History of Toulouse]]
+[[Category:History of Alpes-Maritimes]]
+[[Category:History of Hauts-de-Seine]]
+[[Category:History of Le Havre]]

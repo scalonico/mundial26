@@ -1,0 +1,907 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Group 5 was one of six groups of national teams competing in the group stage of the [[1982 FIFA World Cup]]. Play began on 16 June and ended on 25 June 1982.<ref>{{cite web |url=https://www.rsssf.org/tables/82full.html |title=World Cup 1982 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The group consisted of four teams: Seeded team and host nation [[Spain national football team|Spain]], World Cup debutants [[Honduras national football team|Honduras]], [[Yugoslavia national football team|Yugoslavia]] and [[Northern Ireland national football team|Northern Ireland]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/spain1982/groups/index.html FIFA]
+
+|team1=NIR |team2=ESP |team3=YUG |team4=HON
+|result1=A |result2=A
+|status_ESP=H
+
+|win_NIR=1 |draw_NIR=2 |loss_NIR=0 |gf_NIR=2 |ga_NIR=1
+|win_ESP=1 |draw_ESP=1 |loss_ESP=1 |gf_ESP=3 |ga_ESP=3
+|win_YUG=1 |draw_YUG=1 |loss_YUG=1 |gf_YUG=2 |ga_YUG=2
+|win_HON=0 |draw_HON=2 |loss_HON=1 |gf_HON=2 |ga_HON=3
+
+|name_ESP={{fb|ESP}}
+|name_NIR={{fb|NIR}}
+|name_YUG={{fb|YUG}}
+|name_HON={{fb|HON|1949}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1982 FIFA World Cup#Second group stage|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Spain vs Honduras===
+<onlyinclude>{{#invoke:Football box|main|section=5-1
+|date={{Start date|1982|6|16|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ESP}}
+|score={{score link|1982 FIFA World Cup Group 5#Spain vs Honduras|1–1}}
+|team2={{fb|HON|1949}}
+|goals1=
+*[[Roberto López Ufarte|López Ufarte]] {{goal|65|pen.}}
+|goals2=
+*[[Héctor Zelaya|Zelaya]] {{goal|8}}
+|stadium=[[Mestalla Stadium|Estadio Luis Casanova]], [[Valencia, Spain|Valencia]]
+|attendance=49,562
+|referee=[[Arturo Ithurralde]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/901 |title=Spain vs Honduras {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=901/index.html |title=1982 FIFA World Cup Spain – Matches – Spain v Honduras |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211085128/http://www.fifa.com/worldcup/matches/round=293/match=901/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+ |{{Football kit
+ |pattern_la  = _esp1982
+ |pattern_b   = _esp1982h
+ |pattern_ra  = _esp1982
+ |pattern_sh  = _esp_08
+ |pattern_so  = _esp1986
+ |leftarm     = ED1C24
+ |body        = ED1C24
+ |rightarm    = ED1C24
+ |shorts      = 0000CD
+ |socks       = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_blue_stripes
+ | pattern_b  = _2blueshoulderstripes
+ | pattern_ra = _shoulder_stripes_blue_stripes
+ | pattern_sh = _adidasblue
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 
+ | socks      = 
+ | title      = Honduras
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Arconada]] ([[Captain (association football)|c]])
+|-
+|SW ||'''6''' ||[[José Ramón Alexanko]]
+|-
+|DF ||'''2''' ||[[José Antonio Camacho]]
+|-
+|DF ||'''5''' ||[[Miguel Tendillo]]
+|-
+|DF ||'''3''' ||[[Rafael Gordillo]]
+|-
+|MF ||'''4''' ||[[Miguel Ángel Alonso|Periko Alonso]]
+|-
+|MF ||'''10'''||[[Jesús María Zamora]]
+|-
+|MF ||'''8''' ||[[Joaquín Alonso|Joaquín]] || || {{suboff|46}}
+|-
+|FW ||'''7''' ||[[Juanito (footballer, born 1954)|Juanito]] || || {{suboff|46}}
+|-
+|FW ||'''9'''||[[Jesús María Satrústegui]]
+|-
+|FW ||'''11'''||[[Roberto López Ufarte]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''12'''||[[Santiago Urquiaga]]
+|-
+|MF ||'''15'''||[[Enrique Saura]] || || {{subon|46}}
+|-
+|MF ||'''16'''||[[José Vicente Sánchez|Tente Sánchez]] || || {{subon|46}}
+|-
+|FW ||'''20'''||[[Quini]]
+|-
+|GK ||'''21'''||[[Javier Urruticoechea|Urruti]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Santamaría]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Julio César Arzú]]
+|-
+|SW ||'''5''' ||[[Allan Anthony Costly]]
+|-
+|DF ||'''2''' ||[[Efraín Gutiérrez]]
+|-
+|DF ||'''3''' ||[[Jaime Villegas]]
+|-
+|DF ||'''4''' ||[[Fernando Bulnes]]
+|-
+|MF ||'''20'''||[[Gilberto Yearwood]]
+|-
+|MF ||'''6''' ||[[Ramón Maradiaga]] ([[Captain (association football)|c]])
+|-
+|MF ||'''15'''||[[Héctor Zelaya]]
+|-
+|FW ||'''13'''||[[Prudencio Norales]] || || {{suboff|69}}
+|-
+|FW ||'''9''' ||[[Porfirio Armando Betancourt|Armando Betancourt]]
+|-
+|FW ||'''10'''||[[José Roberto Figueroa|Macho Figueroa]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Salomón Nazar]]
+|-
+|MF ||'''8''' ||[[Francisco Javier Toledo]]
+|-
+|MF ||'''14'''||[[Juan Cruz Murillo]]
+|-
+|DF ||'''17'''||[[José Luis Cruz|José Cruz]]
+|-
+|MF ||'''18'''||[[Carlos Orlando Caballero]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José de la Paz Herrera|Chelato Uclés]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Bogdan Dochev]] ([[Bulgarian Football Union|Bulgaria]])
+<br />[[Luis Barrancos]] ([[Bolivian Football Federation|Bolivia]])
+|}
+
+===Yugoslavia vs Northern Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=5-2
+|date={{Start date|1982|6|17|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|YUG}}
+|score={{score link|1982 FIFA World Cup Group 5#Yugoslavia vs Northern Ireland|0–0}}
+|team2={{fb|NIR}}
+|goals1=
+|goals2=
+|stadium=[[La Romareda]], [[Zaragoza]]
+|attendance=25,000
+|referee=[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/1044 |title=Yugoslavia vs Northern Ireland {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=1044/index.html |title=1982 FIFA World Cup Spain – Matches – Yugoslavia v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211182046/http://www.fifa.com/worldcup/matches/round=293/match=1044/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _yug82h
+ | pattern_b  = _yug82h
+ | pattern_ra = _yug82h
+ | pattern_sh = _france86
+ | pattern_so = _3_stripes_white
+ | leftarm    = 2E3598
+ | body       = ffffff
+ | rightarm   = 2E3598
+ | shorts     = ffffff
+ | socks      = ef1717
+| title      = Yugoslavia
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_green_stripes
+ | pattern_b  = _adidas_greenshoulder
+ | pattern_ra = _shoulder_stripes_green_stripes
+ | pattern_sh = _adidas_white
+ | pattern_so = _3_stripes_green
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 008020
+ | socks      = 
+ | title      = Northern Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dragan Pantelić]]
+|-
+|SW ||'''4''' ||[[Velimir Zajec]]
+|-
+|DF ||'''15'''||[[Miloš Hrstić]]
+|-
+|DF ||'''14'''||[[Nikola Jovanović (footballer, born 1952)|Nikola Jovanović]]
+|-
+|DF ||'''5''' ||[[Nenad Stojković]]
+|-
+|MF ||'''8''' ||[[Edhem Šljivo]]
+|-
+|MF ||'''3''' ||[[Ivan Gudelj]]
+|-
+|MF ||'''20'''||[[Ivica Šurjak]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Vladimir Petrović]]
+|-
+|FW ||'''11'''||[[Zlatko Vujović]]
+|-
+|FW ||'''13'''||[[Safet Sušić]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[Ive Jerolimov]]
+|-
+|MF ||'''16'''||[[Miloš Šestić]]
+|-
+|DF ||'''17'''||[[Jurica Jerković]]
+|-
+|FW ||'''19'''||[[Vahid Halilhodžić]]
+|-
+|GK ||'''22'''||[[Ratko Svilar]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miljan Miljanić]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pat Jennings]]
+|-
+|DF ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''5''' ||[[Chris Nicholl]]
+|-
+|DF ||'''12'''||[[John McClelland (footballer, born 1955)|John McClelland]]
+|-
+|DF ||'''3''' ||[[Mal Donaghy]]
+|-
+|MF ||'''8''' ||[[Martin O'Neill]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Sammy McIlroy]]
+|-
+|MF ||'''4''' ||[[David McCreery]]
+|-
+|FW ||'''16'''||[[Norman Whiteside]] || {{yel|62}}
+|-
+|FW ||'''9''' ||[[Gerry Armstrong (footballer)|Gerry Armstrong]]
+|-
+|FW ||'''11'''||[[Billy Hamilton (footballer)|Billy Hamilton]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[John O'Neill (footballer, born 1958)|John O'Neill]]
+|-
+|MF ||'''7''' ||[[Noel Brotherston]]
+|-
+|GK ||'''17'''||[[Jim Platt]]
+|-
+|FW ||'''19'''||[[Felix Healy]]
+|-
+|MF ||'''20'''||[[Jim Cleary (Northern Irish footballer)|Jim Cleary]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Billy Bingham]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Bruno Galler]] ([[Swiss Football Association|Switzerland]])
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Spain vs Yugoslavia===
+This was the fourth time that Yugoslavia lost to the host nation of tournament, after [[Uruguay national football team|Uruguay]] in [[1930 FIFA World Cup knockout stage#Uruguay vs Yugoslavia|1930]], [[Chile national football team|Chile]] in [[1962 FIFA World Cup knockout stage#Match for third place|1962]] and [[Germany national football team|West Germany]] in [[1974 FIFA World Cup Group B#West Germany vs Yugoslavia|1974]].
+
+<onlyinclude>{{#invoke:Football box|main|section=5-3
+|date={{Start date|1982|6|20|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ESP}}
+|score={{score link|1982 FIFA World Cup Group 5#Spain vs Yugoslavia|2–1}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Juanito (footballer, born 1954)|Juanito]] {{goal|14|pen.}}
+*[[Enrique Saura|Saura]] {{goal|66}}
+|goals2=
+*[[Ivan Gudelj|Gudelj]] {{goal|10}}
+|stadium=[[Mestalla Stadium|Estadio Luis Casanova]], [[Valencia, Spain|Valencia]]
+|attendance=48,000
+|referee=[[Henning Lund-Sørensen]] ([[Danish Football Association|Denmark]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/903 |title=Spain vs Yugoslavia {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=903/index.html |title=1982 FIFA World Cup Spain – Matches – Spain v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213000415/http://www.fifa.com/worldcup/matches/round=293/match=903/index.html |archive-date=13 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la  = _esp1982
+ |pattern_b   = _esp1982h
+ |pattern_ra  = _esp1982
+ |pattern_sh  = _esp_08
+ |pattern_so  = _esp1986
+ |leftarm     = ED1C24
+ |body        = ED1C24
+ |rightarm    = ED1C24
+ |shorts      = 0000CD
+ |socks       = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _yug82a
+ | pattern_b  = _yug82a
+ | pattern_ra = _yug82a
+ | pattern_sh = _france86
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 
+ | socks      = 
+ | title      = Yugoslavia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Arconada]] ([[Captain (association football)|c]])
+|-
+|SW ||'''6''' ||[[José Ramón Alexanko]]
+|-
+|DF ||'''2''' ||[[José Antonio Camacho]]
+|-
+|DF ||'''5''' ||[[Miguel Tendillo]]
+|-
+|DF ||'''3''' ||[[Rafael Gordillo]] || {{yel|87}}
+|-
+|MF ||'''4''' ||[[Miguel Ángel Alonso|Periko Alonso]]
+|-
+|MF ||'''16'''||[[José Vicente Sánchez|Tente Sánchez]] || || {{suboff|63}}
+|-
+|MF ||'''10'''||[[Jesús María Zamora]] || {{yel|80}}
+|-
+|FW ||'''7''' ||[[Juanito (footballer, born 1954)|Juanito]]
+|-
+|FW ||'''9'''||[[Jesús María Satrústegui]] || || {{suboff|63}}
+|-
+|FW ||'''11'''||[[Roberto López Ufarte]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''12'''||[[Santiago Urquiaga]]
+|-
+|MF ||'''15'''||[[Enrique Saura]] || || {{subon|63}}
+|-
+|FW ||'''19'''||[[Santillana (footballer)|Santillana]]
+|-
+|FW ||'''20'''||[[Quini]] || || {{subon|63}}
+|-
+|GK ||'''21'''||[[Javier Urruticoechea|Urruti]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Santamaría]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Dragan Pantelić]]
+|-
+|SW ||'''4''' ||[[Velimir Zajec]]
+|-
+|DF ||'''6''' ||[[Zlatko Krmpotić]]
+|-
+|DF ||'''14'''||[[Nikola Jovanović (footballer, born 1952)|Nikola Jovanović]] || || {{suboff|74}}
+|-
+|DF ||'''5''' ||[[Nenad Stojković]] || {{yel|35}}
+|-
+|MF ||'''3''' ||[[Ivan Gudelj]]
+|-
+|MF ||'''7''' ||[[Vladimir Petrović]]
+|-
+|MF ||'''8''' ||[[Edhem Šljivo]] || {{yel|78}}
+|-
+|MF ||'''20'''||[[Ivica Šurjak]] ([[Captain (association football)|c]])
+|-
+|FW ||'''11'''||[[Zlatko Vujović]] || || {{suboff|83}}
+|-
+|FW ||'''13'''||[[Safet Sušić]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''9''' ||[[Zoran Vujović]]
+|-
+|MF ||'''16'''||[[Miloš Šestić]] || || {{subon|83}}
+|-
+|DF ||'''17'''||[[Jurica Jerković]]
+|-
+|FW ||'''19'''||[[Vahid Halilhodžić]] || || {{subon|74}}
+|-
+|GK ||'''22'''||[[Ratko Svilar]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miljan Miljanić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[António Garrido (referee)|António Garrido]] ([[Portuguese Football Federation|Portugal]])
+<br />[[Arturo Ithurralde]] ([[Argentine Football Association|Argentina]])
+|}
+
+===Honduras vs Northern Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=5-4
+|date={{Start date|1982|6|21|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|HON|1949}}
+|score={{score link|1982 FIFA World Cup Group 5#Honduras vs Northern Ireland|1–1}}
+|team2={{fb|NIR}}
+|goals1=
+*[[Eduardo Laing|Laing]] {{goal|60}}
+|goals2=
+*[[Gerry Armstrong (footballer)|Armstrong]] {{goal|10}}
+|stadium=[[La Romareda]], [[Zaragoza]]
+|attendance=15,000
+|referee=[[Thomson Chan|Chan Tam Sun]] ([[Hong Kong Football Association|Hong&nbsp;Kong]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/959 |title=Honduras vs Northern Ireland {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=959/index.html |title=1982 FIFA World Cup Spain – Matches – Honduras v Northern Ireland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171231143141/http://www.fifa.com/worldcup/matches/round=293/match=959/index.html |archive-date=31 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_blue_stripes
+ | pattern_b  = _2blueshoulderstripes
+ | pattern_ra = _shoulder_stripes_blue_stripes
+ | pattern_sh = _adidas_white
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 0000FF
+ | socks      = 
+ | title      = Honduras
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes
+ | pattern_sh = _adidas_green
+ | pattern_so = _3_stripes_white
+ | leftarm    = 008020
+ | body       = 008020
+ | rightarm   = 008020
+ | shorts     = 
+ | socks      = 008020
+ | title      = Northern Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Julio César Arzú]]
+|-
+|SW ||'''5''' ||[[Allan Anthony Costly]]
+|-
+|DF ||'''2''' ||[[Efraín Gutiérrez]]
+|-
+|DF ||'''3''' ||[[Jaime Villegas]]
+|-
+|DF ||'''17'''||[[José Luis Cruz|José Cruz]]
+|-
+|MF ||'''6''' ||[[Ramón Maradiaga]] ([[Captain (association football)|c]])
+|-
+|MF ||'''20'''||[[Gilberto Yearwood]]
+|-
+|MF ||'''15'''||[[Héctor Zelaya]]
+|-
+|MF ||'''10'''||[[José Roberto Figueroa|Macho Figueroa]]
+|-
+|FW ||'''13'''||[[Prudencio Norales]] || || {{suboff|58}}
+|-
+|FW ||'''9''' ||[[Porfirio Armando Betancourt|Armando Betancourt]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Salomón Nazar]]
+|-
+|FW ||'''7''' ||[[Eduardo Laing]] || || {{subon|58}}
+|-
+|MF ||'''8''' ||[[Francisco Javier Toledo]]
+|-
+|MF ||'''11'''||[[David Bueso]]
+|-
+|MF ||'''18'''||[[Carlos Orlando Caballero]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José de la Paz Herrera|Chelato Uclés]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pat Jennings]]
+|-
+|DF ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''3''' ||[[Mal Donaghy]]
+|-
+|DF ||'''5''' ||[[Chris Nicholl]]
+|-
+|DF ||'''12'''||[[John McClelland (footballer, born 1955)|John McClelland]]
+|-
+|MF ||'''4''' ||[[David McCreery]]
+|-
+|MF ||'''8''' ||[[Martin O'Neill]] ([[Captain (association football)|c]]) || || {{suboff|78}}
+|-
+|MF ||'''9''' ||[[Gerry Armstrong (footballer)|Gerry Armstrong]]
+|-
+|MF ||'''10'''||[[Sammy McIlroy]]
+|-
+|FW ||'''11'''||[[Billy Hamilton (footballer)|Billy Hamilton]]
+|-
+|FW ||'''16'''||[[Norman Whiteside]] || || {{suboff|66}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[John O'Neill (footballer, born 1958)|John O'Neill]]
+|-
+|MF ||'''7''' ||[[Noel Brotherston]] || || {{subon|66}}
+|-
+|DF ||'''13'''||[[Sammy Nelson]]
+|-
+|MF ||'''14'''||[[Tommy Cassidy]]
+|-
+|FW ||'''19'''||[[Felix Healy]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Billy Bingham]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Enrique Labo Revoredo]] ([[Peruvian Football Federation|Peru]])
+<br />[[Paolo Casarin]] ([[Italian Football Federation|Italy]])
+|}
+
+===Honduras vs Yugoslavia===
+<onlyinclude>{{#invoke:Football box|main|section=5-5
+|date={{Start date|1982|6|24|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|HON|1949}}
+|score={{score link|1982 FIFA World Cup Group 5#Honduras vs Yugoslavia|0–1}}
+|team2={{fb|YUG}}
+|goals1=
+|goals2=
+*[[Vladimir Petrović|Petrović]] {{goal|88|pen.}}
+|stadium=[[La Romareda]], [[Zaragoza]]
+|attendance=25,000
+|referee=[[Gastón Castro]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/962 |title=Honduras vs Yugoslavia {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=962/index.html |title=1982 FIFA World Cup Spain – Matches – Honduras v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202052849/http://www.fifa.com/worldcup/matches/round=293/match=962/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_blue_stripes
+ | pattern_b  = _2blueshoulderstripes
+ | pattern_ra = _shoulder_stripes_blue_stripes
+ | pattern_sh = _adidas_white
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 0000FF
+ | socks      = 
+ | title      = Honduras
+}}
+|{{Football kit
+ | pattern_la = _yug82h
+ | pattern_b  = _yug82h
+ | pattern_ra = _yug82h
+ | pattern_sh = _france86
+ | pattern_so = _3_stripes_white
+ | leftarm    = 2E3598
+ | body       = ffffff
+ | rightarm   = 2E3598
+ | shorts     = ffffff
+ | socks      = ef1717
+| title      = Yugoslavia
+
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Julio César Arzú]]
+|-
+|SW ||'''5''' ||[[Allan Anthony Costly]]
+|-
+|DF ||'''12'''||[[Domingo Drummond]]
+|-
+|DF ||'''3''' ||[[Jaime Villegas]]
+|-
+|DF ||'''4''' ||[[Fernando Bulnes]]
+|-
+|MF ||'''15'''||[[Héctor Zelaya]]
+|-
+|MF ||'''20'''||[[Gilberto Yearwood]] || {{sent off|0|89}}
+|-
+|MF ||'''6''' ||[[Ramón Maradiaga]] ([[Captain (association football)|c]]) || {{yel|85}}
+|-
+|MF ||'''14'''||[[Juan Cruz Murillo]] || || {{suboff|65}}
+|-
+|FW ||'''9''' ||[[Porfirio Armando Betancourt|Armando Betancourt]]
+|-
+|FW ||'''10'''||[[José Roberto Figueroa|Macho Figueroa]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||[[Salomón Nazar]]
+|-
+|FW ||'''7''' ||[[Eduardo Laing]] || || {{subon|65}}
+|-
+|MF ||'''8''' ||[[Francisco Javier Toledo]]
+|-
+|DF ||'''17'''||[[José Luis Cruz|José Cruz]]
+|-
+|MF ||'''18'''||[[Carlos Orlando Caballero]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José de la Paz Herrera|Chelato Uclés]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Dragan Pantelić]]
+|-
+|SW ||'''4''' ||[[Velimir Zajec]]
+|-
+|DF ||'''6''' ||[[Zlatko Krmpotić]] || {{yel|81}}
+|-
+|DF ||'''14'''||[[Nikola Jovanović (footballer, born 1952)|Nikola Jovanović]] || || {{suboff|46}}
+|-
+|DF ||'''5''' ||[[Nenad Stojković]]
+|-
+|MF ||'''8''' ||[[Edhem Šljivo]]
+|-
+|MF ||'''3''' ||[[Ivan Gudelj]]
+|-
+|MF ||'''20'''||[[Ivica Šurjak]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||[[Vladimir Petrović]]
+|-
+|FW ||'''11'''||[[Zlatko Vujović]] || || {{suboff|62}}
+|-
+|FW ||'''13'''||[[Safet Sušić]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[Ive Jerolimov]]
+|-
+|MF ||'''16'''||[[Miloš Šestić]] || || {{subon|62}}
+|-
+|DF ||'''17'''||[[Jurica Jerković]]
+|-
+|FW ||'''19'''||[[Vahid Halilhodžić]] || || {{subon|46}}
+|-
+|GK ||'''22'''||[[Ratko Svilar]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miljan Miljanić]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Luis Paulino Siles]] ([[Costa Rican Football Federation|Costa Rica]])
+<br />[[Arturo Ithurralde]] ([[Argentine Football Association|Argentina]])
+|}
+
+===Spain vs Northern Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=5-6
+|date={{Start date|1982|6|25|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|ESP}}
+|score={{score link|1982 FIFA World Cup Group 5#Spain vs Northern Ireland|0–1}}
+|team2={{fb|NIR}}
+|goals1=
+|goals2=
+*[[Gerry Armstrong (footballer)|Armstrong]] {{goal|47}}
+|stadium=[[Mestalla Stadium|Estadio Luis Casanova]], [[Valencia, Spain|Valencia]]
+|attendance=49,562
+|referee=[[Héctor Ortiz (referee)|Héctor Ortiz]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/59/293/902 |title=Northern Ireland vs Spain {{!}} Group Matches {{!}} 1982 FIFA World Cup Spain |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=293/match=902/index.html |title=1982 FIFA World Cup Spain – Matches – Northern Ireland v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230015033/http://www.fifa.com/worldcup/matches/round=293/match=902/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+{| width=92%
+|-
+|{{Football kit
+  |pattern_la  = _esp1982
+ |pattern_b   = _esp1982h
+ |pattern_ra  = _esp1982
+ |pattern_sh  = _esp_08
+ |pattern_so  = _esp1986
+ |leftarm     = ED1C24
+ |body        = ED1C24
+ |rightarm    = ED1C24
+ |shorts      = 0000CD
+ |socks       = 000000
+ | title      = Spain
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_green_stripes
+ | pattern_b  = _adidas_greenshoulder
+ | pattern_ra = _shoulder_stripes_green_stripes
+ | pattern_sh = _adidas_white
+ | pattern_so = _3_stripes_green
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 008020
+ | socks      = 
+ | title      = Northern Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Luis Arconada]] ([[Captain (association football)|c]])
+|-
+|SW ||'''6''' ||[[José Ramón Alexanko]]
+|-
+|DF ||'''2''' ||[[José Antonio Camacho]]
+|-
+|DF ||'''5''' ||[[Miguel Tendillo]]
+|-
+|DF ||'''3''' ||[[Rafael Gordillo]]
+|-
+|MF ||'''4''' ||[[Miguel Ángel Alonso|Periko Alonso]]
+|-
+|MF ||'''16'''||[[José Vicente Sánchez|Tente Sánchez]]
+|-
+|MF ||'''15'''||[[Enrique Saura]]
+|-
+|FW ||'''7''' ||[[Juanito (footballer, born 1954)|Juanito]] || {{yel|20}}
+|-
+|FW ||'''9'''||[[Jesús María Satrústegui]] || || {{suboff|46}}
+|-
+|FW ||'''11'''||[[Roberto López Ufarte]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''12'''||[[Santiago Urquiaga]]
+|-
+|DF ||'''14'''||[[Antonio Maceda]]
+|-
+|MF ||'''17'''||[[Ricardo Gallego]] || || {{subon|78}}
+|-
+|FW ||'''20'''||[[Quini]] || || {{subon|46}}
+|-
+|GK ||'''21'''||[[Javier Urruticoechea|Urruti]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[José Santamaría]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Pat Jennings]]
+|-
+|SW ||'''2''' ||[[Jimmy Nicholl]]
+|-
+|DF ||'''5''' ||[[Chris Nicholl]]
+|-
+|DF ||'''12'''||[[John McClelland (footballer, born 1955)|John McClelland]]
+|-
+|DF ||'''3''' ||[[Mal Donaghy]] {{sent off|0|60}}
+|-
+|MF ||'''8''' ||[[Martin O'Neill]] ([[Captain (association football)|c]])
+|-
+|MF ||'''10'''||[[Sammy McIlroy]] || {{yel|42}} || {{suboff|50}}
+|-
+|MF ||'''4''' ||[[David McCreery]]
+|-
+|MF ||'''9''' ||[[Gerry Armstrong (footballer)|Gerry Armstrong]]
+|-
+|FW ||'''16'''||[[Norman Whiteside]] || || {{suboff|73}}
+|-
+|FW ||'''11'''||[[Billy Hamilton (footballer)|Billy Hamilton]] || {{yel|41}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''13'''||[[Sammy Nelson]] || || {{subon|73}}
+|-
+|MF ||'''14'''||[[Tommy Cassidy]] || || {{subon|50}}
+|-
+|MF ||'''15'''||[[Tommy Finney]]
+|-
+|FW ||'''19'''||[[Felix Healy]]
+|-
+|GK ||'''22'''||[[George Dunlop (footballer)|George Dunlop]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Billy Bingham]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Enrique Labo Revoredo]] ([[Peruvian Football Federation|Peru]])
+<br />[[Alexis Ponnet]] ([[Royal Belgian Football Association|Belgium]])
+|}
+
+==See also==
+*[[Honduras at the FIFA World Cup]]
+*[[Northern Ireland at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+*[[Yugoslavia at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1982spain 1982 FIFA World Cup archive]
+* [https://digitalhub.fifa.com/m/2602c368daaad887/original/bn1ocpuvccw3txzmiut3-pdf.pdf Spain 1982 FIFA Technical Report: Statistical Details of the Matches pp. 124-128]
+
+{{1982 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 5}}
+[[Category:1982 FIFA World Cup group stage]]
+[[Category:Spain at the 1982 FIFA World Cup]]
+[[Category:Northern Ireland at the 1982 FIFA World Cup]]
+[[Category:Honduras at the 1982 FIFA World Cup]]
+[[Category:Yugoslavia at the 1982 FIFA World Cup]]
+[[Category:1980s in Valencia|World Cup]]
+[[Category:Football competitions in Valencia]]
+[[Category:1982 in the Valencian Community]]
+[[Category:1980s in Aragon]]
+[[Category:Football in Aragon]]
+[[Category:Sport in Zaragoza]]

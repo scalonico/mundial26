@@ -1,0 +1,638 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 4 of the [[1954 FIFA World Cup]]''' took place from 17 to 23 June 1954. The group consisted of [[Belgium national football team|Belgium]], [[England national football team|England]], [[Italy national football team|Italy]], and [[Switzerland national football team|Switzerland]].<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/54f.html |title=World Cup 1954 (Switzerland, June 16 – July 4) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=22 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|source=[https://web.archive.org/web/20150407143131/http://www.fifa.com/worldcup/archive/switzerland1954/groups/index.html FIFA]
+|update=complete
+|team1=ENG |team2=SUI |team3=ITA |team4=BEL
+
+|win_ENG=1 |draw_ENG=1 |loss_ENG=0 |gf_ENG= 6 |ga_ENG= 4
+|win_SUI=1 |draw_SUI=0 |loss_SUI=1 |gf_SUI= 2 |ga_SUI= 3
+|win_ITA=1 |draw_ITA=0 |loss_ITA=1 |gf_ITA= 5 |ga_ITA= 3
+|win_BEL=0 |draw_BEL=1 |loss_BEL=1 |gf_BEL= 5 |ga_BEL= 8
+
+|name_ENG={{fb|ENG}}
+|name_SUI={{fb|SUI|civil}}
+|name_ITA={{fb|ITA}}
+|name_BEL={{fb|BEL}}
+
+|winpoints=2
+|res_col_header=Q
+|result1=Q |result2=Q
+|col_Q=green1 |text_Q=Advance to the {{nowrap|[[1954 FIFA World Cup knockout stage|knockout stage]]}}
+|hth_SUI=Second place decided over through play-off: Switzerland 4–1 Italy
+|hth_ITA=SUI
+}}</onlyinclude>
+
+==Matches==
+All times listed are local time ([[Central European Time|CET]], [[UTC+01:00|UTC+1]]).
+
+===Switzerland vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1954|6|17|df=y}}
+|time=17:50
+|team1={{fb-rt|SUI|civil}}
+|score={{score link|1954 FIFA World Cup Group 4#Switzerland vs Italy|2–1}}
+|team2={{fb|ITA}}
+|goals1=
+*[[Robert Ballaman|Ballaman]] {{goal|18}}
+*[[Josef Hügi|Hügi]] {{goal|78}}
+|goals2=
+*[[Giampiero Boniperti|Boniperti]] {{goal|44}}
+|stadium=[[Stade Olympique de la Pontaise]], [[Lausanne]]
+|attendance=43,000
+|referee=[[Mário Vianna]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1300 |title=Switzerland vs Italy {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1300/index.html |title=1954 FIFA World Cup Switzerland – Matches – Switzerland v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219100446/http://www.fifa.com/worldcup/matches/round=211/match=1300/index.html |archive-date=19 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _old_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              =ff0000
+| shorts               = ffffff
+| socks                 =000000
+ | title           = Switzerland
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = 
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _skybluetop
+| leftarm           = 0099ff
+| body             = 0099ff
+| rightarm           = 0099ff
+| shorts             =  ffffff
+| socks              = 000000
+|title            =  Italy
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|
+|-
+| GK ||''' 2'''|| [[Eugène Parlier]]
+|-
+| DF ||''' 7'''|| [[André Neury]]
+|-
+| DF ||''' 14'''|| [[Willy Kernen]]
+|-
+| DF ||''' 5'''|| [[Marcel Flückiger]]
+|-
+| MF ||''' 4'''|| [[Roger Bocquet]] ([[Captain (association football)|c]])
+|-
+| MF ||''' 9'''|| [[Charles Casali]]
+|-
+| FW ||'''16'''|| [[Robert Ballaman]]
+|-
+| FW ||'''22'''|| [[Roger Vonlanthen]]
+|-
+| FW ||'''18'''|| [[Josef Hügi]]
+|-
+| FW ||'''20'''|| [[Eugen Meier (footballer)|Eugen Meier]]
+|-
+| FW ||'''17'''|| [[Jacques Fatton]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|AUT}} [[Karl Rappan]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| [[Giorgio Ghezzi]]
+|-
+| DF ||'''2'''|| [[Guido Vincenzi]]
+|-
+| DF ||'''3'''|| [[Giovanni Giacomazzi]]
+|-
+| MF ||'''4'''|| [[Maino Neri]]
+|-
+| MF ||'''5'''|| [[Omero Tognon]]
+|-
+| MF ||'''6'''|| [[Fulvio Nesti]]
+|-
+| FW ||'''7'''|| [[Ermes Muccinelli]]
+|-
+| FW ||'''19'''|| [[Giampiero Boniperti]] ([[Captain (association football)|c]])
+|-
+| FW ||'''9'''|| [[Carlo Galli (footballer)|Carlo Galli]]
+|-
+| FW ||'''8'''|| [[Egisto Pandolfini]]
+|-
+| FW ||'''11'''|| [[Benito Lorenzi]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|HUN|1949}} [[Lajos Czeizler]]
+|}
+{{col-end}}
+
+===England vs Belgium===
+
+England looked set for victory when they led 3-1 early in the second half. But defensive lapses handed their opponents two simple goals, which took the game into extra time. Nat Lofthouse then edged England back in front before an unlucky headed own goal by Jimmy Dickinson handed the Belgians a draw.<ref>[https://books.google.com/books?id=6B38AwAAQBAJ Google Books: 'England in the World Cup 1950-2014']</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1954|6|17|df=y}}
+|time=18:10
+|team1={{fb-rt|ENG}}
+|score={{score link|1954 FIFA World Cup Group 4#England vs Belgium|4–4}}
+|aet=yes
+|team2={{fb|BEL}}
+|goals1=
+*[[Ivor Broadis|Broadis]] {{goal|26||63}}
+*[[Nat Lofthouse|Lofthouse]] {{goal|36||91}}
+|goals2=
+*[[Léopold Anoul|Anoul]] {{goal|5||71}}
+*[[Henri Coppens|Coppens]] {{goal|67}}
+*[[Jimmy Dickinson|Dickinson]] {{goal|94|o.g.}}
+|stadium=[[St. Jakob Stadium]], [[Basel]]
+|attendance=14,000
+|referee=Emil Schmetzer ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1240 |title=England vs Belgium {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1240/index.html |title=1954 FIFA World Cup Switzerland – Matches – England v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171111143243/http://www.fifa.com/worldcup/matches/round=211/match=1240/index.html |archive-date=11 November 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _collar_buttons
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              =ffffff
+| shorts               =000066
+| socks                 = 000066
+ | title           = England
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _blackborder
+| pattern_b         = _collarblack_laced
+| pattern_ra        = _blackborder
+| pattern_sh        = 
+| pattern_so        = _2_gold_stripes
+| leftarm           = ff0000
+| body             =ff0000
+| rightarm           = ff0000
+| shorts             = 000000
+| socks              = 000000
+|title            =  Belgium
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Gil Merrick]]
+|-
+|RB ||'''2'''||[[Ron Staniforth]]
+|-
+|LB ||'''3''' ||[[Roger Byrne]]
+|-
+|RH ||'''4''' ||[[Billy Wright (footballer, born 1924)|Billy Wright]]  ([[Captain (association football)|c]])
+|-
+|CH ||'''5'''||[[Syd Owen]]
+|-
+|LH ||'''6''' ||[[Jimmy Dickinson]]
+|-
+|OR ||'''7''' ||[[Stanley Matthews]]
+|-
+|IR ||'''8''' ||[[Ivor Broadis]]
+|-
+|CF ||'''9''' ||[[Nat Lofthouse]]
+|-
+|IL ||'''10''' ||[[Tommy Taylor]]
+|-
+|OL ||'''11'''||[[Tom Finney]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4| {{flagicon|ENG}} [[Walter Winterbottom]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Léopold Gernaey]]
+|-
+|DF ||'''2'''||[[Marcel Dries]]
+|-
+|DF ||'''3''' ||[[Alfons Van Brandt]]
+|-
+|DF ||'''4''' ||[[Constant Huysmans]]
+|-
+|MF ||'''5''' ||[[Louis Carré (footballer)|Louis Carré]]
+|-
+|MF ||'''6''' ||[[Victor Mees]]
+|-
+|FW ||'''11''' ||[[Joseph Mermans]] ([[Captain (association football)|c]])
+|-
+|FW ||'''8'''||[[Denis Houf]]
+|-
+|FW ||'''9''' ||[[Henri Coppens]]
+|-
+|FW ||'''10''' ||[[Léopold Anoul]]
+|-
+|FW ||'''16'''||[[Pieter van den Bosch (footballer)|Pieter van den Bosch]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Doug Livingstone]]
+|}
+{{col-end}}
+
+===Italy vs Belgium===
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1954|6|20|df=y}}
+|time=17:00
+|team1={{fb-rt|ITA}}
+|score={{score link|1954 FIFA World Cup Group 4#Italy vs Belgium|4–1}}
+|team2={{fb|BEL}}
+|goals1=
+*[[Egisto Pandolfini|Pandolfini]] {{goal|41|pen.}}
+*[[Carlo Galli (footballer)|Galli]] {{goal|48}}
+*[[Amleto Frignani|Frignani]] {{goal|58}}
+*[[Benito Lorenzi|Lorenzi]] {{goal|78}}
+|goals2=
+*[[Léopold Anoul|Anoul]] {{goal|81}}
+|stadium=[[Cornaredo Stadium]], [[Lugano]]
+|attendance=24,000
+|referee=Carl Erich Steiner ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1243 |title=Italy vs Belgium {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1243/index.html |title=1954 FIFA World Cup Switzerland – Matches – Italy v Belgium |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171210014454/http://www.fifa.com/worldcup/matches/round=211/match=1243/index.html |archive-date=10 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = 
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _skybluetop
+| leftarm           = 0099ff
+| body             = 0099ff
+| rightarm           = 0099ff
+| shorts             =  ffffff
+| socks              = 000000
+|title            =  Italy
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _blackborder
+| pattern_b         = _collarblack_laced
+| pattern_ra        = _blackborder
+| pattern_sh        = 
+| pattern_so        = _2_gold_stripes
+| leftarm           = ff0000
+| body             =ff0000
+| rightarm           = ff0000
+| shorts             = 000000
+| socks              = 000000
+|title            =  Belgium
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|
+|-
+| GK ||'''1'''|| [[Giorgio Ghezzi]]
+|-
+| DF ||'''13'''|| [[Ardico Magnini]]
+|-
+| DF ||'''3'''|| [[Giovanni Giacomazzi]]
+|-
+| MF ||'''4'''|| [[Maino Neri]]
+|-
+| MF ||'''5'''|| [[Omero Tognon]]
+|-
+| MF ||'''6'''|| [[Fulvio Nesti]]
+|-
+| FW ||'''21'''|| [[Amleto Frignani]]
+|-
+| FW ||'''10'''|| [[Gino Cappello]]
+|-
+| FW ||'''9'''|| [[Carlo Galli (footballer)|Carlo Galli]]
+|-
+| FW ||'''8'''|| [[Egisto Pandolfini]] ([[Captain (association football)|c]])
+|-
+| FW ||'''11'''|| [[Benito Lorenzi]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|HUN|1949}} [[Lajos Czeizler]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Léopold Gernaey]]
+|-
+|DF ||'''2'''||[[Marcel Dries]]
+|-
+|DF ||'''3''' ||[[Alfons Van Brandt]]
+|-
+|DF ||'''4''' ||[[Constant Huysmans]]
+|-
+|MF ||'''5''' ||[[Louis Carré (footballer)|Louis Carré]]
+|-
+|MF ||'''6''' ||[[Victor Mees]]
+|-
+|FW ||'''11''' ||[[Joseph Mermans]] ([[Captain (association football)|c]])
+|-
+|FW ||'''10''' ||[[Léopold Anoul]]
+|-
+|FW ||'''9''' ||[[Henri Coppens]]
+|-
+|FW ||'''15'''||[[Hippolyte Van den Bosch]]
+|-
+|FW ||'''16'''||[[Pieter van den Bosch (footballer)|Pieter van den Bosch]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Doug Livingstone]]
+|}
+{{col-end}}
+
+===England vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1954|6|20|df=y}}
+|time=17:10
+|team1={{fb-rt|ENG}}
+|score={{score link|1954 FIFA World Cup Group 4#England vs Switzerland|2–0}}
+|team2={{fb|SUI|civil}}
+|goals1=
+*[[Jimmy Mullen (footballer born 1923)|Mullen]] {{goal|43}}
+*[[Dennis Wilshaw|Wilshaw]] {{goal|69}}
+|goals2=
+|stadium=[[Wankdorf Stadium]], [[Bern]]
+|attendance=43,500
+|referee=Istvan Zsolt ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1263 |title=England vs Switzerland {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1263/index.html |title=1954 FIFA World Cup Switzerland – Matches – England v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228004828/http://www.fifa.com/worldcup/matches/round=211/match=1263/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _collar_buttons
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              =ffffff
+| shorts               =000066
+| socks                 = 000066
+ | title           = England
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _old_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              =ff0000
+| shorts               = ffffff
+| socks                 =000000
+ | title           = Switzerland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|
+|-
+|GK ||'''1'''||[[Gil Merrick]]
+|-
+|RB ||'''2'''||[[Ron Staniforth]]
+|-
+|LB ||'''3''' ||[[Roger Byrne]]
+|-
+|RH ||'''14'''||[[Bill McGarry]]
+|-
+|CH ||'''4''' ||[[Billy Wright (footballer, born 1924)|Billy Wright]]  ([[Captain (association football)|c]])
+|-
+|LH ||'''6''' ||[[Jimmy Dickinson]]
+|-
+|OR ||'''11'''||[[Tom Finney]]
+|-
+|IR ||'''8''' ||[[Ivor Broadis]]
+|-
+|CF ||'''10''' ||[[Tommy Taylor]]
+|-
+|IL ||'''15''' ||[[Dennis Wilshaw]]
+|-
+|OL ||'''17''' ||[[Jimmy Mullen (footballer, born 1923)|Jimmy Mullen]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Walter Winterbottom]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2'''||[[Eugène Parlier]]
+|-
+|DF ||'''7'''||[[André Neury]]
+|-
+|DF ||'''4''' ||[[Roger Bocquet]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14''' ||[[Willy Kernen]]
+|-
+|MF ||'''10''' ||[[Oliver Eggimann]]
+|-
+|MF ||'''8''' ||[[Heinz Bigler (footballer, born 1925)|Heinz Bigler]]
+|-
+|FW ||'''20''' ||[[Eugen Meier (footballer)|Eugen Meier]]
+|-
+|FW ||'''22'''||[[Roger Vonlanthen]]
+|-
+|FW ||'''15''' ||[[Charles Antenen]]
+|-
+|FW ||'''16''' ||[[Robert Ballaman]]
+|-
+|FW ||'''17'''||[[Jacques Fatton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|AUT}} [[Karl Rappan]]
+|}
+{{col-end}}
+
+===Play-off: Switzerland vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=4-PO
+|date={{Start date|1954|6|23|df=y}}
+|time=18:00
+|team1={{fb-rt|SUI|civil}}
+|score={{score link|1954 FIFA World Cup Group 4#Play-off: Switzerland vs Italy|4–1}}
+|team2={{fb|ITA}}
+|goals1=
+*[[Josef Hügi|Hügi]] {{goal|14||85}}
+*[[Robert Ballaman|Ballaman]] {{goal|48}}
+*[[Jacques Fatton|Fatton]] {{goal|90}}
+|goals2=
+*[[Fulvio Nesti|Nesti]] {{goal|67}}
+|stadium=[[St. Jakob Stadium]], [[Basel]]
+|attendance=30,000
+|referee=Benjamin Griffiths ([[Football Association of Wales|Wales]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/211/1301 |title=Switzerland vs Italy {{!}} Group Matches {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=211/match=1301/index.html |title=1954 FIFA World Cup Switzerland – Matches – Switzerland v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171227061235/http://www.fifa.com/worldcup/matches/round=211/match=1301/index.html |archive-date=27 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b             = _old_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = ff0000
+| body                 = ff0000
+| rightarm              =ff0000
+| shorts               = ffffff
+| socks                 =000000
+ | title           = Switzerland
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = 
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _skybluetop
+| leftarm           = 0099ff
+| body             = 0099ff
+| rightarm           = 0099ff
+| shorts             =  ffffff
+| socks              = 000000
+|title            =  Italy
+}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|
+|-
+|GK ||'''2'''||[[Eugène Parlier]]
+|-
+|DF ||'''7'''||[[André Neury]]
+|-
+|DF ||'''4''' ||[[Roger Bocquet]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14''' ||[[Willy Kernen]]
+|-
+|MF ||'''10''' ||[[Oliver Eggimann]]
+|-
+|MF ||'''9''' ||[[Charles Casali]]
+|-
+|FW ||'''15''' ||[[Charles Antenen]]
+|-
+|FW ||'''22'''||[[Roger Vonlanthen]]
+|-
+|FW ||'''18''' ||[[Josef Hügi]]
+|-
+|FW ||'''16''' ||[[Robert Ballaman]]
+|-
+|FW ||'''17'''||[[Jacques Fatton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|AUT}} [[Karl Rappan]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''12'''|| [[Giovanni Viola]]
+|-
+| DF ||'''13'''|| [[Ardico Magnini]]
+|-
+| DF ||'''3'''|| [[Giovanni Giacomazzi]]
+|-
+| MF ||'''15'''|| [[Giacomo Mari]]
+|-
+| MF ||'''5'''|| [[Omero Tognon]]
+|-
+| MF ||'''6'''|| [[Fulvio Nesti]]
+|-
+| FW ||'''7'''|| [[Ermes Muccinelli]]
+|-
+| FW ||'''8'''|| [[Egisto Pandolfini]] ([[Captain (association football)|c]])
+|-
+| FW ||'''11'''|| [[Benito Lorenzi]]
+|-
+| FW ||'''17'''|| [[Armando Segato]]
+|-
+| FW ||'''21'''|| [[Amleto Frignani]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|HUN|1949}} [[Lajos Czeizler]]
+|}
+{{col-end}}
+
+==See also==
+*[[Belgium at the FIFA World Cup]]
+*[[England at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1954switzerland 1954 FIFA World Cup archive]
+
+{{1954 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 4}}
+[[Category:1954 FIFA World Cup group stage|4]]
+[[Category:England at the 1954 FIFA World Cup]]
+[[Category:Italy at the 1954 FIFA World Cup]]
+[[Category:Switzerland at the 1954 FIFA World Cup]]
+[[Category:Belgium at the 1954 FIFA World Cup]]
+[[Category:Sports competitions in Bern]]
+[[Category:Sports competitions in Basel]]
+[[Category:Sport in Lugano]]
+[[Category:Sports competitions in Lausanne]]
+[[Category:20th century in Bern]]
+[[Category:20th century in Basel]]
+[[Category:20th century in Lausanne]]
+[[Category:20th century in Lugano]]

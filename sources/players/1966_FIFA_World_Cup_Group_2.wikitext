@@ -1,0 +1,731 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 2 of the 1966 FIFA World Cup''' consisted of [[Argentina national football team|Argentina]], [[Germany national football team|West Germany]], [[Spain national football team|Spain]], and [[Switzerland national football team|Switzerland]]. Play began on 12 July 1966 and concluded on 20 July 1966. West Germany won the group and Argentina finished as runners-up, and both advanced to the quarter-finals. Spain and Switzerland failed to advance.<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/66f.html |title=World Cup 1966 (England, July 11–30) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=26 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150406162655/https://www.fifa.com/worldcup/archive/england1966/groups/index.html FIFA]
+
+|team1=FRG |team2=ARG |team3=ESP |team4=SUI
+|result1=A |result2=A
+
+|win_FRG=2 |draw_FRG=1 |loss_FRG=0 |gf_FRG=7 |ga_FRG=1
+|win_ARG=2 |draw_ARG=1 |loss_ARG=0 |gf_ARG=4 |ga_ARG=1
+|win_ESP=1 |draw_ESP=0 |loss_ESP=2 |gf_ESP=4 |ga_ESP=5
+|win_SUI=0 |draw_SUI=0 |loss_SUI=3 |gf_SUI=1 |ga_SUI=9
+
+|name_FRG={{fb|FRG}}
+|name_SUI={{fb|SUI}}
+|name_ARG={{fb|ARG|1861}}
+|name_ESP={{fb|ESP|1945}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1966 FIFA World Cup#Knockout stage|knockout stage]]}}
+|hth_FRG=West Germany finished ahead of Argentina on [[goal average]].
+|hth_ARG=FRG
+}}</onlyinclude>
+
+==Matches==
+
+===West Germany vs Switzerland===
+
+<onlyinclude>{{#invoke:Football box|main|section=2-1
+|date={{Start date|1966|7|12|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|FRG|name=West Germany}}
+|score={{score link|1966 FIFA World Cup Group 2#West Germany vs Switzerland|5–0}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Sigfried Held|Held]] {{goal|16}}
+*[[Helmut Haller|Haller]] {{goal|21||77|pen.}}
+*[[Franz Beckenbauer|Beckenbauer]] {{goal|40||52}}
+|goals2=
+|stadium=[[Hillsborough Stadium]], [[Sheffield]]
+|attendance=36,127
+|referee=[[Hugh Phillips (referee)|Hugh Phillips]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1656 |title=Germany FR vs Switzerland {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1656/index.html |title=1966 FIFA World Cup England – Matches – Germany FR v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220342/http://www.fifa.com/worldcup/matches/round=238/match=1656/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+|pattern_la = _blackborder
+|pattern_b  = _blackcollar
+|pattern_ra = _blackborder
+|pattern_sh =
+|pattern_so = _whitetop
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = 000000
+|socks      = 000000
+|title      = West Germany
+}}
+|{{Football kit
+|pattern_la = _whiteborder
+|pattern_b  = _CH classic1
+|pattern_ra = _whiteborder
+|pattern_sh = 
+|pattern_so = _2 red stripes
+|leftarm    = dd0000
+|body       = dd0000
+|rightarm   = dd0000
+|shorts     = ffffff
+|socks      = ffffff
+|title      = Switzerland
+}}
+|}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hans Tilkowski]]
+|-
+|RB ||'''2''' ||[[Horst-Dieter Höttges]]
+|-
+|CB ||'''5''' ||[[Willi Schulz]]
+|-
+|CB ||'''6''' ||[[Wolfgang Weber]]
+|-
+|LB ||'''3''' ||[[Karl-Heinz Schnellinger]]
+|-
+|SW ||'''4''' ||[[Franz Beckenbauer]]
+|-
+|CM ||'''12'''||[[Wolfgang Overath]]
+|-
+|CM ||'''8''' ||[[Helmut Haller]]
+|-
+|RW ||'''7'''||[[Albert Brülls]]
+|-
+|CF ||'''9''' ||[[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''||[[Sigfried Held]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Helmut Schön]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Karl Elsener (footballer)|Karl Elsener]]
+|-
+|RB ||'''9''' ||[[André Grobéty]]
+|-
+|CB ||'''18''' ||[[Heinz Schneiter]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20''' ||[[Ely Tacchella]]
+|-
+|LB ||'''7''' ||[[Hansruedi Führer]]
+|-
+|RH ||'''4''' ||[[Heinz Bäni]]
+|-
+|LH ||'''6''' ||[[Richard Dürr]]
+|-
+|OR ||'''15'''||[[Karl Odermatt]]
+|-
+|CF ||'''13'''||[[Fritz Künzli]]
+|-
+|CF ||'''10'''||[[Robert Hosp]]
+|-
+|OL ||'''17''' ||[[Jean-Claude Schindelholz]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|ITA|1946}} [[Alfredo Foni]]
+|}
+{{col-end}}
+
+===Argentina vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=2-2
+|date={{Start date|1966|7|13|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1966 FIFA World Cup Group 2#Argentina vs Spain|2–1}}
+|team2={{fb|ESP|1945}}
+|goals1=
+*[[Luis Artime|Artime]] {{goal|66||79}}
+|goals2=
+*[[Pirri]] {{goal|72}}
+|stadium=[[Villa Park]], [[Birmingham]]
+|attendance=42,738
+|referee=[[Dimitar Rumenchev]] ([[Bulgarian Football Union|Bulgaria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1578 |title=Argentina vs Spain {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1578/index.html |title=1966 FIFA World Cup England – Matches – Argentina v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211090311/http://www.fifa.com/worldcup/matches/round=238/match=1578/index.html |archive-date=11 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= _arg6669h
+|pattern_b= _arg6669H
+|pattern_ra= _arg6669h
+|pattern_sh= _whitesides
+|pattern_so= _arg6669h
+|leftarm= 
+|body= 
+|rightarm= 
+|shorts= 000000
+|socks= 707070
+|title = Argentina
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= 
+|pattern_b= _esp1959h
+|pattern_ra= 
+|pattern_sh= 
+|pattern_so= _esp3639h
+|leftarm= ED1C24
+|body= ED1C24
+|rightarm= ED1C24
+|shorts= 1172C1
+|socks= 000000
+| title   = Spain
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Antonio Roma]]
+|-
+|RB || '''8''' || [[Roberto Ferreiro]]
+|-
+|CB || '''4''' || [[Roberto Perfumo]]
+|-
+|CB || '''12''' || [[Rafael Albrecht]]
+|-
+|LB || '''7''' || [[Silvio Marzolini]]
+|-
+|CM || '''15''' || [[Jorge Solari]]
+|-
+|CM || '''10''' || [[Antonio Rattín]] ([[Captain (association football)|c]])
+|-
+|CM || '''16''' || [[Alberto Mario González|Alberto González]]
+|-
+|AM || '''20''' || [[Ermindo Onega]]
+|-
+|CF || '''19''' || [[Luis Artime]]
+|-
+|LW || '''21''' || [[Oscar Más]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Juan Carlos Lorenzo]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''|| [[José Ángel Iribar|José Iríbar]]
+|-
+|RB||'''2'''|| [[Manuel Sanchís]]
+|-
+|CB ||'''17''' || [[Gallego (footballer)|Gallego]]
+|-
+|CB ||'''5'''|| [[Ignacio Zoco]]
+|-
+|LB ||'''3'''|| [[Eladio Silvestre]]
+|-
+|CM ||'''10''' || [[Luis Suárez (footballer, born 1935)|Luis Suárez]]
+|-
+|CM ||'''18'''|| [[Pirri]]
+|-
+|CM ||'''4'''|| [[Luis Del Sol]]
+|-
+|RW ||'''7'''|| [[José Ufarte]]
+|-
+|CF || '''20'''|| [[Joaquín Peiró]]
+|-
+|LW ||'''11'''|| [[Francisco Gento]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[José Villalonga Llorente|José Villalonga]]
+|}
+{{col-end}}
+
+===Spain vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=2-3
+|date={{Start date|1966|7|15|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ESP|1945}}
+|score={{score link|1966 FIFA World Cup Group 2#Spain vs Switzerland|2–1}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Manuel Sanchís|Sanchís]] {{goal|57}}
+*[[Amancio Amaro|Amancio]] {{goal|75}}
+|goals2=
+*[[René-Pierre Quentin|Quentin]] {{goal|31}}
+|stadium=[[Hillsborough Stadium]], [[Sheffield]]
+|attendance=32,028
+|referee=[[Tofiq Bahramov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1641 |title=Spain vs Switzerland {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1641/index.html |title=1966 FIFA World Cup England – Matches – Spain v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171102170959/http://www.fifa.com/worldcup/matches/round=238/match=1641/index.html |archive-date=2 November 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= 
+|pattern_b= _esp1959h
+|pattern_ra= 
+|pattern_sh= 
+|pattern_so= _esp3639h
+|leftarm= ED1C24
+|body= ED1C24
+|rightarm= ED1C24
+|shorts= 1172C1
+|socks= 000000
+| title   = Spain
+}}
+|{{Football kit
+|pattern_la = _redborder
+|pattern_b  = _vneckred
+|pattern_ra = _redborder
+|pattern_sh = 
+|pattern_so = _2 red stripes
+|leftarm    = ffffff
+|body       = ffffff
+|rightarm   = ffffff
+|shorts     = dd0000
+|socks      = ffffff
+|title      = Switzerland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''|| [[José Ángel Iribar|José Iríbar]]
+|-
+|RB ||'''4'''|| [[Luis Del Sol]]
+|-
+|CB ||'''5'''|| [[Ignacio Zoco]]
+|-
+|CB||'''2'''|| [[Manuel Sanchís]]
+|-
+|LB ||'''15'''|| [[Severino Reija]]
+|-
+|MF ||'''17''' || [[Gallego (footballer)|Gallego]]
+|-
+|MF ||'''18'''|| [[Pirri]]
+|-
+|MF || '''20'''|| [[Joaquín Peiró]]
+|-
+|MF ||'''10''' || [[Luis Suárez (footballer, born 1935)|Luis Suárez]]
+|-
+|LW ||'''11'''|| [[Francisco Gento]] ([[Captain (association football)|c]])
+|-
+|OR ||'''8'''|| [[Amancio Amaro|Amancio]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[José Villalonga Llorente|José Villalonga]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Karl Elsener (footballer)|Karl Elsener]] ([[Captain (association football)|c]])
+|-
+|RB ||'''3''' ||[[Kurt Armbruster]]
+|-
+|CB ||'''5''' ||[[René Brodmann]] 
+|-
+|CB ||'''14''' ||[[Werner Leimgruber]]
+|-
+|CB ||'''19''' ||[[Xavier Stierli]]
+|-
+|LB ||'''7''' ||[[Hansruedi Führer]]
+|-
+|MF ||'''4''' ||[[Heinz Bäni]]
+|-
+|MF ||'''11'''||[[Köbi Kuhn]]
+|-
+|OR ||'''8'''||[[Vittore Gottardi]]
+|-
+|CF ||'''10'''||[[Robert Hosp]]
+|-
+|OL ||'''16''' ||[[René-Pierre Quentin]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| {{flagicon|ITA|1946}} [[Alfredo Foni]]
+|}
+{{col-end}}
+
+===Argentina vs West Germany===
+<onlyinclude>{{#invoke:Football box|main|section=2-4
+|date={{Start date|1966|7|16|df=y}}
+|time=15:00 [[British Summer Time|BST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1966 FIFA World Cup Group 2#Argentina vs West Germany|0–0}}
+|team2={{fb|FRG|name=West Germany}}
+|goals1=
+|goals2=
+|stadium=[[Villa Park]], [[Birmingham]]
+|attendance=46,587
+|referee=[[Konstantin Zečević]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1579 |title=Germany FR vs Argentina {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1579/index.html |title=1966 FIFA World Cup England – Matches – Germany FR v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214042818/http://www.fifa.com/worldcup/matches/round=238/match=1579/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= _arg6669h
+|pattern_b= _arg6669H
+|pattern_ra= _arg6669h
+|pattern_sh= _whitesides
+|pattern_so= _arg6669h
+|leftarm= 
+|body= 
+|rightarm= 
+|shorts= 000000
+|socks= 707070
+|title = Argentina
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= _blackborder
+|pattern_b= _blackcollar
+|pattern_ra= _blackborder
+|pattern_sh= 
+|pattern_so= 
+|leftarm= ffffff
+|body= ffffff
+|rightarm= ffffff
+|shorts= ffffff
+|socks= ffffff
+| title   = West Germany
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Antonio Roma]]
+|-
+|DF || '''8''' || [[Roberto Ferreiro]]
+|-
+|DF || '''4''' || [[Roberto Perfumo]]
+|-
+|DF || '''12''' || [[Rafael Albrecht]] || {{sentoff|0|65}}
+|-
+|DF || '''7''' || [[Silvio Marzolini]]
+|-
+|MF || '''10''' || [[Antonio Rattín]] ([[Captain (association football)|c]])
+|-
+|MF || '''15''' || [[Jorge Solari]]
+|-
+|MF || '''16''' || [[Alberto Mario González|Alberto González]]
+|-
+|FW || '''20''' || [[Ermindo Onega]]
+|-
+|FW || '''19''' || [[Luis Artime]]
+|-
+|FW || '''21''' || [[Oscar Más]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Juan Carlos Lorenzo]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''|| [[Hans Tilkowski]]
+|-
+|RB ||'''2''' || [[Horst Höttges]]
+|-
+|LB ||'''3'''|| [[Karl-Heinz Schnellinger]]
+|-
+|CB ||'''5'''|| [[Willi Schulz]]
+|-
+|CB ||'''6'''|| [[Wolfgang Weber]]
+|-
+|SW ||'''4'''|| [[Franz Beckenbauer]] || {{yel|48}}
+|-
+|CM ||'''12'''||[[Wolfgang Overath]]
+|-
+|CM ||'''8'''|| [[Helmut Haller]]
+|-
+|RW ||'''7'''|| [[Albert Brülls]]
+|-
+|FW ||'''9'''|| [[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''|| [[Siggi Held]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Helmut Schön]]
+|}
+{{col-end}}
+
+===Argentina vs Switzerland===
+<onlyinclude>{{#invoke:Football box|main|section=2-5
+|date={{Start date|1966|7|19|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1966 FIFA World Cup Group 2#Argentina vs Switzerland|2–0}}
+|team2={{fb|SUI}}
+|goals1=
+*[[Luis Artime|Artime]] {{goal|52}}
+*[[Ermindo Onega|Onega]] {{goal|79}}
+|goals2=
+|stadium=[[Hillsborough Stadium]], [[Sheffield]]
+|attendance=32,127
+|referee=[[Joaquim Campos]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1582 |title=Argentina vs Switzerland {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1582/index.html |title=1966 FIFA World Cup England – Matches – Argentina v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212024058/http://www.fifa.com/worldcup/matches/round=238/match=1582/index.html |archive-date=12 December 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+|pattern_la= _arg6669h
+|pattern_b= _arg6669H
+|pattern_ra= _arg6669h
+|pattern_sh= _whitesides
+|pattern_so= _arg6669h
+|leftarm= 
+|body= 
+|rightarm= 
+|shorts= 000000
+|socks= 707070
+|title = Argentina
+}}
+{{col-2}}
+{{Football kit
+|pattern_la= 
+|pattern_b= _CH classic1
+|pattern_ra= 
+|pattern_sh= 
+|pattern_so= _2_red_stripes
+|leftarm= dd0000
+|body= dd0000
+|rightarm= dd0000
+|shorts= ffffff
+|socks= ffffff
+| title   = Switzerland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Antonio Roma]]
+|-
+|DF || '''8''' || [[Roberto Ferreiro]]
+|-
+|DF || '''4''' || [[Roberto Perfumo]]
+|-
+|DF || '''6''' || [[Oscar Calics]]
+|-
+|DF || '''7''' || [[Silvio Marzolini]]
+|-
+|MF || '''10''' || [[Antonio Rattín]] ([[Captain (association football)|c]])
+|-
+|MF || '''15''' || [[Jorge Solari]]
+|-
+|MF || '''16''' || [[Alberto Mario González|Alberto González]]
+|-
+|FW || '''20''' || [[Ermindo Onega]]
+|-
+|FW || '''19''' || [[Luis Artime]]
+|-
+|FW || '''21''' || [[Oscar Más]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Juan Carlos Lorenzo]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''|| [[Leo Eichmann]]
+|-
+|DF ||'''5''' || [[René Brodmann]] ([[Captain (association football)|c]])
+|-
+|DF ||'''7'''|| [[Hansruedi Führer]]
+|-
+|DF ||'''19'''|| [[Xavier Stierli]]
+|-
+|DF ||'''3'''|| [[Kurt Armbruster]]
+|-
+|MF ||'''4'''|| [[Heinz Bäni]]
+|-
+|MF ||'''11'''|| [[Köbi Kuhn]]
+|-
+|MF ||'''8'''|| [[Vittore Gottardi]]
+|-
+|MF ||'''10'''|| [[Robert Hosp]]
+|-
+|FW ||'''13'''|| [[Fritz Künzli]]
+|-
+|FW ||'''16'''|| [[René-Pierre Quentin]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| {{flagicon|ITA|1946}} [[Alfredo Foni]]
+|}
+{{col-end}}
+
+===West Germany vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=2-6
+|date={{Start date|1966|7|20|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|FRG}}
+|score={{score link|1966 FIFA World Cup Group 2#West Germany vs Spain|2–1}}
+|team2={{fb|ESP|1945}}
+|goals1=
+*[[Lothar Emmerich|Emmerich]] {{goal|39}}
+*[[Uwe Seeler|Seeler]] {{goal|84}}
+|goals2=
+*[[Josep Maria Fusté|Fusté]] {{goal|23}}
+|stadium=[[Villa Park]], [[Birmingham]]
+|attendance=42,187
+|referee=[[Armando Marques (referee)|Armando Marques]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1637 |title=Germany FR vs Spain {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1637/index.html |title=1966 FIFA World Cup England – Matches – Germany FR v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170623011600/http://www.fifa.com/worldcup/matches/round=238/match=1637/index.html |archive-date=23 June 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = _blackborder
+| pattern_b  = _vneckblack
+| pattern_ra = _blackborder
+| pattern_so = 
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 000000
+| socks      = FFFFFF
+|title = West Germany
+}}
+{{col-2}}
+{{Football kit
+| pattern_la= 
+|pattern_b=_esp1959h
+|pattern_ra= 
+|pattern_sh= 
+|pattern_so=_esp1986
+| leftarm=ED1C24
+|body=ED1C24
+|rightarm=ED1C24
+|shorts=003060
+|socks=000000
+| title   = Spain
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1''' || [[Hans Tilkowski]]
+|-
+|DF || '''2''' || [[Horst-Dieter Höttges]]
+|-
+|DF || '''3''' || [[Karl-Heinz Schnellinger]]
+|-
+|DF || '''5''' || [[Willi Schulz]]
+|-
+|DF || '''6''' || [[Wolfgang Weber]]
+|-
+|MF || '''4''' || [[Franz Beckenbauer]]
+|-
+|MF || '''12''' || [[Wolfgang Overath]] || {{yel|46}}
+|-
+|FW || '''9''' || [[Uwe Seeler]] ([[Captain (association football)|c]])
+|-
+|FW || '''10''' || [[Sigfried Held]]
+|-
+|FW || '''11''' || [[Lothar Emmerich]]
+|-
+|FW || '''19''' || [[Werner Krämer]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Helmut Schön]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''|| [[José Ángel Iribar]]
+|-
+|DF ||'''2''' || [[Manuel Sanchís]]
+|-
+|DF ||'''15'''|| [[Severino Reija]]
+|-
+|MF ||'''21'''|| [[Adelardo Rodríguez]]
+|-
+|MF ||'''5'''|| [[Ignacio Zoco]] ([[Captain (association football)|c]])
+|-
+|MF ||'''6'''|| [[Jesús Glaría]] || {{yel|33}}
+|-
+|DF ||'''17'''|| [[Gallego (footballer)|Gallego]]
+|-
+|FW ||'''8'''|| [[Amancio Amaro]]
+|-
+|FW ||'''9'''|| [[Marcelino Martínez]]
+|-
+|MF ||'''19'''|| [[Josep Maria Fusté]]
+|-
+|FW ||'''22'''|| [[Carlos Lapetra]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[José Villalonga Llorente|José Villalonga]]
+|}
+{{col-end}}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Germany at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://web.archive.org/web/20210711165653/https://www.fifa.com/tournaments/mens/worldcup/1966england 1966 FIFA World Cup archive]
+
+{{1966 FIFA World Cup}}
+
+{{DEFAULTSORT:Group}}
+[[Category:1966 FIFA World Cup group stage|2]]
+[[Category:West Germany at the 1966 FIFA World Cup]]
+[[Category:Argentina at the 1966 FIFA World Cup]]
+[[Category:Spain at the 1966 FIFA World Cup]]
+[[Category:Switzerland at the 1966 FIFA World Cup]]
+[[Category:International sports competitions in Birmingham, West Midlands]]
+[[Category:1960s in Birmingham, West Midlands]]
+[[Category:Football in the West Midlands (county)]]
+[[Category:Sports competitions in Sheffield]]
+[[Category:1960s in Sheffield]]
+[[Category:Football in South Yorkshire]]
+[[Category:Football competitions in Yorkshire]]

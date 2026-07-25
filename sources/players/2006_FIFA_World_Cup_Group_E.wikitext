@@ -1,0 +1,937 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Group E of the [[2006 FIFA World Cup]] began on 12 June and completed on 22 June 2006. Eventual champions [[Italy national football team|Italy]] won the group and advanced to the round of 16 along with second-placed [[Ghana national football team|Ghana]]. The [[Czech Republic national football team|Czech Republic]] and the [[United States men's national soccer team|United States]] failed to advance.<ref>{{cite web |last=Saaid |first=Hamdan |url=https://www.rsssf.org/tables/2006full.html |title=World Cup 2006 – Match Details |publisher=[[RSSSF]] |date=7 February 2007 |access-date=30 April 2026}}</ref> Due to the calibre of the teams involved, this was one of two groups at the 2006 World Cup considered to be a [[group of death]] (along with [[2006 FIFA World Cup Group C|Group C]]).<ref>{{cite news |title=Groups of Death in World Cup History |url=https://www.si.com/soccer/2010/06/09/09-2groups-of-death-in-world-cup-history |website=SI.com |publisher=ABG-SI |date=9 June 2010 |accessdate=7 June 2022 }}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/en/match-centre/competition/17/season/9741?date=2006-06-23&tab=competitionStandings&prev=competition FIFA]
+|teamwidth=200
+
+|team1=ITA
+|team2=GHA
+|team3=CZE
+|team4=USA
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2006 FIFA World Cup#Ranking criteria|Tie-breaking criteria]]
+
+|win_ITA=2 |draw_ITA=1 |loss_ITA=0 |gf_ITA=5 |ga_ITA=1
+|win_GHA=2 |draw_GHA=0 |loss_GHA=1 |gf_GHA=4 |ga_GHA=3
+|win_CZE=1 |draw_CZE=0 |loss_CZE=2 |gf_CZE=3 |ga_CZE=4
+|win_USA=0 |draw_USA=1 |loss_USA=2 |gf_USA=2 |ga_USA=6
+
+|name_ITA={{fb|ITA|2003}}
+|name_GHA={{fb|GHA}}
+|name_CZE={{fb|CZE}}
+|name_USA={{fb|US|1960}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2006 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+* [[Italy national football team|Italy]] advanced to play [[Australia men's national soccer team|Australia]] (runners-up of [[2006 FIFA World Cup Group F|Group F]]) in the [[2006 FIFA World Cup knockout stage#Italy vs Australia|round of 16]].
+* [[Ghana national football team|Ghana]] advanced to play [[Brazil national football team|Brazil]] (winners of [[2006 FIFA World Cup Group F|Group F]]) in the [[2006 FIFA World Cup knockout stage#Brazil vs Ghana|round of 16]].
+
+==Matches==
+''All times local ([[Central European Summer Time|CEST/UTC+2]])''
+
+===United States vs Czech Republic===
+<onlyinclude>{{#invoke:Football box|main|section=E1
+|date={{Start date|2006|6|12|df=y}}
+|time=18:00
+|team1={{fb-rt|US|1960}}
+|score={{score link|2006 FIFA World Cup Group E#United States vs Czech Republic|0–3}}
+|team2={{fb|CZE}}
+|goals1=
+|goals2=
+*[[Jan Koller|Koller]] {{goal|5}}
+*[[Tomáš Rosický|Rosický]] {{goal|36||76}}
+|stadium=[[Arena AufSchalke]], [[Gelsenkirchen]]
+|attendance=52,000
+|referee=[[Carlos Amarilla]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410010 |title=United States vs Czechia {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410010/index.html |title=2006 FIFA World Cup Germany – Matches – USA v Czech Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171229071423/http://www.fifa.com/worldcup/matches/round=97410100/match=97410010/index.html |archive-date=29 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/10_0612_gel_usa-cze_fulltime__1150135553.pdf |title=Match Report – Group E – USA v Czech Republic |publisher=[[FIFA]] |date=12 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053853/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/10_0612_gel_usa-cze_fulltime__1150135553.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _usa06a2
+ |pattern_b  = _usa06a2
+ |pattern_ra = _usa06a2
+ |pattern_sh = _usa06h
+ |pattern_so = _usa06a2l
+ |leftarm    = 000040
+ |body       = 000040
+ |rightarm   = 000040
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = United States
+}}
+|{{Football kit
+| pattern_la            = _cze06a2
+| pattern_b             = _cze06a2
+| pattern_ra            = _cze06a2
+| pattern_sh            = _cze06h2
+| pattern_so            = _puma_2006_on_white
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = 0040F0
+| title      = {{nowrap|Czech Republic}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Kasey Keller]]
+|-
+|RB ||'''6''' ||[[Steve Cherundolo]] || || {{suboff|46}}
+|-
+|CB ||'''23'''||[[Eddie Pope]]
+|-
+|CB ||'''22'''||[[Oguchi Onyewu]] || {{yel|5}}
+|-
+|LB ||'''7''' ||[[Eddie Lewis (American soccer)|Eddie Lewis]]
+|-
+|RM ||'''17'''||[[DaMarcus Beasley]]
+|-
+|CM ||'''10'''||[[Claudio Reyna]] ([[Captain (association football)|c]]) || {{yel|60}}
+|-
+|CM ||'''4''' ||[[Pablo Mastroeni]] || || {{suboff|46}}
+|-
+|LM ||'''15'''||[[Bobby Convey]]
+|-
+|AM ||'''21'''||[[Landon Donovan]]
+|-
+|CF ||'''20'''||[[Brian McBride]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Eddie Johnson (American soccer)|Eddie Johnson]] || || {{subon|46}}
+|-
+|MF ||'''5''' ||[[John O'Brien (soccer)|John O'Brien]] || || {{subon|46}}
+|-
+|FW ||'''16'''||[[Josh Wolff]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|valign="top"| [[File:United States-Czech Republic line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Petr Čech]]
+|-
+|RB ||'''2''' ||[[Zdeněk Grygera]] || {{yel|88}}
+|-
+|CB ||'''21'''||[[Tomáš Ujfaluši]]
+|-
+|CB ||'''22'''||[[David Rozehnal]] || {{yel|16}}
+|-
+|LB ||'''6''' ||[[Marek Jankulovski]]
+|-
+|DM ||'''4''' ||[[Tomáš Galásek]] ([[Captain (association football)|c]])
+|-
+|RM ||'''8''' ||[[Karel Poborský]] || || {{suboff|82}}
+|-
+|CM ||'''10'''||[[Tomáš Rosický]] || {{yel|81}} || {{suboff|86}}
+|-
+|CM ||'''11'''||[[Pavel Nedvěd]]
+|-
+|LM ||'''20'''||[[Jaroslav Plašil]]
+|-
+|CF ||'''9''' ||[[Jan Koller]] || || {{suboff|45}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||[[Vratislav Lokvenc]] || {{yel|59}} || {{subon|45}}
+|-
+|MF ||'''19'''||[[Jan Polák]] || || {{subon|82}}
+|-
+|MF ||'''17'''||[[Jiří Štajner]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Karel Brückner]]
+|}
+|}
+{{wikinews|Czech Republic coast to 3-0 win over USA in Group E}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Tomáš Rosický]] (Czech Republic)
+
+'''Assistant referees:'''
+<br />Amelio Andino ([[Paraguayan Football Association|Paraguay]])
+<br />Bernal Manuel ([[Paraguayan Football Association|Paraguay]])
+<br />'''Fourth official:'''
+<br />Carlos Chandía ([[Football Federation of Chile|Chile]])
+<br />'''Fifth official:'''
+<br />Rodrigo González ([[Football Federation of Chile|Chile]])
+|}
+
+===Italy vs Ghana===
+<onlyinclude>{{#invoke:Football box|main|section=E2
+|date={{Start date|2006|6|12|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA|2003}}
+|score={{score link|2006 FIFA World Cup Group E#Italy vs Ghana|2–0}}
+|team2={{fb|GHA}}
+|goals1=
+*[[Andrea Pirlo|Pirlo]] {{goal|40}}
+*[[Vincenzo Iaquinta|Iaquinta]] {{goal|83}}
+|goals2=
+|stadium=[[Niedersachsenstadion]], [[Hanover]]
+|attendance=43,000
+|referee=[[Carlos Eugênio Simon|Carlos Simon]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410009 |title=Italy vs Ghana {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410009/index.html |title=2006 FIFA World Cup Germany – Matches – Italy v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211232436/http://www.fifa.com/worldcup/matches/round=97410100/match=97410009/index.html |archive-date=11 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/09_0612_han_ita-gha_fulltime__1150145721.pdf |title=Match Report – Group E – Italy v Ghana |publisher=[[FIFA]] |date=12 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413053905/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/09_0612_han_ita-gha_fulltime__1150145721.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _ita06h2
+| pattern_b             = _ita06h2
+| pattern_ra            = _ita06h2
+| pattern_sh            = _ita06a2
+| pattern_so            = _ita06h2l
+| leftarm               = 2050C0
+| body                  = 2050C0
+| rightarm              = 2050C0
+| shorts                = 2050C0
+| socks                 = 2050C0
+| title      = Italy
+}}
+|{{Football kit
+ | pattern_la            = _gha06h1
+| pattern_b             = _gha06h1
+| pattern_ra            = _gha06h1
+| pattern_sh            = _gha06h1
+| pattern_so            = _puma_2006_black
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+ |title      = Ghana
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''2''' ||[[Cristian Zaccardo]]
+|-
+|CB ||'''13'''||[[Alessandro Nesta]]
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Fabio Grosso]]
+|-
+|RM ||'''20'''||[[Simone Perrotta]]
+|-
+|CM ||'''21'''||[[Andrea Pirlo]]
+|-
+|LM ||'''4''' ||[[Daniele De Rossi]] || {{yel|10}}
+|-
+|AM ||'''10'''||[[Francesco Totti]] || || {{suboff|56}}
+|-
+|CF ||'''11'''||[[Alberto Gilardino]] || || {{suboff|64}}
+|-
+|CF ||'''9''' ||[[Luca Toni]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Mauro Camoranesi]] || {{yel|62}} || {{subon|56}}
+|-
+|FW ||'''15'''||[[Vincenzo Iaquinta]] || {{yel|88}} || {{subon|64}}
+|-
+|FW ||'''7''' ||[[Alessandro Del Piero]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcello Lippi]]
+|}
+|valign="top"|[[File:Italy-Ghana line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|RB ||'''15'''||[[John Paintsil]]
+|-
+|CB ||'''5''' ||[[John Mensah]]
+|-
+|CB ||'''4''' ||[[Samuel Kuffour]]
+|-
+|LB ||'''6''' ||[[Emmanuel Pappoe]] || || {{suboff|46}}
+|-
+|RM ||'''10'''||[[Stephen Appiah]] ([[Captain (association football)|c]])
+|-
+|CM ||'''18'''||[[Eric Addo]]
+|-
+|CM ||'''8''' ||[[Michael Essien]]
+|-
+|LM ||'''11'''||[[Sulley Muntari]] || {{yel|41}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] || {{yel|65}} || {{suboff|89}}
+|-
+|CF ||'''14'''||[[Matthew Amoah]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''7''' ||[[Illiasu Shilla]] || || {{subon|46}}
+|-
+|FW ||'''19'''||[[Razak Pimpong]] || || {{subon|68}}
+|-
+|FW ||'''12'''||[[Alex Tachie-Mensah]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCG}} [[Ratomir Dujković]]
+|}
+|}
+{{wikinews|Italy shut out Ghana for 2-0 win in Group E}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Andrea Pirlo]] (Italy)
+
+'''Assistant referees:'''
+<br />Aristeu Tavares ([[Brazilian Football Confederation|Brazil]])
+<br />Ednílson Corona ([[Brazilian Football Confederation|Brazil]])
+<br />'''Fourth official:'''
+<br />[[Khalil Al Ghamdi]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />'''Fifth official:'''
+<br />Hamdi Al Kadri ([[Syria Football Association|Syria]])
+|}
+
+===Czech Republic vs Ghana===
+[[Tomáš Ujfaluši]] was sent off in the 65th minute after tripping [[Matthew Amoah]] in the penalty box from behind. [[Asamoah Gyan]] took the penalty kick but struck the post and then received a yellow card for taking the shot without the referee's permission.<ref>{{cite web|title=Czech Republic 0-2 Ghana|url=https://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4853102.stm|website=BBC.co.uk|publisher=BBC|access-date=9 August 2014|date=17 June 2006}}</ref>
+<onlyinclude>{{#invoke:Football box|main|section=E3
+|date={{Start date|2006|6|17|df=y}}
+|time=18:00
+|team1={{fb-rt|CZE}}
+|score={{score link|2006 FIFA World Cup Group E#Czech Republic vs Ghana|0–2}}
+|team2={{fb|GHA}}
+|goals1=
+|goals2=
+*[[Asamoah Gyan|Gyan]] {{goal|2}}
+*[[Sulley Muntari|Muntari]] {{goal|82}}
+|stadium=[[RheinEnergieStadion]], [[Cologne]]
+|attendance=45,000
+|referee=[[Horacio Elizondo]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410026 |title=Czechia vs Ghana {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410026/index.html |title=2006 FIFA World Cup Germany – Matches – Czech Republic v Ghana |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171205140458/http://www.fifa.com/worldcup/matches/round=97410100/match=97410026/index.html |archive-date=5 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/26_0617_cgn_cze-gha_fulltime__1150567067.pdf |title=Match Report – Group E – Czech Republic v Ghana |publisher=[[FIFA]] |date=17 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054245/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/26_0617_cgn_cze-gha_fulltime__1150567067.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _cze06h2
+| pattern_b             = _cze06h2
+| pattern_ra            = _cze06h2
+| pattern_sh            = _cze06a2
+| pattern_so            = _puma_2006_white
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = 0040F0
+| socks                 = 0040F0
+| title      = {{nowrap|Czech Republic}}
+}}
+|{{Football kit
+ | pattern_la            = _gha06h1
+| pattern_b             = _gha06h1
+| pattern_ra            = _gha06h1
+| pattern_sh            = _gha06h1
+| pattern_so            = _puma_2006_black
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = FFFFFF
+ |title      = Ghana
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Petr Čech]]
+|-
+|RB ||'''2''' ||[[Zdeněk Grygera]]
+|-
+|CB ||'''21'''||[[Tomáš Ujfaluši]] || {{sent off|0|65}}
+|-
+|CB ||'''22'''||[[David Rozehnal]]
+|-
+|LB ||'''6''' ||[[Marek Jankulovski]]
+|-
+|DM ||'''4''' ||[[Tomáš Galásek]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|RM ||'''8''' ||[[Karel Poborský]] || || {{suboff|56}}
+|-
+|CM ||'''10'''||[[Tomáš Rosický]]
+|-
+|CM ||'''11'''||[[Pavel Nedvěd]]
+|-
+|LM ||'''20'''||[[Jaroslav Plašil]] || || {{suboff|68}}
+|-
+|CF ||'''12'''||[[Vratislav Lokvenc]] || {{yel|49}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Jan Polák]] || || {{subon|46}}
+|-
+|MF ||'''17'''||[[Jiří Štajner]] || || {{subon|56}}
+|-
+|FW ||'''7''' ||[[Libor Sionko]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Karel Brückner]]
+|}
+|valign="top"|[[File:CzechRepublic-Ghana line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|RB ||'''15'''||[[John Paintsil]]
+|-
+|CB ||'''5''' ||[[John Mensah]]
+|-
+|CB ||'''7''' ||[[Illiasu Shilla]]
+|-
+|LB ||'''13'''||[[Habib Mohamed (footballer, born 1983)|Habib Mohamed]] || {{yel|90+3}}
+|-
+|RM ||'''20'''||[[Otto Addo]] || {{yel|18}} || {{suboff|46}}
+|-
+|CM ||'''8''' ||[[Michael Essien]] || {{yel|37}}
+|-
+|CM ||'''10'''||[[Stephen Appiah]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Sulley Muntari]] || {{yel|84}}
+|-
+|CF ||'''14'''||[[Matthew Amoah]] || || {{suboff|80}}
+|-
+|CF ||'''3''' ||[[Asamoah Gyan]] || {{yel|66}} || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[Derek Boateng]] || {{yel|75}} || {{subon|46}}
+|-
+|MF ||'''18'''||[[Eric Addo]] || || {{subon|80}}
+|-
+|FW ||'''19'''||[[Razak Pimpong]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCG}} [[Ratomir Dujković]]
+|}
+|}
+{{wikinews|Ghana surge past Czech Republic in Group E}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Michael Essien]] (Ghana)
+
+'''Assistant referees:'''
+<br />Darío García ([[Argentine Football Association|Argentina]])
+<br />Rodolfo Otero ([[Argentine Football Association|Argentina]])
+<br />'''Fourth official:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''Fifth official:'''
+<br />Enock Molefe ([[South African Football Association|South Africa]])
+|}
+
+===Italy vs United States===
+Italy midfielder [[Daniele De Rossi]] was sent off in the 28th minute after elbowing U.S. striker [[Brian McBride]] in a rash challenge that left the American with blood all over his face and requiring three stitches under his left eye. FIFA banned De Rossi for four matches (allowing him to return in the final) and fined him 10,000 [[Swiss franc|CHF]] (£4,500).<ref>{{cite web|title=De Rossi slapped with four-match ban|url=https://www.theguardian.com/football/2006/jun/23/worldcup2006.sport24|website=TheGuardian.com|publisher=Guardian News and Media Limited|accessdate=7 August 2014|date=23 June 2006}}</ref>
+<onlyinclude>{{#invoke:Football box|main|section=E4
+|date={{Start date|2006|6|17|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA|2003}}
+|score={{score link|2006 FIFA World Cup Group E#Italy vs United States|1–1}}
+|team2={{fb|US|1960}}
+|goals1=
+*[[Alberto Gilardino|Gilardino]] {{goal|22}}
+|goals2=
+*[[Cristian Zaccardo|Zaccardo]] {{goal|27|o.g.}}
+|stadium=[[Fritz-Walter-Stadion]], [[Kaiserslautern]]
+|attendance=46,000
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410025 |title=Italy vs United States {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410025/index.html |title=2006 FIFA World Cup Germany – Matches – Italy v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217171956/http://www.fifa.com/worldcup/matches/round=97410100/match=97410025/index.html |archive-date=17 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/25_0617_kai_ita-usa_fulltime__1150577824.pdf |title=Match Report – Group E – Italy v USA |publisher=[[FIFA]] |date=17 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054252/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/25_0617_kai_ita-usa_fulltime__1150577824.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _ita06h2
+| pattern_b             = _ita06h2
+| pattern_ra            = _ita06h2
+| pattern_sh            = _ita06a2
+| pattern_so            = _ita06h2l
+| leftarm               = 2050C0
+| body                  = 2050C0
+| rightarm              = 2050C0
+| shorts                = 2050C0
+| socks                 = 2050C0
+ |title      = Italy
+}}
+|{{Football kit
+| pattern_la            = _usa06h2
+| pattern_b             = _usa06h2
+| pattern_ra            = _usa06h2
+| pattern_sh            = _usa06h
+| pattern_so            = _usa06h2l
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = 000040
+| socks                 = FFFFFF
+ |title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''2''' ||[[Cristian Zaccardo]] || || {{suboff|54}}
+|-
+|CB ||'''13'''||[[Alessandro Nesta]]
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|LB ||'''19'''||[[Gianluca Zambrotta]] || {{yel|70}}
+|-
+|RM ||'''20'''||[[Simone Perrotta]]
+|-
+|CM ||'''21'''||[[Andrea Pirlo]]
+|-
+|LM ||'''4''' ||[[Daniele De Rossi]] || {{sent off|0|28}}
+|-
+|AM ||'''10'''||[[Francesco Totti]] || {{yel|5}} || {{suboff|35}}
+|-
+|CF ||'''9''' ||[[Luca Toni]] || || {{suboff|61}}
+|-
+|CF ||'''11'''||[[Alberto Gilardino]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Gennaro Gattuso]] || || {{subon|35}}
+|-
+|FW ||'''7''' ||[[Alessandro Del Piero]] || || {{subon|54}}
+|-
+|FW ||'''15'''||[[Vincenzo Iaquinta]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcello Lippi]]
+|}
+|valign="top"|[[File:Italy-USA line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Kasey Keller]]
+|-
+|RB ||'''6''' ||[[Steve Cherundolo]]
+|-
+|CB ||'''23'''||[[Eddie Pope]] || {{sent off|2|21|47}}
+|-
+|CB ||'''22'''||[[Oguchi Onyewu]]
+|-
+|LB ||'''3''' ||[[Carlos Bocanegra]]
+|-
+|RM ||'''8''' ||[[Clint Dempsey]] || || {{suboff|62}}
+|-
+|CM ||'''10'''||[[Claudio Reyna]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||[[Pablo Mastroeni]] || {{sent off|0|45}}
+|-
+|LM ||'''15'''||[[Bobby Convey]] || || {{suboff|52}}
+|-
+|CF ||'''21'''||[[Landon Donovan]]
+|-
+|CF ||'''20'''||[[Brian McBride]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Jimmy Conrad]] || || {{subon|52}}
+|-
+|MF ||'''17'''||[[DaMarcus Beasley]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|}
+{{wikinews|USA hold Italy to 1-1 draw in Group E}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Kasey Keller]] (United States)
+
+'''Assistant referees:'''
+<br />Wálter Rial ([[Uruguayan Football Association|Uruguay]])
+<br />Pablo Fandino ([[Uruguayan Football Association|Uruguay]])
+<br />'''Fourth official:'''
+<br />[[Khalil Al Ghamdi]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+<br />'''Fifth official:'''
+<br />Hamdi Al Kadri ([[Syria Football Association|Syria]])
+|}
+
+===Czech Republic vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=E5
+|date={{Start date|2006|6|22|df=y}}
+|time=16:00
+|team1={{fb-rt|CZE}}
+|score={{score link|2006 FIFA World Cup Group E#Czech Republic vs Italy|0–2}}
+|team2={{fb|ITA|2003}}
+|goals1=
+|goals2=
+*[[Marco Materazzi|Materazzi]] {{goal|26}}
+*[[Filippo Inzaghi|Inzaghi]] {{goal|87}}
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=50,000
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410041 |title=Czechia vs Italy {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410041/index.html |title=2006 FIFA World Cup Germany – Matches – Czech Republic v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217175911/http://www.fifa.com/worldcup/matches/round=97410100/match=97410041/index.html |archive-date=17 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/41_0622_hag_cze-ita_fulltime__1150991628.pdf |title=Match Report – Group E – Czech Republic v Italy |publisher=[[FIFA]] |date=22 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054655/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/41_0622_hag_cze-ita_fulltime__1150991628.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _cze06a2
+| pattern_b             = _cze06a2
+| pattern_ra            = _cze06a2
+| pattern_sh            = _cze06h2
+| pattern_so            = _puma_2006_on_white
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = FFFFFF
+| socks                 = 0040F0
+| title      = {{nowrap|Czech Republic}}
+}}
+|{{Football kit
+| pattern_la            = _ita06h2
+| pattern_b             = _ita06h2
+| pattern_ra            = _ita06h2
+| pattern_sh            = _ita06a2
+| pattern_so            = _ita06h2l
+| leftarm               = 2050C0
+| body                  = 2050C0
+| rightarm              = 2050C0
+| shorts                = 2050C0
+| socks                 = 2050C0
+| title=Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Petr Čech]]
+|-
+|RB ||'''2''' ||[[Zdeněk Grygera]]
+|-
+|CB ||'''5''' ||[[Radoslav Kováč]] || || {{suboff|78}}
+|-
+|CB ||'''22'''||[[David Rozehnal]]
+|-
+|LB ||'''6''' ||[[Marek Jankulovski]]
+|-
+|DM ||'''19'''||[[Jan Polák]] || {{sent off|2|35|45+2}}
+|-
+|RM ||'''8''' ||[[Karel Poborský]] || || {{suboff|46}}
+|-
+|CM ||'''10'''||[[Tomáš Rosický]]
+|-
+|CM ||'''11'''||[[Pavel Nedvěd]] ([[Captain (association football)|c]])
+|-
+|LM ||'''20'''||[[Jaroslav Plašil]]
+|-
+|CF ||'''15'''||[[Milan Baroš]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''17'''||[[Jiří Štajner]] || || {{subon|46}}
+|-
+|MF ||'''14'''||[[David Jarolím]] || || {{subon|64}}
+|-
+|FW ||'''18'''||[[Marek Heinz]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Karel Brückner]]
+|}
+|valign="top"|[[File:CzechRepublic-Italy line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]]
+|-
+|RB ||'''19'''||[[Gianluca Zambrotta]]
+|-
+|CB ||'''13'''||[[Alessandro Nesta]] || || {{suboff|17}}
+|-
+|CB ||'''5''' ||[[Fabio Cannavaro]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||[[Fabio Grosso]]
+|-
+|RM ||'''8''' ||[[Gennaro Gattuso]] || {{yel|31}}
+|-
+|CM ||'''21'''||[[Andrea Pirlo]]
+|-
+|LM ||'''20'''||[[Simone Perrotta]]
+|-
+|AM ||'''16'''||[[Mauro Camoranesi]] || || {{suboff|74}}
+|-
+|AM ||'''10'''||[[Francesco Totti]]
+|-
+|CF ||'''11'''||[[Alberto Gilardino]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''23'''||[[Marco Materazzi]] || || {{subon|17}}
+|-
+|FW ||'''18'''||[[Filippo Inzaghi]] || || {{subon|60}}
+|-
+|MF ||'''17'''||[[Simone Barone]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Marcello Lippi]]
+|}
+|}
+{{wikinews|Italy sink Czech Republic 2-0 in Group E}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Marco Materazzi]] (Italy)
+
+'''Assistant referees:'''
+<br />José Ramírez ([[Mexican Football Federation|Mexico]])
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])
+<br />'''Fourth official:'''
+<br />[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+<br />'''Fifth official:'''
+<br />José Navia ([[Colombian Football Federation|Colombia]])
+|}
+
+===Ghana vs United States===
+<onlyinclude>{{#invoke:Football box|main|section=E6
+|date={{Start date|2006|6|22|df=y}}
+|time=16:00
+|team1={{fb-rt|GHA}}
+|score={{score link|2006 FIFA World Cup Group E#Ghana vs United States|2–1}}
+|team2={{fb|US|1960}}
+|goals1=
+*[[Haminu Draman|Draman]] {{goal|22}}
+*[[Stephen Appiah|Appiah]] {{goal|45+2|pen.}}
+|goals2=
+*[[Clint Dempsey|Dempsey]] {{goal|43}}
+|stadium=[[Max-Morlock-Stadion|Frankenstadion]], [[Nuremberg]]
+|attendance=41,000
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9741/10172/97410042 |title=Ghana vs United States {{!}} First stage {{!}} 2006 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=97410100/match=97410042/index.html |title=2006 FIFA World Cup Germany – Matches – Ghana v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228212508/http://www.fifa.com/worldcup/matches/round=97410100/match=97410042/index.html |archive-date=28 December 2017}} | {{cite web |url=http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/42_0622_nur_gha-usa_fulltime__1150992223.pdf |title=Match Report – Group E – Ghana v USA |publisher=[[FIFA]] |date=22 June 2006 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413054628/http://us.i1.yimg.com/us.yimg.com/i/fifa/06/w/pdf/42_0622_nur_gha-usa_fulltime__1150992223.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la            = _gha06a1
+| pattern_b             = _gha06a1
+| pattern_ra            = _gha06a1
+| pattern_sh            = _gha06a1
+| pattern_so            = _puma_2006_yellow
+| leftarm               = FF0000
+| body                  = FF0000
+| rightarm              = FF0000
+| shorts                = FF0000
+| socks                 = FF0000
+ |title      = Ghana
+}}
+|{{Football kit
+| pattern_la            = _usa06h2
+| pattern_b             = _usa06h2
+| pattern_ra            = _usa06h2
+| pattern_sh            = _usa06h
+| pattern_so            = _usa06h2l
+| leftarm               = FFFFFF
+| body                  = FFFFFF
+| rightarm              = FFFFFF
+| shorts                = 000040
+| socks                 = FFFFFF
+ |title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Richard Kingson]]
+|-
+|RB ||'''15'''||[[John Paintsil]]
+|-
+|CB ||'''5''' ||[[John Mensah]] || {{yel|81}}
+|-
+|CB ||'''7''' ||[[Illiasu Shilla]] || {{yel|32}}
+|-
+|LB ||'''13'''||[[Habib Mohamed (footballer, born 1983)|Habib Mohamed]]
+|-
+|RM ||'''9''' ||[[Derek Boateng]] || || {{suboff|46}}
+|-
+|CM ||'''10'''||[[Stephen Appiah]] ([[Captain (association football)|c]]) || {{yel|90+1}}
+|-
+|CM ||'''8''' ||[[Michael Essien]] || {{yel|5}}
+|-
+|LM ||'''23'''||[[Haminu Draman]] || || {{suboff|80}}
+|-
+|CF ||'''14'''||[[Matthew Amoah]] || || {{suboff|59}}
+|-
+|CF ||'''19'''||[[Razak Pimpong]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Otto Addo]] || || {{subon|46}}
+|-
+|MF ||'''18'''||[[Eric Addo]] || || {{subon|59}}
+|-
+|FW ||'''12'''||[[Alex Tachie-Mensah]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCG}} [[Ratomir Dujković]]
+|}
+|valign="top"|[[File:Ghana-USA line-up.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Kasey Keller]]
+|-
+|RB ||'''6''' ||[[Steve Cherundolo]] || || {{suboff|61}}
+|-
+|CB ||'''22'''||[[Oguchi Onyewu]]
+|-
+|CB ||'''13'''||[[Jimmy Conrad]]
+|-
+|LB ||'''3''' ||[[Carlos Bocanegra]]
+|-
+|RM ||'''8''' ||[[Clint Dempsey]]
+|-
+|CM ||'''21'''||[[Landon Donovan]]
+|-
+|CM ||'''10'''||[[Claudio Reyna]] ([[Captain (association football)|c]]) || || {{suboff|40}}
+|-
+|CM ||'''17'''||[[DaMarcus Beasley]]
+|-
+|LM ||'''7''' ||[[Eddie Lewis (American soccer)|Eddie Lewis]] || {{yel|7}} || {{suboff|74}}
+|-
+|CF ||'''20'''||[[Brian McBride]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Ben Olsen]] || || {{subon|40}}
+|-
+|FW ||'''9''' ||[[Eddie Johnson (American soccer)|Eddie Johnson]] || || {{subon|61}}
+|-
+|MF ||'''15'''||[[Bobby Convey]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bruce Arena]]
+|}
+|}
+{{wikinews|Ghana beat United States of America 2-1 in Group E}}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Stephen Appiah]] (Ghana)
+
+'''Assistant referees:'''
+<br />Christian Schräer ([[German Football Association|Germany]])
+<br />Jan-Hendrik Salver ([[German Football Association|Germany]])
+<br />'''Fourth official:'''
+<br />[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+<br />'''Fifth official:'''
+<br />Yoshikazu Hiroshima ([[Japan Football Association|Japan]])
+|}
+
+==See also==
+*[[Czech Republic at the FIFA World Cup]]
+*[[Ghana at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[United States at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2006 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:2006 FIFA World Cup group stage|E]]
+[[Category:Italy at the 2006 FIFA World Cup|Group]]
+[[Category:United States at the 2006 FIFA World Cup|Group]]
+[[Category:Czech Republic at the 2006 FIFA World Cup]]
+[[Category:Ghana at the 2006 FIFA World Cup|Group]]
+[[Category:Football in North Rhine-Westphalia]]
+[[Category:2000s in North Rhine-Westphalia]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:21st century in Gelsenkirchen]]
+[[Category:Football in Lower Saxony]]
+[[Category:Sports competitions in Hanover]]
+[[Category:21st century in Hanover]]
+[[Category:2000s in Lower Saxony]]
+[[Category:Sports competitions in Cologne]]
+[[Category:2000s in Cologne]]
+[[Category:Kaiserslautern]]
+[[Category:Football in Rhineland-Palatinate]]
+[[Category:21st century in Rhineland-Palatinate]]
+[[Category:Football competitions in Hamburg]]
+[[Category:2000s in Hamburg]]
+[[Category:2006 in Bavaria]]
+[[Category:Football in Middle Franconia]]
+[[Category:Sports competitions in Nuremberg]]
+[[Category:21st century in Nuremberg]]

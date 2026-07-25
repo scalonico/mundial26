@@ -1,0 +1,889 @@
+{{Short description|Stage of the football World Cup}}
+{{Use dmy dates|date=May 2018}}
+The knockout stage of the [[1962 FIFA World Cup]] was the second and final stage of the competition, following the group stage. The knockout stage began on 10 June with the quarter-finals and ended on 17 June 1962 with the [[1962 FIFA World Cup final|final match]], held at the [[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]] in [[Santiago]]. The top two teams from each group (eight in total) advanced to the knockout stage to compete in a [[Single-elimination tournament|single-elimination]] style tournament. A match for third place also was played between the two losing teams of the semi-finals.
+
+[[Brazil national football team|Brazil]] won the final 3–1 against [[Czechoslovakia national football team|Czechoslovakia]] for their second World Cup title.<ref>{{cite news |url=https://www.fifa.com/worldcup/news/y=2007/m=3/news=brazil-flying-high-with-little-bird-garrincha-502112.html |archive-url=https://web.archive.org/web/20150406194745/http://www.fifa.com/worldcup/news/y=2007/m=3/news=brazil-flying-high-with-little-bird-garrincha-502112.html |url-status=dead |archive-date=6 April 2015 |title=Brazil flying high with 'Little Bird' Garrincha |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=March 2007 |access-date=3 January 2018}}</ref>
+
+==Qualified teams==
+The top two placed teams from each of the four groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+|-
+! [[1962 FIFA World Cup Group 1|1]]
+| {{fb|URS|1955}}
+| {{fb|YUG}}
+|-
+! [[1962 FIFA World Cup Group 2|2]]
+| {{fb|FRG}}
+| {{fb|CHI}}
+|-
+! [[1962 FIFA World Cup Group 3|3]]
+| {{fb|BRA|1960}}
+| {{fb|TCH}}
+|-
+! [[1962 FIFA World Cup Group 4|4]]
+| {{fb|HUN}}
+| {{fb|ENG}}
+|}
+
+==Bracket==
+<section begin=Bracket />{{Round8
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+|RD1=[[#Quarter-finals|Quarter-finals]]
+|RD2=[[#Semi-finals|Semi-finals]]
+|RD3=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- quarter-finals -->
+|10 June – [[Arica]] |{{fb|URS|1955}}|1|'''{{fb|CHI}}'''|'''2'''
+|10 June – [[Viña del Mar]] |'''{{fb|BRA|1960}}'''|'''3'''|{{fb|ENG}}|1
+|10 June – [[Santiago]] |{{fb|FRG}}|0|'''{{fb|YUG}}'''|'''1'''
+|10 June – [[Rancagua]] |{{fb|HUN}}|0|'''{{fb|TCH}}'''|'''1'''
+<!-- semi-finals -->
+|13 June – [[Santiago]] |{{fb|CHI}}|2|'''{{fb|BRA|1960}}'''|'''4'''
+|13 June – [[Viña del Mar]] |{{fb|YUG}}|1|'''{{fb|TCH}}'''|'''3'''
+<!-- final -->
+|17 June – [[Santiago]] |'''{{fb|BRA|1960}}'''|'''3'''|{{fb|TCH}}|1
+<!-- third place -->
+|16 June – [[Santiago]] |'''{{fb|CHI}}'''|'''1'''|{{fb|YUG}}|0
+|consol=Third|3rdplace=yes
+|style=white-space:nowrap
+}}<section end=Bracket />
+
+==Quarter-finals==
+
+===Chile vs Soviet Union===
+Eleven minutes into the game [[Leonel Sánchez]] opened the score with a free kick from wide on the right that surprised [[Lev Yashin]] at the near post. [[Igor Chislenko]] equalized for the Soviet Union after picking up a deflected shot by [[Viktor Ponedelnik]] but almost immediately [[Eladio Rojas (footballer, born 1934)|Eladio Rojas]] scored with an excellent low shot from distance. Chile managed to hold on to the result.<ref name="lingua">{{usurped|1=[https://web.archive.org/web/20170509015505/http://www.linguasport.com/futbol/internacional/mundial/1962_CHILE_FS.htm World Cup 1962 Final Stage: Game Details]}}</ref><ref>[https://www.youtube.com/watch?v=exZvU-QQ9eE Chile vs Soviet Union on YouTube]</ref>
+
+<section begin=QF1 />{{Football box
+|date={{Start date|1962|6|10|df=y}}
+|time=14:30 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|CHI}}
+|score={{score link|1962 FIFA World Cup knockout stage#Chile vs Soviet Union|2–1}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Leonel Sánchez|L. Sánchez]] {{goal|11}}
+*[[Eladio Rojas (footballer, born 1934)|Rojas]] {{goal|29}}
+|goals2=
+*[[Igor Chislenko|Chislenko]] {{goal|26}}
+|stadium=[[Estadio Carlos Dittborn]], [[Arica, Chile|Arica]]
+|attendance=17,268
+|referee=[[Leo Horn]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/232/1474 |title=Chile vs Soviet Union {{!}} Quarter-final {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=232/match=1474/index.html |title=1962 FIFA World Cup Chile – Matches – Chile v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170727093450/http://www.fifa.com/worldcup/matches/round=232/match=1474/index.html |archive-date=27 July 2017}} }}</ref>
+}}<section end=QF1 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| filetype = svg
+| pattern_la           =  
+| pattern_b            = _chile1962a
+| pattern_ra           = 
+| pattern_sh           = _whitesides
+| pattern_so           = 
+| leftarm              = ffffff
+| body                 =  ffffff
+| rightarm             = ffffff 
+| shorts               = 000099
+| socks                = ffffff
+| title           = Chile
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sovietunion70
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _2 white stripes
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Misael Escuti]]
+|-
+|RB ||'''2''' ||[[Luis Eyzaguirre]]
+|-
+|CB ||'''5''' ||[[Carlos Contreras (footballer, born 1938)|Carlos Contreras]]
+|-
+|CB ||'''3''' ||[[Raúl Sánchez (footballer, born 1933)|Raúl Sánchez]]
+|-
+|LB ||'''4''' ||[[Sergio Navarro (footballer, born 1936)|Sergio Navarro]] ([[Captain (association football)|c]])
+|-
+|RH ||'''8''' ||[[Jorge Toro]]
+|-
+|LH ||'''6''' ||[[Eladio Rojas (footballer, born 1934)|Eladio Rojas]]
+|-
+|OR ||'''7'''||[[Jaime Ramírez (footballer, born 1931)|Jaime Ramírez]]
+|-
+|IR ||'''9'''||[[Honorino Landa]]
+|-
+|IL ||'''21'''||[[Armando Tobar]]
+|-
+|OL ||'''11''' ||[[Leonel Sánchez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Fernando Riera]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lev Yashin]]
+|-
+|RB ||'''5''' ||[[Givi Chokheli]]
+|-
+|CB ||'''7''' ||[[Anatoli Maslyonkin]]
+|-
+|LB ||'''6''' ||[[Leonīds Ostrovskis]]
+|-
+|RH ||'''12''' ||[[Valery Voronin]]
+|-
+|LH ||'''10''' ||[[Igor Netto]] ([[Captain (association football)|c]])
+|-
+|OR ||'''22''' ||[[Igor Chislenko]]
+|-
+|IR ||'''14'''||[[Valentin Ivanov (footballer, born 1934)|Valentin Ivanov]]
+|-
+|CF ||'''19'''||[[Viktor Ponedelnik]]
+|-
+|IL ||'''16'''||[[Aleksei Mamykin]]
+|-
+|OL ||'''17''' ||[[Mikheil Meskhi]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Gavriil Kachalin]]
+|}
+{{col-end}}
+
+===Czechoslovakia vs Hungary===
+In the first half a through-ball from [[Josef Masopust|Masopust]] cut out the Hungarian defense for [[Adolf Scherer|Scherer]] to score. After that [[Viliam Schrojf|Schrojf]] made several saves to deny a Hungarian goal. [[Lajos Tichy|Tichy]] once hit the bar but couldn't score.<ref name="lingua" /><ref>[https://www.youtube.com/watch?v=NqULbl0RtpY Czechoslovakia vs Hungary on YouTube]</ref>
+
+<section begin=QF2 />{{Football box
+|date={{Start date|1962|6|10|df=y}}
+|time=14:30 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|TCH}}
+|score={{score link|1962 FIFA World Cup knockout stage#Czechoslovakia vs Hungary|1–0}}
+|team2={{fb|HUN}}
+|goals1=
+*[[Adolf Scherer|Scherer]] {{goal|13}}
+|goals2=
+|stadium=[[Estadio El Teniente]], [[Rancagua]]
+|attendance=11,690
+|referee=[[Nikolay Latyshev]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/232/1525 |title=Czechoslovakia vs Hungary {{!}} Quarter-final {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=232/match=1525/index.html |title=1962 FIFA World Cup Chile – Matches – Czechoslovakia v Hungary |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170727093455/http://www.fifa.com/worldcup/matches/round=232/match=1525/index.html |archive-date=27 July 2017}} }}</ref>
+}}<section end=QF2 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh =  
+ | pattern_so = _hoops_blue_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     =ffffff
+ | socks      = ffffff
+ | title      = Czechoslovakia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _hun_1949_1956_home 
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = CE1126
+| body                 = CE1126 
+| rightarm              = CE1126
+| shorts               = ffffff
+| socks                 = 008751
+ | title           = Hungary
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Viliam Schrojf]]
+|-
+|RB ||'''2''' ||[[Jan Lála]]
+|-
+|CB ||'''5'''||[[Svatopluk Pluskal]]
+|-
+|CB ||'''3''' ||[[Ján Popluhár]]
+|-
+|LB ||'''4''' ||[[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+|RH ||'''19'''||[[Andrej Kvašňák]]
+|-
+|LH ||'''6'''||[[Josef Masopust]]
+|-
+|OR ||'''17''' ||[[Tomáš Pospíchal]]
+|-
+|IR ||'''8''' ||[[Adolf Scherer]]
+|-
+|IL ||'''18''' ||[[Josef Kadraba]]
+|-
+|OL ||'''11'''||[[Josef Jelínek]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Rudolf Vytlačil]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gyula Grosics]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Sándor Mátrai]]
+|-
+|CB ||'''3''' ||[[Kálmán Mészöly]]
+|-
+|LB ||'''4''' ||[[László Sárosi (footballer)|László Sárosi]]
+|-
+|RH ||'''5'''||[[Ernő Solymosi]]
+|-
+|LH ||'''6'''||[[Ferenc Sipos]]
+|-
+|OR ||'''7''' ||[[Károly Sándor]]
+|-
+|IR ||'''17'''||[[Gyula Rákosi]]
+|-
+|CF ||'''9'''||[[Flórián Albert]]
+|-
+|IL ||'''10''' ||[[Lajos Tichy]]
+|-
+|OL ||'''11''' ||[[Máté Fenyvesi]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Lajos Baróti]]
+|}
+{{col-end}}
+
+===Brazil vs England===
+[[Garrincha]] opened the score at the half hour when he headed in a corner by [[Mário Zagallo]]. England equalized when [[Jimmy Greaves]] hit the bar with a looping header and [[Gerry Hitchens]] banged in an instant shot. Soon after halftime Brazil regained advantage after [[Vavá]] headed in a free kick from [[Garrincha]] and six minutes later the Brazilian right winger made it 3–1 with a curling shot into the top corner.<ref name="lingua" />
+
+<section begin=QF3 />{{Football box
+|date={{Start date|1962|6|10|df=y}}
+|time=14:30 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|BRA|1960}}
+|score={{score link|1962 FIFA World Cup knockout stage#Brazil vs England|3–1}}
+|team2={{fb|ENG}}
+|goals1=
+*[[Garrincha]] {{goal|31||59}}
+*[[Vavá]] {{goal|53}}
+|goals2=
+*[[Gerry Hitchens|Hitchens]] {{goal|38}}
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=17,736
+|referee=[[Pierre Schwinte]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/232/1459 |title=Brazil vs England {{!}} Quarter-final {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=232/match=1459/index.html |title=1962 FIFA World Cup Chile – Matches – Brazil v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201083204/http://www.fifa.com/worldcup/matches/round=232/match=1459/index.html |archive-date=1 December 2017}} }}</ref>
+}}<section end=QF3 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides 
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = _eng66h
+ | pattern_ra = 
+ | pattern_sh =
+ | pattern_so =  
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = England
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gylmar dos Santos Neves|Gilmar]]
+|-
+|RB ||'''2''' ||[[Djalma Santos]]
+|-
+|CB ||'''3''' ||[[Mauro Ramos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Zózimo]]
+|-
+|LB ||'''6''' ||[[Nílton Santos]]
+|-
+|RH ||'''4''' ||[[Zito (footballer, born 1932)|Zito]]
+|-
+|LH ||'''8''' ||[[Didi (footballer, born 1928)|Didi]]
+|-
+|OR ||'''7'''||[[Garrincha]]
+|-
+|CF ||'''19'''||[[Vavá]]
+|-
+|CF ||'''20'''||[[Amarildo Tavares da Silveira|Amarildo]]
+|-
+|OL ||'''21''' ||[[Mário Zagallo]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Aymoré Moreira]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ron Springett]]
+|-
+|RB ||'''2''' ||[[Jimmy Armfield]]
+|-
+|LB ||'''3''' ||[[Ray Wilson (English footballer)|Ray Wilson]]
+|-
+|RH ||'''16''' ||[[Bobby Moore]]
+|-
+|CH ||'''15''' ||[[Maurice Norman]]
+|-
+|LH ||'''6''' ||[[Ron Flowers]]
+|-
+|OR ||'''17''' ||[[Bryan Douglas]]
+|-
+|IR ||'''8'''||[[Jimmy Greaves]]
+|-
+|CF ||'''9'''||[[Gerry Hitchens]]
+|-
+|IL ||'''10'''||[[Johnny Haynes]] ([[Captain (association football)|c]])
+|-
+|OL ||'''11''' ||[[Bobby Charlton]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Walter Winterbottom]]
+|}
+{{col-end}}
+
+===Yugoslavia vs West Germany===
+The first clear opportunity was for the Germans when [[Uwe Seeler|Seeler]] hit the post with a low shot after running onto [[Helmut Haller|Haller's]] pass. Yugoslavia were also close to score but [[Karl-Heinz Schnellinger|Schnellinger]] cleared the ball off the line following a corner. The only goal of the game came near the end when [[Milan Galić|Galić]] pulled the ball back after working his way to the goal line and [[Petar Radaković|Radaković]] lashed it high into the net.<ref name="lingua" /><ref>[https://www.youtube.com/watch?v=kOSrXXT-Y-A Yugoslavia vs West Germany on YouTube]</ref>
+
+<section begin=QF4 />{{Football box
+|date={{Start date|1962|6|10|df=y}}
+|time=14:30 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|YUG}}
+|score={{score link|1962 FIFA World Cup knockout stage#Yugoslavia vs West Germany|1–0}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Petar Radaković|Radaković]] {{goal|85}}
+|goals2=
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=63,324
+|referee=[[Arturo Yamasaki Maldonado]] ([[Federación Peruana de Fútbol|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/232/1511 |title=Yugoslavia vs Germany FR {{!}} Quarter-final {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=232/match=1511/index.html |title=1962 FIFA World Cup Chile – Matches – Yugoslavia v Germany FR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212140505/http://www.fifa.com/worldcup/matches/round=232/match=1511/index.html |archive-date=12 December 2017}} }}</ref>
+}}<section end=QF4 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        =  
+| pattern_b         = _yugoslavia1962h
+| pattern_ra        = 
+| pattern_sh        =  
+| pattern_so        = 
+| leftarm           =0000FD 
+| body             = 0000FD
+| rightarm           =0000FD 
+| shorts             = ffffff 
+| socks              = ff0000 
+|title            = Yugoslavia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _blackborder 
+| pattern_b  = _alemania1962h
+| filetype = svg
+| pattern_ra            =_blackborder 
+| pattern_sh            = 
+| pattern_so            = _whitetop
+| leftarm               = ffffff
+| body                 =ffffff  
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = West Germany
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Milutin Šoškić]]
+|-
+|RB ||'''2''' ||[[Vladimir Durković]]
+|-
+|CB ||'''5''' ||[[Vlatko Marković]]
+|-
+|LB ||'''3''' ||[[Fahrudin Jusufi]]
+|-
+|RH ||'''4'''||[[Petar Radaković]]
+|-
+|LH ||'''6'''||[[Vladica Popović]]
+|-
+|OR ||'''18''' ||[[Vladica Kovačević]]
+|-
+|IR ||'''8'''||[[Dragoslav Šekularac]]
+|-
+|CF ||'''9'''||[[Dražan Jerković]]
+|-
+|IL ||'''10''' ||[[Milan Galić]] ([[Captain (association football)|c]])
+|-
+|OL ||'''11''' ||[[Josip Skoblar]]
+|-
+|colspan="3"|'''Co-managers:'''
+|-
+|colspan="3"|[[Ljubomir Lovrić]] & [[Prvoslav Mihajlović]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22''' ||[[Wolfgang Fahrian]]
+|-
+|RB ||'''12''' ||[[Hans Nowak]]
+|-
+|CB ||'''4''' ||[[Willi Schulz]]
+|-
+|CB ||'''2''' ||[[Herbert Erhardt]]
+|-
+|LB ||'''3'''||[[Karl-Heinz Schnellinger]]
+|-
+|RH ||'''6'''||[[Horst Szymaniak]]
+|-
+|LH ||'''15''' ||[[Willi Giesemann]]
+|-
+|OR ||'''10''' ||[[Albert Brülls]]
+|-
+|CF ||'''8'''||[[Helmut Haller]]
+|-
+|CF ||'''9'''||[[Uwe Seeler]]
+|-
+|OL ||'''11''' ||[[Hans Schäfer]] ([[Captain (association football)|c]])
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Sepp Herberger]]
+|}
+{{col-end}}
+
+==Semi-finals==
+
+===Czechoslovakia vs Yugoslavia===
+<section begin=SF1 />{{Football box
+|date={{Start date|1962|6|13|df=y}}
+|time=14:30 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|TCH}}
+|score={{score link|1962 FIFA World Cup knockout stage#Czechoslovakia vs Yugoslavia|3–1}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Josef Kadraba|Kadraba]] {{goal|48}}
+*[[Adolf Scherer|Scherer]] {{goal|80||84|pen.}}
+|goals2=
+*[[Dražan Jerković|Jerković]] {{goal|69}}
+|stadium=[[Estadio Sausalito]], [[Viña del Mar]]
+|attendance=5,890
+|referee=[[Gottfried Dienst]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/514/1559 |title=Czechoslovakia vs Yugoslavia {{!}} Semi-final {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=514/match=1559/index.html |title=1962 FIFA World Cup Chile – Matches – Czechoslovakia v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20160409151032/http://www.fifa.com/worldcup/matches/round=514/match=1559/index.html |archive-date=9 April 2016}} }}</ref>
+}}<section end=SF1 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = 
+ | pattern_b  = _vneck
+ | pattern_ra = 
+ | pattern_sh =  
+ | pattern_so = _hoops_blue_red
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = FF0000
+ | socks      = ffffff
+ | title      = Czechoslovakia
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        =  
+| pattern_b         = _yugoslavia1962h
+| pattern_ra        = 
+| pattern_sh        =  
+| pattern_so        = 
+| leftarm           =0000FD 
+| body             = 0000FD
+| rightarm           =0000FD 
+| shorts             = ffffff 
+| socks              = ff0000 
+|title            = Yugoslavia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Viliam Schrojf]]
+|-
+|RB ||'''2''' ||[[Jan Lála]]
+|-
+|CB ||'''5'''||[[Svatopluk Pluskal]]
+|-
+|CB ||'''3''' ||[[Ján Popluhár]]
+|-
+|LB ||'''4''' ||[[Ladislav Novák]] ([[Captain (association football)|c]])
+|-
+|RH ||'''19'''||[[Andrej Kvašňák]]
+|-
+|LH ||'''6'''||[[Josef Masopust]]
+|-
+|OR ||'''17''' ||[[Tomáš Pospíchal]]
+|-
+|IR ||'''8''' ||[[Adolf Scherer]]
+|-
+|IL ||'''18''' ||[[Josef Kadraba]]
+|-
+|OL ||'''11'''||[[Josef Jelínek]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|[[Rudolf Vytlačil]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Milutin Šoškić]]
+|-
+|RB ||'''2''' ||[[Vladimir Durković]]
+|-
+|CB ||'''5''' ||[[Vlatko Marković]]
+|-
+|LB ||'''3''' ||[[Fahrudin Jusufi]]
+|-
+|RH ||'''4'''||[[Petar Radaković]]
+|-
+|LH ||'''6'''||[[Vladica Popović]]
+|-
+|OR ||'''14''' ||[[Vasilije Šijaković]]
+|-
+|IR ||'''8'''||[[Dragoslav Šekularac]]
+|-
+|CF ||'''9'''||[[Dražan Jerković]]
+|-
+|IL ||'''10''' ||[[Milan Galić]] ([[Captain (association football)|c]])
+|-
+|OL ||'''11''' ||[[Josip Skoblar]]
+|-
+|colspan="3"|'''Co-managers:'''
+|-
+|colspan="3"|[[Ljubomir Lovrić]] & [[Prvoslav Mihajlović]]
+|}
+{{col-end}}
+
+===Brazil vs Chile===
+<section begin=SF2 />{{Football box
+|date={{Start date|1962|6|13|df=y}}
+|time=14:30 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|BRA|1960}}
+|score={{score link|1962 FIFA World Cup knockout stage#Brazil vs Chile|4–2}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Garrincha]] {{goal|9||32}}
+*[[Vavá]] {{goal|47||78}}
+|goals2=
+*[[Jorge Toro|Toro]] {{goal|42}}
+*[[Leonel Sánchez|L. Sánchez]] {{goal|61|pen.}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=76,594
+|referee=[[Arturo Yamasaki Maldonado]] ([[Federación Peruana de Fútbol|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/514/1458 |title=Brazil vs Chile {{!}} Semi-final {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=514/match=1458/index.html |title=1962 FIFA World Cup Chile – Matches – Brazil v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171031013317/http://www.fifa.com/worldcup/matches/round=514/match=1458/index.html |archive-date=31 October 2017}} }}</ref>
+}}<section end=SF2 />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la = _greenborder
+ | pattern_b  = _collargreen
+ | pattern_ra = _greenborder
+ | pattern_sh = _whitesides 
+ | pattern_so = _brasil1962h
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+{{col-2}}
+{{Football kit
+| filetype = svg
+| pattern_la           =  
+| pattern_b             = _chile1962h
+| pattern_ra            = 
+| pattern_sh            = _whitesides
+| pattern_so            = _whitetop
+| leftarm               = ff0000
+| body                 =  ff0000
+| rightarm              =ff0000
+| shorts               = ffffff
+| socks                 = 000099
+ | title           = Chile
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gylmar dos Santos Neves|Gilmar]]
+|-
+|RB ||'''2''' ||[[Djalma Santos]]
+|-
+|CB ||'''3''' ||[[Mauro Ramos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Zózimo]]
+|-
+|LB ||'''6''' ||[[Nílton Santos]]
+|-
+|RH ||'''4''' ||[[Zito (footballer, born 1932)|Zito]]
+|-
+|LH ||'''8''' ||[[Didi (footballer, born 1928)|Didi]]
+|-
+|OR ||'''7'''||[[Garrincha]] || {{sent off|0|84}}
+|-
+|OL ||'''21''' ||[[Mário Zagallo]]
+|-
+|CF ||'''19'''||[[Vavá]]
+|-
+|CF ||'''20'''||[[Amarildo Tavares da Silveira|Amarildo]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Aymoré Moreira]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Misael Escuti]]
+|-
+|RB ||'''2''' ||[[Luis Eyzaguirre]]
+|-
+|CB ||'''5''' ||[[Carlos Contreras (footballer, born 1938)|Carlos Contreras]]
+|-
+|CB ||'''3''' ||[[Raúl Sánchez (footballer, born 1933)|Raúl Sánchez]]
+|-
+|LB ||'''15''' ||[[Manuel Rodríguez (footballer)|Manuel Rodríguez]]
+|-
+|RH ||'''8''' ||[[Jorge Toro]] ([[Captain (association football)|c]])
+|-
+|LH ||'''6''' ||[[Eladio Rojas (footballer, born 1934)|Eladio Rojas]]
+|-
+|OR ||'''7'''||[[Jaime Ramírez (footballer, born 1931)|Jaime Ramírez]]
+|-
+|IR ||'''9'''||[[Honorino Landa]] || {{sent off|0|80}}
+|-
+|IL ||'''21'''||[[Armando Tobar]]
+|-
+|OL ||'''11''' ||[[Leonel Sánchez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Fernando Riera]]
+|}
+{{col-end}}
+
+==Match for third place==
+<section begin=TPP />{{Football box
+|date={{Start date|1962|6|16|df=y}}
+|time=14:30 [[Time in Chile|CLT]] ([[UTC-04]])
+|team1={{fb-rt|CHI}}
+|score={{score link|1962 FIFA World Cup knockout stage#Match for third place|1–0}}
+|team2={{fb|YUG}}
+|goals1=
+*[[Eladio Rojas (footballer, born 1934)|Rojas]] {{goal|90}}
+|goals2=
+|stadium=[[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], [[Santiago]]
+|attendance=66,697
+|referee=[[Juan Gardeazábal Garay]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/21/3481/1475 |title=Chile vs Yugoslavia {{!}} Match for third place {{!}} 1962 FIFA World Cup Chile |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=3481/match=1475/index.html |title=1962 FIFA World Cup Chile – Matches – Chile v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213005720/http://www.fifa.com/worldcup/matches/round=3481/match=1475/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=TPP />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| filetype = svg
+| pattern_la           =  
+| pattern_b             = _chile1962h
+| pattern_ra            = 
+| pattern_sh            = _whitesides
+| pattern_so            = 
+| leftarm               = ff0000
+| body                 =  ff0000
+| rightarm              =ff0000
+| shorts               = 000099
+| socks                 = ffffff
+ | title           = Chile
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        =  
+| pattern_b         = _yugoslavia1962h
+| pattern_ra        = 
+| pattern_sh        =  
+| pattern_so        = 
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             = ffffff
+| socks              = ff0000  
+|title            =  Yugoslavia
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12''' ||[[Adán Godoy]]
+|-
+|RB ||'''2''' ||[[Luis Eyzaguirre]]
+|-
+|CB ||'''16''' ||[[Humberto Cruz]]
+|-
+|CB ||'''3''' ||[[Raúl Sánchez (footballer, born 1933)|Raúl Sánchez]]
+|-
+|LB ||'''15''' ||[[Manuel Rodríguez (footballer)|Manuel Rodríguez]]
+|-
+|RH ||'''8''' ||[[Jorge Toro]] ([[Captain (association football)|c]])
+|-
+|LH ||'''6''' ||[[Eladio Rojas (footballer, born 1934)|Eladio Rojas]]
+|-
+|OR ||'''7'''||[[Jaime Ramírez (footballer, born 1931)|Jaime Ramírez]]
+|-
+|IR ||'''20'''||[[Carlos Campos (footballer, born 1937)|Carlos Campos]]
+|-
+|IL ||'''21'''||[[Armando Tobar]]
+|-
+|OL ||'''11''' ||[[Leonel Sánchez]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Fernando Riera]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Milutin Šoškić]]
+|-
+|RB ||'''2''' ||[[Vladimir Durković]]
+|-
+|CB ||'''5''' ||[[Vlatko Marković]]
+|-
+|LB ||'''13''' ||[[Slavko Svinjarević]]
+|-
+|RH ||'''4'''||[[Petar Radaković]]
+|-
+|LH ||'''6'''||[[Vladica Popović]]
+|-
+|OR ||'''18''' ||[[Vladica Kovačević]]
+|-
+|IR ||'''8'''||[[Dragoslav Šekularac]]
+|-
+|CF ||'''9'''||[[Dražan Jerković]]
+|-
+|IL ||'''10''' ||[[Milan Galić]] ([[Captain (association football)|c]])
+|-
+|OL ||'''11''' ||[[Josip Skoblar]]
+|-
+|colspan="3"|'''Co-managers:'''
+|-
+|colspan="3"|[[Ljubomir Lovrić]] & [[Prvoslav Mihajlović]]
+|}
+{{col-end}}
+
+==Final==
+{{Main|1962 FIFA World Cup final}}
+
+{{#lst:1962 FIFA World Cup final|Final}}
+{{#lst:1962 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1962chile 1962 FIFA World Cup archive]
+* [https://www.millingsteins.com/1962-chile 1962 Chile Statistics] {{Webarchive|url=https://web.archive.org/web/20210420154433/https://www.millingsteins.com/1962-chile |date=20 April 2021 }}
+* [http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0018867.pdf Los 32 partidos de la 7ª Copa]
+
+{{1962 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:1962 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1962]]
+[[Category:Yugoslavia at the 1962 FIFA World Cup]]
+[[Category:West Germany at the 1962 FIFA World Cup]]
+[[Category:Brazil at the 1962 FIFA World Cup]]
+[[Category:Czechoslovakia at the 1962 FIFA World Cup]]
+[[Category:England at the 1962 FIFA World Cup]]
+[[Category:Chile at the 1962 FIFA World Cup]]
+[[Category:Soviet Union at the 1962 FIFA World Cup]]
+[[Category:Hungary at the 1962 FIFA World Cup]]
+[[Category:Rancagua]]
+[[Category:Sport in O'Higgins Region]]
+[[Category:History of O'Higgins Region]]
+[[Category:Sport in Valparaíso Region]]
+[[Category:History of Valparaíso Region]]
+[[Category:Sport in Arica y Parinacota Region]]
+[[Category:History of Arica y Parinacota Region]]
+[[Category:Football competitions in Santiago, Chile]]
+[[Category:1960s in Santiago, Chile]]

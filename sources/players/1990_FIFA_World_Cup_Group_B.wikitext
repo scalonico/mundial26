@@ -1,0 +1,911 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Play in '''Group B of the [[1990 FIFA World Cup]]''' completed on 18 June 1990. [[Cameroon national football team|Cameroon]] won the group, and advanced to the second round, along with [[Romania national football team|Romania]] and World Cup holders [[Argentina national football team|Argentina]]. The [[Soviet Union national football team|Soviet Union]] failed to advance.<ref>{{cite web |url=https://www.rsssf.org/tables/90full.html |title=World Cup 1990 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+|class_rules=[[1990 FIFA World Cup#Group stage|Group stage tiebreakers]]
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407140015/http://www.fifa.com/worldcup/archive/italy1990/groups/index.html FIFA]
+
+|team1=CMR |team2=ROU |team3=ARG |team4=URS
+|result1=KO |result2=KO |result3=KO
+
+|win_CMR=2 |draw_CMR=0 |loss_CMR=1 |gf_CMR=3 |ga_CMR=5
+|win_ROU=1 |draw_ROU=1 |loss_ROU=1 |gf_ROU=4 |ga_ROU=3
+|win_ARG=1 |draw_ARG=1 |loss_ARG=1 |gf_ARG=3 |ga_ARG=2
+|win_URS=1 |draw_URS=0 |loss_URS=2 |gf_URS=4 |ga_URS=4
+
+|name_ROU={{fb|ROU}}
+|name_URS={{fb|URS|1955}}
+|name_CMR={{fb|CMR}}
+|name_ARG={{fb|ARG|1861}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1990 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times local ([[Central European Summer Time|CEST/UTC+2]])
+
+===Argentina vs Cameroon===
+<onlyinclude>{{#invoke:Football box|main|section=B1
+|date={{Start date|1990|6|8|df=y}}
+|time=18:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1990 FIFA World Cup Group B#Argentina vs Cameroon|0–1}}
+|team2={{fb|CMR}}
+|goals1=
+|goals2=
+*[[François Omam-Biyik|Omam-Biyik]] {{goal|67}}
+|stadium=[[San Siro]], [[Milan]]
+|attendance=73,780
+|referee=[[Michel Vautrot]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/26 |title=Argentina vs Cameroon {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=26/index.html |title=1990 FIFA World Cup Italy – Matches – Argentina v Cameroon |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171230120105/http://www.fifa.com/worldcup/matches/round=322/match=26/index.html |archive-date=30 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1992
+ | pattern_b  = _argentina1992
+ | pattern_ra = _argentina1992
+ | pattern_sh = _adidas_arg1990_home
+ | pattern_so = _argentina1992
+ | leftarm    = FFFFFF
+ | body       = 33CCFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _cameroon1990_home 
+ | pattern_b  = _cameroon1990_home
+ | pattern_ra = _cameroon1990_home
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_green
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = FFD020
+ | title      = Cameroon
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Nery Pumpido]]
+|-
+|SW ||'''20'''||[[Juan Simón]]
+|-
+|DF ||'''11'''||[[Néstor Fabbri]]
+|-
+|DF ||'''19'''||[[Oscar Ruggeri]]|| || {{suboff|46}}
+|-
+|DF ||'''13'''||[[Néstor Lorenzo]] 
+|-
+|DF ||'''17'''||[[Roberto Néstor Sensini]] || {{yel|27}} || {{suboff|69}} 
+|-
+|MF ||'''4''' ||[[José Basualdo]]
+|-
+|MF ||'''2''' ||[[Sergio Batista]]
+|-
+|MF ||'''7''' ||[[Jorge Burruchaga]]
+|-
+|FW ||'''3''' ||[[Abel Balbo]] 
+|-
+|FW ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Gabriel Calderón]] || || {{subon|69}}
+|-
+|FW ||'''8''' ||[[Claudio Caniggia]] || || {{subon|46}}
+|-
+|GK ||'''12'''||[[Sergio Goycochea]]
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]]
+|-
+|DF ||'''18'''||[[José Serrizuela]]||
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Bilardo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Thomas N'Kono]]
+|-
+|SW ||'''17'''||[[Victor N'Dip]]|| {{yel|23}}
+|-
+|DF ||'''14'''||[[Stephen Tataw]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Emmanuel Kundé]]
+|-
+|DF ||'''4''' ||[[Benjamin Massing]]|| {{sent off|1|9|88}}
+|-
+|DF ||'''5''' ||[[Bertin Ebwellé]]
+|-
+|MF ||'''8''' ||[[Emile M'Bouh]]|| {{yel|54}}
+|-
+|MF ||'''2''' ||[[André Kana-Biyik]]|| {{sent off|0|61}}
+|-
+|MF ||'''10'''||[[Louis-Paul M'Fédé]]||  || {{suboff|66}}
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] 
+|-
+|FW ||'''20'''||[[Cyrille Makanaky]]|| || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Roger Milla]] || || {{subon|81}}
+|-
+|MF ||'''13'''||[[Jean-Claude Pagal]]
+|-
+|DF ||'''15'''||[[Thomas Libiih]] || || {{subon|66}}
+|-
+|MF ||'''21'''||[[Emmanuel Maboang]]
+|-
+|GK ||'''22'''||[[Jacques Songo'o]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URS|1955}} [[Valery Nepomnyashchy]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Vincent Mauro ([[United States Soccer Federation|United States]])
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+|}
+
+===Soviet Union vs Romania===
+<onlyinclude>{{#invoke:Football box|main|section=B2
+|date={{Start date|1990|6|9|df=y}}
+|time=17:00
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1990 FIFA World Cup Group B#Soviet Union vs Romania|0–2}}
+|team2={{fb|ROU}}
+|goals1=
+|goals2=
+*[[Marius Lăcătuș|Lăcătuș]] {{goal|41||55|pen.}}
+|stadium=[[Stadio San Nicola]], [[Bari]]
+|attendance=42,907
+|referee=[[Juan Daniel Cardellino]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/342 |title=Soviet Union vs Romania {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=342/index.html |title=1990 FIFA World Cup Italy – Matches – Soviet Union v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170725003003/http://www.fifa.com/worldcup/matches/round=322/match=342/index.html |archive-date=25 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _ussr1990_away
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Soviet Union
+}}
+|{{Football kit
+ | pattern_la = _romania1990_away
+ | pattern_b  = _romania1990_away
+ | pattern_ra = _romania1990_away
+ | pattern_sh = _adidas_yellow
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Romania
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rinat Dasayev]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Oleh Kuznetsov]]
+|-
+|DF ||'''3''' ||[[Vagiz Khidiyatullin]]|| {{yel|11}}
+|-
+|DF ||'''20'''||[[Sergei Gorlukovich]]
+|-
+|MF ||'''7''' ||[[Sergei Aleinikov]]
+|-
+|MF ||'''8''' ||[[Hennadiy Lytovchenko]] || || {{suboff|66}}
+|-
+|MF ||'''9''' ||[[Oleksandr Zavarov]] 
+|-
+|MF ||'''2''' ||[[Volodymyr Bezsonov]]
+|-
+|MF ||'''6''' ||[[Vasyl Rats]]
+|-
+|FW ||'''10'''||[[Oleh Protasov]]
+|-
+|FW ||'''11'''||[[Igor Dobrovolski]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''12'''||[[Aleksandr Borodyuk]] || || {{subon|71}}
+|-
+|MF ||'''15'''||[[Ivan Yaremchuk]] || || {{subon|66}}
+|-
+|MF ||'''17'''||[[Andrei Zygmantovich]]
+|-
+|MF ||'''18'''||[[Igor Shalimov]]
+|-
+|GK ||'''22'''||[[Aleksandr Uvarov (footballer)|Aleksandr Uvarov]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Valeriy Lobanovskyi]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Silviu Lung]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Mircea Rednic]]
+|-
+|DF ||'''4''' ||[[Ioan Andone]]
+|-
+|DF ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|DF ||'''3''' ||[[Michael Klein (footballer)|Michael Klein]]
+|-
+|MF ||'''8''' ||[[Ioan Sabău]]
+|-
+|MF ||'''5''' ||[[Iosif Rotariu]] 
+|-
+|MF ||'''21'''||[[Ioan Lupescu]]
+|-
+|MF ||'''16'''||[[Daniel Timofte]]
+|-
+|FW ||'''7''' ||[[Marius Lăcătuș]]|| {{yel|44}} || {{suboff|87}}
+|-
+|FW ||'''14'''||[[Florin Răducioiu]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Dănuț Lupu]]
+|-
+|GK ||'''12'''||[[Bogdan Stelea]] 
+|-
+|FW ||'''17'''||[[Ilie Dumitrescu]] || || {{subon|87}}
+|-
+|FW ||'''18'''||[[Gavril Balint]] || || {{subon|80}}
+|-
+|DF ||'''19'''||[[Emil Săndoi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Emerich Jenei]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Emilio Soriano Aladrén]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Hernán Silva]] ([[Football Federation of Chile|Chile]])
+|}
+
+===Argentina vs Soviet Union===
+<onlyinclude>{{#invoke:Football box|main|section=B3
+|date={{Start date|1990|6|13|df=y}}
+|time=21:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1990 FIFA World Cup Group B#Argentina vs Soviet Union|2–0}}
+|team2={{fb|URS|1955}}
+|goals1=
+*[[Pedro Troglio|Troglio]] {{goal|27}}
+*[[Jorge Burruchaga|Burruchaga]] {{goal|79}}
+|goals2=
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=55,759
+|referee=[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/30 |title=Argentina vs Soviet Union {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=30/index.html |title=1990 FIFA World Cup Italy – Matches – Argentina v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217185343/http://www.fifa.com/worldcup/matches/round=322/match=30/index.html |archive-date=17 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1992
+ | pattern_b  = _argentina1992
+ | pattern_ra = _argentina1992
+ | pattern_sh = _adidas_arg1990
+ | pattern_so = _argentina1992
+ | leftarm    = FFFFFF
+ | body       = 33CCFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes
+ | pattern_b  = _ussr1990_home
+ | pattern_ra = _shoulder_stripes_white_stripes
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Soviet Union
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Nery Pumpido]] || || {{suboff|11}}
+|-
+|SW ||'''20'''||[[Juan Simón]]
+|-
+|DF ||'''15'''||[[Pedro Monzón]] || {{yel|77}} || {{suboff|79}}
+|-
+|DF ||'''18'''||[[José Serrizuela]]|| {{yel|55}}
+|-
+|MF ||'''4''' ||[[José Basualdo]]
+|-
+|MF ||'''2''' ||[[Sergio Batista]]
+|-
+|MF ||'''21'''||[[Pedro Troglio]] 
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]]
+|-
+|MF ||'''7''' ||[[Jorge Burruchaga]] || {{yel|73}}
+|-
+|FW ||'''8''' ||[[Claudio Caniggia]] || {{yel|57}}
+|-
+|FW ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])|| {{yel|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''6''' ||[[Gabriel Calderón]] 
+|-
+|FW ||'''9''' ||[[Gustavo Dezotti]]
+|-
+|GK ||'''12'''||[[Sergio Goycochea]] || || {{subon|11}}
+|-
+|DF ||'''13'''||[[Néstor Lorenzo]] || || {{subon|79}}
+|-
+|MF ||'''14'''||[[Ricardo Giusti]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Bilardo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Aleksandr Uvarov (footballer)|Aleksandr Uvarov]]
+|-
+|DF ||'''2''' ||[[Volodymyr Bezsonov]] || {{sent off|0|48}}
+|-
+|DF ||'''3''' ||[[Vagiz Khidiyatullin]]
+|-
+|DF ||'''4''' ||[[Oleh Kuznetsov]] ([[Captain (association football)|c]])
+|-
+|DF ||'''20'''||[[Sergei Gorlukovich]]
+|-
+|MF ||'''7''' ||[[Sergei Aleinikov]]
+|-
+|MF ||'''17'''||[[Andrei Zygmantovich]]|| {{yel|51}}
+|-
+|MF ||'''18'''||[[Igor Shalimov]]
+|-
+|MF ||'''9''' ||[[Oleksandr Zavarov]] || || {{suboff|86}}
+|-
+|FW ||'''10'''||[[Oleh Protasov]] || || {{suboff|75}}
+|-
+|FW ||'''11'''||[[Igor Dobrovolski]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Anatoliy Demyanenko]]
+|-
+|MF ||'''8''' ||[[Hennadiy Lytovchenko]] || || {{subon|75}}
+|-
+|FW ||'''14'''||[[Volodymyr Lyutyi]] || || {{subon|86}}
+|-
+|MF ||'''15'''||[[Ivan Yaremchuk]]
+|-
+|GK ||'''16'''||[[Viktor Chanov]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Valeriy Lobanovskyi]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[José Roberto Wright]] ([[Brazilian Football Confederation|Brazil]])
+<br />[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+|}
+
+===Cameroon vs Romania===
+<onlyinclude>{{#invoke:Football box|main|section=B4
+|date={{Start date|1990|6|14|df=y}}
+|time=17:00
+|team1={{fb-rt|CMR}}
+|score={{score link|1990 FIFA World Cup Group B#Cameroon vs Romania|2–1}}
+|team2={{fb|ROU}}
+|goals1=
+*[[Roger Milla|Milla]] {{goal|76||86}}
+|goals2=
+*[[Gavril Balint|Balint]] {{goal|88}}
+|stadium=[[Stadio San Nicola]], [[Bari]]
+|attendance=38,687
+|referee=[[Hernán Silva]] ([[Football Federation of Chile|Chile]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/108 |title=Cameroon vs Romania {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=108/index.html |title=1990 FIFA World Cup Italy – Matches – Cameroon v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171027010835/http://www.fifa.com/worldcup/matches/round=322/match=108/index.html |archive-date=27 October 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _cameroon1990_home 
+ | pattern_b  = _cameroon1990_home
+ | pattern_ra = _cameroon1990_home
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_green
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FF0000
+ | socks      = FFF01C
+ | title      = Cameroon
+}}
+|{{Football kit
+ | pattern_la = _romania1990_home
+ | pattern_b  = _romania1990_home
+ | pattern_ra = _romania1990_home
+ | pattern_sh = _adidas_yellow
+ | pattern_so =_color_3_stripes_blue
+ | leftarm    = FFD700
+ | body       = FFD700
+ | rightarm   = FFD700
+ | shorts     = 0000FF
+ | socks      = FF0000
+ | title      = Romania
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Thomas N'Kono]]|| {{yel|68}}
+|-
+|SW ||'''17'''||[[Victor N'Dip]]
+|-
+|DF ||'''14'''||[[Stephen Tataw]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Emmanuel Kundé]]||  || {{suboff|68}}
+|-
+|DF ||'''3''' ||[[Jules Onana]]|| {{yel|20}}
+|-
+|DF ||'''5''' ||[[Bertin Ebwellé]]
+|-
+|MF ||'''8''' ||[[Emile M'Bouh]]
+|-
+|MF ||'''21'''||[[Emmanuel Maboang]]||  || {{suboff|58}}
+|-
+|MF ||'''10'''||[[Louis-Paul M'Fédé]]
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] 
+|-
+|FW ||'''20'''||[[Cyrille Makanaky]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Roger Milla]] || || {{subon|58}}
+|-
+|DF ||'''13'''||[[Jean-Claude Pagal]] || || {{subon|68}}
+|-
+|DF ||'''15'''||[[Thomas Libiih]]
+|-
+|FW ||'''18'''||[[Bonaventure Djonkep]]
+|-
+|GK ||'''22'''||[[Jacques Songo'o]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URS|1955}} [[Valery Nepomnyashchy]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Silviu Lung]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Mircea Rednic]]
+|-
+|DF ||'''4''' ||[[Ioan Andone]]
+|-
+|DF ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|DF ||'''3''' ||[[Michael Klein (footballer)|Michael Klein]]|| {{yel|44}}
+|-
+|MF ||'''8''' ||[[Ioan Sabău]]
+|-
+|MF ||'''5''' ||[[Iosif Rotariu]] 
+|-
+|MF ||'''10'''||[[Gheorghe Hagi]]|| || {{suboff|55}}
+|-
+|MF ||'''16'''||[[Daniel Timofte]]
+|-
+|FW ||'''7''' ||[[Marius Lăcătuș]]
+|-
+|FW ||'''14'''||[[Florin Răducioiu]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Bogdan Stelea]] 
+|-
+|FW ||'''17'''||[[Ilie Dumitrescu]] || || {{subon|55}}
+|-
+|FW ||'''18'''||[[Gavril Balint]] || || {{subon|63}}
+|-
+|DF ||'''19'''||[[Emil Săndoi]]
+|-
+|MF ||'''21'''||[[Ioan Lupescu]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Emerich Jenei]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Carlos Silva Valente]] ([[Portuguese Football Federation|Portugal]])
+<br />[[Armando Pérez-Hoyos]] ([[Colombian Football Federation|Colombia]])
+|}
+
+===Argentina vs Romania===
+<onlyinclude>{{#invoke:Football box|main|section=B5
+|date={{Start date|1990|6|18|df=y}}
+|time=21:00
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1990 FIFA World Cup Group B#Argentina vs Romania|1–1}}
+|team2={{fb|ROU}}
+|goals1=
+*[[Pedro Monzón|Monzón]] {{goal|62}}
+|goals2=
+*[[Gavril Balint|Balint]] {{goal|68}}
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=52,733
+|referee=[[Carlos Silva Valente]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/29 |title=Argentina vs Romania {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=29/index.html |title=1990 FIFA World Cup Italy – Matches – Argentina v Romania |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170909160417/http://www.fifa.com/worldcup/matches/round=322/match=29/index.html |archive-date=9 September 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _argentina1992
+ | pattern_b  = _argentina1992
+ | pattern_ra = _argentina1992
+ | pattern_sh = _argentina1990a
+ | pattern_so = _argentina1992
+ | leftarm    = FFFFFF
+ | body       = 33CCFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _romania1990_home
+ | pattern_b  = _romania1990_home
+ | pattern_ra = _romania1990_home
+ | pattern_sh = _adidas_yellow
+ | pattern_so =_color_3_stripes_blue
+ | leftarm    = FFD700
+ | body       = FFD700
+ | rightarm   = FFD700
+ | shorts     = 0000FF
+ | socks      = FF0000
+ | title      = Romania
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Sergio Goycochea]]
+|-
+|DF ||'''15'''||[[Pedro Monzón]]
+|-
+|DF ||'''20'''||[[Juan Simón]]
+|-
+|DF ||'''18'''||[[José Serrizuela]]|| {{yel|72}}
+|-
+|MF ||'''4''' ||[[José Basualdo]]
+|-
+|MF ||'''21'''||[[Pedro Troglio]]|| || {{suboff|53}}
+|-
+|MF ||'''2''' ||[[Sergio Batista]]|| {{yel|86}}
+|-
+|MF ||'''16'''||[[Julio Olarticoechea]]
+|-
+|MF ||'''7''' ||[[Jorge Burruchaga]]|| || {{suboff|60}}
+|-
+|FW ||'''8''' ||[[Claudio Caniggia]] 
+|-
+|FW ||'''10'''||[[Diego Maradona]] ([[Captain (association football)|c]])||
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''6''' ||[[Gabriel Calderón]] 
+|-
+|FW ||'''9''' ||[[Gustavo Dezotti]] || || {{subon|60}}
+|-
+|DF ||'''13'''||[[Néstor Lorenzo]] 
+|-
+|MF ||'''14'''||[[Ricardo Giusti]] || || {{subon|53}}
+|-
+|GK ||'''22'''||[[Fabián Cancelarich]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Carlos Bilardo]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Silviu Lung]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Mircea Rednic]]
+|-
+|DF ||'''4''' ||[[Ioan Andone]]
+|-
+|DF ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|DF ||'''3''' ||[[Michael Klein (footballer)|Michael Klein]]
+|-
+|MF ||'''8''' ||[[Ioan Sabău]]|| || {{suboff|82}}
+|-
+|MF ||'''5''' ||[[Iosif Rotariu]] 
+|-
+|MF ||'''10'''||[[Gheorghe Hagi]]|| {{yel|8}}
+|-
+|MF ||'''21'''||[[Ioan Lupescu]]|| {{yel|32}}
+|-
+|FW ||'''7''' ||[[Marius Lăcătuș]]|| {{yel|4}}
+|-
+|FW ||'''18'''||[[Gavril Balint]]|| || {{suboff|72}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF ||'''11'''||[[Dănuț Lupu]] || || {{subon|72}}
+|-
+|GK ||'''12'''||[[Bogdan Stelea]] 
+|-
+|DF ||'''13'''||[[Adrian Popescu]] 
+|-
+|FW ||'''14'''||[[Florin Răducioiu]] 
+|-
+|MF ||'''15'''||[[Dorin Mateuţ]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Emerich Jenei]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Berny Ulloa Morera]] ([[Costa Rican Football Federation|Costa Rica]])
+<br />[[Carlo Longhi]] ([[Italian Football Federation|Italy]])
+|}
+
+===Cameroon vs Soviet Union===
+<onlyinclude>{{#invoke:Football box|main|section=B6
+|date={{Start date|1990|6|18|df=y}}
+|time=21:00
+|team1={{fb-rt|CMR}}
+|score={{score link|1990 FIFA World Cup Group B#Cameroon vs Soviet Union|0–4}}
+|team2={{fb|URS|1955}}
+|goals1=
+|goals2=
+*[[Oleh Protasov|Protasov]] {{goal|20}}
+*[[Andrei Zygmantovich|Zygmantovich]] {{goal|29}}
+*[[Oleksandr Zavarov|Zavarov]] {{goal|52}}
+*[[Igor Dobrovolski|Dobrovolski]] {{goal|63}}
+|stadium=[[Stadio San Nicola]], [[Bari]]
+|attendance=37,307
+|referee=[[José Roberto Wright]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/111 |title=Cameroon vs Soviet Union {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=111/index.html |title=1990 FIFA World Cup Italy – Matches – Cameroon v Soviet Union |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202041510/http://www.fifa.com/worldcup/matches/round=322/match=111/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _cameroon1990_away
+ | pattern_b  = _cameroon1990_away
+ | pattern_ra = _cameroon1990_away
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FFD020
+ | body       = FFD020
+ | rightarm   = FFD020
+ | shorts     = FF0000
+ | socks      = 008000
+ | title      = Cameroon
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _ussr1990_away
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Soviet Union
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Thomas N'Kono]]
+|-
+|SW ||'''17'''||[[Victor N'Dip]]
+|-
+|DF ||'''14'''||[[Stephen Tataw]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Emmanuel Kundé]]||  || {{suboff|34}}
+|-
+|DF ||'''3''' ||[[Jules Onana]]
+|-
+|DF ||'''5''' ||[[Bertin Ebwellé]]
+|-
+|MF ||'''8''' ||[[Emile M'Bouh]]
+|-
+|MF ||'''2''' ||[[André Kana-Biyik]]|| {{yel|61}}
+|-
+|MF ||'''10'''||[[Louis-Paul M'Fédé]]
+|-
+|FW ||'''7''' ||[[François Omam-Biyik]] 
+|-
+|FW ||'''20'''||[[Cyrille Makanaky]]||  || {{suboff|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Roger Milla]] || {{yel|66}} || {{subon|34}}
+|-
+|DF ||'''13'''||[[Jean-Claude Pagal]] || || {{subon|56}}
+|-
+|FW ||'''18'''||[[Bonaventure Djonkep]]
+|-
+|MF ||'''21'''||[[Emmanuel Maboang]]
+|-
+|GK ||'''22'''||[[Jacques Songo'o]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URS|1955}} [[Valery Nepomnyashchy]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Aleksandr Uvarov (footballer)|Aleksandr Uvarov]]
+|-
+|DF ||'''5''' ||[[Anatoliy Demyanenko]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||[[Vagiz Khidiyatullin]]
+|-
+|DF ||'''4''' ||[[Oleh Kuznetsov]]
+|-
+|DF ||'''20'''||[[Sergei Gorlukovich]]
+|-
+|MF ||'''7''' ||[[Sergei Aleinikov]]
+|-
+|MF ||'''17'''||[[Andrei Zygmantovich]]
+|-
+|MF ||'''18'''||[[Igor Shalimov]] || || {{suboff|46}}
+|-
+|MF ||'''10'''||[[Oleh Protasov]]|| {{yel|75}}
+|-
+|FW ||'''8''' ||[[Hennadiy Lytovchenko]] || || {{suboff|72}}
+|-
+|FW ||'''11'''||[[Igor Dobrovolski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[Vasyl Rats]] 
+|-
+|MF ||'''9''' ||[[Oleksandr Zavarov]] || || {{subon|46}}
+|-
+|MF ||'''15'''||[[Ivan Yaremchuk]] || || {{subon|72}}
+|-
+|GK ||'''16'''||[[Viktor Chanov]]
+|-
+|MF ||'''21'''||[[Valeri Broshin]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Valeriy Lobanovskyi]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+<br />[[Pietro d'Elia]] ([[Italian Football Federation|Italy]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Cameroon at the FIFA World Cup]]
+*[[Romania at the FIFA World Cup]]
+*[[Soviet Union at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1990 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:1990 FIFA World Cup group stage|B]]
+[[Category:Argentina at the 1990 FIFA World Cup]]
+[[Category:Romania at the 1990 FIFA World Cup]]
+[[Category:Soviet Union at the 1990 FIFA World Cup]]
+[[Category:Cameroon at the 1990 FIFA World Cup]]
+[[Category:Football competitions in Milan]]
+[[Category:1990s in Milan]]
+[[Category:Sport in Bari]]
+[[Category:20th century in Apulia]]
+[[Category:Football in Naples]]
+[[Category:Sports competitions in Naples]]
+[[Category:20th century in Naples]]

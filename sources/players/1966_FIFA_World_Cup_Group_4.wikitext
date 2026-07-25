@@ -1,0 +1,735 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 4 of the [[1966 FIFA World Cup]]''' consisted of [[Chile national football team|Chile]], [[Soviet Union national football team|Soviet Union]], [[Italy national football team|Italy]], and [[North Korea national football team|North Korea]]. Play began on 12 July 1966 and concluded on 20 July 1966. Soviet Union won the group and North Korea finished as runners-up on their World Cup debut, and both advanced to the quarter-finals. Italy and Chile failed to advance.<ref>{{cite web |last1=Stokkermans |first1=Karel |last2=Jarreta |first2=Sergio Henrique |url=https://www.rsssf.org/tables/66f.html |title=World Cup 1966 (England, July 11–30) |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=22 October 1999 |access-date=26 May 2018}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|use_goal_ratio=yes
+|section=Standings
+|teamwidth=180
+
+|update=complete
+|winpoints=2
+|source=[https://www.fifa.com/worldcup/archive/england1966/groups/index.html FIFA]
+
+|team1=URS |team2=PRK |team3=ITA |team4=CHI
+|result1=A |result2=A
+
+|win_URS=3 |draw_URS=0 |loss_URS=0 |gf_URS=6 |ga_URS=1
+|win_PRK=1 |draw_PRK=1 |loss_PRK=1 |gf_PRK=2 |ga_PRK=4
+|win_ITA=1 |draw_ITA=0 |loss_ITA=2 |gf_ITA=2 |ga_ITA=2
+|win_CHI=0 |draw_CHI=1 |loss_CHI=2 |gf_CHI=2 |ga_CHI=5
+
+|name_PRK={{fb|PRK|1948}}
+|name_CHI={{fb|CHI}}
+|name_ITA={{fb|ITA|1946}}
+|name_URS={{fb|URS|1955}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1966 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Soviet Union vs North Korea===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1966|7|12|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1966 FIFA World Cup Group 4#Soviet Union vs North Korea|3–0}}
+|team2={{fb|PRK|1948}}
+|goals1=
+*[[Eduard Malofeyev|Malofeyev]] {{goal|31||88}}
+*[[Anatoliy Banishevskiy|Banishevskiy]] {{goal|33}}
+|goals2=
+|stadium=[[Ayresome Park]], [[Middlesbrough]]
+|attendance=23,006
+|referee=[[Juan Gardeazábal Garay]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1710 |title=Soviet Union vs Korea DPR {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1710/index.html |title=1966 FIFA World Cup England – Matches – Soviet Union v Korea DPR |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170507214119/http://www.fifa.com/worldcup/matches/round=238/match=1710/index.html |archive-date=7 May 2017}} }}</ref>
+}}</onlyinclude>
+
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _Soviet_Union_away
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so = _2_red_stripes
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = A5D2F1
+| socks      = FFFFFF
+| title      = Soviet Union
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _whiteborder
+| pattern_b         = _vneckwhite
+| pattern_ra        = _whiteborder
+| pattern_sh        = 
+| pattern_so        = _skystripe
+| leftarm           = ff0000
+| body              = ff0000
+| rightarm          = ff0000
+| shorts            = ffffff
+| socks             = BB0000
+| title             = North Korea
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21''' ||[[Anzor Kavazashvili]]
+|-
+|RB ||'''4''' ||[[Vladimir Ponomaryov (footballer, born 1940)|Vladimir Ponomaryov]]
+|-
+|CB ||'''6''' ||[[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|CB ||'''7''' ||[[Murtaz Khurtsilava]]
+|-
+|LB ||'''3''' ||[[Leonīds Ostrovskis]]
+|-
+|RH ||'''8''' ||[[Yozhef Sabo]]
+|-
+|LH ||'''14''' ||[[Giorgi Sichinava]]
+|-
+|OR ||'''11''' ||[[Igor Chislenko]]
+|-
+|CF ||'''18''' ||[[Anatoliy Banishevskiy]]
+|-
+|CF ||'''19''' ||[[Eduard Malofeyev]]
+|-
+|OL ||'''15''' ||[[Galimzyan Khusainov]] || {{yel|77}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Nikolai Petrovich Morozov|Nikolai Morozov]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Li Chan-myung]]
+|-
+|RB ||'''2''' ||[[Pak Li-sup]]
+|-
+|CB ||'''3''' ||[[Shin Yung-kyoo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Lim Zoong-sun]]
+|-
+|LB ||'''4''' ||Kang Bong-chil
+|-
+|RH ||'''8''' ||[[Pak Seung-zin]] 
+|-
+|CH ||'''7''' ||[[Pak Doo-ik]]
+|-
+|LH ||'''6''' ||[[Im Shung-hwi]]
+|-
+|RF ||'''11''' ||[[Han Bong-zin]]
+|-
+|CF ||'''10''' ||[[Kang Ryong-woon]]
+|-
+|LF ||'''12''' ||[[Kim Seung-il (footballer)|Kim Seung-il]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Myung Rye-hyun]]
+|}
+{{col-end}}
+
+===Italy vs Chile===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1966|7|13|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1966 FIFA World Cup Group 4#Italy vs Chile|2–0}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Sandro Mazzola|Mazzola]] {{goal|8}}
+*[[Paolo Barison|Barison]] {{goal|88}}
+|goals2=
+|stadium=[[Roker Park]], [[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=27,199
+|referee=[[Gottfried Dienst]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1608 |title=Italy vs Chile {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1608/index.html |title=1966 FIFA World Cup England – Matches – Italy v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20161225220256/http://www.fifa.com/worldcup/matches/round=238/match=1608/index.html |archive-date=25 December 2016}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la            = 
+| pattern_b             = 
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = 103CD6
+| body                  = 103CD6
+| rightarm              = 103CD6
+| shorts                = ffffff
+| socks                 = 103CD6
+| title                 = Italy
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _chile1966h
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = ed1c24
+| body              = ed1c24
+| rightarm          = ed1c24
+| shorts            = 0000cc
+| socks             = ffffff
+| title             = Chile
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Enrico Albertosi]]
+|-
+|SW ||'''22'''||[[Sandro Salvadore]] ([[Captain (association football)|c]])
+|-
+|RB ||'''5'''||[[Tarcisio Burgnich]]
+|-
+|CB ||'''21'''||[[Roberto Rosato]]
+|-
+|LB ||'''6'''||[[Giacinto Facchetti]]
+|-
+|CM ||'''4'''||[[Giacomo Bulgarelli]]
+|-
+|CM ||'''13'''||[[Giovanni Lodetti]]
+|-
+|AM ||'''19'''||[[Gianni Rivera]]
+|-
+|OR ||'''17'''||[[Marino Perani]]
+|-
+|CF ||'''14'''||[[Sandro Mazzola]]
+|-
+|OL ||'''3'''||[[Paolo Barison]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Edmondo Fabbri]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13''' ||[[Juan Olivares]]
+|-
+|RB ||'''6''' ||[[Luis Eyzaguirre]]
+|-
+|CB ||'''4''' ||[[Humberto Cruz]]
+|-
+|CB ||'''7''' ||[[Elías Figueroa]]
+|-
+|LB ||'''21''' ||[[Hugo Villanueva]]
+|-
+|RH ||'''12''' ||[[Rubén Marcos]]
+|-
+|LH ||'''14''' ||[[Ignacio Prieto]]
+|-
+|OR ||'''1''' ||[[Pedro Araya Toro]]
+|-
+|CF ||'''8''' ||[[Alberto Fouilloux]]
+|-
+|CF ||'''18''' ||[[Armando Tobar]]
+|-
+|OL ||'''17''' ||[[Leonel Sánchez]] ([[Captain (association football)|c]])
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Luis Álamos]]
+|}
+{{col-end}}
+
+===Chile vs North Korea===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1966|7|15|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|CHI}}
+|score={{score link|1966 FIFA World Cup Group 4#Chile vs North Korea|1–1}}
+|team2={{fb|PRK|1948}}
+|goals1=
+*[[Rubén Marcos|Marcos]] {{goal|26|pen.}}
+|goals2=
+*[[Pak Seung-zin]] {{goal|88}}
+|stadium=[[Ayresome Park]], [[Middlesbrough]]
+|attendance=13,792
+|referee=[[Ali Kandil]] ([[Egyptian Football Association|United Arab Republic]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1609 |title=Korea DPR vs Chile {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1609/index.html |title=1966 FIFA World Cup England – Matches – Korea DPR v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170507215717/http://www.fifa.com/worldcup/matches/round=238/match=1609/index.html |archive-date=7 May 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = 
+| pattern_b         = _chile1966h
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = ed1c24
+| body              = ed1c24
+| rightarm          = ed1c24
+| shorts            = 0000cc
+| socks             = ffffff
+| title             = Chile
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _blueborder
+| pattern_b         = _vneckblue
+| pattern_ra        = _blueborder
+| pattern_sh        = 
+| pattern_so        = _skystripe
+| leftarm           = ffffff
+| body              = ffffff
+| rightarm          = ffffff
+| shorts            = ffffff
+| socks             = BB0000
+| title             = North Korea
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13''' ||[[Juan Olivares]]
+|-
+|RB ||'''20''' ||[[Aldo Valentini]]
+|-
+|CB ||'''4''' ||[[Humberto Cruz]]
+|-
+|CB ||'''7''' ||[[Elías Figueroa]]
+|-
+|LB ||'''21''' ||[[Hugo Villanueva]]
+|-
+|RH ||'''12''' ||[[Rubén Marcos]] || {{yel|17}}
+|-
+|LH ||'''14''' ||[[Ignacio Prieto]]
+|-
+|OR ||'''1''' ||[[Pedro Araya Toro]]
+|-
+|CF ||'''8''' ||[[Alberto Fouilloux]]
+|-
+|CF ||'''11''' ||[[Honorino Landa]]
+|-
+|OL ||'''17''' ||[[Leonel Sánchez]] ([[Captain (association football)|c]])
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Luis Álamos]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Li Chan-myung]]
+|-
+|RB ||'''2''' ||[[Pak Li-sup]]
+|-
+|CB ||'''3''' ||[[Shin Yung-kyoo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Lim Zoong-sun]]
+|-
+|LB ||'''13''' ||[[Oh Yoon-kyung]]
+|-
+|RH ||'''8''' ||[[Pak Seung-zin]] 
+|-
+|CH ||'''7''' ||[[Pak Doo-ik]]
+|-
+|LH ||'''6''' ||[[Im Shung-hwi]]
+|-
+|RF ||'''11''' ||[[Han Bong-zin]]
+|-
+|CF ||'''16''' ||[[Li Dong-woon]]
+|-
+|LF ||'''12''' ||[[Kim Seung-il (footballer)|Kim Seung-il]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Myung Rye-hyun]]
+|}
+{{col-end}}
+
+===Soviet Union vs Italy===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1966|7|16|df=y}}
+|time=15:00 [[British Summer Time|BST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1966 FIFA World Cup Group 4#Soviet Union vs Italy|1–0}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Igor Chislenko|Chislenko]] {{goal|57}}
+|goals2=
+|stadium=[[Roker Park]], [[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=27,793
+|referee=[[Rudolf Kreitlein]] ([[German Football Association|West Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1682 |title=Soviet Union vs Italy {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1682/index.html |title=1966 FIFA World Cup England – Matches – Soviet Union v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170202022614/http://www.fifa.com/worldcup/matches/round=238/match=1682/index.html |archive-date=2 February 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _sovietunion70
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so =  _band_white
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Soviet Union
+}}
+{{col-2}}
+{{Football kit
+| pattern_la            = 
+| pattern_b             = 
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = 103CD6
+| body                  = 103CD6
+| rightarm              = 103CD6
+| shorts                = 000000
+| socks                 = 103CD6
+| title                 = Italy
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Lev Yashin]]
+|-
+|RB ||'''4''' ||[[Vladimir Ponomaryov (footballer, born 1940)|Vladimir Ponomaryov]]
+|-
+|CB ||'''6''' ||[[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|CB ||'''7''' ||[[Murtaz Khurtsilava]]
+|-
+|LB ||'''10''' ||[[Vasiliy Danilov]]
+|-
+|RH ||'''8''' ||[[Yozhef Sabo]] || {{yel|77}}
+|-
+|LH ||'''12''' ||[[Valery Voronin]]
+|-
+|OR ||'''11''' ||[[Igor Chislenko]]
+|-
+|CF ||'''19''' ||[[Eduard Malofeyev]]
+|-
+|CF ||'''18''' ||[[Anatoliy Banishevskiy]]
+|-
+|OL ||'''15''' ||[[Galimzyan Khusainov]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Nikolai Petrovich Morozov|Nikolai Morozov]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enrico Albertosi]]
+|-
+|SW ||'''22''' ||[[Sandro Salvadore]] ([[Captain (association football)|c]])
+|-
+|RB ||'''5''' ||[[Tarcisio Burgnich]]
+|-
+|CB ||'''21''' ||[[Roberto Rosato]]
+|-
+|LB ||'''6''' ||[[Giacinto Facchetti]]
+|-
+|RH ||'''13''' ||[[Giovanni Lodetti]]
+|-
+|CH ||'''4''' ||[[Giacomo Bulgarelli]]
+|-
+|LH ||'''12''' ||[[Gianfranco Leoncini]]
+|-
+|OR ||'''15''' ||[[Gigi Meroni]]
+|-
+|CF ||'''14''' ||[[Sandro Mazzola]]
+|-
+|OL ||'''16''' ||[[Ezio Pascutti]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Edmondo Fabbri]]
+|}
+{{col-end}}
+
+===North Korea vs Italy===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-5
+|date={{Start date|1966|7|19|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|PRK|1948}}
+|score={{score link|1966 FIFA World Cup Group 4#North Korea vs Italy|1–0}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Pak Doo-ik]] {{goal|42}}
+|goals2=
+|stadium=[[Ayresome Park]], [[Middlesbrough]]
+|attendance=17,829
+|referee=[[Pierre Schwinte]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1679 |title=Korea DPR vs Italy {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1679/index.html |title=1966 FIFA World Cup England – Matches – Korea DPR v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170902175944/http://www.fifa.com/worldcup/matches/round=238/match=1679/index.html |archive-date=2 September 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _whiteborder
+| pattern_b         = _vneckwhite
+| pattern_ra        = _whiteborder
+| pattern_sh        = 
+| pattern_so        = _skystripe
+| leftarm           = ff0000
+| body              = ff0000
+| rightarm          = ff0000
+| shorts            = ffffff
+| socks             = BB0000
+| title             = North Korea
+}}
+{{col-2}}
+{{Football kit
+| pattern_la            = 
+| pattern_b             = 
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = 103CD6
+| body                  = 103CD6
+| rightarm              = 103CD6
+| shorts                = 000000
+| socks                 = 103CD6
+| title                 = Italy
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Li Chan-myung]]
+|-
+|RB ||'''5''' ||[[Lim Zoong-sun]]
+|-
+|CB ||'''3''' ||[[Shin Yung-kyoo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14''' ||[[Ha Jung-won]]
+|-
+|LB ||'''13''' ||[[Oh Yoon-kyung]]
+|-
+|RH ||'''8'''  ||[[Pak Seung-zin]] 
+|-
+|CH ||'''7''' ||[[Pak Doo-ik]]
+|-
+|LH ||'''6''' ||[[Im Shung-hwi]]
+|-
+|RF ||'''11''' ||[[Han Bong-zin]]
+|-
+|CF ||'''17''' ||[[Kim Bong-hwan]]
+|-
+|LF ||'''15''' ||[[Yang Song-guk]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Myung Rye-hyun]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Enrico Albertosi]]
+|-
+|SW ||'''9''' ||[[Francesco Janich]]
+|-
+|RB ||'''11''' ||[[Spartaco Landini]]
+|-
+|CB ||'''8''' ||[[Aristide Guarneri]]
+|-
+|LB ||'''6''' ||[[Giacinto Facchetti]]
+|-
+|RH ||'''4''' ||[[Giacomo Bulgarelli]] ([[Captain (association football)|c]])
+|-
+|LH ||'''7''' ||[[Romano Fogli]]
+|-
+|OR ||'''17''' ||[[Marino Perani]]
+|-
+|CF ||'''14''' ||[[Sandro Mazzola]]
+|-
+|CF ||'''3''' ||[[Paolo Barison]]
+|-
+|OL ||'''19''' ||[[Gianni Rivera]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Edmondo Fabbri]]
+|}
+{{col-end}}
+
+===Soviet Union vs Chile===
+
+<onlyinclude>{{#invoke:Football box|main|section=4-6
+|date={{Start date|1966|7|20|df=y}}
+|time=19:30 [[British Summer Time|BST]]
+|team1={{fb-rt|URS|1955}}
+|score={{score link|1966 FIFA World Cup Group 4#Soviet Union vs Chile|2–1}}
+|team2={{fb|CHI}}
+|goals1=
+*[[Valeriy Porkujan|Porkuyan]] {{goal|28||85}}
+|goals2=
+*[[Rubén Marcos|Marcos]] {{goal|32}}
+|stadium=[[Roker Park]], [[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=16,027
+|referee=[[John Adair (referee)|John Adair]] ([[Irish Football Association|Northern&nbsp;Ireland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/26/238/1610 |title=Soviet Union vs Chile {{!}} Group Matches {{!}} 1966 FIFA World Cup England |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=238/match=1610/index.html |title=1966 FIFA World Cup England – Matches – Soviet Union v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171120032617/http://www.fifa.com/worldcup/matches/round=238/match=1610/index.html |archive-date=20 November 2017}} }}</ref>
+}}</onlyinclude>
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la = 
+| pattern_b  = _sovietunion70
+| pattern_ra = 
+| pattern_sh = 
+| pattern_so =  _band_white
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FFFFFF
+| socks      = FF0000
+| title      = Soviet Union
+}}
+{{col-2}}
+{{Football kit
+| filetype = svg
+| pattern_la        = 
+| pattern_b         = _chile1966a
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = 
+| leftarm           = ffffff
+| body              = ffffff
+| rightarm          = ffffff
+| shorts            = 000099
+| socks             = ffffff
+ |title             = Chile
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21''' ||[[Anzor Kavazashvili]]
+|-
+|RB ||'''9''' ||[[Viktor Getmanov]]
+|-
+|CB ||'''6''' ||[[Albert Shesternyov]] ([[Captain (association football)|c]])
+|-
+|CB ||'''13''' ||[[Alexey Korneyev]]
+|-
+|LB ||'''3''' ||[[Leonīds Ostrovskis]]
+|-
+|RH ||'''12''' ||[[Valery Voronin]]
+|-
+|LH ||'''5''' ||[[Valentin Afonin]]
+|-
+|OR ||'''16''' ||[[Slava Metreveli]]
+|-
+|CF ||'''2''' ||[[Viktor Serebryanikov]]
+|-
+|CF ||'''20''' ||[[Eduard Markarov]]
+|-
+|OL ||'''17''' ||[[Valeriy Porkujan]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Nikolai Petrovich Morozov|Nikolai Morozov]]
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13''' ||[[Juan Olivares]]
+|-
+|RB ||'''20''' ||[[Aldo Valentini]]
+|-
+|CB ||'''4''' ||[[Humberto Cruz]]
+|-
+|CB ||'''7''' ||[[Elías Figueroa]]
+|-
+|LB ||'''21''' ||[[Hugo Villanueva]]
+|-
+|RH ||'''12''' ||[[Rubén Marcos]]
+|-
+|LH ||'''14''' ||[[Ignacio Prieto]]
+|-
+|OR ||'''1''' ||[[Pedro Araya Toro]]
+|-
+|CF ||'''11''' ||[[Honorino Landa]]
+|-
+|CF ||'''22''' ||[[Guillermo Yávar]]
+|-
+|OL ||'''17''' ||[[Leonel Sánchez]] ([[Captain (association football)|c]])
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"| [[Luis Álamos]]
+|}
+{{col-end}}
+
+==See also==
+*[[Chile at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[North Korea at the FIFA World Cup]]
+*[[Soviet Union at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1966england 1966 FIFA World Cup archive]
+
+{{1966 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 4}}
+[[Category:1966 FIFA World Cup group stage|4]]
+[[Category:Italy at the 1966 FIFA World Cup]]
+[[Category:North Korea at the 1966 FIFA World Cup]]
+[[Category:Soviet Union at the 1966 FIFA World Cup]]
+[[Category:Chile at the 1966 FIFA World Cup]]
+[[Category:Sport in the City of Sunderland]]
+[[Category:Sport in Middlesbrough]]
+[[Category:20th century in Tyne and Wear]]
+[[Category:1960s in Yorkshire]]
+[[Category:20th century in North Yorkshire]]
+[[Category:Sports competitions in Yorkshire]]
+[[Category:Football in North Yorkshire]]
+[[Category:Football in Tyne and Wear]]
+[[Category:Football competitions in Yorkshire]]

@@ -1,0 +1,824 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 3 of the [[1974 FIFA World Cup]]''' was contested between 15 and 23 June 1974. Matches were played in three cities: [[Dortmund]], [[Hanover]] and [[Düsseldorf]].<ref>{{cite web |url=https://www.rsssf.org/tables/74full.html |title=World Cup 1974 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+The pool comprised [[Uruguay national football team|Uruguay]] (''Pot 3-South America''), [[Bulgaria national football team|Bulgaria]] (''Pot 2-Eastern Europe''), [[Netherlands national football team|Netherlands]] (''Pot 1-Western Europe'') and [[Sweden men's national football team|Sweden]] (''Pot 4-Rest of the world'').
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407142357/http://www.fifa.com/worldcup/archive/germany1974/groups/index.html FIFA]
+
+
+|team1=NED |team2=SWE |team3=BUL |team4=URU
+|result1=A |result2=A
+
+|win_NED=2 |draw_NED=1 |loss_NED=0 |gf_NED=6 |ga_NED=1
+|win_SWE=1 |draw_SWE=2 |loss_SWE=0 |gf_SWE=3 |ga_SWE=0
+|win_BUL=0 |draw_BUL=2 |loss_BUL=1 |gf_BUL=2 |ga_BUL=5
+|win_URU=0 |draw_URU=1 |loss_URU=2 |gf_URU=1 |ga_URU=6
+
+|name_NED={{fb|NED}}
+|name_SWE={{fb|SWE}}
+|name_URU={{fb|URU}}
+|name_BUL={{fb|BUL|1971}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1974 FIFA World Cup#Second round|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times listed are local ([[Central European Time|CET]])''
+
+===Uruguay vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=3-1
+|date={{Start date|1974|6|15|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|URU}}
+|score={{score link|1974 FIFA World Cup Group 3#Uruguay vs Netherlands|0–2}}
+|team2={{fb|NED}}
+|goals1=
+|goals2=
+*[[Johnny Rep|Rep]] {{goal|7||86}}
+|stadium=[[AWD-Arena|Niedersachsenstadion]], [[Hanover]]
+|attendance=55,100
+|referee=[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2098 |title=Uruguay vs Netherlands {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2098/index.html |title=1974 FIFA World Cup Germany – Matches – Uruguay v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219075209/http://www.fifa.com/worldcup/matches/round=262/match=2098/index.html |archive-date=19 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _shorts
+ | pattern_so = _band_blue
+ | leftarm    = 93bef8
+ | body       = 93bef8
+ | rightarm   = 93bef8
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Uruguay
+}}
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _ned74h
+| pattern_ra = _netherlands80h
+ | pattern_sh = 
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FF6000
+ | body       = FF6000
+ | rightarm   = FF6000
+ | shorts     = FFFFFF
+ | socks      = FF6000
+ | title      = Netherlands
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]]
+|-
+|RB ||'''4''' ||[[Pablo Forlán]] || {{yel|50}}
+|-
+|CB ||'''2''' ||[[Baudilio Jáuregui]]
+|-
+|CB ||'''3''' ||[[Juan Carlos Masnik]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|LB ||'''6''' ||[[Ricardo Pavoni]]
+|-
+|RM ||'''18'''||[[Walter Mantegazza]] || {{yel|25}}
+|-
+|CM ||'''5''' ||[[Julio Montero Castillo]] || {{sent off|0|69}}
+|-
+|LM ||'''8''' ||[[Víctor Espárrago]]
+|-
+|RF ||'''7''' ||[[Luis Cubilla]] || || {{suboff|64}}
+|-
+|CF ||'''9''' ||[[Fernando Morena]]
+|-
+|LF ||'''10'''||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Denis Milar]] || || {{subon|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Roberto Porta]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|RB ||'''20'''||[[Wim Suurbier]]
+|-
+|CB ||'''17'''||[[Wim Rijsbergen]]
+|-
+|CB ||'''2''' ||[[Arie Haan]]
+|-
+|LB ||'''12'''||[[Ruud Krol]]
+|-
+|RM ||'''13'''||[[Johan Neeskens]]
+|-
+|CM ||'''6''' ||[[Wim Jansen]]
+|-
+|LM ||'''3''' ||[[Willem van Hanegem]]
+|-
+|RF ||'''16'''||[[Johnny Rep]]
+|-
+|CF ||'''14'''||[[Johan Cruyff]] ([[Captain (association football)|c]])
+|-
+|LF ||'''15'''||[[Rob Rensenbrink]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rinus Michels]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Pavel Kazanov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+<br />[[Nicolae Rainea]] ([[Romanian Football Federation|Romania]])
+|}
+
+===Sweden vs Bulgaria===
+<onlyinclude>{{#invoke:Football box|main|section=3-2
+|date={{Start date|1974|6|15|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|SWE}}
+|score={{score link|1974 FIFA World Cup Group 3#Sweden vs Bulgaria|0–0}}
+|team2={{fb|BUL|1971}}
+|goals1=
+|goals2=
+|stadium=[[Rheinstadion]], [[Düsseldorf]]
+|attendance=23,800
+|referee=[[Edison Peréz Núñez]] ([[Federación Peruana de Fútbol|Peru]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1995 |title=Sweden vs Bulgaria {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1995/index.html |title=1974 FIFA World Cup Germany – Matches – Sweden v Bulgaria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001614/http://www.fifa.com/worldcup/matches/round=262/match=1995/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _shoulder_stripes_vneck_blue
+ | pattern_ra = _blueborder
+ | pattern_sh = _yellow_stripes_adidas
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ | title      = Sweden
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_alt
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes_alt
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ronnie Hellström]]
+|-
+|DF ||'''2''' ||[[Jan Olsson (footballer, born 1942)|Jan Olsson]]
+|-
+|DF ||'''3''' ||[[Kent Karlsson]]
+|-
+|DF ||'''5''' ||[[Björn Andersson (footballer, born 1951)|Björn Andersson]]
+|-
+|MF ||'''6''' ||[[Ove Grahn]]
+|-
+|MF ||'''7''' ||[[Bo Larsson]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Conny Torstensson]]
+|-
+|MF ||'''14'''||[[Staffan Tapper]]
+|-
+|FW ||'''9''' ||[[Ove Kindvall]] || || {{suboff|73}}
+|-
+|FW ||'''10'''||[[Ralf Edström]]
+|-
+|FW ||'''11'''||[[Roland Sandberg]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[Benno Magnusson]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Ericson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rumyancho Goranov]]
+|-
+|DF ||'''4''' ||[[Stefan Velichkov]]
+|-
+|DF ||'''5''' ||[[Bozhil Kolev]]
+|-
+|DF ||'''6''' ||[[Dimitar Penev]]
+|-
+|MF ||'''7''' ||[[Voyn Voynov]] || || {{suboff|75}}
+|-
+|MF ||'''11'''||[[Georgi Denev]]
+|-
+|MF ||'''17'''||[[Asparuh Nikodimov]]
+|-
+|MF ||'''18'''||[[Tsonyo Vasilev]]
+|-
+|MF ||'''19'''||[[Kiril Ivkov]]
+|-
+|FW ||'''8''' ||[[Hristo Bonev]] ([[Captain (association football)|c]])
+|-
+|FW ||'''15'''||[[Pavel Panov]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''13'''||[[Mladen Vasilev]] || || {{subon|73}}
+|-
+|MF ||'''9''' ||[[Atanas Mihailov]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Hristo Mladenov]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Alfonso González Archundía]] ([[Mexican Football Federation|Mexico]])
+<br />[[Govindasamy Suppiah]] ([[Football Association of Singapore|Singapore]])
+|}
+
+===Bulgaria vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=3-3
+|date={{Start date|1974|6|19|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|BUL|1971}}
+|score={{score link|1974 FIFA World Cup Group 3#Bulgaria vs Uruguay|1–1}}
+|team2={{fb|URU}}
+|goals1=
+*[[Hristo Bonev|Bonev]] {{goal|75}}
+|goals2=
+*[[Ricardo Pavoni|Pavoni]] {{goal|87}}
+|stadium=[[AWD-Arena|Niedersachsenstadion]], [[Hanover]]
+|attendance=13,400
+|referee=[[Jack Taylor (referee)|Jack Taylor]] ([[The Football Association|England]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1996 |title=Bulgaria vs Uruguay {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1996/index.html |title=1974 FIFA World Cup Germany – Matches – Bulgaria v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001619/http://www.fifa.com/worldcup/matches/round=262/match=1996/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _shoulder_stripes_red_stripes
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _white_stripes_adidas
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 068619
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = 93bef8
+ | body       = 93bef8
+ | rightarm   = 93bef8
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Uruguay
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rumyancho Goranov]]
+|-
+|DF ||'''4''' ||[[Stefan Velichkov]]
+|-
+|DF ||'''5''' ||[[Bozhil Kolev]]
+|-
+|DF ||'''6''' ||[[Dimitar Penev]]
+|-
+|MF ||'''7''' ||[[Voyn Voynov]]
+|-
+|MF ||'''11'''||[[Georgi Denev]]
+|-
+|MF ||'''17'''||[[Asparuh Nikodimov]] || || {{suboff|59}}
+|-
+|MF ||'''18'''||[[Tsonyo Vasilev]] || {{yel|9}}
+|-
+|MF ||'''19'''||[[Kiril Ivkov]]
+|-
+|FW ||'''8''' ||[[Hristo Bonev]] ([[Captain (association football)|c]])
+|-
+|FW ||'''15'''||[[Pavel Panov]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Atanas Mihailov]] || || {{subon|59}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Hristo Mladenov]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Baudilio Jáuregui]]
+|-
+|DF ||'''4''' ||[[Pablo Forlán]]
+|-
+|DF ||'''6''' ||[[Ricardo Pavoni]]
+|-
+|DF ||'''14'''||[[Luis Garisto]] || || {{suboff|73}}
+|-
+|MF ||'''8''' ||[[Víctor Espárrago]] || {{yel|44}}
+|-
+|MF ||'''10'''||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|MF ||'''18'''||[[Walter Mantegazza]] || || {{suboff|62}}
+|-
+|FW ||'''9''' ||[[Fernando Morena]]
+|-
+|FW ||'''11'''||[[Rubén Corbo]]
+|-
+|FW ||'''19'''||[[Denis Milar]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Alberto Cardaccio]] || || {{subon|62}}
+|-
+|DF ||'''3''' ||[[Juan Carlos Masnik]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Roberto Porta]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Doğan Babacan]] ([[Turkish Football Federation|Turkey]])
+<br />[[Klaus Ohmsen]] ([[German Football Association|West Germany]])
+|}
+
+===Netherlands vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=3-4
+|date={{Start date|1974|6|19|df=y}}
+|time=19:30 [[Central European Time|CET]]
+|team1={{fb-rt|NED}}
+|score={{score link|1974 FIFA World Cup Group 3#Netherlands vs Sweden|0–0}}
+|team2={{fb|SWE}}
+|goals1=
+|goals2=
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=53,700
+|referee=[[Werner Winsemann]] ([[Canadian Soccer Association|Canada]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2097 |title=Netherlands vs Sweden {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2097/index.html |title=1974 FIFA World Cup Germany – Matches – Netherlands v Sweden |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171223225837/http://www.fifa.com/worldcup/matches/round=262/match=2097/index.html |archive-date=23 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _ned74h
+| pattern_ra = _netherlands80h
+ | pattern_sh = _orange_stripes
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FF6000
+ | body       = FF6000
+ | rightarm   = FF6000
+ | shorts     = 000000
+ | socks      = FF6000 
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_alt
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes_alt
+ | pattern_sh = _blue_stripes_adidas
+ | pattern_so = _color_3_stripes_yellow
+ | leftarm    = 0000FF
+ | body       = 0000FF 
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Sweden
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|DF ||'''6''' ||[[Wim Jansen]]
+|-
+|DF ||'''12'''||[[Ruud Krol]]
+|-
+|DF ||'''17'''||[[Wim Rijsbergen]]
+|-
+|DF ||'''20'''||[[Wim Suurbier]]
+|-
+|MF ||'''2''' ||[[Arie Haan]]
+|-
+|MF ||'''3''' ||[[Willem van Hanegem]] || || {{suboff|73}}
+|-
+|MF ||'''13'''||[[Johan Neeskens]]
+|-
+|FW ||'''14'''||[[Johan Cruyff]] ([[Captain (association football)|c]])
+|-
+|FW ||'''9''' ||[[Piet Keizer]]
+|-
+|FW ||'''16'''||[[Johnny Rep]] || {{yel|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Theo de Jong]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rinus Michels]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ronnie Hellström]]
+|-
+|DF ||'''2''' ||[[Jan Olsson (footballer, born 1942)|Jan Olsson]] || || {{suboff|75}}
+|-
+|DF ||'''3''' ||[[Kent Karlsson]]
+|-
+|DF ||'''4''' ||[[Björn Nordqvist]] || {{yel|36}}
+|-
+|DF ||'''5''' ||[[Björn Andersson (footballer, born 1951)|Björn Andersson]] || {{yel|74}}
+|-
+|MF ||'''6''' ||[[Ove Grahn]] || {{yel|86}}
+|-
+|MF ||'''7''' ||[[Bo Larsson]] ([[Captain (association football)|c]])
+|-
+|MF ||'''14'''||[[Staffan Tapper]] || || {{suboff|61}}
+|-
+|MF ||'''16'''||[[Inge Ejderstedt]]
+|-
+|FW ||'''10'''||[[Ralf Edström]]
+|-
+|FW ||'''11'''||[[Roland Sandberg]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Örjan Persson]] || {{yel|68}} || {{subon|61}}
+|-
+|DF ||'''13'''||[[Roland Grip]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Ericson]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Kurt Tschenscher]] ([[German Football Association|West Germany]])
+<br />[[Clive Thomas (football)|Clive Thomas]] ([[Football Association of Wales|Wales]])
+|}
+
+===Bulgaria vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=3-5
+|date={{Start date|1974|6|23|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|BUL|1971}}
+|score={{score link|1974 FIFA World Cup Group 3#Bulgaria vs Netherlands|1–4}}
+|team2={{fb|NED}}
+|goals1=
+*[[Ruud Krol|Krol]] {{goal|78|o.g.}}
+|goals2=
+*[[Johan Neeskens|Neeskens]] {{goal|5|pen.|45|pen.}}
+*[[Johnny Rep|Rep]] {{goal|71}}
+*[[Theo de Jong|De Jong]] {{goal|88}}
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=53,300
+|referee=[[Tony Boskovic]] ([[Football Federation Australia|Australia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/1990 |title=Bulgaria vs Netherlands {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=1990/index.html |title=1974 FIFA World Cup Germany – Matches – Bulgaria v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170803233802/http://www.fifa.com/worldcup/matches/round=262/match=1990/index.html |archive-date=3 August 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_alt
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes_alt
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Bulgaria
+}}
+|{{Football kit
+| pattern_la = _netherlands80h
+| pattern_b  = _ned74h
+| pattern_ra = _netherlands80h
+ | pattern_sh = _orange_stripes
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FF6000
+ | body       = FF6000
+ | rightarm   = FF6000
+ | shorts     = 000000
+ | socks      = FF6000
+ | title      = Netherlands
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Stefan Staykov]]
+|-
+|SW ||'''19'''||[[Kiril Ivkov]]
+|-
+|RB ||'''18'''||[[Tsonyo Vasilev]]
+|-
+|CB||'''6''' ||[[Dimitar Penev]]
+|-
+|LB ||'''4''' ||[[Stefan Velichkov]] || {{yel|45}}
+|-
+|RM ||'''7''' ||[[Voyn Voynov]]
+|-
+|CM ||'''5''' ||[[Bozhil Kolev]]
+|-
+|CM ||'''10'''||[[Ivan Stoyanov (footballer, born 1949)|Ivan Stoyanov]] || || {{suboff|46}}
+|-
+|LM ||'''11'''||[[Georgi Denev]] || {{yel|67}}
+|-
+|SS ||'''8''' ||[[Hristo Bonev]] ([[Captain (association football)|c]]) 
+|-
+|ST ||'''15'''||[[Pavel Panov]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|ST ||'''9''' ||[[Atanas Mihaylov]] || || {{subon|46}}
+|-
+|CM ||'''20'''||[[Krasimir Borisov]] || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Hristo Mladenov]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|RB ||'''20'''||[[Wim Suurbier]]
+|-
+|CB ||'''2''' ||[[Arie Haan]]
+|-
+|CB ||'''17'''||[[Wim Rijsbergen]]
+|-
+|LB ||'''12'''||[[Ruud Krol]]
+|-
+|CM ||'''6''' ||[[Wim Jansen]] || {{yel|5}} 
+|-
+|CM ||'''13'''||[[Johan Neeskens]] || || {{suboff|79}}
+|-
+|CM ||'''3''' ||[[Willem van Hanegem]] || {{yel|28}} || {{suboff|46}}
+|-
+|RW ||'''16'''||[[Johnny Rep]]
+|-
+|SS ||'''14'''||[[Johan Cruyff]] ([[Captain (association football)|c]]) || {{yel|29}}
+|-
+|LW ||'''15'''||[[Rob Rensenbrink]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CB ||'''5''' ||[[Rinus Israël]] || || {{subon|46}}
+|-
+|CM ||'''7''' ||[[Theo de Jong]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Rinus Michels]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Ferdinand Biwersi]] ([[German Football Association|West Germany]])
+<br />[[Walter Eschweiler]] ([[German Football Association|West Germany]])
+|}
+
+===Sweden vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=3-6
+|date={{Start date|1974|6|23|df=y}}
+|time=16:00 [[Central European Time|CET]]
+|team1={{fb-rt|SWE}}
+|score={{score link|1974 FIFA World Cup Group 3#Sweden vs Uruguay|3–0}}
+|team2={{fb|URU}}
+|goals1=
+*[[Ralf Edström|Edström]] {{goal|46||77}}
+*[[Roland Sandberg|Sandberg]] {{goal|74}}
+|goals2=
+|stadium=[[Rheinstadion]], [[Düsseldorf]]
+|attendance=28,300
+|referee=[[Erich Linemayr]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/39/262/2181 |title=Sweden vs Uruguay {{!}} Group Matches {{!}} 1974 FIFA World Cup Germany |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=262/match=2181/index.html |title=1974 FIFA World Cup Germany – Matches – Sweden v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001629/http://www.fifa.com/worldcup/matches/round=262/match=2181/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ | pattern_la = _blueborder
+ | pattern_b  = _shoulder_stripes_vneck_blue
+ | pattern_ra = _blueborder
+ | pattern_sh = _yellow_stripes_adidas
+ | pattern_so = _bluehorizontal 
+ | leftarm    = FFF01C
+ | body       = FFF01C
+ | rightarm   = FFF01C
+ | shorts     = 0000FF
+ | socks      = FFF01C
+ | title      = Sweden
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _shorts
+ | pattern_so = _band_blue
+ | leftarm    = 93bef8
+ | body       = 93bef8
+ | rightarm   = 93bef8
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Uruguay
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ronnie Hellström]]
+|-
+|DF ||'''3''' ||[[Kent Karlsson]]
+|-
+|DF ||'''4''' ||[[Björn Nordqvist]] 
+|-
+|DF ||'''5''' ||[[Björn Andersson (footballer, born 1951)|Björn Andersson]]
+|-
+|DF ||'''13'''||[[Roland Grip]]
+|- 
+|MF ||'''6''' ||[[Ove Grahn]]
+|-
+|MF ||'''7''' ||[[Bo Larsson]] ([[Captain (association football)|c]])
+|-
+|MF ||'''15'''||[[Benno Magnusson]] || || {{suboff|60}}
+|-
+|FW ||'''9''' ||[[Ove Kindvall]] || || {{suboff|76}}
+|-
+|FW ||'''10'''||[[Ralf Edström]]
+|-
+|FW ||'''11'''||[[Roland Sandberg]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Thomas Ahlström]] || || {{subon|60}}
+|-
+|MF ||'''8''' ||[[Conny Torstensson]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Georg Ericson]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ladislao Mazurkiewicz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2''' ||[[Baudilio Jáuregui]] || {{yel|21}}
+|-
+|DF ||'''4''' ||[[Pablo Forlán]]
+|-
+|DF ||'''6''' ||[[Ricardo Pavoni]]
+|-
+|DF ||'''14'''||[[Luis Garisto]] || || {{suboff|46}}
+|-
+|MF ||'''8''' ||[[Víctor Espárrago]]
+|-
+|MF ||'''10'''||[[Pedro Rocha (Uruguayan footballer)|Pedro Rocha]]
+|-
+|MF ||'''18'''||[[Walter Mantegazza]]
+|-
+|FW ||'''9''' ||[[Fernando Morena]]
+|-
+|FW ||'''11'''||[[Rubén Corbo]] || || {{suboff|43}}
+|-
+|FW ||'''19'''||[[Denis Milar]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Luis Cubilla]] || || {{subon|43}}
+|-
+|DF ||'''3''' ||[[Juan Carlos Masnik]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Roberto Porta]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Vicente Llobregat]] ([[Venezuelan Football Federation|Venezuela]])
+<br />[[Heinz Aldinger]] ([[German Football Association|West Germany]])
+|}
+
+==See also==
+*[[Bulgaria at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+*[[Sweden at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1974 FIFA World Cup}}
+
+{{DEFAULTSORT:Group 3}}
+[[Category:1974 FIFA World Cup group stage]]
+[[Category:Netherlands at the 1974 FIFA World Cup]]
+[[Category:Uruguay at the 1974 FIFA World Cup]]
+[[Category:Bulgaria at the 1974 FIFA World Cup]]
+[[Category:Sweden at the 1974 FIFA World Cup]]
+[[Category:Sports competitions in Dortmund]]
+[[Category:20th century in Dortmund]]
+[[Category:1970s in North Rhine-Westphalia]]
+[[Category:Football competitions in North Rhine-Westphalia]]
+[[Category:Sports competitions in Düsseldorf]]
+[[Category:1970s in Düsseldorf]]
+[[Category:Sports competitions in Hanover]]
+[[Category:Football competitions in Lower Saxony]]
+[[Category:20th century in Hanover]]

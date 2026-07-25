@@ -1,0 +1,181 @@
+{{Short description|Football tournament knockout stage}}
+{{Use dmy dates|date=June 2018}}
+The knockout stage of [[1978 FIFA World Cup]] was a [[single-elimination tournament]] involving the four teams that qualified from [[1978 FIFA World Cup#Second round|the second group stage of the tournament]]. There were two matches: a match for third place contested by the group runners-up, and the final to decide the champions, contested by the group winners.<ref>{{cite web |url=https://www.rsssf.org/tables/78full.html |title=World Cup 1978 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> The knockout stage began with the match for third place on 24 June and ended with the [[1978 FIFA World Cup final|final]] on 25 June 1978, both at the [[Estadio Monumental Antonio Vespucio Liberti|Estadio Monumental]] in [[Buenos Aires]]. [[Argentina national football team|Argentina]] won the tournament with a 3–1 victory over the [[Netherlands national football team|Netherlands]].<ref>{{Cite web|url = http://www.bbc.co.uk/blogs/legacy/jonathanstevenson/2010/05/the_story_of_the_1978_world_cu.html|title=The story of the 1978 World Cup |date=18 May 2010|work=BBC Sport|accessdate=30 April 2014}}</ref>
+
+==Qualified teams==
+The top two placed teams from each of the two groups of the second round qualified for the knockout stage.
+
+{| class=wikitable
+|-
+! Group
+! width="275" | Winners<br />(qualification for final)
+! width="275" | Runners-up<br />(qualification for match for third place)
+|-
+! [[1978 FIFA World Cup Group A|A]]
+| {{fb|NED}}
+| {{fb|ITA|1946}}
+|-
+! [[1978 FIFA World Cup Group B|B]]
+| {{fb|ARG|1861}}
+| {{fb|BRA|1968}}
+|}
+
+==Match for third place==
+{{see also|Brazil–Italy football rivalry}}
+As of the [[2022 FIFA World Cup]], this is the most recent time when the match for third place was won by a non-European team.
+<section begin=TPP />{{Football box
+|date={{Start date|1978|6|24|df=y}}
+|time=15:00 [[Time in Argentina|ART]]
+|team1={{fb-rt|BRA|1968}}
+|score={{score link|1978 FIFA World Cup knockout stage#Match for third place|2–1}}
+|team2={{fb|ITA|1946}}
+|goals1=
+*[[Nelinho]] {{goal|64}}
+*[[Dirceu]] {{goal|71}}
+|goals2=
+*[[Franco Causio|Causio]] {{goal|38}}
+|stadium=[[Estadio Monumental (Buenos Aires)|River Plate Stadium]], [[Buenos Aires]]
+|attendance=69,659
+|referee=[[Abraham Klein (referee)|Abraham Klein]] ([[Israel Football Association|Israel]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/280/2247 |title=Brazil vs Italy {{!}} Match for third place {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=280/match=2247/index.html |title=1978 FIFA World Cup Argentina – Matches – Brazil v Italy |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213155625/http://www.fifa.com/worldcup/matches/round=280/match=2247/index.html |archive-date=13 December 2017}} }}</ref>
+}}<section end=TPP />
+
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = _bra78h
+| pattern_b  = _bra78h
+| pattern_ra = _bra78h
+| pattern_sh = _adidaswhite
+| pattern_so = _bra88olyhl
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = 0070F9
+| socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+|pattern_la = 
+|pattern_b  = _ita70h
+|pattern_ra = 
+|pattern_so = _2whitestripes
+|leftarm    = 3120cc
+|body       = 3120cc
+|rightarm   = 3120cc
+|shorts     = ffffff
+|socks      = 3120cc
+|title      = Italy
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' || [[Émerson Leão]] ([[Captain (association football)|c]])
+|-
+|DF ||'''13''' || [[Nelinho]] || {{yel|35}}
+|-
+|DF ||'''3''' || [[Oscar (footballer, born 1954)|Oscar]]
+|-
+|DF ||'''4''' || [[João Justino Amaral dos Santos|Amaral]]
+|-
+|DF ||'''16''' || [[José Rodrigues Neto|Rodrigues Neto]]
+|-
+|MF ||'''17''' ||[[João Batista da Silva|Batista]] || {{yel|44}}
+|-
+|MF ||'''5''' || [[Toninho Cerezo]] || || {{suboff|64}}
+|-
+|MF ||'''11''' || [[Dirceu]]
+|-
+|FW ||'''18''' || [[Gilberto Alves|Gil]] || || {{suboff|45+1}}
+|-
+|FW ||'''19''' || [[Jorge Mendonça (footballer, born 1954)|Jorge Mendonça]]
+|-
+|FW ||'''20''' || [[Roberto Dinamite]]
+|-
+|colspan=4|'''Substitutions:'''
+|-
+|FW ||'''9''' || [[José Reinaldo de Lima|Reinaldo]] || {{subon|45+1}}
+|-
+|FW ||'''10''' || [[Rivellino|Rivelino]] || {{subon|64}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Cláudio Coutinho]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1''' || [[Dino Zoff]] ([[Captain (association football)|c]])
+|-
+|DF || '''6''' || [[Aldo Maldera]]
+|-
+|DF || '''3''' || [[Antonio Cabrini]]
+|-
+|DF || '''5''' || [[Claudio Gentile]] || {{yel|72}}
+|-
+|DF || '''8''' || [[Gaetano Scirea]]
+|-
+|MF || '''4''' || [[Antonello Cuccureddu]]
+|-
+|MF || '''13''' || [[Patrizio Sala]]
+|-
+|MF || '''9''' || [[Giancarlo Antognoni]] || || {{suboff|78}}
+|-
+|MF || '''16''' || [[Franco Causio]]
+|-
+|CF || '''18''' || [[Roberto Bettega]]
+|-
+|CF || '''21''' || [[Paolo Rossi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''17''' || [[Claudio Sala]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Enzo Bearzot]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|-
+|style="width:50%; vertical-align:top;"|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Alfonso González Archundia]] ([[Mexican Football Federation|Mexico]])
+<br />[[Károly Palotai]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+==Final==
+{{main|1978 FIFA World Cup final}}
+
+{{#lst:1978 FIFA World Cup final|Final}}
+{{#lst:1978 FIFA World Cup final|Lineups}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+* [https://www.fifa.com/tournaments/mens/worldcup/1978argentina 1978 FIFA World Cup archive]
+
+{{1978 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:1978 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1978]]
+[[Category:Netherlands at the 1978 FIFA World Cup]]
+[[Category:Argentina at the 1978 FIFA World Cup]]
+[[Category:Brazil at the 1978 FIFA World Cup]]
+[[Category:Italy at the 1978 FIFA World Cup]]
+[[Category:Football competitions in Buenos Aires]]
+[[Category:International sports competitions in Buenos Aires]]
+[[Category:1970s in Buenos Aires]]

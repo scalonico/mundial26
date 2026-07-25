@@ -1,0 +1,904 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Play in '''Group E of the [[1990 FIFA World Cup]]''' completed on 21 June 1990. [[Spain national football team|Spain]] won the group, and advanced to the second round, along with [[Belgium national football team|Belgium]] and [[Uruguay national football team|Uruguay]]. [[South Korea national football team|South Korea]] failed to advance.<ref>{{cite web |url=https://www.rsssf.org/tables/90full.html |title=World Cup 1990 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+|class_rules=[[1990 FIFA World Cup#Group stage|Group stage tiebreakers]]
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150407140015/http://www.fifa.com/worldcup/archive/italy1990/groups/index.html FIFA]
+
+|team1=ESP |team2=BEL |team3=URU |team4=KOR
+|result1=KO |result2=KO |result3=KO
+
+|win_BEL=2 |draw_BEL=0 |loss_BEL=1 |gf_BEL=6 |ga_BEL=3
+|win_ESP=2 |draw_ESP=1 |loss_ESP=0 |gf_ESP=5 |ga_ESP=2
+|win_URU=1 |draw_URU=1 |loss_URU=1 |gf_URU=2 |ga_URU=3
+|win_KOR=0 |draw_KOR=0 |loss_KOR=3 |gf_KOR=1 |ga_KOR=6
+
+|name_BEL={{fb|BEL}}
+|name_ESP={{fb|ESP}}
+|name_URU={{fb|URU}}
+|name_KOR={{fb|KOR|1984}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1990 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times local ([[Central European Summer Time|CEST/UTC+2]])
+
+===Belgium vs South Korea===
+<onlyinclude>{{#invoke:Football box|main|section=E1
+|date={{Start date|1990|6|12|df=y}}
+|time=17:00
+|team1={{fb-rt|BEL}}
+|score={{score link|1990 FIFA World Cup Group E#Belgium vs South Korea|2–0}}
+|team2={{fb|KOR|1984}}
+|goals1=
+*[[Marc Degryse|Degryse]] {{goal|53}}
+*[[Michel De Wolf|De Wolf]] {{goal|64}}
+|goals2=
+|stadium=[[Stadio Marc'Antonio Bentegodi]], [[Verona]]
+|attendance=32,790
+|referee=[[Vincent Mauro]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/57 |title=Belgium vs Korea Republic {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=57/index.html |title=1990 FIFA World Cup Italy – Matches – Belgium v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724215638/http://www.fifa.com/worldcup/matches/round=322/match=57/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1990a
+ | pattern_b  = _belgium1990a
+ | pattern_ra = _belgium1990a
+ | pattern_sh = _belgium1990a
+ | pattern_so = _belgium1990a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Belgium
+}}
+|{{Football kit
+ |leftarm    = FF0000
+ |pattern_la = _kor1990
+ |body       = FF0000
+ |pattern_b  = _kor90
+ |rightarm   = FF0000
+ |pattern_ra = _kor1990
+ |shorts     = FF0000
+ |socks      = FF0000
+ |pattern_so = 
+ | title      = South Korea
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michel Preud'homme]]
+|-
+|SW ||'''7''' ||[[Stéphane Demol]]
+|-
+|DF ||'''2''' ||[[Eric Gerets]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||[[Lei Clijsters]]
+|-
+|DF ||'''16'''||[[Michel De Wolf]]
+|-
+|MF ||'''5''' ||[[Bruno Versavel]] 
+|-
+|MF ||'''6''' ||[[Marc Emmers]]
+|-
+|MF ||'''8''' ||[[Franky Van der Elst]]
+|-
+|MF ||'''10'''||[[Enzo Scifo]]
+|-
+|FW ||'''9''' ||[[Marc Degryse]]
+|-
+|FW ||'''19'''||[[Marc Van Der Linden]]|| || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Jan Ceulemans]] || || {{subon|46}}
+|-
+|GK ||'''12'''||[[Gilbert Bodart]] 
+|-
+|DF ||'''13'''||[[Georges Grün]] 
+|-
+|FW ||'''21'''||[[Marc Wilmots]] 
+|-
+|MF ||'''22'''||[[Patrick Vervoort]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Guy Thys]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Choi In-Young]]
+|-
+|DF ||'''2''' ||[[Park Kyung-Hoon]]
+|-
+|DF ||'''3''' ||[[Choi Kang-Hee (footballer)|Choi Kang-Hee]]
+|-
+|DF ||'''5''' ||[[Chung Yong-Hwan]] ([[Captain (association football)|c]])
+|-
+|DF ||'''17'''||[[Gu Sang-Bum]]
+|-
+|MF ||'''20'''||[[Hong Myung-Bo]]
+|-
+|MF ||'''7''' ||[[Noh Soo-Jin]]|| || {{suboff|62}}
+|-
+|MF ||'''22'''||[[Lee Young-jin (footballer born 1963)|Lee Young-jin]]|| || {{suboff|46}}
+|-
+|MF ||'''14'''||[[Choi Soon-Ho]]|| {{yel|39}}
+|-
+|FW ||'''16'''||[[Kim Joo-Sung]] 
+|-
+|FW ||'''18'''||[[Hwang Sun-Hong]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4''' ||[[Yoon Deuk-Yeo]] 
+|-
+|FW ||'''6''' ||[[Lee Tae-Ho]] || || {{subon|62}}
+|-
+|FW ||'''9''' ||[[Hwangbo Kwan]] 
+|-
+|DF ||'''15'''||[[Cho Min-Kook]] || || {{subon|46}}
+|-
+|GK ||'''19''' ||[[Jeong Gi-Dong]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Lee Hoi-Taek]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Alan Snoddy]] ([[Irish Football Association|Northern Ireland]])
+<br />[[George Courtney]] ([[The Football Association|England]])
+|}
+
+===Uruguay vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=E2
+|date={{Start date|1990|6|13|df=y}}
+|time=17:00
+|team1={{fb-rt|URU}}
+|score={{score link|1990 FIFA World Cup Group E#Uruguay vs Spain|0–0}}
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+|stadium=[[Stadio Friuli]], [[Udine]]
+|attendance=35,713
+|referee=[[Helmut Kohl (referee)|Helmut Kohl]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/180 |title=Uruguay vs Spain {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=180/index.html |title=1990 FIFA World Cup Italy – Matches – Uruguay v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724213807/http://www.fifa.com/worldcup/matches/round=322/match=180/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _uruguay1990h
+ | pattern_b  = _uruguay1990h
+ | pattern_ra = _uruguay1990h
+ | pattern_sh = _uruguay1990h
+ | pattern_so = _uruguay1990h
+ | leftarm    = 5AADFD
+ | body       = 5AADFD
+ | rightarm   = 5AADFD
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Uruguay
+}}
+|{{Football kit
+ | pattern_la = _spain1990h
+ | pattern_b  = _spain1990h
+ | pattern_ra = _spain1990h
+ | pattern_sh = _spain1990a
+ | pattern_so = _spain1990
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Álvez]]
+|-
+|SW ||'''3''' ||[[Hugo de León]]
+|-
+|RB ||'''4''' ||[[José Oscar Herrera]]
+|-
+|CB ||'''2''' ||[[Nelson Gutiérrez]]
+|-
+|LB ||'''6''' ||[[Alfonso Domínguez]]
+|-
+|DM ||'''5''' ||[[José Perdomo]]|| {{yel|10}}
+|-
+|CM ||'''20'''||[[Ruben Pereira]]|| || {{suboff|64}}
+|-
+|CM ||'''10'''||[[Rubén Paz]] 
+|-
+|AM ||'''9''' ||[[Enzo Francescoli]] ([[Captain (association football)|c]])|| {{yel|80}}
+|-
+|CF ||'''7''' ||[[Antonio Alzamendi]]|| || {{suboff|64}}
+|-
+|CF ||'''11'''||[[Rubén Sosa]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''14'''||[[José Pintos Saldanha]] 
+|-
+|MF ||'''15'''||[[Gabriel Correa (footballer)|Gabriel Correa]] || || {{subon|64}}
+|-
+|MF ||'''16'''||[[Pablo Bengoechea]]
+|-
+|FW ||'''18'''||[[Carlos Aguilera (Uruguayan footballer)|Carlos Aguilera]] || || {{subon|64}}
+|-
+|GK ||'''22'''||[[Javier Zeoli]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Óscar Tabárez]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|SW ||'''4''' ||[[Genar Andrinúa]]
+|-
+|RB ||'''2''' ||[[Chendo]]
+|-
+|CB ||'''5''' ||[[Manolo Sanchís]]
+|-
+|LB ||'''3''' ||[[Manolo Jiménez (footballer, born 1964)|Manolo Jiménez]]|| {{yel|23}}
+|-
+|RM ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]]
+|-
+|CM ||'''15'''||[[Robert Fernández (footballer)|Roberto]]
+|-
+|CM ||'''6''' ||[[Rafael Martín Vázquez]]
+|-
+|LM ||'''11'''||[[Francisco Villarroya]]|| {{yel|70}} || {{suboff|79}}
+|-
+|CF ||'''20'''||[[Manolo (footballer, born 1965)|Manolo]]|| || {{suboff|79}}
+|-
+|CF ||'''9''' ||[[Emilio Butragueño]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''8''' ||[[Quique Sánchez Flores|Quique]] 
+|-
+|GK ||'''13'''||[[Juan Carlos Ablanedo]] 
+|-
+|DF ||'''14'''||[[Alberto Górriz]] || || {{subon|79}}
+|-
+|MF ||'''18'''||[[Rafael Paz]] || || {{subon|79}}
+|-
+|FW ||'''19'''||[[Julio Salinas]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Suárez Miramontes|Luis Suárez]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Alexey Spirin]] ([[Football Federation of the Soviet Union|Soviet Union]])
+<br />[[Siegfried Kirschen]] ([[East German Football Association|East Germany]])
+|}
+
+===Belgium vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=E3
+|date={{Start date|1990|6|17|df=y}}
+|time=21:00
+|team1={{fb-rt|BEL}}
+|score={{score link|1990 FIFA World Cup Group E#Belgium vs Uruguay|3–1}}
+|team2={{fb|URU}}
+|goals1=
+*[[Lei Clijsters|Clijsters]] {{goal|15}}
+*[[Enzo Scifo|Scifo]] {{goal|22}}
+*[[Jan Ceulemans|Ceulemans]] {{goal|46}}
+|goals2=
+*[[Pablo Bengoechea|Bengoechea]] {{goal|72}}
+|stadium=[[Stadio Marc'Antonio Bentegodi]], [[Verona]]
+|attendance=33,759
+|referee=[[Siegfried Kirschen]] ([[East German Football Association|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/66 |title=Belgium vs Uruguay {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=66/index.html |title=1990 FIFA World Cup Italy – Matches – Belgium v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170828130338/http://www.fifa.com/worldcup/matches/round=322/match=66/index.html |archive-date=28 August 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1990h
+ | pattern_b  = _belgium1990h
+ | pattern_ra = _belgium1990h
+ | pattern_sh = _belgium1990h
+ | pattern_so = _belgium1990h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _uruguay1990 
+ | pattern_b  = _uruguay1990 
+ | pattern_ra = _uruguay1990 
+ | pattern_sh = _uruguay1990 
+ | pattern_so = _uruguay1990 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michel Preud'homme]]
+|-
+|SW ||'''7''' ||[[Stéphane Demol]]
+|-
+|RB ||'''2''' ||[[Eric Gerets]]|| {{sent off|2|36|42}}
+|-
+|CB ||'''13'''||[[Georges Grün]]
+|-
+|LB ||'''16'''||[[Michel De Wolf]]
+|-
+|RM ||'''4''' ||[[Lei Clijsters]]||{{suboff|46}}
+|-
+|CM ||'''8''' ||[[Franky Van der Elst]]
+|-
+|CM ||'''10'''||[[Enzo Scifo]] 
+|-
+|LM ||'''5''' ||[[Bruno Versavel]]||{{suboff|73}} 
+|-
+|CF ||'''11'''||[[Jan Ceulemans]] ([[Captain (association football)|c]])  
+|-
+|CF ||'''9''' ||[[Marc Degryse]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''20'''||[[Filip De Wilde]]
+|-
+|MF ||'''6''' ||[[Marc Emmers]]||{{subon|46}}
+|-
+|MF ||'''22'''||[[Patrick Vervoort]]||{{subon|73}}
+|-
+|FW ||'''14'''||[[Nico Claesen]] 
+|-
+|FW ||'''19'''||[[Marc Van Der Linden]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Guy Thys]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Álvez]]
+|-
+|SW ||'''2''' ||[[Nelson Gutiérrez]]
+|-
+|RB ||'''4''' ||[[José Oscar Herrera]]
+|- 
+|CB ||'''3''' ||[[Hugo de León]]
+|-
+|LB ||'''6''' ||[[Alfonso Domínguez]]
+|-
+|CM ||'''8''' ||[[Santiago Ostolaza]]||{{suboff|56}} 
+|-
+|CM ||'''5''' ||[[José Perdomo]]
+|-
+|RW ||'''7''' ||[[Antonio Alzamendi]]||{{suboff|46}}
+|-
+|AM ||'''9''' ||[[Enzo Francescoli]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''||[[Rubén Paz]]
+|-
+|CF ||'''11'''||[[Rubén Sosa]]|| {{yel|41}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''22'''||[[Javier Zeoli]] 
+|-
+|DF ||'''14'''||[[José Pintos Saldanha]] 
+|-
+|MF ||'''16'''||[[Pablo Bengoechea]]||{{subon|56}}
+|-
+|MF ||'''20'''||[[Ruben Pereira]]
+|-
+|FW ||'''18'''||[[Carlos Aguilera (Uruguayan footballer)|Carlos Aguilera]]||{{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Óscar Tabárez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+<br />[[Alexey Spirin]] ([[Football Federation of the Soviet Union|Soviet Union]])
+|}
+
+===South Korea vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=E4
+|date={{Start date|1990|6|17|df=y}}
+|time=21:00
+|team1={{fb-rt|KOR|1984}}
+|score={{score link|1990 FIFA World Cup Group E#South Korea vs Spain|1–3}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Hwangbo Kwan]] {{goal|43}}
+|goals2=
+*[[Míchel (footballer, born 1963)|Míchel]] {{goal|23||61||81}}
+|stadium=[[Stadio Friuli]], [[Udine]]
+|attendance=32,733
+|referee=[[Elías Jácome]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/175 |title=Korea Republic vs Spain {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=175/index.html |title=1990 FIFA World Cup Italy – Matches – Korea Republic v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170926191019/http://www.fifa.com/worldcup/matches/round=322/match=175/index.html |archive-date=26 September 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _kor1990
+ | pattern_b  = _kor1990a
+ | pattern_ra = _kor1990
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = South Korea
+}}
+|{{Football kit
+ | pattern_la = _spain1990h
+ | pattern_b  = _spain1990h
+ | pattern_ra = _spain1990h
+ | pattern_sh = _spain1990h
+ | pattern_so = _spain1990
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 3041FF
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Choi In-Young]]
+|-
+|DF ||'''2''' ||[[Park Kyung-Hoon]]|| || {{suboff|68}}
+|-
+|DF ||'''3''' ||[[Choi Kang-Hee (footballer)|Choi Kang-Hee]]
+|-
+|DF ||'''4''' ||[[Yoon Deuk-Yeo]]|| {{yel|52}}
+|-
+|DF ||'''17'''||[[Gu Sang-Bum]]
+|-
+|MF ||'''20'''||[[Hong Myung-Bo]]
+|-
+|MF ||'''8''' ||[[Chung Hae-Won]]|| {{yel|29}} || {{suboff|52}}
+|-
+|MF ||'''14'''||[[Choi Soon-Ho]] ([[Captain (association football)|c]])
+|-
+|MF ||'''16'''||[[Kim Joo-Sung]]
+|-
+|FW ||'''9''' ||[[Hwangbo Kwan]]|| {{yel|69}}
+|-
+|FW ||'''11'''||[[Byun Byung-Joo]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Noh Soo-Jin]]|| || {{subon|52}}
+|-
+|FW ||'''12'''||[[Lee Heung-Sil]]
+|-
+|DF ||'''13'''||[[Chung Jong-Soo]] || || {{subon|68}}
+|-
+|DF ||'''15'''||[[Cho Min-Kook]]
+|-
+|GK ||'''19'''||[[Jeong Gi-Dong]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Lee Hoi-Taek]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|SW ||'''4''' ||[[Genar Andrinúa]]
+|-
+|RB ||'''2''' ||[[Chendo]]
+|-
+|CB ||'''14'''||[[Alberto Górriz]] 
+|-
+|CB ||'''5''' ||[[Manuel Sanchís Hontiyuelo|Manuel Sanchís]]
+|-
+|LB ||'''11'''||[[Francisco Villarroya]]
+|-
+|CM ||'''15'''||[[Roberto Fernández Bonillo|Roberto]]|| || {{suboff|81}}
+|-
+|CM ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]]
+|-
+|CM ||'''6''' ||[[Rafael Martín Vázquez]]
+|-
+|CF ||'''9''' ||[[Emilio Butragueño]] ([[Captain (association football)|c]])|| || {{suboff|76}}
+|-
+|CF ||'''19'''||[[Julio Salinas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''8''' ||[[Quique Flores|Quique]] 
+|-
+|MF ||'''10'''||[[Fernando Gómez Colomer|Fernando Gómez]] || || {{subon|76}}
+|-
+|GK ||'''13'''||[[Juan Carlos Ablanedo]] 
+|-
+|MF ||'''16'''||[[José Mari Bakero]] || || {{subon|81}}
+|-
+|DF ||'''17'''||[[Fernando Hierro]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Suárez Miramontes|Luis Suárez]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Pierluigi Magni]] ([[Italian Football Federation|Italy]])
+<br />[[Juan Carlos Loustau]] ([[Argentine Football Association|Argentina]])
+|}
+
+===Belgium vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=E5
+|date={{Start date|1990|6|21|df=y}}
+|time=17:00
+|team1={{fb-rt|BEL}}
+|score={{score link|1990 FIFA World Cup Group E#Belgium vs Spain|1–2}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Patrick Vervoort|Vervoort]] {{goal|29}}
+|goals2=
+*[[Míchel (footballer, born 1963)|Míchel]] {{goal|26|pen.}}
+*[[Alberto Górriz|Górriz]] {{goal|38}}
+|stadium=[[Stadio Marc'Antonio Bentegodi]], [[Verona]]
+|attendance=35,950
+|referee=[[Juan Carlos Loustau]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/56 |title=Belgium vs Spain {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=56/index.html |title=1990 FIFA World Cup Italy – Matches – Belgium v Spain |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170724212501/http://www.fifa.com/worldcup/matches/round=322/match=56/index.html |archive-date=24 July 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _belgium1990a
+ | pattern_b  = _belgium1990a
+ | pattern_ra = _belgium1990a
+ | pattern_sh = _belgium1990a
+ | pattern_so = _belgium1990a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Belgium
+}}
+|{{Football kit
+ | pattern_la = _spain1990h
+ | pattern_b  = _spain1990h
+ | pattern_ra = _spain1990h
+ | pattern_sh = _spain1990h
+ | pattern_so = _spain1990
+ | leftarm    = ED1C24
+ | body       = ED1C24
+ | rightarm   = ED1C24
+ | shorts     = 3041FF
+ | socks      = 000000
+ | title      = Spain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Michel Preud'homme]]
+|-
+|DF ||'''3''' ||[[Philippe Albert]]
+|-
+|DF ||'''7''' ||[[Stéphane Demol]]
+|-
+|DF ||'''16'''||[[Michel De Wolf]]
+|-
+|MF ||'''22'''||[[Patrick Vervoort]]
+|-
+|MF ||'''6''' ||[[Marc Emmers]]|| || {{suboff|31}}
+|-
+|MF ||'''8''' ||[[Franky Van der Elst]]
+|-
+|MF ||'''10'''||[[Enzo Scifo]]
+|-
+|MF ||'''18'''||[[Lorenzo Staelens]]|| || {{suboff|78}}
+|-
+|FW ||'''9''' ||[[Marc Degryse]]
+|-
+|FW ||'''11'''||[[Jan Ceulemans]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5'''||[[Bruno Versavel]] || ||
+|-
+|GK ||'''12'''||[[Gilbert Bodart]] || ||
+|-
+|DF ||'''15'''||[[Jean-François De Sart|Jean-François de Sart]] || ||
+|-
+|DF ||'''17'''||[[Pascal Plovie]] || || {{subon|31}}
+|-
+|FW ||'''19'''||[[Marc Van Der Linden|Marc van der Linden]]|| || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Guy Thys]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andoni Zubizarreta]]
+|-
+|SW ||'''4''' ||[[Genar Andrinúa]]
+|-
+|RB ||'''2''' ||[[Chendo]]
+|-
+|CB ||'''14'''||[[Alberto Górriz]] 
+|-
+|CB ||'''5''' ||[[Manolo Sanchís]]
+|-
+|LB ||'''11'''||[[Francisco Villarroya]]
+|-
+|CM ||'''15'''||[[Roberto Fernández Bonillo|Roberto]]
+|-
+|AM ||'''21'''||[[Míchel (footballer, born 1963)|Míchel]]
+|-
+|AM ||'''6''' ||[[Rafael Martín Vázquez]]
+|-
+|CF ||'''9''' ||[[Emilio Butragueño]] ([[Captain (association football)|c]])|| || {{suboff|82}}
+|-
+|CF ||'''19'''||[[Julio Salinas]]|| || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Manolo Jiménez (footballer, born 1964)|Manolo Jiménez]] || || 
+|-
+|FW ||'''7''' ||[[Miguel Pardeza]] || || {{subon|88}}
+|-
+|DF ||'''12'''||[[Rafael Alkorta]] || || {{subon|82}}
+|-
+|MF ||'''18''' ||[[Rafael Paz|Rafa Paz]] || || 
+|-
+|GK ||'''22''' ||[[José Manuel Ochotorena|José Ochotorena]] || || 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Luis Suárez (footballer, born 1935)|Luis Suárez]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Carlos Maciel]] ([[Paraguayan Football Association|Paraguay]])
+<br />Vincent Mauro ([[United States Soccer Federation|United States]])
+|}
+
+===South Korea vs Uruguay===
+<onlyinclude>{{#invoke:Football box|main|section=E6
+|date={{Start date|1990|6|21|df=y}}
+|time=17:00
+|team1={{fb-rt|KOR|1984}}
+|score={{score link|1990 FIFA World Cup Group E#South Korea vs Uruguay|0–1}}
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+*[[Daniel Fonseca|Fonseca]] {{goal|90+1}}
+|stadium=[[Stadio Friuli]], [[Udine]]
+|attendance=29,039
+|referee=[[Tullio Lanese]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/290 |title=Korea Republic vs Uruguay {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=290/index.html |title=1990 FIFA World Cup Italy – Matches – Korea Republic v Uruguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170926235308/http://www.fifa.com/worldcup/matches/round=322/match=290/index.html |archive-date=26 September 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |leftarm    = FF0000
+ |pattern_la = _southkorea1990
+ |body       = FF0000
+ |pattern_b  = _kor90
+ |rightarm   = FF0000
+ |pattern_ra = _southkorea1990
+ |shorts     = FF0000
+ |socks      = FF0000
+ | title      = South Korea
+}}
+|{{Football kit
+ | pattern_la = _uruguay1990
+ | pattern_b  = _uruguay1990
+ | pattern_ra = _uruguay1990
+ | pattern_sh = _uruguay1990
+ | pattern_so = _uruguay1990
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Uruguay
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Choi In-Young]]
+|-
+|DF ||'''2''' ||[[Park Kyung-Hoon]]
+|-
+|DF ||'''3''' ||[[Choi Kang-Hee (footballer)|Choi Kang-Hee]]|| {{yel|62}}
+|-
+|DF ||'''4''' ||[[Yoon Deuk-Yeo]]|| {{sent off|2|49|70}}
+|-
+|DF ||'''13'''||[[Chung Jong-Soo]] 
+|-
+|MF ||'''20'''||[[Hong Myung-Bo]]
+|-
+|MF ||'''12'''||[[Lee Heung-Sil]]|| {{yel|22}}
+|-
+|MF ||'''14'''||[[Choi Soon-Ho]] ([[Captain (association football)|c]])
+|-
+|MF ||'''16'''||[[Kim Joo-Sung]]
+|-
+|FW ||'''9''' ||[[Hwangbo Kwan]]|| || {{suboff|79}}
+|-
+|FW ||'''11'''||[[Byun Byung-Joo]]|| || {{suboff|43}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Noh Soo-Jin]]||
+|-
+|MF ||'''8''' ||[[Chung Hae-Won]]|| || {{subon|79}}
+|-
+|DF ||'''15'''||[[Cho Min-Kook]]
+|-
+|FW ||'''18'''||[[Hwang Sun-Hong]] || || {{subon|43}}
+|-
+|GK ||'''19'''||[[Jeong Gi-Dong]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Lee Hoi-Taek]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Fernando Álvez]]
+|-
+|SW ||'''3''' ||[[Hugo de León]]
+|-
+|DF ||'''4''' ||[[José Oscar Herrera]]|| {{yel|44}}
+|-
+|DF ||'''6''' ||[[Alfonso Domínguez]]
+|-
+|DF ||'''2''' ||[[Nelson Gutiérrez]]
+|-
+|MF ||'''10'''||[[Rubén Paz]] 
+|-
+|MF ||'''9''' ||[[Enzo Francescoli]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Santiago Ostolaza]]|| {{yel|23}} || {{suboff|46}}
+|-
+|MF ||'''5''' ||[[José Perdomo]]
+|-
+|FW ||'''17'''||[[Sergio Daniel Martínez|Sergio Martínez]]
+|-
+|FW ||'''11'''||[[Rubén Sosa]]|| || {{suboff|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''14'''||[[José Pintos Saldanha]] 
+|-
+|MF ||'''16'''||[[Pablo Bengoechea]]
+|-
+|FW ||'''18'''||[[Carlos Aguilera (Uruguayan footballer)|Carlos Aguilera]] || || {{subon|46}}
+|-
+|FW ||'''19'''||[[Daniel Fonseca]] || || {{subon|62}}
+|-
+|GK ||'''22'''||[[Javier Zeoli]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Óscar Tabárez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Jean-Fidèle Diramba]] ([[Gabonese Football Federation|Gabon]])
+<br />[[Neji Jouini]] ([[Tunisian Football Federation|Tunisia]])
+|}
+
+==See also==
+*[[Belgium at the FIFA World Cup]]
+*[[South Korea at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+*[[Uruguay at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1990 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:1990 FIFA World Cup group stage|E]]
+[[Category:Spain at the 1990 FIFA World Cup|Group]]
+[[Category:Belgium at the 1990 FIFA World Cup]]
+[[Category:South Korea at the 1990 FIFA World Cup]]
+[[Category:Uruguay at the 1990 FIFA World Cup|Group]]
+[[Category:Sport in Verona]]
+[[Category:20th century in Veneto]]
+[[Category:Sport in Udine]]

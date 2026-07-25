@@ -1,0 +1,182 @@
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title            = 1954 FIFA World Cup<br />Quarter-final
+| other_titles     = ''The heat battle of Lausanne'' ({{Lang|de|Hitzeschlacht von Lausanne}})
+| image            = ETH-BIB-Lausanne, La, Pontaise, Stade, olympique-LBS H1-016165 crop.tif
+| event            = 
+| team1            = [[Austria national football team|Austria]]
+| team1association = {{flagicon|AUT|size=30px}}
+| team1score       = 7
+| team2            = [[Switzerland national football team|Switzerland]]
+| team2association = {{flagicon|SUI|size=30px}}
+| team2score       = 5
+| details          = 
+| date             = {{Start date|1954|06|26|df=y}}
+| stadium          = [[Stade Olympique de la Pontaise|La Pontaise]]
+| city             = [[Lausanne]]
+| referee          = Charlie Faultless ([[Scottish Football Association|Scotland]])
+| attendance       = 35,000
+| weather          = Extreme heat ({{cvt|40|C|F}})
+}}
+
+'''Austria 7–5 Switzerland''' was a [[association football|football]] match played on 26 June 1954, in a quarter-final match of the [[1954 FIFA World Cup]], where [[Austria national football team|Austria]] beat [[Switzerland national football team|Switzerland]] in [[Lausanne]], Switzerland. The 12 goals scored in the match set a [[FIFA World Cup records|men’s World Cup record]], unequalled to date, for the highest scoring match ever. The match is known by its German name, '''''Hitzeschlacht von Lausanne''''' (roughly translated to "The heat battle of Lausanne"), due to the high temperature that it was played under–{{cvt|40|C|F}}.
+
+==Match==
+
+===Summary===
+Switzerland, the tournament hosts, took a notable lead early on. In four minutes, the Swiss scored three goals: [[Striker (association football)|forward]] Robert Ballaman opened the score at the 16th minute, followed quickly by two goals by [[Josef Hügi]]. Austria then became the first team in World Cup history to recover from a 3–0 deficit, scoring 5 goals in the remainder of the first half; [[Theodor Wagner (footballer)|Theodor Wagner]] initiated the Austrian response at the 25th minute; forward [[Alfred Körner]]{{efn|reference=According to the official [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_1237.html match report] {{Webarchive|url=https://web.archive.org/web/20061212203242/http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_1237.html|date=12 December 2006}} by [[FIFA]], [[Robert Körner]] scored the second and fifth Austrian goals, but most sources not related to FIFA, including [[RSSSF]]({{cite web |title=World Cup 1954 finals |url=https://www.rsssf.org/tables/54full.html |url-status=live |archiveurl=https://web.archive.org/web/20070103001706/http://www.rsssf.com/tables/54full.html |archivedate=3 January 2007 |accessdate=8 December 2006}}), {{in lang|de}} SportZeitung ({{cite web |title=Archived copy |url=http://www.sportzeitung.at/topicshow.php?id%3D2242 |url-status=dead |archiveurl=https://web.archive.org/web/20070929010513/http://www.sportzeitung.at/topicshow.php?id=2242 |archivedate=29 September 2007 |accessdate=8 December 2006}}), [[ESPN]]([http://soccernet.espn.go.com/match?id=197597&cc=5739] {{Webarchive|url=https://web.archive.org/web/20120214081604/http://soccernet.espn.go.com/match?id=197597&cc=5739|date=14 February 2012}}) and the [[BBC]]([https://www.h2g2.com/entry/A779808]), state that Robert's younger brother, [[Alfred Körner|Alfred]], scored those goals. The RSSSF page also states that Alfred Körner took and missed a [[Penalty kick (association football)|penalty kick]] in the 42nd minute.}} drew the score to 2–3 one minute later, and another minute later Wagner equalized to 3–3. Austria had tied the score in three minutes. In 11 minutes, between the 16th and the 27th minutes, six goals were scored, three by each team. At the 32nd minute, [[Ernst Ocwirk]] gave Austria the lead; Körner added his second, making the score 5–3. Ballaman scored again for Switzerland at the 39th minute. The first half thus ended 5–4 in favour of Austria, being the highest scoring half in World Cup history, even after inside left Körner had missed a [[Penalty kick (association football)|penalty kick]] in the 42nd minute.<ref name="RSSSF2">[https://www.rsssf.org/tables/54full.html World Cup 1954 full details] {{webarchive |url=https://web.archive.org/web/20070103001706/http://rsssf.com/tables/54full.html#4fin |date=3 January 2007 }} – by Gwidon S. Naskrent et al., [[RSSSF]]. Retrieved 8 December 2006.</ref>
+
+Nine minutes into the second half, Wagner put Austria up 6–4 with his third goal, recording the seventh [[hat-trick]] of the 1954 World Cup (''See [[FIFA World Cup hat-tricks#List of World Cup hat-tricks|List of World Cup hat-tricks]]''). Hügi would then emulate the feat, scoring his third at the 58th minute. Switzerland was not able to equalize, and [[Erich Probst]] made it 7–5 to end the scoring at the 76th minute. According to [[FIFA]], the extreme heat adversely affected Switzerland<ref>[http://fifaworldcup.yahoo.com/06/en/p/pwc/1954.html World Cup Switzerland 1954 overview – "Did you know?"] {{Webarchive|url=https://web.archive.org/web/20061201111620/http://fifaworldcup.yahoo.com/06/en/p/pwc/1954.html |date=1 December 2006 }} – fifaworldcup.yahoo.com – [[FIFA]]. Retrieved 8 December 2006.</ref> after they led the match 3–0 at one point. Other sources add that at first, Switzerland had been able to take advantage of the temperature, when Austrian [[goalkeeper (football)|goalkeeper]] [[Kurt Schmied]] suffered from [[hyperthermia]] early in the match, quickly allowing the first three Swiss goals, before being assisted by the Austrian masseur while in play.
+
+===Details===
+<section begin=QF1 />{{Football box
+|date={{Start date|1954|6|26|df=y}}
+|time=17:00 [[Central European Time|CET]]
+|team1={{fb-rt|AUT}}
+|score={{score link|1954 FIFA World Cup knockout stage#Austria vs Switzerland|7–5|Austria v Switzerland (1954 FIFA World Cup)}}
+|team2={{fb|SUI|civil}}
+|goals1=
+*[[Theodor Wagner|Wagner]] {{goal|25||27||53}}
+*[[Alfred Körner|A. Körner]] {{goal|26||34}}
+*[[Ernst Ocwirk|Ocwirk]] {{goal|32}}
+*[[Erich Probst|Probst]] {{goal|76}}
+|goals2=
+*[[Robert Ballaman|Ballaman]] {{goal|16||39}}
+*[[Josef Hügi|Hügi]] {{goal|17||19||60}}
+|stadium=[[Stade Olympique de la Pontaise]], [[Lausanne]]
+|attendance=35,000
+|referee=Charlie Faultless ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/9/212/1237 |title=Austria vs Switzerland {{!}} Quarter-final {{!}} 1954 FIFA World Cup Switzerland |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=212/match=1237/index.html |title=1954 FIFA World Cup Switzerland – Matches – Austria v Switzerland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202063833/http://www.fifa.com/worldcup/matches/round=212/match=1237/index.html |archive-date=2 December 2017}} }}</ref>
+}}<section end=QF1 />
+<section begin=Line-ups />
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _vneck
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = ffffff
+| body                 =  ffffff
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Austria
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  
+| pattern_b             = _old_laced
+| pattern_ra            = 
+| pattern_sh            = 
+| pattern_so            = _2_white_stripes
+| leftarm               = ff0000
+| body                 = ff0000 
+| rightarm              =ff0000 
+| shorts               = ffffff
+| socks                 =000000 
+ | title           = Switzerland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Kurt Schmied]]
+|-
+|RB ||'''2'''||[[Gerhard Hanappi]]
+|-
+|CB ||'''3'''||[[Ernst Happel]]
+|-
+|LB ||'''4''' ||[[Leopold Barschandt]]
+|-
+|RH ||'''5''' ||[[Ernst Ocwirk]] ([[Captain (association football)|c]])
+|-
+|LH ||'''6''' ||[[Karl Koller (footballer)|Karl Koller]]
+|-
+|OR ||'''7'''||[[Robert Körner]]
+|-
+|IR ||'''21'''||[[Ernst Stojaspal]]
+|-
+|CF ||'''9''' ||[[Theodor Wagner]] 
+|-
+|IL ||'''10''' ||[[Erich Probst]] 
+|-
+|OL ||'''11'''||[[Alfred Körner]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Walter Nausch]] 
+|}
+{{col-2}}
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''2''' ||[[Eugene Parlier]]
+|-
+|DF ||'''7''' ||[[André Neury]]
+|-
+|DF ||'''14''' ||[[Willy Kernen]]
+|-
+|DF ||'''10''' ||[[Oliver Eggimann]]
+|-
+|MF ||'''4'''||[[Roger Bocquet]] ([[Captain (association football)|c]])
+|-
+|MF ||'''9''' ||[[Charles Casali]]
+|-
+|FW ||'''15'''||[[Charles Antenen]]
+|-
+|FW ||'''22'''||[[Roger Vonlanthen]]
+|-
+|FW ||'''18'''||[[Josef Hügi]]
+|-
+|FW ||'''16'''||[[Robert Ballaman]]
+|-
+|FW ||'''17''' ||[[Jacques Fatton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|AUT}} [[Karl Rappan]]
+|}
+{{col-end}}
+
+{| width=50% style="font-size: 90%"
+|
+<br />
+'''Assistant referees:'''
+<br />[[Emil Schmetzer]] ([[German Football Association|West Germany]])
+<br />[[Manuel Asensi]] ([[Real Federación Española de Fútbol|Spain]])
+|}<section end=Line-ups />
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Switzerland at the FIFA World Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1954 FIFA World Cup}}
+{{Austria national football team matches}}
+{{Switzerland national football team}}
+
+[[Category:1954 FIFA World Cup]]
+[[Category:Austria at the 1954 FIFA World Cup]]
+[[Category:Austria national football team matches|1954]]
+[[Category:FIFA World Cup matches]]
+[[Category:June 1954 sports events in Europe]]
+[[Category:Nicknamed sporting events]]
+[[Category:Sport in Lausanne]]
+[[Category:Switzerland at the 1954 FIFA World Cup]]
+[[Category:Switzerland national football team matches|1954]]
+[[Category:Austria–Switzerland sports relations|1954]]

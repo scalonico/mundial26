@@ -1,0 +1,871 @@
+{{Short description|Football tournament group stage}}
+{{Use mdy dates|date=April 2026}}
+{{Use American English|date=April 2024}}
+'''Group E of the 1994 FIFA World Cup''' was one of six groups of four teams competing at the [[1994 FIFA World Cup|1994 World Cup]] in the [[United States]]. The first match was played June 18, 1994, and the final games took place simultaneously on June 28, 1994.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|archive-url=https://web.archive.org/web/20131220184449/http://www.fifa.com/tournaments/archive/worldcup/usa1994/index.html|url-status=dead|archive-date=December 20, 2013|title=1994 FIFA World Cup USA|publisher=fifa.com|accessdate=July 31, 2014}}</ref><ref>{{cite web|url=https://www.rsssf.org/tables/94full.html|title=World Cup 1994|website=[[RSSSF]]|accessdate=July 31, 2014}}</ref>
+
+The group consisted of [[Italy national football team|Italy]], [[Republic of Ireland national football team|Republic of Ireland]],  [[Mexico national football team|Mexico]], and [[Norway national football team|Norway]]. Mexico won the group on goals scored. Ireland and Italy also progressed to the knockout rounds, having finished with identical records and the Irish team qualifying in second place as a result of their victory against the Italians. The Italians qualified as one of the best-scoring third place teams. Norway's shortcomings in attack ultimately let them down, and they exited the tournament with only one goal. It is the only group in World Cup history in which all four teams finished with the same number of points, and all the teams even had the same goal difference.
+
+It is also the most difficult group in World Cup since FIFA ranking debuted in 1992, measured in terms of average FIFA ranking. The average FIFA ranking of the four teams was 10 (Italy 4, Norway 6, Ireland 14 and Mexico 16).<ref>[https://www.instagram.com/p/DR0GguQkr1b/?igsh=bGNweTJ2NTRnZHZt Fox Sports: Hardest group in each FIFA  World Cup by FIFA rank]</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/usa1994/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=MEX
+|team2=IRL
+|team3=ITA
+|team4=NOR
+|hth_IRL=Head-to-head result: Italy 0–1 Republic of Ireland. |hth_ITA=IRL
+
+|result1=KO
+|result2=KO
+|result3=KO
+
+|win_MEX=1 |draw_MEX=1 |loss_MEX=1 |gf_MEX=3 |ga_MEX=3
+|win_IRL=1 |draw_IRL=1 |loss_IRL=1 |gf_IRL=2 |ga_IRL=2
+|win_ITA=1 |draw_ITA=1 |loss_ITA=1 |gf_ITA=2 |ga_ITA=2
+|win_NOR=1 |draw_NOR=1 |loss_NOR=1 |gf_NOR=1 |ga_NOR=1
+
+|name_MEX={{fb|MEX}}
+|name_IRL={{fb|IRL}}
+|name_ITA={{fb|ITA|1946}}
+|name_NOR={{fb|NOR}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1994 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+''All times local ([[Eastern Time Zone|EDT]]/[[UTC−04:00|UTC–4]], [[Central Time Zone (North America)|CDT]]/[[UTC−05:00|UTC–5]], [[Pacific Time Zone|PDT]]/[[UTC−07:00|UTC–7]])''
+
+===Italy vs Republic of Ireland===
+[[Ray Houghton]]'s early goal proved the only one of the match where Ireland's defense prevailed over Italy's attack.<ref>[https://www.theguardian.com/observer/irelandfootball/story/0,,587032,00.html The Observer: One giant step for the Irish]</ref><ref>[https://www.youtube.com/watch?v=4gtZnyCDljE Rep of Ireland v Italy 1994 Full Game]</ref> During the game, members of the [[Ulster Volunteer Force]] (UVF), a [[Ulster loyalism|loyalist]] paramilitary group, burst into a [[public house|pub]] in [[Northern Ireland]] with [[assault rifle]]s and fired on the customers,<ref name="UVF atrocities">[https://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6617329.stm "The UVF's catalogue of atrocities"] . [[BBC News]]. June 18, 2009.</ref> killing six civilians and wounding five. The pub was targeted because it was frequented mainly by Catholics,<ref name="The Economist">''[[The Economist]]'' newspaper. June 25, 1994. pp. 25–26. "For the 24 fans gathered in Heights Bar in the quiet village of Loughinisland in County Down, the cheering was followed by carnage. Two men walked into the pub and sprayed the room with bullets, killing six and wounding five, and then fled laughing. The Ulster Volunteer Force, a Protestant terrorist group, later claimed it had carried out the attack. It chose the pub only because it knew that those gathered to support Ireland's team would be Catholic".</ref> and was crowded with supporters watching the [[Republic of Ireland national football team|Republic of Ireland]].<ref name="The Economist"/> It is thus sometimes called the "World Cup massacre" or the [[Loughinisland massacre]].<ref>{{cite web |url=https://www.irishtimes.com/news/ireland/irish-news/six-men-dead-the-world-cup-massacre-1.1831478 |title=Six men dead: the World Cup massacre |date=June 14, 2014 |first1=Keith |last1=Duggan |website=irishtimes.com |accessdate=June 28, 2024}}</ref><ref>[https://www.independent.co.uk/news/six-shot-dead-in-ulster-world-cup-massacre-1423674.html "Six shot dead in Ulster World Cup massacre"] {{Webarchive |url=https://web.archive.org/web/20180422062222/https://www.independent.co.uk/news/six-shot-dead-in-ulster-world-cup-massacre-1423674.html |date=April 22, 2018 }}. [[The Independent]]. June 19, 1994.</ref><ref>[http://www.irishcentral.com/news/1994-world-cup-massacre-of-irish-fans-by-loyalists-will-be-major-espn-movie-239814941-240124801.html "1994 World Cup massacre of Irish fans by Loyalists will be major ESPN movie"] {{Webarchive |url=https://web.archive.org/web/20140714114318/http://www.irishcentral.com/news/1994-world-cup-massacre-of-irish-fans-by-loyalists-will-be-major-espn-movie-239814941-240124801.html |date=July 14, 2014 }}. IrishCentral. January 12, 2014.</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=E1
+|date={{Start date|1994|6|18}}
+|time=4:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1994 FIFA World Cup Group E#Italy vs Republic of Ireland|0–1}}
+|team2={{fb|IRL}}
+|goals1=
+|goals2=
+*[[Ray Houghton|Houghton]] {{goal|12}}
+|stadium=[[Giants Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=75,338
+|referee=[[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3052 |title=Italy vs Republic of Ireland {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3052/index.html |title=1994 FIFA World Cup USA – Matches – Italy v Republic of Ireland |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228222158/http://www.fifa.com/worldcup/matches/round=337/match=3052/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italia_cm1994
+ | pattern_b  = _italia_cm1994_b
+ | pattern_ra = _italia_cm1994
+ | pattern_so = _italy1994
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 1004CE
+ | socks      = FFFFFF
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _irl94h
+ | pattern_ra = 
+ | pattern_so = _irl94h
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FFFFFF
+ | socks      = 008000
+ | title      = Republic of Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Gianluca Pagliuca]]
+|-
+|RB ||'''9''' ||[[Mauro Tassotti]]
+|-
+|CB ||'''4''' ||[[Alessandro Costacurta]]
+|-
+|CB ||'''6''' ||[[Franco Baresi]]  ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Paolo Maldini]]
+|-
+|RM ||'''16'''||[[Roberto Donadoni]]
+|-
+|CM ||'''11''' ||[[Demetrio Albertini]]
+|-
+|CM ||'''13''' ||[[Dino Baggio]]
+|-
+|LM ||'''17'''||[[Alberico Evani]] || || {{suboff|45}}
+|-
+|RF ||'''10''' ||[[Roberto Baggio]]
+|-
+|LF ||'''20'''||[[Giuseppe Signori]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|RF ||'''19'''||[[Daniele Massaro]] || || {{subon|45}}
+|-
+|LM ||'''14'''||[[Nicola Berti]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Arrigo Sacchi]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''2''' ||[[Denis Irwin]] || {{yel|80}}
+|-
+|CB ||'''5''' ||[[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CB ||'''14'''||[[Phil Babb]]
+|-
+|LB ||'''3''' ||[[Terry Phelan]] || {{yel|30}}
+|-
+|RM ||'''8''' ||[[Ray Houghton]] || || {{suboff|68}}
+|-
+|CM ||'''6''' ||[[Roy Keane]]
+|-
+|CM ||'''10'''||[[John Sheridan (footballer)|John Sheridan]]
+|-
+|CM ||'''7''' ||[[Andy Townsend]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Steve Staunton]]
+|-
+|CF ||'''15'''||[[Tommy Coyne]] || {{yel|50}} || {{suboff|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Jason McAteer]] || || {{subon|68}}
+|-
+|FW ||'''9''' ||[[John Aldridge]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jan Dolstra ([[Royal Dutch Football Association|Netherlands]])
+<br />Park Hae-Yong ([[Korea Football Association|Korean Republic]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Arturo Angeles]] ([[United States Soccer Federation|United States]])
+|}
+
+===Norway vs Mexico===
+
+The only goal of the game (in what was Norway's first World Cup victory) was scored by [[Kjetil Rekdal]] in the 85th minute when the referee let the game continue after a foul on [[Jan Åge Fjørtoft]] close to the Mexican penalty area. The goalscorer entered the game minutes before the decisive strike.<ref>[https://www.baltimoresun.com/news/bs-xpm-1994-06-20-1994171003-story.html Norway efficient, effective in 1-0 victory WORLD CUP 1994]</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=E2
+|date={{Start date|1994|6|19}}
+|time=4:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|NOR}}
+|score={{score link|1994 FIFA World Cup Group E#Norway vs Mexico|1–0}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Kjetil Rekdal|Rekdal]] {{goal|84}}
+|goals2=
+|stadium=[[Robert F. Kennedy Memorial Stadium|RFK Stadium]], [[Washington, D.C.]]
+|attendance=52,395
+|referee=[[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3055 |title=Norway vs Mexico {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3055/index.html |title=1994 FIFA World Cup USA – Matches – Norway v Mexico |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171012014224/http://www.fifa.com/worldcup/matches/round=337/match=3055/index.html |archive-date=October 12, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _nor94a
+ |pattern_b  = _nor94a
+ |pattern_ra = _viking0708a
+ |pattern_sh = _adidaswhite3
+ |pattern_so = _adidas_thick_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 1D2951
+ | socks      = FFFFFF
+ | title      = Norway
+}}
+|{{Football kit
+ | pattern_b  = _mex94h
+ | pattern_sh = _mexico94h
+ | pattern_so = _mex91h
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Erik Thorstvedt]]
+|-
+|RB ||'''18'''||[[Alfie Haaland]] || {{yel|16}}
+|-
+|CB ||'''20'''||[[Henning Berg]]
+|-
+|CB ||'''4''' ||[[Rune Bratseth]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Stig Inge Bjørnebye]]
+|-
+|RM ||'''6''' ||[[Jostein Flo]]
+|-
+|CM ||'''22'''||[[Lars Bohinen]]
+|-
+|CM ||'''7''' ||[[Erik Mykland]] || || {{suboff|78}}
+|-
+|CM ||'''8''' ||[[Øyvind Leonhardsen]] || {{yel|26}}
+|-
+|LM ||'''11''' ||[[Mini Jakobsen]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Jan Åge Fjørtoft]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2'''||[[Gunnar Halle]] || || {{subon|46}}
+|-
+|MF ||'''10'''||[[Kjetil Rekdal]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Egil Olsen]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jorge Campos]]
+|-
+|RB ||'''21'''||[[Raúl Gutiérrez]] || || {{suboff|71}}
+|-
+|CB ||'''2''' ||[[Claudio Suárez]] || {{yel|62}}
+|-
+|CB ||'''3''' ||[[Juan de Dios Ramírez Perales]]
+|-
+|LB ||'''14''' ||[[Joaquín del Olmo]]
+|-
+|RM ||'''16'''||[[Luis Antonio Valdéz]] || || {{suboff|46}}
+|-
+|CM ||'''4''' ||[[Ignacio Ambríz]] ([[Captain (association football)|c]])
+|-
+|LM ||'''5'''||[[Ramón Ramírez (footballer)|Ramón Ramírez]]
+|-
+|RF ||'''10''' ||[[Luis García Postigo|Luis García]]
+|-
+|CF ||'''9''' ||[[Hugo Sánchez]]
+|-
+|LF ||'''11'''||[[Luís Roberto Alves]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LM ||'''17'''||[[Benjamín Galindo]] || || {{subon|46}}
+|-
+|RM ||'''6''' ||[[Marcelino Bernal]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Miguel Mejía Barón]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Sándor Márton ([[Hungarian Football Federation|Hungary]])
+<br />[[Valentin Ivanov (footballer born 1961)|Valentin Ivanov]] ([[Russian Football Union|Russia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Manuel Díaz Vega]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+===Italy vs Norway===
+[[Gianluca Pagliuca]] of [[Italy national football team|Italy]] became the first goalkeeper to be sent off in a World Cup game, dismissed for handling outside his area against [[Norway national football team|Norway]].
+<onlyinclude>{{#invoke:Football box|main|section=E3
+|date={{Start date|1994|6|23}}
+|time=4:00&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1994 FIFA World Cup Group E#Italy vs Norway|1–0}}
+|team2={{fb|NOR}}
+|goals1=
+*[[Dino Baggio|D. Baggio]] {{goal|69}}
+|goals2=
+|stadium=[[Giants Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=74,624
+|referee=[[Hellmut Krug]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3064 |title=Italy vs Norway {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3064/index.html |title=1994 FIFA World Cup USA – Matches – Italy v Norway |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217172553/http://www.fifa.com/worldcup/matches/round=337/match=3064/index.html |archive-date=December 17, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italia_cm1994
+ | pattern_b  = _italia_cm1994_b
+ | pattern_ra = _italia_cm1994
+ | pattern_so = _italy1994
+ | leftarm    = 1004CE
+ | body       = 1004CE
+ | rightarm   = 1004CE
+ | shorts     = FFFFFF
+ | socks      = 1004CE
+ | title      = Italy
+}}
+|{{Football kit
+ |pattern_la = _nor94a
+ |pattern_b  = _nor94a
+ |pattern_ra = _viking0708a
+ |pattern_sh = _nor95h
+ |pattern_so = _adidas_thick_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Norway
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Gianluca Pagliuca]] || {{sent off|0|21}}
+|-
+|RB ||'''3''' ||[[Antonio Benarrivo]]
+|-
+|CB ||'''4''' ||[[Alessandro Costacurta]]
+|-
+|CB ||'''6''' ||[[Franco Baresi]] ([[Captain (association football)|c]]) || || {{suboff|49}}
+|-
+|LB ||'''5''' ||[[Paolo Maldini]]
+|-
+|RM ||'''13''' ||[[Dino Baggio]]
+|-
+|CM ||'''11''' ||[[Demetrio Albertini]]
+|-
+|LM ||'''14'''||[[Nicola Berti]]
+|-
+|RF ||'''18'''||[[Pierluigi Casiraghi]] || {{yel|34}} || {{suboff|69}}
+|-
+|CF ||'''20'''||[[Giuseppe Signori]]
+|-
+|LF ||'''10''' ||[[Roberto Baggio]] || || {{suboff|22}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||[[Luca Marchegiani]] || || {{subon|22}}
+|-
+|DF ||'''2'''||[[Luigi Apolloni]] || || {{subon|49}}
+|-
+|FW ||'''19'''||[[Daniele Massaro]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Arrigo Sacchi]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Erik Thorstvedt]]
+|-
+|RB ||'''18'''||[[Alfie Haaland]] || {{yel|68}}
+|-
+|CB ||'''20'''||[[Henning Berg]]
+|-
+|CB ||'''4''' ||[[Rune Bratseth]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Stig Inge Bjørnebye]] || {{yel|32}}
+|-
+|RM ||'''6''' ||[[Jostein Flo]]
+|-
+|CM ||'''22'''||[[Lars Bohinen]]
+|-
+|CM ||'''7''' ||[[Erik Mykland]] || || {{suboff|81}}
+|-
+|CM ||'''8''' ||[[Øyvind Leonhardsen]]
+|-
+|LM ||'''21'''||[[Sigurd Rushfeldt]] || || {{suboff|45}}
+|-
+|CF ||'''9''' ||[[Jan Åge Fjørtoft]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Mini Jakobsen]] || || {{subon|45}}
+|-
+|MF ||'''10''' ||[[Kjetil Rekdal]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Egil Olsen]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Tapio Yli-Karro]] ([[Football Association of Finland|Finland]])
+<br />Roy Pearson ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Philip Don]] ([[The Football Association|England]])
+|}
+
+===Mexico vs Republic of Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=E4
+|date={{Start date|1994|6|24}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|MEX}}
+|score={{score link|1994 FIFA World Cup Group E#Mexico vs Republic of Ireland|2–1}}
+|team2={{fb|IRL}}
+|goals1=
+*[[Luis García Postigo|García]] {{goal|42||65}}
+|goals2=
+*[[John Aldridge|Aldridge]] {{goal|84}}
+|stadium=[[Citrus Bowl (stadium)|Citrus Bowl]], [[Orlando, Florida|Orlando]]
+|attendance=60,790
+|referee=[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3066 |title=Mexico vs Republic of Ireland {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3066/index.html |title=1994 FIFA World Cup USA – Matches – Mexico v Republic of Ireland |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228214834/http://www.fifa.com/worldcup/matches/round=337/match=3066/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_b	= _mex94h
+ | pattern_sh	= _mexico94h
+ | pattern_so = _mex91h
+ | leftarm    = 008000
+ | body       = 008000
+ | rightarm   = 008000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Mexico
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _irl94a
+ | pattern_ra = 
+ | pattern_so = _irl94a
+ | leftarm    = FFFFFF
+ | body       = 008000
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Republic of Ireland
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Jorge Campos]] || {{yel|57}}
+|-
+|RB ||'''20'''||[[Jorge Rodríguez (footballer, born 1968)|Jorge Rodríguez]] || || {{suboff|80}}{{efn|Mistake in FIFA report. Per [[RSSSF]], it was not [[Joaquín del Olmo]] but [[Jorge Rodríguez (footballer, born 1968)|Jorge Rodríguez]] who was replaced by [[Raúl Gutiérrez]].<ref>[https://www.rsssf.org/intldetails/1994ic2.html RSSF]</ref>}}
+|-
+|CB ||'''2''' ||[[Claudio Suárez]]
+|-
+|CB ||'''3''' ||[[Juan de Dios Ramírez Perales]]
+|-
+|LB ||'''14'''||[[Joaquín del Olmo]] || {{yel|45}}
+|-
+|RM ||'''6''' ||[[Marcelino Bernal]]
+|-
+|CM ||'''4''' ||[[Ignacio Ambríz]] ([[Captain (association football)|c]])
+|-
+|LM ||'''8''' ||[[Alberto García Aspe]]
+|-
+|RF ||'''10''' ||[[Luis García Postigo|Luis García]]
+|-
+|CF ||'''7''' ||[[Carlos Hermosillo]] || || {{suboff|80}}
+|-
+|LF ||'''11'''||[[Luís Roberto Alves]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CF ||'''19'''||[[Luis Miguel Salvador]] || || {{subon|80}}
+|-
+|LB ||'''21'''||[[Raúl Gutiérrez]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Miguel Mejía Barón]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''2''' ||[[Denis Irwin]] || {{yel|26}}
+|-
+|CB ||'''5''' ||[[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CB ||'''14'''||[[Phil Babb]]
+|-
+|LB ||'''3''' ||[[Terry Phelan]] || {{yel|70}}
+|-
+|RM ||'''8''' ||[[Ray Houghton]]
+|-
+|CM ||'''6''' ||[[Roy Keane]]
+|-
+|CM ||'''10'''||[[John Sheridan (footballer)|John Sheridan]]
+|-
+|CM ||'''7''' ||[[Andy Townsend]] ([[Captain (association football)|c]])
+|-
+|LM ||'''11'''||[[Steve Staunton]] || || {{suboff|66}}
+|-
+|CF ||'''15'''||[[Tommy Coyne]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Jason McAteer]] || || {{subon|66}}
+|-
+|FW ||'''9''' ||[[John Aldridge]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jack Charlton]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Michał Listkiewicz]] ([[Polish Football Association|Poland]])
+<br />Paulo Jorge Alves ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Renato Marsiglia]] ([[Brazilian Football Confederation|Brazil]])
+|}
+
+===Italy vs Mexico===
+<onlyinclude>{{#invoke:Football box|main|section=E5
+|date={{Start date|1994|6|28}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1994 FIFA World Cup Group E#Italy vs Mexico|1–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Daniele Massaro|Massaro]] {{goal|48}}
+|goals2=
+*[[Marcelino Bernal|Bernal]] {{goal|57}}
+|stadium=[[Robert F. Kennedy Memorial Stadium|RFK Stadium]], [[Washington, D.C.]]
+|attendance=52,535
+|referee=[[Francisco Oscar Lamolina]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3078 |title=Italy vs Mexico {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3078/index.html |title=1994 FIFA World Cup USA – Matches – Italy v Mexico |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228222203/http://www.fifa.com/worldcup/matches/round=337/match=3078/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _italia_cm1994
+ | pattern_b  = _italia_cm1994_b
+ | pattern_ra = _italia_cm1994
+ | pattern_so = _italy1994
+ | leftarm    = 1004CE
+ | body       = 1004CE
+ | rightarm   = 1004CE
+ | shorts     = FFFFFF
+ | socks      = 1004CE
+ | title      = Italy
+}}
+|{{Football kit
+ |pattern_la = _mex94a
+ |pattern_b  = _mex94a
+ |pattern_ra = _mex94a
+ |pattern_sh = _mex94a
+ |pattern_so = _mex94a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ | title     = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Luca Marchegiani]]
+|-
+|RB ||'''3''' ||[[Antonio Benarrivo]]
+|-
+|CB ||'''4''' ||[[Alessandro Costacurta]]
+|-
+|CB ||'''2''' ||[[Luigi Apolloni]]
+|-
+|LB ||'''5''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|RM ||'''13''' ||[[Dino Baggio]] || || {{suboff|65}}
+|-
+|CM ||'''11''' ||[[Demetrio Albertini]] || {{yel|33}}
+|-
+|LM ||'''14'''||[[Nicola Berti]]
+|-
+|RF ||'''18'''||[[Pierluigi Casiraghi]] || || {{suboff|45}}
+|-
+|CF ||'''20'''||[[Giuseppe Signori]]
+|-
+|LF ||'''10''' ||[[Roberto Baggio]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CF ||'''19'''||[[Daniele Massaro]] || || {{subon|45}}
+|-
+|LM ||'''16'''||[[Roberto Donadoni]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Arrigo Sacchi]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jorge Campos]]
+|-
+|RB ||'''20'''||[[Jorge Rodríguez (footballer, born 1968)|Jorge Rodríguez]]
+|-
+|CB ||'''2''' ||[[Claudio Suárez]]
+|-
+|CB ||'''3''' ||[[Juan de Dios Ramírez Perales|Juan Ramírez]]
+|-
+|LB ||'''14'''||[[Joaquín del Olmo]] || {{yel|25}}
+|-
+|RM ||'''6''' ||[[Marcelino Bernal]]
+|-
+|CM ||'''4''' ||[[Ignacio Ambríz]] ([[Captain (association football)|c]])
+|-
+|LM ||'''8''' ||[[Alberto García Aspe]] || {{yel|66}}
+|-
+|RF ||'''10''' ||[[Luis García Postigo|Luis García]] || {{yel|63}} || {{suboff|81}}
+|-
+|CF ||'''7''' ||[[Carlos Hermosillo]]
+|-
+|LF ||'''11'''||[[Luís Roberto Alves]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|CM ||'''13'''||[[Juan Carlos Chávez]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Miguel Mejía Barón]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ernesto Taibi ([[Argentine Football Association|Argentina]])
+<br />Eugene Brazzale ([[Football Federation Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Hellmut Krug]] ([[German Football Association|Germany]])
+|}
+
+===Republic of Ireland vs Norway===
+<onlyinclude>{{#invoke:Football box|main|section=E6
+|date={{Start date|1994|6|28}}
+|time=12:30&nbsp;p.m. [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC–4]])
+|team1={{fb-rt|IRL}}
+|score={{score link|1994 FIFA World Cup Group E#Republic of Ireland vs Norway|0–0}}
+|team2={{fb|NOR}}
+|goals1=
+|goals2=
+|stadium=[[Giants Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance=72,404
+|referee=[[José Torres Cadena]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/84/337/3077 |title=Republic of Ireland vs Norway {{!}} Group Matches {{!}} 1994 FIFA World Cup USA |publisher=[[FIFA]] |access-date=May 1, 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=337/match=3077/index.html |title=1994 FIFA World Cup USA – Matches – Republic of Ireland v Norway |publisher=[[FIFA]] |access-date=May 1, 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228220932/http://www.fifa.com/worldcup/matches/round=337/match=3077/index.html |archive-date=December 28, 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _irl94a
+ | pattern_ra = 
+ | pattern_so = _irl94a
+ | leftarm    = FFFFFF
+ | body       = 008000
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = Republic of Ireland
+}}
+|{{Football kit
+ |pattern_la = _nor94h
+ |pattern_b  = _nor94h
+ |pattern_ra = _nor94h
+ |pattern_sh = _nor94h
+ |pattern_so = _nor95h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Norway
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Packie Bonner]]
+|-
+|RB ||'''12'''||[[Gary Kelly (footballer born 1974)|Gary Kelly]] || {{yel|83}}
+|-
+|CB ||'''5''' ||[[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CB ||'''14'''||[[Phil Babb]]
+|-
+|LB ||'''11'''||[[Steve Staunton]]
+|-
+|RM ||'''21'''||[[Jason McAteer]]
+|-
+|CM ||'''6''' ||[[Roy Keane]] || {{yel|3}}
+|-
+|CM ||'''10'''||[[John Sheridan (footballer)|John Sheridan]]
+|-
+|CM ||'''7''' ||[[Andy Townsend]] ([[Captain (association football)|c]]) || || {{suboff|75}}
+|-
+|LM ||'''8''' ||[[Ray Houghton]] || {{yel|29}}
+|-
+|CF ||'''9''' ||[[John Aldridge]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[David Kelly (association footballer)|David Kelly]] || || {{subon|65}}
+|-
+|MF ||'''18''' ||[[Ronnie Whelan]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Maurice Setters]]{{efn|Republic of Ireland manager [[Jack Charlton]] was given a touchline ban by FIFA following argument with an official in the [[#Mexico vs Republic of Ireland|match against Mexico]]. Assistant manager [[Maurice Setters]] filled in as head coach.<ref>{{cite news |last=Haylett |first=Trevor |url=https://www.independent.co.uk/sport/football-world-cup-usa-94-charlton-s-ban-fires-up-ireland-norway-face-backlash-1425452.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-world-cup-usa-94-charlton-s-ban-fires-up-ireland-norway-face-backlash-1425452.html |archive-date=May 1, 2022 |url-access=subscription |url-status=live |title=Football / World Cup USA '94: Charlton's ban fires up Ireland: Norway face backlash |work=[[The Independent]] |date=June 26, 1994 |access-date=February 20, 2021}}{{cbignore}}</ref>}}
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Erik Thorstvedt]]
+|-
+|RB ||'''20'''||[[Henning Berg]]
+|-
+|CB ||'''3''' ||[[Erland Johnsen]] || {{yel|45}}
+|-
+|CB ||'''4''' ||[[Rune Bratseth]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Stig Inge Bjørnebye]]
+|-
+|RM ||'''6''' ||[[Jostein Flo]]
+|-
+|CM ||'''8''' ||[[Øyvind Leonhardsen]] || || {{suboff|68}}
+|-
+|CM ||'''10'''||[[Kjetil Rekdal]]
+|-
+|CM ||'''7''' ||[[Erik Mykland]]
+|-
+|LM ||'''2''' ||[[Gunnar Halle]] || || {{suboff|34}}
+|-
+|CF ||'''16'''||[[Gøran Sørloth]] || {{yel|36}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Mini Jakobsen]] || || {{subon|34}}
+|-
+|MF ||'''22'''||[[Lars Bohinen]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Egil Olsen]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Paulo Jorge Alves ([[Brazilian Football Confederation|Brazil]])
+<br />Park Hae-Yong ([[Korea Football Association|Korea Republic]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Leslie Mottram]] ([[Scottish Football Association|Scotland]])
+|}
+
+== See also ==
+* [[Loughinisland massacre]], that occurred in The Heights Bar in Northern Ireland while patrons were watching the Republic of Ireland vs Italy match
+*[[Republic of Ireland at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Mexico at the FIFA World Cup]]
+*[[Norway at the FIFA World Cup]]
+*[[2000 Africa Cup of Nations Group A]] – another group with a similar situation of all four teams scoring the exact same points at the end of group stage
+*[[UEFA Euro 2024 Group E]] – another example of a group with this outcome
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1994 FIFA World Cup}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:1994 FIFA World Cup group stage|E]]
+[[Category:Republic of Ireland at the 1994 FIFA World Cup]]
+[[Category:Italy at the 1994 FIFA World Cup|Group]]
+[[Category:Mexico at the 1994 FIFA World Cup|Group]]
+[[Category:Norway at the 1994 FIFA World Cup]]
+[[Category:Soccer competitions in Washington, D.C.]]
+[[Category:1994 in sports in Washington, D.C.]]
+[[Category:Soccer competitions in Orlando, Florida]]
+[[Category:1990s in Orlando, Florida]]
+[[Category:1994 in sports in Florida]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:1994 in sports in New Jersey]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]

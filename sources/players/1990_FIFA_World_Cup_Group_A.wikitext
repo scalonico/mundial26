@@ -1,0 +1,907 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+Play in '''Group A of the [[1990 FIFA World Cup]]''' completed on 19 June 1990. [[Italy national football team|Italy]] won the group and advanced to the second round, along with [[Czechoslovakia national football team|Czechoslovakia]]. [[Austria national football team|Austria]] and the [[United States men's national soccer team|United States]] failed to advance.<ref>{{cite web |url=https://www.rsssf.org/tables/90full.html |title=World Cup 1990 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+|class_rules=[[1990 FIFA World Cup#Group stage|Group stage tiebreakers]]
+|update=complete
+|winpoints=2
+|source=[https://web.archive.org/web/20150407140015/http://www.fifa.com/worldcup/archive/italy1990/groups/index.html FIFA]
+
+|team1=ITA |team2=TCH |team3=AUT |team4=USA
+|result1=KO |result2=KO
+
+|win_ITA=3 |draw_ITA=0 |loss_ITA=0 |gf_ITA=4 |ga_ITA=0 |status_ITA=H
+|win_TCH=2 |draw_TCH=0 |loss_TCH=1 |gf_TCH=6 |ga_TCH=3
+|win_AUT=1 |draw_AUT=0 |loss_AUT=2 |gf_AUT=2 |ga_AUT=3
+|win_USA=0 |draw_USA=0 |loss_USA=3 |gf_USA=2 |ga_USA=8
+
+|name_ITA={{fb|ITA|1946}}
+|name_USA={{fb|USA}}
+|name_AUT={{fb|AUT}}
+|name_TCH={{fb|TCH}}
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[1990 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+==Matches==
+All times local ([[Central European Summer Time|CEST/UTC+2]])
+
+===Italy vs Austria===
+<onlyinclude>{{#invoke:Football box|main|section=A1
+|date={{Start date|1990|6|9|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1990 FIFA World Cup Group A#Italy vs Austria|1–0}}
+|team2={{fb|AUT}}
+|goals1=
+*[[Salvatore Schillaci|Schillaci]] {{goal|78}}
+|goals2=
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=73,303
+|referee=[[José Roberto Wright]] ([[Brazilian Football Confederation|Brazil]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/42 |title=Italy vs Austria {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=42/index.html |title=1990 FIFA World Cup Italy – Matches – Italy v Austria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171217171941/http://www.fifa.com/worldcup/matches/round=322/match=42/index.html |archive-date=17 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =_italy1982-90
+ | pattern_b  =_ita90
+ | pattern_ra =_italy1982-90
+ | pattern_so =_italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _austria1990_home
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _austria1990_home
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Walter Zenga]]
+|-
+|DF ||'''2''' ||[[Franco Baresi]]
+|-
+|DF ||'''3''' ||[[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Riccardo Ferri]]
+|-
+|DF ||'''7''' ||[[Paolo Maldini]]
+|-
+|MF ||'''9''' ||[[Carlo Ancelotti]] || || {{suboff|46}}
+|-
+|MF ||'''11'''||[[Fernando De Napoli]]
+|-
+|MF ||'''13'''||[[Giuseppe Giannini]]
+|-
+|MF ||'''17'''||[[Roberto Donadoni]]
+|-
+|FW ||'''21'''||[[Gianluca Vialli]] 
+|-
+|FW ||'''16'''||[[Andrea Carnevale]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Luigi De Agostini]] || || {{subon|46}}
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]]
+|-
+|GK ||'''12'''||[[Stefano Tacconi]] 
+|-
+|FW ||'''15'''||[[Roberto Baggio]] 
+|-
+|FW ||'''19'''||[[Salvatore Schillaci]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Azeglio Vicini]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Klaus Lindenberger]]
+|-
+|DF ||'''2''' ||[[Ernst Aigner]]
+|-
+|DF ||'''7''' ||[[Kurt Russ]]
+|-
+|DF ||'''3''' ||[[Robert Pecl]]
+|-
+|DF ||'''5''' ||[[Peter Schöttel]]
+|-
+|DF ||'''18'''||[[Michael Streiter]]
+|-
+|MF ||'''8''' ||[[Peter Artner]] || || {{suboff|61}}
+|-
+|MF ||'''10'''||[[Manfred Linzmaier]]|| || {{suboff|77}}
+|-
+|MF ||'''20'''||[[Andreas Herzog]]|| {{yel|6}}
+|-
+|FW ||'''13'''||[[Andreas Ogris]] 
+|-
+|FW ||'''9''' ||[[Toni Polster]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Anton Pfeffer]]
+|-
+|MF ||'''6''' ||[[Manfred Zsak]] || || {{subon|61}}
+|-
+|MF ||'''11'''||[[Alfred Hörtnagl]] || || {{subon|77}}
+|-
+|FW ||'''14'''||[[Gerhard Rodax]] 
+|-
+|GK ||'''21'''||[[Michael Konsel]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Josef Hickersberger]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Armando Pérez-Hoyos]] ([[Colombian Football Federation|Colombia]])
+<br />[[Carlos Silva Valente]] ([[Portuguese Football Federation|Portugal]])
+|}
+
+===United States vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=A2
+|date={{Start date|1990|6|10|df=y}}
+|time=17:00
+|team1={{fb-rt|USA}}
+|score={{score link|1990 FIFA World Cup Group A#United States vs Czechoslovakia|1–5}}
+|team2={{fb|CSK}}
+|goals1=
+*[[Paul Caligiuri|Caligiuri]] {{goal|60}}
+|goals2=
+*[[Tomáš Skuhravý|Skuhravý]] {{goal|26||78}}
+*[[Michal Bílek|Bílek]] {{goal|40|pen.}}
+*[[Ivan Hašek|Hašek]] {{goal|50}}
+*[[Milan Luhový|Luhový]] {{goal|90+3}}
+|stadium=[[Stadio Artemio Franchi|Stadio Comunale]], [[Florence]]
+|attendance=33,266
+|referee=[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/355 |title=United States vs Czechoslovakia {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=355/index.html |title=1990 FIFA World Cup Italy – Matches – USA v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171102103335/http://www.fifa.com/worldcup/matches/round=322/match=355/index.html |archive-date=2 November 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _usa1990_home
+ | pattern_b  = _usa1990_home
+ | pattern_ra = _usa1990_home
+ | pattern_sh = _white_stripes_&_white_horizontal_adidas
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = United States
+}}
+|{{Football kit
+ | pattern_la =_shoulder_stripes_white_stripes
+ | pattern_b  =_tch90h
+ | pattern_ra =_shoulder_stripes_white_stripes
+ | pattern_sh =_adidas_red
+ | pattern_so =_color_3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Czechoslovakia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Meola]] || {{yel|39}}
+|-
+|DF ||'''2''' ||[[Steve Trittschuh]] || {{yel|43}}
+|-
+|DF ||'''5''' ||[[Mike Windischmann]] ([[Captain (association football)|c]])
+|-
+|DF ||'''15'''||[[Desmond Armstrong]]
+|-
+|MF ||'''6''' ||[[John Harkes]]
+|-
+|MF ||'''20'''||[[Paul Caligiuri]]
+|-
+|MF ||'''7''' ||[[Tab Ramos]]
+|-
+|MF ||'''14'''||[[John Stollmeyer]] || || {{suboff|64}}
+|-
+|FW ||'''10'''||[[Peter Vermes]]
+|-
+|FW ||'''11'''||[[Eric Wynalda]] || {{sent off|0|52}}
+|-
+|FW ||'''16'''||[[Bruce Murray (soccer)|Bruce Murray]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''8''' ||[[Brian Bliss]] 
+|-
+|FW ||'''9''' ||[[Christopher Sullivan (soccer, born 1965)|Christopher Sullivan]] || || {{subon|79}}
+|-
+|FW ||'''13'''||[[Eric Eichmann]]
+|-
+|DF ||'''17'''||[[Marcelo Balboa]] || || {{subon|64}}
+|-
+|GK ||'''22'''||[[David Vanole]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bob Gansler]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jan Stejskal]]
+|-
+|DF ||'''5''' ||[[Ján Kocian]]
+|-
+|DF ||'''3''' ||[[Miroslav Kadlec]] || {{yel|61}}
+|-
+|DF ||'''9''' ||[[Luboš Kubík]] || {{yel|30}}
+|-
+|DF ||'''6''' ||[[František Straka]]
+|-
+|MF ||'''4''' ||[[Ivan Hašek]] ([[Captain (association football)|c]])
+|-
+|MF ||'''11'''||[[Ľubomír Moravčík]] || || {{suboff|83}}
+|-
+|MF ||'''8''' ||[[Jozef Chovanec]]
+|-
+|MF ||'''7''' ||[[Michal Bílek]]
+|-
+|FW ||'''10'''||[[Tomáš Skuhravý]] 
+|-
+|FW ||'''17'''||[[Ivo Knoflíček]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]] || || {{subon|83}}
+|-
+|MF ||'''18'''||[[Milan Luhový]] || || {{subon|77}}
+|-
+|FW ||'''19'''||[[Stanislav Griga]]
+|-
+|MF ||'''20'''||[[Václav Němeček]]
+|-
+|GK ||'''21'''||[[Luděk Mikloško]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Vengloš]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Marcel Van Langenhove (referee)|Marcel Van Langenhove]] ([[Royal Belgian Football Association|Belgium]])
+<br />[[Aron Schmidhuber]] ([[German Football Association|West Germany]])
+|}
+
+===Italy vs United States===
+<onlyinclude>{{#invoke:Football box|main|section=A3
+|date={{Start date|1990|6|14|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1990 FIFA World Cup Group A#Italy vs United States|1–0}}
+|team2={{fb|USA}}
+|goals1=
+*[[Giuseppe Giannini|Giannini]] {{goal|11}}
+|goals2=
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=73,423
+|referee=[[Edgardo Codesal]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/265 |title=Italy vs United States {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=265/index.html |title=1990 FIFA World Cup Italy – Matches – Italy v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171219071808/http://www.fifa.com/worldcup/matches/round=322/match=265/index.html |archive-date=19 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =_italy1982-90 
+ | pattern_b  =_ita90  
+ | pattern_ra =_italy1982-90
+ | pattern_so =_italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = _usa1990_home
+ | pattern_b  = _usa1990_home
+ | pattern_ra = _usa1990_home
+ | pattern_sh = _usa1990_home
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Walter Zenga]]
+|-
+|DF ||'''2''' ||[[Franco Baresi]]
+|-
+|DF ||'''3''' ||[[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Riccardo Ferri]]|| {{yel|69}}
+|-
+|DF ||'''7''' ||[[Paolo Maldini]]
+|-
+|MF ||'''10''' ||[[Nicola Berti]]
+|-
+|MF ||'''17'''||[[Roberto Donadoni]]
+|-
+|MF ||'''11'''||[[Fernando De Napoli]]
+|-
+|MF ||'''13'''||[[Giuseppe Giannini]]
+|-
+|FW ||'''16'''||[[Andrea Carnevale]] || || {{suboff|51}}
+|-
+|FW ||'''21'''||[[Gianluca Vialli]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Luigi De Agostini]] 
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]]
+|-
+|GK ||'''12'''||[[Stefano Tacconi]] 
+|-
+|FW ||'''15'''||[[Roberto Baggio]] 
+|-
+|FW ||'''19'''||[[Salvatore Schillaci]] || || {{subon|51}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Azeglio Vicini]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Meola]] 
+|-
+|DF ||'''3''' ||[[John Doyle (soccer, born 1966)|John Doyle]] 
+|-
+|DF ||'''4''' ||[[Jimmy Banks]] || {{yel|62}}|| {{suboff|80}}
+|-
+|DF ||'''5''' ||[[Mike Windischmann]] ([[Captain (association football)|c]])
+|-
+|DF ||'''15'''||[[Desmond Armstrong]]
+|-
+|DF ||'''17'''||[[Marcelo Balboa]]
+|-
+|MF ||'''6''' ||[[John Harkes]]
+|-
+|MF ||'''7''' ||[[Tab Ramos]]
+|-
+|MF ||'''20'''||[[Paul Caligiuri]]
+|-
+|FW ||'''10'''||[[Peter Vermes]]
+|-
+|FW ||'''16'''||[[Bruce Murray (soccer)|Bruce Murray]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Steve Trittschuh]]
+|-
+|DF ||'''8''' ||[[Brian Bliss]] 
+|-
+|FW ||'''9''' ||[[Christopher Sullivan (soccer, born 1965)|Christopher Sullivan]] || || {{subon|82}}
+|-
+|DF ||'''14'''||[[John Stollmeyer]] || || {{subon|80}}
+|-
+|GK ||'''18'''||[[Kasey Keller]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bob Gansler]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Berny Ulloa Morera]] ([[Costa Rican Football Federation|Costa Rica]])
+<br />[[Juan Daniel Cardellino]] ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Austria vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=A4
+|date={{Start date|1990|6|15|df=y}}
+|time=17:00
+|team1={{fb-rt|AUT}}
+|score={{score link|1990 FIFA World Cup Group A#Austria vs Czechoslovakia|0–1}}
+|team2={{fb|CSK}}
+|goals1=
+|goals2=
+*[[Michal Bílek|Bílek]] {{goal|31|pen.}}
+|stadium=[[Stadio Artemio Franchi|Stadio Comunale]], [[Florence]]
+|attendance=38,962
+|referee=[[George Smith (referee)|George Smith]] ([[Scottish Football Association|Scotland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/43 |title=Austria vs Czechoslovakia {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=43/index.html |title=1990 FIFA World Cup Italy – Matches – Austria v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171113003813/http://www.fifa.com/worldcup/matches/round=322/match=43/index.html |archive-date=13 November 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _austria1990_home
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _austria1990_home
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Austria
+}}
+|{{Football kit
+ | pattern_la =_shoulder_stripes_white_stripes
+ | pattern_b  =_tch90h
+ | pattern_ra =_shoulder_stripes_white_stripes
+ | pattern_sh =_adidas_red
+ | pattern_so =_color_3_stripes_red
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Klaus Lindenberger]]
+|-
+|DF ||'''2''' ||[[Ernst Aigner]]
+|-
+|DF ||'''3''' ||[[Robert Pecl]] || {{yel|22}}
+|-
+|DF ||'''4''' ||[[Anton Pfeffer]] || {{yel|85}}
+|-
+|DF ||'''7''' ||[[Kurt Russ]] || || {{suboff|46}}
+|-
+|MF ||'''6''' ||[[Manfred Zsak]] || {{yel|71}}
+|-
+|MF ||'''5''' ||[[Peter Schöttel]] || || {{suboff|46}}
+|-
+|MF ||'''20'''||[[Andreas Herzog]]
+|-
+|MF ||'''11'''||[[Alfred Hörtnagl]]
+|-
+|FW ||'''14'''||[[Gerhard Rodax]] 
+|-
+|FW ||'''9''' ||[[Toni Polster]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''13'''||[[Andreas Ogris]] || || {{subon|46}}
+|-
+|MF ||'''16'''||[[Andreas Reisinger]]
+|-
+|DF ||'''18'''||[[Michael Streiter]] || || {{subon|46}}
+|-
+|MF ||'''19'''||[[Gerald Glatzmayer]]
+|-
+|GK ||'''21'''||[[Michael Konsel]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Josef Hickersberger]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jan Stejskal]]
+|-
+|DF ||'''5''' ||[[Ján Kocian]]
+|-
+|DF ||'''3''' ||[[Miroslav Kadlec]]
+|-
+|DF ||'''9''' ||[[Luboš Kubík]] || {{yel|62}}
+|-
+|MF ||'''4''' ||[[Ivan Hašek]] ([[Captain (association football)|c]])
+|-
+|MF ||'''20'''||[[Václav Němeček]]
+|-
+|MF ||'''11'''||[[Ľubomír Moravčík]] || {{yel|52}}
+|-
+|MF ||'''8''' ||[[Jozef Chovanec]] || || {{suboff|31}}
+|-
+|MF ||'''7''' ||[[Michal Bílek]]
+|-
+|FW ||'''10'''||[[Tomáš Skuhravý]] 
+|-
+|FW ||'''17'''||[[Ivo Knoflíček]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Július Bielik]] || || {{subon|31}}
+|-
+|MF ||'''14'''||[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]] || || {{subon|81}}
+|-
+|MF ||'''18'''||[[Milan Luhový]]
+|-
+|FW ||'''19'''||[[Stanislav Griga]]
+|-
+|GK ||'''21'''||[[Luděk Mikloško]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Vengloš]]  
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Richard Lorenc]] ([[Football Federation Australia|Australia]])
+<br />[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+|}
+
+===Italy vs Czechoslovakia===
+<onlyinclude>{{#invoke:Football box|main|section=A5
+|date={{Start date|1990|6|19|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1990 FIFA World Cup Group A#Italy vs Czechoslovakia|2–0}}
+|team2={{fb|CSK}}
+|goals1=
+*[[Salvatore Schillaci|Schillaci]] {{goal|9}}
+*[[Roberto Baggio|Baggio]] {{goal|78}}
+|goals2=
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=73,303
+|referee=[[Joël Quiniou]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/263 |title=Italy vs Czechoslovakia {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=263/index.html |title=1990 FIFA World Cup Italy – Matches – Italy v Czechoslovakia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171103225553/http://www.fifa.com/worldcup/matches/round=322/match=263/index.html |archive-date=3 November 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =_italy1982-90 
+ | pattern_b  =_ita90  
+ | pattern_ra =_italy1982-90    
+ | pattern_so =_italia_cm1994
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = FFFFFF
+ | socks      = 3120CC
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la =_shoulder_stripes_red_stripes
+ | pattern_b  =_tch90a
+ | pattern_ra =_shoulder_stripes_red_stripes
+ | pattern_sh =_adidas_red
+ | pattern_so =_color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Czechoslovakia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Walter Zenga]]
+|-
+|DF ||'''2''' ||[[Franco Baresi]]
+|-
+|DF ||'''3''' ||[[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|DF ||'''6''' ||[[Riccardo Ferri]]
+|-
+|DF ||'''7''' ||[[Paolo Maldini]]
+|-
+|MF ||'''10'''||[[Nicola Berti]] || {{yel|70}}
+|-
+|MF ||'''17'''||[[Roberto Donadoni]] || || {{suboff|51}}
+|-
+|MF ||'''11'''||[[Fernando De Napoli]] || || {{suboff|65}}
+|-
+|MF ||'''13'''||[[Giuseppe Giannini]]
+|-
+|FW ||'''15'''||[[Roberto Baggio]]  || {{yel|44}}
+|-
+|FW ||'''19'''||[[Salvatore Schillaci]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Luigi De Agostini]] || || {{subon|51}}
+|-
+|DF ||'''8''' ||[[Pietro Vierchowod]] || || {{subon|65}}
+|-
+|GK ||'''12'''||[[Stefano Tacconi]] 
+|-
+|MF ||'''14'''||[[Giancarlo Marocchi]] 
+|-
+|FW ||'''20'''||[[Aldo Serena]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Azeglio Vicini]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jan Stejskal]]
+|-
+|DF ||'''3''' ||[[Miroslav Kadlec]]
+|-
+|DF ||'''15'''||[[Vladimír Kinier]]
+|-
+|DF ||'''4''' ||[[Ivan Hašek]] ([[Captain (association football)|c]])
+|-
+|DF ||'''20'''||[[Václav Němeček]] || || {{suboff|46}}
+|-
+|MF ||'''11'''||[[Ľubomír Moravčík]]
+|-
+|MF ||'''8''' ||[[Jozef Chovanec]] || {{yel|26}}
+|-
+|MF ||'''14'''||[[Vladimír Weiss (footballer, born 1964)|Vladimír Weiss]] || || {{suboff|58}}
+|-
+|MF ||'''7''' ||[[Michal Bílek]]
+|-
+|FW ||'''10'''||[[Tomáš Skuhravý]] || {{yel|30}}
+|-
+|FW ||'''17'''||[[Ivo Knoflíček]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Július Bielik]] || || {{subon|46}}
+|-
+|MF ||'''13'''||[[Jiří Němec]]
+|-
+|MF ||'''16'''||[[Viliam Hýravý]] 
+|-
+|FW ||'''19'''||[[Stanislav Griga]] || || {{subon|58}}
+|-
+|GK ||'''21'''||[[Luděk Mikloško]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Jozef Vengloš]] 
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Marcel van Langenhove (referee)|Marcel van Langenhove]] ([[Royal Belgian Football Association|Belgium]])
+<br />[[George Smith (referee)|George Smith]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Austria vs United States===
+<onlyinclude>{{#invoke:Football box|main|section=A6
+|date={{Start date|1990|6|19|df=y}}
+|time=21:00
+|team1={{fb-rt|AUT}}
+|score={{score link|1990 FIFA World Cup Group A#Austria vs United States|2–1}}
+|team2={{fb|USA}}
+|goals1=
+*[[Andreas Ogris|Ogris]] {{goal|49}}
+*[[Gerhard Rodax|Rodax]] {{goal|63}}
+|goals2=
+*[[Bruce Murray (soccer)|Murray]] {{goal|83}}
+|stadium=[[Stadio Artemio Franchi|Stadio Comunale]], [[Florence]]
+|attendance=34,857
+|referee=[[Jamal Al Sharif]] ([[Syrian Arab Federation for Football|Syria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/76/322/48 |title=Austria vs United States {{!}} Group Matches {{!}} 1990 FIFA World Cup Italy |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=322/match=48/index.html |title=1990 FIFA World Cup Italy – Matches – Austria v USA |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220145953/http://www.fifa.com/worldcup/matches/round=322/match=48/index.html |archive-date=20 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _austria1990_away
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _austria1990_away
+ | leftarm    = E00000
+ | body       = E00000
+ | rightarm   = E00000
+ | shorts     = FFFFFF
+ | socks      = E00000
+ | title      = Austria
+}}
+|{{Football kit
+ | pattern_la = _usa1990_home
+ | pattern_b  = _usa1990_home
+ | pattern_ra = _usa1990_home
+ | pattern_sh = _white_stripes_&_white_horizontal_adidas
+ | pattern_so = _color_3_stripes_blue
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Klaus Lindenberger]]|| {{yel|84}}
+|-
+|DF ||'''2''' ||[[Ernst Aigner]]
+|-
+|DF ||'''3''' ||[[Robert Pecl]]|| {{yel|31}}
+|-
+|DF ||'''4''' ||[[Anton Pfeffer]]
+|-
+|MF ||'''8''' ||[[Peter Artner]]|| {{sent off|0|33}}
+|-
+|MF ||'''6''' ||[[Manfred Zsak]]|| {{yel|21}}
+|-
+|MF ||'''20'''||[[Andreas Herzog]]
+|-
+|MF ||'''13'''||[[Andreas Ogris]]
+|-
+|MF ||'''18'''||[[Michael Streiter]]|| {{yel|90}}
+|-
+|FW ||'''9''' ||[[Toni Polster]] ([[Captain (association football)|c]])|| || {{suboff|46}}
+|-
+|FW ||'''14'''||[[Gerhard Rodax]]|| || {{suboff|86}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''7''' ||[[Kurt Russ]]
+|-
+|FW ||'''15''' ||[[Christian Keglevits]]
+|-
+|MF ||'''16'''||[[Andreas Reisinger]] || {{yel|50}} || {{subon|46}}
+|-
+|MF ||'''19'''||[[Gerald Glatzmayer]] || || {{subon|86}}
+|-
+|GK ||'''21'''||[[Michael Konsel]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Josef Hickersberger]] 
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Tony Meola]] 
+|-
+|DF ||'''3''' ||[[John Doyle (soccer, born 1966)|John Doyle]] 
+|-
+|DF ||'''4''' ||[[Jimmy Banks]]  || {{yel|28}} || {{suboff|55}}
+|-
+|DF ||'''5''' ||[[Mike Windischmann]] ([[Captain (association football)|c]])  || {{yel|58}}
+|-
+|DF ||'''15'''||[[Desmond Armstrong]]
+|-
+|DF ||'''17'''||[[Marcelo Balboa]]
+|-
+|MF ||'''6''' ||[[John Harkes]]
+|-
+|MF ||'''7''' ||[[Tab Ramos]]
+|-
+|MF ||'''20'''||[[Paul Caligiuri]] || {{yel|26}}|| {{suboff|70}}
+|-
+|FW ||'''10'''||[[Peter Vermes]]
+|-
+|FW ||'''16'''||[[Bruce Murray (soccer)|Bruce Murray]] || {{yel|42}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Steve Trittschuh]]
+|-
+|DF ||'''8''' ||[[Brian Bliss]] || || {{subon|70}}
+|-
+|FW ||'''11'''||[[Eric Wynalda]] || || {{subon|55}}
+|-
+|DF ||'''14'''||[[John Stollmeyer]]
+|-
+|GK ||'''18'''||[[Kasey Keller]] 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Bob Gansler]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Richard Lorenc]] ([[Football Federation Australia|Australia]])
+<br />[[Zoran Petrović (referee)|Zoran Petrović]] ([[Football Association of Yugoslavia|Yugoslavia]])
+|}
+
+==See also==
+*[[Austria at the FIFA World Cup]]
+*[[Czech Republic at the FIFA World Cup]]
+*[[Italy at the FIFA World Cup]]
+*[[Slovakia at the FIFA World Cup]]
+*[[United States at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1990 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1990 FIFA World Cup group stage|A]]
+[[Category:Italy at the 1990 FIFA World Cup|Group]]
+[[Category:Czechoslovakia at the 1990 FIFA World Cup|Group]]
+[[Category:Austria at the 1990 FIFA World Cup|Group]]
+[[Category:United States at the 1990 FIFA World Cup|Group]]
+[[Category:Football competitions in Rome]]
+[[Category:Football competitions in Florence]]
+[[Category:20th century in Florence]]
+[[Category:1990s in Rome]]

@@ -1,0 +1,843 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=May 2018}}
+'''Group 4 of the [[1978 FIFA World Cup]]''' began on 3 June and ended on 11 June 1978. The group consisted of Iran, Netherlands, Peru, and Scotland.<ref>{{cite web |url=https://www.rsssf.org/tables/78full.html |title=World Cup 1978 finals |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Standings
+|teamwidth=180
+
+|update=complete 
+|winpoints=2
+|source=[https://web.archive.org/web/20150330175434/http://www.fifa.com/worldcup/archive/argentina1978/groups/index.html FIFA]
+
+|team1=PER |team2=NED |team3=SCO |team4=IRN
+|result1=A |result2=A
+
+|win_PER=2 |draw_PER=1 |loss_PER=0 |gf_PER=7 |ga_PER=2
+|win_NED=1 |draw_NED=1 |loss_NED=1 |gf_NED=5 |ga_NED=3
+|win_SCO=1 |draw_SCO=1 |loss_SCO=1 |gf_SCO=5 |ga_SCO=6
+|win_IRN=0 |draw_IRN=1 |loss_IRN=2 |gf_IRN=2 |ga_IRN=8
+
+|name_NED={{fb|NED}}
+|name_IRN={{fb|IRN|1964}}
+|name_SCO={{fb|SCO}}
+|name_PER={{fb|PER}}
+|res_col_header=Q
+|col_A=green1 |text_A=Advance to {{nowrap|[[1978 FIFA World Cup#Second round|second round]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Peru vs Scotland===
+<onlyinclude>{{#invoke:Football box|main|section=4-1
+|date={{Start date|1978|6|3|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|PER}}
+|score={{score link|1978 FIFA World Cup Group 4#Peru vs Scotland|3–1}}
+|team2={{fb|SCO}}
+|goals1=
+*[[César Cueto|Cueto]] {{goal|43}}
+*[[Teófilo Cubillas|Cubillas]] {{goal|71||77}}
+|goals2=
+*[[Joe Jordan|Jordan]] {{goal|14}}
+|stadium=[[Estadio Olímpico Chateau Carreras|Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|attendance=37,927
+|referee=[[Ulf Eriksson (referee)|Ulf Eriksson]] ([[Swedish Football Association|Sweden]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2451 |title=Peru vs Scotland {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2451/index.html |title=1978 FIFA World Cup Argentina – Matches – Peru v Scotland |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001740/http://www.fifa.com/worldcup/matches/round=278/match=2451/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _per78h
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _red_stripes_adidas
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Peru
+ }}
+|{{Football kit
+ | pattern_la = _sco1978h
+ | pattern_b  = _sco1978h
+ | pattern_ra = _sco1978h
+ | pattern_sh = _sco1978a
+ | pattern_so = _3_stripes_white
+ | leftarm    = 1A2D69
+ | body       = 1A2D69
+ | rightarm   = 1A2D69
+ | shorts     = 1A2D69
+ | socks      = FF0000
+ | title      = Scotland
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Ramón Quiroga]]
+|-
+|DF ||'''2'''||[[Jaime Duarte]]
+|-
+|DF ||'''3'''||[[Rodolfo Manzo]]
+|-
+|DF ||'''4'''||[[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5'''||[[Rubén Toribio Díaz]]
+|-
+|MF ||'''6'''||[[José Velásquez (footballer, born 1952)|José Velásquez]] || {{yel|19}}
+|-
+|FW ||'''7'''||[[Juan José Muñante]]
+|-
+|MF ||'''8'''||[[César Cueto]] || || {{suboff|82}}
+|-
+|MF ||'''10'''||[[Teófilo Cubillas]]
+|-
+|FW ||'''11'''||[[Juan Carlos Oblitas]]
+|-
+|FW ||'''19'''||[[Guillermo La Rosa]] || || {{suboff|62}}
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''1'''||[[Ottorino Sartor]]
+|-
+|MF ||'''9'''||[[Percy Rojas]] || || {{subon|82}}
+|-
+|DF ||'''14'''||[[José Navarro (footballer, born 1948)|José Navarro]]
+|-
+|MF ||'''15'''||[[Germán Leguía]]
+|-
+|FW ||'''20'''||[[Hugo Sotil]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Marcos Calderón]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alan Rough]]
+|-
+|DF ||'''4''' ||[[Martin Buchan]]
+|-
+|DF ||'''13'''||[[Stuart Kennedy]]
+|-
+|DF ||'''14'''||[[Tom Forsyth]]
+|-
+|DF ||'''22'''||[[Kenny Burns]]
+|-
+|MF ||'''6''' ||[[Bruce Rioch]] ([[Captain (association football)|c]]) || || {{suboff|75}}
+|-
+|MF ||'''7''' ||[[Don Masson]] || || {{suboff|75}}
+|-
+|MF ||'''10'''||[[Asa Hartford]]
+|-
+|MF ||'''11'''||[[Willie Johnston]]
+|-
+|FW ||'''8''' ||[[Kenny Dalglish]]
+|-
+|FW ||'''9''' ||[[Joe Jordan]]
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|DF ||'''2''' ||[[Sandy Jardine]]
+|-
+|MF ||'''15'''||[[Archie Gemmill]] || || {{subon|75}}
+|-
+|MF ||'''16'''||[[Lou Macari]] || || {{subon|75}}
+|-
+|FW ||'''19'''||[[John Robertson (footballer, born 1953)|John Robertson]]
+|-
+|GK ||'''20'''||[[Bobby Clark (footballer, born 1945)|Bobby Clark]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Ally MacLeod]]
+|-
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Tesfaye Gebreyesus (Ethiopia)
+<br />Angel Franco Martinez (Spain)
+|}
+
+===Netherlands vs Iran===
+<onlyinclude>{{#invoke:Football box|main|section=4-2
+|date={{Start date|1978|6|3|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|NED}}
+|score={{score link|1978 FIFA World Cup Group 4#Netherlands vs Iran|3–0}}
+|team2={{fb|IRN|1964}}
+|goals1=
+*[[Rob Rensenbrink|Rensenbrink]] {{goal|40|pen.|62||78|pen.}}
+|goals2=
+|stadium=[[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|attendance=33,431
+|referee=[[Alfonso González Archundia]] ([[Federación Mexicana de Fútbol Asociación|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2388 |title=Netherlands vs Iran {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2388/index.html |title=1978 FIFA World Cup Argentina – Matches – Netherlands v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202052844/http://www.fifa.com/worldcup/matches/round=278/match=2388/index.html |archive-date=2 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands80h
+ | pattern_b  = _netherlands80h
+ | pattern_ra = _netherlands80h
+ | pattern_sh = _adidasblack
+ | pattern_so = _netherlands80h
+ | leftarm    = FF6000
+ | body       = FF6000
+ | rightarm   = FF6000
+ | shorts     = FF6000
+ | socks      = FF6000
+ | title      = Netherlands
+ }}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _adidas_redshoulder
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Iran
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|DF ||'''5''' ||[[Ruud Krol]] [[captain (association football)|(c)]]
+|-
+|DF ||'''11'''||[[Willy van de Kerkhof]] 
+|-
+|DF ||'''17'''||[[Wim Rijsbergen]]
+|-
+|DF ||'''20'''||[[Wim Suurbier]]
+|-
+|MF ||'''6''' ||[[Wim Jansen]]
+|-
+|MF ||'''9''' ||[[Arie Haan]]
+|-
+|MF ||'''10'''||[[René van de Kerkhof]] || || {{suboff|70}}
+|-
+|FW ||'''12'''||[[Rob Rensenbrink]]
+|-
+|FW ||'''13'''||[[Johan Neeskens]]
+|-
+|FW ||'''16'''||[[Johnny Rep]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''18'''||[[Dick Nanninga]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{Flagicon|AUT}} [[Ernst Happel]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Nasser Hejazi]]
+|-
+|DF ||'''14'''||[[Hassan Nazari]]
+|-
+|DF ||'''15'''||[[Andranik Eskandarian]] || {{yel|78}}
+|-
+|DF ||'''20'''||[[Nasrollah Abdollahi]]
+|-
+|DF ||'''21'''||[[Hossein Kazerani]]
+|-
+|MF ||'''6''' ||[[Hassan Nayebagha]]
+|-
+|MF ||'''7''' ||[[Ali Parvin]] [[captain (association football)|(c)]]
+|-
+|MF ||'''8''' ||[[Ebrahim Ghasempour]]
+|-
+|MF ||'''9''' ||[[Mohammad Sadeghi (footballer, born 1952)|Mohammad Sadeghi]]
+|-
+|FW ||'''17'''||[[Ghafour Jahani]]
+|-
+|FW ||'''18'''||[[Hossein Faraki]] || || {{suboff|50}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Hassan Rowshan]] || || {{subon|50}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Heshmat Mohajerani]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Robert Wurtz (referee)|Robert Wurtz]] (France)
+<br /> Miguel Comesana (Argentina)
+|}
+
+===Scotland vs Iran===
+<onlyinclude>{{#invoke:Football box|main|section=4-3
+|date={{Start date|1978|6|7|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|SCO}}
+|score={{score link|1978 FIFA World Cup Group 4#Scotland vs Iran|1–1}}
+|team2={{fb|IRN|1964}}
+|goals1=
+*[[Andranik Eskandarian|Eskandarian]] {{goal|43|o.g.}}
+|goals2=
+*[[Iraj Danaeifard|Danaeifard]] {{goal|60}}
+|stadium=[[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|attendance=7,938
+|referee=[[Youssou N'Diaye]] ([[Senegalese Football Federation|Senegal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2408 |title=Scotland vs Iran {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2408/index.html |title=1978 FIFA World Cup Argentina – Matches – Scotland v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001729/http://www.fifa.com/worldcup/matches/round=278/match=2408/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sco1978h
+ | pattern_b  = _sco1978h
+ | pattern_ra = _sco1978h
+ | pattern_sh = _sco1978a
+ | pattern_so = _3_stripes_white
+ | leftarm    = 1A2D69
+ | body       = 1A2D69
+ | rightarm   = 1A2D69
+ | shorts     = 1A2D69
+ | socks      = FF0000
+ | title      = Scotland
+ }}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _adidas_redshoulder
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _adidas_red
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Iran
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Alan Rough]]
+|-
+|DF ||'''2''' ||[[Sandy Jardine]]
+|-
+|DF ||'''3''' ||[[Willie Donachie]]
+|-
+|DF ||'''4''' ||[[Martin Buchan]] || || {{suboff|56}}
+|-
+|DF ||'''22'''||[[Kenny Burns]]
+|-
+|MF ||'''8''' ||[[Kenny Dalglish]] || || {{suboff|74}}
+|-
+|MF ||'''10'''||[[Asa Hartford]]
+|-
+|MF ||'''15'''||[[Archie Gemmill]] ([[captain (association football)|c]])
+|-
+|MF ||'''9''' ||[[Joe Jordan]]
+|-
+|FW ||'''16'''||[[Lou Macari]]
+|-
+|FW ||'''19'''||[[John Robertson (footballer, born 1953)|John Robertson]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''14'''||[[Tom Forsyth]] || || {{subon|56}}
+|-
+|FW ||'''21'''||[[Joe Harper (footballer)|Joe Harper]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| [[Ally MacLeod]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Nasser Hejazi]]
+|-
+|DF ||'''2''' ||[[Iraj Danaeifard]] || || {{suboff|89}}
+|-
+|DF ||'''14'''||[[Hassan Nazari]]
+|-
+|DF ||'''15'''||[[Andranik Eskandarian]] || {{yel|49}}
+|-
+|DF ||'''20'''||[[Nasrollah Abdollahi]]
+|-
+|DF ||'''21'''||[[Hossein Kazerani]]
+|-
+|MF ||'''7''' ||[[Ali Parvin]] [[captain (association football)|(c)]]
+|-
+|MF ||'''8''' ||[[Ebrahim Ghasempour]]
+|-
+|MF ||'''9''' ||[[Mohammad Sadeghi (footballer, born 1952)|Mohammad Sadeghi]]
+|-
+|FW ||'''17'''||[[Ghafour Jahani]]
+|-
+|FW ||'''18'''||[[Hossein Faraki]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[Hassan Rowshan]]|| || {{subon|84}}
+|-
+|MF ||'''6''' ||[[Hassan Nayebagha]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Heshmat Mohajerani]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Nicolae Rainea]] (Romania)
+<br />[[Arnaldo Cézar Coelho|Arnaldo Coelho]] (Brazil)
+|}
+
+===Netherlands vs Peru===
+<onlyinclude>{{#invoke:Football box|main|section=4-4
+|date={{Start date|1978|6|7|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|NED}}
+|score={{score link|1978 FIFA World Cup Group 4#Netherlands vs Peru|0–0}}
+|team2={{fb|PER}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|attendance=28,125
+|referee=[[Adolf Prokop]] ([[East Germany national football team|East Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2394 |title=Netherlands vs Peru {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2394/index.html |title=1978 FIFA World Cup Argentina – Matches – Netherlands v Peru |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220144954/http://www.fifa.com/worldcup/matches/round=278/match=2394/index.html |archive-date=20 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands80h
+ | pattern_b  = _netherlands80h
+ | pattern_ra = _netherlands80h
+ | pattern_sh = _adidasblack
+ | pattern_so = _netherlands80h
+ | leftarm    = FF6000
+ | body       = FF6000
+ | rightarm   = FF6000
+ | shorts     = FF6000
+ | socks      = FF6000
+ | title      = Netherlands
+ }}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _per78h
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _red_stripes_adidas
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Peru
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|DF ||'''2''' ||[[Jan Poortvliet]]
+|-
+|DF ||'''5''' ||[[Ruud Krol]] [[captain (association football)|(c)]]
+|-
+|DF ||'''17'''||[[Wim Rijsbergen]]
+|-
+|DF ||'''20'''||[[Wim Suurbier]]
+|-
+|MF ||'''6''' ||[[Wim Jansen]]
+|-
+|MF ||'''9''' ||[[Arie Haan]]
+|-
+|MF ||'''10'''||[[René van de Kerkhof]] || {{yel|25}}|| {{suboff|46}}
+|-
+|MF ||'''11'''||[[Willy van de Kerkhof]] 
+|-
+|FW ||'''12'''||[[Rob Rensenbrink]]
+|-
+|FW ||'''13'''||[[Johan Neeskens]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''16'''||[[Johnny Rep]] || || {{subon|46}}
+|-
+|FW ||'''18'''||[[Dick Nanninga]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3| {{Flagicon|AUT}} [[Ernst Happel]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||[[Ramón Quiroga]]
+|-
+|DF ||'''2''' ||[[Jaime Duarte]]
+|-
+|DF ||'''3''' ||[[Rodolfo Manzo]]
+|-
+|DF ||'''4''' ||[[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Rubén Toribio Díaz]] 
+|-
+|MF ||'''6''' ||[[José Velásquez (footballer, born 1952)|José Velásquez]] 
+|-
+|MF ||'''8''' ||[[César Cueto]] 
+|-
+|MF ||'''10'''||[[Teófilo Cubillas]]
+|-
+|FW ||'''7''' ||[[Juan José Muñante]] || {{yel|65}}
+|-
+|FW ||'''11'''||[[Juan Carlos Oblitas]]
+|-
+|FW ||'''19'''||[[Guillermo La Rosa]] || || {{suboff|62}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Hugo Sotil]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Marcos Calderón]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Norberto Coerezza (Argentina)
+<br />Anatoly Ivanov (Soviet Union)
+|}
+
+===Peru vs Iran===
+<onlyinclude>{{#invoke:Football box|main|section=4-5
+|date={{Start date|1978|6|11|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|PER}}
+|score={{score link|1978 FIFA World Cup Group 4#Peru vs Iran|4–1}}
+|team2={{fb|IRN|1964}}
+|goals1=
+*[[José Velásquez (footballer, born 1952)|Velásquez]] {{goal|2}}
+*[[Teófilo Cubillas|Cubillas]] {{goal|36|pen.|39|pen.|79}}
+|goals2=
+*[[Hassan Rowshan|Rowshan]] {{goal|41}}
+|stadium=[[Estadio Olímpico Chateau Carreras|Estadio Chateau Carreras]], [[Córdoba, Argentina|Córdoba]]
+|attendance=21,262
+|referee=[[Alojzy Jarguz]] ([[Polish Football Association|Poland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2405 |title=Peru vs Iran {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2405/index.html |title=1978 FIFA World Cup Argentina – Matches – Peru v Iran |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171214001724/http://www.fifa.com/worldcup/matches/round=278/match=2405/index.html |archive-date=14 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_red_stripes
+ | pattern_b  = _per78h
+ | pattern_ra = _shoulder_stripes_red_stripes
+ | pattern_sh = _red_stripes_adidas
+ | pattern_so = _color_3_stripes_red
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Peru
+ }}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes
+ | pattern_b  = _psv8889h
+ | pattern_ra = _shoulder_stripes_white_stripes
+ | pattern_sh = _adidas_white
+ | pattern_so = _color_3_stripes_white
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Iran
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''21'''||[[Ramón Quiroga]]
+|-
+|DF ||'''2''' ||[[Jaime Duarte]]
+|-
+|DF ||'''3''' ||[[Rodolfo Manzo]] || || {{suboff|67}} 
+|-
+|DF ||'''4''' ||[[Héctor Chumpitaz]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||[[Rubén Toribio Díaz]] 
+|-
+|MF ||'''6''' ||[[José Velásquez (footballer, born 1952)|José Velásquez]] 
+|-
+|MF ||'''8''' ||[[César Cueto]] 
+|-
+|MF ||'''10'''||[[Teófilo Cubillas]]
+|-
+|FW ||'''7''' ||[[Juan José Muñante]]
+|-
+|FW ||'''11'''||[[Juan Carlos Oblitas]]
+|-
+|FW ||'''19'''||[[Guillermo La Rosa]] || || {{suboff|60}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''20'''||[[Hugo Sotil]] || || {{subon|60}}
+|-
+|FW ||'''15'''||[[Germán Leguía]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marcos Calderón]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Nasser Hejazi]]
+|-
+|DF ||'''2''' ||[[Iraj Danaeifard]] 
+|-
+|DF ||'''5''' ||[[Javad Allahverdi]]
+|-
+|DF ||'''14'''||[[Hassan Nazari]] || {{yel|60}}
+|-
+|DF ||'''20'''||[[Nasrollah Abdollahi]]
+|-
+|DF ||'''21'''||[[Hossein Kazerani]]
+|-
+|MF ||'''7''' ||[[Ali Parvin]] [[captain (association football)|(c)]]
+|-
+|MF ||'''8''' ||[[Ebrahim Ghasempour]]
+|-
+|MF ||'''9''' ||[[Mohammad Sadeghi (footballer, born 1952)|Mohammad Sadeghi]]
+|- 
+|FW ||'''10'''||[[Hassan Rowshan]] || || {{suboff|66}}
+|-
+|FW ||'''18'''||[[Hossein Faraki]] || || {{suboff|51}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Ghafour Jahani]] || || {{subon|51}}
+|-
+|FW ||'''3''' ||[[Behtash Fariba]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|[[Heshmat Mohajerani]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Dušan Maksimović (Yugoslavia)
+<br />[[Werner Winsemann]] (Canada)
+|}
+
+===Scotland vs Netherlands===
+<onlyinclude>{{#invoke:Football box|main|section=4-6
+|date={{Start date|1978|6|11|df=y}}
+|time=16:45 [[Time in Argentina|ART]]
+|team1={{fb-rt|SCO}}
+|score={{score link|1978 FIFA World Cup Group 4#Scotland vs Netherlands|3–2}}
+|team2={{fb|NED}}
+|goals1=
+*[[Kenny Dalglish|Dalglish]] {{goal|45}}
+*[[Archie Gemmill|A. Gemmill]] {{goal|46|pen.|68}}
+|goals2=
+*[[Rob Rensenbrink|Rensenbrink]] {{goal|34|pen.}}
+*[[Johnny Rep|Rep]] {{goal|71}}
+|stadium=[[Estadio Malvinas Argentinas|Estadio Ciudad de Mendoza]], [[Mendoza, Argentina|Mendoza]]
+|attendance=35,130
+|referee=[[Erich Linemayr]] ([[Austrian Football Association|Austria]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/50/278/2395 |title=Scotland vs Netherlands {{!}} Group Matches {{!}} 1978 FIFA World Cup Argentina |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=278/match=2395/index.html |title=1978 FIFA World Cup Argentina – Matches – Scotland v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228021559/http://www.fifa.com/worldcup/matches/round=278/match=2395/index.html |archive-date=28 December 2017}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sco1978h
+ | pattern_b  = _sco1978h
+ | pattern_ra = _sco1978h
+ | pattern_sh = _sco1978h
+ | pattern_so = _3_stripes_white
+ | leftarm    = 1A2D69
+ | body       = 1A2D69
+ | rightarm   = 1A2D69
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Scotland
+ }}
+|{{Football kit
+ | pattern_la = _shoulder stripes orange stripes
+ | pattern_b  = _netherlands80a
+ | pattern_ra = _shoulder stripes orange stripes
+ | pattern_sh = _adidasblack
+ | pattern_so = _netherlands80h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FF6600
+ | socks      = FF6600
+ | title      = Netherlands
+ }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Alan Rough]]
+|-
+|DF ||'''3''' ||[[Willie Donachie]]
+|-
+|DF ||'''4''' ||[[Martin Buchan]] 
+|-
+|DF ||'''13'''||[[Stuart Kennedy]]
+|-
+|DF ||'''14'''||[[Tom Forsyth]]
+|-
+|MF ||'''6''' ||[[Bruce Rioch]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||[[Kenny Dalglish]]
+|-
+|MF ||'''10'''||[[Asa Hartford]]
+|-
+|MF ||'''15'''||[[Archie Gemmill]] || {{yel|35}}
+|-
+|MF ||'''18'''||[[Graeme Souness]]
+|-
+|FW ||'''9''' ||[[Joe Jordan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ally MacLeod]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''8''' ||[[Jan Jongbloed]]
+|-
+|DF ||'''2''' ||[[Jan Poortvliet]]
+|-
+|DF ||'''5''' ||[[Ruud Krol]] [[captain (association football)|(c)]]
+|-
+|DF ||'''17'''||[[Wim Rijsbergen]] || || {{suboff|45}}
+|-
+|DF ||'''20'''||[[Wim Suurbier]]
+|- 
+|MF ||'''6''' ||[[Wim Jansen]]
+|-
+|MF ||'''10'''||[[René van de Kerkhof]] 
+|-
+|MF ||'''11'''||[[Willy van de Kerkhof]] 
+|-
+|FW ||'''12'''||[[Rob Rensenbrink]]
+|-
+|FW ||'''13'''||[[Johan Neeskens]] || || {{suboff|10}}
+|-
+|FW ||'''16'''||[[Johnny Rep]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||[[Johan Boskamp]] || || {{subon|10}}
+|-
+|DF ||'''7''' ||[[Piet Wildschut]] || || {{subon|45}}
+|-
+|colspan=3|'''Manager:'''
+|- 
+|colspan=4|{{Flagicon|AUT}} [[Ernst Happel]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Károly Palotai]] (Hungary)
+<br /> Hedi Seoudi (Tunisia)
+|}
+
+==See also==
+*[[Iran at the FIFA World Cup]]
+*[[Netherlands at the FIFA World Cup]]
+*[[Peru at the FIFA World Cup]]
+*[[Scotland at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+*[http://www.arkivperu.com/escocia.htm Arkivperu.com] {{Webarchive|url=https://web.archive.org/web/20210509230404/http://www.arkivperu.com/escocia.htm |date=9 May 2021 }}
+*[http://m.elcomercio.pe/deportes/871040/noticia-peru-grato-recuerdo-cordoba-golazo-cubillas-escocia El Comercio] {{Webarchive|url=https://web.archive.org/web/20120328101730/http://m.elcomercio.pe/deportes/871040/noticia-peru-grato-recuerdo-cordoba-golazo-cubillas-escocia |date=28 March 2012 }}
+*[http://www.thesonsofscotland.co.uk/peru78.htm The Sons of Scotland] {{Webarchive|url=https://web.archive.org/web/20210515071454/http://www.thesonsofscotland.co.uk/peru78.htm |date=15 May 2021 }}
+
+{{1978 FIFA World Cup}}
+
+{{DEFAULTSORT:Group}}
+[[Category:1978 FIFA World Cup group stage|Groups]]
+[[Category:Iran at the 1978 FIFA World Cup]]
+[[Category:Scotland at the 1978 FIFA World Cup]]
+[[Category:Netherlands at the 1978 FIFA World Cup]]
+[[Category:Peru at the 1978 FIFA World Cup]]
+[[Category:Football competitions in Córdoba Province, Argentina]]
+[[Category:Sport in Córdoba, Argentina]]
+[[Category:Football competitions in Mendoza Province]]
+[[Category:Sport in Mendoza, Argentina]]

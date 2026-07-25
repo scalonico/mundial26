@@ -1,0 +1,1096 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=November 2017}}
+[[File:Russia stamp 2018 № 2346.jpg|thumb|2018 [[postage stamp]] from [[Russia]] depicting group B of the [[2018 FIFA World Cup]] group stage]]
+
+Group B of the [[2018 FIFA World Cup]] took place from 15 to 25 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=20 December 2017 |archive-date=24 June 2018 |archive-url=https://web.archive.org/web/20180624041527/https://resources.fifa.com/mm/document/tournament/competition/02/66/71/62/2018fwc_matchschedule_20122017_en_neutral.pdf |url-status=dead }}</ref> The group consisted of [[Portugal national football team|Portugal]], [[Spain national football team|Spain]], [[Morocco national football team|Morocco]], and [[Iran national football team|Iran]]. The top two teams, Spain and Portugal, advanced to the round of 16.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/74fabee6a36ad3b2/original/ejmfg94ac7hypl9zmsys-pdf.pdf |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=16 November 2017}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| B1 || style=white-space:nowrap | {{fb|POR}} || 1 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group B|UEFA group B]] winners || 10 October 2017 || 7th || [[2014 FIFA World Cup|2014]] || data-sort-value="6.1" | Third place ([[1966 FIFA World Cup|1966]]) || 3 || 4
+|-
+| B2 || style=white-space:nowrap | {{fb|ESP}} || 2 || [[UEFA]] || [[2018 FIFA World Cup qualification – UEFA Group G|UEFA group G]] winners || 6 October 2017 || 15th || [[2014 FIFA World Cup|2014]] || data-sort-value="8.1" | '''Winners''' ([[2010 FIFA World Cup|2010]]) || 8 || 10
+|-
+| B3 || style=white-space:nowrap | {{fb|MAR}} || 4 || [[Confederation of African Football|CAF]] || [[2018 FIFA World Cup qualification – CAF third round#Group C|CAF third round group C]] winners || 11 November 2017 || 5th || [[1998 FIFA World Cup|1998]]  || data-sort-value="3.1" | Round of 16 ([[1986 FIFA World Cup|1986]]) || 48 || 41
+|-
+| B4 || style=white-space:nowrap | {{fb|IRN}} || 3 || [[Asian Football Confederation|AFC]] || [[2018 FIFA World Cup qualification – AFC third round#Group A|AFC third round group A]] winners || 12 June 2017 || 5th || [[2014 FIFA World Cup|2014]]  || data-sort-value="2.4" | Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]]) || 34 || 37
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|teamwidth=180
+|class_rules=[[2018 FIFA World Cup#Tiebreakers|Group stage tiebreakers]]
+|source=[https://www.fifa.com/worldcup/groups/index.html FIFA]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_POR=1 |draw_POR=2 |loss_POR=0 |gf_POR=5 |ga_POR=4
+|win_ESP=1 |draw_ESP=2 |loss_ESP=0 |gf_ESP=6 |ga_ESP=5
+|win_MAR=0 |draw_MAR=1 |loss_MAR=2 |gf_MAR=2 |ga_MAR=4
+|win_IRN=1 |draw_IRN=1 |loss_IRN=1 |gf_IRN=2 |ga_IRN=2
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=ESP |team2=POR |team3=IRN |team4=MAR
+
+<!--Country definitions-->
+|name_POR={{fb|POR}}
+|name_ESP={{fb|ESP}}
+|name_MAR={{fb|MAR}}
+|name_IRN={{fb|IRN}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2018 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+*The winners of Group B, [[Spain national football team|Spain]], advanced to play the runners-up of [[2018 FIFA World Cup Group A|Group A]], [[Russia national football team|Russia]].
+*The runners-up of Group B, [[Portugal national football team|Portugal]], advanced to play the winners of [[2018 FIFA World Cup Group A|Group A]], [[Uruguay national football team|Uruguay]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===Morocco vs Iran===
+[[File:2018 FIFA World Cup Group B march IRN-MAR 25.jpg|thumb|[[Mbark Boussoufa]] vs [[Rouzbeh Cheshmi]]]]
+The two teams had never met before.<ref name=Kit>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association}}</ref>
+
+[[Amine Harit]] fired wide with a volley from the edge of the penalty area after two minutes. [[Younès Belhanda]] and [[Medhi Benatia]] squandered close-range chances in a penalty box before Iran finally countered after 20 minutes, only for [[Karim Ansarifard]] to scuff his shot when clean through on goal. [[Sardar Azmoun]] then latched onto [[Omid Ebrahimi]]'s through ball, but his shot was too low and [[Munir Mohand Mohamedi|Munir Mohamedi]] saved low with his feet.<ref name="Goal-Morocco v Iran">{{cite web |last=Creek |first=Stephen |title=Bouhaddouz own-goal gifts game to Queiroz's men |url=http://www.goal.com/en/news/8/main/2018/06/15/45550852/morocco-0-iran-1-bouhaddouz-own-goal-gifts-game-to-queirozs |website=Goal.com |date=15 June 2018}}</ref> In the final 10 minutes [[Hakim Ziyech]] lashed the ball towards the bottom-left corner of the net from 20 yards but [[Alireza Beiranvand]] stopped the ball. In the last minutes, [[Ehsan Hajsafi]]'s delivery from the left was met by a header from [[Aziz Bouhaddouz]] that flew into the left corner of his own net.<ref name="Goal-Morocco v Iran"/><ref name="BBC 0-1">{{cite web |last=Emons |first=Michael |title=Morocco 0 Iran 1 |url=https://www.bbc.com/sport/football/44408322 |work=BBC Sport |date=15 June 2018}}</ref><ref name="MAR-IRN recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/iran-snatch-late-win-with-own-goal-heartbreak |title=Own goal hands Iran dramatic victory |publisher=FIFA |date=15 June 2018 |access-date=15 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520043029/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/iran-snatch-late-win-with-own-goal-heartbreak |archive-date=20 May 2026}}</ref>
+
+Iran won just their second match at the World Cup (D3 L8), with this is their first victory since beating the United States [[1998 FIFA World Cup Group F#United States vs Iran|2–1]] in [[1998 FIFA World Cup|June 1998]]. Iran did not attempt a single shot in the second half and were the first team since [[1966 FIFA World Cup|1966]] to score a goal in a half of World Cup football without attempting a shot.<ref name="Goal-Morocco v Iran"/><ref name="BBC 0-1"/> Iran also maintained their unbeaten streak against [[Confederation of African Football|CAF]] teams in the World Cup, having drawn [[Angola national football team|Angola]] 1–1 in 2006 and [[Nigeria national football team|Nigeria]] 0–0 in 2014; while this was also Iran's first ever victory against any Arab team in the World Cup.
+<onlyinclude>{{#invoke:Football box|main|section=b1
+|date={{Start date|2018|6|15|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|MAR}}
+|score={{score link|2018 FIFA World Cup Group B#Morocco vs Iran|0–1}}
+|team2={{fb|IRN}}
+|goals1=
+|goals2=
+*[[Aziz Bouhaddouz|Bouhaddouz]] {{goal|90+5|o.g.}}
+|stadium=[[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance=62,548
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331526 |title=Morocco vs Iran {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/3c2a0dc8fe3e94d3/original/blbvovm1253pu2epd6kp-pdf.pdf |title=Match report – Group B – Morocco v IR Iran |publisher=[[FIFA]] |date=15 June 2018 |access-date=15 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062621/https://digitalhub.fifa.com/m/3c2a0dc8fe3e94d3/original/blbvovm1253pu2epd6kp-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _marok18h
+ |pattern_ra = _whiteborder
+ |pattern_sh = _marok18h
+ |pattern_so = _3_stripes_white
+ |leftarm    = D50414
+ |body       = D50414
+ |rightarm   = D50414
+ |shorts     = 117957
+ |socks      = D50414
+ |title      = Morocco<ref name="MAR-IRN line-ups">{{cite web |url=https://digitalhub.fifa.com/m/42712e16d02bd4b6/original/zgkiadfrvsoqtp8lbyfx-pdf.pdf |title=Tactical Line-up – Group B – Morocco v IR Iran |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 June 2018 |access-date=15 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522184001/https://digitalhub.fifa.com/m/42712e16d02bd4b6/original/zgkiadfrvsoqtp8lbyfx-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _irn18home
+ |pattern_b  = _irn18home
+ |pattern_ra = _irn18home
+ |pattern_sh = _irn18home
+ |pattern_so = _irn18home
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iran<ref name="MAR-IRN line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Munir Mohand Mohamedi|Munir Mohamedi]]
+|-
+|CB ||'''2''' ||[[Achraf Hakimi]]
+|-
+|CB ||'''5''' ||[[Medhi Benatia]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Romain Saïss]]
+|-
+|RM ||'''14'''||[[Mbark Boussoufa]]
+|-
+|CM ||'''7''' ||[[Hakim Ziyech]]
+|-
+|CM ||'''8''' ||[[Karim El Ahmadi]] || {{yel|34}}
+|-
+|LM ||'''18'''||[[Amine Harit]] || || {{suboff|82}}
+|-
+|RF ||'''16'''||[[Nordin Amrabat]] || || {{suboff|76}}
+|-
+|CF ||'''9''' ||[[Ayoub El Kaabi]] || || {{suboff|77}}
+|-
+|LF ||'''10'''||[[Younès Belhanda]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Sofyan Amrabat]] || || {{subon|76}}
+|-
+|FW ||'''20'''||[[Aziz Bouhaddouz]] || || {{subon|77}}
+|-
+|DF ||'''4''' ||[[Manuel da Costa (footballer, born 1986)|Manuel da Costa]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Hervé Renard]]
+|}
+|valign="top"|[[File:MAR-IRN 2018-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alireza Beiranvand]]
+|-
+|CB ||'''23'''||[[Ramin Rezaeian]]
+|-
+|CB ||'''4''' ||[[Rouzbeh Cheshmi]]
+|-
+|CB ||'''8''' ||[[Morteza Pouraliganji]]
+|-
+|RM ||'''10'''||[[Karim Ansarifard]] || {{yel|90+2}}
+|-
+|CM ||'''9''' ||[[Omid Ebrahimi]] || || {{suboff|81}}
+|-
+|CM ||'''3''' ||[[Ehsan Hajsafi]]
+|-
+|LM ||'''7''' ||[[Masoud Shojaei]] ([[Captain (association football)|c]]) || {{yel|10}} || {{suboff|68}}
+|-
+|RF ||'''18'''||[[Alireza Jahanbakhsh]] || {{yel|47}} || {{suboff|85}}
+|-
+|CF ||'''20'''||[[Sardar Azmoun]]
+|-
+|LF ||'''11'''||[[Vahid Amiri]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Mehdi Taremi]] || || {{subon|68}}
+|-
+|DF ||'''19'''||[[Majid Hosseini]] || || {{subon|81}}
+|-
+|FW ||'''14'''||[[Saman Ghoddos]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Carlos Queiroz]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Amine Harit]] (Morocco)<ref name="MAR-IRN recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="MAR-IRN line-ups"/>
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Anton Averianov ([[Russian Football Union|Russia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+|}
+
+===Portugal vs Spain===
+[[File:Portugal Spain 2018-06-15 02.jpg|thumb|Portugal vs Spain]]
+{{see also|Portugal–Spain football rivalry}}
+The two teams had met in 35 previous matches, including in the round of 16 of the [[2010 FIFA World Cup]], won by Spain [[2010 FIFA World Cup knockout stage#Spain vs Portugal|1–0]]. Their most recent meeting was in the [[UEFA Euro 2012]] semi-finals, when Spain won 4–2 on penalties after a goalless draw in normal time.<ref>{{cite web |url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |url-status=dead |archive-date=8 May 2018 |title=2018 FIFA World Cup – Statistical Kit |website=FIFA.com |publisher=Fédération Internationale de Football Association |page=6}}</ref>
+
+[[Cristiano Ronaldo]] scored with an early penalty, winning it after he was fouled by [[Nacho (footballer, born 1990)|Nacho]] inside the box.<ref name="POR-ESP recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/156-por-esp-match-report-x-x-2957787 |title=Ronaldo illuminates stellar draw with Spain |publisher=FIFA |date=15 June 2018 |access-date=15 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520043225/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/156-por-esp-match-report-x-x-2957787 |archive-date=20 May 2026}}</ref> [[Diego Costa]] then twisted and turned away from two Portugal defenders to score with a low shot to the left corner which brought the two sides level.<ref name="Goal Portugal v Spain">{{cite web |last=Smith |first=Jamie |title=Brilliant Ronaldo hat-trick earns thrilling draw |url=http://www.goal.com/en-in/match/portugal-v-spain/ca5gvudcr66pasfhzalrq0bmx |website=Goal.com |date=15 June 2018}}</ref> But just before the break, [[David de Gea]] fumbled a Ronaldo shot from outside the penalty box through his gloves and over the line.<ref name="BBC Portugal v Spain">{{cite web |last=Jennings |first=Patrick |title=Portugal 3 Spain 3 |url=https://www.bbc.com/sport/football/44408323 |work=BBC Sport |date=15 June 2018}}</ref> Costa scored his second equaliser of the night just after the restart from close range before Nacho scored with a right foot half-volley in off the post from the edge of the penalty box, his first goal for Spain. As the clock ticked down, however, [[Gerard Piqué]] brought down Ronaldo just outside the box, with the Portugal star completing the scoring and his hat-trick with a free-kick into the top right corner of the net.<ref name="POR-ESP recap"/>
+
+Ronaldo became the fourth player to score in four different World Cup tournaments ([[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]] and [[2018 FIFA World Cup|2018]]) after [[Pelé]], [[Uwe Seeler]] and [[Miroslav Klose]], and also the first to score in eight consecutive World Cups and [[UEFA European Championship|European Championships]]. At age 33, Ronaldo also became the oldest hat-trick scorer in the World Cup, surpassing [[Rob Rensenbrink]] of the [[Netherlands national football team|Netherlands]], who [[1978 FIFA World Cup Group 4#Netherlands vs Iran|scored three times against Iran]] in [[1978 FIFA World Cup|1978]], aged 30.<ref name="Goal Portugal v Spain"/><ref name="BBC Portugal v Spain"/> With this result, Spain has not won any opening matches since 2006, having lost to Switzerland 0–1 in 2010 and the Netherlands 1–5 in 2014.
+
+<onlyinclude>{{#invoke:Football box|main|section=b2
+|date={{Start date|2018|6|15|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|POR}}
+|score={{score link|2018 FIFA World Cup Group B#Portugal vs Spain|3–3}}
+|team2={{fb|ESP}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|4|pen.|44||88}}
+|goals2=
+*[[Diego Costa|Costa]] {{goal|24||55}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|58}}
+|stadium=[[Fisht Olympic Stadium]], [[Sochi]]
+|attendance=43,866
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331524 |title=Portugal vs Spain {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/3716fb6d48ad1952/original/uicllwhyjnhmpjhxkp0l-pdf.pdf |title=Match report – Group B – Portugal v Spain |publisher=[[FIFA]] |date=15 June 2018 |access-date=15 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413062636/https://digitalhub.fifa.com/m/3716fb6d48ad1952/original/uicllwhyjnhmpjhxkp0l-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _portu18h
+ |pattern_b  = _portu18h
+ |pattern_ra = _portu18h
+ |pattern_sh = _POR18H
+ |pattern_so = _portu18h
+ |leftarm    = EB0527
+ |body       = EB0527
+ |rightarm   = EB0527
+ |shorts     = EB0527
+ |socks      = 006200
+ |title      = Portugal<ref name="POR-ESP line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4b2ff8d50fb88c01/original/v3xuavb61uodetkd3sn7-pdf.pdf |title=Tactical Line-up – Group B – Portugal v Spain |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 June 2018 |access-date=15 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175005/https://digitalhub.fifa.com/m/4b2ff8d50fb88c01/original/v3xuavb61uodetkd3sn7-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esp18a
+ |pattern_b  = _esp18a
+ |pattern_ra = _esp18a
+ |pattern_sh = _esp18a
+ |pattern_so = _esp18a
+ |leftarm    = F6FBFF
+ |body       = F6FBFF
+ |rightarm   = F6FBFF
+ |shorts     = FFFFFF
+ |socks      = F6FBFF
+ |title      = Spain<ref name="POR-ESP line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Rui Patrício]]
+|-
+|RB ||'''21'''||[[Cédric Soares|Cédric]]
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]]
+|-
+|CB ||'''6''' ||[[José Fonte]]
+|-
+|LB ||'''5''' ||[[Raphaël Guerreiro]]
+|-
+|CM ||'''14'''||[[William Carvalho]]
+|-
+|CM ||'''8''' ||[[João Moutinho]]
+|-
+|RW ||'''11'''||[[Bernardo Silva]] || || {{suboff|69}}
+|-
+|AM ||'''17'''||[[Gonçalo Guedes]] || || {{suboff|80}}
+|-
+|LW ||'''16'''||[[Bruno Fernandes]] || {{yel|28}} || {{suboff|68}}
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[João Mário (footballer, born January 1993)|João Mário]] || || {{subon|68}}
+|-
+|FW ||'''20'''||[[Ricardo Quaresma]] || || {{subon|69}}
+|-
+|FW ||'''9''' ||[[André Silva (footballer, born 1995)|André Silva]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+|}
+|valign="top"|[[File:POR-ESP 2018-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David de Gea]]
+|-
+|RB ||'''4''' ||[[Nacho (footballer, born 1990)|Nacho]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]] ([[Captain (association football)|c]])
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|CM ||'''5''' ||[[Sergio Busquets]] || {{yel|17}}
+|-
+|CM ||'''8''' ||[[Koke (footballer, born 1992)|Koke]]
+|-
+|RW ||'''21'''||[[David Silva]] || || {{suboff|86}}
+|-
+|AM ||'''22'''||[[Isco]]
+|-
+|LW ||'''6''' ||[[Andrés Iniesta]] || || {{suboff|70}}
+|-
+|CF ||'''19'''||[[Diego Costa]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Thiago Alcântara|Thiago]] || || {{subon|70}}
+|-
+|FW ||'''17'''||[[Iago Aspas]] || || {{subon|77}}
+|-
+|FW ||'''11'''||[[Lucas Vázquez]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Hierro]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Portugal)<ref name="POR-ESP recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="POR-ESP line-ups"/>
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />Mauro Tonolini ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ryuji Sato]] ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|}
+
+===Portugal vs Morocco===
+[[File:Portugal-Morocco by soccer.ru 12.jpg|thumb|[[Younès Belhanda]] vs [[Gonçalo Guedes]]]]
+The two teams had met previously only once, a group stage game in the [[1986 FIFA World Cup]], won by Morocco [[1986 FIFA World Cup Group F#Portugal vs Morocco|3–1]].<ref name=Kit5>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|archive-url=https://web.archive.org/web/20180508111620/http://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|url-status=dead|archive-date=8 May 2018|title=2018 FIFA World Cup – Statistical Kit|website=FIFA.com |publisher=Fédération Internationale de Football Association|page=5}}</ref>
+
+[[João Moutinho]] swung in a cross from the right after a short corner and [[Cristiano Ronaldo]] headed the ball powerfully past goalkeeper [[Munir Mohand Mohamedi|Munir Mohamedi]] from six yards out and into the middle of the goal to open the scoring in the 4th minute. Ronaldo played [[Gonçalo Guedes]] into the box but Munir made a one-handed save. Ronaldo shot over the crossbar when [[Bernardo Silva]]'s mishit presented him with a shooting chance on the edge of the box early in the second half. [[Rui Patrício]] then made a save to preserve Portugal's lead when [[Hakim Ziyech]]'s free-kick was headed towards goal by [[Younès Belhanda]], the goalkeeper diving to palm the ball away from danger. Ziyech shot another set-piece just over the crossbar from 25 yards. [[Nordin Amrabat]] and [[Medhi Benatia]] fired over with better chances.<ref name="Goal Portugal v Morocco">{{cite web |last=Creek |first=Stephen |title=Record-breaker Ronaldo sends Renard's men out |url=http://www.goal.com/en-tz/match/814332/portugal-vs-morocco/report |website=Goal.com |date=20 June 2018 |access-date=20 June 2018 |archive-date=20 June 2018 |archive-url=https://web.archive.org/web/20180620232212/http://www.goal.com/en-tz/match/814332/portugal-vs-morocco/report |url-status=dead }}</ref> With their second loss in a row, Morocco became the first team to be eliminated from the [[2018 FIFA World Cup]].
+
+85 international goals for Ronaldo is a new record for a European player, with Ronaldo passing [[Ferenc Puskás]] to hold the record outright.<ref name="POR-MAR recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/ronaldo-grabs-winner-morocco-exit |title=Ronaldo grabs winner, Morocco eliminated |publisher=FIFA |date=20 June 2018 |access-date=20 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045050/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/ronaldo-grabs-winner-morocco-exit |archive-date=20 May 2026}}</ref> Ronaldo has become the first Portuguese player since [[José Augusto Torres|José Torres]] in 1966 to score a goal with his right foot, left foot and head in a single World Cup tournament. Ronaldo is the first player to score five consecutive World Cup goals for his team since [[Oleg Salenko]] for Russia in 1994.<ref name="Goal Portugal v Morocco"/><ref>{{cite web |last=Bevan |first=Chris |title=Portugal 1 Morocco 0 |url=https://www.bbc.com/sport/football/44439069 |work=BBC Sport |date=20 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b3
+|date={{Start date|2018|6|20|df=y}}
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|POR}}
+|score={{score link|2018 FIFA World Cup Group B#Portugal vs Morocco|1–0}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|4}}
+|goals2=
+|stadium=[[Luzhniki Stadium]], [[Moscow]]
+|attendance=78,011
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331511 |title=Portugal vs Morocco {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/517f9216d4fc5378/original/mii2jztnh9q1ysjpmwrv-pdf.pdf |title=Match report – Group B – Portugal v Morocco |publisher=[[FIFA]] |date=20 June 2018 |access-date=20 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063033/https://digitalhub.fifa.com/m/517f9216d4fc5378/original/mii2jztnh9q1ysjpmwrv-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _portugal18a
+ |pattern_b  = _portugal18a
+ |pattern_ra = _portugal18a
+ |pattern_sh = _POR18A
+ |pattern_so = _por18A
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Portugal<ref name="POR-MAR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/871b5d13890ca38/original/fzrbudczuybwd5yxxijm-pdf.pdf |title=Tactical Line-up – Group B – Portugal v Morocco |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 June 2018 |access-date=20 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175030/https://digitalhub.fifa.com/m/871b5d13890ca38/original/fzrbudczuybwd5yxxijm-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _marok18h
+ |pattern_ra = _whiteborder
+ |pattern_sh = _marok18h
+ |pattern_so = _3_stripes_white
+ |leftarm    = D50414
+ |body       = D50414
+ |rightarm   = D50414
+ |shorts     = 117957
+ |socks      = D50414
+ |title      = Morocco<ref name="POR-MAR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Rui Patrício]]
+|-
+|RB ||'''21'''||[[Cédric Soares|Cédric]]
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]]
+|-
+|CB ||'''6''' ||[[José Fonte]]
+|-
+|LB ||'''5''' ||[[Raphaël Guerreiro]]
+|-
+|RM ||'''11'''||[[Bernardo Silva]] || || {{suboff|59}}
+|-
+|CM ||'''14'''||[[William Carvalho]]
+|-
+|CM ||'''8''' ||[[João Moutinho]] || || {{suboff|89}}
+|-
+|LM ||'''10'''||[[João Mário (footballer, born January 1993)|João Mário]] || || {{suboff|70}}
+|-
+|CF ||'''17'''||[[Gonçalo Guedes]]
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Gelson Martins]] || || {{subon|59}}
+|-
+|MF ||'''16'''||[[Bruno Fernandes]] || || {{subon|70}}
+|-
+|MF ||'''23'''||[[Adrien Silva]] || {{yel|90+2}} || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+|}
+|valign="top"|[[File:POR-MAR 2018-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Munir Mohand Mohamedi|Munir Mohamedi]]
+|-
+|RB ||'''17'''||[[Nabil Dirar]]
+|-
+|CB ||'''5''' ||[[Medhi Benatia]] ([[Captain (association football)|c]]) || {{yel|40}}
+|-
+|CB ||'''4''' ||[[Manuel da Costa (footballer, born 1986)|Manuel da Costa]]
+|-
+|LB ||'''2''' ||[[Achraf Hakimi]]
+|-
+|CM ||'''8''' ||[[Karim El Ahmadi]] || || {{suboff|86}}
+|-
+|CM ||'''14'''||[[Mbark Boussoufa]]
+|-
+|RW ||'''16'''||[[Nordin Amrabat]]
+|-
+|AM ||'''10'''||[[Younès Belhanda]] || || {{suboff|75}}
+|-
+|LW ||'''7''' ||[[Hakim Ziyech]]
+|-
+|CF ||'''13'''||[[Khalid Boutaïb]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Ayoub El Kaabi]] || || {{subon|70}}
+|-
+|MF ||'''23'''||[[Mehdi Carcela]] || || {{subon|75}}
+|-
+|MF ||'''11'''||[[Fayçal Fajr]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Hervé Renard]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Portugal)<ref name="POR-MAR recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="POR-MAR line-ups"/>
+<br />[[Joe Fletcher (referee)|Joe Fletcher]] ([[Canadian Soccer Association|Canada]])
+<br />Frank Anderson ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Anton Averianov ([[Russian Football Union|Russia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+<br />Simon Lount ([[New Zealand Football|New Zealand]])
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+|}
+
+===Iran vs Spain===
+[[File:Iran and Spain match at the FIFA World Cup (5).jpg|thumb|[[Vahid Amiri]] vs [[Isco]]]]
+The two teams had never met before.<ref name=Kit/>
+
+Spain had their first attempt on goal in the 25th minute when [[David Silva]]'s long-range free-kick was held by [[Alireza Beiranvand]]. Five minutes later, Silva's volley sailed narrowly over the crossbar from six yards out. At the start of the 2nd half, [[Gerard Piqué]]'s close-range effort was blocked and then Beiranvand palmed away [[Sergio Busquets]]' curled effort from the edge of the penalty area. [[Karim Ansarifard]]'s effort from a corner flashed into [[David de Gea]]'s side netting. In the 54th minute, [[Diego Costa]] picked up [[Andrés Iniesta]]'s pass inside the area and saw [[Ramin Rezaeian]]'s attempted clearance ricochet off his leg and past Beiranvand low into the left corner of the net. [[Saeid Ezatolahi]] pulled Iran level shortly after the hour but his close-range finish after a scramble was ruled out courtesy of VAR after Rezaeian was found in an offside position. [[Mehdi Taremi]]'s back-post header fizzed over De Gea's crossbar seven minutes from time as Iran pushed for an equaliser, but Spain held on for a 1–0 win.<ref name="Goal Iran v Spain">{{cite web |last=Atkinson |first=Guy |title=Costa goal breaks stubborn resistance |url=http://www.goal.com/en-in/match/iran-v-spain/emspb08v5pfisguzn2zkj1qsp |website=Goal.com |date=20 June 2018}}</ref><ref name="IRN-ESP recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/costa-on-target-to-give-spain-victory-2963598 |title=Costa on target to give Spain victory |publisher=FIFA |date=20 June 2018 |access-date=20 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520045250/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/costa-on-target-to-give-spain-victory-2963598 |archive-date=20 May 2026}}</ref>
+
+Iran did not manage a shot on target for the first time in 14 World Cup games.<ref>{{cite web |last=Reddy |first=Luke |title=Iran 0 Spain 1 |url=https://www.bbc.com/sport/football/44439093 |work=BBC Sport |date=20 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b4
+|date={{Start date|2018|6|20|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|IRN}}
+|score={{score link|2018 FIFA World Cup Group B#Iran vs Spain|0–1}}
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+*[[Diego Costa|Costa]] {{goal|54}}
+|stadium=[[Ak Bars Arena|Kazan Arena]], [[Kazan]]
+|attendance=42,718
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331496 |title=Iran vs Spain {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/a5a29516e199c00/original/upxyuyxyxyhs7bbximat-pdf.pdf |title=Match report – Group B – IR Iran v Spain |publisher=[[FIFA]] |date=20 June 2018 |access-date=20 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063101/https://digitalhub.fifa.com/m/a5a29516e199c00/original/upxyuyxyxyhs7bbximat-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _irn1819a
+ |pattern_b  = _irn1819a
+ |pattern_ra = _irn1819a
+ |pattern_sh = _irn18away
+ |pattern_so = _3_stripes_white
+ |leftarm    = EC0000
+ |body       = EC0000
+ |rightarm   = EC0000
+ |shorts     = EC0000
+ |socks      = EC0000
+ |title      = Iran<ref name="IRN-ESP line-ups">{{cite web |url=https://digitalhub.fifa.com/m/4d5a0dc001c6e36e/original/t1rvvfbpdhjykxpnfunf-pdf.pdf |title=Tactical Line-up – Group B – IR Iran v Spain |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 June 2018 |access-date=20 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522175039/https://digitalhub.fifa.com/m/4d5a0dc001c6e36e/original/t1rvvfbpdhjykxpnfunf-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esp18a
+ |pattern_b  = _esp18a
+ |pattern_ra = _esp18a
+ |pattern_sh = _esp18a
+ |pattern_so = _esp18a
+ |leftarm    = F6FBFF
+ |body       = F6FBFF
+ |rightarm   = F6FBFF
+ |shorts     = FFFFFF
+ |socks      = F6FBFF
+ |title      = Spain<ref name="IRN-ESP line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alireza Beiranvand]]
+|-
+|RB ||'''23'''||[[Ramin Rezaeian]]
+|-
+|CB ||'''19'''||[[Majid Hosseini]]
+|-
+|CB ||'''8''' ||[[Morteza Pouraliganji]]
+|-
+|LB ||'''3''' ||[[Ehsan Hajsafi]] ([[Captain (association football)|c]]) || || {{suboff|69}}
+|-
+|CM ||'''9''' ||[[Omid Ebrahimi]] || {{yel|90+2}}
+|-
+|CM ||'''6''' ||[[Saeid Ezatolahi]]
+|-
+|RW ||'''10'''||[[Karim Ansarifard]] || || {{suboff|74}}
+|-
+|AM ||'''17'''||[[Mehdi Taremi]]
+|-
+|LW ||'''11'''||[[Vahid Amiri]] || {{yel|79}} || {{suboff|86}}
+|-
+|CF ||'''20'''||[[Sardar Azmoun]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Milad Mohammadi]] || || {{subon|69}}
+|-
+|FW ||'''18'''||[[Alireza Jahanbakhsh]] || || {{subon|74}}
+|-
+|FW ||'''14'''||[[Saman Ghoddos]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Carlos Queiroz]]
+|}
+|valign="top"|[[File:IRN-ESP 2018-06-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David de Gea]]
+|-
+|RB ||'''2''' ||[[Dani Carvajal]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]] ([[Captain (association football)|c]])
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|CM ||'''5''' ||[[Sergio Busquets]]
+|-
+|CM ||'''6''' ||[[Andrés Iniesta]] || || {{suboff|71}}
+|-
+|RW ||'''21'''||[[David Silva]]
+|-
+|AM ||'''22'''||[[Isco]]
+|-
+|LW ||'''11'''||[[Lucas Vázquez]] || || {{suboff|79}}
+|-
+|CF ||'''19'''||[[Diego Costa]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Koke (footballer, born 1992)|Koke]] || || {{subon|71}}
+|-
+|MF ||'''20'''||[[Marco Asensio]] || || {{subon|79}}
+|-
+|FW ||'''9''' ||[[Rodrigo (footballer, born 1991)|Rodrigo]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Hierro]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Diego Costa]] (Spain)<ref name="IRN-ESP recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="IRN-ESP line-ups"/>
+<br />Nicolás Taran ([[Uruguayan Football Association|Uruguay]])
+<br />[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Christian Schiemann ([[Football Federation of Chile|Chile]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+<br />Alexander Guzmán ([[Colombian Football Federation|Colombia]])
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+|}
+
+===Iran vs Portugal===
+[[File:Iran and Portugal match at the FIFA World Cup 2018 3.jpg|thumb|[[Cristiano Ronaldo]] vs [[Saeid Ezatolahi]]]]
+The two teams had met twice, most recently in a group stage game in the [[2006 FIFA World Cup]], won by Portugal [[2006 FIFA World Cup Group D#Portugal vs Iran|2–0]].<ref name=Kit5/>
+
+In the 45 minute, [[Ricardo Quaresma]] cut in from the right before scoring with a curling shot off the outside of his right foot that looped over [[Alireza Beiranvand]] into the top-left corner. [[Saeid Ezatolahi]]'s foul on [[Cristiano Ronaldo]] won Portugal a penalty, which Ronaldo shot low into the right, enabling Beiranvand to get down and make a stop. Iran then managed to get a penalty in stoppage time after referee used VAR to determine that [[Cédric Soares|Cédric]]'s handball from [[Sardar Azmoun]]'s header had been intentional, which [[Karim Ansarifard]] converted high to his right. The game ended in a 1−1 draw, with Portugal advancing and Iran eliminated.<ref>{{cite web |last=Walker |first=Shaun |title=Iran close to stunning Portugal but Quaresma goal is enough |url=https://www.theguardian.com/football/2018/jun/25/iran-portugal-world-cup-group-b-match-report |publisher=The Guardian |date=25 June 2018}}</ref><ref name="IRN-POR recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/portugal-survives-with-dramatic-draw-375 |title=Portugal survive with dramatic draw |publisher=FIFA |date=25 June 2018 |access-date=25 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520051525/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/portugal-survives-with-dramatic-draw-375 |archive-date=20 May 2026}}</ref><ref>{{cite web |last=Ridge |first=Patric |title=Santos' men survive late Saransk scare after Ronaldo penalty miss |url=http://www.goal.com/en-in/match/iran-v-portugal/16yubsgw1ht8bntdi6xyvf8q1 |website=Goal.com |date=25 June 2018}}</ref>
+
+Quaresma (34 years, 272 days old) is the oldest player to score on his first World Cup start since [[Yahya Golmohammadi]] (35 years, 84 days old), who did so for Iran in 2006 [[2006 FIFA World Cup Group D#Mexico vs Iran|against Mexico]]. Iran's goal - scored after 92 minutes and 48 seconds - was the latest goal Portugal have ever conceded at the World Cup. This was Iran's best performance ever in the FIFA World Cup, winning four points and having earned their first ever draw against any European opponents since 1978, when Iran drew [[1978 FIFA World Cup Group 4#Scotland vs Iran|1–1]] to Scotland.<ref>{{cite web |last=Henry |first=Matthew |title=Iran 1 Portugal 1 |url=https://www.bbc.com/sport/football/44439228 |work=BBC Sport |date=25 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b5
+|date={{Start date|2018|6|25|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|IRN}}
+|score={{score link|2018 FIFA World Cup Group B#Iran vs Portugal|1–1}}
+|team2={{fb|POR}}
+|goals1=
+*[[Karim Ansarifard|Ansarifard]] {{goal|90+3|pen.}}
+|goals2=
+*[[Ricardo Quaresma|Quaresma]] {{goal|45}}
+|stadium=[[Mordovia Arena]], [[Saransk]]
+|attendance=41,685
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331500 |title=Iran vs Portugal {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/150960edd9b02baf/original/zewu0wkymsfq0e37ok1t-pdf.pdf |title=Match report – Group B – IR Iran v Portugal |publisher=[[FIFA]] |date=25 June 2018 |access-date=25 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063450/https://digitalhub.fifa.com/m/150960edd9b02baf/original/zewu0wkymsfq0e37ok1t-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _irn18home
+ |pattern_b  = _irn18home
+ |pattern_ra = _irn18home
+ |pattern_sh = _irn18home
+ |pattern_so = _irn18home
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iran<ref name="IRN-POR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/2e9bf949e96e0e23/original/xtdqbigxfsrmas5vq8tk-pdf.pdf |title=Tactical Line-up – Group B – IR Iran v Portugal |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=25 June 2018 |access-date=25 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522184017/https://digitalhub.fifa.com/m/2e9bf949e96e0e23/original/xtdqbigxfsrmas5vq8tk-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _portu18h
+ |pattern_b  = _portu18h
+ |pattern_ra = _portu18h
+ |pattern_sh = _POR18H
+ |pattern_so = _portu18h
+ |leftarm    = EB0527
+ |body       = EB0527
+ |rightarm   = EB0527
+ |shorts     = EB0527
+ |socks      = 006200
+ |title      = Portugal<ref name="IRN-POR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Alireza Beiranvand]]
+|-
+|RB ||'''23'''||[[Ramin Rezaeian]]
+|-
+|CB ||'''19'''||[[Majid Hosseini]]
+|-
+|CB ||'''8''' ||[[Morteza Pouraliganji]]
+|-
+|LB ||'''3''' ||[[Ehsan Hajsafi]] ([[Captain (association football)|c]]) || {{yel|52}} || {{suboff|56}}
+|-
+|DM ||'''6''' ||[[Saeid Ezatolahi]] || || {{suboff|76}}
+|-
+|CM ||'''18'''||[[Alireza Jahanbakhsh]] || || {{suboff|70}}
+|-
+|CM ||'''9''' ||[[Omid Ebrahimi]]
+|-
+|RW ||'''17'''||[[Mehdi Taremi]]
+|-
+|LW ||'''11'''||[[Vahid Amiri]]
+|-
+|CF ||'''20'''||[[Sardar Azmoun]] || {{yel|54}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''5''' ||[[Milad Mohammadi]] || || {{subon|56}}
+|-
+|FW ||'''14'''||[[Saman Ghoddos]] || || {{subon|70}}
+|-
+|FW ||'''10'''||[[Karim Ansarifard]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Carlos Queiroz]]
+|}
+|valign="top"|[[File:IRN-POR 2018-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Rui Patrício]]
+|-
+|RB ||'''21'''||[[Cédric Soares|Cédric]] || {{yel|90+8}}
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]]
+|-
+|CB ||'''6''' ||[[José Fonte]]
+|-
+|LB ||'''5''' ||[[Raphaël Guerreiro]] || {{yel|33}}
+|-
+|RM ||'''20'''||[[Ricardo Quaresma]] || {{yel|64}} || {{suboff|70}}
+|-
+|CM ||'''14'''||[[William Carvalho]]
+|-
+|CM ||'''23'''||[[Adrien Silva]]
+|-
+|LM ||'''10'''||[[João Mário (footballer, born January 1993)|João Mário]] || || {{suboff|84}}
+|-
+|CF ||'''9''' ||[[André Silva (footballer, born 1995)|André Silva]] || || {{suboff|90+6}}
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]]) || {{yel|83}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Bernardo Silva]] || || {{subon|70}}
+|-
+|MF ||'''8''' ||[[João Moutinho]] || || {{subon|84}}
+|-
+|FW ||'''17'''||[[Gonçalo Guedes]] || || {{subon|90+6}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Ricardo Quaresma]] (Portugal)<ref name="IRN-POR recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="IRN-POR line-ups"/>
+<br />Eduardo Cardozo ([[Paraguayan Football Association|Paraguay]])
+<br />Juan Zorrilla ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mehdi Abid Charef]] ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Anouar Hmila ([[Tunisian Football Federation|Tunisia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Gery Vargas]] ([[Bolivian Football Federation|Bolivia]])
+<br />Hernán Maidana ([[Argentine Football Association|Argentina]])
+<br />[[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|}
+
+===Spain vs Morocco===
+[[File:Spain vs Morocco (14).jpg|thumb|[[Nordin Amrabat]] and [[Sergio Ramos]]]]
+Despite their geographical proximity, the two teams had faced each other only in two opportunities, both were in the [[1962 FIFA World Cup]] qualification phase and [[1962 FIFA World Cup qualification (CAF–UEFA play-off)|won by Spain]].<ref name=Kit5/>
+
+In the 14th minute, a mix-up between [[Sergio Ramos]] and [[Andrés Iniesta]] allowed [[Khalid Boutaïb]] to steal possession on the halfway line, burst through on goal and finish through the legs of [[David de Gea]]. Iniesta and [[Diego Costa]] combined to set up [[Isco]] for a close-range finish that tied the scores five minutes later. Boutaïb was clear again in the 25th minute when Morocco took a quick throw-in, but De Gea stopped the ball. [[Nordin Amrabat]], [[Manuel da Costa (footballer, born 1986)|Manuel da Costa]] and [[Mbark Boussoufa]] were all booked in three-minute period before [[Sergio Busquets]] headed over the crossbar from Isco's corner. Amrabat's strike from at least 25 yards out bounced off the woodwork in the 55th minute. Isco's looping header dipped under the crossbar, but [[Romain Saïss]] made a clearance, [[Gerard Piqué]] heading wide from the resulting Isco corner. [[Youssef En-Nesyri]] scored home a header to give Morocco the lead. And when [[Iago Aspas]] turned home [[Dani Carvajal]]'s cross from the right after a short corner – the goal given by VAR after a long delay – Spain was tied in the first minute of added time.<ref name="ESP-MAR recap">{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-spain-morocco-591w-2968948 |title=Spain top group after thrilling finale |publisher=FIFA |date=25 June 2018 |access-date=25 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260520051657/https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/review-spain-morocco-591w-2968948 |archive-date=20 May 2026}}</ref><ref>{{cite web |last=Smith |first=Jamie |title=Spain tops group despite dramatic draw |url=http://www.goal.com/en-in/match/spain-v-morocco/2aou8pglvyowf0si1thozthih |website=Goal.com |date=25 June 2018}}</ref>
+
+Boutaïb's goal for Morocco was their first goal at the finals since 1998, when [[Salaheddine Bassir]] scored in a [[1998 FIFA World Cup Group A#Scotland vs Morocco|3–0]] win over Scotland. Ramos made his 16th appearance for Spain at the World Cup, overtaking [[Xavi (footballer, born 1980)|Xavi]] as their most capped outfield player in the competition. Spain have failed to win their final group game at a World Cup for the first time since 1982, having won the previous eight such games.<ref>{{cite web |last=Whalley |first=Mike |title=Spain 2 Morocco 2 |url=https://www.bbc.com/sport/football/44439235 |work=BBC Sport |date=25 June 2018}}</ref>
+
+<onlyinclude>{{#invoke:Football box|main|section=b6
+|date={{Start date|2018|6|25|df=y}}
+|time=20:00 [[Kaliningrad Time|KALT]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ESP}}
+|score={{score link|2018 FIFA World Cup Group B#Spain vs Morocco|2–2}}
+|team2={{fb|MAR}}
+|goals1=
+*[[Isco]] {{goal|19}}
+*[[Iago Aspas|Aspas]] {{goal|90+1}}
+|goals2=
+*[[Khalid Boutaïb|Boutaïb]] {{goal|14}}
+*[[Youssef En-Nesyri|En-Nesyri]] {{goal|81}}
+|stadium=[[Kaliningrad Stadium]], [[Kaliningrad]]
+|attendance=33,973
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Association|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/254645/275073/300340184 |title=Spain vs Morocco {{!}} First stage {{!}} 2018 FIFA World Cup Russia |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=https://digitalhub.fifa.com/m/ad9afea2cd76be1/original/oljmpaegzl8kkhq0ql9k-pdf.pdf |title=Match report – Group B – Spain v Morocco |publisher=[[FIFA]] |date=25 June 2018 |access-date=25 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260413063512/https://digitalhub.fifa.com/m/ad9afea2cd76be1/original/oljmpaegzl8kkhq0ql9k-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp18h
+ |pattern_b  = _esp18h
+ |pattern_ra = _esp18h
+ |pattern_sh = _spanje18h
+ |pattern_so = _esp18h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 0000FF
+ |socks      = 000000
+ |title      = Spain<ref name="ESP-MAR line-ups">{{cite web |url=https://digitalhub.fifa.com/m/71b152f6a7500733/original/ss97coknhesoulnoin99-pdf.pdf |title=Tactical Line-up – Group B – Spain v Morocco |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=25 June 2018 |access-date=25 June 2018 |url-status=live |archive-url=https://web.archive.org/web/20260522182008/https://digitalhub.fifa.com/m/71b152f6a7500733/original/ss97coknhesoulnoin99-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _marok18a
+ |pattern_ra = 
+ |pattern_sh = _marok18a
+ |pattern_so = _marok18a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Morocco<ref name="ESP-MAR line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[David de Gea]]
+|-
+|RB ||'''2''' ||[[Dani Carvajal]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]] ([[Captain (association football)|c]])
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|CM ||'''5''' ||[[Sergio Busquets]]
+|-
+|CM ||'''10'''||[[Thiago Alcântara|Thiago]] || || {{suboff|74}}
+|-
+|RW ||'''21'''||[[David Silva]] || || {{suboff|84}}
+|-
+|AM ||'''22'''||[[Isco]]
+|-
+|LW ||'''6''' ||[[Andrés Iniesta]]
+|-
+|CF ||'''19'''||[[Diego Costa]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||[[Iago Aspas]] || || {{subon|74}}
+|-
+|MF ||'''20'''||[[Marco Asensio]] || || {{subon|74}}
+|-
+|FW ||'''9''' ||[[Rodrigo (footballer, born 1991)|Rodrigo]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Hierro]]
+|}
+|valign="top"|[[File:ESP-MAR 2018-06-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Munir Mohand Mohamedi|Munir Mohamedi]] || {{yel|88}}
+|-
+|RB ||'''17'''||[[Nabil Dirar]]
+|-
+|CB ||'''4''' ||[[Manuel da Costa (footballer, born 1986)|Manuel da Costa]] || {{yel|31}}
+|-
+|CB ||'''6''' ||[[Romain Saïss]]
+|-
+|LB ||'''2''' ||[[Achraf Hakimi]] || {{yel|90+3}}
+|-
+|CM ||'''8''' ||[[Karim El Ahmadi]] || {{yel|21}}
+|-
+|CM ||'''14'''||[[Mbark Boussoufa]] ([[Captain (association football)|c]]) || {{yel|31}}
+|-
+|RW ||'''16'''||[[Nordin Amrabat]] || {{yel|29}}
+|-
+|AM ||'''10'''||[[Younès Belhanda]] || || {{suboff|63}}
+|-
+|LW ||'''7''' ||[[Hakim Ziyech]] || || {{suboff|85}}
+|-
+|CF ||'''13'''||[[Khalid Boutaïb]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[Fayçal Fajr]] || || {{subon|63}}
+|-
+|FW ||'''19'''||[[Youssef En-Nesyri]] || || {{subon|72}}
+|-
+|FW ||'''20'''||[[Aziz Bouhaddouz]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Hervé Renard]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Isco]] (Spain)<ref name="ESP-MAR recap"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="ESP-MAR line-ups"/>
+<br />[[Abdukhamidullo Rasulov]] ([[Uzbekistan Football Association|Uzbekistan]])
+<br />Jakhongir Saidov ([[Uzbekistan Football Association|Uzbekistan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Mohamed Al Hammadi ([[United Arab Emirates Football Association|United Arab Emirates]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+==Discipline==
+Fair play points would have been used as tiebreakers if the overall and head-to-head records of teams were tied. These were calculated based on yellow and red cards received in all group matches as follows:<ref name="regulations"/>
+*first yellow card: minus 1 point;
+*indirect red card (second yellow card): minus 3 points;
+*direct red card: minus 4 points;
+*yellow card and direct red card: minus 5 points;
+
+Only one of the above deductions were applied to a player in a single match.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan=2|Team
+!colspan=4 style="border-left:3px solid gray"|Match 1
+!colspan=4 style="border-left:3px solid gray"|Match 2
+!colspan=4 style="border-left:3px solid gray"|Match 3
+!rowspan=2 style="border-left:3px solid gray"|Points
+|-
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+!style="border-left:3px solid gray"|{{yel}}
+!{{sent off|2}}
+!{{sent off|0}}
+!{{sent off|1}}
+|-
+|align=left|{{fb|ESP}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+|style="border-left:3px solid gray"|  ||  ||  || 
+!style="border-left:3px solid gray"| −1
+|-
+|align=left|{{fb|POR}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 4 ||  ||  || 
+!style="border-left:3px solid gray"| −6
+|-
+|align=left|{{fb|IRN}}
+|style="border-left:3px solid gray"| 3 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+|style="border-left:3px solid gray"| 2 ||  ||  || 
+!style="border-left:3px solid gray"| −7
+|-
+|align=left|{{fb|MAR}}
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 1 ||  ||  || 
+|style="border-left:3px solid gray"| 6 ||  ||  || 
+!style="border-left:3px solid gray"| −8
+|}
+
+==See also==
+*[[Iran at the FIFA World Cup]]
+*[[Morocco at the FIFA World Cup]]
+*[[Portugal at the FIFA World Cup]]
+*[[Spain at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20171202102732/http://www.fifa.com/worldcup/groups/group=275077/index.html 2018 FIFA World Cup Group B], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:2018 FIFA World Cup group stage|B]]
+[[Category:Portugal at the 2018 FIFA World Cup]]
+[[Category:Spain at the 2018 FIFA World Cup]]
+[[Category:Morocco at the 2018 FIFA World Cup]]
+[[Category:Iran at the 2018 FIFA World Cup]]
+[[Category:Football in Saint Petersburg]]
+[[Category:2018 in Saint Petersburg]]
+[[Category:Sports competitions in Sochi]]
+[[Category:2018 in Sochi]]
+[[Category:Football in Moscow]]
+[[Category:2018 in Moscow]]
+[[Category:Sports competitions in Kazan]]
+[[Category:2018 in Kazan]]
+[[Category:Sport in Saransk]]
+[[Category:Sport in Kaliningrad]]
+[[Category:History of Kaliningrad]]

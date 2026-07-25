@@ -1,0 +1,2235 @@
+{{Short description|Football tournament}}
+{{Use dmy dates|date=June 2018}}
+The '''1998 FIFA World Cup knockout stage''' covers the games from the second round through to the final at the [[1998 FIFA World Cup]] in France. The top two teams from each of the eight groups qualified for the knockout stage.<ref>{{cite web |url=https://www.rsssf.org/tables/98full.html |title=World Cup 1998 |publisher=[[RSSSF]] |access-date=30 April 2026}}</ref> Teams played one game against each other, with the possibility of extra time and penalties if a winner could not be determined after 90 minutes.
+
+==Qualified teams==
+The top two placed teams from each of the eight groups qualified for the knockout stage.
+
+{| class="wikitable"
+|-
+! Group
+!width="150"| Winners
+!width="150"| Runners-up
+|-
+! [[1998 FIFA World Cup Group A|A]]
+| {{fb|BRA}}
+| {{fb|NOR}}
+|-
+! [[1998 FIFA World Cup Group B|B]]
+| {{fb|ITA|1946}}
+| {{fb|CHI}}
+|-
+! [[1998 FIFA World Cup Group C|C]]
+| {{fb|FRA|1974}}
+| {{fb|DEN}}
+|-
+! [[1998 FIFA World Cup Group D|D]]
+| {{fb|NGA}}
+| {{fb|PAR|1990}}
+|-
+! [[1998 FIFA World Cup Group E|E]]
+| {{fb|NED}}
+| {{fb|MEX}}
+|-
+! [[1998 FIFA World Cup Group F|F]]
+| {{fb|GER}}
+| {{fb|FR Yugoslavia|name=FR Yugoslavia}}
+|-
+! [[1998 FIFA World Cup Group G|G]]
+| {{fb|ROU}}
+| {{fb|ENG}}
+|-
+! [[1998 FIFA World Cup Group H|H]]
+| {{fb|ARG|1861}}
+| {{fb|CRO}}
+|}
+
+==Bracket==
+The first games were played on 27 June 1998, and the [[1998 FIFA World Cup final|final]] took place on 12 July 1998 in [[Paris]].
+
+{{Round16
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+|Consol=[[#Match for third place|Match for third place]]
+<!-- round of 16 -->
+|27 June – [[Paris]]|'''{{fb|BRA}}'''|'''4'''|{{fb|CHI}}|1
+|28 June – [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]|{{fb|NGA}}|1|'''{{fb|DEN}}'''|'''4'''
+|29 June – [[Toulouse]]|'''{{fb|NED}}'''|'''2'''|{{fb|FRY}}|1
+|30 June – [[Saint-Étienne]]|'''{{fb|ARG|1861}}''' {{pso}}|'''2 (4)'''|{{fb|ENG}}|2 (3)
+|27 June – [[Marseille]]|'''{{fb|ITA|1946}}'''|'''1'''|{{fb|NOR}}|0
+|28 June – [[Lens, Pas-de-Calais|Lens]]|'''{{fb|FRA|1974}}''' {{gg}}|'''1'''|{{fb|PAR|1990}}|0
+|29 June – [[Montpellier]]|'''{{fb|GER}}'''|'''2'''|{{fb|MEX}}|1
+|30 June – [[Bordeaux]]|{{fb|ROU}}|0|'''{{fb|CRO}}'''|'''1'''
+<!-- quarter-finals -->
+|3 July – [[Nantes]]|'''{{fb|BRA}}'''|'''3'''|{{fb|DEN}}|2 
+|4 July – [[Marseille]]|'''{{fb|NED}}'''|'''2'''|{{fb|ARG|1861}}|1
+|3 July – [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]|{{fb|ITA|1946}}|0 (3)|'''{{fb|FRA|1974}}''' {{pso}}|'''0 (4)'''
+|4 July – [[Lyon]]|{{fb|GER}}|0|'''{{fb|CRO}}'''|'''3'''
+<!-- semi-finals -->
+|7 July – [[Marseille]]|'''{{fb|BRA}}''' {{pso}}|'''1 (4)'''|{{fb|NED}}|1 (2)
+|8 July – [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]|'''{{fb|FRA|1974}}'''|'''2'''|{{fb|CRO}}|1
+<!-- final -->
+|12 July – [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]|{{fb|BRA}}|0|'''{{fb|FRA|1974}}'''|'''3'''
+<!-- third place -->
+|11 July – [[Paris]]|{{fb|NED}}|1|'''{{fb|CRO}}'''|'''2'''
+|widescore=yes|style=white-space:nowrap
+}}
+
+==Round of 16==
+
+===Italy vs Norway===
+
+[[Christian Vieri]] scored his fifth goal of the finals and the only one of the game in the 18th minute with exquisite precision, bursting on to [[Luigi Di Biagio]]'s pass 40 yards from goal. Norway had their moments but failed to finish as [[Gianluca Pagliuca]] made some brilliant saves.<ref>[https://www.independent.co.uk/sport/world-cup-98-italy-punish-norway-for-their-negative-approach-1168465.html World Cup 98: Italy punish Norway for their negative approach]</ref>
+
+<section begin="R of 16 1"/>{{Football box
+|date={{Start date|1998|6|27|df=y}}
+|time=16:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1998 FIFA World Cup knockout stage#Italy vs Norway|1–0}}
+|team2={{fb|NOR}}
+|goals1=
+*[[Christian Vieri|Vieri]] {{goal|18}}
+|goals2=
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=55,000
+|referee=[[Bernd Heynemann]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8774 |title=Italy vs Norway {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8774/index.html |title=1998 FIFA World Cup France – Matches – Italy v Norway |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212123559/http://www.fifa.com/worldcup/matches/round=1024/match=8774/index.html |archive-date=12 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8872.htm |title=Match Statistics – 1/8 Final – Italy v Norway |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=27 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414013855/http://www.france98.com/english/competition/matchstat8872.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 1"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ita98
+ | pattern_b  = _ita98
+ | pattern_ra = _ita98
+ | pattern_sh = _italia98
+ | pattern_so = _ita1998h
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = 0000CD
+ | socks      = 0000CD
+ | title      = Italy
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _nor98a
+ | pattern_ra = 
+ | pattern_sh = _umbro_shorts_98
+ | pattern_so = _nor98A
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 203060
+ | socks      = FFFFFF
+ | title      = Norway
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Gianluca Pagliuca]]
+|-
+|RB ||'''2''' ||[[Giuseppe Bergomi]]
+|-
+|CB ||'''4''' ||[[Fabio Cannavaro]]
+|-
+|CB ||'''5''' ||[[Alessandro Costacurta]]
+|-
+|LB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]]) || {{yel|89}}
+|-
+|RM ||'''17'''||[[Francesco Moriero]] || {{yel|38}} || {{suboff|63}}
+|-
+|CM ||'''9''' ||[[Demetrio Albertini]] || || {{suboff|72}}
+|-
+|CM ||'''14'''||[[Luigi Di Biagio]] || {{yel|84}}
+|-
+|LM ||'''11'''||[[Dino Baggio]]
+|-
+|SS ||'''10'''||[[Alessandro Del Piero]] || || {{suboff|77}}
+|-
+|CF ||'''21'''||[[Christian Vieri]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''15'''||[[Angelo Di Livio]] || || {{subon|63}}
+|-
+|DF ||'''7''' ||[[Gianluca Pessotto]] || || {{subon|72}}
+|-
+|FW ||'''20'''||[[Enrico Chiesa]] || || {{subon|77}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Cesare Maldini]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Frode Grodås]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Henning Berg]]
+|-
+|CB ||'''15'''||[[Dan Eggen]]
+|-
+|CB ||'''3''' ||[[Ronny Johnsen]]
+|-
+|LB ||'''5''' ||[[Stig Inge Bjørnebye]]
+|-
+|RM ||'''17'''||[[Håvard Flo]] || {{yel|35}} || {{suboff|73}}
+|-
+|CM ||'''7''' ||[[Erik Mykland]] || {{yel|54}}
+|-
+|CM ||'''10'''||[[Kjetil Rekdal]] || {{yel|62}}
+|-
+|CM ||'''8''' ||[[Øyvind Leonhardsen]] || || {{suboff|13}}
+|-
+|LM ||'''21'''||[[Vidar Riseth]]
+|-
+|CF ||'''9''' ||[[Tore André Flo]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''22'''||[[Roar Strand]] || || {{subon|13}} || {{suboff|39}}
+|-
+|MF ||'''6''' ||[[Ståle Solbakken]] || || {{subon|39}}
+|-
+|FW ||'''20'''||[[Ole Gunnar Solskjær]] || || {{subon|73}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Egil Olsen]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Erich Schneider ([[German Football Association|Germany]])
+<br />Marc Van den Broeck ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Fourth official]]:'''
+<br />[[László Vágner]] ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Brazil vs Chile===
+<section begin="R of 16 2"/>{{Football box
+|date={{Start date|1998|6|27|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1998 FIFA World Cup knockout stage#Brazil vs Chile|4–1}}
+|team2={{fb|CHI}}
+|goals1=
+*[[César Sampaio]] {{goal|11||26}}
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|45+3|pen.|72}}
+|goals2=
+*[[Marcelo Salas|Salas]] {{goal|70}}
+|stadium=[[Parc des Princes]], Paris
+|attendance=45,500
+|referee=[[Marc Batta]] ([[French Football Federation|France]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8773 |title=Brazil vs Chile {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8773/index.html |title=1998 FIFA World Cup France – Matches – Brazil v Chile |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212131329/http://www.fifa.com/worldcup/matches/round=1024/match=8773/index.html |archive-date=12 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8871.htm |title=Match Statistics – 1/8 Final – Brazil v Chile |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=27 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414013227/http://www.france98.com/english/competition/matchstat8871.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 2"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra98h
+ | pattern_b  = _bra98h
+ | pattern_ra = _bra98h
+ | pattern_sh = _bra98h
+ | pattern_so = _bra98hl
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 004A99
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _chi98H
+ | pattern_b  = _chi98H
+ | pattern_ra = _chi98H
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = CD0000
+ | body       = CD0000
+ | rightarm   = CD0000
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Chile
+}}
+|}
+
+{| style="width:100%"
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Cafu]] || {{yel|90+1}}
+|-
+|CB ||'''3''' ||[[Aldair]] || || {{suboff|78}}
+|-
+|CB ||'''4''' ||[[Júnior Baiano]]
+|-
+|LB ||'''6''' ||[[Roberto Carlos]]
+|-
+|CM ||'''5''' ||[[César Sampaio]]
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]])
+|-
+|AM ||'''10'''||[[Rivaldo]]
+|-
+|AM ||'''18'''||[[Leonardo Araújo|Leonardo]] || {{yel|45}}
+|-
+|CF ||'''20'''||[[Bebeto]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]] 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''19'''||[[Denílson de Oliveira Araújo|Denílson]] || || {{subon|65}}
+|-
+|MF ||'''14'''||[[Marcelo Gonçalves Costa Lopes|Gonçalves]] || || {{subon|78}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Nelson Tapia]] || {{yel|45}}
+|-
+|CB ||'''6''' ||[[Pedro Reyes (footballer)|Pedro Reyes]]
+|-
+|CB ||'''3''' ||[[Ronald Fuentes]] || {{yel|34}}
+|-
+|CB ||'''5''' ||[[Javier Margas]]
+|-
+|RWB||'''19'''||[[Fernando Cornejo (footballer, born 1969)|Fernando Cornejo]]
+|-
+|LWB||'''16'''||[[Mauricio Aros]]
+|-
+|CM ||'''8''' ||[[Clarence Acuña]] || || {{suboff|80}}
+|-
+|CM ||'''14'''||[[Miguel Ramírez (footballer, born 1970)|Miguel Ramírez]] || || {{suboff|46}}
+|-
+|AM ||'''10'''||[[José Luis Sierra (footballer, born 1968)|José Luis Sierra]] || || {{suboff|46}}
+|-
+|CF ||'''11'''||[[Marcelo Salas]]
+|-
+|CF ||'''9''' ||[[Iván Zamorano]] ([[Captain (association football)|c]])
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''17'''||[[Marcelo Vega (footballer, born 1971)|Marcelo Vega]] || || {{subon|46}}
+|-
+|MF ||'''20'''||[[Fabián Estay]] || || {{subon|46}}
+|-
+|MF ||'''18'''||[[Luis Musrri]] || || {{subon|80}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|URU}} [[Nelson Acosta]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jacques Poudevigne ([[French Football Association|France]])
+<br />Owen Powell ([[Jamaica Football Federation|Jamaica]])
+<br />'''[[Fourth official]]:'''
+<br />[[Pirom Un-prasert]] ([[Football Association of Thailand|Thailand]])
+|}
+
+===France vs Paraguay===
+<section begin="R of 16 3"/>{{Football box
+|date={{Start date|1998|6|28|df=y}}
+|time=16:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1998 FIFA World Cup knockout stage#France vs Paraguay|1–0}}
+|agget=yes
+|team2={{fb|PAR|1990}}
+|goals1=
+*[[Laurent Blanc|Blanc]] {{golden goal|114}}
+|goals2=
+|stadium=[[Stade Félix-Bollaert]], [[Lens, Pas-de-Calais|Lens]]
+|attendance=31,800
+|referee=[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8776 |title=France vs Paraguay {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8776/index.html |title=1998 FIFA World Cup France – Matches – France v Paraguay |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171120042505/http://www.fifa.com/worldcup/matches/round=1024/match=8776/index.html |archive-date=20 November 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8874.htm |title=Match Statistics – 1/8 Final – France v Paraguay |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=28 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414013753/http://www.france98.com/english/competition/matchstat8874.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 3"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _france1998h
+ | pattern_b  = _france1998h
+ | pattern_ra = _france1998h
+ | pattern_sh = _france1998a
+ | pattern_so = _fra98h
+ | leftarm    = 0000C0
+ | body       = 0000C0
+ | rightarm   = 0000C0
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = France
+}}
+|{{Football kit
+ | pattern_la = _par98h
+ | pattern_b  = _par98h
+ | pattern_ra = _par98h
+ | pattern_sh = _whitebottom
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Paraguay
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''15'''||[[Lilian Thuram]] 
+|-
+|CB ||'''5''' ||[[Laurent Blanc]]
+|-
+|CB ||'''8''' ||[[Marcel Desailly]]
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]] 
+|-
+|CM ||'''7''' ||[[Didier Deschamps]] ([[Captain (association football)|c]]) 
+|-
+|CM ||'''17'''||[[Emmanuel Petit]] || || {{suboff|69}}
+|-
+|RW ||'''13'''||[[Bernard Diomède]] || || {{suboff|76}}
+|-
+|LW ||'''6''' ||[[Youri Djorkaeff]]
+|-
+|CF ||'''20'''||[[David Trezeguet]]
+|-
+|CF ||'''12'''||[[Thierry Henry]] || || {{suboff|64}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''11'''||[[Robert Pires]] || || {{subon|64}}
+|-
+|MF ||'''14'''||[[Alain Boghossian]] || || {{subon|69}}
+|-
+|FW ||'''9''' ||[[Stéphane Guivarc'h]] || || {{subon|76}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Aimé Jacquet]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[José Luis Chilavert]] ([[Captain (association football)|c]]) || {{yel|19}}
+|-
+|RB ||'''2''' ||[[Francisco Arce]] || {{yel|84}}
+|-
+|CB ||'''4''' ||[[Carlos Gamarra]]
+|-
+|CB ||'''5''' ||[[Celso Ayala]] 
+|-
+|LB ||'''11'''||[[Pedro Sarabia]] 
+|-
+|CM ||'''10'''||[[Roberto Acuña]]
+|-
+|CM ||'''16'''||[[Julio César Enciso (footballer, born 1974)|Julio César Enciso]] || {{yel|32}}
+|-
+|CM ||'''13'''||[[Carlos Humberto Paredes]] || || {{suboff|75}}
+|-
+|AM ||'''21'''||[[Jorge Luis Campos]] || || {{suboff|55}}
+|-
+|AM ||'''15'''||[[Miguel Ángel Benítez Pavón|Miguel Ángel Benítez]] || {{yel|23}}
+|-
+|CF ||'''9''' ||[[José Cardozo]] || || {{suboff|91}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''7''' ||[[Julio César Yegros]] || || {{subon|55}}
+|-
+|DF ||'''20'''||[[Denis Caniza]] || || {{subon|75}}
+|-
+|MF ||'''8''' ||[[Aristides Rojas]] || {{yel|99}} || {{subon|91}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|BRA}} [[Paulo César Carpegiani]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Nimal Wickeramatunge ([[Football Federation of Sri Lanka|Sri Lanka]])
+<br />Lencie Fred ([[Vanuatu Football Federation|Vanuatu]])
+<br />'''[[Fourth official]]:'''
+<br />[[Esse Baharmast]] ([[United States Soccer Federation|United States]])
+|}
+
+===Nigeria vs Denmark===
+<section begin="R of 16 4"/>{{Football box
+|date={{Start date|1998|6|28|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NGA}}
+|score={{score link|1998 FIFA World Cup knockout stage#Nigeria vs Denmark|1–4}}
+|team2={{fb|DEN}}
+|goals1=
+*[[Tijani Babangida|Babangida]] {{goal|77}}
+|goals2=
+*[[Peter Møller|Møller]] {{goal|3}}
+*[[Brian Laudrup|B. Laudrup]] {{goal|12}}
+*[[Ebbe Sand|Sand]] {{goal|58}}
+*[[Thomas Helveg|Helveg]] {{goal|76}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=77,000
+|referee=[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8775 |title=Nigeria vs Denmark {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8775/index.html |title=1998 FIFA World Cup France – Matches – Nigeria v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171122092009/http://www.fifa.com/worldcup/matches/round=1024/match=8775/index.html |archive-date=22 November 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8873.htm |title=Match Statistics – 1/8 Final – Nigeria v Denmark |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=28 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414013849/http://www.france98.com/english/competition/matchstat8873.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 4"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _nga98h
+ | pattern_b  = _vneck_nga98h
+ | pattern_ra = _nga98h
+ | pattern_sh = _nig98h
+ | pattern_so = _nig98h
+ | leftarm    = 008751
+ | body       = 008751
+ | rightarm   = 008751
+ | shorts     = 008751
+ | socks      = 008751
+ | title      = Nigeria
+}}
+|{{Football kit
+ | pattern_la = _den1998a
+ | pattern_b  = _den1998a
+ | pattern_ra = _den1998a
+ | pattern_sh = _den98h
+ | pattern_so = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Denmark
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Rufai]]
+|-
+|RB ||'''8''' ||[[Mutiu Adepoju]]
+|-
+|CB ||'''5''' ||[[Uche Okechukwu]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Taribo West]]
+|-
+|LB ||'''3''' ||[[Celestine Babayaro]]
+|-
+|DM ||'''15'''||[[Sunday Oliseh]]
+|-
+|RM ||'''7''' ||[[Finidi George]]
+|-
+|LM ||'''11'''||[[Garba Lawal]] || || {{suboff|73}}
+|-
+|AM ||'''10'''||[[Jay-Jay Okocha]] || {{yel|49}}
+|-
+|SS ||'''4''' ||[[Nwankwo Kanu]] || || {{suboff|65}}
+|-
+|CF ||'''20'''||[[Victor Ikpeba]] 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Rashidi Yekini]] || || {{subon|65}}
+|-
+|DF ||'''13'''||[[Tijani Babangida]] || || {{subon|73}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|FR Yugoslavia}} [[Bora Milutinović]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Schmeichel]]
+|-
+|RB ||'''12'''||[[Søren Colding]]
+|-
+|CB ||'''3''' ||[[Marc Rieper]] || {{yel|24}}
+|-
+|CB ||'''4''' ||[[Jes Høgh]]
+|-
+|LB ||'''5''' ||[[Jan Heintze]]
+|-
+|CM ||'''6''' ||[[Thomas Helveg]]
+|-
+|CM ||'''7''' ||[[Allan Nielsen]]
+|-
+|RW ||'''21'''||[[Martin Jørgensen]]
+|-
+|LW ||'''10'''||[[Michael Laudrup]] ([[Captain (association football)|c]]) || || {{suboff|84}}
+|-
+|SS ||'''11'''||[[Brian Laudrup]] || || {{suboff|78}}
+|-
+|CF ||'''18'''||[[Peter Møller]] || || {{suboff|58}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''19'''||[[Ebbe Sand]] || || {{subon|58}}
+|-
+|MF ||'''14'''||[[Morten Wieghorst]] || || {{subon|78}}
+|-
+|MF ||'''8''' ||[[Per Frandsen]] || || {{subon|84}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Bo Johansson]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hussain Ghadanfari ([[Kuwait Football Association|Kuwait]])
+<br />Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Fourth official]]:'''
+<br />[[Abdul Rahman Al-Zaid|Rahman Al Zaid]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+|}
+
+===Germany vs Mexico===
+<section begin="R of 16 5"/>{{Football box
+|date={{Start date|1998|6|29|df=y}}
+|time=16:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|GER}}
+|score={{score link|1998 FIFA World Cup knockout stage#Germany vs Mexico|2–1}}
+|team2={{fb|MEX}}
+|goals1=
+*[[Jürgen Klinsmann|Klinsmann]] {{goal|74}}
+*[[Oliver Bierhoff|Bierhoff]] {{goal|86}}
+|goals2=
+*[[Luis Hernández (footballer, born 1968)|Hernández]] {{goal|47}}
+|stadium=[[Stade de la Mosson]], [[Montpellier]]
+|attendance=29,800
+|referee=[[Vítor Melo Pereira]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8777 |title=Germany vs Mexico {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8777/index.html |title=1998 FIFA World Cup France – Matches – Germany v Mexico |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171228033055/http://www.fifa.com/worldcup/matches/round=1024/match=8777/index.html |archive-date=28 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8876.htm |title=Match Statistics – 1/8 Final – Germany v Mexico |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=29 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414014519/http://www.france98.com/english/competition/matchstat8876.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 5"/>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger98h
+ |pattern_b  = _ger98h2
+ |pattern_ra = _ger98h
+ | pattern_sh = _ger98h
+ | pattern_so = _ger98h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Germany
+}}
+|{{Football kit
+ | pattern_la = _mex98h
+ | pattern_b  = _mex98h
+ | pattern_ra = _mex98h
+ | pattern_sh = _mex98H
+ | pattern_so = _mexigo12ogt
+ | leftarm    = 008000 
+ | body       = 008000 
+ | rightarm   = 008000 
+ | shorts     = FFFFFF
+ | socks      = CC1023
+ | title      = Mexico
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Köpke]]
+|-
+|SW ||'''8''' ||[[Lothar Matthäus]] || {{yel|56}}
+|-
+|CB ||'''14'''||[[Markus Babbel]] || {{yel|45+1}}
+|-
+|CB ||'''2''' ||[[Christian Wörns]]
+|-
+|RWB||'''3''' ||[[Jörg Heinrich]] || || {{suboff|57}}
+|-
+|LWB||'''21'''||[[Michael Tarnat]] || {{yel|77}}
+|-
+|CM ||'''16'''||[[Dietmar Hamann]] || {{yel|88}}
+|-
+|DM ||'''5''' ||[[Thomas Helmer]] || || {{suboff|37}}
+|-
+|CM ||'''10'''||[[Thomas Häßler]] || || {{suboff|73}}
+|-
+|CF ||'''20'''||[[Oliver Bierhoff]]
+|-
+|CF ||'''18'''||[[Jürgen Klinsmann]] ([[Captain (association football)|c]]) 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''17'''||[[Christian Ziege]] || || {{subon|37}}
+|-
+|MF ||'''7''' ||[[Andreas Möller]] || || {{subon|57}}
+|-
+|FW ||'''9''' ||[[Ulf Kirsten]] || || {{subon|73}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Berti Vogts]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Jorge Campos]]
+|-
+|CB ||'''13'''||[[Pável Pardo]]
+|-
+|CB ||'''5''' ||[[Duilio Davino]] || {{yel|57}}
+|-
+|CB ||'''2''' ||[[Claudio Suárez]]
+|-
+|RM ||'''6''' ||[[Marcelino Bernal]] || || {{suboff|46}}
+|-
+|CM ||'''14'''||[[Raúl Lara]]
+|-
+|CM ||'''4''' ||[[Germán Villa]]
+|-
+|LM ||'''8''' ||[[Alberto García Aspe]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|-
+|RF ||'''11'''||[[Cuauhtémoc Blanco]] || {{yel|87}}
+|-
+|CF ||'''15'''||[[Luis Hernández (footballer, born 1968)|Luis Hernández]]
+|-
+|LF ||'''17'''||[[Francisco Palencia]] || || {{suboff|53}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|RB ||'''18'''||[[Salvador Carmona]] || || {{subon|46}}
+|-
+|LM ||'''21'''||[[Jesús Arellano]] || || {{subon|53}}
+|-
+|LF ||'''9''' ||[[Ricardo Peláez]] || || {{subon|86}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Manuel Lapuente]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mohamed Mansri ([[Tunisian Football Federation|Tunisia]])
+<br />Achmat Salie ([[South African Football Association|South Africa]])
+<br />'''[[Fourth official]]:'''
+<br />[[Masayoshi Okada]] ([[Japan Football Association|Japan]])
+|}
+
+===Netherlands vs FR Yugoslavia===
+Just three minutes after [[Slobodan Komljenović]] scored the equalizer, [[Predrag Mijatović]] missed a penalty kick as, after deciding not to hit it to the sides due to [[Edwin van der Sar]]'s reach,<ref>[https://hemeroteca-paginas.mundodeportivo.com/EMD03/HEM/1998/07/01/MD19980701-026.pdf Seedorf dio pistas para el penalti]. [[Mundo Deportivo]], 1 July 1998</ref> the ball hit the crossbar, prompting him to describe it as the worst moment in his career.<ref>[https://elpais.com/diario/1998/06/30/deportes/899157612_850215.html "Es el peor momento de mi carrera"]. [[El País]], 30 June 1998</ref> [[Edgar Davids]] scored the winning goal for the Netherlands in injury time; Davids, suffering a cramp, had asked to be substituted moments before but [[Guus Hiddink]] asked him to stay in the field.<ref>[https://hemeroteca-paginas.mundodeportivo.com/EMD03/HEM/1998/07/01/MD19980701-026.pdf Davids pidió el cambio antes de dar el triunfo]. [[Mundo Deportivo]], 1 July 1998</ref> An apparent scuffle between Van der Sar and [[Winston Bogarde]] in the celebration was explained by the former as an instinctive overreaction from being unintentionally choked by [[Pierre van Hooijdonk]].<ref>[https://www.irishtimes.com/sport/newslines-dutch-clear-the-air-1.168852 Dutch clean the air]. [[The Irish Times]], 1 July 1998</ref>
+
+<section begin="R of 16 6"/>{{Football box
+|date={{Start date|1998|6|29|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NED}}
+|score={{score link|1998 FIFA World Cup knockout stage#Netherlands vs FR Yugoslavia|2–1}}
+|team2={{fb|FR Yugoslavia|name=FR Yugoslavia}}
+|goals1=
+*[[Dennis Bergkamp|Bergkamp]] {{goal|38}}
+*[[Edgar Davids|Davids]] {{goal|90+2}}
+|goals2=
+*[[Slobodan Komljenović|Komljenović]] {{goal|48}}
+|stadium=[[Stadium Municipal|Stade de Toulouse]], [[Toulouse]]
+|attendance=33,500
+|referee=[[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8778 |title=Netherlands vs Yugoslavia {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8778/index.html |title=1998 FIFA World Cup France – Matches – Netherlands v Yugoslavia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211173300/http://www.fifa.com/worldcup/matches/round=1024/match=8778/index.html |archive-date=11 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8875.htm |title=Match Statistics – 1/8 Final – Netherlands v Yugoslavia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=29 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414014548/http://www.france98.com/english/competition/matchstat8875.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 6"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1998h
+ | pattern_b  = _ned98
+ | pattern_ra = _netherlands1998h
+ | pattern_sh = _netherlands1998h
+ | pattern_so = _ned98h
+ | leftarm    = D74600
+ | body       = D74600
+ | rightarm   = D74600
+ | shorts     = FFFFFF
+ | socks      = F3460C
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _adidasstripesonwhite
+ | pattern_b  = _yug98
+ | pattern_ra = _adidasstripesonwhite
+ | pattern_sh = _yug98a
+ | pattern_so = _yug98a
+ | leftarm    = 000255
+ | body       = FFFFFF
+ | rightarm   = 000255
+ | shorts     = 000255
+ | socks      = FFFFFF
+ | title      = Yugoslavia
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]]
+|-
+|RB ||'''2''' ||[[Michael Reiziger]]
+|-
+|CB ||'''3''' ||[[Jaap Stam]]
+|-
+|CB ||'''4''' ||[[Frank de Boer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Arthur Numan]]
+|-
+|CM ||'''16'''||[[Edgar Davids]]
+|-
+|CM ||'''10'''||[[Clarence Seedorf]]
+|-
+|CM ||'''11'''||[[Phillip Cocu]]
+|-
+|RW ||'''7''' ||[[Ronald de Boer]]
+|-
+|LW ||'''14'''||[[Marc Overmars]]
+|-
+|CF ||'''8''' ||[[Dennis Bergkamp]] 
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Guus Hiddink]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Ivica Kralj]]
+|-
+|RB ||'''2''' ||[[Zoran Mirković]] || {{yel|52}}
+|-
+|CB ||'''13'''||[[Slobodan Komljenović]]
+|-
+|CB ||'''11'''||[[Siniša Mihajlović]] || || {{suboff|78}}
+|-
+|CB ||'''3''' ||[[Goran Đorović]] || {{yel|73}}
+|-
+|LB ||'''16'''||[[Željko Petrović]]
+|-
+|CM ||'''4''' ||[[Slaviša Jokanović]]
+|-
+|CM ||'''6''' ||[[Branko Brnović]]
+|-
+|RM ||'''10'''||[[Dragan Stojković]] ([[Captain (association football)|c]]) || {{yel|38}} || {{suboff|57}}
+|-
+|LM ||'''7''' ||[[Vladimir Jugović]]
+|-
+|CF ||'''9''' ||[[Predrag Mijatović]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''8''' ||[[Dejan Savićević]] || || {{subon|57}}
+|-
+|DF ||'''14'''||[[Niša Saveljić]] || || {{subon|78}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Slobodan Santrač]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Laurent Rausis ([[Swiss Football Association|Switzerland]])
+<br />Nicolae Grigorescu ([[Romanian Football Federation|Romania]])
+<br />'''[[Fourth official]]:'''
+<br />[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|}
+
+===Romania vs Croatia===
+Croatia's winning penalty goal had to be retaken. [[Davor Šuker]] scored both times to extend Croatia's debut World Cup run to the quarter-finals.<ref>{{cite news |last=Urma |first=Viorel |date=1 July 1998 |title=De pena máxima |trans-title= |url=http://hemeroteca.mundodeportivo.com/preview/1998/07/01/pagina-17/396344/pdf.html |language=Spanish |work=[[Mundo Deportivo]] |access-date=6 April 2021 }}</ref>
+
+<section begin="R of 16 7"/>{{Football box
+|date={{Start date|1998|6|30|df=y}}
+|time=16:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ROU}}
+|score={{score link|1998 FIFA World Cup knockout stage#Romania vs Croatia|0–1}}
+|team2={{fb|CRO}}
+|goals1=
+|goals2=
+*[[Davor Šuker|Šuker]] {{goal|45+2|pen.}}
+|stadium=[[Stade Chaban-Delmas|Parc Lescure]], [[Bordeaux]]
+|attendance=31,800
+|referee=[[Javier Castrilli]] ([[Argentine Football Association|Argentina]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8780 |title=Romania vs Croatia {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8780/index.html |title=1998 FIFA World Cup France – Matches – Romania v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171202051558/http://www.fifa.com/worldcup/matches/round=1024/match=8780/index.html |archive-date=2 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8878.htm |title=Match Statistics – 1/8 Final – Romania v Croatia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=30 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414015256/http://www.france98.com/english/competition/matchstat8878.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 7"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rom98
+ | pattern_b  = _rom98
+ | pattern_ra = _rom98
+ | pattern_sh = _rom98
+ | pattern_so = _rom98h
+ | leftarm    = FFE601
+ | body       = FFE601
+ | rightarm   = FFE601
+ | shorts     = FFE601
+ | socks      = FFE601
+ | title      = Romania
+}}
+|{{Football kit
+ | pattern_la = _cro98a
+ | pattern_b  = _cro98away
+ | pattern_ra = _cro98a
+ | pattern_sh = 
+ | pattern_so = _3_stripes_white
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = 0000CD
+ | socks      = 0000CD
+ | title      = Croatia
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Bogdan Stelea]]
+|-
+|SW ||'''6''' ||[[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]] || {{yel|43}}
+|-
+|CB ||'''18'''||[[Iulian Filipescu]]
+|-
+|CB ||'''13'''||[[Liviu Ciobotariu]]
+|-
+|RWB||'''2''' ||[[Dan Petrescu]] || {{yel|70}} || {{suboff|76}}
+|-
+|LWB||'''8''' ||[[Dorinel Munteanu]]
+|-
+|DM ||'''5''' ||[[Constantin Gâlcă]]
+|-
+|CM ||'''16'''||[[Gabriel Popescu (footballer)|Gabriel Popescu]] || || {{suboff|61}}
+|-
+|AM ||'''10'''||[[Gheorghe Hagi]] ([[Captain (association football)|c]]) || || {{suboff|56}}
+|-
+|SS ||'''11'''||[[Adrian Ilie]] || {{yel|81}}
+|-
+|CF ||'''9''' ||[[Viorel Moldovan]] 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''21'''||[[Gheorghe Craioveanu]] || || {{subon|56}}
+|-
+|MF ||'''14'''||[[Radu Niculescu]] || || {{subon|61}}
+|-
+|MF ||'''15'''||[[Lucian Marinescu]] || || {{subon|76}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Anghel Iordănescu]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dražen Ladić]]
+|-
+|SW ||'''4''' ||[[Igor Štimac]]
+|-
+|CB ||'''20'''||[[Dario Šimić]]
+|-
+|CB ||'''6''' ||[[Slaven Bilić]] || {{yel|70}}
+|-
+|RWB ||'''13'''||[[Mario Stanić]] || || {{suboff|83}}
+|-
+|LWB ||'''17'''||[[Robert Jarni]]
+|-
+|DM ||'''21'''||[[Krunoslav Jurčić]]
+|-
+|CM ||'''7''' ||[[Aljoša Asanović]]
+|-
+|CM ||'''10'''||[[Zvonimir Boban]] ([[Captain (association football)|c]]) || {{yel|27}}
+|-
+|CF ||'''19'''||[[Goran Vlaović]] || || {{suboff|76}}
+|-
+|CF ||'''9''' ||[[Davor Šuker]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''2''' ||[[Petar Krpan]] || || {{subon|76}}
+|-
+|DF ||'''15'''||[[Igor Tudor]] || || {{subon|83}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Miroslav Blažević]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Claudio Rossi ([[Argentine Football Association|Argentina]])
+<br />Arnaldo Pinto ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Fourth official]]:'''
+<br />[[Lim Kee Chong]] ([[Mauritius Football Association|Mauritius]])
+|}
+
+===Argentina vs England===
+{{see also|Argentina–England football rivalry}}
+Argentina decided to use their change kit, feeling that it had granted them luck in the [[Argentina v England (1986 FIFA World Cup)|1986 World Cup quarter-final between the two sides]].<ref>{{cite news |last= Aguilar |first= Francesc |date=1 July 1998 |title= La camiseta reserva de Argentina les da suerte |trans-title= Argentina's reserve kit grants them luck |url= http://hemeroteca.mundodeportivo.com/preview/1998/07/01/pagina-11/395964/pdf.html |language=Spanish |work= [[Mundo Deportivo]] |access-date= 30 March 2021}}</ref> All four goals were scored in the first half, making it the first match in the tournament with as many goals scored before half-time.<ref>{{cite news |last= Perearnau |first= Francesc |date= 1 July 1998 |title= 'Chico picante' |trans-title= 'Spice Boy' |url= http://hemeroteca.mundodeportivo.com/preview/1998/07/01/pagina-11/395964/pdf.html |language= Spanish |work= [[Mundo Deportivo]] |location= |access-date= 30 March 2021}}</ref> With the score tied at 2–2, [[David Beckham]] retaliated after being fouled by [[Diego Simeone]] and was sent off. Beckham's teammate [[Michael Owen]] subsequently described Beckham's act as "childish and unnecessary", although Owen also said that the burnings of effigies of Beckham were undeserved.<ref>{{cite web |title=Michael Owen still resents David Beckham for 'letting England down' at World Cup vs Argentina |url=https://www.independent.co.uk/sport/football/international/michael-owen-david-beckham-england-world-cup-argentina-alan-shearer-a9091166.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/international/michael-owen-david-beckham-england-world-cup-argentina-alan-shearer-a9091166.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |website=The Independent [London] |access-date=18 June 2020}}{{cbignore}}</ref> In the subsequent penalty shoot-out, Argentina went first. [[David Seaman]] saved Argentina's second penalty from [[Hernán Crespo]] to give England the advantage, but that was immediately cancelled when [[Carlos Roa]] saved from [[Paul Ince]]. The tie ended with another Roa save, from [[David Batty]]. Batty said it was the first penalty he had ever taken.<ref>{{cite web |title=Infamous Penalty Misses For England |url=https://bleacherreport.com/articles/60207-infamous-penalty-misses-for-england |website=Bleacher Report |access-date=18 June 2020}}</ref> England had also exited on penalties in the recent [[UEFA Euro 1996]] two years prior.
+
+<section begin="R of 16 8"/>{{Football box
+|date={{Start date|1998|6|30|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ARG|1861}}
+|score={{score link|1998 FIFA World Cup knockout stage#Argentina vs England|2–2}}
+|aet=yes
+|team2={{fb|ENG}}
+|goals1=
+*[[Gabriel Batistuta|Batistuta]] {{goal|5|pen.}}
+*[[Javier Zanetti|Zanetti]] {{goal|45+1}}
+|goals2=
+*[[Alan Shearer|Shearer]] {{goal|9|pen.}}
+*[[Michael Owen|Owen]] {{goal|16}}
+|stadium=[[Stade Geoffroy-Guichard]], [[Saint-Étienne]]
+|attendance=30,600
+|referee=[[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|penalties1=
+*[[Sergio Berti|Berti]] {{pengoal}}
+*[[Hernán Crespo|Crespo]] {{penmiss}}
+*[[Juan Sebastián Verón|Verón]] {{pengoal}}
+*[[Marcelo Gallardo|Gallardo]] {{pengoal}}
+*[[Roberto Ayala|Ayala]] {{pengoal}}
+|penaltyscore=4–3
+|penalties2=
+*{{pengoal}} [[Alan Shearer|Shearer]]
+*{{penmiss}} [[Paul Ince|Ince]]
+*{{pengoal}} [[Paul Merson|Merson]]
+*{{pengoal}} [[Michael Owen|Owen]]
+*{{penmiss}} [[David Batty|Batty]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1024/8779 |title=Argentina vs England {{!}} Round of 16 {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1024/match=8779/index.html |title=1998 FIFA World Cup France – Matches – Argentina v England |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171212010224/http://www.fifa.com/worldcup/matches/round=1024/match=8779/index.html |archive-date=12 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8877.htm |title=Match Statistics – 1/8 Final – Argentina v England |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=30 June 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414015221/http://www.france98.com/english/competition/matchstat8877.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="R of 16 8"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _Arg98a
+ | pattern_b  = _Arg98a
+ | pattern_ra = _Arg98a
+ | pattern_sh = _Arg98a
+ | pattern_so = _arg98a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Argentina
+}}
+|{{Football kit
+ | pattern_la = _eng98H
+ | pattern_b  = _eng98H
+ | pattern_ra = _eng98H
+ | pattern_sh = _eng98A
+ | pattern_so = _eng98H
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = England
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Carlos Roa]] || {{yel|PSO}}
+|-
+|CB ||'''14'''||[[Nelson Vivas]]
+|-
+|CB ||'''2''' ||[[Roberto Ayala]]
+|-
+|CB ||'''3''' ||[[José Chamot]]
+|-
+|RM ||'''22'''||[[Javier Zanetti]]
+|-
+|DM ||'''5''' ||[[Matías Almeyda]] || {{yel|73}}
+|-
+|LM ||'''8''' ||[[Diego Simeone]] ([[Captain (association football)|c]]) || {{yel|47}} || {{suboff|91}}
+|-
+|CM ||'''11'''||[[Juan Sebastián Verón]] || {{yel|44}}
+|-
+|AM ||'''10'''||[[Ariel Ortega]]
+|-
+|SS ||'''7''' ||[[Claudio López (footballer)|Claudio López]] || || {{suboff|68}}
+|-
+|CF ||'''9''' ||[[Gabriel Batistuta]] || || {{suboff|68}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''19'''||[[Hernán Crespo]] || || {{subon|68}}
+|-
+|MF ||'''20'''||[[Marcelo Gallardo]] || || {{subon|68}}
+|-
+|MF ||'''16'''||[[Sergio Berti]] || || {{subon|91}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Daniel Passarella]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[David Seaman]] || {{yel|5}}
+|-
+|RB ||'''12'''||[[Gary Neville]]
+|-
+|CB ||'''5''' ||[[Tony Adams (footballer)|Tony Adams]]
+|-
+|CB ||'''2''' ||[[Sol Campbell]]
+|-
+|LB||'''3''' ||[[Graeme Le Saux]] || || {{suboff|71}}
+|-
+|DM ||'''4''' ||[[Paul Ince]] || {{yel|10}}
+|-
+|RM ||'''7''' ||[[David Beckham]] || {{sent off|0|47}}
+|-
+|LM||'''14'''||[[Darren Anderton]] || || {{suboff|97}}
+|-
+|AM ||'''16'''||[[Paul Scholes]] || || {{suboff|78}}
+|-
+|SS ||'''20'''||[[Michael Owen]]
+|-
+|CF ||'''9''' ||[[Alan Shearer]] ([[Captain (association football)|c]])
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''6''' ||[[Gareth Southgate]] || || {{subon|71}}
+|-
+|MF ||'''15'''||[[Paul Merson]] || || {{subon|78}}
+|-
+|MF ||'''8''' ||[[David Batty]] || || {{subon|97}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Glenn Hoddle]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Halim Abdul Hamid ([[Football Association of Malaysia|Malaysia]])
+<br />Mohamed Al Musawi ([[Oman Football Association|Oman]])
+<br />'''[[Fourth official]]:'''
+<br />[[Rune Pedersen (referee)|Rune Pedersen]] ([[Football Association of Norway|Norway]])
+|}
+
+==Quarter-finals==
+
+===Italy vs France===
+{{see also|France–Italy football rivalry}}
+<section begin="QF1"/>{{Football box
+|date={{Start date|1998|7|3|df=y}}
+|time=16:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|ITA|1946}}
+|score={{score link|1998 FIFA World Cup knockout stage#Italy vs France|0–0}}
+|aet=yes
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=77,000
+|referee=[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|penalties1=
+*[[Roberto Baggio|R. Baggio]] {{pengoal}}
+*[[Demetrio Albertini|Albertini]] {{penmiss}}
+*[[Alessandro Costacurta|Costacurta]] {{pengoal}}
+*[[Christian Vieri|Vieri]] {{pengoal}}
+*[[Luigi Di Biagio|Di Biagio]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2=
+*{{pengoal}} [[Zinedine Zidane|Zidane]]
+*{{penmiss}} [[Bixente Lizarazu|Lizarazu]]
+*{{pengoal}} [[David Trezeguet|Trezeguet]]
+*{{pengoal}} [[Thierry Henry|Henry]]
+*{{pengoal}} [[Laurent Blanc|Blanc]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1025/8781 |title=Italy vs France {{!}} Quarter-final {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1025/match=8781/index.html |title=1998 FIFA World Cup France – Matches – Italy v France |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171201085454/http://www.fifa.com/worldcup/matches/round=1025/match=8781/index.html |archive-date=1 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8880.htm |title=Match Statistics – 1/4 Final – Italy v France |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=3 July 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414020149/http://www.france98.com/english/competition/matchstat8880.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="QF1"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ita98
+ | pattern_b  = _ita98
+ | pattern_ra = _ita98
+ | pattern_sh = _italia98
+ | pattern_so = _ita1998h
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = 0000CD
+ | socks      = 0000CD
+ | title      = Italy
+}}
+|{{Football kit
+ |pattern_la = _france1998a
+ |pattern_b  = _france1998a
+ |pattern_ra = _france1998a
+ |pattern_sh =_france1998a
+ |pattern_so = _fra98a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = CA2222
+ |socks      = FFFFFF
+ |title      = France
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Gianluca Pagliuca]]
+|-
+|RB ||'''2''' ||[[Giuseppe Bergomi]] || {{yel|28}}
+|-
+|CB ||'''4''' ||[[Fabio Cannavaro]]
+|-
+|CB ||'''5''' ||[[Alessandro Costacurta]] || {{yel|113}}
+|-
+|LB ||'''3''' ||[[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|CM ||'''11'''||[[Dino Baggio]] || || {{suboff|52}}
+|-
+|CM ||'''14'''||[[Luigi Di Biagio]] 
+|-
+|RW ||'''17'''||[[Francesco Moriero]]
+|-
+|LW ||'''7''' ||[[Gianluca Pessotto]] || || {{suboff|90}}
+|-
+|SS ||'''10'''||[[Alessandro Del Piero]] || {{yel|26}} || {{suboff|67}}
+|-
+|CF ||'''21'''||[[Christian Vieri]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''9''' ||[[Demetrio Albertini]] || || {{subon|52}}
+|-
+|FW ||'''18'''||[[Roberto Baggio]] || || {{subon|67}}
+|-
+|MF ||'''15'''||[[Angelo Di Livio]] || || {{subon|90}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Cesare Maldini]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''15'''||[[Lilian Thuram]]
+|-
+|CB ||'''5''' ||[[Laurent Blanc]]
+|-
+|CB ||'''8''' ||[[Marcel Desailly]]
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]]
+|-
+|DM ||'''7''' ||[[Didier Deschamps]] ([[Captain (association football)|c]]) || {{yel|62}}
+|-
+|RM ||'''19'''||[[Christian Karembeu]] || || {{suboff|65}}
+|-
+|LM ||'''17'''||[[Emmanuel Petit]]
+|-
+|AM ||'''10'''||[[Zinedine Zidane]]
+|-
+|CF ||'''6''' ||[[Youri Djorkaeff]]
+|-
+|CF ||'''9''' ||[[Stéphane Guivarc'h]] || {{yel|53}} || {{suboff|65}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''12'''||[[Thierry Henry]] || || {{subon|65}}
+|-
+|FW ||'''20'''||[[David Trezeguet]] || || {{subon|65}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Aimé Jacquet]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Mark Warren (referee)|Mark Warren]] ([[The Football Association|England]])
+<br />Nicolae Grigorescu ([[Romanian Football Federation|Romania]])
+<br />'''[[Fourth official]]:'''
+<br />[[Said Belqola]] ([[Royal Moroccan Football Federation|Morocco]])
+|}
+
+===Brazil vs Denmark===
+<section begin="QF2"/>{{Football box
+|date={{Start date|1998|7|3|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1998 FIFA World Cup knockout stage#Brazil vs Denmark|3–2}}
+|team2={{fb|DEN}}
+|goals1=
+*[[Bebeto]] {{goal|10}}
+*[[Rivaldo]] {{goal|25||59}}
+|goals2=
+*[[Martin Jørgensen|Jørgensen]] {{goal|2}}
+*[[Brian Laudrup|B. Laudrup]] {{goal|50}}
+|stadium=[[Stade de la Beaujoire]], [[Nantes]]
+|attendance=35,500
+|referee=[[Gamal Al-Ghandour]] ([[Egyptian Football Association|Egypt]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1025/8782 |title=Brazil vs Denmark {{!}} Quarter-final {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1025/match=8782/index.html |title=1998 FIFA World Cup France – Matches – Brazil v Denmark |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211175326/http://www.fifa.com/worldcup/matches/round=1025/match=8782/index.html |archive-date=11 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8879.htm |title=Match Statistics – 1/4 Final – Brazil v Denmark |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=3 July 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414015716/http://www.france98.com/english/competition/matchstat8879.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="QF2"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra98h
+ | pattern_b  = _bra98h
+ | pattern_ra = _bra98h
+ | pattern_sh = _bra98h
+ | pattern_so = _bra98hl
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 004A99
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _den1998h
+ | pattern_b  = _den1998h
+ | pattern_ra = _den1998h
+ | pattern_sh = _den98h
+ | pattern_so = 
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Denmark
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''2''' ||[[Cafu]] || {{yel|81}}
+|-
+|CB ||'''3''' ||[[Aldair]] || {{yel|37}}
+|-
+|CB ||'''4''' ||[[Junior Baiano]]
+|-
+|LB ||'''6''' ||[[Roberto Carlos]] || {{yel|11}}
+|-
+|CM ||'''5''' ||[[César Sampaio]]
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]])
+|-
+|AM ||'''10'''||[[Rivaldo]] || || {{suboff|87}}
+|-
+|AM ||'''18'''||[[Leonardo Araújo|Leonardo]] || || {{suboff|71}}
+|-
+|CF ||'''20'''||[[Bebeto]] || || {{suboff|64}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]] 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''19'''||[[Denílson de Oliveira Araújo|Denílson]] || || {{subon|64}}
+|-
+|MF ||'''11'''||[[Emerson (footballer, born 1976)|Emerson]] || || {{subon|71}}
+|-
+|MF ||'''16'''||[[Zé Roberto]] || || {{subon|87}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Peter Schmeichel]]
+|-
+|RB ||'''12'''||[[Søren Colding]] || {{yel|39}}
+|-
+|CB ||'''3''' ||[[Marc Rieper]]
+|-
+|CB ||'''4''' ||[[Jes Høgh]]
+|-
+|LB ||'''5''' ||[[Jan Heintze]]
+|-
+|CM ||'''6''' ||[[Thomas Helveg]] || {{yel|19}} || {{suboff|87}}
+|-
+|CM ||'''7''' ||[[Allan Nielsen]] || || {{suboff|46}}
+|-
+|RW ||'''21'''||[[Martin Jørgensen]]
+|-
+|LW ||'''10'''||[[Michael Laudrup]] ([[Captain (association football)|c]])
+|-
+|SS ||'''11'''||[[Brian Laudrup]]
+|-
+|CF ||'''18'''||[[Peter Møller]] || || {{suboff|66}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''15'''||[[Stig Tøfting]] || {{yel|72}} || {{subon|46}}
+|-
+|FW ||'''19'''||[[Ebbe Sand]] || || {{subon|66}}
+|-
+|DF ||'''2''' ||[[Michael Schjønberg]] || || {{subon|87}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Bo Johansson]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mohamed Mansri ([[Tunisian Football Federation|Tunisia]])
+<br />Dramane Danté ([[Malian Football Federation|Mali]])
+<br />'''[[Fourth official]]:'''
+<br />[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|}
+
+===Netherlands vs Argentina===
+{{see also|Argentina–Netherlands football rivalry}}
+The game saw two early goals - Kluivert giving the Netherlands a lead, which was cancelled out minutes later by Lopez. There were also three early yellow cards - Stam and Numan for the Dutch, Chamot for Argentina. Tempers began to boil over during the second half: Numan received a second yellow for a challenge on Simeone, although there were Dutch protests that Simeone had made the most of it. Ortega lost his temper completely: only a minute after receiving a yellow card for a rough challenge, he headbutted Van der Sar and was sent off at once, reducing both sides to ten men. With extra time looming, Bergkamp received a long pass, controlled it superbly and scored in the last minute, to send the Dutch into the semi-finals.
+<section begin="QF3"/>{{Football box
+|date={{Start date|1998|7|4|df=y}}
+|time=16:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NED}}
+|score={{score link|1998 FIFA World Cup knockout stage#Netherlands vs Argentina|2–1}}
+|team2={{fb|ARG|1861}}
+|goals1=
+*[[Patrick Kluivert|Kluivert]] {{goal|12}}
+*[[Dennis Bergkamp|Bergkamp]] {{goal|90}}
+|goals2=
+*[[Claudio López (footballer)|López]] {{goal|17}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=55,000
+|referee=[[Arturo Brizio Carter]] ([[Mexican Football Federation|Mexico]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1025/8784 |title=Netherlands vs Argentina {{!}} Quarter-final {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1025/match=8784/index.html |title=1998 FIFA World Cup France – Matches – Netherlands v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213022414/http://www.fifa.com/worldcup/matches/round=1025/match=8784/index.html |archive-date=13 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8881.htm |title=Match Statistics – 1/4 Final – Netherlands v Argentina |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=4 July 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010413211542/http://www.france98.com/english/competition/matchstat8881.htm |archive-date=13 April 2001}} }}</ref>
+}}<section end="QF3"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1998h
+ | pattern_b  = _ned98
+ | pattern_ra = _netherlands1998h
+ | pattern_sh = _netherlands1998h
+ | pattern_so = _ned98h
+ | leftarm    = D74600
+ | body       = D74600
+ | rightarm   = D74600
+ | shorts     = FFFFFF
+ | socks      = F3460C
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _arg98h
+ | pattern_b  = _arg98
+ | pattern_ra = _arg98h
+ | pattern_sh = _arg98h
+ | pattern_so = _arg98a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Argentina
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]]
+|-
+|RB ||'''2''' ||[[Michael Reiziger]]
+|-
+|CB ||'''3''' ||[[Jaap Stam]] || {{yel|10}}
+|-
+|CB ||'''4''' ||[[Frank de Boer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||[[Arthur Numan]] || {{sent off|2|17|76}}
+|-
+|CM ||'''6''' ||[[Wim Jonk]]
+|-
+|CM ||'''16'''||[[Edgar Davids]]
+|-
+|RW ||'''7''' ||[[Ronald de Boer]] || || {{suboff|64}}
+|-
+|LW ||'''11'''||[[Phillip Cocu]]
+|-
+|SS ||'''8''' ||[[Dennis Bergkamp]]
+|-
+|CF ||'''9''' ||[[Patrick Kluivert]] 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''14'''||[[Marc Overmars]] || || {{subon|64}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Guus Hiddink]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Carlos Roa]]
+|-
+|RB ||'''22'''||[[Javier Zanetti]]
+|-
+|CB ||'''2''' ||[[Roberto Ayala]]
+|-
+|CB ||'''6''' ||[[Roberto Sensini]] || {{yel|60}}
+|-
+|LB ||'''3''' ||[[José Chamot]] || {{yel|22}} || {{suboff|89}}
+|-
+|DM ||'''5''' ||[[Matías Almeyda]] || || {{suboff|68}}
+|-
+|CM ||'''8''' ||[[Diego Simeone]] ([[Captain (association football)|c]])
+|-
+|CM ||'''11'''||[[Juan Sebastián Verón]]
+|-
+|AM ||'''10'''||[[Ariel Ortega]] || {{sent off|1|86|87}}
+|-
+|SS ||'''7'''||[[Claudio López (footballer)|Claudio López]]
+|-
+|CF ||'''9''' ||[[Gabriel Batistuta]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''4''' ||[[Mauricio Pineda (footballer, born 1975)|Mauricio Pineda]] || || {{subon|68}}
+|-
+|FW ||'''18'''||[[Abel Balbo]] || || {{subon|89}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Daniel Passarella]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Owen Powell ([[Jamaica Football Federation|Jamaica]])
+<br />Reynaldo Salinas ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />'''[[Fourth official]]:'''
+<br />[[Epifanio González|Epifanio Gonzalez Chavez]] ([[Paraguayan Football Association|Paraguay]])
+|}
+
+===Germany vs Croatia===
+Germany initially had the better of the first half, forcing a couple of good saves from Ladic in the Croatian goal. However, the complexion of the match was changed when Christian Wörns was sent off in the 40th minute, for a rough tackle from behind. With Germany down to ten, Jarni scored to give Croatia the lead on the stroke of half-time: Vlaovic's shot from just outside the penalty area, and Suker's close-range shot in the 85th minute, gave Croatia a 3-0 victory.
+<section begin="QF4"/>{{Football box
+|date={{Start date|1998|7|4|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|GER}}
+|score={{score link|1998 FIFA World Cup knockout stage#Germany vs Croatia|0–3}}
+|team2={{fb|CRO}}
+|goals1=
+|goals2=
+*[[Robert Jarni|Jarni]] {{goal|45+3}}
+*[[Goran Vlaović|Vlaović]] {{goal|80}}
+*[[Davor Šuker|Šuker]] {{goal|85}}
+|stadium=[[Stade de Gerland]], [[Lyon]]
+|attendance=39,100
+|referee=[[Rune Pedersen (referee)|Rune Pedersen]] ([[Football Association of Norway|Norway]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1025/8783 |title=Germany vs Croatia {{!}} Quarter-final {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1025/match=8783/index.html |title=1998 FIFA World Cup France – Matches – Germany v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213165954/http://www.fifa.com/worldcup/matches/round=1025/match=8783/index.html |archive-date=13 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8882.htm |title=Match Statistics – 1/4 Final – Germany v Croatia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=4 July 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414010615/http://www.france98.com/english/competition/matchstat8882.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="QF4"/>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger98h
+ |pattern_b  = _ger98h2
+ |pattern_ra = _ger98h
+ |pattern_sh = _ger98h
+ | pattern_so = _ger98h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Germany
+}}
+|{{Football kit
+ | pattern_la = _cro98a
+ | pattern_b  = _cro98away
+ | pattern_ra = _cro98a
+ | pattern_sh = 
+ | pattern_so = _3_stripes_white
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = 0000CD
+ | socks      = 0000CD
+ | title      = Croatia
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Köpke]]
+|-
+|SW ||'''8''' ||[[Lothar Matthäus]]
+|-
+|CB ||'''2''' ||[[Christian Wörns]] || {{sent off|0|40}}
+|-
+|CB ||'''4''' ||[[Jürgen Kohler]]
+|-
+|RWB||'''3''' ||[[Jörg Heinrich]] || {{yel|18}}
+|-
+|LWB||'''21'''||[[Michael Tarnat]] || {{yel|37}}
+|-
+|DM ||'''16'''||[[Dietmar Hamann]] || || {{suboff|79}}
+|-
+|DM ||'''13'''||[[Jens Jeremies]]
+|-
+|AM ||'''10'''||[[Thomas Häßler]] || || {{suboff|69}}
+|-
+|CF ||'''20'''||[[Oliver Bierhoff]]
+|-
+|CF ||'''18'''||[[Jürgen Klinsmann]] ([[Captain (association football)|c]]) 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''9''' ||[[Ulf Kirsten]] || || {{subon|69}}
+|-
+|FW ||'''11'''||[[Olaf Marschall]] || || {{subon|79}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Berti Vogts]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dražen Ladić]]
+|-
+|SW ||'''4''' ||[[Igor Štimac]]
+|-
+|CB ||'''20'''||[[Dario Šimić]] || {{yel|13}}
+|-
+|CB ||'''6''' ||[[Slaven Bilić]]
+|-
+|RWB ||'''13'''||[[Mario Stanić]]
+|-
+|LWB ||'''17'''||[[Robert Jarni]]
+|-
+|DM ||'''14'''||[[Zvonimir Soldo]]
+|-
+|CM ||'''7''' ||[[Aljoša Asanović]]
+|-
+|CM ||'''10'''||[[Zvonimir Boban]] ([[Captain (association football)|c]])
+|-
+|CF ||'''19'''||[[Goran Vlaović]] || || {{suboff|83}}
+|-
+|CF ||'''9''' ||[[Davor Šuker]] || {{yel|57}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''11'''||[[Silvio Marić]] || || {{subon|83}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Miroslav Blažević]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mikael Nilsson ([[Swedish Football Association|Sweden]])
+<br />Marc Van den Broeck ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Fourth official]]:'''
+<br />[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|}
+
+==Semi-finals==
+
+===Brazil vs Netherlands===
+<section begin="SF1"/>{{Football box
+|date={{Start date|1998|7|7|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BRA}}
+|score={{score link|1998 FIFA World Cup knockout stage#Brazil vs Netherlands|1–1}}
+|aet=yes
+|team2={{fb|NED}}
+|goals1=
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|46}}
+|goals2=
+*[[Patrick Kluivert|Kluivert]] {{goal|87}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=54,000
+|referee=[[Ali Bujsaim]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|penalties1=
+*[[Ronaldo (Brazilian footballer)|Ronaldo]] {{pengoal}}
+*[[Rivaldo]] {{pengoal}}
+*[[Emerson (footballer, born 1976)|Emerson]] {{pengoal}}
+*[[Dunga]] {{pengoal}}
+|penaltyscore=4–2
+|penalties2=
+*{{pengoal}} [[Frank de Boer|F. de Boer]]
+*{{pengoal}} [[Dennis Bergkamp|Bergkamp]]
+*{{penmiss}} [[Phillip Cocu|Cocu]]
+*{{penmiss}} [[Ronald de Boer|R. de Boer]]
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1026/8785 |title=Brazil vs Netherlands {{!}} Semi-final {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1026/match=8785/index.html |title=1998 FIFA World Cup France – Matches – Brazil v Netherlands |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171211093308/http://www.fifa.com/worldcup/matches/round=1026/match=8785/index.html |archive-date=11 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8883.htm |title=Match Statistics – 1/2 Final – Brazil v Netherlands |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=7 July 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414010756/http://www.france98.com/english/competition/matchstat8883.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="SF1"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _bra98h
+ | pattern_b  = _bra98h
+ | pattern_ra = _bra98h
+ | pattern_sh = _bra98h
+ | pattern_so = _bra98hl
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = 004A99
+ | socks      = FFFFFF
+ | title      = Brazil
+}}
+|{{Football kit
+ | pattern_la = _netherlands1998h
+ | pattern_b  = _ned98
+ | pattern_ra = _netherlands1998h
+ | pattern_sh = _netherlands1998h
+ | pattern_so = _ned98h
+ | leftarm    = D74600
+ | body       = D74600
+ | rightarm   = D74600
+ | shorts     = FFFFFF
+ | socks      = F3460C
+ | title      = Netherlands
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Cláudio Taffarel]]
+|-
+|RB ||'''13'''||[[Zé Carlos (footballer, born 1967)|Zé Carlos]] || {{yel|31}}
+|-
+|CB ||'''3''' ||[[Aldair]] ||
+|-
+|CB ||'''4''' ||[[Junior Baiano]]
+|-
+|LB ||'''6''' ||[[Roberto Carlos]] 
+|-
+|CM ||'''5''' ||[[César Sampaio]] || {{yel|45}}
+|-
+|CM ||'''8''' ||[[Dunga]] ([[Captain (association football)|c]]) 
+|-
+|AM ||'''10'''||[[Rivaldo]] 
+|-
+|AM ||'''18'''||[[Leonardo Araújo|Leonardo]] || || {{suboff|85}}
+|-
+|CF ||'''20'''||[[Bebeto]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||[[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''19'''||[[Denílson de Oliveira Araújo|Denílson]] || || {{subon|70}}
+|-
+|MF ||'''11'''||[[Emerson (footballer, born 1976)|Emerson]] || || {{subon|85}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Mário Zagallo]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]]
+|-
+|RB ||'''2''' ||[[Michael Reiziger]] || {{yel|48}} || {{suboff|56}}
+|-
+|CB ||'''3''' ||[[Jaap Stam]]
+|-
+|CB ||'''4''' ||[[Frank de Boer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''11'''||[[Phillip Cocu]]
+|-
+|CM ||'''6''' ||[[Wim Jonk]] || || {{suboff|111}}
+|-
+|CM ||'''16'''||[[Edgar Davids]] || {{yel|60}}
+|-
+|RW ||'''7''' ||[[Ronald de Boer]]
+|-
+|LW ||'''12'''||[[Boudewijn Zenden]] || || {{suboff|75}}
+|-
+|SS ||'''8''' ||[[Dennis Bergkamp]]
+|-
+|CF ||'''9''' ||[[Patrick Kluivert]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''20'''||[[Aron Winter]] || || {{subon|56}}
+|-
+|FW ||'''17'''||[[Pierre van Hooijdonk]] || {{yel|90}} || {{subon|75}}
+|-
+|MF ||'''10'''||[[Clarence Seedorf]] || {{yel|119}} || {{subon|111}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Guus Hiddink]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hussain Ghadanfari ([[Kuwait Football Association|Kuwait]])
+<br />Mohamed Al Musawi ([[Oman Football Association|Oman]])
+<br />'''[[Fourth official]]:'''
+<br />[[Abdul Rahman Al-Zaid|Rahman Al Zaid]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+|}
+
+===France vs Croatia===
+<section begin="SF2"/>{{Football box
+|date={{Start date|1998|7|8|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|1998 FIFA World Cup knockout stage#France vs Croatia|2–1}}
+|team2={{fb|CRO}}
+|goals1=
+*[[Lilian Thuram|Thuram]] {{goal|47||70}}
+|goals2=
+*[[Davor Šuker|Šuker]] {{goal|46}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=76,000
+|referee=[[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1026/8786 |title=France vs Croatia {{!}} Semi-final {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1026/match=8786/index.html |title=1998 FIFA World Cup France – Matches – France v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171220141259/http://www.fifa.com/worldcup/matches/round=1026/match=8786/index.html |archive-date=20 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8884.htm |title=Match Statistics – 1/2 Final – France v Croatia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=8 July 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20010414011813/http://www.france98.com/english/competition/matchstat8884.htm |archive-date=14 April 2001}} }}</ref>
+}}<section end="SF2"/>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =_france1998h
+ |pattern_b  = _france1998h
+ |pattern_ra = _france1998h
+ |pattern_sh =_france1998h
+ |pattern_so = _fra98h
+ |leftarm    = 00288E
+ |body       = 00288E
+ |rightarm   = 00288E
+ |shorts     = CA2222
+ |socks      = FF0000
+ |title      = France
+}}
+|{{Football kit
+ | pattern_la = _cro98h 
+ | pattern_b  = _cro98h 
+ | pattern_ra = _cro98h 
+ | pattern_sh = 
+ | pattern_so = _red_and_blue_stripes
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Croatia
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''16'''||[[Fabien Barthez]]
+|-
+|RB ||'''15'''||[[Lilian Thuram]] 
+|-
+|CB ||'''5''' ||[[Laurent Blanc]] || {{sent off|0|74}}
+|-
+|CB ||'''8''' ||[[Marcel Desailly]]
+|-
+|LB ||'''3''' ||[[Bixente Lizarazu]] 
+|-
+|DM ||'''7''' ||[[Didier Deschamps]] ([[Captain (association football)|c]]) 
+|-
+|RM ||'''19'''||[[Christian Karembeu]] || || {{suboff|31}}
+|-
+|LM ||'''17'''||[[Emmanuel Petit]]
+|-
+|AM ||'''10'''||[[Zinedine Zidane]] 
+|-
+|CF ||'''6''' ||[[Youri Djorkaeff]] || || {{suboff|77}}
+|-
+|CF ||'''9''' ||[[Stéphane Guivarc'h]] || || {{suboff|68}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''12'''||[[Thierry Henry]] || || {{subon|31}}
+|-
+|FW ||'''20'''||[[David Trezeguet]] || || {{subon|68}}
+|-
+|DF ||'''18'''||[[Frank Leboeuf]] || || {{subon|77}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Aimé Jacquet]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dražen Ladić]]
+|-
+|SW ||'''4''' ||[[Igor Štimac]] 
+|-
+|CB ||'''20'''||[[Dario Šimić]] || {{yel|88}}
+|-
+|CB ||'''6''' ||[[Slaven Bilić]]
+|-
+|RWB ||'''13'''||[[Mario Stanić]] || {{yel|75}} || {{suboff|89}}
+|-
+|LWB ||'''17'''||[[Robert Jarni]] 
+|-
+|DM ||'''14'''||[[Zvonimir Soldo]]
+|-
+|CM ||'''7''' ||[[Aljoša Asanović]] || {{yel|45}}
+|-
+|CM ||'''10'''||[[Zvonimir Boban]] ([[Captain (association football)|c]]) || || {{suboff|65}}
+|-
+|CF ||'''19'''||[[Goran Vlaović]]
+|-
+|CF ||'''9''' ||[[Davor Šuker]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''11'''||[[Silvio Marić]] || || {{subon|65}}
+|-
+|MF ||'''8''' ||[[Robert Prosinečki]] || || {{subon|89}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Miroslav Blažević]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])
+<br />Jorge Diaz Galvez ([[Football Federation of Chile|Chile]])
+<br />'''[[Fourth official]]:'''
+<br />[[Epifanio González|Epifanio Gonzalez Chavez]] ([[Paraguayan Football Association|Paraguay]])
+|}
+
+==Match for third place==
+
+<section begin="Third"/>{{Football box
+|date={{Start date|1998|7|11|df=y}}
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|NED}}
+|score={{score link|1998 FIFA World Cup knockout stage#Match for third place|1–2}}
+|team2={{fb|CRO}}
+|goals1=
+*[[Boudewijn Zenden|Zenden]] {{goal|22}}
+|goals2=
+*[[Robert Prosinečki|Prosinečki]] {{goal|14}}
+*[[Davor Šuker|Šuker]] {{goal|36}}
+|stadium=[[Parc des Princes]], Paris
+|attendance=45,500
+|referee=[[Epifanio González]] ([[Paraguayan Football Association|Paraguay]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/1013/1028/8787 |title=Netherlands vs Croatia {{!}} Match for third place {{!}} 1998 FIFA World Cup France |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=1028/match=8787/index.html |title=1998 FIFA World Cup France – Matches – Netherlands v Croatia |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20171213003254/http://www.fifa.com/worldcup/matches/round=1028/match=8787/index.html |archive-date=13 December 2017}} | {{cite web |url=http://www.france98.com/english/competition/matchstat8885.htm |title=Match Statistics – 3rd Place – Netherlands v Croatia |publisher=Comité Français d'Organisation de la Coupe du Monde de Football 1998 |date=11 July 1998 |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20001210084100/http://www.france98.com/english/competition/matchstat8885.htm |archive-date=10 December 2000}} }}</ref>
+}}<section end="Third"/>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _netherlands1998h
+ | pattern_b  = _ned98
+ | pattern_ra = _netherlands1998h
+ | pattern_sh = _netherlands1998h
+ | pattern_so = _ned98h
+ | leftarm    = D74600
+ | body       = D74600
+ | rightarm   = D74600
+ | shorts     = FFFFFF
+ | socks      = F3460C
+ | title      = Netherlands
+}}
+|{{Football kit
+ | pattern_la = _cro98a
+ | pattern_b  = _cro98away
+ | pattern_ra = _cro98a
+ | pattern_sh = 
+ | pattern_so = _3_stripes_white
+ | leftarm    = 0000CD
+ | body       = 0000CD
+ | rightarm   = 0000CD
+ | shorts     = 0000CD
+ | socks      = 0000CD
+ | title      = Croatia
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Edwin van der Sar]]
+|-
+|RB ||'''5''' ||[[Arthur Numan]] 
+|-
+|CB ||'''3''' ||[[Jaap Stam]]
+|-
+|CB ||'''4''' ||[[Frank de Boer]] ([[Captain (association football)|c]])
+|-
+|LB ||'''11'''||[[Phillip Cocu]] || || {{suboff|46}}
+|-
+|CM ||'''6''' ||[[Wim Jonk]] || {{yel|89}}
+|-
+|CM ||'''16'''||[[Edgar Davids]] || {{yel|89}}
+|-
+|RW ||'''10'''||[[Clarence Seedorf]]
+|-
+|LW ||'''12'''||[[Boudewijn Zenden]]
+|-
+|SS ||'''8''' ||[[Dennis Bergkamp]] || || {{suboff|58}}
+|-
+|CF ||'''9''' ||[[Patrick Kluivert]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''14'''||[[Marc Overmars]] || || {{subon|46}}
+|-
+|FW ||'''17'''||[[Pierre van Hooijdonk]] || || {{subon|58}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Guus Hiddink]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Dražen Ladić]]
+|-
+|SW ||'''14'''||[[Zvonimir Soldo]]
+|-
+|CB ||'''6''' ||[[Slaven Bilić]]
+|-
+|CB ||'''4''' ||[[Igor Štimac]] || {{yel|52}}
+|-
+|RWB ||'''13'''||[[Mario Stanić]] || {{yel|74}}
+|-
+|LWB ||'''17'''||[[Robert Jarni]]
+|-
+|DM ||'''21'''||[[Krunoslav Jurčić]] || {{yel|34}}
+|-
+|CM ||'''7''' ||[[Aljoša Asanović]] || {{yel|69}}
+|-
+|CM ||'''8''' ||[[Robert Prosinečki]] || || {{suboff|79}}
+|-
+|SS ||'''10'''||[[Zvonimir Boban]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|-
+|CF ||'''9''' ||[[Davor Šuker]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''19'''||[[Goran Vlaović]] || || {{subon|79}}
+|-
+|DF ||'''15'''||[[Igor Tudor]] || || {{subon|86}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Miroslav Blažević]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Emanuel Zammit ([[Malta Football Association|Malta]])
+<br />Lencie Fred ([[Vanuatu Football Federation|Vanuatu]])
+<br />'''[[Fourth official]]:'''
+<br />[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|}
+
+==Final==
+{{main|1998 FIFA World Cup final}}
+{{#lst:1998 FIFA World Cup final|Final}}
+{{#lst:1998 FIFA World Cup final|Lineups}}
+
+==References==
+{{Reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:Knockout Stage}}
+[[Category:1998 FIFA World Cup]]
+[[Category:FIFA World Cup knockout stages|1998]]
+[[Category:Mexico at the 1998 FIFA World Cup]]
+[[Category:Netherlands at the 1998 FIFA World Cup]]
+[[Category:France at the 1998 FIFA World Cup]]
+[[Category:Croatia at the 1998 FIFA World Cup]]
+[[Category:Brazil at the 1998 FIFA World Cup]]
+[[Category:Argentina at the 1998 FIFA World Cup]]
+[[Category:Italy at the 1998 FIFA World Cup]]
+[[Category:Denmark at the 1998 FIFA World Cup]]
+[[Category:England at the 1998 FIFA World Cup]]
+[[Category:Nigeria at the 1998 FIFA World Cup]]
+[[Category:Germany at the 1998 FIFA World Cup]]
+[[Category:Paraguay at the 1998 FIFA World Cup]]
+[[Category:Chile at the 1998 FIFA World Cup]]
+[[Category:Norway at the 1998 FIFA World Cup]]
+[[Category:Serbia and Montenegro at the 1998 FIFA World Cup]]
+[[Category:France–Italy football rivalry|FIFA World Cup 1998]]
+[[Category:Sports competitions in Marseille]]
+[[Category:Sport in Nantes]]
+[[Category:Sport in Saint-Étienne]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Sport in Montpellier]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:Football in Île-de-France]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Football in Pays de la Loire]]
+[[Category:Football in Provence-Alpes-Côte d'Azur]]
+[[Category:Sports competitions in Lyon]]
+[[Category:Sport in Toulouse]]
+[[Category:Sport in Lens, Pas-de-Calais]]
+[[Category:Football in Hauts-de-France]]
+[[Category:International football competitions in Paris]]
+[[Category:20th century in Marseille]]
+[[Category:20th century in Auvergne-Rhône-Alpes]]
+[[Category:20th century in Lyon]]
+[[Category:1998 in Paris]]
+[[Category:20th century in Île-de-France]]

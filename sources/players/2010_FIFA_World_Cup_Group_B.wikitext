@@ -1,0 +1,938 @@
+{{Short description|Football tournament group stage}}
+{{Use dmy dates|date=June 2018}}
+'''Group B of the [[2010 FIFA World Cup]]''' began on 12 June and ended on 22 June 2010.<ref>{{cite press release |title=Match Schedule 2010 FIFA World Cup South Africa |website=FIFA.com|publisher=Fédération Internationale de Football Association |url=https://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |archive-url=https://web.archive.org/web/20091228213032/http://www.fifa.com/mm/document/tournament/competition/64/42/24/fifawc2010matchschedulefinalversion.pdf |url-status=dead |archive-date=28 December 2009 |access-date=6 December 2009 }}</ref> The group consisted of [[Argentina national football team|Argentina]], [[Nigeria national football team|Nigeria]], [[South Korea national football team|South Korea]] and [[Greece national football team|Greece]]. It was the third time that Argentina and Nigeria had been drawn together in the same World Cup group, after [[1994 FIFA World Cup|1994]] (when Greece were also in the same group) and [[2002 FIFA World Cup|2002]]. Argentina had also been paired with South Korea in [[1986 FIFA World Cup|1986]].
+
+Argentina won all three of their matches, conceding just one goal, and progressed as group winners. South Korea joined them in the knockout stage by virtue of their victory over Greece in the opening match and a draw with Nigeria in the last. That point was the only one Nigeria won, having also lost to Greece in their second match.
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|section=standings
+|update=complete
+|source=[https://www.fifa.com/worldcup/archive/southafrica2010/groups/index.html FIFA]
+|teamwidth=200
+
+|team1=ARG
+|team2=KOR
+|team3=GRE
+|team4=NGR
+
+|result1=KO
+|result2=KO
+
+|class_rules=[[2010 FIFA World Cup#Group stage|Tie-breaking criteria]]
+
+|win_ARG=3 |draw_ARG=0 |loss_ARG=0 |gf_ARG=7 |ga_ARG=1
+|win_KOR=1 |draw_KOR=1 |loss_KOR=1 |gf_KOR=5 |ga_KOR=6
+|win_GRE=1 |draw_GRE=0 |loss_GRE=2 |gf_GRE=2 |ga_GRE=5
+|win_NGR=0 |draw_NGR=1 |loss_NGR=2 |gf_NGR=3 |ga_NGR=5
+
+|name_ARG={{fb|ARG}}
+|name_KOR={{fb|KOR|1997}}
+|name_GRE={{fb|GRE}}
+|name_NGR={{fb|NGR}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to {{nowrap|[[2010 FIFA World Cup#Knockout stage|knockout stage]]}}
+}}</onlyinclude>
+
+* Argentina advanced to play [[Mexico national football team|Mexico]] (runners-up of [[2010 FIFA World Cup Group A|Group A]]) in the [[2010 FIFA World Cup knockout stage#Argentina vs Mexico|round of 16]].
+* South Korea advanced to play [[Uruguay national football team|Uruguay]] (winners of [[2010 FIFA World Cup Group A|Group A]]) in the [[2010 FIFA World Cup knockout stage#Uruguay vs South Korea|round of 16]].
+
+==Matches==
+''All times local ([[UTC+02:00|UTC+2]])''
+
+===South Korea vs Greece===
+In the seventh minute, [[Ki Sung-yong]]'s free kick near the left corner was inadvertently flicked on by [[Kostas Katsouranis]], before [[Lee Jung-soo]] rushed to the back post to open the scoring.<ref name="news.bbc.co.uk">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_03/default.stm|title=South Korea 2-0 Greece}}</ref> The Koreans' lead was doubled through captain [[Park Ji-sung]], who tackled [[Loukas Vyntra]] and sprinted all the way to fire a low shot into the corner of the net<ref name="news.bbc.co.uk"/> as they kept their 2–0 win until the final whistle.
+
+<onlyinclude>{{#invoke:Football box|main|section=b1
+|date={{Start date|2010|6|12|df=y}}
+|time=13:30
+|team1={{fb-rt|KOR|1997}}
+|score={{score link|2010 FIFA World Cup Group B#South Korea vs Greece|2–0}}
+|team2={{fb|GRE}}
+|goals1=
+*[[Lee Jung-soo]] {{goal|7}}
+*[[Park Ji-sung]] {{goal|52}}
+|goals2=
+|stadium=[[Nelson Mandela Bay Stadium]], [[Port Elizabeth]]
+|attendance=31,513
+|referee=[[Michael Hester]] ([[New Zealand Football|New Zealand]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061459 |title=Korea Republic vs Greece {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061459/report.html |title=2010 FIFA World Cup South Africa – Matches – Korea Republic v Greece |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210103337/http://www.fifa.com/worldcup/matches/round=249722/match=300061459/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/3d2ba2670ffe79aa/original/mvwwq7ruskzyh7gc9lcd-pdf.pdf |title=Match Report – Group B – Korea Republic v Greece |publisher=[[FIFA]] |date=12 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055310/https://digitalhub.fifa.com/m/3d2ba2670ffe79aa/original/mvwwq7ruskzyh7gc9lcd-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _kor10h
+ |pattern_b  = _kor10h
+ |pattern_ra = _kor10h
+ |pattern_sh = _kor10h
+ |pattern_so = _kor1011h
+ |leftarm    = EE1111
+ |body       = EE1111
+ |rightarm   = EE1111
+ |shorts     = FFFFFF
+ |socks      = EE1111
+ |title      = South Korea<ref name="kor-gre_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7cef3781e35aadcc/original/kpgyinqu9iomd0xeg1ij-pdf.pdf |title=Tactical Line-up – Group B – Korea Republic v Greece |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=12 June 2010 |access-date=12 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522171934/https://digitalhub.fifa.com/m/7cef3781e35aadcc/original/kpgyinqu9iomd0xeg1ij-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _gre10a
+ |pattern_b  = _gre10a
+ |pattern_ra = _gre10a
+ |pattern_sh = _gre10a
+ |pattern_so = _3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Greece<ref name="kor-gre_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''18'''||[[Jung Sung-ryong]]
+|-
+|RB ||'''22'''||[[Cha Du-ri]]
+|-
+|CB ||'''4''' ||[[Cho Yong-hyung]]
+|-
+|CB ||'''14'''||[[Lee Jung-soo]]
+|-
+|LB ||'''12'''||[[Lee Young-pyo]]
+|-
+|RM ||'''17'''||[[Lee Chung-yong]] || || {{suboff|90+1}}
+|-
+|CM ||'''16'''||[[Ki Sung-yong]] || || {{suboff|74}}
+|-
+|CM ||'''8''' ||[[Kim Jung-woo]]
+|-
+|LM ||'''7''' ||[[Park Ji-sung]] ([[Captain (association football)|c]])
+|-
+|SS ||'''19'''||[[Yeom Ki-hun]]
+|-
+|CF ||'''10'''||[[Park Chu-young]] || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Kim Nam-il]] || || {{subon|74}}
+|-
+|FW ||'''11'''||[[Lee Seung-yeoul]] || || {{subon|87}}
+|-
+|MF ||'''13'''||[[Kim Jae-sung]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Huh Jung-moo]]
+|}
+|valign="top"|[[File:KOR-GRE 2010-06-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||[[Alexandros Tzorvas]]
+|-
+|RB ||'''15'''||[[Vasilis Torosidis]] || {{yel|56}}
+|-
+|CB ||'''8''' ||[[Avraam Papadopoulos]]
+|-
+|CB ||'''11'''||[[Loukas Vyntra]]
+|-
+|LB ||'''2''' ||[[Giourkas Seitaridis]]
+|-
+|RM ||'''7''' ||[[Georgios Samaras]] || || {{suboff|59}}
+|-
+|CM ||'''6''' ||[[Alexandros Tziolis]]
+|-
+|CM ||'''21'''||[[Kostas Katsouranis]]
+|-
+|LM ||'''10'''||[[Giorgos Karagounis]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CF ||'''9''' ||[[Angelos Charisteas]] || || {{suboff|61}}
+|-
+|CF ||'''17'''||[[Theofanis Gekas]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Christos Patsatzoglou]] || || {{subon|46}}
+|-
+|FW ||'''14'''||[[Dimitris Salpingidis]] || || {{subon|59}}
+|-
+|FW ||'''20'''||[[Pantelis Kapetanos]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Otto Rehhagel]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Park Ji-sung]] (South Korea)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf |title=2010 FIFA World Cup South Africa Match Appointments |date=24 June 2010 |work=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=25 June 2010 | archive-url= https://web.archive.org/web/20100705072219/http://www.fifa.com/mm/document/tournament/competition/01/25/49/47/referee_designagtions_48_matches.pdf| archive-date= 5 July 2010 | url-status= dead}}</ref>
+<br />Jan Hendrik Hintz ([[New Zealand Football|New Zealand]])
+<br />[[Tevita Makasini]] ([[Tonga Football Association|Tonga]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Martín Vázquez (referee)|Martín Vázquez]] ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Carlos Pastorino ([[Uruguayan Football Association|Uruguay]])
+|}
+
+===Argentina vs Nigeria===
+On six minutes, an unmarked [[Gabriel Heinze]] dived forward to head home [[Juan Sebastián Verón]]'s corner kick and put Argentina 1–0 up.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_04/default.stm |title=Argentina 1-0 Nigeria |first=Phil |last=Dawkes |publisher=BBC |access-date=28 August 2019 }}</ref> [[Lionel Messi]] had numerous chances for Argentina following that, but on each occasion, Nigerian goalkeeper [[Vincent Enyeama]] was able to keep the margin down to one.<ref name="theguardian.com">{{Cite web|url=https://www.theguardian.com/football/2010/jun/12/argentina-nigeria-world-cup-group-b|title=Argentina 1-0 Nigeria &#124; World Cup 2010 Group B|date=12 June 2010}}</ref> Enyeama's saves earned him the man of the match award. Post-match, Argentina coach [[Diego Maradona]] said he was confident his side would perform well in the future.<ref name="theguardian.com"/>
+
+<onlyinclude>{{#invoke:Football box|main|section=b2
+|date={{Start date|2010|6|12|df=y}}
+|time=16:00
+|team1={{fb-rt|ARG}}
+|score={{score link|2010 FIFA World Cup Group B#Argentina vs Nigeria|1–0}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Gabriel Heinze|Heinze]] {{goal|6}}
+|goals2=
+|stadium=[[Ellis Park Stadium]], [[Johannesburg]]
+|attendance=55,686
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061460 |title=Argentina vs Nigeria {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061460/report.html |title=2010 FIFA World Cup South Africa – Matches – Argentina v Nigeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210102558/http://www.fifa.com/worldcup/matches/round=249722/match=300061460/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/a301d81c3fac910/original/i0jybbpyec5ncwnenap0-pdf.pdf |title=Match Report – Group B – Argentina v Nigeria |publisher=[[FIFA]] |date=12 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055327/https://digitalhub.fifa.com/m/a301d81c3fac910/original/i0jybbpyec5ncwnenap0-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _arg10h1
+| pattern_b  = _arg10h1
+| pattern_ra = _arg10h1
+| pattern_sh = _arg10h1
+| pattern_so = _arg10a1
+| leftarm    = 80BFFF
+| body       = 80BFFF
+| rightarm   = 80BFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = Argentina<ref name="arg-nga_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/b70bf56144c9800/original/yttihucvxdnemin3daxs-pdf.pdf |title=Tactical Line-up – Group B – Argentina v Nigeria |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=12 June 2010 |access-date=12 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522171920/https://digitalhub.fifa.com/m/b70bf56144c9800/original/yttihucvxdnemin3daxs-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _nig10h
+ |pattern_b  = _nig10h
+ |pattern_ra = _nig10h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 008000
+ |title      = Nigeria<ref name="arg-nga_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Sergio Romero]]
+|-
+|RB ||'''17'''||[[Jonás Gutiérrez]] || {{yel|41}}
+|-
+|CB ||'''2''' ||[[Martín Demichelis]]
+|-
+|CB ||'''13'''||[[Walter Samuel]]
+|-
+|LB ||'''6''' ||[[Gabriel Heinze]]
+|-
+|DM ||'''14'''||[[Javier Mascherano]] ([[Captain (association football)|c]])
+|-
+|RM ||'''8''' ||[[Juan Sebastián Verón]] || || {{suboff|74}}
+|-
+|LM ||'''7''' ||[[Ángel Di María]] || || {{suboff|85}}
+|-
+|AM ||'''10'''||[[Lionel Messi]]
+|-
+|CF ||'''11'''||[[Carlos Tevez]]
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Maxi Rodríguez]]|| || {{subon|74}}
+|-
+|FW ||'''19'''||[[Diego Milito]] || || {{subon|79}}
+|-
+|DF ||'''4''' ||[[Nicolás Burdisso]] || ||{{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Diego Maradona]]
+|}
+|valign="top"|[[File:ARG-NGA 2010-06-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vincent Enyeama]]
+|-
+|RB ||'''17'''||[[Chidi Odiah]]
+|-
+|CB ||'''2''' ||[[Joseph Yobo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Danny Shittu]]
+|-
+|LB ||'''3''' ||[[Taye Taiwo]] || || {{suboff|75}}
+|-
+|CM ||'''14'''||[[Sani Kaita]]
+|-
+|CM ||'''20'''||[[Dickson Etuhu]]
+|-
+|CM ||'''15'''||[[Lukman Haruna]] || {{yel|77}}
+|-
+|RF ||'''19'''||[[Chinedu Obasi]] || || {{suboff|60}}
+|-
+|CF ||'''8''' ||[[Yakubu (footballer)|Yakubu]]
+|-
+|LF ||'''18'''||[[Victor Obinna]] || || {{suboff|52}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Obafemi Martins]] || || {{subon|52}}
+|-
+|FW ||'''11'''||[[Peter Odemwingie]] || ||{{subon|60}}
+|-
+|FW ||'''12'''||[[Kalu Uche]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SWE}} [[Lars Lagerbäck]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Vincent Enyeama]] (Nigeria)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Jan-Hendrik Salver  ([[German Football Association|Germany]])
+<br />Mike Pickel  ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Khalil Al Ghamdi]] ([[Saudi Arabia Football Federation|Saudi Arabia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])
+|}
+
+===Argentina vs South Korea===
+Argentina took the lead when [[Lionel Messi]]'s free kick from the left was turned into the Korean goal by Korean player [[Park Chu-young]].<ref name="ReferenceA">{{Cite web|url=https://www.theguardian.com/football/2010/jun/17/argentina-south-korea-world-cup-2010|title = Argentina 4-1 South Korea &#124; World Cup 2010 match report|date = 17 June 2010}}</ref> A free kick was awarded on the left, and Messi's cross was headed in by [[Gonzalo Higuaín]]. In first half injury time, Korea cut the deficit when [[Lee Chung-yong]] tackled [[Martín Demichelis]] to score.<ref name="ReferenceA"/> Two goals from Argentina in the second half sealed a 4–1 win. Messi's shot was first saved by goalkeeper [[Jung Sung-ryong]]; his second shot hit the post before Higuaín shot the ball into an unguarded net.<ref name="ReferenceB">{{Cite web|url=https://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_18/default.stm|title=Argentina 4-1 South Korea}}</ref> Higuaín completed his hat-trick by heading in a cross from substitute [[Sergio Agüero]].<ref name="ReferenceB"/>
+<onlyinclude>{{#invoke:Football box|main|section=b3
+|date={{Start date|2010|6|17|df=y}}
+|time=13:30
+|team1={{fb-rt|ARG}}
+|score={{score link|2010 FIFA World Cup Group B#Argentina vs South Korea|4–1}}
+|team2={{fb|KOR|1997}}
+|goals1=
+*[[Park Chu-young]] {{goal|17|o.g.}}
+*[[Gonzalo Higuaín|Higuaín]] {{goal|33||76||80}}
+|goals2=
+*[[Lee Chung-yong]] {{goal|45+1}}
+|stadium=[[Soccer City]], [[Johannesburg]]
+|attendance=82,174
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061458 |title=Argentina vs Korea Republic {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061458/report.html |title=2010 FIFA World Cup South Africa – Matches – Argentina v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210101707/http://www.fifa.com/worldcup/matches/round=249722/match=300061458/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/695fd1e115333988/original/px1eks1ou1lmvk5maeog-pdf.pdf |title=Match Report – Group B – Argentina v Korea Republic |publisher=[[FIFA]] |date=17 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055645/https://digitalhub.fifa.com/m/695fd1e115333988/original/px1eks1ou1lmvk5maeog-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _arg10h1
+| pattern_b  = _arg10h1
+| pattern_ra = _arg10h1
+| pattern_sh = _arg10h1
+| pattern_so = _arg10a1
+| leftarm    = 80BFFF
+| body       = 80BFFF
+| rightarm   = 80BFFF
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = Argentina<ref name="arg-kor_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/45e021122c0d0fd2/original/lfm4skxappm97slmneza-pdf.pdf |title=Tactical Line-up – Group B – Argentina v Korea Republic |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 June 2010 |access-date=17 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172217/https://digitalhub.fifa.com/m/45e021122c0d0fd2/original/lfm4skxappm97slmneza-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _kor10h
+ |pattern_b  = _kor10h
+ |pattern_ra = _kor10h
+ |pattern_sh = _kor10h
+ |pattern_so = _kor1011h
+ |leftarm    = EE1111
+ |body       = EE1111
+ |rightarm   = EE1111
+ |shorts     = FFFFFF
+ |socks      = EE1111
+ |title      = South Korea<ref name="arg-kor_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Sergio Romero]]
+|-
+|RB ||'''17'''||[[Jonás Gutiérrez]] || {{yel|54}}
+|-
+|CB ||'''2''' ||[[Martín Demichelis]]
+|-
+|CB ||'''13'''||[[Walter Samuel]] || || {{suboff|23}}
+|-
+|LB ||'''6''' ||[[Gabriel Heinze]] || {{yel|74}}
+|-
+|DM ||'''14'''||[[Javier Mascherano]] ([[Captain (association football)|c]]) || {{yel|55}}
+|-
+|RM ||'''20'''||[[Maxi Rodríguez]]
+|-
+|LM ||'''7''' ||[[Ángel Di María]]
+|-
+|AM ||'''10'''||[[Lionel Messi]]
+|-
+|CF ||'''9''' ||[[Gonzalo Higuaín]] || || {{suboff|82}}
+|-
+|CF ||'''11'''||[[Carlos Tevez]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Nicolás Burdisso]] || || {{subon|23}}
+|-
+|FW ||'''16'''||[[Sergio Agüero]] || || {{subon|75}}
+|-
+|MF ||'''5''' ||[[Mario Bolatti]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Diego Maradona]]
+|}
+|valign="top"|[[File:ARG-KOR 2010-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||[[Jung Sung-ryong]]
+|-
+|RB ||'''2''' ||[[Oh Beom-seok]]
+|-
+|CB ||'''4''' ||[[Cho Yong-hyung]]
+|-
+|CB ||'''14'''||[[Lee Jung-soo]]
+|-
+|LB ||'''12'''||[[Lee Young-pyo]]
+|-
+|CM ||'''16'''||[[Ki Sung-yong]] || || {{suboff|46}}
+|-
+|CM ||'''8''' ||[[Kim Jung-woo]]
+|-
+|RW ||'''17'''||[[Lee Chung-yong]] || {{yel|34}}
+|-
+|AM ||'''7''' ||[[Park Ji-sung]] ([[Captain (association football)|c]])
+|-
+|LW ||'''19'''||[[Yeom Ki-hun]] || {{yel|10}}
+|-
+|CF ||'''10'''||[[Park Chu-young]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Kim Nam-il]] || || {{subon|46}}
+|-
+|FW ||'''20'''||[[Lee Dong-gook]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Huh Jung-moo]]
+|}
+|}
+[[File:FIFA World Cup 2010 Argentina South Korea3.jpg|thumb|Argentina vs South Korea]]
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Gonzalo Higuaín]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])
+<br />Walter Vromans ([[Royal Belgian Football Association|Belgium]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jerome Damon]] ([[South African Football Association|South Africa]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Céléstin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+|}
+
+===Greece vs Nigeria===
+Nigeria had the majority of possession in the first half hour and took an early lead when [[Kalu Uche]] scored from a free kick. The momentum of the game shifted significantly in favour of Greece when [[Sani Kaita]] was sent off for kicking towards [[Vasilis Torosidis]] when the pair were contesting for the ball.<ref name="BBCGreeceNigeria">{{Cite web |website=BBC Sport| last=Fletcher |first=Paul |date=2010 |title=Greece 2-1 Nigeria |url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_19/default.stm}}</ref>
+
+With the extra man advantage, Greece pushed for an opening goal, and [[Georgios Samaras]] had an impressive first-half strike cleared off the line by [[Lukman Haruna]] before [[Dimitris Salpingidis]] made it 1–1 with a strike outside the penalty box that deflected into the Nigeria goal.<ref name="ABCGreeceNigeria">{{Cite web |website=ABC News| last=Maasdorp |first=James |date=18 Jun 2010 |title=Greece secures historic Cup win |url=https://www.abc.net.au/news/2010-06-18/greece-secures-historic-cup-win/871266}}</ref>
+
+In the second half, Nigeria goalkeeper [[Vincent Enyeama]] could only parry a shot from [[Alexandros Tziolis]] into the path of Torosidis, who scored the second goal for Greece from the rebound.<ref name="ABCGreeceNigeria"/>
+
+The victory for Greece was their first ever win at the World Cup.<ref name="ABCGreeceNigeria"/> Kaita received death threats after the match from Nigeria supporters for his dismissal from the game.<ref >{{Cite web |website=Independent| last=Musa |first=Tansa |date=21 June 2010 |title=Kaita's red card brings thousand death threats from Nigeria fans |url=https://www.independent.co.uk/sport/football/international/kaita-s-red-card-brings-thousand-death-threats-from-nigeria-fans-2006143.html}}</ref>
+<onlyinclude>{{#invoke:Football box|main|section=b4
+|date={{Start date|2010|6|17|df=y}}
+|time=16:00
+|team1={{fb-rt|GRE}}
+|score={{score link|2010 FIFA World Cup Group B#Greece vs Nigeria|2–1}}
+|team2={{fb|NGA}}
+|goals1=
+*[[Dimitris Salpingidis|Salpingidis]] {{goal|44}}
+*[[Vasilis Torosidis|Torosidis]] {{goal|71}}
+|goals2=
+*[[Kalu Uche|Uche]] {{goal|16}}
+|stadium=[[Free State Stadium]], [[Bloemfontein]]
+|attendance=31,593
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061457 |title=Greece vs Nigeria {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061457/report.html |title=2010 FIFA World Cup South Africa – Matches – Greece v Nigeria |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210095838/http://www.fifa.com/worldcup/matches/round=249722/match=300061457/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/4d39ed278e92c213/original/robjb2ircddzbguy1rel-pdf.pdf |title=Match Report – Group B – Greece v Nigeria |publisher=[[FIFA]] |date=17 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413055659/https://digitalhub.fifa.com/m/4d39ed278e92c213/original/robjb2ircddzbguy1rel-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _gre10h
+ |pattern_b  = _gre10h
+ |pattern_ra = _gre10h
+ |pattern_sh = _gre10h
+ |pattern_so = _color_3_stripes_blue
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Greece<ref name="gre-nga_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/6aaf035428e4d7c9/original/kekyhhxxb6tqtqf1oekh-pdf.pdf |title=Tactical Line-up – Group B – Greece v Nigeria |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 June 2010 |access-date=17 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172203/https://digitalhub.fifa.com/m/6aaf035428e4d7c9/original/kekyhhxxb6tqtqf1oekh-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _nig10h
+ |pattern_b  = _nig10h
+ |pattern_ra = _nig10h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 008000
+ |title      = Nigeria<ref name="gre-nga_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Alexandros Tzorvas]]
+|-
+|RB ||'''16'''||[[Sotirios Kyrgiakos]]
+|-
+|CB ||'''11'''||[[Loukas Vyntra]]
+|-
+|CB ||'''8''' ||[[Avraam Papadopoulos]]
+|-
+|LB ||'''15'''||[[Vasilis Torosidis]]
+|-
+|DM ||'''19'''||[[Sokratis Papastathopoulos]] || {{yel|15}} || {{suboff|37}}
+|-
+|CM ||'''6''' ||[[Alexandros Tziolis]] || {{yel|59}}
+|-
+|CM ||'''21'''||[[Kostas Katsouranis]]
+|-
+|RW ||'''10'''||[[Giorgos Karagounis]] ([[Captain (association football)|c]])
+|-
+|LW ||'''14'''||[[Dimitris Salpingidis]]
+|-
+|CF ||'''17'''||[[Theofanis Gekas]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Georgios Samaras]] || {{yel|88}} || {{subon|37}}
+|-
+|MF ||'''18'''||[[Sotiris Ninis]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Otto Rehhagel]]
+|}
+|valign="top"|[[File:GRE-NGA 2010-06-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Vincent Enyeama]]
+|-
+|RB ||'''17'''||[[Chidi Odiah]]
+|-
+|CB ||'''2''' ||[[Joseph Yobo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||[[Danny Shittu]]
+|-
+|LB ||'''3''' ||[[Taye Taiwo]] || || {{suboff|55}}
+|-
+|RM ||'''14'''||[[Sani Kaita]] || {{sent off|0|33}}
+|-
+|CM ||'''20'''||[[Dickson Etuhu]]
+|-
+|CM ||'''15'''||[[Lukman Haruna]]
+|-
+|LW ||'''12'''||[[Kalu Uche]]
+|-
+|SS ||'''11'''||[[Peter Odemwingie]] || || {{suboff|46}}
+|-
+|CF ||'''8''' ||[[Yakubu (footballer)|Yakubu]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Chinedu Obasi]] || {{yel|89}} || {{subon|46}}
+|-
+|DF ||'''21'''||[[Elderson Echiéjilé]] || || {{subon|55}} || {{suboff|77}}
+|-
+|DF ||'''5''' ||[[Rabiu Afolabi]] || || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SWE}} [[Lars Lagerbäck]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Vincent Enyeama]] (Nigeria)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Abraham González ([[Colombian Football Federation|Colombia]])
+<br />Humberto Clavijo ([[Colombian Football Federation|Colombia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Association|El Salvador]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />William Torres ([[Salvadoran Football Association|El Salvador]])
+|}
+
+===Nigeria vs South Korea===
+<onlyinclude>{{#invoke:Football box|main|section=b5
+|date={{Start date|2010|6|22|df=y}}
+|time=20:30
+|team1={{fb-rt|NGA}}
+|score={{score link|2010 FIFA World Cup Group B#Nigeria vs South Korea|2–2}}
+|team2={{fb|KOR|1997}}
+|goals1=
+*[[Kalu Uche|Uche]] {{goal|12}}
+*[[Yakubu (footballer)|Yakubu]] {{goal|69|pen.}}
+|goals2=
+*[[Lee Jung-soo]] {{goal|38}}
+*[[Park Chu-young]] {{goal|49}}
+|stadium=[[Moses Mabhida Stadium]], [[Durban]]
+|attendance=61,874
+|referee=[[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300111115 |title=Nigeria vs Korea Republic {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300111115/report.html |title=2010 FIFA World Cup South Africa – Matches – Nigeria v Korea Republic |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170210103501/http://www.fifa.com/worldcup/matches/round=249722/match=300111115/report.html |archive-date=10 February 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/5133a1ee7e044949/original/lf0dykpg2c3u26bfgss1-pdf.pdf |title=Match Report – Group B – Nigeria v Korea Republic |publisher=[[FIFA]] |date=22 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060119/https://digitalhub.fifa.com/m/5133a1ee7e044949/original/lf0dykpg2c3u26bfgss1-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _nig10h
+ |pattern_b  = _nig10h
+ |pattern_ra = _nig10h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 008000
+ |body       = 008000
+ |rightarm   = 008000
+ |shorts     = 008000
+ |socks      = 008000
+ |title      = Nigeria<ref name="nga-kor_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/7070fa4b8af0d200/original/kmpe5aidjgddrchxzvxy-pdf.pdf |title=Tactical Line-up – Group B – Nigeria v Korea Republic |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 June 2010 |access-date=22 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172520/https://digitalhub.fifa.com/m/7070fa4b8af0d200/original/kmpe5aidjgddrchxzvxy-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _kor10a
+ |pattern_b  = _kor10a
+ |pattern_ra = _kor10a
+ |pattern_sh = _kor10a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = South Korea<ref name="nga-kor_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Vincent Enyeama]] || {{yel|31}}
+|-
+|RB ||'''17'''||[[Chidi Odiah]]
+|-
+|CB ||'''2''' ||[[Joseph Yobo]] || || {{suboff|46}}
+|-
+|CB ||'''6''' ||[[Danny Shittu]]
+|-
+|LB ||'''5''' ||[[Rabiu Afolabi]]
+|-
+|CM ||'''13'''||[[Ayila Yussuf]] || {{yel|42}}
+|-
+|CM ||'''20'''||[[Dickson Etuhu]]
+|-
+|RW ||'''19'''||[[Chinedu Obasi]] || {{yel|37}}
+|-
+|AM ||'''4''' ||[[Nwankwo Kanu]] ([[Captain (association football)|c]]) || || {{suboff|57}}
+|-
+|LW ||'''12'''||[[Kalu Uche]]
+|-
+|CF ||'''8''' ||[[Yakubu (footballer)|Yakubu]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''21'''||[[Elderson Echiéjilé]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Obafemi Martins]] || || {{subon|57}}
+|-
+|FW ||'''18'''||[[Victor Obinna]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|SWE}} [[Lars Lagerbäck]]
+|}
+|valign="top"|[[File:NGA-KOR 2010-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||[[Jung Sung-ryong]]
+|-
+|RB ||'''22'''||[[Cha Du-ri]]
+|-
+|CB ||'''4''' ||[[Cho Yong-hyung]]
+|-
+|CB ||'''14'''||[[Lee Jung-soo]]
+|-
+|LB ||'''12'''||[[Lee Young-pyo]]
+|-
+|RM ||'''17'''||[[Lee Chung-yong]]
+|-
+|CM ||'''16'''||[[Ki Sung-yong]] || || {{suboff|87}}
+|-
+|CM ||'''8''' ||[[Kim Jung-woo]]
+|-
+|LM ||'''7''' ||[[Park Ji-sung]] ([[Captain (association football)|c]])
+|-
+|SS ||'''19'''||[[Yeom Ki-hun]] || || {{suboff|64}}
+|-
+|CF ||'''10'''||[[Park Chu-young]] || || {{suboff|90+3}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Kim Nam-il]] || {{yel|68}}  || {{subon|64}}
+|-
+|MF ||'''13'''||[[Kim Jae-sung]] ||  || {{subon|87}}
+|-
+|DF ||'''15'''||[[Kim Dong-jin]] ||  || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Huh Jung-moo]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Park Ji-sung]] (South Korea)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />José Cardinal ([[Portuguese Football Federation|Portugal]])
+<br />Bertino Miranda ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Marco Antonio Rodríguez]] ([[Mexico Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />José Luis Camargo ([[Mexico Football Federation|Mexico]])
+|}
+
+===Greece vs Argentina===
+Greece approached the game defensively and let Argentina have the majority of possession, limiting them to mostly long-range shots. Greece goalkeeper [[Alexandros Tzorvas]] kept the first-half goalless with a sequence of saves, denying strikes from [[Sergio Aguero]], [[Lionel Messi]] and [[Juan Sebastián Verón]].<ref >{{Cite web |website=ABC News| last=Maasdorp |first=James |date=23 Jun 2010 |title=Dominant Argentina sends Greece packing |url=https://www.abc.net.au/news/2010-06-23/dominant-argentina-sends-greece-packing/877186}}</ref>
+
+Early in the second half, Greece started to push forward, and [[Georgios Samaras]] ran on to a long clearance, but his shot was blocked by [[Nicolás Burdisso]], and his follow up effort went wide.<ref name="UEFAGreeceNigeria">{{Cite web |website=UEFA|date=22 Jun 2010 |title=Argentina snuff out Greece hopes |url=https://es.uefa.com/european-qualifiers/news/0254-0d7c9aacc0d9-26de7ecef9b9-1000--argentina-snuff-out-greece-hopes/}}</ref>
+
+Argentina eventually got the breakthrough on 77 minutes when [[Martín Demichelis]] smashed the ball into the roof of the net from a blocked shot. [[Martín Palermo]] then scored just before stoppage time after a run from Messi.<ref name="UEFAGreeceNigeria"/>
+<onlyinclude>{{#invoke:Football box|main|section=b6
+|date={{Start date|2010|6|22|df=y}}
+|time=20:30
+|team1={{fb-rt|GRE}}
+|score={{score link|2010 FIFA World Cup Group B#Greece vs Argentina|0–2}}
+|team2={{fb|ARG}}
+|goals1=
+|goals2=
+*[[Martín Demichelis|Demichelis]] {{goal|77}}
+*[[Martín Palermo|Palermo]] {{goal|89}}
+|stadium=[[Peter Mokaba Stadium]], [[Polokwane]]
+|attendance=38,891
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report=<ref group="Report">{{multiref | {{cite web |url=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061455 |title=Greece vs Argentina {{!}} First stage {{!}} 2010 FIFA World Cup South Africa |publisher=[[FIFA]] |access-date=1 May 2026}} | {{cite web |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061455/report.html |title=2010 FIFA World Cup South Africa – Matches – Greece v Argentina |publisher=[[FIFA]] |access-date=1 May 2026 |url-status=dead |archive-url=https://web.archive.org/web/20170705113115/http://www.fifa.com/worldcup/matches/round=249722/match=300061455/report.html |archive-date=5 July 2017}} | {{cite web |url=https://digitalhub.fifa.com/m/7a832ab63bd8d644/original/cb9h83mhjk8pyjbljw62-pdf.pdf |title=Match Report – Group B – Greece v Argentina |publisher=[[FIFA]] |date=22 June 2010 |access-date=1 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260413060133/https://digitalhub.fifa.com/m/7a832ab63bd8d644/original/cb9h83mhjk8pyjbljw62-pdf.pdf |archive-date=13 April 2026}} }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _gre10h
+ |pattern_b  = _gre10h
+ |pattern_ra = _gre10h
+ |pattern_sh = _gre10h
+ |pattern_so = _color_3_stripes_blue
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Greece<ref name="gre-arg_line-ups">{{cite web |url=https://digitalhub.fifa.com/m/cba618fee513b37/original/q5a7jmso69zdrh7guact-pdf.pdf |title=Tactical Line-up – Group B – Greece v Argentina |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 June 2010 |access-date=22 June 2010 |url-status=live |archive-url=https://web.archive.org/web/20260522172534/https://digitalhub.fifa.com/m/cba618fee513b37/original/q5a7jmso69zdrh7guact-pdf.pdf |archive-date=22 May 2026}}</ref>
+}}
+|{{Football kit
+| pattern_la = _arg10a1
+| pattern_b  = _arg10a1
+| pattern_ra = _arg10a1
+| pattern_sh = _arg10a2
+| pattern_so = _arg10a2
+| leftarm    = 0000C0
+| body       = 0000C0
+| rightarm   = 0000C0
+| shorts     = 0000C0
+| socks      = 0000C0
+| title      = Argentina<ref name="gre-arg_line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Alexandros Tzorvas]]
+|-
+|RB ||'''16'''||[[Sotirios Kyrgiakos]]
+|-
+|CB ||'''11'''||[[Loukas Vyntra]]
+|-
+|CB ||'''8''' ||[[Avraam Papadopoulos]]
+|-
+|LB ||'''15'''||[[Vasilis Torosidis]] || || {{suboff|55}}
+|-
+|DM ||'''5''' ||[[Vangelis Moras]]
+|-
+|CM ||'''19'''||[[Sokratis Papastathopoulos]]
+|-
+|CM ||'''10'''||[[Giorgos Karagounis]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|RW ||'''6''' ||[[Alexandros Tziolis]]
+|-
+|LW ||'''21'''||[[Kostas Katsouranis]] || {{yel|30}} || {{suboff|54}}
+|-
+|CF ||'''7''' ||[[Georgios Samaras]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Nikos Spiropoulos]] || || {{subon|46}}
+|-
+|MF ||'''18'''||[[Sotiris Ninis]] || || {{subon|54}}
+|-
+|MF ||'''3''' ||[[Christos Patsatzoglou]] || || {{subon|55}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Otto Rehhagel]]
+|}
+|valign="top"|[[File:GRE-ARG 2010-06-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Sergio Romero]]
+|-
+|RB ||'''4''' ||[[Nicolás Burdisso]]
+|-
+|CB ||'''2''' ||[[Martín Demichelis]]
+|-
+|CB ||'''15'''||[[Nicolás Otamendi]]
+|-
+|LB ||'''3''' ||[[Clemente Rodríguez]]
+|-
+|DM ||'''5''' ||[[Mario Bolatti]] || {{yel|76}}
+|-
+|RM ||'''8''' ||[[Juan Sebastián Verón]]
+|-
+|LM ||'''20'''||[[Maxi Rodríguez]] || || {{suboff|63}}
+|-
+|AM ||'''10'''||[[Lionel Messi]] ([[Captain (association football)|c]])
+|-
+|CF ||'''16'''||[[Sergio Agüero]] || || {{suboff|77}}
+|-
+|CF ||'''19'''||[[Diego Milito]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Ángel Di María]] || || {{subon|63}}
+|-
+|MF ||'''23'''||[[Javier Pastore]] || || {{subon|77}}
+|-
+|FW ||'''18'''||[[Martín Palermo]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|[[Diego Maradona]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Lionel Messi]] (Argentina)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Rafael Ilyasov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />Bakhadyr Kochkarov ([[Football Federation of Kyrgyz Republic|Kyrgyzstan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Matthew Taro ([[Solomon Islands Football Federation|Solomon Islands]])
+|}
+
+==See also==
+*[[Argentina at the FIFA World Cup]]
+*[[Greece at the FIFA World Cup]]
+*[[Nigeria at the FIFA World Cup]]
+*[[South Korea at the FIFA World Cup]]
+
+==References==
+{{reflist}}
+
+===Reports===
+{{reflist|group=Report}}
+
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:Group B}}
+[[Category:2010 FIFA World Cup group stage|B]]
+[[Category:Argentina at the 2010 FIFA World Cup|Group]]
+[[Category:South Korea at the 2010 FIFA World Cup]]
+[[Category:Greece at the 2010 FIFA World Cup]]
+[[Category:Nigeria at the 2010 FIFA World Cup|Group]]
+[[Category:Sports competitions in Gqeberha]]
+[[Category:Sports competitions in Johannesburg]]
+[[Category:2010s in Johannesburg]]
+[[Category:Sport in Bloemfontein]]
+[[Category:Sports competitions in the Free State (province)]]
+[[Category:Sports competitions in Durban]]
+[[Category:Sport in Polokwane]]
+[[Category:Sport in Limpopo]]
