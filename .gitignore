@@ -5,3 +5,8 @@ venv/
 .DS_Store
 .streamlit/secrets.toml
 .claude/
+
+# Stray browser download that landed in this folder — a saved Facebook page, nothing to do with the
+# project. Ignored so a `git add -A` can never publish it: this repo is PUBLIC, and a saved social
+# page can carry personal session content. Safe to move out or delete.
+download.html

@@ -472,6 +472,16 @@ if "b" in st.query_params and not st.session_state.get("wcp_param_loaded"):
         st.session_state.wcp_manual = set(dec[1])      # a loaded bracket's picks are all "given"
     st.session_state.wcp_param_loaded = True
 
+# A shared ?r=<code> link loads that REPLAY bracket once (then it can be edited like your own).
+st.session_state.setdefault("rp_picks", {})
+st.session_state.setdefault("rp_reveal", set())
+if "r" in st.query_params and not st.session_state.get("rp_param_loaded"):
+    _dec = wcrp.decode(st.query_params["r"])
+    if _dec:
+        st.session_state.rp_picks[_dec[0]] = _dec[1]
+        st.session_state["rp_year"] = _dec[0]          # jump the picker to that edition
+    st.session_state.rp_param_loaded = True
+
 st.markdown(WC_POLISH_CSS, unsafe_allow_html=True)
 
 # No champion badge and no "who won 2026" line: this site is about all 23 tournaments, and singling
@@ -1344,6 +1354,7 @@ def _rp_reveal(year):
 
 st.session_state.setdefault("rp_picks", {})       # {year: {mid: team}} — kept per edition
 st.session_state.setdefault("rp_reveal", set())   # editions whose score is currently shown
+st.session_state.setdefault("rp_pool", [])        # friends' brackets for the leaderboard
 
 with t_replay:
     st.markdown(WCRP_CSS, unsafe_allow_html=True)
@@ -1442,6 +1453,60 @@ with t_replay:
                               f"<span>{_m['away']}</span></div>"
                               f"<span class='st'>{'you: ' + _mine if _mine else ''}</span></div>")
                 st.markdown(_rows, unsafe_allow_html=True)
+
+    # ── Share & compare ───────────────────────────────────────────────────────────────────────────
+    # Scores stay hidden until you reveal, so the pool lists loaded brackets by name first and only
+    # ranks them afterwards — otherwise a friend's total would leak how well the favourites did.
+    ui.section("🔗 Share & compare", "send your bracket as a code, paste in a friend's, then rank them")
+    _code = wcrp.encode(year, picks)
+    _sc1, _sc2 = st.columns([1, 1], gap="medium")
+    with _sc1:
+        st.markdown(f"**📋 Your {year} code**")
+        st.code(_code, language=None)
+        st.caption("One bit per tie, so it stays short and can only ever describe teams that really "
+                   "were in this bracket. Append `?r=<code>` to the site URL to share a link.")
+    with _sc2:
+        st.markdown("**➕ Add a friend's bracket**")
+        _fn = st.text_input("Their name", key="rp_fname", placeholder="Sebastián")
+        _fc = st.text_input("Their code", key="rp_fcode", placeholder="RP1.1986.…")
+        _b1, _b2 = st.columns(2)
+        if _b1.button("Add", key="rp_add", width="stretch", disabled=not _fc.strip()):
+            _dec = wcrp.decode(_fc)
+            if not _dec:
+                st.error("That code isn't valid.")
+            elif _dec[0] != year:
+                st.warning(f"That code is for **{_dec[0]}**, not {year}. Switch edition to compare it.")
+            else:
+                _nm = _fn.strip() or f"Bracket {len(st.session_state.rp_pool) + 2}"
+                st.session_state.rp_pool.append({"name": _nm, "year": _dec[0], "picks": _dec[1]})
+        if st.session_state.rp_pool and _b2.button("Clear pool", key="rp_clearpool", width="stretch"):
+            st.session_state.rp_pool = []
+
+    _pool = [e for e in st.session_state.rp_pool if e["year"] == year]
+    if _pool:
+        if year in st.session_state.rp_reveal:
+            _board = [{"name": "You", "picks": picks}] + [
+                {"name": e["name"], "picks": e["picks"]} for e in _pool]
+            for _e in _board:
+                _s = wcrp.score(year, _e["picks"])
+                _e["total"], _e["pct"], _e["champ"] = _s["total"], _s["pct"], _s["champion"]
+                _e["ok"] = _s["champion_correct"]
+            _board.sort(key=lambda e: -e["total"])
+            _rows2 = ""
+            for _i, _e in enumerate(_board, 1):
+                _me = " gold" if _e["name"] == "You" else ""
+                _ch = (f"<span class='nt'>{_e['champ']}{' ✓' if _e['ok'] else ''}</span>"
+                       if _e["champ"] else "<span class='nt'>no champion picked</span>")
+                _rows2 += (f"<div class='pl-row{_me}'><span class='rk'>{_i}</span>"
+                           f"<span class='nm'>{_e['name']}</span>{_ch}"
+                           f"<span class='ed'>{_e['pct']}%</span>"
+                           f"<span class='gl'>{_e['total']}</span></div>")
+            st.markdown(_rows2, unsafe_allow_html=True)
+        else:
+            st.markdown("\n".join(f"- **{e['name']}** — bracket loaded"
+                                   for e in _pool))
+            st.caption("Ranked once you reveal your own score, so a friend's total can't tip you off.")
+
 
 # ── 👤 Players ─────────────────────────────────────────────────────────────────────────────────────
 # The goal and squad archives (3,028 goals · 12,213 squad places, 1930–2026) surfaced three ways:

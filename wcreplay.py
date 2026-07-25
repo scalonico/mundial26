@@ -235,3 +235,74 @@ def score(year, picks):
 
 def flag(team, w=40):
     return wch.flag_url(team, w)
+
+
+# ── Share codes ───────────────────────────────────────────────────────────────────────────────────
+# A code carries ONE BIT PER TIE in canonical bracket order saying which SIDE was picked, plus a mask
+# of which ties are decided so a half-finished bracket survives the round trip. Encoding the side
+# rather than the team makes codes short (2026's 31 ties fit in two base-36 words) and self-validating:
+# a code can only ever produce teams that really are in that edition's bracket, so a corrupted or
+# hand-edited one degrades into a different bracket instead of inventing fixtures.
+_CODE_PREFIX = "RP1"
+_B36 = "0123456789abcdefghijklmnopqrstuvwxyz"
+
+
+def _b36(n):
+    if not n:
+        return "0"
+    out = ""
+    while n:
+        n, r = divmod(n, 36)
+        out = _B36[r] + out
+    return out
+
+
+def _walk(year, mask=None, val=None, picks=None):
+    """Single forward pass over the tree, used by BOTH encode and decode.
+
+    It has to be a forward pass either way: which teams are in a later tie depends on the earlier
+    picks, so the bits cannot be read or written independently of the ones before them.
+    """
+    rds = bracket(year)
+    decided, out_picks, i = {}, {}, 0
+    m_out = v_out = 0
+    for ri, rd in enumerate(rds):
+        for m in rd["matches"]:
+            if ri == 0:
+                ph, pa = m["home"], m["away"]
+            else:
+                f1, f2 = m["feeders"]
+                ph = decided.get(f1) if f1 else m["home"]
+                pa = decided.get(f2) if f2 else m["away"]
+            if mask is None:                                    # ENCODE from `picks`
+                p = (picks or {}).get(m["mid"])
+                if p and p in (ph, pa):
+                    m_out |= 1 << i
+                    if p == pa:
+                        v_out |= 1 << i
+                    decided[m["mid"]] = p
+            elif mask >> i & 1:                                 # DECODE into picks
+                side = pa if (val >> i & 1) else ph
+                if side:
+                    out_picks[m["mid"]] = decided[m["mid"]] = side
+            i += 1
+    return (m_out, v_out) if mask is None else out_picks
+
+
+def encode(year, picks):
+    m, v = _walk(year, picks=picks)
+    return f"{_CODE_PREFIX}.{year}.{_b36(m)}.{_b36(v)}"
+
+
+def decode(code):
+    """Inverse of encode → (year, picks); None if malformed or for an edition we can't replay."""
+    try:
+        parts = (code or "").strip().split(".")
+        if len(parts) != 4 or parts[0].upper() != _CODE_PREFIX:
+            return None
+        year, mask, val = int(parts[1]), int(parts[2], 36), int(parts[3], 36)
+    except (ValueError, AttributeError):
+        return None
+    if year not in [y for y, _n, _l in replayable()]:
+        return None
+    return year, _walk(year, mask=mask, val=val)
