@@ -1,0 +1,15 @@
+# Streamlit's BASE theme. Without this the base theme is light, so every native widget — buttons,
+# selectboxes, sliders, dataframes and the Plotly chart containers — rendered white against the dark
+# navy this app paints by hand in CSS. The hand-written styling has always assumed a dark surface
+# (see WC_POLISH_CSS et al.), so this simply tells Streamlit the same thing instead of fighting each
+# widget individually.
+#
+# Colours are taken from the values already used throughout streamlit_app.py:
+#   primaryColor            = SKY, the accent used for active tabs and chart bars
+#   secondaryBackgroundColor = the #16223b card colour every panel gradient ends on
+[theme]
+base = "dark"
+primaryColor = "#6CACE4"
+backgroundColor = "#0d1728"
+secondaryBackgroundColor = "#16223b"
+textColor = "#eaf1fb"
