@@ -454,9 +454,18 @@ def nation_squad_players(nation, limit=None):
 # the Golden Boot only became an award in 1982 (earlier top scorers were recognised retroactively), and
 # in some years its tie-breaks used assists and minutes that this repo has no data for.
 AWARD_ORDER = ["Golden Ball", "Golden Boot", "Golden Glove", "Best Young Player",
-               "Fair Play Trophy", "Most Entertaining Team"]
+               "Best player", "Fair Play Trophy", "Most Entertaining Team"]
 AWARD_ICON = {"Golden Ball": "🏅", "Golden Boot": "👟", "Golden Glove": "🧤",
-              "Best Young Player": "🐣", "Fair Play Trophy": "🤝", "Most Entertaining Team": "🎉"}
+              "Best Young Player": "🐣", "Best player": "🗳️", "Fair Play Trophy": "🤝",
+              "Most Entertaining Team": "🎉"}
+# 1978 has no official Golden Ball (it began in 1982); its article records the journalists' vote that
+# FIFA recognises instead. Shown, but labelled so it can't be mistaken for the official award.
+AWARD_NOTE = {"Best player": "unofficial — journalists' vote, 1978 had no Golden Ball"}
+
+# A couple of editions pass a non-FIFA abbreviation to the flag template ({{fbicon|HOL}} in 2010), so
+# it never resolves through the squad-derived code map. "Soviet Union" needs no entry: it arrives as a
+# full nation name already, which is what we want to display.
+_AWARD_NATION = {"HOL": "Netherlands", "SPA": "Spain", "GER": "Germany"}
 
 
 @lru_cache(maxsize=1)
@@ -466,7 +475,8 @@ def awards():
     df["year"] = df["year"].astype(int)
     df["rank"] = pd.to_numeric(df["rank"], errors="coerce").fillna(1).astype(int)
     df["is_team"] = _bool(df["is_team"])
-    df["nation_name"] = df["nation"].map(lambda c: nations().get(c, c))
+    df["nation_name"] = df["nation"].map(
+        lambda c: _AWARD_NATION.get(c) or nations().get(c, c))
     return df
 
 

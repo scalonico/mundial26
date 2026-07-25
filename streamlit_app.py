@@ -1674,15 +1674,17 @@ with t_players:
     st.markdown("<div class='pl-note'>Distinct from the leading-scorer roll above, which is computed "
                 "from the goals. The <b>Golden Ball</b> dates from 1982, the <b>Golden Glove</b> from "
                 "1994, and the <b>Golden Boot</b> only became an award in 1982 — earlier top scorers "
-                "were recognised retroactively, so the pre-1982 tournaments carry few awards or none."
-                "</div>", unsafe_allow_html=True)
+                "were recognised retroactively, so the pre-1982 tournaments carry few awards or none. "
+                "1978's entry is the <b>journalists' vote</b> FIFA recognises in place of a Golden "
+                "Ball, marked 🗳️ and not an official award.</div>", unsafe_allow_html=True)
     _acards = ""
     for _y in reversed(wpl.award_years()):
         _lines = ""
         for _a in wpl.edition_awards(_y).itertuples():
             _who = _a.nation_name if _a.is_team else _a.player_display
             _nat = "" if _a.is_team else f"<span class='nat'>{_a.nation_name}</span>"
-            _lines += (f"<div class='aw-line'><span class='ic'>"
+            _ttl = wpl.AWARD_NOTE.get(_a.award, _a.award)
+            _lines += (f"<div class='aw-line' title='{_ttl}'><span class='ic'>"
                        f"{wpl.AWARD_ICON.get(_a.award, '🏅')}</span>"
                        f"<span class='who'>{_who}</span>{_nat}</div>")
         _acards += f"<div class='aw-card'><div class='yr'>{_y}</div>{_lines}</div>"
