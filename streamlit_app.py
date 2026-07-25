@@ -23,6 +23,7 @@ import streamlit as st
 import ui
 import wc2026 as wc
 import wchistory as wch
+import wcreplay as wcrp
 
 st.set_page_config(page_title="Mundial · Every World Cup, 1930–2026", page_icon="🏆", layout="wide")
 
@@ -321,13 +322,8 @@ WC_POLISH_CSS = """<style>
 .wch-sub b { color:#fff; }
 .wch-sub img { vertical-align:-2px; border-radius:2px; margin:0 1px; }
 .wch-dates { color:#9fb2cc; font-size:.9rem; font-weight:600; margin-top:.34rem; }
-.wch-count { flex:0 0 auto; text-align:center; padding:11px 20px; border-radius:14px;
-    background:linear-gradient(160deg,#3a2f00,#1b2438); border:1px solid rgba(255,215,0,.5); box-shadow:0 4px 16px rgba(0,0,0,.3); }
-.wch-count .n { color:#FFD700; font-size:2.15rem; font-weight:800; line-height:1; }
-.wch-count .l { color:#e7c95a; font-size:.66rem; font-weight:800; text-transform:uppercase; letter-spacing:.08em; margin-top:4px; }
-/* champions variant of the badge — flag above the nation, replacing the countdown's big number */
-.wch-champ img { width:52px; height:auto; border-radius:3px; display:block; margin:0 auto 5px; box-shadow:0 2px 8px rgba(0,0,0,.45); }
-.wch-champ .nm { color:#FFD700; font-size:1.16rem; font-weight:800; line-height:1; }
+/* .wch-count / .wch-champ (the kickoff countdown, then the 2026 champions badge) are gone — the hero
+   no longer singles out one edition, so it has no right-hand badge at all. */
 .wgcard { background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.18);
     border-radius:12px; padding:9px 11px 7px; box-shadow:0 2px 12px rgba(0,0,0,.22); margin-bottom:12px; }
 .wgc-h { color:#dbe7f7; font-weight:800; font-size:1.02rem; letter-spacing:-.2px; margin:0 0 6px 1px; }
@@ -366,29 +362,12 @@ table.wcg-pre td.pts { color:#8493ad; }
 .wtcard > div { min-width:0; }
 .wtcard .nm { color:#eaf1fb; font-weight:700; font-size:.9rem; line-height:1.12; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 .wtcard .mt { color:#8aa0bd; font-size:.72rem; font-weight:600; margin-top:1px; }
-.wcres-wrap { margin:.1rem 0 1.1rem; }
-.wcres-h { color:#9fc4ec; font-weight:800; font-size:.8rem; text-transform:uppercase; letter-spacing:.07em; margin:0 0 8px 1px; }
-/* ONE row, never wrapping — chips scroll sideways on a phone instead of stacking into many rows. */
-.wcres, .wctoday { display:flex; flex-wrap:nowrap; gap:9px; overflow-x:auto; padding-bottom:5px;
-    -webkit-overflow-scrolling:touch; scrollbar-width:thin; }
-.wcres-chip { display:flex; align-items:center; gap:7px; padding:7px 12px; border-radius:10px; flex:0 0 auto;
-    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); box-shadow:0 2px 9px rgba(0,0,0,.2); }
-.wcres-chip img { width:22px; height:14px; object-fit:cover; border-radius:2px; box-shadow:0 0 0 1px rgba(0,0,0,.3); flex:0 0 auto; }
-.wcres-chip .t { color:#a9bbd4; font-weight:700; font-size:.82rem; white-space:nowrap; }
-.wcres-chip .t.w { color:#fff; }                         /* winner stands out */
-.wcres-chip .sc { color:#FFD700; font-weight:800; font-size:.84rem; padding:0 3px; }
-.wcres-chip .dt { color:#7e90ad; font-size:.7rem; font-weight:700; margin-left:3px; }
-.wcres-chip .clk { color:#ffd64a; font-weight:800; font-size:.74rem; margin-right:1px; white-space:nowrap; }
-.wcres-chip .vs { color:#7e90ad; font-weight:700; font-size:.78rem; padding:0 3px; }
+/* The .wcres-* / .wctoday chip strip is gone with the two 2026-only front-page rows it styled. */
 .wclive { display:flex; flex-wrap:wrap; gap:8px; margin:.2rem 0 1rem; }
 .wclive .s { display:flex; align-items:baseline; gap:6px; padding:5px 12px; border-radius:9px;
     background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); }
 .wclive .s .v { color:#fff; font-weight:800; font-size:1rem; line-height:1.1; }
 .wclive .s .l { color:#9fb2cc; font-size:.72rem; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
-/* Venue-local UTC offset on each Today chip, so a 12:00 sitting after a 19:00 (different zones) reads clearly. */
-.wcres-chip .tz { color:#7e90ad; font-size:.6rem; font-weight:700; margin-left:1px; }
-.wcres-chip .t.prov { font-style:italic; }               /* projected team in the next-matches row */
-.wcres-chip img.prov { opacity:.5; }
 /* Phone: the three side-by-side group tables are unreadable at ~120px wide — stack them one-per-row
    (`:has(.wgcard)` scopes this to the Groups block only) and bump the now-roomier table's type. */
 @media (max-width: 640px) {
@@ -403,14 +382,7 @@ table.wcg-pre td.pts { color:#8493ad; }
   .wchero { padding:13px 16px; gap:13px; margin:.1rem 0 .7rem; }
   .wch-emblem { width:58px; height:58px; }
   .wch-body h1 { font-size:1.9rem; }
-  /* Slim the champions badge on phones — at full size it squeezed the subtitle to five wrapped
-     lines. Narrower flag + inline label keeps the hero to a readable two or three. */
-  .wch-count { padding:7px 11px; border-radius:11px; }
-  .wch-champ img { width:34px; margin-bottom:3px; }
-  .wch-champ .nm { font-size:.95rem; }
-  .wch-count .l { font-size:.58rem; }
   .wclive { margin:.15rem 0 .6rem; }
-  .wcres-wrap { margin:.1rem 0 .7rem; }
 }
 </style>"""
 
@@ -501,29 +473,18 @@ if "b" in st.query_params and not st.session_state.get("wcp_param_loaded"):
 
 st.markdown(WC_POLISH_CSS, unsafe_allow_html=True)
 
-# The 2026 champions badge sits where the kickoff countdown used to — the tournament is over, so the
-# headline fact is no longer "how long until" but "who won". Sourced from the archive, not hardcoded,
-# so a late scoreline correction can never leave the hero lying.
-_c26 = next((c for c in wch.champions() if c["year"] == 2026), None)
-if _c26 and _c26["champion"]:
-    cnt = (f"<div class='wch-count wch-champ'>"
-           f"<img src='{wch.flag_url(_c26['champion'], 80)}' alt=''>"
-           f"<div class='nm'>{_c26['champion']}</div>"
-           f"<div class='l'>2026 champions</div></div>")
-    _last = (f"🏆 <b>{_c26['champion']}</b> beat {_c26['runner_up']} <b>{_c26['score']}</b> "
-             f"in the 2026 final &nbsp;·&nbsp; MetLife Stadium, New York")
-else:                                                   # final not yet scored — stay honest
-    cnt = ""
-    _last = "📅 June 11 – July 19, 2026 &nbsp;·&nbsp; 🏆 Final at MetLife Stadium, New York"
-
+# No champion badge and no "who won 2026" line: this site is about all 23 tournaments, and singling
+# out the newest one made the front page read as a 2026 site with an archive bolted on. The third
+# line orients the visitor instead — what the archive lets them DO — which stays true every edition.
 _eds, _tot = len(wch.years()), len(wch.matches())
 st.markdown(
     f"<div class='wchero'><div class='wch-emblem'>🏆</div>"
     f"<div class='wch-body'><div class='wch-kick'>Editions · Champions · Records</div><h1>Mundial</h1>"
     f"<div class='wch-sub'>Every World Cup from <b>Uruguay 1930</b> to the 48-team "
     f"<b>North America 2026</b></div>"
-    f"<div class='wch-dates'>{_last}</div>"
-    f"</div>{cnt}</div>", unsafe_allow_html=True)
+    f"<div class='wch-dates'>🔎 Open any edition for its group tables and full knockout bracket "
+    f"&nbsp;·&nbsp; compare any two nations head-to-head</div>"
+    f"</div></div>", unsafe_allow_html=True)
 
 # Archive-wide pulse. This used to be the LIVE 2026 tournament pulse (played/goals/now/days-to-final);
 # with the tournament finished those all freeze, so the row now measures the whole 1930–2026 archive —
@@ -537,44 +498,18 @@ st.markdown("<div class='wclive'>" + "".join(
     f"<div class='s'><span class='v'>{v}</span><span class='l'>{l}</span></div>" for v, l in _pulse)
     + "</div>", unsafe_allow_html=True)
 
-# How 2026 finished — the closing run of matches, final first (this was the live "Latest results" row).
-# Newest first; the winning side is brightened, gold scoreline.
-def _ko_result(r):
-    """(w1, w2, score_html) for a played match — a drawn knockout tie is decided by the shootout,
-    shown as a small '(4–2 p)' tail after the on-the-pitch score."""
-    s1, s2 = int(r.score1), int(r.score2)
-    pk = pd.notna(r.pens1)
-    w1 = " w" if s1 > s2 or (pk and s1 == s2 and r.pens1 > r.pens2) else ""
-    w2 = " w" if s2 > s1 or (pk and s1 == s2 and r.pens2 > r.pens1) else ""
-    pen = (f" <span style='font-size:.72em;color:#9fb2cc'>({int(r.pens1)}–{int(r.pens2)} p)</span>"
-           if pk else "")
-    return w1, w2, f"{s1}–{s2}{pen}"
-
-done = ms[ms["played"]].sort_values(["date", "match_no"], ascending=[False, False])
-if len(done):
-    chips = []
-    for r in done.head(8).itertuples():
-        w1, w2, sc_html = _ko_result(r)
-        day = (r.date.strftime("%b ") + str(r.date.day)) if pd.notna(r.date) else ""
-        chips.append(
-            f"<div class='wcres-chip'>"
-            f"<img src='{wc.code_flag(r.team1)}'><span class='t{w1}'>{r.team1}</span>"
-            f"<span class='sc'>{sc_html}</span>"
-            f"<span class='t{w2}'>{r.team2}</span><img src='{wc.code_flag(r.team2)}'>"
-            f"<span class='dt'>{day}</span></div>")
-    st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>⚽ How 2026 finished</div>"
-                f"<div class='wcres'>{''.join(chips)}</div></div>", unsafe_allow_html=True)
-
-# The "Today's schedule / Next matches" row that sat here is gone: every one of the 104 matches has been
-# played, so it could only ever render empty, and a fixtures row makes no sense on an archive. Recover it
-# from git history (pre-2026-07-25) if this is ever pointed at a live tournament again.
+# Two front-page rows used to live here and both were 2026-only, so both are gone: the live
+# "Today's schedule / Next matches" row (which could only ever render empty now) and the closing
+# "How 2026 finished" results strip (which made an all-editions archive look like a 2026 site).
+# 2026's results are still one click away in its own tabs. Recover either from git history
+# (pre-2026-07-25) if this is ever pointed at a live tournament again.
 
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
-# The archive leads — it's the part that stays true. The 2026 tabs that follow are one edition's deep
-# dive (its own bracket, group tables, schedule and venues), which no other edition has.
-t_history, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = st.tabs(
-    ["📜 Every World Cup", "🏆 2026 Bracket", "🗓️ 2026 Groups", "📋 2026 Schedule",
-     "🌍 2026 Teams", "🏟️ 2026 Venues", "🎮 Challenge"], key="wc_tab")
+# The archive leads, then the game that works on ANY edition. The 2026 tabs that follow are one
+# edition's deep dive (its own bracket, group tables, schedule and venues), which no other edition has.
+t_history, t_replay, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = st.tabs(
+    ["📜 Every World Cup", "🔁 Replay", "🏆 2026 Bracket", "🗓️ 2026 Groups", "📋 2026 Schedule",
+     "🌍 2026 Teams", "🏟️ 2026 Venues", "🎮 2026 Challenge"], key="wc_tab")
 
 def _koteam(x):
     return wc.team_label(x) if x in codes else wc.short_slot(x)
@@ -1353,3 +1288,155 @@ with t_history:
         {"icon": "🌍", "title": "Ever-present", "body": f"<b>{rec['most_apps']}</b> — all {rec['most_apps_n']} editions"},
         {"icon": "🥅", "title": "Goals", "body": f"<b>{rec['goals']:,}</b> in {rec['matches']} matches", "gold": True},
     ])
+
+# ── 🔁 Replay a World Cup ──────────────────────────────────────────────────────────────────────────
+# The same idea as the 2026 Challenge, but it works on ANY of the 20 replayable editions: you are given
+# the real knockout qualifiers and must call every tie, with your winners feeding the next round, then
+# score the bracket against what actually happened. Logic lives in wcreplay.py (the tree is derived from
+# results, so it fits every era's shape); this block is only the UI.
+#
+# Rounds are laid out as stacked rows rather than the archive tab's left-to-right funnel: Streamlit
+# buttons need real width to stay legible, and 16 first-round ties in a narrow column would truncate
+# every nation to a few characters. The archive tab already shows the funnel, read-only.
+WCRP_CSS = """<style>
+.rp-round { color:#9fc4ec; font-weight:800; font-size:.82rem; text-transform:uppercase; letter-spacing:.07em;
+    margin:.9rem 0 .1rem 1px; display:flex; align-items:center; gap:9px; }
+.rp-round .n { color:#7e8ba5; font-weight:700; font-size:.72rem; text-transform:none; letter-spacing:0; }
+.rp-flag { width:26px; height:17px; object-fit:cover; border-radius:2px; box-shadow:0 0 0 1px rgba(0,0,0,.35); display:block; }
+.rp-flag-x { width:26px; height:17px; border-radius:2px; background:rgba(255,255,255,.05); }
+.rp-meta { color:#7e8ba5; font-size:.68rem; font-weight:700; text-align:right; margin-top:-2px; }
+.rp-meta .rep { color:#e0a03b; }
+/* scoreboard */
+.rp-score { display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:13px 18px; border-radius:13px; margin:.3rem 0 .2rem;
+    background:linear-gradient(160deg,#2c2a12,#1a2238); border:1px solid rgba(255,215,0,.45); }
+.rp-score .tot { color:#FFD700; font-size:2rem; font-weight:800; line-height:1; }
+.rp-score .of { color:#c9b25a; font-size:.9rem; font-weight:700; }
+.rp-score .pct { color:#e7c95a; font-size:.72rem; font-weight:800; text-transform:uppercase; letter-spacing:.08em; }
+.rp-bd { display:flex; flex-wrap:wrap; gap:7px; margin:.4rem 0 .2rem; }
+.rp-bd .b { padding:5px 11px; border-radius:9px; font-size:.76rem; font-weight:700; color:#cfe0f5;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.16); }
+.rp-bd .b i { color:#8aa0bd; font-style:normal; font-weight:600; }
+.rp-champ { display:flex; align-items:center; gap:10px; padding:8px 14px; border-radius:10px; font-size:.9rem; font-weight:700;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.2); margin:.2rem 0 .1rem; }
+.rp-champ img { width:28px; height:19px; object-fit:cover; border-radius:2px; }
+.rp-champ.ok { border-color:rgba(78,201,138,.55); }
+.rp-champ .ko { color:#e0563b; } .rp-champ .yes { color:#4ec98a; }
+</style>"""
+
+
+def _rp_pick(year, mid, team):
+    """Button callback: record a knockout winner for one edition. Changing any pick invalidates a
+    revealed score, so the player can't half-edit a bracket while still looking at the old total."""
+    st.session_state.rp_picks.setdefault(year, {})[mid] = team
+    st.session_state.rp_reveal.discard(year)
+
+
+def _rp_clear(year):
+    st.session_state.rp_picks[year] = {}
+    st.session_state.rp_reveal.discard(year)
+
+
+def _rp_reveal(year):
+    st.session_state.rp_reveal.add(year)
+
+
+st.session_state.setdefault("rp_picks", {})       # {year: {mid: team}} — kept per edition
+st.session_state.setdefault("rp_reveal", set())   # editions whose score is currently shown
+
+with t_replay:
+    st.markdown(WCRP_CSS, unsafe_allow_html=True)
+    ui.section("🔁 Replay a World Cup",
+               "you get the real qualifiers — call every knockout tie, then score your bracket against history")
+
+    _eds = wcrp.replayable()
+    _yrs = [y for y, _n, _lbl in _eds]
+    _nmatch = {y: n for y, n, _lbl in _eds}
+    _champs = {c["year"]: c for c in wch.champions()}
+
+    _c = st.columns([2, 1, 1], vertical_alignment="bottom")
+    year = _c[0].selectbox(
+        "Edition", _yrs, index=len(_yrs) - 1, key="rp_year",
+        format_func=lambda y: f"{y} · {_champs[y]['host']} — {_nmatch[y]} ties")
+    picks = st.session_state.rp_picks.setdefault(year, {})
+    _done = wcrp.picked_count(year, picks)
+    _all = _nmatch[year]
+    _c[1].button("🎲 Clear picks", key="rp_clear", width="stretch", on_click=_rp_clear, args=(year,),
+                 disabled=not picks)
+    _c[2].button("🏁 Reveal & score", key="rp_rev", width="stretch", type="primary",
+                 on_click=_rp_reveal, args=(year,), disabled=_done < _all)
+
+    if year not in st.session_state.rp_reveal:
+        st.caption(f"**{_done} of {_all}** ties called. Results stay hidden until you reveal — though the "
+                   f"📜 Every World Cup tab will spoil {year} if you open it.")
+    _rounds = wcrp.resolve(year, picks)
+
+    for _ri, _rd in enumerate(_rounds):
+        _ms = _rd["matches"]
+        st.markdown(f"<div class='rp-round'>{_rd['label']}"
+                    f"<span class='n'>{len(_ms)} tie{'s' if len(_ms) != 1 else ''}</span></div>",
+                    unsafe_allow_html=True)
+        _per = 4 if len(_ms) > 2 else max(len(_ms), 1)          # 1 wide card for the Final, 2 for semis
+        for _i in range(0, len(_ms), _per):
+            _cols = st.columns(_per)
+            for _j, _m in enumerate(_ms[_i:_i + _per]):
+                with _cols[_j]:
+                    with st.container(border=True, key=f"rpc_{year}_{_m['mid']}"):
+                        for _side, _team in (("h", _m["p_home"]), ("a", _m["p_away"])):
+                            _fl, _bt = st.columns([1, 4], vertical_alignment="center", gap="small")
+                            _src = wcrp.flag(_team) if _team else ""
+                            _fl.markdown(
+                                f"<img class='rp-flag' src='{_src}'>" if _src else
+                                "<div class='rp-flag-x'></div>", unsafe_allow_html=True)
+                            if _team:
+                                _bt.button(_team, key=f"rpb_{year}_{_m['mid']}_{_side}", width="stretch",
+                                           type="primary" if _m["pick"] == _team else "secondary",
+                                           on_click=_rp_pick, args=(year, _m["mid"], _team))
+                            else:                              # upstream tie not called yet
+                                _bt.button("—", key=f"rpb_{year}_{_m['mid']}_{_side}",
+                                           width="stretch", disabled=True)
+                        _rep = ("<span class='rep'>· replay</span>" if _m.get("legs", 1) > 1 else "")
+                        _dt = str(_m["date"])
+                        _day = f"{_dt[8:10]}.{_dt[5:7]}" if len(_dt) >= 10 else ""
+                        st.markdown(f"<div class='rp-meta'>{_day} {_rep}</div>", unsafe_allow_html=True)
+
+    if year in st.session_state.rp_reveal:
+        sc = wcrp.score(year, picks)
+        ui.section(f"🏁 Your {year} bracket, scored", "")
+        st.markdown(
+            f"<div class='rp-score'><span class='tot'>{sc['total']}</span>"
+            f"<span class='of'>/ {sc['possible']} points</span>"
+            f"<span class='pct'>{sc['pct']}% of a perfect bracket</span></div>", unsafe_allow_html=True)
+        _bd = "".join(
+            f"<div class='b'>{b['label']}: <b>{b['hit']}</b><i>/{b['of']} teams right · "
+            f"{b['points']} pt{'s' if b['points'] != 1 else ''}</i></div>" for b in sc["breakdown"])
+        _bd += (f"<div class='b'>Champion: <i>{sc['champion_points']}/{sc['champion_max']} pts</i></div>")
+        st.markdown(f"<div class='rp-bd'>{_bd}</div>", unsafe_allow_html=True)
+        _ok = sc["champion_correct"]
+        st.markdown(
+            f"<div class='rp-champ{' ok' if _ok else ''}'>"
+            f"<img src='{wcrp.flag(sc['champion'])}'><span>You picked <b>{sc['champion']}</b></span>"
+            f"<span class='{'yes' if _ok else 'ko'}'>{'✓ correct' if _ok else '✗'}</span>"
+            + ("" if _ok else f"<span style='color:#9fb2cc'>— {year} was won by "
+                              f"<b style='color:#fff'>{sc['actual_champion']}</b></span>")
+            + "</div>", unsafe_allow_html=True)
+        st.caption("Scored by **reach**: each round after the first awards a point per team you sent into "
+                   "it that really got there, doubling every round, plus a champion bonus. So a bracket "
+                   "that goes wrong early still earns for the teams it gets right later.")
+        with st.expander(f"📜 What actually happened in {year}"):
+            for _rd in wcrp.bracket(year):
+                st.markdown(f"<div class='rp-round'>{_rd['label']}</div>", unsafe_allow_html=True)
+                _rows = ""
+                for _m in _rd["matches"]:
+                    _mine = picks.get(_m["mid"])
+                    _hit = _mine and _mine == _m["winner"]
+                    _mark = ("<span style='color:#4ec98a'>✓</span>" if _hit else
+                             "<span style='color:#e0563b'>✗</span>" if _mine else
+                             "<span style='color:#7e8ba5'>–</span>")
+                    _rows += (f"<div class='wch-mt'><span class='y'>{_mark}</span>"
+                              f"<div class='tm r'><span>{_m['home']}</span>"
+                              f"<img src='{wcrp.flag(_m['home'])}'></div>"
+                              f"<span class='sc'>{_m['winner'] or 'drawn'}</span>"
+                              f"<div class='tm'><img src='{wcrp.flag(_m['away'])}'>"
+                              f"<span>{_m['away']}</span></div>"
+                              f"<span class='st'>{'you: ' + _mine if _mine else ''}</span></div>")
+                st.markdown(_rows, unsafe_allow_html=True)
