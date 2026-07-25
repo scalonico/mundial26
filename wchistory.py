@@ -1,40 +1,59 @@
-"""World Cup history — load + query the 1930–2022 match archive (data/worldcup_matches.csv).
+"""World Cup history — load + query the complete 1930–2026 match archive.
 
-Powers the 📜 History tab. National names are kept HISTORICALLY accurate in the data (West Germany,
-Soviet Union, Yugoslavia, Czechoslovakia, Zaire, Dutch East Indies…); aggregates fold the two
-uncontroversial continuations — West Germany → Germany and USA → United States (FIFA-standard) —
-via fold(). Penalty-shootout knockouts count as DRAWS in the W-D-L table (FIFA convention); titles
-are tracked separately. Flags via flagcdn; historical sides map to their nearest modern flag.
+Powers the archive tab. National names are kept HISTORICALLY accurate in the data (West Germany,
+Soviet Union, Yugoslavia, Czechoslovakia, Zaire, Dutch East Indies…); aggregates fold the four
+uncontroversial continuations — West Germany → Germany, USA → United States (FIFA-standard),
+Czech Republic → Czechia (renamed 2016) and Zaire → DR Congo (renamed 1997) — via fold().
+Penalty-shootout knockouts count as DRAWS in the W-D-L table (FIFA convention); titles are tracked
+separately. Flags via flagcdn; historical sides map to their nearest modern flag.
+
+TWO SOURCES, joined at load time by matches():
+  1930–2022  data/worldcup_matches.csv  — a build artifact of build/history/openfootball_wc.py
+  2026       data/wc2026_matches.csv    — the same file the 2026 tabs read
+
+2026 is deliberately NOT baked into worldcup_matches.csv: that builder opens the file with "w" and
+rewrites it from scratch, so appended rows would be silently wiped on the next rebuild. Deriving the
+48-team edition here instead keeps ONE source of truth per tournament and cannot drift.
 """
 from functools import lru_cache
 from pathlib import Path
 
 import pandas as pd
 
-_CSV = Path(__file__).resolve().parent / "data" / "worldcup_matches.csv"
+_DATA = Path(__file__).resolve().parent / "data"
+_CSV = _DATA / "worldcup_matches.csv"
+_CSV_2026 = _DATA / "wc2026_matches.csv"
+_CSV_2026_TEAMS = _DATA / "wc2026_teams.csv"
 
 # name → ISO 3166-1 alpha-2 (gb-eng/sct/wls/nir for the home nations; historical sides → nearest flag).
 ISO2 = {
     "Algeria": "dz", "Angola": "ao", "Argentina": "ar", "Australia": "au", "Austria": "at",
     "Belgium": "be", "Bolivia": "bo", "Bosnia-Herzegovina": "ba", "Brazil": "br", "Bulgaria": "bg",
-    "Cameroon": "cm", "Canada": "ca", "Chile": "cl", "China": "cn", "Colombia": "co",
-    "Costa Rica": "cr", "Croatia": "hr", "Cuba": "cu", "Czech Republic": "cz", "Czechoslovakia": "cz",
-    "Côte d'Ivoire": "ci", "Denmark": "dk", "Dutch East Indies": "id", "East Germany": "de",
+    "Cameroon": "cm", "Canada": "ca", "Cape Verde": "cv", "Chile": "cl", "China": "cn",
+    "Colombia": "co", "Costa Rica": "cr", "Croatia": "hr", "Cuba": "cu", "Curaçao": "cw",
+    "Czech Republic": "cz", "Czechia": "cz", "Czechoslovakia": "cz",
+    "Côte d'Ivoire": "ci", "DR Congo": "cd", "Denmark": "dk", "Dutch East Indies": "id",
+    "East Germany": "de",
     "Ecuador": "ec", "Egypt": "eg", "El Salvador": "sv", "England": "gb-eng", "France": "fr",
     "Germany": "de", "Ghana": "gh", "Greece": "gr", "Haiti": "ht", "Honduras": "hn", "Hungary": "hu",
     "Iceland": "is", "Iran": "ir", "Iraq": "iq", "Ireland": "ie", "Israel": "il", "Italy": "it",
-    "Jamaica": "jm", "Japan": "jp", "Kuwait": "kw", "Mexico": "mx", "Morocco": "ma", "Netherlands": "nl",
+    "Jamaica": "jm", "Japan": "jp", "Jordan": "jo",
+    "Kuwait": "kw", "Mexico": "mx", "Morocco": "ma", "Netherlands": "nl",
     "New Zealand": "nz", "Nigeria": "ng", "North Korea": "kp", "Northern Ireland": "gb-nir", "Norway": "no",
     "Panama": "pa", "Paraguay": "py", "Peru": "pe", "Poland": "pl", "Portugal": "pt", "Qatar": "qa",
     "Romania": "ro", "Russia": "ru", "Saudi Arabia": "sa", "Scotland": "gb-sct", "Senegal": "sn",
     "Serbia": "rs", "Serbia and Montenegro": "rs", "Slovakia": "sk", "Slovenia": "si", "South Africa": "za",
     "South Korea": "kr", "Soviet Union": "ru", "Spain": "es", "Sweden": "se", "Switzerland": "ch",
     "Togo": "tg", "Trinidad and Tobago": "tt", "Tunisia": "tn", "Turkey": "tr", "USA": "us",
-    "Ukraine": "ua", "United Arab Emirates": "ae", "United States": "us", "Uruguay": "uy", "Wales": "gb-wls",
+    "Ukraine": "ua", "United Arab Emirates": "ae", "United States": "us", "Uruguay": "uy",
+    "Uzbekistan": "uz", "Wales": "gb-wls",
     "West Germany": "de", "Yugoslavia": "rs", "Zaire": "cd",
 }
-# continuations folded for ALL-TIME aggregates (kept historical everywhere else).
-FOLD = {"West Germany": "Germany", "USA": "United States"}
+# Continuations folded for ALL-TIME aggregates (kept historical everywhere else): each pair is ONE
+# football association under two names, so their records merge. Czechoslovakia is NOT folded into
+# Czechia — that was a state that split, not a rename.
+FOLD = {"West Germany": "Germany", "USA": "United States",
+        "Czech Republic": "Czechia", "Zaire": "DR Congo"}
 
 
 def flag_url(name, w=40):
@@ -46,13 +65,44 @@ def fold(name):
     return FOLD.get(name, name)
 
 
+COLS = ["year", "host", "stage", "group", "date", "home", "away", "home_score", "away_score",
+        "extra_time", "pens_home", "pens_away", "venue", "city", "source"]
+
+_HOST_2026 = "Canada, Mexico & United States"          # co-host precedent: 2002 = "South Korea & Japan"
+_STAGE_2026 = {"group": "group", "R32": "round-of-32", "R16": "round-of-16", "QF": "quarter-final",
+               "SF": "semi-final", "3rd": "third-place", "F": "final"}
+# 2026 squad-list spellings → the archive's, so all-time aggregates merge without a FOLD entry.
+# These are the same name written differently; genuine RENAMES (Czechia, DR Congo) go via FOLD.
+_NAME_2026 = {"Bosnia and Herzegovina": "Bosnia-Herzegovina", "Ivory Coast": "Côte d'Ivoire"}
+
+
+def _matches_2026():
+    """The 48-team edition, mapped from the 2026 CSVs into the archive's schema."""
+    m = pd.read_csv(_CSV_2026, dtype={"group": str})
+    t = pd.read_csv(_CSV_2026_TEAMS)
+    nm = {c: _NAME_2026.get(n, n) for c, n in zip(t["code"], t["name"])}
+    return pd.DataFrame({
+        "year": 2026, "host": _HOST_2026,
+        "stage": m["stage"].map(_STAGE_2026),
+        "group": m["group"], "date": m["date"],
+        "home": m["team1"].map(nm), "away": m["team2"].map(nm),
+        "home_score": m["score1"], "away_score": m["score2"],
+        "extra_time": m["et"], "pens_home": m["pens1"], "pens_away": m["pens2"],
+        "venue": m["stadium"], "city": m["city"], "source": "wikipedia",
+    })[COLS]
+
+
 @lru_cache(maxsize=1)
 def matches():
-    df = pd.read_csv(_CSV, dtype={"group": str}).fillna({"home_score": -1, "away_score": -1})
+    """Every World Cup match, 1930–2026 (the 2026 rows derived from the live-tab CSVs)."""
+    arch = pd.read_csv(_CSV, dtype={"group": str})
+    df = pd.concat([arch, _matches_2026()], ignore_index=True)
+    df = df.fillna({"home_score": -1, "away_score": -1})       # unplayed → -1, as before
     df["home_score"] = df["home_score"].astype(int)
     df["away_score"] = df["away_score"].astype(int)
     df["pens_home"] = pd.to_numeric(df["pens_home"], errors="coerce")
     df["pens_away"] = pd.to_numeric(df["pens_away"], errors="coerce")
+    df["group"] = df["group"].astype("object").where(df["group"].notna(), None)
     return df
 
 
@@ -104,7 +154,7 @@ def edition_group_tables(year):
     return out
 
 
-_KO_ORDER = ("round-of-16", "quarter-final", "semi-final", "third-place", "final")
+_KO_ORDER = ("round-of-32", "round-of-16", "quarter-final", "semi-final", "third-place", "final")
 
 
 def edition_knockouts(year):
@@ -114,8 +164,8 @@ def edition_knockouts(year):
 
 
 # how far each stage is into the tournament (higher = later); groups feed everything above them.
-_SRANK = {"group": 0, "group-2": 1, "final-round": 1, "round-of-16": 2,
-          "quarter-final": 3, "semi-final": 4, "third-place": 5, "final": 5}
+_SRANK = {"group": 0, "group-2": 1, "final-round": 1, "round-of-32": 2, "round-of-16": 3,
+          "quarter-final": 4, "semi-final": 5, "third-place": 6, "final": 6}
 
 
 def advanced_from(year, stage):

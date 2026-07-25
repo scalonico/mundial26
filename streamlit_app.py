@@ -1,14 +1,20 @@
-"""Mundial 26 — World Cup 2026 guide, bracket & predictor game (standalone).
+"""Mundial — every World Cup, 1930–2026 (standalone).
 
-Groups · full 104-match schedule (with time-zone conversion) · a visual knockout bracket · an
-interactive "build your own bracket" predictor (share a code, score live against real results) ·
-venues · teams. Reads data/wc2026_*.csv; re-run build/ingest.py during the tournament to pull live
-scores → standings + bracket fill in automatically.
+Built during the 2026 tournament as a live guide/bracket/predictor; refocused once it ended (Spain
+1–0 Argentina a.e.t., Jul 19 2026) around the part that doesn't go stale — the complete archive.
+
+  · Every World Cup — all 23 editions: champions, per-edition group tables + knockout bracket,
+    the all-time table, any two nations' head-to-head, and records. Served by wchistory.py.
+  · 2026 in depth — that edition's own bracket, group standings, 104-match schedule (with
+    time-zone conversion), teams and venues. Served by wc2026.py from data/wc2026_*.csv.
+  · Challenge — the "build your own bracket" predictor (share a code, score against real results),
+    kept from the live build and now scoring against a finished tournament.
+
+The live-refresh Action (.github/workflows/update-data.yml) is retired but intact; re-point
+build/ingest.py and restore its cron to cover a future tournament.
 
 Run:  streamlit run streamlit_app.py
 """
-from datetime import date
-
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.io as pio
@@ -18,7 +24,7 @@ import ui
 import wc2026 as wc
 import wchistory as wch
 
-st.set_page_config(page_title="Mundial 26 · World Cup bracket & guide", page_icon="🏆", layout="wide")
+st.set_page_config(page_title="Mundial · Every World Cup, 1930–2026", page_icon="🏆", layout="wide")
 
 SKY = "#6CACE4"
 GOLD = "#FFD700"
@@ -45,7 +51,7 @@ PLOTLY_TMPL = "plotly_dark+argentina"
 WC_CHAMP = {1930:"Uruguay",1934:"Italy",1938:"Italy",1950:"Uruguay",1954:"West Germany",1958:"Brazil",
             1962:"Brazil",1966:"England",1970:"Brazil",1974:"West Germany",1978:"Argentina",1982:"Italy",
             1986:"Argentina",1990:"West Germany",1994:"Brazil",1998:"France",2002:"Brazil",2006:"Italy",
-            2010:"Spain",2014:"Germany",2018:"France",2022:"Argentina"}
+            2010:"Spain",2014:"Germany",2018:"France",2022:"Argentina",2026:"Spain"}
 WC_TITLES = {}
 for _yr, _w in WC_CHAMP.items():
     _n = "Germany" if _w == "West Germany" else _w
@@ -319,6 +325,9 @@ WC_POLISH_CSS = """<style>
     background:linear-gradient(160deg,#3a2f00,#1b2438); border:1px solid rgba(255,215,0,.5); box-shadow:0 4px 16px rgba(0,0,0,.3); }
 .wch-count .n { color:#FFD700; font-size:2.15rem; font-weight:800; line-height:1; }
 .wch-count .l { color:#e7c95a; font-size:.66rem; font-weight:800; text-transform:uppercase; letter-spacing:.08em; margin-top:4px; }
+/* champions variant of the badge — flag above the nation, replacing the countdown's big number */
+.wch-champ img { width:52px; height:auto; border-radius:3px; display:block; margin:0 auto 5px; box-shadow:0 2px 8px rgba(0,0,0,.45); }
+.wch-champ .nm { color:#FFD700; font-size:1.16rem; font-weight:800; line-height:1; }
 .wgcard { background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.18);
     border-radius:12px; padding:9px 11px 7px; box-shadow:0 2px 12px rgba(0,0,0,.22); margin-bottom:12px; }
 .wgc-h { color:#dbe7f7; font-weight:800; font-size:1.02rem; letter-spacing:-.2px; margin:0 0 6px 1px; }
@@ -468,8 +477,6 @@ def ko_team(raw, match_no, side):
         return code, True
     return raw, False                                 # still an unresolved slot ("1A", "W73")
 
-d2k = wc.days_to_kickoff()
-
 # ── Bracket game: persisted prediction state (picks are made with native buttons → normal rerun,
 # which preserves session_state and the active tab; callbacks live at module scope, see _wcp_pick).
 # wcp_q[group] = [1st, 2nd] qualifiers; wcp_wins[match_no] = chosen knockout winner.
@@ -486,53 +493,44 @@ if "b" in st.query_params and not st.session_state.get("wcp_param_loaded"):
         st.session_state.wcp_manual = set(dec[1])      # a loaded bracket's picks are all "given"
     st.session_state.wcp_param_loaded = True
 
-if d2k > 0:
-    tag = f"<span style='color:{GOLD};font-weight:700'>⏱ Kicks off in {d2k} days</span>"
-elif d2k > -40:
-    tag = f"<span style='color:{GOLD};font-weight:700'>🎉 Tournament underway</span>"
-else:
-    tag = ""
-hosts = " &nbsp;·&nbsp; ".join(
-    f"<img src='{wc.flag_url(c, 40)}' height='14' style='vertical-align:-2px;border-radius:2px'> {n}"
-    for c, n in [("CA", "Canada"), ("MX", "Mexico"), ("US", "United States")])
 st.markdown(WC_POLISH_CSS, unsafe_allow_html=True)
-if d2k > 0:
-    cnt = f"<div class='wch-count'><div class='n'>{d2k}</div><div class='l'>days to kickoff</div></div>"
-elif d2k > -40:
-    cnt = "<div class='wch-count'><div class='n'>🎉</div><div class='l'>underway</div></div>"
-else:
+
+# The 2026 champions badge sits where the kickoff countdown used to — the tournament is over, so the
+# headline fact is no longer "how long until" but "who won". Sourced from the archive, not hardcoded,
+# so a late scoreline correction can never leave the hero lying.
+_c26 = next((c for c in wch.champions() if c["year"] == 2026), None)
+if _c26 and _c26["champion"]:
+    cnt = (f"<div class='wch-count wch-champ'>"
+           f"<img src='{wch.flag_url(_c26['champion'], 80)}' alt=''>"
+           f"<div class='nm'>{_c26['champion']}</div>"
+           f"<div class='l'>2026 champions</div></div>")
+    _last = (f"🏆 <b>{_c26['champion']}</b> beat {_c26['runner_up']} <b>{_c26['score']}</b> "
+             f"in the 2026 final &nbsp;·&nbsp; MetLife Stadium, New York")
+else:                                                   # final not yet scored — stay honest
     cnt = ""
+    _last = "📅 June 11 – July 19, 2026 &nbsp;·&nbsp; 🏆 Final at MetLife Stadium, New York"
+
+_eds, _tot = len(wch.years()), len(wch.matches())
 st.markdown(
     f"<div class='wchero'><div class='wch-emblem'>🏆</div>"
-    f"<div class='wch-body'><div class='wch-kick'>Bracket · Schedule · Predictor</div><h1>Mundial 26</h1>"
-    f"<div class='wch-sub'>The first <b>48-team</b> World Cup &nbsp;·&nbsp; hosted by {hosts}</div>"
-    f"<div class='wch-dates'>📅 June 11 – July 19, 2026 &nbsp;·&nbsp; 🏆 Final at MetLife Stadium, New York</div>"
+    f"<div class='wch-body'><div class='wch-kick'>Editions · Champions · Records</div><h1>Mundial</h1>"
+    f"<div class='wch-sub'>Every World Cup from <b>Uruguay 1930</b> to the 48-team "
+    f"<b>North America 2026</b></div>"
+    f"<div class='wch-dates'>{_last}</div>"
     f"</div>{cnt}</div>", unsafe_allow_html=True)
 
-# Compact LIVE tournament pulse (replaces the static 48/12/104/16 facts, which never change).
-# Degrades cleanly pre-kickoff: 0 played, 0 goals, "Group stage", days-to-final still counts down.
-_pl = ms[ms["played"]]
-_goals = int((_pl["score1"] + _pl["score2"]).sum()) if len(_pl) else 0
-# The "now" phase is the earliest stage that still has an unplayed match — so when a whole
-# stage finishes (e.g. all 72 group games done) the chip rolls forward to the next stage about
-# to be contested, instead of sticking on the last stage that merely *had* a kickoff. Falls back
-# to the final once every match is played (tournament complete).
-_stage = wc.STAGE_ORDER[-1]
-for _s in wc.STAGE_ORDER:
-    if ((ms["stage"] == _s) & ~ms["played"]).any():
-        _stage = _s
-        break
-# to-final via constants that predate this deploy (KICKOFF/FINAL_DAY/days_to_kickoff) — NOT a freshly
-# added wc2026 symbol, which a stale cached module on Streamlit Cloud wouldn't have yet after a hot reload.
-_d2f = wc.days_to_kickoff() + (wc.FINAL_DAY - wc.KICKOFF).days
-_pulse = [(f"{len(_pl)}/{len(ms)}", "played"), (str(_goals), "goals"),
-          (wc.STAGE_NAMES[_stage], "now"), (str(max(_d2f, 0)), "days to final")]
+# Archive-wide pulse. This used to be the LIVE 2026 tournament pulse (played/goals/now/days-to-final);
+# with the tournament finished those all freeze, so the row now measures the whole 1930–2026 archive —
+# figures that grow once every four years instead of going stale in a week.
+_rec = wch.records()
+_pulse = [(str(_eds), "editions"), (f"{_tot:,}", "matches"),
+          (f"{_rec['goals']:,}", "goals"), (str(_rec["nations"]), "nations")]
 st.markdown("<div class='wclive'>" + "".join(
     f"<div class='s'><span class='v'>{v}</span><span class='l'>{l}</span></div>" for v, l in _pulse)
     + "</div>", unsafe_allow_html=True)
 
-# Latest results — surfaces the live scores at a glance once play begins (hidden pre-kickoff and when
-# nothing has been played yet). Newest first; the winning side is brightened, gold scoreline.
+# How 2026 finished — the closing run of matches, final first (this was the live "Latest results" row).
+# Newest first; the winning side is brightened, gold scoreline.
 def _ko_result(r):
     """(w1, w2, score_html) for a played match — a drawn knockout tie is decided by the shootout,
     shown as a small '(4–2 p)' tail after the on-the-pitch score."""
@@ -556,52 +554,19 @@ if len(done):
             f"<span class='sc'>{sc_html}</span>"
             f"<span class='t{w2}'>{r.team2}</span><img src='{wc.code_flag(r.team2)}'>"
             f"<span class='dt'>{day}</span></div>")
-    st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>⚽ Latest results</div>"
+    st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>⚽ How 2026 finished</div>"
                 f"<div class='wcres'>{''.join(chips)}</div></div>", unsafe_allow_html=True)
 
-# Today's schedule — the day's fixtures at a glance (kickoff time, or live/final score). When nothing
-# is on today it rolls forward to the next match day so the row is never empty mid-tournament.
-today = date.today()
-todays = ms[ms["date"].dt.date == today].sort_values("kickoff_utc")
-sched_h = "📅 Today's schedule"
-if not len(todays):
-    future = ms[ms["date"].dt.date > today]
-    if len(future):
-        nxt = future["date"].dt.date.min()
-        todays = ms[ms["date"].dt.date == nxt].sort_values("kickoff_utc")
-        sched_h = f"📅 Next matches · {pd.Timestamp(nxt).strftime('%a %b ')}{pd.Timestamp(nxt).day}"
-if len(todays):
-    tchips = []
-    for r in todays.itertuples():
-        _tl = r.time_local.split("UTC") if isinstance(r.time_local, str) else [""]
-        clock = _tl[0].strip()
-        tz = f"<span class='tz'>UTC{_tl[1].strip()}</span>" if len(_tl) > 1 else ""
-        c1, p1v = ko_team(r.team1, r.match_no, "team1")  # resolve KO slots → projected team (faded)
-        c2, p2v = ko_team(r.team2, r.match_no, "team2")
-        n1 = wc.team_name(c1) if c1 in codes else wc.short_slot(c1)
-        n2 = wc.team_name(c2) if c2 in codes else wc.short_slot(c2)
-        pc1 = " prov" if p1v else ""
-        pc2 = " prov" if p2v else ""
-        f1, f2 = wc.code_flag(c1), wc.code_flag(c2)
-        img1 = f"<img class='{pc1.strip()}' src='{f1}'>" if f1 else ""
-        img2 = f"<img class='{pc2.strip()}' src='{f2}'>" if f2 else ""
-        if r.played:
-            w1, w2, sc_html = _ko_result(r)
-            mid = f"<span class='sc'>{sc_html}</span>"
-        else:
-            w1 = w2 = ""
-            mid = "<span class='vs'>vs</span>"
-        tchips.append(
-            f"<div class='wcres-chip'>"
-            f"<span class='clk'>{clock}</span>{tz}"
-            f"{img1}<span class='t{w1}{pc1}'>{n1}</span>{mid}"
-            f"<span class='t{w2}{pc2}'>{n2}</span>{img2}</div>")
-    st.markdown(f"<div class='wcres-wrap'><div class='wcres-h'>{sched_h}</div>"
-                f"<div class='wctoday'>{''.join(tchips)}</div></div>", unsafe_allow_html=True)
+# The "Today's schedule / Next matches" row that sat here is gone: every one of the 104 matches has been
+# played, so it could only ever render empty, and a fixtures row makes no sense on an archive. Recover it
+# from git history (pre-2026-07-25) if this is ever pointed at a live tournament again.
 
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
-t_bracket, t_play, t_groups, t_sched, t_venues, t_teams, t_history = st.tabs(
-    ["🏆 Bracket", "🎮 Challenge", "🗓️ Groups", "📋 Schedule", "🏟️ Venues", "🌍 Teams", "📜 History"], key="wc_tab")
+# The archive leads — it's the part that stays true. The 2026 tabs that follow are one edition's deep
+# dive (its own bracket, group tables, schedule and venues), which no other edition has.
+t_history, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = st.tabs(
+    ["📜 Every World Cup", "🏆 2026 Bracket", "🗓️ 2026 Groups", "📋 2026 Schedule",
+     "🌍 2026 Teams", "🏟️ 2026 Venues", "🎮 Challenge"], key="wc_tab")
 
 def _koteam(x):
     return wc.team_label(x) if x in codes else wc.short_slot(x)
@@ -1129,11 +1094,20 @@ WCH_CSS = """<style>
 .wch-bt img { width:18px; height:12px; object-fit:cover; border-radius:2px; }
 .wch-bt .nm { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 .wch-bt .sc { font-weight:700; } .wch-bt .pk { color:#9fb2cc; font-size:.66rem; margin-left:1px; font-weight:600; }
+.wch-bm .aet { display:block; text-align:right; color:#7e8ba5; font-size:.6rem; font-weight:700;
+    text-transform:uppercase; letter-spacing:.3px; margin-top:1px; }
+/* 2026 only: a 16-card first round would run ~4x the height of a 1998-2022 bracket, so tighten the
+   cards and let the columns sit top-aligned instead of spreading over that full height. */
+.wch-bracket.r32 .wch-bm { padding:3px 7px; }
+.wch-bracket.r32 .wch-bt { font-size:.73rem; padding:1px 0; gap:5px; }
+.wch-bracket.r32 .wch-bcards { justify-content:space-evenly; gap:3px; }
+.wch-bracket.r32 .wch-bcol { min-width:142px; }
 .wch-third { display:inline-flex; align-items:center; gap:9px; margin:9px 0 2px; padding:5px 13px; border-radius:9px; font-size:.82rem;
     background:linear-gradient(160deg,#241c10,#16223b); border:1px solid rgba(205,127,50,.32); }
 .wch-third .lbl { color:#cd9b5a; font-weight:700; font-size:.72rem; text-transform:uppercase; letter-spacing:.3px; }
 </style>"""
-_STAGE = {"group": "Group", "group-2": "2nd group", "final-round": "Final round", "round-of-16": "Round of 16",
+_STAGE = {"group": "Group", "group-2": "2nd group", "final-round": "Final round",
+          "round-of-32": "Round of 32", "round-of-16": "Round of 16",
           "quarter-final": "Quarter-final", "semi-final": "Semi-final", "third-place": "3rd place", "final": "Final"}
 # Official World Cup mascots (emoji · name · what it is). Mascots began in 1966; 1930–62 had none.
 # Kept HERE in the main script (not wchistory) so a Streamlit Cloud module-cache miss can't break it,
@@ -1154,6 +1128,7 @@ WC_MASCOTS = {
     2014: ("🦔", "Fuleco", "a three-banded armadillo, an endangered Brazilian species"),
     2018: ("🐺", "Zabivaka", "a wolf — 'the one who scores' in Russian"),
     2022: ("🧞", "La'eeb", "a floating keffiyeh — 'super-skilled player' in Arabic"),
+    2026: ("🫎", "Maple, Zayu & Clutch", "a moose, a jaguar and a bald eagle — one per host nation"),
 }
 # Mascot photos intentionally OFF — every edition shows a clean name-only chip. (Polished mascot images
 # are copyrighted logos we don't use; the free Commons photos looked amateurish.) To re-enable one,
@@ -1163,14 +1138,16 @@ WC_MASCOT_IMG = {}
 with t_history:
     st.markdown(WCH_CSS, unsafe_allow_html=True)
     rec = wch.records()
+    _yrs = wch.years()
     ui.stats([
-        ("Editions", "22", "1930 – 2022"),
+        ("Editions", str(len(_yrs)), f"{_yrs[0]} – {_yrs[-1]}"),
         ("Matches", f"{rec['matches']:,}", "all-time"),
         ("Nations", str(rec["nations"]), "have competed"),
         ("*Most titles", rec["most_titles"], f"{rec['most_titles_n']} World Cups"),
     ])
-    st.caption("The complete men's World Cup, archived from 1930 — champions, all-time records and any "
-               "nation's head-to-head. West Germany counts with Germany; shootout knockouts count as draws.")
+    st.caption(f"The complete men's World Cup, {_yrs[0]}–{_yrs[-1]} — champions, all-time records and any "
+               "nation's head-to-head. West Germany counts with Germany, Czech Republic with Czechia and "
+               "Zaire with DR Congo; shootout knockouts count as draws.")
 
     ui.section("🏆 Champions", "tap a year to open that World Cup below — group tables + knockout bracket")
     champs_desc = list(reversed(wch.champions()))           # newest first
@@ -1224,6 +1201,12 @@ with t_history:
         aw = (x.away_score > x.home_score) or (haspk and x.pens_away > x.pens_home)
         return hw, aw, haspk
 
+    def _aet(x):
+        """'a.e.t.' tag for a tie settled in extra time without a shootout — otherwise a 1–0 gives no
+        hint that it took 120 minutes (2026's final, and the 1966/1978/2010/2014 finals too)."""
+        return ("<span class='aet'>a.e.t.</span>"
+                if (getattr(x, "extra_time", "") == "Y" and pd.isna(x.pens_home)) else "")
+
     def _bmatch(x, gold=False):
         hw, aw, haspk = _bwin(x)
 
@@ -1233,18 +1216,22 @@ with t_history:
                     f"<span class='nm'>{team}</span><span class='sc'>{gf}{pkt}</span></div>")
         return (f"<div class='wch-bm{' gold' if gold else ''}'>"
                 + _row(x.home, x.home_score, x.pens_home if haspk else None, hw)
-                + _row(x.away, x.away_score, x.pens_away if haspk else None, aw) + "</div>")
+                + _row(x.away, x.away_score, x.pens_away if haspk else None, aw)
+                + _aet(x) + "</div>")
 
     def _bracket_html(kos):
         by = {s: m for s, m in kos}
-        lbl = {"round-of-16": "Round of 16", "quarter-final": "Quarter-finals",
+        lbl = {"round-of-32": "Round of 32", "round-of-16": "Round of 16", "quarter-final": "Quarter-finals",
                "semi-final": "Semi-finals", "final": "Final"}
         cols = ""
-        for s in ("round-of-16", "quarter-final", "semi-final", "final"):
+        for s in ("round-of-32", "round-of-16", "quarter-final", "semi-final", "final"):
             if s in by and len(by[s]):
                 cards = "".join(_bmatch(x, gold=(s == "final")) for x in by[s].itertuples())
                 cols += f"<div class='wch-bcol'><div class='wch-bct'>{lbl[s]}</div><div class='wch-bcards'>{cards}</div></div>"
-        html = f"<div class='wch-bracket'>{cols}</div>"
+        # 2026's 16-card first round makes the bracket ~4x taller than a 1998-2022 one; the extra class
+        # lets the CSS tighten the cards so the whole thing still fits without a scroll cage.
+        wide = " r32" if len(by.get("round-of-32", ())) else ""
+        html = f"<div class='wch-bracket{wide}'>{cols}</div>"
         if "third-place" in by and len(by["third-place"]):
             x = next(by["third-place"].itertuples())
             hw, aw, _ = _bwin(x)
