@@ -23,6 +23,7 @@ import streamlit as st
 import ui
 import wc2026 as wc
 import wchistory as wch
+import wcplayers as wpl
 import wcreplay as wcrp
 
 st.set_page_config(page_title="Mundial · Every World Cup, 1930–2026", page_icon="🏆", layout="wide")
@@ -507,9 +508,9 @@ st.markdown("<div class='wclive'>" + "".join(
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
 # The archive leads, then the game that works on ANY edition. The 2026 tabs that follow are one
 # edition's deep dive (its own bracket, group tables, schedule and venues), which no other edition has.
-t_history, t_replay, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = st.tabs(
-    ["📜 Every World Cup", "🔁 Replay", "🏆 2026 Bracket", "🗓️ 2026 Groups", "📋 2026 Schedule",
-     "🌍 2026 Teams", "🏟️ 2026 Venues", "🎮 2026 Challenge"], key="wc_tab")
+t_history, t_players, t_replay, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = st.tabs(
+    ["📜 Every World Cup", "👤 Players", "🔁 Replay", "🏆 2026 Bracket", "🗓️ 2026 Groups",
+     "📋 2026 Schedule", "🌍 2026 Teams", "🏟️ 2026 Venues", "🎮 2026 Challenge"], key="wc_tab")
 
 def _koteam(x):
     return wc.team_label(x) if x in codes else wc.short_slot(x)
@@ -1440,3 +1441,179 @@ with t_replay:
                               f"<span>{_m['away']}</span></div>"
                               f"<span class='st'>{'you: ' + _mine if _mine else ''}</span></div>")
                 st.markdown(_rows, unsafe_allow_html=True)
+
+# ── 👤 Players ─────────────────────────────────────────────────────────────────────────────────────
+# The goal and squad archives (3,028 goals · 12,213 squad places, 1930–2026) surfaced three ways:
+# all-time scoring, an every-edition leading-scorer roll, and a per-player profile. Logic is in
+# wcplayers.py. Two honesty constraints run through this whole tab:
+#   · APPEARANCES DON'T EXIST in the source (match boxes carry no lineups), so nothing here may say
+#     "played" or "caps at this World Cup" — squad rows mean "named in the squad", full stop.
+#   · The leading-scorer roll is NOT the official Golden Boot, which used assists and minutes played
+#     as tie-breaks in some years. It is "who scored most", and it says so.
+WPL_CSS = """<style>
+.pl-row { display:flex; align-items:center; gap:10px; padding:6px 11px; border-radius:9px; margin-bottom:5px;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.15); }
+.pl-row .rk { color:#7e8ba5; font-weight:800; font-size:.74rem; width:22px; text-align:right; flex:0 0 auto; }
+.pl-row img { width:26px; height:17px; object-fit:cover; border-radius:2px; flex:0 0 auto; box-shadow:0 0 0 1px rgba(0,0,0,.3); }
+.pl-row .nm { color:#eaf1fb; font-weight:700; font-size:.9rem; flex:1 1 auto; min-width:0;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.pl-row .nt { color:#8aa0bd; font-size:.76rem; font-weight:600; flex:0 0 auto; }
+.pl-row .gl { color:#FFD700; font-weight:800; font-size:.95rem; flex:0 0 auto; min-width:26px; text-align:right; }
+.pl-row .ed { color:#7e8ba5; font-size:.7rem; font-weight:700; flex:0 0 auto; }
+.pl-row.gold { border-color:rgba(255,215,0,.45); background:linear-gradient(160deg,#2c2a12,#1a2238); }
+.pl-gb { display:grid; grid-template-columns:repeat(auto-fill,minmax(215px,1fr)); gap:8px; }
+.pl-gb .c { padding:7px 11px; border-radius:9px; background:linear-gradient(160deg,#1b2a47,#16223b);
+    border:1px solid rgba(108,172,228,.15); }
+.pl-gb .yr { color:#6CACE4; font-weight:800; font-size:.74rem; }
+.pl-gb .who { color:#eaf1fb; font-weight:700; font-size:.86rem; display:flex; align-items:center; gap:6px; margin-top:2px; }
+.pl-gb .who img { width:22px; height:14px; object-fit:cover; border-radius:2px; }
+.pl-gb .n { color:#FFD700; font-weight:800; margin-left:auto; }
+.pl-hero { display:flex; align-items:center; gap:15px; padding:13px 18px; border-radius:13px; margin:.2rem 0 .5rem;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.22); }
+.pl-hero img.f { width:54px; height:36px; object-fit:cover; border-radius:3px; box-shadow:0 2px 9px rgba(0,0,0,.45); }
+.pl-hero .nm { color:#fff; font-size:1.4rem; font-weight:800; line-height:1.1; }
+.pl-hero .sub { color:#9fb2cc; font-size:.82rem; font-weight:600; margin-top:2px; }
+.pl-hero .big { margin-left:auto; text-align:center; }
+.pl-hero .big .v { color:#FFD700; font-size:1.9rem; font-weight:800; line-height:1; }
+.pl-hero .big .l { color:#e7c95a; font-size:.62rem; font-weight:800; text-transform:uppercase; letter-spacing:.08em; }
+.pl-gline { display:flex; align-items:center; gap:9px; padding:4px 10px; border-radius:8px; margin-bottom:4px; font-size:.82rem;
+    background:rgba(108,172,228,.06); border:1px solid rgba(108,172,228,.12); }
+.pl-gline .y { color:#6CACE4; font-weight:800; width:38px; flex:0 0 auto; }
+.pl-gline .m { color:#FFD700; font-weight:800; width:52px; flex:0 0 auto; }
+.pl-gline .o { color:#cfe0f5; flex:1 1 auto; }
+.pl-gline .t { color:#7e8ba5; font-size:.72rem; }
+.pl-note { color:#8aa0bd; font-size:.78rem; margin:.1rem 0 .5rem 1px; }
+</style>"""
+
+with t_players:
+    st.markdown(WPL_CSS, unsafe_allow_html=True)
+    _prec = wpl.records()
+    ui.stats([
+        ("Goals", f"{_prec['goals']:,}", "1930 – 2026"),
+        ("Scorers", f"{_prec['scorers']:,}", "have scored"),
+        ("Squad places", f"{_prec['squad_players']:,}", "players named"),
+        ("*Top scorer", _prec["top"][0], f"{_prec['top'][2]} goals"),
+    ])
+    st.caption("Every World Cup goal with its scorer and minute, plus every named squad. Own goals are "
+               "recorded but never counted toward a player's tally. **Appearances aren't in the source** — "
+               "the match reports carry no line-ups — so squad figures mean *named in the squad*, not *played*.")
+
+    # Header BEFORE the control: st.columns renders where it is created, so building the column first
+    # left the slider stranded above the section title with nothing to explain it.
+    ui.section("⚽ All-time top scorers", "own goals excluded · search any of them under Player profile")
+    _lim = st.columns([1, 2])[0].select_slider(
+        "How many to show", [10, 25, 50, 100], value=25, key="pl_lim")
+    _ts = wpl.top_scorers(_lim)
+    _rows = ""
+    for _i, _r in enumerate(_ts.itertuples(), 1):
+        _pen = f" · {_r.penalties} pen" if _r.penalties else ""
+        _span = f"{_r.first}" if _r.first == _r.last else f"{_r.first}–{_r.last}"
+        _rows += (f"<div class='pl-row{' gold' if _i == 1 else ''}'><span class='rk'>{_i}</span>"
+                  f"<img src='{wpl.flag(_r.nation)}'><span class='nm'>{_r.player}</span>"
+                  f"<span class='nt'>{_r.nation}</span>"
+                  f"<span class='ed'>{_span} · {_r.editions} ed{_pen}</span>"
+                  f"<span class='gl'>{_r.goals}</span></div>")
+    st.markdown(_rows, unsafe_allow_html=True)
+
+    ui.section("🥇 Leading scorer, every edition", "")
+    st.markdown("<div class='pl-note'>Who scored most in each tournament — <b>not</b> the official "
+                "Golden Boot, which in some years used assists and minutes played as tie-breaks. "
+                "Ties are all listed.</div>", unsafe_allow_html=True)
+    _cards = ""
+    for _e in reversed(wpl.golden_boots()):
+        _who = "".join(
+            f"<div class='who'><img src='{wpl.flag(_n)}'><span>{_p}</span>"
+            f"<span class='n'>{_g}</span></div>" for _p, _n, _g in _e["players"])
+        _cards += f"<div class='c'><div class='yr'>{_e['year']}</div>{_who}</div>"
+    st.markdown(f"<div class='pl-gb'>{_cards}</div>", unsafe_allow_html=True)
+
+    ui.section("🔎 Player profile", "search any of the 9,478 players in the archive")
+    _q = st.text_input("Search", placeholder="Klose, Pelé, Maradona, Villalba…", key="pl_q",
+                       label_visibility="collapsed")
+    _hits = wpl.search(_q, limit=60)
+    if _q and not _hits:
+        st.info(f"No player matching “{_q}”.")
+    elif _hits:
+        _pick = st.selectbox(f"{len(_hits)} match{'es' if len(_hits) != 1 else ''}",
+                             [k for _d, k in _hits],
+                             format_func=lambda k: dict((k2, d2) for d2, k2 in _hits).get(k, k),
+                             key="pl_pick")
+        _p = wpl.profile(_pick)
+        _dob = _p["dob"].strftime("%d %b %Y") if pd.notna(_p["dob"]) else "date of birth unknown"
+        _pos = " · ".join(wpl.POS_NAME.get(x, x) for x in _p["positions"] if x)
+        st.markdown(
+            f"<div class='pl-hero'><img class='f' src='{wpl.flag(_p['nation'])}'>"
+            f"<div><div class='nm'>{_p['player']}</div>"
+            f"<div class='sub'>{_p['nation']}{' · ' + _pos if _pos else ''} · {_dob}</div></div>"
+            f"<div class='big'><div class='v'>{_p['goals']}</div>"
+            f"<div class='l'>World Cup goal{'s' if _p['goals'] != 1 else ''}</div></div></div>",
+            unsafe_allow_html=True)
+
+        _bits = []
+        if _p["editions_squad"]:
+            _bits.append(f"**Squads:** {', '.join(str(y) for y in _p['editions_squad'])}")
+        if _p["captain_years"]:
+            _bits.append(f"**Captain:** {', '.join(str(y) for y in _p['captain_years'])}")
+        if _p["penalties"]:
+            _bits.append(f"**Penalties:** {_p['penalties']}")
+        if _p["own_goals"]:
+            _bits.append(f"**Own goals:** {_p['own_goals']}")
+        if _p["age_at_first_goal"]:
+            _bits.append(f"**Age at first goal:** {_p['age_at_first_goal']:.1f}")
+        if _p["clubs"]:
+            _bits.append(f"**Clubs:** {', '.join(_p['clubs'])}")
+        if _bits:
+            st.markdown(" &nbsp;·&nbsp; ".join(_bits))
+
+        if _p["goals"]:
+            _gl = ""
+            for _g in _p["goal_rows"].itertuples():
+                _mn = f"{int(_g.minute)}" + (f"+{int(_g.minute_extra)}" if pd.notna(_g.minute_extra) else "")
+                _tag = " (pen)" if _g.penalty else ""
+                _opp = wpl.nations().get(_g.opponent_code, _g.opponent_code)
+                _gl += (f"<div class='pl-gline'><span class='y'>{_g.year}</span>"
+                        f"<span class='m'>{_mn}'{_tag}</span>"
+                        f"<span class='o'>v {_opp}</span>"
+                        f"<span class='t'>{_STAGE.get(_g.stage, _g.stage)}</span></div>")
+            with st.expander(f"⚽ All {_p['goals']} goal{'s' if _p['goals'] != 1 else ''}", expanded=True):
+                st.markdown(_gl, unsafe_allow_html=True)
+        elif _p["editions_squad"]:
+            st.caption("Named in a squad but never scored. Whether he took the field at all isn't "
+                       "recorded in this data.")
+
+    ui.section("📊 Records", "computed from the archive, not hardcoded")
+    _y, _o = _prec["youngest_scorer"], _prec["oldest_scorer"]
+    _ys, _os = _prec["youngest_squad"], _prec["oldest_squad"]
+    _bh = _prec["best_haul"]
+    ui.features([
+        {"icon": "🎯", "title": "Most goals in a match",
+         "body": (f"<b>{_bh[0]}</b> scored <b>{_bh[1]}</b> v {_bh[2]} · {_bh[3]}" if _bh else "—"),
+         "gold": True},
+        {"icon": "🌍", "title": "Most tournaments scored in",
+         "body": f"<b>{_prec['most_editions'][0]}</b> — {_prec['most_editions'][2]} editions"},
+        {"icon": "🐣", "title": "Youngest scorer",
+         "body": (f"<b>{_y[0]}</b> at <b>{_y[2]}</b> · {_y[1]} {_y[3]}" if _y else "—")},
+        {"icon": "🧓", "title": "Oldest scorer",
+         "body": (f"<b>{_o[0]}</b> at <b>{_o[2]}</b> · {_o[1]} {_o[3]}" if _o else "—")},
+        {"icon": "📋", "title": "Youngest named in a squad",
+         "body": (f"<b>{_ys[0]}</b> at <b>{_ys[2]}</b> · {_ys[1]} {_ys[3]}" if _ys else "—")},
+        {"icon": "📋", "title": "Oldest named in a squad",
+         "body": (f"<b>{_os[0]}</b> at <b>{_os[2]}</b> · {_os[1]} {_os[3]}" if _os else "—")},
+        {"icon": "🥅", "title": "Penalties & own goals",
+         "body": f"<b>{_prec['penalties']}</b> pens · <b>{_prec['own_goals']}</b> own goals"},
+        {"icon": "⏱️", "title": "Scored in the 1st minute",
+         "body": f"<b>{_prec['first_minute_goals']}</b> goals"},
+    ])
+    st.caption("Youngest/oldest **scorer** uses the goal's own date; youngest/oldest **named in a "
+               "squad** is measured at mid-tournament. Both cover only players whose date of birth "
+               "is in the source (54 squad places have none).")
+
+    ui.section("⏱️ When goals are scored", "all 2,960 scoring goals by 15-minute band")
+    _mb = wpl.minute_bands()
+    _fig = go.Figure(go.Bar(x=_mb["band"], y=_mb["goals"], marker_color=SKY,
+                            hovertemplate="%{x} min<br>%{y} goals<extra></extra>"))
+    _fig.update_layout(template=PLOTLY_TMPL, height=270, showlegend=False,
+                       xaxis_title="minute", yaxis_title="goals")
+    st.plotly_chart(_fig, width="stretch", key="pl_min")
+    st.caption("Stoppage-time goals count in the band of their base minute — a 90+8' goal is a 76–90 "
+               "goal. The 91–120 bands are extra time only, which few matches reach.")
