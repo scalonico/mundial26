@@ -405,3 +405,34 @@ def nation_matches(nation, year=None):
     if year is not None:
         m = m[m["year"] == int(year)]
     return m.sort_values(["year", "date"], ascending=[False, True])
+
+
+def _txt(v):
+    """A blank-safe string: the archive leaves some venue/city cells empty, which pandas reads as NaN."""
+    return "" if v is None or (isinstance(v, float) and pd.isna(v)) else str(v).strip()
+
+
+def edition_venues(year):
+    """Stadiums used in one edition → [{venue, city, matches, first, last, finals}], busiest first.
+
+    Every match row 1930–2026 carries a venue and city, so this works for every edition — 3 stadiums in
+    1930, 20 in 2002. Capacity and photographs exist only for 2026 (data/wc2026_venues.csv) and are
+    joined in by the UI, not here.
+    """
+    em = edition_matches(year)
+    out = {}
+    for r in em.itertuples():
+        # venue/city arrive as NaN floats where the source left them blank, so coerce rather than
+        # assume a string — a few early rows have no city recorded.
+        v = _txt(r.venue)
+        if not v:
+            continue
+        d = out.setdefault(v, {"venue": v, "city": _txt(r.city), "matches": 0,
+                               "first": None, "last": None, "finals": []})
+        d["matches"] += 1
+        dt = str(r.date)
+        d["first"] = min(d["first"] or dt, dt)
+        d["last"] = max(d["last"] or dt, dt)
+        if r.stage in ("final", "third-place", "semi-final"):
+            d["finals"].append(r.stage)
+    return sorted(out.values(), key=lambda d: (-d["matches"], d["venue"]))

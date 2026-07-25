@@ -110,106 +110,8 @@ ui.inject()
 
 
 # ─────────────────────────────────────────────────────── WC bracket CSS + helpers
-WC_BRACKET_CSS = f"""<style>
-/* Two-sided bracket sized to fit the 1180px content column WITHOUT sideways scrolling:
-   9 columns × ~118px + gaps ≈ 1110px. overflow-x stays as a safety net on very narrow windows.
-   Tall enough (8 R32 cards × ~118px slot) that the by-y absolute placement below never overlaps. */
-.wcbr {{ display:flex; gap:6px; height:960px; overflow-x:auto; padding:4px 2px 18px;
-         justify-content:space-between; }}
-/* Zoom wrapper: on a phone the fitted bracket is tiny — `zoom` magnifies the whole thing and this
-   container scrolls sideways so you can read each card, then pan across the bracket. */
-.wcbr-scroll {{ overflow-x:auto; -webkit-overflow-scrolling:touch; }}
-.wccol {{ display:flex; flex-direction:column; flex:1 1 0; min-width:0; }}
-.wcch {{ font-size:.62rem; letter-spacing:.08em; text-transform:uppercase; color:#9fc4ec;
-         font-weight:800; text-align:center; margin-bottom:8px; }}
-/* Cards are positioned absolutely by their layout `y` (the mean of a match's two feeders), so every
-   later-round match sits vertically centred between the two it feeds from — alignment holds whatever
-   each column's card count is, unlike `space-around` which packs the dense R32 column out of step. */
-.wccards {{ position:relative; flex:1; }}
-.wcmt {{ position:absolute; left:0; right:0; transform:translateY(-50%);
-         background:linear-gradient(160deg,#1d2d4c,#16223b); border:1px solid rgba(108,172,228,.20);
-         border-radius:10px; padding:6px 9px; box-shadow:0 2px 9px rgba(0,0,0,.26); }}
-.wctr {{ display:flex; justify-content:space-between; align-items:center; font-size:.80rem;
-         color:#dce6f4; padding:2px 0; white-space:nowrap; }}
-.wctr + .wctr {{ border-top:1px solid rgba(108,172,228,.10); }}
-.wctm {{ display:flex; align-items:center; gap:6px; min-width:0; overflow:hidden; }}
-.wctm img.wcf {{ width:18px; height:12px; object-fit:cover; border-radius:2px;
-                 box-shadow:0 0 0 1px rgba(0,0,0,.3); flex:0 0 auto; }}
-.wctm span {{ white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }}
-.wctm.wcp {{ color:#8aa0bd; font-weight:600; }}
-.wctm.wcprov span {{ font-style:italic; color:#aebfd6; }}
-.wctm.wcprov img.wcf {{ opacity:.72; }}
-.wcsc {{ font-weight:800; color:#fff; margin-left:6px; flex:0 0 auto; }}
-/* Date + location are the key info — make them the prominent, highlighted part of every card. */
-.wcmeta {{ margin-top:6px; display:flex; flex-direction:column; gap:3px; }}
-/* Dark, near-opaque pill backing so the bright date/venue text always reads clearly,
-   whatever the card gradient behind it. */
-.wcwhen, .wcwhere {{ display:flex; align-items:center; gap:4px; font-size:.69rem; font-weight:800;
-                     padding:2px 6px; border-radius:6px; white-space:nowrap; overflow:hidden;
-                     text-overflow:ellipsis; background:rgba(6,11,22,.66); }}
-.wcwhen {{ color:#ffd64a; border:1px solid rgba(255,214,74,.45); }}
-.wcwhere {{ color:#8ccdff; border:1px solid rgba(140,205,255,.42); }}
-.wcmno {{ font-size:.6rem; font-weight:700; color:rgba(255,255,255,.5); margin-left:auto; }}
-.wcfin {{ background:linear-gradient(160deg,rgba(255,215,0,.15),#16223b); border:1px solid {GOLD};
-          box-shadow:0 0 0 1px rgba(255,215,0,.4), 0 6px 20px rgba(255,215,0,.18); }}
-.wcfin .wctr {{ color:{GOLD}; font-weight:700; }}
-.wcfin .wcsc {{ color:{GOLD}; }}
-</style>"""
-
-
-def wc_bracket_html(resolved=None, provisional=True):
-    """Two-sided knockout bracket as flexbox columns (R32→SF · Final · SF→R32). Each column is ordered
-    top-to-bottom by the layout y, and `justify-content:space-around` fans each round in so every match
-    sits between its two feeders. Returns (html, third_place_match_row).
-    `resolved` (a resolve_bracket result) fills placeholder slots with the projection. With
-    `provisional=True` those filled teams are shown in italics with a dimmed flag (standings can still
-    change); once the group stage is settled, pass `provisional=False` to render them as solid."""
-    nodes, edges, third = wc.bracket_layout(resolved=resolved)
-    lbl = {"R32": "Round of 32", "R16": "Round of 16", "QF": "Quarter-finals",
-           "SF": "Semi-finals", "F": "Final"}
-    # Vertical scale: every card's centre sits at (y+0.5)/span of its column, where `span` is the number
-    # of leaf rows (8 R32 per side). The Final (y=3.5) lands at 50%; each R16 lands at the midpoint of
-    # its two R32 feeders, each QF at the midpoint of its two R16, etc. — a true bracket, no crossing.
-    span = max(d["y"] for d in nodes.values()) + 1
-
-    def slot(x, prov=False):                              # flag image for a resolved team, else placeholder
-        f = wc.code_flag(x)
-        if f:
-            cls = "wctm wcprov" if prov else "wctm"
-            return f"<span class='{cls}'><img class='wcf' src='{f}'><span>{x}</span></span>"
-        return f"<span class='wctm wcp'><span>{wc.short_slot(x)}</span></span>"
-
-    def card(n, d):
-        def _sc(s, p):                    # score cell; a shootout adds a small '(4)' after the score
-            if pd.isna(s):
-                return ""
-            pen = "" if pd.isna(p) else f"<span style='font-size:.68em;opacity:.75'> ({int(p)})</span>"
-            return f"<span class='wcsc'>{int(s)}{pen}</span>"
-        sc1, sc2 = _sc(d["s1"], d.get("pen1")), _sc(d["s2"], d.get("pen2"))
-        dt = pd.Timestamp(d["date"])
-        cls = "wcmt wcfin" if d["stage"] == "F" else "wcmt"
-        top = (d["y"] + 0.5) / span * 100                                  # vertical centre, % of column
-        when = f"{dt.strftime('%a')} {dt.strftime('%b')} {dt.day}"          # e.g. "Sun Jun 28"
-        venue = d.get("stadium") or ""
-        full = d['city'] + (f" · {venue}" if venue else "")                 # city · stadium → tooltip
-        return (f"<div class='{cls}' style='top:{top:.4f}%'>"
-                f"<div class='wctr'>{slot(d['t1'], d.get('prov1') and provisional)}{sc1}</div>"
-                f"<div class='wctr'>{slot(d['t2'], d.get('prov2') and provisional)}{sc2}</div>"
-                f"<div class='wcmeta'>"
-                f"<span class='wcwhen'>📅 {when}<span class='wcmno'>#{n}</span></span>"
-                f"<span class='wcwhere' title='{full}'>📍 {d['city']}</span></div></div>")
-
-    cols = []
-    for x in range(9):
-        cn = sorted((d["y"], n, d) for n, d in nodes.items() if d["x"] == x)
-        if not cn:
-            continue
-        cards = "".join(card(n, d) for _, n, d in cn)
-        cols.append(f"<div class='wccol'><div class='wcch'>{lbl[cn[0][2]['stage']]}</div>"
-                    f"<div class='wccards'>{cards}</div></div>")
-    return "<div class='wcbr'>" + "".join(cols) + "</div>", third
-
-
+# WC_BRACKET_CSS is gone with the two-sided 2026 bracket it styled; the archive's funnel
+# (WCH_CSS .wch-bracket) renders every edition, 1930's two semi-finals through 2026's 16 R32 ties.
 # ─────────────────────────────────────────────── World Cup bracket game ("Bracket challenge")
 # Built from native st.button widgets so each pick is a normal rerun (session_state + active tab
 # survive). The bracket re-solves from the predicted group order + explicit winners on every render.
@@ -438,23 +340,6 @@ def wc_play_match(mno, d, is_final):
 teams_df, ms, ven = wc.teams(), wc.matches(), wc.venues()
 codes = set(teams_df["code"])
 
-# Once a group stage match has been played the knockout fixtures in the data still read as slot
-# placeholders ("Runner-up Group A", "3rd Group C/D/F/G/H"). Project them to the teams the standings
-# currently imply — the SAME fill the 🏆 Bracket tab shows — so the schedule and front-page rows can
-# name real teams instead of slots. ko_team() returns (code_or_raw, provisional?): provisional teams
-# (projected, not yet officially advanced) are rendered faded/italic so they read as not-yet-final.
-_ko_proj = wc.standings_bracket() if wc.groups_played() > 0 else {}
-# No unplayed group match left → the group stage is over, so the Schedule tab opens on the knockouts.
-_group_complete = not ((ms["stage"] == "group") & ~ms["played"]).any()
-
-def ko_team(raw, match_no, side):
-    """Resolve one side ('team1'/'team2') of a match to a real team code where possible."""
-    if raw in codes:                                  # official data already names a real team
-        return raw, False
-    code = _ko_proj.get(int(match_no), {}).get("t1" if side == "team1" else "t2")
-    if code:                                          # fill the placeholder with the standings projection
-        return code, True
-    return raw, False                                 # still an unresolved slot ("1A", "W73")
 
 # ── Bracket game: persisted prediction state (picks are made with native buttons → normal rerun,
 # which preserves session_state and the active tab; callbacks live at module scope, see _wcp_pick).
@@ -515,158 +400,15 @@ st.markdown("<div class='wclive'>" + "".join(
 # 2026's results are still one click away in its own tabs. Recover either from git history
 # (pre-2026-07-25) if this is ever pointed at a live tournament again.
 
+_HOSTS = {c["year"]: c["host"] for c in wch.champions()}
+
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
 # The archive leads, then the game that works on ANY edition. The 2026 tabs that follow are one
 # edition's deep dive (its own bracket, group tables, schedule and venues), which no other edition has.
-t_history, t_nations, t_players, t_replay, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = \
-    st.tabs(["📜 Every World Cup", "🏳️ Nations", "👤 Players", "🔁 Replay", "🏆 2026 Bracket",
-             "🗓️ 2026 Groups", "📋 2026 Schedule", "🌍 2026 Teams", "🏟️ 2026 Venues",
-             "🎮 2026 Challenge"], key="wc_tab")
+t_history, t_nations, t_players, t_venues, t_squads, t_replay, t_play = st.tabs(
+    ["📜 Every World Cup", "🏳️ Nations", "👤 Players", "🏟️ Venues", "👥 Squads", "🔁 Replay",
+     "🎮 2026 Challenge"], key="wc_tab")
 
-def _koteam(x):
-    return wc.team_label(x) if x in codes else wc.short_slot(x)
-
-with t_groups:
-    _gkey = (
-        "<div class='wgkey'><b>Final group standings.</b> The <b class='k-q'>top two</b> of each group, "
-        "plus the <b class='k-3'>eight best third-placed</b> teams, have qualified for the 32-team "
-        "knockout — see the 🏆 Bracket tab for the draw.</div>" if _group_complete else
-        "<div class='wgkey'>Twelve groups of four — the <b>top two</b> of each, plus the <b>eight best "
-        "third-placed</b> teams, advance to a 32-team knockout. Ranks and "
-        "<b class='k-q'>green</b>/<b class='k-3'>amber</b> qualification shading appear once matches "
-        "kick off (June 11).</div>")
-    st.markdown(_gkey, unsafe_allow_html=True)
-    letters = list("ABCDEFGHIJKL")
-    for r0 in range(0, 12, 3):
-        for col, letter in zip(st.columns(3), letters[r0:r0 + 3]):
-            with col:
-                tbl = wc.group_standings(letter)
-                # Full FIFA-style standings as a tight custom HTML card (st.dataframe can't fit this
-                # many columns at 4-wide; flag IMAGE leads the Team cell — emoji flags fail on Windows).
-                # The rank column + qualification shading appear ONLY once the group has played a match —
-                # before kickoff every team is 0-0-0, so an ordering would be meaningless.
-                gdf = lambda v: str(v)                # signless GD (negatives keep "-"); + cluttered the tight cell
-                live = int(tbl["P"].sum()) > 0
-                zc = {0: "q1", 1: "q1", 2: "q3"}
-                rows = []
-                for i, r in enumerate(tbl.itertuples()):
-                    cls = zc.get(i, "") if live else ""
-                    rk = f"<td class='rk'>{i + 1}</td>" if live else ""
-                    rows.append(
-                        f"<tr class='{cls}'>{rk}"
-                        f"<td class='tm' title='{r.team}'><img class='gf' src='{r.flag_url}'> {wc.short_name(r.team)}</td>"
-                        f"<td>{r.P}</td><td>{r.W}</td><td>{r.D}</td><td>{r.L}</td>"
-                        f"<td>{r.GF}</td><td>{r.GA}</td><td>{gdf(r.GD)}</td>"
-                        f"<td class='pts'>{r.Pts}</td></tr>")
-                rkhead = "<th class='rk'>#</th>" if live else ""
-                tcls = "wcg" if live else "wcg wcg-pre"   # dim the all-zero numbers before kickoff
-                st.markdown(
-                    f"<div class='wgcard'><div class='wgc-h'>Group {letter}</div>"
-                    f"<table class='{tcls}'><thead><tr>{rkhead}<th class='tm'>Team</th>"
-                    "<th>P</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th>"
-                    "<th>GD</th><th class='pts'>Pts</th></tr></thead>"
-                    f"<tbody>{''.join(rows)}</tbody></table></div>", unsafe_allow_html=True)
-
-with t_sched:
-    fc = st.columns([1.2, 1.5, 1, 1.3])
-    gsel = fc[0].selectbox("Group", ["All groups"] + [f"Group {l}" for l in "ABCDEFGHIJKL"], key="wc_grp")
-    tsel = fc[1].selectbox("Team", ["All teams"] + sorted(teams_df["flag"] + " " + teams_df["name"]),
-                           key="wc_team")
-    # Once the groups are decided, open on the knockouts — the 72 played group games would otherwise
-    # bury the 16 imminent Round-of-32 ties at the bottom of an "All stages" list.
-    ssel = fc[2].selectbox("Stage", ["All stages", "Group stage", "Knockout"], key="wc_stage",
-                           index=2 if _group_complete else 0)
-    tzsel = fc[3].selectbox("Time zone", list(wc.TIMEZONES), key="wc_tz")
-    tzname = wc.TIMEZONES[tzsel]
-    d = ms
-    if gsel != "All groups":
-        d = d[d["group"] == gsel[-1]]
-    if ssel == "Group stage":
-        d = d[d["stage"] == "group"]
-    elif ssel == "Knockout":
-        d = d[d["stage"] != "group"]
-    if tsel != "All teams":
-        d = d[(d["team1_label"] == tsel) | (d["team2_label"] == tsel)]
-    if d.empty:
-        st.info("No matches match that filter.")
-    else:
-        if tzname:                                       # convert the absolute kickoff to the chosen zone
-            conv = d["kickoff_utc"].dt.tz_convert(tzname)
-            date_col = conv.dt.strftime("%a %b ") + conv.dt.day.astype(str)
-            time_col = [f"{(t.hour % 12 or 12)}:{t.minute:02d} {'AM' if t.hour < 12 else 'PM'}"
-                        if pd.notna(t) else "" for t in conv]
-            tzcap = f"shown in **{tzsel.split(' ', 1)[-1]}** time"
-        else:
-            date_col = d["date"].dt.strftime("%a %b ") + d["date"].dt.day.astype(str)
-            time_col = d["time_local"]
-            tzcap = "local to each venue"
-        nm = lambda x: wc.team_name(x) if x in codes else wc.short_slot(x)
-
-        def tcell(x, side, match_no):                    # flag image + name; KO slots resolve to projected teams
-            code, prov = ko_team(x, match_no, "team1" if side == "home" else "team2")
-            name = f"<span>{nm(code)}</span>"
-            f = wc.code_flag(code)
-            if not f:                                    # still an unresolved slot — show the placeholder label
-                return f"<div class='tm {side} ph'>{name}</div>"
-            pv = " prov" if prov else ""                 # projected (not yet officially advanced) → faded/italic
-            img = f"<img src='{f}'>"
-            return f"<div class='tm {side}{pv}'>{name + img if side == 'home' else img + name}</div>"
-
-        st.caption(f"{len(d)} matches · kickoff times {tzcap}.")
-        dates, times = list(date_col), list(time_col)
-        parts, last = ["<div class='wsched'>"], None
-        for i, r in enumerate(d.itertuples()):
-            if dates[i] != last:
-                parts.append(f"<div class='wsd-day'>{dates[i]}</div>"); last = dates[i]
-            rnd = f"Group {r.group}" if r.stage == "group" else r.stage_name
-            sc = "vs" if pd.isna(r.score1) else f"{int(r.score1)}–{int(r.score2)}"
-            if pd.notna(r.score1) and pd.notna(r.pens1):
-                sc += f" <span style='font-size:.72em;color:#9fb2cc'>({int(r.pens1)}–{int(r.pens2)} p)</span>"
-            parts.append(
-                f"<div class='wsm'><span class='wsm-t'>{times[i]}</span>"
-                f"<span class='wsm-rnd'>{rnd}</span>{tcell(r.team1, 'home', r.match_no)}"
-                f"<span class='wsm-sc'>{sc}</span>{tcell(r.team2, 'away', r.match_no)}"
-                f"<span class='wsm-ven'>{r.stadium}, {r.city}</span></div>")
-        parts.append("</div>")
-        st.markdown("".join(parts), unsafe_allow_html=True)
-
-with t_bracket:
-    st.caption("The 32-team knockout, both halves converging on the **Final** at MetLife Stadium "
-               "(Jul 19). The **Round of 32** fills from the live standings — group winners, "
-               "runners-up and the eight best third-placed teams. Later rounds stay as fixtures, "
-               "showing only the **📅 date** and **📍 venue** until teams advance.")
-    _gp = wc.groups_played()
-    # Fill the Round of 32 from the standings automatically once any group game has been played — there
-    # is no reason to hide the qualified teams, so the old toggle is gone. Before kickoff (no games yet)
-    # the official empty bracket shows. Once the group stage is settled the R32 teams are final, so they
-    # render solid; while groups are still in progress they stay italic/faded (the draw can still shift).
-    resolved = wc.standings_bracket() if _gp > 0 else None
-    if resolved:
-        _bnote = (
-            "<i>Round of 32</i> — the group stage is complete; these are the qualified teams. Later "
-            "rounds show only the <b>📅 date</b> and <b>📍 venue</b> until teams advance."
-            if _group_complete else
-            f"<i>Round of 32 only</i> — teams (<i>italic, faded flag</i>) reflect the standings after "
-            f"<b>{_gp} of 72</b> group matches and shift with every result. Later rounds show only the "
-            f"<b>📅 date</b> and <b>📍 venue</b> until teams qualify.")
-        st.markdown(f"<div style='font-size:.8rem;color:#aebfd6;margin:-2px 0 8px'>{_bnote}</div>",
-                    unsafe_allow_html=True)
-    st.markdown("👉 Want to call it yourself? The **🎮 Bracket challenge** tab turns this into a "
-                "fill-in-your-own bracket — pick every winner through to the title.")
-    zoom_opts = {"Fit": 1.0, "1.25×": 1.25, "1.5×": 1.5, "2×": 2.0, "2.5×": 2.5}
-    zsel = st.select_slider(
-        "🔍 Zoom (handy on a phone — magnify, then scroll sideways to pan across the bracket)",
-        options=list(zoom_opts), value="Fit", key="wc_bracket_zoom")
-    zf = zoom_opts[zsel]
-    bracket_html, third = wc_bracket_html(resolved=resolved, provisional=not _group_complete)
-    inner = f"<div style='zoom:{zf}'>{bracket_html}</div>" if zf != 1.0 else bracket_html
-    st.markdown(WC_BRACKET_CSS + f"<div class='wcbr-scroll'>{inner}</div>", unsafe_allow_html=True)
-    if third is not None:
-        td = pd.Timestamp(third.date)
-        t1d, t2d = third.team1, third.team2                 # losers of the semis — no team until then
-        st.markdown(f"🥉 **Third-place play-off** (#{int(third.match_no)}) · "
-                    f"**📅 {td.strftime('%a')} {td.strftime('%b')} {td.day}** · "
-                    f"**📍 {third.city} · {third.stadium}** — {wc.box_slot(t1d)} vs {wc.box_slot(t2d)}")
 
 with t_play:
     wcp_q = st.session_state.wcp_q
@@ -868,116 +610,6 @@ VENUE_CSS = """<style>
 .ven-mt .tmc .slot { color:#9fb2cc; font-weight:600; font-size:.8rem; }
 .ven-mt .tag { color:#7e8ba5; font-size:.72rem; text-align:right; white-space:nowrap; }
 </style>"""
-
-with t_venues:
-    st.markdown(VENUE_CSS, unsafe_allow_html=True)
-    ui.stats([
-        ("Venues", "16", "stadiums"),
-        ("Host countries", "3", "Canada · Mexico · USA"),
-        ("Biggest", "Estadio Azteca", "Mexico City · 83,264"),
-        ("*Total seats", f"{int(ven['capacity'].sum()):,}", "across all 16"),
-    ])
-    st.caption("16 stadiums across Canada, Mexico and the USA — the **Final** at MetLife, the **opening "
-               "match** at the iconic Estadio Azteca. **Tap any stadium below** — its full fixture list "
-               "loads in the panel right here.")
-
-    def _slug(s):
-        return "".join(ch if ch.isalnum() else "_" for ch in str(s).lower())
-
-    if st.session_state.get("sel_venue") not in set(ven["stadium"]):
-        st.session_state["sel_venue"] = "MetLife Stadium"          # hosts the Final
-
-    def _pick_venue(name):                                          # on_click → set before the rerun re-renders,
-        st.session_state["sel_venue"] = name                       # so the detail panel above shows it with no lag
-
-    sel = st.session_state["sel_venue"]
-
-    # ── Detail panel FIRST (top of the tab) so a pick's fixtures always render in view, not 1800px below
-    # a tall photo grid (which read as "nothing happened", worst on a phone). The grid is the picker below.
-    vr = ven[ven.stadium == sel].iloc[0]
-    vm = ms[ms.stadium == sel].sort_values("match_no")
-    st.markdown(f"<div id='venue-detail' class='ven-head'><div><div class='nm'>🏟️ {sel}</div>"
-                f"<div class='loc'>{vr.city}, {vr.country}</div></div>"
-                f"<div class='meta'><b>{int(vr.capacity):,}</b> seats &nbsp;·&nbsp; <b>{len(vm)}</b> matches</div></div>",
-                unsafe_allow_html=True)
-
-    def _vmrow(x):
-        def cell(val, right):
-            fl = wc.code_flag(val)
-            inner = (f"<img src='{fl}'><span>{wc.team_name(val)}</span>" if fl
-                     else f"<span class='slot'>{val}</span>")
-            return f"<div class='tmc{' r' if right else ''}'>{inner}</div>"
-        dt = f"{x.date.day} {x.date.strftime('%b')}" if pd.notna(x.date) else ""
-        mid = f"{int(x.score1)}–{int(x.score2)}" if x.played else "v"
-        if x.played and pd.notna(x.pens1):
-            mid += f" <span style='font-size:.72em;color:#9fb2cc'>({int(x.pens1)}–{int(x.pens2)} p)</span>"
-        tag = f"Group {x.group}" if x.stage == "group" else x.stage_name
-        return (f"<div class='ven-mt'><span class='dt'>{dt}</span>{cell(x.team1, True)}"
-                f"<span class='vs'>{mid}</span>{cell(x.team2, False)}<span class='tag'>{tag}</span></div>")
-
-    gm = vm[vm.stage == "group"]
-    ko = vm[vm.stage != "group"]
-    if len(gm):
-        st.markdown("<div class='ven-sub'>⚽ Group stage</div>", unsafe_allow_html=True)
-        st.markdown("".join(_vmrow(x) for x in gm.itertuples()), unsafe_allow_html=True)
-    if len(ko):
-        st.markdown("<div class='ven-sub'>🏆 Knockout stage</div>", unsafe_allow_html=True)
-        st.markdown("".join(_vmrow(x) for x in ko.itertuples()), unsafe_allow_html=True)
-
-    # ── Stadium picker grid (below the detail). Per-venue photo backgrounds + a gold outline on the
-    # selected one. Buttons set the selection via on_click so the panel above updates without a lag.
-    st.markdown("<div class='ven-pick'>📍 Pick a stadium</div>", unsafe_allow_html=True)
-    st.markdown("<style>" + "".join(
-        f".st-key-ven_{_slug(r.stadium)} button{{background-image:"
-        f"linear-gradient(180deg,rgba(11,18,32,.05) 24%,rgba(11,18,32,.93)),url('{wc.venue_photo(r.stadium)}') !important;}}"
-        for r in ven.itertuples())
-        + f".st-key-ven_{_slug(sel)} button{{outline:2px solid #FFD700;outline-offset:-2px;"
-        f"border-color:#FFD700 !important;}}</style>", unsafe_allow_html=True)
-    with st.container(key="venuegrid"):
-        for country in ven.groupby("country")["capacity"].count().sort_values(ascending=False).index:
-            cv = list(ven[ven.country == country].sort_values("capacity", ascending=False).itertuples())
-            flag = f"<img src='{host_flag(country, 40)}' height='15' " \
-                   "style='vertical-align:-2px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.3)'>"
-            ui.section(f"{flag} &nbsp;{country}", f"{len(cv)} venue{'s' if len(cv) != 1 else ''}")
-            for k in range(0, len(cv), 4):
-                cols = st.columns(4)
-                for j, r in enumerate(cv[k:k + 4]):
-                    with cols[j]:
-                        n = int((ms.stadium == r.stadium).sum())
-                        st.button(r.stadium, key=f"ven_{_slug(r.stadium)}",
-                                  on_click=_pick_venue, args=(r.stadium,),
-                                  help=f"{int(r.capacity):,} seats · {n} matches")
-
-with t_teams:
-    conf = wc.confederation_counts()
-    cc = st.columns([1.5, 1])
-    fig = go.Figure(go.Bar(x=conf.values, y=conf.index, orientation="h",
-                           marker_color=[wc.CONF_COLOR.get(c, SKY) for c in conf.index],
-                           text=conf.values, textposition="outside", cliponaxis=False))
-    fig.update_layout(template=PLOTLY_TMPL, height=240, margin=dict(l=10, r=30, t=8, b=10),
-                      yaxis=dict(autorange="reversed"), xaxis_title="teams qualified")
-    cc[0].markdown("**By confederation**"); cc[0].plotly_chart(fig, width="stretch")
-    with cc[1]:
-        ui.callout("🗓️ The format",
-                   "<b>48 teams</b> · 12 groups of 4 · the top two of each group <b>plus the eight "
-                   "best third-placed teams</b> reach a 32-team knockout, from the Round of 32 to "
-                   "the Final at MetLife Stadium on <b>July 19</b>.")
-    csel = st.selectbox("Confederation", ["All"] + list(conf.index), key="wc_conf")
-    st.caption("48 teams. 🏆 = senior men's World Cup titles (8 nations have ever won; West Germany's "
-               "three count as Germany). Head to **🎮 Bracket challenge** to predict how they'll finish.")
-    for cfd in (list(conf.index) if csel == "All" else [csel]):
-        sub = teams_df[teams_df["confederation"] == cfd].sort_values(["group", "name"])
-        if sub.empty:
-            continue
-        ui.section(cfd, f"{len(sub)} team{'s' if len(sub) != 1 else ''}")
-        cards = []
-        for r in sub.itertuples():
-            t = WC_TITLES.get(r.name, 0)
-            meta = f"Group {r.group}" + (f" · {t}× 🏆" if t else "")
-            cards.append(f"<div class='wtcard'><img src='{wc.flag_url(r.iso2)}'>"
-                         f"<div><div class='nm' title='{r.name}'>{wc.short_name(r.name)}</div>"
-                         f"<div class='mt'>{meta}</div></div></div>")
-        st.markdown(f"<div class='wtgrid'>{''.join(cards)}</div>", unsafe_allow_html=True)
 
 # ── 📜 History — the complete 1930–2022 archive (data + queries in wchistory.py)
 WCH_CSS = """<style>
@@ -1853,3 +1485,94 @@ with t_nations:
                     f"<div class='tm'><img src='{wch.flag_url(_x.away)}'><span>{_x.away}</span></div>"
                     f"<span class='st'>{_STAGE.get(_x.stage, _x.stage)}</span></div>")
         st.markdown(_mr, unsafe_allow_html=True)
+
+# ── 🏟️ Venues ──────────────────────────────────────────────────────────────────────────────────────
+# Was a 2026-only tab. Every match row 1930–2026 carries a venue and city, so it now covers all 23
+# editions — 3 stadiums in Uruguay 1930, 20 across Korea/Japan 2002. Capacity and photographs exist
+# only for 2026 (data/wc2026_venues.csv), so they enrich that edition and are simply absent elsewhere
+# rather than blocking the other 22.
+with t_venues:
+    st.markdown(VENUE_CSS, unsafe_allow_html=True)
+    ui.section("🏟️ Venues", "every stadium used at a World Cup, and what it hosted")
+    _vy = st.columns([1, 2])[0].selectbox("Edition", list(reversed(wch.years())), key="ven_year",
+                                          format_func=lambda y: f"{y} · {_HOSTS.get(y, '')}")
+    _vens = wch.edition_venues(_vy)
+    _cap = {}                                     # stadium → capacity, 2026 only
+    if _vy == 2026:
+        _cap = {r.stadium: int(r.capacity) for r in wc.venues().itertuples()}
+    _tot = sum(v["matches"] for v in _vens)
+    ui.stats([
+        ("Stadiums", str(len(_vens)), f"{_vy}"),
+        ("Matches", str(_tot), "hosted"),
+        ("Busiest", _vens[0]["venue"][:22] if _vens else "—",
+         f"{_vens[0]['matches']} matches" if _vens else ""),
+        ("*Cities", str(len({v["city"] for v in _vens if v["city"]})), "host cities"),
+    ])
+    _rows = ""
+    for _v in _vens:
+        _hosted = ""
+        if "final" in _v["finals"]:
+            _hosted = "<span style='color:#FFD700;font-weight:800'>🏆 Final</span>"
+        elif "third-place" in _v["finals"]:
+            _hosted = "<span style='color:#e0a86a'>🥉 Third place</span>"
+        elif "semi-final" in _v["finals"]:
+            _hosted = "<span style='color:#9fc4ec'>Semi-final</span>"
+        _c = f" · {_cap[_v['venue']]:,} seats" if _v["venue"] in _cap else ""
+        _rows += (f"<div class='ven-head'><div><div class='nm'>{_v['venue']}</div>"
+                  f"<div class='loc'>{_v['city']}{_c}</div></div>"
+                  f"<div class='meta'><b>{_v['matches']}</b> match"
+                  f"{'es' if _v['matches'] != 1 else ''} &nbsp; {_hosted}</div></div>")
+    st.markdown(_rows, unsafe_allow_html=True)
+
+    # Stadiums that have hosted more than one World Cup — only visible once every edition is in scope.
+    _multi = {}
+    for _y in wch.years():
+        for _v in wch.edition_venues(_y):
+            _multi.setdefault(_v["venue"], []).append(_y)
+    _rep = sorted(((len(ys), v, ys) for v, ys in _multi.items() if len(ys) > 1), reverse=True)
+    ui.section("♻️ Stadiums used at more than one World Cup", f"{len(_multi)} stadiums have been used in all")
+    st.markdown("".join(
+        f"<div class='pl-row'><span class='nm'>{v}</span>"
+        f"<span class='ed'>{', '.join(str(y) for y in ys)}</span>"
+        f"<span class='gl'>{n}</span></div>" for n, v, ys in _rep[:20]), unsafe_allow_html=True)
+
+# ── 👥 Squads ──────────────────────────────────────────────────────────────────────────────────────
+# Was a 2026-only "Teams" tab. build/players.py now provides squads for ALL 23 editions (12,213 named
+# places), so any nation in any tournament can be listed. Ages are shown as at mid-tournament, and the
+# tab says these are NAMED squads — the source has no line-ups, so it cannot say who played.
+with t_squads:
+    ui.section("👥 Squads", "any nation's named squad, from 1930 to 2026")
+    _sc = st.columns([1, 1.4])
+    _sy = _sc[0].selectbox("Edition", list(reversed(wpl.squad_years())), key="sq_year",
+                           format_func=lambda y: f"{y} · {_HOSTS.get(y, '')}")
+    _snoms = wpl.squad_nations(_sy)
+    _sn = _sc[1].selectbox("Nation", _snoms, key="sq_nation")
+    _sq = wpl.edition_squad(_sy, _sn)
+    _ages = wpl.squad_ages(_sy, _sn)
+    ui.stats([
+        ("Players", str(len(_sq)), f"{_sn} {_sy}"),
+        ("Average age", f"{_ages['mean']:.1f}" if _ages["mean"] else "—", "at mid-tournament"),
+        ("Youngest", _ages["young"] or "—", f"{_ages['young_age']:.1f}" if _ages["young_age"] else ""),
+        ("*Oldest", _ages["old"] or "—", f"{_ages['old_age']:.1f}" if _ages["old_age"] else ""),
+    ])
+    _gsc = wpl.nation_edition_scorers(_sy, _sn)
+    _by_pos = {}
+    for _r in _sq.itertuples():
+        _by_pos.setdefault(_r.pos or "—", []).append(_r)
+    _cols = st.columns(4)
+    for _i, _pos in enumerate(["GK", "DF", "MF", "FW"]):
+        with _cols[_i]:
+            st.markdown(f"**{wpl.POS_NAME.get(_pos, _pos)}s**")
+            _cards = ""
+            for _r in _by_pos.get(_pos, []):
+                _no = f"{int(_r.shirt_no)}. " if pd.notna(_r.shirt_no) else ""
+                _cap_ = " <span style='color:#FFD700'>(c)</span>" if _r.captain else ""
+                _g = _gsc.get(_r.player_key, 0)
+                _gtag = (f" <span style='color:#FFD700;font-weight:800'>{_g}⚽</span>" if _g else "")
+                _cards += (f"<div class='wtcard'><div><div class='nm'>{_no}"
+                           f"{wpl.short_name(_r.player_key)}{_cap_}{_gtag}</div>"
+                           f"<div class='mt'>{_r.club or '—'}</div></div></div>")
+            st.markdown(_cards or "<div class='mt'>—</div>", unsafe_allow_html=True)
+    st.caption("These are **named squads**, not appearances — the match reports carry no line-ups, so "
+               "who actually took the field isn't in this data. ⚽ marks goals scored in this "
+               "tournament; (c) marks the captain. Ages are at mid-tournament.")

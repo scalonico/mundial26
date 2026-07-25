@@ -513,3 +513,29 @@ def award_leaders(award, limit=10):
                                        years=("year", lambda x: sorted(int(v) for v in x))).reset_index()
     rows["player"] = rows["player_key"].map(_display())
     return rows.sort_values("wins", ascending=False).head(limit).reset_index(drop=True)
+
+
+def squad_years():
+    return sorted(int(y) for y in squads()["year"].unique())
+
+
+def squad_ages(year, nation):
+    """Age spread of one named squad, measured at mid-tournament (the source gives no match dates for
+    individuals, and no line-ups at all, so a per-appearance age is not available)."""
+    s = edition_squad(year, nation)
+    d = s.dropna(subset=["dob"])
+    if d.empty:
+        return {"mean": None, "young": None, "young_age": None, "old": None, "old_age": None}
+    mid = pd.Timestamp(f"{int(year)}-06-15")
+    age = (mid - d["dob"]).dt.days / 365.25
+    lo, hi = age.idxmin(), age.idxmax()
+    return {"mean": float(age.mean()),
+            "young": short_name(d.loc[lo, "player_key"]), "young_age": float(age.min()),
+            "old": short_name(d.loc[hi, "player_key"]), "old_age": float(age.max())}
+
+
+def nation_edition_scorers(year, nation):
+    """{player_key: goals} for one nation in one edition — used to mark scorers in a squad list."""
+    g = _scoring()
+    sub = g[(g["year"] == int(year)) & (g["nation"] == nation)]
+    return sub.groupby("player_key").size().to_dict()
