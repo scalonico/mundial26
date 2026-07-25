@@ -1,5 +1,10 @@
 # Live World Cup 2026 data refresh — self-covering polling loop.
 #
+# RETIRED (2026-07-25). The tournament finished on July 19 (Spain 1–0 Argentina a.e.t.) and all 104
+# matches are scored, so the cron trigger is gone and this workflow now runs ONLY on demand from the
+# Actions tab. Everything below is kept intact because it is the reusable part: point the ingest at
+# the 2030 pages, restore the `schedule:` block, and the covering loop works again unchanged.
+#
 # Why a loop and not a plain every-30-min cron: GitHub heavily THROTTLES scheduled workflows on
 # free/public repos — a `*/30` cron in practice fires only every ~2-4 hours, so finished matches sat
 # unscored on the live site for hours. Instead, each run POLLS every few minutes for up to ~5.5 h,
@@ -11,17 +16,18 @@
 # Streamlit Community Cloud redeploys on each push, so the live app fills in results as matches are
 # played. We commit ONLY the data CSVs (not the wikitext cache), so cosmetic edits don't churn the repo
 # and off-match polls are harmless no-ops. The loop also auto-stops looping after the tournament window
-# (does a single pass after 2026-07-20), so leaving it enabled forever is cheap. To shut it off entirely,
-# disable this workflow in the Actions tab once the final is played (Jul 19, 2026).
+# (does a single pass after 2026-07-20), so leaving it enabled forever was cheap even before the cron
+# was removed — a manual dispatch today just re-verifies the finished CSVs and commits nothing.
 
 name: Refresh live data
 
 on:
-  schedule:
-    # Heartbeat that RESTARTS the covering loop. Throttling means these fire far less often than written;
-    # that's fine — each fire just kicks off a fresh ~5.5 h loop. More listed minutes = more restart chances.
-    - cron: "3,33 * * * *"
-  workflow_dispatch: {}          # also runnable on demand from the Actions tab
+  # No `schedule:` — retired with the tournament (see the header). To revive for a future World Cup,
+  # restore the heartbeat that RESTARTS the covering loop; throttling means it fires far less often
+  # than written, which is fine, as each fire just kicks off a fresh ~5.5 h loop:
+  #   schedule:
+  #     - cron: "3,33 * * * *"
+  workflow_dispatch: {}          # runnable on demand from the Actions tab
 
 permissions:
   contents: write                # the run commits refreshed CSVs back to the repo
