@@ -6,8 +6,11 @@ pairs match the match archive's scorelines).
 
 Identity is the Wikipedia LINK TARGET, not the displayed name — Wikipedia writes `[[Gigi Riva|Riva]]`,
 so the display text is often a bare surname that several players share. Keying on the target is what
-lets a scorer be joined to his squad entry, which currently succeeds for 96.8% of (edition, scorer)
-pairs. Names shown to the reader come from that target too, minus any "(Brazilian footballer)"
+lets a scorer be joined to his squad entry, which succeeds for 99.3% of (edition, scorer) pairs once
+_KEY_ALIAS reconciles the titles the two page families disagree on (96.8% without it). The six that
+remain unmatched are listed under that table, and are left unmatched on purpose: no squad row in
+their edition shares a name token, so linking them would rest on outside knowledge rather than on
+evidence in the data. Names shown to the reader come from the target too, minus any "(Brazilian footballer)"
 disambiguator — see _display(). Using the source's own display text instead would render both
 Ronaldos, and both Villalbas, identically. short_name() keeps the bare surname for tight layouts.
 
@@ -39,6 +42,73 @@ _ALIAS = {"Bosnia and Herzegovina": "Bosnia-Herzegovina", "China PR": "China",
 
 POS_NAME = {"GK": "Goalkeeper", "DF": "Defender", "MF": "Midfielder", "FW": "Forward"}
 
+# ── Player identity aliases: goal-page link target → squad-page link target ────────────────────────
+# Wikipedia's match reports and squad lists often link the same footballer through different titles,
+# which left 52 scorers unjoinable to any squad entry (so no date of birth, no club, no career view).
+# Each entry below was checked against the SAME edition and SAME nation before being added; a shared
+# surname alone was NOT accepted as proof — "Edino Nazareth Filho" and "Valdo Filho" share only the
+# common Brazilian suffix "Filho" and are different players, so that pair is deliberately absent.
+#
+# The drift falls into five kinds, which is why a generic fuzzy match would be unsafe here:
+_KEY_ALIAS = {
+    # 1. Punctuation and case in the disambiguator — "(footballer born 1962)" vs "(footballer, born 1962)".
+    "Colin Clarke (footballer born 1962)": "Colin Clarke (footballer, born 1962)",
+    "Aleksandr Ivanov (footballer born 1928)": "Aleksandr Ivanov (footballer, born 1928)",
+    "András Tóth (footballer born 1949)": "András Tóth (footballer, born 1949)",
+    # 2. A disambiguator on one side only.
+    "Aleksandar Mitrović (footballer)": "Aleksandar Mitrović",
+    "David Platt (footballer)": "David Platt",
+    "Luis Enrique (footballer)": "Luis Enrique",
+    "Winston Reid (footballer)": "Winston Reid",
+    "Edmílson (footballer, born 1976)": "Edmílson",
+    "Amancio Amaro": "Amancio (footballer)",
+    "Theodor Wagner": "Theodor Wagner (footballer)",
+    "Carlos Soler": "Carlos Soler (footballer)",
+    "Jean Vincent": "Jean Vincent (footballer)",
+    "Moderato Wisintainer": "Moderato (footballer)",
+    "Miguel Ángel Benítez Pavón": "Miguel Ángel Benítez (footballer)",
+    "Márcio Roberto dos Santos": "Márcio Santos (footballer, born 1969)",
+    "Luis García Postigo": "Luis García (footballer, born 1969)",
+    "José Augusto Torres": "José Torres (footballer, born 1938)",
+    # 3. Diacritics, hyphens and Korean/Arabic capitalisation.
+    "Óscar Míguez": "Oscar Míguez",
+    "Luis Fernández": "Luis Fernandez",
+    "Leonel Sanchez": "Leonel Sánchez",
+    "Iuliu Barátky": "Iuliu Baratky",
+    "Khalid Ismaïl": "Khalid Ismail",
+    "Choi Soon-Ho": "Choi Soon-ho",
+    "Huh Jung-Moo": "Huh Jung-moo",
+    "Kim Jong-Boo": "Kim Jong-boo",
+    "Park Chang-Sun": "Park Chang-sun",
+    "Sami Al Jaber": "Sami Al-Jaber",
+    "Yasser Al Qahtani": "Yasser Al-Qahtani",
+    "Mitch Duke": "Mitchell Duke",
+    "Andreas Herzog": "Andi Herzog",
+    # 4. Transliteration from Cyrillic / Armenian, where the squad page uses the Ukrainian or
+    #    Armenian rendering and the match report the Russian one (same player, same squad).
+    "Oleg Blokhin": "Oleh Blokhin",
+    "Igor Belanov": "Ihor Belanov",
+    "Aleksandre Chivadze": "Aleksandr Chivadze",
+    "Khoren Oganesian": "Khoren Hovhannisyan",
+    "Friedrich Scherfke": "Fryderyk Scherfke",
+    "Miklós Kovács (footballer)": "Nicolae Kovács",
+    "Ion Andoni Goikoetxea": "Jon Andoni Goikoetxea",
+    # 5. Nickname or birth name — the two pages disagree on which the player is filed under.
+    "Pep Guardiola": "Josep Guardiola",
+    "Txiki Begiristain": "Aitor Begiristain",
+    "Brehme": "Andreas Brehme",
+    "Ghiggia": "Alcides Ghiggia",
+    "Maneca": "Manuel Marinho Alves",
+    "Gavril Balint": "Gabi Balint",
+    "Ademir de Menezes": "Ademir Marques de Menezes",
+    "Alfredo dos Santos": "Alfredo Ramos dos Santos",
+    "Reinaldo (footballer, born 1957)": "José Reinaldo de Lima",
+}
+# Deliberately NOT aliased — no squad row in that edition shares any name token, so linking them
+# would rest on outside knowledge rather than on evidence in the data. They stay unmatched and are
+# reported as such: Dani (footballer, born 1951) 1978, Edino Nazareth Filho 1986, Jenílson Ângelo de
+# Souza 2002, Júlio Botelho 1954, Thomaz Soares da Silva 1950, Vitaliy Khmelnytskyi 1970.
+
 
 def _bool(s):
     return s.astype(str).str.strip().str.lower().isin(("1", "true", "yes", "y"))
@@ -47,6 +117,10 @@ def _bool(s):
 @lru_cache(maxsize=1)
 def goals():
     df = pd.read_csv(_GOALS, dtype=str).fillna("")
+    # Canonicalise identity at load, so every downstream tally, join and profile agrees. Applied here
+    # rather than at each join site because a player whose goals are split across two link targets
+    # would otherwise be double-counted as two people in the all-time table.
+    df["player_key"] = df["player_key"].replace(_KEY_ALIAS)
     df["year"] = df["year"].astype(int)
     df["minute"] = pd.to_numeric(df["minute"], errors="coerce")
     df["minute_extra"] = pd.to_numeric(df["minute_extra"], errors="coerce")
@@ -338,3 +412,33 @@ def squad_nations(year):
 
 def years():
     return sorted(int(y) for y in goals()["year"].unique())
+
+
+def nation_scorers(nation, limit=15):
+    """A nation's top World Cup scorers, folding its historical sides — asking for Germany includes
+    goals scored as West Germany, matching how wchistory.all_time_table() aggregates nations."""
+    g = _scoring().copy()
+    g["folded"] = g["nation"].map(wch.fold)
+    sub = g[g["folded"] == nation]
+    if sub.empty:
+        return pd.DataFrame(columns=["player", "goals", "editions", "first", "last"])
+    rows = sub.groupby("player_key").agg(
+        goals=("player_key", "size"), editions=("year", "nunique"),
+        first=("year", "min"), last=("year", "max")).reset_index()
+    rows["player"] = rows["player_key"].map(_display())
+    return rows.sort_values(["goals", "first"], ascending=[False, True]).head(limit).reset_index(drop=True)
+
+
+def nation_squad_players(nation, limit=None):
+    """Players named in that nation's squads most often (a proxy for a long career, NOT appearances —
+    the source has no line-ups, so this counts squads named in, not matches played)."""
+    s = squads().copy()
+    s["folded"] = s["nation"].map(wch.fold)
+    sub = s[s["folded"] == nation]
+    if sub.empty:
+        return pd.DataFrame(columns=["player", "squads", "first", "last"])
+    rows = sub.groupby("player_key").agg(
+        squads=("year", "nunique"), first=("year", "min"), last=("year", "max")).reset_index()
+    rows["player"] = rows["player_key"].map(_display())
+    rows = rows.sort_values(["squads", "first"], ascending=[False, True]).reset_index(drop=True)
+    return rows if limit is None else rows.head(limit)

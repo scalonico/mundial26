@@ -508,9 +508,10 @@ st.markdown("<div class='wclive'>" + "".join(
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
 # The archive leads, then the game that works on ANY edition. The 2026 tabs that follow are one
 # edition's deep dive (its own bracket, group tables, schedule and venues), which no other edition has.
-t_history, t_players, t_replay, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = st.tabs(
-    ["📜 Every World Cup", "👤 Players", "🔁 Replay", "🏆 2026 Bracket", "🗓️ 2026 Groups",
-     "📋 2026 Schedule", "🌍 2026 Teams", "🏟️ 2026 Venues", "🎮 2026 Challenge"], key="wc_tab")
+t_history, t_nations, t_players, t_replay, t_bracket, t_groups, t_sched, t_teams, t_venues, t_play = \
+    st.tabs(["📜 Every World Cup", "🏳️ Nations", "👤 Players", "🔁 Replay", "🏆 2026 Bracket",
+             "🗓️ 2026 Groups", "📋 2026 Schedule", "🌍 2026 Teams", "🏟️ 2026 Venues",
+             "🎮 2026 Challenge"], key="wc_tab")
 
 def _koteam(x):
     return wc.team_label(x) if x in codes else wc.short_slot(x)
@@ -1617,3 +1618,125 @@ with t_players:
     st.plotly_chart(_fig, width="stretch", key="pl_min")
     st.caption("Stoppage-time goals count in the band of their base minute — a 90+8' goal is a 76–90 "
                "goal. The 91–120 bands are extra time only, which few matches reach.")
+
+# ── 🏳️ Nations ──────────────────────────────────────────────────────────────────────────────────────
+# One country's whole World Cup story on a page: honours, an all-time record, every edition it entered
+# with how far it got, its leading scorers, and every match it has played. The archive tab's
+# head-to-head compares TWO nations; this is the single-nation view that was missing.
+#
+# Historical sides fold in (asking for Germany covers West Germany, DR Congo covers Zaire) exactly as
+# wchistory.all_time_table() aggregates them, and the page says which names it merged so a reader
+# isn't left wondering where West Germany went.
+WNAT_CSS = """<style>
+.nt-hero { display:flex; align-items:center; gap:16px; padding:14px 19px; border-radius:13px; margin:.2rem 0 .6rem;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.22); }
+.nt-hero img { width:62px; height:41px; object-fit:cover; border-radius:3px; box-shadow:0 2px 10px rgba(0,0,0,.5); }
+.nt-hero .nm { color:#fff; font-size:1.5rem; font-weight:800; line-height:1.1; }
+.nt-hero .sub { color:#9fb2cc; font-size:.83rem; font-weight:600; margin-top:3px; }
+.nt-hero .tro { margin-left:auto; text-align:right; }
+.nt-hero .tro .t { color:#FFD700; font-size:1.05rem; font-weight:800; letter-spacing:1px; }
+.nt-hero .tro .l { color:#e7c95a; font-size:.62rem; font-weight:800; text-transform:uppercase; letter-spacing:.08em; }
+.nt-ed { display:flex; align-items:center; gap:10px; padding:6px 12px; border-radius:9px; margin-bottom:5px; font-size:.85rem;
+    background:linear-gradient(160deg,#1b2a47,#16223b); border:1px solid rgba(108,172,228,.14); }
+.nt-ed .y { color:#6CACE4; font-weight:800; width:44px; flex:0 0 auto; }
+.nt-ed .fin { font-weight:700; flex:1 1 auto; color:#cfe0f5; }
+.nt-ed .rec { color:#8aa0bd; font-size:.78rem; font-weight:600; flex:0 0 auto; }
+.nt-ed .gd { color:#7e8ba5; font-size:.75rem; flex:0 0 auto; width:64px; text-align:right; }
+.nt-ed.win { border-color:rgba(255,215,0,.5); background:linear-gradient(160deg,#2c2a12,#1a2238); }
+.nt-ed.win .fin { color:#FFD700; }
+.nt-ed.run { border-color:rgba(192,192,200,.42); } .nt-ed.run .fin { color:#dfe6f0; }
+.nt-ed.brz { border-color:rgba(205,127,50,.42); } .nt-ed.brz .fin { color:#e0a86a; }
+.nt-names { color:#8aa0bd; font-size:.78rem; margin:.1rem 0 .5rem 1px; }
+</style>"""
+
+# Finish → card accent. Only the podium gets colour; everything else stays neutral so the honours
+# actually stand out on a nation like Brazil with 23 rows.
+_NT_CLS = {"Champions": " win", "Runners-up": " run", "Third place": " brz"}
+
+with t_nations:
+    st.markdown(WNAT_CSS, unsafe_allow_html=True)
+    ui.section("🏳️ Nation profile", "every edition a country entered, how far it got, and who scored")
+    _noms = wch.nations()
+    _nsel = st.columns([2, 1])[0].selectbox(
+        "Nation", _noms, index=_noms.index("Brazil") if "Brazil" in _noms else 0, key="nt_sel")
+    _s = wch.nation_summary(_nsel)
+    _hist = wch.nation_history(_nsel)
+
+    _tro = ("<div class='tro'><div class='t'>" + ("🏆" * _s["titles"]) + "</div>"
+            f"<div class='l'>{_s['titles']} title{'s' if _s['titles'] != 1 else ''}</div></div>"
+            if _s["titles"] else "")
+    _best = f"{_s['best']}" + (f" ({', '.join(str(y) for y in _s['best_years'][:4])})"
+                               if _s["best_years"] and _s["best"] != "Champions" else "")
+    st.markdown(
+        f"<div class='nt-hero'><img src='{wch.flag_url(_nsel, 80)}' alt=''>"
+        f"<div><div class='nm'>{_nsel}</div><div class='sub'>"
+        f"{_s['editions']} edition{'s' if _s['editions'] != 1 else ''} · {_s['first']}–{_s['last']}"
+        f" &nbsp;·&nbsp; best: <b>{_best}</b>"
+        f" &nbsp;·&nbsp; {_s['finals']} final{'s' if _s['finals'] != 1 else ''} reached</div></div>"
+        f"{_tro}</div>", unsafe_allow_html=True)
+    if _s["names"]:
+        st.markdown(f"<div class='nt-names'>Includes matches played as "
+                    f"<b>{', '.join(_s['names'])}</b> — the same football association under an earlier "
+                    f"name, folded together here and in the all-time table.</div>",
+                    unsafe_allow_html=True)
+
+    ui.stats([
+        ("Played", str(_s["P"]), f"{_s['first']}–{_s['last']}"),
+        ("Won", str(_s["W"]), f"{100 * _s['W'] / _s['P']:.0f}% of matches" if _s["P"] else ""),
+        ("Drawn / Lost", f"{_s['D']} / {_s['L']}", "shootouts count as draws"),
+        ("*Goals", f"{_s['GF']}:{_s['GA']}", f"{_s['GF'] - _s['GA']:+d} difference"),
+    ])
+
+    _c1, _c2 = st.columns([1.15, 1], gap="medium")
+    with _c1:
+        st.markdown("**Every edition**")
+        _rows = ""
+        for _e in reversed(_hist):
+            _rows += (f"<div class='nt-ed{_NT_CLS.get(_e['finish'], '')}'>"
+                      f"<span class='y'>{_e['year']}</span>"
+                      f"<span class='fin'>{_e['finish']}</span>"
+                      f"<span class='rec'>{_e['W']}W {_e['D']}D {_e['L']}L</span>"
+                      f"<span class='gd'>{_e['GF']}:{_e['GA']}</span></div>")
+        st.markdown(_rows, unsafe_allow_html=True)
+        _missed = len(wch.years()) - _s["editions"]
+        if _missed:
+            st.caption(f"Absent from {_missed} of the {len(wch.years())} tournaments.")
+    with _c2:
+        st.markdown("**Leading scorers**")
+        _ns = wpl.nation_scorers(_nsel, 12)
+        if _ns.empty:
+            st.caption("No goals recorded for this nation.")
+        else:
+            _sr = ""
+            for _i, _r in enumerate(_ns.itertuples(), 1):
+                _span = f"{_r.first}" if _r.first == _r.last else f"{_r.first}–{_r.last}"
+                _sr += (f"<div class='pl-row'><span class='rk'>{_i}</span>"
+                        f"<span class='nm'>{_r.player}</span>"
+                        f"<span class='ed'>{_span}</span>"
+                        f"<span class='gl'>{_r.goals}</span></div>")
+            st.markdown(_sr, unsafe_allow_html=True)
+        _sq = wpl.nation_squad_players(_nsel, 6)
+        if not _sq.empty:
+            st.markdown("**Most squads named in**")
+            st.caption("Squads named in — not appearances, which the source doesn't record.")
+            _qr = ""
+            for _r in _sq.itertuples():
+                _span = f"{_r.first}" if _r.first == _r.last else f"{_r.first}–{_r.last}"
+                _qr += (f"<div class='pl-row'><span class='nm'>{_r.player}</span>"
+                        f"<span class='ed'>{_span}</span>"
+                        f"<span class='gl'>{_r.squads}</span></div>")
+            st.markdown(_qr, unsafe_allow_html=True)
+
+    _nm = wch.nation_matches(_nsel)
+    with st.expander(f"⚽ All {len(_nm)} matches"):
+        _mr = ""
+        for _x in _nm.itertuples():
+            _pen = (f" <span style='color:#9fb2cc;font-size:.72rem'>({int(_x.pens_home)}-"
+                    f"{int(_x.pens_away)}p)</span>" if pd.notna(_x.pens_home) else "")
+            _mr += (f"<div class='wch-mt'><span class='y'>{int(_x.year)}</span>"
+                    f"<div class='tm r'><span>{_x.home}</span>"
+                    f"<img src='{wch.flag_url(_x.home)}'></div>"
+                    f"<span class='sc'>{_x.home_score}–{_x.away_score}{_pen}</span>"
+                    f"<div class='tm'><img src='{wch.flag_url(_x.away)}'><span>{_x.away}</span></div>"
+                    f"<span class='st'>{_STAGE.get(_x.stage, _x.stage)}</span></div>")
+        st.markdown(_mr, unsafe_allow_html=True)

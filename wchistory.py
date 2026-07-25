@@ -309,3 +309,99 @@ def records():
         "highest": (high.home, int(high.home_score), int(high.away_score), high.away, int(high.year)),
         "highest_final": (fin.home, int(fin.home_score), int(fin.away_score), fin.away, int(fin.year)),
     }
+
+
+# ── Nation history ────────────────────────────────────────────────────────────────────────────────
+# Labels for how far a nation got, keyed by the deepest stage it appears in that edition. The two
+# group-type stages read as eliminations because reaching them is not itself an achievement.
+_FINISH = {"final": "Runners-up", "third-place": "Fourth place", "semi-final": "Semi-finals",
+           "quarter-final": "Quarter-finals", "round-of-16": "Round of 16",
+           "round-of-32": "Round of 32", "final-round": "Final round",
+           "group-2": "Second group stage", "group": "Group stage"}
+
+# Ranking for "best finish", lower is better. Not derived from _SRANK because the podium places are
+# decided by RESULTS rather than by which round a team last appeared in — a beaten finalist and a
+# third-place winner both stop at the same stage index.
+_FINISH_RANK = {"Champions": 0, "Runners-up": 1, "Third place": 2, "Fourth place": 3,
+                "Semi-finals": 4, "Quarter-finals": 5, "Round of 16": 6, "Round of 32": 7,
+                "Final round": 3, "Second group stage": 8, "Group stage": 9}
+
+
+def _sides(nation):
+    """Every historical name that folds into `nation` — so asking for Germany covers West Germany."""
+    return {n for n in ISO2 if fold(n) == nation} | {nation}
+
+
+def nation_history(nation):
+    """One row per edition the nation played: matches, W-D-L, goals, and how far it got.
+
+    Shootout knockouts count as draws in W-D-L (the FIFA convention used everywhere else in this
+    module); the finish label still reflects who actually advanced.
+    """
+    names = _sides(nation)
+    df = matches()
+    ch = {c["year"]: c for c in champions()}
+    out = []
+    for y in years():
+        em = df[(df["year"] == y) & (df["home"].isin(names) | df["away"].isin(names))]
+        if em.empty:
+            continue
+        w = d = l = gf = ga = 0
+        deepest, best = "group", -1
+        for r in em.itertuples():
+            mine, theirs = ((r.home_score, r.away_score) if r.home in names
+                            else (r.away_score, r.home_score))
+            gf += max(mine, 0)
+            ga += max(theirs, 0)
+            if mine > theirs:
+                w += 1
+            elif mine < theirs:
+                l += 1
+            else:
+                d += 1
+            if _SRANK.get(r.stage, -1) > best:
+                best, deepest = _SRANK.get(r.stage, -1), r.stage
+        c = ch.get(y, {})
+        if c.get("champion") and fold(c["champion"]) == nation:
+            finish = "Champions"
+        elif c.get("runner_up") and fold(c["runner_up"]) == nation:
+            finish = "Runners-up"
+        else:
+            finish = _FINISH.get(deepest, deepest)
+            if deepest == "third-place":                 # decided by the result, not the round
+                tp = em[em["stage"] == "third-place"].iloc[0]
+                won = _match_winner(tp)
+                finish = "Third place" if (won and won in names) else "Fourth place"
+        out.append({"year": int(y), "played": len(em), "W": w, "D": d, "L": l,
+                    "GF": gf, "GA": ga, "finish": finish, "host": em["host"].iloc[0]})
+    return out
+
+
+def nation_summary(nation):
+    """Headline career: editions, titles, finals, best finish and all-time W-D-L."""
+    h = nation_history(nation)
+    at = all_time_table()
+    row = at[at["nation"] == nation]
+    best = min((x["finish"] for x in h), key=lambda f: _FINISH_RANK.get(f, 99)) if h else "—"
+    return {
+        "nation": nation, "editions": len(h),
+        "titles": int(row["titles"].iloc[0]) if len(row) else 0,
+        "finals": int(row["finals"].iloc[0]) if len(row) else 0,
+        "best": best,
+        "best_years": [x["year"] for x in h if x["finish"] == best],
+        "P": sum(x["played"] for x in h), "W": sum(x["W"] for x in h),
+        "D": sum(x["D"] for x in h), "L": sum(x["L"] for x in h),
+        "GF": sum(x["GF"] for x in h), "GA": sum(x["GA"] for x in h),
+        "first": h[0]["year"] if h else None, "last": h[-1]["year"] if h else None,
+        "names": sorted(n for n in _sides(nation) if n != nation),
+    }
+
+
+def nation_matches(nation, year=None):
+    """Every match a nation played, newest first — optionally limited to one edition."""
+    names = _sides(nation)
+    df = matches()
+    m = df[df["home"].isin(names) | df["away"].isin(names)]
+    if year is not None:
+        m = m[m["year"] == int(year)]
+    return m.sort_values(["year", "date"], ascending=[False, True])
