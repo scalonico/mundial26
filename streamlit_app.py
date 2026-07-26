@@ -405,9 +405,9 @@ _HOSTS = {c["year"]: c["host"] for c in wch.champions()}
 st.markdown(WC_TABS_CSS, unsafe_allow_html=True)
 # The archive leads, then the game that works on ANY edition. The 2026 tabs that follow are one
 # edition's deep dive (its own bracket, group tables, schedule and venues), which no other edition has.
-t_history, t_nations, t_players, t_venues, t_squads, t_replay, t_play = st.tabs(
-    ["📜 Every World Cup", "🏳️ Nations", "👤 Players", "🏟️ Venues", "👥 Squads", "🔁 Replay",
-     "🎮 2026 Challenge"], key="wc_tab")
+t_history, t_nations, t_players, t_venues, t_squads, t_crowds, t_replay, t_play = st.tabs(
+    ["📜 Every World Cup", "🏳️ Nations", "👤 Players", "🏟️ Venues", "👥 Squads", "🎟️ Crowds",
+     "🔁 Replay", "🎮 2026 Challenge"], key="wc_tab")
 
 
 with t_play:
@@ -1500,6 +1500,12 @@ with t_venues:
     _cap = {}                                     # stadium → capacity, 2026 only
     if _vy == 2026:
         _cap = {r.stadium: int(r.capacity) for r in wc.venues().itertuples()}
+    # Average crowd per stadium for this edition, from the match metadata.
+    _vm = wpl.matchmeta()
+    _vm = _vm[(_vm["year"] == _vy) & _vm["attendance"].notna()]
+    _vavg = _vm.groupby("stadium")["attendance"].mean().to_dict()
+    # The metadata's stadium string is "Name, City"; the archive's venue is just the name.
+    _vavg = {k.split(",")[0].strip(): v for k, v in _vavg.items()}
     _tot = sum(v["matches"] for v in _vens)
     ui.stats([
         ("Stadiums", str(len(_vens)), f"{_vy}"),
@@ -1518,6 +1524,8 @@ with t_venues:
         elif "semi-final" in _v["finals"]:
             _hosted = "<span style='color:#9fc4ec'>Semi-final</span>"
         _c = f" · {_cap[_v['venue']]:,} seats" if _v["venue"] in _cap else ""
+        _avg = _vavg.get(_v["venue"])
+        _c += f" · avg crowd {_avg:,.0f}" if _avg else ""
         _rows += (f"<div class='ven-head'><div><div class='nm'>{_v['venue']}</div>"
                   f"<div class='loc'>{_v['city']}{_c}</div></div>"
                   f"<div class='meta'><b>{_v['matches']}</b> match"
@@ -1576,3 +1584,84 @@ with t_squads:
     st.caption("These are **named squads**, not appearances — the match reports carry no line-ups, so "
                "who actually took the field isn't in this data. ⚽ marks goals scored in this "
                "tournament; (c) marks the captain. Ages are at mid-tournament.")
+
+# ── 🎟️ Crowds & officials ───────────────────────────────────────────────────────────────────────────
+# Attendance and referee were sitting in every match box that build/players.py already fetched and
+# parsed; it simply discarded them. wc_matchmeta.csv keeps them now — 1,068 matches, exactly the
+# archive's count with no per-year mismatch, and 100% coverage on both fields.
+with t_crowds:
+    ui.section("🎟️ Crowds & officials", "who watched, and who refereed — every match, 1930–2026")
+    _mm = wpl.matchmeta()
+    _att = _mm.dropna(subset=["attendance"])
+    _abe = wpl.attendance_by_edition()
+    _big = wpl.crowds(1).iloc[0]
+    _refs = wpl.referees()
+    ui.stats([
+        ("Total attendance", f"{int(_att['attendance'].sum()) / 1e6:.1f}M", "across 23 editions"),
+        ("Average crowd", f"{int(_att['attendance'].mean()):,}", "per match, all-time"),
+        ("Biggest", f"{int(_big.attendance):,}", f"{_big.year} · {_big.stadium.split(',')[0]}"),
+        ("*Most matches refereed", _refs.iloc[0]["referee"], f"{int(_refs.iloc[0]['matches'])} matches"),
+    ])
+    st.caption("Attendance is as the source records it. The 1950 decider's **173,850** is the official "
+               "figure; contemporary estimates of that crowd run to around 200,000, which would make "
+               "it the largest ever to watch a football match.")
+
+    ui.section("📈 Average crowd by edition", "the clearest measure of how the tournament grew")
+    _fig2 = go.Figure(go.Bar(x=_abe["year"].astype(str), y=_abe["mean"], marker_color=SKY,
+                             customdata=_abe[["matches", "total"]],
+                             hovertemplate="%{x}<br>%{y:,.0f} average<br>"
+                                           "%{customdata[0]} matches · %{customdata[1]:,.0f} total"
+                                           "<extra></extra>"))
+    _fig2.update_layout(template=PLOTLY_TMPL, height=280, showlegend=False,
+                        xaxis_title="edition", yaxis_title="average crowd")
+    st.plotly_chart(_fig2, width="stretch", key="cr_att")
+
+    _cc1, _cc2 = st.columns(2, gap="medium")
+    with _cc1:
+        st.markdown("**🥇 Biggest crowds**")
+        _r = ""
+        for _i, _x in enumerate(wpl.crowds(12).itertuples(), 1):
+            _r += (f"<div class='pl-row{' gold' if _i == 1 else ''}'><span class='rk'>{_i}</span>"
+                   f"<span class='nm'>{_x.team1_code_name} {_x.score1}–{_x.score2} "
+                   f"{_x.team2_code_name}</span>"
+                   f"<span class='ed'>{_x.year}</span>"
+                   f"<span class='gl'>{int(_x.attendance):,}</span></div>")
+        st.markdown(_r, unsafe_allow_html=True)
+    with _cc2:
+        st.markdown("**🔻 Smallest crowds**")
+        _r = ""
+        for _i, _x in enumerate(wpl.crowds(12, biggest=False).itertuples(), 1):
+            _r += (f"<div class='pl-row'><span class='rk'>{_i}</span>"
+                   f"<span class='nm'>{_x.team1_code_name} {_x.score1}–{_x.score2} "
+                   f"{_x.team2_code_name}</span>"
+                   f"<span class='ed'>{_x.year}</span>"
+                   f"<span class='gl'>{int(_x.attendance):,}</span></div>")
+        st.markdown(_r, unsafe_allow_html=True)
+
+    ui.section("🧑‍⚖️ Referees", "by matches taken charge of · 'best' is the furthest round reached")
+    _rc1, _rc2 = st.columns([1.5, 1], gap="medium")
+    with _rc1:
+        _r = ""
+        for _i, _x in enumerate(_refs.head(15).itertuples(), 1):
+            _span = (f"{_x.years[0]}" if len(_x.years) == 1
+                     else f"{_x.years[0]}–{_x.years[-1]}")
+            _fl = wch.flag_url(_x.nation) if _x.nation else ""
+            _img = f"<img src='{_fl}'>" if _fl else ""
+            _r += (f"<div class='pl-row{' gold' if _i == 1 else ''}'><span class='rk'>{_i}</span>"
+                   f"{_img}<span class='nm'>{_x.referee}</span>"
+                   f"<span class='nt'>{_STAGE.get(_x.best, _x.best)}</span>"
+                   f"<span class='ed'>{_span}</span>"
+                   f"<span class='gl'>{int(_x.matches)}</span></div>")
+        st.markdown(_r, unsafe_allow_html=True)
+    with _rc2:
+        st.markdown("**Which countries supply referees**")
+        _r = ""
+        for _x in wpl.referee_nations(12).itertuples():
+            _fl = wch.flag_url(_x.referee_nation)
+            _img = f"<img src='{_fl}'>" if _fl else ""
+            _r += (f"<div class='pl-row'>{_img}<span class='nm'>{_x.referee_nation}</span>"
+                   f"<span class='ed'>{int(_x.officials)} officials</span>"
+                   f"<span class='gl'>{int(_x.matches)}</span></div>")
+        st.markdown(_r, unsafe_allow_html=True)
+    st.caption("Referee nations come from the source's own parenthetical, so an official listed without "
+               "a country is counted in the table above but not in this breakdown.")

@@ -1,0 +1,1069 @@
+year,stage,date,team1_code,team2_code,score1,score2,attendance,referee,referee_nation,stadium,source_page
+1930,group,1930-07-13,FRA,MEX,4,1,4444,Domingo Lombardi,Uruguay,"Estadio Pocitos, Montevideo",1930 FIFA World Cup Group 1
+1930,group,1930-07-13,USA,BEL,3,0,18346,José Macías,Argentina,"Estadio Parque Central, Montevideo",1930 FIFA World Cup Group 4
+1930,group,1930-07-14,ROU,PER,3,1,2549,Alberto Warnken,Chile,"Estadio Pocitos, Montevideo",1930 FIFA World Cup Group 3
+1930,group,1930-07-14,YUG,BRA,2,1,24059,Aníbal Tejada,Uruguay,"Estadio Parque Central, Montevideo",1930 FIFA World Cup Group 2
+1930,group,1930-07-15,ARG,FRA,1,0,23409,Almeida Rêgo,Brazil,"Estadio Parque Central, Montevideo",1930 FIFA World Cup Group 1
+1930,group,1930-07-16,CHI,MEX,3,0,9249,Henri Christophe,Belgium,"Estadio Parque Central, Montevideo",1930 FIFA World Cup Group 1
+1930,group,1930-07-17,USA,PAR,3,0,18306,José Macías,Argentina,"Estadio Parque Central, Montevideo",1930 FIFA World Cup Group 4
+1930,group,1930-07-17,YUG,BOL,4,0,18306,Francisco Mateucci,Uruguay,"Estadio Parque Central, Montevideo",1930 FIFA World Cup Group 2
+1930,group,1930-07-18,URU,PER,1,0,57735,John Langenus,Belgium,"Estadio Centenario, Montevideo",1930 FIFA World Cup Group 3
+1930,group,1930-07-19,ARG,MEX,6,3,42100,Ulises Saucedo,Bolivia,"Estadio Centenario, Montevideo",1930 FIFA World Cup Group 1
+1930,group,1930-07-19,CHI,FRA,1,0,2000,Anibal Tejada,Uruguay,"Estadio Centenario, Montevideo",1930 FIFA World Cup Group 1
+1930,group,1930-07-20,BRA,BOL,4,0,25466,Thomas Balvay,France,"Estadio Centenario, Montevideo",1930 FIFA World Cup Group 2
+1930,group,1930-07-20,PAR,BEL,1,0,12000,Ricardo Vallarino,Uruguay,"Estadio Centenario, Montevideo",1930 FIFA World Cup Group 4
+1930,group,1930-07-21,URU,ROU,4,0,70022,Almeida Rêgo,Brazil,"Estadio Centenario, Montevideo",1930 FIFA World Cup Group 3
+1930,group,1930-07-22,ARG,CHI,3,1,41459,John Langenus,Belgium,"Estadio Centenario, Montevideo",1930 FIFA World Cup Group 1
+1930,semi-final,1930-07-26,ARG,USA,6,1,72886,John Langenus,Belgium,"Estadio Centenario, Montevideo",1930 FIFA World Cup knockout stage
+1930,semi-final,1930-07-27,URU,YUG,6,1,79867,Gilberto de Almeida Rêgo,Brazil,"Estadio Centenario, Montevideo",1930 FIFA World Cup knockout stage
+1930,final,1930-07-30,URU,ARG,4,2,68346,John Langenus,Belgium,"Estadio Centenario, Montevideo",1930 FIFA World Cup final
+1934,round-of-16,1934-05-27,AUT,FRA,3,2,16000,Johannes van Moorsel,Netherlands,"Stadio Benito Mussolini, Turin",1934 FIFA World Cup final tournament
+1934,round-of-16,1934-05-27,CSK,ROU,2,1,9000,John Langenus,Belgium,"Stadio Littorio, Trieste",1934 FIFA World Cup final tournament
+1934,round-of-16,1934-05-27,ESP,BRA,3,1,21000,Alfred Birlem,Germany,"Stadio Luigi Ferraris, Genoa",1934 FIFA World Cup final tournament
+1934,round-of-16,1934-05-27,GER,BEL,5,2,8000,Francesco Mattea,Italy,"Stadio Giovanni Berta, Florence",1934 FIFA World Cup final tournament
+1934,round-of-16,1934-05-27,HUN,EGY,4,2,9000,Rinaldo Barlassina,Italy,"Stadio Giorgio Ascarelli, Naples",1934 FIFA World Cup final tournament
+1934,round-of-16,1934-05-27,ITA,USA,7,1,25000,René Mercet,Switzerland,"Stadio Nazionale PNF, Rome",1934 FIFA World Cup final tournament
+1934,round-of-16,1934-05-27,SUI,NED,3,2,33000,Ivan Eklind,Sweden,"Stadio San Siro, Milan",1934 FIFA World Cup final tournament
+1934,round-of-16,1934-05-27,SWE,ARG,3,2,14000,Eugen Braun,Austria,"Stadio Littoriale, Bologna",1934 FIFA World Cup final tournament
+1934,quarter-final,1934-05-31,AUT,HUN,2,1,23000,Francesco Mattea,Italy,"Stadio Littoriale, Bologna",1934 FIFA World Cup final tournament
+1934,quarter-final,1934-05-31,CSK,SUI,3,2,12000,Alois Beranek,Austria,"Stadio Benito Mussolini, Turin",1934 FIFA World Cup final tournament
+1934,quarter-final,1934-05-31,GER,SWE,2,1,3000,Rinaldo Barlassina,Italy,"Stadio San Siro, Milan",1934 FIFA World Cup final tournament
+1934,quarter-final,1934-05-31,ITA,ESP,1,1,35000,Louis Baert,Belgium,"Stadio Giovanni Berta, Florence",1934 FIFA World Cup final tournament
+1934,quarter-final,1934-06-01,ITA,ESP,1,0,43000,René Mercet,Switzerland,"Stadio Giovanni Berta, Florence",1934 FIFA World Cup final tournament
+1934,semi-final,1934-06-03,CSK,GER,3,1,15000,Rinaldo Barlassina,Italy,"Stadio Nazionale PNF, Rome",1934 FIFA World Cup final tournament
+1934,semi-final,1934-06-03,ITA,AUT,1,0,35000,Ivan Eklind,Sweden,"Stadio San Siro, Milan",1934 FIFA World Cup final tournament
+1934,third-place,1934-06-07,GER,AUT,3,2,7000,Albino Carraro,Italy,"Stadio Giorgio Ascarelli, Naples",1934 FIFA World Cup final tournament
+1934,final,1934-06-10,ITA,TCH,2,1,55000,Ivan Eklind,Sweden,"Stadio Nazionale PNF, Rome",1934 FIFA World Cup final
+1938,round-of-16,1938-06-04,SUI,GER,1,1,27152,John Langenus,Belgium,"Parc des Princes, Paris",1938 FIFA World Cup final tournament
+1938,round-of-16,1938-06-05,BRA,POL,6,5,13452,Ivan Eklind,Sweden,"Stade de la Meinau, Strasbourg",Brazil v Poland (1938 FIFA World Cup)
+1938,round-of-16,1938-06-05,CSK,NED,3,0,11000,Lucien Leclerq,France,"Stade municipal, Le Havre",1938 FIFA World Cup final tournament
+1938,round-of-16,1938-06-05,CUB,ROU,3,3,7000,Giuseppe Scarpi,Italy,"Stade du T.O.E.C., Toulouse",1938 FIFA World Cup final tournament
+1938,round-of-16,1938-06-05,FRA,BEL,3,1,30454,Hans Wüthrich,Switzerland,"Stade Olympique de Colombes, Colombes",1938 FIFA World Cup final tournament
+1938,round-of-16,1938-06-05,HUN,DEI,6,0,9000,Roger Conrié,France,"Vélodrome Municipal, Reims",1938 FIFA World Cup final tournament
+1938,round-of-16,1938-06-05,ITA,NOR,2,1,19000,Alois Beranek,Germany,"Stade Vélodrome, Marseille",1938 FIFA World Cup final tournament
+1938,round-of-16,1938-06-09,CUB,ROU,2,1,8000,Alfred Birlem,Germany,"Stade du T.O.E.C., Toulouse",1938 FIFA World Cup final tournament
+1938,round-of-16,1938-06-09,SUI,GER,4,2,20025,Ivan Eklind,Sweden,"Parc des Princes, Paris",1938 FIFA World Cup final tournament
+1938,quarter-final,1938-06-12,BRA,TCH,1,1,22021,Pál von Hertzka,Hungary,"Parc Lescure, Bordeaux",Battle of Bordeaux (1938 FIFA World Cup)
+1938,quarter-final,1938-06-12,HUN,SUI,2,0,15000,Rinaldo Barlassina,Italy,"Stade Victor Boucquey, Lille",1938 FIFA World Cup final tournament
+1938,quarter-final,1938-06-12,ITA,FRA,3,1,58455,Louis Baert,Belgium,"Stade Olympique de Colombes, Colombes",1938 FIFA World Cup final tournament
+1938,quarter-final,1938-06-12,SWE,CUB,8,0,7000,Augustin Krist,Czechoslovakia,"Stade du Fort Carré, Antibes",1938 FIFA World Cup final tournament
+1938,quarter-final,1938-06-14,BRA,CSK,2,1,18141,Georges Capdeville,France,"Parc Lescure, Bordeaux",1938 FIFA World Cup final tournament
+1938,semi-final,1938-06-16,HUN,SWE,5,1,20000,Lucien Leclerq,France,"Parc des Princes, Paris",1938 FIFA World Cup final tournament
+1938,semi-final,1938-06-16,ITA,BRA,2,1,33000,Hans Wüthrich,Switzerland,"Stade Vélodrome, Marseille",1938 FIFA World Cup final tournament
+1938,third-place,1938-06-19,BRA,SWE,4,2,12000,John Langenus,Belgium,"Parc Lescure, Bordeaux",1938 FIFA World Cup final tournament
+1938,final,1938-06-19,ITA,HUN,4,2,45000,Georges Capdeville,France,"Stade Olympique de Colombes, Paris",1938 FIFA World Cup final
+1950,group,1950-06-24,BRA,MEX,4,0,81649,George Reader,England,"Estádio do Maracanã, Rio de Janeiro",1950 FIFA World Cup Group 1
+1950,group,1950-06-25,ENG,CHI,2,0,29703,Karel van der Meer,Netherlands,"Estádio do Maracanã, Rio de Janeiro",1950 FIFA World Cup Group 2
+1950,group,1950-06-25,ESP,USA,3,1,9511,Mário Vianna,Brazil,"Estádio Durival de Britto, Curitiba",1950 FIFA World Cup Group 2
+1950,group,1950-06-25,SWE,ITA,3,2,36502,Jean Lutz,Switzerland,"Estádio do Pacaembu, São Paulo",1950 FIFA World Cup Group 3
+1950,group,1950-06-25,YUG,SUI,3,0,7336,Giovanni Galeati,Italy,"Estádio Independência, Belo Horizonte",1950 FIFA World Cup Group 1
+1950,group,1950-06-28,BRA,SUI,2,2,42032,Ramón Azón Romá,Spain,"Estádio do Pacaembu, São Paulo",1950 FIFA World Cup Group 1
+1950,group,1950-06-28,YUG,MEX,4,1,11078,Reginald Leafe,England,"Estádio dos Eucaliptos, Porto Alegre",1950 FIFA World Cup Group 1
+1950,group,1950-06-29,ESP,CHI,2,0,19790,Alberto Malcher,Brazil,"Estádio do Maracanã, Rio de Janeiro",1950 FIFA World Cup Group 2
+1950,group,1950-06-29,SWE,PAR,2,2,7903,George Mitchell,Scotland,"Estádio Durival Britto, Curitiba",1950 FIFA World Cup Group 3
+1950,group,1950-06-29,USA,ENG,1,0,10151,Generoso Dattilo,Italy,"Estádio Independência, Belo Horizonte",United States v England (1950 FIFA World Cup)
+1950,group,1950-07-01,BRA,YUG,2,0,142429,Benjamin Griffiths,Wales,"Estádio do Maracanã, Rio de Janeiro",1950 FIFA World Cup Group 1
+1950,group,1950-07-02,CHI,USA,5,2,8501,Mário Gardelli,Brazil,"Estádio Ilha do Retiro, Recife",1950 FIFA World Cup Group 2
+1950,group,1950-07-02,ESP,ENG,1,0,74462,Giovanni Galeati,Italy,"Estádio do Maracanã, Rio de Janeiro",1950 FIFA World Cup Group 2
+1950,group,1950-07-02,ITA,PAR,2,0,25811,Arthur Ellis,England,"Estádio do Pacaembu, São Paulo",1950 FIFA World Cup Group 3
+1950,group,1950-07-02,SUI,MEX,2,1,3580,Ivan Eklind,Sweden,"Estádio dos Eucaliptos, Porto Alegre",1950 FIFA World Cup Group 1
+1950,group,1950-07-02,URU,BOL,8,0,5284,George Reader,England,"Estádio Independência, Belo Horizonte",1950 FIFA World Cup Group 4
+1950,final-round,1950-07-09,BRA,SWE,7,1,138886,Arthur Ellis,England,"Estádio do Maracanã, Rio de Janeiro",1950 FIFA World Cup final round
+1950,final-round,1950-07-09,URU,ESP,2,2,44802,Benjamin Griffiths,Wales,"Estádio do Pacaembu, São Paulo",1950 FIFA World Cup final round
+1950,final-round,1950-07-13,BRA,ESP,6,1,152772,Reginald Leafe,England,"Estádio do Maracanã, Rio de Janeiro",1950 FIFA World Cup final round
+1950,final-round,1950-07-13,URU,SWE,3,2,7987,Giovanni Galeati,Italy,"Estádio do Pacaembu, São Paulo",1950 FIFA World Cup final round
+1950,final-round,1950-07-16,SWE,ESP,3,1,11227,Karel van der Meer,Netherlands,"Estádio do Pacaembu, São Paulo",1950 FIFA World Cup final round
+1950,final-round,1950-07-16,URU,BRA,2,1,173850,George Reader,England,"Estádio do Maracanã, Rio de Janeiro",Uruguay v Brazil (1950 FIFA World Cup)
+1954,group,1954-06-16,AUT,SCO,1,0,25000,Laurent Franken,Belgium,"Hardturm Stadium, Zürich",1954 FIFA World Cup Group 3
+1954,group,1954-06-16,BRA,MEX,5,0,13470,Raymon Wyssling,Switzerland,"Charmilles Stadium, Geneva",1954 FIFA World Cup Group 1
+1954,group,1954-06-16,URU,TCH,2,0,20500,Arthur Ellis,England,"Wankdorf Stadium, Bern",1954 FIFA World Cup Group 3
+1954,group,1954-06-16,YUG,FRA,1,0,16000,Benjamin Griffiths,Wales,"Stade Olympique de la Pontaise, Lausanne",1954 FIFA World Cup Group 1
+1954,group,1954-06-17,ENG,BEL,4,4,14000,Emil Schmetzer,West Germany,"St. Jakob Stadium, Basel",1954 FIFA World Cup Group 4
+1954,group,1954-06-17,FRG,TUR,4,1,28000,Jose da Costa Vieira,Portugal,"Wankdorf Stadium, Bern",1954 FIFA World Cup Group 2
+1954,group,1954-06-17,HUN,KOR,9,0,13000,Raymond Vincenti,France,"Hardturm Stadium, Zürich",1954 FIFA World Cup Group 2
+1954,group,1954-06-17,SUI,ITA,2,1,43000,Mário Vianna,Brazil,"Stade Olympique de la Pontaise, Lausanne",1954 FIFA World Cup Group 4
+1954,group,1954-06-19,AUT,TCH,5,0,26000,Vasa Stefanovic,Yugoslavia,"Hardturm Stadium, Zürich",1954 FIFA World Cup Group 3
+1954,group,1954-06-19,BRA,YUG,1,1,24637,Charlie Faultless,Scotland,"Stade Olympique de la Pontaise, Lausanne",1954 FIFA World Cup Group 1
+1954,group,1954-06-19,FRA,MEX,3,2,19000,Manuel Asensi,Spain,"Charmilles Stadium, Geneva",1954 FIFA World Cup Group 1
+1954,group,1954-06-19,URU,SCO,7,0,34000,Vincenzo Orlandini,Italy,"St. Jakob Stadium, Basel",1954 FIFA World Cup Group 3
+1954,group,1954-06-20,ENG,SUI,2,0,43500,Istvan Zsolt,Hungary,"Wankdorf Stadium, Bern",1954 FIFA World Cup Group 4
+1954,group,1954-06-20,HUN,FRG,8,3,56000,William Ling,England,"St. Jakob Stadium, Basel",1954 FIFA World Cup Group 2
+1954,group,1954-06-20,ITA,BEL,4,1,24000,Carl Erich Steiner,Austria,"Cornaredo Stadium, Lugano",1954 FIFA World Cup Group 4
+1954,group,1954-06-20,TUR,KOR,7,0,4000,Esteban Marino,Uruguay,"Charmilles Stadium, Geneva",1954 FIFA World Cup Group 2
+1954,group,1954-06-23,FRG,TUR,7,2,17000,Raymond Vincenti,France,"Hardturm Stadium, Zürich",1954 FIFA World Cup Group 2
+1954,group,1954-06-23,SUI,ITA,4,1,30000,Benjamin Griffiths,Wales,"St. Jakob Stadium, Basel",1954 FIFA World Cup Group 4
+1954,quarter-final,1954-06-26,AUT,SUI,7,5,35000,Charlie Faultless,Scotland,"Stade Olympique de la Pontaise, Lausanne",Austria v Switzerland (1954 FIFA World Cup)
+1954,quarter-final,1954-06-26,URU,ENG,4,2,28000,Carl Erich Steiner,Austria,"St. Jakob Stadium, Basel",1954 FIFA World Cup knockout stage
+1954,quarter-final,1954-06-27,FRG,YUG,2,0,17000,Istvan Zsolt,Hungary,"Charmilles Stadium, Geneva",1954 FIFA World Cup knockout stage
+1954,quarter-final,1954-06-27,HUN,BRA,4,2,40000,Arthur Ellis,England,"Wankdorf Stadium, Bern",Battle of Berne (1954 FIFA World Cup)
+1954,semi-final,1954-06-30,FRG,AUT,6,1,58000,Vincenzo Orlandini,Italy,"St. Jakob Stadium, Basel",1954 FIFA World Cup knockout stage
+1954,semi-final,1954-06-30,HUN,URU,4,2,45000,Benjamin Griffiths,Wales,"Stade Olympique de la Pontaise, Lausanne",1954 FIFA World Cup knockout stage
+1954,third-place,1954-07-03,AUT,URU,3,1,32000,Raymon Wyssling,Switzerland,"Hardturm Stadium, Zürich",1954 FIFA World Cup knockout stage
+1954,final,1954-07-04,FRG,HUN,3,2,62500,William Ling,England,"Wankdorf Stadium, Bern",1954 FIFA World Cup final
+1958,group,1958-06-08,ARG,FRG,1,3,31156,Reginald Leafe,England,"Malmö Stadion, Malmö",1958 FIFA World Cup Group 1
+1958,group,1958-06-08,BRA,AUT,3,0,17788,Maurice Guigue,France,"Rimnersvallen, Uddevalla",1958 FIFA World Cup Group 4
+1958,group,1958-06-08,FRA,PAR,7,3,16518,Juan Gardeazábal Garay,Spain,"Idrottsparken, Norrköping",1958 FIFA World Cup Group 2
+1958,group,1958-06-08,HUN,WAL,1,1,15343,José María Codesal,Uruguay,"Jernvallen, Sandviken",1958 FIFA World Cup Group 3
+1958,group,1958-06-08,NIR,TCH,1,0,10647,Fritz Seipelt,Austria,"Örjans Vall, Halmstad",1958 FIFA World Cup Group 1
+1958,group,1958-06-08,SWE,MEX,3,0,34107,Nikolay Latyshev,Soviet Union,"Råsunda Stadium, Solna",1958 FIFA World Cup Group 3
+1958,group,1958-06-08,URS,ENG,2,2,49348,István Zsolt,Hungary,"Ullevi, Gothenburg",1958 FIFA World Cup Group 4
+1958,group,1958-06-08,YUG,SCO,1,1,9591,Raymond Wyssling,Switzerland,"Arosvallen, Västerås",1958 FIFA World Cup Group 2
+1958,group,1958-06-11,ARG,NIR,3,1,14174,Sten Ahlner,Sweden,"Örjans Vall, Halmstad",1958 FIFA World Cup Group 1
+1958,group,1958-06-11,BRA,ENG,0,0,40895,Albert Dusch,West Germany,"Ullevi, Gothenburg",1958 FIFA World Cup Group 4
+1958,group,1958-06-11,FRG,TCH,2,2,25000,Arthur Edward Ellis,England,"Olympiastadion, Helsingborg",1958 FIFA World Cup Group 1
+1958,group,1958-06-11,MEX,WAL,1,1,15150,Leo Lemesic,Yugoslavia,"Råsunda Stadium, Solna",1958 FIFA World Cup Group 3
+1958,group,1958-06-11,PAR,SCO,3,2,11665,Vincenzo Orlandini,Italy,"Idrottsparken, Norrköping",1958 FIFA World Cup Group 2
+1958,group,1958-06-11,URS,AUT,2,0,21239,Carl Jørgensen,Denmark,"Ryavallen, Borås",1958 FIFA World Cup Group 4
+1958,group,1958-06-11,YUG,FRA,3,2,12217,Benjamin Griffiths,Wales,"Arosvallen, Västerås",1958 FIFA World Cup Group 2
+1958,group,1958-06-12,SWE,HUN,2,1,38850,Jack Mowat,Scotland,"Råsunda Stadium, Solna",1958 FIFA World Cup Group 3
+1958,group,1958-06-15,BRA,URS,2,0,50928,Maurice Guigue,France,"Ullevi, Gothenburg",1958 FIFA World Cup Group 4
+1958,group,1958-06-15,ENG,AUT,2,2,15872,Jan Bronkhorst,Netherlands,"Ryavallen, Borås",1958 FIFA World Cup Group 4
+1958,group,1958-06-15,FRA,SCO,2,1,13554,Juan Regis Brozzi,Argentina,"Eyravallen, Örebro",1958 FIFA World Cup Group 2
+1958,group,1958-06-15,FRG,NIR,2,2,21990,Joaquim Campos,Portugal,"Malmö Stadion, Malmö",1958 FIFA World Cup Group 1
+1958,group,1958-06-15,HUN,MEX,4,0,13300,Arne Eriksson,Finland,"Jernvallen, Sandviken",1958 FIFA World Cup Group 3
+1958,group,1958-06-15,PAR,YUG,3,3,13103,Martin Macko,Czechoslovakia,"Tunavallen, Eskilstuna",1958 FIFA World Cup Group 2
+1958,group,1958-06-15,SWE,WAL,0,0,30287,Lucien van Nuffel,Belgium,"Råsunda Stadium, Solna",1958 FIFA World Cup Group 3
+1958,group,1958-06-15,TCH,ARG,6,1,16418,Arthur Edward Ellis,England,"Olympiastadion, Helsingborg",Disaster of Sweden
+1958,group,1958-06-17,NIR,TCH,2,1,6196,Maurice Guigue,France,"Malmö Stadion, Malmö",1958 FIFA World Cup Group 1
+1958,group,1958-06-17,URS,ENG,1,0,23182,Albert Dusch,West Germany,"Ullevi, Gothenburg",1958 FIFA World Cup Group 4
+1958,group,1958-06-17,WAL,HUN,2,1,2823,Nikolay Latyshev,Soviet Union,"Råsunda Stadium, Solna",1958 FIFA World Cup Group 3
+1958,quarter-final,1958-06-19,BRA,WAL,1,0,25923,Fritz Seipelt,Austria,"Ullevi, Gothenburg",1958 FIFA World Cup knockout stage
+1958,quarter-final,1958-06-19,FRA,NIR,4,0,11800,Juan Gardeazábal Garay,Spain,"Idrottsparken, Norrköping",1958 FIFA World Cup knockout stage
+1958,quarter-final,1958-06-19,FRG,YUG,1,0,20055,Raymond Wyssling,Switzerland,"Malmö Stadion, Malmö",1958 FIFA World Cup knockout stage
+1958,quarter-final,1958-06-19,SWE,URS,2,0,31900,Reginald Leafe,England,"Råsunda Stadium, Solna",1958 FIFA World Cup knockout stage
+1958,semi-final,1958-06-24,BRA,FRA,5,2,27100,Benjamin Griffiths,Wales,"Råsunda Stadium, Solna",1958 FIFA World Cup knockout stage
+1958,semi-final,1958-06-24,SWE,FRG,3,1,49471,István Zsolt,Hungary,"Ullevi, Gothenburg",1958 FIFA World Cup knockout stage
+1958,third-place,1958-06-28,FRA,FRG,6,3,32483,Juan Regis Brozzi,Argentina,"Ullevi, Gothenburg",1958 FIFA World Cup knockout stage
+1958,final,1958-06-29,BRA,SWE,5,2,49737,Maurice Guigue,France,"Råsunda Stadium, Solna",1958 FIFA World Cup final
+1962,group,1962-05-30,ARG,BUL,1,0,7134,Juan Gardeazábal Garay,Spain,"Estadio El Teniente, Rancagua",1962 FIFA World Cup Group 4
+1962,group,1962-05-30,BRA,MEX,2,0,10484,Gottfried Dienst,Switzerland,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup Group 3
+1962,group,1962-05-30,CHI,SUI,3,1,65006,Kenneth Aston,England,"Estadio Nacional, Santiago",1962 FIFA World Cup Group 2
+1962,group,1962-05-30,URU,COL,2,1,7908,Andor Dorogi,Hungary,"Estadio Carlos Dittborn, Arica",1962 FIFA World Cup Group 1
+1962,group,1962-05-31,FRG,ITA,0,0,65440,Robert Holley Davidson,Scotland,"Estadio Nacional, Santiago",1962 FIFA World Cup Group 2
+1962,group,1962-05-31,HUN,ENG,2,1,7938,Leo Horn,Netherlands,"Estadio El Teniente, Rancagua",1962 FIFA World Cup Group 4
+1962,group,1962-05-31,TCH,ESP,1,0,12700,Carl Erich Steiner,Austria,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup Group 3
+1962,group,1962-05-31,URS,YUG,2,0,9622,Albert Dusch,West Germany,"Estadio Carlos Dittborn, Arica",1962 FIFA World Cup Group 1
+1962,group,1962-06-02,BRA,TCH,0,0,14903,Pierre Schwinte,France,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup Group 3
+1962,group,1962-06-02,CHI,ITA,2,0,66057,Kenneth Aston,England,"Estadio Nacional, Santiago",Battle of Santiago (1962 FIFA World Cup)
+1962,group,1962-06-02,ENG,ARG,3,1,9794,Nikolay Latyshev,Soviet Union,"Estadio El Teniente, Rancagua",1962 FIFA World Cup Group 4
+1962,group,1962-06-02,YUG,URU,3,1,8829,Karol Galba,Czechoslovakia,"Estadio Carlos Dittborn, Arica",1962 FIFA World Cup Group 1
+1962,group,1962-06-03,ESP,MEX,1,0,11875,Branko Tesanić,Yugoslavia,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup Group 3
+1962,group,1962-06-03,FRG,SUI,2,1,64922,Leo Horn,Netherlands,"Estadio Nacional, Santiago",1962 FIFA World Cup Group 2
+1962,group,1962-06-03,HUN,BUL,6,1,7442,Juan Gardeazábal Garay,Spain,"Estadio El Teniente, Rancagua",1962 FIFA World Cup Group 4
+1962,group,1962-06-03,URS,COL,4,4,8040,João Etzel Filho,Brazil,"Estadio Carlos Dittborn, Arica",1962 FIFA World Cup Group 1
+1962,group,1962-06-06,BRA,ESP,2,1,18715,Sergio Bustamante,Chile,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup Group 3
+1962,group,1962-06-06,FRG,CHI,2,0,67224,Robert Holley Davidson,Scotland,"Estadio Nacional, Santiago",1962 FIFA World Cup Group 2
+1962,group,1962-06-06,HUN,ARG,0,0,7945,Arturo Yamasaki Maldonado,Peru,"Estadio El Teniente, Rancagua",1962 FIFA World Cup Group 4
+1962,group,1962-06-06,URS,URU,2,1,9973,Cesare Jonni,Italy,"Estadio Carlos Dittborn, Arica",1962 FIFA World Cup Group 1
+1962,group,1962-06-07,ENG,BUL,0,0,5700,Antoine Blavier,Belgium,"Estadio El Teniente, Rancagua",1962 FIFA World Cup Group 4
+1962,group,1962-06-07,ITA,SUI,3,0,59828,Nikolay Latyshev,Soviet Union,"Estadio Nacional, Santiago",1962 FIFA World Cup Group 2
+1962,group,1962-06-07,MEX,TCH,3,1,10648,Gottfried Dienst,Switzerland,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup Group 3
+1962,group,1962-06-07,YUG,COL,5,0,7167,Carlos Robles,Chile,"Estadio Carlos Dittborn, Arica",1962 FIFA World Cup Group 1
+1962,quarter-final,1962-06-10,BRA,ENG,3,1,17736,Pierre Schwinte,France,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup knockout stage
+1962,quarter-final,1962-06-10,CHI,URS,2,1,17268,Leo Horn,Netherlands,"Estadio Carlos Dittborn, Arica",1962 FIFA World Cup knockout stage
+1962,quarter-final,1962-06-10,TCH,HUN,1,0,11690,Nikolay Latyshev,Soviet Union,"Estadio El Teniente, Rancagua",1962 FIFA World Cup knockout stage
+1962,quarter-final,1962-06-10,YUG,FRG,1,0,63324,Arturo Yamasaki Maldonado,Peru,"Estadio Nacional, Santiago",1962 FIFA World Cup knockout stage
+1962,semi-final,1962-06-13,BRA,CHI,4,2,76594,Arturo Yamasaki Maldonado,Peru,"Estadio Nacional, Santiago",1962 FIFA World Cup knockout stage
+1962,semi-final,1962-06-13,TCH,YUG,3,1,5890,Gottfried Dienst,Switzerland,"Estadio Sausalito, Viña del Mar",1962 FIFA World Cup knockout stage
+1962,third-place,1962-06-16,CHI,YUG,1,0,66697,Juan Gardeazábal Garay,Spain,"Estadio Nacional, Santiago",1962 FIFA World Cup knockout stage
+1962,final,1962-06-17,BRA,TCH,3,1,68679,Nikolay Latyshev,Soviet Union,"Estadio Nacional, Santiago",1962 FIFA World Cup final
+1966,group,1966-07-11,ENG,URU,0,0,87148,Istvan Zsolt,Hungary,"Wembley Stadium, London",1966 FIFA World Cup Group 1
+1966,group,1966-07-12,BRA,BUL,2,0,47308,Kurt Tschenscher,West Germany,"Goodison Park, Liverpool",1966 FIFA World Cup Group 3
+1966,group,1966-07-12,FRG,SUI,5,0,36127,Hugh Phillips,Scotland,"Hillsborough Stadium, Sheffield",1966 FIFA World Cup Group 2
+1966,group,1966-07-12,URS,PRK,3,0,23006,Juan Gardeazábal Garay,Spain,"Ayresome Park, Middlesbrough",1966 FIFA World Cup Group 4
+1966,group,1966-07-13,ARG,ESP,2,1,42738,Dimitar Rumenchev,Bulgaria,"Villa Park, Birmingham",1966 FIFA World Cup Group 2
+1966,group,1966-07-13,FRA,MEX,1,1,69237,Menachem Ashkenazi,Israel,"Wembley Stadium, London",1966 FIFA World Cup Group 1
+1966,group,1966-07-13,ITA,CHI,2,0,27199,Gottfried Dienst,Switzerland,"Roker Park, Sunderland",1966 FIFA World Cup Group 4
+1966,group,1966-07-13,POR,HUN,3,1,29886,Leo Callaghan,Wales,"Old Trafford, Manchester",1966 FIFA World Cup Group 3
+1966,group,1966-07-15,CHI,PRK,1,1,13792,Ali Kandil,United Arab Republic,"Ayresome Park, Middlesbrough",1966 FIFA World Cup Group 4
+1966,group,1966-07-15,ESP,SUI,2,1,32028,Tofiq Bahramov,Soviet Union,"Hillsborough Stadium, Sheffield",1966 FIFA World Cup Group 2
+1966,group,1966-07-15,HUN,BRA,3,1,51387,Ken Dagnall,England,"Goodison Park, Liverpool",1966 FIFA World Cup Group 3
+1966,group,1966-07-15,URU,FRA,2,1,45662,Karol Galba,Czechoslovakia,"White City Stadium, London",1966 FIFA World Cup Group 1
+1966,group,1966-07-16,ARG,FRG,0,0,46587,Konstantin Zečević,Yugoslavia,"Villa Park, Birmingham",1966 FIFA World Cup Group 2
+1966,group,1966-07-16,ENG,MEX,2,0,92570,Concetto Lo Bello,Italy,"Wembley Stadium, London",1966 FIFA World Cup Group 1
+1966,group,1966-07-16,POR,BUL,3,0,25438,José María Codensal,Uruguay,"Old Trafford, Manchester",1966 FIFA World Cup Group 3
+1966,group,1966-07-16,URS,ITA,1,0,27793,Rudolf Kreitlein,West Germany,"Roker Park, Sunderland",1966 FIFA World Cup Group 4
+1966,group,1966-07-19,ARG,SUI,2,0,32127,Joaquim Campos,Portugal,"Hillsborough Stadium, Sheffield",1966 FIFA World Cup Group 2
+1966,group,1966-07-19,MEX,URU,0,0,61112,Bertil Lööw,Sweden,"Wembley Stadium, London",1966 FIFA World Cup Group 1
+1966,group,1966-07-19,POR,BRA,3,1,58479,George McCabe,England,"Goodison Park, Liverpool",1966 FIFA World Cup Group 3
+1966,group,1966-07-19,PRK,ITA,1,0,17829,Pierre Schwinte,France,"Ayresome Park, Middlesbrough",1966 FIFA World Cup Group 4
+1966,group,1966-07-20,ENG,FRA,2,0,98270,Arturo Yamasaki,Peru,"Wembley Stadium, London",1966 FIFA World Cup Group 1
+1966,group,1966-07-20,FRG,ESP,2,1,42187,Armando Marques,Brazil,"Villa Park, Birmingham",1966 FIFA World Cup Group 2
+1966,group,1966-07-20,HUN,BUL,3,1,24129,Roberto Goicoechea,Argentina,"Old Trafford, Manchester",1966 FIFA World Cup Group 3
+1966,group,1966-07-20,URS,CHI,2,1,16027,John Adair,Northern Ireland,"Roker Park, Sunderland",1966 FIFA World Cup Group 4
+1966,quarter-final,1966-07-23,ENG,ARG,1,0,90584,Rudolf Kreitlein,West Germany,"Wembley Stadium, London",1966 FIFA World Cup knockout stage
+1966,quarter-final,1966-07-23,FRG,URU,4,0,40007,Jim Finney,England,"Hillsborough Stadium, Sheffield",1966 FIFA World Cup knockout stage
+1966,quarter-final,1966-07-23,POR,PRK,5,3,40248,Menachem Ashkenazi,Israel,"Goodison Park, Liverpool",1966 FIFA World Cup knockout stage
+1966,quarter-final,1966-07-23,URS,HUN,2,1,26844,Juan Gardeazábal Garay,Spain,"Roker Park, Sunderland",1966 FIFA World Cup knockout stage
+1966,semi-final,1966-07-25,FRG,URS,2,1,38273,Concetto Lo Bello,Italy,"Goodison Park, Liverpool",1966 FIFA World Cup knockout stage
+1966,semi-final,1966-07-26,ENG,POR,2,1,94493,Pierre Schwinte,France,"Wembley Stadium, London",1966 FIFA World Cup knockout stage
+1966,third-place,1966-07-28,POR,URS,2,1,87696,Ken Dagnall,England,"Wembley Stadium, London",1966 FIFA World Cup knockout stage
+1966,final,1966-07-30,ENG,FRG,4,2,96924,Gottfried Dienst,Switzerland,"Wembley Stadium, London",1966 FIFA World Cup final
+1970,group,1970-05-31,MEX,URS,0,0,107160,Kurt Tschenscher,West Germany,"Estadio Azteca, Mexico City",1970 FIFA World Cup Group 1
+1970,group,1970-06-02,ENG,ROU,1,0,50560,Vital Loraux,Belgium,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup Group 3
+1970,group,1970-06-02,PER,BUL,3,2,13765,Antonio Sbardella,Italy,"Estadio Nou Camp, León",1970 FIFA World Cup Group 4
+1970,group,1970-06-02,URU,ISR,2,0,20654,Bobby Davidson,Scotland,"Estadio Cuauhtémoc, Puebla",1970 FIFA World Cup Group 2
+1970,group,1970-06-03,BEL,SLV,3,0,92205,Andrei Rădulescu,Romania,"Estadio Azteca, Mexico City",1970 FIFA World Cup Group 1
+1970,group,1970-06-03,BRA,TCH,4,1,52897,Ramón Barreto,Uruguay,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup Group 3
+1970,group,1970-06-03,FRG,MAR,2,1,12942,Laurens van Ravens,Netherlands,"Estadio Nou Camp, León",1970 FIFA World Cup Group 4
+1970,group,1970-06-03,ITA,SWE,1,0,13433,Jack Taylor,England,"Estadio Luis Dosal, Toluca",1970 FIFA World Cup Group 2
+1970,group,1970-06-06,PER,MAR,3,0,13537,Tofiq Bahramov,Soviet Union,"Estadio Nou Camp, León",1970 FIFA World Cup Group 4
+1970,group,1970-06-06,ROU,TCH,2,1,56818,Diego De Leo,Mexico,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup Group 3
+1970,group,1970-06-06,URS,BEL,4,1,95261,Rudolf Scheurer,Switzerland,"Estadio Azteca, Mexico City",1970 FIFA World Cup Group 1
+1970,group,1970-06-06,URU,ITA,0,0,29968,Rudi Glöckner,East Germany,"Estadio Cuauhtémoc, Puebla",1970 FIFA World Cup Group 2
+1970,group,1970-06-07,BRA,ENG,1,0,66843,Abraham Klein,Israel,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup Group 3
+1970,group,1970-06-07,FRG,BUL,5,2,12710,José María Ortiz de Mendíbil,Spain,"Estadio Nou Camp, León",1970 FIFA World Cup Group 4
+1970,group,1970-06-07,MEX,SLV,4,0,103058,Ali Kandil,United Arab Republic,"Estadio Azteca, Mexico City",1970 FIFA World Cup Group 1
+1970,group,1970-06-07,SWE,ISR,1,1,9624,Seyoum Tarekegn,Ethiopia,"Estadio Luis Dosal, Toluca",1970 FIFA World Cup Group 2
+1970,group,1970-06-10,BRA,ROU,3,2,50804,Ferdinand Marschall,Austria,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup Group 3
+1970,group,1970-06-10,FRG,PER,3,1,17875,Abel Aguilar Elizalde,Mexico,"Estadio Nou Camp, León",1970 FIFA World Cup Group 4
+1970,group,1970-06-10,SWE,URU,1,0,18163,Henry Landauer,United States,"Estadio Cuauhtémoc, Puebla",1970 FIFA World Cup Group 2
+1970,group,1970-06-10,URS,SLV,2,0,89979,Rafael Hormazábal Díaz,Chile,"Estadio Azteca, Mexico City",1970 FIFA World Cup Group 1
+1970,group,1970-06-11,BUL,MAR,1,1,12299,Antonio Ribeiro Saldanha,Portugal,"Estadio Nou Camp, León",1970 FIFA World Cup Group 4
+1970,group,1970-06-11,ENG,TCH,1,0,49292,Roger Machin,France,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup Group 3
+1970,group,1970-06-11,ITA,ISR,0,0,9890,Ayrton Vieira de Moraes,Brazil,"Estadio Luis Dosal, Toluca",1970 FIFA World Cup Group 2
+1970,group,1970-06-11,MEX,BEL,1,0,108192,Ángel Norberto Coerezza,Argentina,"Estadio Azteca, Mexico City",1970 FIFA World Cup Group 1
+1970,quarter-final,1970-06-14,BRA,PER,4,2,54233,Vital Loraux,Belgium,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup knockout stage
+1970,quarter-final,1970-06-14,FRG,ENG,3,2,23357,Ángel Norberto Coerezza,Argentina,"Estadio Nou Camp, León",1970 FIFA World Cup knockout stage
+1970,quarter-final,1970-06-14,ITA,MEX,4,1,26851,Rudolf Scheurer,Switzerland,"Estadio Luis Dosal, Toluca",1970 FIFA World Cup knockout stage
+1970,quarter-final,1970-06-14,URS,URU,0,1,26085,Laurens van Ravens,Netherlands,"Estadio Azteca, Mexico City",1970 FIFA World Cup knockout stage
+1970,semi-final,1970-06-17,BRA,URU,3,1,51261,José María Ortiz de Mendibil,Spain,"Estadio Jalisco, Guadalajara",1970 FIFA World Cup knockout stage
+1970,semi-final,1970-06-17,ITA,FRG,4,3,102444,Arturo Yamasaki,Mexico,"Estadio Azteca, Mexico City",Italy v West Germany (1970 FIFA World Cup)
+1970,third-place,1970-06-20,FRG,URU,1,0,104403,Antonio Sbardella,Italy,"Estadio Azteca, Mexico City",1970 FIFA World Cup knockout stage
+1970,final,1970-06-21,BRA,ITA,4,1,107412,Rudi Glöckner,East Germany,"Estadio Azteca, Mexico City",1970 FIFA World Cup final
+1974,group,1974-06-13,BRA,YUG,0,0,62000,Rudolf Scheurer,Switzerland,"Waldstadion, Frankfurt",1974 FIFA World Cup Group 2
+1974,group,1974-06-14,FRG,CHI,1,0,81100,Doğan Babacan,Turkey,"Olympiastadion, West Berlin",1974 FIFA World Cup Group 1
+1974,group,1974-06-14,GDR,AUS,2,0,17000,Youssou N'Diaye,Senegal,"Volksparkstadion, Hamburg",1974 FIFA World Cup Group 1
+1974,group,1974-06-14,ZAI,SCO,0,2,27000,Gerhard Schulenburg,West Germany,"Westfalenstadion, Dortmund",1974 FIFA World Cup Group 2
+1974,group,1974-06-15,ITA,HAI,3,1,53000,Vicente Llobregat,Venezuela,"Olympiastadion, Munich",1974 FIFA World Cup Group 4
+1974,group,1974-06-15,POL,ARG,3,2,32700,Clive Thomas,Wales,"Neckarstadion, Stuttgart",1974 FIFA World Cup Group 4
+1974,group,1974-06-15,SWE,BUL,0,0,23800,Edison Peréz Núñez,Peru,"Rheinstadion, Düsseldorf",1974 FIFA World Cup Group 3
+1974,group,1974-06-15,URU,NED,0,2,55100,Károly Palotai,Hungary,"Niedersachsenstadion, Hanover",1974 FIFA World Cup Group 3
+1974,group,1974-06-18,AUS,FRG,0,3,53300,Mahmoud Mustafa Kamel,Egypt,"Volksparkstadion, Hamburg",1974 FIFA World Cup Group 1
+1974,group,1974-06-18,CHI,GDR,1,1,28300,Aurelio Angonese,Italy,"Olympiastadion, West Berlin",1974 FIFA World Cup Group 1
+1974,group,1974-06-18,SCO,BRA,0,0,62000,Arie van Gemert,Netherlands,"Waldstadion, Frankfurt",1974 FIFA World Cup Group 2
+1974,group,1974-06-18,YUG,ZAI,9,0,31700,Omar Delgado Gómez,Colombia,"Parkstadion, Gelsenkirchen",1974 FIFA World Cup Group 2
+1974,group,1974-06-19,ARG,ITA,1,1,70100,Pavel Kazakov,Soviet Union,"Neckarstadion, Stuttgart",1974 FIFA World Cup Group 4
+1974,group,1974-06-19,BUL,URU,1,1,13400,Jack Taylor,England,"Niedersachsenstadion, Hanover",1974 FIFA World Cup Group 3
+1974,group,1974-06-19,HAI,POL,0,7,25300,Govindasamy Suppiah,Singapore,"Olympiastadion, Munich",1974 FIFA World Cup Group 4
+1974,group,1974-06-19,NED,SWE,0,0,53700,Werner Winsemann,Canada,"Westfalenstadion, Dortmund",1974 FIFA World Cup Group 3
+1974,group,1974-06-22,AUS,CHI,0,0,17400,Jafar Namdar,Iran,"Olympiastadion, West Berlin",1974 FIFA World Cup Group 1
+1974,group,1974-06-22,GDR,FRG,1,0,60200,Ramón Barreto Ruíz,Uruguay,"Volksparkstadion, Hamburg",East Germany v West Germany (1974 FIFA World Cup)
+1974,group,1974-06-22,SCO,YUG,1,1,56000,Alfonso González Archundía,Mexico,"Waldstadion, Frankfurt",1974 FIFA World Cup Group 2
+1974,group,1974-06-22,ZAI,BRA,0,3,36200,Nicolae Rainea,Romania,"Parkstadion, Gelsenkirchen",1974 FIFA World Cup Group 2
+1974,group,1974-06-23,ARG,HAI,4,1,25900,Pablo Sánchez Ibáñez,Spain,"Olympiastadion, Munich",1974 FIFA World Cup Group 4
+1974,group,1974-06-23,BUL,NED,1,4,53300,Tony Boskovic,Australia,"Westfalenstadion, Dortmund",1974 FIFA World Cup Group 3
+1974,group,1974-06-23,POL,ITA,2,1,70100,Hans-Joachim Weyland,West Germany,"Neckarstadion, Stuttgart",1974 FIFA World Cup Group 4
+1974,group,1974-06-23,SWE,URU,3,0,28300,Erich Linemayr,Austria,"Rheinstadion, Düsseldorf",1974 FIFA World Cup Group 3
+1974,group-2,1974-06-26,BRA,GDR,1,0,59863,Clive Thomas,Wales,"Niedersachsenstadion, Hanover",1974 FIFA World Cup Group A
+1974,group-2,1974-06-26,NED,ARG,4,0,56548,Bob Davidson,Scotland,"Parkstadion, Gelsenkirchen",1974 FIFA World Cup Group A
+1974,group-2,1974-06-26,SWE,POL,0,1,44955,Ramón Barreto,Uruguay,"Neckarstadion, Stuttgart",1974 FIFA World Cup Group B
+1974,group-2,1974-06-26,YUG,FRG,0,2,67385,Armando Marques,Brazil,"Rheinstadion, Düsseldorf",1974 FIFA World Cup Group B
+1974,group-2,1974-06-30,ARG,BRA,1,2,39400,Vital Loraux,Belgium,"Niedersachsenstadion, Hanover",1974 FIFA World Cup Group A
+1974,group-2,1974-06-30,FRG,SWE,4,2,67800,Pavel Kazakov,Soviet Union,"Rheinstadion, Düsseldorf",1974 FIFA World Cup Group B
+1974,group-2,1974-06-30,GDR,NED,0,2,68348,Rudolf Scheurer,Switzerland,"Parkstadion, Gelsenkirchen",1974 FIFA World Cup Group A
+1974,group-2,1974-06-30,POL,YUG,2,1,58000,Rudi Glöckner,East Germany,"Waldstadion, Frankfurt",1974 FIFA World Cup Group B
+1974,group-2,1974-07-03,ARG,GDR,1,1,54254,Jack Taylor,England,"Parkstadion, Gelsenkirchen",1974 FIFA World Cup Group A
+1974,group-2,1974-07-03,NED,BRA,2,0,53700,Kurt Tschenscher,West Germany,"Westfalenstadion, Dortmund",1974 FIFA World Cup Group A
+1974,group-2,1974-07-03,POL,FRG,0,1,62000,Erich Linemayr,Austria,"Waldstadion, Frankfurt",1974 FIFA World Cup Group B
+1974,group-2,1974-07-03,SWE,YUG,2,1,41300,Luis Pestarino,Argentina,"Rheinstadion, Düsseldorf",1974 FIFA World Cup Group B
+1974,third-place,1974-07-06,BRA,POL,0,1,77100,Aurelio Angonese,Italy,"Olympiastadion, Munich",1974 FIFA World Cup knockout stage
+1974,final,1974-07-07,NED,FRG,1,2,78200,Jack Taylor,England,"Olympiastadion, Munich",1974 FIFA World Cup final
+1978,group,1978-06-01,FRG,POL,0,0,67579,Ángel Norberto Coerezza,Argentina,"Estadio Monumental, Buenos Aires",1978 FIFA World Cup Group 2
+1978,group,1978-06-02,ARG,HUN,2,1,71615,Antonio Garrido,Portugal,"Estadio Monumental, Buenos Aires",1978 FIFA World Cup Group 1
+1978,group,1978-06-02,ITA,FRA,2,1,42373,Nicolae Rainea,Romania,"Estadio José María Minella, Mar del Plata",1978 FIFA World Cup Group 1
+1978,group,1978-06-02,TUN,MEX,3,1,17396,John Gordon,Scotland,"Estadio Gigante de Arroyito, Rosario",1978 FIFA World Cup Group 2
+1978,group,1978-06-03,AUT,SPA,2,1,40841,Károly Palotai,Hungary,"Estadio José Amalfitani, Buenos Aires",1978 FIFA World Cup Group 3
+1978,group,1978-06-03,BRA,SWE,1,1,32569,Clive Thomas,Wales,"Estadio José Maria Minella, Mar del Plata",1978 FIFA World Cup Group 3
+1978,group,1978-06-03,NED,IRN,3,0,33431,Alfonso González Archundia,Mexico,"Estadio Ciudad de Mendoza, Mendoza",1978 FIFA World Cup Group 4
+1978,group,1978-06-03,PER,SCO,3,1,37927,Ulf Eriksson,Sweden,"Chateau Carreras, Córdoba",1978 FIFA World Cup Group 4
+1978,group,1978-06-06,ARG,FRA,2,1,71666,Jean Dubach,Switzerland,"Estadio Monumental, Buenos Aires",1978 FIFA World Cup Group 1
+1978,group,1978-06-06,FRG,MEX,6,0,35258,Farouk Bouzo,Syria,"Estadio Chateau Carreras, Córdoba",1978 FIFA World Cup Group 2
+1978,group,1978-06-06,ITA,HUN,3,1,26533,Ramón Barreto,Uruguay,"Estadio José María Minella, Mar del Plata",1978 FIFA World Cup Group 1
+1978,group,1978-06-06,POL,TUN,1,0,9624,Ángel Franco Martínez,Spain,"Estadio Gigante de Arroyito, Rosario",1978 FIFA World Cup Group 2
+1978,group,1978-06-07,AUT,SWE,1,0,41424,Charles Corver,Netherlands,"Estadio José Amalfitani, Buenos Aires",1978 FIFA World Cup Group 3
+1978,group,1978-06-07,BRA,SPA,0,0,34771,Sergio Gonella,Italy,"Estadio José Maria Minella, Mar del Plata",1978 FIFA World Cup Group 3
+1978,group,1978-06-07,NED,PER,0,0,28125,Adolf Prokop,East Germany,"Estadio Ciudad de Mendoza, Mendoza",1978 FIFA World Cup Group 4
+1978,group,1978-06-07,SCO,IRN,1,1,7938,Youssou N'Diaye,Senegal,"Estadio Chateau Carreras, Córdoba",1978 FIFA World Cup Group 4
+1978,group,1978-06-10,ARG,ITA,0,1,71712,Abraham Klein,Israel,"Estadio Monumental, Buenos Aires",1978 FIFA World Cup Group 1
+1978,group,1978-06-10,FRA,HUN,3,1,23127,Arnaldo Cézar Coelho,Brazil,"Estadio José María Minella, Mar del Plata",1978 FIFA World Cup Group 1
+1978,group,1978-06-10,FRG,TUN,0,0,30667,César Guerrero Orosco,Peru,"Estadio Olímpico Chateau Carreras, Córdoba",1978 FIFA World Cup Group 2
+1978,group,1978-06-10,POL,MEX,3,1,22651,Jafar Namdar,Iran,"Estadio Gigante de Arroyito, Rosario",1978 FIFA World Cup Group 2
+1978,group,1978-06-11,BRA,AUT,1,0,35221,Robert Wurtz,France,"Estadio José Maria Minella, Mar del Plata",1978 FIFA World Cup Group 3
+1978,group,1978-06-11,PER,IRN,4,1,21262,Alojzy Jarguz,Poland,"Estadio Chateau Carreras, Córdoba",1978 FIFA World Cup Group 4
+1978,group,1978-06-11,SCO,NED,3,2,35130,Erich Linemayr,Austria,"Estadio Ciudad de Mendoza, Mendoza",1978 FIFA World Cup Group 4
+1978,group,1978-06-11,SPA,SWE,1,0,42132,Ferdinand Biwersi,West Germany,"Estadio José Amalfitani, Buenos Aires",1978 FIFA World Cup Group 3
+1978,group-2,1978-06-14,ARG,POL,2,0,37091,Ulf Eriksson,Sweden,"Estadio Gigante de Arroyito, Rosario",1978 FIFA World Cup Group B
+1978,group-2,1978-06-14,AUT,NED,1,5,25050,John Gordon,Scotland,"Estadio Chateau Carreras, Córdoba",1978 FIFA World Cup Group A
+1978,group-2,1978-06-14,BRA,PER,3,0,31278,Nicolae Rainea,Romania,"Estadio Ciudad de Mendoza, Mendoza",1978 FIFA World Cup Group B
+1978,group-2,1978-06-14,ITA,FRG,0,0,67547,Dušan Maksimović,Yugoslavia,"Estadio Monumental, Buenos Aires",1978 FIFA World Cup Group A
+1978,group-2,1978-06-18,ARG,BRA,0,0,37326,Károly Palotai,Hungary,"Estadio Gigante de Arroyito, Rosario",1978 FIFA World Cup Group B
+1978,group-2,1978-06-18,ITA,AUT,1,0,66695,Francis Rion,Belgium,"Estadio Monumental, Buenos Aires",1978 FIFA World Cup Group A
+1978,group-2,1978-06-18,NED,FRG,2,2,40750,Ramón Barreto,Uruguay,"Estadio Chateau Carreras, Córdoba",1978 FIFA World Cup Group A
+1978,group-2,1978-06-18,PER,POL,0,1,35288,Pat Partridge,England,"Estadio Ciudad de Mendoza, Mendoza",1978 FIFA World Cup Group B
+1978,group-2,1978-06-21,ARG,PER,6,0,37315,Robert Wurtz,France,"Estadio Gigante de Arroyito, Rosario",Argentina v Peru (1978 FIFA World Cup)
+1978,group-2,1978-06-21,AUT,FRG,3,2,38318,Abraham Klein,Israel,"Estadio Olímpico Chateau Carreras, Córdoba",Austria v West Germany (1978 FIFA World Cup)
+1978,group-2,1978-06-21,BRA,POL,3,1,39586,Juan Silvagno Cavanna,Chile,"Estadio Ciudad de Mendoza, Mendoza",1978 FIFA World Cup Group B
+1978,group-2,1978-06-21,ITA,NED,1,2,67433,Ángel Franco Martínez,Spain,"Estadio Monumental, Buenos Aires",1978 FIFA World Cup Group A
+1978,third-place,1978-06-24,BRA,ITA,2,1,69659,Abraham Klein,Israel,"River Plate Stadium, Buenos Aires",1978 FIFA World Cup knockout stage
+1978,final,1978-06-25,ARG,NED,3,1,71483,Sergio Gonella,Italy,"River Plate Stadium, Buenos Aires",1978 FIFA World Cup final
+1982,group,1982-06-13,ARG,BEL,0,1,95000,Vojtech Christov,Czechoslovakia,"Camp Nou, Barcelona",1982 FIFA World Cup Group 3
+1982,group,1982-06-14,BRA,URS,2,1,68000,Augusto Lamo Castillo,Spain,"Ramón Sánchez Pizjuán, Seville",1982 FIFA World Cup Group 6
+1982,group,1982-06-14,ITA,POL,0,0,33000,Michel Vautrot,France,"Balaídos, Vigo",1982 FIFA World Cup Group 1
+1982,group,1982-06-15,HUN,SLV,10,1,23000,Ibrahim Youssef Al-Doy,Bahrain,"Nuevo Estadio, Elche",Hungary v El Salvador (1982 FIFA World Cup)
+1982,group,1982-06-15,PER,CMR,0,0,11000,Franz Wöhrer,Austria,"Estadio de Riazor, A Coruña",1982 FIFA World Cup Group 1
+1982,group,1982-06-15,SCO,NZL,5,2,36000,David Socha,United States,"La Rosaleda Stadium, Málaga",1982 FIFA World Cup Group 6
+1982,group,1982-06-16,ENG,FRA,3,1,44172,António Garrido,Portugal,"San Mamés, Bilbao",1982 FIFA World Cup Group 4
+1982,group,1982-06-16,ESP,HON,1,1,49562,Arturo Ithurralde,Argentina,"Estadio Luis Casanova, Valencia",1982 FIFA World Cup Group 5
+1982,group,1982-06-16,FRG,ALG,1,2,42000,Enrique Labo Revoredo,Peru,"El Molinón, Gijón",1982 FIFA World Cup Group 2
+1982,group,1982-06-17,CHI,AUT,0,1,22500,Juan Daniel Cardellino,Uruguay,"Estadio Carlos Tartiere, Oviedo",1982 FIFA World Cup Group 2
+1982,group,1982-06-17,TCH,KUW,1,1,25000,Benjamin Dwomoh,Ghana,"Estadio José Zorrilla, Valladolid",1982 FIFA World Cup Group 4
+1982,group,1982-06-17,YUG,NIR,0,0,25000,Erik Fredriksson,Sweden,"La Romareda, Zaragoza",1982 FIFA World Cup Group 5
+1982,group,1982-06-18,ARG,HUN,4,1,32093,Belaïd Lacarne,Algeria,"Estadio José Rico Pérez, Alicante",1982 FIFA World Cup Group 3
+1982,group,1982-06-18,BRA,SCO,4,1,47379,Luis Paulino Siles,Costa Rica,"Estadio Benito Villamarín, Seville",1982 FIFA World Cup Group 6
+1982,group,1982-06-18,ITA,PER,1,1,25000,Walter Eschweiler,West Germany,"Balaídos, Vigo",1982 FIFA World Cup Group 1
+1982,group,1982-06-19,BEL,SLV,1,0,15000,Malcolm Moffat,Northern Ireland,"Nuevo Estadio, Elche",1982 FIFA World Cup Group 3
+1982,group,1982-06-19,POL,CMR,0,0,19000,Alexis Ponnet,Belgium,"Estadio de Riazor, A Coruña",1982 FIFA World Cup Group 1
+1982,group,1982-06-19,URS,NZL,3,0,19000,Yousef Alghoul,Libya,"La Rosaleda Stadium, Málaga",1982 FIFA World Cup Group 6
+1982,group,1982-06-20,ENG,TCH,2,0,41123,Charles Corver,Netherlands,"San Mamés, Bilbao",1982 FIFA World Cup Group 4
+1982,group,1982-06-20,ESP,YUG,2,1,48000,Henning Lund-Sørensen,Denmark,"Estadio Luis Casanova, Valencia",1982 FIFA World Cup Group 5
+1982,group,1982-06-20,FRG,CHI,4,1,42000,Bruno Galler,Switzerland,"El Molinón, Gijón",1982 FIFA World Cup Group 2
+1982,group,1982-06-21,ALG,AUT,0,2,22000,Tony Boskovic,Australia,"Estadio Carlos Tartiere, Oviedo",1982 FIFA World Cup Group 2
+1982,group,1982-06-21,FRA,KUW,4,1,30043,Myroslav Stupar,Soviet Union,"Estadio José Zorrilla, Valladolid",1982 FIFA World Cup Group 4
+1982,group,1982-06-21,HON,NIR,1,1,15000,Chan Tam Sun,Hong Kong,"La Romareda, Zaragoza",1982 FIFA World Cup Group 5
+1982,group,1982-06-22,BEL,HUN,1,1,37000,Clive White,England,"Nuevo Estadio, Elche",1982 FIFA World Cup Group 3
+1982,group,1982-06-22,POL,PER,5,1,25000,Mario Rubio Vázquez,Mexico,"Estadio de Riazor, A Coruña",1982 FIFA World Cup Group 1
+1982,group,1982-06-22,URS,SCO,2,2,45000,Nicolae Rainea,Romania,"La Rosaleda Stadium, Málaga",1982 FIFA World Cup Group 6
+1982,group,1982-06-23,ARG,SLV,2,0,32500,Luis Barrancos,Bolivia,"Estadio José Rico Pérez, Alicante",1982 FIFA World Cup Group 3
+1982,group,1982-06-23,BRA,NZL,4,0,43000,Damir Matovinović,Yugoslavia,"Estadio Benito Villamarín, Seville",1982 FIFA World Cup Group 6
+1982,group,1982-06-23,ITA,CMR,1,1,20000,Bogdan Dotchev,Bulgaria,"Balaídos, Vigo",1982 FIFA World Cup Group 1
+1982,group,1982-06-24,ALG,CHI,3,2,16000,Rómulo Méndez,Guatemala,"Estadio Carlos Tartiere, Oviedo",1982 FIFA World Cup Group 2
+1982,group,1982-06-24,FRA,TCH,1,1,28000,Paolo Casarin,Italy,"Estadio José Zorrilla, Valladolid",1982 FIFA World Cup Group 4
+1982,group,1982-06-24,HON,YUG,0,1,25000,Gastón Castro,Chile,"La Romareda, Zaragoza",1982 FIFA World Cup Group 5
+1982,group,1982-06-25,ENG,KUW,1,0,39700,Gilberto Aristizábal,Colombia,"San Mamés, Bilbao",1982 FIFA World Cup Group 4
+1982,group,1982-06-25,ESP,NIR,0,1,49562,Héctor Ortiz,Paraguay,"Estadio Luis Casanova, Valencia",1982 FIFA World Cup Group 5
+1982,group,1982-06-25,FRG,AUT,1,0,41000,Bob Valentine,Scotland,"El Molinón, Gijón",Disgrace of Gijón
+1982,group-2,1982-06-28,AUT,FRA,0,1,37000,Károly Palotai,Hungary,"Vicente Calderón, Madrid",1982 FIFA World Cup Group D
+1982,group-2,1982-06-28,POL,BEL,3,0,65000,Luis Paulino Siles,Costa Rica,"Camp Nou, Barcelona",1982 FIFA World Cup Group A
+1982,group-2,1982-06-29,FRG,ENG,0,0,75000,Arnaldo Cézar Coelho,Brazil,"Santiago Bernabéu, Madrid",1982 FIFA World Cup Group B
+1982,group-2,1982-06-29,ITA,ARG,2,1,43000,Nicolae Rainea,Romania,"Sarrià Stadium, Barcelona",1982 FIFA World Cup Group C
+1982,group-2,1982-07-01,AUT,NIR,2,2,20000,Adolf Prokop,East Germany,"Vicente Calderón, Madrid",1982 FIFA World Cup Group D
+1982,group-2,1982-07-01,BEL,URS,0,1,45000,Michel Vautrot,France,"Camp Nou, Barcelona",1982 FIFA World Cup Group A
+1982,group-2,1982-07-02,ARG,BRA,1,3,44000,Mario Rubio Vázquez,Mexico,"Sarrià Stadium, Barcelona",1982 FIFA World Cup Group C
+1982,group-2,1982-07-02,FRG,ESP,2,1,90089,Paolo Casarin,Italy,"Santiago Bernabéu, Madrid",1982 FIFA World Cup Group B
+1982,group-2,1982-07-04,FRA,NIR,4,1,37000,Alojzy Jarguz,Poland,"Vicente Calderón, Madrid",1982 FIFA World Cup Group D
+1982,group-2,1982-07-04,URS,POL,0,0,65000,Bob Valentine,Scotland,"Camp Nou, Barcelona",1982 FIFA World Cup Group A
+1982,group-2,1982-07-05,ESP,ENG,0,0,75000,Alexis Ponnet,Belgium,"Santiago Bernabéu, Madrid",1982 FIFA World Cup Group B
+1982,group-2,1982-07-05,ITA,BRA,3,2,44000,Abraham Klein,Israel,"Sarrià Stadium, Barcelona",Italy v Brazil (1982 FIFA World Cup)
+1982,semi-final,1982-07-08,FRG,FRA,3,3,70000,Charles Corver,Netherlands,"Ramón Sánchez Pizjuán Stadium, Seville",West Germany v France (1982 FIFA World Cup)
+1982,semi-final,1982-07-08,POL,ITA,0,2,50000,Juan Daniel Cardellino,Uruguay,"Camp Nou, Barcelona",1982 FIFA World Cup knockout stage
+1982,third-place,1982-07-10,POL,FRA,3,2,28000,António Garrido,Portugal,"Estadio José Rico Pérez, Alicante",1982 FIFA World Cup knockout stage
+1982,final,1982-07-11,ITA,FRG,3,1,90000,Arnaldo Cézar Coelho,Brazil,"Santiago Bernabéu, Madrid",1982 FIFA World Cup final
+1986,group,1986-05-31,BUL,ITA,1,1,96000,Erik Fredriksson,Sweden,"Estadio Azteca, Mexico City",1986 FIFA World Cup Group A
+1986,group,1986-06-01,CAN,FRA,0,1,35748,Hernán Silva,Chile,"Estadio Nou Camp, León",1986 FIFA World Cup Group C
+1986,group,1986-06-01,ESP,BRA,0,1,65500,Chris Bambridge,Australia,"Estadio Jalisco, Guadalajara",1986 FIFA World Cup Group D
+1986,group,1986-06-02,ARG,KOR,3,1,60000,Victoriano Sánchez Arminio,Spain,"Estadio Olímpico Universitario, Mexico City",1986 FIFA World Cup Group A
+1986,group,1986-06-02,MAR,POL,0,0,19900,José Luis Martínez Bazán,Uruguay,"Estadio Universitario, San Nicolás de los Garza",1986 FIFA World Cup Group F
+1986,group,1986-06-02,URS,HUN,6,0,16500,Luigi Agnolin,Italy,"Estadio Sergio León Chavez, Irapuato",1986 FIFA World Cup Group C
+1986,group,1986-06-03,ALG,NIR,1,1,22000,Valeri Butenko,Soviet Union,"Estadio Tres de Marzo, Zapopan",1986 FIFA World Cup Group D
+1986,group,1986-06-03,BEL,MEX,1,2,110000,Carlos Espósito,Argentina,"Estadio Azteca, Mexico City",1986 FIFA World Cup Group B
+1986,group,1986-06-03,POR,ENG,1,0,23000,Volker Roth,West Germany,"Estadio Tecnológico, Monterrey",1986 FIFA World Cup Group F
+1986,group,1986-06-04,PAR,IRQ,1,0,24000,Edwin Picon-Ackong,Mauritius,"Estadio Toluca 70–86, Toluca",1986 FIFA World Cup Group B
+1986,group,1986-06-04,SCO,DEN,0,1,18000,Lajos Németh,Hungary,"Estadio Neza 86, Nezahualcóyotl",1986 FIFA World Cup Group E
+1986,group,1986-06-04,URU,FRG,1,1,30500,Vojtěch Christov,Czechoslovakia,"Estadio La Corregidora, Querétaro",1986 FIFA World Cup Group E
+1986,group,1986-06-05,FRA,URS,1,1,36540,Romualdo Arppi Filho,Brazil,"Estadio Nou Camp, León",1986 FIFA World Cup Group C
+1986,group,1986-06-05,ITA,ARG,1,1,32000,Jan Keizer,Netherlands,"Estadio Cuauhtémoc, Puebla",1986 FIFA World Cup Group A
+1986,group,1986-06-05,KOR,BUL,1,1,45000,Fallaj Al Shanar,Saudi Arabia,"Estadio Olímpico Universitario, Mexico City",1986 FIFA World Cup Group A
+1986,group,1986-06-06,BRA,ALG,1,0,48000,Rómulo Méndez,Guatemala,"Estadio Jalisco, Guadalajara",1986 FIFA World Cup Group D
+1986,group,1986-06-06,ENG,MAR,0,0,20200,Gabriel González,Paraguay,"Estadio Tecnológico, Monterrey",1986 FIFA World Cup Group F
+1986,group,1986-06-06,HUN,CAN,2,0,13800,Jamal Al Sharif,Syria,"Estadio Sergio León Chavez, Irapuato",1986 FIFA World Cup Group C
+1986,group,1986-06-07,MEX,PAR,1,1,114600,George Courtney,England,"Estadio Azteca, Mexico City",1986 FIFA World Cup Group B
+1986,group,1986-06-07,NIR,ESP,1,2,28000,Horst Brummeier,Austria,"Estadio Tres de Marzo, Zapopan",1986 FIFA World Cup Group D
+1986,group,1986-06-07,POL,POR,1,0,19915,Ali Bin Nasser,Tunisia,"Estadio Universitario, San Nicolás de los Garza",1986 FIFA World Cup Group F
+1986,group,1986-06-08,DEN,URU,6,1,26500,Antonio Márquez Ramírez,Mexico,"Estadio Neza 86, Nezahualcóyotl",1986 FIFA World Cup Group E
+1986,group,1986-06-08,FRG,SCO,2,1,30000,Ioan Igna,Romania,"Estadio La Corregidora, Querétaro",1986 FIFA World Cup Group E
+1986,group,1986-06-08,IRQ,BEL,1,2,20000,Jesús Díaz,Colombia,"Estadio Toluca 70–86, Toluca",1986 FIFA World Cup Group B
+1986,group,1986-06-09,HUN,FRA,0,3,31420,Carlos Silva Valente,Portugal,"Estadio Nou Camp, León",1986 FIFA World Cup Group C
+1986,group,1986-06-09,URS,CAN,2,0,14200,Idrissa Traoré,Mali,"Estadio Sergio León Chavez, Irapuato",1986 FIFA World Cup Group C
+1986,group,1986-06-10,ARG,BUL,2,0,65000,Berny Ulloa Morera,Costa Rica,"Estadio Olímpico Universitario, Mexico City",1986 FIFA World Cup Group A
+1986,group,1986-06-10,KOR,ITA,2,3,20000,David Socha,United States,"Estadio Cuauhtémoc, Puebla",1986 FIFA World Cup Group A
+1986,group,1986-06-11,ENG,POL,3,0,22700,André Daina,Switzerland,"Estadio Universitario, San Nicolás de los Garza",1986 FIFA World Cup Group F
+1986,group,1986-06-11,IRQ,MEX,0,1,103763,Zoran Petrović,Yugoslavia,"Estadio Azteca, Mexico City",1986 FIFA World Cup Group B
+1986,group,1986-06-11,PAR,BEL,2,2,16000,Bogdan Dotchev,Bulgaria,"Estadio Toluca 70–86, Toluca",1986 FIFA World Cup Group B
+1986,group,1986-06-11,POR,MAR,1,3,28000,Alan Snoddy,Northern Ireland,"Estadio Tres de Marzo, Zapopan",1986 FIFA World Cup Group F
+1986,group,1986-06-12,ALG,ESP,0,3,23980,Shizuo Takada,Japan,"Estadio Tecnológico, Monterrey",1986 FIFA World Cup Group D
+1986,group,1986-06-12,NIR,BRA,0,3,51000,Siegfried Kirschen,East Germany,"Estadio Jalisco, Guadalajara",1986 FIFA World Cup Group D
+1986,group,1986-06-13,DEN,FRG,2,0,36000,Alexis Ponnet,Belgium,"Estadio La Corregidora, Querétaro",1986 FIFA World Cup Group E
+1986,group,1986-06-13,SCO,URU,0,0,20000,Joël Quiniou,France,"Estadio Neza 86, Nezahualcóyotl",1986 FIFA World Cup Group E
+1986,round-of-16,1986-06-15,MEX,BUL,2,0,114580,Romualdo Arppi Filho,Brazil,"Estadio Azteca, Mexico City",1986 FIFA World Cup knockout stage
+1986,round-of-16,1986-06-15,URS,BEL,3,4,32277,Erik Fredriksson,Sweden,"Estadio Nou Camp, León",1986 FIFA World Cup knockout stage
+1986,round-of-16,1986-06-16,ARG,URU,1,0,26000,Luigi Agnolin,Italy,"Estadio Cuauhtémoc, Puebla",1986 FIFA World Cup knockout stage
+1986,round-of-16,1986-06-16,BRA,POL,4,0,45000,Volker Roth,West Germany,"Estadio Jalisco, Guadalajara",1986 FIFA World Cup knockout stage
+1986,round-of-16,1986-06-17,ITA,FRA,0,2,70000,Carlos Espósito,Argentina,"Estadio Olímpico Universitario, Mexico City",1986 FIFA World Cup knockout stage
+1986,round-of-16,1986-06-17,MAR,FRG,0,1,19800,Zoran Petrović,Yugoslavia,"Estadio Universitario, San Nicolás de los Garza",1986 FIFA World Cup knockout stage
+1986,round-of-16,1986-06-18,DEN,ESP,1,5,38500,Jan Keizer,Netherlands,"Estadio La Corregidora, Querétaro",1986 FIFA World Cup knockout stage
+1986,round-of-16,1986-06-18,ENG,PAR,3,0,98728,Jamal Al Sharif,Syria,"Estadio Azteca, Mexico City",1986 FIFA World Cup knockout stage
+1986,quarter-final,1986-06-21,BRA,FRA,1,1,65000,Ioan Igna,Romania,"Estadio Jalisco, Guadalajara",1986 FIFA World Cup knockout stage
+1986,quarter-final,1986-06-21,FRG,MEX,0,0,41700,Jesús Díaz,Colombia,"Estadio Universitario, San Nicolás de los Garza",1986 FIFA World Cup knockout stage
+1986,quarter-final,1986-06-22,ARG,ENG,2,1,114580,Ali Bin Nasser,Tunisia,"Estadio Azteca, Mexico City",Argentina v England (1986 FIFA World Cup)
+1986,quarter-final,1986-06-22,ESP,BEL,1,1,45000,Siegfried Kirschen,East Germany,"Estadio Cuauhtémoc, Puebla",1986 FIFA World Cup knockout stage
+1986,semi-final,1986-06-25,ARG,BEL,2,0,114500,Antonio Márquez Ramírez,Mexico,"Estadio Azteca, Mexico City",1986 FIFA World Cup knockout stage
+1986,semi-final,1986-06-25,FRA,FRG,0,2,45000,Luigi Agnolin,Italy,"Estadio Jalisco, Guadalajara",1986 FIFA World Cup knockout stage
+1986,third-place,1986-06-28,BEL,FRA,2,4,21000,George Courtney,England,"Estadio Cuauhtémoc, Puebla",1986 FIFA World Cup knockout stage
+1986,final,1986-06-29,ARG,FRG,3,2,114600,Romualdo Arppi Filho,Brazil,"Estadio Azteca, Mexico City",1986 FIFA World Cup final
+1990,group,1990-06-08,ARG,CMR,0,1,73780,Michel Vautrot,France,"San Siro, Milan",1990 FIFA World Cup Group B
+1990,group,1990-06-09,ITA,AUT,1,0,73303,José Roberto Wright,Brazil,"Stadio Olimpico, Rome",1990 FIFA World Cup Group A
+1990,group,1990-06-09,UAE,COL,0,2,30791,George Courtney,England,"Stadio Renato Dall'Ara, Bologna",1990 FIFA World Cup Group D
+1990,group,1990-06-09,URS,ROU,0,2,42907,Juan Daniel Cardellino,Uruguay,"Stadio San Nicola, Bari",1990 FIFA World Cup Group B
+1990,group,1990-06-10,BRA,SWE,2,1,62628,Tullio Lanese,Italy,"Stadio Delle Alpi, Turin",1990 FIFA World Cup Group C
+1990,group,1990-06-10,FRG,YUG,4,1,74765,Peter Mikkelsen,Denmark,"San Siro, Milan",1990 FIFA World Cup Group D
+1990,group,1990-06-10,USA,CSK,1,5,33266,Kurt Röthlisberger,Switzerland,"Stadio Comunale, Florence",1990 FIFA World Cup Group A
+1990,group,1990-06-11,CRC,SCO,1,0,30867,Juan Carlos Loustau,Argentina,"Stadio Luigi Ferraris, Genoa",1990 FIFA World Cup Group C
+1990,group,1990-06-11,ENG,IRL,1,1,35238,Aron Schmidhuber,West Germany,"Stadio Sant'Elia, Cagliari",1990 FIFA World Cup Group F
+1990,group,1990-06-12,BEL,KOR,2,0,32790,Vincent Mauro,United States,"Stadio Marc'Antonio Bentegodi, Verona",1990 FIFA World Cup Group E
+1990,group,1990-06-12,NED,EGY,1,1,33288,Emilio Soriano Aladrén,Spain,"Stadio La Favorita, Palermo",1990 FIFA World Cup Group F
+1990,group,1990-06-13,ARG,URS,2,0,55759,Erik Fredriksson,Sweden,"Stadio San Paolo, Naples",1990 FIFA World Cup Group B
+1990,group,1990-06-13,URU,ESP,0,0,35713,Helmut Kohl,Austria,"Stadio Friuli, Udine",1990 FIFA World Cup Group E
+1990,group,1990-06-14,CMR,ROU,2,1,38687,Hernán Silva,Chile,"Stadio San Nicola, Bari",1990 FIFA World Cup Group B
+1990,group,1990-06-14,ITA,USA,1,0,73423,Edgardo Codesal,Mexico,"Stadio Olimpico, Rome",1990 FIFA World Cup Group A
+1990,group,1990-06-14,YUG,COL,1,0,32257,Luigi Agnolin,Italy,"Stadio Renato Dall'Ara, Bologna",1990 FIFA World Cup Group D
+1990,group,1990-06-15,AUT,CSK,0,1,38962,George Smith,Scotland,"Stadio Comunale, Florence",1990 FIFA World Cup Group A
+1990,group,1990-06-15,FRG,UAE,5,1,71169,Alexey Spirin,Soviet Union,"San Siro, Milan",1990 FIFA World Cup Group D
+1990,group,1990-06-16,BRA,CRC,1,0,58007,Neji Jouini,Tunisia,"Stadio Delle Alpi, Turin",1990 FIFA World Cup Group C
+1990,group,1990-06-16,ENG,NED,0,0,35267,Zoran Petrović,Yugoslavia,"Stadio Sant'Elia, Cagliari",1990 FIFA World Cup Group F
+1990,group,1990-06-16,SWE,SCO,1,2,31823,Carlos Maciel,Paraguay,"Stadio Luigi Ferraris, Genoa",1990 FIFA World Cup Group C
+1990,group,1990-06-17,BEL,URU,3,1,33759,Siegfried Kirschen,East Germany,"Stadio Marc'Antonio Bentegodi, Verona",1990 FIFA World Cup Group E
+1990,group,1990-06-17,IRL,EGY,0,0,33288,Marcel van Langenhove,Belgium,"Stadio La Favorita, Palermo",1990 FIFA World Cup Group F
+1990,group,1990-06-17,KOR,ESP,1,3,32733,Elías Jácome,Ecuador,"Stadio Friuli, Udine",1990 FIFA World Cup Group E
+1990,group,1990-06-18,ARG,ROU,1,1,52733,Carlos Silva Valente,Portugal,"Stadio San Paolo, Naples",1990 FIFA World Cup Group B
+1990,group,1990-06-18,CMR,URS,0,4,37307,José Roberto Wright,Brazil,"Stadio San Nicola, Bari",1990 FIFA World Cup Group B
+1990,group,1990-06-19,AUT,USA,2,1,34857,Jamal Al Sharif,Syria,"Stadio Comunale, Florence",1990 FIFA World Cup Group A
+1990,group,1990-06-19,FRG,COL,1,1,72510,Alan Snoddy,Northern Ireland,"San Siro, Milan",1990 FIFA World Cup Group D
+1990,group,1990-06-19,ITA,CSK,2,0,73303,Joël Quiniou,France,"Stadio Olimpico, Rome",1990 FIFA World Cup Group A
+1990,group,1990-06-19,YUG,UAE,4,1,27833,Shizuo Takada,Japan,"Stadio Renato Dall'Ara, Bologna",1990 FIFA World Cup Group D
+1990,group,1990-06-20,BRA,SCO,1,0,62502,Helmut Kohl,Austria,"Stadio Delle Alpi, Turin",1990 FIFA World Cup Group C
+1990,group,1990-06-20,SWE,CRC,1,2,30223,Zoran Petrović,Yugoslavia,"Stadio Luigi Ferraris, Genoa",1990 FIFA World Cup Group C
+1990,group,1990-06-21,BEL,ESP,1,2,35950,Juan Carlos Loustau,Argentina,"Stadio Marc'Antonio Bentegodi, Verona",1990 FIFA World Cup Group E
+1990,group,1990-06-21,ENG,EGY,1,0,34959,Kurt Röthlisberger,Switzerland,"Stadio Sant'Elia, Cagliari",1990 FIFA World Cup Group F
+1990,group,1990-06-21,IRL,NED,1,1,33288,Michel Vautrot,France,"Stadio La Favorita, Palermo",1990 FIFA World Cup Group F
+1990,group,1990-06-21,KOR,URU,0,1,29039,Tullio Lanese,Italy,"Stadio Friuli, Udine",1990 FIFA World Cup Group E
+1990,round-of-16,1990-06-23,CMR,COL,2,1,50026,Tullio Lanese,Italy,"Stadio San Paolo, Naples",1990 FIFA World Cup knockout stage
+1990,round-of-16,1990-06-23,CSK,CRC,4,1,47673,Siegfried Kirschen,East Germany,"Stadio San Nicola, Bari",1990 FIFA World Cup knockout stage
+1990,round-of-16,1990-06-24,BRA,ARG,0,1,61381,Joël Quiniou,France,"Stadio Delle Alpi, Turin",1990 FIFA World Cup knockout stage
+1990,round-of-16,1990-06-24,FRG,NED,2,1,74559,Juan Carlos Loustau,Argentina,"San Siro, Milan",1990 FIFA World Cup knockout stage
+1990,round-of-16,1990-06-25,IRL,ROM,0,0,31818,José Roberto Wright,Brazil,"Stadio Luigi Ferraris, Genoa",1990 FIFA World Cup knockout stage
+1990,round-of-16,1990-06-25,ITA,URU,2,0,73303,George Courtney,England,"Stadio Olimpico, Rome",1990 FIFA World Cup knockout stage
+1990,round-of-16,1990-06-26,ENG,BEL,1,0,34520,Peter Mikkelsen,Denmark,"Stadio Renato Dall'Ara, Bologna",1990 FIFA World Cup knockout stage
+1990,round-of-16,1990-06-26,ESP,YUG,1,2,35500,Aron Schmidhuber,West Germany,"Stadio Marc'Antonio Bentegodi, Verona",1990 FIFA World Cup knockout stage
+1990,quarter-final,1990-06-30,ARG,YUG,0,0,38971,Kurt Röthlisberger,Switzerland,"Stadio Comunale, Florence",1990 FIFA World Cup knockout stage
+1990,quarter-final,1990-06-30,IRL,ITA,0,1,73303,Carlos Silva Valente,Portugal,"Stadio Olimpico, Rome",1990 FIFA World Cup knockout stage
+1990,quarter-final,1990-07-01,CMR,ENG,2,3,55205,Edgardo Codesal,Mexico,"Stadio San Paolo, Naples",1990 FIFA World Cup knockout stage
+1990,quarter-final,1990-07-01,TCH,FRG,0,1,73347,Helmut Kohl,Austria,"San Siro, Milan",1990 FIFA World Cup knockout stage
+1990,semi-final,1990-07-03,ARG,ITA,1,1,59978,Michel Vautrot,France,"Stadio San Paolo, Naples",1990 FIFA World Cup knockout stage
+1990,semi-final,1990-07-07,FRG,ENG,1,3,62628,José Roberto Wright,Brazil,"Stadio delle Alpi, Turin",1990 FIFA World Cup knockout stage
+1990,third-place,1990-07-07,ITA,ENG,2,1,51426,Joël Quiniou,France,"Stadio San Nicola, Bari",1990 FIFA World Cup knockout stage
+1990,final,1990-07-08,FRG,ARG,1,0,73603,Edgardo Codesal,Mexico,"Stadio Olimpico, Rome",1990 FIFA World Cup final
+1994,group,1994-06-17,ESP,KOR,2,2,56247,Peter Mikkelsen,Denmark,"Cotton Bowl, Dallas",1994 FIFA World Cup Group C
+1994,group,1994-06-17,GER,BOL,1,0,63117,Arturo Brizio Carter,Mexico,"Soldier Field, Chicago",1994 FIFA World Cup Group C
+1994,group,1994-06-18,COL,ROU,1,3,91856,Jamal Al Sharif,Syria,"Rose Bowl, Pasadena",1994 FIFA World Cup Group A
+1994,group,1994-06-18,ITA,IRL,0,1,75338,Mario van der Ende,Netherlands,"Giants Stadium, East Rutherford",1994 FIFA World Cup Group E
+1994,group,1994-06-18,USA,SUI,1,1,73425,Francisco Oscar Lamolina,Argentina,"Pontiac Silverdome, Pontiac",1994 FIFA World Cup Group A
+1994,group,1994-06-19,BEL,MAR,1,0,61219,José Torres Cadena,Colombia,"Citrus Bowl, Orlando",1994 FIFA World Cup Group F
+1994,group,1994-06-19,CMR,SWE,2,2,93194,Alberto Tejada Noriega,Peru,"Rose Bowl, Pasadena",1994 FIFA World Cup Group B
+1994,group,1994-06-19,NOR,MEX,1,0,52395,Sándor Puhl,Hungary,"RFK Stadium, Washington, D.C.",1994 FIFA World Cup Group E
+1994,group,1994-06-20,BRA,RUS,2,0,81061,Lim Kee Chong,Mauritius,"Stanford Stadium, Stanford",1994 FIFA World Cup Group B
+1994,group,1994-06-20,NED,KSA,2,1,50535,Manuel Díaz Vega,Spain,"RFK Stadium, Washington, D.C.",1994 FIFA World Cup Group F
+1994,group,1994-06-21,ARG,GRE,4,0,54456,Arturo Angeles,United States,"Foxboro Stadium, Foxborough",1994 FIFA World Cup Group D
+1994,group,1994-06-21,GER,ESP,1,1,63113,Filippi Cavani,Uruguay,"Soldier Field, Chicago",1994 FIFA World Cup Group C
+1994,group,1994-06-21,NGA,BUL,3,0,44132,Rodrigo Badilla,Costa Rica,"Cotton Bowl, Dallas",1994 FIFA World Cup Group D
+1994,group,1994-06-22,ROU,SUI,1,4,61428,Neji Jouini,Tunisia,"Pontiac Silverdome, Pontiac",1994 FIFA World Cup Group A
+1994,group,1994-06-22,USA,COL,2,1,93869,Fabio Baldas,Italy,"Rose Bowl, Pasadena",1994 FIFA World Cup Group A
+1994,group,1994-06-23,ITA,NOR,1,0,74624,Hellmut Krug,Germany,"Giants Stadium, East Rutherford",1994 FIFA World Cup Group E
+1994,group,1994-06-23,KOR,BOL,0,0,54453,Leslie Mottram,Scotland,"Foxboro Stadium, Foxborough",1994 FIFA World Cup Group C
+1994,group,1994-06-24,BRA,CMR,3,0,83401,Arturo Brizio Carter,Mexico,"Stanford Stadium, Stanford",1994 FIFA World Cup Group B
+1994,group,1994-06-24,MEX,IRL,2,1,60790,Kurt Röthlisberger,Switzerland,"Citrus Bowl, Orlando",1994 FIFA World Cup Group E
+1994,group,1994-06-24,SWE,RUS,3,1,71528,Joël Quiniou,France,"Pontiac Silverdome, Pontiac",1994 FIFA World Cup Group B
+1994,group,1994-06-25,ARG,NGA,2,1,54453,Bo Karlsson,Sweden,"Foxboro Stadium, Foxborough",1994 FIFA World Cup Group D
+1994,group,1994-06-25,BEL,NED,1,0,62387,Renato Marsiglia,Brazil,"Citrus Bowl, Orlando",1994 FIFA World Cup Group F
+1994,group,1994-06-25,KSA,MAR,2,1,76322,Philip Don,England,"Giants Stadium, East Rutherford",1994 FIFA World Cup Group F
+1994,group,1994-06-26,BUL,GRE,4,0,63160,Ali Bujsaim,United Arab Emirates,"Soldier Field, Chicago",1994 FIFA World Cup Group D
+1994,group,1994-06-26,SUI,COL,0,2,83401,Peter Mikkelsen,Denmark,"Stanford Stadium, Stanford",1994 FIFA World Cup Group A
+1994,group,1994-06-26,USA,ROU,0,1,93869,Mario van der Ende,Netherlands,"Rose Bowl, Pasadena",1994 FIFA World Cup Group A
+1994,group,1994-06-27,BOL,ESP,1,3,63089,Rodrigo Badilla,Costa Rica,"Soldier Field, Chicago",1994 FIFA World Cup Group C
+1994,group,1994-06-27,GER,KOR,3,2,63998,Joël Quiniou,France,"Cotton Bowl, Dallas",1994 FIFA World Cup Group C
+1994,group,1994-06-28,BRA,SWE,1,1,77217,Sándor Puhl,Hungary,"Pontiac Silverdome, Pontiac",1994 FIFA World Cup Group B
+1994,group,1994-06-28,IRL,NOR,0,0,72404,José Torres Cadena,Colombia,"Giants Stadium, East Rutherford",1994 FIFA World Cup Group E
+1994,group,1994-06-28,ITA,MEX,1,1,52535,Francisco Oscar Lamolina,Argentina,"RFK Stadium, Washington, D.C.",1994 FIFA World Cup Group E
+1994,group,1994-06-28,RUS,CMR,6,1,74914,Jamal Al Sharif,Syria,"Stanford Stadium, Stanford",1994 FIFA World Cup Group B
+1994,group,1994-06-29,BEL,KSA,0,1,52959,Hellmut Krug,Germany,"RFK Stadium, Washington, D.C.",1994 FIFA World Cup Group F
+1994,group,1994-06-29,MAR,NED,1,2,60578,Alberto Tejada Noriega,Peru,"Citrus Bowl, Orlando",1994 FIFA World Cup Group F
+1994,group,1994-06-30,ARG,BUL,0,2,63998,Neji Jouini,Tunisia,"Cotton Bowl, Dallas",1994 FIFA World Cup Group D
+1994,group,1994-06-30,GRE,NGA,0,2,53001,Leslie Mottram,Scotland,"Foxboro Stadium, Foxborough",1994 FIFA World Cup Group D
+1994,round-of-16,1994-07-02,ESP,SUI,3,0,53121,Mario van der Ende,Netherlands,"RFK Stadium, Washington, D.C.",1994 FIFA World Cup knockout stage
+1994,round-of-16,1994-07-02,GER,BEL,3,2,60246,Kurt Röthlisberger,Switzerland,"Soldier Field, Chicago",1994 FIFA World Cup knockout stage
+1994,round-of-16,1994-07-03,KSA,SWE,1,3,60277,Renato Marsiglia,Brazil,"Cotton Bowl, Dallas",1994 FIFA World Cup knockout stage
+1994,round-of-16,1994-07-03,ROU,ARG,3,2,90469,Pierluigi Pairetto,Italy,"Rose Bowl, Pasadena",1994 FIFA World Cup knockout stage
+1994,round-of-16,1994-07-04,BRA,USA,1,0,84147,Joël Quiniou,France,"Stanford Stadium, Stanford",1994 FIFA World Cup knockout stage
+1994,round-of-16,1994-07-04,NED,IRL,2,0,61355,Peter Mikkelsen,Denmark,"Citrus Bowl, Orlando",1994 FIFA World Cup knockout stage
+1994,round-of-16,1994-07-05,MEX,BUL,1,1,71030,Jamal Al Sharif,Syria,"Giants Stadium, East Rutherford",1994 FIFA World Cup knockout stage
+1994,round-of-16,1994-07-05,NGA,ITA,1,2,54367,Arturo Brizio Carter,Mexico,"Foxboro Stadium, Foxborough",1994 FIFA World Cup knockout stage
+1994,quarter-final,1994-07-09,ITA,ESP,2,1,53400,Sándor Puhl,Hungary,"Foxboro Stadium, Foxborough",1994 FIFA World Cup knockout stage
+1994,quarter-final,1994-07-09,NED,BRA,2,3,63500,Rodrigo Badilla,Costa Rica,"Cotton Bowl, Dallas",1994 FIFA World Cup knockout stage
+1994,quarter-final,1994-07-10,BUL,GER,2,1,72000,José Torres Cadena,Colombia,"Giants Stadium, East Rutherford",1994 FIFA World Cup knockout stage
+1994,quarter-final,1994-07-10,ROU,SWE,2,2,83500,Philip Don,England,"Stanford Stadium, Stanford",1994 FIFA World Cup knockout stage
+1994,semi-final,1994-07-13,BUL,ITA,1,2,74110,Joël Quiniou,France,"Giants Stadium, East Rutherford",1994 FIFA World Cup knockout stage
+1994,semi-final,1994-07-13,SWE,BRA,0,1,91856,José Torres Cadena,Colombia,"Rose Bowl, Pasadena",1994 FIFA World Cup knockout stage
+1994,third-place,1994-07-16,SWE,BUL,4,0,91500,Ali Bujsaim,United Arab Emirates,"Rose Bowl, Pasadena",1994 FIFA World Cup knockout stage
+1994,final,1994-07-17,BRA,ITA,0,0,94194,Sándor Puhl,Hungary,"Rose Bowl, Pasadena",1994 FIFA World Cup final
+1998,group,1998-06-10,BRA,SCO,2,1,80000,José María García-Aranda,Spain,"Stade de France, Saint-Denis",1998 FIFA World Cup Group A
+1998,group,1998-06-10,MAR,NOR,2,2,29800,Pirom Un-Prasert,Thailand,"Stade de la Mosson, Montpellier",1998 FIFA World Cup Group A
+1998,group,1998-06-11,CMR,AUT,1,1,33500,Epifanio González,Paraguay,"Stade de Toulouse, Toulouse",1998 FIFA World Cup Group B
+1998,group,1998-06-11,ITA,CHI,2,2,31800,Lucien Bouchardeau,Niger,"Parc Lescure, Bordeaux",1998 FIFA World Cup Group B
+1998,group,1998-06-12,FRA,RSA,3,0,55000,Márcio Rezende de Freitas,Brazil,"Stade Vélodrome, Marseille",1998 FIFA World Cup Group C
+1998,group,1998-06-12,KSA,DEN,0,1,38100,Javier Castrilli,Argentina,"Stade Félix-Bollaert, Lens",1998 FIFA World Cup Group C
+1998,group,1998-06-12,PAR,BUL,0,0,29800,Abdul Rahman Al-Zeid,Saudi Arabia,"Stade de la Mosson, Montpellier",1998 FIFA World Cup Group D
+1998,group,1998-06-13,ESP,NGA,2,3,35500,Esfandiar Baharmast,United States,"Stade de la Beaujoire, Nantes",1998 FIFA World Cup Group D
+1998,group,1998-06-13,KOR,MEX,1,3,39100,Günter Benkö,Austria,"Stade de Gerland, Lyon",1998 FIFA World Cup Group E
+1998,group,1998-06-13,NED,BEL,0,0,77000,Pierluigi Collina,Italy,"Stade de France, Saint-Denis",1998 FIFA World Cup Group E
+1998,group,1998-06-14,ARG,JPN,1,0,33500,Mario van der Ende,Netherlands,"Stade de Toulouse, Toulouse",1998 FIFA World Cup Group H
+1998,group,1998-06-14,JAM,CRO,1,3,38100,Vítor Melo Pereira,Portugal,"Stade Félix-Bollaert, Lens",1998 FIFA World Cup Group H
+1998,group,1998-06-14,YUG,IRN,1,0,30600,Alberto Tejada,Peru,"Stade Geoffroy-Guichard, Saint-Étienne",1998 FIFA World Cup Group F
+1998,group,1998-06-15,ENG,TUN,2,0,55000,Masayoshi Okada,Japan,"Stade Vélodrome, Marseille",1998 FIFA World Cup Group G
+1998,group,1998-06-15,GER,USA,2,0,45500,Said Belqola,Morocco,"Parc des Princes, Paris",1998 FIFA World Cup Group F
+1998,group,1998-06-15,ROU,COL,1,0,39100,Lim Kee Chong,Mauritius,"Stade de Gerland, Lyon",1998 FIFA World Cup Group G
+1998,group,1998-06-16,BRA,MAR,3,0,35500,Nikolai Levnikov,Russia,"Stade de la Beaujoire, Nantes",1998 FIFA World Cup Group A
+1998,group,1998-06-16,SCO,NOR,1,1,31800,László Vágner,Hungary,"Parc Lescure, Bordeaux",1998 FIFA World Cup Group A
+1998,group,1998-06-17,CHI,AUT,1,1,30600,Gamal Al-Ghandour,Egypt,"Stade Geoffroy-Guichard, Saint-Étienne",1998 FIFA World Cup Group B
+1998,group,1998-06-17,ITA,CMR,3,0,29800,Eddie Lennie,Australia,"Stade de la Mosson, Montpellier",1998 FIFA World Cup Group B
+1998,group,1998-06-18,FRA,KSA,4,0,80000,Arturo Brizio Carter,Mexico,"Stade de France, Saint-Denis",1998 FIFA World Cup Group C
+1998,group,1998-06-18,RSA,DEN,1,1,33500,John Toro Rendón,Colombia,"Stade de Toulouse, Toulouse",1998 FIFA World Cup Group C
+1998,group,1998-06-19,ESP,PAR,0,0,30600,Ian McLeod,South Africa,"Stade Geoffroy-Guichard, Saint-Étienne",1998 FIFA World Cup Group D
+1998,group,1998-06-19,NGA,BUL,1,0,45500,Mario Sánchez Yantén,Chile,"Parc des Princes, Paris",1998 FIFA World Cup Group D
+1998,group,1998-06-20,BEL,MEX,2,2,31800,Hugh Dallas,Scotland,"Parc Lescure, Bordeaux",1998 FIFA World Cup Group E
+1998,group,1998-06-20,JPN,CRO,0,1,35500,Ramesh Ramdhan,Trinidad and Tobago,"Stade de la Beaujoire, Nantes",1998 FIFA World Cup Group H
+1998,group,1998-06-20,NED,KOR,5,0,55000,Ryszard Wójcik,Poland,"Stade Vélodrome, Marseille",1998 FIFA World Cup Group E
+1998,group,1998-06-21,ARG,JAM,5,0,45500,Rune Pedersen,Norway,"Parc des Princes, Paris",1998 FIFA World Cup Group H
+1998,group,1998-06-21,GER,YUG,2,2,38100,Kim Milton Nielsen,Denmark,"Stade Félix-Bollaert, Lens",1998 FIFA World Cup Group F
+1998,group,1998-06-21,USA,IRN,1,2,39100,Urs Meier,Switzerland,"Stade de Gerland, Lyon",United States v Iran (1998 FIFA World Cup)
+1998,group,1998-06-22,COL,TUN,1,0,29800,Bernd Heynemann,Germany,"Stade de la Mosson, Montpellier",1998 FIFA World Cup Group G
+1998,group,1998-06-22,ROU,ENG,2,1,33500,Marc Batta,France,"Stade de Toulouse, Toulouse",1998 FIFA World Cup Group G
+1998,group,1998-06-23,BRA,NOR,1,2,55000,Esfandiar Baharmast,United States,"Stade Vélodrome, Marseille",1998 FIFA World Cup Group A
+1998,group,1998-06-23,CHI,CMR,1,1,35500,László Vágner,Hungary,"Stade de la Beaujoire, Nantes",1998 FIFA World Cup Group B
+1998,group,1998-06-23,ITA,AUT,2,1,80000,Paul Durkin,England,"Stade de France, Saint-Denis",1998 FIFA World Cup Group B
+1998,group,1998-06-23,SCO,MAR,0,3,30600,Ali Bujsaim,United Arab Emirates,"Stade Geoffroy-Guichard, Saint-Étienne",1998 FIFA World Cup Group A
+1998,group,1998-06-24,ESP,BUL,6,1,38100,Mario van der Ende,Netherlands,"Stade Félix-Bollaert, Lens",1998 FIFA World Cup Group D
+1998,group,1998-06-24,FRA,DEN,2,1,39100,Pierluigi Collina,Italy,"Stade de Gerland, Lyon",1998 FIFA World Cup Group C
+1998,group,1998-06-24,NGA,PAR,1,3,33500,Pirom Un-prasert,Thailand,"Stade de Toulouse, Toulouse",1998 FIFA World Cup Group D
+1998,group,1998-06-24,RSA,KSA,2,2,31800,Mario Sánchez,Chile,"Parc Lescure, Bordeaux",1998 FIFA World Cup Group C
+1998,group,1998-06-25,BEL,KOR,1,1,45500,Márcio Rezende de Freitas,Brazil,"Parc des Princes, Paris",1998 FIFA World Cup Group E
+1998,group,1998-06-25,GER,IRN,2,0,29800,Epifanio González,Paraguay,"Stade de la Mosson, Montpellier",1998 FIFA World Cup Group F
+1998,group,1998-06-25,NED,MEX,2,2,30600,Abdul Rahman Al-Zeid,Saudi Arabia,"Stade Geoffroy-Guichard, Saint-Étienne",1998 FIFA World Cup Group E
+1998,group,1998-06-25,USA,YUG,0,1,35500,Gamal Al-Ghandour,Egypt,"Stade de la Beaujoire, Nantes",1998 FIFA World Cup Group F
+1998,group,1998-06-26,ARG,CRO,1,0,31800,Said Belqola,Morocco,"Parc Lescure, Bordeaux",1998 FIFA World Cup Group H
+1998,group,1998-06-26,COL,ENG,0,2,38100,Arturo Brizio Carter,Mexico,"Stade Félix-Bollaert, Lens",1998 FIFA World Cup Group G
+1998,group,1998-06-26,JPN,JAM,1,2,39100,Günter Benkö,Austria,"Stade de Gerland, Lyon",1998 FIFA World Cup Group H
+1998,group,1998-06-26,ROU,TUN,1,1,77000,Eddie Lennie,Australia,"Stade de France, Saint-Denis",1998 FIFA World Cup Group G
+1998,round-of-16,1998-06-27,BRA,CHI,4,1,45500,Marc Batta,France,"Parc des Princes, Paris",1998 FIFA World Cup knockout stage
+1998,round-of-16,1998-06-27,ITA,NOR,1,0,55000,Bernd Heynemann,Germany,"Stade Vélodrome, Marseille",1998 FIFA World Cup knockout stage
+1998,round-of-16,1998-06-28,FRA,PAR,1,0,31800,Ali Bujsaim,United Arab Emirates,"Stade Félix-Bollaert, Lens",1998 FIFA World Cup knockout stage
+1998,round-of-16,1998-06-28,NGA,DEN,1,4,77000,Urs Meier,Switzerland,"Stade de France, Saint-Denis",1998 FIFA World Cup knockout stage
+1998,round-of-16,1998-06-29,GER,MEX,2,1,29800,Vítor Melo Pereira,Portugal,"Stade de la Mosson, Montpellier",1998 FIFA World Cup knockout stage
+1998,round-of-16,1998-06-29,NED,YUG,2,1,33500,José María García-Aranda,Spain,"Stade de Toulouse, Toulouse",1998 FIFA World Cup knockout stage
+1998,round-of-16,1998-06-30,ARG,ENG,2,2,30600,Kim Milton Nielsen,Denmark,"Stade Geoffroy-Guichard, Saint-Étienne",1998 FIFA World Cup knockout stage
+1998,round-of-16,1998-06-30,ROU,CRO,0,1,31800,Javier Castrilli,Argentina,"Parc Lescure, Bordeaux",1998 FIFA World Cup knockout stage
+1998,quarter-final,1998-07-03,BRA,DEN,3,2,35500,Gamal Al-Ghandour,Egypt,"Stade de la Beaujoire, Nantes",1998 FIFA World Cup knockout stage
+1998,quarter-final,1998-07-03,ITA,FRA,0,0,77000,Hugh Dallas,Scotland,"Stade de France, Saint-Denis",1998 FIFA World Cup knockout stage
+1998,quarter-final,1998-07-04,GER,CRO,0,3,39100,Rune Pedersen,Norway,"Stade de Gerland, Lyon",1998 FIFA World Cup knockout stage
+1998,quarter-final,1998-07-04,NED,ARG,2,1,55000,Arturo Brizio Carter,Mexico,"Stade Vélodrome, Marseille",1998 FIFA World Cup knockout stage
+1998,semi-final,1998-07-07,BRA,NED,1,1,54000,Ali Bujsaim,United Arab Emirates,"Stade Vélodrome, Marseille",1998 FIFA World Cup knockout stage
+1998,semi-final,1998-07-08,FRA,CRO,2,1,76000,José María García-Aranda,Spain,"Stade de France, Saint-Denis",1998 FIFA World Cup knockout stage
+1998,third-place,1998-07-11,NED,CRO,1,2,45500,Epifanio González,Paraguay,"Parc des Princes, Paris",1998 FIFA World Cup knockout stage
+1998,final,1998-07-12,BRA,FRA,0,3,80000,Said Belqola,Morocco,"Stade de France, Saint-Denis",1998 FIFA World Cup final
+2002,group,2002-05-31,FRA,SEN,0,1,62561,Ali Bujsaim,United Arab Emirates,"Seoul World Cup Stadium, Seoul",2002 FIFA World Cup Group A
+2002,group,2002-06-01,GER,KSA,8,0,32218,Ubaldo Aquino,Paraguay,"Sapporo Dome, Sapporo",2002 FIFA World Cup Group E
+2002,group,2002-06-01,IRL,CMR,1,1,33679,Toru Kamikawa,Japan,"Niigata Stadium, Niigata",2002 FIFA World Cup Group E
+2002,group,2002-06-01,URU,DEN,1,2,30157,Saad Mane,Kuwait,"Munsu Cup Stadium, Ulsan",2002 FIFA World Cup Group A
+2002,group,2002-06-02,ARG,NGA,1,0,34050,Gilles Veissière,France,"Kashima Soccer Stadium, Ibaraki",2002 FIFA World Cup Group F
+2002,group,2002-06-02,ENG,SWE,1,1,52721,Carlos Simon,Brazil,"Saitama Stadium, Saitama",2002 FIFA World Cup Group F
+2002,group,2002-06-02,ESP,SVN,3,1,28598,Mohamed Guezzaz,Morocco,"Gwangju World Cup Stadium, Gwangju",2002 FIFA World Cup Group B
+2002,group,2002-06-02,PAR,RSA,2,2,25186,Ľuboš Micheľ,Slovakia,"Busan Asiad Main Stadium, Busan",2002 FIFA World Cup Group B
+2002,group,2002-06-03,BRA,TUR,2,1,33842,Kim Young-joo,South Korea,"Munsu Football Stadium, Ulsan",2002 FIFA World Cup Group C
+2002,group,2002-06-03,CRO,MEX,0,1,32239,Lu Jun,China,"Niigata Big Swan Stadium, Niigata",2002 FIFA World Cup Group G
+2002,group,2002-06-03,ITA,ECU,2,0,31081,Brian Hall,United States,"Sapporo Dome, Sapporo",2002 FIFA World Cup Group G
+2002,group,2002-06-04,CHN,CRC,0,2,27217,Kyros Vassaras,Greece,"Gwangju World Cup Stadium, Gwangju",2002 FIFA World Cup Group C
+2002,group,2002-06-04,JPN,BEL,2,2,55256,William Mattus,Costa Rica,"Saitama Stadium, Saitama",2002 FIFA World Cup Group H
+2002,group,2002-06-04,KOR,POL,2,0,48760,Óscar Ruiz,Colombia,"Busan Asiad Main Stadium, Busan",2002 FIFA World Cup Group D
+2002,group,2002-06-05,GER,IRL,1,1,35854,Kim Milton Nielsen,Denmark,"Kashima Soccer Stadium, Ibaraki",2002 FIFA World Cup Group E
+2002,group,2002-06-05,RUS,TUN,2,0,30957,Peter Prendergast,Jamaica,"Kobe Wing Stadium, Kobe",2002 FIFA World Cup Group H
+2002,group,2002-06-05,USA,POR,3,2,37306,Byron Moreno,Ecuador,"Suwon World Cup Stadium, Suwon",2002 FIFA World Cup Group D
+2002,group,2002-06-06,CMR,KSA,1,0,52328,Terje Hauge,Norway,"Saitama Stadium, Saitama",2002 FIFA World Cup Group E
+2002,group,2002-06-06,DEN,SEN,1,1,43500,Carlos Batres,Guatemala,"Daegu World Cup Stadium, Daegu",2002 FIFA World Cup Group A
+2002,group,2002-06-06,FRA,URU,0,0,38289,Felipe Ramos,Mexico,"Busan Asiad Main Stadium, Busan",2002 FIFA World Cup Group A
+2002,group,2002-06-07,ARG,ENG,0,1,35927,Pierluigi Collina,Italy,"Sapporo Dome, Sapporo",2002 FIFA World Cup Group F
+2002,group,2002-06-07,ESP,PAR,3,1,24000,Gamal Al-Ghandour,Egypt,"Jeonju World Cup Stadium, Jeonju",2002 FIFA World Cup Group B
+2002,group,2002-06-07,SWE,NGA,2,1,36194,René Ortubé,Bolivia,"Wing Stadium, Kobe",2002 FIFA World Cup Group F
+2002,group,2002-06-08,BRA,CHN,4,0,36750,Anders Frisk,Sweden,"Jeju World Cup Stadium, Seogwipo",2002 FIFA World Cup Group C
+2002,group,2002-06-08,ITA,CRO,1,2,36472,Graham Poll,England,"Kashima Soccer Stadium, Ibaraki",2002 FIFA World Cup Group G
+2002,group,2002-06-08,RSA,SVN,1,0,47226,Ángel Sánchez,Argentina,"Daegu World Cup Stadium, Daegu",2002 FIFA World Cup Group B
+2002,group,2002-06-09,CRC,TUR,1,1,42299,Coffi Codjia,Benin,"Incheon World Cup Stadium, Incheon",2002 FIFA World Cup Group C
+2002,group,2002-06-09,JPN,RUS,1,0,66108,Markus Merk,Germany,"International Stadium Yokohama, Yokohama",2002 FIFA World Cup Group H
+2002,group,2002-06-09,MEX,ECU,2,1,45610,Mourad Daami,Tunisia,"Miyagi Stadium, Miyagi",2002 FIFA World Cup Group G
+2002,group,2002-06-10,KOR,USA,1,1,60778,Urs Meier,Switzerland,"Daegu World Cup Stadium, Daegu",2002 FIFA World Cup Group D
+2002,group,2002-06-10,POR,POL,4,0,31000,Hugh Dallas,Scotland,"Jeonju World Cup Stadium, Jeonju",2002 FIFA World Cup Group D
+2002,group,2002-06-10,TUN,BEL,1,1,39700,Mark Shield,Australia,"Ōita Big Eye Stadium, Ōita",2002 FIFA World Cup Group H
+2002,group,2002-06-11,CMR,GER,0,2,47085,Antonio López Nieto,Spain,"Ecopa Stadium, Shizuoka",2002 FIFA World Cup Group E
+2002,group,2002-06-11,DEN,FRA,2,0,48100,Vítor Melo Pereira,Portugal,"Incheon World Cup Stadium, Incheon",2002 FIFA World Cup Group A
+2002,group,2002-06-11,KSA,IRL,0,3,65320,Falla N'Doye,Senegal,"International Stadium Yokohama, Yokohama",2002 FIFA World Cup Group E
+2002,group,2002-06-11,SEN,URU,3,3,33681,Jan Wegereef,Netherlands,"Suwon World Cup Stadium, Suwon",2002 FIFA World Cup Group A
+2002,group,2002-06-12,NGA,ENG,0,0,44864,Brian Hall,United States,"Nagai Stadium, Osaka",2002 FIFA World Cup Group F
+2002,group,2002-06-12,RSA,ESP,2,3,31024,Saad Mane,Kuwait,"Daejeon World Cup Stadium, Daejeon",2002 FIFA World Cup Group B
+2002,group,2002-06-12,SVN,PAR,1,3,30176,Felipe Ramos,Mexico,"Jeju World Cup Stadium, Seogwipo",2002 FIFA World Cup Group B
+2002,group,2002-06-12,SWE,ARG,1,1,45777,Ali Bujsaim,United Arab Emirates,"Miyagi Stadium, Miyagi",2002 FIFA World Cup Group F
+2002,group,2002-06-13,CRC,BRA,2,5,38524,Gamal Al-Ghandour,Egypt,"Suwon World Cup Stadium, Suwon",2002 FIFA World Cup Group C
+2002,group,2002-06-13,ECU,CRO,1,0,65862,William Mattus,Costa Rica,"International Stadium Yokohama, Yokohama",2002 FIFA World Cup Group G
+2002,group,2002-06-13,MEX,ITA,1,1,39291,Carlos Simon,Brazil,"Ōita Big Eye Stadium, Ōita",2002 FIFA World Cup Group G
+2002,group,2002-06-13,TUR,CHN,3,0,43605,Óscar Ruiz,Colombia,"Seoul World Cup Stadium, Seoul",2002 FIFA World Cup Group C
+2002,group,2002-06-14,BEL,RUS,3,2,46640,Kim Milton Nielsen,Denmark,"Shizuoka Ecopa Stadium, Fukuroi, Shizuoka",2002 FIFA World Cup Group H
+2002,group,2002-06-14,POL,USA,3,1,26482,Lu Jun,China,"Daejeon World Cup Stadium, Daejeon",2002 FIFA World Cup Group D
+2002,group,2002-06-14,POR,KOR,0,1,50239,Ángel Sánchez,Argentina,"Incheon World Cup Stadium, Incheon",2002 FIFA World Cup Group D
+2002,group,2002-06-14,TUN,JPN,0,2,45213,Gilles Veissière,France,"Nagai Stadium, Osaka",2002 FIFA World Cup Group H
+2002,round-of-16,2002-06-15,DEN,ENG,0,3,40582,Markus Merk,Germany,"Big Swan Stadium, Niigata",2002 FIFA World Cup knockout stage
+2002,round-of-16,2002-06-15,GER,PAR,1,0,25176,Carlos Alberto Batres,Guatemala,"Jeju World Cup Stadium, Seogwipo",2002 FIFA World Cup knockout stage
+2002,round-of-16,2002-06-16,ESP,IRL,1,1,38926,Anders Frisk,Sweden,"Suwon World Cup Stadium, Suwon",2002 FIFA World Cup knockout stage
+2002,round-of-16,2002-06-16,SWE,SEN,1,2,39747,Ubaldo Aquino,Paraguay,"Big Eye Stadium, Ōita",2002 FIFA World Cup knockout stage
+2002,round-of-16,2002-06-17,BRA,BEL,2,0,40440,Peter Prendergast,Jamaica,"Kobe Wing Stadium, Kobe",2002 FIFA World Cup knockout stage
+2002,round-of-16,2002-06-17,MEX,USA,0,2,36380,Vítor Melo Pereira,Portugal,"Jeonju World Cup Stadium, Jeonju",2002 FIFA World Cup knockout stage
+2002,round-of-16,2002-06-18,JPN,TUR,0,1,45666,Pierluigi Collina,Italy,"Miyagi Stadium, Rifu",2002 FIFA World Cup knockout stage
+2002,round-of-16,2002-06-18,KOR,ITA,2,1,38588,Byron Moreno,Ecuador,"Daejeon World Cup Stadium, Daejeon",2002 FIFA World Cup knockout stage
+2002,quarter-final,2002-06-21,ENG,BRA,1,2,47436,Felipe Ramos,Mexico,"Stadium Ecopa, Fukuroi",2002 FIFA World Cup knockout stage
+2002,quarter-final,2002-06-21,GER,USA,1,0,37337,Hugh Dallas,Scotland,"Munsu Cup Stadium, Ulsan",2002 FIFA World Cup knockout stage
+2002,quarter-final,2002-06-22,ESP,KOR,0,0,42114,Gamal Al-Ghandour,Egypt,"Gwangju World Cup Stadium, Gwangju",2002 FIFA World Cup knockout stage
+2002,quarter-final,2002-06-22,SEN,TUR,0,1,44233,Óscar Ruiz,Colombia,"Nagai Stadium, Osaka",2002 FIFA World Cup knockout stage
+2002,semi-final,2002-06-25,GER,KOR,1,0,65256,Urs Meier,Switzerland,"Seoul World Cup Stadium, Seoul",2002 FIFA World Cup knockout stage
+2002,semi-final,2002-06-26,BRA,TUR,1,0,61058,Kim Milton Nielsen,Denmark,"Saitama Stadium, Saitama",2002 FIFA World Cup knockout stage
+2002,third-place,2002-06-29,KOR,TUR,2,3,63483,Saad Mane,Kuwait,"Daegu World Cup Stadium, Daegu",2002 FIFA World Cup knockout stage
+2002,final,2002-06-30,GER,BRA,0,2,69029,Pierluigi Collina,Italy,"International Stadium, Yokohama",2002 FIFA World Cup final
+2006,group,2006-06-09,GER,CRC,4,2,66000,Horacio Elizondo,Argentina,"Allianz Arena, Munich",2006 FIFA World Cup Group A
+2006,group,2006-06-09,POL,ECU,0,2,52000,Toru Kamikawa,Japan,"Arena AufSchalke, Gelsenkirchen",2006 FIFA World Cup Group A
+2006,group,2006-06-10,ARG,CIV,2,1,49480,Frank De Bleeckere,Belgium,"Volksparkstadion, Hamburg",2006 FIFA World Cup Group C
+2006,group,2006-06-10,ENG,PAR,1,0,48000,Marco Rodríguez,Mexico,"Waldstadion, Frankfurt",2006 FIFA World Cup Group B
+2006,group,2006-06-10,TRI,SWE,0,0,62959,Shamsul Maidin,Singapore,"Westfalenstadion, Dortmund",2006 FIFA World Cup Group B
+2006,group,2006-06-11,ANG,POR,0,1,45000,Jorge Larrionda,Uruguay,"RheinEnergieStadion, Cologne",2006 FIFA World Cup Group D
+2006,group,2006-06-11,MEX,IRN,3,1,41000,Roberto Rosetti,Italy,"Frankenstadion, Nuremberg",2006 FIFA World Cup Group D
+2006,group,2006-06-11,SCG,NED,0,1,43000,Markus Merk,Germany,"Zentralstadion, Leipzig",2006 FIFA World Cup Group C
+2006,group,2006-06-12,AUS,JPN,3,1,46000,Essam Abd El Fatah,Egypt,"Fritz-Walter-Stadion, Kaiserslautern",2006 FIFA World Cup Group F
+2006,group,2006-06-12,ITA,GHA,2,0,43000,Carlos Simon,Brazil,"Niedersachsenstadion, Hanover",2006 FIFA World Cup Group E
+2006,group,2006-06-12,USA,CZE,0,3,52000,Carlos Amarilla,Paraguay,"Arena AufSchalke, Gelsenkirchen",2006 FIFA World Cup Group E
+2006,group,2006-06-13,BRA,CRO,1,0,72000,Benito Archundia,Mexico,"Olympiastadion, Berlin",2006 FIFA World Cup Group F
+2006,group,2006-06-13,FRA,SUI,0,0,52000,Valentin Ivanov,Russia,"Gottlieb-Daimler-Stadion, Stuttgart",2006 FIFA World Cup Group G
+2006,group,2006-06-13,KOR,TOG,2,1,48000,Graham Poll,England,"Waldstadion, Frankfurt",2006 FIFA World Cup Group G
+2006,group,2006-06-14,ESP,UKR,4,0,43000,Massimo Busacca,Switzerland,"Zentralstadion, Leipzig",2006 FIFA World Cup Group H
+2006,group,2006-06-14,GER,POL,1,0,65000,Luis Medina Cantalejo,Spain,"Westfalenstadion, Dortmund",2006 FIFA World Cup Group A
+2006,group,2006-06-14,TUN,KSA,2,2,66000,Mark Shield,Australia,"Allianz Arena, Munich",2006 FIFA World Cup Group H
+2006,group,2006-06-15,ECU,CRC,3,0,50000,Coffi Codjia,Benin,"Volksparkstadion, Hamburg",2006 FIFA World Cup Group A
+2006,group,2006-06-15,ENG,TRI,2,0,41000,Toru Kamikawa,Japan,"Frankenstadion, Nuremberg",2006 FIFA World Cup Group B
+2006,group,2006-06-15,SWE,PAR,1,0,72000,Ľuboš Micheľ,Slovakia,"Olympiastadion, Berlin",2006 FIFA World Cup Group B
+2006,group,2006-06-16,ARG,SCG,6,0,52000,Roberto Rosetti,Italy,"Arena AufSchalke, Gelsenkirchen",2006 FIFA World Cup Group C
+2006,group,2006-06-16,MEX,ANG,0,0,43000,Shamsul Maidin,Singapore,"Niedersachsenstadion, Hanover",2006 FIFA World Cup Group D
+2006,group,2006-06-16,NED,CIV,2,1,52000,Óscar Ruiz,Colombia,"Gottlieb-Daimler-Stadion, Stuttgart",2006 FIFA World Cup Group C
+2006,group,2006-06-17,CZE,GHA,0,2,45000,Horacio Elizondo,Argentina,"RheinEnergieStadion, Cologne",2006 FIFA World Cup Group E
+2006,group,2006-06-17,ITA,USA,1,1,46000,Jorge Larrionda,Uruguay,"Fritz-Walter-Stadion, Kaiserslautern",2006 FIFA World Cup Group E
+2006,group,2006-06-17,POR,IRN,2,0,48000,Éric Poulat,France,"Waldstadion, Frankfurt",2006 FIFA World Cup Group D
+2006,group,2006-06-18,BRA,AUS,2,0,66000,Markus Merk,Germany,"Allianz Arena, Munich",2006 FIFA World Cup Group F
+2006,group,2006-06-18,FRA,KOR,1,1,43000,Benito Archundia,Mexico,"Zentralstadion, Leipzig",2006 FIFA World Cup Group G
+2006,group,2006-06-18,JPN,CRO,0,0,41000,Frank De Bleeckere,Belgium,"Frankenstadion, Nuremberg",2006 FIFA World Cup Group F
+2006,group,2006-06-19,ESP,TUN,3,1,52000,Carlos Simon,Brazil,"Gottlieb-Daimler-Stadion, Stuttgart",2006 FIFA World Cup Group H
+2006,group,2006-06-19,KSA,UKR,0,4,50000,Graham Poll,England,"Volksparkstadion, Hamburg",2006 FIFA World Cup Group H
+2006,group,2006-06-19,TOG,SUI,0,2,65000,Carlos Amarilla,Paraguay,"Westfalenstadion, Dortmund",2006 FIFA World Cup Group G
+2006,group,2006-06-20,CRC,POL,1,2,43000,Shamsul Maidin,Singapore,"Niedersachsenstadion, Hanover",2006 FIFA World Cup Group A
+2006,group,2006-06-20,ECU,GER,0,3,72000,Valentin Ivanov,Russia,"Olympiastadion, Berlin",2006 FIFA World Cup Group A
+2006,group,2006-06-20,PAR,TRI,2,0,46000,Roberto Rosetti,Italy,"Fritz-Walter-Stadion, Kaiserslautern",2006 FIFA World Cup Group B
+2006,group,2006-06-20,SWE,ENG,2,2,45000,Massimo Busacca,Switzerland,"RheinEnergieStadion, Cologne",2006 FIFA World Cup Group B
+2006,group,2006-06-21,CIV,SCG,3,2,66000,Marco Rodríguez,Mexico,"Allianz Arena, Munich",2006 FIFA World Cup Group C
+2006,group,2006-06-21,IRN,ANG,1,1,38000,Mark Shield,Australia,"Zentralstadion, Leipzig",2006 FIFA World Cup Group D
+2006,group,2006-06-21,NED,ARG,0,0,48000,Luis Medina Cantalejo,Spain,"Waldstadion, Frankfurt",2006 FIFA World Cup Group C
+2006,group,2006-06-21,POR,MEX,2,1,52000,Ľuboš Micheľ,Slovakia,"Arena AufSchalke, Gelsenkirchen",2006 FIFA World Cup Group D
+2006,group,2006-06-22,CRO,AUS,2,2,52000,Graham Poll,England,"Gottlieb-Daimler-Stadion, Stuttgart",2006 FIFA World Cup Group F
+2006,group,2006-06-22,CZE,ITA,0,2,50000,Benito Archundia,Mexico,"Volksparkstadion, Hamburg",2006 FIFA World Cup Group E
+2006,group,2006-06-22,GHA,USA,2,1,41000,Markus Merk,Germany,"Frankenstadion, Nuremberg",2006 FIFA World Cup Group E
+2006,group,2006-06-22,JPN,BRA,1,4,65000,Éric Poulat,France,"Westfalenstadion, Dortmund",2006 FIFA World Cup Group F
+2006,group,2006-06-23,KSA,ESP,0,1,46000,Coffi Codjia,Benin,"Fritz-Walter-Stadion, Kaiserslautern",2006 FIFA World Cup Group H
+2006,group,2006-06-23,SUI,KOR,2,0,43000,Horacio Elizondo,Argentina,"Niedersachsenstadion, Hanover",2006 FIFA World Cup Group G
+2006,group,2006-06-23,TOG,FRA,0,2,45000,Jorge Larrionda,Uruguay,"RheinEnergieStadion, Cologne",2006 FIFA World Cup Group G
+2006,group,2006-06-23,UKR,TUN,1,0,72000,Carlos Amarilla,Paraguay,"Olympiastadion, Berlin",2006 FIFA World Cup Group H
+2006,round-of-16,2006-06-24,ARG,MEX,2,1,43000,Massimo Busacca,Switzerland,"Zentralstadion, Leipzig",2006 FIFA World Cup knockout stage
+2006,round-of-16,2006-06-24,GER,SWE,2,0,66000,Carlos Eugênio Simon,Brazil,"Allianz Arena, Munich",2006 FIFA World Cup knockout stage
+2006,round-of-16,2006-06-25,ENG,ECU,1,0,52000,Frank De Bleeckere,Belgium,"Gottlieb-Daimler-Stadion, Stuttgart",2006 FIFA World Cup knockout stage
+2006,round-of-16,2006-06-25,POR,NED,1,0,41000,Valentin Ivanov,Russia,"Frankenstadion, Nuremberg",Battle of Nuremberg (2006 FIFA World Cup)
+2006,round-of-16,2006-06-26,ITA,AUS,1,0,46000,Luis Medina Cantalejo,Spain,"Fritz-Walter-Stadion, Kaiserslautern",2006 FIFA World Cup knockout stage
+2006,round-of-16,2006-06-26,SUI,UKR,0,0,45000,Benito Archundia,Mexico,"RheinEnergieStadion, Cologne",2006 FIFA World Cup knockout stage
+2006,round-of-16,2006-06-27,BRA,GHA,3,0,65000,Ľuboš Micheľ,Slovakia,"Westfalenstadion, Dortmund",2006 FIFA World Cup knockout stage
+2006,round-of-16,2006-06-27,ESP,FRA,1,3,43000,Roberto Rosetti,Italy,"Niedersachsenstadion, Hanover",2006 FIFA World Cup knockout stage
+2006,quarter-final,2006-06-30,GER,ARG,1,1,72000,Ľuboš Micheľ,Slovakia,"Olympiastadion, Berlin",2006 FIFA World Cup knockout stage
+2006,quarter-final,2006-06-30,ITA,UKR,3,0,50000,Frank De Bleeckere,Belgium,"Volksparkstadion, Hamburg",2006 FIFA World Cup knockout stage
+2006,quarter-final,2006-07-01,BRA,FRA,0,1,48000,Luis Medina Cantalejo,Spain,"Waldstadion, Frankfurt",2006 FIFA World Cup knockout stage
+2006,quarter-final,2006-07-01,ENG,POR,0,0,52000,Horacio Elizondo,Argentina,"Arena AufSchalke, Gelsenkirchen",2006 FIFA World Cup knockout stage
+2006,semi-final,2006-07-04,GER,ITA,0,2,65000,Benito Archundia,Mexico,"Westfalenstadion, Dortmund",2006 FIFA World Cup knockout stage
+2006,semi-final,2006-07-05,POR,FRA,0,1,66000,Jorge Larrionda,Uruguay,"Allianz Arena, Munich",2006 FIFA World Cup knockout stage
+2006,third-place,2006-07-08,GER,POR,3,1,52000,Toru Kamikawa,Japan,"Gottlieb-Daimler-Stadion, Stuttgart",2006 FIFA World Cup knockout stage
+2006,final,2006-07-09,ITA,FRA,1,1,69000,Horacio Elizondo,Argentina,"Olympiastadion, Berlin",2006 FIFA World Cup final
+2010,group,2010-06-11,RSA,MEX,1,1,84490,Ravshan Irmatov,Uzbekistan,"Soccer City, Johannesburg",2010 FIFA World Cup Group A
+2010,group,2010-06-11,URU,FRA,0,0,64100,Yuichi Nishimura,Japan,"Cape Town Stadium, Cape Town",2010 FIFA World Cup Group A
+2010,group,2010-06-12,ARG,NGA,1,0,55686,Wolfgang Stark,Germany,"Ellis Park Stadium, Johannesburg",2010 FIFA World Cup Group B
+2010,group,2010-06-12,ENG,USA,1,1,38646,Carlos Simon,Brazil,"Royal Bafokeng Stadium, Rustenburg",2010 FIFA World Cup Group C
+2010,group,2010-06-12,KOR,GRE,2,0,31513,Michael Hester,New Zealand,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup Group B
+2010,group,2010-06-13,ALG,SVN,0,1,30325,Carlos Batres,Guatemala,"Peter Mokaba Stadium, Polokwane",2010 FIFA World Cup Group C
+2010,group,2010-06-13,GER,AUS,4,0,62660,Marco Rodríguez,Mexico,"Moses Mabhida Stadium, Durban",2010 FIFA World Cup Group D
+2010,group,2010-06-13,SRB,GHA,0,1,38833,Héctor Baldassi,Argentina,"Loftus Versfeld Stadium, Pretoria",2010 FIFA World Cup Group D
+2010,group,2010-06-14,ITA,PAR,1,1,62869,Benito Archundia,Mexico,"Cape Town Stadium, Cape Town",2010 FIFA World Cup Group F
+2010,group,2010-06-14,JPN,CMR,1,0,30620,Olegário Benquerença,Portugal,"Free State Stadium, Bloemfontein",2010 FIFA World Cup Group E
+2010,group,2010-06-14,NED,DEN,2,0,83465,Stéphane Lannoy,France,"Soccer City, Johannesburg",2010 FIFA World Cup Group E
+2010,group,2010-06-15,BRA,PRK,2,1,54331,Viktor Kassai,Hungary,"Ellis Park Stadium, Johannesburg",2010 FIFA World Cup Group G
+2010,group,2010-06-15,CIV,POR,0,0,37034,Jorge Larrionda,Uruguay,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup Group G
+2010,group,2010-06-15,NZL,SVK,1,1,23871,Jerome Damon,South Africa,"Royal Bafokeng Stadium, Rustenburg",2010 FIFA World Cup Group F
+2010,group,2010-06-16,ESP,SUI,0,1,62453,Howard Webb,England,"Moses Mabhida Stadium, Durban",2010 FIFA World Cup Group H
+2010,group,2010-06-16,HON,CHI,0,1,32664,Eddy Maillet,Seychelles,"Mbombela Stadium, Nelspruit",2010 FIFA World Cup Group H
+2010,group,2010-06-16,RSA,URU,0,3,42658,Massimo Busacca,Switzerland,"Loftus Versfeld Stadium, Pretoria",2010 FIFA World Cup Group A
+2010,group,2010-06-17,ARG,KOR,4,1,82174,Frank De Bleeckere,Belgium,"Soccer City, Johannesburg",2010 FIFA World Cup Group B
+2010,group,2010-06-17,FRA,MEX,0,2,35370,Khalil Al Ghamdi,Saudi Arabia,"Peter Mokaba Stadium, Polokwane",2010 FIFA World Cup Group A
+2010,group,2010-06-17,GRE,NGA,2,1,31593,Óscar Ruiz,Colombia,"Free State Stadium, Bloemfontein",2010 FIFA World Cup Group B
+2010,group,2010-06-18,ENG,ALG,0,0,64100,Ravshan Irmatov,Uzbekistan,"Cape Town Stadium, Cape Town",2010 FIFA World Cup Group C
+2010,group,2010-06-18,GER,SRB,0,1,38294,Alberto Undiano Mallenco,Spain,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup Group D
+2010,group,2010-06-18,SVN,USA,2,2,45573,Koman Coulibaly,Mali,"Ellis Park Stadium, Johannesburg",2010 FIFA World Cup Group C
+2010,group,2010-06-19,CMR,DEN,1,2,38074,Jorge Larrionda,Uruguay,"Loftus Versfeld Stadium, Pretoria",2010 FIFA World Cup Group E
+2010,group,2010-06-19,GHA,AUS,1,1,34812,Roberto Rosetti,Italy,"Royal Bafokeng Stadium, Rustenburg",2010 FIFA World Cup Group D
+2010,group,2010-06-19,NED,JPN,1,0,62010,Héctor Baldassi,Argentina,"Moses Mabhida Stadium, Durban",2010 FIFA World Cup Group E
+2010,group,2010-06-20,BRA,CIV,3,1,84455,Stéphane Lannoy,France,"Soccer City, Johannesburg",2010 FIFA World Cup Group G
+2010,group,2010-06-20,ITA,NZL,1,1,38229,Carlos Batres,Guatemala,"Mbombela Stadium, Nelspruit",2010 FIFA World Cup Group F
+2010,group,2010-06-20,SVK,PAR,0,2,26643,Eddy Maillet,Seychelles,"Free State Stadium, Bloemfontein",2010 FIFA World Cup Group F
+2010,group,2010-06-21,CHI,SUI,1,0,34872,Khalil Al Ghamdi,Saudi Arabia,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup Group H
+2010,group,2010-06-21,ESP,HON,2,0,54386,Yuichi Nishimura,Japan,"Ellis Park Stadium, Johannesburg",2010 FIFA World Cup Group H
+2010,group,2010-06-21,POR,PRK,7,0,63644,Pablo Pozo,Chile,"Cape Town Stadium, Cape Town",2010 FIFA World Cup Group G
+2010,group,2010-06-22,FRA,RSA,1,2,39415,Óscar Ruiz,Colombia,"Free State Stadium, Bloemfontein",2010 FIFA World Cup Group A
+2010,group,2010-06-22,GRE,ARG,0,2,38891,Ravshan Irmatov,Uzbekistan,"Peter Mokaba Stadium, Polokwane",2010 FIFA World Cup Group B
+2010,group,2010-06-22,MEX,URU,0,1,33425,Viktor Kassai,Hungary,"Royal Bafokeng Stadium, Rustenburg",2010 FIFA World Cup Group A
+2010,group,2010-06-22,NGA,KOR,2,2,61874,Olegário Benquerença,Portugal,"Moses Mabhida Stadium, Durban",2010 FIFA World Cup Group B
+2010,group,2010-06-23,AUS,SRB,2,1,37836,Jorge Larrionda,Uruguay,"Mbombela Stadium, Nelspruit",2010 FIFA World Cup Group D
+2010,group,2010-06-23,GHA,GER,0,1,83391,Carlos Simon,Brazil,"Soccer City, Johannesburg",2010 FIFA World Cup Group D
+2010,group,2010-06-23,SVN,ENG,0,1,36893,Wolfgang Stark,Germany,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup Group C
+2010,group,2010-06-23,USA,ALG,1,0,35827,Frank De Bleeckere,Belgium,"Loftus Versfeld Stadium, Pretoria",2010 FIFA World Cup Group C
+2010,group,2010-06-24,CMR,NED,1,2,63093,Pablo Pozo,Chile,"Cape Town Stadium, Cape Town",2010 FIFA World Cup Group E
+2010,group,2010-06-24,DEN,JPN,1,3,27967,Jerome Damon,South Africa,"Royal Bafokeng Stadium, Rustenburg",2010 FIFA World Cup Group E
+2010,group,2010-06-24,PAR,NZL,0,0,34850,Yuichi Nishimura,Japan,"Peter Mokaba Stadium, Polokwane",2010 FIFA World Cup Group F
+2010,group,2010-06-24,SVK,ITA,3,2,53412,Howard Webb,England,"Ellis Park Stadium, Johannesburg",2010 FIFA World Cup Group F
+2010,group,2010-06-25,CHI,ESP,1,2,41958,Marco Rodríguez,Mexico,"Loftus Versfeld Stadium, Pretoria",2010 FIFA World Cup Group H
+2010,group,2010-06-25,POR,BRA,0,0,62712,Benito Archundia,Mexico,"Moses Mabhida Stadium, Durban",2010 FIFA World Cup Group G
+2010,group,2010-06-25,PRK,CIV,0,3,34763,Alberto Undiano Mallenco,Spain,"Mbombela Stadium, Nelspruit",2010 FIFA World Cup Group G
+2010,group,2010-06-25,SUI,HON,0,0,28042,Héctor Baldassi,Argentina,"Free State Stadium, Bloemfontein",2010 FIFA World Cup Group H
+2010,round-of-16,2010-06-26,URU,KOR,2,1,30597,Wolfgang Stark,Germany,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup knockout stage
+2010,round-of-16,2010-06-26,USA,GHA,1,2,34976,Viktor Kassai,Hungary,"Royal Bafokeng Stadium, Rustenburg",2010 FIFA World Cup knockout stage
+2010,round-of-16,2010-06-27,ARG,MEX,3,1,84377,Roberto Rosetti,Italy,"Soccer City, Johannesburg",2010 FIFA World Cup knockout stage
+2010,round-of-16,2010-06-27,GER,ENG,4,1,40510,Jorge Larrionda,Uruguay,"Free State Stadium, Bloemfontein",2010 FIFA World Cup knockout stage
+2010,round-of-16,2010-06-28,BRA,CHI,3,0,54096,Howard Webb,England,"Ellis Park Stadium, Johannesburg",2010 FIFA World Cup knockout stage
+2010,round-of-16,2010-06-28,NED,SVK,2,1,61962,Alberto Undiano Mallenco,Spain,"Moses Mabhida Stadium, Durban",2010 FIFA World Cup knockout stage
+2010,round-of-16,2010-06-29,ESP,POR,1,0,62955,Héctor Baldassi,Argentina,"Cape Town Stadium, Cape Town",2010 FIFA World Cup knockout stage
+2010,round-of-16,2010-06-29,PAR,JPN,0,0,36742,Frank De Bleeckere,Belgium,"Loftus Versfeld Stadium, Pretoria",2010 FIFA World Cup knockout stage
+2010,quarter-final,2010-07-02,NED,BRA,2,1,40186,Yuichi Nishimura,Japan,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup knockout stage
+2010,quarter-final,2010-07-02,URU,GHA,1,1,84017,Olegário Benquerença,Portugal,"Soccer City, Johannesburg",2010 FIFA World Cup knockout stage
+2010,quarter-final,2010-07-03,ARG,GER,0,4,64100,Ravshan Irmatov,Uzbekistan,"Cape Town Stadium, Cape Town",2010 FIFA World Cup knockout stage
+2010,quarter-final,2010-07-03,PAR,ESP,0,1,55359,Carlos Batres,Guatemala,"Ellis Park Stadium, Johannesburg",2010 FIFA World Cup knockout stage
+2010,semi-final,2010-07-06,URU,NED,2,3,62479,Ravshan Irmatov,Uzbekistan,"Cape Town Stadium, Cape Town",2010 FIFA World Cup knockout stage
+2010,semi-final,2010-07-07,GER,ESP,0,1,60960,Viktor Kassai,Hungary,"Moses Mabhida Stadium, Durban",2010 FIFA World Cup knockout stage
+2010,third-place,2010-07-10,URU,GER,2,3,36254,Benito Archundia,Mexico,"Nelson Mandela Bay Stadium, Port Elizabeth",2010 FIFA World Cup knockout stage
+2010,final,2010-07-11,NED,ESP,0,1,84490,Howard Webb,England,"Soccer City, Johannesburg",2010 FIFA World Cup final
+2014,group,2014-06-12,BRA,CRO,3,1,62103,Yuichi Nishimura,Japan,"Arena de São Paulo, São Paulo",2014 FIFA World Cup Group A
+2014,group,2014-06-13,CHI,AUS,3,1,40275,Noumandiez Doué,Ivory Coast,"Arena Pantanal, Cuiabá",2014 FIFA World Cup Group B
+2014,group,2014-06-13,ESP,NED,1,5,48173,Nicola Rizzoli,Italy,"Itaipava Arena Fonte Nova, Salvador",2014 FIFA World Cup Group B
+2014,group,2014-06-13,MEX,CMR,1,0,39216,Wilmar Roldán,Colombia,"Arena das Dunas, Natal",2014 FIFA World Cup Group A
+2014,group,2014-06-14,CIV,JPN,2,1,40267,Enrique Osses,Chile,"Itaipava Arena Pernambuco, Recife",2014 FIFA World Cup Group C
+2014,group,2014-06-14,COL,GRE,3,0,57174,Mark Geiger,United States,"Estádio Mineirão, Belo Horizonte",2014 FIFA World Cup Group C
+2014,group,2014-06-14,ENG,ITA,1,2,39800,Björn Kuipers,Netherlands,"Arena da Amazônia, Manaus",2014 FIFA World Cup Group D
+2014,group,2014-06-14,URU,CRC,1,3,58679,Felix Brych,Germany,"Estádio Castelão, Fortaleza",2014 FIFA World Cup Group D
+2014,group,2014-06-15,ARG,BIH,2,1,74738,Joel Aguilar,El Salvador,"Estádio do Maracanã, Rio de Janeiro",2014 FIFA World Cup Group F
+2014,group,2014-06-15,FRA,HON,3,0,43012,Sandro Ricci,Brazil,"Estádio Beira-Rio, Porto Alegre",2014 FIFA World Cup Group E
+2014,group,2014-06-15,SUI,ECU,2,1,68351,Ravshan Irmatov,Uzbekistan,"Estádio Nacional Mané Garrincha, Brasília",2014 FIFA World Cup Group E
+2014,group,2014-06-16,GER,POR,4,0,51081,Milorad Mažić,Serbia,"Itaipava Arena Fonte Nova, Salvador",2014 FIFA World Cup Group G
+2014,group,2014-06-16,GHA,USA,1,2,39760,Jonas Eriksson,Sweden,"Arena das Dunas, Natal",2014 FIFA World Cup Group G
+2014,group,2014-06-16,IRN,NGA,0,0,39081,Carlos Vera,Ecuador,"Arena da Baixada, Curitiba",2014 FIFA World Cup Group F
+2014,group,2014-06-17,BEL,ALG,2,1,56800,Marco Rodríguez,Mexico,"Estádio Mineirão, Belo Horizonte",2014 FIFA World Cup Group H
+2014,group,2014-06-17,BRA,MEX,0,0,60342,Cüneyt Çakır,Turkey,"Estádio Castelão, Fortaleza",2014 FIFA World Cup Group A
+2014,group,2014-06-17,RUS,KOR,1,1,37603,Néstor Pitana,Argentina,"Arena Pantanal, Cuiabá",2014 FIFA World Cup Group H
+2014,group,2014-06-18,AUS,NED,2,3,42877,Djamel Haimoudi,Algeria,"Estádio Beira-Rio, Porto Alegre",2014 FIFA World Cup Group B
+2014,group,2014-06-18,CMR,CRO,0,4,39982,Pedro Proença,Portugal,"Arena da Amazônia, Manaus",2014 FIFA World Cup Group A
+2014,group,2014-06-18,ESP,CHI,0,2,74101,Mark Geiger,United States,"Estádio do Maracanã, Rio de Janeiro",2014 FIFA World Cup Group B
+2014,group,2014-06-19,COL,CIV,2,1,68748,Howard Webb,England,"Estádio Nacional Mané Garrincha, Brasília",2014 FIFA World Cup Group C
+2014,group,2014-06-19,JPN,GRE,0,0,39485,Joel Aguilar,El Salvador,"Arena das Dunas, Natal",2014 FIFA World Cup Group C
+2014,group,2014-06-19,URU,ENG,2,1,62575,Carlos Velasco Carballo,Spain,"Arena de São Paulo, São Paulo",2014 FIFA World Cup Group D
+2014,group,2014-06-20,HON,ECU,1,2,39224,Ben Williams,Australia,"Arena da Baixada, Curitiba",2014 FIFA World Cup Group E
+2014,group,2014-06-20,ITA,CRC,0,1,40285,Enrique Osses,Chile,"Itaipava Arena Pernambuco, Recife",2014 FIFA World Cup Group D
+2014,group,2014-06-20,SUI,FRA,2,5,51003,Björn Kuipers,Netherlands,"Itaipava Arena Fonte Nova, Salvador",2014 FIFA World Cup Group E
+2014,group,2014-06-21,ARG,IRN,1,0,57698,Milorad Mažić,Serbia,"Estádio Mineirão, Belo Horizonte",2014 FIFA World Cup Group F
+2014,group,2014-06-21,GER,GHA,2,2,59621,Sandro Ricci,Brazil,"Estádio Castelão, Fortaleza",2014 FIFA World Cup Group G
+2014,group,2014-06-21,NGA,BIH,1,0,40499,Peter O'Leary,New Zealand,"Arena Pantanal, Cuiabá",2014 FIFA World Cup Group F
+2014,group,2014-06-22,BEL,RUS,1,0,73819,Felix Brych,Germany,"Estádio do Maracanã, Rio de Janeiro",2014 FIFA World Cup Group H
+2014,group,2014-06-22,KOR,ALG,2,4,42732,Wilmar Roldán,Colombia,"Estádio Beira-Rio, Porto Alegre",2014 FIFA World Cup Group H
+2014,group,2014-06-22,USA,POR,2,2,40123,Néstor Pitana,Argentina,"Arena da Amazônia, Manaus",2014 FIFA World Cup Group G
+2014,group,2014-06-23,AUS,ESP,0,3,39375,Nawaf Shukralla,Bahrain,"Arena da Baixada, Curitiba",2014 FIFA World Cup Group B
+2014,group,2014-06-23,CMR,BRA,1,4,69112,Jonas Eriksson,Sweden,"Estádio Nacional Mané Garrincha, Brasília",2014 FIFA World Cup Group A
+2014,group,2014-06-23,CRO,MEX,1,3,41212,Ravshan Irmatov,Uzbekistan,"Itaipava Arena Pernambuco, Recife",2014 FIFA World Cup Group A
+2014,group,2014-06-23,NED,CHI,2,0,62996,Bakary Gassama,Gambia,"Arena de São Paulo, São Paulo",2014 FIFA World Cup Group B
+2014,group,2014-06-24,CRC,ENG,0,0,57823,Djamel Haimoudi,Algeria,"Estádio Mineirão, Belo Horizonte",2014 FIFA World Cup Group D
+2014,group,2014-06-24,GRE,CIV,2,1,59095,Carlos Vera,Ecuador,"Estádio Castelão, Fortaleza",2014 FIFA World Cup Group C
+2014,group,2014-06-24,ITA,URU,0,1,39706,Marco Rodríguez,Mexico,"Arena das Dunas, Natal",2014 FIFA World Cup Group D
+2014,group,2014-06-24,JPN,COL,1,4,40340,Pedro Proença,Portugal,"Arena Pantanal, Cuiabá",2014 FIFA World Cup Group C
+2014,group,2014-06-25,BIH,IRN,3,1,48011,Carlos Velasco Carballo,Spain,"Itaipava Arena Fonte Nova, Salvador",2014 FIFA World Cup Group F
+2014,group,2014-06-25,ECU,FRA,0,0,73749,Noumandiez Doué,Ivory Coast,"Estádio do Maracanã, Rio de Janeiro",2014 FIFA World Cup Group E
+2014,group,2014-06-25,HON,SUI,0,3,40322,Néstor Pitana,Argentina,"Arena da Amazônia, Manaus",2014 FIFA World Cup Group E
+2014,group,2014-06-25,NGA,ARG,2,3,43285,Nicola Rizzoli,Italy,"Estádio Beira-Rio, Porto Alegre",2014 FIFA World Cup Group F
+2014,group,2014-06-26,ALG,RUS,1,1,39311,Cüneyt Çakır,Turkey,"Arena da Baixada, Curitiba",2014 FIFA World Cup Group H
+2014,group,2014-06-26,KOR,BEL,0,1,61397,Ben Williams,Australia,"Arena de São Paulo, São Paulo",2014 FIFA World Cup Group H
+2014,group,2014-06-26,POR,GHA,2,1,67540,Nawaf Shukralla,Bahrain,"Estádio Nacional Mané Garrincha, Brasília",2014 FIFA World Cup Group G
+2014,group,2014-06-26,USA,GER,0,1,41876,Ravshan Irmatov,Uzbekistan,"Itaipava Arena Pernambuco, Recife",2014 FIFA World Cup Group G
+2014,round-of-16,2014-06-28,BRA,CHI,1,1,57714,Howard Webb,England,"Estádio Mineirão, Belo Horizonte",2014 FIFA World Cup knockout stage
+2014,round-of-16,2014-06-28,COL,URU,2,0,73804,Björn Kuipers,Netherlands,"Estádio do Maracanã, Rio de Janeiro",2014 FIFA World Cup knockout stage
+2014,round-of-16,2014-06-29,CRC,GRE,1,1,41242,Ben Williams,Australia,"Itaipava Arena Pernambuco, Recife",2014 FIFA World Cup knockout stage
+2014,round-of-16,2014-06-29,NED,MEX,2,1,58817,Pedro Proença,Portugal,"Estádio Castelão, Fortaleza",2014 FIFA World Cup knockout stage
+2014,round-of-16,2014-06-30,FRA,NGA,2,0,67882,Mark Geiger,United States,"Estádio Nacional Mané Garrincha, Brasília",2014 FIFA World Cup knockout stage
+2014,round-of-16,2014-06-30,GER,ALG,2,1,43063,Sandro Ricci,Brazil,"Estádio Beira-Rio, Porto Alegre",2014 FIFA World Cup knockout stage
+2014,round-of-16,2014-07-01,ARG,SUI,1,0,63255,Jonas Eriksson,Sweden,"Arena Corinthians, São Paulo",2014 FIFA World Cup knockout stage
+2014,round-of-16,2014-07-01,BEL,USA,2,1,51227,Djamel Haimoudi,Algeria,"Itaipava Arena Fonte Nova, Salvador",2014 FIFA World Cup knockout stage
+2014,quarter-final,2014-07-04,BRA,COL,2,1,60342,Carlos Velasco Carballo,Spain,"Estádio Castelão, Fortaleza",2014 FIFA World Cup knockout stage
+2014,quarter-final,2014-07-04,FRA,GER,0,1,74240,Néstor Pitana,Argentina,"Estádio do Maracanã, Rio de Janeiro",2014 FIFA World Cup knockout stage
+2014,quarter-final,2014-07-05,ARG,BEL,1,0,68551,Nicola Rizzoli,Italy,"Estádio Nacional Mané Garrincha, Brasília",2014 FIFA World Cup knockout stage
+2014,quarter-final,2014-07-05,NED,CRC,0,0,51179,Ravshan Irmatov,Uzbekistan,"Itaipava Arena Fonte Nova, Salvador",2014 FIFA World Cup knockout stage
+2014,semi-final,2014-07-08,BRA,GER,1,7,58141,Marco Antonio Rodríguez,Mexico,"Estádio Mineirão, Belo Horizonte",Brazil v Germany (2014 FIFA World Cup)
+2014,semi-final,2014-07-09,NED,ARG,0,0,63267,Cüneyt Çakır,Turkey,"Arena Corinthians, São Paulo",2014 FIFA World Cup knockout stage
+2014,third-place,2014-07-12,BRA,NED,0,3,68034,Djamel Haimoudi,Algeria,"Estádio Nacional Mané Garrincha, Brasília",2014 FIFA World Cup knockout stage
+2014,final,2014-07-13,GER,ARG,1,0,74738,Nicola Rizzoli,Italy,"Maracanã Stadium, Rio de Janeiro",2014 FIFA World Cup final
+2018,group,2018-06-14,RUS,KSA,5,0,78011,Néstor Pitana,Argentina,"Luzhniki Stadium, Moscow",2018 FIFA World Cup Group A
+2018,group,2018-06-15,EGY,URU,0,1,27015,Björn Kuipers,Netherlands,"Central Stadium, Yekaterinburg",2018 FIFA World Cup Group A
+2018,group,2018-06-15,MAR,IRN,0,1,62548,Cüneyt Çakır,Turkey,"Krestovsky Stadium, Saint Petersburg",2018 FIFA World Cup Group B
+2018,group,2018-06-15,POR,ESP,3,3,43866,Gianluca Rocchi,Italy,"Fisht Olympic Stadium, Sochi",2018 FIFA World Cup Group B
+2018,group,2018-06-16,ARG,ISL,1,1,44190,Szymon Marciniak,Poland,"Otkritie Arena, Moscow",2018 FIFA World Cup Group D
+2018,group,2018-06-16,CRO,NGA,2,0,31136,Sandro Ricci,Brazil,"Kaliningrad Stadium, Kaliningrad",2018 FIFA World Cup Group D
+2018,group,2018-06-16,FRA,AUS,2,1,41279,Andrés Cunha,Uruguay,"Kazan Arena, Kazan",2018 FIFA World Cup Group C
+2018,group,2018-06-16,PER,DEN,0,1,40502,Bakary Gassama,Gambia,"Mordovia Arena, Saransk",2018 FIFA World Cup Group C
+2018,group,2018-06-17,BRA,SUI,1,1,43109,César Arturo Ramos,Mexico,"Rostov Arena, Rostov-on-Don",2018 FIFA World Cup Group E
+2018,group,2018-06-17,CRC,SRB,0,1,41432,Malang Diedhiou,Senegal,"Cosmos Arena, Samara",2018 FIFA World Cup Group E
+2018,group,2018-06-17,GER,MEX,0,1,78011,Alireza Faghani,Iran,"Luzhniki Stadium, Moscow",2018 FIFA World Cup Group F
+2018,group,2018-06-18,BEL,PAN,3,0,43257,Janny Sikazwe,Zambia,"Fisht Olympic Stadium, Sochi",2018 FIFA World Cup Group G
+2018,group,2018-06-18,SWE,KOR,1,0,42300,Joel Aguilar,El Salvador,"Nizhny Novgorod Stadium, Nizhny Novgorod",2018 FIFA World Cup Group F
+2018,group,2018-06-18,TUN,ENG,1,2,41064,Wilmar Roldán,Colombia,"Volgograd Arena, Volgograd",2018 FIFA World Cup Group G
+2018,group,2018-06-19,COL,JPN,1,2,40842,Damir Skomina,Slovenia,"Mordovia Arena, Saransk",2018 FIFA World Cup Group H
+2018,group,2018-06-19,POL,SEN,1,2,44190,Nawaf Shukralla,Bahrain,"Otkritie Arena, Moscow",2018 FIFA World Cup Group H
+2018,group,2018-06-19,RUS,EGY,3,1,64468,Enrique Cáceres,Paraguay,"Krestovsky Stadium, Saint Petersburg",2018 FIFA World Cup Group A
+2018,group,2018-06-20,IRN,ESP,0,1,42718,Andrés Cunha,Uruguay,"Kazan Arena, Kazan",2018 FIFA World Cup Group B
+2018,group,2018-06-20,POR,MAR,1,0,78011,Mark Geiger,United States,"Luzhniki Stadium, Moscow",2018 FIFA World Cup Group B
+2018,group,2018-06-20,URU,KSA,1,0,42678,Clément Turpin,France,"Rostov Arena, Rostov-on-Don",2018 FIFA World Cup Group A
+2018,group,2018-06-21,ARG,CRO,0,3,43319,Ravshan Irmatov,Uzbekistan,"Nizhny Novgorod Stadium, Nizhny Novgorod",2018 FIFA World Cup Group D
+2018,group,2018-06-21,DEN,AUS,1,1,40727,Antonio Mateu Lahoz,Spain,"Cosmos Arena, Samara",2018 FIFA World Cup Group C
+2018,group,2018-06-21,FRA,PER,1,0,32789,Mohammed Abdulla Hassan Mohamed,United Arab Emirates,"Central Stadium, Yekaterinburg",2018 FIFA World Cup Group C
+2018,group,2018-06-22,BRA,CRC,2,0,64468,Björn Kuipers,Netherlands,"Krestovsky Stadium, Saint Petersburg",2018 FIFA World Cup Group E
+2018,group,2018-06-22,NGA,ISL,2,0,40904,Matthew Conger,New Zealand,"Volgograd Arena, Volgograd",2018 FIFA World Cup Group D
+2018,group,2018-06-22,SRB,SUI,1,2,33167,Felix Brych,Germany,"Kaliningrad Stadium, Kaliningrad",2018 FIFA World Cup Group E
+2018,group,2018-06-23,BEL,TUN,5,2,44190,Jair Marrufo,United States,"Otkritie Arena, Moscow",2018 FIFA World Cup Group G
+2018,group,2018-06-23,GER,SWE,2,1,44287,Szymon Marciniak,Poland,"Fisht Olympic Stadium, Sochi",2018 FIFA World Cup Group F
+2018,group,2018-06-23,KOR,MEX,1,2,43472,Milorad Mažić,Serbia,"Rostov Arena, Rostov-on-Don",2018 FIFA World Cup Group F
+2018,group,2018-06-24,ENG,PAN,6,1,43319,Gehad Grisha,Egypt,"Nizhny Novgorod Stadium, Nizhny Novgorod",2018 FIFA World Cup Group G
+2018,group,2018-06-24,JPN,SEN,2,2,32572,Gianluca Rocchi,Italy,"Central Stadium, Yekaterinburg",2018 FIFA World Cup Group H
+2018,group,2018-06-24,POL,COL,0,3,42873,César Arturo Ramos,Mexico,"Kazan Arena, Kazan",2018 FIFA World Cup Group H
+2018,group,2018-06-25,ESP,MAR,2,2,33973,Ravshan Irmatov,Uzbekistan,"Kaliningrad Stadium, Kaliningrad",2018 FIFA World Cup Group B
+2018,group,2018-06-25,IRN,POR,1,1,41685,Enrique Cáceres,Paraguay,"Mordovia Arena, Saransk",2018 FIFA World Cup Group B
+2018,group,2018-06-25,KSA,EGY,2,1,36823,Wilmar Roldán,Colombia,"Volgograd Arena, Volgograd",2018 FIFA World Cup Group A
+2018,group,2018-06-25,URU,RUS,3,0,41970,Malang Diedhiou,Senegal,"Cosmos Arena, Samara",2018 FIFA World Cup Group A
+2018,group,2018-06-26,AUS,PER,0,2,44073,Sergei Karasev,Russia,"Fisht Olympic Stadium, Sochi",2018 FIFA World Cup Group C
+2018,group,2018-06-26,DEN,FRA,0,0,78011,Sandro Ricci,Brazil,"Luzhniki Stadium, Moscow",2018 FIFA World Cup Group C
+2018,group,2018-06-26,ISL,CRO,1,2,43472,Antonio Mateu Lahoz,Spain,"Rostov Arena, Rostov-on-Don",2018 FIFA World Cup Group D
+2018,group,2018-06-26,NGA,ARG,1,2,64468,Cüneyt Çakır,Turkey,"Krestovsky Stadium, Saint Petersburg",2018 FIFA World Cup Group D
+2018,group,2018-06-27,KOR,GER,2,0,41835,Mark Geiger,United States,"Kazan Arena, Kazan",2018 FIFA World Cup Group F
+2018,group,2018-06-27,MEX,SWE,0,3,33061,Néstor Pitana,Argentina,"Central Stadium, Yekaterinburg",2018 FIFA World Cup Group F
+2018,group,2018-06-27,SRB,BRA,0,2,44190,Alireza Faghani,Iran,"Otkritie Arena, Moscow",2018 FIFA World Cup Group E
+2018,group,2018-06-27,SUI,CRC,2,2,43319,Clément Turpin,France,"Nizhny Novgorod Stadium, Nizhny Novgorod",2018 FIFA World Cup Group E
+2018,group,2018-06-28,ENG,BEL,0,1,33973,Damir Skomina,Slovenia,"Kaliningrad Stadium, Kaliningrad",2018 FIFA World Cup Group G
+2018,group,2018-06-28,JPN,POL,0,1,42189,Janny Sikazwe,Zambia,"Volgograd Arena, Volgograd",2018 FIFA World Cup Group H
+2018,group,2018-06-28,PAN,TUN,1,2,37168,Nawaf Shukralla,Bahrain,"Mordovia Arena, Saransk",2018 FIFA World Cup Group G
+2018,group,2018-06-28,SEN,COL,0,1,41970,Milorad Mažić,Serbia,"Cosmos Arena, Samara",2018 FIFA World Cup Group H
+2018,round-of-16,2018-06-30,FRA,ARG,4,3,42873,Alireza Faghani,Iran,"Kazan Arena, Kazan",2018 FIFA World Cup knockout stage
+2018,round-of-16,2018-06-30,URU,POR,2,1,44287,César Arturo Ramos,Mexico,"Fisht Olympic Stadium, Sochi",2018 FIFA World Cup knockout stage
+2018,round-of-16,2018-07-01,CRO,DEN,1,1,40851,Néstor Pitana,Argentina,"Nizhny Novgorod Stadium, Nizhny Novgorod",2018 FIFA World Cup knockout stage
+2018,round-of-16,2018-07-01,ESP,RUS,1,1,78011,Björn Kuipers,Netherlands,"Luzhniki Stadium, Moscow",2018 FIFA World Cup knockout stage
+2018,round-of-16,2018-07-02,BEL,JPN,3,2,41466,Malang Diedhiou,Senegal,"Rostov Arena, Rostov-on-Don",2018 FIFA World Cup knockout stage
+2018,round-of-16,2018-07-02,BRA,MEX,2,0,41970,Gianluca Rocchi,Italy,"Cosmos Arena, Samara",2018 FIFA World Cup knockout stage
+2018,round-of-16,2018-07-03,COL,ENG,1,1,44190,Mark Geiger,United States,"Otkritie Arena, Moscow",2018 FIFA World Cup knockout stage
+2018,round-of-16,2018-07-03,SWE,SUI,1,0,64042,Damir Skomina,Slovenia,"Krestovsky Stadium, Saint Petersburg",2018 FIFA World Cup knockout stage
+2018,quarter-final,2018-07-06,BRA,BEL,1,2,42873,Milorad Mažić,Serbia,"Kazan Arena, Kazan",2018 FIFA World Cup knockout stage
+2018,quarter-final,2018-07-06,URU,FRA,0,2,43319,Néstor Pitana,Argentina,"Nizhny Novgorod Stadium, Nizhny Novgorod",2018 FIFA World Cup knockout stage
+2018,quarter-final,2018-07-07,RUS,CRO,2,2,44287,Sandro Ricci,Brazil,"Fisht Olympic Stadium, Sochi",2018 FIFA World Cup knockout stage
+2018,quarter-final,2018-07-07,SWE,ENG,0,2,39991,Björn Kuipers,Netherlands,"Cosmos Arena, Samara",2018 FIFA World Cup knockout stage
+2018,semi-final,2018-07-10,FRA,BEL,1,0,64286,Andrés Cunha,Uruguay,"Krestovsky Stadium, Saint Petersburg",2018 FIFA World Cup knockout stage
+2018,semi-final,2018-07-11,CRO,ENG,2,1,78011,Cüneyt Çakır,Turkey,"Luzhniki Stadium, Moscow",2018 FIFA World Cup knockout stage
+2018,third-place,2018-07-14,BEL,ENG,2,0,64406,Alireza Faghani,Iran,"Krestovsky Stadium, Saint Petersburg",2018 FIFA World Cup knockout stage
+2018,final,2018-07-15,FRA,CRO,4,2,78011,Néstor Pitana,Argentina,"Luzhniki Stadium, Moscow",2018 FIFA World Cup final
+2022,group,2022-11-20,QAT,ECU,0,2,67372,Daniele Orsato,Italy,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup Group A
+2022,group,2022-11-21,ENG,IRN,6,2,45334,Raphael Claus,Brazil,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup Group B
+2022,group,2022-11-21,SEN,NED,0,2,41721,Wilton Sampaio,Brazil,"Al Thumama Stadium, Doha",2022 FIFA World Cup Group A
+2022,group,2022-11-21,USA,WAL,1,1,43418,Abdulrahman Al-Jassim,Qatar,"Ahmad bin Ali Stadium, Al Rayyan",2022 FIFA World Cup Group B
+2022,group,2022-11-22,ARG,KSA,1,2,88012,Slavko Vinčić,Slovenia,"Lusail Stadium, Lusail",2022 FIFA World Cup Group C
+2022,group,2022-11-22,DEN,TUN,0,0,42925,César Arturo Ramos,Mexico,"Education City Stadium, Al Rayyan",2022 FIFA World Cup Group D
+2022,group,2022-11-22,FRA,AUS,4,1,40875,Victor Gomes,South Africa,"Al Janoub Stadium, Al Wakrah",2022 FIFA World Cup Group D
+2022,group,2022-11-22,MEX,POL,0,0,39369,Chris Beath,Australia,"Stadium 974, Doha",2022 FIFA World Cup Group C
+2022,group,2022-11-23,BEL,CAN,1,0,40432,Janny Sikazwe,Zambia,"Ahmad bin Ali Stadium, Al Rayyan",2022 FIFA World Cup Group F
+2022,group,2022-11-23,GER,JPN,1,2,42608,Iván Barton,El Salvador,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup Group E
+2022,group,2022-11-23,MAR,CRO,0,0,59407,Fernando Rapallini,Argentina,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup Group F
+2022,group,2022-11-23,SPA,CRC,7,0,40013,Mohammed Abdulla Hassan Mohamed,United Arab Emirates,"Al Thumama Stadium, Doha",2022 FIFA World Cup Group E
+2022,group,2022-11-24,BRA,SRB,2,0,88103,Alireza Faghani,Iran,"Lusail Stadium, Lusail",2022 FIFA World Cup Group G
+2022,group,2022-11-24,POR,GHA,3,2,42662,Ismail Elfath,United States,"Stadium 974, Doha",2022 FIFA World Cup Group H
+2022,group,2022-11-24,SUI,CMR,1,0,39089,Facundo Tello,Argentina,"Al Janoub Stadium, Al Wakrah",2022 FIFA World Cup Group G
+2022,group,2022-11-24,URU,KOR,0,0,41663,Clément Turpin,France,"Education City Stadium, Al Rayyan",2022 FIFA World Cup Group H
+2022,group,2022-11-25,ENG,USA,0,0,68463,Jesús Valenzuela,Venezuela,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup Group B
+2022,group,2022-11-25,NED,ECU,1,1,44833,Mustapha Ghorbal,Algeria,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup Group A
+2022,group,2022-11-25,QAT,SEN,1,3,41797,Antonio Mateu Lahoz,Spain,"Al Thumama Stadium, Doha",2022 FIFA World Cup Group A
+2022,group,2022-11-25,WAL,IRN,0,2,40875,Mario Escobar,Guatemala,"Ahmad bin Ali Stadium, Al Rayyan",2022 FIFA World Cup Group B
+2022,group,2022-11-26,ARG,MEX,2,0,88966,Daniele Orsato,Italy,"Lusail Stadium, Lusail",2022 FIFA World Cup Group C
+2022,group,2022-11-26,FRA,DEN,2,1,42860,Szymon Marciniak,Poland,"Stadium 974, Doha",2022 FIFA World Cup Group D
+2022,group,2022-11-26,POL,KSA,2,0,44259,Wilton Sampaio,Brazil,"Education City Stadium, Al Rayyan",2022 FIFA World Cup Group C
+2022,group,2022-11-26,TUN,AUS,0,1,41823,Daniel Siebert,Germany,"Al Janoub Stadium, Al Wakrah",2022 FIFA World Cup Group D
+2022,group,2022-11-27,BEL,MAR,0,2,43738,César Arturo Ramos,Mexico,"Al Thumama Stadium, Doha",2022 FIFA World Cup Group F
+2022,group,2022-11-27,CRO,CAN,4,1,44374,Andrés Matonte,Uruguay,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup Group F
+2022,group,2022-11-27,JPN,CRC,0,1,41479,Michael Oliver,England,"Ahmad bin Ali Stadium, Al Rayyan",2022 FIFA World Cup Group E
+2022,group,2022-11-27,SPA,GER,1,1,68895,Danny Makkelie,Netherlands,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup Group E
+2022,group,2022-11-28,BRA,SUI,1,0,43649,Iván Barton,El Salvador,"Stadium 974, Doha",2022 FIFA World Cup Group G
+2022,group,2022-11-28,CMR,SRB,3,3,39789,Mohammed Abdulla Hassan Mohamed,United Arab Emirates,"Al Janoub Stadium, Al Wakrah",2022 FIFA World Cup Group G
+2022,group,2022-11-28,KOR,GHA,2,3,43983,Anthony Taylor,England,"Education City Stadium, Al Rayyan",2022 FIFA World Cup Group H
+2022,group,2022-11-28,POR,URU,2,0,88668,Alireza Faghani,Iran,"Lusail Stadium, Lusail",2022 FIFA World Cup Group H
+2022,group,2022-11-29,ECU,SEN,1,2,44569,Clément Turpin,France,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup Group A
+2022,group,2022-11-29,IRN,USA,0,1,42127,Antonio Mateu Lahoz,Spain,"Al Thumama Stadium, Doha",2022 FIFA World Cup Group B
+2022,group,2022-11-29,NED,QAT,2,0,66784,Bakary Gassama,Gambia,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup Group A
+2022,group,2022-11-29,WAL,ENG,0,3,44297,Slavko Vinčić,Slovenia,"Ahmad bin Ali Stadium, Al Rayyan",2022 FIFA World Cup Group B
+2022,group,2022-11-30,AUS,DEN,1,0,41232,Mustapha Ghorbal,Algeria,"Al Janoub Stadium, Al Wakrah",2022 FIFA World Cup Group D
+2022,group,2022-11-30,KSA,MEX,1,2,84985,Michael Oliver,England,"Lusail Stadium, Lusail",2022 FIFA World Cup Group C
+2022,group,2022-11-30,POL,ARG,0,2,44089,Danny Makkelie,Netherlands,"Stadium 974, Doha",2022 FIFA World Cup Group C
+2022,group,2022-11-30,TUN,FRA,1,0,43627,Matthew Conger,New Zealand,"Education City Stadium, Al Rayyan",2022 FIFA World Cup Group D
+2022,group,2022-12-01,CAN,MAR,1,2,43102,Raphael Claus,Brazil,"Al Thumama Stadium, Doha",2022 FIFA World Cup Group F
+2022,group,2022-12-01,CRC,GER,2,4,67054,Stéphanie Frappart,France,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup Group E
+2022,group,2022-12-01,CRO,BEL,0,0,43984,Anthony Taylor,England,"Ahmad bin Ali Stadium, Al Rayyan",2022 FIFA World Cup Group F
+2022,group,2022-12-01,JPN,SPA,2,1,44851,Victor Gomes,South Africa,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup Group E
+2022,group,2022-12-02,CMR,BRA,1,0,85986,Ismail Elfath,United States,"Lusail Stadium, Lusail",2022 FIFA World Cup Group G
+2022,group,2022-12-02,GHA,URU,0,2,43443,Daniel Siebert,Germany,"Al Janoub Stadium, Al Wakrah",2022 FIFA World Cup Group H
+2022,group,2022-12-02,KOR,POR,2,1,44097,Facundo Tello,Argentina,"Education City Stadium, Al Rayyan",2022 FIFA World Cup Group H
+2022,group,2022-12-02,SRB,SUI,2,3,41378,Fernando Rapallini,Argentina,"Stadium 974, Doha",2022 FIFA World Cup Group G
+2022,round-of-16,2022-12-03,ARG,AUS,2,1,45032,Szymon Marciniak,Poland,"Ahmad bin Ali Stadium, Al Rayyan",2022 FIFA World Cup knockout stage
+2022,round-of-16,2022-12-03,NED,USA,3,1,44846,Wilton Sampaio,Brazil,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup knockout stage
+2022,round-of-16,2022-12-04,ENG,SEN,3,0,65985,Iván Barton,El Salvador,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup knockout stage
+2022,round-of-16,2022-12-04,FRA,POL,3,1,40989,Jesús Valenzuela,Venezuela,"Al Thumama Stadium, Doha",2022 FIFA World Cup knockout stage
+2022,round-of-16,2022-12-05,BRA,KOR,4,1,43847,Clément Turpin,France,"Stadium 974, Doha",2022 FIFA World Cup knockout stage
+2022,round-of-16,2022-12-05,JPN,CRO,1,1,42523,Ismail Elfath,United States,"Al Janoub Stadium, Al Wakrah",2022 FIFA World Cup knockout stage
+2022,round-of-16,2022-12-06,MAR,ESP,0,0,44667,Fernando Rapallini,Argentina,"Education City Stadium, Al Rayyan",2022 FIFA World Cup knockout stage
+2022,round-of-16,2022-12-06,POR,SUI,6,1,83720,César Arturo Ramos,Mexico,"Lusail Stadium, Lusail",2022 FIFA World Cup knockout stage
+2022,quarter-final,2022-12-09,CRO,BRA,1,1,43893,Michael Oliver,England,"Education City Stadium, Al Rayyan",2022 FIFA World Cup knockout stage
+2022,quarter-final,2022-12-09,NED,ARG,2,2,88235,Antonio Mateu Lahoz,Spain,"Lusail Stadium, Lusail",Battle of Lusail
+2022,quarter-final,2022-12-10,ENG,FRA,1,2,68895,Wilton Sampaio,Brazil,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup knockout stage
+2022,quarter-final,2022-12-10,MAR,POR,1,0,44198,Facundo Tello,Argentina,"Al Thumama Stadium, Doha",2022 FIFA World Cup knockout stage
+2022,semi-final,2022-12-13,ARG,CRO,3,0,88966,Daniele Orsato,Italy,"Lusail Stadium, Lusail",2022 FIFA World Cup knockout stage
+2022,semi-final,2022-12-14,FRA,MAR,2,0,68294,César Arturo Ramos,Mexico,"Al Bayt Stadium, Al Khor",2022 FIFA World Cup knockout stage
+2022,third-place,2022-12-17,CRO,MAR,2,1,44137,Abdulrahman Al-Jassim,Qatar,"Khalifa International Stadium, Al Rayyan",2022 FIFA World Cup knockout stage
+2022,final,2022-12-18,ARG,FRA,3,3,88966,Szymon Marciniak,Poland,"Lusail Stadium, Lusail",2022 FIFA World Cup final
+2026,group,2026-06-11,KOR,CZE,2,1,44985,Amin Omar,Egypt,"Estadio Akron, Zapopan",2026 FIFA World Cup Group A
+2026,group,2026-06-11,MEX,RSA,2,0,80824,Wilton Sampaio,Brazil,"Estadio Azteca, Mexico City",2026 FIFA World Cup Group A
+2026,group,2026-06-12,CAN,BIH,1,1,43002,Facundo Tello,Argentina,"BMO Field, Toronto",2026 FIFA World Cup Group B
+2026,group,2026-06-12,USA,PAR,4,1,70492,Danny Makkelie,Netherlands,"SoFi Stadium, Inglewood",2026 FIFA World Cup Group D
+2026,group,2026-06-13,AUS,TUR,2,0,52497,Jesús Valenzuela,Venezuela,"BC Place, Vancouver",2026 FIFA World Cup Group D
+2026,group,2026-06-13,BRA,MAR,1,1,80663,Slavko Vinčić,Slovenia,"MetLife Stadium, East Rutherford",2026 FIFA World Cup Group C
+2026,group,2026-06-13,HAI,SCO,0,1,64146,Mustapha Ghorbal,Algeria,"Gillette Stadium, Foxborough",2026 FIFA World Cup Group C
+2026,group,2026-06-13,QAT,SUI,1,1,67966,Saíd Martínez,Honduras,"Levi's Stadium, Santa Clara",2026 FIFA World Cup Group B
+2026,group,2026-06-14,CIV,ECU,1,0,68274,François Letexier,France,"Lincoln Financial Field, Philadelphia",2026 FIFA World Cup Group E
+2026,group,2026-06-14,GER,CUW,7,1,68021,Jalal Jayed,Morocco,"NRG Stadium, Houston",2026 FIFA World Cup Group E
+2026,group,2026-06-14,NED,JPN,2,2,69285,Ismail Elfath,United States,"AT&T Stadium, Arlington",2026 FIFA World Cup Group F
+2026,group,2026-06-14,SWE,TUN,5,1,50987,Yael Falcón,Argentina,"Estadio BBVA, Guadalupe",2026 FIFA World Cup Group F
+2026,group,2026-06-15,BEL,EGY,1,1,66775,Ramon Abatti,Brazil,"Lumen Field, Seattle",2026 FIFA World Cup Group G
+2026,group,2026-06-15,ESP,CPV,0,0,67640,Adham Makhadmeh,Jordan,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup Group H
+2026,group,2026-06-15,IRN,NZL,2,2,70108,César Arturo Ramos,Mexico,"SoFi Stadium, Inglewood",2026 FIFA World Cup Group G
+2026,group,2026-06-15,KSA,URU,1,1,62764,Maurizio Mariani,Italy,"Hard Rock Stadium, Miami Gardens",2026 FIFA World Cup Group H
+2026,group,2026-06-16,ARG,ALG,3,0,69045,Szymon Marciniak,Poland,"Arrowhead Stadium, Kansas City",2026 FIFA World Cup Group J
+2026,group,2026-06-16,AUT,JOR,3,1,68527,Dahane Beida,Mauritania,"Levi's Stadium, Santa Clara",2026 FIFA World Cup Group J
+2026,group,2026-06-16,FRA,SEN,3,1,80545,Alireza Faghani,Australia,"MetLife Stadium, East Rutherford",2026 FIFA World Cup Group I
+2026,group,2026-06-16,IRQ,NOR,1,4,63106,Pierre Atcho,Gabon,"Gillette Stadium, Foxborough",2026 FIFA World Cup Group I
+2026,group,2026-06-17,ENG,CRO,4,2,70389,Clément Turpin,France,"AT&T Stadium, Arlington",2026 FIFA World Cup Group L
+2026,group,2026-06-17,GHA,PAN,1,0,42942,Glenn Nyberg,Sweden,"BMO Field, Toronto",2026 FIFA World Cup Group L
+2026,group,2026-06-17,POR,COD,1,1,68777,Abdulrahman Al-Jassim,Qatar,"NRG Stadium, Houston",2026 FIFA World Cup Group K
+2026,group,2026-06-17,UZB,COL,1,3,80824,Anthony Taylor,England,"Estadio Azteca, Mexico City",2026 FIFA World Cup Group K
+2026,group,2026-06-18,CAN,QAT,6,0,52497,Cristián Garay,Chile,"BC Place, Vancouver",2026 FIFA World Cup Group B
+2026,group,2026-06-18,CZE,RSA,1,1,67442,Tori Penso,United States,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup Group A
+2026,group,2026-06-18,MEX,KOR,1,0,45522,Gustavo Tejera,Uruguay,"Estadio Akron, Zapopan",2026 FIFA World Cup Group A
+2026,group,2026-06-18,SUI,BIH,4,1,70026,João Pinheiro,Portugal,"SoFi Stadium, Inglewood",2026 FIFA World Cup Group B
+2026,group,2026-06-19,BRA,HAI,3,0,68324,Alejandro Hernández Hernández,Spain,"Lincoln Financial Field, Philadelphia",2026 FIFA World Cup Group C
+2026,group,2026-06-19,SCO,MAR,0,1,64146,Ilgiz Tantashev,Uzbekistan,"Gillette Stadium, Foxborough",2026 FIFA World Cup Group C
+2026,group,2026-06-19,TUR,PAR,0,1,68827,Iván Barton,El Salvador,"Levi's Stadium, Santa Clara",2026 FIFA World Cup Group D
+2026,group,2026-06-19,USA,AUS,2,0,66925,Felix Zwayer,Germany,"Lumen Field, Seattle",2026 FIFA World Cup Group D
+2026,group,2026-06-20,ECU,CUW,0,0,68598,Ma Ning,China,"Arrowhead Stadium, Kansas City",2026 FIFA World Cup Group E
+2026,group,2026-06-20,GER,CIV,2,1,43036,Juan Gabriel Benítez,Paraguay,"BMO Field, Toronto",2026 FIFA World Cup Group E
+2026,group,2026-06-20,NED,SWE,5,1,68777,Michael Oliver,England,"NRG Stadium, Houston",2026 FIFA World Cup Group F
+2026,group,2026-06-20,TUN,JPN,0,4,51243,István Kovács,Romania,"Estadio BBVA, Guadalupe",2026 FIFA World Cup Group F
+2026,group,2026-06-21,BEL,IRN,0,0,70317,Darío Herrera,Argentina,"SoFi Stadium, Inglewood",2026 FIFA World Cup Group G
+2026,group,2026-06-21,ESP,KSA,4,0,68239,Raphael Claus,Brazil,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup Group H
+2026,group,2026-06-21,NZL,EGY,1,3,52497,Omar Al Ali,United Arab Emirates,"BC Place, Vancouver",2026 FIFA World Cup Group G
+2026,group,2026-06-21,URU,CPV,2,2,64003,Espen Eskås,Norway,"Hard Rock Stadium, Miami Gardens",2026 FIFA World Cup Group H
+2026,group,2026-06-22,ARG,AUT,2,0,70649,Amin Omar,Egypt,"AT&T Stadium, Arlington",2026 FIFA World Cup Group J
+2026,group,2026-06-22,FRA,IRQ,3,0,68324,Drew Fischer,Canada,"Lincoln Financial Field, Philadelphia",2026 FIFA World Cup Group I
+2026,group,2026-06-22,JOR,ALG,1,2,68371,Slavko Vinčić,Slovenia,"Levi's Stadium, Santa Clara",2026 FIFA World Cup Group J
+2026,group,2026-06-22,NOR,SEN,3,2,80663,Wilton Sampaio,Brazil,"MetLife Stadium, East Rutherford",2026 FIFA World Cup Group I
+2026,group,2026-06-23,COL,COD,1,0,45358,Maurizio Mariani,Italy,"Estadio Akron, Zapopan",2026 FIFA World Cup Group K
+2026,group,2026-06-23,ENG,GHA,0,0,63983,Saíd Martínez,Honduras,"Gillette Stadium, Foxborough",2026 FIFA World Cup Group L
+2026,group,2026-06-23,PAN,CRO,0,1,43036,Pierre Atcho,Gabon,"BMO Field, Toronto",2026 FIFA World Cup Group L
+2026,group,2026-06-23,POR,UZB,5,0,68777,Jalal Jayed,Morocco,"NRG Stadium, Houston",2026 FIFA World Cup Group K
+2026,group,2026-06-24,BIH,QAT,3,1,66925,Jesús Valenzuela,Venezuela,"Lumen Field, Seattle",2026 FIFA World Cup Group B
+2026,group,2026-06-24,CZE,MEX,0,3,80824,Yael Falcón,Argentina,"Estadio Azteca, Mexico City",2026 FIFA World Cup Group A
+2026,group,2026-06-24,MAR,HAI,4,2,68239,Danny Makkelie,Netherlands,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup Group C
+2026,group,2026-06-24,RSA,KOR,1,0,51243,Facundo Tello,Argentina,"Estadio BBVA, Guadalupe",2026 FIFA World Cup Group A
+2026,group,2026-06-24,SCO,BRA,0,3,64478,César Arturo Ramos,Mexico,"Hard Rock Stadium, Miami Gardens",2026 FIFA World Cup Group C
+2026,group,2026-06-24,SUI,CAN,2,1,52497,Ramon Abatti,Brazil,"BC Place, Vancouver",2026 FIFA World Cup Group B
+2026,group,2026-06-25,CUW,CIV,0,2,68324,Glenn Nyberg,Sweden,"Lincoln Financial Field, Philadelphia",2026 FIFA World Cup Group E
+2026,group,2026-06-25,ECU,GER,2,1,80663,Tori Penso,United States,"MetLife Stadium, East Rutherford",2026 FIFA World Cup Group E
+2026,group,2026-06-25,JPN,SWE,1,1,70137,Iván Barton,El Salvador,"AT&T Stadium, Arlington",2026 FIFA World Cup Group F
+2026,group,2026-06-25,PAR,AUS,0,0,68827,Clément Turpin,France,"Levi's Stadium, Santa Clara",2026 FIFA World Cup Group D
+2026,group,2026-06-25,TUN,NED,1,3,68391,Katia Itzel García,Mexico,"Arrowhead Stadium, Kansas City",2026 FIFA World Cup Group F
+2026,group,2026-06-25,TUR,USA,3,2,70492,Mustapha Ghorbal,Algeria,"SoFi Stadium, Inglewood",2026 FIFA World Cup Group D
+2026,group,2026-06-26,CPV,KSA,0,0,68278,François Letexier,France,"NRG Stadium, Houston",2026 FIFA World Cup Group H
+2026,group,2026-06-26,EGY,IRN,1,1,66925,Szymon Marciniak,Poland,"Lumen Field, Seattle",2026 FIFA World Cup Group G
+2026,group,2026-06-26,NOR,FRA,1,4,64146,Michael Oliver,England,"Gillette Stadium, Foxborough",2026 FIFA World Cup Group I
+2026,group,2026-06-26,NZL,BEL,1,5,52497,Adham Makhadmeh,Jordan,"BC Place, Vancouver",2026 FIFA World Cup Group G
+2026,group,2026-06-26,SEN,IRQ,5,0,43036,Anthony Taylor,England,"BMO Field, Toronto",2026 FIFA World Cup Group I
+2026,group,2026-06-26,URU,ESP,0,1,45065,Ismail Elfath,United States,"Estadio Akron, Zapopan",2026 FIFA World Cup Group H
+2026,group,2026-06-27,ALG,AUT,3,3,69045,Ilgiz Tantashev,Uzbekistan,"Arrowhead Stadium, Kansas City",2026 FIFA World Cup Group J
+2026,group,2026-06-27,COD,UZB,3,1,68239,Felix Zwayer,Germany,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup Group K
+2026,group,2026-06-27,COL,POR,0,0,64478,Alireza Faghani,Australia,"Hard Rock Stadium, Miami Gardens",2026 FIFA World Cup Group K
+2026,group,2026-06-27,CRO,GHA,2,1,68324,Drew Fischer,Canada,"Lincoln Financial Field, Philadelphia",2026 FIFA World Cup Group L
+2026,group,2026-06-27,JOR,ARG,1,3,70649,István Kovács,Romania,"AT&T Stadium, Arlington",2026 FIFA World Cup Group J
+2026,group,2026-06-27,PAN,ENG,0,2,80663,Abdulrahman Al-Jassim,Qatar,"MetLife Stadium, East Rutherford",2026 FIFA World Cup Group L
+2026,round-of-32,2026-06-28,RSA,CAN,0,1,69237,João Pinheiro,Portugal,"SoFi Stadium, Inglewood",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-06-29,BRA,JPN,2,1,68777,Maurizio Mariani,Italy,"NRG Stadium, Houston",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-06-29,GER,PAR,1,1,63945,Jalal Jayed,Morocco,"Gillette Stadium, Foxborough",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-06-29,NED,MAR,1,1,51243,Wilton Sampaio,Brazil,"Estadio BBVA, Guadalupe",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-06-30,CIV,NOR,1,2,69665,Jesús Valenzuela,Venezuela,"AT&T Stadium, Arlington",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-06-30,FRA,SWE,3,0,80663,Danny Makkelie,Netherlands,"MetLife Stadium, East Rutherford",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-06-30,MEX,ECU,2,0,80824,Slavko Vinčić,Slovenia,"Estadio Azteca, Mexico City",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-01,BEL,SEN,3,2,66925,Saíd Martínez,Honduras,"Lumen Field, Seattle",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-01,ENG,COD,2,1,68239,Adham Makhadmeh,Jordan,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-01,USA,BIH,2,0,68827,Raphael Claus,Brazil,"Levi's Stadium, Santa Clara",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-02,ESP,AUT,3,0,70492,Glenn Nyberg,Sweden,"SoFi Stadium, Inglewood",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-02,POR,CRO,2,1,43036,Espen Eskås,Norway,"BMO Field, Toronto",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-02,SUI,ALG,2,0,52497,Yael Falcón,Argentina,"BC Place, Vancouver",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-03,ARG,CPV,3,2,64478,Drew Fischer,Canada,"Hard Rock Stadium, Miami Gardens",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-03,AUS,EGY,1,1,70244,Gustavo Tejera,Uruguay,"AT&T Stadium, Arlington",2026 FIFA World Cup round of 32
+2026,round-of-32,2026-07-03,COL,GHA,1,0,69045,Clément Turpin,France,"Arrowhead Stadium, Kansas City",2026 FIFA World Cup round of 32
+2026,round-of-16,2026-07-04,CAN,MAR,0,3,68777,Michael Oliver,England,"NRG Stadium, Houston",2026 FIFA World Cup knockout stage
+2026,round-of-16,2026-07-04,PAR,FRA,0,1,68324,Ilgiz Tantashev,Uzbekistan,"Lincoln Financial Field, Philadelphia",2026 FIFA World Cup knockout stage
+2026,round-of-16,2026-07-05,BRA,NOR,1,2,80663,Ismail Elfath,United States,"MetLife Stadium, East Rutherford",2026 FIFA World Cup knockout stage
+2026,round-of-16,2026-07-05,MEX,ENG,2,3,80824,Alireza Faghani,Australia,"Estadio Azteca, Mexico City",2026 FIFA World Cup knockout stage
+2026,round-of-16,2026-07-06,POR,ESP,0,1,70649,Anthony Taylor,England,"AT&T Stadium, Arlington",2026 FIFA World Cup knockout stage
+2026,round-of-16,2026-07-06,USA,BEL,1,4,66925,Adham Makhadmeh,Jordan,"Lumen Field, Seattle",2026 FIFA World Cup knockout stage
+2026,round-of-16,2026-07-07,ARG,EGY,3,2,68239,François Letexier,France,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup knockout stage
+2026,round-of-16,2026-07-07,SUI,COL,0,0,52497,Iván Barton,El Salvador,"BC Place, Vancouver",2026 FIFA World Cup knockout stage
+2026,quarter-final,2026-07-09,FRA,MAR,2,0,63811,Facundo Tello,Argentina,"Gillette Stadium, Foxborough",2026 FIFA World Cup knockout stage
+2026,quarter-final,2026-07-10,ESP,BEL,2,1,70492,Michael Oliver,England,"SoFi Stadium, Inglewood",2026 FIFA World Cup knockout stage
+2026,quarter-final,2026-07-11,ARG,SUI,3,1,69045,João Pinheiro,Portugal,"Arrowhead Stadium, Kansas City",2026 FIFA World Cup knockout stage
+2026,quarter-final,2026-07-11,NOR,ENG,1,2,64478,Clément Turpin,France,"Hard Rock Stadium, Miami Gardens",2026 FIFA World Cup knockout stage
+2026,semi-final,2026-07-14,FRA,ESP,0,2,70176,Iván Barton,El Salvador,"AT&T Stadium, Arlington",2026 FIFA World Cup knockout stage
+2026,semi-final,2026-07-15,ENG,ARG,1,2,68239,Ismail Elfath,United States,"Mercedes-Benz Stadium, Atlanta",2026 FIFA World Cup knockout stage
+2026,third-place,2026-07-18,FRA,ENG,4,6,64478,Jesús Valenzuela,Venezuela,"Hard Rock Stadium, Miami Gardens",2026 FIFA World Cup knockout stage
+2026,final,2026-07-19,ESP,ARG,1,0,80663,Slavko Vinčić,Slovenia,"MetLife Stadium, East Rutherford",2026 FIFA World Cup final

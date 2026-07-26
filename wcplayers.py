@@ -539,3 +539,67 @@ def nation_edition_scorers(year, nation):
     g = _scoring()
     sub = g[(g["year"] == int(year)) & (g["nation"] == nation)]
     return sub.groupby("player_key").size().to_dict()
+
+
+# ── Match metadata: crowds and referees ───────────────────────────────────────────────────────────
+# build/players.py parsed |attendance= and |referee= out of every match box from the beginning and
+# discarded them; wc_matchmeta.csv now keeps them. One row per match, exactly 1,068 — the same count
+# as the archive, with no per-year mismatch.
+_META = _DATA / "wc_matchmeta.csv"
+
+# A handful of boxes use a non-canonical FIFA code. Only ROM (Romania, one 1990 box) fails to resolve
+# through the squad-derived map; TCH and CSK both appear for Czechoslovakia and both are already known.
+_META_CODE = {"ROM": "ROU"}
+
+
+@lru_cache(maxsize=1)
+def matchmeta():
+    df = pd.read_csv(_META, dtype=str).fillna("")
+    df["year"] = df["year"].astype(int)
+    df["attendance"] = pd.to_numeric(df["attendance"], errors="coerce")
+    for c in ("team1_code", "team2_code"):
+        df[c] = df[c].replace(_META_CODE)
+        df[c + "_name"] = df[c].map(lambda x: nations().get(x, x))
+    return df
+
+
+def crowds(limit=15, biggest=True):
+    """Best- or worst-attended matches. Attendance is as the source records it — the 1950 decider's
+    173,850 is the official figure; contemporary estimates of the crowd run to around 200,000."""
+    m = matchmeta().dropna(subset=["attendance"])
+    return m.sort_values("attendance", ascending=not biggest).head(limit)
+
+
+@lru_cache(maxsize=1)
+def attendance_by_edition():
+    """Per edition: matches, total and average crowd — the clearest measure of the game's growth."""
+    m = matchmeta().dropna(subset=["attendance"])
+    g = m.groupby("year")["attendance"].agg(matches="size", total="sum", mean="mean").reset_index()
+    return g.sort_values("year")
+
+
+@lru_cache(maxsize=1)
+def referees(limit=None):
+    """Officials by matches refereed, with the nation and the biggest match each took."""
+    m = matchmeta()
+    m = m[m["referee"] != ""]
+    rank = {"final": 0, "third-place": 1, "semi-final": 2, "quarter-final": 3,
+            "round-of-16": 4, "round-of-32": 5, "final-round": 1, "group-2": 6, "group": 7}
+    rows = []
+    for name, sub in m.groupby("referee"):
+        best = min(sub["stage"], key=lambda s: rank.get(s, 9))
+        rows.append({"referee": name,
+                     "nation": next((n for n in sub["referee_nation"] if n), ""),
+                     "matches": len(sub), "best": best,
+                     "years": sorted({int(y) for y in sub["year"]})})
+    df = pd.DataFrame(rows).sort_values(["matches", "referee"], ascending=[False, True]).reset_index(drop=True)
+    return df if limit is None else df.head(limit)
+
+
+@lru_cache(maxsize=1)
+def referee_nations(limit=15):
+    m = matchmeta()
+    m = m[m["referee_nation"] != ""]
+    g = m.groupby("referee_nation").agg(matches=("referee", "size"),
+                                       officials=("referee", "nunique")).reset_index()
+    return g.sort_values("matches", ascending=False).head(limit).reset_index(drop=True)

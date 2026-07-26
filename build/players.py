@@ -586,6 +586,41 @@ def _box_score(field):
     return (int(m2.group(1)), int(m2.group(2))) if m2 else (None, None)
 
 
+ATT = re.compile(r"([\d][\d,.\s]*\d|\d)")
+# "[[Laurens van Ravens]] ([[Royal Dutch Football Association|Netherlands]])" -> name + nation. _clean()
+# has already flattened the wikilinks by the time this sees it, so the nation is the LAST parenthetical
+# — last, not first, because a name can itself carry one ("Ali Bin Nasser (referee)").
+REF_NAT = re.compile(r"^(.*?)\s*\(([^()]*)\)\s*$")
+
+
+def _attendance(v):
+    """Crowd as an int. Sources write '26,085', '73 000', 'N/A', or leave it blank; anything without a
+    plausible number becomes empty rather than a guess, and 0 is treated as absent (a few boxes use it
+    for 'behind closed doors' or simply unknown)."""
+    t = _clean(v)
+    m = ATT.search(t)
+    if not m:
+        return ""
+    n = re.sub(r"[^\d]", "", m.group(1))
+    if not n:
+        return ""
+    n = int(n)
+    return "" if n == 0 or n > 300000 else n          # 1950's Maracanã ~200k is the real ceiling
+
+
+def _referee(v):
+    """(name, nation) from the referee field; nation empty when the source names only the official."""
+    t = _clean(v)
+    if not t:
+        return "", ""
+    m = REF_NAT.match(t)
+    if not m:
+        return t, ""
+    name, nat = m.group(1).strip(), m.group(2).strip()
+    # A trailing "(referee)" is a disambiguator, not a country.
+    return (t, "") if nat.lower() in ("referee", "footballer") else (name, nat)
+
+
 def parse_match_page(title, year, wt, origin=None, forced_stage=None):
     """(goal rows, {team name: code}, audit rows) for one group/knockout/final article.
 
@@ -615,7 +650,7 @@ def parse_match_page(title, year, wt, origin=None, forced_stage=None):
                 break
         return hit
 
-    goals, names, audit = [], {}, []
+    goals, names, audit, meta = [], {}, [], []
     for m in FBOX.finditer(wt):
         f = _fields(m.group(1))
         c1, c2 = _code(f.get("team1", "")), _code(f.get("team2", ""))
@@ -643,7 +678,16 @@ def parse_match_page(title, year, wt, origin=None, forced_stage=None):
                     "penalty": pen, "own_goal": og, "source_page": title})
         s1, s2 = _box_score(f.get("score", ""))
         audit.append((year, date, c1, c2, s1, s2, n, stage, title))
-    return goals, names, audit
+        # Attendance and referee were parsed out of every box from the start and thrown away; emitting
+        # them costs nothing extra because the fetch, the box scan and the stage attribution are shared
+        # with the goal rows, which is also why they cannot disagree about which match they describe.
+        ref, ref_nat = _referee(f.get("referee", ""))
+        meta.append({"year": year, "stage": stage, "date": date,
+                     "team1_code": c1, "team2_code": c2, "score1": s1, "score2": s2,
+                     "attendance": _attendance(f.get("attendance", "")),
+                     "referee": ref, "referee_nation": ref_nat,
+                     "stadium": _clean(f.get("stadium", "")), "source_page": title})
+    return goals, names, audit, meta
 
 
 # ──────────────────────────────────────────────────────────────────────────────── squad parsing ──
@@ -755,13 +799,15 @@ def wc2026_goals():
 
 GOAL_FIELDS = ["year", "stage", "date", "player_key", "player_display", "team_code",
                "opponent_code", "minute", "minute_extra", "penalty", "own_goal", "source_page"]
+META_FIELDS = ["year", "stage", "date", "team1_code", "team2_code", "score1", "score2",
+               "attendance", "referee", "referee_nation", "stadium", "source_page"]
 SQUAD_FIELDS = ["year", "team_code", "team_name", "shirt_no", "pos", "player_key",
                 "player_display", "dob", "caps", "club", "club_nat", "captain"]
 
 
 def main():
     pages = discover()
-    goals, squads, failures, audit = [], [], [], []
+    goals, squads, failures, audit, meta = [], [], [], [], []
     names_by_year = defaultdict(dict)
     pages_by_year = defaultdict(list)
 
@@ -777,9 +823,10 @@ def main():
                 if re.search(r"squads?\)?$", origin, re.I):
                     squads += parse_squads_page(title, year, wt)
                 else:
-                    g, nm, au = parse_match_page(title, year, wt, origin, forced)
+                    g, nm, au, mt = parse_match_page(title, year, wt, origin, forced)
                     goals += g
                     audit += au
+                    meta += mt
                     for n, c in nm.items():
                         names_by_year[year].setdefault(n, c)
             except Exception as e:
@@ -839,13 +886,36 @@ def main():
         w = csv.DictWriter(f, fieldnames=SQUAD_FIELDS)
         w.writeheader()
         w.writerows(squads)
+    # One row per MATCH (not per goal), deduped the same way: a match transcluded into a stage article
+    # would otherwise appear twice.
+    seen_m, meta_rows = set(), []
+    for r in meta:
+        # Skip UNCONTESTED fixtures. 1938 has a box for Sweden v Austria that was never played —
+        # Austria was annexed and withdrew, so Sweden advanced on a bye — and it carries no score,
+        # attendance or referee. Keeping it would put 19 "matches" in an 18-match edition.
+        if r["score1"] is None and r["score2"] is None:
+            continue
+        k = (r["year"], r["date"], tuple(sorted((r["team1_code"], r["team2_code"]))))
+        if k in seen_m:
+            continue
+        seen_m.add(k)
+        meta_rows.append(r)
+    meta_rows.sort(key=lambda r: (r["year"], r["date"], r["team1_code"]))
+    with (DATA / "wc_matchmeta.csv").open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=META_FIELDS)
+        w.writeheader()
+        w.writerows(meta_rows)
 
     # ───────────────────────────────────────────────────────────────────── coverage summary ──
     arch = archive_goals()
     arch[2026] = wc2026_goals()
     gy, sy = Counter(g["year"] for g in goals), Counter(r["year"] for r in squads)
     print(f"\nwrote data/wc_goals.csv ({len(goals)} rows, {ndup} duplicate goal rows dropped)")
-    print(f"wrote data/wc_squads.csv ({len(squads)} rows)\n")
+    print(f"wrote data/wc_squads.csv ({len(squads)} rows)")
+    _att = sum(1 for r in meta_rows if r["attendance"] != "")
+    _ref = sum(1 for r in meta_rows if r["referee"])
+    print(f"wrote data/wc_matchmeta.csv ({len(meta_rows)} matches · {_att} with attendance · "
+          f"{_ref} with a referee)\n")
     print("year  pages  goals  archive  delta   squads  teams")
     print("----  -----  -----  -------  -----   ------  -----")
     zero = []
