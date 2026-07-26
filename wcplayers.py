@@ -603,3 +603,81 @@ def referee_nations(limit=15):
     g = m.groupby("referee_nation").agg(matches=("referee", "size"),
                                        officials=("referee", "nunique")).reset_index()
     return g.sort_values("matches", ascending=False).head(limit).reset_index(drop=True)
+
+
+# ── Penalty shootouts ─────────────────────────────────────────────────────────────────────────────
+# Two levels of coverage, and the UI must not blur them:
+#   OUTCOMES — all 39 shootouts, straight from the match archive's pens_home/pens_away.
+#   TAKERS   — 200 individual kicks across 35 of those 39, because the source records the taker list
+#              for most but not all. Anything taker-derived says how many shootouts it covers.
+_SHOOT = _DATA / "wc_shootouts.csv"
+
+
+@lru_cache(maxsize=1)
+def shootout_kicks():
+    df = pd.read_csv(_SHOOT, dtype=str).fillna("")
+    df["player_key"] = df["player_key"].replace(_KEY_ALIAS)
+    df["year"] = df["year"].astype(int)
+    df["order"] = pd.to_numeric(df["order"], errors="coerce")
+    df["scored"] = _bool(df["scored"])
+    df["nation"] = df["team_code"].map(lambda c: nations().get(c, c))
+    return df
+
+
+@lru_cache(maxsize=1)
+def shootouts():
+    """Every shootout with its winner, from the archive → [{year, stage, winner, loser, score}]."""
+    m = wch.matches()
+    s = m[m["pens_home"].notna() & (m["pens_home"] != m["pens_away"])]
+    out = []
+    for r in s.itertuples():
+        home_won = r.pens_home > r.pens_away
+        out.append({"year": int(r.year), "stage": r.stage, "date": str(r.date),
+                    "winner": r.home if home_won else r.away,
+                    "loser": r.away if home_won else r.home,
+                    "score": f"{int(max(r.pens_home, r.pens_away))}–{int(min(r.pens_home, r.pens_away))}",
+                    "drawn": f"{r.home_score}–{r.away_score}"})
+    return sorted(out, key=lambda d: (-d["year"], d["stage"]))
+
+
+def shootout_records(limit=None):
+    """Per nation: shootouts won and lost (historical sides folded, as everywhere else)."""
+    tally = {}
+    for s in shootouts():
+        for team, key in ((s["winner"], "won"), (s["loser"], "lost")):
+            t = tally.setdefault(wch.fold(team), {"nation": wch.fold(team), "won": 0, "lost": 0})
+            t[key] += 1
+    rows = pd.DataFrame(tally.values())
+    rows["played"] = rows["won"] + rows["lost"]
+    rows = rows.sort_values(["won", "played"], ascending=[False, False]).reset_index(drop=True)
+    return rows if limit is None else rows.head(limit)
+
+
+def nation_shootouts(nation):
+    """One nation's shootout record and the individual shootouts it was in."""
+    mine = [s for s in shootouts()
+            if wch.fold(s["winner"]) == nation or wch.fold(s["loser"]) == nation]
+    won = sum(1 for s in mine if wch.fold(s["winner"]) == nation)
+    return {"played": len(mine), "won": won, "lost": len(mine) - won, "list": mine}
+
+
+def shootout_takers(limit=12):
+    """Players by penalties taken in a shootout — only where the source lists the takers."""
+    k = shootout_kicks()
+    if k.empty:
+        return pd.DataFrame(columns=["player", "taken", "scored", "missed"])
+    rows = k.groupby("player_key").agg(taken=("scored", "size"), scored=("scored", "sum")).reset_index()
+    rows["missed"] = rows["taken"] - rows["scored"]
+    rows["player"] = rows["player_key"].map(_display())
+    nat = k.groupby("player_key")["nation"].first()
+    rows["nation"] = rows["player_key"].map(nat)
+    return rows.sort_values(["taken", "scored"], ascending=False).head(limit).reset_index(drop=True)
+
+
+def shootout_coverage():
+    """(shootouts with a taker list, total shootouts, kicks, conversion rate)."""
+    k = shootout_kicks()
+    with_takers = len({(int(r.year), r.date) for r in k.itertuples()})
+    return {"with_takers": with_takers, "total": len(shootouts()), "kicks": len(k),
+            "scored": int(k["scored"].sum()),
+            "rate": float(k["scored"].mean()) if len(k) else 0.0}

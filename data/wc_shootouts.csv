@@ -1,0 +1,201 @@
+year,date,team_code,opponent_code,order,player_key,player_display,scored
+1982,1982-07-08,FRG,FRA,1,Manfred Kaltz,Kaltz,1
+1982,1982-07-08,FRG,FRA,2,Paul Breitner,Breitner,1
+1982,1982-07-08,FRG,FRA,3,Uli Stielike,Stielike,0
+1982,1982-07-08,FRG,FRA,4,Pierre Littbarski,Littbarski,1
+1982,1982-07-08,FRG,FRA,5,Karl-Heinz Rummenigge,Rummenigge,1
+1982,1982-07-08,FRG,FRA,6,Horst Hrubesch,Hrubesch,1
+1986,1986-06-21,BRA,FRA,1,Sócrates,Sócrates,0
+1986,1986-06-21,BRA,FRA,2,"Alemão (footballer, born 1961)",Alemão,1
+1986,1986-06-21,BRA,FRA,3,Zico (footballer),Zico,1
+1986,1986-06-21,BRA,FRA,4,Cláudio Ibrahim Vaz Leal,Branco,1
+1986,1986-06-21,BRA,FRA,5,Júlio César da Silva,Júlio César,0
+1986,1986-06-21,FRG,MEX,1,Klaus Allofs,Allofs,1
+1986,1986-06-21,FRG,MEX,2,Andreas Brehme,Brehme,1
+1986,1986-06-21,FRG,MEX,3,Lothar Matthäus,Matthäus,1
+1986,1986-06-21,FRG,MEX,4,Pierre Littbarski,Littbarski,1
+1986,1986-06-22,ESP,BEL,1,Juan Antonio Señor,Señor,1
+1986,1986-06-22,ESP,BEL,2,Eloy (footballer),Eloy,0
+1986,1986-06-22,ESP,BEL,3,Chendo,Chendo,1
+1986,1986-06-22,ESP,BEL,4,Emilio Butragueño,Butragueño,1
+1986,1986-06-22,ESP,BEL,5,"Víctor Muñoz (footballer, born 1957)",Víctor,1
+1990,1990-06-25,IRL,ROM,1,Kevin Sheedy (Irish footballer),Sheedy,1
+1990,1990-06-25,IRL,ROM,2,Ray Houghton,Houghton,1
+1990,1990-06-25,IRL,ROM,3,Andy Townsend,Townsend,1
+1990,1990-06-25,IRL,ROM,4,Tony Cascarino,Cascarino,1
+1990,1990-06-25,IRL,ROM,5,David O'Leary,O'Leary,1
+1990,1990-06-30,ARG,YUG,1,José Serrizuela,Serrizuela,1
+1990,1990-06-30,ARG,YUG,2,Jorge Burruchaga,Burruchaga,1
+1990,1990-06-30,ARG,YUG,3,Diego Maradona,Maradona,0
+1990,1990-06-30,ARG,YUG,4,Pedro Troglio,Troglio,0
+1990,1990-06-30,ARG,YUG,5,Gustavo Dezotti,Dezotti,1
+1990,1990-07-03,ARG,ITA,1,José Serrizuela,Serrizuela,1
+1990,1990-07-03,ARG,ITA,2,Jorge Burruchaga,Burruchaga,1
+1990,1990-07-03,ARG,ITA,3,Julio Olarticoechea,Olarticoechea,1
+1990,1990-07-03,ARG,ITA,4,Diego Maradona,Maradona,1
+1990,1990-07-07,FRG,ENG,1,Andreas Brehme,Brehme,1
+1990,1990-07-07,FRG,ENG,2,Lothar Matthäus,Matthäus,1
+1990,1990-07-07,FRG,ENG,3,Karl-Heinz Riedle,Riedle,1
+1990,1990-07-07,FRG,ENG,4,Olaf Thon,Thon,1
+1994,1994-07-05,MEX,BUL,1,Alberto García Aspe,García Aspe,0
+1994,1994-07-05,MEX,BUL,2,Marcelino Bernal,Bernal,0
+1994,1994-07-05,MEX,BUL,3,"Jorge Rodríguez (footballer, born 1968)",Rodríguez,0
+1994,1994-07-05,MEX,BUL,4,Claudio Suárez,Suárez,1
+1994,1994-07-10,ROU,SWE,1,Florin Răducioiu,Răducioiu,1
+1994,1994-07-10,ROU,SWE,2,Gheorghe Hagi,Hagi,1
+1994,1994-07-10,ROU,SWE,3,Ioan Lupescu,Lupescu,1
+1994,1994-07-10,ROU,SWE,4,Dan Petrescu,Petrescu,0
+1994,1994-07-10,ROU,SWE,5,Ilie Dumitrescu,Dumitrescu,1
+1994,1994-07-10,ROU,SWE,6,Miodrag Belodedici,Belodedici,0
+1994,1994-07-17,BRA,ITA,1,Márcio Santos,Márcio Santos,0
+1994,1994-07-17,BRA,ITA,2,Romário,Romário,1
+1994,1994-07-17,BRA,ITA,3,Branco (footballer),Branco,1
+1994,1994-07-17,BRA,ITA,4,Dunga,Dunga,1
+1998,1998-06-30,ARG,ENG,1,Sergio Berti,Berti,1
+1998,1998-06-30,ARG,ENG,2,Hernán Crespo,Crespo,0
+1998,1998-06-30,ARG,ENG,3,Juan Sebastián Verón,Verón,1
+1998,1998-06-30,ARG,ENG,4,Marcelo Gallardo,Gallardo,1
+1998,1998-06-30,ARG,ENG,5,Roberto Ayala,Ayala,1
+1998,1998-07-03,ITA,FRA,1,Roberto Baggio,R. Baggio,1
+1998,1998-07-03,ITA,FRA,2,Demetrio Albertini,Albertini,0
+1998,1998-07-03,ITA,FRA,3,Alessandro Costacurta,Costacurta,1
+1998,1998-07-03,ITA,FRA,4,Christian Vieri,Vieri,1
+1998,1998-07-03,ITA,FRA,5,Luigi Di Biagio,Di Biagio,0
+1998,1998-07-07,BRA,NED,1,Ronaldo (Brazilian footballer),Ronaldo,1
+1998,1998-07-07,BRA,NED,2,Rivaldo,Rivaldo,1
+1998,1998-07-07,BRA,NED,3,"Emerson (footballer, born 1976)",Emerson,1
+1998,1998-07-07,BRA,NED,4,Dunga,Dunga,1
+2002,2002-06-16,ESP,IRL,1,Fernando Hierro,Hierro,1
+2002,2002-06-16,ESP,IRL,2,Rubén Baraja,Baraja,1
+2002,2002-06-16,ESP,IRL,3,"Juanfran (footballer, born 1976)",Juanfran,0
+2002,2002-06-16,ESP,IRL,4,Juan Carlos Valerón,Valerón,0
+2002,2002-06-16,ESP,IRL,5,Gaizka Mendieta,Mendieta,1
+2002,2002-06-22,ESP,KOR,1,Fernando Hierro,Hierro,1
+2002,2002-06-22,ESP,KOR,2,Rubén Baraja,Baraja,1
+2002,2002-06-22,ESP,KOR,3,"Xavi (footballer, born 1980)",Xavi,1
+2002,2002-06-22,ESP,KOR,4,"Joaquín (footballer, born 1981)",Joaquín,0
+2006,2006-06-26,SUI,UKR,1,Marco Streller,Streller,0
+2006,2006-06-26,SUI,UKR,2,Tranquillo Barnetta,Barnetta,0
+2006,2006-06-26,SUI,UKR,3,Ricardo Cabanas,Cabanas,0
+2006,2006-06-30,GER,ARG,1,Oliver Neuville,Neuville,1
+2006,2006-06-30,GER,ARG,2,Michael Ballack,Ballack,1
+2006,2006-06-30,GER,ARG,3,Lukas Podolski,Podolski,1
+2006,2006-06-30,GER,ARG,4,Tim Borowski,Borowski,1
+2006,2006-07-01,ENG,POR,1,Frank Lampard,Lampard,0
+2006,2006-07-01,ENG,POR,2,Owen Hargreaves,Hargreaves,1
+2006,2006-07-01,ENG,POR,3,Steven Gerrard,Gerrard,0
+2006,2006-07-01,ENG,POR,4,Jamie Carragher,Carragher,0
+2006,2006-07-09,ITA,FRA,1,Andrea Pirlo,Pirlo,1
+2006,2006-07-09,ITA,FRA,2,Marco Materazzi,Materazzi,1
+2006,2006-07-09,ITA,FRA,3,Daniele De Rossi,De Rossi,1
+2006,2006-07-09,ITA,FRA,4,Alessandro Del Piero,Del Piero,1
+2006,2006-07-09,ITA,FRA,5,Fabio Grosso,Grosso,1
+2010,2010-06-29,PAR,JPN,1,Édgar Barreto,Barreto,1
+2010,2010-06-29,PAR,JPN,2,Lucas Barrios,Barrios,1
+2010,2010-06-29,PAR,JPN,3,Cristian Riveros,Riveros,1
+2010,2010-06-29,PAR,JPN,4,Nelson Valdez,Valdez,1
+2010,2010-06-29,PAR,JPN,5,Óscar Cardozo,Cardozo,1
+2010,2010-07-02,URU,GHA,1,Diego Forlán,Forlán,1
+2010,2010-07-02,URU,GHA,2,Mauricio Victorino,Victorino,1
+2010,2010-07-02,URU,GHA,3,Andrés Scotti,Scotti,1
+2010,2010-07-02,URU,GHA,4,Maxi Pereira,M. Pereira,0
+2010,2010-07-02,URU,GHA,5,Sebastián Abreu,Abreu,1
+2014,2014-06-28,BRA,CHI,1,David Luiz,David Luiz,1
+2014,2014-06-28,BRA,CHI,2,"Willian (footballer, born 1988)",Willian,0
+2014,2014-06-28,BRA,CHI,3,"Marcelo (footballer, born 1988)",Marcelo,1
+2014,2014-06-28,BRA,CHI,4,Hulk (footballer),Hulk,0
+2014,2014-06-28,BRA,CHI,5,Neymar,Neymar,1
+2014,2014-06-29,CRC,GRE,1,Celso Borges,Borges,1
+2014,2014-06-29,CRC,GRE,2,Bryan Ruiz,Ruiz,1
+2014,2014-06-29,CRC,GRE,3,Giancarlo González,González,1
+2014,2014-06-29,CRC,GRE,4,Joel Campbell,Campbell,1
+2014,2014-06-29,CRC,GRE,5,Michael Umaña,Umaña,1
+2014,2014-07-05,NED,CRC,1,Robin van Persie,Van Persie,1
+2014,2014-07-05,NED,CRC,2,Arjen Robben,Robben,1
+2014,2014-07-05,NED,CRC,3,Wesley Sneijder,Sneijder,1
+2014,2014-07-05,NED,CRC,4,Dirk Kuyt,Kuyt,1
+2014,2014-07-09,NED,ARG,1,Ron Vlaar,Vlaar,0
+2014,2014-07-09,NED,ARG,2,Arjen Robben,Robben,1
+2014,2014-07-09,NED,ARG,3,Wesley Sneijder,Sneijder,0
+2014,2014-07-09,NED,ARG,4,Dirk Kuyt,Kuyt,1
+2018,2018-07-01,CRO,DEN,1,Milan Badelj,Badelj,0
+2018,2018-07-01,CRO,DEN,2,Andrej Kramarić,Kramarić,1
+2018,2018-07-01,CRO,DEN,3,Luka Modrić,Modrić,1
+2018,2018-07-01,CRO,DEN,4,Josip Pivarić,Pivarić,0
+2018,2018-07-01,CRO,DEN,5,Ivan Rakitić,Rakitić,1
+2018,2018-07-01,ESP,RUS,1,Andrés Iniesta,Iniesta,1
+2018,2018-07-01,ESP,RUS,2,Gerard Piqué,Piqué,1
+2018,2018-07-01,ESP,RUS,3,"Koke (footballer, born 1992)",Koke,0
+2018,2018-07-01,ESP,RUS,4,Sergio Ramos,Ramos,1
+2018,2018-07-01,ESP,RUS,5,Iago Aspas,Aspas,0
+2018,2018-07-03,COL,ENG,1,Radamel Falcao,Falcao,1
+2018,2018-07-03,COL,ENG,2,Juan Cuadrado,Ju. Cuadrado,1
+2018,2018-07-03,COL,ENG,3,Luis Muriel,Muriel,1
+2018,2018-07-03,COL,ENG,4,Mateus Uribe,Uribe,0
+2018,2018-07-03,COL,ENG,5,Carlos Bacca,Bacca,0
+2018,2018-07-07,RUS,CRO,1,Fyodor Smolov,Smolov,0
+2018,2018-07-07,RUS,CRO,2,Alan Dzagoev,Dzagoev,1
+2018,2018-07-07,RUS,CRO,3,Mário Fernandes (footballer),Fernandes,0
+2018,2018-07-07,RUS,CRO,4,Sergei Ignashevich,Ignashevich,1
+2018,2018-07-07,RUS,CRO,5,Daler Kuzyayev,Kuzyayev,1
+2022,2022-12-05,JPN,CRO,1,Takumi Minamino,Minamino,0
+2022,2022-12-05,JPN,CRO,2,Kaoru Mitoma,Mitoma,0
+2022,2022-12-05,JPN,CRO,3,Takuma Asano,Asano,1
+2022,2022-12-05,JPN,CRO,4,Maya Yoshida,Yoshida,0
+2022,2022-12-06,MAR,ESP,1,Abdelhamid Sabiri,Sabiri,1
+2022,2022-12-06,MAR,ESP,2,Hakim Ziyech,Ziyech,1
+2022,2022-12-06,MAR,ESP,3,Badr Benoun,Benoun,0
+2022,2022-12-06,MAR,ESP,4,Achraf Hakimi,Hakimi,1
+2022,2022-12-09,CRO,BRA,1,Nikola Vlašić,Vlašić,1
+2022,2022-12-09,CRO,BRA,2,Lovro Majer,Majer,1
+2022,2022-12-09,CRO,BRA,3,Luka Modrić,Modrić,1
+2022,2022-12-09,CRO,BRA,4,Mislav Oršić,Oršić,1
+2022,2022-12-09,NED,ARG,1,Virgil van Dijk,Van Dijk,0
+2022,2022-12-09,NED,ARG,2,Steven Berghuis,Berghuis,0
+2022,2022-12-09,NED,ARG,3,Teun Koopmeiners,Koopmeiners,1
+2022,2022-12-09,NED,ARG,4,Wout Weghorst,Weghorst,1
+2022,2022-12-09,NED,ARG,5,Luuk de Jong,L. de Jong,1
+2022,2022-12-18,ARG,FRA,1,Lionel Messi,Messi,1
+2022,2022-12-18,ARG,FRA,2,Paulo Dybala,Dybala,1
+2022,2022-12-18,ARG,FRA,3,Leandro Paredes,Paredes,1
+2022,2022-12-18,ARG,FRA,4,Gonzalo Montiel,Montiel,1
+2026,2026-06-29,GER,PAR,1,Kai Havertz,Havertz,0
+2026,2026-06-29,GER,PAR,2,Joshua Kimmich,Kimmich,1
+2026,2026-06-29,GER,PAR,3,Jamal Musiala,Musiala,1
+2026,2026-06-29,GER,PAR,4,Nick Woltemade,Woltemade,0
+2026,2026-06-29,GER,PAR,5,Nadiem Amiri,Amiri,1
+2026,2026-06-29,GER,PAR,6,Jonathan Tah,Tah,0
+2026,2026-06-29,MAR,NED,1,Neil El Aynaoui,El Aynaoui,0
+2026,2026-06-29,MAR,NED,2,Soufiane Rahimi,Rahimi,1
+2026,2026-06-29,MAR,NED,3,Chemsdine Talbi,Talbi,1
+2026,2026-06-29,MAR,NED,4,Achraf Hakimi,Hakimi,0
+2026,2026-06-29,MAR,NED,5,Ismael Saibari,Saibari,1
+2026,2026-06-29,NED,MAR,1,Teun Koopmeiners,Koopmeiners,1
+2026,2026-06-29,NED,MAR,2,Justin Kluivert,Kluivert,0
+2026,2026-06-29,NED,MAR,3,Wout Weghorst,Weghorst,1
+2026,2026-06-29,NED,MAR,4,Quinten Timber,Timber,0
+2026,2026-06-29,NED,MAR,5,Crysencio Summerville,Summerville,0
+2026,2026-06-29,PAR,GER,1,"Maurício (footballer, born 2001)",Maurício,1
+2026,2026-06-29,PAR,GER,2,Gustavo Gómez,G. Gómez,1
+2026,2026-06-29,PAR,GER,3,Matías Galarza (Paraguayan footballer),Galarza,1
+2026,2026-06-29,PAR,GER,4,Antonio Sanabria,Sanabria,0
+2026,2026-06-29,PAR,GER,5,Fabián Balbuena,Balbuena,0
+2026,2026-06-29,PAR,GER,6,José Canale,Canale,1
+2026,2026-07-03,AUS,EGY,1,Harry Souttar,Souttar,0
+2026,2026-07-03,AUS,EGY,2,Jackson Irvine,Irvine,1
+2026,2026-07-03,AUS,EGY,3,Awer Mabil,Mabil,1
+2026,2026-07-03,AUS,EGY,4,Lucas Herrington,Herrington,0
+2026,2026-07-03,EGY,AUS,1,Mahmoud Saber,Saber,1
+2026,2026-07-03,EGY,AUS,2,Ramy Rabia,Rabia,1
+2026,2026-07-03,EGY,AUS,3,Mohamed Salah,Salah,1
+2026,2026-07-03,EGY,AUS,4,Hossam Abdelmaguid,Abdelmaguid,1
+2026,2026-07-07,COL,SUI,1,Juan Fernando Quintero,Quintero,1
+2026,2026-07-07,COL,SUI,2,Davinson Sánchez,Sánchez,0
+2026,2026-07-07,COL,SUI,3,Jaminton Campaz,Campaz,1
+2026,2026-07-07,COL,SUI,4,Cucho Hernández,Hernández,0
+2026,2026-07-07,COL,SUI,5,"Luis Díaz (footballer, born 1997)",Díaz,1
+2026,2026-07-07,SUI,COL,1,Granit Xhaka,Xhaka,1
+2026,2026-07-07,SUI,COL,2,Zeki Amdouni,Amdouni,1
+2026,2026-07-07,SUI,COL,3,Manuel Akanji,Akanji,0
+2026,2026-07-07,SUI,COL,4,Cedric Itten,Itten,1
+2026,2026-07-07,SUI,COL,5,Rubén Vargas,Vargas,1

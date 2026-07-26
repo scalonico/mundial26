@@ -1,0 +1,13 @@
+# Test and browser-check dependencies. Runtime deps are in requirements.txt.
+#
+# IMPORTANT: create this venv OUTSIDE the Dropbox-synced project folder. With site-packages inside
+# it, macOS routes every read through Dropbox's File Provider and a cold `import streamlit` takes
+# 8-15 MINUTES (measured); Dropbox also re-evicts idle files, so the stall recurs every session.
+# Outside the sync root a cold import is ~10s and a warm one ~0.6s:
+#
+#   python3 -m venv ~/.venvs/mundial26
+#   ~/.venvs/mundial26/bin/pip install -r requirements.txt -r requirements-dev.txt
+#   ~/.venvs/mundial26/bin/playwright install chromium
+#   ~/.venvs/mundial26/bin/pytest tests -q
+pytest>=8.0
+playwright>=1.40

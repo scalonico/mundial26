@@ -1327,6 +1327,50 @@ with t_players:
         st.caption(f"Only **{_r['player']}** has won the Golden Ball more than once "
                    f"({', '.join(str(y) for y in _r['years'])}).")
 
+    ui.section("🎯 Penalty shootouts", "39 shootouts since 1982 — who wins them, and who takes them")
+    _shc = wpl.shootout_coverage()
+    _s1, _s2 = st.columns([1, 1], gap="medium")
+    with _s1:
+        st.markdown("**By nation**")
+        _r = ""
+        for _i, _x in enumerate(wpl.shootout_records(10).itertuples(), 1):
+            _perfect = " 💯" if _x.lost == 0 and _x.won > 1 else ""
+            _r += (f"<div class='pl-row{' gold' if _i == 1 else ''}'><span class='rk'>{_i}</span>"
+                   f"<img src='{wch.flag_url(_x.nation)}'>"
+                   f"<span class='nm'>{_x.nation}{_perfect}</span>"
+                   f"<span class='ed'>{_x.won}W {_x.lost}L</span>"
+                   f"<span class='gl'>{_x.played}</span></div>")
+        st.markdown(_r, unsafe_allow_html=True)
+        st.caption("Outcomes cover **all 39** shootouts, taken from the match archive.")
+    with _s2:
+        # Nobody has taken more than two shootout kicks, so "most taken" would imply a
+        # ranking that does not exist. Name what the list actually is.
+        st.markdown("**Players who took kicks in two different shootouts**")
+        _r = ""
+        for _x in wpl.shootout_takers(10).itertuples():
+            _miss = (f"<span style='color:#e0563b'>{_x.missed} missed</span>" if _x.missed
+                     else "<span style='color:#4ec98a'>all scored</span>")
+            _r += (f"<div class='pl-row'><span class='nm'>{_x.player}</span>"
+                   f"<span class='nt'>{_x.nation}</span><span class='ed'>{_miss}</span>"
+                   f"<span class='gl'>{_x.taken}</span></div>")
+        st.markdown(_r, unsafe_allow_html=True)
+        st.caption(f"No one has taken kicks in more than two. Individual kicks are recorded for "
+                   f"**{_shc['with_takers']} of {_shc['total']}** shootouts — {_shc['kicks']} kicks, "
+                   f"**{_shc['rate']:.0%}** converted; the other "
+                   f"{_shc['total'] - _shc['with_takers']} have an outcome but no taker list.")
+    with st.expander(f"🎯 All {_shc['total']} shootouts"):
+        _r = ""
+        for _x in wpl.shootouts():
+            _r += (f"<div class='wch-mt'><span class='y'>{_x['year']}</span>"
+                   f"<div class='tm r'><span>{_x['winner']}</span>"
+                   f"<img src='{wch.flag_url(_x['winner'])}'></div>"
+                   f"<span class='sc'>{_x['score']}</span>"
+                   f"<div class='tm'><img src='{wch.flag_url(_x['loser'])}'>"
+                   f"<span>{_x['loser']}</span></div>"
+                   f"<span class='st'>{_STAGE.get(_x['stage'], _x['stage'])} · drew {_x['drawn']}</span>"
+                   f"</div>")
+        st.markdown(_r, unsafe_allow_html=True)
+
     ui.section("📊 Records", "computed from the archive, not hardcoded")
     _y, _o = _prec["youngest_scorer"], _prec["oldest_scorer"]
     _ys, _os = _prec["youngest_squad"], _prec["oldest_squad"]
@@ -1431,6 +1475,14 @@ with t_nations:
         ("Drawn / Lost", f"{_s['D']} / {_s['L']}", "shootouts count as draws"),
         ("*Goals", f"{_s['GF']}:{_s['GA']}", f"{_s['GF'] - _s['GA']:+d} difference"),
     ])
+
+    _sh = wpl.nation_shootouts(_nsel)
+    if _sh["played"]:
+        _verdict = ("a perfect record" if _sh["lost"] == 0 else
+                    "never won one" if _sh["won"] == 0 else
+                    f"{_sh['won']} of {_sh['played']}")
+        st.markdown(f"🎯 **Penalty shootouts:** won **{_sh['won']}**, lost **{_sh['lost']}** "
+                    f"&nbsp;·&nbsp; {_verdict}")
 
     _c1, _c2 = st.columns([1.15, 1], gap="medium")
     with _c1:

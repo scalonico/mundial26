@@ -621,6 +621,26 @@ def _referee(v):
     return (t, "") if nat.lower() in ("referee", "footballer") else (name, nat)
 
 
+# Shootout takers. 1986 writes the outcome as a template ({{pengoal}}/{{penmiss}}), 2026 as bare words
+# — same field, same order, so accept both. The ORDER of the bullets is the order the kicks were taken,
+# which is the only place that sequence is recorded.
+PEN_TAKER = re.compile(r"^\*\s*(.+?)\s*(?:\{\{\s*)?(pengoal|penmiss)(?:\s*\}\})?\s*$",
+                       re.I | re.M)
+
+
+def parse_shootout_field(field, team, opponent, year, date):
+    """[(order, player_key, display, scored)] for one side's penalty list."""
+    out = []
+    for n, m in enumerate(PEN_TAKER.finditer(field or ""), 1):
+        key, disp = _player(m.group(1))
+        if not key:
+            continue
+        out.append({"year": year, "date": date, "team_code": team, "opponent_code": opponent,
+                    "order": n, "player_key": key, "player_display": disp,
+                    "scored": 1 if m.group(2).lower() == "pengoal" else 0})
+    return out
+
+
 def parse_match_page(title, year, wt, origin=None, forced_stage=None):
     """(goal rows, {team name: code}, audit rows) for one group/knockout/final article.
 
@@ -650,7 +670,7 @@ def parse_match_page(title, year, wt, origin=None, forced_stage=None):
                 break
         return hit
 
-    goals, names, audit, meta = [], {}, [], []
+    goals, names, audit, meta, pens = [], {}, [], [], []
     for m in FBOX.finditer(wt):
         f = _fields(m.group(1))
         c1, c2 = _code(f.get("team1", "")), _code(f.get("team2", ""))
@@ -682,12 +702,14 @@ def parse_match_page(title, year, wt, origin=None, forced_stage=None):
         # them costs nothing extra because the fetch, the box scan and the stage attribution are shared
         # with the goal rows, which is also why they cannot disagree about which match they describe.
         ref, ref_nat = _referee(f.get("referee", ""))
+        for _pf, _t, _o in (("penalties1", c1, c2), ("penalties2", c2, c1)):
+            pens += parse_shootout_field(f.get(_pf, ""), _t, _o, year, date)
         meta.append({"year": year, "stage": stage, "date": date,
                      "team1_code": c1, "team2_code": c2, "score1": s1, "score2": s2,
                      "attendance": _attendance(f.get("attendance", "")),
                      "referee": ref, "referee_nation": ref_nat,
                      "stadium": _clean(f.get("stadium", "")), "source_page": title})
-    return goals, names, audit, meta
+    return goals, names, audit, meta, pens
 
 
 # ──────────────────────────────────────────────────────────────────────────────── squad parsing ──
@@ -799,6 +821,8 @@ def wc2026_goals():
 
 GOAL_FIELDS = ["year", "stage", "date", "player_key", "player_display", "team_code",
                "opponent_code", "minute", "minute_extra", "penalty", "own_goal", "source_page"]
+PEN_FIELDS = ["year", "date", "team_code", "opponent_code", "order", "player_key",
+              "player_display", "scored"]
 META_FIELDS = ["year", "stage", "date", "team1_code", "team2_code", "score1", "score2",
                "attendance", "referee", "referee_nation", "stadium", "source_page"]
 SQUAD_FIELDS = ["year", "team_code", "team_name", "shirt_no", "pos", "player_key",
@@ -807,7 +831,7 @@ SQUAD_FIELDS = ["year", "team_code", "team_name", "shirt_no", "pos", "player_key
 
 def main():
     pages = discover()
-    goals, squads, failures, audit, meta = [], [], [], [], []
+    goals, squads, failures, audit, meta, pens = [], [], [], [], [], []
     names_by_year = defaultdict(dict)
     pages_by_year = defaultdict(list)
 
@@ -823,10 +847,11 @@ def main():
                 if re.search(r"squads?\)?$", origin, re.I):
                     squads += parse_squads_page(title, year, wt)
                 else:
-                    g, nm, au, mt = parse_match_page(title, year, wt, origin, forced)
+                    g, nm, au, mt, pn = parse_match_page(title, year, wt, origin, forced)
                     goals += g
                     audit += au
                     meta += mt
+                    pens += pn
                     for n, c in nm.items():
                         names_by_year[year].setdefault(n, c)
             except Exception as e:
@@ -905,6 +930,18 @@ def main():
         w = csv.DictWriter(f, fieldnames=META_FIELDS)
         w.writeheader()
         w.writerows(meta_rows)
+    seen_p, pen_rows = set(), []
+    for r in pens:
+        k = (r["year"], r["date"], r["team_code"], r["order"], r["player_key"])
+        if k in seen_p:
+            continue
+        seen_p.add(k)
+        pen_rows.append(r)
+    pen_rows.sort(key=lambda r: (r["year"], r["date"], r["team_code"], r["order"]))
+    with (DATA / "wc_shootouts.csv").open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=PEN_FIELDS)
+        w.writeheader()
+        w.writerows(pen_rows)
 
     # ───────────────────────────────────────────────────────────────────── coverage summary ──
     arch = archive_goals()
@@ -915,7 +952,10 @@ def main():
     _att = sum(1 for r in meta_rows if r["attendance"] != "")
     _ref = sum(1 for r in meta_rows if r["referee"])
     print(f"wrote data/wc_matchmeta.csv ({len(meta_rows)} matches · {_att} with attendance · "
-          f"{_ref} with a referee)\n")
+          f"{_ref} with a referee)")
+    _sh = len({(r["year"], r["date"]) for r in pen_rows})
+    print(f"wrote data/wc_shootouts.csv ({len(pen_rows)} kicks across {_sh} shootouts — the source "
+          f"records takers for only some of them)\n")
     print("year  pages  goals  archive  delta   squads  teams")
     print("----  -----  -----  -------  -----   ------  -----")
     zero = []
